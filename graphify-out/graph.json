@@ -1,0 +1,390 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "contribution_governance",
+        "label": "Contribution and Community Governance Framework",
+        "nodes": [
+          "code_of_conduct",
+          "contributing_guidelines",
+          "pull_request_workflow",
+          "community_standards"
+        ],
+        "relation": "form",
+        "confidence": "EXTRACTED",
+        "confidence_score": 0.95,
+        "source_file": "CODE_OF_CONDUCT.md"
+      },
+      {
+        "id": "dataset_and_api_ecosystem",
+        "label": "Bhagavad Gita Dataset and API Ecosystem",
+        "nodes": [
+          "bhagavad_gita_dataset",
+          "bhagavad_gita_api",
+          "github_api_source",
+          "featured_authors"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0,
+        "source_file": "README.md"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "format_json.py",
+      "file_type": "code",
+      "source_file": "TOOLS/format_json.py",
+      "source_location": "L1",
+      "id": "format_json",
+      "community": 3
+    },
+    {
+      "label": "format_json.py JSON Formatter",
+      "file_type": "code",
+      "source_file": "TOOLS/format_json.py",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "format_json_script",
+      "community": 0
+    },
+    {
+      "label": "Code of Conduct",
+      "file_type": "document",
+      "source_file": "CODE_OF_CONDUCT.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "code_of_conduct",
+      "community": 2
+    },
+    {
+      "label": "Bhagavad Gita Translations and Commentary Dataset",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "bhagavad_gita_dataset",
+      "community": 0
+    },
+    {
+      "label": "Bhagavad Gita API",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": "https://vedicscriptures.github.io/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "bhagavad_gita_api",
+      "community": 0
+    },
+    {
+      "label": "GitHub API Source Code Repository",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": "https://github.com/vedicscriptures/bhagavad-gita-api",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "github_api_source",
+      "community": 0
+    },
+    {
+      "label": "Featured Translation and Commentary Authors",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "featured_authors",
+      "community": 0
+    },
+    {
+      "label": "Contributing Guidelines",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "contributing_guidelines",
+      "community": 1
+    },
+    {
+      "label": "GitHub Flow Workflow",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "github_flow_workflow",
+      "community": 1
+    },
+    {
+      "label": "MIT Software License",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "mit_license",
+      "community": 1
+    },
+    {
+      "label": "Security Policy and Vulnerability Reporting",
+      "file_type": "document",
+      "source_file": "SECURITY.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "security_policy",
+      "community": 4
+    },
+    {
+      "label": "Graphify Knowledge Graph Integration",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "graphify_knowledge_graph",
+      "community": 0
+    },
+    {
+      "label": "Dev.to Code of Conduct Source",
+      "file_type": "document",
+      "source_file": "CODE_OF_CONDUCT.md",
+      "source_location": null,
+      "source_url": "https://dev.to/code-of-conduct",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "dev_to_conduct_attribution",
+      "community": 2
+    },
+    {
+      "label": "Facebook Draft Contributing Guidelines Reference",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "source_url": "https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "facebook_draft_guidelines",
+      "community": 1
+    },
+    {
+      "label": "Community Standards and Conduct",
+      "file_type": "document",
+      "source_file": "CODE_OF_CONDUCT.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "community_standards",
+      "community": 2
+    },
+    {
+      "label": "Pull Request Contribution Workflow",
+      "file_type": "document",
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "pull_request_workflow",
+      "community": 1
+    }
+  ],
+  "links": [
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "TOOLS/format_json.py",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "format_json_script",
+      "_tgt": "bhagavad_gita_dataset",
+      "source": "format_json_script",
+      "target": "bhagavad_gita_dataset"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CODE_OF_CONDUCT.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "community_standards",
+      "_tgt": "code_of_conduct",
+      "source": "code_of_conduct",
+      "target": "community_standards"
+    },
+    {
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CODE_OF_CONDUCT.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "code_of_conduct",
+      "_tgt": "dev_to_conduct_attribution",
+      "source": "code_of_conduct",
+      "target": "dev_to_conduct_attribution"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "bhagavad_gita_dataset",
+      "_tgt": "bhagavad_gita_api",
+      "source": "bhagavad_gita_dataset",
+      "target": "bhagavad_gita_api"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "bhagavad_gita_dataset",
+      "_tgt": "featured_authors",
+      "source": "bhagavad_gita_dataset",
+      "target": "featured_authors"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "graphify_knowledge_graph",
+      "_tgt": "bhagavad_gita_dataset",
+      "source": "bhagavad_gita_dataset",
+      "target": "graphify_knowledge_graph"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "bhagavad_gita_api",
+      "_tgt": "github_api_source",
+      "source": "bhagavad_gita_api",
+      "target": "github_api_source"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "contributing_guidelines",
+      "_tgt": "github_flow_workflow",
+      "source": "contributing_guidelines",
+      "target": "github_flow_workflow"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "contributing_guidelines",
+      "_tgt": "pull_request_workflow",
+      "source": "contributing_guidelines",
+      "target": "pull_request_workflow"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "contributing_guidelines",
+      "_tgt": "mit_license",
+      "source": "contributing_guidelines",
+      "target": "mit_license"
+    },
+    {
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CONTRIBUTING.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "contributing_guidelines",
+      "_tgt": "facebook_draft_guidelines",
+      "source": "contributing_guidelines",
+      "target": "facebook_draft_guidelines"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "contribution_governance",
+      "label": "Contribution and Community Governance Framework",
+      "nodes": [
+        "code_of_conduct",
+        "contributing_guidelines",
+        "pull_request_workflow",
+        "community_standards"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "id": "dataset_and_api_ecosystem",
+      "label": "Bhagavad Gita Dataset and API Ecosystem",
+      "nodes": [
+        "bhagavad_gita_dataset",
+        "bhagavad_gita_api",
+        "github_api_source",
+        "featured_authors"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md"
+    }
+  ]
+}

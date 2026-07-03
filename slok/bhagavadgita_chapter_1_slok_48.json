@@ -2,97 +2,219 @@
     "_id": "BG1.48",
     "chapter": 1,
     "verse": 48,
-    "speaker": "सञ्जय",
-    "slok": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nअर्जुनविषादयोगो नाम प्रथमोऽध्यायः ||१||",
+    "speaker": {
+        "hi": "सञ्जय",
+        "be": "সঞ্জয",
+        "en": "Sanjaya",
+        "ka": "ಸಞ್ಜಯ"
+    },
+    "slok": {
+        "hi": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nअर्जुनविषादयोगो नाम प्रथमोऽध्यायः ||१||",
+        "be": "ওঁ তত্সদিতি শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু\nব্রহ্মবিদ্যাযাং যোগশাস্ত্রে শ্রীকৃষ্ণার্জুনসংবাদে\nঅর্জুনবিষাদযোগো নাম প্রথমোঽধ্যাযঃ ||১||",
+        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ||1-48||",
+        "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಅರ್ಜುನವಿಷಾದಯೋಗೋ ನಾಮ ಪ್ರಥಮೋಽಧ್ಯಾಯಃ ||೧||"
+    },
     "transliteration": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ||1-48||",
     "tej": {
         "author": "Swami Tejomayananda",
-        "ht": "Swami Tejomayananda did not comment on this sloka"
+        "commentary": {
+            "hi": "Swami Tejomayananda did not comment on this sloka",
+            "en": "",
+            "be": "",
+            "ka": ""
+        }
     },
     "siva": {
         "author": "Swami Sivananda",
-        "et": "Swami Sivananda did not comment on this sloka",
-        "ec": "Swami Sivananda did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Swami Sivananda did not comment on this sloka\n\nSwami Sivananda did not comment on this sloka",
+            "be": "",
+            "ka": ""
+        }
     },
     "purohit": {
         "author": "Shri Purohit Swami",
-        "et": "Shri Purohit Swami did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Shri Purohit Swami did not comment on this sloka",
+            "be": "",
+            "ka": ""
+        }
     },
     "chinmay": {
         "author": "Swami Chinmayananda",
-        "hc": "Swami Chinmayananda did not comment on this sloka"
+        "commentary": {
+            "hi": "Swami Chinmayananda did not comment on this sloka",
+            "en": "",
+            "be": "",
+            "ka": ""
+        }
     },
     "san": {
         "author": "Dr.S.Sankaranarayan",
-        "et": "Dr.S.Sankaranarayan did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Dr.S.Sankaranarayan did not comment on this sloka",
+            "be": "",
+            "ka": ""
+        }
     },
     "adi": {
         "author": "Swami Adidevananda",
-        "et": "Swami Adidevananda did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Swami Adidevananda did not comment on this sloka",
+            "be": "",
+            "ka": ""
+        }
     },
     "gambir": {
         "author": "Swami Gambirananda",
-        "et": "Swami Gambirananda did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Swami Gambirananda did not comment on this sloka",
+            "be": "",
+            "ka": ""
+        }
     },
     "madhav": {
         "author": "Sri Madhavacharya",
-        "sc": "Sri Madhavacharya did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Madhavacharya did not comment on this sloka"
+        }
     },
     "anand": {
         "author": "Sri Anandgiri",
-        "sc": "Sri Anandgiri did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Anandgiri did not comment on this sloka"
+        }
     },
     "rams": {
         "author": "Swami Ramsukhdas",
-        "ht": "Swami Ramsukhdas did not comment on this sloka",
-        "hc": "Swami Ramsukhdas did not comment on this sloka"
+        "commentary": {
+            "hi": "Swami Ramsukhdas did not comment on this sloka\n\nSwami Ramsukhdas did not comment on this sloka",
+            "en": "",
+            "be": "",
+            "ka": ""
+        }
     },
     "raman": {
         "author": "Sri Ramanuja",
-        "sc": "Sri Ramanuja did not comment on this sloka",
-        "et": "Sri Ramanuja did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Sri Ramanuja did not comment on this sloka",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Ramanuja did not comment on this sloka"
+        }
     },
     "abhinav": {
         "author": "Sri Abhinav Gupta",
-        "sc": "Sri Abhinavgupta did not comment on this sloka",
-        "et": "Sri Abhinavgupta did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "Sri Abhinavgupta did not comment on this sloka",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Abhinavgupta did not comment on this sloka"
+        }
     },
     "sankar": {
         "author": "Sri Shankaracharya",
-        "ht": "Sri Shankaracharya did not comment on this sloka",
-        "sc": "Sri Shankaracharya did not comment on this sloka",
-        "et": "Sri Shankaracharya did not comment on this sloka"
+        "commentary": {
+            "hi": "Sri Shankaracharya did not comment on this sloka",
+            "en": "Sri Shankaracharya did not comment on this sloka",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Shankaracharya did not comment on this sloka"
+        }
     },
     "jaya": {
         "author": "Sri Jayatritha",
-        "sc": "Sri Jayatritha did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Jayatritha did not comment on this sloka"
+        }
     },
     "vallabh": {
         "author": "Sri Vallabhacharya",
-        "sc": "Sri Vallabhacharya did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Vallabhacharya did not comment on this sloka"
+        }
     },
     "ms": {
         "author": "Sri Madhusudan Saraswati",
-        "sc": "Sri Madhusudan Saraswati did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Madhusudan Saraswati did not comment on this sloka"
+        }
     },
     "srid": {
         "author": "Sri Sridhara Swami",
-        "sc": "Sri Sridhara Swami did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Sridhara Swami did not comment on this sloka"
+        }
     },
     "dhan": {
         "author": "Sri Dhanpati",
-        "sc": "Sri Dhanpati did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Dhanpati did not comment on this sloka"
+        }
     },
     "venkat": {
         "author": "Vedantadeshikacharya Venkatanatha",
-        "sc": "Vedantadeshikacharya Venkatanatha did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Vedantadeshikacharya Venkatanatha did not comment on this sloka"
+        }
     },
     "puru": {
         "author": "Sri Purushottamji",
-        "sc": "Sri Purushottamji did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Purushottamji did not comment on this sloka"
+        }
     },
     "neel": {
         "author": "Sri Neelkanth",
-        "sc": "Sri Neelkanth did not comment on this sloka"
+        "commentary": {
+            "hi": "",
+            "en": "",
+            "be": "",
+            "ka": "",
+            "sa": "Sri Neelkanth did not comment on this sloka"
+        }
     }
 }

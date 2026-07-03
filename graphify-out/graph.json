@@ -9,7 +9,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L1",
       "id": "build_db",
-      "community": 0
+      "community": 1
     },
     {
       "label": "die()",
@@ -17,7 +17,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L83",
       "id": "build_db_die",
-      "community": 0
+      "community": 1
     },
     {
       "label": "load_json()",
@@ -25,7 +25,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L88",
       "id": "build_db_load_json",
-      "community": 0
+      "community": 1
     },
     {
       "label": "build_chapters()",
@@ -33,7 +33,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L96",
       "id": "build_db_build_chapters",
-      "community": 0
+      "community": 1
     },
     {
       "label": "build_sloks()",
@@ -41,7 +41,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L124",
       "id": "build_db_build_sloks",
-      "community": 0
+      "community": 1
     },
     {
       "label": "gzip_file()",
@@ -49,7 +49,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L198",
       "id": "build_db_gzip_file",
-      "community": 0
+      "community": 1
     },
     {
       "label": "human()",
@@ -57,7 +57,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L205",
       "id": "build_db_human",
-      "community": 0
+      "community": 1
     },
     {
       "label": "main()",
@@ -65,7 +65,7 @@
       "source_file": "TOOLS/build_db.py",
       "source_location": "L212",
       "id": "build_db_main",
-      "community": 0
+      "community": 1
     },
     {
       "label": "format_json.py",
@@ -73,7 +73,7 @@
       "source_file": "TOOLS/format_json.py",
       "source_location": "L1",
       "id": "format_json",
-      "community": 6
+      "community": 3
     },
     {
       "label": "export_excel.py",
@@ -81,103 +81,119 @@
       "source_file": "TOOLS/export_excel.py",
       "source_location": "L1",
       "id": "export_excel",
-      "community": 2
+      "community": 0
     },
     {
       "label": "clean()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L44",
+      "source_location": "L45",
       "id": "export_excel_clean",
-      "community": 2
+      "community": 0
     },
     {
       "label": "load_base_prompt()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L59",
+      "source_location": "L60",
       "id": "export_excel_load_base_prompt",
-      "community": 1
+      "community": 0
     },
     {
       "label": "die()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L81",
+      "source_location": "L82",
       "id": "export_excel_die",
-      "community": 1
+      "community": 0
     },
     {
       "label": "pick_english_meaning()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L86",
+      "source_location": "L87",
       "id": "export_excel_pick_english_meaning",
-      "community": 4
+      "community": 0
+    },
+    {
+      "label": "output_format_with_names()",
+      "file_type": "code",
+      "source_file": "TOOLS/export_excel.py",
+      "source_location": "L100",
+      "id": "export_excel_output_format_with_names",
+      "community": 2
     },
     {
       "label": "build_chapter_prompt()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L99",
+      "source_location": "L110",
       "id": "export_excel_build_chapter_prompt",
-      "community": 3
+      "community": 2
     },
     {
       "label": "build_prompt()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L129",
+      "source_location": "L141",
       "id": "export_excel_build_prompt",
-      "community": 5
+      "community": 2
     },
     {
       "label": "write_sheet()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L160",
+      "source_location": "L173",
       "id": "export_excel_write_sheet",
-      "community": 2
+      "community": 0
     },
     {
       "label": "main()",
       "file_type": "code",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L172",
+      "source_location": "L185",
       "id": "export_excel_main",
-      "community": 1
+      "community": 0
     },
     {
       "label": "Parse the ```json blocks from the guidelines markdown and merge them     into a",
       "file_type": "rationale",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L60",
-      "id": "export_excel_rationale_60",
-      "community": 1
+      "source_location": "L61",
+      "id": "export_excel_rationale_61",
+      "community": 0
     },
     {
       "label": "Choose the best real English translation from {author_code: text}.",
       "file_type": "rationale",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L87",
-      "id": "export_excel_rationale_87",
-      "community": 4
+      "source_location": "L88",
+      "id": "export_excel_rationale_88",
+      "community": 0
+    },
+    {
+      "label": "Deep-copy the shared output_format and give each image variant its own     file_",
+      "file_type": "rationale",
+      "source_file": "TOOLS/export_excel.py",
+      "source_location": "L101",
+      "id": "export_excel_rationale_101",
+      "community": 2
     },
     {
       "label": "Assemble a chapter cover-image prompt JSON (as a string).",
       "file_type": "rationale",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L100",
-      "id": "export_excel_rationale_100",
-      "community": 3
+      "source_location": "L111",
+      "id": "export_excel_rationale_111",
+      "community": 2
     },
     {
       "label": "Assemble the full per-verse image-generation prompt JSON (as a string).",
       "file_type": "rationale",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L130",
-      "id": "export_excel_rationale_130",
-      "community": 5
+      "source_location": "L142",
+      "id": "export_excel_rationale_142",
+      "community": 2
     }
   ],
   "links": [
@@ -377,7 +393,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L44",
+      "source_location": "L45",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_clean",
@@ -389,7 +405,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L59",
+      "source_location": "L60",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_load_base_prompt",
@@ -401,7 +417,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L81",
+      "source_location": "L82",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_die",
@@ -413,7 +429,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L86",
+      "source_location": "L87",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_pick_english_meaning",
@@ -425,7 +441,19 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L99",
+      "source_location": "L100",
+      "weight": 1.0,
+      "_src": "export_excel",
+      "_tgt": "export_excel_output_format_with_names",
+      "source": "export_excel",
+      "target": "export_excel_output_format_with_names",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TOOLS/export_excel.py",
+      "source_location": "L110",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_build_chapter_prompt",
@@ -437,7 +465,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L129",
+      "source_location": "L141",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_build_prompt",
@@ -449,7 +477,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L160",
+      "source_location": "L173",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_write_sheet",
@@ -461,7 +489,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L172",
+      "source_location": "L185",
       "weight": 1.0,
       "_src": "export_excel",
       "_tgt": "export_excel_main",
@@ -473,7 +501,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L166",
+      "source_location": "L179",
       "weight": 1.0,
       "_src": "export_excel_write_sheet",
       "_tgt": "export_excel_clean",
@@ -485,7 +513,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L64",
+      "source_location": "L65",
       "weight": 1.0,
       "_src": "export_excel_load_base_prompt",
       "_tgt": "export_excel_die",
@@ -497,7 +525,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L179",
+      "source_location": "L192",
       "weight": 1.0,
       "_src": "export_excel_main",
       "_tgt": "export_excel_load_base_prompt",
@@ -509,19 +537,19 @@
       "relation": "rationale_for",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L60",
+      "source_location": "L61",
       "weight": 1.0,
-      "_src": "export_excel_rationale_60",
+      "_src": "export_excel_rationale_61",
       "_tgt": "export_excel_load_base_prompt",
       "source": "export_excel_load_base_prompt",
-      "target": "export_excel_rationale_60",
+      "target": "export_excel_rationale_61",
       "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L177",
+      "source_location": "L190",
       "weight": 1.0,
       "_src": "export_excel_main",
       "_tgt": "export_excel_die",
@@ -533,7 +561,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L221",
+      "source_location": "L234",
       "weight": 1.0,
       "_src": "export_excel_main",
       "_tgt": "export_excel_pick_english_meaning",
@@ -545,19 +573,55 @@
       "relation": "rationale_for",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L87",
+      "source_location": "L88",
       "weight": 1.0,
-      "_src": "export_excel_rationale_87",
+      "_src": "export_excel_rationale_88",
       "_tgt": "export_excel_pick_english_meaning",
       "source": "export_excel_pick_english_meaning",
-      "target": "export_excel_rationale_87",
+      "target": "export_excel_rationale_88",
       "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L198",
+      "source_location": "L136",
+      "weight": 1.0,
+      "_src": "export_excel_build_chapter_prompt",
+      "_tgt": "export_excel_output_format_with_names",
+      "source": "export_excel_output_format_with_names",
+      "target": "export_excel_build_chapter_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "TOOLS/export_excel.py",
+      "source_location": "L168",
+      "weight": 1.0,
+      "_src": "export_excel_build_prompt",
+      "_tgt": "export_excel_output_format_with_names",
+      "source": "export_excel_output_format_with_names",
+      "target": "export_excel_build_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "TOOLS/export_excel.py",
+      "source_location": "L101",
+      "weight": 1.0,
+      "_src": "export_excel_rationale_101",
+      "_tgt": "export_excel_output_format_with_names",
+      "source": "export_excel_output_format_with_names",
+      "target": "export_excel_rationale_101",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "TOOLS/export_excel.py",
+      "source_location": "L211",
       "weight": 1.0,
       "_src": "export_excel_main",
       "_tgt": "export_excel_build_chapter_prompt",
@@ -569,19 +633,19 @@
       "relation": "rationale_for",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L100",
+      "source_location": "L111",
       "weight": 1.0,
-      "_src": "export_excel_rationale_100",
+      "_src": "export_excel_rationale_111",
       "_tgt": "export_excel_build_chapter_prompt",
       "source": "export_excel_build_chapter_prompt",
-      "target": "export_excel_rationale_100",
+      "target": "export_excel_rationale_111",
       "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L224",
+      "source_location": "L237",
       "weight": 1.0,
       "_src": "export_excel_main",
       "_tgt": "export_excel_build_prompt",
@@ -593,19 +657,19 @@
       "relation": "rationale_for",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L130",
+      "source_location": "L142",
       "weight": 1.0,
-      "_src": "export_excel_rationale_130",
+      "_src": "export_excel_rationale_142",
       "_tgt": "export_excel_build_prompt",
       "source": "export_excel_build_prompt",
-      "target": "export_excel_rationale_130",
+      "target": "export_excel_rationale_142",
       "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "TOOLS/export_excel.py",
-      "source_location": "L194",
+      "source_location": "L207",
       "weight": 1.0,
       "_src": "export_excel_main",
       "_tgt": "export_excel_write_sheet",

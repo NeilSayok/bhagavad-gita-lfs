@@ -1,69 +1,86 @@
-# Graph Report - .  (2026-06-22)
+# Graph Report - .  (2026-06-28)
 
 ## Corpus Check
-- Corpus is ~1,408 words - fits in a single context window. You may not need a graph.
+- 3 files · ~3,074,857 words
+- Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 16 nodes · 11 edges · 5 communities detected
-- Extraction: 73% EXTRACTED · 27% INFERRED · 0% AMBIGUOUS · INFERRED: 3 edges (avg confidence: 0.77)
+- 22 nodes · 36 edges · 7 communities detected
+- Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## God Nodes (most connected - your core abstractions)
-1. `Bhagavad Gita Translations and Commentary Dataset` - 4 edges
-2. `Contributing Guidelines` - 4 edges
-3. `Code of Conduct` - 2 edges
-4. `Bhagavad Gita API` - 2 edges
-5. `format_json.py JSON Formatter` - 1 edges
-6. `GitHub API Source Code Repository` - 1 edges
-7. `Featured Translation and Commentary Authors` - 1 edges
-8. `GitHub Flow Workflow` - 1 edges
-9. `MIT Software License` - 1 edges
-10. `Graphify Knowledge Graph Integration` - 1 edges
+1. `main()` - 7 edges
+2. `main()` - 5 edges
+3. `die()` - 4 edges
+4. `load_json()` - 4 edges
+5. `build_chapters()` - 4 edges
+6. `build_sloks()` - 4 edges
+7. `load_base_prompt()` - 4 edges
+8. `die()` - 3 edges
+9. `pick_english_meaning()` - 3 edges
+10. `build_chapter_prompt()` - 3 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `format_json.py JSON Formatter` --semantically_similar_to--> `Bhagavad Gita Translations and Commentary Dataset`  [INFERRED] [semantically similar]
-  TOOLS/format_json.py → README.md
-- `Graphify Knowledge Graph Integration` --references--> `Bhagavad Gita Translations and Commentary Dataset`  [INFERRED]
-  CLAUDE.md → README.md
-
-## Hyperedges (group relationships)
-- **Contribution and Community Governance Framework** — code_of_conduct, contributing_guidelines, pull_request_workflow, community_standards [EXTRACTED 0.95]
-- **Bhagavad Gita Dataset and API Ecosystem** — bhagavad_gita_dataset, bhagavad_gita_api, github_api_source, featured_authors [EXTRACTED 1.00]
+- `main()` --calls--> `pick_english_meaning()`  [EXTRACTED]
+  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 4 → community 1_
+- `main()` --calls--> `build_chapter_prompt()`  [EXTRACTED]
+  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 3 → community 1_
+- `main()` --calls--> `build_prompt()`  [EXTRACTED]
+  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 5 → community 1_
+- `main()` --calls--> `write_sheet()`  [EXTRACTED]
+  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 2 → community 1_
 
 ## Communities
 
-### Community 0 - "Dataset & API Ecosystem"
-Cohesion: 0.33
-Nodes (6): Bhagavad Gita API, Bhagavad Gita Translations and Commentary Dataset, Featured Translation and Commentary Authors, format_json.py JSON Formatter, GitHub API Source Code Repository, Graphify Knowledge Graph Integration
+### Community 0 - "Community 0"
+Cohesion: 0.57
+Nodes (7): build_chapters(), build_sloks(), die(), gzip_file(), human(), load_json(), main()
 
-### Community 1 - "Contribution Process"
-Cohesion: 0.4
-Nodes (5): Contributing Guidelines, Facebook Draft Contributing Guidelines Reference, GitHub Flow Workflow, MIT Software License, Pull Request Contribution Workflow
-
-### Community 2 - "Community Governance"
+### Community 1 - "Community 1"
 Cohesion: 0.67
-Nodes (3): Code of Conduct, Community Standards and Conduct, Dev.to Code of Conduct Source
+Nodes (4): die(), load_base_prompt(), main(), Parse the ```json blocks from the guidelines markdown and merge them     into a
 
-### Community 3 - "Data Formatting Tool"
+### Community 2 - "Community 2"
+Cohesion: 1.0
+Nodes (2): clean(), write_sheet()
+
+### Community 3 - "Community 3"
+Cohesion: 1.0
+Nodes (2): build_chapter_prompt(), Assemble a chapter cover-image prompt JSON (as a string).
+
+### Community 4 - "Community 4"
+Cohesion: 1.0
+Nodes (2): pick_english_meaning(), Choose the best real English translation from {author_code: text}.
+
+### Community 5 - "Community 5"
+Cohesion: 1.0
+Nodes (2): build_prompt(), Assemble the full per-verse image-generation prompt JSON (as a string).
+
+### Community 6 - "Community 6"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 4 - "Security"
-Cohesion: 1.0
-Nodes (1): Security Policy and Vulnerability Reporting
-
 ## Knowledge Gaps
-- **11 isolated node(s):** `format_json.py JSON Formatter`, `GitHub API Source Code Repository`, `Featured Translation and Commentary Authors`, `GitHub Flow Workflow`, `MIT Software License` (+6 more)
+- **4 isolated node(s):** `Parse the ```json blocks from the guidelines markdown and merge them     into a`, `Choose the best real English translation from {author_code: text}.`, `Assemble a chapter cover-image prompt JSON (as a string).`, `Assemble the full per-verse image-generation prompt JSON (as a string).`
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Data Formatting Tool`** (1 nodes): `format_json.py`
+- **Thin community `Community 3`** (2 nodes): `build_chapter_prompt()`, `Assemble a chapter cover-image prompt JSON (as a string).`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Security`** (1 nodes): `Security Policy and Vulnerability Reporting`
+- **Thin community `Community 4`** (2 nodes): `pick_english_meaning()`, `Choose the best real English translation from {author_code: text}.`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 5`** (2 nodes): `build_prompt()`, `Assemble the full per-verse image-generation prompt JSON (as a string).`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 6`** (1 nodes): `format_json.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Are the 2 inferred relationships involving `Bhagavad Gita Translations and Commentary Dataset` (e.g. with `format_json.py JSON Formatter` and `Graphify Knowledge Graph Integration`) actually correct?**
-  _`Bhagavad Gita Translations and Commentary Dataset` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `format_json.py JSON Formatter`, `GitHub API Source Code Repository`, `Featured Translation and Commentary Authors` to the rest of the system?**
-  _11 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Why does `main()` connect `Community 1` to `Community 2`, `Community 3`, `Community 4`, `Community 5`?**
+  _High betweenness centrality (0.093) - this node is a cross-community bridge._
+- **Why does `load_base_prompt()` connect `Community 1` to `Community 2`?**
+  _High betweenness centrality (0.052) - this node is a cross-community bridge._
+- **Why does `pick_english_meaning()` connect `Community 4` to `Community 1`, `Community 2`?**
+  _High betweenness centrality (0.052) - this node is a cross-community bridge._
+- **What connects `Parse the ```json blocks from the guidelines markdown and merge them     into a`, `Choose the best real English translation from {author_code: text}.`, `Assemble a chapter cover-image prompt JSON (as a string).` to the rest of the system?**
+  _4 weakly-connected nodes found - possible documentation gaps or missing edges._

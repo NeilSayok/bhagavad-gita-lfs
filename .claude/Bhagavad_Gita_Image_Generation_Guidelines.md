@@ -20,7 +20,6 @@
     "inspiration": [
       "Rajasthani Miniature Painting",
       "Pahari Miniature Painting",
-      "Mughal Miniature (where historically appropriate)",
       "Kangra School",
       "Tanjore Painting",
       "Mysore Painting",

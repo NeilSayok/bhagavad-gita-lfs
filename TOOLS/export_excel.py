@@ -18,6 +18,7 @@ truncated with a marker (the full text always remains in gita.db). Run:
 
     python3 TOOLS/export_excel.py
 """
+import copy
 import json
 import re
 import sqlite3
@@ -96,8 +97,19 @@ def pick_english_meaning(et_by_author):
     return None
 
 
+def output_format_with_names(base_output_format, stem):
+    """Deep-copy the shared output_format and give each image variant its own
+    file_name: <stem>_<variant> where variant is square/portrait/landscape."""
+    of = copy.deepcopy(base_output_format)
+    for img_key, spec in of.get("images", {}).items():
+        variant = img_key.split("_")[0]  # portrait_9_16 -> portrait, etc.
+        of["images"][img_key] = {"file_name": f"{stem}_{variant}", **spec}
+    return of
+
+
 def build_chapter_prompt(base, chapter):
     """Assemble a chapter cover-image prompt JSON (as a string)."""
+    stem = f"chapter_{chapter['chapter_number']}"
     prompt = {
         "task": (
             "You are a master classical Indian painter creating the cover "
@@ -109,7 +121,7 @@ def build_chapter_prompt(base, chapter):
             "manuscript."
         ),
         "chapter": {
-            "file_name": f"bhagavadgita_chapter_{chapter['chapter_number']}",
+            "file_name": stem,
             "chapter": chapter["chapter_number"],
             "name": chapter["name"],
             "title": chapter["translation"],
@@ -121,13 +133,14 @@ def build_chapter_prompt(base, chapter):
         "art_style": base["art_style"],
         "style_rules": base["style_rules"],
         "negative_prompt": base["negative_prompt"],
-        "output_format": base["output_format"],
+        "output_format": output_format_with_names(base["output_format"], stem),
     }
     return json.dumps(prompt, ensure_ascii=False, indent=2)
 
 
 def build_prompt(base, slok, chapter, english_meaning):
     """Assemble the full per-verse image-generation prompt JSON (as a string)."""
+    stem = f"chapter_{slok['chapter_number']}_slok_{slok['verse']}"
     prompt = {
         "task": (
             "You are a master classical Indian painter creating an illustration "
@@ -138,7 +151,7 @@ def build_prompt(base, slok, chapter, english_meaning):
             "same illuminated ancient Indian manuscript."
         ),
         "shloka": {
-            "file_name": f"bhagavadgita_chapter_{slok['chapter_number']}_slok_{slok['verse']}",
+            "file_name": stem,
             "verse_id": slok["id"],
             "chapter": slok["chapter_number"],
             "chapter_title": chapter["translation"],
@@ -152,7 +165,7 @@ def build_prompt(base, slok, chapter, english_meaning):
         "art_style": base["art_style"],
         "style_rules": base["style_rules"],
         "negative_prompt": base["negative_prompt"],
-        "output_format": base["output_format"],
+        "output_format": output_format_with_names(base["output_format"], stem),
     }
     return json.dumps(prompt, ensure_ascii=False, indent=2)
 

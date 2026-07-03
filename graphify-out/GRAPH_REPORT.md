@@ -1,11 +1,11 @@
-# Graph Report - .  (2026-06-28)
+# Graph Report - .  (2026-07-03)
 
 ## Corpus Check
-- 3 files · ~3,074,857 words
+- 3 files · ~5,291,638 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 22 nodes · 36 edges · 7 communities detected
+- 24 nodes · 40 edges · 4 communities detected
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
@@ -17,70 +17,46 @@
 5. `build_chapters()` - 4 edges
 6. `build_sloks()` - 4 edges
 7. `load_base_prompt()` - 4 edges
-8. `die()` - 3 edges
-9. `pick_english_meaning()` - 3 edges
-10. `build_chapter_prompt()` - 3 edges
+8. `output_format_with_names()` - 4 edges
+9. `build_chapter_prompt()` - 4 edges
+10. `build_prompt()` - 4 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `main()` --calls--> `pick_english_meaning()`  [EXTRACTED]
-  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 4 → community 1_
 - `main()` --calls--> `build_chapter_prompt()`  [EXTRACTED]
-  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 3 → community 1_
-- `main()` --calls--> `build_prompt()`  [EXTRACTED]
-  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 5 → community 1_
-- `main()` --calls--> `write_sheet()`  [EXTRACTED]
-  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 2 → community 1_
+  TOOLS/export_excel.py → TOOLS/export_excel.py  _Bridges community 2 → community 0_
 
 ## Communities
 
 ### Community 0 - "Community 0"
+Cohesion: 0.39
+Nodes (8): clean(), die(), load_base_prompt(), main(), pick_english_meaning(), Parse the ```json blocks from the guidelines markdown and merge them     into a, Choose the best real English translation from {author_code: text}., write_sheet()
+
+### Community 1 - "Community 1"
 Cohesion: 0.57
 Nodes (7): build_chapters(), build_sloks(), die(), gzip_file(), human(), load_json(), main()
 
-### Community 1 - "Community 1"
-Cohesion: 0.67
-Nodes (4): die(), load_base_prompt(), main(), Parse the ```json blocks from the guidelines markdown and merge them     into a
-
 ### Community 2 - "Community 2"
-Cohesion: 1.0
-Nodes (2): clean(), write_sheet()
+Cohesion: 0.33
+Nodes (6): build_chapter_prompt(), build_prompt(), output_format_with_names(), Deep-copy the shared output_format and give each image variant its own     file_, Assemble a chapter cover-image prompt JSON (as a string)., Assemble the full per-verse image-generation prompt JSON (as a string).
 
 ### Community 3 - "Community 3"
-Cohesion: 1.0
-Nodes (2): build_chapter_prompt(), Assemble a chapter cover-image prompt JSON (as a string).
-
-### Community 4 - "Community 4"
-Cohesion: 1.0
-Nodes (2): pick_english_meaning(), Choose the best real English translation from {author_code: text}.
-
-### Community 5 - "Community 5"
-Cohesion: 1.0
-Nodes (2): build_prompt(), Assemble the full per-verse image-generation prompt JSON (as a string).
-
-### Community 6 - "Community 6"
 Cohesion: 1.0
 Nodes (0): 
 
 ## Knowledge Gaps
-- **4 isolated node(s):** `Parse the ```json blocks from the guidelines markdown and merge them     into a`, `Choose the best real English translation from {author_code: text}.`, `Assemble a chapter cover-image prompt JSON (as a string).`, `Assemble the full per-verse image-generation prompt JSON (as a string).`
+- **5 isolated node(s):** `Parse the ```json blocks from the guidelines markdown and merge them     into a`, `Choose the best real English translation from {author_code: text}.`, `Deep-copy the shared output_format and give each image variant its own     file_`, `Assemble a chapter cover-image prompt JSON (as a string).`, `Assemble the full per-verse image-generation prompt JSON (as a string).`
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 3`** (2 nodes): `build_chapter_prompt()`, `Assemble a chapter cover-image prompt JSON (as a string).`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 4`** (2 nodes): `pick_english_meaning()`, `Choose the best real English translation from {author_code: text}.`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 5`** (2 nodes): `build_prompt()`, `Assemble the full per-verse image-generation prompt JSON (as a string).`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 6`** (1 nodes): `format_json.py`
+- **Thin community `Community 3`** (1 nodes): `format_json.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `main()` connect `Community 1` to `Community 2`, `Community 3`, `Community 4`, `Community 5`?**
-  _High betweenness centrality (0.093) - this node is a cross-community bridge._
-- **Why does `load_base_prompt()` connect `Community 1` to `Community 2`?**
-  _High betweenness centrality (0.052) - this node is a cross-community bridge._
-- **Why does `pick_english_meaning()` connect `Community 4` to `Community 1`, `Community 2`?**
-  _High betweenness centrality (0.052) - this node is a cross-community bridge._
-- **What connects `Parse the ```json blocks from the guidelines markdown and merge them     into a`, `Choose the best real English translation from {author_code: text}.`, `Assemble a chapter cover-image prompt JSON (as a string).` to the rest of the system?**
-  _4 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Why does `main()` connect `Community 0` to `Community 2`?**
+  _High betweenness centrality (0.074) - this node is a cross-community bridge._
+- **Why does `output_format_with_names()` connect `Community 2` to `Community 0`?**
+  _High betweenness centrality (0.057) - this node is a cross-community bridge._
+- **Why does `build_chapter_prompt()` connect `Community 2` to `Community 0`?**
+  _High betweenness centrality (0.054) - this node is a cross-community bridge._
+- **What connects `Parse the ```json blocks from the guidelines markdown and merge them     into a`, `Choose the best real English translation from {author_code: text}.`, `Deep-copy the shared output_format and give each image variant its own     file_` to the rest of the system?**
+  _5 weakly-connected nodes found - possible documentation gaps or missing edges._

@@ -736,7 +736,8 @@ Kannada   ✓ 1-1  ...
 - [ ] Ch2 v11–73 — pending
 - [x] Ch18 v1 — complete (2026-07-11): 0 empty/bogus/nonstr. First verse of Chapter 18. All 4 languages freshly translated using dedicated subagents' scratchpad scripts. Verified 0 empty, 0 bogus.
 - [x] Ch18 v2 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna explains Tyaga and Sannyasa. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v3–79 — pending
+- [x] Ch18 v3 — complete (2026-07-11): 0 empty/bogus/nonstr. Diverse opinions of sages on whether actions should be abandoned. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v4–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

@@ -281,8 +281,203 @@ Kannada   ✓ 1-1  ...
   collateral digit collisions — venkat body refs 18.78/1.10/1.11 untouched) + abhinav/vallabh
   verbatim; anand/srid/dhan/puru/neel (the "anye ca / madarthe / nana / sarve" gloss) + 6 English-src
   + sankar boilerplate all genuine.
-- [ ] Ch1 v10–48 — pending. **v10 differs: real aparyaptam gloss (abhinav/vallabh NOT verbatim
-  reuse per §10 note); expect distinct sa blocks.**
+- [x] Ch1 v10 — complete (2026-07-09): 0 empty/bogus. Duryodhana's aparyaptam/paryaptam verse.
+  siva/san had leftover v1 garbage in .hi (fixed); 12 bogus be/ka slots (Hindi copies) across
+  siva/chinmay/san/adi/gambir/sankar fixed. vallabh reused v9 verbatim (sa identical); madhav/jaya
+  reused v9 tag-swapped (1.9→1.10). venkat = fresh, full 4-reading grammatical exegesis
+  (pathabheda/vyavahitanvaya/vakyabheda/padarthabheda) of the aparyaptam ambiguity + defense of
+  why Bhima is named opposite Bhishma — longest block this verse (~3288 ch sa). anand/ms/srid/
+  dhan/puru/neel/raman/sankar/abhinav all fresh per-verse content; 6 English-src blocks
+  (siva/purohit/san/adi/gambir/prabhu) genuine. madhav/jaya/vallabh .en tag-swapped from v9.
+- [x] Ch1 v11 — complete (2026-07-09): 0 empty/bogus. "Protect Bhishma alone" verse. Reused
+  raman.en/madhav/jaya (tag-swap 1.10→1.11) + vallabh (range 1.2–1.11 verbatim, unchanged) from
+  v10; venkat's sa is a running commentary whose first ~3288 ch are byte-identical to v10 (only
+  tag differs) plus ~750 ch of fresh continuation (defending that verse 1.10's reasoning wasn't
+  actually unstated) — reused v10's translation for the shared part + freshly translated the
+  continuation. anand/ms/srid/dhan/puru/neel/raman.hi-be-ka/abhinav/sankar-be-ka + 6 English-src
+  + tej/chinmay/rams/prabhu all fresh by-meaning. **Caught own bug**: a stray trailing comma in
+  the anand fill script silently turned 3 string fields into 1-element JSON lists (json.dump
+  serializes tuples as arrays) — detector didn't catch it since non-empty; only found via
+  explicit `isinstance(v, dict)`/type check. Added a `nonstr` check to the detector for future
+  verses — always verify field types are `str`, not just non-empty.
+- [x] Ch1 v12 — complete (2026-07-10): 0 empty/bogus, 0 nonstr. Bhishma roars/blows conch to
+  cheer Duryodhana. Reused raman.en/madhav/jaya (tag-swap 1.11→1.12) from v11; abhinav flips to
+  "no commentary" boilerplate (range 1.12-1.29, distinct from prior verbatim-gloss pattern);
+  vallabh is a fresh range block (1.12-1.13, not reusable from v11's 1.2-1.11 range). venkat's sa
+  is a fully distinct new commentary (not a continuation this time) — defends the harsha/vishada
+  word-order logic of the verse against several objections, then closes with grammar notes on
+  tasya sanjanayan...krtva...akarayat; translated fresh in full (~3276 ch). anand/ms/srid/dhan/
+  puru/neel/raman.hi-be-ka/sankar-be-ka + 6 English-src + tej/chinmay/rams/prabhu fresh.
+- [x] Ch1 v13 — complete (2026-07-10): 0 empty/bogus/nonstr. Conches/kettledrums answer Bhishma's
+  roar. venkat's sa was byte-identical (tag-swapped) to the closing grammar-note half of v12's
+  venkat block — reused that translated portion directly instead of re-translating. Reused
+  raman.en-pattern via madhav/jaya tag-swap, vallabh verbatim (range 1.12-1.13 unchanged), abhinav
+  boilerplate tag-swap. anand/ms/srid/dhan/puru/neel/raman.hi-be-ka/sankar-be-ka + 6 English-src +
+  tej/chinmay/rams/prabhu fresh (prabhu has no purport paragraph this verse, translation-only).
+- [x] Ch1 v14 — complete (2026-07-10): 0 empty/bogus/nonstr. Krishna and Arjuna answer with
+  divine conches from their white-horsed chariot. Reused raman.hi-be-ka-pattern via madhav/jaya/
+  abhinav tag-swap (1.13→1.14); vallabh and venkat both fresh per-verse blocks this time (no
+  carry-over text). anand/ms/srid/dhan/puru/neel/raman.hi-be-ka/sankar-be-ka + 6 English-src +
+  tej/chinmay/rams/prabhu fresh — rams has a long etymological note on Arjuna's 100 divine
+  horses (gift of Chitraratha) and the Agni-given chariot (Khandava-dahana backstory).
+- [x] Ch1 v15 — complete (2026-07-10): 0 empty/bogus/nonstr. Krishna blows Panchajanya, Arjuna
+  Devadatta, Bhima the great conch Paundra (etymologies: Bhimakarma/Vrikodara, Dhananjaya,
+  Hrishikesha). Reused raman.hi-be-ka-pattern via madhav/jaya/abhinav tag-swap (1.14→1.15);
+  vallabh now a fresh range block (1.15-1.19, previewing the whole Pandava conch sequence).
+  anand/ms/srid/dhan/puru/neel/raman.hi-be-ka/sankar-be-ka + 6 English-src + tej/chinmay/rams/
+  prabhu fresh — rams has conch-name etymologies (Panchajanya demon, Devadatta from Indra,
+  Vrikodara's digestive fire), prabhu explains Krishna's name variants (Madhusudana, Govinda, etc).
+- [x] Ch1 v16 — complete (2026-07-10): 0 empty/bogus/nonstr. Yudhishthira blows Anantavijaya,
+  Nakula/Sahadeva blow Sughosha/Manipushpaka. High reuse verse: ms and venkat sa were byte-for-byte
+  identical to v15's (just tag/whitespace), reused verbatim; vallabh unchanged (range 1.15-1.19);
+  madhav/jaya/abhinav tag-swapped as usual. chinmay = "No commentary" this verse. anand/srid/dhan/
+  puru/neel/raman.hi-be-ka/sankar-be-ka + 6 English-src + tej/rams/prabhu fresh — rams explains
+  Kunti-sons vs Madri-sons distinction and Yudhishthira's "raja" epithet foreshadowing kingship.
+- [x] Ch1 v17 — complete (2026-07-10): 0 empty/bogus/nonstr. King of Kashi, Shikhandi,
+  Dhrishtadyumna, Virata, Satyaki named. High reuse: ms/venkat/vallabh sa byte-identical to v16's
+  (verbatim reuse), madhav/jaya/abhinav tag-swapped. rams covers 1.17-1.18 together with the
+  Shikhandi backstory (former life as Amba, sex-change via Sthunakarna yaksha, why Bhishma
+  wouldn't fight him) and Abhimanyu's chakravyuha death — plus a note that Sanjaya's asymmetric
+  naming (18 Pandava heroes vs only Bhishma on Kaurava side) reveals his sympathies.
+  anand/srid/dhan/puru/neel/raman.hi-be-ka/sankar-be-ka + 6 English-src + tej/chinmay/prabhu fresh.
+- [x] Ch1 v18 — complete (2026-07-10): 0 empty/bogus/nonstr. Drupada, Draupadi's five sons,
+  Abhimanyu blow conches. Very high reuse: ms/venkat/vallabh identical to v17; madhav/jaya/
+  abhinav/puru all tag-swap reusable (puru's sa turned out identical too, unusual — worth
+  checking puru each verse in this stretch); rams's block spans 1.17-1.18 (same text as v17,
+  reused en/be/ka directly, no retranslation needed). anand/srid/dhan/raman.hi-be-ka/sankar-be-ka
+  + 6 English-src + tej/chinmay/prabhu fresh.
+- [x] Ch1 v19 — complete (2026-07-10): 0 empty/bogus/nonstr. Closes the conch-blowing sequence
+  (v2-v19): the uproar rends the Kauravas' hearts. venkat/vallabh still byte-identical to v18
+  (verbatim reuse); madhav/jaya/abhinav tag-swapped. rams has a long dharma/adharma digression
+  (why the Kaurava conches had no effect on the Pandavas but vice versa did — righteous hearts
+  are unshaken; Ravana fearful despite universal dread of him) + the chapter-structural note that
+  Sanjaya's answer to "what did my sons and Pandu's sons do" (asked in v1) spans v2-v19, and v20
+  begins the actual Gita narrative proper. anand/ms/srid/dhan/puru/neel/raman.hi-be-ka/sankar-be-ka
+  + 6 English-src + tej/chinmay/prabhu fresh.
+- [x] Ch1 v20 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna sees the armies arrayed and
+  raises his Gandiva bow. First verse after the conch sequence ends — high-reuse streak broken;
+  raman/venkat/ms/vallabh all fresh content this verse (raman.en dropped from the 1890-char range
+  narrative to a short 225-char verse-specific reply). rams explains "atha" marking the start of
+  the Gita dialogue proper (spans 2.11-18.66), the Hanuman-banner backstory (boon granted to
+  Bhima in the Kadali forest), and contrasts Duryodhana's fear (ran to Drona) vs Arjuna's
+  fearlessness (reached straight for his bow). madhav/jaya/abhinav/sankar-be-ka still tag-swap
+  reusable. anand/ms/srid/dhan/puru/neel/raman/vallabh + 6 English-src + tej/chinmay/prabhu fresh.
+- [x] Ch1 v21 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna's first words: "station my
+  chariot between the two armies, O Achyuta." Reuse resumed here: raman/madhav/jaya/abhinav/
+  vallabh/ms/venkat/puru all byte-identical to v20 (tag-swap only) since 1.20-1.21 form one
+  continuous sentence in the source and several commentators treat them as a single unit; anand/
+  dhan/srid/neel/rams/6-English-src/tej/chinmay/prabhu fresh. rams explains the "between the two
+  armies" phrase's threefold recurrence in the Gita (1.21, 1.24, 2.10) as marking Arjuna's arc
+  from valor to delusion to receiving Krishna's teaching.
+- [x] Ch1 v22 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna continues: "so I may see who
+  I must fight." rams and prabhu's purport were byte-identical/near-identical to v21's (rams full
+  reuse of en/be/ka; prabhu purport paragraph reused, only the verse-translation line retranslated
+  fresh). madhav/jaya/abhinav/raman/vallabh/venkat tag-swap reusable. anand/ms/srid/dhan/puru/neel
+  + 6 English-src + tej/chinmay fresh.
+- [x] Ch1 v23 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna finishes: "let me see who
+  wishes to please the ill-minded Duryodhana in this war." san's en block spans 1.23-1.24 together
+  (Sanjaya's narration + "behold these Kurus" — translated as one unit matching source). venkat's
+  sa was v22's text plus a short fresh continuation tail — reused v22's translation and appended a
+  fresh rendering of just the new part (same technique as v12→v13, v20→v21 continuations).
+  madhav/jaya/abhinav/raman/vallabh tag-swap reusable. anand/ms/srid/dhan/puru/neel + 6
+  English-src + tej/chinmay/prabhu fresh; rams has a strong dharma-critique passage (the assembled
+  kings should have counseled Duryodhana toward justice, not war).
+- [x] Ch1 v24 — complete (2026-07-10): 0 empty/bogus/nonstr. Sanjaya narrates: Krishna stations
+  the chariot between the armies, facing Bhishma/Drona/all kings. **Lesson repeated**: when
+  reusing a multi-verse-spanning block (san's en here matched v23's exactly), remember to copy
+  hi/be/ka too, not just en — first pass missed san.hi/be/ka, caught by detector, fixed by
+  reusing v23's san hi/be/ka (also spans 1.23-1.24). vallabh now fresh (new range 1.24-1.25).
+  madhav/jaya/abhinav/raman tag-swap. anand/ms/srid/dhan/puru/neel/venkat + tej/chinmay/prabhu
+  fresh; rams (spanning 1.24-1.25) has a rich passage on why Krishna said "behold these Kurus"
+  (not "Dhritarashtra's men") — deliberately awakening Arjuna's kinship-delusion as the doctor
+  lances a ripened boil, since only through that delusion could the Gita's teaching arise; plus
+  a comparison of familial affection vs. love of God (moha vs. atmiyata, darkness vs. light).
+- [x] Ch1 v25 — complete (2026-07-10): 0 empty/bogus/nonstr. Krishna: "behold these Kurus
+  assembled." Very high reuse verse: madhav/jaya/abhinav/raman/vallabh/ms/dhan all byte-identical
+  to v24 (tag-swap); adi/gambir/rams reused v24's translation verbatim (same content spans
+  1.24-1.25); venkat's sa was an exact substring of v24's venkat body — sliced the matching
+  portion out of v24's already-translated text instead of retranslating. anand/srid/puru/neel +
+  tej/chinmay/prabhu fresh; san's source text here oddly describes verse-26-ish content (fathers,
+  grandfathers, teachers) rather than "behold" — translated faithfully as given (a known upstream
+  data quirk, not something to "fix").
+- [x] Ch1 v26 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna sees fathers, grandfathers,
+  teachers, uncles, brothers, sons, grandsons, friends in both armies. venkat is a long
+  chapter-summary block previewing verses 27-37 (aggressor/atatayin doctrine, Manu citations,
+  "mayaivaite nihatah" 11.33 foreshadowing) — translated in full. madhav/jaya/abhinav tag-swap;
+  raman and vallabh both fresh (new content/range). anand/ms/srid/dhan/puru/neel + 6 English-src +
+  tej/chinmay/prabhu fresh; rams has the full named-relative roster (Bhurishrava, Bhishma,
+  Somadatta, Drona, Kripa, Shalya, Shakuni, Duryodhana, Abhimanyu, Lakshmana, Ashvatthama,
+  Drupada, Satyaki, Kritavarma).
+- [x] Ch1 v27 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna overcome with compassion,
+  becomes despondent. Very high reuse: madhav/jaya/abhinav/raman/vallabh/venkat/ms all
+  byte-identical to v26 (tag-swap) — venkat's ~2637-char chapter-summary block carries over
+  unchanged since it previews multiple verses at once. chinmay has a long, notably skeptical
+  psychological analysis calling Arjuna's "compassion" a euphemism for a collapse of
+  self-control/nerve, not genuine dharmic compassion (an unusually critical reading vs. other
+  commentators). anand/srid/dhan/puru/neel + 6 English-src + tej/rams/prabhu fresh; prabhu has
+  no purport paragraph this verse (translation-only, per source).
+- [x] Ch1 v28 — complete (2026-07-10): 0 empty/bogus/nonstr. Arjuna's grief speech begins:
+  "seeing my own kinsmen eager for battle." venkat's ~2637-char summary block still identical
+  (3rd verse running); madhav/jaya/abhinav/raman also tag-swap reusable. vallabh/ms broke reuse
+  here (fresh, shorter — vallabh now a 1.28-1.30 range preview, ms genuinely new). rams explains
+  the significance of "Krishna"/"Partha" as intimate mutual names (9 occurrences in the Gita) and
+  contrasts Dhritarashtra's "mamakah/pandavah" divide with Arjuna's unifying "svajanam". chinmay
+  gives a notably clinical psychological read again (naming Arjuna's state "anxiety-induced
+  despair", not spiritual compassion). anand/srid/dhan/puru/neel + 6 English-src + tej/chinmay/
+  prabhu fresh; prabhu has a long purport quoting Bhagavatam 5.18.12 on devotee qualities.
+- [x] Ch1 v29 — complete (2026-07-10): 0 empty/bogus/nonstr (after fixing a trailing-comma bug
+  in the prabhu fill that turned hi/be into 1-element lists — same recurring mistake as v12/v21;
+  caught by the type check, not the empty check). Arjuna's bodily symptoms of grief: limbs
+  failing, mouth drying, trembling, hair standing on end. Extremely high reuse: madhav/jaya/
+  abhinav/raman/vallabh/venkat all byte-identical to v28 (tag-swap); chinmay and rams reused
+  verbatim (same repeated content). anand/ms/srid/dhan/puru/neel + 6 English-src + tej/prabhu
+  fresh. **Recurring gotcha**: when writing FILL dicts by hand across many verses, watch for
+  stray trailing commas after a dict-value string — they silently create 1-tuples that json.dump
+  serializes as arrays; always run the nonstr type-check, not just the empty-check.
+- [x] Ch1 v30 — complete (2026-07-10): 0 empty/bogus/nonstr (again hit + fixed the prabhu
+  trailing-comma bug — 4th occurrence, pattern now well-documented). Gandiva slips, skin burns,
+  cannot stand, mind reeling. abhinav flips from boilerplate to a substantive philosophical
+  preview spanning 1.30-1.34 (the "vishesha-buddhi" doctrine — killing conceived with an
+  individualizing notion of who's being slain, or for personal gain, generates sin regardless;
+  foreshadows Krishna's "perform action as pure duty" answer). madhav/jaya/vallabh/venkat
+  tag-swap; raman/rams reused verbatim (identical repeated content). anand/ms/srid/dhan/puru/neel
+  + 6 English-src + tej/chinmay/prabhu fresh.
+- [x] Ch1 v31 — complete (2026-07-10): 0 empty/bogus/nonstr. "I see adverse omens, and no good
+  in killing my kinsmen." venkat drops to "no commentary" boilerplate here (was the long v26-v30
+  summary block); vallabh likewise boilerplate for range 1.31-1.33. madhav/jaya/abhinav tag-swap;
+  raman reused verbatim. anand/ms/srid/dhan/puru/neel + 6 English-src + tej/chinmay/prabhu fresh;
+  rams explains the two categories of omens (personal bodily symptoms + cosmic portents like
+  meteors/eclipses/blood rain) both read as inauspicious.
+- [x] Ch1 v32 — complete (2026-07-10): 0 empty/bogus/nonstr. "I do not desire victory, kingdom,
+  or pleasures, O Krishna/Govinda." raman/madhav/jaya/abhinav/vallabh/venkat all byte-identical
+  to v31 — tag-swap reuse. san.en content is actually v33's ("for whose sake we seek kingdom...
+  stand arrayed to fight") — upstream verse-mismatch quirk, translated as-is per policy. neel.sa
+  also stale/mismatched (v31's earthquake-omen content reused verbatim) — same policy applied,
+  translated as-is rather than "fixed". gambir spans 1.32-1.34. anand/ms/srid/dhan/puru fresh
+  Sanskrit-source; tej/siva/purohit/adi/chinmay/rams/prabhu fresh English/Hindi-source. Caught the
+  recurring trailing-comma-adjacent bug pattern again: initial fill script left prabhu.hi/be/ka
+  empty (forgot to include in FILL dict even though prabhu.en was set standalone) — empty-check
+  caught it immediately, filled in a follow-up pass.
+- [x] Ch1 v33 — complete (2026-07-10): 0 empty/bogus/nonstr. "Those for whose sake we desire
+  kingdom, enjoyments, pleasures stand here in battle, having abandoned life and wealth."
+  madhav/raman/abhinav/sankar/jaya/vallabh/venkat/neel all tag-swap reusable from v32 (byte-
+  identical sa). chinmay drops to "No commentary" boilerplate. prabhu.en/hi/be/ka continue the
+  same purport paragraph from v32 with only the opening line differing — reused the shared
+  paragraph, translated only the new opening line. anand/ms/srid/dhan/puru + 6 English-src +
+  rams fresh. san.en here is the actual "teachers, fathers, sons..." list content (confirms the
+  v32 san-mismatch theory: san's content was simply shifted one verse early throughout this
+  stretch).
+- [x] Ch1 v34 — complete (2026-07-10): 0 empty/bogus/nonstr. "Teachers, fathers, sons, grandfathers,
+  uncles, fathers-in-law, grandsons, brothers-in-law, other relatives" — the kinship-list verse.
+  madhav/raman/abhinav/sankar/jaya/vallabh/venkat tag-swap from v33. rams is one long block
+  spanning 1.34-1.35 (word-by-word gloss of each kinship term) — translated in full, will need to
+  check at v35 whether it's simply reused verbatim (same "1.34-1.35" span) or partially fresh.
+  prabhu.en/hi/be/ka: new opening line ("O Madhusudana, when teachers...") + reused the same long
+  Govinda-purport paragraph verbatim from v32/v33 (3rd consecutive verse reusing this paragraph).
+  san.en confirmed shifted one verse further (now showing v35's "I do not wish to slay these
+  men... even for the three worlds" content) — consistent shift pattern holds. anand/ms/srid/dhan/
+  puru/neel fresh Sanskrit-source.
+- [ ] Ch1 v35–48 — pending
 - [ ] Ch2–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

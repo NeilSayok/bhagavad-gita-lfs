@@ -4,12 +4,28 @@
   "graph": {},
   "nodes": [
     {
+      "label": "validate_slok.py",
+      "file_type": "code",
+      "source_file": "validate_slok.py",
+      "source_location": "L1",
+      "id": "validate_slok",
+      "community": 0
+    },
+    {
+      "label": "validate()",
+      "file_type": "code",
+      "source_file": "validate_slok.py",
+      "source_location": "L3",
+      "id": "validate_slok_validate",
+      "community": 0
+    },
+    {
       "label": "scratchpad_fill.py",
       "file_type": "code",
       "source_file": "scratchpad_fill.py",
       "source_location": "L1",
       "id": "scratchpad_fill",
-      "community": 0
+      "community": 1
     },
     {
       "label": "fill()",
@@ -17,10 +33,46 @@
       "source_file": "scratchpad_fill.py",
       "source_location": "L3",
       "id": "scratchpad_fill_fill",
-      "community": 0
+      "community": 1
+    },
+    {
+      "label": "run_scripts.py",
+      "file_type": "code",
+      "source_file": "run_scripts.py",
+      "source_location": "L1",
+      "id": "run_scripts",
+      "community": 2
+    },
+    {
+      "label": "run_subagent_scripts()",
+      "file_type": "code",
+      "source_file": "run_scripts.py",
+      "source_location": "L3",
+      "id": "run_scripts_run_subagent_scripts",
+      "community": 2
+    },
+    {
+      "label": "update_bhagavadgita_chapter_18_slok_2.py",
+      "file_type": "code",
+      "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
+      "source_location": "L1",
+      "id": "update_bhagavadgita_chapter_18_slok_2",
+      "community": 3
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate_slok.py",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "validate_slok",
+      "_tgt": "validate_slok_validate",
+      "source": "validate_slok",
+      "target": "validate_slok_validate",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -31,6 +83,18 @@
       "_tgt": "scratchpad_fill_fill",
       "source": "scratchpad_fill",
       "target": "scratchpad_fill_fill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run_scripts.py",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "run_scripts",
+      "_tgt": "run_scripts_run_subagent_scripts",
+      "source": "run_scripts",
+      "target": "run_scripts_run_subagent_scripts",
       "confidence_score": 1.0
     }
   ],

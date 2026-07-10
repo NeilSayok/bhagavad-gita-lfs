@@ -1,11 +1,11 @@
 # Graph Report - .  (2026-07-11)
 
 ## Corpus Check
-- 1 files · ~231 words
+- 4 files · ~5,972 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 2 nodes · 1 edges · 1 communities detected
+- 7 nodes · 3 edges · 4 communities detected
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
@@ -20,8 +20,26 @@
 Cohesion: 1.0
 Nodes (0): 
 
+### Community 1 - "Community 1"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 2 - "Community 2"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 3 - "Community 3"
+Cohesion: 1.0
+Nodes (0): 
+
 ## Knowledge Gaps
-- **Thin community `Community 0`** (2 nodes): `scratchpad_fill.py`, `fill()`
+- **Thin community `Community 0`** (2 nodes): `validate_slok.py`, `validate()`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 1`** (2 nodes): `scratchpad_fill.py`, `fill()`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 2`** (2 nodes): `run_scripts.py`, `run_subagent_scripts()`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 3`** (1 nodes): `update_bhagavadgita_chapter_18_slok_2.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions

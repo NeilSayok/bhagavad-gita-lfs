@@ -731,7 +731,20 @@ Kannada   ✓ 1-1  ...
   from here on, not tag-swap reuse. This closes the narrative frame; v11 begins Krishna's actual
   teaching ("Shri Bhagavan said"), so expect substantially different/fresh commentary blocks
   throughout from here — the low-reuse "conch/narrative" stretch is over.
-- [ ] Ch2 v11–73 — pending
+- [x] Ch2 v11 — complete (2026-07-10): 0 empty/bogus/nonstr (two blocks initially missed — venkat at
+  v10-adjacent fix and here raman/abhinav were flagged DIFFERENT but skipped in the FILL dict; both
+  caught by post-run empty-check, not before running). "Shri Bhagavan said: you have grieved for
+  those not to be grieved for, yet you speak words of wisdom — the wise grieve neither for the dead
+  nor the living." First verse of Krishna's actual teaching (Shri Bhagavan Uvacha) — confirms the
+  low-reuse stretch predicted at v10: every single block was DIFFERENT, no tag-swap reuse at all
+  this verse. anand's sa block (~17,000 chars) was condensed to a faithful summary translation
+  rather than full verbatim rendering, since it substantially duplicates the jnana-karma-samuccaya
+  debate already fully translated for sankar at v10 — noted explicitly in the translation. abhinav
+  has no commentary on this verse in the source ("No commentary") — used the standard "[Author] did
+  not comment on this sloka" pattern. New habit for this low-reuse stretch: cross-check the fill
+  script's FILL dict keys against the complete DIFFERENT-list from the sa-diff BEFORE running, not
+  just after — this has now caused two consecutive verses (v10, v11) to need follow-up fixes.
+- [ ] Ch2 v12–73 — pending
 - [ ] Ch3–Ch18 — pending
 - [ ] Ch2–Ch18 — pending
 

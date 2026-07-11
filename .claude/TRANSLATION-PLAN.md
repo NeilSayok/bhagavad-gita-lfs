@@ -815,7 +815,13 @@ Kannada   ✓ 1-1  ...
   Two exceptionally long blocks condensed to faithful summaries: anand (~9805 ch) and sankar
   (hi ~7427 ch + en ~13009 ch, the longest single-language field seen in the corpus so far).
   All other 20 blocks translated in full.
-- [ ] Ch2 v22–73 — pending
+- [x] Ch2 v22 — complete (2026-07-12): 0 empty/bogus/nonstr. "Vasamsi jirnani" — the celebrated
+  worn-clothes analogy for reincarnation. Blocks moderate this verse, all translated in full
+  (siva has no commentary at all for this verse in the source — noted as "[No commentary]" in
+  hi/be/ka matching the "No commentary." in en). **Gotcha caught**: first fill pass omitted tej
+  entirely (had only tej.hi pre-filled, needed en/be/ka) — caught immediately by empty-check,
+  fixed in a follow-up single-block pass.
+- [ ] Ch2 v23–73 — pending
 - [ ] Ch3–Ch18 — pending
 - [ ] Ch2–Ch18 — pending
 

@@ -789,8 +789,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v53 — complete (2026-07-12): 0 empty/bogus/nonstr. Having abandoned egoism, strength, arrogance, desire, anger and covetousness, and free from the notion of 'mine' and peaceful, he is fit for becoming Brahman. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v54 — complete (2026-07-12): 0 empty/bogus/nonstr. Becoming Brahman, serene in the Self, he neither grieves nor desires, the same to all beings, he obtains supreme devotion to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v55 — complete (2026-07-12): 0 empty/bogus/nonstr. By devotion he knows Me in truth, what and who I am; then having known Me in truth, he forthwith enters into the Supreme. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [x] Ch18 v56 — complete (2026-07-12): 0 empty/bogus/nonstr. Doing all actions always having taken refuge in Me, by My grace he obtains the eternal indestructible state of being. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v57–79 — pending
+- [x] Ch18 v57 — complete (2026-07-12): 0 empty/bogus/nonstr. Mentally surrendering all actions to Me, regarding Me as the supreme goal, and resorting to the yoga of discrimination, ever fix your mind on Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v58–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

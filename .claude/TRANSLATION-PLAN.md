@@ -751,7 +751,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v15 — complete (2026-07-11): 0 empty/bogus/nonstr. Actions performed by body, speech, and mind, whether right or wrong, have these five causes. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
 - [x] Ch18 v16 — complete (2026-07-11): 0 empty/bogus/nonstr. One who looks upon the absolute Self as the agent due to uncultivated understanding is a durmati. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
 - [x] Ch18 v17 — complete (2026-07-12): 0 empty/bogus/nonstr. One who is free from egoistic notion does not kill and is not bound even by slaying these worlds. Translated via Hindi subagent and manual Bengali/Kannada threads (due to subagent 429 limits). Verified 0 empty, 0 bogus.
-- [ ] Ch18 v18–79 — pending
+- [x] Ch18 v18 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge, knowable, knower are incentives; instrument, act, agent are constituents. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v19–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

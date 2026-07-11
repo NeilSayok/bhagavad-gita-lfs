@@ -783,7 +783,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v47 — complete (2026-07-12): 0 empty/bogus/nonstr. One's own duty, though devoid of merits, is better than the duty of another well performed. Ordained by one's own nature, one incurs no sin. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v48 — complete (2026-07-12): 0 empty/bogus/nonstr. One should not abandon the duty to which one is born, even if it is faulty; for all undertakings are enveloped by faults, as fire by smoke. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v49 — complete (2026-07-12): 0 empty/bogus/nonstr. He whose intellect is unattached everywhere, who has controlled his mind, and whose desires have vanished, attains through Sannyasa the supreme state of actionlessness. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v50–79 — pending
+- [x] Ch18 v50 — complete (2026-07-12): 0 empty/bogus/nonstr. Learn from Me in brief, O Kaunteya, how he who has attained perfection reaches Brahman, which is the supreme consummation of knowledge. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v51–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

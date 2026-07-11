@@ -744,7 +744,33 @@ Kannada   ✓ 1-1  ...
   not comment on this sloka" pattern. New habit for this low-reuse stretch: cross-check the fill
   script's FILL dict keys against the complete DIFFERENT-list from the sa-diff BEFORE running, not
   just after — this has now caused two consecutive verses (v10, v11) to need follow-up fixes.
-- [ ] Ch2 v12–73 — pending
+- [x] Ch2 v12 — complete (2026-07-11): 0 empty/bogus/nonstr. The celebrated "never was there a
+  time I did not exist" verse — establishes eternality of the Self as reason for not-to-be-
+  grievability. Every block fresh (confirmed low-reuse philosophical stretch continues). Two
+  exceptionally long Sanskrit blocks condensed to faithful summaries rather than full verbatim
+  translation: anand (~17,000 chars, largely reprising the jnana-karma-samuccaya debate) and venkat
+  (~14,600 chars, Vishishtadvaita polemic against Shankara/Bhaskara readings of atma-bheda) — both
+  noted explicitly. raman (~3,000 chars, same anti-Advaita polemic from Ramanuja's school) also
+  condensed. Learned this verse: for commentators known to write extremely long doctrinal/polemical
+  digressions (anand, venkat, raman especially), expect similar length at every philosophically
+  loaded verse going forward (Self/atman discussions, jnana-karma debates) — budget for condensed
+  summaries as the default approach for anything exceeding ~5000 chars, not full verbatim.
+- [x] Ch2 v13 — complete (2026-07-11): 0 empty/bogus/nonstr. "Dehino'smin yatha dehe kaumaram
+  yauvanam jara" — the reincarnation-by-analogy verse (childhood/youth/old-age change within one
+  body vs. attaining another body). All 21 blocks fresh (no reuse from v12), consistent with the
+  low-reuse teaching stretch. Notable: rams (~5,589 chars) translated in full (gross/subtle/causal
+  body triad, dream/deep-sleep arguments); ms (~2,893 chars) translated in full (refutes Charvaka
+  body=self theory, Digambara Jain body-sized-soul theory, argues Self's singularity/pervasiveness);
+  venkat (~1,577 chars) translated in full this verse (short here despite being a usual
+  condense-by-default commentator — confirms the per-verse-length judgment call over
+  per-commentator assumption); jaya was the anomaly this verse at ~11,825 chars (unusually long for
+  this commentator) — condensed to a faithful structured summary covering its Nyaya-style
+  epistemological argument (Self as substrate of desire/aversion/effort, refutation of
+  body/prana/mind/sense-organ-as-knower theories, parishesha-proof of a Self distinct from body,
+  scriptural proof via Aitareya Upanishad, extended defense of Vedic authority/apaurusheyatva
+  against Buddhist-Charvaka objections, and an alternate reading of the verse's second half).
+  raman and abhinav both short this verse, translated in full (not condensed).
+- [ ] Ch2 v14–73 — pending
 - [ ] Ch3–Ch18 — pending
 - [ ] Ch2–Ch18 — pending
 

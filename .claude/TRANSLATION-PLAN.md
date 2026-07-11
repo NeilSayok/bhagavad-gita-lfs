@@ -747,7 +747,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v11 — complete (2026-07-11): 0 empty/bogus/nonstr. Embodied beings cannot abandon actions completely, but he who renounces action fruits is a renouncer. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
 - [x] Ch18 v12 — complete (2026-07-11): 0 empty/bogus/nonstr. Threefold fruit of action (evil, good, mixed) only affects non-renouncers. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
 - [x] Ch18 v13 — complete (2026-07-11): 0 empty/bogus/nonstr. Five causes for the accomplishment of all actions, as declared in Vedanta. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v14–79 — pending
+- [x] Ch18 v14 — complete (2026-07-11): 0 empty/bogus/nonstr. Five factors of action (body, agent, senses, vital air/functions, divinity). Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v15–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

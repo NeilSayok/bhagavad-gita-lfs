@@ -749,7 +749,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v13 — complete (2026-07-11): 0 empty/bogus/nonstr. Five causes for the accomplishment of all actions, as declared in Vedanta. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
 - [x] Ch18 v14 — complete (2026-07-11): 0 empty/bogus/nonstr. Five factors of action (body, agent, senses, vital air/functions, divinity). Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
 - [x] Ch18 v15 — complete (2026-07-11): 0 empty/bogus/nonstr. Actions performed by body, speech, and mind, whether right or wrong, have these five causes. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v16–79 — pending
+- [x] Ch18 v16 — complete (2026-07-11): 0 empty/bogus/nonstr. One who looks upon the absolute Self as the agent due to uncultivated understanding is a durmati. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v17–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

@@ -745,7 +745,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v9 — complete (2026-07-11): 0 empty/bogus/nonstr. Performing prescribed duties as a duty, without attachment or fruit, is Sattvik. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
 - [x] Ch18 v10 — complete (2026-07-11): 0 empty/bogus/nonstr. A Sattvik renouncer has no aversion to disagreeable work and no attachment to agreeable work. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
 - [x] Ch18 v11 — complete (2026-07-11): 0 empty/bogus/nonstr. Embodied beings cannot abandon actions completely, but he who renounces action fruits is a renouncer. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v12–79 — pending
+- [x] Ch18 v12 — complete (2026-07-11): 0 empty/bogus/nonstr. Threefold fruit of action (evil, good, mixed) only affects non-renouncers. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v13–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

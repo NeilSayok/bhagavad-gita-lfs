@@ -779,7 +779,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v43 — complete (2026-07-12): 0 empty/bogus/nonstr. Heroism, majesty, fortitude, dexterity, not fleeing in battle, generosity, and lordliness are the natural duties of the Kshatriyas born of Svabhava. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v44 — complete (2026-07-12): 0 empty/bogus/nonstr. Agriculture, cow protection, and trade are the natural duties of a Vaisya; and service is the natural duty of a Sudra. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v45 — complete (2026-07-12): 0 empty/bogus/nonstr. Devoted each to his own duty, man attains perfection; hear how one devoted to one's own duty attains perfection. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v46–79 — pending
+- [x] Ch18 v46 — complete (2026-07-12): 0 empty/bogus/nonstr. He from Whom is the origin of all beings and by Whom all this is pervaded — by worshipping Him with Svadharma, man attains perfection. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v47–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

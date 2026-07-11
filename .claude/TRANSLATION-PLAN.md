@@ -775,7 +775,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v39 — complete (2026-07-12): 0 empty/bogus/nonstr. Happiness which both in the beginning and in the sequel is delusive to the self, arising from sleep, indolence (sloth), and heedlessness is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v40 — complete (2026-07-12): 0 empty/bogus/nonstr. No being or entity either on earth or in heaven among the gods is free from the three Gunas born of Nature. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v41 — complete (2026-07-12): 0 empty/bogus/nonstr. The duties of Brahmanas, Kshatriyas, Vaisyas, and Sudras are distributed according to the Gunas born of their own nature (Svabhava). Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v42–79 — pending
+- [x] Ch18 v42 — complete (2026-07-12): 0 empty/bogus/nonstr. Control of mind and senses, austerity, purity, tolerance, honesty, knowledge, wisdom, and faith are the natural duties of a Brahmana born of Svabhava. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v43–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

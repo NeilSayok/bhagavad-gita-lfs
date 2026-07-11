@@ -777,7 +777,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v41 — complete (2026-07-12): 0 empty/bogus/nonstr. The duties of Brahmanas, Kshatriyas, Vaisyas, and Sudras are distributed according to the Gunas born of their own nature (Svabhava). Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v42 — complete (2026-07-12): 0 empty/bogus/nonstr. Control of mind and senses, austerity, purity, tolerance, honesty, knowledge, wisdom, and faith are the natural duties of a Brahmana born of Svabhava. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v43 — complete (2026-07-12): 0 empty/bogus/nonstr. Heroism, majesty, fortitude, dexterity, not fleeing in battle, generosity, and lordliness are the natural duties of the Kshatriyas born of Svabhava. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v44–79 — pending
+- [x] Ch18 v44 — complete (2026-07-12): 0 empty/bogus/nonstr. Agriculture, cow protection, and trade are the natural duties of a Vaisya; and service is the natural duty of a Sudra. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v45–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

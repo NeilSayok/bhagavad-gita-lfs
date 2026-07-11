@@ -787,7 +787,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v51 — complete (2026-07-12): 0 empty/bogus/nonstr. Endowed with a pure intellect, subduing the self with firmness, renouncing sound and other objects and abandoning attraction and hatred. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v52 — complete (2026-07-12): 0 empty/bogus/nonstr. Dwelling in solitude, eating but little, with speech, body and mind subdued, always engaged in meditation and concentration, resorting to dispassion. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v53 — complete (2026-07-12): 0 empty/bogus/nonstr. Having abandoned egoism, strength, arrogance, desire, anger and covetousness, and free from the notion of 'mine' and peaceful, he is fit for becoming Brahman. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v54–79 — pending
+- [x] Ch18 v54 — complete (2026-07-12): 0 empty/bogus/nonstr. Becoming Brahman, serene in the Self, he neither grieves nor desires, the same to all beings, he obtains supreme devotion to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v55–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

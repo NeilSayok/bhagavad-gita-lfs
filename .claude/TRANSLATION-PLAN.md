@@ -737,7 +737,15 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v1 — complete (2026-07-11): 0 empty/bogus/nonstr. First verse of Chapter 18. All 4 languages freshly translated using dedicated subagents' scratchpad scripts. Verified 0 empty, 0 bogus.
 - [x] Ch18 v2 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna explains Tyaga and Sannyasa. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
 - [x] Ch18 v3 — complete (2026-07-11): 0 empty/bogus/nonstr. Diverse opinions of sages on whether actions should be abandoned. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v4–79 — pending
+- [x] Ch18 v4 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna's declaration on Tyaga being threefold. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
+- [x] Ch18 v5 — complete (2026-07-11): 0 empty/bogus/nonstr. Sacrifice, gift and penance must not be abandoned. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v6 — complete (2026-07-11): 0 empty/bogus/nonstr. Actions should be performed without attachment or expectation of fruits. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v7 — complete (2026-07-11): 0 empty/bogus/nonstr. Renunciation of prescribed duties out of delusion is Tamasic. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v8 — complete (2026-07-11): 0 empty/bogus/nonstr. Renouncing duties out of fear of physical strain is Rajasic. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v9 — complete (2026-07-11): 0 empty/bogus/nonstr. Performing prescribed duties as a duty, without attachment or fruit, is Sattvik. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v10 — complete (2026-07-11): 0 empty/bogus/nonstr. A Sattvik renouncer has no aversion to disagreeable work and no attachment to agreeable work. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v11 — complete (2026-07-11): 0 empty/bogus/nonstr. Embodied beings cannot abandon actions completely, but he who renounces action fruits is a renouncer. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v12–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

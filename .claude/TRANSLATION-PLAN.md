@@ -759,7 +759,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v23 — complete (2026-07-12): 0 empty/bogus/nonstr. Obligatory action done without attachment, love or hatred, by a desireless agent is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v24 — complete (2026-07-12): 0 empty/bogus/nonstr. Action performed with egoism and great effort by one longing for gratification of desires is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v25 — complete (2026-07-12): 0 empty/bogus/nonstr. Action undertaken from delusion, without regard to consequences, loss, injury, or capacity is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v26–79 — pending
+- [x] Ch18 v26 — complete (2026-07-12): 0 empty/bogus/nonstr. Doer who is free from attachment, egoism, endowed with patience/fortitude and enthusiasm, and neutral to success/failure is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v27–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

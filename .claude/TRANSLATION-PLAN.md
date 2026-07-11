@@ -767,7 +767,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v31 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which incorrectly/doubtfully understands Dharma (righteousness) and Adharma, and duty and non-duty is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v32 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which, enveloped in darkness, sees Adharma as Dharma and reverses all values (understands perversely) is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v33 — complete (2026-07-12): 0 empty/bogus/nonstr. Unwavering fortitude (Dhrti) by which one restrains/controls the functions of mind, vital force (Prana), and senses through Yoga is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v34–79 — pending
+- [x] Ch18 v34 — complete (2026-07-12): 0 empty/bogus/nonstr. Fortitude (Dhrti) by which one, out of intense attachment and desiring fruits of action, holds fast to Dharma (duty), pleasure (Kama), and wealth (Artha) is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v35–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

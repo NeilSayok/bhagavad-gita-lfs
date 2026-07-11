@@ -756,7 +756,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v20 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge by which one sees the one indestructible Reality in all beings is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v21 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge by which one sees various entities of distinct kinds in all beings is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v22 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge which clings to a single effect as if it were the whole, without reason, is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v23–79 — pending
+- [x] Ch18 v23 — complete (2026-07-12): 0 empty/bogus/nonstr. Obligatory action done without attachment, love or hatred, by a desireless agent is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v24–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

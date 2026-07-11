@@ -754,7 +754,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v18 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge, knowable, knower are incentives; instrument, act, agent are constituents. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v19 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge, action, and doer are declared in Sankhya philosophy to be of three kinds only. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v20 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge by which one sees the one indestructible Reality in all beings is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v21–79 — pending
+- [x] Ch18 v21 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge by which one sees various entities of distinct kinds in all beings is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v22–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

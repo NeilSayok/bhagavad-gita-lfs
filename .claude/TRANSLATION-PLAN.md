@@ -770,7 +770,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v34 — complete (2026-07-12): 0 empty/bogus/nonstr. Fortitude (Dhrti) by which one, out of intense attachment and desiring fruits of action, holds fast to Dharma (duty), pleasure (Kama), and wealth (Artha) is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v35 — complete (2026-07-12): 0 empty/bogus/nonstr. Fortitude (Dhrti) by which a foolish/stupid person does not give up sleep (indolence), fear, grief, despondency, and arrogance is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v36 — complete (2026-07-12): 0 empty/bogus/nonstr. Krishna introduces the threefold division of happiness, in which one rejoices by practice and attains the end of all pain. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v37–79 — pending
+- [x] Ch18 v37 — complete (2026-07-12): 0 empty/bogus/nonstr. Happiness which is like poison at first but like nectar in the end, born of the clarity (prasada) of the intellect focused on the Self is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v38–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

@@ -764,7 +764,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v28 — complete (2026-07-12): 0 empty/bogus/nonstr. Doer who is unsteady, uncultured, stubborn, deceitful, malicious, lazy, despondent, and procrastinating is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v29 — complete (2026-07-12): 0 empty/bogus/nonstr. Krishna promises to Arjuna to fully explain the threefold divisions of intellect (Buddhi) and fortitude (Dhrti) according to Gunas. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v30 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which correctly knows pravritti (action) and nivritti (renunciation), karya and akarya (duty and non-duty), fear and fearlessness, and bondage and liberation is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v31–79 — pending
+- [x] Ch18 v31 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which incorrectly/doubtfully understands Dharma (righteousness) and Adharma, and duty and non-duty is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v32–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

@@ -770,7 +770,52 @@ Kannada   ✓ 1-1  ...
   scriptural proof via Aitareya Upanishad, extended defense of Vedic authority/apaurusheyatva
   against Buddhist-Charvaka objections, and an alternate reading of the verse's second half).
   raman and abhinav both short this verse, translated in full (not condensed).
-- [ ] Ch2 v14–73 — pending
+- [x] Ch2 v14 — complete (2026-07-11): 0 empty/bogus/nonstr. Matra-sparsha (sense-contact) verse.
+  All 20 blocks fresh; venkat's sa here was a short mid-sentence continuation fragment (no `en`),
+  translated in context of its own grammatical-exegesis style rather than as a standalone essay.
+- [x] Ch2 v15 — complete (2026-07-11): 0 empty/bogus/nonstr. "Fit for immortality" (titiksha/
+  sama-duhkha-sukha) verse. All 22 blocks fresh, even tej (usually near-boilerplate) required
+  full translation here — confirms no reuse survives into this stretch of Krishna's teaching.
+- [x] Ch2 v16 — complete (2026-07-11): 0 empty/bogus/nonstr. "Nasato vidyate bhavah" — the
+  sat/asat (real/unreal) distinction verse, foundational for the whole jnana-yoga argument that
+  follows. All 22 blocks fresh. Four exceptionally long Sanskrit blocks condensed to faithful
+  structured summaries rather than full verbatim translation: anand (~6912 ch, titiksha-as-
+  qualification argument + rope-snake anirvachaniya-dvaita polemic), ms (~5373 ch, Vaisheshika-
+  style objection that the "real" world of a real Self must also be real, refuted via superimposition/
+  shell-silver analogy), dhan (~6415 ch, mirage-silver analogy + agamapayitva-as-proof-of-unreality
+  argument), venkat (~4590 ch, refutes Shankara's reading of the verse, defends deha/atma as the
+  correct referents of asat/sat rather than "that Brahman, that being"). Confirms v12-pattern:
+  budget condensed summaries by default for any Sanskrit block exceeding ~5000 chars at
+  philosophically-loaded verses (anand/venkat/ms/dhan/raman/jaya are the recurring long-writers).
+- [x] Ch2 v17 — complete (2026-07-11): 0 empty/bogus/nonstr. "Avinashi tu tad viddhi" — defines
+  the imperishable principle pervading all. All 22 blocks fresh, moderate lengths this verse (no
+  block over ~3700 chars) — translated in full rather than condensed, matching the plan's
+  per-verse-length judgment call. **Gotcha caught by empty-check**: first fill pass completely
+  omitted anand and dhan from the FILL dict (not a trailing-comma bug — a plain omission); caught
+  immediately by the standard empty-slot verification, fixed in a follow-up pass.
+- [x] Ch2 v18 — complete (2026-07-11): 0 empty/bogus/nonstr. "Antavanta ime dehah" — bodies have
+  an end, the embodied Self does not; closes the sat/asat argument with "therefore fight." ms
+  (~6908 ch) and venkat (~10660 ch, the longest single block yet) condensed to faithful summaries;
+  rest translated in full. **Recurring gotcha, 2nd time in a row**: anand and dhan were completely
+  omitted from the FILL dict on the first pass (not trailing-comma corruption — plain omission,
+  same as v17) — caught immediately by the empty-check both times. Worth explicitly checking the
+  FILL dict's key list against the full block list (22 keys) before considering a verse done, not
+  just running the final verify after the fact.
+- [x] Ch2 v19 — complete (2026-07-12): 0 empty/bogus/nonstr. "Ya enam vetti hantaram" — refutes
+  the notion of the Self as slayer/slain, citing the Kathaka verse. All blocks moderate length this
+  verse (max ~2090 ch), translated in full, no condensing needed. Double-checked anand+dhan were
+  included in the FILL dict from the start this time (per the v17/v18 recurring-omission lesson) —
+  0 empty on first full-verify pass, confirming the explicit check works.
+- [x] Ch2 v20 — complete (2026-07-12): 0 empty/bogus/nonstr. The celebrated "na jayate mriyate
+  va" verse (also found in Katha Upanishad 1.2.18) — the Self's six-fold freedom from modification
+  (birth/existence/growth/change/decay/death). All 22 blocks fresh, moderate-to-long but all
+  translated in full (max ~3482 ch venkat, ~4190 ch prabhu) — no condensing needed this verse.
+- [x] Ch2 v21 — complete (2026-07-12): 0 empty/bogus/nonstr. "Veda avinashinam nityam" — closes
+  the argument that the knower of the imperishable Self can neither slay nor cause to be slain.
+  Two exceptionally long blocks condensed to faithful summaries: anand (~9805 ch) and sankar
+  (hi ~7427 ch + en ~13009 ch, the longest single-language field seen in the corpus so far).
+  All other 20 blocks translated in full.
+- [ ] Ch2 v22–73 — pending
 - [ ] Ch3–Ch18 — pending
 - [ ] Ch2–Ch18 — pending
 

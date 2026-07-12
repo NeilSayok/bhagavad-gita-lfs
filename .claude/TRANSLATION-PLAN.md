@@ -798,7 +798,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v63 — complete (2026-07-12): 0 empty/bogus/nonstr. Thus, has wisdom more secret than all secrets been declared to you by Me. Reflect on it fully and then act as you wish. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v64 — complete (2026-07-12): 0 empty/bogus/nonstr. Listen again to My supreme word, the most secret of all. Because you are dearly beloved to Me, I will speak what is good for you. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v65 — complete (2026-07-12): 0 empty/bogus/nonstr. Fix your mind on Me, be My devotee, worship Me, and bow down to Me. Thus, you will come to Me; I promise you this in truth, for you are dear to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v66–79 — pending
+- [x] Ch18 v66 — complete (2026-07-12): 0 empty/bogus/nonstr. Abandoning all varieties of duties, surrender unto Me alone. I shall liberate you from all sins; do not grieve. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v67–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

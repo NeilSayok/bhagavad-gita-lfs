@@ -806,7 +806,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v71 — complete (2026-07-12): 0 empty/bogus/nonstr. Even the man who listens to this with faith and without envy, he also, being liberated from sin, shall attain the auspicious worlds of the righteous. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v72 — complete (2026-07-12): 0 empty/bogus/nonstr. Has this been heard by you, O Arjuna, with an attentive mind? Has your delusion, born of ignorance, been destroyed, O Dhananjaya? Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v73 — complete (2026-07-12): 0 empty/bogus/nonstr. Arjuna said: Delusion is destroyed and memory is regained by me through Your grace, O Achyuta. I stand here free from doubt. I shall act according to Your word. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v74–79 — pending
+- [x] Ch18 v74 — complete (2026-07-12): 0 empty/bogus/nonstr. Sanjaya said: Thus have I heard this wonderful dialogue between Vasudeva and the high-souled Partha, which causes my hair to stand on end. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v75–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

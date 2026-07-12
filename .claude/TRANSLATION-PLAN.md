@@ -734,6 +734,8 @@ Kannada   ✓ 1-1  ...
   teaching ("Shri Bhagavan said"), so expect substantially different/fresh commentary blocks
   throughout from here — the low-reuse "conch/narrative" stretch is over.
 - [ ] Ch2 v11–73 — pending
+- [x] Ch17 v1 — complete (2026-07-12): 0 empty/bogus/nonstr. Arjuna asks about those who perform sacrifices with faith but without scriptural knowledge. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [ ] Ch17 v2–29 — pending
 - [x] Ch18 v1 — complete (2026-07-11): 0 empty/bogus/nonstr. First verse of Chapter 18. All 4 languages freshly translated using dedicated subagents' scratchpad scripts. Verified 0 empty, 0 bogus.
 - [x] Ch18 v2 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna explains Tyaga and Sannyasa. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
 - [x] Ch18 v3 — complete (2026-07-11): 0 empty/bogus/nonstr. Diverse opinions of sages on whether actions should be abandoned. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
@@ -812,7 +814,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v77 — complete (2026-07-12): 0 empty/bogus/nonstr. And remembering again and again that most wonderful form of Hari, great is my amazement, O King, and I rejoice again and again. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v78 — complete (2026-07-12): 0 empty/bogus/nonstr. Wherever is Krishna, the Lord of Yoga, and wherever is Partha, the archer, there will forever be fortune, victory, prosperity, and righteous policy; such is my conviction. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v79 — complete (2026-07-12): 0 empty/bogus/nonstr. Standard colophon (OM tatsaditi...). Populated standard author-not-commented statements translated into English, Hindi, Bengali, and Kannada. Verified 0 empty, 0 bogus.
-- [ ] Ch3–Ch17 — pending
+- [ ] Ch17 v2–29 — pending
+- [ ] Ch3–Ch16 — pending
 
 ### Reuse identity check (use whitespace-normalized!)
 Source `sa` blocks differ across verses only by leading tag + OCR whitespace/typos. Compare with

@@ -740,7 +740,11 @@ Kannada   ✓ 1-1  ...
 - [x] Ch17 v4 — complete (2026-07-12): 0 empty/bogus/nonstr. Sattvic worship gods, Rajasic worship Yakshas/Rakshasas, Tamasic worship Pretas/Bhutas. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
 - [x] Ch17 v5 — complete (2026-07-12): 0 empty/bogus/nonstr. The Lord describes those who practice terrifying non-scriptural penances out of vanity, egotism, lust, and attachment. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
 - [x] Ch17 v6 — complete (2026-07-12): 0 empty/bogus/nonstr. Those performing non-scriptural penances torture their physical elements and the indwelling Lord; know them to be of demonic resolve. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
-- [ ] Ch17 v7–29 — pending
+- [x] Ch17 v7 — complete (2026-07-12): 0 empty/bogus/nonstr. The Lord introduces the threefold categories of food, sacrifice, penance, and charity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v8 — complete (2026-07-12): 0 empty/bogus/nonstr. Description of Sattvic foods (juicy, fatty, wholesome, pleasing). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v9 — complete (2026-07-12): 0 empty/bogus/nonstr. Description of Rajasic foods (bitter, sour, salty, hot, pungent, dry, burning). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v10 — complete (2026-07-12): 0 empty/bogus/nonstr. Description of Tamasic foods (stale, tasteless, putrid, rotten, refuse, impure). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [ ] Ch17 v11–29 — pending
 - [x] Ch18 v1 — complete (2026-07-11): 0 empty/bogus/nonstr. First verse of Chapter 18. All 4 languages freshly translated using dedicated subagents' scratchpad scripts. Verified 0 empty, 0 bogus.
 - [x] Ch18 v2 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna explains Tyaga and Sannyasa. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
 - [x] Ch18 v3 — complete (2026-07-11): 0 empty/bogus/nonstr. Diverse opinions of sages on whether actions should be abandoned. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
@@ -819,7 +823,7 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v77 — complete (2026-07-12): 0 empty/bogus/nonstr. And remembering again and again that most wonderful form of Hari, great is my amazement, O King, and I rejoice again and again. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v78 — complete (2026-07-12): 0 empty/bogus/nonstr. Wherever is Krishna, the Lord of Yoga, and wherever is Partha, the archer, there will forever be fortune, victory, prosperity, and righteous policy; such is my conviction. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v79 — complete (2026-07-12): 0 empty/bogus/nonstr. Standard colophon (OM tatsaditi...). Populated standard author-not-commented statements translated into English, Hindi, Bengali, and Kannada. Verified 0 empty, 0 bogus.
-- [ ] Ch17 v7–29 — pending
+- [ ] Ch17 v11–29 — pending
 - [ ] Ch3–Ch16 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

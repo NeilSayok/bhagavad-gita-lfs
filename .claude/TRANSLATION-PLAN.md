@@ -793,7 +793,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v58 — complete (2026-07-12): 0 empty/bogus/nonstr. Fixing your mind on Me, you shall overcome all difficulties by My grace. But if, due to egoism, you do not listen to Me, you shall perish. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v59 — complete (2026-07-12): 0 empty/bogus/nonstr. If, filled with egotism, you think: 'I will not fight', futile is this resolve of yours; your nature will compel you. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v60 — complete (2026-07-12): 0 empty/bogus/nonstr. Bound by your own duty born of your nature, O Kaunteya, that which from delusion you do not wish to do, you shall do even against your will. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v61–79 — pending
+- [x] Ch18 v61 — complete (2026-07-12): 0 empty/bogus/nonstr. The Supreme Lord dwells in the hearts of all living beings, O Arjuna, causing them to spin by His illusory power, as if mounted on a machine. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v62–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

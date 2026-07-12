@@ -803,7 +803,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v68 — complete (2026-07-12): 0 empty/bogus/nonstr. He who with supreme devotion to Me teaches this supreme secret to My devotees, shall doubtless come to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v69 — complete (2026-07-12): 0 empty/bogus/nonstr. And there is none among men who does a more loving service to Me than he; nor shall there be another on earth dearer to Me than he. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v70 — complete (2026-07-12): 0 empty/bogus/nonstr. And he who will study this sacred dialogue of ours, by him I shall be worshipped through the sacrifice of knowledge; such is My view. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v71–79 — pending
+- [x] Ch18 v71 — complete (2026-07-12): 0 empty/bogus/nonstr. Even the man who listens to this with faith and without envy, he also, being liberated from sin, shall attain the auspicious worlds of the righteous. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v72–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

@@ -795,7 +795,8 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v60 — complete (2026-07-12): 0 empty/bogus/nonstr. Bound by your own duty born of your nature, O Kaunteya, that which from delusion you do not wish to do, you shall do even against your will. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v61 — complete (2026-07-12): 0 empty/bogus/nonstr. The Supreme Lord dwells in the hearts of all living beings, O Arjuna, causing them to spin by His illusory power, as if mounted on a machine. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v62 — complete (2026-07-12): 0 empty/bogus/nonstr. Surrender unto Him alone with all your heart, O Bharata. By His grace you shall attain supreme peace and the eternal abode. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v63–79 — pending
+- [x] Ch18 v63 — complete (2026-07-12): 0 empty/bogus/nonstr. Thus, has wisdom more secret than all secrets been declared to you by Me. Reflect on it fully and then act as you wish. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [ ] Ch18 v64–79 — pending
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

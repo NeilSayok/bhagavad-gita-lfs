@@ -811,7 +811,7 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v76 — complete (2026-07-12): 0 empty/bogus/nonstr. O King, remembering again and again this wonderful and holy dialogue between Krishna and Arjuna, I rejoice repeatedly. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v77 — complete (2026-07-12): 0 empty/bogus/nonstr. And remembering again and again that most wonderful form of Hari, great is my amazement, O King, and I rejoice again and again. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v78 — complete (2026-07-12): 0 empty/bogus/nonstr. Wherever is Krishna, the Lord of Yoga, and wherever is Partha, the archer, there will forever be fortune, victory, prosperity, and righteous policy; such is my conviction. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
-- [ ] Ch18 v79 — pending
+- [x] Ch18 v79 — complete (2026-07-12): 0 empty/bogus/nonstr. Standard colophon (OM tatsaditi...). Populated standard author-not-commented statements translated into English, Hindi, Bengali, and Kannada. Verified 0 empty, 0 bogus.
 - [ ] Ch3–Ch17 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

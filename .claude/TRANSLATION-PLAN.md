@@ -748,7 +748,12 @@ Kannada   ✓ 1-1  ...
 - [x] Ch17 v12 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Rajasic sacrifice. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
 - [x] Ch17 v13 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Tamasic sacrifice. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
 - [x] Ch17 v14 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of bodily austerity (tapas). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
-- [ ] Ch17 v15–29 — pending
+- [x] Ch17 v15 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of vocal austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v16 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of mental austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v17 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Sattvic austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v18 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Rajasic austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v19 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Tamasic austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [ ] Ch17 v20–29 — pending
 - [x] Ch18 v1 — complete (2026-07-11): 0 empty/bogus/nonstr. First verse of Chapter 18. All 4 languages freshly translated using dedicated subagents' scratchpad scripts. Verified 0 empty, 0 bogus.
 - [x] Ch18 v2 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna explains Tyaga and Sannyasa. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
 - [x] Ch18 v3 — complete (2026-07-11): 0 empty/bogus/nonstr. Diverse opinions of sages on whether actions should be abandoned. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
@@ -827,7 +832,7 @@ Kannada   ✓ 1-1  ...
 - [x] Ch18 v77 — complete (2026-07-12): 0 empty/bogus/nonstr. And remembering again and again that most wonderful form of Hari, great is my amazement, O King, and I rejoice again and again. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v78 — complete (2026-07-12): 0 empty/bogus/nonstr. Wherever is Krishna, the Lord of Yoga, and wherever is Partha, the archer, there will forever be fortune, victory, prosperity, and righteous policy; such is my conviction. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
 - [x] Ch18 v79 — complete (2026-07-12): 0 empty/bogus/nonstr. Standard colophon (OM tatsaditi...). Populated standard author-not-commented statements translated into English, Hindi, Bengali, and Kannada. Verified 0 empty, 0 bogus.
-- [ ] Ch17 v15–29 — pending
+- [ ] Ch17 v20–29 — pending
 - [ ] Ch3–Ch16 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

@@ -821,7 +821,38 @@ Kannada   ✓ 1-1  ...
   hi/be/ka matching the "No commentary." in en). **Gotcha caught**: first fill pass omitted tej
   entirely (had only tej.hi pre-filled, needed en/be/ka) — caught immediately by empty-check,
   fixed in a follow-up single-block pass.
-- [ ] Ch2 v23–73 — pending
+- [x] Ch2 v23 — complete (2026-07-12): 0 empty/bogus/nonstr. "Nainam chindanti shastrani" —
+  weapons/fire/water/wind cannot affect the Self. All blocks moderate, translated in full.
+- [x] Ch2 v24 — complete (2026-07-12): 0 empty/bogus/nonstr. "Achchhedyo'yam adahyo'yam" —
+  uncuttable/unburnable/unwettable/undryable, eternal/all-pervading/stationary/immovable/ancient.
+  jaya (~14188 ch, the longest single block yet in the entire corpus) condensed to a faithful
+  summary; all other blocks translated in full.
+- [x] Ch2 v25 — complete (2026-07-12): 0 empty/bogus/nonstr. "Avyakto'yam achintyo'yam
+  avikaryo'yam uchyate" — unmanifest/unthinkable/unchangeable verse. All 22 blocks translated in
+  full (no condensing needed); puru/neel/prabhu filled in a final stage after tej/siva/purohit/
+  san/adi/gambir/chinmay/madhav/anand/rams/raman/abhinav/sankar/jaya/vallabh/ms/srid/dhan/venkat.
+- [x] Ch2 v26 — complete (2026-07-12): 0 empty/bogus/nonstr. "Atha cainam nityajatam" —
+  Krishna's second argument (for the sake of argument, granting the Self is constantly born and
+  dying, grief is still unwarranted). All 22 blocks translated in full, no condensing needed
+  (longest was ms.sa ~1798 ch, prabhu.en ~2364 ch).
+- [x] Ch2 v27 — complete (2026-07-13): 0 empty/bogus/nonstr. "Jatasya hi dhruvo mrtyuh" —
+  death is certain for the born, birth certain for the dead; grieve not over the inevitable.
+  venkat (~5767 ch) condensed to a faithful summary; all other 21 blocks translated in full.
+- [x] Ch2 v28 — complete (2026-07-13): 0 empty/bogus/nonstr. "Avyaktadini bhutani vyaktamadhyani
+  bharata" — beings unmanifest at the start, manifest in the middle, unmanifest at the end; what
+  cause for grief? All 22 blocks translated in full, no condensing needed (longest was venkat.sa
+  ~2033 ch).
+- [x] Ch2 v29 — complete (2026-07-13): 0 empty/bogus/nonstr. "Ascaryavat pasyati kascid enam" —
+  the famous "wonder" verse on how rare it is to see/speak of/hear of/truly know the Self. rams
+  (~6884 ch), ms.sa (~5597 ch), and dhan.sa (~6978 ch) condensed to faithful summaries; all other
+  19 blocks translated in full.
+- [x] Ch2 v30 — complete (2026-07-13): 0 empty/bogus/nonstr. "Dehi nityam avadhyo'yam dehe
+  sarvasya bharata" — closes the "wise grieve not" section (v11-30): the embodied Self in
+  everyone's body is ever indestructible, therefore grieve not for any being. All 22 blocks
+  translated in full, no condensing needed (madhav and jaya are the standard "did not comment"
+  boilerplate; longest substantive block was rams.hi ~3952 ch, including a special "Section Note"
+  on why the whole v11-30 stretch avoids philosophical jargon in favor of plain deha/dehi terms).
+- [ ] Ch2 v31–73 — pending
 - [ ] Ch3–Ch18 — pending
 - [ ] Ch2–Ch18 — pending
 

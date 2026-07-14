@@ -852,9 +852,20 @@ Kannada   ✓ 1-1  ...
   translated in full, no condensing needed (madhav and jaya are the standard "did not comment"
   boilerplate; longest substantive block was rams.hi ~3952 ch, including a special "Section Note"
   on why the whole v11-30 stretch avoids philosophical jargon in favor of plain deha/dehi terms).
-- [ ] Ch2 v31–73 — pending
+- [x] Ch2 v31–39 — complete (2026-07-14): 0 empty/bogus/nonstr each. Workflow change this
+  session — ran 4 language agents (hi/en/be/ka) truly in parallel per verse (not sequential
+  batches as §6.3 originally specified). To avoid the same-file concurrent-write collision the
+  plan warns about (§8), each agent edited its own scratch copy of the verse JSON
+  (`/tmp/gita_merge/{hi,en,be,ka}/vNN.json`) instead of the repo file directly; the orchestrator
+  then merged the 4 completed copies' language fields back into the real `slok/` file and reran
+  the empty/nonstr/bogus detector before advancing. This sidesteps the lost-update race while
+  still getting 4-way parallelism. Hit the account session limit once (v36) — agents reported
+  "failed" but had actually finished their file edits before the final reply errored out
+  (session limit errors land only when generating the completion message, not mid-edit) — worth
+  checking the scratch copy for completeness before re-dispatching a "failed" agent, not just
+  re-running blind.
+- [ ] Ch2 v40–73 — pending
 - [ ] Ch3–Ch18 — pending
-- [ ] Ch2–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)
 Source `sa` blocks differ across verses only by leading tag + OCR whitespace/typos. Compare with

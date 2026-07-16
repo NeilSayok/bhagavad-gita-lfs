@@ -864,7 +864,18 @@ Kannada   ✓ 1-1  ...
   (session limit errors land only when generating the completion message, not mid-edit) — worth
   checking the scratch copy for completeness before re-dispatching a "failed" agent, not just
   re-running blind.
-- [ ] Ch2 v40–73 — pending
+- [x] Ch2 v40–46 — complete (2026-07-14/15, prior session): 0 empty/bogus/nonstr each.
+- [x] Ch2 v47 — complete (2026-07-16): 0 empty/bogus/nonstr. The celebrated
+  "karmanyevadhikaraste ma phaleshu kadachana" verse. Scratch files from a prior
+  session were lost (tmp wiped between sessions) forcing a full redo; ran 4
+  language agents (hi/en/be/ka) in parallel per the v31-39 scratch-copy-then-merge
+  workflow, then merged into the real file. rams (10070-char Hindi) and jaya
+  (7546-char Sanskrit) condensed to faithful structured summaries per the >5000-char
+  rule. **Lesson: scratch files under /tmp or the session scratchpad do not survive
+  across sessions/context resets — if resuming interrupted work, always re-verify
+  scratch files still exist before assuming prior progress carried over.**
+- [ ] Ch2 v48–73 — pending (26 verses, all currently 0% translated — un-merged
+  Phase-1 restructure state, ~75 empty slots each)
 - [ ] Ch3–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

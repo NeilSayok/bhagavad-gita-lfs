@@ -874,7 +874,24 @@ Kannada   ✓ 1-1  ...
   rule. **Lesson: scratch files under /tmp or the session scratchpad do not survive
   across sessions/context resets — if resuming interrupted work, always re-verify
   scratch files still exist before assuming prior progress carried over.**
-- [ ] Ch2 v48–73 — pending (26 verses, all currently 0% translated — un-merged
+- [x] Ch2 v48–53 — complete (2026-07-17): 0 empty/bogus/nonstr each. Standard
+  4-parallel-language-agent scratch-copy-then-merge workflow. **Lesson confirmed
+  again**: the session scratchpad directory changes across context
+  resets/session boundaries (new session-id subdir each time) — scratch files
+  from a prior session ARE NOT reachable at their old path and must be treated
+  as lost if a merge didn't happen before the boundary. Mitigation adopted:
+  merge into the real repo file immediately after all 4 language agents finish
+  for a verse (do not batch merges across verses) — this bounds any single
+  session-reset's damage to at most one in-flight verse.
+- [x] Ch2 v54–56 — complete (2026-07-17): 0 empty/bogus/nonstr each. The
+  sthitaprajna (steady-wisdom) section opening: Arjuna's question (v54) and
+  Krishna's first two defining verses (v55-56).
+- [x] Ch2 v57–58 — complete (2026-07-17/18): 0 empty/bogus/nonstr each.
+  Non-attachment amid good/evil (v57); tortoise-withdrawal sense-control (v58).
+- [x] Ch2 v59–60 — complete (2026-07-18): 0 empty/bogus/nonstr each. Taste
+  lingers till Self-realization (v59); senses forcibly carry away the mind
+  even of the striving wise (v60).
+- [ ] Ch2 v61–73 — pending (13 verses, all currently 0% translated — un-merged
   Phase-1 restructure state, ~75 empty slots each)
 - [ ] Ch3–Ch18 — pending
 

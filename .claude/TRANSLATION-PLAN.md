@@ -897,8 +897,17 @@ Kannada   ✓ 1-1  ...
 - [x] Ch2 v63–64 — complete (2026-07-19/20): 0 empty/bogus/nonstr each. Fall
   chain completes: anger→delusion→memory-loss→ruin (v63); self-controlled one
   moving among objects free of attachment/aversion attains grace (v64).
-- [ ] Ch2 v65–73 — pending (9 verses, all currently 0% translated — un-merged
-  Phase-1 restructure state, ~75 empty slots each)
+- [x] Ch2 v65–66 — complete (2026-07-20): 0 empty/bogus/nonstr each. Grace
+  destroys all sorrow, tranquil intellect becomes firmly established (v65);
+  no wisdom/peace/happiness for the unsteady mind (v66).
+- [x] Ch2 v67 — complete (2026-07-20): 0 empty/bogus/nonstr. Wandering senses
+  carry away wisdom like wind carries a boat.
+- [x] Ch2 v68 — complete (2026-07-20): 0 empty/bogus/nonstr. Closes the
+  sense-control section: senses completely restrained → firm wisdom.
+- [x] Ch2 v69 — complete (2026-07-20): 0 empty/bogus/nonstr. The celebrated
+  "night for all beings / night for the sage" verse.
+- [ ] Ch2 v70–73 — pending (4 verses, all currently 0% translated — un-merged
+  Phase-1 restructure state, ~75 empty slots each). Final stretch of Ch2.
 - [ ] Ch3–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

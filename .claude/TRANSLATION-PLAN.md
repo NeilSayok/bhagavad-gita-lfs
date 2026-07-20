@@ -891,7 +891,13 @@ Kannada   ✓ 1-1  ...
 - [x] Ch2 v59–60 — complete (2026-07-18): 0 empty/bogus/nonstr each. Taste
   lingers till Self-realization (v59); senses forcibly carry away the mind
   even of the striving wise (v60).
-- [ ] Ch2 v61–73 — pending (13 verses, all currently 0% translated — un-merged
+- [x] Ch2 v61–62 — complete (2026-07-18/19): 0 empty/bogus/nonstr each.
+  Senses under control → firm wisdom (v61); dwelling on objects → attachment
+  → desire → anger, the fall chain begins (v62).
+- [x] Ch2 v63–64 — complete (2026-07-19/20): 0 empty/bogus/nonstr each. Fall
+  chain completes: anger→delusion→memory-loss→ruin (v63); self-controlled one
+  moving among objects free of attachment/aversion attains grace (v64).
+- [ ] Ch2 v65–73 — pending (9 verses, all currently 0% translated — un-merged
   Phase-1 restructure state, ~75 empty slots each)
 - [ ] Ch3–Ch18 — pending
 

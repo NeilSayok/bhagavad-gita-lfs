@@ -906,8 +906,19 @@ Kannada   ✓ 1-1  ...
   sense-control section: senses completely restrained → firm wisdom.
 - [x] Ch2 v69 — complete (2026-07-20): 0 empty/bogus/nonstr. The celebrated
   "night for all beings / night for the sage" verse.
-- [ ] Ch2 v70–73 — pending (4 verses, all currently 0% translated — un-merged
-  Phase-1 restructure state, ~75 empty slots each). Final stretch of Ch2.
+- [x] Ch2 v70 — complete (2026-07-22): 0 empty/bogus/nonstr. Ocean simile —
+  desires enter the peaceful sage as waters enter the ocean, unmoving.
+- [x] Ch2 v71 — complete (2026-07-22): 0 empty/bogus/nonstr. Abandoning all
+  desires, free of "mine"-ness and ego, attains peace.
+- [x] Ch2 v72 — complete (2026-07-23): 0 empty/bogus/nonstr. Final teaching
+  verse: brahmi sthiti, state of Brahman, liberation even at death.
+- [x] Ch2 v73 — complete (2026-07-23): 0 empty/bogus/nonstr. Closing colophon
+  ("Thus ends Chapter 2, Sankhya Yoga"). All 20 no-comment blocks translated
+  directly (mechanical, no sub-agents needed — fixed sentence per language).
+
+## CHAPTER 2 COMPLETE (2026-07-23)
+All 73 verses of Chapter 2 (Sankhya Yoga) fully translated: hi/en/be/ka, 0
+empty/bogus/nonstr across every commentator block, verified verse-by-verse.
 - [ ] Ch3–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

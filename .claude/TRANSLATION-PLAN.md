@@ -919,7 +919,16 @@ Kannada   ✓ 1-1  ...
 ## CHAPTER 2 COMPLETE (2026-07-23)
 All 73 verses of Chapter 2 (Sankhya Yoga) fully translated: hi/en/be/ka, 0
 empty/bogus/nonstr across every commentator block, verified verse-by-verse.
-- [ ] Ch3–Ch18 — pending
+
+## CHAPTER 3 (Karma Yoga) — 44 verses, in progress
+- [x] Ch3 v1 — complete (2026-07-23): 0 empty/bogus/nonstr. Arjuna's question:
+  if wisdom is superior to action, why urge me into this terrible action?
+- [x] Ch3 v2 — complete (2026-07-23): 0 empty/bogus/nonstr. Arjuna: your
+  seemingly conflicting words confuse me — tell me one definite path.
+- [x] Ch3 v3 — complete (2026-07-23): 0 empty/bogus/nonstr. Krishna: two paths
+  taught of old — jnana-yoga for Sankhyas, karma-yoga for yogis.
+- [ ] Ch3 v4–44 — pending.
+- [ ] Ch4–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)
 Source `sa` blocks differ across verses only by leading tag + OCR whitespace/typos. Compare with

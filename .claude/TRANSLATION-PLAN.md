@@ -927,7 +927,22 @@ empty/bogus/nonstr across every commentator block, verified verse-by-verse.
   seemingly conflicting words confuse me — tell me one definite path.
 - [x] Ch3 v3 — complete (2026-07-23): 0 empty/bogus/nonstr. Krishna: two paths
   taught of old — jnana-yoga for Sankhyas, karma-yoga for yogis.
-- [ ] Ch3 v4–44 — pending.
+- [x] Ch3 v4 — complete (2026-07-23): 0 empty/bogus/nonstr. Not by abstaining
+  from action does one gain freedom from action, nor by renunciation alone.
+  (Lesson: scratch dir changed session id again mid-batch — v3/v4 agents
+  redispatched from fresh copies; v3 had already been merged so was safe.)
+- [x] Ch3 v5 — complete (2026-07-23): 0 empty/bogus/nonstr. No one remains
+  actionless even a moment; all are compelled by gunas born of nature.
+- [x] Ch3 v6 — complete (2026-07-28): 0 empty/bogus/nonstr, 75 slots filled. The
+  "mithyacara" (hypocrite) verse: restraining the organs of action while the mind
+  broods on sense objects. No reuse available from v5 — every Sanskrit block
+  (madhav/anand/jaya/vallabh/ms/srid/dhan/venkat/puru/neel) is per-verse fresh here;
+  madhav/jaya carry the shared `3.6 3.7` range tag. Done in the main session
+  (§8 fallback) in 6 staged scripts A–F via a shared `v6_common.apply()` helper that
+  refuses to overwrite a non-empty slot and rejects non-str values — this kills the
+  recurring trailing-comma/overwrite class of bug at the source rather than catching
+  it after the fact. Worth reusing for the rest of Ch3.
+- [ ] Ch3 v7–44 — pending.
 - [ ] Ch4–Ch18 — pending
 
 ### Reuse identity check (use whitespace-normalized!)

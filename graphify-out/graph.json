@@ -9,7 +9,7 @@
       "source_file": "validate_slok.py",
       "source_location": "L1",
       "id": "validate_slok",
-      "community": 2
+      "community": 1
     },
     {
       "label": "validate()",
@@ -17,7 +17,7 @@
       "source_file": "validate_slok.py",
       "source_location": "L3",
       "id": "validate_slok_validate",
-      "community": 2
+      "community": 1
     },
     {
       "label": "scratchpad_fill.py",
@@ -25,7 +25,7 @@
       "source_file": "scratchpad_fill.py",
       "source_location": "L1",
       "id": "scratchpad_fill",
-      "community": 0
+      "community": 2
     },
     {
       "label": "fill()",
@@ -33,7 +33,7 @@
       "source_file": "scratchpad_fill.py",
       "source_location": "L3",
       "id": "scratchpad_fill_fill",
-      "community": 0
+      "community": 2
     },
     {
       "label": "run_scripts.py",
@@ -41,7 +41,7 @@
       "source_file": "run_scripts.py",
       "source_location": "L1",
       "id": "run_scripts",
-      "community": 1
+      "community": 0
     },
     {
       "label": "run_subagent_scripts()",
@@ -49,7 +49,7 @@
       "source_file": "run_scripts.py",
       "source_location": "L3",
       "id": "run_scripts_run_subagent_scripts",
-      "community": 1
+      "community": 0
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",

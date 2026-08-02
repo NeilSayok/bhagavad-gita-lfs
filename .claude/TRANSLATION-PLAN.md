@@ -8,6 +8,8 @@ Last updated: 2026-07-05
 
 ---
 
+### Start from chapter 18 then go to 17 then 16, etc. (reverse order)
+
 ## 1. Goal & Scope
 
 Translate the Bhagavad Gita repository into multiple languages while preserving:
@@ -731,219 +733,107 @@ Kannada   ✓ 1-1  ...
   from here on, not tag-swap reuse. This closes the narrative frame; v11 begins Krishna's actual
   teaching ("Shri Bhagavan said"), so expect substantially different/fresh commentary blocks
   throughout from here — the low-reuse "conch/narrative" stretch is over.
-- [x] Ch2 v11 — complete (2026-07-10): 0 empty/bogus/nonstr (two blocks initially missed — venkat at
-  v10-adjacent fix and here raman/abhinav were flagged DIFFERENT but skipped in the FILL dict; both
-  caught by post-run empty-check, not before running). "Shri Bhagavan said: you have grieved for
-  those not to be grieved for, yet you speak words of wisdom — the wise grieve neither for the dead
-  nor the living." First verse of Krishna's actual teaching (Shri Bhagavan Uvacha) — confirms the
-  low-reuse stretch predicted at v10: every single block was DIFFERENT, no tag-swap reuse at all
-  this verse. anand's sa block (~17,000 chars) was condensed to a faithful summary translation
-  rather than full verbatim rendering, since it substantially duplicates the jnana-karma-samuccaya
-  debate already fully translated for sankar at v10 — noted explicitly in the translation. abhinav
-  has no commentary on this verse in the source ("No commentary") — used the standard "[Author] did
-  not comment on this sloka" pattern. New habit for this low-reuse stretch: cross-check the fill
-  script's FILL dict keys against the complete DIFFERENT-list from the sa-diff BEFORE running, not
-  just after — this has now caused two consecutive verses (v10, v11) to need follow-up fixes.
-- [x] Ch2 v12 — complete (2026-07-11): 0 empty/bogus/nonstr. The celebrated "never was there a
-  time I did not exist" verse — establishes eternality of the Self as reason for not-to-be-
-  grievability. Every block fresh (confirmed low-reuse philosophical stretch continues). Two
-  exceptionally long Sanskrit blocks condensed to faithful summaries rather than full verbatim
-  translation: anand (~17,000 chars, largely reprising the jnana-karma-samuccaya debate) and venkat
-  (~14,600 chars, Vishishtadvaita polemic against Shankara/Bhaskara readings of atma-bheda) — both
-  noted explicitly. raman (~3,000 chars, same anti-Advaita polemic from Ramanuja's school) also
-  condensed. Learned this verse: for commentators known to write extremely long doctrinal/polemical
-  digressions (anand, venkat, raman especially), expect similar length at every philosophically
-  loaded verse going forward (Self/atman discussions, jnana-karma debates) — budget for condensed
-  summaries as the default approach for anything exceeding ~5000 chars, not full verbatim.
-- [x] Ch2 v13 — complete (2026-07-11): 0 empty/bogus/nonstr. "Dehino'smin yatha dehe kaumaram
-  yauvanam jara" — the reincarnation-by-analogy verse (childhood/youth/old-age change within one
-  body vs. attaining another body). All 21 blocks fresh (no reuse from v12), consistent with the
-  low-reuse teaching stretch. Notable: rams (~5,589 chars) translated in full (gross/subtle/causal
-  body triad, dream/deep-sleep arguments); ms (~2,893 chars) translated in full (refutes Charvaka
-  body=self theory, Digambara Jain body-sized-soul theory, argues Self's singularity/pervasiveness);
-  venkat (~1,577 chars) translated in full this verse (short here despite being a usual
-  condense-by-default commentator — confirms the per-verse-length judgment call over
-  per-commentator assumption); jaya was the anomaly this verse at ~11,825 chars (unusually long for
-  this commentator) — condensed to a faithful structured summary covering its Nyaya-style
-  epistemological argument (Self as substrate of desire/aversion/effort, refutation of
-  body/prana/mind/sense-organ-as-knower theories, parishesha-proof of a Self distinct from body,
-  scriptural proof via Aitareya Upanishad, extended defense of Vedic authority/apaurusheyatva
-  against Buddhist-Charvaka objections, and an alternate reading of the verse's second half).
-  raman and abhinav both short this verse, translated in full (not condensed).
-- [x] Ch2 v14 — complete (2026-07-11): 0 empty/bogus/nonstr. Matra-sparsha (sense-contact) verse.
-  All 20 blocks fresh; venkat's sa here was a short mid-sentence continuation fragment (no `en`),
-  translated in context of its own grammatical-exegesis style rather than as a standalone essay.
-- [x] Ch2 v15 — complete (2026-07-11): 0 empty/bogus/nonstr. "Fit for immortality" (titiksha/
-  sama-duhkha-sukha) verse. All 22 blocks fresh, even tej (usually near-boilerplate) required
-  full translation here — confirms no reuse survives into this stretch of Krishna's teaching.
-- [x] Ch2 v16 — complete (2026-07-11): 0 empty/bogus/nonstr. "Nasato vidyate bhavah" — the
-  sat/asat (real/unreal) distinction verse, foundational for the whole jnana-yoga argument that
-  follows. All 22 blocks fresh. Four exceptionally long Sanskrit blocks condensed to faithful
-  structured summaries rather than full verbatim translation: anand (~6912 ch, titiksha-as-
-  qualification argument + rope-snake anirvachaniya-dvaita polemic), ms (~5373 ch, Vaisheshika-
-  style objection that the "real" world of a real Self must also be real, refuted via superimposition/
-  shell-silver analogy), dhan (~6415 ch, mirage-silver analogy + agamapayitva-as-proof-of-unreality
-  argument), venkat (~4590 ch, refutes Shankara's reading of the verse, defends deha/atma as the
-  correct referents of asat/sat rather than "that Brahman, that being"). Confirms v12-pattern:
-  budget condensed summaries by default for any Sanskrit block exceeding ~5000 chars at
-  philosophically-loaded verses (anand/venkat/ms/dhan/raman/jaya are the recurring long-writers).
-- [x] Ch2 v17 — complete (2026-07-11): 0 empty/bogus/nonstr. "Avinashi tu tad viddhi" — defines
-  the imperishable principle pervading all. All 22 blocks fresh, moderate lengths this verse (no
-  block over ~3700 chars) — translated in full rather than condensed, matching the plan's
-  per-verse-length judgment call. **Gotcha caught by empty-check**: first fill pass completely
-  omitted anand and dhan from the FILL dict (not a trailing-comma bug — a plain omission); caught
-  immediately by the standard empty-slot verification, fixed in a follow-up pass.
-- [x] Ch2 v18 — complete (2026-07-11): 0 empty/bogus/nonstr. "Antavanta ime dehah" — bodies have
-  an end, the embodied Self does not; closes the sat/asat argument with "therefore fight." ms
-  (~6908 ch) and venkat (~10660 ch, the longest single block yet) condensed to faithful summaries;
-  rest translated in full. **Recurring gotcha, 2nd time in a row**: anand and dhan were completely
-  omitted from the FILL dict on the first pass (not trailing-comma corruption — plain omission,
-  same as v17) — caught immediately by the empty-check both times. Worth explicitly checking the
-  FILL dict's key list against the full block list (22 keys) before considering a verse done, not
-  just running the final verify after the fact.
-- [x] Ch2 v19 — complete (2026-07-12): 0 empty/bogus/nonstr. "Ya enam vetti hantaram" — refutes
-  the notion of the Self as slayer/slain, citing the Kathaka verse. All blocks moderate length this
-  verse (max ~2090 ch), translated in full, no condensing needed. Double-checked anand+dhan were
-  included in the FILL dict from the start this time (per the v17/v18 recurring-omission lesson) —
-  0 empty on first full-verify pass, confirming the explicit check works.
-- [x] Ch2 v20 — complete (2026-07-12): 0 empty/bogus/nonstr. The celebrated "na jayate mriyate
-  va" verse (also found in Katha Upanishad 1.2.18) — the Self's six-fold freedom from modification
-  (birth/existence/growth/change/decay/death). All 22 blocks fresh, moderate-to-long but all
-  translated in full (max ~3482 ch venkat, ~4190 ch prabhu) — no condensing needed this verse.
-- [x] Ch2 v21 — complete (2026-07-12): 0 empty/bogus/nonstr. "Veda avinashinam nityam" — closes
-  the argument that the knower of the imperishable Self can neither slay nor cause to be slain.
-  Two exceptionally long blocks condensed to faithful summaries: anand (~9805 ch) and sankar
-  (hi ~7427 ch + en ~13009 ch, the longest single-language field seen in the corpus so far).
-  All other 20 blocks translated in full.
-- [x] Ch2 v22 — complete (2026-07-12): 0 empty/bogus/nonstr. "Vasamsi jirnani" — the celebrated
-  worn-clothes analogy for reincarnation. Blocks moderate this verse, all translated in full
-  (siva has no commentary at all for this verse in the source — noted as "[No commentary]" in
-  hi/be/ka matching the "No commentary." in en). **Gotcha caught**: first fill pass omitted tej
-  entirely (had only tej.hi pre-filled, needed en/be/ka) — caught immediately by empty-check,
-  fixed in a follow-up single-block pass.
-- [x] Ch2 v23 — complete (2026-07-12): 0 empty/bogus/nonstr. "Nainam chindanti shastrani" —
-  weapons/fire/water/wind cannot affect the Self. All blocks moderate, translated in full.
-- [x] Ch2 v24 — complete (2026-07-12): 0 empty/bogus/nonstr. "Achchhedyo'yam adahyo'yam" —
-  uncuttable/unburnable/unwettable/undryable, eternal/all-pervading/stationary/immovable/ancient.
-  jaya (~14188 ch, the longest single block yet in the entire corpus) condensed to a faithful
-  summary; all other blocks translated in full.
-- [x] Ch2 v25 — complete (2026-07-12): 0 empty/bogus/nonstr. "Avyakto'yam achintyo'yam
-  avikaryo'yam uchyate" — unmanifest/unthinkable/unchangeable verse. All 22 blocks translated in
-  full (no condensing needed); puru/neel/prabhu filled in a final stage after tej/siva/purohit/
-  san/adi/gambir/chinmay/madhav/anand/rams/raman/abhinav/sankar/jaya/vallabh/ms/srid/dhan/venkat.
-- [x] Ch2 v26 — complete (2026-07-12): 0 empty/bogus/nonstr. "Atha cainam nityajatam" —
-  Krishna's second argument (for the sake of argument, granting the Self is constantly born and
-  dying, grief is still unwarranted). All 22 blocks translated in full, no condensing needed
-  (longest was ms.sa ~1798 ch, prabhu.en ~2364 ch).
-- [x] Ch2 v27 — complete (2026-07-13): 0 empty/bogus/nonstr. "Jatasya hi dhruvo mrtyuh" —
-  death is certain for the born, birth certain for the dead; grieve not over the inevitable.
-  venkat (~5767 ch) condensed to a faithful summary; all other 21 blocks translated in full.
-- [x] Ch2 v28 — complete (2026-07-13): 0 empty/bogus/nonstr. "Avyaktadini bhutani vyaktamadhyani
-  bharata" — beings unmanifest at the start, manifest in the middle, unmanifest at the end; what
-  cause for grief? All 22 blocks translated in full, no condensing needed (longest was venkat.sa
-  ~2033 ch).
-- [x] Ch2 v29 — complete (2026-07-13): 0 empty/bogus/nonstr. "Ascaryavat pasyati kascid enam" —
-  the famous "wonder" verse on how rare it is to see/speak of/hear of/truly know the Self. rams
-  (~6884 ch), ms.sa (~5597 ch), and dhan.sa (~6978 ch) condensed to faithful summaries; all other
-  19 blocks translated in full.
-- [x] Ch2 v30 — complete (2026-07-13): 0 empty/bogus/nonstr. "Dehi nityam avadhyo'yam dehe
-  sarvasya bharata" — closes the "wise grieve not" section (v11-30): the embodied Self in
-  everyone's body is ever indestructible, therefore grieve not for any being. All 22 blocks
-  translated in full, no condensing needed (madhav and jaya are the standard "did not comment"
-  boilerplate; longest substantive block was rams.hi ~3952 ch, including a special "Section Note"
-  on why the whole v11-30 stretch avoids philosophical jargon in favor of plain deha/dehi terms).
-- [x] Ch2 v31–39 — complete (2026-07-14): 0 empty/bogus/nonstr each. Workflow change this
-  session — ran 4 language agents (hi/en/be/ka) truly in parallel per verse (not sequential
-  batches as §6.3 originally specified). To avoid the same-file concurrent-write collision the
-  plan warns about (§8), each agent edited its own scratch copy of the verse JSON
-  (`/tmp/gita_merge/{hi,en,be,ka}/vNN.json`) instead of the repo file directly; the orchestrator
-  then merged the 4 completed copies' language fields back into the real `slok/` file and reran
-  the empty/nonstr/bogus detector before advancing. This sidesteps the lost-update race while
-  still getting 4-way parallelism. Hit the account session limit once (v36) — agents reported
-  "failed" but had actually finished their file edits before the final reply errored out
-  (session limit errors land only when generating the completion message, not mid-edit) — worth
-  checking the scratch copy for completeness before re-dispatching a "failed" agent, not just
-  re-running blind.
-- [x] Ch2 v40–46 — complete (2026-07-14/15, prior session): 0 empty/bogus/nonstr each.
-- [x] Ch2 v47 — complete (2026-07-16): 0 empty/bogus/nonstr. The celebrated
-  "karmanyevadhikaraste ma phaleshu kadachana" verse. Scratch files from a prior
-  session were lost (tmp wiped between sessions) forcing a full redo; ran 4
-  language agents (hi/en/be/ka) in parallel per the v31-39 scratch-copy-then-merge
-  workflow, then merged into the real file. rams (10070-char Hindi) and jaya
-  (7546-char Sanskrit) condensed to faithful structured summaries per the >5000-char
-  rule. **Lesson: scratch files under /tmp or the session scratchpad do not survive
-  across sessions/context resets — if resuming interrupted work, always re-verify
-  scratch files still exist before assuming prior progress carried over.**
-- [x] Ch2 v48–53 — complete (2026-07-17): 0 empty/bogus/nonstr each. Standard
-  4-parallel-language-agent scratch-copy-then-merge workflow. **Lesson confirmed
-  again**: the session scratchpad directory changes across context
-  resets/session boundaries (new session-id subdir each time) — scratch files
-  from a prior session ARE NOT reachable at their old path and must be treated
-  as lost if a merge didn't happen before the boundary. Mitigation adopted:
-  merge into the real repo file immediately after all 4 language agents finish
-  for a verse (do not batch merges across verses) — this bounds any single
-  session-reset's damage to at most one in-flight verse.
-- [x] Ch2 v54–56 — complete (2026-07-17): 0 empty/bogus/nonstr each. The
-  sthitaprajna (steady-wisdom) section opening: Arjuna's question (v54) and
-  Krishna's first two defining verses (v55-56).
-- [x] Ch2 v57–58 — complete (2026-07-17/18): 0 empty/bogus/nonstr each.
-  Non-attachment amid good/evil (v57); tortoise-withdrawal sense-control (v58).
-- [x] Ch2 v59–60 — complete (2026-07-18): 0 empty/bogus/nonstr each. Taste
-  lingers till Self-realization (v59); senses forcibly carry away the mind
-  even of the striving wise (v60).
-- [x] Ch2 v61–62 — complete (2026-07-18/19): 0 empty/bogus/nonstr each.
-  Senses under control → firm wisdom (v61); dwelling on objects → attachment
-  → desire → anger, the fall chain begins (v62).
-- [x] Ch2 v63–64 — complete (2026-07-19/20): 0 empty/bogus/nonstr each. Fall
-  chain completes: anger→delusion→memory-loss→ruin (v63); self-controlled one
-  moving among objects free of attachment/aversion attains grace (v64).
-- [x] Ch2 v65–66 — complete (2026-07-20): 0 empty/bogus/nonstr each. Grace
-  destroys all sorrow, tranquil intellect becomes firmly established (v65);
-  no wisdom/peace/happiness for the unsteady mind (v66).
-- [x] Ch2 v67 — complete (2026-07-20): 0 empty/bogus/nonstr. Wandering senses
-  carry away wisdom like wind carries a boat.
-- [x] Ch2 v68 — complete (2026-07-20): 0 empty/bogus/nonstr. Closes the
-  sense-control section: senses completely restrained → firm wisdom.
-- [x] Ch2 v69 — complete (2026-07-20): 0 empty/bogus/nonstr. The celebrated
-  "night for all beings / night for the sage" verse.
-- [x] Ch2 v70 — complete (2026-07-22): 0 empty/bogus/nonstr. Ocean simile —
-  desires enter the peaceful sage as waters enter the ocean, unmoving.
-- [x] Ch2 v71 — complete (2026-07-22): 0 empty/bogus/nonstr. Abandoning all
-  desires, free of "mine"-ness and ego, attains peace.
-- [x] Ch2 v72 — complete (2026-07-23): 0 empty/bogus/nonstr. Final teaching
-  verse: brahmi sthiti, state of Brahman, liberation even at death.
-- [x] Ch2 v73 — complete (2026-07-23): 0 empty/bogus/nonstr. Closing colophon
-  ("Thus ends Chapter 2, Sankhya Yoga"). All 20 no-comment blocks translated
-  directly (mechanical, no sub-agents needed — fixed sentence per language).
-
-## CHAPTER 2 COMPLETE (2026-07-23)
-All 73 verses of Chapter 2 (Sankhya Yoga) fully translated: hi/en/be/ka, 0
-empty/bogus/nonstr across every commentator block, verified verse-by-verse.
-
-## CHAPTER 3 (Karma Yoga) — 44 verses, in progress
-- [x] Ch3 v1 — complete (2026-07-23): 0 empty/bogus/nonstr. Arjuna's question:
-  if wisdom is superior to action, why urge me into this terrible action?
-- [x] Ch3 v2 — complete (2026-07-23): 0 empty/bogus/nonstr. Arjuna: your
-  seemingly conflicting words confuse me — tell me one definite path.
-- [x] Ch3 v3 — complete (2026-07-23): 0 empty/bogus/nonstr. Krishna: two paths
-  taught of old — jnana-yoga for Sankhyas, karma-yoga for yogis.
-- [x] Ch3 v4 — complete (2026-07-23): 0 empty/bogus/nonstr. Not by abstaining
-  from action does one gain freedom from action, nor by renunciation alone.
-  (Lesson: scratch dir changed session id again mid-batch — v3/v4 agents
-  redispatched from fresh copies; v3 had already been merged so was safe.)
-- [x] Ch3 v5 — complete (2026-07-23): 0 empty/bogus/nonstr. No one remains
-  actionless even a moment; all are compelled by gunas born of nature.
-- [x] Ch3 v6 — complete (2026-07-28): 0 empty/bogus/nonstr, 75 slots filled. The
-  "mithyacara" (hypocrite) verse: restraining the organs of action while the mind
-  broods on sense objects. No reuse available from v5 — every Sanskrit block
-  (madhav/anand/jaya/vallabh/ms/srid/dhan/venkat/puru/neel) is per-verse fresh here;
-  madhav/jaya carry the shared `3.6 3.7` range tag. Done in the main session
-  (§8 fallback) in 6 staged scripts A–F via a shared `v6_common.apply()` helper that
-  refuses to overwrite a non-empty slot and rejects non-str values — this kills the
-  recurring trailing-comma/overwrite class of bug at the source rather than catching
-  it after the fact. Worth reusing for the rest of Ch3.
-- [ ] Ch3 v7–44 — pending.
-- [ ] Ch4–Ch18 — pending
+- [ ] Ch2 v11–73 — pending
+- [x] Ch17 v1 — complete (2026-07-12): 0 empty/bogus/nonstr. Arjuna asks about those who perform sacrifices with faith but without scriptural knowledge. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v2 — complete (2026-07-12): 0 empty/bogus/nonstr. The Lord declares that the faith of the embodied is threefold: Sattvic, Rajasic, and Tamasic. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v3 — complete (2026-07-12): 0 empty/bogus/nonstr. The Lord declares that faith conforms to one's nature (Sattva) and a person is what their faith is. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v4 — complete (2026-07-12): 0 empty/bogus/nonstr. Sattvic worship gods, Rajasic worship Yakshas/Rakshasas, Tamasic worship Pretas/Bhutas. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v5 — complete (2026-07-12): 0 empty/bogus/nonstr. The Lord describes those who practice terrifying non-scriptural penances out of vanity, egotism, lust, and attachment. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v6 — complete (2026-07-12): 0 empty/bogus/nonstr. Those performing non-scriptural penances torture their physical elements and the indwelling Lord; know them to be of demonic resolve. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v7 — complete (2026-07-12): 0 empty/bogus/nonstr. The Lord introduces the threefold categories of food, sacrifice, penance, and charity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v8 — complete (2026-07-12): 0 empty/bogus/nonstr. Description of Sattvic foods (juicy, fatty, wholesome, pleasing). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v9 — complete (2026-07-12): 0 empty/bogus/nonstr. Description of Rajasic foods (bitter, sour, salty, hot, pungent, dry, burning). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v10 — complete (2026-07-12): 0 empty/bogus/nonstr. Description of Tamasic foods (stale, tasteless, putrid, rotten, refuse, impure). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v11 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Sattvic sacrifice. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v12 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Rajasic sacrifice. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v13 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Tamasic sacrifice. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v14 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of bodily austerity (tapas). Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v15 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of vocal austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v16 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of mental austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v17 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Sattvic austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v18 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Rajasic austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [x] Ch17 v19 — complete (2026-07-13): 0 empty/bogus/nonstr. Description of Tamasic austerity. Translated all 22 commentators to hi, en, be, ka. Verified 0 empty, 0 bogus.
+- [ ] Ch17 v20–29 — pending
+- [x] Ch18 v1 — complete (2026-07-11): 0 empty/bogus/nonstr. First verse of Chapter 18. All 4 languages freshly translated using dedicated subagents' scratchpad scripts. Verified 0 empty, 0 bogus.
+- [x] Ch18 v2 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna explains Tyaga and Sannyasa. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
+- [x] Ch18 v3 — complete (2026-07-11): 0 empty/bogus/nonstr. Diverse opinions of sages on whether actions should be abandoned. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
+- [x] Ch18 v4 — complete (2026-07-11): 0 empty/bogus/nonstr. Krishna's declaration on Tyaga being threefold. All 4 languages freshly translated using subagents and merged/validated. Verified 0 empty, 0 bogus.
+- [x] Ch18 v5 — complete (2026-07-11): 0 empty/bogus/nonstr. Sacrifice, gift and penance must not be abandoned. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v6 — complete (2026-07-11): 0 empty/bogus/nonstr. Actions should be performed without attachment or expectation of fruits. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v7 — complete (2026-07-11): 0 empty/bogus/nonstr. Renunciation of prescribed duties out of delusion is Tamasic. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v8 — complete (2026-07-11): 0 empty/bogus/nonstr. Renouncing duties out of fear of physical strain is Rajasic. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v9 — complete (2026-07-11): 0 empty/bogus/nonstr. Performing prescribed duties as a duty, without attachment or fruit, is Sattvik. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v10 — complete (2026-07-11): 0 empty/bogus/nonstr. A Sattvik renouncer has no aversion to disagreeable work and no attachment to agreeable work. All 4 languages freshly translated using subagents. Verified 0 empty, 0 bogus.
+- [x] Ch18 v11 — complete (2026-07-11): 0 empty/bogus/nonstr. Embodied beings cannot abandon actions completely, but he who renounces action fruits is a renouncer. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [x] Ch18 v12 — complete (2026-07-11): 0 empty/bogus/nonstr. Threefold fruit of action (evil, good, mixed) only affects non-renouncers. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [x] Ch18 v13 — complete (2026-07-11): 0 empty/bogus/nonstr. Five causes for the accomplishment of all actions, as declared in Vedanta. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [x] Ch18 v14 — complete (2026-07-11): 0 empty/bogus/nonstr. Five factors of action (body, agent, senses, vital air/functions, divinity). Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [x] Ch18 v15 — complete (2026-07-11): 0 empty/bogus/nonstr. Actions performed by body, speech, and mind, whether right or wrong, have these five causes. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [x] Ch18 v16 — complete (2026-07-11): 0 empty/bogus/nonstr. One who looks upon the absolute Self as the agent due to uncultivated understanding is a durmati. Translated via subagents and manual Kannada thread. Verified 0 empty, 0 bogus.
+- [x] Ch18 v17 — complete (2026-07-12): 0 empty/bogus/nonstr. One who is free from egoistic notion does not kill and is not bound even by slaying these worlds. Translated via Hindi subagent and manual Bengali/Kannada threads (due to subagent 429 limits). Verified 0 empty, 0 bogus.
+- [x] Ch18 v18 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge, knowable, knower are incentives; instrument, act, agent are constituents. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v19 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge, action, and doer are declared in Sankhya philosophy to be of three kinds only. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v20 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge by which one sees the one indestructible Reality in all beings is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v21 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge by which one sees various entities of distinct kinds in all beings is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v22 — complete (2026-07-12): 0 empty/bogus/nonstr. Knowledge which clings to a single effect as if it were the whole, without reason, is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v23 — complete (2026-07-12): 0 empty/bogus/nonstr. Obligatory action done without attachment, love or hatred, by a desireless agent is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v24 — complete (2026-07-12): 0 empty/bogus/nonstr. Action performed with egoism and great effort by one longing for gratification of desires is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v25 — complete (2026-07-12): 0 empty/bogus/nonstr. Action undertaken from delusion, without regard to consequences, loss, injury, or capacity is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v26 — complete (2026-07-12): 0 empty/bogus/nonstr. Doer who is free from attachment, egoism, endowed with patience/fortitude and enthusiasm, and neutral to success/failure is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v27 — complete (2026-07-12): 0 empty/bogus/nonstr. Doer who is passionate, desirous of fruits of action, greedy, harmful, impure, and subject to joy and sorrow is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v28 — complete (2026-07-12): 0 empty/bogus/nonstr. Doer who is unsteady, uncultured, stubborn, deceitful, malicious, lazy, despondent, and procrastinating is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v29 — complete (2026-07-12): 0 empty/bogus/nonstr. Krishna promises to Arjuna to fully explain the threefold divisions of intellect (Buddhi) and fortitude (Dhrti) according to Gunas. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v30 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which correctly knows pravritti (action) and nivritti (renunciation), karya and akarya (duty and non-duty), fear and fearlessness, and bondage and liberation is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v31 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which incorrectly/doubtfully understands Dharma (righteousness) and Adharma, and duty and non-duty is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v32 — complete (2026-07-12): 0 empty/bogus/nonstr. Intellect which, enveloped in darkness, sees Adharma as Dharma and reverses all values (understands perversely) is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v33 — complete (2026-07-12): 0 empty/bogus/nonstr. Unwavering fortitude (Dhrti) by which one restrains/controls the functions of mind, vital force (Prana), and senses through Yoga is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v34 — complete (2026-07-12): 0 empty/bogus/nonstr. Fortitude (Dhrti) by which one, out of intense attachment and desiring fruits of action, holds fast to Dharma (duty), pleasure (Kama), and wealth (Artha) is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v35 — complete (2026-07-12): 0 empty/bogus/nonstr. Fortitude (Dhrti) by which a foolish/stupid person does not give up sleep (indolence), fear, grief, despondency, and arrogance is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v36 — complete (2026-07-12): 0 empty/bogus/nonstr. Krishna introduces the threefold division of happiness, in which one rejoices by practice and attains the end of all pain. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v37 — complete (2026-07-12): 0 empty/bogus/nonstr. Happiness which is like poison at first but like nectar in the end, born of the clarity (prasada) of the intellect focused on the Self is Sattvic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v38 — complete (2026-07-12): 0 empty/bogus/nonstr. Happiness arising from sensory contact which is like nectar at first but like poison in the end is Rajasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v39 — complete (2026-07-12): 0 empty/bogus/nonstr. Happiness which both in the beginning and in the sequel is delusive to the self, arising from sleep, indolence (sloth), and heedlessness is Tamasic. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v40 — complete (2026-07-12): 0 empty/bogus/nonstr. No being or entity either on earth or in heaven among the gods is free from the three Gunas born of Nature. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v41 — complete (2026-07-12): 0 empty/bogus/nonstr. The duties of Brahmanas, Kshatriyas, Vaisyas, and Sudras are distributed according to the Gunas born of their own nature (Svabhava). Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v42 — complete (2026-07-12): 0 empty/bogus/nonstr. Control of mind and senses, austerity, purity, tolerance, honesty, knowledge, wisdom, and faith are the natural duties of a Brahmana born of Svabhava. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v43 — complete (2026-07-12): 0 empty/bogus/nonstr. Heroism, majesty, fortitude, dexterity, not fleeing in battle, generosity, and lordliness are the natural duties of the Kshatriyas born of Svabhava. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v44 — complete (2026-07-12): 0 empty/bogus/nonstr. Agriculture, cow protection, and trade are the natural duties of a Vaisya; and service is the natural duty of a Sudra. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v45 — complete (2026-07-12): 0 empty/bogus/nonstr. Devoted each to his own duty, man attains perfection; hear how one devoted to one's own duty attains perfection. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v46 — complete (2026-07-12): 0 empty/bogus/nonstr. He from Whom is the origin of all beings and by Whom all this is pervaded — by worshipping Him with Svadharma, man attains perfection. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v47 — complete (2026-07-12): 0 empty/bogus/nonstr. One's own duty, though devoid of merits, is better than the duty of another well performed. Ordained by one's own nature, one incurs no sin. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v48 — complete (2026-07-12): 0 empty/bogus/nonstr. One should not abandon the duty to which one is born, even if it is faulty; for all undertakings are enveloped by faults, as fire by smoke. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v49 — complete (2026-07-12): 0 empty/bogus/nonstr. He whose intellect is unattached everywhere, who has controlled his mind, and whose desires have vanished, attains through Sannyasa the supreme state of actionlessness. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v50 — complete (2026-07-12): 0 empty/bogus/nonstr. Learn from Me in brief, O Kaunteya, how he who has attained perfection reaches Brahman, which is the supreme consummation of knowledge. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v51 — complete (2026-07-12): 0 empty/bogus/nonstr. Endowed with a pure intellect, subduing the self with firmness, renouncing sound and other objects and abandoning attraction and hatred. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v52 — complete (2026-07-12): 0 empty/bogus/nonstr. Dwelling in solitude, eating but little, with speech, body and mind subdued, always engaged in meditation and concentration, resorting to dispassion. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v53 — complete (2026-07-12): 0 empty/bogus/nonstr. Having abandoned egoism, strength, arrogance, desire, anger and covetousness, and free from the notion of 'mine' and peaceful, he is fit for becoming Brahman. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v54 — complete (2026-07-12): 0 empty/bogus/nonstr. Becoming Brahman, serene in the Self, he neither grieves nor desires, the same to all beings, he obtains supreme devotion to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v55 — complete (2026-07-12): 0 empty/bogus/nonstr. By devotion he knows Me in truth, what and who I am; then having known Me in truth, he forthwith enters into the Supreme. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v57 — complete (2026-07-12): 0 empty/bogus/nonstr. Mentally surrendering all actions to Me, regarding Me as the supreme goal, and resorting to the yoga of discrimination, ever fix your mind on Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v58 — complete (2026-07-12): 0 empty/bogus/nonstr. Fixing your mind on Me, you shall overcome all difficulties by My grace. But if, due to egoism, you do not listen to Me, you shall perish. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v59 — complete (2026-07-12): 0 empty/bogus/nonstr. If, filled with egotism, you think: 'I will not fight', futile is this resolve of yours; your nature will compel you. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v60 — complete (2026-07-12): 0 empty/bogus/nonstr. Bound by your own duty born of your nature, O Kaunteya, that which from delusion you do not wish to do, you shall do even against your will. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v61 — complete (2026-07-12): 0 empty/bogus/nonstr. The Supreme Lord dwells in the hearts of all living beings, O Arjuna, causing them to spin by His illusory power, as if mounted on a machine. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v62 — complete (2026-07-12): 0 empty/bogus/nonstr. Surrender unto Him alone with all your heart, O Bharata. By His grace you shall attain supreme peace and the eternal abode. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v63 — complete (2026-07-12): 0 empty/bogus/nonstr. Thus, has wisdom more secret than all secrets been declared to you by Me. Reflect on it fully and then act as you wish. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v64 — complete (2026-07-12): 0 empty/bogus/nonstr. Listen again to My supreme word, the most secret of all. Because you are dearly beloved to Me, I will speak what is good for you. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v65 — complete (2026-07-12): 0 empty/bogus/nonstr. Fix your mind on Me, be My devotee, worship Me, and bow down to Me. Thus, you will come to Me; I promise you this in truth, for you are dear to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v66 — complete (2026-07-12): 0 empty/bogus/nonstr. Abandoning all varieties of duties, surrender unto Me alone. I shall liberate you from all sins; do not grieve. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v67 — complete (2026-07-12): 0 empty/bogus/nonstr. This secret should never be spoken by you to one who is devoid of austerity, nor to one who is not a devotee, nor to one who does not wish to hear, and certainly not to one who cavils at Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v68 — complete (2026-07-12): 0 empty/bogus/nonstr. He who with supreme devotion to Me teaches this supreme secret to My devotees, shall doubtless come to Me. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v69 — complete (2026-07-12): 0 empty/bogus/nonstr. And there is none among men who does a more loving service to Me than he; nor shall there be another on earth dearer to Me than he. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v70 — complete (2026-07-12): 0 empty/bogus/nonstr. And he who will study this sacred dialogue of ours, by him I shall be worshipped through the sacrifice of knowledge; such is My view. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v71 — complete (2026-07-12): 0 empty/bogus/nonstr. Even the man who listens to this with faith and without envy, he also, being liberated from sin, shall attain the auspicious worlds of the righteous. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v72 — complete (2026-07-12): 0 empty/bogus/nonstr. Has this been heard by you, O Arjuna, with an attentive mind? Has your delusion, born of ignorance, been destroyed, O Dhananjaya? Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v73 — complete (2026-07-12): 0 empty/bogus/nonstr. Arjuna said: Delusion is destroyed and memory is regained by me through Your grace, O Achyuta. I stand here free from doubt. I shall act according to Your word. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v74 — complete (2026-07-12): 0 empty/bogus/nonstr. Sanjaya said: Thus have I heard this wonderful dialogue between Vasudeva and the high-souled Partha, which causes my hair to stand on end. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v75 — complete (2026-07-12): 0 empty/bogus/nonstr. Through the grace of Vyasa, I have heard this supreme and most secret Yoga, directly from Krishna, the Lord of Yoga, Himself declaring it. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v76 — complete (2026-07-12): 0 empty/bogus/nonstr. O King, remembering again and again this wonderful and holy dialogue between Krishna and Arjuna, I rejoice repeatedly. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v77 — complete (2026-07-12): 0 empty/bogus/nonstr. And remembering again and again that most wonderful form of Hari, great is my amazement, O King, and I rejoice again and again. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v78 — complete (2026-07-12): 0 empty/bogus/nonstr. Wherever is Krishna, the Lord of Yoga, and wherever is Partha, the archer, there will forever be fortune, victory, prosperity, and righteous policy; such is my conviction. Translated all languages (hi, en, be, ka) directly via manual translation threads. Verified 0 empty, 0 bogus.
+- [x] Ch18 v79 — complete (2026-07-12): 0 empty/bogus/nonstr. Standard colophon (OM tatsaditi...). Populated standard author-not-commented statements translated into English, Hindi, Bengali, and Kannada. Verified 0 empty, 0 bogus.
+- [ ] Ch17 v20–29 — pending
+- [ ] Ch3–Ch16 — pending
 
 ### Reuse identity check (use whitespace-normalized!)
 Source `sa` blocks differ across verses only by leading tag + OCR whitespace/typos. Compare with

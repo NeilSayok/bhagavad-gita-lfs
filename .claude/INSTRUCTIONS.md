@@ -15,6 +15,7 @@ Enrich every verse JSON file in `slok/` with two new user-facing fields:
 ## 2. Target JSON Schema
 
 In each verse file (`slok/bhagavadgita_chapter_<C>_slok_<N>.json`), insert `life_application` and `themes` at the top level, immediately after `transliteration`:
+In each verse file (`slok/bhagavadgita_chapter_<C>_slok_<N>.json`), insert `life_application`, `themes`, and `word_meanings` at the top level, immediately after `transliteration`:
 
 ```json
 {
@@ -29,11 +30,18 @@ In each verse file (`slok/bhagavadgita_chapter_<C>_slok_<N>.json`), insert `life
     },
     "slok": { ... },
     "transliteration": "...",
-    "life_application": "Notice when fear or attachment clouds your judgment today, and step back to choose duty over personal comfort.",
+    "life_application": "Notice when personal bias clouds your judgment today, and seek an honest, objective perspective before taking any action.",
     "themes": [
         "Dharma",
         "Duty",
-        "Attachment"
+        "Mind"
+    ],
+    "word_meanings": [
+        {
+            "sanskrit": "धर्मक्षेत्रे",
+            "transliteration": "dharmakṣetre",
+            "meaning": "on the holy field"
+        }
     ],
     "tej": { ... },
     "siva": { ... }

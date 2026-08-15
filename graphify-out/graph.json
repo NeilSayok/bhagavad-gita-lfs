@@ -6,10 +6,10 @@
     {
       "label": "build_db.py",
       "file_type": "code",
-      "source_file": "build_db.py",
+      "source_file": "db/build_db.py",
       "source_location": "L1",
       "id": "build_db",
-      "community": 0
+      "community": 1
     },
     {
       "label": "verse_pk()",
@@ -17,7 +17,7 @@
       "source_file": "build_db.py",
       "source_location": "L54",
       "id": "build_db_verse_pk",
-      "community": 0
+      "community": 1
     },
     {
       "label": "build()",
@@ -25,15 +25,15 @@
       "source_file": "build_db.py",
       "source_location": "L60",
       "id": "build_db_build",
-      "community": 0
+      "community": 1
     },
     {
       "label": "verify()",
       "file_type": "code",
-      "source_file": "build_db.py",
-      "source_location": "L134",
+      "source_file": "db/build_db.py",
+      "source_location": "L137",
       "id": "build_db_verify",
-      "community": 0
+      "community": 1
     },
     {
       "label": "dict_by_lang()",
@@ -41,7 +41,7 @@
       "source_file": "build_db.py",
       "source_location": "L237",
       "id": "build_db_dict_by_lang",
-      "community": 0
+      "community": 1
     },
     {
       "label": "Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the",
@@ -49,7 +49,7 @@
       "source_file": "build_db.py",
       "source_location": "L55",
       "id": "build_db_rationale_55",
-      "community": 0
+      "community": 1
     },
     {
       "label": "Full round-trip: rebuild every source JSON from the DB and diff it.",
@@ -57,7 +57,7 @@
       "source_file": "build_db.py",
       "source_location": "L135",
       "id": "build_db_rationale_135",
-      "community": 0
+      "community": 1
     },
     {
       "label": "commit_staged_one_by_one.py",
@@ -65,7 +65,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L1",
       "id": "commit_staged_one_by_one",
-      "community": 1
+      "community": 2
     },
     {
       "label": "sh()",
@@ -73,7 +73,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L6",
       "id": "commit_staged_one_by_one_sh",
-      "community": 1
+      "community": 2
     },
     {
       "label": "staged_files()",
@@ -81,7 +81,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L10",
       "id": "commit_staged_one_by_one_staged_files",
-      "community": 1
+      "community": 2
     },
     {
       "label": "main()",
@@ -89,7 +89,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L19",
       "id": "commit_staged_one_by_one_main",
-      "community": 1
+      "community": 2
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",
@@ -97,7 +97,143 @@
       "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
       "source_location": "L1",
       "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 2
+      "community": 3
+    },
+    {
+      "label": "slugify()",
+      "file_type": "code",
+      "source_file": "db/build_db.py",
+      "source_location": "L34",
+      "id": "build_db_slugify",
+      "community": 1
+    },
+    {
+      "label": "txt()",
+      "file_type": "code",
+      "source_file": "db/build_db.py",
+      "source_location": "L38",
+      "id": "build_db_txt",
+      "community": 1
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "db/build_db.py",
+      "source_location": "L42",
+      "id": "build_db_main",
+      "community": 1
+    },
+    {
+      "label": "GitaEntities.kt",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L1",
+      "id": "gitaentities",
+      "community": 0
+    },
+    {
+      "label": "LanguageEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L17",
+      "id": "gitaentities_languageentity",
+      "community": 0
+    },
+    {
+      "label": "ChapterEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L25",
+      "id": "gitaentities_chapterentity",
+      "community": 0
+    },
+    {
+      "label": "ChapterTranslationEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L37",
+      "id": "gitaentities_chaptertranslationentity",
+      "community": 0
+    },
+    {
+      "label": "VerseEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L53",
+      "id": "gitaentities_verseentity",
+      "community": 0
+    },
+    {
+      "label": "VerseTextEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L71",
+      "id": "gitaentities_versetextentity",
+      "community": 0
+    },
+    {
+      "label": "VerseTranslationEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L87",
+      "id": "gitaentities_versetranslationentity",
+      "community": 0
+    },
+    {
+      "label": "ThemeEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L102",
+      "id": "gitaentities_themeentity",
+      "community": 0
+    },
+    {
+      "label": "ThemeTranslationEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L108",
+      "id": "gitaentities_themetranslationentity",
+      "community": 0
+    },
+    {
+      "label": "VerseThemeEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L123",
+      "id": "gitaentities_versethemeentity",
+      "community": 0
+    },
+    {
+      "label": "WordMeaningEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L138",
+      "id": "gitaentities_wordmeaningentity",
+      "community": 0
+    },
+    {
+      "label": "WordMeaningTranslationEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L152",
+      "id": "gitaentities_wordmeaningtranslationentity",
+      "community": 0
+    },
+    {
+      "label": "CommentatorEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L173",
+      "id": "gitaentities_commentatorentity",
+      "community": 0
+    },
+    {
+      "label": "CommentaryEntity",
+      "file_type": "code",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L180",
+      "id": "gitaentities_commentaryentity",
+      "community": 0
     }
   ],
   "links": [
@@ -128,8 +264,8 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "build_db.py",
-      "source_location": "L134",
+      "source_file": "db/build_db.py",
+      "source_location": "L137",
       "weight": 1.0,
       "_src": "build_db",
       "_tgt": "build_db_verify",
@@ -147,6 +283,42 @@
       "_tgt": "build_db_dict_by_lang",
       "source": "build_db",
       "target": "build_db_dict_by_lang",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_slugify",
+      "source": "build_db",
+      "target": "build_db_slugify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_txt",
+      "source": "build_db",
+      "target": "build_db_txt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_main",
+      "source": "build_db",
+      "target": "build_db_main",
       "confidence_score": 1.0
     },
     {
@@ -210,6 +382,18 @@
       "confidence_score": 1.0
     },
     {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L132",
+      "weight": 1.0,
+      "_src": "build_db_main",
+      "_tgt": "build_db_verify",
+      "source": "build_db_verify",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "commit_staged_one_by_one.py",
@@ -267,6 +451,186 @@
       "_tgt": "commit_staged_one_by_one_staged_files",
       "source": "commit_staged_one_by_one_staged_files",
       "target": "commit_staged_one_by_one_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_src": "build_db_main",
+      "_tgt": "build_db_slugify",
+      "source": "build_db_slugify",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_src": "build_db_main",
+      "_tgt": "build_db_txt",
+      "source": "build_db_txt",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_languageentity",
+      "source": "gitaentities",
+      "target": "gitaentities_languageentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_chapterentity",
+      "source": "gitaentities",
+      "target": "gitaentities_chapterentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_chaptertranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_chaptertranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_verseentity",
+      "source": "gitaentities",
+      "target": "gitaentities_verseentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_versetextentity",
+      "source": "gitaentities",
+      "target": "gitaentities_versetextentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L87",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_versetranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_versetranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L102",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_themeentity",
+      "source": "gitaentities",
+      "target": "gitaentities_themeentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_themetranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_themetranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L123",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_versethemeentity",
+      "source": "gitaentities",
+      "target": "gitaentities_versethemeentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L138",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_wordmeaningentity",
+      "source": "gitaentities",
+      "target": "gitaentities_wordmeaningentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L152",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_wordmeaningtranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_wordmeaningtranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L173",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_commentatorentity",
+      "source": "gitaentities",
+      "target": "gitaentities_commentatorentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L180",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_commentaryentity",
+      "source": "gitaentities",
+      "target": "gitaentities_commentaryentity",
       "confidence_score": 1.0
     }
   ],

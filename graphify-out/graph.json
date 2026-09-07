@@ -4,6 +4,54 @@
   "graph": {},
   "nodes": [
     {
+      "label": "add_image_blocks.py",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L1",
+      "id": "add_image_blocks",
+      "community": 3
+    },
+    {
+      "label": "add_images()",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L14",
+      "id": "add_image_blocks_add_images",
+      "community": 3
+    },
+    {
+      "label": "chapter_image()",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L26",
+      "id": "add_image_blocks_chapter_image",
+      "community": 3
+    },
+    {
+      "label": "slok_image()",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L35",
+      "id": "add_image_blocks_slok_image",
+      "community": 3
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L44",
+      "id": "add_image_blocks_main",
+      "community": 3
+    },
+    {
+      "label": "Add an \"image\" block to every chapter/*.json and slok/*.json file.  Paths only (",
+      "file_type": "rationale",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L1",
+      "id": "add_image_blocks_rationale_1",
+      "community": 3
+    },
+    {
       "label": "build_db.py",
       "file_type": "code",
       "source_file": "db/build_db.py",
@@ -65,7 +113,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L1",
       "id": "commit_staged_one_by_one",
-      "community": 4
+      "community": 5
     },
     {
       "label": "sh()",
@@ -73,7 +121,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L6",
       "id": "commit_staged_one_by_one_sh",
-      "community": 4
+      "community": 5
     },
     {
       "label": "staged_files()",
@@ -81,7 +129,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L10",
       "id": "commit_staged_one_by_one_staged_files",
-      "community": 4
+      "community": 5
     },
     {
       "label": "main()",
@@ -89,7 +137,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L19",
       "id": "commit_staged_one_by_one_main",
-      "community": 4
+      "community": 5
     },
     {
       "label": "embed_corpus.py",
@@ -97,7 +145,7 @@
       "source_file": "embedding-pipeline/embed_corpus.py",
       "source_location": "L1",
       "id": "embed_corpus",
-      "community": 3
+      "community": 4
     },
     {
       "label": "load_rows()",
@@ -105,7 +153,7 @@
       "source_file": "embedding-pipeline/embed_corpus.py",
       "source_location": "L25",
       "id": "embed_corpus_load_rows",
-      "community": 3
+      "community": 4
     },
     {
       "label": "main()",
@@ -113,7 +161,7 @@
       "source_file": "embedding-pipeline/embed_corpus.py",
       "source_location": "L62",
       "id": "embed_corpus_main",
-      "community": 3
+      "community": 4
     },
     {
       "label": "verify()",
@@ -121,7 +169,7 @@
       "source_file": "embedding-pipeline/embed_corpus.py",
       "source_location": "L82",
       "id": "embed_corpus_verify",
-      "community": 3
+      "community": 4
     },
     {
       "label": "Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30",
@@ -129,7 +177,7 @@
       "source_file": "embedding-pipeline/embed_corpus.py",
       "source_location": "L1",
       "id": "embed_corpus_rationale_1",
-      "community": 3
+      "community": 4
     },
     {
       "label": "export_jsonl.py",
@@ -137,7 +185,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L1",
       "id": "export_jsonl",
-      "community": 6
+      "community": 7
     },
     {
       "label": "main()",
@@ -145,7 +193,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L13",
       "id": "export_jsonl_main",
-      "community": 6
+      "community": 7
     },
     {
       "label": "Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl",
@@ -153,7 +201,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L1",
       "id": "export_jsonl_rationale_1",
-      "community": 6
+      "community": 7
     },
     {
       "label": "test_search.py",
@@ -241,7 +289,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L1",
       "id": "build_objectbox",
-      "community": 5
+      "community": 6
     },
     {
       "label": "chunk_text()",
@@ -249,7 +297,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L45",
       "id": "build_objectbox_chunk_text",
-      "community": 5
+      "community": 6
     },
     {
       "label": "main()",
@@ -257,7 +305,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L76",
       "id": "build_objectbox_main",
-      "community": 5
+      "community": 6
     },
     {
       "label": "verify()",
@@ -265,7 +313,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L201",
       "id": "build_objectbox_verify",
-      "community": 5
+      "community": 6
     },
     {
       "label": "Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record",
@@ -289,7 +337,7 @@
       "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
       "source_location": "L1",
       "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 7
+      "community": 8
     },
     {
       "label": "slugify()",
@@ -429,6 +477,78 @@
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_add_images",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_add_images",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_chapter_image",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_chapter_image",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_slok_image",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_slok_image",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_main",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "add_image_blocks_rationale_1",
+      "_tgt": "add_image_blocks",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "add_image_blocks_main",
+      "_tgt": "add_image_blocks_add_images",
+      "source": "add_image_blocks_add_images",
+      "target": "add_image_blocks_main",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",

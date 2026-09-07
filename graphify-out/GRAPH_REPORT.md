@@ -1,12 +1,12 @@
 # Graph Report - .  (2026-09-08)
 
 ## Corpus Check
-- 10 files · ~31,833 words
+- 11 files · ~32,327 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 53 nodes · 69 edges · 8 communities detected
-- Extraction: 86% EXTRACTED · 14% INFERRED · 0% AMBIGUOUS · INFERRED: 10 edges (avg confidence: 0.5)
+- 59 nodes · 75 edges · 9 communities detected
+- Extraction: 87% EXTRACTED · 13% INFERRED · 0% AMBIGUOUS · INFERRED: 10 edges (avg confidence: 0.5)
 - Token cost: 0 input · 0 output
 
 ## God Nodes (most connected - your core abstractions)
@@ -48,43 +48,47 @@ Cohesion: 0.33
 Nodes (9): build(), dict_by_lang(), main(), Full round-trip: rebuild every source JSON from the DB and diff it., Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the, slugify(), txt(), verify() (+1 more)
 
 ### Community 3 - "Community 3"
+Cohesion: 0.4
+Nodes (3): add_images(), main(), Add an "image" block to every chapter/*.json and slok/*.json file.  Paths only (
+
+### Community 4 - "Community 4"
 Cohesion: 0.6
 Nodes (4): load_rows(), main(), Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30, verify()
 
-### Community 4 - "Community 4"
+### Community 5 - "Community 5"
 Cohesion: 0.83
 Nodes (3): main(), sh(), staged_files()
 
-### Community 5 - "Community 5"
+### Community 6 - "Community 6"
 Cohesion: 0.83
 Nodes (3): chunk_text(), main(), verify()
 
-### Community 6 - "Community 6"
+### Community 7 - "Community 7"
 Cohesion: 0.67
 Nodes (1): Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl
 
-### Community 7 - "Community 7"
+### Community 8 - "Community 8"
 Cohesion: 1.0
 Nodes (0): 
 
 ## Knowledge Gaps
-- **18 isolated node(s):** `Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the`, `Full round-trip: rebuild every source JSON from the DB and diff it.`, `Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30`, `Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl`, `Verse-centric ObjectBox entities for the Bhagavad Gita corpus.  No Chapter or Th` (+13 more)
+- **19 isolated node(s):** `Add an "image" block to every chapter/*.json and slok/*.json file.  Paths only (`, `Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the`, `Full round-trip: rebuild every source JSON from the DB and diff it.`, `Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30`, `Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl` (+14 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 7`** (1 nodes): `update_bhagavadgita_chapter_18_slok_2.py`
+- **Thin community `Community 8`** (1 nodes): `update_bhagavadgita_chapter_18_slok_2.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Split text into pieces that fit the embedding model's context window.` connect `Community 1` to `Community 5`?**
-  _High betweenness centrality (0.007) - this node is a cross-community bridge._
+- **Why does `Split text into pieces that fit the embedding model's context window.` connect `Community 1` to `Community 6`?**
+  _High betweenness centrality (0.006) - this node is a cross-community bridge._
 - **Are the 4 inferred relationships involving `Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record` (e.g. with `Slok` and `WordMeaning`) actually correct?**
   _`Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record` has 4 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 4 inferred relationships involving `Split text into pieces that fit the embedding model's context window.` (e.g. with `Slok` and `WordMeaning`) actually correct?**
   _`Split text into pieces that fit the embedding model's context window.` has 4 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 3 inferred relationships involving `Slok` (e.g. with `Semantic search test against the ObjectBox store built by build_objectbox.py.  U` and `Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record`) actually correct?**
   _`Slok` has 3 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the`, `Full round-trip: rebuild every source JSON from the DB and diff it.`, `Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30` to the rest of the system?**
-  _18 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `Add an "image" block to every chapter/*.json and slok/*.json file.  Paths only (`, `Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the`, `Full round-trip: rebuild every source JSON from the DB and diff it.` to the rest of the system?**
+  _19 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.14 - nodes in this community are weakly interconnected._

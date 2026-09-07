@@ -9,7 +9,7 @@
       "source_file": "db/build_db.py",
       "source_location": "L1",
       "id": "build_db",
-      "community": 1
+      "community": 2
     },
     {
       "label": "verse_pk()",
@@ -17,7 +17,7 @@
       "source_file": "build_db.py",
       "source_location": "L54",
       "id": "build_db_verse_pk",
-      "community": 1
+      "community": 2
     },
     {
       "label": "build()",
@@ -25,7 +25,7 @@
       "source_file": "build_db.py",
       "source_location": "L60",
       "id": "build_db_build",
-      "community": 1
+      "community": 2
     },
     {
       "label": "verify()",
@@ -33,7 +33,7 @@
       "source_file": "db/build_db.py",
       "source_location": "L137",
       "id": "build_db_verify",
-      "community": 1
+      "community": 2
     },
     {
       "label": "dict_by_lang()",
@@ -41,7 +41,7 @@
       "source_file": "build_db.py",
       "source_location": "L237",
       "id": "build_db_dict_by_lang",
-      "community": 1
+      "community": 2
     },
     {
       "label": "Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the",
@@ -49,7 +49,7 @@
       "source_file": "build_db.py",
       "source_location": "L55",
       "id": "build_db_rationale_55",
-      "community": 1
+      "community": 2
     },
     {
       "label": "Full round-trip: rebuild every source JSON from the DB and diff it.",
@@ -57,7 +57,7 @@
       "source_file": "build_db.py",
       "source_location": "L135",
       "id": "build_db_rationale_135",
-      "community": 1
+      "community": 2
     },
     {
       "label": "commit_staged_one_by_one.py",
@@ -65,7 +65,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L1",
       "id": "commit_staged_one_by_one",
-      "community": 2
+      "community": 4
     },
     {
       "label": "sh()",
@@ -73,7 +73,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L6",
       "id": "commit_staged_one_by_one_sh",
-      "community": 2
+      "community": 4
     },
     {
       "label": "staged_files()",
@@ -81,7 +81,7 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L10",
       "id": "commit_staged_one_by_one_staged_files",
-      "community": 2
+      "community": 4
     },
     {
       "label": "main()",
@@ -89,7 +89,199 @@
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L19",
       "id": "commit_staged_one_by_one_main",
-      "community": 2
+      "community": 4
+    },
+    {
+      "label": "embed_corpus.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L1",
+      "id": "embed_corpus",
+      "community": 3
+    },
+    {
+      "label": "load_rows()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L25",
+      "id": "embed_corpus_load_rows",
+      "community": 3
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L62",
+      "id": "embed_corpus_main",
+      "community": 3
+    },
+    {
+      "label": "verify()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L82",
+      "id": "embed_corpus_verify",
+      "community": 3
+    },
+    {
+      "label": "Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L1",
+      "id": "embed_corpus_rationale_1",
+      "community": 3
+    },
+    {
+      "label": "export_jsonl.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L1",
+      "id": "export_jsonl",
+      "community": 6
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L13",
+      "id": "export_jsonl_main",
+      "community": 6
+    },
+    {
+      "label": "Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L1",
+      "id": "export_jsonl_rationale_1",
+      "community": 6
+    },
+    {
+      "label": "test_search.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L1",
+      "id": "test_search",
+      "community": 1
+    },
+    {
+      "label": "search()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L22",
+      "id": "test_search_search",
+      "community": 1
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L50",
+      "id": "test_search_main",
+      "community": 1
+    },
+    {
+      "label": "Semantic search test against the ObjectBox store built by build_objectbox.py.  U",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L1",
+      "id": "test_search_rationale_1",
+      "community": 1
+    },
+    {
+      "label": "model.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L1",
+      "id": "model",
+      "community": 1
+    },
+    {
+      "label": "Slok",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L17",
+      "id": "model_slok",
+      "community": 1
+    },
+    {
+      "label": "WordMeaning",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L35",
+      "id": "model_wordmeaning",
+      "community": 1
+    },
+    {
+      "label": "Commentary",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L45",
+      "id": "model_commentary",
+      "community": 1
+    },
+    {
+      "label": "Embedding",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L58",
+      "id": "model_embedding",
+      "community": 1
+    },
+    {
+      "label": "Verse-centric ObjectBox entities for the Bhagavad Gita corpus.  No Chapter or Th",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L1",
+      "id": "model_rationale_1",
+      "community": 1
+    },
+    {
+      "label": "build_objectbox.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L1",
+      "id": "build_objectbox",
+      "community": 5
+    },
+    {
+      "label": "chunk_text()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L45",
+      "id": "build_objectbox_chunk_text",
+      "community": 5
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L76",
+      "id": "build_objectbox_main",
+      "community": 5
+    },
+    {
+      "label": "verify()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L201",
+      "id": "build_objectbox_verify",
+      "community": 5
+    },
+    {
+      "label": "Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L1",
+      "id": "build_objectbox_rationale_1",
+      "community": 1
+    },
+    {
+      "label": "Split text into pieces that fit the embedding model's context window.",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L46",
+      "id": "build_objectbox_rationale_46",
+      "community": 1
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",
@@ -97,7 +289,7 @@
       "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
       "source_location": "L1",
       "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 3
+      "community": 7
     },
     {
       "label": "slugify()",
@@ -105,7 +297,7 @@
       "source_file": "db/build_db.py",
       "source_location": "L34",
       "id": "build_db_slugify",
-      "community": 1
+      "community": 2
     },
     {
       "label": "txt()",
@@ -113,7 +305,7 @@
       "source_file": "db/build_db.py",
       "source_location": "L38",
       "id": "build_db_txt",
-      "community": 1
+      "community": 2
     },
     {
       "label": "main()",
@@ -121,7 +313,7 @@
       "source_file": "db/build_db.py",
       "source_location": "L42",
       "id": "build_db_main",
-      "community": 1
+      "community": 2
     },
     {
       "label": "GitaEntities.kt",
@@ -451,6 +643,438 @@
       "_tgt": "commit_staged_one_by_one_staged_files",
       "source": "commit_staged_one_by_one_staged_files",
       "target": "commit_staged_one_by_one_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "embed_corpus",
+      "_tgt": "embed_corpus_load_rows",
+      "source": "embed_corpus",
+      "target": "embed_corpus_load_rows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "embed_corpus",
+      "_tgt": "embed_corpus_main",
+      "source": "embed_corpus",
+      "target": "embed_corpus_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L82",
+      "weight": 1.0,
+      "_src": "embed_corpus",
+      "_tgt": "embed_corpus_verify",
+      "source": "embed_corpus",
+      "target": "embed_corpus_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "embed_corpus_rationale_1",
+      "_tgt": "embed_corpus",
+      "source": "embed_corpus",
+      "target": "embed_corpus_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "_src": "embed_corpus_main",
+      "_tgt": "embed_corpus_load_rows",
+      "source": "embed_corpus_load_rows",
+      "target": "embed_corpus_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_src": "embed_corpus_main",
+      "_tgt": "embed_corpus_verify",
+      "source": "embed_corpus_main",
+      "target": "embed_corpus_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "export_jsonl",
+      "_tgt": "export_jsonl_main",
+      "source": "export_jsonl",
+      "target": "export_jsonl_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "export_jsonl_rationale_1",
+      "_tgt": "export_jsonl",
+      "source": "export_jsonl",
+      "target": "export_jsonl_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "test_search",
+      "_tgt": "model",
+      "source": "test_search",
+      "target": "model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "test_search",
+      "_tgt": "test_search_search",
+      "source": "test_search",
+      "target": "test_search_search",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "test_search",
+      "_tgt": "test_search_main",
+      "source": "test_search",
+      "target": "test_search_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "test_search_rationale_1",
+      "_tgt": "test_search",
+      "source": "test_search",
+      "target": "test_search_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "_src": "test_search_main",
+      "_tgt": "test_search_search",
+      "source": "test_search_search",
+      "target": "test_search_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L12",
+      "weight": 0.8,
+      "_src": "test_search_rationale_1",
+      "_tgt": "model_slok",
+      "source": "test_search_rationale_1",
+      "target": "model_slok",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L12",
+      "weight": 0.8,
+      "_src": "test_search_rationale_1",
+      "_tgt": "model_embedding",
+      "source": "test_search_rationale_1",
+      "target": "model_embedding",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_slok",
+      "source": "model",
+      "target": "model_slok",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_wordmeaning",
+      "source": "model",
+      "target": "model_wordmeaning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_commentary",
+      "source": "model",
+      "target": "model_commentary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_embedding",
+      "source": "model",
+      "target": "model_embedding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "model_rationale_1",
+      "_tgt": "model",
+      "source": "model",
+      "target": "model_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "model",
+      "source": "model",
+      "target": "build_objectbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_slok",
+      "source": "model_slok",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_slok",
+      "source": "model_slok",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_wordmeaning",
+      "source": "model_wordmeaning",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_wordmeaning",
+      "source": "model_wordmeaning",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_commentary",
+      "source": "model_commentary",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_commentary",
+      "source": "model_commentary",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_embedding",
+      "source": "model_embedding",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_embedding",
+      "source": "model_embedding",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "build_objectbox_chunk_text",
+      "source": "build_objectbox",
+      "target": "build_objectbox_chunk_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "build_objectbox_main",
+      "source": "build_objectbox",
+      "target": "build_objectbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L201",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "build_objectbox_verify",
+      "source": "build_objectbox",
+      "target": "build_objectbox_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "build_objectbox",
+      "source": "build_objectbox",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L159",
+      "weight": 1.0,
+      "_src": "build_objectbox_main",
+      "_tgt": "build_objectbox_chunk_text",
+      "source": "build_objectbox_chunk_text",
+      "target": "build_objectbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "build_objectbox_chunk_text",
+      "source": "build_objectbox_chunk_text",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L197",
+      "weight": 1.0,
+      "_src": "build_objectbox_main",
+      "_tgt": "build_objectbox_verify",
+      "source": "build_objectbox_main",
+      "target": "build_objectbox_verify",
       "confidence_score": 1.0
     },
     {

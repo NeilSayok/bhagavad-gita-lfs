@@ -1,0 +1,6 @@
+numpy<=1.28.0
+langchain-text-splitters
+sentence-transformers>=3.0.0
+pandas
+pyarrow
+objectbox>=4.0.0

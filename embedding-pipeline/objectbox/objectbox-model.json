@@ -1,0 +1,241 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "modelVersionParserMinimum": 5,
+  "entities": [
+    {
+      "id": "1:7311773068454950154",
+      "name": "Slok",
+      "lastPropertyId": "14:2285637903367763483",
+      "properties": [
+        {
+          "id": "1:5425621527943352789",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2305072720202595948",
+          "name": "verse_id",
+          "type": 9,
+          "flags": 8,
+          "indexId": "1:2885650437912002457"
+        },
+        {
+          "id": "3:4460211729077273718",
+          "name": "chapter",
+          "type": 5
+        },
+        {
+          "id": "4:3009684201249692543",
+          "name": "verse",
+          "type": 5
+        },
+        {
+          "id": "5:4569773466428465245",
+          "name": "transliteration",
+          "type": 9
+        },
+        {
+          "id": "6:7015119041199873722",
+          "name": "speaker_hi",
+          "type": 9
+        },
+        {
+          "id": "7:5944480393160779681",
+          "name": "speaker_en",
+          "type": 9
+        },
+        {
+          "id": "8:2807818740940746884",
+          "name": "speaker_be",
+          "type": 9
+        },
+        {
+          "id": "9:7458923091911361308",
+          "name": "speaker_ka",
+          "type": 9
+        },
+        {
+          "id": "10:8163303890255476232",
+          "name": "slok_hi",
+          "type": 9
+        },
+        {
+          "id": "11:6290178652608718176",
+          "name": "slok_en",
+          "type": 9
+        },
+        {
+          "id": "12:6484353141100990798",
+          "name": "slok_be",
+          "type": 9
+        },
+        {
+          "id": "13:8836528443637662700",
+          "name": "slok_ka",
+          "type": 9
+        },
+        {
+          "id": "14:2285637903367763483",
+          "name": "life_application",
+          "type": 9
+        }
+      ]
+    },
+    {
+      "id": "2:7458747798530567053",
+      "name": "WordMeaning",
+      "lastPropertyId": "6:6121527752263971321",
+      "properties": [
+        {
+          "id": "1:8566928801706654482",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:7161689430844739813",
+          "name": "slok_id",
+          "type": 6,
+          "flags": 8,
+          "indexId": "2:5111970274953452629"
+        },
+        {
+          "id": "3:1197173151516116184",
+          "name": "position",
+          "type": 5
+        },
+        {
+          "id": "4:6332564183103537151",
+          "name": "sanskrit",
+          "type": 9
+        },
+        {
+          "id": "5:3775933551734014587",
+          "name": "transliteration",
+          "type": 9
+        },
+        {
+          "id": "6:6121527752263971321",
+          "name": "meaning",
+          "type": 9
+        }
+      ]
+    },
+    {
+      "id": "3:7249919572338034148",
+      "name": "Commentary",
+      "lastPropertyId": "9:7819962752160128170",
+      "properties": [
+        {
+          "id": "1:7748032779500620997",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:5064959587829116328",
+          "name": "slok_id",
+          "type": 6,
+          "flags": 8,
+          "indexId": "3:2769118276199407384"
+        },
+        {
+          "id": "3:7219912622949871381",
+          "name": "commentator_key",
+          "type": 9,
+          "flags": 8,
+          "indexId": "4:8440236233213369103"
+        },
+        {
+          "id": "4:2310483642393276459",
+          "name": "author",
+          "type": 9
+        },
+        {
+          "id": "5:2793166180654162867",
+          "name": "text_hi",
+          "type": 9
+        },
+        {
+          "id": "6:5211986643893512795",
+          "name": "text_en",
+          "type": 9
+        },
+        {
+          "id": "7:4708287770955343943",
+          "name": "text_be",
+          "type": 9
+        },
+        {
+          "id": "8:686141626226626727",
+          "name": "text_ka",
+          "type": 9
+        },
+        {
+          "id": "9:7819962752160128170",
+          "name": "text_sa",
+          "type": 9
+        }
+      ]
+    },
+    {
+      "id": "4:4639649241376960373",
+      "name": "Embedding",
+      "lastPropertyId": "8:7582994291170355250",
+      "properties": [
+        {
+          "id": "1:5796408776420675800",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:3682610823504388454",
+          "name": "slok_id",
+          "type": 6,
+          "flags": 8,
+          "indexId": "5:5427861431893596562"
+        },
+        {
+          "id": "3:728307204958644904",
+          "name": "chunk_id",
+          "type": 9,
+          "flags": 8,
+          "indexId": "6:19338095903861750"
+        },
+        {
+          "id": "4:3370839929712710271",
+          "name": "kind",
+          "type": 9
+        },
+        {
+          "id": "5:4759036788644699123",
+          "name": "commentator",
+          "type": 9
+        },
+        {
+          "id": "6:2521873447231011682",
+          "name": "lang",
+          "type": 9
+        },
+        {
+          "id": "7:2273318587177017799",
+          "name": "text",
+          "type": 9
+        },
+        {
+          "id": "8:7582994291170355250",
+          "name": "vector",
+          "type": 28,
+          "flags": 8,
+          "indexId": "7:8557118585327293831"
+        }
+      ]
+    }
+  ],
+  "lastEntityId": "4:4639649241376960373",
+  "lastIndexId": "7:8557118585327293831"
+}

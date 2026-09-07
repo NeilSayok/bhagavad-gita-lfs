@@ -4,52 +4,332 @@
   "graph": {},
   "nodes": [
     {
-      "label": "validate_slok.py",
+      "label": "add_image_blocks.py",
       "file_type": "code",
-      "source_file": "validate_slok.py",
+      "source_file": "add_image_blocks.py",
       "source_location": "L1",
-      "id": "validate_slok",
-      "community": 1
+      "id": "add_image_blocks",
+      "community": 3
     },
     {
-      "label": "validate()",
+      "label": "add_images()",
       "file_type": "code",
-      "source_file": "validate_slok.py",
-      "source_location": "L3",
-      "id": "validate_slok_validate",
-      "community": 1
+      "source_file": "add_image_blocks.py",
+      "source_location": "L14",
+      "id": "add_image_blocks_add_images",
+      "community": 3
     },
     {
-      "label": "scratchpad_fill.py",
+      "label": "chapter_image()",
       "file_type": "code",
-      "source_file": "scratchpad_fill.py",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L26",
+      "id": "add_image_blocks_chapter_image",
+      "community": 3
+    },
+    {
+      "label": "slok_image()",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L35",
+      "id": "add_image_blocks_slok_image",
+      "community": 3
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L44",
+      "id": "add_image_blocks_main",
+      "community": 3
+    },
+    {
+      "label": "Add an \"image\" block to every chapter/*.json and slok/*.json file.  Paths only (",
+      "file_type": "rationale",
+      "source_file": "add_image_blocks.py",
       "source_location": "L1",
-      "id": "scratchpad_fill",
+      "id": "add_image_blocks_rationale_1",
+      "community": 3
+    },
+    {
+      "label": "build_db.py",
+      "file_type": "code",
+      "source_file": "db/build_db.py",
+      "source_location": "L1",
+      "id": "build_db",
       "community": 2
     },
     {
-      "label": "fill()",
+      "label": "verse_pk()",
       "file_type": "code",
-      "source_file": "scratchpad_fill.py",
-      "source_location": "L3",
-      "id": "scratchpad_fill_fill",
+      "source_file": "build_db.py",
+      "source_location": "L54",
+      "id": "build_db_verse_pk",
       "community": 2
     },
     {
-      "label": "run_scripts.py",
+      "label": "build()",
       "file_type": "code",
-      "source_file": "run_scripts.py",
-      "source_location": "L1",
-      "id": "run_scripts",
-      "community": 0
+      "source_file": "build_db.py",
+      "source_location": "L60",
+      "id": "build_db_build",
+      "community": 2
     },
     {
-      "label": "run_subagent_scripts()",
+      "label": "verify()",
       "file_type": "code",
-      "source_file": "run_scripts.py",
-      "source_location": "L3",
-      "id": "run_scripts_run_subagent_scripts",
-      "community": 0
+      "source_file": "db/build_db.py",
+      "source_location": "L137",
+      "id": "build_db_verify",
+      "community": 2
+    },
+    {
+      "label": "dict_by_lang()",
+      "file_type": "code",
+      "source_file": "build_db.py",
+      "source_location": "L237",
+      "id": "build_db_dict_by_lang",
+      "community": 2
+    },
+    {
+      "label": "Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the",
+      "file_type": "rationale",
+      "source_file": "build_db.py",
+      "source_location": "L55",
+      "id": "build_db_rationale_55",
+      "community": 2
+    },
+    {
+      "label": "Full round-trip: rebuild every source JSON from the DB and diff it.",
+      "file_type": "rationale",
+      "source_file": "build_db.py",
+      "source_location": "L135",
+      "id": "build_db_rationale_135",
+      "community": 2
+    },
+    {
+      "label": "commit_staged_one_by_one.py",
+      "file_type": "code",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L1",
+      "id": "commit_staged_one_by_one",
+      "community": 5
+    },
+    {
+      "label": "sh()",
+      "file_type": "code",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L6",
+      "id": "commit_staged_one_by_one_sh",
+      "community": 5
+    },
+    {
+      "label": "staged_files()",
+      "file_type": "code",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L10",
+      "id": "commit_staged_one_by_one_staged_files",
+      "community": 5
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L19",
+      "id": "commit_staged_one_by_one_main",
+      "community": 5
+    },
+    {
+      "label": "embed_corpus.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L1",
+      "id": "embed_corpus",
+      "community": 4
+    },
+    {
+      "label": "load_rows()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L25",
+      "id": "embed_corpus_load_rows",
+      "community": 4
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L62",
+      "id": "embed_corpus_main",
+      "community": 4
+    },
+    {
+      "label": "verify()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L82",
+      "id": "embed_corpus_verify",
+      "community": 4
+    },
+    {
+      "label": "Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L1",
+      "id": "embed_corpus_rationale_1",
+      "community": 4
+    },
+    {
+      "label": "export_jsonl.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L1",
+      "id": "export_jsonl",
+      "community": 7
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L13",
+      "id": "export_jsonl_main",
+      "community": 7
+    },
+    {
+      "label": "Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L1",
+      "id": "export_jsonl_rationale_1",
+      "community": 7
+    },
+    {
+      "label": "test_search.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L1",
+      "id": "test_search",
+      "community": 1
+    },
+    {
+      "label": "search()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L22",
+      "id": "test_search_search",
+      "community": 1
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L50",
+      "id": "test_search_main",
+      "community": 1
+    },
+    {
+      "label": "Semantic search test against the ObjectBox store built by build_objectbox.py.  U",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L1",
+      "id": "test_search_rationale_1",
+      "community": 1
+    },
+    {
+      "label": "model.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L1",
+      "id": "model",
+      "community": 1
+    },
+    {
+      "label": "Slok",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L17",
+      "id": "model_slok",
+      "community": 1
+    },
+    {
+      "label": "WordMeaning",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L35",
+      "id": "model_wordmeaning",
+      "community": 1
+    },
+    {
+      "label": "Commentary",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L45",
+      "id": "model_commentary",
+      "community": 1
+    },
+    {
+      "label": "Embedding",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L58",
+      "id": "model_embedding",
+      "community": 1
+    },
+    {
+      "label": "Verse-centric ObjectBox entities for the Bhagavad Gita corpus.  No Chapter or Th",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L1",
+      "id": "model_rationale_1",
+      "community": 1
+    },
+    {
+      "label": "build_objectbox.py",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L1",
+      "id": "build_objectbox",
+      "community": 6
+    },
+    {
+      "label": "chunk_text()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L45",
+      "id": "build_objectbox_chunk_text",
+      "community": 6
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L76",
+      "id": "build_objectbox_main",
+      "community": 6
+    },
+    {
+      "label": "verify()",
+      "file_type": "code",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L201",
+      "id": "build_objectbox_verify",
+      "community": 6
+    },
+    {
+      "label": "Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L1",
+      "id": "build_objectbox_rationale_1",
+      "community": 1
+    },
+    {
+      "label": "Split text into pieces that fit the embedding model's context window.",
+      "file_type": "rationale",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L46",
+      "id": "build_objectbox_rationale_46",
+      "community": 1
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",
@@ -57,644 +337,1044 @@
       "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
       "source_location": "L1",
       "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 3
-    },
-    {
-      "label": "fill_ch4_v6_to_v10.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v6_to_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v6_to_v10",
-      "community": 4
-    },
-    {
-      "label": "fill_ch9_v11_to_v15.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch9_v11_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v11_to_v15",
-      "community": 5
-    },
-    {
-      "label": "fill_ch3_v32_to_v36.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v32_to_v36.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v32_to_v36",
-      "community": 6
-    },
-    {
-      "label": "fill_ch8_v25_to_v28.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v25_to_v28.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v25_to_v28",
-      "community": 7
-    },
-    {
-      "label": "fill_ch5_v30.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch5_v30.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v30",
       "community": 8
     },
     {
-      "label": "fill_ch3_v37_to_v40.py",
+      "label": "slugify()",
       "file_type": "code",
-      "source_file": "scratch/fill_ch3_v37_to_v40.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v37_to_v40",
-      "community": 9
-    },
-    {
-      "label": "fill_ch5_v1_to_v5.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch5_v1_to_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v1_to_v5",
-      "community": 10
-    },
-    {
-      "label": "fill_ch8_v4_v5.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v4_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v4_v5",
-      "community": 11
-    },
-    {
-      "label": "fill_ch4_v31_to_v35.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v31_to_v35.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v31_to_v35",
-      "community": 12
-    },
-    {
-      "label": "fill_ch5_v6_to_v11.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch5_v6_to_v11.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v6_to_v11",
-      "community": 13
-    },
-    {
-      "label": "fill_ch4_v16_to_v20.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v16_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v16_to_v20",
-      "community": 14
-    },
-    {
-      "label": "fill_ch8_v21_to_v24.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v21_to_v24.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v21_to_v24",
-      "community": 15
-    },
-    {
-      "label": "fill_ch8_v12_to_v15.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v12_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v12_to_v15",
-      "community": 16
-    },
-    {
-      "label": "fill_ch6_v26_to_v30.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v26_to_v30.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v26_to_v30",
-      "community": 17
-    },
-    {
-      "label": "fill_ch7_v16_to_v20.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v16_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v16_to_v20",
-      "community": 18
-    },
-    {
-      "label": "fill_ch7_colophon.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_colophon.py",
-      "source_location": "L1",
-      "id": "fill_ch7_colophon",
-      "community": 19
-    },
-    {
-      "label": "fill_ch4_v11_to_v15.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v11_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v11_to_v15",
-      "community": 20
-    },
-    {
-      "label": "fill_ch7_v22_to_v25.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v22_to_v25.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v22_to_v25",
-      "community": 21
-    },
-    {
-      "label": "fill_ch6_v41_to_v47.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v41_to_v47.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v41_to_v47",
-      "community": 22
-    },
-    {
-      "label": "fix_ch9_v31_to_v34.py",
-      "file_type": "code",
-      "source_file": "scratch/fix_ch9_v31_to_v34.py",
-      "source_location": "L1",
-      "id": "fix_ch9_v31_to_v34",
-      "community": 23
-    },
-    {
-      "label": "fill_ch7_v1_v2.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v1_v2.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v1_v2",
-      "community": 24
-    },
-    {
-      "label": "fill_ch3_v41_to_v44.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v41_to_v44.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v41_to_v44",
-      "community": 25
-    },
-    {
-      "label": "fill_ch3_v17_to_v21.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v17_to_v21.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v17_to_v21",
-      "community": 26
-    },
-    {
-      "label": "fill_ch8_v6_to_v10.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v6_to_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v6_to_v10",
-      "community": 27
-    },
-    {
-      "label": "fill_ch3_v12_to_v16.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v12_to_v16.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v12_to_v16",
-      "community": 28
-    },
-    {
-      "label": "fill_ch9_v16_to_v20.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch9_v16_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v16_to_v20",
-      "community": 29
-    },
-    {
-      "label": "fill_ch6_v21_to_v25.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v21_to_v25.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v21_to_v25",
-      "community": 30
-    },
-    {
-      "label": "fill_ch7_v3_to_v5.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v3_to_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v3_to_v5",
-      "community": 31
-    },
-    {
-      "label": "fill_ch9_v31_to_v34.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch9_v31_to_v34.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v31_to_v34",
-      "community": 32
-    },
-    {
-      "label": "fill_ch7_v17_to_v20.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v17_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v17_to_v20",
-      "community": 33
-    },
-    {
-      "label": "fill_ch6_v1_to_v5.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v1_to_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v1_to_v5",
-      "community": 34
-    },
-    {
-      "label": "fill_ch7_v11_to_v15.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v11_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v11_to_v15",
-      "community": 35
-    },
-    {
-      "label": "fill_ch4_v36_to_v40.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v36_to_v40.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v36_to_v40",
-      "community": 36
-    },
-    {
-      "label": "fill_ch8_v9_v10.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v9_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v9_v10",
-      "community": 37
-    },
-    {
-      "label": "fill_ch3_v7_to_v11.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v7_to_v11.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v7_to_v11",
-      "community": 38
-    },
-    {
-      "label": "fill_ch5_v22_to_v26.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch5_v22_to_v26.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v22_to_v26",
-      "community": 39
-    },
-    {
-      "label": "fill_ch5_v12_to_v16.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch5_v12_to_v16.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v12_to_v16",
-      "community": 40
-    },
-    {
-      "label": "fill_ch5_v17_to_v21.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch5_v17_to_v21.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v17_to_v21",
-      "community": 41
-    },
-    {
-      "label": "fill_ch4_v41_to_v43.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v41_to_v43.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v41_to_v43",
-      "community": 42
-    },
-    {
-      "label": "fill_ch7_v7_to_v10.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v7_to_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v7_to_v10",
-      "community": 43
-    },
-    {
-      "label": "fill_ch7_v27_to_v30.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v27_to_v30.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v27_to_v30",
-      "community": 44
-    },
-    {
-      "label": "fix_ch8_gaps.py",
-      "file_type": "code",
-      "source_file": "scratch/fix_ch8_gaps.py",
-      "source_location": "L1",
-      "id": "fix_ch8_gaps",
-      "community": 45
-    },
-    {
-      "label": "fill_ch8_v1_to_v5.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v1_to_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v1_to_v5",
-      "community": 46
-    },
-    {
-      "label": "fill_ch7_v21_to_v25.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v21_to_v25.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v21_to_v25",
-      "community": 47
-    },
-    {
-      "label": "fill_ch18_v6.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch18_v6.py",
-      "source_location": "L1",
-      "id": "fill_ch18_v6",
-      "community": 48
-    },
-    {
-      "label": "fix_ch9_all_remaining.py",
-      "file_type": "code",
-      "source_file": "scratch/fix_ch9_all_remaining.py",
-      "source_location": "L1",
-      "id": "fix_ch9_all_remaining",
-      "community": 49
-    },
-    {
-      "label": "fill_ch6_v11_to_v15.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v11_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v11_to_v15",
-      "community": 50
-    },
-    {
-      "label": "fill_ch9_v5_v9_v10.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch9_v5_v9_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v5_v9_v10",
-      "community": 51
-    },
-    {
-      "label": "fill_ch6_v36_to_v40.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v36_to_v40.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v36_to_v40",
-      "community": 52
-    },
-    {
-      "label": "fill_ch4_v1_to_v5.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v1_to_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v1_to_v5",
-      "community": 53
-    },
-    {
-      "label": "fill_ch3_v22_to_v26.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v22_to_v26.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v22_to_v26",
-      "community": 54
-    },
-    {
-      "label": "fill_ch8_v16_to_v20.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v16_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v16_to_v20",
-      "community": 55
-    },
-    {
-      "label": "fill_ch3_v27_to_v31.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch3_v27_to_v31.py",
-      "source_location": "L1",
-      "id": "fill_ch3_v27_to_v31",
-      "community": 56
-    },
-    {
-      "label": "fill_ch4_v21_to_v25.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch4_v21_to_v25.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v21_to_v25",
-      "community": 57
-    },
-    {
-      "label": "fill_ch9_v26_to_v30.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch9_v26_to_v30.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v26_to_v30",
-      "community": 58
-    },
-    {
-      "label": "fill_ch7_v12_to_v15.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch7_v12_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v12_to_v15",
-      "community": 59
-    },
-    {
-      "label": "fill_ch6_v16_to_v20.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch6_v16_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v16_to_v20",
-      "community": 60
-    },
-    {
-      "label": "fill_ch9_v3_v4_v5_v9_v10.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch9_v3_v4_v5_v9_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v3_v4_v5_v9_v10",
-      "community": 61
-    },
-    {
-      "label": "fill_ch8_v26_to_v28.py",
-      "file_type": "code",
-      "source_file": "scratch/fill_ch8_v26_to_v28.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v26_to_v28",
-      "community": 62
+      "source_file": "db/build_db.py",
+      "source_location": "L34",
+      "id": "build_db_slugify",
+      "community": 2
     },
     {
-      "label": "fill_ch6_v31_to_v35.py",
+      "label": "txt()",
       "file_type": "code",
-      "source_file": "scratch/fill_ch6_v31_to_v35.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v31_to_v35",
-      "community": 63
+      "source_file": "db/build_db.py",
+      "source_location": "L38",
+      "id": "build_db_txt",
+      "community": 2
     },
     {
-      "label": "fill_ch7_v6_to_v10.py",
+      "label": "main()",
       "file_type": "code",
-      "source_file": "scratch/fill_ch7_v6_to_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch7_v6_to_v10",
-      "community": 64
+      "source_file": "db/build_db.py",
+      "source_location": "L42",
+      "id": "build_db_main",
+      "community": 2
     },
     {
-      "label": "fill_ch7_v26_to_v30.py",
+      "label": "GitaEntities.kt",
       "file_type": "code",
-      "source_file": "scratch/fill_ch7_v26_to_v30.py",
+      "source_file": "db/room/GitaEntities.kt",
       "source_location": "L1",
-      "id": "fill_ch7_v26_to_v30",
-      "community": 65
+      "id": "gitaentities",
+      "community": 0
     },
     {
-      "label": "fill_ch8_v29_colophon.py",
+      "label": "LanguageEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch8_v29_colophon.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v29_colophon",
-      "community": 66
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L17",
+      "id": "gitaentities_languageentity",
+      "community": 0
     },
     {
-      "label": "fill_ch6_v2_to_v5.py",
+      "label": "ChapterEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch6_v2_to_v5.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v2_to_v5",
-      "community": 67
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L25",
+      "id": "gitaentities_chapterentity",
+      "community": 0
     },
     {
-      "label": "fill_missing_prabhu_colophons.py",
+      "label": "ChapterTranslationEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_missing_prabhu_colophons.py",
-      "source_location": "L1",
-      "id": "fill_missing_prabhu_colophons",
-      "community": 68
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L37",
+      "id": "gitaentities_chaptertranslationentity",
+      "community": 0
     },
     {
-      "label": "fill_ch6_v6_to_v10.py",
+      "label": "VerseEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch6_v6_to_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch6_v6_to_v10",
-      "community": 69
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L53",
+      "id": "gitaentities_verseentity",
+      "community": 0
     },
     {
-      "label": "fill_ch9_v4_v5_v9_v10.py",
+      "label": "VerseTextEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch9_v4_v5_v9_v10.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v4_v5_v9_v10",
-      "community": 70
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L71",
+      "id": "gitaentities_versetextentity",
+      "community": 0
     },
     {
-      "label": "fill_ch8_v7_v8.py",
+      "label": "VerseTranslationEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch8_v7_v8.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v7_v8",
-      "community": 71
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L87",
+      "id": "gitaentities_versetranslationentity",
+      "community": 0
     },
     {
-      "label": "fill_ch8_v11_to_v15.py",
+      "label": "ThemeEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch8_v11_to_v15.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v11_to_v15",
-      "community": 72
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L102",
+      "id": "gitaentities_themeentity",
+      "community": 0
     },
     {
-      "label": "fill_ch8_v2_v3.py",
+      "label": "ThemeTranslationEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch8_v2_v3.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v2_v3",
-      "community": 73
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L108",
+      "id": "gitaentities_themetranslationentity",
+      "community": 0
     },
     {
-      "label": "fill_ch8_v17_to_v20.py",
+      "label": "VerseThemeEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch8_v17_to_v20.py",
-      "source_location": "L1",
-      "id": "fill_ch8_v17_to_v20",
-      "community": 74
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L123",
+      "id": "gitaentities_versethemeentity",
+      "community": 0
     },
     {
-      "label": "fill_ch6_colophon.py",
+      "label": "WordMeaningEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch6_colophon.py",
-      "source_location": "L1",
-      "id": "fill_ch6_colophon",
-      "community": 75
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L138",
+      "id": "gitaentities_wordmeaningentity",
+      "community": 0
     },
     {
-      "label": "fill_ch4_v26_to_v30.py",
+      "label": "WordMeaningTranslationEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch4_v26_to_v30.py",
-      "source_location": "L1",
-      "id": "fill_ch4_v26_to_v30",
-      "community": 76
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L152",
+      "id": "gitaentities_wordmeaningtranslationentity",
+      "community": 0
     },
     {
-      "label": "fill_ch9_v21_to_v25.py",
+      "label": "CommentatorEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch9_v21_to_v25.py",
-      "source_location": "L1",
-      "id": "fill_ch9_v21_to_v25",
-      "community": 77
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L173",
+      "id": "gitaentities_commentatorentity",
+      "community": 0
     },
     {
-      "label": "fill_ch5_v27_to_v29.py",
+      "label": "CommentaryEntity",
       "file_type": "code",
-      "source_file": "scratch/fill_ch5_v27_to_v29.py",
-      "source_location": "L1",
-      "id": "fill_ch5_v27_to_v29",
-      "community": 78
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L180",
+      "id": "gitaentities_commentaryentity",
+      "community": 0
     }
   ],
   "links": [
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "validate_slok.py",
-      "source_location": "L3",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L14",
       "weight": 1.0,
-      "_src": "validate_slok",
-      "_tgt": "validate_slok_validate",
-      "source": "validate_slok",
-      "target": "validate_slok_validate",
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_add_images",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_add_images",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "scratchpad_fill.py",
-      "source_location": "L3",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L26",
       "weight": 1.0,
-      "_src": "scratchpad_fill",
-      "_tgt": "scratchpad_fill_fill",
-      "source": "scratchpad_fill",
-      "target": "scratchpad_fill_fill",
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_chapter_image",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_chapter_image",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "run_scripts.py",
-      "source_location": "L3",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L35",
       "weight": 1.0,
-      "_src": "run_scripts",
-      "_tgt": "run_scripts_run_subagent_scripts",
-      "source": "run_scripts",
-      "target": "run_scripts_run_subagent_scripts",
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_slok_image",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_slok_image",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_src": "add_image_blocks",
+      "_tgt": "add_image_blocks_main",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "add_image_blocks_rationale_1",
+      "_tgt": "add_image_blocks",
+      "source": "add_image_blocks",
+      "target": "add_image_blocks_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "add_image_blocks.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "add_image_blocks_main",
+      "_tgt": "add_image_blocks_add_images",
+      "source": "add_image_blocks_add_images",
+      "target": "add_image_blocks_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_verse_pk",
+      "source": "build_db",
+      "target": "build_db_verse_pk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_build",
+      "source": "build_db",
+      "target": "build_db_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_verify",
+      "source": "build_db",
+      "target": "build_db_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L237",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_dict_by_lang",
+      "source": "build_db",
+      "target": "build_db_dict_by_lang",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_slugify",
+      "source": "build_db",
+      "target": "build_db_slugify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_txt",
+      "source": "build_db",
+      "target": "build_db_txt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "build_db",
+      "_tgt": "build_db_main",
+      "source": "build_db",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L98",
+      "weight": 1.0,
+      "_src": "build_db_build",
+      "_tgt": "build_db_verse_pk",
+      "source": "build_db_verse_pk",
+      "target": "build_db_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L176",
+      "weight": 1.0,
+      "_src": "build_db_verify",
+      "_tgt": "build_db_verse_pk",
+      "source": "build_db_verse_pk",
+      "target": "build_db_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "build_db_rationale_55",
+      "_tgt": "build_db_verse_pk",
+      "source": "build_db_verse_pk",
+      "target": "build_db_rationale_55",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L159",
+      "weight": 1.0,
+      "_src": "build_db_verify",
+      "_tgt": "build_db_dict_by_lang",
+      "source": "build_db_verify",
+      "target": "build_db_dict_by_lang",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "build_db.py",
+      "source_location": "L135",
+      "weight": 1.0,
+      "_src": "build_db_rationale_135",
+      "_tgt": "build_db_verify",
+      "source": "build_db_verify",
+      "target": "build_db_rationale_135",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L132",
+      "weight": 1.0,
+      "_src": "build_db_main",
+      "_tgt": "build_db_verify",
+      "source": "build_db_verify",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "commit_staged_one_by_one",
+      "_tgt": "commit_staged_one_by_one_sh",
+      "source": "commit_staged_one_by_one",
+      "target": "commit_staged_one_by_one_sh",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "commit_staged_one_by_one",
+      "_tgt": "commit_staged_one_by_one_staged_files",
+      "source": "commit_staged_one_by_one",
+      "target": "commit_staged_one_by_one_staged_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "commit_staged_one_by_one",
+      "_tgt": "commit_staged_one_by_one_main",
+      "source": "commit_staged_one_by_one",
+      "target": "commit_staged_one_by_one_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "commit_staged_one_by_one_main",
+      "_tgt": "commit_staged_one_by_one_sh",
+      "source": "commit_staged_one_by_one_sh",
+      "target": "commit_staged_one_by_one_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "commit_staged_one_by_one.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "commit_staged_one_by_one_main",
+      "_tgt": "commit_staged_one_by_one_staged_files",
+      "source": "commit_staged_one_by_one_staged_files",
+      "target": "commit_staged_one_by_one_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "embed_corpus",
+      "_tgt": "embed_corpus_load_rows",
+      "source": "embed_corpus",
+      "target": "embed_corpus_load_rows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "embed_corpus",
+      "_tgt": "embed_corpus_main",
+      "source": "embed_corpus",
+      "target": "embed_corpus_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L82",
+      "weight": 1.0,
+      "_src": "embed_corpus",
+      "_tgt": "embed_corpus_verify",
+      "source": "embed_corpus",
+      "target": "embed_corpus_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "embed_corpus_rationale_1",
+      "_tgt": "embed_corpus",
+      "source": "embed_corpus",
+      "target": "embed_corpus_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "_src": "embed_corpus_main",
+      "_tgt": "embed_corpus_load_rows",
+      "source": "embed_corpus_load_rows",
+      "target": "embed_corpus_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/embed_corpus.py",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_src": "embed_corpus_main",
+      "_tgt": "embed_corpus_verify",
+      "source": "embed_corpus_main",
+      "target": "embed_corpus_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "export_jsonl",
+      "_tgt": "export_jsonl_main",
+      "source": "export_jsonl",
+      "target": "export_jsonl_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/export_jsonl.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "export_jsonl_rationale_1",
+      "_tgt": "export_jsonl",
+      "source": "export_jsonl",
+      "target": "export_jsonl_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "test_search",
+      "_tgt": "model",
+      "source": "test_search",
+      "target": "model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "test_search",
+      "_tgt": "test_search_search",
+      "source": "test_search",
+      "target": "test_search_search",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "test_search",
+      "_tgt": "test_search_main",
+      "source": "test_search",
+      "target": "test_search_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "test_search_rationale_1",
+      "_tgt": "test_search",
+      "source": "test_search",
+      "target": "test_search_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "_src": "test_search_main",
+      "_tgt": "test_search_search",
+      "source": "test_search_search",
+      "target": "test_search_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L12",
+      "weight": 0.8,
+      "_src": "test_search_rationale_1",
+      "_tgt": "model_slok",
+      "source": "test_search_rationale_1",
+      "target": "model_slok",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/test_search.py",
+      "source_location": "L12",
+      "weight": 0.8,
+      "_src": "test_search_rationale_1",
+      "_tgt": "model_embedding",
+      "source": "test_search_rationale_1",
+      "target": "model_embedding",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_slok",
+      "source": "model",
+      "target": "model_slok",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_wordmeaning",
+      "source": "model",
+      "target": "model_wordmeaning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_commentary",
+      "source": "model",
+      "target": "model_commentary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "model",
+      "_tgt": "model_embedding",
+      "source": "model",
+      "target": "model_embedding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/model.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "model_rationale_1",
+      "_tgt": "model",
+      "source": "model",
+      "target": "model_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "model",
+      "source": "model",
+      "target": "build_objectbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_slok",
+      "source": "model_slok",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_slok",
+      "source": "model_slok",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_wordmeaning",
+      "source": "model_wordmeaning",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_wordmeaning",
+      "source": "model_wordmeaning",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_commentary",
+      "source": "model_commentary",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_commentary",
+      "source": "model_commentary",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "model_embedding",
+      "source": "model_embedding",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L20",
+      "weight": 0.8,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "model_embedding",
+      "source": "model_embedding",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "build_objectbox_chunk_text",
+      "source": "build_objectbox",
+      "target": "build_objectbox_chunk_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "build_objectbox_main",
+      "source": "build_objectbox",
+      "target": "build_objectbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L201",
+      "weight": 1.0,
+      "_src": "build_objectbox",
+      "_tgt": "build_objectbox_verify",
+      "source": "build_objectbox",
+      "target": "build_objectbox_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_objectbox_rationale_1",
+      "_tgt": "build_objectbox",
+      "source": "build_objectbox",
+      "target": "build_objectbox_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L159",
+      "weight": 1.0,
+      "_src": "build_objectbox_main",
+      "_tgt": "build_objectbox_chunk_text",
+      "source": "build_objectbox_chunk_text",
+      "target": "build_objectbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "build_objectbox_rationale_46",
+      "_tgt": "build_objectbox_chunk_text",
+      "source": "build_objectbox_chunk_text",
+      "target": "build_objectbox_rationale_46",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
+      "source_location": "L197",
+      "weight": 1.0,
+      "_src": "build_objectbox_main",
+      "_tgt": "build_objectbox_verify",
+      "source": "build_objectbox_main",
+      "target": "build_objectbox_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_src": "build_db_main",
+      "_tgt": "build_db_slugify",
+      "source": "build_db_slugify",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "db/build_db.py",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_src": "build_db_main",
+      "_tgt": "build_db_txt",
+      "source": "build_db_txt",
+      "target": "build_db_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_languageentity",
+      "source": "gitaentities",
+      "target": "gitaentities_languageentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_chapterentity",
+      "source": "gitaentities",
+      "target": "gitaentities_chapterentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_chaptertranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_chaptertranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_verseentity",
+      "source": "gitaentities",
+      "target": "gitaentities_verseentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_versetextentity",
+      "source": "gitaentities",
+      "target": "gitaentities_versetextentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L87",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_versetranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_versetranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L102",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_themeentity",
+      "source": "gitaentities",
+      "target": "gitaentities_themeentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_themetranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_themetranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L123",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_versethemeentity",
+      "source": "gitaentities",
+      "target": "gitaentities_versethemeentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L138",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_wordmeaningentity",
+      "source": "gitaentities",
+      "target": "gitaentities_wordmeaningentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L152",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_wordmeaningtranslationentity",
+      "source": "gitaentities",
+      "target": "gitaentities_wordmeaningtranslationentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L173",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_commentatorentity",
+      "source": "gitaentities",
+      "target": "gitaentities_commentatorentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/room/GitaEntities.kt",
+      "source_location": "L180",
+      "weight": 1.0,
+      "_src": "gitaentities",
+      "_tgt": "gitaentities_commentaryentity",
+      "source": "gitaentities",
+      "target": "gitaentities_commentaryentity",
       "confidence_score": 1.0
     }
   ],

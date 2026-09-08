@@ -178,3 +178,7 @@ Script: `api/build_topics_api.py`. One array, one object per theme (15 total). T
 ## `api/meta/update.json` — per-file update epochs
 
 Script: `scripts/build_update_meta.py`, run last in the daily workflow (after every randomizer). Not sourced from the DB — it's a filesystem scan of `api/`, `{relative_path: mtime_epoch_seconds}` for every file under `api/` except itself.
+
+## `api/chapter/*.json` and `api/slok/*.json` — raw source mirror, not generated
+
+Not built by any script, not sourced from the DB — a byte-for-byte copy of the repo's own `chapter/*.json` (18 files) and `slok/*.json` (719 files), committed directly under `api/`. No field mapping: same schema as documented at the top of this file for the two source directories. Included here only because `api/meta/update.json` tracks their mtimes like every other file under `api/`.

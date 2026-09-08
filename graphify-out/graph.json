@@ -332,6 +332,30 @@
       "community": 1
     },
     {
+      "label": "build_update_meta.py",
+      "file_type": "code",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L1",
+      "id": "build_update_meta",
+      "community": 9
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L13",
+      "id": "build_update_meta_main",
+      "community": 9
+    },
+    {
+      "label": "Build api/meta/update.json: last-modified epoch (seconds) for every file under a",
+      "file_type": "rationale",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L1",
+      "id": "build_update_meta_rationale_1",
+      "community": 9
+    },
+    {
       "label": "verse_of_day.py",
       "file_type": "code",
       "source_file": "scripts/randomizers/verse_of_day.py",
@@ -369,7 +393,7 @@
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L1",
       "id": "wisdom_daily",
-      "community": 9
+      "community": 10
     },
     {
       "label": "main()",
@@ -377,7 +401,7 @@
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L37",
       "id": "wisdom_daily_main",
-      "community": 9
+      "community": 10
     },
     {
       "label": "Randomizer: pick 10 random verses for the wisdom screen -> api/wisdom/daily.json",
@@ -385,7 +409,7 @@
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L1",
       "id": "wisdom_daily_rationale_1",
-      "community": 9
+      "community": 10
     },
     {
       "label": "slugify()",
@@ -529,7 +553,7 @@
       "source_file": "api/build_reading_api.py",
       "source_location": "L1",
       "id": "build_reading_api",
-      "community": 10
+      "community": 11
     },
     {
       "label": "main()",
@@ -537,7 +561,7 @@
       "source_file": "api/build_reading_api.py",
       "source_location": "L24",
       "id": "build_reading_api_main",
-      "community": 10
+      "community": 11
     },
     {
       "label": "Build api/reading/all.json (static, precomputed) from db/gita.db.",
@@ -545,7 +569,7 @@
       "source_file": "api/build_reading_api.py",
       "source_location": "L1",
       "id": "build_reading_api_rationale_1",
-      "community": 10
+      "community": 11
     },
     {
       "label": "build_chapter_api.py",
@@ -553,7 +577,7 @@
       "source_file": "api/build_chapter_api.py",
       "source_location": "L1",
       "id": "build_chapter_api",
-      "community": 11
+      "community": 12
     },
     {
       "label": "main()",
@@ -561,7 +585,7 @@
       "source_file": "api/build_chapter_api.py",
       "source_location": "L25",
       "id": "build_chapter_api_main",
-      "community": 11
+      "community": 12
     },
     {
       "label": "Build api/chapter/<number>/list.json (static, precomputed) from db/gita.db. One",
@@ -569,7 +593,7 @@
       "source_file": "api/build_chapter_api.py",
       "source_location": "L1",
       "id": "build_chapter_api_rationale_1",
-      "community": 11
+      "community": 12
     },
     {
       "label": "build_topics_api.py",
@@ -577,7 +601,7 @@
       "source_file": "api/build_topics_api.py",
       "source_location": "L1",
       "id": "build_topics_api",
-      "community": 12
+      "community": 13
     },
     {
       "label": "main()",
@@ -585,7 +609,7 @@
       "source_file": "api/build_topics_api.py",
       "source_location": "L34",
       "id": "build_topics_api_main",
-      "community": 12
+      "community": 13
     },
     {
       "label": "Build api/topics/list.json (static, precomputed) from db/gita.db.  Themes carry",
@@ -593,7 +617,7 @@
       "source_file": "api/build_topics_api.py",
       "source_location": "L1",
       "id": "build_topics_api_rationale_1",
-      "community": 12
+      "community": 13
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",
@@ -601,7 +625,7 @@
       "source_file": "api/slok/update_bhagavadgita_chapter_18_slok_2.py",
       "source_location": "L1",
       "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 13
+      "community": 14
     }
   ],
   "links": [
@@ -1323,6 +1347,30 @@
       "_tgt": "build_objectbox_verify",
       "source": "build_objectbox_main",
       "target": "build_objectbox_verify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "build_update_meta",
+      "_tgt": "build_update_meta_main",
+      "source": "build_update_meta",
+      "target": "build_update_meta_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_update_meta_rationale_1",
+      "_tgt": "build_update_meta",
+      "source": "build_update_meta",
+      "target": "build_update_meta_rationale_1",
       "confidence_score": 1.0
     },
     {

@@ -97,10 +97,13 @@ Nodes (0):
 
 ## Knowledge Gaps
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - **25 isolated node(s):** `Add an "image" block to every chapter/*.json and slok/*.json file.  Paths only (`, `Stable INTEGER rowid: chapter * 1000 + verse. Needed as a rowid alias so the`, `Full round-trip: rebuild every source JSON from the DB and diff it.`, `Embed verse + commentary text from the slok/*.json corpus with embeddinggemma-30`, `Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl` (+20 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **Thin community `Community 14`** (1 nodes): `update_bhagavadgita_chapter_18_slok_2.py`
 =======
+=======
+>>>>>>> Stashed changes
 - **Thin community `Community 0`** (2 nodes): `validate_slok.py`, `validate()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Community 1`** (2 nodes): `run_scripts.py`, `run_subagent_scripts()`

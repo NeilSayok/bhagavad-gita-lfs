@@ -1,0 +1,36 @@
+name: Run randomizers
+
+on:
+  schedule:
+    # 00:00 IST = 18:30 UTC (previous day)
+    - cron: "30 18 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  randomize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run every randomizer script
+        run: |
+          for f in scripts/randomizers/*.py; do
+            echo "running $f"
+            python3 "$f"
+          done
+
+      - name: Commit updated static apis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh randomized static apis"
+            git push
+          fi

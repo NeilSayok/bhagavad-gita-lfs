@@ -8,16 +8,28 @@
       "file_type": "code",
       "source_file": "add_image_blocks.py",
       "source_location": "L1",
+<<<<<<< Updated upstream
       "id": "add_image_blocks",
       "community": 3
+=======
+      "id": "validate_slok",
+      "community": 0
+>>>>>>> Stashed changes
     },
     {
       "label": "add_images()",
       "file_type": "code",
+<<<<<<< Updated upstream
       "source_file": "add_image_blocks.py",
       "source_location": "L14",
       "id": "add_image_blocks_add_images",
       "community": 3
+=======
+      "source_file": "validate_slok.py",
+      "source_location": "L3",
+      "id": "validate_slok_validate",
+      "community": 0
+>>>>>>> Stashed changes
     },
     {
       "label": "chapter_image()",
@@ -112,6 +124,7 @@
       "file_type": "code",
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L1",
+<<<<<<< Updated upstream
       "id": "commit_staged_one_by_one",
       "community": 5
     },
@@ -442,14 +455,25 @@
       "source_location": "L1",
       "id": "gitaentities",
       "community": 0
+=======
+      "id": "run_scripts",
+      "community": 1
+>>>>>>> Stashed changes
     },
     {
       "label": "LanguageEntity",
       "file_type": "code",
+<<<<<<< Updated upstream
       "source_file": "db/room/GitaEntities.kt",
       "source_location": "L17",
       "id": "gitaentities_languageentity",
       "community": 0
+=======
+      "source_file": "run_scripts.py",
+      "source_location": "L3",
+      "id": "run_scripts_run_subagent_scripts",
+      "community": 1
+>>>>>>> Stashed changes
     },
     {
       "label": "ChapterEntity",

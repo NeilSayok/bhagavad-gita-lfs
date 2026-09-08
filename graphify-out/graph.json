@@ -185,7 +185,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L1",
       "id": "export_jsonl",
-      "community": 6
+      "community": 7
     },
     {
       "label": "main()",
@@ -193,7 +193,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L13",
       "id": "export_jsonl_main",
-      "community": 6
+      "community": 7
     },
     {
       "label": "Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl",
@@ -201,7 +201,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L1",
       "id": "export_jsonl_rationale_1",
-      "community": 6
+      "community": 7
     },
     {
       "label": "test_search.py",
@@ -209,7 +209,7 @@
       "source_file": "embedding-pipeline/objectbox/test_search.py",
       "source_location": "L1",
       "id": "test_search",
-      "community": 7
+      "community": 8
     },
     {
       "label": "search()",
@@ -217,7 +217,7 @@
       "source_file": "embedding-pipeline/objectbox/test_search.py",
       "source_location": "L22",
       "id": "test_search_search",
-      "community": 7
+      "community": 8
     },
     {
       "label": "main()",
@@ -225,7 +225,7 @@
       "source_file": "embedding-pipeline/objectbox/test_search.py",
       "source_location": "L50",
       "id": "test_search_main",
-      "community": 7
+      "community": 8
     },
     {
       "label": "Semantic search test against the ObjectBox store built by build_objectbox.py.  U",
@@ -332,12 +332,60 @@
       "community": 1
     },
     {
-      "label": "update_bhagavadgita_chapter_18_slok_2.py",
+      "label": "build_update_meta.py",
       "file_type": "code",
-      "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
+      "source_file": "scripts/build_update_meta.py",
       "source_location": "L1",
-      "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 11
+      "id": "build_update_meta",
+      "community": 9
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L13",
+      "id": "build_update_meta_main",
+      "community": 9
+    },
+    {
+      "label": "Build api/meta/update.json: last-modified epoch (seconds) for every file under a",
+      "file_type": "rationale",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L1",
+      "id": "build_update_meta_rationale_1",
+      "community": 9
+    },
+    {
+      "label": "verse_of_day.py",
+      "file_type": "code",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L1",
+      "id": "verse_of_day",
+      "community": 6
+    },
+    {
+      "label": "epoch_day()",
+      "file_type": "code",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L38",
+      "id": "verse_of_day_epoch_day",
+      "community": 6
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L42",
+      "id": "verse_of_day_main",
+      "community": 6
+    },
+    {
+      "label": "Randomizer: verse-of-the-day -> api/home/verseofday.json.  Verse itself is a fix",
+      "file_type": "rationale",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L1",
+      "id": "verse_of_day_rationale_1",
+      "community": 6
     },
     {
       "label": "wisdom_daily.py",
@@ -345,7 +393,7 @@
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L1",
       "id": "wisdom_daily",
-      "community": 8
+      "community": 10
     },
     {
       "label": "main()",
@@ -353,7 +401,7 @@
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L37",
       "id": "wisdom_daily_main",
-      "community": 8
+      "community": 10
     },
     {
       "label": "Randomizer: pick 10 random verses for the wisdom screen -> api/wisdom/daily.json",
@@ -361,7 +409,7 @@
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L1",
       "id": "wisdom_daily_rationale_1",
-      "community": 8
+      "community": 10
     },
     {
       "label": "slugify()",
@@ -505,7 +553,7 @@
       "source_file": "api/build_reading_api.py",
       "source_location": "L1",
       "id": "build_reading_api",
-      "community": 9
+      "community": 11
     },
     {
       "label": "main()",
@@ -513,7 +561,7 @@
       "source_file": "api/build_reading_api.py",
       "source_location": "L24",
       "id": "build_reading_api_main",
-      "community": 9
+      "community": 11
     },
     {
       "label": "Build api/reading/all.json (static, precomputed) from db/gita.db.",
@@ -521,7 +569,7 @@
       "source_file": "api/build_reading_api.py",
       "source_location": "L1",
       "id": "build_reading_api_rationale_1",
-      "community": 9
+      "community": 11
     },
     {
       "label": "build_chapter_api.py",
@@ -529,7 +577,7 @@
       "source_file": "api/build_chapter_api.py",
       "source_location": "L1",
       "id": "build_chapter_api",
-      "community": 10
+      "community": 12
     },
     {
       "label": "main()",
@@ -537,7 +585,7 @@
       "source_file": "api/build_chapter_api.py",
       "source_location": "L25",
       "id": "build_chapter_api_main",
-      "community": 10
+      "community": 12
     },
     {
       "label": "Build api/chapter/<number>/list.json (static, precomputed) from db/gita.db. One",
@@ -545,7 +593,39 @@
       "source_file": "api/build_chapter_api.py",
       "source_location": "L1",
       "id": "build_chapter_api_rationale_1",
-      "community": 10
+      "community": 12
+    },
+    {
+      "label": "build_topics_api.py",
+      "file_type": "code",
+      "source_file": "api/build_topics_api.py",
+      "source_location": "L1",
+      "id": "build_topics_api",
+      "community": 13
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "api/build_topics_api.py",
+      "source_location": "L34",
+      "id": "build_topics_api_main",
+      "community": 13
+    },
+    {
+      "label": "Build api/topics/list.json (static, precomputed) from db/gita.db.  Themes carry",
+      "file_type": "rationale",
+      "source_file": "api/build_topics_api.py",
+      "source_location": "L1",
+      "id": "build_topics_api_rationale_1",
+      "community": 13
+    },
+    {
+      "label": "update_bhagavadgita_chapter_18_slok_2.py",
+      "file_type": "code",
+      "source_file": "api/slok/update_bhagavadgita_chapter_18_slok_2.py",
+      "source_location": "L1",
+      "id": "update_bhagavadgita_chapter_18_slok_2",
+      "community": 14
     }
   ],
   "links": [
@@ -1272,6 +1352,78 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "build_update_meta",
+      "_tgt": "build_update_meta_main",
+      "source": "build_update_meta",
+      "target": "build_update_meta_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_update_meta.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_update_meta_rationale_1",
+      "_tgt": "build_update_meta",
+      "source": "build_update_meta",
+      "target": "build_update_meta_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "verse_of_day",
+      "_tgt": "verse_of_day_epoch_day",
+      "source": "verse_of_day",
+      "target": "verse_of_day_epoch_day",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "verse_of_day",
+      "_tgt": "verse_of_day_main",
+      "source": "verse_of_day",
+      "target": "verse_of_day_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "verse_of_day_rationale_1",
+      "_tgt": "verse_of_day",
+      "source": "verse_of_day",
+      "target": "verse_of_day_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/randomizers/verse_of_day.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "verse_of_day_main",
+      "_tgt": "verse_of_day_epoch_day",
+      "source": "verse_of_day_epoch_day",
+      "target": "verse_of_day_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "scripts/randomizers/wisdom_daily.py",
       "source_location": "L37",
       "weight": 1.0,
@@ -1519,6 +1671,30 @@
       "_tgt": "build_chapter_api",
       "source": "build_chapter_api",
       "target": "build_chapter_api_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/build_topics_api.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "build_topics_api",
+      "_tgt": "build_topics_api_main",
+      "source": "build_topics_api",
+      "target": "build_topics_api_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "api/build_topics_api.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_topics_api_rationale_1",
+      "_tgt": "build_topics_api",
+      "source": "build_topics_api",
+      "target": "build_topics_api_rationale_1",
       "confidence_score": 1.0
     }
   ],

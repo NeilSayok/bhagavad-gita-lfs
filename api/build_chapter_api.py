@@ -7,7 +7,7 @@ import sqlite3
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT, "db", "gita.db")
-OUT_DIR = os.path.join(ROOT, "api", "chapter")
+OUT_DIR = os.path.join(ROOT, "api", "chapter-slok")
 
 QUERY = """
 SELECT c.chapter_number, c.translation AS chapter_translation,

@@ -185,7 +185,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L1",
       "id": "export_jsonl",
-      "community": 7
+      "community": 6
     },
     {
       "label": "main()",
@@ -193,7 +193,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L13",
       "id": "export_jsonl_main",
-      "community": 7
+      "community": 6
     },
     {
       "label": "Convert embeddings.parquet into embeddings.jsonl (one row per line) for the Kotl",
@@ -201,7 +201,7 @@
       "source_file": "embedding-pipeline/export_jsonl.py",
       "source_location": "L1",
       "id": "export_jsonl_rationale_1",
-      "community": 7
+      "community": 6
     },
     {
       "label": "test_search.py",
@@ -209,7 +209,7 @@
       "source_file": "embedding-pipeline/objectbox/test_search.py",
       "source_location": "L1",
       "id": "test_search",
-      "community": 1
+      "community": 7
     },
     {
       "label": "search()",
@@ -217,7 +217,7 @@
       "source_file": "embedding-pipeline/objectbox/test_search.py",
       "source_location": "L22",
       "id": "test_search_search",
-      "community": 1
+      "community": 7
     },
     {
       "label": "main()",
@@ -225,7 +225,7 @@
       "source_file": "embedding-pipeline/objectbox/test_search.py",
       "source_location": "L50",
       "id": "test_search_main",
-      "community": 1
+      "community": 7
     },
     {
       "label": "Semantic search test against the ObjectBox store built by build_objectbox.py.  U",
@@ -289,7 +289,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L1",
       "id": "build_objectbox",
-      "community": 6
+      "community": 1
     },
     {
       "label": "chunk_text()",
@@ -297,7 +297,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L45",
       "id": "build_objectbox_chunk_text",
-      "community": 6
+      "community": 1
     },
     {
       "label": "main()",
@@ -305,7 +305,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L76",
       "id": "build_objectbox_main",
-      "community": 6
+      "community": 1
     },
     {
       "label": "verify()",
@@ -313,7 +313,7 @@
       "source_file": "embedding-pipeline/objectbox/build_objectbox.py",
       "source_location": "L201",
       "id": "build_objectbox_verify",
-      "community": 6
+      "community": 1
     },
     {
       "label": "Build a verse-centric ObjectBox store from slok/*.json.  Writes one Slok record",
@@ -337,6 +337,30 @@
       "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
       "source_location": "L1",
       "id": "update_bhagavadgita_chapter_18_slok_2",
+      "community": 11
+    },
+    {
+      "label": "wisdom_daily.py",
+      "file_type": "code",
+      "source_file": "scripts/randomizers/wisdom_daily.py",
+      "source_location": "L1",
+      "id": "wisdom_daily",
+      "community": 8
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/randomizers/wisdom_daily.py",
+      "source_location": "L37",
+      "id": "wisdom_daily_main",
+      "community": 8
+    },
+    {
+      "label": "Randomizer: pick 10 random verses for the wisdom screen -> api/wisdom/daily.json",
+      "file_type": "rationale",
+      "source_file": "scripts/randomizers/wisdom_daily.py",
+      "source_location": "L1",
+      "id": "wisdom_daily_rationale_1",
       "community": 8
     },
     {
@@ -474,6 +498,54 @@
       "source_location": "L180",
       "id": "gitaentities_commentaryentity",
       "community": 0
+    },
+    {
+      "label": "build_reading_api.py",
+      "file_type": "code",
+      "source_file": "api/build_reading_api.py",
+      "source_location": "L1",
+      "id": "build_reading_api",
+      "community": 9
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "api/build_reading_api.py",
+      "source_location": "L24",
+      "id": "build_reading_api_main",
+      "community": 9
+    },
+    {
+      "label": "Build api/reading/all.json (static, precomputed) from db/gita.db.",
+      "file_type": "rationale",
+      "source_file": "api/build_reading_api.py",
+      "source_location": "L1",
+      "id": "build_reading_api_rationale_1",
+      "community": 9
+    },
+    {
+      "label": "build_chapter_api.py",
+      "file_type": "code",
+      "source_file": "api/build_chapter_api.py",
+      "source_location": "L1",
+      "id": "build_chapter_api",
+      "community": 10
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "api/build_chapter_api.py",
+      "source_location": "L25",
+      "id": "build_chapter_api_main",
+      "community": 10
+    },
+    {
+      "label": "Build api/chapter/<number>/list.json (static, precomputed) from db/gita.db. One",
+      "file_type": "rationale",
+      "source_file": "api/build_chapter_api.py",
+      "source_location": "L1",
+      "id": "build_chapter_api_rationale_1",
+      "community": 10
     }
   ],
   "links": [
@@ -1198,6 +1270,30 @@
       "confidence_score": 1.0
     },
     {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/randomizers/wisdom_daily.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "wisdom_daily",
+      "_tgt": "wisdom_daily_main",
+      "source": "wisdom_daily",
+      "target": "wisdom_daily_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/randomizers/wisdom_daily.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "wisdom_daily_rationale_1",
+      "_tgt": "wisdom_daily",
+      "source": "wisdom_daily",
+      "target": "wisdom_daily_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "db/build_db.py",
@@ -1375,6 +1471,54 @@
       "_tgt": "gitaentities_commentaryentity",
       "source": "gitaentities",
       "target": "gitaentities_commentaryentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/build_reading_api.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "build_reading_api",
+      "_tgt": "build_reading_api_main",
+      "source": "build_reading_api",
+      "target": "build_reading_api_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "api/build_reading_api.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_reading_api_rationale_1",
+      "_tgt": "build_reading_api",
+      "source": "build_reading_api",
+      "target": "build_reading_api_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "api/build_chapter_api.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "build_chapter_api",
+      "_tgt": "build_chapter_api_main",
+      "source": "build_chapter_api",
+      "target": "build_chapter_api_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "api/build_chapter_api.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_chapter_api_rationale_1",
+      "_tgt": "build_chapter_api",
+      "source": "build_chapter_api",
+      "target": "build_chapter_api_rationale_1",
       "confidence_score": 1.0
     }
   ],

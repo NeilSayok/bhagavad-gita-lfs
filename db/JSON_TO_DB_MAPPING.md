@@ -95,3 +95,86 @@ One row per (commentator key × lang) pair present in that block's `commentary` 
 - verse numbers contiguous `1..count` within every chapter
 - zero foreign-key violations (`PRAGMA foreign_key_check`)
 - at least 1 `commentary` row, spanning all 5 `lang_code` values
+
+---
+
+# DB → static API JSON mapping
+
+The app is moving off `gita.db` entirely — every screen reads a **precomputed static JSON file** under `api/`, generated from `db/gita.db` by the scripts below. Nothing is computed on-device or on the fly. `api/meta/update.json` (built by `scripts/build_update_meta.py`) records a last-modified epoch per file under `api/`, so a client can cheaply detect which of these changed.
+
+Devanagari note: `verse_text` has no `lang_code='sa'` rows in the DB (source JSON never populates a `sa` key for `speaker`/`slok`) — every API below sources Devanagari from **`lang_code='hi'`** instead, matching what the app's own pre-migration DAOs already did.
+
+Default commentary note: "the" commentary for a verse (where a single value is needed, not the full per-commentator list) is always the row with the **lowest `commentator.display_order`** that has non-null `lang_code='en'` text — i.e. `tej` first, falling through the fixed `commentator` order.
+
+## `api/reading/all.json` — reading screen
+
+Script: `api/build_reading_api.py`. One array, one object per verse (719 total), all verses in one file.
+
+| Field (nested) | Source | Notes |
+|---|---|---|
+| `chapter.translation` | `chapter.translation` | joined on `verse.chapter_number` |
+| `verse.verse_id` | `verse.verse_id` | |
+| `verse.chapter_number` | `verse.chapter_number` | |
+| `verse.verse_number` | `verse.verse_number` | |
+| `verse.transliteration` | `verse.transliteration` | |
+| `verse.img_landscape` | `verse.img_landscape` | |
+| `verse.img_square` | `verse.img_square` | |
+| `verse_text.speaker` | `verse_text.speaker` | `lang_code='hi'` |
+| `verse_text.slok` | `verse_text.slok` | `lang_code='hi'` |
+| `verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'` |
+
+## `api/chapter-slok/<chapter_number>/list.json` — chapter/reading-by-chapter screen
+
+Script: `api/build_chapter_api.py`. One file per chapter (18 total), each `{ chapter: {translation}, sloks: [...] }` with one entry per verse in that chapter.
+
+| Field (nested) | Source | Notes |
+|---|---|---|
+| `chapter.translation` | `chapter.translation` | one per file |
+| `sloks[i].verse.verse_id` | `verse.verse_id` | |
+| `sloks[i].verse.img_landscape` | `verse.img_landscape` | |
+| `sloks[i].verse.img_square` | `verse.img_square` | |
+| `sloks[i].verse.transliteration` | `verse.transliteration` | |
+| `sloks[i].verse_text.speaker` | `verse_text.speaker` | `lang_code='hi'` |
+| `sloks[i].verse_text.slok` | `verse_text.slok` | `lang_code='hi'` |
+| `sloks[i].verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'` |
+
+## `api/wisdom/daily.json` — wisdom screen
+
+Script: `scripts/randomizers/wisdom_daily.py` (re-run daily by the GitHub Action). 10 randomly sampled verses, resampled every run — **not stable across days**, treat as ephemeral.
+
+| Field (nested) | Source | Notes |
+|---|---|---|
+| `verse.verse_id` | `verse.verse_id` | |
+| `verse.chapter_number` | `verse.chapter_number` | |
+| `verse.verse_number` | `verse.verse_number` | |
+| `verse.img_portrait` | `verse.img_portrait` | |
+| `verse_text.slok` | `verse_text.slok` | object keyed by **every** available `lang_code` (`hi/en/be/ka`), not one language |
+| `verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'` |
+| `commentary.text` | `commentary.text` | default commentary (see note above), `lang_code='en'` |
+
+## `api/home/verseofday.json` — home screen, verse of the day
+
+Script: `scripts/randomizers/verse_of_day.py` (re-run daily by the GitHub Action). The **verse itself is a fixed constant**, `VERSE_OF_DAY_ID = "BG2.47"` — mirrors the app's own hardcoded `HomeViewModel.kt` constant, not date-derived. Only the commentator shown rotates: `epoch_day % len(commentary_rows_for_verse)`, ordered by `commentator.display_order`.
+
+| Field (nested) | Source | Notes |
+|---|---|---|
+| `verse.verse_id` / `chapter_number` / `verse_number` / `transliteration` | `verse.*` | |
+| `verse.img_landscape` / `img_portrait` / `img_square` | `verse.*` | |
+| `verse_text.speaker` / `slok` | `verse_text.*` | `lang_code='hi'` |
+| `verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'`; also the fallback for `commentary.text` if the verse has zero commentary rows |
+| `commentary.text` | `commentary.text` | rotates daily by epoch day, see above; `lang_code='en'` |
+| `commentator.author` | `commentator.author` | author of whichever commentary rotated in |
+
+## `api/topics/list.json` — topics screen
+
+Script: `api/build_topics_api.py`. One array, one object per theme (15 total). Themes carry no image of their own — each is pinned to a chapter's `img_square` via a hardcoded name→chapter map copied from the app's `HomeScreen.kt` (`topicChapterMap`), falling back to chapter 1 for any theme not in the map (currently none — all 15 are mapped).
+
+| Field | Source | Notes |
+|---|---|---|
+| `name` | `theme_translation.name` | `lang_code='en'` |
+| `image_square` | `chapter.img_square` | keyed by `topicChapterMap[name]`, not the theme's own row (themes have no image) |
+| `verse_count` | `COUNT(*) FROM verse_theme WHERE theme_id=?` | |
+
+## `api/meta/update.json` — per-file update epochs
+
+Script: `scripts/build_update_meta.py`, run last in the daily workflow (after every randomizer). Not sourced from the DB — it's a filesystem scan of `api/`, `{relative_path: mtime_epoch_seconds}` for every file under `api/` except itself.

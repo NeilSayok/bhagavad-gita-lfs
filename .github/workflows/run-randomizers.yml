@@ -26,6 +26,9 @@ jobs:
             python3 "$f"
           done
 
+      - name: Build update-epoch metadata
+        run: python3 scripts/build_update_meta.py
+
       - name: Commit updated static apis
         run: |
           git config user.name "github-actions[bot]"

@@ -332,14 +332,6 @@
       "community": 1
     },
     {
-      "label": "update_bhagavadgita_chapter_18_slok_2.py",
-      "file_type": "code",
-      "source_file": "slok/update_bhagavadgita_chapter_18_slok_2.py",
-      "source_location": "L1",
-      "id": "update_bhagavadgita_chapter_18_slok_2",
-      "community": 13
-    },
-    {
       "label": "verse_of_day.py",
       "file_type": "code",
       "source_file": "scripts/randomizers/verse_of_day.py",
@@ -602,6 +594,14 @@
       "source_location": "L1",
       "id": "build_topics_api_rationale_1",
       "community": 12
+    },
+    {
+      "label": "update_bhagavadgita_chapter_18_slok_2.py",
+      "file_type": "code",
+      "source_file": "api/slok/update_bhagavadgita_chapter_18_slok_2.py",
+      "source_location": "L1",
+      "id": "update_bhagavadgita_chapter_18_slok_2",
+      "community": 13
     }
   ],
   "links": [

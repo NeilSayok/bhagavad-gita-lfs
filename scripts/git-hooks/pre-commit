@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# If any staged file under api/ (other than meta/update.json itself) changed,
+# regenerate api/meta/update.json and include it in the commit.
+set -euo pipefail
+
+staged=$(git diff --cached --name-only -- api/ | grep -v '^api/meta/update\.json$' || true)
+
+if [ -n "$staged" ]; then
+    python3 scripts/build_update_meta.py
+    git add api/meta/update.json
+fi

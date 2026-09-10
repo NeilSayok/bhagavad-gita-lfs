@@ -8,36 +8,16 @@
       "file_type": "code",
       "source_file": "add_image_blocks.py",
       "source_location": "L1",
-<<<<<<< Updated upstream
       "id": "add_image_blocks",
       "community": 3
-=======
-      "id": "validate_slok",
-      "community": 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     },
     {
       "label": "add_images()",
       "file_type": "code",
-<<<<<<< Updated upstream
       "source_file": "add_image_blocks.py",
       "source_location": "L14",
       "id": "add_image_blocks_add_images",
       "community": 3
-=======
-      "source_file": "validate_slok.py",
-      "source_location": "L3",
-      "id": "validate_slok_validate",
-      "community": 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
     },
     {
       "label": "chapter_image()",
@@ -132,7 +112,6 @@
       "file_type": "code",
       "source_file": "commit_staged_one_by_one.py",
       "source_location": "L1",
-<<<<<<< Updated upstream
       "id": "commit_staged_one_by_one",
       "community": 5
     },
@@ -255,8 +234,6 @@
       "source_location": "L1",
       "id": "test_search_rationale_1",
       "community": 1
-=======
->>>>>>> Stashed changes
     },
     {
       "label": "model.py",
@@ -265,8 +242,6 @@
       "source_location": "L1",
       "id": "model",
       "community": 1
-=======
->>>>>>> Stashed changes
     },
     {
       "label": "Slok",
@@ -465,39 +440,16 @@
       "file_type": "code",
       "source_file": "db/room/GitaEntities.kt",
       "source_location": "L1",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       "id": "gitaentities",
       "community": 0
-=======
-      "id": "run_scripts",
-      "community": 1
->>>>>>> Stashed changes
-=======
-      "id": "run_scripts",
-      "community": 1
->>>>>>> Stashed changes
-=======
-      "id": "run_scripts",
-      "community": 1
->>>>>>> Stashed changes
     },
     {
       "label": "LanguageEntity",
       "file_type": "code",
-<<<<<<< Updated upstream
       "source_file": "db/room/GitaEntities.kt",
       "source_location": "L17",
       "id": "gitaentities_languageentity",
       "community": 0
-=======
-      "source_file": "run_scripts.py",
-      "source_location": "L3",
-      "id": "run_scripts_run_subagent_scripts",
-      "community": 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
     },
     {
       "label": "ChapterEntity",
@@ -506,8 +458,6 @@
       "source_location": "L25",
       "id": "gitaentities_chapterentity",
       "community": 0
-=======
->>>>>>> Stashed changes
     },
     {
       "label": "ChapterTranslationEntity",
@@ -668,8 +618,6 @@
       "source_location": "L1",
       "id": "build_topics_api_rationale_1",
       "community": 13
-=======
->>>>>>> Stashed changes
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",

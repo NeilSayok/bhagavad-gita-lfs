@@ -53,7 +53,7 @@ def main():
     db.executemany("INSERT INTO language VALUES (?,?,?,?)", LANGUAGES)
 
     # ---- chapters -------------------------------------------------------
-    for path in sorted(glob.glob(os.path.join(ROOT, "chapter", "*.json"))):
+    for path in sorted(glob.glob(os.path.join(ROOT, "api", "chapter", "*.json"))):
         c = json.load(open(path))
         n = c["chapter_number"]
         img = "chapters/chapter_%d/%s/img.jpeg" % (n, "%s")
@@ -70,7 +70,7 @@ def main():
 
     # ---- commentators (author normalized: most common spelling wins) ----
     authors = {}
-    slok_files = sorted(glob.glob(os.path.join(ROOT, "slok", "*.json")))
+    slok_files = sorted(glob.glob(os.path.join(ROOT, "api", "slok", "*.json")))
     for path in slok_files:
         d = json.load(open(path))
         for key in COMMENTATOR_ORDER:

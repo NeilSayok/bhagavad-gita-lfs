@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Build gita.db from source JSON
+        run: python3 db/build_db.py
+
       - name: Run every randomizer script
         run: |
           for f in scripts/randomizers/*.py; do

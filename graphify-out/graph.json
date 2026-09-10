@@ -15,6 +15,9 @@
       "id": "validate_slok",
       "community": 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -32,6 +35,7 @@
       "source_location": "L3",
       "id": "validate_slok_validate",
       "community": 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
     },
@@ -261,6 +265,8 @@
       "source_location": "L1",
       "id": "model",
       "community": 1
+=======
+>>>>>>> Stashed changes
     },
     {
       "label": "Slok",
@@ -460,8 +466,13 @@
       "source_file": "db/room/GitaEntities.kt",
       "source_location": "L1",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "id": "gitaentities",
       "community": 0
+=======
+      "id": "run_scripts",
+      "community": 1
+>>>>>>> Stashed changes
 =======
       "id": "run_scripts",
       "community": 1
@@ -484,6 +495,7 @@
       "source_location": "L3",
       "id": "run_scripts_run_subagent_scripts",
       "community": 1
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
     },
@@ -656,6 +668,8 @@
       "source_location": "L1",
       "id": "build_topics_api_rationale_1",
       "community": 13
+=======
+>>>>>>> Stashed changes
     },
     {
       "label": "update_bhagavadgita_chapter_18_slok_2.py",

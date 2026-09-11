@@ -174,6 +174,7 @@ Script: `api/build_topics_api.py`. One array, one object per theme (15 total). T
 | `name` | `theme_translation.name` | `lang_code='en'` |
 | `image_square` | `chapter.img_square` | keyed by `topicChapterMap[name]`, not the theme's own row (themes have no image) |
 | `verse_count` | `COUNT(*) FROM verse_theme WHERE theme_id=?` | |
+| `sloks` | `verse_theme.verse_id` | array, `WHERE theme_id=? ORDER BY position` |
 
 ## `api/meta/update.json` — per-file update epochs
 

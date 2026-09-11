@@ -28,6 +28,7 @@ JOIN theme_translation tt ON tt.theme_id = t.theme_id AND tt.lang_code = 'en'
 ORDER BY t.theme_id
 """
 VERSE_COUNT_QUERY = "SELECT count(*) FROM verse_theme WHERE theme_id = ?"
+VERSE_IDS_QUERY = "SELECT verse_id FROM verse_theme WHERE theme_id = ? ORDER BY position"
 CHAPTER_IMG_QUERY = "SELECT img_square FROM chapter WHERE chapter_number = ?"
 
 
@@ -42,15 +43,18 @@ def main():
         chapter_number = TOPIC_CHAPTER_MAP.get(name, FALLBACK_CHAPTER)
         img_square = db.execute(CHAPTER_IMG_QUERY, (chapter_number,)).fetchone()[0]
         verse_count = db.execute(VERSE_COUNT_QUERY, (t["theme_id"],)).fetchone()[0]
+        sloks = [r["verse_id"] for r in db.execute(VERSE_IDS_QUERY, (t["theme_id"],)).fetchall()]
         out.append({
             "name": name,
             "image_square": img_square,
             "verse_count": verse_count,
+            "sloks": sloks,
         })
     db.close()
 
     assert len(out) == 15, f"expected 15 topics, got {len(out)}"
     assert all(o["verse_count"] > 0 for o in out)
+    assert all(len(o["sloks"]) == o["verse_count"] for o in out)
 
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:

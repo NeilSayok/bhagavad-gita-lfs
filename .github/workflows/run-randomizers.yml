@@ -22,6 +22,12 @@ jobs:
       - name: Build gita.db from source JSON
         run: python3 db/build_db.py
 
+      - name: Build static apis
+        run: |
+          python3 api/build_reading_api.py
+          python3 api/build_chapter_api.py
+          python3 api/build_topics_api.py
+
       - name: Run every randomizer script
         run: |
           for f in scripts/randomizers/*.py; do

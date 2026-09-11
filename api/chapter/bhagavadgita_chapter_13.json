@@ -17,8 +17,8 @@
         "ka": "ಭಗವದ್ಗೀತೆಯ ಹದಿಮೂರನೆಯ ಅಧ್ಯಾಯವು 'ಕ್ಷೇತ್ರ-ಕ್ಷೇತ್ರಜ್ಞವಿಭಾಗಯೋಗ'। ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನು ಭೌತಿಕ ದೇಹ (ಕ್ಷೇತ್ರ) ಮತ್ತು ಜೀವ ಆತ್ಮ/ಪರಮಾತ್ಮನ (ಕ್ಷೇತ್ರಜ್ಞ ಅಥವಾ ಕ್ಷೇತ್ರದ ಅರಿವುಳ್ಳವನು) ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ವಿವರಿಸುತ್ತಾನೆ. ಭೌತಿಕ ದೇಹವನ್ನು ರೂಪಿಸುವ ೨೪ ತತ್ತ್ವಗಳು, ನಿಜವಾದ ಜ್ಞಾನದ ಲಕ್ಷಣಗಳು, ಬ್ರಹ್ಮನ ಸ್ವರೂಪ, ಮತ್ತು ಪ್ರಕೃತಿ ಹಾಗೂ ಪುರುಷರ ನಡುವಿನ ಸಂವಾದವನ್ನು ಅವನು ತಿಳಿಸುತ್ತಾನೆ. ಈ ವಿವೇಕವನ್ನು ಪಡೆಯುವುದೇ ಮಾಯೆಯ ಬಂಧನದಿಂದ ಮುಕ್ತಿಗೆ ಮೂಲ ಕೀಲಿಯಾಗಿದೆ."
     },
     "image": {
-        "landscape": "chapters/chapter_13/landscape/img.jpeg",
-        "portrait": "chapters/chapter_13/portrait/img.jpeg",
-        "square": "chapters/chapter_13/square/img.jpeg"
+        "landscape": "chapters/{size}/chapter_13/landscape/img.jpeg",
+        "portrait": "chapters/{size}/chapter_13/portrait/img.jpeg",
+        "square": "chapters/{size}/chapter_13/square/img.jpeg"
     }
 }

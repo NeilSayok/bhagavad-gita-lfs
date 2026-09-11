@@ -17,8 +17,8 @@
         "ka": "ಭಗವದ್ಗೀತೆಯ ಹದಿನೈದನೆಯ ಅಧ್ಯಾಯವು 'ಪುರುಷೋತ್ತಮಯೋಗ'। ಭೌತಿಕ ಜಗತ್ತನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಕೃಷ್ಣನು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಬೇರು ಮತ್ತು ಕೆಳಭಾಗದಲ್ಲಿ ಕೊಂಬೆಗಳಿರುವ (ಅಶ್ವತ್ಥ) ತಲೆಕೆಳಗಾದ ಮರದ ರೂಪಕವನ್ನು ಬಳಸುತ್ತಾನೆ. ಶಾಶ್ವತ ಧಾಮವನ್ನು ಅರಸಲು ವೈರಾಗ್ಯವೆಂಬ ಕೊಡಲಿಯಿಂದ ಈ ಮರವನ್ನು ಕತ್ತರಿಸಬೇಕೆಂದು ಅವನು ತಿಳಿಸುತ್ತಾನೆ. ಕ್ಷರ (ನಾಶವಾಗುವ ಜಗತ್ತು) ಮತ್ತು ಅಕ್ಷರ (ನಾಶವಾಗದ ಜೀವಾತ್ಮರು) ಇಬ್ಬರಿಗಿಂತ ಶ್ರೇಷ್ಠನಾದ ಪುರುಷೋತ್ತಮನೇ ತಿಳಿಯಬೇಕಾದ ಪರಮ ಸತ್ಯವೆಂದು ಕೃಷ್ಣನು ನಿರೂಪಿಸುತ್ತಾನೆ."
     },
     "image": {
-        "landscape": "chapters/chapter_15/landscape/img.jpeg",
-        "portrait": "chapters/chapter_15/portrait/img.jpeg",
-        "square": "chapters/chapter_15/square/img.jpeg"
+        "landscape": "chapters/{size}/chapter_15/landscape/img.jpeg",
+        "portrait": "chapters/{size}/chapter_15/portrait/img.jpeg",
+        "square": "chapters/{size}/chapter_15/square/img.jpeg"
     }
 }

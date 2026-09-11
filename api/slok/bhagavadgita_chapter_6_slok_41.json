@@ -279,8 +279,8 @@
         }
     },
     "image": {
-        "landscape": "sloks/chapter_6/slok_41/landscape/img.jpeg",
-        "portrait": "sloks/chapter_6/slok_41/portrait/img.jpeg",
-        "square": "sloks/chapter_6/slok_41/square/img.jpeg"
+        "landscape": "sloks/{size}/chapter_6/slok_41/landscape/img.jpeg",
+        "portrait": "sloks/{size}/chapter_6/slok_41/portrait/img.jpeg",
+        "square": "sloks/{size}/chapter_6/slok_41/square/img.jpeg"
     }
 }

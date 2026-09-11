@@ -17,8 +17,8 @@
         "ka": "ಭಗವದ್ಗೀತೆಯ ಹದಿನಾರನೆಯ ಅಧ್ಯಾಯವು 'ದೈವಾಸುರಸಂಪದ್ವಿಭಾಗಯೋಗ'। ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ಕೃಷ್ಣನು ಮಾನವರ ಎರಡು ಮುಖ್ಯ ಸ್ವಭಾವಗಳಾದ ದೈವೀ ಮತ್ತು ಅಸುರೀ ಗುಣಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ವಿವರಿಸುತ್ತಾನೆ. ಆಸುರೀ ಸ್ವಭಾವದವರು ಕಾಮ, ಕ್ರೋಧ, ಲೋಭಗಳಲ್ಲಿ ಮುಳುಗಿ ಶಾಸ್ತ್ರದ ನಿಯಮಗಳನ್ನು ಉಲ್ಲಂಘಿಸಿ ಭೌತಿಕವಾದಿಗಳಾಗಿ ಅಧೋಗತಿಯನ್ನು ಹೊಂದುತ್ತಾರೆ. ಆದರೆ ದೈವೀ ಸ್ವಭಾವದವರು ಶಾಸ್ತ್ರಗಳ ಮಾರ್ಗದರ್ಶನವನ್ನು ಅನುಸರಿಸಿ ಅಭಯ, ಸತ್ತ್ವಸಂಶುದ್ಧಿ ಮುಂತಾದ ಸದ್ಗುಣಗಳನ್ನು ಬೆಳೆಸಿಕೊಂಡು ಮನಸ್ಸನ್ನು ಶುದ್ಧಗೊಳಿಸಿ ಅಂತಿಮವಾಗಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಿದ್ಧಿಯನ್ನು ಪಡೆಯುತ್ತಾರೆ."
     },
     "image": {
-        "landscape": "chapters/chapter_16/landscape/img.jpeg",
-        "portrait": "chapters/chapter_16/portrait/img.jpeg",
-        "square": "chapters/chapter_16/square/img.jpeg"
+        "landscape": "chapters/{size}/chapter_16/landscape/img.jpeg",
+        "portrait": "chapters/{size}/chapter_16/portrait/img.jpeg",
+        "square": "chapters/{size}/chapter_16/square/img.jpeg"
     }
 }

@@ -17,7 +17,7 @@ Not derived from JSON — hardcoded list in `build_db.py`: `sa, hi, en, be, ka` 
 | `name` | `name_sanskrit` | `chapter` |
 | `translation` | `translation` | `chapter` |
 | `transliteration` | `transliteration` | `chapter` |
-| — (generated) | `img_landscape/portrait/square` = `chapters/chapter_<n>/<variant>/img.jpeg` | `chapter` |
+| — (generated) | `img_landscape/portrait/square` = `chapters/{size}/chapter_<n>/<variant>/img.jpeg` | `chapter` |
 | `meaning.<lang>` | `meaning` | `chapter_translation` (PK `chapter_number, lang_code`), skipped if blank |
 | `summary.<lang>` | `summary` | `chapter_translation`, skipped if blank |
 
@@ -31,7 +31,7 @@ A `chapter_translation` row is inserted per lang key present in either `meaning`
 | `chapter` | `chapter_number` (FK → `chapter`) | `verse` |
 | `verse` | `verse_number` | `verse` |
 | `transliteration` (top-level, legacy) | `transliteration` | `verse` |
-| — (generated) | `img_landscape/portrait/square` = `sloks/chapter_<c>/slok_<v>/<variant>/img.jpeg` | `verse` |
+| — (generated) | `img_landscape/portrait/square` = `sloks/{size}/chapter_<c>/slok_<v>/<variant>/img.jpeg` | `verse` |
 
 ### `speaker.<lang>` + `slok.<lang>` → `verse_text` (PK `verse_id, lang_code`)
 

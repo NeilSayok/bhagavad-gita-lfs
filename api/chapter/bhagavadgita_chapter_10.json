@@ -17,8 +17,8 @@
         "ka": "ಭಗವದ್ಗೀತೆಯ ಹತ್ತನೆಯ ಅಧ್ಯಾಯವು 'ವಿಭೂತಿಯೋಗ'। ಶ್ರೀಕೃಷ್ಣನು ಸಮಸ್ತ ಸೃಷ್ಟಿಯಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿರುವ ತನ್ನ ದಿವ್ಯ ಐಶ್ವರ್ಯಗಳು ಮತ್ತು ವಿಭೂತಿಗಳನ್ನು ವಿವರಿಸುತ್ತಾನೆ. ತಾನೇ ಸಮಸ್ತ ದೇವತೆಗಳ, ಋಷಿಗಳ ಮತ್ತು ಜೀವಿಗಳ ಮೂಲ ಕಾರಣನೆಂದು, ಮತ್ತು ಸಕಲ ಭವ್ಯ, ಸುಂದರ ಹಾಗೂ ಶಕ್ತಿಶಾಲಿ ಸೃಷ್ಟಿಗಳು ತನ್ನ ತೇಜಸ್ಸಿನ ಒಂದು ಸಣ್ಣ ಅಂಶ ಮಾತ್ರ ಎಂದು ಅವನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತಾನೆ. ಕೃಷ್ಣನ ಈ ಮಹಿಮೆಯನ್ನು ಕೇಳಿದ ಅರ್ಜುನನು ಅವನನ್ನು ಪರಮಾತ್ಮನೆಂದು ಸ್ವೀಕರಿಸಿ, ತನ್ನ ಧ್ಯಾನಕ್ಕಾಗಿ ಅವನ ಪ್ರಮುಖ ದಿವ್ಯ ವಿಭೂತಿಗಳನ್ನು ವಿವರಿಸಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸುತ್ತಾನೆ."
     },
     "image": {
-        "landscape": "chapters/chapter_10/landscape/img.jpeg",
-        "portrait": "chapters/chapter_10/portrait/img.jpeg",
-        "square": "chapters/chapter_10/square/img.jpeg"
+        "landscape": "chapters/{size}/chapter_10/landscape/img.jpeg",
+        "portrait": "chapters/{size}/chapter_10/portrait/img.jpeg",
+        "square": "chapters/{size}/chapter_10/square/img.jpeg"
     }
 }

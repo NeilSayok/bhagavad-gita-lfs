@@ -1,8 +1,8 @@
 """Add an "image" block to every chapter/*.json and slok/*.json file.
 
 Paths only (no base URL), matching db/schema.sql's convention:
-  chapters/{size}/chapter_<C>/{landscape,portrait,square}/img.jpeg
-  sloks/{size}/chapter_<C>/slok_<V>/{landscape,portrait,square}/img.jpeg
+  chapters/{size}/chapter_<C>/{landscape,portrait,square}/img.png
+  sloks/{size}/chapter_<C>/slok_<V>/{landscape,portrait,square}/img.png
 """
 import glob
 import json
@@ -26,18 +26,18 @@ def add_images(pattern, path_fn):
 def chapter_image(data):
     c = data["chapter_number"]
     return {
-        "landscape": f"chapters/{{size}}/chapter_{c}/landscape/img.jpeg",
-        "portrait": f"chapters/{{size}}/chapter_{c}/portrait/img.jpeg",
-        "square": f"chapters/{{size}}/chapter_{c}/square/img.jpeg",
+        "landscape": f"chapters/{{size}}/chapter_{c}/landscape/img.png",
+        "portrait": f"chapters/{{size}}/chapter_{c}/portrait/img.png",
+        "square": f"chapters/{{size}}/chapter_{c}/square/img.png",
     }
 
 
 def slok_image(data):
     c, v = data["chapter"], data["verse"]
     return {
-        "landscape": f"sloks/{{size}}/chapter_{c}/slok_{v}/landscape/img.jpeg",
-        "portrait": f"sloks/{{size}}/chapter_{c}/slok_{v}/portrait/img.jpeg",
-        "square": f"sloks/{{size}}/chapter_{c}/slok_{v}/square/img.jpeg",
+        "landscape": f"sloks/{{size}}/chapter_{c}/slok_{v}/landscape/img.png",
+        "portrait": f"sloks/{{size}}/chapter_{c}/slok_{v}/portrait/img.png",
+        "square": f"sloks/{{size}}/chapter_{c}/slok_{v}/square/img.png",
     }
 
 

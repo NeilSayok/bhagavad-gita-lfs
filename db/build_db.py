@@ -56,7 +56,7 @@ def main():
     for path in sorted(glob.glob(os.path.join(ROOT, "api", "chapter", "*.json"))):
         c = json.load(open(path))
         n = c["chapter_number"]
-        img = "chapters/{size}/chapter_%d/%s/img.jpeg" % (n, "%s")
+        img = "chapters/{size}/chapter_%d/%s/img.png" % (n, "%s")
         db.execute(
             "INSERT INTO chapter VALUES (?,?,?,?,?,?,?,?)",
             (n, c["verses_count"], c["name"], c["translation"], c["transliteration"],
@@ -96,7 +96,7 @@ def main():
     for path in slok_files:
         d = json.load(open(path))
         vid, ch, vn = d["_id"], d["chapter"], d["verse"]
-        img = "sloks/{size}/chapter_%d/slok_%d/%s/img.jpeg" % (ch, vn, "%s")
+        img = "sloks/{size}/chapter_%d/slok_%d/%s/img.png" % (ch, vn, "%s")
         db.execute(
             "INSERT INTO verse VALUES (?,?,?,?,?,?,?)",
             (vid, ch, vn, d["transliteration"],

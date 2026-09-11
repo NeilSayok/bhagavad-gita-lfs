@@ -6,8 +6,8 @@
     {
       "verse": {
         "verse_id": "BG11.1",
-        "img_landscape": "sloks/chapter_11/slok_1/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_1/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_1/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_1/square/img.jpeg",
         "transliteration": "arjuna uvāca .\nmadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam .\nyattvayoktaṃ vacastena moho.ayaṃ vigato mama ||11-1||"
       },
       "verse_text": {
@@ -21,8 +21,8 @@
     {
       "verse": {
         "verse_id": "BG11.2",
-        "img_landscape": "sloks/chapter_11/slok_2/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_2/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_2/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_2/square/img.jpeg",
         "transliteration": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā .\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam ||11-2||"
       },
       "verse_text": {
@@ -36,8 +36,8 @@
     {
       "verse": {
         "verse_id": "BG11.3",
-        "img_landscape": "sloks/chapter_11/slok_3/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_3/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_3/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_3/square/img.jpeg",
         "transliteration": "evametadyathāttha tvamātmānaṃ parameśvara .\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama ||11-3||"
       },
       "verse_text": {
@@ -51,8 +51,8 @@
     {
       "verse": {
         "verse_id": "BG11.4",
-        "img_landscape": "sloks/chapter_11/slok_4/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_4/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_4/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_4/square/img.jpeg",
         "transliteration": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .\nyogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||"
       },
       "verse_text": {
@@ -66,8 +66,8 @@
     {
       "verse": {
         "verse_id": "BG11.5",
-        "img_landscape": "sloks/chapter_11/slok_5/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_5/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_5/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_5/square/img.jpeg",
         "transliteration": "śrībhagavānuvāca .\npaśya me pārtha rūpāṇi śataśo.atha sahasraśaḥ .\nnānāvidhāni divyāni nānāvarṇākṛtīni ca ||11-5||"
       },
       "verse_text": {
@@ -81,8 +81,8 @@
     {
       "verse": {
         "verse_id": "BG11.6",
-        "img_landscape": "sloks/chapter_11/slok_6/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_6/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_6/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_6/square/img.jpeg",
         "transliteration": "paśyādityānvasūnrudrānaśvinau marutastathā .\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata ||11-6||"
       },
       "verse_text": {
@@ -96,8 +96,8 @@
     {
       "verse": {
         "verse_id": "BG11.7",
-        "img_landscape": "sloks/chapter_11/slok_7/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_7/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_7/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_7/square/img.jpeg",
         "transliteration": "ihaikasthaṃ jagatkṛtsnaṃ paśyādya sacarācaram .\nmama dehe guḍākeśa yaccānyad draṣṭumicchasi ||11-7||"
       },
       "verse_text": {
@@ -111,8 +111,8 @@
     {
       "verse": {
         "verse_id": "BG11.8",
-        "img_landscape": "sloks/chapter_11/slok_8/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_8/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_8/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_8/square/img.jpeg",
         "transliteration": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā .\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram ||11-8||"
       },
       "verse_text": {
@@ -126,8 +126,8 @@
     {
       "verse": {
         "verse_id": "BG11.9",
-        "img_landscape": "sloks/chapter_11/slok_9/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_9/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_9/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_9/square/img.jpeg",
         "transliteration": "sañjaya uvāca .\nevamuktvā tato rājanmahāyogeśvaro hariḥ .\ndarśayāmāsa pārthāya paramaṃ rūpamaiśvaram ||11-9||"
       },
       "verse_text": {
@@ -141,8 +141,8 @@
     {
       "verse": {
         "verse_id": "BG11.10",
-        "img_landscape": "sloks/chapter_11/slok_10/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_10/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_10/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_10/square/img.jpeg",
         "transliteration": "anekavaktranayanamanekādbhutadarśanam .\nanekadivyābharaṇaṃ divyānekodyatāyudham ||11-10||"
       },
       "verse_text": {
@@ -156,8 +156,8 @@
     {
       "verse": {
         "verse_id": "BG11.11",
-        "img_landscape": "sloks/chapter_11/slok_11/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_11/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_11/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_11/square/img.jpeg",
         "transliteration": "divyamālyāmbaradharaṃ divyagandhānulepanam .\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham ||11-11||"
       },
       "verse_text": {
@@ -171,8 +171,8 @@
     {
       "verse": {
         "verse_id": "BG11.12",
-        "img_landscape": "sloks/chapter_11/slok_12/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_12/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_12/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_12/square/img.jpeg",
         "transliteration": "divi sūryasahasrasya bhavedyugapadutthitā .\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11-12||"
       },
       "verse_text": {
@@ -186,8 +186,8 @@
     {
       "verse": {
         "verse_id": "BG11.13",
-        "img_landscape": "sloks/chapter_11/slok_13/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_13/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_13/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_13/square/img.jpeg",
         "transliteration": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā .\napaśyaddevadevasya śarīre pāṇḍavastadā ||11-13||"
       },
       "verse_text": {
@@ -201,8 +201,8 @@
     {
       "verse": {
         "verse_id": "BG11.14",
-        "img_landscape": "sloks/chapter_11/slok_14/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_14/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_14/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_14/square/img.jpeg",
         "transliteration": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||"
       },
       "verse_text": {
@@ -216,8 +216,8 @@
     {
       "verse": {
         "verse_id": "BG11.15",
-        "img_landscape": "sloks/chapter_11/slok_15/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_15/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_15/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_15/square/img.jpeg",
         "transliteration": "arjuna uvāca .\npaśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān .\nbrahmāṇamīśaṃ kamalāsanasthaṃ ṛṣīṃśca sarvānuragāṃśca divyān ||11-15||"
       },
       "verse_text": {
@@ -231,8 +231,8 @@
     {
       "verse": {
         "verse_id": "BG11.16",
-        "img_landscape": "sloks/chapter_11/slok_16/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_16/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_16/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_16/square/img.jpeg",
         "transliteration": "anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .\nnāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||"
       },
       "verse_text": {
@@ -246,8 +246,8 @@
     {
       "verse": {
         "verse_id": "BG11.17",
-        "img_landscape": "sloks/chapter_11/slok_17/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_17/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_17/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_17/square/img.jpeg",
         "transliteration": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam .\npaśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam ||11-17||"
       },
       "verse_text": {
@@ -261,8 +261,8 @@
     {
       "verse": {
         "verse_id": "BG11.18",
-        "img_landscape": "sloks/chapter_11/slok_18/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_18/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_18/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_18/square/img.jpeg",
         "transliteration": "tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam .\ntvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me ||11-18||"
       },
       "verse_text": {
@@ -276,8 +276,8 @@
     {
       "verse": {
         "verse_id": "BG11.19",
-        "img_landscape": "sloks/chapter_11/slok_19/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_19/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_19/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_19/square/img.jpeg",
         "transliteration": "anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .\npaśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||"
       },
       "verse_text": {
@@ -291,8 +291,8 @@
     {
       "verse": {
         "verse_id": "BG11.20",
-        "img_landscape": "sloks/chapter_11/slok_20/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_20/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_20/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_20/square/img.jpeg",
         "transliteration": "dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ .\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman ||11-20||"
       },
       "verse_text": {
@@ -306,8 +306,8 @@
     {
       "verse": {
         "verse_id": "BG11.21",
-        "img_landscape": "sloks/chapter_11/slok_21/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_21/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_21/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_21/square/img.jpeg",
         "transliteration": "amī hi tvāṃ surasaṅghā viśanti kecidbhītāḥ prāñjalayo gṛṇanti .\nsvastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||11-21||"
       },
       "verse_text": {
@@ -321,8 +321,8 @@
     {
       "verse": {
         "verse_id": "BG11.22",
-        "img_landscape": "sloks/chapter_11/slok_22/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_22/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_22/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_22/square/img.jpeg",
         "transliteration": "rudrādityā vasavo ye ca sādhyā viśve.aśvinau marutaścoṣmapāśca .\ngandharvayakṣāsurasiddhasaṅghā vīkṣante tvāṃ vismitāścaiva sarve ||11-22||"
       },
       "verse_text": {
@@ -336,8 +336,8 @@
     {
       "verse": {
         "verse_id": "BG11.23",
-        "img_landscape": "sloks/chapter_11/slok_23/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_23/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_23/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_23/square/img.jpeg",
         "transliteration": "rūpaṃ mahatte bahuvaktranetraṃ mahābāho bahubāhūrupādam .\nbahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathāham ||11-23||"
       },
       "verse_text": {
@@ -351,8 +351,8 @@
     {
       "verse": {
         "verse_id": "BG11.24",
-        "img_landscape": "sloks/chapter_11/slok_24/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_24/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_24/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_24/square/img.jpeg",
         "transliteration": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram .\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||11-24||"
       },
       "verse_text": {
@@ -366,8 +366,8 @@
     {
       "verse": {
         "verse_id": "BG11.25",
-        "img_landscape": "sloks/chapter_11/slok_25/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_25/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_25/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_25/square/img.jpeg",
         "transliteration": "daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni .\ndiśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa ||11-25||"
       },
       "verse_text": {
@@ -381,8 +381,8 @@
     {
       "verse": {
         "verse_id": "BG11.26",
-        "img_landscape": "sloks/chapter_11/slok_26/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_26/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_26/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_26/square/img.jpeg",
         "transliteration": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ .\nbhīṣmo droṇaḥ sūtaputrastathāsau sahāsmadīyairapi yodhamukhyaiḥ ||11-26||"
       },
       "verse_text": {
@@ -396,8 +396,8 @@
     {
       "verse": {
         "verse_id": "BG11.27",
-        "img_landscape": "sloks/chapter_11/slok_27/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_27/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_27/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_27/square/img.jpeg",
         "transliteration": "vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni .\nkecidvilagnā daśanāntareṣu sandṛśyante cūrṇitairuttamāṅgaiḥ ||11-27||"
       },
       "verse_text": {
@@ -411,8 +411,8 @@
     {
       "verse": {
         "verse_id": "BG11.28",
-        "img_landscape": "sloks/chapter_11/slok_28/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_28/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_28/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_28/square/img.jpeg",
         "transliteration": "yathā nadīnāṃ bahavo.ambuvegāḥ samudramevābhimukhā dravanti .\ntathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti ||11-28||"
       },
       "verse_text": {
@@ -426,8 +426,8 @@
     {
       "verse": {
         "verse_id": "BG11.29",
-        "img_landscape": "sloks/chapter_11/slok_29/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_29/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_29/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_29/square/img.jpeg",
         "transliteration": "yathā pradīptaṃ jvalanaṃ pataṅgā viśanti nāśāya samṛddhavegāḥ .\ntathaiva nāśāya viśanti lokāsa- tavāpi vaktrāṇi samṛddhavegāḥ ||11-29||"
       },
       "verse_text": {
@@ -441,8 +441,8 @@
     {
       "verse": {
         "verse_id": "BG11.30",
-        "img_landscape": "sloks/chapter_11/slok_30/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_30/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_30/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_30/square/img.jpeg",
         "transliteration": "lelihyase grasamānaḥ samantāl- lokānsamagrānvadanairjvaladbhiḥ .\ntejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo ||11-30||"
       },
       "verse_text": {
@@ -456,8 +456,8 @@
     {
       "verse": {
         "verse_id": "BG11.31",
-        "img_landscape": "sloks/chapter_11/slok_31/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_31/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_31/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_31/square/img.jpeg",
         "transliteration": "ākhyāhi me ko bhavānugrarūpo namo.astu te devavara prasīda .\nvijñātumicchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim ||11-31||"
       },
       "verse_text": {
@@ -471,8 +471,8 @@
     {
       "verse": {
         "verse_id": "BG11.32",
-        "img_landscape": "sloks/chapter_11/slok_32/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_32/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_32/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_32/square/img.jpeg",
         "transliteration": "śrībhagavānuvāca .\nkālo.asmi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ .\nṛte.api tvāṃ na bhaviṣyanti sarve ye.avasthitāḥ pratyanīkeṣu yodhāḥ ||11-32||"
       },
       "verse_text": {
@@ -486,8 +486,8 @@
     {
       "verse": {
         "verse_id": "BG11.33",
-        "img_landscape": "sloks/chapter_11/slok_33/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_33/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_33/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_33/square/img.jpeg",
         "transliteration": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham .\nmayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||11-33||"
       },
       "verse_text": {
@@ -501,8 +501,8 @@
     {
       "verse": {
         "verse_id": "BG11.34",
-        "img_landscape": "sloks/chapter_11/slok_34/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_34/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_34/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_34/square/img.jpeg",
         "transliteration": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyānapi yodhavīrān .\nmayā hatāṃstvaṃ jahi mavyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||11-34||"
       },
       "verse_text": {
@@ -516,8 +516,8 @@
     {
       "verse": {
         "verse_id": "BG11.35",
-        "img_landscape": "sloks/chapter_11/slok_35/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_35/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_35/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_35/square/img.jpeg",
         "transliteration": "sañjaya uvāca .\netacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī .\nnamaskṛtvā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya ||11-35||"
       },
       "verse_text": {
@@ -531,8 +531,8 @@
     {
       "verse": {
         "verse_id": "BG11.36",
-        "img_landscape": "sloks/chapter_11/slok_36/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_36/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_36/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_36/square/img.jpeg",
         "transliteration": "arjuna uvāca .\nsthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca .\nrakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ ||11-36||"
       },
       "verse_text": {
@@ -546,8 +546,8 @@
     {
       "verse": {
         "verse_id": "BG11.37",
-        "img_landscape": "sloks/chapter_11/slok_37/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_37/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_37/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_37/square/img.jpeg",
         "transliteration": "kasmācca te na nameranmahātman garīyase brahmaṇo.apyādikartre .\nananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat ||11-37||"
       },
       "verse_text": {
@@ -561,8 +561,8 @@
     {
       "verse": {
         "verse_id": "BG11.38",
-        "img_landscape": "sloks/chapter_11/slok_38/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_38/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_38/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_38/square/img.jpeg",
         "transliteration": "tvamādidevaḥ puruṣaḥ purāṇasa- tvamasya viśvasya paraṃ nidhānam .\nvettāsi vedyaṃ ca paraṃ ca dhāma tvayā tataṃ viśvamanantarūpa ||11-38||"
       },
       "verse_text": {
@@ -576,8 +576,8 @@
     {
       "verse": {
         "verse_id": "BG11.39",
-        "img_landscape": "sloks/chapter_11/slok_39/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_39/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_39/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_39/square/img.jpeg",
         "transliteration": "vāyuryamo.agnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca .\nnamo namaste.astu sahasrakṛtvaḥ punaśca bhūyo.api namo namaste ||11-39||"
       },
       "verse_text": {
@@ -591,8 +591,8 @@
     {
       "verse": {
         "verse_id": "BG11.40",
-        "img_landscape": "sloks/chapter_11/slok_40/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_40/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_40/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_40/square/img.jpeg",
         "transliteration": "namaḥ purastādatha pṛṣṭhataste namo.astu te sarvata eva sarva .\nanantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato.asi sarvaḥ ||11-40||"
       },
       "verse_text": {
@@ -606,8 +606,8 @@
     {
       "verse": {
         "verse_id": "BG11.41",
-        "img_landscape": "sloks/chapter_11/slok_41/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_41/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_41/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_41/square/img.jpeg",
         "transliteration": "sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti .\najānatā mahimānaṃ tavedaṃ mayā pramādātpraṇayena vāpi ||11-41||"
       },
       "verse_text": {
@@ -621,8 +621,8 @@
     {
       "verse": {
         "verse_id": "BG11.42",
-        "img_landscape": "sloks/chapter_11/slok_42/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_42/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_42/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_42/square/img.jpeg",
         "transliteration": "yaccāvahāsārthamasatkṛto.asi vihāraśayyāsanabhojaneṣu .\neko.athavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam ||11-42||"
       },
       "verse_text": {
@@ -636,8 +636,8 @@
     {
       "verse": {
         "verse_id": "BG11.43",
-        "img_landscape": "sloks/chapter_11/slok_43/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_43/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_43/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_43/square/img.jpeg",
         "transliteration": "pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān .\nna tvatsamo.astyabhyadhikaḥ kuto.anyo lokatraye.apyapratimaprabhāva ||11-43||"
       },
       "verse_text": {
@@ -651,8 +651,8 @@
     {
       "verse": {
         "verse_id": "BG11.44",
-        "img_landscape": "sloks/chapter_11/slok_44/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_44/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_44/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_44/square/img.jpeg",
         "transliteration": "tasmātpraṇamya praṇidhāya kāyaṃ prasādaye tvāmahamīśamīḍyam .\npiteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||11-44||"
       },
       "verse_text": {
@@ -666,8 +666,8 @@
     {
       "verse": {
         "verse_id": "BG11.45",
-        "img_landscape": "sloks/chapter_11/slok_45/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_45/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_45/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_45/square/img.jpeg",
         "transliteration": "adṛṣṭapūrvaṃ hṛṣito.asmi dṛṣṭvā bhayena ca pravyathitaṃ mano me .\ntadeva me darśaya deva rūpaṃ prasīda deveśa jagannivāsa ||11-45||"
       },
       "verse_text": {
@@ -681,8 +681,8 @@
     {
       "verse": {
         "verse_id": "BG11.46",
-        "img_landscape": "sloks/chapter_11/slok_46/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_46/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_46/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_46/square/img.jpeg",
         "transliteration": "kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .\ntenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||"
       },
       "verse_text": {
@@ -696,8 +696,8 @@
     {
       "verse": {
         "verse_id": "BG11.47",
-        "img_landscape": "sloks/chapter_11/slok_47/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_47/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_47/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_47/square/img.jpeg",
         "transliteration": "śrībhagavānuvāca .\nmayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt .\ntejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam ||11-47||"
       },
       "verse_text": {
@@ -711,8 +711,8 @@
     {
       "verse": {
         "verse_id": "BG11.48",
-        "img_landscape": "sloks/chapter_11/slok_48/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_48/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_48/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_48/square/img.jpeg",
         "transliteration": "na vedayajñādhyayanairna dānaira- na ca kriyābhirna tapobhirugraiḥ .\nevaṃrūpaḥ śakya ahaṃ nṛloke draṣṭuṃ tvadanyena kurupravīra ||11-48||"
       },
       "verse_text": {
@@ -726,8 +726,8 @@
     {
       "verse": {
         "verse_id": "BG11.49",
-        "img_landscape": "sloks/chapter_11/slok_49/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_49/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_49/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_49/square/img.jpeg",
         "transliteration": "mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam .\nvyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapaśya ||11-49||"
       },
       "verse_text": {
@@ -741,8 +741,8 @@
     {
       "verse": {
         "verse_id": "BG11.50",
-        "img_landscape": "sloks/chapter_11/slok_50/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_50/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_50/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_50/square/img.jpeg",
         "transliteration": "sañjaya uvāca .\nityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ .\nāśvāsayāmāsa ca bhītamenaṃ bhūtvā punaḥ saumyavapurmahātmā ||11-50||"
       },
       "verse_text": {
@@ -756,8 +756,8 @@
     {
       "verse": {
         "verse_id": "BG11.51",
-        "img_landscape": "sloks/chapter_11/slok_51/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_51/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_51/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_51/square/img.jpeg",
         "transliteration": "arjuna uvāca .\ndṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||"
       },
       "verse_text": {
@@ -771,8 +771,8 @@
     {
       "verse": {
         "verse_id": "BG11.52",
-        "img_landscape": "sloks/chapter_11/slok_52/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_52/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_52/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_52/square/img.jpeg",
         "transliteration": "śrībhagavānuvāca .\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama .\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ ||11-52||"
       },
       "verse_text": {
@@ -786,8 +786,8 @@
     {
       "verse": {
         "verse_id": "BG11.53",
-        "img_landscape": "sloks/chapter_11/slok_53/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_53/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_53/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_53/square/img.jpeg",
         "transliteration": "nāhaṃ vedairna tapasā na dānena na cejyayā .\nśakya evaṃvidho draṣṭuṃ dṛṣṭavānasi māṃ yathā ||11-53||"
       },
       "verse_text": {
@@ -801,8 +801,8 @@
     {
       "verse": {
         "verse_id": "BG11.54",
-        "img_landscape": "sloks/chapter_11/slok_54/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_54/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_54/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_54/square/img.jpeg",
         "transliteration": "bhaktyā tvananyayā śakya ahamevaṃvidho.arjuna .\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||11-54||"
       },
       "verse_text": {
@@ -816,8 +816,8 @@
     {
       "verse": {
         "verse_id": "BG11.55",
-        "img_landscape": "sloks/chapter_11/slok_55/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_55/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_55/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_55/square/img.jpeg",
         "transliteration": "matkarmakṛnmatparamo madbhaktaḥ saṅgavarjitaḥ .\nnirvairaḥ sarvabhūteṣu yaḥ sa māmeti pāṇḍava ||11-55||"
       },
       "verse_text": {
@@ -831,8 +831,8 @@
     {
       "verse": {
         "verse_id": "BG11.56",
-        "img_landscape": "sloks/chapter_11/slok_56/landscape/img.jpeg",
-        "img_square": "sloks/chapter_11/slok_56/square/img.jpeg",
+        "img_landscape": "sloks/{size}/chapter_11/slok_56/landscape/img.jpeg",
+        "img_square": "sloks/{size}/chapter_11/slok_56/square/img.jpeg",
         "transliteration": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde viśvarūpadarśanayogo nāmaikādaśo.adhyāyaḥ ||11-56||"
       },
       "verse_text": {

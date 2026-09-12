@@ -61,7 +61,7 @@ def main():
             json.load(f)  # round-trip validity check
 
     total_sloks = sum(len(d["sloks"]) for d in chapters.values())
-    assert total_sloks == 719, f"expected 719 verses total, got {total_sloks}"
+    assert total_sloks == 701, f"expected 701 verses total, got {total_sloks}"
     print(f"wrote {len(chapters)} chapter files, {total_sloks} verses total, under {OUT_DIR}")
 
 

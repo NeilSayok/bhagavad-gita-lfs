@@ -6,11 +6,12 @@ on:
     paths:
       - "api/chapter/**"
       - "api/slok/**"
+      - "api/slok-colophon/**"
       - "db/schema.sql"
       - "db/build_db.py"
-      - "api/build_reading_api.py"
-      - "api/build_chapter_api.py"
-      - "api/build_topics_api.py"
+      - "scripts/build_reading_api.py"
+      - "scripts/build_chapter_api.py"
+      - "scripts/build_topics_api.py"
 
 permissions:
   contents: write
@@ -30,9 +31,9 @@ jobs:
 
       - name: Build static apis
         run: |
-          python3 api/build_reading_api.py
-          python3 api/build_chapter_api.py
-          python3 api/build_topics_api.py
+          python3 scripts/build_reading_api.py
+          python3 scripts/build_chapter_api.py
+          python3 scripts/build_topics_api.py
 
       - name: Build update-epoch metadata
         run: python3 scripts/build_update_meta.py

@@ -108,7 +108,7 @@ Default commentary note: "the" commentary for a verse (where a single value is n
 
 ## `api/reading/all.json` — reading screen
 
-Script: `api/build_reading_api.py`. One array, one object per verse (719 total), all verses in one file.
+Script: `scripts/build_reading_api.py`. One array, one object per verse (701 total) plus a colophon block after each chapter (18 total, sourced from `api/slok-colophon/*.json`), all in one file.
 
 | Field (nested) | Source | Notes |
 |---|---|---|
@@ -125,7 +125,7 @@ Script: `api/build_reading_api.py`. One array, one object per verse (719 total),
 
 ## `api/chapter-slok/<chapter_number>/list.json` — chapter/reading-by-chapter screen
 
-Script: `api/build_chapter_api.py`. One file per chapter (18 total), each `{ chapter: {translation}, sloks: [...] }` with one entry per verse in that chapter.
+Script: `scripts/build_chapter_api.py`. One file per chapter (18 total), each `{ chapter: {translation}, sloks: [...] }` with one entry per verse in that chapter.
 
 | Field (nested) | Source | Notes |
 |---|---|---|
@@ -167,7 +167,7 @@ Script: `scripts/randomizers/verse_of_day.py` (re-run daily by the GitHub Action
 
 ## `api/topics/list.json` — topics screen
 
-Script: `api/build_topics_api.py`. One array, one object per theme (15 total). Themes carry no image of their own — each is pinned to a chapter's `img_square` via a hardcoded name→chapter map copied from the app's `HomeScreen.kt` (`topicChapterMap`), falling back to chapter 1 for any theme not in the map (currently none — all 15 are mapped).
+Script: `scripts/build_topics_api.py`. One array, one object per theme (15 total). Themes carry no image of their own — each is pinned to a chapter's `img_square` via a hardcoded name→chapter map copied from the app's `HomeScreen.kt` (`topicChapterMap`), falling back to chapter 1 for any theme not in the map (currently none — all 15 are mapped).
 
 | Field | Source | Notes |
 |---|---|---|

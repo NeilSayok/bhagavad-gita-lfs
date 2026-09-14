@@ -14,8 +14,18 @@
         "en": "na ca matsthāni bhūtāni paśya me yogamaiśvaram .\nbhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ ||9-5||",
         "ka": "ನ ಚ ಮತ್ಸ್ಥಾನಿ ಭೂತಾನಿ ಪಶ್ಯ ಮೇ ಯೋಗಮೈಶ್ವರಮ್ |\nಭೂತಭೃನ್ನ ಚ ಭೂತಸ್ಥೋ ಮಮಾತ್ಮಾ ಭೂತಭಾವನಃ ||೯-೫||"
     },
-    "transliteration": "na ca matsthāni bhūtāni paśya me yogamaiśvaram .\nbhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ ||9-5||",
-    "life_application": "Contemplate the divine mystery where beings do not constrain God, yet God sustains and creates all beings.",
+    "transliteration": {
+        "hi": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |\nभूतभृन्न च भूतस्थो ममात्मा भूतभावनः ||९-५||",
+        "en": "na ca matsthāni bhūtāni paśya me yogamaiśvaram .\nbhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ ||9-5||",
+        "be": "ন চ মত্স্থানি ভূতানি পশ্য মে যোগমৈশ্বরম্ |\nভূতভৃন্ন চ ভূতস্থো মমাত্মা ভূতভাবনঃ ||৯-৫||",
+        "ka": "ನ ಚ ಮತ್ಸ್ಥಾನಿ ಭೂತಾನಿ ಪಶ್ಯ ಮೇ ಯೋಗಮೈಶ್ವರಮ್ |\nಭೂತಭೃನ್ನ ಚ ಭೂತಸ್ಥೋ ಮಮಾತ್ಮಾ ಭೂತಭಾವನಃ ||೯-೫||"
+    },
+    "life_application": {
+        "hi": "उस दिव्य रहस्य पर विचार करें जहां प्राणी ईश्वर को बाध्य नहीं करते हैं, फिर भी ईश्वर सभी प्राणियों का पालन-पोषण करता है और उनकी रचना करता है।",
+        "en": "Contemplate the divine mystery where beings do not constrain God, yet God sustains and creates all beings.",
+        "be": "ঐশ্বরিক রহস্য নিয়ে চিন্তা করুন যেখানে প্রাণীরা ঈশ্বরকে বাধা দেয় না, তবুও ঈশ্বর সমস্ত প্রাণীকে টিকিয়ে রাখেন এবং সৃষ্টি করেন।",
+        "ka": "ಜೀವಿಗಳು ದೇವರನ್ನು ನಿರ್ಬಂಧಿಸದ ದೈವಿಕ ರಹಸ್ಯವನ್ನು ಆಲೋಚಿಸಿ, ಆದರೆ ದೇವರು ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತಾನೆ ಮತ್ತು ಸೃಷ್ಟಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मत्स्थानि",
-            "transliteration": "matsthāni",
-            "meaning": "matsthāni"
+            "transliteration": {
+                "hi": "मत्स्थानि",
+                "en": "matsthāni",
+                "be": "মত্স্থানি",
+                "ka": "ಮತ್ಸ್ಥಾನಿ"
+            },
+            "meaning": {
+                "hi": "मतस्थानी",
+                "en": "matsthāni",
+                "be": "matsthāni",
+                "ka": "ಮತ್ಸ್ಥಾನಿ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "bhūtāni"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "भूटानी",
+                "en": "bhūtāni",
+                "be": "ভুটানি",
+                "ka": "ಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "पश्य",
-            "transliteration": "paśya",
-            "meaning": "paśya"
+            "transliteration": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্য",
+                "ka": "ಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্যা",
+                "ka": "ಪಶ್ಯ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "योगमैश्वरम्",
-            "transliteration": "yogamaiśvaram",
-            "meaning": "yogamaiśvaram"
+            "transliteration": {
+                "hi": "योगमैश्वरम्",
+                "en": "yogamaiśvaram",
+                "be": "যোগমৈশ্বরম্",
+                "ka": "ಯೋಗಮೈಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "योगमैश्वरम",
+                "en": "yogamaiśvaram",
+                "be": "যোগমাইশ্বরম",
+                "ka": "ಯೋಗಮೈಶ್ವರಂ"
+            }
         },
         {
             "sanskrit": "भूतभृन्न",
-            "transliteration": "bhūtabhṛnna",
-            "meaning": "bhūtabhṛnna"
+            "transliteration": {
+                "hi": "भूतभृन्न",
+                "en": "bhūtabhṛnna",
+                "be": "ভূতভৃন্ন",
+                "ka": "ಭೂತಭೃನ್ನ"
+            },
+            "meaning": {
+                "hi": "भूतभृन्न",
+                "en": "bhūtabhṛnna",
+                "be": "ভূতভূর্ণ",
+                "ka": "ಭೂತಭೃನ್ನ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूतस्थो",
-            "transliteration": "bhūtastho",
-            "meaning": "bhūtastho"
+            "transliteration": {
+                "hi": "भूतस्थो",
+                "en": "bhūtastho",
+                "be": "ভূতস্থো",
+                "ka": "ಭೂತಸ್ಥೋ"
+            },
+            "meaning": {
+                "hi": "भूतस्थो",
+                "en": "bhūtastho",
+                "be": "ভূতস্থ",
+                "ka": "ಭೂತಸ್ಥೋ"
+            }
         },
         {
             "sanskrit": "ममात्मा",
-            "transliteration": "mamātmā",
-            "meaning": "mamātmā"
+            "transliteration": {
+                "hi": "ममात्मा",
+                "en": "mamātmā",
+                "be": "মমাত্মা",
+                "ka": "ಮಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "मामा",
+                "en": "mamātmā",
+                "be": "mamātmā",
+                "ka": "ಮಮಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "भूतभावनः",
-            "transliteration": "bhūtabhāvanaḥ",
-            "meaning": "bhūtabhāvanaḥ"
+            "transliteration": {
+                "hi": "भूतभावनः",
+                "en": "bhūtabhāvanaḥ",
+                "be": "ভূতভাবনঃ",
+                "ka": "ಭೂತಭಾವನಃ"
+            },
+            "meaning": {
+                "hi": "भूतभावनः",
+                "en": "bhūtabhāvanaḥ",
+                "be": "ভূতভবনঃ",
+                "ka": "ಭೂತಭಾವನಃ"
+            }
         }
     ],
     "tej": {

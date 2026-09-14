@@ -14,8 +14,18 @@
         "en": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām .\nkalpakṣaye punastāni kalpādau visṛjāmyaham ||9-7||",
         "ka": "ಸರ್ವಭೂತಾನಿ ಕೌನ್ತೇಯ ಪ್ರಕೃತಿಂ ಯಾನ್ತಿ ಮಾಮಿಕಾಮ್ |\nಕಲ್ಪಕ್ಷಯೇ ಪುನಸ್ತಾನಿ ಕಲ್ಪಾದೌ ವಿಸೃಜಾಮ್ಯಹಮ್ ||೯-೭||"
     },
-    "transliteration": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām .\nkalpakṣaye punastāni kalpādau visṛjāmyaham ||9-7||",
-    "life_application": "Recognize how all beings enter physical nature at the end of a cosmic cycle and are created anew at the start.",
+    "transliteration": {
+        "hi": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् |\nकल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||",
+        "en": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām .\nkalpakṣaye punastāni kalpādau visṛjāmyaham ||9-7||",
+        "be": "সর্বভূতানি কৌন্তেয প্রকৃতিং যান্তি মামিকাম্ |\nকল্পক্ষযে পুনস্তানি কল্পাদৌ বিসৃজাম্যহম্ ||৯-৭||",
+        "ka": "ಸರ್ವಭೂತಾನಿ ಕೌನ್ತೇಯ ಪ್ರಕೃತಿಂ ಯಾನ್ತಿ ಮಾಮಿಕಾಮ್ |\nಕಲ್ಪಕ್ಷಯೇ ಪುನಸ್ತಾನಿ ಕಲ್ಪಾದೌ ವಿಸೃಜಾಮ್ಯಹಮ್ ||೯-೭||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि कैसे सभी प्राणी ब्रह्मांडीय चक्र के अंत में भौतिक प्रकृति में प्रवेश करते हैं और शुरुआत में नए सिरे से बनाए जाते हैं।",
+        "en": "Recognize how all beings enter physical nature at the end of a cosmic cycle and are created anew at the start.",
+        "be": "কীভাবে সমস্ত প্রাণী একটি মহাজাগতিক চক্রের শেষে ভৌত প্রকৃতিতে প্রবেশ করে এবং শুরুতে নতুন করে তৈরি হয় তা স্বীকার করুন।",
+        "ka": "ಕಾಸ್ಮಿಕ್ ಚಕ್ರದ ಕೊನೆಯಲ್ಲಿ ಎಲ್ಲಾ ಜೀವಿಗಳು ಭೌತಿಕ ಸ್ವಭಾವವನ್ನು ಹೇಗೆ ಪ್ರವೇಶಿಸುತ್ತವೆ ಮತ್ತು ಪ್ರಾರಂಭದಲ್ಲಿ ಹೊಸದಾಗಿ ರಚಿಸಲ್ಪಡುತ್ತವೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वभूतानि",
-            "transliteration": "sarvabhūtāni",
-            "meaning": "sarvabhūtāni"
+            "transliteration": {
+                "hi": "सर्वभूतानि",
+                "en": "sarvabhūtāni",
+                "be": "সর্বভূতানি",
+                "ka": "ಸರ್ವಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतानि",
+                "en": "sarvabhūtāni",
+                "be": "সর্বভূতানি",
+                "ka": "ಸರ್ವಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "प्रकृतिं",
-            "transliteration": "prakṛtiṃ",
-            "meaning": "prakṛtiṃ"
+            "transliteration": {
+                "hi": "प्रकृतिं",
+                "en": "prakṛtiṃ",
+                "be": "প্রকৃতিং",
+                "ka": "ಪ್ರಕೃತಿಂ"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "prakṛtiṃ",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "मामिकाम्",
-            "transliteration": "māmikām",
-            "meaning": "māmikām"
+            "transliteration": {
+                "hi": "मामिकाम्",
+                "en": "māmikām",
+                "be": "মামিকাম্",
+                "ka": "ಮಾಮಿಕಾಮ್"
+            },
+            "meaning": {
+                "hi": "मामिकाम्",
+                "en": "māmikām",
+                "be": "মামিকাম",
+                "ka": "ಮಾಮಿಕಾಮ್"
+            }
         },
         {
             "sanskrit": "कल्पक्षये",
-            "transliteration": "kalpakṣaye",
-            "meaning": "kalpakṣaye"
+            "transliteration": {
+                "hi": "कल्पक्षये",
+                "en": "kalpakṣaye",
+                "be": "কল্পক্ষযে",
+                "ka": "ಕಲ್ಪಕ್ಷಯೇ"
+            },
+            "meaning": {
+                "hi": "कल्पक्षये",
+                "en": "kalpakṣaye",
+                "be": "kalpakṣaye",
+                "ka": "ಕಲ್ಪಕ್ಷಯೇ"
+            }
         },
         {
             "sanskrit": "पुनस्तानि",
-            "transliteration": "punastāni",
-            "meaning": "punastāni"
+            "transliteration": {
+                "hi": "पुनस्तानि",
+                "en": "punastāni",
+                "be": "পুনস্তানি",
+                "ka": "ಪುನಸ್ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "पुनास्तानी",
+                "en": "punastāni",
+                "be": "পুনস্তানি",
+                "ka": "ಪುನಸ್ತಾನಿ"
+            }
         },
         {
             "sanskrit": "कल्पादौ",
-            "transliteration": "kalpādau",
-            "meaning": "kalpādau"
+            "transliteration": {
+                "hi": "कल्पादौ",
+                "en": "kalpādau",
+                "be": "কল্পাদৌ",
+                "ka": "ಕಲ್ಪಾದೌ"
+            },
+            "meaning": {
+                "hi": "कल्पादौ",
+                "en": "kalpādau",
+                "be": "কল্পাদউ",
+                "ka": "ಕಲ್ಪದೌ"
+            }
         },
         {
             "sanskrit": "विसृजाम्यहम्",
-            "transliteration": "visṛjāmyaham",
-            "meaning": "visṛjāmyaham"
+            "transliteration": {
+                "hi": "विसृजाम्यहम्",
+                "en": "visṛjāmyaham",
+                "be": "বিসৃজাম্যহম্",
+                "ka": "ವಿಸೃಜಾಮ್ಯಹಮ್"
+            },
+            "meaning": {
+                "hi": "विसृजाम्यहम्",
+                "en": "visṛjāmyaham",
+                "be": "visṛjāmyaham",
+                "ka": "ವಿಶ್ಜಾಮ್ಯಹಂ"
+            }
         }
     ],
     "tej": {

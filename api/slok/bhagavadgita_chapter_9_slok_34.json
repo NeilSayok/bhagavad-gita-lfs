@@ -14,8 +14,18 @@
         "en": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ ||9-34||",
         "ka": "ಮನ್ಮನಾ ಭವ ಮದ್ಭಕ್ತೋ ಮದ್ಯಾಜೀ ಮಾಂ ನಮಸ್ಕುರು |\nಮಾಮೇವೈಷ್ಯಸಿ ಯುಕ್ತ್ವೈವಮಾತ್ಮಾನಂ ಮತ್ಪರಾಯಣಃ ||೯-೩೪||"
     },
-    "transliteration": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ ||9-34||",
-    "life_application": "Fix your mind on God, be devoted, worship, and bow down; uniting yourself thus, you will surely reach God.",
+    "transliteration": {
+        "hi": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |\nमामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ||९-३४||",
+        "en": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ ||9-34||",
+        "be": "মন্মনা ভব মদ্ভক্তো মদ্যাজী মাং নমস্কুরু |\nমামেবৈষ্যসি যুক্ত্বৈবমাত্মানং মত্পরাযণঃ ||৯-৩৪||",
+        "ka": "ಮನ್ಮನಾ ಭವ ಮದ್ಭಕ್ತೋ ಮದ್ಯಾಜೀ ಮಾಂ ನಮಸ್ಕುರು |\nಮಾಮೇವೈಷ್ಯಸಿ ಯುಕ್ತ್ವೈವಮಾತ್ಮಾನಂ ಮತ್ಪರಾಯಣಃ ||೯-೩೪||"
+    },
+    "life_application": {
+        "hi": "अपना मन भगवान में लगाओ, समर्पित रहो, पूजा करो और झुको; इस प्रकार अपने आप को एकजुट करके, आप निश्चित रूप से भगवान तक पहुंचेंगे।",
+        "en": "Fix your mind on God, be devoted, worship, and bow down; uniting yourself thus, you will surely reach God.",
+        "be": "ঈশ্বরের প্রতি মন স্থির করুন, ভক্তি করুন, উপাসনা করুন এবং প্রণাম করুন; এভাবে নিজেকে একত্রিত করলে আপনি অবশ্যই ঈশ্বরের কাছে পৌঁছাবেন।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ದೇವರ ಮೇಲೆ ಇರಿಸಿ, ಭಕ್ತಿಯಿಂದಿರಿ, ಪೂಜಿಸಿ ಮತ್ತು ನಮಸ್ಕರಿಸಿ; ಹೀಗೆ ನಿಮ್ಮನ್ನು ಒಂದುಗೂಡಿಸಿದರೆ, ನೀವು ಖಂಡಿತವಾಗಿಯೂ ದೇವರನ್ನು ತಲುಪುತ್ತೀರಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "मन्मना",
-            "transliteration": "manmanā",
-            "meaning": "manmanā"
+            "transliteration": {
+                "hi": "मन्मना",
+                "en": "manmanā",
+                "be": "মন্মনা",
+                "ka": "ಮನ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "मनमना",
+                "en": "manmanā",
+                "be": "মনমানা",
+                "ka": "ಮನ್ಮನ"
+            }
         },
         {
             "sanskrit": "भव",
-            "transliteration": "bhava",
-            "meaning": "bhava"
+            "transliteration": {
+                "hi": "भव",
+                "en": "bhava",
+                "be": "ভব",
+                "ka": "ಭವ"
+            },
+            "meaning": {
+                "hi": "भाव",
+                "en": "bhava",
+                "be": "bhava",
+                "ka": "ಭಾವ"
+            }
         },
         {
             "sanskrit": "मद्भक्तो",
-            "transliteration": "madbhakto",
-            "meaning": "madbhakto"
+            "transliteration": {
+                "hi": "मद्भक्तो",
+                "en": "madbhakto",
+                "be": "মদ্ভক্তো",
+                "ka": "ಮದ್ಭಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "मद्भक्तो",
+                "en": "madbhakto",
+                "be": "পাগল ভক্ত",
+                "ka": "ಮದ್ಭಕ್ತೋ"
+            }
         },
         {
             "sanskrit": "मद्याजी",
-            "transliteration": "madyājī",
-            "meaning": "madyājī"
+            "transliteration": {
+                "hi": "मद्याजी",
+                "en": "madyājī",
+                "be": "মদ্যাজী",
+                "ka": "ಮದ್ಯಾಜೀ"
+            },
+            "meaning": {
+                "hi": "मद्याजी",
+                "en": "madyājī",
+                "be": "মাদিয়াজি",
+                "ka": "ಮದ್ಯಾಜಿ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "नमस्कुरु",
-            "transliteration": "namaskuru",
-            "meaning": "namaskuru"
+            "transliteration": {
+                "hi": "नमस्कुरु",
+                "en": "namaskuru",
+                "be": "নমস্কুরু",
+                "ka": "ನಮಸ್ಕುರು"
+            },
+            "meaning": {
+                "hi": "नमस्कुरु",
+                "en": "namaskuru",
+                "be": "namaskuru",
+                "ka": "ನಮಸ್ಕುರು"
+            }
         },
         {
             "sanskrit": "मामेवैष्यसि",
-            "transliteration": "māmevaiṣyasi",
-            "meaning": "māmevaiṣyasi"
+            "transliteration": {
+                "hi": "मामेवैष्यसि",
+                "en": "māmevaiṣyasi",
+                "be": "মামেবৈষ্যসি",
+                "ka": "ಮಾಮೇವೈಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "मामेवैष्यसि",
+                "en": "māmevaiṣyasi",
+                "be": "মামেবৈষ্যসি",
+                "ka": "ಮಾಮೇವೈಶ್ಯಸಿ"
+            }
         },
         {
             "sanskrit": "युक्त्वैवमात्मानं",
-            "transliteration": "yuktvaivamātmānaṃ",
-            "meaning": "yuktvaivamātmānaṃ"
+            "transliteration": {
+                "hi": "युक्त्वैवमात्मानं",
+                "en": "yuktvaivamātmānaṃ",
+                "be": "যুক্ত্বৈবমাত্মানং",
+                "ka": "ಯುಕ್ತ್ವೈವಮಾತ್ಮಾನಂ"
+            },
+            "meaning": {
+                "hi": "युक्तवैवमात्मनम्",
+                "en": "yuktvaivamātmānaṃ",
+                "be": "যুক্তবৈবমাত্মানং",
+                "ka": "ಯುಕ್ತವೈವಮಾತ್ಮನಂ"
+            }
         },
         {
             "sanskrit": "मत्परायणः",
-            "transliteration": "matparāyaṇaḥ",
-            "meaning": "matparāyaṇaḥ"
+            "transliteration": {
+                "hi": "मत्परायणः",
+                "en": "matparāyaṇaḥ",
+                "be": "মত্পরাযণঃ",
+                "ka": "ಮತ್ಪರಾಯಣಃ"
+            },
+            "meaning": {
+                "hi": "मत्परायणः",
+                "en": "matparāyaṇaḥ",
+                "be": "matparāyaṇaḥ",
+                "ka": "ಮತ್ಪರಾಯಣಃ"
+            }
         }
     ],
     "tej": {

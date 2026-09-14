@@ -14,8 +14,18 @@
         "en": "kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .\nanityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||",
         "ka": "ಕಿಂ ಪುನರ್ಬ್ರಾಹ್ಮಣಾಃ ಪುಣ್ಯಾ ಭಕ್ತಾ ರಾಜರ್ಷಯಸ್ತಥಾ |\nಅನಿತ್ಯಮಸುಖಂ ಲೋಕಮಿಮಂ ಪ್ರಾಪ್ಯ ಭಜಸ್ವ ಮಾಮ್ ||೯-೩೩||"
     },
-    "transliteration": "kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .\nanityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||",
-    "life_application": "How much more then should noble seekers turn to God; having entered this transient unhappy world, worship the Divine.",
+    "transliteration": {
+        "hi": "किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा |\nअनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||",
+        "en": "kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .\nanityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||",
+        "be": "কিং পুনর্ব্রাহ্মণাঃ পুণ্যা ভক্তা রাজর্ষযস্তথা |\nঅনিত্যমসুখং লোকমিমং প্রাপ্য ভজস্ব মাম্ ||৯-৩৩||",
+        "ka": "ಕಿಂ ಪುನರ್ಬ್ರಾಹ್ಮಣಾಃ ಪುಣ್ಯಾ ಭಕ್ತಾ ರಾಜರ್ಷಯಸ್ತಥಾ |\nಅನಿತ್ಯಮಸುಖಂ ಲೋಕಮಿಮಂ ಪ್ರಾಪ್ಯ ಭಜಸ್ವ ಮಾಮ್ ||೯-೩೩||"
+    },
+    "life_application": {
+        "hi": "तो फिर महान साधकों को भगवान की ओर कितना अधिक मुड़ना चाहिए; इस क्षणभंगुर दुखी संसार में प्रवेश करके, ईश्वर की पूजा करो।",
+        "en": "How much more then should noble seekers turn to God; having entered this transient unhappy world, worship the Divine.",
+        "be": "তাহলে আর কত গুণী ব্যক্তিরা ঈশ্বরের দিকে ফিরে যাবেন; এই ক্ষণস্থায়ী অসুখী জগতে প্রবেশ করে, ঈশ্বরের উপাসনা করুন।",
+        "ka": "ಉದಾತ್ತ ಅನ್ವೇಷಕರು ದೇವರ ಕಡೆಗೆ ಎಷ್ಟು ಹೆಚ್ಚು ತಿರುಗಬೇಕು; ಈ ಕ್ಷಣಿಕ ಅಸಂತೋಷದ ಜಗತ್ತನ್ನು ಪ್ರವೇಶಿಸಿದ ನಂತರ, ಪರಮಾತ್ಮನನ್ನು ಆರಾಧಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "किं",
-            "transliteration": "kiṃ",
-            "meaning": "kiṃ"
+            "transliteration": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "কিং",
+                "ka": "ಕಿಂ"
+            },
+            "meaning": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "kiṃ",
+                "ka": "kiṃ"
+            }
         },
         {
             "sanskrit": "पुनर्ब्राह्मणाः",
-            "transliteration": "punarbrāhmaṇāḥ",
-            "meaning": "punarbrāhmaṇāḥ"
+            "transliteration": {
+                "hi": "पुनर्ब्राह्मणाः",
+                "en": "punarbrāhmaṇāḥ",
+                "be": "পুনর্ব্রাহ্মণাঃ",
+                "ka": "ಪುನರ್ಬ್ರಾಹ್ಮಣಾಃ"
+            },
+            "meaning": {
+                "hi": "पुनर्ब्राह्मणः",
+                "en": "punarbrāhmaṇāḥ",
+                "be": "পুনর্ব্রহ্মণঃ",
+                "ka": "ಪುನರ್ಬ್ರಹ್ಮಣಃ"
+            }
         },
         {
             "sanskrit": "पुण्या",
-            "transliteration": "puṇyā",
-            "meaning": "puṇyā"
+            "transliteration": {
+                "hi": "पुण्या",
+                "en": "puṇyā",
+                "be": "পুণ্যা",
+                "ka": "ಪುಣ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "पुण्य",
+                "en": "puṇyā",
+                "be": "পুণ্য",
+                "ka": "ಪುಣ್ಯ"
+            }
         },
         {
             "sanskrit": "भक्ता",
-            "transliteration": "bhaktā",
-            "meaning": "bhaktā"
+            "transliteration": {
+                "hi": "भक्ता",
+                "en": "bhaktā",
+                "be": "ভক্তা",
+                "ka": "ಭಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "भक्त",
+                "en": "bhaktā",
+                "be": "ভক্ত",
+                "ka": "ಭಕ್ತ"
+            }
         },
         {
             "sanskrit": "राजर्षयस्तथा",
-            "transliteration": "rājarṣayastathā",
-            "meaning": "rājarṣayastathā"
+            "transliteration": {
+                "hi": "राजर्षयस्तथा",
+                "en": "rājarṣayastathā",
+                "be": "রাজর্ষযস্তথা",
+                "ka": "ರಾಜರ್ಷಯಸ್ತಥಾ"
+            },
+            "meaning": {
+                "hi": "राजर्षयस्थथा",
+                "en": "rājarṣayastathā",
+                "be": "রাজার্শয়স্তথা",
+                "ka": "ರಾಜರ್ಷಯಾಸ್ತಥಾ"
+            }
         },
         {
             "sanskrit": "अनित्यमसुखं",
-            "transliteration": "anityamasukhaṃ",
-            "meaning": "anityamasukhaṃ"
+            "transliteration": {
+                "hi": "अनित्यमसुखं",
+                "en": "anityamasukhaṃ",
+                "be": "অনিত্যমসুখং",
+                "ka": "ಅನಿತ್ಯಮಸುಖಂ"
+            },
+            "meaning": {
+                "hi": "अनित्यमसुखम्",
+                "en": "anityamasukhaṃ",
+                "be": "anityamasukhaṃ",
+                "ka": "ಅನಿತ್ಯಮಸುಖಂ"
+            }
         },
         {
             "sanskrit": "लोकमिमं",
-            "transliteration": "lokamimaṃ",
-            "meaning": "lokamimaṃ"
+            "transliteration": {
+                "hi": "लोकमिमं",
+                "en": "lokamimaṃ",
+                "be": "লোকমিমং",
+                "ka": "ಲೋಕಮಿಮಂ"
+            },
+            "meaning": {
+                "hi": "लोकमिमं",
+                "en": "lokamimaṃ",
+                "be": "lokamimaṃ",
+                "ka": "ಲೋಕಮಿಮಂ"
+            }
         },
         {
             "sanskrit": "प्राप्य",
-            "transliteration": "prāpya",
-            "meaning": "prāpya"
+            "transliteration": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "भजस्व",
-            "transliteration": "bhajasva",
-            "meaning": "bhajasva"
+            "transliteration": {
+                "hi": "भजस्व",
+                "en": "bhajasva",
+                "be": "ভজস্ব",
+                "ka": "ಭಜಸ್ವ"
+            },
+            "meaning": {
+                "hi": "भजस्व",
+                "en": "bhajasva",
+                "be": "ভজস্ব",
+                "ka": "ಭಜಸ್ವ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "mām"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैम",
+                "en": "mām",
+                "be": "ম্যাম",
+                "ka": "ಅಮ್ಮ"
+            }
         }
     ],
     "tej": {

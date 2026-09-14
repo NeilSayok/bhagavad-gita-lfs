@@ -14,8 +14,18 @@
         "en": "māṃ hi pārtha vyapāśritya ye.api syuḥ pāpayonayaḥ .\nstriyo vaiśyāstathā śūdrāste.api yānti parāṃ gatim ||9-32||",
         "ka": "ಮಾಂ ಹಿ ಪಾರ್ಥ ವ್ಯಪಾಶ್ರಿತ್ಯ ಯೇಽಪಿ ಸ್ಯುಃ ಪಾಪಯೋನಯಃ |\nಸ್ತ್ರಿಯೋ ವೈಶ್ಯಾಸ್ತಥಾ ಶೂದ್ರಾಸ್ತೇಽಪಿ ಯಾನ್ತಿ ಪರಾಂ ಗತಿಮ್ ||೯-೩೨||"
     },
-    "transliteration": "māṃ hi pārtha vyapāśritya ye.api syuḥ pāpayonayaḥ .\nstriyo vaiśyāstathā śūdrāste.api yānti parāṃ gatim ||9-32||",
-    "life_application": "Take refuge in God regardless of your social background or past, for all who surrender reach the supreme destination.",
+    "transliteration": {
+        "hi": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः |\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ||९-३२||",
+        "en": "māṃ hi pārtha vyapāśritya ye.api syuḥ pāpayonayaḥ .\nstriyo vaiśyāstathā śūdrāste.api yānti parāṃ gatim ||9-32||",
+        "be": "মাং হি পার্থ ব্যপাশ্রিত্য যেঽপি স্যুঃ পাপযোনযঃ |\nস্ত্রিযো বৈশ্যাস্তথা শূদ্রাস্তেঽপি যান্তি পরাং গতিম্ ||৯-৩২||",
+        "ka": "ಮಾಂ ಹಿ ಪಾರ್ಥ ವ್ಯಪಾಶ್ರಿತ್ಯ ಯೇಽಪಿ ಸ್ಯುಃ ಪಾಪಯೋನಯಃ |\nಸ್ತ್ರಿಯೋ ವೈಶ್ಯಾಸ್ತಥಾ ಶೂದ್ರಾಸ್ತೇಽಪಿ ಯಾನ್ತಿ ಪರಾಂ ಗತಿಮ್ ||೯-೩೨||"
+    },
+    "life_application": {
+        "hi": "आपकी सामाजिक पृष्ठभूमि या अतीत कुछ भी हो, ईश्वर की शरण लें, क्योंकि जो समर्पण करते हैं वे सर्वोच्च मंजिल तक पहुंचते हैं।",
+        "en": "Take refuge in God regardless of your social background or past, for all who surrender reach the supreme destination.",
+        "be": "আপনার সামাজিক পটভূমি বা অতীত নির্বিশেষে ঈশ্বরের আশ্রয় নিন, আত্মসমর্পণকারী সকলের জন্য সর্বোচ্চ গন্তব্যে পৌঁছান।",
+        "ka": "ನಿಮ್ಮ ಸಾಮಾಜಿಕ ಹಿನ್ನೆಲೆ ಅಥವಾ ಹಿಂದಿನದನ್ನು ಲೆಕ್ಕಿಸದೆ ದೇವರನ್ನು ಆಶ್ರಯಿಸಿ, ಶರಣಾಗುವವರೆಲ್ಲರೂ ಸರ್ವೋಚ್ಚ ಗಮ್ಯಸ್ಥಾನವನ್ನು ತಲುಪುತ್ತಾರೆ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "व्यपाश्रित्य",
-            "transliteration": "vyapāśritya",
-            "meaning": "vyapāśritya"
+            "transliteration": {
+                "hi": "व्यपाश्रित्य",
+                "en": "vyapāśritya",
+                "be": "ব্যপাশ্রিত্য",
+                "ka": "ವ್ಯಪಾಶ್ರಿತ್ಯ"
+            },
+            "meaning": {
+                "hi": "व्यापाश्रित्य",
+                "en": "vyapāśritya",
+                "be": "ব্যাপাশ্রিত্য",
+                "ka": "ವ್ಯಾಪಾಶ್ರಿತ್ಯ"
+            }
         },
         {
             "sanskrit": "येऽपि",
-            "transliteration": "ye'pi",
-            "meaning": "ye'pi"
+            "transliteration": {
+                "hi": "येऽपि",
+                "en": "ye'pi",
+                "be": "যেঽপি",
+                "ka": "ಯೇಽಪಿ"
+            },
+            "meaning": {
+                "hi": "हाँ'पी",
+                "en": "ye'pi",
+                "be": "ye'pi",
+                "ka": "ye'pi"
+            }
         },
         {
             "sanskrit": "स्युः",
-            "transliteration": "syuḥ",
-            "meaning": "syuḥ"
+            "transliteration": {
+                "hi": "स्युः",
+                "en": "syuḥ",
+                "be": "স্যুঃ",
+                "ka": "ಸ್ಯುಃ"
+            },
+            "meaning": {
+                "hi": "स्युः",
+                "en": "syuḥ",
+                "be": "syuḥ",
+                "ka": "ಸ್ಯುಃ"
+            }
         },
         {
             "sanskrit": "पापयोनयः",
-            "transliteration": "pāpayonayaḥ",
-            "meaning": "pāpayonayaḥ"
+            "transliteration": {
+                "hi": "पापयोनयः",
+                "en": "pāpayonayaḥ",
+                "be": "পাপযোনযঃ",
+                "ka": "ಪಾಪಯೋನಯಃ"
+            },
+            "meaning": {
+                "hi": "पापयोनयः",
+                "en": "pāpayonayaḥ",
+                "be": "পাপয়নয়ঃ",
+                "ka": "ಪಾಪಯೋನಾಯಃ"
+            }
         },
         {
             "sanskrit": "स्त्रियो",
-            "transliteration": "striyo",
-            "meaning": "striyo"
+            "transliteration": {
+                "hi": "स्त्रियो",
+                "en": "striyo",
+                "be": "স্ত্রিযো",
+                "ka": "ಸ್ತ್ರಿಯೋ"
+            },
+            "meaning": {
+                "hi": "striyo",
+                "en": "striyo",
+                "be": "striyo",
+                "ka": "ಸ್ತ್ರೀಯೋ"
+            }
         },
         {
             "sanskrit": "वैश्यास्तथा",
-            "transliteration": "vaiśyāstathā",
-            "meaning": "vaiśyāstathā"
+            "transliteration": {
+                "hi": "वैश्यास्तथा",
+                "en": "vaiśyāstathā",
+                "be": "বৈশ্যাস্তথা",
+                "ka": "ವೈಶ್ಯಾಸ್ತಥಾ"
+            },
+            "meaning": {
+                "hi": "वैश्यस्थ",
+                "en": "vaiśyāstathā",
+                "be": "বৈশ্যস্তথা",
+                "ka": "ವೈಶ್ಯಸ್ತಥಾ"
+            }
         },
         {
             "sanskrit": "शूद्रास्तेऽपि",
-            "transliteration": "śūdrāste'pi",
-            "meaning": "śūdrāste'pi"
+            "transliteration": {
+                "hi": "शूद्रास्तेऽपि",
+                "en": "śūdrāste'pi",
+                "be": "শূদ্রাস্তেঽপি",
+                "ka": "ಶೂದ್ರಾಸ್ತೇಽಪಿ"
+            },
+            "meaning": {
+                "hi": "शूद्रस्तेऽपि",
+                "en": "śūdrāste'pi",
+                "be": "শূদ্রস্তে'পি",
+                "ka": "ಶೂದ್ರಸ್ತೇ'ಪಿ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "परां",
-            "transliteration": "parāṃ",
-            "meaning": "parāṃ"
+            "transliteration": {
+                "hi": "परां",
+                "en": "parāṃ",
+                "be": "পরাং",
+                "ka": "ಪರಾಂ"
+            },
+            "meaning": {
+                "hi": "परां",
+                "en": "parāṃ",
+                "be": "paraṃ",
+                "ka": "ಪರಾಂ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "gatim"
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "गैतिम",
+                "en": "gatim",
+                "be": "gatim",
+                "ka": "ಗತಿಮ್"
+            }
         }
     ],
     "tej": {

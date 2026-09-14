@@ -14,8 +14,18 @@
         "en": "api cetsudurācāro bhajate māmananyabhāk .\nsādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||9-30||",
         "ka": "ಅಪಿ ಚೇತ್ಸುದುರಾಚಾರೋ ಭಜತೇ ಮಾಮನನ್ಯಭಾಕ್ |\nಸಾಧುರೇವ ಸ ಮನ್ತವ್ಯಃ ಸಮ್ಯಗ್ವ್ಯವಸಿತೋ ಹಿ ಸಃ ||೯-೩೦||"
     },
-    "transliteration": "api cetsudurācāro bhajate māmananyabhāk .\nsādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||9-30||",
-    "life_application": "Even if a person of bad conduct worships God with undivided devotion, consider them righteous, for they have resolved rightly.",
+    "transliteration": {
+        "hi": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् |\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ||९-३०||",
+        "en": "api cetsudurācāro bhajate māmananyabhāk .\nsādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||9-30||",
+        "be": "অপি চেত্সুদুরাচারো ভজতে মামনন্যভাক্ |\nসাধুরেব স মন্তব্যঃ সম্যগ্ব্যবসিতো হি সঃ ||৯-৩০||",
+        "ka": "ಅಪಿ ಚೇತ್ಸುದುರಾಚಾರೋ ಭಜತೇ ಮಾಮನನ್ಯಭಾಕ್ |\nಸಾಧುರೇವ ಸ ಮನ್ತವ್ಯಃ ಸಮ್ಯಗ್ವ್ಯವಸಿತೋ ಹಿ ಸಃ ||೯-೩೦||"
+    },
+    "life_application": {
+        "hi": "यदि कोई बुरे आचरण वाला मनुष्य भी अनन्य भक्ति से ईश्वर की आराधना करता है, तो उसे धर्मी समझो, क्योंकि उसने ठीक ही निश्चय किया है।",
+        "en": "Even if a person of bad conduct worships God with undivided devotion, consider them righteous, for they have resolved rightly.",
+        "be": "এমনকি যদি একজন খারাপ আচরণকারী ব্যক্তি অবিভক্ত ভক্তি সহকারে ঈশ্বরের উপাসনা করে, তবে তাদের ধার্মিক মনে করুন, কারণ তারা সঠিকভাবে সিদ্ধান্ত নিয়েছে।",
+        "ka": "ಕೆಟ್ಟ ನಡತೆಯ ವ್ಯಕ್ತಿಯು ದೇವರನ್ನು ಅವಿಭಜಿತ ಭಕ್ತಿಯಿಂದ ಪೂಜಿಸಿದರೂ, ಅವರನ್ನು ನೀತಿವಂತರೆಂದು ಪರಿಗಣಿಸಿ, ಏಕೆಂದರೆ ಅವರು ಸರಿಯಾಗಿ ಪರಿಹರಿಸಿದ್ದಾರೆ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "चेत्सुदुराचारो",
-            "transliteration": "cetsudurācāro",
-            "meaning": "cetsudurācāro"
+            "transliteration": {
+                "hi": "चेत्सुदुराचारो",
+                "en": "cetsudurācāro",
+                "be": "চেত্সুদুরাচারো",
+                "ka": "ಚೇತ್ಸುದುರಾಚಾರೋ"
+            },
+            "meaning": {
+                "hi": "सेत्सुडुराकारो",
+                "en": "cetsudurācāro",
+                "be": "cetsudurācāro",
+                "ka": "cetsudurācāro"
+            }
         },
         {
             "sanskrit": "भजते",
-            "transliteration": "bhajate",
-            "meaning": "bhajate"
+            "transliteration": {
+                "hi": "भजते",
+                "en": "bhajate",
+                "be": "ভজতে",
+                "ka": "ಭಜತೇ"
+            },
+            "meaning": {
+                "hi": "भजते",
+                "en": "bhajate",
+                "be": "ভজতে",
+                "ka": "ಭಜತೇ"
+            }
         },
         {
             "sanskrit": "मामनन्यभाक्",
-            "transliteration": "māmananyabhāk",
-            "meaning": "māmananyabhāk"
+            "transliteration": {
+                "hi": "मामनन्यभाक्",
+                "en": "māmananyabhāk",
+                "be": "মামনন্যভাক্",
+                "ka": "ಮಾಮನನ್ಯಭಾಕ್"
+            },
+            "meaning": {
+                "hi": "मामनन्यभाक्",
+                "en": "māmananyabhāk",
+                "be": "মামনান্যভাক",
+                "ka": "ಮಾಮನನ್ಯಭಾಕ್"
+            }
         },
         {
             "sanskrit": "साधुरेव",
-            "transliteration": "sādhureva",
-            "meaning": "sādhureva"
+            "transliteration": {
+                "hi": "साधुरेव",
+                "en": "sādhureva",
+                "be": "সাধুরেব",
+                "ka": "ಸಾಧುರೇವ"
+            },
+            "meaning": {
+                "hi": "साधुरेवा",
+                "en": "sādhureva",
+                "be": "সাধুরেব",
+                "ka": "ಸಾಧುರೇವ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "मन्तव्यः",
-            "transliteration": "mantavyaḥ",
-            "meaning": "mantavyaḥ"
+            "transliteration": {
+                "hi": "मन्तव्यः",
+                "en": "mantavyaḥ",
+                "be": "মন্তব্যঃ",
+                "ka": "ಮನ್ತವ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "मन्तव्यः",
+                "en": "mantavyaḥ",
+                "be": "মন্তব্যঃ",
+                "ka": "ಮಾಂತವ್ಯಃ"
+            }
         },
         {
             "sanskrit": "सम्यग्व्यवसितो",
-            "transliteration": "samyagvyavasito",
-            "meaning": "samyagvyavasito"
+            "transliteration": {
+                "hi": "सम्यग्व्यवसितो",
+                "en": "samyagvyavasito",
+                "be": "সম্যগ্ব্যবসিতো",
+                "ka": "ಸಮ್ಯಗ್ವ್ಯವಸಿತೋ"
+            },
+            "meaning": {
+                "hi": "सम्यग्व्यवसितो",
+                "en": "samyagvyavasito",
+                "be": "সাম্যগ্ব্যবাসীতো",
+                "ka": "ಸಮ್ಯಗ್ವ್ಯವಾಸಿತೋ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         }
     ],
     "tej": {

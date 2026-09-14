@@ -14,8 +14,18 @@
         "en": "yathākāśasthito nityaṃ vāyuḥ sarvatrago mahān .\ntathā sarvāṇi bhūtāni matsthānītyupadhāraya ||9-6||",
         "ka": "ಯಥಾಕಾಶಸ್ಥಿತೋ ನಿತ್ಯಂ ವಾಯುಃ ಸರ್ವತ್ರಗೋ ಮಹಾನ್ |\nತಥಾ ಸರ್ವಾಣಿ ಭೂತಾನಿ ಮತ್ಸ್ಥಾನೀತ್ಯುಪಧಾರಯ ||೯-೬||"
     },
-    "transliteration": "yathākāśasthito nityaṃ vāyuḥ sarvatrago mahān .\ntathā sarvāṇi bhūtāni matsthānītyupadhāraya ||9-6||",
-    "life_application": "Understand that just as the mighty wind blowing everywhere rests in space, so all beings rest in God.",
+    "transliteration": {
+        "hi": "यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् |\nतथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ||९-६||",
+        "en": "yathākāśasthito nityaṃ vāyuḥ sarvatrago mahān .\ntathā sarvāṇi bhūtāni matsthānītyupadhāraya ||9-6||",
+        "be": "যথাকাশস্থিতো নিত্যং বাযুঃ সর্বত্রগো মহান্ |\nতথা সর্বাণি ভূতানি মত্স্থানীত্যুপধারয ||৯-৬||",
+        "ka": "ಯಥಾಕಾಶಸ್ಥಿತೋ ನಿತ್ಯಂ ವಾಯುಃ ಸರ್ವತ್ರಗೋ ಮಹಾನ್ |\nತಥಾ ಸರ್ವಾಣಿ ಭೂತಾನಿ ಮತ್ಸ್ಥಾನೀತ್ಯುಪಧಾರಯ ||೯-೬||"
+    },
+    "life_application": {
+        "hi": "यह समझें कि जिस प्रकार सर्वत्र बहने वाली प्रचंड वायु अंतरिक्ष में विश्राम करती है, उसी प्रकार सभी प्राणी ईश्वर में विश्राम करते हैं।",
+        "en": "Understand that just as the mighty wind blowing everywhere rests in space, so all beings rest in God.",
+        "be": "বুঝুন যে প্রবল বাতাস যেমন সর্বত্র প্রবাহিত হয় মহাকাশে বিশ্রাম নেয়, তেমনি সমস্ত প্রাণী ঈশ্বরে বিশ্রাম নেয়।",
+        "ka": "ಎಲ್ಲೆಡೆ ಬೀಸುವ ಗಾಳಿಯು ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ನೆಲೆಗೊಂಡಂತೆ, ಎಲ್ಲಾ ಜೀವಿಗಳು ದೇವರಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯುತ್ತವೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "यथाकाशस्थितो",
-            "transliteration": "yathākāśasthito",
-            "meaning": "yathākāśasthito"
+            "transliteration": {
+                "hi": "यथाकाशस्थितो",
+                "en": "yathākāśasthito",
+                "be": "যথাকাশস্থিতো",
+                "ka": "ಯಥಾಕಾಶಸ್ಥಿತೋ"
+            },
+            "meaning": {
+                "hi": "यथाकाशस्थितो",
+                "en": "yathākāśasthito",
+                "be": "yathākāśasthito",
+                "ka": "ಯಥಾಕಾಶಸ್ಥಿತೋ"
+            }
         },
         {
             "sanskrit": "नित्यं",
-            "transliteration": "nityaṃ",
-            "meaning": "nityaṃ"
+            "transliteration": {
+                "hi": "नित्यं",
+                "en": "nityaṃ",
+                "be": "নিত্যং",
+                "ka": "ನಿತ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "नित्यं",
+                "en": "nityaṃ",
+                "be": "নিত্য",
+                "ka": "ನಿತ್ಯಂ"
+            }
         },
         {
             "sanskrit": "वायुः",
-            "transliteration": "vāyuḥ",
-            "meaning": "vāyuḥ"
+            "transliteration": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "বাযুঃ",
+                "ka": "ವಾಯುಃ"
+            },
+            "meaning": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "vāyuḥ",
+                "ka": "vāyuḥ"
+            }
         },
         {
             "sanskrit": "सर्वत्रगो",
-            "transliteration": "sarvatrago",
-            "meaning": "sarvatrago"
+            "transliteration": {
+                "hi": "सर्वत्रगो",
+                "en": "sarvatrago",
+                "be": "সর্বত্রগো",
+                "ka": "ಸರ್ವತ್ರಗೋ"
+            },
+            "meaning": {
+                "hi": "सर्वत्रगो",
+                "en": "sarvatrago",
+                "be": "সর্বত্রগো",
+                "ka": "ಸರ್ವತ್ರಗೋ"
+            }
         },
         {
             "sanskrit": "महान्",
-            "transliteration": "mahān",
-            "meaning": "mahān"
+            "transliteration": {
+                "hi": "महान्",
+                "en": "mahān",
+                "be": "মহান্",
+                "ka": "ಮಹಾನ್"
+            },
+            "meaning": {
+                "hi": "महान",
+                "en": "mahān",
+                "be": "মহন",
+                "ka": "ಮಹಾನ್"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "sarvāṇi"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सरवाणी",
+                "en": "sarvāṇi",
+                "be": "sarvāṇi",
+                "ka": "ಸರ್ವಾಣಿ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "bhūtāni"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "भूटानी",
+                "en": "bhūtāni",
+                "be": "ভুটানি",
+                "ka": "ಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "मत्स्थानीत्युपधारय",
-            "transliteration": "matsthānītyupadhāraya",
-            "meaning": "matsthānītyupadhāraya"
+            "transliteration": {
+                "hi": "मत्स्थानीत्युपधारय",
+                "en": "matsthānītyupadhāraya",
+                "be": "মত্স্থানীত্যুপধারয",
+                "ka": "ಮತ್ಸ್ಥಾನೀತ್ಯುಪಧಾರಯ"
+            },
+            "meaning": {
+                "hi": "मतस्थानित्युपधारय",
+                "en": "matsthānītyupadhāraya",
+                "be": "মস্তস্থানিত্যুপাধারায়",
+                "ka": "ಮತ್ಸ್ಥಾನಿತ್ಯುಪಧಾರಾಯ"
+            }
         }
     ],
     "tej": {

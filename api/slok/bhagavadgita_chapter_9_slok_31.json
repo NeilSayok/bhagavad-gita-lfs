@@ -14,8 +14,18 @@
         "en": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati .\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||9-31||",
         "ka": "ಕ್ಷಿಪ್ರಂ ಭವತಿ ಧರ್ಮಾತ್ಮಾ ಶಶ್ವಚ್ಛಾನ್ತಿಂ ನಿಗಚ್ಛತಿ |\nಕೌನ್ತೇಯ ಪ್ರತಿಜಾನೀಹಿ ನ ಮೇ ಭಕ್ತಃ ಪ್ರಣಶ್ಯತಿ ||೯-೩೧||"
     },
-    "transliteration": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati .\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||9-31||",
-    "life_application": "Trust that genuine devotion quickly transforms a person into a righteous soul; God's devotee never perishes.",
+    "transliteration": {
+        "hi": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति |\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ||९-३१||",
+        "en": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati .\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||9-31||",
+        "be": "ক্ষিপ্রং ভবতি ধর্মাত্মা শশ্বচ্ছান্তিং নিগচ্ছতি |\nকৌন্তেয প্রতিজানীহি ন মে ভক্তঃ প্রণশ্যতি ||৯-৩১||",
+        "ka": "ಕ್ಷಿಪ್ರಂ ಭವತಿ ಧರ್ಮಾತ್ಮಾ ಶಶ್ವಚ್ಛಾನ್ತಿಂ ನಿಗಚ್ಛತಿ |\nಕೌನ್ತೇಯ ಪ್ರತಿಜಾನೀಹಿ ನ ಮೇ ಭಕ್ತಃ ಪ್ರಣಶ್ಯತಿ ||೯-೩೧||"
+    },
+    "life_application": {
+        "hi": "विश्वास रखें कि सच्ची भक्ति शीघ्र ही एक व्यक्ति को एक धर्मात्मा में बदल देती है; भगवान का भक्त कभी नष्ट नहीं होता।",
+        "en": "Trust that genuine devotion quickly transforms a person into a righteous soul; God's devotee never perishes.",
+        "be": "বিশ্বাস করুন যে প্রকৃত ভক্তি একজন ব্যক্তিকে দ্রুত একজন ধার্মিক আত্মায় রূপান্তরিত করে; ভগবানের ভক্ত কখনও বিনষ্ট হয় না।",
+        "ka": "ನಿಜವಾದ ಭಕ್ತಿಯು ತ್ವರಿತವಾಗಿ ಒಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನು ನೀತಿವಂತ ಆತ್ಮವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ ಎಂದು ನಂಬಿರಿ; ದೇವರ ಭಕ್ತ ಎಂದಿಗೂ ನಾಶವಾಗುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "क्षिप्रं",
-            "transliteration": "kṣipraṃ",
-            "meaning": "kṣipraṃ"
+            "transliteration": {
+                "hi": "क्षिप्रं",
+                "en": "kṣipraṃ",
+                "be": "ক্ষিপ্রং",
+                "ka": "ಕ್ಷಿಪ್ರಂ"
+            },
+            "meaning": {
+                "hi": "क्षिप्रं",
+                "en": "kṣipraṃ",
+                "be": "ক্ষিপ্রশ",
+                "ka": "ಕ್ಷಿಪ್ರ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "bhavati"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            }
         },
         {
             "sanskrit": "धर्मात्मा",
-            "transliteration": "dharmātmā",
-            "meaning": "dharmātmā"
+            "transliteration": {
+                "hi": "धर्मात्मा",
+                "en": "dharmātmā",
+                "be": "ধর্মাত্মা",
+                "ka": "ಧರ್ಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "धर्मात्मा",
+                "en": "dharmātmā",
+                "be": "ধর্মাত্ম",
+                "ka": "ಧರ್ಮಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "शश्वच्छान्तिं",
-            "transliteration": "śaśvacchāntiṃ",
-            "meaning": "śaśvacchāntiṃ"
+            "transliteration": {
+                "hi": "शश्वच्छान्तिं",
+                "en": "śaśvacchāntiṃ",
+                "be": "শশ্বচ্ছান্তিং",
+                "ka": "ಶಶ್ವಚ್ಛಾನ್ತಿಂ"
+            },
+            "meaning": {
+                "hi": "शश्वच्छन्तिम्",
+                "en": "śaśvacchāntiṃ",
+                "be": "শশবচ্ছান্তি",
+                "ka": "ಶಾಶ್ವಚ್ಛಂತಿಃ"
+            }
         },
         {
             "sanskrit": "निगच्छति",
-            "transliteration": "nigacchati",
-            "meaning": "nigacchati"
+            "transliteration": {
+                "hi": "निगच्छति",
+                "en": "nigacchati",
+                "be": "নিগচ্ছতি",
+                "ka": "ನಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "निगच्चति",
+                "en": "nigacchati",
+                "be": "নিগছটি",
+                "ka": "ನಿಗಚ್ಛತಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "प्रतिजानीहि",
-            "transliteration": "pratijānīhi",
-            "meaning": "pratijānīhi"
+            "transliteration": {
+                "hi": "प्रतिजानीहि",
+                "en": "pratijānīhi",
+                "be": "প্রতিজানীহি",
+                "ka": "ಪ್ರತಿಜಾನೀಹಿ"
+            },
+            "meaning": {
+                "hi": "प्रतिजानिः",
+                "en": "pratijānīhi",
+                "be": "প্রতিজানিহি",
+                "ka": "ಪ್ರತಿಜಾನಿಹಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "भक्तः",
-            "transliteration": "bhaktaḥ",
-            "meaning": "bhaktaḥ"
+            "transliteration": {
+                "hi": "भक्तः",
+                "en": "bhaktaḥ",
+                "be": "ভক্তঃ",
+                "ka": "ಭಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "भक्तः",
+                "en": "bhaktaḥ",
+                "be": "ভক্তঃ",
+                "ka": "ಭಕ್ತಃ"
+            }
         },
         {
             "sanskrit": "प्रणश्यति",
-            "transliteration": "praṇaśyati",
-            "meaning": "praṇaśyati"
+            "transliteration": {
+                "hi": "प्रणश्यति",
+                "en": "praṇaśyati",
+                "be": "প্রণশ্যতি",
+                "ka": "ಪ್ರಣಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "प्रणश्यति",
+                "en": "praṇaśyati",
+                "be": "প্রণাশ্যতি",
+                "ka": "ಪ್ರಣಶ್ಯತಿ"
+            }
         }
     ],
     "tej": {

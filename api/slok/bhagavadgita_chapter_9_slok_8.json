@@ -14,8 +14,18 @@
         "en": "prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ .\nbhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt ||9-8||",
         "ka": "ಪ್ರಕೃತಿಂ ಸ್ವಾಮವಷ್ಟಭ್ಯ ವಿಸೃಜಾಮಿ ಪುನಃ ಪುನಃ |\nಭೂತಗ್ರಾಮಮಿಮಂ ಕೃತ್ಸ್ನಮವಶಂ ಪ್ರಕೃತೇರ್ವಶಾತ್ ||೯-೮||"
     },
-    "transliteration": "prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ .\nbhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt ||9-8||",
-    "life_application": "Contemplate how divine power repeatedly projects the multitude of beings according to their natural karma.",
+    "transliteration": {
+        "hi": "प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः |\nभूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ||९-८||",
+        "en": "prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ .\nbhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt ||9-8||",
+        "be": "প্রকৃতিং স্বামবষ্টভ্য বিসৃজামি পুনঃ পুনঃ |\nভূতগ্রামমিমং কৃত্স্নমবশং প্রকৃতের্বশাত্ ||৯-৮||",
+        "ka": "ಪ್ರಕೃತಿಂ ಸ್ವಾಮವಷ್ಟಭ್ಯ ವಿಸೃಜಾಮಿ ಪುನಃ ಪುನಃ |\nಭೂತಗ್ರಾಮಮಿಮಂ ಕೃತ್ಸ್ನಮವಶಂ ಪ್ರಕೃತೇರ್ವಶಾತ್ ||೯-೮||"
+    },
+    "life_application": {
+        "hi": "चिंतन करें कि कैसे दैवीय शक्ति प्राणियों की भीड़ को उनके प्राकृतिक कर्म के अनुसार बार-बार प्रक्षेपित करती है।",
+        "en": "Contemplate how divine power repeatedly projects the multitude of beings according to their natural karma.",
+        "be": "চিন্তা করুন কিভাবে ঐশ্বরিক শক্তি তাদের স্বাভাবিক কর্ম অনুযায়ী জীবের সংখ্যাকে বারবার প্রজেক্ট করে।",
+        "ka": "ದೈವಿಕ ಶಕ್ತಿಯು ತಮ್ಮ ಸ್ವಾಭಾವಿಕ ಕರ್ಮದ ಪ್ರಕಾರ ಜೀವಿಗಳ ಬಹುಸಂಖ್ಯೆಯನ್ನು ಹೇಗೆ ಪುನರಾವರ್ತಿತವಾಗಿ ಪ್ರಕ್ಷೇಪಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಆಲೋಚಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "प्रकृतिं",
-            "transliteration": "prakṛtiṃ",
-            "meaning": "prakṛtiṃ"
+            "transliteration": {
+                "hi": "प्रकृतिं",
+                "en": "prakṛtiṃ",
+                "be": "প্রকৃতিং",
+                "ka": "ಪ್ರಕೃತಿಂ"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "prakṛtiṃ",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "स्वामवष्टभ्य",
-            "transliteration": "svāmavaṣṭabhya",
-            "meaning": "svāmavaṣṭabhya"
+            "transliteration": {
+                "hi": "स्वामवष्टभ्य",
+                "en": "svāmavaṣṭabhya",
+                "be": "স্বামবষ্টভ্য",
+                "ka": "ಸ್ವಾಮವಷ್ಟಭ್ಯ"
+            },
+            "meaning": {
+                "hi": "स्वमवस्तुभ्य",
+                "en": "svāmavaṣṭabhya",
+                "be": "svāmavaṣṭavya",
+                "ka": "svāmavashtabhaya"
+            }
         },
         {
             "sanskrit": "विसृजामि",
-            "transliteration": "visṛjāmi",
-            "meaning": "visṛjāmi"
+            "transliteration": {
+                "hi": "विसृजामि",
+                "en": "visṛjāmi",
+                "be": "বিসৃজামি",
+                "ka": "ವಿಸೃಜಾಮಿ"
+            },
+            "meaning": {
+                "hi": "विसृजामि",
+                "en": "visṛjāmi",
+                "be": "visṛjāmi",
+                "ka": "ವಿಷ್ಜಾಮಿ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "punaḥ"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुन:",
+                "en": "punaḥ",
+                "be": "পুনাহ",
+                "ka": "ಪುನಃ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "punaḥ"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुन:",
+                "en": "punaḥ",
+                "be": "পুনাহ",
+                "ka": "ಪುನಃ"
+            }
         },
         {
             "sanskrit": "भूतग्राममिमं",
-            "transliteration": "bhūtagrāmamimaṃ",
-            "meaning": "bhūtagrāmamimaṃ"
+            "transliteration": {
+                "hi": "भूतग्राममिमं",
+                "en": "bhūtagrāmamimaṃ",
+                "be": "ভূতগ্রামমিমং",
+                "ka": "ಭೂತಗ್ರಾಮಮಿಮಂ"
+            },
+            "meaning": {
+                "hi": "भूतग्राममिमम्",
+                "en": "bhūtagrāmamimaṃ",
+                "be": "ভুতগ্রামামিমাম",
+                "ka": "ಭೂತಾಗ್ರಾಮಮಿಮಂ"
+            }
         },
         {
             "sanskrit": "कृत्स्नमवशं",
-            "transliteration": "kṛtsnamavaśaṃ",
-            "meaning": "kṛtsnamavaśaṃ"
+            "transliteration": {
+                "hi": "कृत्स्नमवशं",
+                "en": "kṛtsnamavaśaṃ",
+                "be": "কৃত্স্নমবশং",
+                "ka": "ಕೃತ್ಸ್ನಮವಶಂ"
+            },
+            "meaning": {
+                "hi": "कृत्स्नमवशं",
+                "en": "kṛtsnamavaśaṃ",
+                "be": "কৃতস্নামাবশাম",
+                "ka": "ಕೃತ್ಸ್ನಾಮವಶಂ"
+            }
         },
         {
             "sanskrit": "प्रकृतेर्वशात्",
-            "transliteration": "prakṛtervaśāt",
-            "meaning": "prakṛtervaśāt"
+            "transliteration": {
+                "hi": "प्रकृतेर्वशात्",
+                "en": "prakṛtervaśāt",
+                "be": "প্রকৃতের্বশাত্",
+                "ka": "ಪ್ರಕೃತೇರ್ವಶಾತ್"
+            },
+            "meaning": {
+                "hi": "प्रकृतेर्वशात्",
+                "en": "prakṛtervaśāt",
+                "be": "prakṛtervaśāt",
+                "ka": "ಪ್ರಕೃತೇರ್ವಶಾತ್"
+            }
         }
     ],
     "tej": {

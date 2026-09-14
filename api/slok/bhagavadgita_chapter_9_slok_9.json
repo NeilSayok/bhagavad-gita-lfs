@@ -14,8 +14,18 @@
         "en": "na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya .\nudāsīnavadāsīnamasaktaṃ teṣu karmasu ||9-9||",
         "ka": "ನ ಚ ಮಾಂ ತಾನಿ ಕರ್ಮಾಣಿ ನಿಬಧ್ನನ್ತಿ ಧನಞ್ಜಯ |\nಉದಾಸೀನವದಾಸೀನಮಸಕ್ತಂ ತೇಷು ಕರ್ಮಸು ||೯-೯||"
     },
-    "transliteration": "na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya .\nudāsīnavadāsīnamasaktaṃ teṣu karmasu ||9-9||",
-    "life_application": "Remain unattached and indifferent like the divine presence, untouched by the cosmic work you perform.",
+    "transliteration": {
+        "hi": "न च मां तानि कर्माणि निबध्नन्ति धनञ्जय |\nउदासीनवदासीनमसक्तं तेषु कर्मसु ||९-९||",
+        "en": "na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya .\nudāsīnavadāsīnamasaktaṃ teṣu karmasu ||9-9||",
+        "be": "ন চ মাং তানি কর্মাণি নিবধ্নন্তি ধনঞ্জয |\nউদাসীনবদাসীনমসক্তং তেষু কর্মসু ||৯-৯||",
+        "ka": "ನ ಚ ಮಾಂ ತಾನಿ ಕರ್ಮಾಣಿ ನಿಬಧ್ನನ್ತಿ ಧನಞ್ಜಯ |\nಉದಾಸೀನವದಾಸೀನಮಸಕ್ತಂ ತೇಷು ಕರ್ಮಸು ||೯-೯||"
+    },
+    "life_application": {
+        "hi": "दैवीय उपस्थिति की तरह अनासक्त और उदासीन रहें, आपके द्वारा किए जाने वाले लौकिक कार्य से अछूते रहें।",
+        "en": "Remain unattached and indifferent like the divine presence, untouched by the cosmic work you perform.",
+        "be": "আপনি যে মহাজাগতিক কাজ সম্পাদন করেন তার দ্বারা অস্পৃশ্য, ঐশ্বরিক উপস্থিতির মতো সংযুক্ত এবং উদাসীন থাকুন।",
+        "ka": "ನೀವು ನಿರ್ವಹಿಸುವ ಬ್ರಹ್ಮಾಂಡದ ಕೆಲಸದಿಂದ ಅಸ್ಪೃಶ್ಯವಾಗಿರುವ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯಂತೆ ಲಗತ್ತಿಸದೆ ಮತ್ತು ಉದಾಸೀನರಾಗಿರಿ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "तानि",
-            "transliteration": "tāni",
-            "meaning": "tāni"
+            "transliteration": {
+                "hi": "तानि",
+                "en": "tāni",
+                "be": "তানি",
+                "ka": "ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "तानी",
+                "en": "tāni",
+                "be": "তানি",
+                "ka": "ತಾನಿ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "karmāṇi"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণী",
+                "ka": "ಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "निबध्नन्ति",
-            "transliteration": "nibadhnanti",
-            "meaning": "nibadhnanti"
+            "transliteration": {
+                "hi": "निबध्नन्ति",
+                "en": "nibadhnanti",
+                "be": "নিবধ্নন্তি",
+                "ka": "ನಿಬಧ್ನನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "निबध्नन्ति",
+                "en": "nibadhnanti",
+                "be": "nibadhnanti",
+                "ka": "ನಿಬಧ್ನಂತಿ"
+            }
         },
         {
             "sanskrit": "धनञ्जय",
-            "transliteration": "dhanañjaya",
-            "meaning": "dhanañjaya"
+            "transliteration": {
+                "hi": "धनञ्जय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয",
+                "ka": "ಧನಞ್ಜಯ"
+            },
+            "meaning": {
+                "hi": "धनंजय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয়া",
+                "ka": "ಧನಂಜಯ"
+            }
         },
         {
             "sanskrit": "उदासीनवदासीनमसक्तं",
-            "transliteration": "udāsīnavadāsīnamasaktaṃ",
-            "meaning": "udāsīnavadāsīnamasaktaṃ"
+            "transliteration": {
+                "hi": "उदासीनवदासीनमसक्तं",
+                "en": "udāsīnavadāsīnamasaktaṃ",
+                "be": "উদাসীনবদাসীনমসক্তং",
+                "ka": "ಉದಾಸೀನವದಾಸೀನಮಸಕ್ತಂ"
+            },
+            "meaning": {
+                "hi": "उदासिनवदासिनमसक्तम्",
+                "en": "udāsīnavadāsīnamasaktaṃ",
+                "be": "udāsīnavadāsīnamasaktaṃ",
+                "ka": "ಉದಾಸೀನವದಾಸೀನಮಸಕ್ತಂ"
+            }
         },
         {
             "sanskrit": "तेषु",
-            "transliteration": "teṣu",
-            "meaning": "teṣu"
+            "transliteration": {
+                "hi": "तेषु",
+                "en": "teṣu",
+                "be": "তেষু",
+                "ka": "ತೇಷು"
+            },
+            "meaning": {
+                "hi": "तेशु",
+                "en": "teṣu",
+                "be": "টেসু",
+                "ka": "ತೇಶು"
+            }
         },
         {
             "sanskrit": "कर्मसु",
-            "transliteration": "karmasu",
-            "meaning": "karmasu"
+            "transliteration": {
+                "hi": "कर्मसु",
+                "en": "karmasu",
+                "be": "কর্মসু",
+                "ka": "ಕರ್ಮಸು"
+            },
+            "meaning": {
+                "hi": "कर्मसु",
+                "en": "karmasu",
+                "be": "কর্মসু",
+                "ka": "ಕರ್ಮಸು"
+            }
         }
     ],
     "tej": {

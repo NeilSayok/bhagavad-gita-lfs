@@ -14,8 +14,18 @@
         "en": "avyaktādīni bhūtāni vyaktamadhyāni bhārata .\navyaktanidhanānyeva tatra kā paridevanā ||2-28||",
         "ka": "ಅವ್ಯಕ್ತಾದೀನಿ ಭೂತಾನಿ ವ್ಯಕ್ತಮಧ್ಯಾನಿ ಭಾರತ |\nಅವ್ಯಕ್ತನಿಧನಾನ್ಯೇವ ತತ್ರ ಕಾ ಪರಿದೇವನಾ ||೨-೨೮||"
     },
-    "transliteration": "avyaktādīni bhūtāni vyaktamadhyāni bhārata .\navyaktanidhanānyeva tatra kā paridevanā ||2-28||",
-    "life_application": "Appreciate the temporary nature of worldly forms without clinging to them when their time passes.",
+    "transliteration": {
+        "hi": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत |\nअव्यक्तनिधनान्येव तत्र का परिदेवना ||२-२८||",
+        "en": "avyaktādīni bhūtāni vyaktamadhyāni bhārata .\navyaktanidhanānyeva tatra kā paridevanā ||2-28||",
+        "be": "অব্যক্তাদীনি ভূতানি ব্যক্তমধ্যানি ভারত |\nঅব্যক্তনিধনান্যেব তত্র কা পরিদেবনা ||২-২৮||",
+        "ka": "ಅವ್ಯಕ್ತಾದೀನಿ ಭೂತಾನಿ ವ್ಯಕ್ತಮಧ್ಯಾನಿ ಭಾರತ |\nಅವ್ಯಕ್ತನಿಧನಾನ್ಯೇವ ತತ್ರ ಕಾ ಪರಿದೇವನಾ ||೨-೨೮||"
+    },
+    "life_application": {
+        "hi": "समय बीतने पर सांसारिक रूपों की अस्थायी प्रकृति की सराहना करें, उनसे चिपके बिना।",
+        "en": "Appreciate the temporary nature of worldly forms without clinging to them when their time passes.",
+        "be": "যখন তাদের সময় চলে যায় তখন তাদের আঁকড়ে না রেখে পার্থিব রূপের অস্থায়ী প্রকৃতির প্রশংসা করুন।",
+        "ka": "ಲೌಕಿಕ ರೂಪಗಳ ತಾತ್ಕಾಲಿಕ ಸ್ವರೂಪವನ್ನು ಅವುಗಳ ಸಮಯ ಕಳೆದಾಗ ಅವುಗಳಿಗೆ ಅಂಟಿಕೊಳ್ಳದೆ ಶ್ಲಾಘಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अव्यक्तादीनि",
-            "transliteration": "avyaktādīni",
-            "meaning": "unmanifested in the beginning"
+            "transliteration": {
+                "hi": "अव्यक्तादीनि",
+                "en": "avyaktādīni",
+                "be": "অব্যক্তাদীনি",
+                "ka": "ಅವ್ಯಕ್ತಾದೀನಿ"
+            },
+            "meaning": {
+                "hi": "आरंभ में अव्यक्त",
+                "en": "unmanifested in the beginning",
+                "be": "শুরুতে অপ্রকাশিত",
+                "ka": "ಆರಂಭದಲ್ಲಿ ಪ್ರಕಟವಾಗಲಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "beings"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्राणी",
+                "en": "beings",
+                "be": "প্রাণী",
+                "ka": "ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "व्यक्तमध्यानि",
-            "transliteration": "vyaktamadhyāni",
-            "meaning": "manifested in their middle"
+            "transliteration": {
+                "hi": "व्यक्तमध्यानि",
+                "en": "vyaktamadhyāni",
+                "be": "ব্যক্তমধ্যানি",
+                "ka": "ವ್ಯಕ್ತಮಧ್ಯಾನಿ"
+            },
+            "meaning": {
+                "hi": "उनके मध्य में प्रकट हुआ",
+                "en": "manifested in their middle",
+                "be": "তাদের মাঝখানে উদ্ভাসিত",
+                "ka": "ಅವರ ಮಧ್ಯದಲ್ಲಿ ಪ್ರಕಟವಾಯಿತು"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata",
+                "be": "হে ভরত",
+                "ka": "ಓ ಭರತ"
+            }
         },
         {
             "sanskrit": "अव्यक्तनिधनानि",
-            "transliteration": "avyaktanidhanāni",
-            "meaning": "unmanifested again in the"
+            "transliteration": {
+                "hi": "अव्यक्तनिधनानि",
+                "en": "avyaktanidhanāni",
+                "be": "অব্যক্তনিধনানি",
+                "ka": "ಅವ್ಯಕ್ತನಿಧನಾನಿ"
+            },
+            "meaning": {
+                "hi": "पुनः अव्यक्त में",
+                "en": "unmanifested again in the",
+                "be": "আবার অপ্রকাশিত",
+                "ka": "ರಲ್ಲಿ ಮತ್ತೆ ಅವ್ಯಕ್ತ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "there"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "there",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "का",
-            "transliteration": "kā",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "का",
+                "en": "kā",
+                "be": "কা",
+                "ka": "ಕಾ"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "परिदेवना",
-            "transliteration": "paridevanā",
-            "meaning": "grief."
+            "transliteration": {
+                "hi": "परिदेवना",
+                "en": "paridevanā",
+                "be": "পরিদেবনা",
+                "ka": "ಪರಿದೇವನಾ"
+            },
+            "meaning": {
+                "hi": "दु: ख।",
+                "en": "grief.",
+                "be": "দুঃখ",
+                "ka": "ದುಃಖ."
+            }
         }
     ],
     "tej": {

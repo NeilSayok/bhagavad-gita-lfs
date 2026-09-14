@@ -14,8 +14,18 @@
         "en": "acchedyo.ayamadāhyo.ayamakledyo.aśoṣya eva ca .\nnityaḥ sarvagataḥ sthāṇuracalo.ayaṃ sanātanaḥ ||2-24||",
         "ka": "ಅಚ್ಛೇದ್ಯೋಽಯಮದಾಹ್ಯೋಽಯಮಕ್ಲೇದ್ಯೋಽಶೋಷ್ಯ ಏವ ಚ |\nನಿತ್ಯಃ ಸರ್ವಗತಃ ಸ್ಥಾಣುರಚಲೋಽಯಂ ಸನಾತನಃ ||೨-೨೪||"
     },
-    "transliteration": "acchedyo.ayamadāhyo.ayamakledyo.aśoṣya eva ca .\nnityaḥ sarvagataḥ sthāṇuracalo.ayaṃ sanātanaḥ ||2-24||",
-    "life_application": "Find stability within yourself by tuning into your calm, immovable inner awareness during turbulent moments.",
+    "transliteration": {
+        "hi": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ||२-२४||",
+        "en": "acchedyo.ayamadāhyo.ayamakledyo.aśoṣya eva ca .\nnityaḥ sarvagataḥ sthāṇuracalo.ayaṃ sanātanaḥ ||2-24||",
+        "be": "অচ্ছেদ্যোঽযমদাহ্যোঽযমক্লেদ্যোঽশোষ্য এব চ |\nনিত্যঃ সর্বগতঃ স্থাণুরচলোঽযং সনাতনঃ ||২-২৪||",
+        "ka": "ಅಚ್ಛೇದ್ಯೋಽಯಮದಾಹ್ಯೋಽಯಮಕ್ಲೇದ್ಯೋಽಶೋಷ್ಯ ಏವ ಚ |\nನಿತ್ಯಃ ಸರ್ವಗತಃ ಸ್ಥಾಣುರಚಲೋಽಯಂ ಸನಾತನಃ ||೨-೨೪||"
+    },
+    "life_application": {
+        "hi": "अशांत क्षणों के दौरान अपनी शांत, अचल आंतरिक जागरूकता को ध्यान में रखकर अपने भीतर स्थिरता खोजें।",
+        "en": "Find stability within yourself by tuning into your calm, immovable inner awareness during turbulent moments.",
+        "be": "অশান্ত মুহুর্তগুলিতে আপনার শান্ত, স্থাবর অভ্যন্তরীণ সচেতনতার সাথে সুর মিলিয়ে নিজের মধ্যে স্থিতিশীলতা সন্ধান করুন।",
+        "ka": "ಪ್ರಕ್ಷುಬ್ಧ ಕ್ಷಣಗಳಲ್ಲಿ ನಿಮ್ಮ ಶಾಂತ, ಚಲನರಹಿತ ಆಂತರಿಕ ಜಾಗೃತಿಗೆ ಟ್ಯೂನ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮೊಳಗೆ ಸ್ಥಿರತೆಯನ್ನು ಕಂಡುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Equanimity",
         "Self-Realization"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अच्छेद्यः",
-            "transliteration": "acchedyaḥ",
-            "meaning": "cannot be cut"
+            "transliteration": {
+                "hi": "अच्छेद्यः",
+                "en": "acchedyaḥ",
+                "be": "অচ্ছেদ্যঃ",
+                "ka": "ಅಚ್ಛೇದ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "काटा नहीं जा सकता",
+                "en": "cannot be cut",
+                "be": "কাটা যাবে না",
+                "ka": "ಕತ್ತರಿಸಲಾಗುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अदाह्यः",
-            "transliteration": "adāhyaḥ",
-            "meaning": "cannot be burnt"
+            "transliteration": {
+                "hi": "अदाह्यः",
+                "en": "adāhyaḥ",
+                "be": "অদাহ্যঃ",
+                "ka": "ಅದಾಹ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "जलाया नहीं जा सकता",
+                "en": "cannot be burnt",
+                "be": "পোড়ানো যাবে না",
+                "ka": "ಸುಡಲಾಗುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अक्लेद्यः",
-            "transliteration": "akledyaḥ",
-            "meaning": "cannot be wetted"
+            "transliteration": {
+                "hi": "अक्लेद्यः",
+                "en": "akledyaḥ",
+                "be": "অক্লেদ্যঃ",
+                "ka": "ಅಕ್ಲೇದ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "गीला नहीं किया जा सकता",
+                "en": "cannot be wetted",
+                "be": "ভেজা যাবে না",
+                "ka": "ತೇವಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अशोष्यः",
-            "transliteration": "aśoṣyaḥ",
-            "meaning": "cannot be died"
+            "transliteration": {
+                "hi": "अशोष्यः",
+                "en": "aśoṣyaḥ",
+                "be": "অশোষ্যঃ",
+                "ka": "ಅಶೋಷ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "मर नहीं सकता",
+                "en": "cannot be died",
+                "be": "মারা যাবে না",
+                "ka": "ಸಾಯಲು ಸಾಧ್ಯವಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "नित्यः",
-            "transliteration": "nityaḥ",
-            "meaning": "eternal"
+            "transliteration": {
+                "hi": "नित्यः",
+                "en": "nityaḥ",
+                "be": "নিত্যঃ",
+                "ka": "ನಿತ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "सर्वगतः",
-            "transliteration": "sarvagataḥ",
-            "meaning": "allpervading"
+            "transliteration": {
+                "hi": "सर्वगतः",
+                "en": "sarvagataḥ",
+                "be": "সর্বগতঃ",
+                "ka": "ಸರ್ವಗತಃ"
+            },
+            "meaning": {
+                "hi": "सर्वव्यापी",
+                "en": "allpervading",
+                "be": "সর্বব্যাপী",
+                "ka": "ಎಲ್ಲಾ ವ್ಯಾಪಿಸಿರುವ"
+            }
         },
         {
             "sanskrit": "स्थाणुः",
-            "transliteration": "sthāṇuḥ",
-            "meaning": "stable"
+            "transliteration": {
+                "hi": "स्थाणुः",
+                "en": "sthāṇuḥ",
+                "be": "স্থাণুঃ",
+                "ka": "ಸ್ಥಾಣುಃ"
+            },
+            "meaning": {
+                "hi": "स्थिर",
+                "en": "stable",
+                "be": "স্থিতিশীল",
+                "ka": "ಸ್ಥಿರ"
+            }
         },
         {
             "sanskrit": "अचलः",
-            "transliteration": "acalaḥ",
-            "meaning": "immovable"
+            "transliteration": {
+                "hi": "अचलः",
+                "en": "acalaḥ",
+                "be": "অচলঃ",
+                "ka": "ಅಚಲಃ"
+            },
+            "meaning": {
+                "hi": "अचल",
+                "en": "immovable",
+                "be": "স্থাবর",
+                "ka": "ಅಚಲ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "सनातनः",
-            "transliteration": "sanātanaḥ",
-            "meaning": "ancient."
+            "transliteration": {
+                "hi": "सनातनः",
+                "en": "sanātanaḥ",
+                "be": "সনাতনঃ",
+                "ka": "ಸನಾತನಃ"
+            },
+            "meaning": {
+                "hi": "प्राचीन।",
+                "en": "ancient.",
+                "be": "প্রাচীন",
+                "ka": "ಪ್ರಾಚೀನ."
+            }
         }
     ],
     "tej": {

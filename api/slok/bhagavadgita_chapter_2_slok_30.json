@@ -14,8 +14,18 @@
         "en": "dehī nityamavadhyo.ayaṃ dehe sarvasya bhārata .\ntasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi ||2-30||",
         "ka": "ದೇಹೀ ನಿತ್ಯಮವಧ್ಯೋಽಯಂ ದೇಹೇ ಸರ್ವಸ್ಯ ಭಾರತ |\nತಸ್ಮಾತ್ಸರ್ವಾಣಿ ಭೂತಾನಿ ನ ತ್ವಂ ಶೋಚಿತುಮರ್ಹಸಿ ||೨-೩೦||"
     },
-    "transliteration": "dehī nityamavadhyo.ayaṃ dehe sarvasya bhārata .\ntasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi ||2-30||",
-    "life_application": "Remind yourself that every person possesses an indestructible divine spark, inspiring universal respect and compassion.",
+    "transliteration": {
+        "hi": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत |\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ||२-३०||",
+        "en": "dehī nityamavadhyo.ayaṃ dehe sarvasya bhārata .\ntasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi ||2-30||",
+        "be": "দেহী নিত্যমবধ্যোঽযং দেহে সর্বস্য ভারত |\nতস্মাত্সর্বাণি ভূতানি ন ত্বং শোচিতুমর্হসি ||২-৩০||",
+        "ka": "ದೇಹೀ ನಿತ್ಯಮವಧ್ಯೋಽಯಂ ದೇಹೇ ಸರ್ವಸ್ಯ ಭಾರತ |\nತಸ್ಮಾತ್ಸರ್ವಾಣಿ ಭೂತಾನಿ ನ ತ್ವಂ ಶೋಚಿತುಮರ್ಹಸಿ ||೨-೩೦||"
+    },
+    "life_application": {
+        "hi": "अपने आप को याद दिलाएं कि प्रत्येक व्यक्ति के पास एक अविनाशी दिव्य चिंगारी है, जो सार्वभौमिक सम्मान और करुणा को प्रेरित करती है।",
+        "en": "Remind yourself that every person possesses an indestructible divine spark, inspiring universal respect and compassion.",
+        "be": "নিজেকে মনে করিয়ে দিন যে প্রতিটি ব্যক্তির মধ্যে একটি অবিনশ্বর ঐশ্বরিক স্ফুলিঙ্গ রয়েছে, যা সর্বজনীন সম্মান এবং সমবেদনাকে অনুপ্রাণিত করে।",
+        "ka": "ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯು ಅವಿನಾಶವಾದ ದೈವಿಕ ಕಿಡಿಯನ್ನು ಹೊಂದಿದ್ದಾನೆ, ಸಾರ್ವತ್ರಿಕ ಗೌರವ ಮತ್ತು ಸಹಾನುಭೂತಿಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತಾನೆ ಎಂದು ನೀವೇ ನೆನಪಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Self-Realization",
         "Equanimity"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "देही",
-            "transliteration": "dehī",
-            "meaning": "indweller"
+            "transliteration": {
+                "hi": "देही",
+                "en": "dehī",
+                "be": "দেহী",
+                "ka": "ದೇಹೀ"
+            },
+            "meaning": {
+                "hi": "रहनेवाला",
+                "en": "indweller",
+                "be": "indweller",
+                "ka": "ಒಳವಾಸಿ"
+            }
         },
         {
             "sanskrit": "नित्यम्",
-            "transliteration": "nityam",
-            "meaning": "always"
+            "transliteration": {
+                "hi": "नित्यम्",
+                "en": "nityam",
+                "be": "নিত্যম্",
+                "ka": "ನಿತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "हमेशा",
+                "en": "always",
+                "be": "সবসময়",
+                "ka": "ಯಾವಾಗಲೂ"
+            }
         },
         {
             "sanskrit": "अवध्यः",
-            "transliteration": "avadhyaḥ",
-            "meaning": "indestructible"
+            "transliteration": {
+                "hi": "अवध्यः",
+                "en": "avadhyaḥ",
+                "be": "অবধ্যঃ",
+                "ka": "ಅವಧ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सर्वस्य",
-            "transliteration": "sarvasya",
-            "meaning": "of all"
+            "transliteration": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सबमें से",
+                "en": "of all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata",
+                "be": "হে ভরত",
+                "ka": "ಓ ಭರತ"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "creatures"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "जीव",
+                "en": "creatures",
+                "be": "প্রাণী",
+                "ka": "ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "शोचितुम्",
-            "transliteration": "śocitum",
-            "meaning": "to grieve"
+            "transliteration": {
+                "hi": "शोचितुम्",
+                "en": "śocitum",
+                "be": "শোচিতুম্",
+                "ka": "ಶೋಚಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "शोक करना",
+                "en": "to grieve",
+                "be": "দুঃখ করা",
+                "ka": "ದುಃಖಿಸಲು"
+            }
         },
         {
             "sanskrit": "अर्हसि",
-            "transliteration": "arhasi",
-            "meaning": "shouldst."
+            "transliteration": {
+                "hi": "अर्हसि",
+                "en": "arhasi",
+                "be": "অর্হসি",
+                "ka": "ಅರ್ಹಸಿ"
+            },
+            "meaning": {
+                "hi": "चाहिए.",
+                "en": "shouldst.",
+                "be": "উচিত",
+                "ka": "ಮಾಡಬೇಕು."
+            }
         }
     ],
     "tej": {

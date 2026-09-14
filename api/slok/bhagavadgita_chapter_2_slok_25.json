@@ -14,8 +14,18 @@
         "en": "avyakto.ayamacintyo.ayamavikāryo.ayamucyate .\ntasmādevaṃ viditvainaṃ nānuśocitumarhasi ||2-25||",
         "ka": "ಅವ್ಯಕ್ತೋಽಯಮಚಿನ್ತ್ಯೋಽಯಮವಿಕಾರ್ಯೋಽಯಮುಚ್ಯತೇ |\nತಸ್ಮಾದೇವಂ ವಿದಿತ್ವೈನಂ ನಾನುಶೋಚಿತುಮರ್ಹಸಿ ||೨-೨೫||"
     },
-    "transliteration": "avyakto.ayamacintyo.ayamavikāryo.ayamucyate .\ntasmādevaṃ viditvainaṃ nānuśocitumarhasi ||2-25||",
-    "life_application": "Let go of unnecessary grief by recognizing that your true nature lies far beyond temporary physical appearances.",
+    "transliteration": {
+        "hi": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||२-२५||",
+        "en": "avyakto.ayamacintyo.ayamavikāryo.ayamucyate .\ntasmādevaṃ viditvainaṃ nānuśocitumarhasi ||2-25||",
+        "be": "অব্যক্তোঽযমচিন্ত্যোঽযমবিকার্যোঽযমুচ্যতে |\nতস্মাদেবং বিদিত্বৈনং নানুশোচিতুমর্হসি ||২-২৫||",
+        "ka": "ಅವ್ಯಕ್ತೋಽಯಮಚಿನ್ತ್ಯೋಽಯಮವಿಕಾರ್ಯೋಽಯಮುಚ್ಯತೇ |\nತಸ್ಮಾದೇವಂ ವಿದಿತ್ವೈನಂ ನಾನುಶೋಚಿತುಮರ್ಹಸಿ ||೨-೨೫||"
+    },
+    "life_application": {
+        "hi": "यह पहचानकर अनावश्यक दुःख से छुटकारा पाएं कि आपकी वास्तविक प्रकृति अस्थायी भौतिक दिखावे से कहीं परे है।",
+        "en": "Let go of unnecessary grief by recognizing that your true nature lies far beyond temporary physical appearances.",
+        "be": "আপনার আসল প্রকৃতি অস্থায়ী শারীরিক উপস্থিতির বাইরে রয়েছে তা স্বীকার করে অপ্রয়োজনীয় দুঃখকে ছেড়ে দিন।",
+        "ka": "ನಿಮ್ಮ ನಿಜವಾದ ಸ್ವಭಾವವು ತಾತ್ಕಾಲಿಕ ಭೌತಿಕ ನೋಟಕ್ಕಿಂತ ದೂರವಿದೆ ಎಂದು ಗುರುತಿಸುವ ಮೂಲಕ ಅನಗತ್ಯ ದುಃಖವನ್ನು ಬಿಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Equanimity"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अव्यक्तः",
-            "transliteration": "avyaktaḥ",
-            "meaning": "unmanifested"
+            "transliteration": {
+                "hi": "अव्यक्तः",
+                "en": "avyaktaḥ",
+                "be": "অব্যক্তঃ",
+                "ka": "ಅವ್ಯಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "अव्यक्त",
+                "en": "unmanifested",
+                "be": "অপ্রকাশিত",
+                "ka": "ಅವ್ಯಕ್ತ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अचिन्त्यः",
-            "transliteration": "acintyaḥ",
-            "meaning": "unthinkable"
+            "transliteration": {
+                "hi": "अचिन्त्यः",
+                "en": "acintyaḥ",
+                "be": "অচিন্ত্যঃ",
+                "ka": "ಅಚಿನ್ತ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अकल्पनीय",
+                "en": "unthinkable",
+                "be": "অচিন্তনীয়",
+                "ka": "ಯೋಚಿಸಲಾಗದ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अविकार्यः",
-            "transliteration": "avikāryaḥ",
-            "meaning": "unchangeable"
+            "transliteration": {
+                "hi": "अविकार्यः",
+                "en": "avikāryaḥ",
+                "be": "অবিকার্যঃ",
+                "ka": "ಅವಿಕಾರ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अपरिवर्तनीय",
+                "en": "unchangeable",
+                "be": "অপরিবর্তনীয়",
+                "ka": "ಬದಲಾಯಿಸಲಾಗದ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is said"
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is said",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "विदित्वा",
-            "transliteration": "viditvā",
-            "meaning": "having known"
+            "transliteration": {
+                "hi": "विदित्वा",
+                "en": "viditvā",
+                "be": "বিদিত্বা",
+                "ka": "ವಿದಿತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात होना",
+                "en": "having known",
+                "be": "জানা থাকা",
+                "ka": "ತಿಳಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अनुशोचितुम्",
-            "transliteration": "anuśocitum",
-            "meaning": "to grieve"
+            "transliteration": {
+                "hi": "अनुशोचितुम्",
+                "en": "anuśocitum",
+                "be": "অনুশোচিতুম্",
+                "ka": "ಅನುಶೋಚಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "शोक करना",
+                "en": "to grieve",
+                "be": "দুঃখ করা",
+                "ka": "ದುಃಖಿಸಲು"
+            }
         },
         {
             "sanskrit": "अर्हसि",
-            "transliteration": "arhasi",
-            "meaning": "oughtest."
+            "transliteration": {
+                "hi": "अर्हसि",
+                "en": "arhasi",
+                "be": "অর্হসি",
+                "ka": "ಅರ್ಹಸಿ"
+            },
+            "meaning": {
+                "hi": "चाहिए।",
+                "en": "oughtest.",
+                "be": "oughtest",
+                "ka": "ಮಾಡಬೇಕು."
+            }
         }
     ],
     "tej": {

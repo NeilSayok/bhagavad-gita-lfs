@@ -14,8 +14,18 @@
         "en": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate .\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa ||2-3||",
         "ka": "ಕ್ಲೈಬ್ಯಂ ಮಾ ಸ್ಮ ಗಮಃ ಪಾರ್ಥ ನೈತತ್ತ್ವಯ್ಯುಪಪದ್ಯತೇ |\nಕ್ಷುದ್ರಂ ಹೃದಯದೌರ್ಬಲ್ಯಂ ತ್ಯಕ್ತ್ವೋತ್ತಿಷ್ಠ ಪರನ್ತಪ ||೨-೩||"
     },
-    "transliteration": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate .\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa ||2-3||",
-    "life_application": "Shake off emotional weakness when faced with difficult decisions today, and stand firm to fulfill your responsibilities.",
+    "transliteration": {
+        "hi": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते |\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||",
+        "en": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate .\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa ||2-3||",
+        "be": "ক্লৈব্যং মা স্ম গমঃ পার্থ নৈতত্ত্বয্যুপপদ্যতে |\nক্ষুদ্রং হৃদযদৌর্বল্যং ত্যক্ত্বোত্তিষ্ঠ পরন্তপ ||২-৩||",
+        "ka": "ಕ್ಲೈಬ್ಯಂ ಮಾ ಸ್ಮ ಗಮಃ ಪಾರ್ಥ ನೈತತ್ತ್ವಯ್ಯುಪಪದ್ಯತೇ |\nಕ್ಷುದ್ರಂ ಹೃದಯದೌರ್ಬಲ್ಯಂ ತ್ಯಕ್ತ್ವೋತ್ತಿಷ್ಠ ಪರನ್ತಪ ||೨-೩||"
+    },
+    "life_application": {
+        "hi": "आज कठिन निर्णयों का सामना होने पर भावनात्मक कमजोरी को दूर करें और अपनी जिम्मेदारियों को पूरा करने के लिए दृढ़ रहें।",
+        "en": "Shake off emotional weakness when faced with difficult decisions today, and stand firm to fulfill your responsibilities.",
+        "be": "আজ কঠিন সিদ্ধান্তের মুখোমুখি হলে মানসিক দুর্বলতা ঝেড়ে ফেলুন এবং আপনার দায়িত্ব পালনে দৃঢ় থাকুন।",
+        "ka": "ಇಂದು ಕಠಿಣ ನಿರ್ಧಾರಗಳನ್ನು ಎದುರಿಸುವಾಗ ಭಾವನಾತ್ಮಕ ದೌರ್ಬಲ್ಯವನ್ನು ಅಲ್ಲಾಡಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಜವಾಬ್ದಾರಿಗಳನ್ನು ಪೂರೈಸಲು ದೃಢವಾಗಿ ನಿಲ್ಲಿರಿ."
+    },
     "themes": [
         "Duty",
         "Mind",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "क्लैब्यम्",
-            "transliteration": "klaibyam",
-            "meaning": "impotence"
+            "transliteration": {
+                "hi": "क्लैब्यम्",
+                "en": "klaibyam",
+                "be": "ক্লৈব্যম্",
+                "ka": "ಕ್ಲೈಬ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "नपुंसकता",
+                "en": "impotence",
+                "be": "পুরুষত্বহীনতা",
+                "ka": "ಶಕ್ತಿಹೀನತೆ"
+            }
         },
         {
             "sanskrit": "मा स्म",
-            "transliteration": "mā sma",
-            "meaning": "गमः do not get"
+            "transliteration": {
+                "hi": "मा स्म",
+                "en": "mā sma",
+                "be": "মা স্ম",
+                "ka": "ಮಾ ಸ್ಮ"
+            },
+            "meaning": {
+                "hi": "गमः नहीं मिलता",
+                "en": "गमः do not get",
+                "be": "गमঃ পাই না",
+                "ka": "ಗಮಃ ಸಿಗುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "त्वयि",
-            "transliteration": "tvayi",
-            "meaning": "in thee"
+            "transliteration": {
+                "hi": "त्वयि",
+                "en": "tvayi",
+                "be": "ত্বযি",
+                "ka": "ತ್ವಯಿ"
+            },
+            "meaning": {
+                "hi": "तुममें",
+                "en": "in thee",
+                "be": "তোমার মধ্যে",
+                "ka": "ನಿನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "उपपद्यते",
-            "transliteration": "upapadyate",
-            "meaning": "is fitting"
+            "transliteration": {
+                "hi": "उपपद्यते",
+                "en": "upapadyate",
+                "be": "উপপদ্যতে",
+                "ka": "ಉಪಪದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "उपयुक्त है",
+                "en": "is fitting",
+                "be": "মানানসই হয়",
+                "ka": "ಸರಿಹೊಂದುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "क्षुद्रम्",
-            "transliteration": "kṣudram",
-            "meaning": "mean"
+            "transliteration": {
+                "hi": "क्षुद्रम्",
+                "en": "kṣudram",
+                "be": "ক্ষুদ্রম্",
+                "ka": "ಕ್ಷುದ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "मतलब",
+                "en": "mean",
+                "be": "মানে",
+                "ka": "ಅರ್ಥ"
+            }
         },
         {
             "sanskrit": "हृदयदौर्बल्यम्",
-            "transliteration": "hṛdayadaurbalyam",
-            "meaning": "weakness of the heart"
+            "transliteration": {
+                "hi": "हृदयदौर्बल्यम्",
+                "en": "hṛdayadaurbalyam",
+                "be": "হৃদযদৌর্বল্যম্",
+                "ka": "ಹೃದಯದೌರ್ಬಲ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "हृदय की कमजोरी",
+                "en": "weakness of the heart",
+                "be": "হৃদয়ের দুর্বলতা",
+                "ka": "ಹೃದಯದ ದೌರ್ಬಲ್ಯ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "उत्तिष्ठ",
-            "transliteration": "uttiṣṭha",
-            "meaning": "stand up"
+            "transliteration": {
+                "hi": "उत्तिष्ठ",
+                "en": "uttiṣṭha",
+                "be": "উত্তিষ্ঠ",
+                "ka": "ಉತ್ತಿಷ್ಠ"
+            },
+            "meaning": {
+                "hi": "खड़े हो जाओ",
+                "en": "stand up",
+                "be": "দাঁড়ানো",
+                "ka": "ಎದ್ದುನಿಂತು"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "O scorcher of the"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "हे झुलसाने वाले",
+                "en": "O scorcher of the",
+                "be": "O scorcher of the",
+                "ka": "ಓ ಸುಡುಗಾಡು"
+            }
         }
     ],
     "tej": {

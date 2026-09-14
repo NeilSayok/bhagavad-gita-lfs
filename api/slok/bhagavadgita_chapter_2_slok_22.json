@@ -14,8 +14,18 @@
         "en": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro.aparāṇi .\ntathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī ||2-22||",
         "ka": "ವಾಸಾಂಸಿ ಜೀರ್ಣಾನಿ ಯಥಾ ವಿಹಾಯ\nನವಾನಿ ಗೃಹ್ಣಾತಿ ನರೋಽಪರಾಣಿ |\nತಥಾ ಶರೀರಾಣಿ ವಿಹಾಯ ಜೀರ್ಣಾ-\nನ್ಯನ್ಯಾನಿ ಸಂಯಾತಿ ನವಾನಿ ದೇಹೀ ||೨-೨೨||"
     },
-    "transliteration": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro.aparāṇi .\ntathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī ||2-22||",
-    "life_application": "View life changes and physical decline as shedding worn-out garments, greeting new beginnings with calm trust.",
+    "transliteration": {
+        "hi": "वासांसि जीर्णानि यथा विहाय\nनवानि गृह्णाति नरोऽपराणि |\nतथा शरीराणि विहाय जीर्णा-\nन्यन्यानि संयाति नवानि देही ||२-२२||",
+        "en": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro.aparāṇi .\ntathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī ||2-22||",
+        "be": "বাসাংসি জীর্ণানি যথা বিহায\nনবানি গৃহ্ণাতি নরোঽপরাণি |\nতথা শরীরাণি বিহায জীর্ণা-\nন্যন্যানি সংযাতি নবানি দেহী ||২-২২||",
+        "ka": "ವಾಸಾಂಸಿ ಜೀರ್ಣಾನಿ ಯಥಾ ವಿಹಾಯ\nನವಾನಿ ಗೃಹ್ಣಾತಿ ನರೋಽಪರಾಣಿ |\nತಥಾ ಶರೀರಾಣಿ ವಿಹಾಯ ಜೀರ್ಣಾ-\nನ್ಯನ್ಯಾನಿ ಸಂಯಾತಿ ನವಾನಿ ದೇಹೀ ||೨-೨೨||"
+    },
+    "life_application": {
+        "hi": "जीवन में बदलाव और शारीरिक गिरावट को घिसे-पिटे कपड़ों को त्यागने, शांत विश्वास के साथ नई शुरुआत का स्वागत करने के रूप में देखें।",
+        "en": "View life changes and physical decline as shedding worn-out garments, greeting new beginnings with calm trust.",
+        "be": "জীবনের পরিবর্তন এবং শারীরিক অবনতিকে জীর্ণ-শীর্ণ জামাকাপড় খুলে ফেলার মতো দেখুন, শান্ত বিশ্বাসের সাথে নতুন সূচনাকে শুভেচ্ছা জানান।",
+        "ka": "ಜೀವನದ ಬದಲಾವಣೆಗಳು ಮತ್ತು ದೈಹಿಕ ಅವನತಿಯನ್ನು ಹಳಸಿದ ಬಟ್ಟೆಗಳನ್ನು ಚೆಲ್ಲುವಂತೆ ವೀಕ್ಷಿಸಿ, ಶಾಂತ ನಂಬಿಕೆಯೊಂದಿಗೆ ಹೊಸ ಆರಂಭವನ್ನು ಸ್ವಾಗತಿಸಿ."
+    },
     "themes": [
         "Death",
         "Detachment"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "वासांसि",
-            "transliteration": "vāsāṃsi",
-            "meaning": "clothes"
+            "transliteration": {
+                "hi": "वासांसि",
+                "en": "vāsāṃsi",
+                "be": "বাসাংসি",
+                "ka": "ವಾಸಾಂಸಿ"
+            },
+            "meaning": {
+                "hi": "कपड़े",
+                "en": "clothes",
+                "be": "জামাকাপড়",
+                "ka": "ಬಟ್ಟೆ"
+            }
         },
         {
             "sanskrit": "जीर्णानि",
-            "transliteration": "jīrṇāni",
-            "meaning": "worn out"
+            "transliteration": {
+                "hi": "जीर्णानि",
+                "en": "jīrṇāni",
+                "be": "জীর্ণানি",
+                "ka": "ಜೀರ್ಣಾನಿ"
+            },
+            "meaning": {
+                "hi": "घिसा हुआ",
+                "en": "worn out",
+                "be": "জীর্ণ",
+                "ka": "ಸವೆದಿದೆ"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "विहाय",
-            "transliteration": "vihāya",
-            "meaning": "having cast away"
+            "transliteration": {
+                "hi": "विहाय",
+                "en": "vihāya",
+                "be": "বিহায",
+                "ka": "ವಿಹಾಯ"
+            },
+            "meaning": {
+                "hi": "दूर फेंक दिया जा रहा है",
+                "en": "having cast away",
+                "be": "দূরে নিক্ষেপ করা",
+                "ka": "ಎಸೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "नवानि",
-            "transliteration": "navāni",
-            "meaning": "new"
+            "transliteration": {
+                "hi": "नवानि",
+                "en": "navāni",
+                "be": "নবানি",
+                "ka": "ನವಾನಿ"
+            },
+            "meaning": {
+                "hi": "नया",
+                "en": "new",
+                "be": "নতুন",
+                "ka": "ಹೊಸ"
+            }
         },
         {
             "sanskrit": "गृह्णाति",
-            "transliteration": "gṛhṇāti",
-            "meaning": "takes"
+            "transliteration": {
+                "hi": "गृह्णाति",
+                "en": "gṛhṇāti",
+                "be": "গৃহ্ণাতি",
+                "ka": "ಗೃಹ್ಣಾತಿ"
+            },
+            "meaning": {
+                "hi": "लेता है",
+                "en": "takes",
+                "be": "লাগে",
+                "ka": "ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "नरः",
-            "transliteration": "naraḥ",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "नरः",
+                "en": "naraḥ",
+                "be": "নরঃ",
+                "ka": "ನರಃ"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "अपराणि",
-            "transliteration": "aparāṇi",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अपराणि",
+                "en": "aparāṇi",
+                "be": "অপরাণি",
+                "ka": "ಅಪರಾಣಿ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "शरीराणि",
-            "transliteration": "śarīrāṇi",
-            "meaning": "bodies"
+            "transliteration": {
+                "hi": "शरीराणि",
+                "en": "śarīrāṇi",
+                "be": "শরীরাণি",
+                "ka": "ಶರೀರಾಣಿ"
+            },
+            "meaning": {
+                "hi": "शव",
+                "en": "bodies",
+                "be": "মৃতদেহ",
+                "ka": "ದೇಹಗಳು"
+            }
         },
         {
             "sanskrit": "विहाय",
-            "transliteration": "vihāya",
-            "meaning": "having cast away"
+            "transliteration": {
+                "hi": "विहाय",
+                "en": "vihāya",
+                "be": "বিহায",
+                "ka": "ವಿಹಾಯ"
+            },
+            "meaning": {
+                "hi": "दूर फेंक दिया जा रहा है",
+                "en": "having cast away",
+                "be": "দূরে নিক্ষেপ করা",
+                "ka": "ಎಸೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "जीर्णानि",
-            "transliteration": "jīrṇāni",
-            "meaning": "wornout"
+            "transliteration": {
+                "hi": "जीर्णानि",
+                "en": "jīrṇāni",
+                "be": "জীর্ণানি",
+                "ka": "ಜೀರ್ಣಾನಿ"
+            },
+            "meaning": {
+                "hi": "घिसा हुआ",
+                "en": "wornout",
+                "be": "জীর্ণ",
+                "ka": "ಸುಸ್ತಾದ"
+            }
         },
         {
             "sanskrit": "अन्यानि",
-            "transliteration": "anyāni",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अन्यानि",
+                "en": "anyāni",
+                "be": "অন্যানি",
+                "ka": "ಅನ್ಯಾನಿ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "संयाति",
-            "transliteration": "saṃyāti",
-            "meaning": "enters"
+            "transliteration": {
+                "hi": "संयाति",
+                "en": "saṃyāti",
+                "be": "সংযাতি",
+                "ka": "ಸಂಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "प्रवेश करता है",
+                "en": "enters",
+                "be": "প্রবেশ করে",
+                "ka": "ಪ್ರವೇಶಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "नवानि",
-            "transliteration": "navāni",
-            "meaning": "new"
+            "transliteration": {
+                "hi": "नवानि",
+                "en": "navāni",
+                "be": "নবানি",
+                "ka": "ನವಾನಿ"
+            },
+            "meaning": {
+                "hi": "नया",
+                "en": "new",
+                "be": "নতুন",
+                "ka": "ಹೊಸ"
+            }
         },
         {
             "sanskrit": "देही",
-            "transliteration": "dehī",
-            "meaning": "the embodied ."
+            "transliteration": {
+                "hi": "देही",
+                "en": "dehī",
+                "be": "দেহী",
+                "ka": "ದೇಹೀ"
+            },
+            "meaning": {
+                "hi": "सन्निहित .",
+                "en": "the embodied .",
+                "be": "মূর্ত",
+                "ka": "ಮೂರ್ತರೂಪವಾದ ."
+            }
         }
     ],
     "tej": {

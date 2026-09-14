@@ -14,8 +14,18 @@
         "en": "jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca .\ntasmādaparihārye.arthe na tvaṃ śocitumarhasi ||2-27||",
         "ka": "ಜಾತಸ್ಯ ಹಿ ಧ್ರುವೋ ಮೃತ್ಯುರ್ಧ್ರುವಂ ಜನ್ಮ ಮೃತಸ್ಯ ಚ |\nತಸ್ಮಾದಪರಿಹಾರ್ಯೇಽರ್ಥೇ ನ ತ್ವಂ ಶೋಚಿತುಮರ್ಹಸಿ ||೨-೨೭||"
     },
-    "transliteration": "jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca .\ntasmādaparihārye.arthe na tvaṃ śocitumarhasi ||2-27||",
-    "life_application": "Stop wasting energy railing against unavoidable life events, focusing instead on how you respond to them.",
+    "transliteration": {
+        "hi": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||२-२७||",
+        "en": "jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca .\ntasmādaparihārye.arthe na tvaṃ śocitumarhasi ||2-27||",
+        "be": "জাতস্য হি ধ্রুবো মৃত্যুর্ধ্রুবং জন্ম মৃতস্য চ |\nতস্মাদপরিহার্যেঽর্থে ন ত্বং শোচিতুমর্হসি ||২-২৭||",
+        "ka": "ಜಾತಸ್ಯ ಹಿ ಧ್ರುವೋ ಮೃತ್ಯುರ್ಧ್ರುವಂ ಜನ್ಮ ಮೃತಸ್ಯ ಚ |\nತಸ್ಮಾದಪರಿಹಾರ್ಯೇಽರ್ಥೇ ನ ತ್ವಂ ಶೋಚಿತುಮರ್ಹಸಿ ||೨-೨೭||"
+    },
+    "life_application": {
+        "hi": "जीवन की अपरिहार्य घटनाओं के प्रति अपनी ऊर्जा बर्बाद करना बंद करें, इसके बजाय इस बात पर ध्यान केंद्रित करें कि आप उन पर कैसे प्रतिक्रिया देते हैं।",
+        "en": "Stop wasting energy railing against unavoidable life events, focusing instead on how you respond to them.",
+        "be": "অনিবার্য জীবনের ইভেন্টগুলির বিরুদ্ধে শক্তি রেলিং নষ্ট করা বন্ধ করুন, পরিবর্তে আপনি কীভাবে তাদের প্রতিক্রিয়া জানাচ্ছেন তার উপর ফোকাস করুন।",
+        "ka": "ಅನಿವಾರ್ಯ ಜೀವನದ ಘಟನೆಗಳ ವಿರುದ್ಧ ಶಕ್ತಿಯ ರೇಲಿಂಗ್ ಅನ್ನು ವ್ಯರ್ಥ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿ, ಬದಲಿಗೆ ನೀವು ಅವುಗಳಿಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತೀರಿ ಎಂಬುದರ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿ."
+    },
     "themes": [
         "Death",
         "Equanimity"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "जातस्य",
-            "transliteration": "jātasya",
-            "meaning": "of the born"
+            "transliteration": {
+                "hi": "जातस्य",
+                "en": "jātasya",
+                "be": "জাতস্য",
+                "ka": "ಜಾತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "जन्मे का",
+                "en": "of the born",
+                "be": "জন্মের",
+                "ka": "ಹುಟ್ಟಿದವರ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "for"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for",
+                "be": "জন্য",
+                "ka": "ಫಾರ್"
+            }
         },
         {
             "sanskrit": "ध्रुवः",
-            "transliteration": "dhruvaḥ",
-            "meaning": "certain"
+            "transliteration": {
+                "hi": "ध्रुवः",
+                "en": "dhruvaḥ",
+                "be": "ধ্রুবঃ",
+                "ka": "ಧ್ರುವಃ"
+            },
+            "meaning": {
+                "hi": "निश्चित",
+                "en": "certain",
+                "be": "নিশ্চিত",
+                "ka": "ನಿಶ್ಚಿತ"
+            }
         },
         {
             "sanskrit": "मृत्युः",
-            "transliteration": "mṛtyuḥ",
-            "meaning": "death"
+            "transliteration": {
+                "hi": "मृत्युः",
+                "en": "mṛtyuḥ",
+                "be": "মৃত্যুঃ",
+                "ka": "ಮೃತ್ಯುಃ"
+            },
+            "meaning": {
+                "hi": "मौत",
+                "en": "death",
+                "be": "মৃত্যু",
+                "ka": "ಸಾವು"
+            }
         },
         {
             "sanskrit": "ध्रुवम्",
-            "transliteration": "dhruvam",
-            "meaning": "certain"
+            "transliteration": {
+                "hi": "ध्रुवम्",
+                "en": "dhruvam",
+                "be": "ধ্রুবম্",
+                "ka": "ಧ್ರುವಮ್"
+            },
+            "meaning": {
+                "hi": "निश्चित",
+                "en": "certain",
+                "be": "নিশ্চিত",
+                "ka": "ನಿಶ್ಚಿತ"
+            }
         },
         {
             "sanskrit": "जन्म",
-            "transliteration": "janma",
-            "meaning": "birth"
+            "transliteration": {
+                "hi": "जन्म",
+                "en": "janma",
+                "be": "জন্ম",
+                "ka": "ಜನ್ಮ"
+            },
+            "meaning": {
+                "hi": "जन्म",
+                "en": "birth",
+                "be": "জন্ম",
+                "ka": "ಜನನ"
+            }
         },
         {
             "sanskrit": "मृतस्य",
-            "transliteration": "mṛtasya",
-            "meaning": "of the dead"
+            "transliteration": {
+                "hi": "मृतस्य",
+                "en": "mṛtasya",
+                "be": "মৃতস্য",
+                "ka": "ಮೃತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "मृतकों में से",
+                "en": "of the dead",
+                "be": "মৃতদের",
+                "ka": "ಸತ್ತವರ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "अपरिहार्ये",
-            "transliteration": "aparihārye",
-            "meaning": "inevritable"
+            "transliteration": {
+                "hi": "अपरिहार्ये",
+                "en": "aparihārye",
+                "be": "অপরিহার্যে",
+                "ka": "ಅಪರಿಹಾರ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "अपरिवर्तनीय",
+                "en": "inevritable",
+                "be": "অনিবার্য",
+                "ka": "ಅನಿವಾರ್ಯ"
+            }
         },
         {
             "sanskrit": "अर्थे",
-            "transliteration": "arthe",
-            "meaning": "in matter"
+            "transliteration": {
+                "hi": "अर्थे",
+                "en": "arthe",
+                "be": "অর্থে",
+                "ka": "ಅರ್ಥೇ"
+            },
+            "meaning": {
+                "hi": "मामले में",
+                "en": "in matter",
+                "be": "বিষয়ে",
+                "ka": "ವಿಷಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "शोचितुम्",
-            "transliteration": "śocitum",
-            "meaning": "to grieve"
+            "transliteration": {
+                "hi": "शोचितुम्",
+                "en": "śocitum",
+                "be": "শোচিতুম্",
+                "ka": "ಶೋಚಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "शोक करना",
+                "en": "to grieve",
+                "be": "দুঃখ করা",
+                "ka": "ದುಃಖಿಸಲು"
+            }
         },
         {
             "sanskrit": "अर्हसि",
-            "transliteration": "arhasi",
-            "meaning": "oughtest."
+            "transliteration": {
+                "hi": "अर्हसि",
+                "en": "arhasi",
+                "be": "অর্হসি",
+                "ka": "ಅರ್ಹಸಿ"
+            },
+            "meaning": {
+                "hi": "चाहिए।",
+                "en": "oughtest.",
+                "be": "oughtest",
+                "ka": "ಮಾಡಬೇಕು."
+            }
         }
     ],
     "tej": {

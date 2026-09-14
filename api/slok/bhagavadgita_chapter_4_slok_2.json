@@ -14,8 +14,18 @@
         "en": "evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ .\nsa kāleneha mahatā yogo naṣṭaḥ parantapa ||4-2||",
         "ka": "ಏವಂ ಪರಮ್ಪರಾಪ್ರಾಪ್ತಮಿಮಂ ರಾಜರ್ಷಯೋ ವಿದುಃ |\nಸ ಕಾಲೇನೇಹ ಮಹತಾ ಯೋಗೋ ನಷ್ಟಃ ಪರನ್ತಪ ||೪-೨||"
     },
-    "transliteration": "evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ .\nsa kāleneha mahatā yogo naṣṭaḥ parantapa ||4-2||",
-    "life_application": "Preserve essential values and spiritual insights in your community before neglect causes them to fade away.",
+    "transliteration": {
+        "hi": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः |\nस कालेनेह महता योगो नष्टः परन्तप ||४-२||",
+        "en": "evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ .\nsa kāleneha mahatā yogo naṣṭaḥ parantapa ||4-2||",
+        "be": "এবং পরম্পরাপ্রাপ্তমিমং রাজর্ষযো বিদুঃ |\nস কালেনেহ মহতা যোগো নষ্টঃ পরন্তপ ||৪-২||",
+        "ka": "ಏವಂ ಪರಮ್ಪರಾಪ್ರಾಪ್ತಮಿಮಂ ರಾಜರ್ಷಯೋ ವಿದುಃ |\nಸ ಕಾಲೇನೇಹ ಮಹತಾ ಯೋಗೋ ನಷ್ಟಃ ಪರನ್ತಪ ||೪-೨||"
+    },
+    "life_application": {
+        "hi": "इससे पहले कि उपेक्षा के कारण वे लुप्त हो जाएँ, अपने समुदाय में आवश्यक मूल्यों और आध्यात्मिक अंतर्दृष्टि को सुरक्षित रखें।",
+        "en": "Preserve essential values and spiritual insights in your community before neglect causes them to fade away.",
+        "be": "অবহেলার কারণে তাদের বিবর্ণ হওয়ার আগে আপনার সম্প্রদায়ে প্রয়োজনীয় মূল্যবোধ এবং আধ্যাত্মিক অন্তর্দৃষ্টি সংরক্ষণ করুন।",
+        "ka": "ನಿರ್ಲಕ್ಷ್ಯವು ಮರೆಯಾಗುವ ಮೊದಲು ನಿಮ್ಮ ಸಮುದಾಯದಲ್ಲಿ ಅಗತ್ಯ ಮೌಲ್ಯಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟಗಳನ್ನು ಸಂರಕ್ಷಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "एवं",
-            "transliteration": "evaṃ",
-            "meaning": "evaṃ"
+            "transliteration": {
+                "hi": "एवं",
+                "en": "evaṃ",
+                "be": "এবং",
+                "ka": "ಏವಂ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "evaṃ",
+                "be": "ইভান",
+                "ka": "evaṃ"
+            }
         },
         {
             "sanskrit": "परम्पराप्राप्तमिमं",
-            "transliteration": "paramparāprāptamimaṃ",
-            "meaning": "paramparāprāptamimaṃ"
+            "transliteration": {
+                "hi": "परम्पराप्राप्तमिमं",
+                "en": "paramparāprāptamimaṃ",
+                "be": "পরম্পরাপ্রাপ্তমিমং",
+                "ka": "ಪರಮ್ಪರಾಪ್ರಾಪ್ತಮಿಮಂ"
+            },
+            "meaning": {
+                "hi": "परम्पराप्राप्तिमम्",
+                "en": "paramparāprāptamimaṃ",
+                "be": "পরমপ্রাপ্তমিমাং",
+                "ka": "ಪರಂಪರಾಪ್ರಾಪ್ತಮಿಮಂ"
+            }
         },
         {
             "sanskrit": "राजर्षयो",
-            "transliteration": "rājarṣayo",
-            "meaning": "rājarṣayo"
+            "transliteration": {
+                "hi": "राजर्षयो",
+                "en": "rājarṣayo",
+                "be": "রাজর্ষযো",
+                "ka": "ರಾಜರ್ಷಯೋ"
+            },
+            "meaning": {
+                "hi": "राजर्षयो",
+                "en": "rājarṣayo",
+                "be": "রাজর্ষয়ো",
+                "ka": "ರಾಜರ್ಷಯೋ"
+            }
         },
         {
             "sanskrit": "विदुः",
-            "transliteration": "viduḥ",
-            "meaning": "viduḥ"
+            "transliteration": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            },
+            "meaning": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "कालेनेह",
-            "transliteration": "kāleneha",
-            "meaning": "kāleneha"
+            "transliteration": {
+                "hi": "कालेनेह",
+                "en": "kāleneha",
+                "be": "কালেনেহ",
+                "ka": "ಕಾಲೇನೇಹ"
+            },
+            "meaning": {
+                "hi": "कालेनेहा",
+                "en": "kāleneha",
+                "be": "কালনেহা",
+                "ka": "ಕಲೆನೇಹ"
+            }
         },
         {
             "sanskrit": "महता",
-            "transliteration": "mahatā",
-            "meaning": "mahatā"
+            "transliteration": {
+                "hi": "महता",
+                "en": "mahatā",
+                "be": "মহতা",
+                "ka": "ಮಹತಾ"
+            },
+            "meaning": {
+                "hi": "महता",
+                "en": "mahatā",
+                "be": "মহাতা",
+                "ka": "ಮಹತಾ"
+            }
         },
         {
             "sanskrit": "योगो",
-            "transliteration": "yogo",
-            "meaning": "yogo"
+            "transliteration": {
+                "hi": "योगो",
+                "en": "yogo",
+                "be": "যোগো",
+                "ka": "ಯೋಗೋ"
+            },
+            "meaning": {
+                "hi": "योगो",
+                "en": "yogo",
+                "be": "যোগো",
+                "ka": "ಯೋಗ"
+            }
         },
         {
             "sanskrit": "नष्टः",
-            "transliteration": "naṣṭaḥ",
-            "meaning": "naṣṭaḥ"
+            "transliteration": {
+                "hi": "नष्टः",
+                "en": "naṣṭaḥ",
+                "be": "নষ্টঃ",
+                "ka": "ನಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "नष्टः",
+                "en": "naṣṭaḥ",
+                "be": "নাষ্টঃ",
+                "ka": "ನಷ್ಠಃ"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "parantapa"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "परंतपा",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರಂತಪ"
+            }
         }
     ],
     "tej": {

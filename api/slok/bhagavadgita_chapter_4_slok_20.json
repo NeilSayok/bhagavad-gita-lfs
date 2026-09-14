@@ -14,8 +14,18 @@
         "en": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ .\nkarmaṇyabhipravṛtto.api naiva kiñcitkaroti saḥ ||4-20||",
         "ka": "ತ್ಯಕ್ತ್ವಾ ಕರ್ಮಫಲಾಸಙ್ಗಂ ನಿತ್ಯತೃಪ್ತೋ ನಿರಾಶ್ರಯಃ |\nಕರ್ಮಣ್ಯಭಿಪ್ರವೃತ್ತೋಽಪಿ ನೈವ ಕಿಞ್ಚಿತ್ಕರೋತಿ ಸಃ ||೪-೨೦||"
     },
-    "transliteration": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ .\nkarmaṇyabhipravṛtto.api naiva kiñcitkaroti saḥ ||4-20||",
-    "life_application": "Cultivate inner independence, feeling complete within yourself regardless of how your daily work turns out.",
+    "transliteration": {
+        "hi": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः |\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ||४-२०||",
+        "en": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ .\nkarmaṇyabhipravṛtto.api naiva kiñcitkaroti saḥ ||4-20||",
+        "be": "ত্যক্ত্বা কর্মফলাসঙ্গং নিত্যতৃপ্তো নিরাশ্রযঃ |\nকর্মণ্যভিপ্রবৃত্তোঽপি নৈব কিঞ্চিত্করোতি সঃ ||৪-২০||",
+        "ka": "ತ್ಯಕ್ತ್ವಾ ಕರ್ಮಫಲಾಸಙ್ಗಂ ನಿತ್ಯತೃಪ್ತೋ ನಿರಾಶ್ರಯಃ |\nಕರ್ಮಣ್ಯಭಿಪ್ರವೃತ್ತೋಽಪಿ ನೈವ ಕಿಞ್ಚಿತ್ಕರೋತಿ ಸಃ ||೪-೨೦||"
+    },
+    "life_application": {
+        "hi": "आंतरिक स्वतंत्रता का विकास करें, चाहे आपका दैनिक कार्य कैसा भी हो, अपने भीतर पूर्णता महसूस करें।",
+        "en": "Cultivate inner independence, feeling complete within yourself regardless of how your daily work turns out.",
+        "be": "অভ্যন্তরীণ স্বাধীনতা গড়ে তুলুন, আপনার প্রতিদিনের কাজ যেভাবেই হোক না কেন নিজের মধ্যে সম্পূর্ণ অনুভব করুন।",
+        "ka": "ಆಂತರಿಕ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ, ನಿಮ್ಮ ದೈನಂದಿನ ಕೆಲಸವು ಹೇಗೆ ಹೊರಹೊಮ್ಮುತ್ತದೆ ಎಂಬುದನ್ನು ಲೆಕ್ಕಿಸದೆಯೇ ನಿಮ್ಮೊಳಗೆ ಸಂಪೂರ್ಣ ಭಾವನೆ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "tyaktvā"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "tyaktvā",
+                "ka": "ತ್ಯಕ್ತ್ವ"
+            }
         },
         {
             "sanskrit": "कर्मफलासङ्गं",
-            "transliteration": "karmaphalāsaṅgaṃ",
-            "meaning": "karmaphalāsaṅgaṃ"
+            "transliteration": {
+                "hi": "कर्मफलासङ्गं",
+                "en": "karmaphalāsaṅgaṃ",
+                "be": "কর্মফলাসঙ্গং",
+                "ka": "ಕರ್ಮಫಲಾಸಙ್ಗಂ"
+            },
+            "meaning": {
+                "hi": "कर्मफलसंगम्",
+                "en": "karmaphalāsaṅgaṃ",
+                "be": "কর্মফলসংঘ",
+                "ka": "ಕರ್ಮಫಲಸಂಗಂ"
+            }
         },
         {
             "sanskrit": "नित्यतृप्तो",
-            "transliteration": "nityatṛpto",
-            "meaning": "nityatṛpto"
+            "transliteration": {
+                "hi": "नित्यतृप्तो",
+                "en": "nityatṛpto",
+                "be": "নিত্যতৃপ্তো",
+                "ka": "ನಿತ್ಯತೃಪ್ತೋ"
+            },
+            "meaning": {
+                "hi": "नित्यातृप्तो",
+                "en": "nityatṛpto",
+                "be": "nityatṛpto",
+                "ka": "ನಿತ್ಯತೃಪ್ತೋ"
+            }
         },
         {
             "sanskrit": "निराश्रयः",
-            "transliteration": "nirāśrayaḥ",
-            "meaning": "nirāśrayaḥ"
+            "transliteration": {
+                "hi": "निराश्रयः",
+                "en": "nirāśrayaḥ",
+                "be": "নিরাশ্রযঃ",
+                "ka": "ನಿರಾಶ್ರಯಃ"
+            },
+            "meaning": {
+                "hi": "निराश्रयः",
+                "en": "nirāśrayaḥ",
+                "be": "নিরাশ্রয়ঃ",
+                "ka": "ನಿರಾಶ್ರಯಃ"
+            }
         },
         {
             "sanskrit": "कर्मण्यभिप्रवृत्तोऽपि",
-            "transliteration": "karmaṇyabhipravṛtto'pi",
-            "meaning": "karmaṇyabhipravṛtto'pi"
+            "transliteration": {
+                "hi": "कर्मण्यभिप्रवृत्तोऽपि",
+                "en": "karmaṇyabhipravṛtto'pi",
+                "be": "কর্মণ্যভিপ্রবৃত্তোঽপি",
+                "ka": "ಕರ್ಮಣ್ಯಭಿಪ್ರವೃತ್ತೋಽಪಿ"
+            },
+            "meaning": {
+                "hi": "कर्मण्यभिप्रवृत्तोऽपि",
+                "en": "karmaṇyabhipravṛtto'pi",
+                "be": "কর্মাণ্যবিপ্রবৃত্তিপি",
+                "ka": "ಕರ್ಮಾಣ್ಯಭಿಪ್ರವೃತ್ತೋ'ಪಿ"
+            }
         },
         {
             "sanskrit": "नैव",
-            "transliteration": "naiva",
-            "meaning": "naiva"
+            "transliteration": {
+                "hi": "नैव",
+                "en": "naiva",
+                "be": "নৈব",
+                "ka": "ನೈವ"
+            },
+            "meaning": {
+                "hi": "नैवा",
+                "en": "naiva",
+                "be": "নাইভা",
+                "ka": "ನೈವಾ"
+            }
         },
         {
             "sanskrit": "किञ्चित्करोति",
-            "transliteration": "kiñcitkaroti",
-            "meaning": "kiñcitkaroti"
+            "transliteration": {
+                "hi": "किञ्चित्करोति",
+                "en": "kiñcitkaroti",
+                "be": "কিঞ্চিত্করোতি",
+                "ka": "ಕಿಞ್ಚಿತ್ಕರೋತಿ"
+            },
+            "meaning": {
+                "hi": "किञ्चिटकारोति",
+                "en": "kiñcitkaroti",
+                "be": "kiñcitkaroti",
+                "ka": "ಕಿಂಚಿತ್ಕರೋತಿ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         }
     ],
     "tej": {

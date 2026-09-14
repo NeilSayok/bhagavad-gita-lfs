@@ -14,8 +14,18 @@
         "en": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ .\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam ||4-21||",
         "ka": "ನಿರಾಶೀರ್ಯತಚಿತ್ತಾತ್ಮಾ ತ್ಯಕ್ತಸರ್ವಪರಿಗ್ರಹಃ |\nಶಾರೀರಂ ಕೇವಲಂ ಕರ್ಮ ಕುರ್ವನ್ನಾಪ್ನೋತಿ ಕಿಲ್ಬಿಷಮ್ ||೪-೨೧||"
     },
-    "transliteration": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ .\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam ||4-21||",
-    "life_application": "Simplify your desires and lifestyle today, taking only what is necessary while performing your duties without greed.",
+    "transliteration": {
+        "hi": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः |\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ||४-२१||",
+        "en": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ .\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam ||4-21||",
+        "be": "নিরাশীর্যতচিত্তাত্মা ত্যক্তসর্বপরিগ্রহঃ |\nশারীরং কেবলং কর্ম কুর্বন্নাপ্নোতি কিল্বিষম্ ||৪-২১||",
+        "ka": "ನಿರಾಶೀರ್ಯತಚಿತ್ತಾತ್ಮಾ ತ್ಯಕ್ತಸರ್ವಪರಿಗ್ರಹಃ |\nಶಾರೀರಂ ಕೇವಲಂ ಕರ್ಮ ಕುರ್ವನ್ನಾಪ್ನೋತಿ ಕಿಲ್ಬಿಷಮ್ ||೪-೨೧||"
+    },
+    "life_application": {
+        "hi": "आज अपनी इच्छाओं और जीवनशैली को सरल बनाएं, बिना लालच के अपने कर्तव्यों का पालन करते हुए केवल वही लें जो आवश्यक है।",
+        "en": "Simplify your desires and lifestyle today, taking only what is necessary while performing your duties without greed.",
+        "be": "লোভ ছাড়া আপনার দায়িত্ব পালন করার সময় যা প্রয়োজন তা গ্রহণ করে আজই আপনার ইচ্ছা এবং জীবনধারাকে সরল করুন।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಆಸೆಗಳನ್ನು ಮತ್ತು ಜೀವನಶೈಲಿಯನ್ನು ಸರಳಗೊಳಿಸಿ, ದುರಾಶೆಯಿಲ್ಲದೆ ನಿಮ್ಮ ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಅಗತ್ಯವನ್ನು ಮಾತ್ರ ತೆಗೆದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Detachment",
         "Mindfulness"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "निराशीर्यतचित्तात्मा",
-            "transliteration": "nirāśīryatacittātmā",
-            "meaning": "nirāśīryatacittātmā"
+            "transliteration": {
+                "hi": "निराशीर्यतचित्तात्मा",
+                "en": "nirāśīryatacittātmā",
+                "be": "নিরাশীর্যতচিত্তাত্মা",
+                "ka": "ನಿರಾಶೀರ್ಯತಚಿತ್ತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "निराशीर्यतचित्तात्मा",
+                "en": "nirāśīryatacittātmā",
+                "be": "নিরাশির্যতাচিত্তমা",
+                "ka": "ನಿರಾಶೀರ್ಯತಚಿತ್ತಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "त्यक्तसर्वपरिग्रहः",
-            "transliteration": "tyaktasarvaparigrahaḥ",
-            "meaning": "tyaktasarvaparigrahaḥ"
+            "transliteration": {
+                "hi": "त्यक्तसर्वपरिग्रहः",
+                "en": "tyaktasarvaparigrahaḥ",
+                "be": "ত্যক্তসর্বপরিগ্রহঃ",
+                "ka": "ತ್ಯಕ್ತಸರ್ವಪರಿಗ್ರಹಃ"
+            },
+            "meaning": {
+                "hi": "त्यक्तसर्वपरिग्रहः",
+                "en": "tyaktasarvaparigrahaḥ",
+                "be": "ত্যক্তসর্বপরিগ্রহঃ",
+                "ka": "ತ್ಯಕ್ತಸರ್ವಪರಿಗ್ರಹಃ"
+            }
         },
         {
             "sanskrit": "शारीरं",
-            "transliteration": "śārīraṃ",
-            "meaning": "śārīraṃ"
+            "transliteration": {
+                "hi": "शारीरं",
+                "en": "śārīraṃ",
+                "be": "শারীরং",
+                "ka": "ಶಾರೀರಂ"
+            },
+            "meaning": {
+                "hi": "शरीरं",
+                "en": "śārīraṃ",
+                "be": "শারিরণ",
+                "ka": "ಶರೀರಂ"
+            }
         },
         {
             "sanskrit": "केवलं",
-            "transliteration": "kevalaṃ",
-            "meaning": "kevalaṃ"
+            "transliteration": {
+                "hi": "केवलं",
+                "en": "kevalaṃ",
+                "be": "কেবলং",
+                "ka": "ಕೇವಲಂ"
+            },
+            "meaning": {
+                "hi": "केवलं",
+                "en": "kevalaṃ",
+                "be": "কেভালং",
+                "ka": "ಕೇವಲ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "कुर्वन्नाप्नोति",
-            "transliteration": "kurvannāpnoti",
-            "meaning": "kurvannāpnoti"
+            "transliteration": {
+                "hi": "कुर्वन्नाप्नोति",
+                "en": "kurvannāpnoti",
+                "be": "কুর্বন্নাপ্নোতি",
+                "ka": "ಕುರ್ವನ್ನಾಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "कुर्वन्नाप्नोति",
+                "en": "kurvannāpnoti",
+                "be": "kurvannāpnoti",
+                "ka": "ಕುರ್ವನ್ನಾಪ್ನೋತಿ"
+            }
         },
         {
             "sanskrit": "किल्बिषम्",
-            "transliteration": "kilbiṣam",
-            "meaning": "kilbiṣam"
+            "transliteration": {
+                "hi": "किल्बिषम्",
+                "en": "kilbiṣam",
+                "be": "কিল্বিষম্",
+                "ka": "ಕಿಲ್ಬಿಷಮ್"
+            },
+            "meaning": {
+                "hi": "किल्बिषम",
+                "en": "kilbiṣam",
+                "be": "কিলবিষম",
+                "ka": "ಕಿಲ್ಬಿಷಮ್"
+            }
         }
     ],
     "tej": {

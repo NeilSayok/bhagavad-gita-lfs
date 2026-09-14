@@ -14,8 +14,18 @@
         "en": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam .\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||4-24||",
         "ka": "ಬ್ರಹ್ಮಾರ್ಪಣಂ ಬ್ರಹ್ಮ ಹವಿರ್ಬ್ರಹ್ಮಾಗ್ನೌ ಬ್ರಹ್ಮಣಾ ಹುತಮ್ |\nಬ್ರಹ್ಮೈವ ತೇನ ಗನ್ತವ್ಯಂ ಬ್ರಹ್ಮಕರ್ಮಸಮಾಧಿನಾ ||೪-೨೪||"
     },
-    "transliteration": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam .\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||4-24||",
-    "life_application": "Perceive the sacred presence in your everyday tasks, treating ordinary duties as acts of divine worship.",
+    "transliteration": {
+        "hi": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् |\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ||४-२४||",
+        "en": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam .\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||4-24||",
+        "be": "ব্রহ্মার্পণং ব্রহ্ম হবির্ব্রহ্মাগ্নৌ ব্রহ্মণা হুতম্ |\nব্রহ্মৈব তেন গন্তব্যং ব্রহ্মকর্মসমাধিনা ||৪-২৪||",
+        "ka": "ಬ್ರಹ್ಮಾರ್ಪಣಂ ಬ್ರಹ್ಮ ಹವಿರ್ಬ್ರಹ್ಮಾಗ್ನೌ ಬ್ರಹ್ಮಣಾ ಹುತಮ್ |\nಬ್ರಹ್ಮೈವ ತೇನ ಗನ್ತವ್ಯಂ ಬ್ರಹ್ಮಕರ್ಮಸಮಾಧಿನಾ ||೪-೨೪||"
+    },
+    "life_application": {
+        "hi": "अपने रोजमर्रा के कार्यों में पवित्र उपस्थिति को समझें, सामान्य कर्तव्यों को दैवीय पूजा के कार्य के रूप में मानें।",
+        "en": "Perceive the sacred presence in your everyday tasks, treating ordinary duties as acts of divine worship.",
+        "be": "আপনার দৈনন্দিন কাজগুলিতে পবিত্র উপস্থিতি উপলব্ধি করুন, সাধারণ কর্তব্যগুলিকে ঐশ্বরিক উপাসনা হিসাবে বিবেচনা করুন।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಕಾರ್ಯಗಳಲ್ಲಿ ಪವಿತ್ರ ಉಪಸ್ಥಿತಿಯನ್ನು ಗ್ರಹಿಸಿ, ಸಾಮಾನ್ಯ ಕರ್ತವ್ಯಗಳನ್ನು ದೈವಿಕ ಆರಾಧನೆಯ ಕಾರ್ಯಗಳಾಗಿ ಪರಿಗಣಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "ब्रह्मार्पणं",
-            "transliteration": "brahmārpaṇaṃ",
-            "meaning": "brahmārpaṇaṃ"
+            "transliteration": {
+                "hi": "ब्रह्मार्पणं",
+                "en": "brahmārpaṇaṃ",
+                "be": "ব্রহ্মার্পণং",
+                "ka": "ಬ್ರಹ್ಮಾರ್ಪಣಂ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मर्पणम्",
+                "en": "brahmārpaṇaṃ",
+                "be": "brahmārpanaṃ",
+                "ka": "ಬ್ರಹ್ಮಾರ್ಪಣ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "हविर्ब्रह्माग्नौ",
-            "transliteration": "havirbrahmāgnau",
-            "meaning": "havirbrahmāgnau"
+            "transliteration": {
+                "hi": "हविर्ब्रह्माग्नौ",
+                "en": "havirbrahmāgnau",
+                "be": "হবির্ব্রহ্মাগ্নৌ",
+                "ka": "ಹವಿರ್ಬ್ರಹ್ಮಾಗ್ನೌ"
+            },
+            "meaning": {
+                "hi": "हविर्ब्रह्माग्नौ",
+                "en": "havirbrahmāgnau",
+                "be": "havirbrahmāgnau",
+                "ka": "ಹವಿರ್ಬ್ರಹ್ಮಗ್ನೌ"
+            }
         },
         {
             "sanskrit": "ब्रह्मणा",
-            "transliteration": "brahmaṇā",
-            "meaning": "brahmaṇā"
+            "transliteration": {
+                "hi": "ब्रह्मणा",
+                "en": "brahmaṇā",
+                "be": "ব্রহ্মণা",
+                "ka": "ಬ್ರಹ್ಮಣಾ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण",
+                "en": "brahmaṇā",
+                "be": "ব্রাহ্মণা",
+                "ka": "ಬ್ರಾಹ್ಮಣ"
+            }
         },
         {
             "sanskrit": "हुतम्",
-            "transliteration": "hutam",
-            "meaning": "hutam"
+            "transliteration": {
+                "hi": "हुतम्",
+                "en": "hutam",
+                "be": "হুতম্",
+                "ka": "ಹುತಮ್"
+            },
+            "meaning": {
+                "hi": "हुतम",
+                "en": "hutam",
+                "be": "হুতাম",
+                "ka": "ಹುತಮ್"
+            }
         },
         {
             "sanskrit": "ब्रह्मैव",
-            "transliteration": "brahmaiva",
-            "meaning": "brahmaiva"
+            "transliteration": {
+                "hi": "ब्रह्मैव",
+                "en": "brahmaiva",
+                "be": "ব্রহ্মৈব",
+                "ka": "ಬ್ರಹ್ಮೈವ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मैव",
+                "en": "brahmaiva",
+                "be": "ব্রাহ্মৈব",
+                "ka": "ಬ್ರಹ್ಮೈವ"
+            }
         },
         {
             "sanskrit": "तेन",
-            "transliteration": "tena",
-            "meaning": "tena"
+            "transliteration": {
+                "hi": "तेन",
+                "en": "tena",
+                "be": "তেন",
+                "ka": "ತೇನ"
+            },
+            "meaning": {
+                "hi": "टेना",
+                "en": "tena",
+                "be": "টেনা",
+                "ka": "ತೆನಾ"
+            }
         },
         {
             "sanskrit": "गन्तव्यं",
-            "transliteration": "gantavyaṃ",
-            "meaning": "gantavyaṃ"
+            "transliteration": {
+                "hi": "गन्तव्यं",
+                "en": "gantavyaṃ",
+                "be": "গন্তব্যং",
+                "ka": "ಗನ್ತವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "गन्तव्यम्",
+                "en": "gantavyaṃ",
+                "be": "গন্তব্যং",
+                "ka": "ಗಂತವ್ಯಂ"
+            }
         },
         {
             "sanskrit": "ब्रह्मकर्मसमाधिना",
-            "transliteration": "brahmakarmasamādhinā",
-            "meaning": "brahmakarmasamādhinā"
+            "transliteration": {
+                "hi": "ब्रह्मकर्मसमाधिना",
+                "en": "brahmakarmasamādhinā",
+                "be": "ব্রহ্মকর্মসমাধিনা",
+                "ka": "ಬ್ರಹ್ಮಕರ್ಮಸಮಾಧಿನಾ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मकर्मसमाधिना",
+                "en": "brahmakarmasamādhinā",
+                "be": "ব্রহ্মকর্মসমাধিনা",
+                "ka": "ಬ್ರಹ್ಮಕರ್ಮಸಮಾಧಿನಾ"
+            }
         }
     ],
     "tej": {

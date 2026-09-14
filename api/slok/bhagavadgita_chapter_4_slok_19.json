@@ -14,8 +14,18 @@
         "en": "yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ .\njñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ ||4-19||",
         "ka": "ಯಸ್ಯ ಸರ್ವೇ ಸಮಾರಮ್ಭಾಃ ಕಾಮಸಙ್ಕಲ್ಪವರ್ಜಿತಾಃ |\nಜ್ಞಾನಾಗ್ನಿದಗ್ಧಕರ್ಮಾಣಂ ತಮಾಹುಃ ಪಣ್ಡಿತಂ ಬುಧಾಃ ||೪-೧೯||"
     },
-    "transliteration": "yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ .\njñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ ||4-19||",
-    "life_application": "Burn away selfish motives from your projects today, letting pure duty drive your daily initiatives.",
+    "transliteration": {
+        "hi": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः |\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ||४-१९||",
+        "en": "yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ .\njñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ ||4-19||",
+        "be": "যস্য সর্বে সমারম্ভাঃ কামসঙ্কল্পবর্জিতাঃ |\nজ্ঞানাগ্নিদগ্ধকর্মাণং তমাহুঃ পণ্ডিতং বুধাঃ ||৪-১৯||",
+        "ka": "ಯಸ್ಯ ಸರ್ವೇ ಸಮಾರಮ್ಭಾಃ ಕಾಮಸಙ್ಕಲ್ಪವರ್ಜಿತಾಃ |\nಜ್ಞಾನಾಗ್ನಿದಗ್ಧಕರ್ಮಾಣಂ ತಮಾಹುಃ ಪಣ್ಡಿತಂ ಬುಧಾಃ ||೪-೧೯||"
+    },
+    "life_application": {
+        "hi": "आज अपनी परियोजनाओं से स्वार्थी उद्देश्यों को दूर रखें, शुद्ध कर्तव्य को अपनी दैनिक पहल को संचालित करने दें।",
+        "en": "Burn away selfish motives from your projects today, letting pure duty drive your daily initiatives.",
+        "be": "আজই আপনার প্রকল্পগুলি থেকে স্বার্থপর উদ্দেশ্যগুলিকে দূরে সরিয়ে দিন, বিশুদ্ধ কর্তব্যকে আপনার দৈনন্দিন উদ্যোগগুলিকে চালিত করতে দিন।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಯೋಜನೆಗಳಿಂದ ಸ್ವಾರ್ಥಿ ಉದ್ದೇಶಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿ, ಶುದ್ಧ ಕರ್ತವ್ಯವನ್ನು ನಿಮ್ಮ ದೈನಂದಿನ ಉಪಕ್ರಮಗಳನ್ನು ಚಾಲನೆ ಮಾಡಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "यस्य",
-            "transliteration": "yasya",
-            "meaning": "yasya"
+            "transliteration": {
+                "hi": "यस्य",
+                "en": "yasya",
+                "be": "যস্য",
+                "ka": "ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "यस्य",
+                "en": "yasya",
+                "be": "যস্য",
+                "ka": "ಯಸ್ಯ"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "समारम्भाः",
-            "transliteration": "samārambhāḥ",
-            "meaning": "samārambhāḥ"
+            "transliteration": {
+                "hi": "समारम्भाः",
+                "en": "samārambhāḥ",
+                "be": "সমারম্ভাঃ",
+                "ka": "ಸಮಾರಮ್ಭಾಃ"
+            },
+            "meaning": {
+                "hi": "समारम्भः",
+                "en": "samārambhāḥ",
+                "be": "samārambhāḥ",
+                "ka": "ಸಮಾರಂಭಃ"
+            }
         },
         {
             "sanskrit": "कामसङ्कल्पवर्जिताः",
-            "transliteration": "kāmasaṅkalpavarjitāḥ",
-            "meaning": "kāmasaṅkalpavarjitāḥ"
+            "transliteration": {
+                "hi": "कामसङ्कल्पवर्जिताः",
+                "en": "kāmasaṅkalpavarjitāḥ",
+                "be": "কামসঙ্কল্পবর্জিতাঃ",
+                "ka": "ಕಾಮಸಙ್ಕಲ್ಪವರ್ಜಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "कामसंकल्पवर्जिताः",
+                "en": "kāmasaṅkalpavarjitāḥ",
+                "be": "কামসংকল্পবর্জিতঃ",
+                "ka": "ಕಾಮಸಂಕಲ್ಪವರ್ಜಿತಃ"
+            }
         },
         {
             "sanskrit": "ज्ञानाग्निदग्धकर्माणं",
-            "transliteration": "jñānāgnidagdhakarmāṇaṃ",
-            "meaning": "jñānāgnidagdhakarmāṇaṃ"
+            "transliteration": {
+                "hi": "ज्ञानाग्निदग्धकर्माणं",
+                "en": "jñānāgnidagdhakarmāṇaṃ",
+                "be": "জ্ঞানাগ্নিদগ্ধকর্মাণং",
+                "ka": "ಜ್ಞಾನಾಗ್ನಿದಗ್ಧಕರ್ಮಾಣಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानाग्निदग्घकर्मणाम्",
+                "en": "jñānāgnidagdhakarmāṇaṃ",
+                "be": "জ্ঞানাগ্নিদগ্ধকর্মাণ",
+                "ka": "ಜ್ಞಾನಾಗ್ನಿದಗ್ಧಕರ್ಮಣಮ್"
+            }
         },
         {
             "sanskrit": "तमाहुः",
-            "transliteration": "tamāhuḥ",
-            "meaning": "tamāhuḥ"
+            "transliteration": {
+                "hi": "तमाहुः",
+                "en": "tamāhuḥ",
+                "be": "তমাহুঃ",
+                "ka": "ತಮಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "तमहुः",
+                "en": "tamāhuḥ",
+                "be": "তামাহুঃ",
+                "ka": "ತಮಾಹುಃ"
+            }
         },
         {
             "sanskrit": "पण्डितं",
-            "transliteration": "paṇḍitaṃ",
-            "meaning": "paṇḍitaṃ"
+            "transliteration": {
+                "hi": "पण्डितं",
+                "en": "paṇḍitaṃ",
+                "be": "পণ্ডিতং",
+                "ka": "ಪಣ್ಡಿತಂ"
+            },
+            "meaning": {
+                "hi": "पण्डितम्",
+                "en": "paṇḍitaṃ",
+                "be": "পাণ্ডিতণ",
+                "ka": "ಪಂಡಿತಂ"
+            }
         },
         {
             "sanskrit": "बुधाः",
-            "transliteration": "budhāḥ",
-            "meaning": "budhāḥ"
+            "transliteration": {
+                "hi": "बुधाः",
+                "en": "budhāḥ",
+                "be": "বুধাঃ",
+                "ka": "ಬುಧಾಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धः",
+                "en": "budhāḥ",
+                "be": "বুধঃ",
+                "ka": "ಬುಧಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ .\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||4-18||",
         "ka": "ಕರ್ಮಣ್ಯಕರ್ಮ ಯಃ ಪಶ್ಯೇದಕರ್ಮಣಿ ಚ ಕರ್ಮ ಯಃ |\nಸ ಬುದ್ಧಿಮಾನ್ಮನುಷ್ಯೇಷು ಸ ಯುಕ್ತಃ ಕೃತ್ಸ್ನಕರ್ಮಕೃತ್ ||೪-೧೮||"
     },
-    "transliteration": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ .\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||4-18||",
-    "life_application": "Maintain inner stillness while busy with tasks, and stay mentally attentive even during moments of physical rest.",
+    "transliteration": {
+        "hi": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः |\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ||४-१८||",
+        "en": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ .\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||4-18||",
+        "be": "কর্মণ্যকর্ম যঃ পশ্যেদকর্মণি চ কর্ম যঃ |\nস বুদ্ধিমান্মনুষ্যেষু স যুক্তঃ কৃত্স্নকর্মকৃত্ ||৪-১৮||",
+        "ka": "ಕರ್ಮಣ್ಯಕರ್ಮ ಯಃ ಪಶ್ಯೇದಕರ್ಮಣಿ ಚ ಕರ್ಮ ಯಃ |\nಸ ಬುದ್ಧಿಮಾನ್ಮನುಷ್ಯೇಷು ಸ ಯುಕ್ತಃ ಕೃತ್ಸ್ನಕರ್ಮಕೃತ್ ||೪-೧೮||"
+    },
+    "life_application": {
+        "hi": "कार्यों में व्यस्त रहने के दौरान आंतरिक शांति बनाए रखें और शारीरिक आराम के क्षणों में भी मानसिक रूप से चौकस रहें।",
+        "en": "Maintain inner stillness while busy with tasks, and stay mentally attentive even during moments of physical rest.",
+        "be": "কাজের সাথে ব্যস্ত থাকাকালীন অভ্যন্তরীণ স্থিরতা বজায় রাখুন এবং শারীরিক বিশ্রামের মুহুর্তগুলিতেও মানসিকভাবে মনোযোগী থাকুন।",
+        "ka": "ಕಾರ್ಯಗಳಲ್ಲಿ ನಿರತರಾಗಿರುವಾಗ ಆಂತರಿಕ ನಿಶ್ಚಲತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ದೈಹಿಕ ವಿಶ್ರಾಂತಿಯ ಕ್ಷಣಗಳಲ್ಲಿಯೂ ಮಾನಸಿಕವಾಗಿ ಗಮನವಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Karma",
@@ -24,58 +34,168 @@
     "word_meanings": [
         {
             "sanskrit": "कर्मण्यकर्म",
-            "transliteration": "karmaṇyakarma",
-            "meaning": "karmaṇyakarma"
+            "transliteration": {
+                "hi": "कर्मण्यकर्म",
+                "en": "karmaṇyakarma",
+                "be": "কর্মণ্যকর্ম",
+                "ka": "ಕರ್ಮಣ್ಯಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कर्मण्यकर्म",
+                "en": "karmaṇyakarma",
+                "be": "কর্ম্মণ্যকর্ম",
+                "ka": "ಕರ್ಮಾಣ್ಯಕರ್ಮ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "yaḥ"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "हां",
+                "en": "yaḥ",
+                "be": "ইয়াহ",
+                "ka": "ಹೌದು"
+            }
         },
         {
             "sanskrit": "पश्येदकर्मणि",
-            "transliteration": "paśyedakarmaṇi",
-            "meaning": "paśyedakarmaṇi"
+            "transliteration": {
+                "hi": "पश्येदकर्मणि",
+                "en": "paśyedakarmaṇi",
+                "be": "পশ্যেদকর্মণি",
+                "ka": "ಪಶ್ಯೇದಕರ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "पश्येदकर्माणि",
+                "en": "paśyedakarmaṇi",
+                "be": "পশ্যেদকর্মাণী",
+                "ka": "ಪಶ್ಯೇದಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "yaḥ"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "हां",
+                "en": "yaḥ",
+                "be": "ইয়াহ",
+                "ka": "ಹೌದು"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "बुद्धिमान्मनुष्येषु",
-            "transliteration": "buddhimānmanuṣyeṣu",
-            "meaning": "buddhimānmanuṣyeṣu"
+            "transliteration": {
+                "hi": "बुद्धिमान्मनुष्येषु",
+                "en": "buddhimānmanuṣyeṣu",
+                "be": "বুদ্ধিমান্মনুষ্যেষু",
+                "ka": "ಬುದ್ಧಿಮಾನ್ಮನುಷ್ಯೇಷು"
+            },
+            "meaning": {
+                "hi": "बुद्धिमान्मनुषयेषु",
+                "en": "buddhimānmanuṣyeṣu",
+                "be": "বুদ্ধমানমানুষেষু",
+                "ka": "ಬುದ್ಧಿಮಾನ್ಮನುಷ್ಯೇಷು"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "युक्तः",
-            "transliteration": "yuktaḥ",
-            "meaning": "yuktaḥ"
+            "transliteration": {
+                "hi": "युक्तः",
+                "en": "yuktaḥ",
+                "be": "যুক্তঃ",
+                "ka": "ಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "युक्तः",
+                "en": "yuktaḥ",
+                "be": "যুক্তঃ",
+                "ka": "ಯುಕ್ತಃ"
+            }
         },
         {
             "sanskrit": "कृत्स्नकर्मकृत्",
-            "transliteration": "kṛtsnakarmakṛt",
-            "meaning": "kṛtsnakarmakṛt"
+            "transliteration": {
+                "hi": "कृत्स्नकर्मकृत्",
+                "en": "kṛtsnakarmakṛt",
+                "be": "কৃত্স্নকর্মকৃত্",
+                "ka": "ಕೃತ್ಸ್ನಕರ್ಮಕೃತ್"
+            },
+            "meaning": {
+                "hi": "कृत्स्नकर्मकृत",
+                "en": "kṛtsnakarmakṛt",
+                "be": "কৃতস্নাকর্মকৃত",
+                "ka": "ಕೃಷ್ಣಕರ್ಮಕೃತ್"
+            }
         }
     ],
     "tej": {

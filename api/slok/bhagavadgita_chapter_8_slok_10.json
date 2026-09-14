@@ -14,8 +14,18 @@
         "en": "prayāṇakāle manasā.acalena bhaktyā yukto yogabalena caiva .\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam ||8-10||",
         "ka": "ಪ್ರಯಾಣಕಾಲೇ ಮನಸಾಽಚಲೇನ\nಭಕ್ತ್ಯಾ ಯುಕ್ತೋ ಯೋಗಬಲೇನ ಚೈವ |\nಭ್ರುವೋರ್ಮಧ್ಯೇ ಪ್ರಾಣಮಾವೇಶ್ಯ ಸಮ್ಯಕ್\nಸ ತಂ ಪರಂ ಪುರುಷಮುಪೈತಿ ದಿವ್ಯಮ್ ||೮-೧೦||"
     },
-    "transliteration": "prayāṇakāle manasā.acalena bhaktyā yukto yogabalena caiva .\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam ||8-10||",
-    "life_application": "Focus your mind with devotion at the time of death, drawing life energy between the eyebrows to reach the Supreme.",
+    "transliteration": {
+        "hi": "प्रयाणकाले मनसाऽचलेन\nभक्त्या युक्तो योगबलेन चैव |\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम् ||८-१०||",
+        "en": "prayāṇakāle manasā.acalena bhaktyā yukto yogabalena caiva .\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam ||8-10||",
+        "be": "প্রযাণকালে মনসাঽচলেন\nভক্ত্যা যুক্তো যোগবলেন চৈব |\nভ্রুবোর্মধ্যে প্রাণমাবেশ্য সম্যক্\nস তং পরং পুরুষমুপৈতি দিব্যম্ ||৮-১০||",
+        "ka": "ಪ್ರಯಾಣಕಾಲೇ ಮನಸಾಽಚಲೇನ\nಭಕ್ತ್ಯಾ ಯುಕ್ತೋ ಯೋಗಬಲೇನ ಚೈವ |\nಭ್ರುವೋರ್ಮಧ್ಯೇ ಪ್ರಾಣಮಾವೇಶ್ಯ ಸಮ್ಯಕ್\nಸ ತಂ ಪರಂ ಪುರುಷಮುಪೈತಿ ದಿವ್ಯಮ್ ||೮-೧೦||"
+    },
+    "life_application": {
+        "hi": "मृत्यु के समय अपने मन को भक्ति के साथ केंद्रित करें, जीवन ऊर्जा को भौहों के बीच खींचकर सर्वोच्च तक पहुंचाएं।",
+        "en": "Focus your mind with devotion at the time of death, drawing life energy between the eyebrows to reach the Supreme.",
+        "be": "মৃত্যুর সময় নিষ্ঠার সাথে আপনার মনকে কেন্দ্রীভূত করুন, ভ্রুগুলির মধ্যে জীবন শক্তি আঁকুন পরম পর্যন্ত পৌঁছানোর জন্য।",
+        "ka": "ಮರಣದ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಭಕ್ತಿಯಿಂದ ಕೇಂದ್ರೀಕರಿಸಿ, ಪರಮಾತ್ಮನನ್ನು ತಲುಪಲು ಹುಬ್ಬುಗಳ ನಡುವೆ ಜೀವ ಶಕ್ತಿಯನ್ನು ಸೆಳೆಯಿರಿ."
+    },
     "themes": [
         "Death",
         "Devotion"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "प्रयाणकाले",
-            "transliteration": "prayāṇakāle",
-            "meaning": "prayāṇakāle"
+            "transliteration": {
+                "hi": "प्रयाणकाले",
+                "en": "prayāṇakāle",
+                "be": "প্রযাণকালে",
+                "ka": "ಪ್ರಯಾಣಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "प्रयाणकाले",
+                "en": "prayāṇakāle",
+                "be": "প্রার্থনাকাল",
+                "ka": "ಪ್ರಾರ್ಥನೆಕಾಲೆ"
+            }
         },
         {
             "sanskrit": "मनसाऽचलेन",
-            "transliteration": "manasā'calena",
-            "meaning": "manasā'calena"
+            "transliteration": {
+                "hi": "मनसाऽचलेन",
+                "en": "manasā'calena",
+                "be": "মনসাঽচলেন",
+                "ka": "ಮನಸಾಽಚಲೇನ"
+            },
+            "meaning": {
+                "hi": "मनसा'कालेना",
+                "en": "manasā'calena",
+                "be": "মনসা'কালনা",
+                "ka": "manasā'calena"
+            }
         },
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "bhaktyā"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্য",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            }
         },
         {
             "sanskrit": "युक्तो",
-            "transliteration": "yukto",
-            "meaning": "yukto"
+            "transliteration": {
+                "hi": "युक्तो",
+                "en": "yukto",
+                "be": "যুক্তো",
+                "ka": "ಯುಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "yukto",
+                "en": "yukto",
+                "be": "yukto",
+                "ka": "ಯುಕ್ತೋ"
+            }
         },
         {
             "sanskrit": "योगबलेन",
-            "transliteration": "yogabalena",
-            "meaning": "yogabalena"
+            "transliteration": {
+                "hi": "योगबलेन",
+                "en": "yogabalena",
+                "be": "যোগবলেন",
+                "ka": "ಯೋಗಬಲೇನ"
+            },
+            "meaning": {
+                "hi": "योगाबलीना",
+                "en": "yogabalena",
+                "be": "যোগব্যালেন",
+                "ka": "ಯೋಗಬಲೆನಾ"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "भ्रुवोर्मध्ये",
-            "transliteration": "bhruvormadhye",
-            "meaning": "bhruvormadhye"
+            "transliteration": {
+                "hi": "भ्रुवोर्मध्ये",
+                "en": "bhruvormadhye",
+                "be": "ভ্রুবোর্মধ্যে",
+                "ka": "ಭ್ರುವೋರ್ಮಧ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "भ्रुवोर्मध्ये",
+                "en": "bhruvormadhye",
+                "be": "bhruvormadhye",
+                "ka": "ಭ್ರುವೋರ್ಮಧ್ಯೇ"
+            }
         },
         {
             "sanskrit": "प्राणमावेश्य",
-            "transliteration": "prāṇamāveśya",
-            "meaning": "prāṇamāveśya"
+            "transliteration": {
+                "hi": "प्राणमावेश्य",
+                "en": "prāṇamāveśya",
+                "be": "প্রাণমাবেশ্য",
+                "ka": "ಪ್ರಾಣಮಾವೇಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राणमावेश्य",
+                "en": "prāṇamāveśya",
+                "be": "প্রণামাবেশ্য",
+                "ka": "ಪ್ರಾಣಮಾವೇಶ್ಯ"
+            }
         },
         {
             "sanskrit": "सम्यक्",
-            "transliteration": "samyak",
-            "meaning": "samyak"
+            "transliteration": {
+                "hi": "सम्यक्",
+                "en": "samyak",
+                "be": "সম্যক্",
+                "ka": "ಸಮ್ಯಕ್"
+            },
+            "meaning": {
+                "hi": "सम्यक",
+                "en": "samyak",
+                "be": "সাম্যক",
+                "ka": "ಸಮ್ಯಕ್"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "तं",
-            "transliteration": "taṃ",
-            "meaning": "taṃ"
+            "transliteration": {
+                "hi": "तं",
+                "en": "taṃ",
+                "be": "তং",
+                "ka": "ತಂ"
+            },
+            "meaning": {
+                "hi": "टैं",
+                "en": "taṃ",
+                "be": "taṃ",
+                "ka": "taṃ"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "पुरुषमुपैति",
-            "transliteration": "puruṣamupaiti",
-            "meaning": "puruṣamupaiti"
+            "transliteration": {
+                "hi": "पुरुषमुपैति",
+                "en": "puruṣamupaiti",
+                "be": "পুরুষমুপৈতি",
+                "ka": "ಪುರುಷಮುಪೈತಿ"
+            },
+            "meaning": {
+                "hi": "पुरुषमुपैति",
+                "en": "puruṣamupaiti",
+                "be": "পুরুষমুপাইতি",
+                "ka": "ಪುರುಷಮುಪೈತಿ"
+            }
         },
         {
             "sanskrit": "दिव्यम्",
-            "transliteration": "divyam",
-            "meaning": "divyam"
+            "transliteration": {
+                "hi": "दिव्यम्",
+                "en": "divyam",
+                "be": "দিব্যম্",
+                "ka": "ದಿವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "दिव्यम",
+                "en": "divyam",
+                "be": "divyam",
+                "ka": "ದಿವ್ಯಮ್"
+            }
         }
     ],
     "tej": {

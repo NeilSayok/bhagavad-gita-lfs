@@ -14,8 +14,18 @@
         "en": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||",
         "ka": "ಅನನ್ಯಚೇತಾಃ ಸತತಂ ಯೋ ಮಾಂ ಸ್ಮರತಿ ನಿತ್ಯಶಃ |\nತಸ್ಯಾಹಂ ಸುಲಭಃ ಪಾರ್ಥ ನಿತ್ಯಯುಕ್ತಸ್ಯ ಯೋಗಿನಃ ||೮-೧೪||"
     },
-    "transliteration": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||",
-    "life_application": "Remember God constantly with single-pointed attention today, making the supreme path easy to attain.",
+    "transliteration": {
+        "hi": "अनन्यचेताः सततं यो मां स्मरति नित्यशः |\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||",
+        "en": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||",
+        "be": "অনন্যচেতাঃ সততং যো মাং স্মরতি নিত্যশঃ |\nতস্যাহং সুলভঃ পার্থ নিত্যযুক্তস্য যোগিনঃ ||৮-১৪||",
+        "ka": "ಅನನ್ಯಚೇತಾಃ ಸತತಂ ಯೋ ಮಾಂ ಸ್ಮರತಿ ನಿತ್ಯಶಃ |\nತಸ್ಯಾಹಂ ಸುಲಭಃ ಪಾರ್ಥ ನಿತ್ಯಯುಕ್ತಸ್ಯ ಯೋಗಿನಃ ||೮-೧೪||"
+    },
+    "life_application": {
+        "hi": "आज एकाग्र ध्यान से भगवान को लगातार याद करें, जिससे सर्वोच्च मार्ग प्राप्त करना आसान हो जाएगा।",
+        "en": "Remember God constantly with single-pointed attention today, making the supreme path easy to attain.",
+        "be": "আজ একক মনোযোগের সাথে ক্রমাগত ঈশ্বরকে স্মরণ করুন, সর্বোচ্চ পথটি অর্জন করা সহজ করে তুলুন।",
+        "ka": "ಇಂದು ಏಕಮುಖ ಗಮನದಿಂದ ನಿರಂತರವಾಗಿ ದೇವರನ್ನು ಸ್ಮರಿಸಿ, ಅತ್ಯುನ್ನತ ಮಾರ್ಗವನ್ನು ಸಾಧಿಸಲು ಸುಲಭವಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अनन्यचेताः",
-            "transliteration": "ananyacetāḥ",
-            "meaning": "ananyacetāḥ"
+            "transliteration": {
+                "hi": "अनन्यचेताः",
+                "en": "ananyacetāḥ",
+                "be": "অনন্যচেতাঃ",
+                "ka": "ಅನನ್ಯಚೇತಾಃ"
+            },
+            "meaning": {
+                "hi": "अनन्यचेत:",
+                "en": "ananyacetāḥ",
+                "be": "অনন্যাচেতাঃ",
+                "ka": "ಅನನ್ಯಚೇತಃ"
+            }
         },
         {
             "sanskrit": "सततं",
-            "transliteration": "satataṃ",
-            "meaning": "satataṃ"
+            "transliteration": {
+                "hi": "सततं",
+                "en": "satataṃ",
+                "be": "সততং",
+                "ka": "ಸತತಂ"
+            },
+            "meaning": {
+                "hi": "सततं",
+                "en": "satataṃ",
+                "be": "satataṃ",
+                "ka": "ಸತತಂ"
+            }
         },
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "स्मरति",
-            "transliteration": "smarati",
-            "meaning": "smarati"
+            "transliteration": {
+                "hi": "स्मरति",
+                "en": "smarati",
+                "be": "স্মরতি",
+                "ka": "ಸ್ಮರತಿ"
+            },
+            "meaning": {
+                "hi": "स्मृति",
+                "en": "smarati",
+                "be": "স্মরতি",
+                "ka": "ಸ್ಮರತಿ"
+            }
         },
         {
             "sanskrit": "नित्यशः",
-            "transliteration": "nityaśaḥ",
-            "meaning": "nityaśaḥ"
+            "transliteration": {
+                "hi": "नित्यशः",
+                "en": "nityaśaḥ",
+                "be": "নিত্যশঃ",
+                "ka": "ನಿತ್ಯಶಃ"
+            },
+            "meaning": {
+                "hi": "नित्यश:",
+                "en": "nityaśaḥ",
+                "be": "নিত্যশঃ",
+                "ka": "ನಿತ್ಯಶಃ"
+            }
         },
         {
             "sanskrit": "तस्याहं",
-            "transliteration": "tasyāhaṃ",
-            "meaning": "tasyāhaṃ"
+            "transliteration": {
+                "hi": "तस्याहं",
+                "en": "tasyāhaṃ",
+                "be": "তস্যাহং",
+                "ka": "ತಸ್ಯಾಹಂ"
+            },
+            "meaning": {
+                "hi": "तस्याहं",
+                "en": "tasyāhaṃ",
+                "be": "tasyahaṃ",
+                "ka": "ತಸ್ಯಾಹಂ"
+            }
         },
         {
             "sanskrit": "सुलभः",
-            "transliteration": "sulabhaḥ",
-            "meaning": "sulabhaḥ"
+            "transliteration": {
+                "hi": "सुलभः",
+                "en": "sulabhaḥ",
+                "be": "সুলভঃ",
+                "ka": "ಸುಲಭಃ"
+            },
+            "meaning": {
+                "hi": "सुलभः",
+                "en": "sulabhaḥ",
+                "be": "সুলভঃ",
+                "ka": "ಸುಲಭಃ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "नित्ययुक्तस्य",
-            "transliteration": "nityayuktasya",
-            "meaning": "nityayuktasya"
+            "transliteration": {
+                "hi": "नित्ययुक्तस्य",
+                "en": "nityayuktasya",
+                "be": "নিত্যযুক্তস্য",
+                "ka": "ನಿತ್ಯಯುಕ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "नित्ययुक्तस्य",
+                "en": "nityayuktasya",
+                "be": "নিত্যযুক্তস্য",
+                "ka": "ನಿತ್ಯಯುಕ್ತಸ್ಯ"
+            }
         },
         {
             "sanskrit": "योगिनः",
-            "transliteration": "yoginaḥ",
-            "meaning": "yoginaḥ"
+            "transliteration": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            },
+            "meaning": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            }
         }
     ],
     "tej": {

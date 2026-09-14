@@ -14,8 +14,18 @@
         "en": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||",
         "ka": "ಸಹಸ್ರಯುಗಪರ್ಯನ್ತಮಹರ್ಯದ್ ಬ್ರಹ್ಮಣೋ ವಿದುಃ |\nರಾತ್ರಿಂ ಯುಗಸಹಸ್ರಾನ್ತಾಂ ತೇಽಹೋರಾತ್ರವಿದೋ ಜನಾಃ ||೮-೧೭||"
     },
-    "transliteration": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||",
-    "life_application": "Understand cosmic time, where a single day or night of Brahma lasts a thousand cosmic ages.",
+    "transliteration": {
+        "hi": "सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः |\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||",
+        "en": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||",
+        "be": "সহস্রযুগপর্যন্তমহর্যদ্ ব্রহ্মণো বিদুঃ |\nরাত্রিং যুগসহস্রান্তাং তেঽহোরাত্রবিদো জনাঃ ||৮-১৭||",
+        "ka": "ಸಹಸ್ರಯುಗಪರ್ಯನ್ತಮಹರ್ಯದ್ ಬ್ರಹ್ಮಣೋ ವಿದುಃ |\nರಾತ್ರಿಂ ಯುಗಸಹಸ್ರಾನ್ತಾಂ ತೇಽಹೋರಾತ್ರವಿದೋ ಜನಾಃ ||೮-೧೭||"
+    },
+    "life_application": {
+        "hi": "ब्रह्मांडीय समय को समझें, जहां ब्रह्मा का एक दिन या रात एक हजार ब्रह्मांडीय युगों तक रहता है।",
+        "en": "Understand cosmic time, where a single day or night of Brahma lasts a thousand cosmic ages.",
+        "be": "মহাজাগতিক সময় বুঝুন, যেখানে ব্রহ্মার একটি দিন বা রাত এক হাজার মহাজাগতিক যুগ স্থায়ী হয়।",
+        "ka": "ಬ್ರಹ್ಮಾಂಡದ ಸಮಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಅಲ್ಲಿ ಬ್ರಹ್ಮನ ಒಂದು ದಿನ ಅಥವಾ ರಾತ್ರಿ ಸಾವಿರ ಕಾಸ್ಮಿಕ್ ಯುಗಗಳು ಇರುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "सहस्रयुगपर्यन्तमहर्यद्",
-            "transliteration": "sahasrayugaparyantamaharyad",
-            "meaning": "sahasrayugaparyantamaharyad"
+            "transliteration": {
+                "hi": "सहस्रयुगपर्यन्तमहर्यद्",
+                "en": "sahasrayugaparyantamaharyad",
+                "be": "সহস্রযুগপর্যন্তমহর্যদ্",
+                "ka": "ಸಹಸ್ರಯುಗಪರ್ಯನ್ತಮಹರ್ಯದ್"
+            },
+            "meaning": {
+                "hi": "सहस्रयुगपर्यन्तमहार्यद्",
+                "en": "sahasrayugaparyantamaharyad",
+                "be": "সহস্রযুগপর্যন্তমহার্যদ",
+                "ka": "ಸಹಸ್ರಯುಗಪರ್ಯನ್ತಮಹರ್ಯಾದ್"
+            }
         },
         {
             "sanskrit": "ब्रह्मणो",
-            "transliteration": "brahmaṇo",
-            "meaning": "brahmaṇo"
+            "transliteration": {
+                "hi": "ब्रह्मणो",
+                "en": "brahmaṇo",
+                "be": "ব্রহ্মণো",
+                "ka": "ಬ್ರಹ್ಮಣೋ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मणो",
+                "en": "brahmaṇo",
+                "be": "ব্রাহ্মণো",
+                "ka": "ಬ್ರಹ್ಮಣೋ"
+            }
         },
         {
             "sanskrit": "विदुः",
-            "transliteration": "viduḥ",
-            "meaning": "viduḥ"
+            "transliteration": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            },
+            "meaning": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            }
         },
         {
             "sanskrit": "रात्रिं",
-            "transliteration": "rātriṃ",
-            "meaning": "rātriṃ"
+            "transliteration": {
+                "hi": "रात्रिं",
+                "en": "rātriṃ",
+                "be": "রাত্রিং",
+                "ka": "ರಾತ್ರಿಂ"
+            },
+            "meaning": {
+                "hi": "रात्रिं",
+                "en": "rātriṃ",
+                "be": "রাত্রি",
+                "ka": "ರಾತ್ರಿ"
+            }
         },
         {
             "sanskrit": "युगसहस्रान्तां",
-            "transliteration": "yugasahasrāntāṃ",
-            "meaning": "yugasahasrāntāṃ"
+            "transliteration": {
+                "hi": "युगसहस्रान्तां",
+                "en": "yugasahasrāntāṃ",
+                "be": "যুগসহস্রান্তাং",
+                "ka": "ಯುಗಸಹಸ್ರಾನ್ತಾಂ"
+            },
+            "meaning": {
+                "hi": "युगसहस्रान्तम्",
+                "en": "yugasahasrāntāṃ",
+                "be": "যুগসহস্রান্ত",
+                "ka": "ಯುಗಸಹಸ್ರಾಂತಂ"
+            }
         },
         {
             "sanskrit": "तेऽहोरात्रविदो",
-            "transliteration": "te'horātravido",
-            "meaning": "te'horātravido"
+            "transliteration": {
+                "hi": "तेऽहोरात्रविदो",
+                "en": "te'horātravido",
+                "be": "তেঽহোরাত্রবিদো",
+                "ka": "ತೇಽಹೋರಾತ್ರವಿದೋ"
+            },
+            "meaning": {
+                "hi": "ते'होरात्रविदो",
+                "en": "te'horātravido",
+                "be": "te'horātravido",
+                "ka": "te'horātravido"
+            }
         },
         {
             "sanskrit": "जनाः",
-            "transliteration": "janāḥ",
-            "meaning": "janāḥ"
+            "transliteration": {
+                "hi": "जनाः",
+                "en": "janāḥ",
+                "be": "জনাঃ",
+                "ka": "ಜನಾಃ"
+            },
+            "meaning": {
+                "hi": "जनाः",
+                "en": "janāḥ",
+                "be": "জানাঃ",
+                "ka": "ಜನಾಃ"
+            }
         }
     ],
     "tej": {

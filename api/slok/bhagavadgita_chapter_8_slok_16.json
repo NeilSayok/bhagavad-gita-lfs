@@ -14,8 +14,18 @@
         "en": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||",
         "ka": "ಆಬ್ರಹ್ಮಭುವನಾಲ್ಲೋಕಾಃ ಪುನರಾವರ್ತಿನೋಽರ್ಜುನ |\nಮಾಮುಪೇತ್ಯ ತು ಕೌನ್ತೇಯ ಪುನರ್ಜನ್ಮ ನ ವಿದ್ಯತೇ ||೮-೧೬||"
     },
-    "transliteration": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||",
-    "life_application": "Realize that all worlds up to the highest heaven are subject to return, but reaching God ends rebirth forever.",
+    "transliteration": {
+        "hi": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन |\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ||८-१६||",
+        "en": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||",
+        "be": "আব্রহ্মভুবনাল্লোকাঃ পুনরাবর্তিনোঽর্জুন |\nমামুপেত্য তু কৌন্তেয পুনর্জন্ম ন বিদ্যতে ||৮-১৬||",
+        "ka": "ಆಬ್ರಹ್ಮಭುವನಾಲ್ಲೋಕಾಃ ಪುನರಾವರ್ತಿನೋಽರ್ಜುನ |\nಮಾಮುಪೇತ್ಯ ತು ಕೌನ್ತೇಯ ಪುನರ್ಜನ್ಮ ನ ವಿದ್ಯತೇ ||೮-೧೬||"
+    },
+    "life_application": {
+        "hi": "यह समझें कि सर्वोच्च स्वर्ग तक सभी लोक वापस लौटने के अधीन हैं, लेकिन ईश्वर तक पहुँचने पर पुनर्जन्म हमेशा के लिए समाप्त हो जाता है।",
+        "en": "Realize that all worlds up to the highest heaven are subject to return, but reaching God ends rebirth forever.",
+        "be": "উপলব্ধি করুন যে সর্বোচ্চ স্বর্গ পর্যন্ত সমস্ত জগৎ প্রত্যাবর্তনের বিষয়, কিন্তু ঈশ্বরের কাছে পৌঁছালে চিরতরে পুনর্জন্ম শেষ হয়।",
+        "ka": "ಅತ್ಯುನ್ನತ ಸ್ವರ್ಗದವರೆಗಿನ ಎಲ್ಲಾ ಪ್ರಪಂಚಗಳು ಹಿಂತಿರುಗಲು ಒಳಪಟ್ಟಿವೆ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ, ಆದರೆ ದೇವರನ್ನು ತಲುಪುವುದು ಪುನರ್ಜನ್ಮವನ್ನು ಶಾಶ್ವತವಾಗಿ ಕೊನೆಗೊಳಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Death"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "आब्रह्मभुवनाल्लोकाः",
-            "transliteration": "ābrahmabhuvanāllokāḥ",
-            "meaning": "ābrahmabhuvanāllokāḥ"
+            "transliteration": {
+                "hi": "आब्रह्मभुवनाल्लोकाः",
+                "en": "ābrahmabhuvanāllokāḥ",
+                "be": "আব্রহ্মভুবনাল্লোকাঃ",
+                "ka": "ಆಬ್ರಹ್ಮಭುವನಾಲ್ಲೋಕಾಃ"
+            },
+            "meaning": {
+                "hi": "अब्रह्मभुवनल्लोकाः",
+                "en": "ābrahmabhuvanāllokāḥ",
+                "be": "আব্রহ্মভুবন্যাল্লোকাঃ",
+                "ka": "ಆಬ್ರಹ್ಮಭುವನಾಲ್ಲೋಕಃ"
+            }
         },
         {
             "sanskrit": "पुनरावर्तिनोऽर्जुन",
-            "transliteration": "punarāvartino'rjuna",
-            "meaning": "punarāvartino'rjuna"
+            "transliteration": {
+                "hi": "पुनरावर्तिनोऽर्जुन",
+                "en": "punarāvartino'rjuna",
+                "be": "পুনরাবর্তিনোঽর্জুন",
+                "ka": "ಪುನರಾವರ್ತಿನೋಽರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "पुनर्वर्तिनोअर्जुन",
+                "en": "punarāvartino'rjuna",
+                "be": "punarāvartino'rjuna",
+                "ka": "ಪುನರ್ವರ್ತಿನೋ'ರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "मामुपेत्य",
-            "transliteration": "māmupetya",
-            "meaning": "māmupetya"
+            "transliteration": {
+                "hi": "मामुपेत्य",
+                "en": "māmupetya",
+                "be": "মামুপেত্য",
+                "ka": "ಮಾಮುಪೇತ್ಯ"
+            },
+            "meaning": {
+                "hi": "मामुपेट्या",
+                "en": "māmupetya",
+                "be": "মামুপেত্য",
+                "ka": "ಮಾಮುಪೇತ್ಯ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "पुनर्जन्म",
-            "transliteration": "punarjanma",
-            "meaning": "punarjanma"
+            "transliteration": {
+                "hi": "पुनर्जन्म",
+                "en": "punarjanma",
+                "be": "পুনর্জন্ম",
+                "ka": "ಪುನರ್ಜನ್ಮ"
+            },
+            "meaning": {
+                "hi": "पुनर्जन्म",
+                "en": "punarjanma",
+                "be": "punarjanma",
+                "ka": "ಪುನರ್ಜನ್ಮ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "vidyate"
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যাতে",
+                "ka": "ವಿದ್ಯೆ"
+            }
         }
     ],
     "tej": {

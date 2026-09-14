@@ -14,8 +14,18 @@
         "en": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||",
         "ka": "ಮಾಮುಪೇತ್ಯ ಪುನರ್ಜನ್ಮ ದುಃಖಾಲಯಮಶಾಶ್ವತಮ್ |\nನಾಪ್ನುವನ್ತಿ ಮಹಾತ್ಮಾನಃ ಸಂಸಿದ್ಧಿಂ ಪರಮಾಂ ಗತಾಃ ||೮-೧೫||"
     },
-    "transliteration": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||",
-    "life_application": "Attain the supreme perfection in God so you never again return to this temporary world of sorrow.",
+    "transliteration": {
+        "hi": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् |\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||",
+        "en": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||",
+        "be": "মামুপেত্য পুনর্জন্ম দুঃখালযমশাশ্বতম্ |\nনাপ্নুবন্তি মহাত্মানঃ সংসিদ্ধিং পরমাং গতাঃ ||৮-১৫||",
+        "ka": "ಮಾಮುಪೇತ್ಯ ಪುನರ್ಜನ್ಮ ದುಃಖಾಲಯಮಶಾಶ್ವತಮ್ |\nನಾಪ್ನುವನ್ತಿ ಮಹಾತ್ಮಾನಃ ಸಂಸಿದ್ಧಿಂ ಪರಮಾಂ ಗತಾಃ ||೮-೧೫||"
+    },
+    "life_application": {
+        "hi": "ईश्वर में सर्वोच्च पूर्णता प्राप्त करें ताकि आप दुःख की इस अस्थायी दुनिया में फिर कभी न लौटें।",
+        "en": "Attain the supreme perfection in God so you never again return to this temporary world of sorrow.",
+        "be": "ঈশ্বরে সর্বোচ্চ পরিপূর্ণতা অর্জন করুন যাতে আপনি আর কখনও দুঃখের এই অস্থায়ী জগতে ফিরে না যান।",
+        "ka": "ಭಗವಂತನಲ್ಲಿ ಸರ್ವೋಚ್ಚ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಸಾಧಿಸಿ ಆದ್ದರಿಂದ ನೀವು ಈ ತಾತ್ಕಾಲಿಕ ದುಃಖದ ಜಗತ್ತಿಗೆ ಹಿಂತಿರುಗುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Self-Realization",
         "Detachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "मामुपेत्य",
-            "transliteration": "māmupetya",
-            "meaning": "māmupetya"
+            "transliteration": {
+                "hi": "मामुपेत्य",
+                "en": "māmupetya",
+                "be": "মামুপেত্য",
+                "ka": "ಮಾಮುಪೇತ್ಯ"
+            },
+            "meaning": {
+                "hi": "मामुपेट्या",
+                "en": "māmupetya",
+                "be": "মামুপেত্য",
+                "ka": "ಮಾಮುಪೇತ್ಯ"
+            }
         },
         {
             "sanskrit": "पुनर्जन्म",
-            "transliteration": "punarjanma",
-            "meaning": "punarjanma"
+            "transliteration": {
+                "hi": "पुनर्जन्म",
+                "en": "punarjanma",
+                "be": "পুনর্জন্ম",
+                "ka": "ಪುನರ್ಜನ್ಮ"
+            },
+            "meaning": {
+                "hi": "पुनर्जन्म",
+                "en": "punarjanma",
+                "be": "punarjanma",
+                "ka": "ಪುನರ್ಜನ್ಮ"
+            }
         },
         {
             "sanskrit": "दुःखालयमशाश्वतम्",
-            "transliteration": "duḥkhālayamaśāśvatam",
-            "meaning": "duḥkhālayamaśāśvatam"
+            "transliteration": {
+                "hi": "दुःखालयमशाश्वतम्",
+                "en": "duḥkhālayamaśāśvatam",
+                "be": "দুঃখালযমশাশ্বতম্",
+                "ka": "ದುಃಖಾಲಯಮಶಾಶ್ವತಮ್"
+            },
+            "meaning": {
+                "hi": "दु:खालयमशास्वतम्",
+                "en": "duḥkhālayamaśāśvatam",
+                "be": "দুখলয়মাশাশ্বতম",
+                "ka": "ದುಃಖಾಲಯಮಶಾಶ್ವತಮ್"
+            }
         },
         {
             "sanskrit": "नाप्नुवन्ति",
-            "transliteration": "nāpnuvanti",
-            "meaning": "nāpnuvanti"
+            "transliteration": {
+                "hi": "नाप्नुवन्ति",
+                "en": "nāpnuvanti",
+                "be": "নাপ্নুবন্তি",
+                "ka": "ನಾಪ್ನುವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नाप्नुवंती",
+                "en": "nāpnuvanti",
+                "be": "nāpnuvanti",
+                "ka": "ನಾಪ್ನುವಂತಿ"
+            }
         },
         {
             "sanskrit": "महात्मानः",
-            "transliteration": "mahātmānaḥ",
-            "meaning": "mahātmānaḥ"
+            "transliteration": {
+                "hi": "महात्मानः",
+                "en": "mahātmānaḥ",
+                "be": "মহাত্মানঃ",
+                "ka": "ಮಹಾತ್ಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "महात्मनः",
+                "en": "mahātmānaḥ",
+                "be": "মহাত্মানঃ",
+                "ka": "ಮಹಾತ್ಮನಃ"
+            }
         },
         {
             "sanskrit": "संसिद्धिं",
-            "transliteration": "saṃsiddhiṃ",
-            "meaning": "saṃsiddhiṃ"
+            "transliteration": {
+                "hi": "संसिद्धिं",
+                "en": "saṃsiddhiṃ",
+                "be": "সংসিদ্ধিং",
+                "ka": "ಸಂಸಿದ್ಧಿಂ"
+            },
+            "meaning": {
+                "hi": "संसिद्धिः",
+                "en": "saṃsiddhiṃ",
+                "be": "সংসিদ্ধি",
+                "ka": "saṃsiddhiṃ"
+            }
         },
         {
             "sanskrit": "परमां",
-            "transliteration": "paramāṃ",
-            "meaning": "paramāṃ"
+            "transliteration": {
+                "hi": "परमां",
+                "en": "paramāṃ",
+                "be": "পরমাং",
+                "ka": "ಪರಮಾಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramāṃ",
+                "be": "পরমাণ",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "गताः",
-            "transliteration": "gatāḥ",
-            "meaning": "gatāḥ"
+            "transliteration": {
+                "hi": "गताः",
+                "en": "gatāḥ",
+                "be": "গতাঃ",
+                "ka": "ಗತಾಃ"
+            },
+            "meaning": {
+                "hi": "गतः",
+                "en": "gatāḥ",
+                "be": "gatāḥ",
+                "ka": "ಗತಃ"
+            }
         }
     ],
     "tej": {

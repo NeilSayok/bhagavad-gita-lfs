@@ -14,8 +14,18 @@
         "en": "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ .\nyadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa pravakṣye ||8-11||",
         "ka": "ಯದಕ್ಷರಂ ವೇದವಿದೋ ವದನ್ತಿ\nವಿಶನ್ತಿ ಯದ್ಯತಯೋ ವೀತರಾಗಾಃ |\nಯದಿಚ್ಛನ್ತೋ ಬ್ರಹ್ಮಚರ್ಯಂ ಚರನ್ತಿ\nತತ್ತೇ ಪದಂ ಸಂಗ್ರಹೇಣ ಪ್ರವಕ್ಷ್ಯೇ ||೮-೧೧||"
     },
-    "transliteration": "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ .\nyadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa pravakṣye ||8-11||",
-    "life_application": "Seek that imperishable goal which knowers of truth enter, for which ascetics practice self-control and celibacy.",
+    "transliteration": {
+        "hi": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः |\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं संग्रहेण प्रवक्ष्ये ||८-११||",
+        "en": "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ .\nyadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa pravakṣye ||8-11||",
+        "be": "যদক্ষরং বেদবিদো বদন্তি\nবিশন্তি যদ্যতযো বীতরাগাঃ |\nযদিচ্ছন্তো ব্রহ্মচর্যং চরন্তি\nতত্তে পদং সংগ্রহেণ প্রবক্ষ্যে ||৮-১১||",
+        "ka": "ಯದಕ್ಷರಂ ವೇದವಿದೋ ವದನ್ತಿ\nವಿಶನ್ತಿ ಯದ್ಯತಯೋ ವೀತರಾಗಾಃ |\nಯದಿಚ್ಛನ್ತೋ ಬ್ರಹ್ಮಚರ್ಯಂ ಚರನ್ತಿ\nತತ್ತೇ ಪದಂ ಸಂಗ್ರಹೇಣ ಪ್ರವಕ್ಷ್ಯೇ ||೮-೧೧||"
+    },
+    "life_application": {
+        "hi": "उस अविनाशी लक्ष्य की तलाश करो जिसमें सत्य के जानने वाले प्रवेश करते हैं, जिसके लिए तपस्वी आत्म-नियंत्रण और ब्रह्मचर्य का अभ्यास करते हैं।",
+        "en": "Seek that imperishable goal which knowers of truth enter, for which ascetics practice self-control and celibacy.",
+        "be": "সেই অবিনশ্বর লক্ষ্যের সন্ধান করুন যাতে সত্যের জ্ঞানীরা প্রবেশ করে, যার জন্য তপস্বীরা আত্মনিয়ন্ত্রণ ও ব্রহ্মচর্য পালন করে।",
+        "ka": "ಸತ್ಯದ ಬಲ್ಲವರು ಪ್ರವೇಶಿಸುವ ಆ ನಾಶವಾಗದ ಗುರಿಯನ್ನು ಹುಡುಕುವುದು, ಇದಕ್ಕಾಗಿ ತಪಸ್ವಿಗಳು ಸ್ವಯಂ ನಿಯಂತ್ರಣ ಮತ್ತು ಬ್ರಹ್ಮಚರ್ಯವನ್ನು ಆಚರಿಸುತ್ತಾರೆ."
+    },
     "themes": [
         "Self-Realization",
         "Purpose"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "यदक्षरं",
-            "transliteration": "yadakṣaraṃ",
-            "meaning": "yadakṣaraṃ"
+            "transliteration": {
+                "hi": "यदक्षरं",
+                "en": "yadakṣaraṃ",
+                "be": "যদক্ষরং",
+                "ka": "ಯದಕ್ಷರಂ"
+            },
+            "meaning": {
+                "hi": "यदक्षरम्",
+                "en": "yadakṣaraṃ",
+                "be": "ইয়াদক্ষরষ",
+                "ka": "ಯಾದಕ್ಷರ"
+            }
         },
         {
             "sanskrit": "वेदविदो",
-            "transliteration": "vedavido",
-            "meaning": "vedavido"
+            "transliteration": {
+                "hi": "वेदविदो",
+                "en": "vedavido",
+                "be": "বেদবিদো",
+                "ka": "ವೇದವಿದೋ"
+            },
+            "meaning": {
+                "hi": "vedavido",
+                "en": "vedavido",
+                "be": "vedavido",
+                "ka": "ವೇದವಿಡೋ"
+            }
         },
         {
             "sanskrit": "वदन्ति",
-            "transliteration": "vadanti",
-            "meaning": "vadanti"
+            "transliteration": {
+                "hi": "वदन्ति",
+                "en": "vadanti",
+                "be": "বদন্তি",
+                "ka": "ವದನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "वदन्ति",
+                "en": "vadanti",
+                "be": "ভদন্তি",
+                "ka": "ವದಂತಿ"
+            }
         },
         {
             "sanskrit": "विशन्ति",
-            "transliteration": "viśanti",
-            "meaning": "viśanti"
+            "transliteration": {
+                "hi": "विशन्ति",
+                "en": "viśanti",
+                "be": "বিশন্তি",
+                "ka": "ವಿಶನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "विशन्ति",
+                "en": "viśanti",
+                "be": "বিশান্তি",
+                "ka": "ವಿಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "यद्यतयो",
-            "transliteration": "yadyatayo",
-            "meaning": "yadyatayo"
+            "transliteration": {
+                "hi": "यद्यतयो",
+                "en": "yadyatayo",
+                "be": "যদ্যতযো",
+                "ka": "ಯದ್ಯತಯೋ"
+            },
+            "meaning": {
+                "hi": "yadyatayo",
+                "en": "yadyatayo",
+                "be": "yadyatayo",
+                "ka": "ಯದ್ಯತಯೋ"
+            }
         },
         {
             "sanskrit": "वीतरागाः",
-            "transliteration": "vītarāgāḥ",
-            "meaning": "vītarāgāḥ"
+            "transliteration": {
+                "hi": "वीतरागाः",
+                "en": "vītarāgāḥ",
+                "be": "বীতরাগাঃ",
+                "ka": "ವೀತರಾಗಾಃ"
+            },
+            "meaning": {
+                "hi": "वीतरागाः",
+                "en": "vītarāgāḥ",
+                "be": "ভিতরঘঃ",
+                "ka": "ವಿತರಾಗಃ"
+            }
         },
         {
             "sanskrit": "यदिच्छन्तो",
-            "transliteration": "yadicchanto",
-            "meaning": "yadicchanto"
+            "transliteration": {
+                "hi": "यदिच्छन्तो",
+                "en": "yadicchanto",
+                "be": "যদিচ্ছন্তো",
+                "ka": "ಯದಿಚ್ಛನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "yadicchanto",
+                "en": "yadicchanto",
+                "be": "yadicchanto",
+                "ka": "ಯಾದಿಚ್ಛನ್ತೋ"
+            }
         },
         {
             "sanskrit": "ब्रह्मचर्यं",
-            "transliteration": "brahmacaryaṃ",
-            "meaning": "brahmacaryaṃ"
+            "transliteration": {
+                "hi": "ब्रह्मचर्यं",
+                "en": "brahmacaryaṃ",
+                "be": "ব্রহ্মচর্যং",
+                "ka": "ಬ್ರಹ್ಮಚರ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मचर्यम्",
+                "en": "brahmacaryaṃ",
+                "be": "ব্রহ্মচর্যঃ",
+                "ka": "ಬ್ರಹ್ಮಚರ್ಯ"
+            }
         },
         {
             "sanskrit": "चरन्ति",
-            "transliteration": "caranti",
-            "meaning": "caranti"
+            "transliteration": {
+                "hi": "चरन्ति",
+                "en": "caranti",
+                "be": "চরন্তি",
+                "ka": "ಚರನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "कैरेंटी",
+                "en": "caranti",
+                "be": "কারান্তি",
+                "ka": "ಕಾರಂತಿ"
+            }
         },
         {
             "sanskrit": "तत्ते",
-            "transliteration": "tatte",
-            "meaning": "tatte"
+            "transliteration": {
+                "hi": "तत्ते",
+                "en": "tatte",
+                "be": "তত্তে",
+                "ka": "ತತ್ತೇ"
+            },
+            "meaning": {
+                "hi": "tatte",
+                "en": "tatte",
+                "be": "tatte",
+                "ka": "ತಟ್ಟೆ"
+            }
         },
         {
             "sanskrit": "पदं",
-            "transliteration": "padaṃ",
-            "meaning": "padaṃ"
+            "transliteration": {
+                "hi": "पदं",
+                "en": "padaṃ",
+                "be": "পদং",
+                "ka": "ಪದಂ"
+            },
+            "meaning": {
+                "hi": "पदम्",
+                "en": "padaṃ",
+                "be": "পদ",
+                "ka": "ಪದಂ"
+            }
         },
         {
             "sanskrit": "संग्रहेण",
-            "transliteration": "saṃgraheṇa",
-            "meaning": "saṃgraheṇa"
+            "transliteration": {
+                "hi": "संग्रहेण",
+                "en": "saṃgraheṇa",
+                "be": "সংগ্রহেণ",
+                "ka": "ಸಂಗ್ರಹೇಣ"
+            },
+            "meaning": {
+                "hi": "संग्रहण",
+                "en": "saṃgraheṇa",
+                "be": "সংগৃহেণ",
+                "ka": "saṃgraheṇa"
+            }
         },
         {
             "sanskrit": "प्रवक्ष्ये",
-            "transliteration": "pravakṣye",
-            "meaning": "pravakṣye"
+            "transliteration": {
+                "hi": "प्रवक्ष्ये",
+                "en": "pravakṣye",
+                "be": "প্রবক্ষ্যে",
+                "ka": "ಪ್ರವಕ್ಷ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "प्रवक्षे",
+                "en": "pravakṣye",
+                "be": "প্রভাক্ষে",
+                "ka": "ಪ್ರವಕ್ಷ್ಯೇ"
+            }
         }
     ],
     "tej": {

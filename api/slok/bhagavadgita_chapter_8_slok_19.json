@@ -14,8 +14,18 @@
         "en": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate .\nrātryāgame.avaśaḥ pārtha prabhavatyaharāgame ||8-19||",
         "ka": "ಭೂತಗ್ರಾಮಃ ಸ ಏವಾಯಂ ಭೂತ್ವಾ ಭೂತ್ವಾ ಪ್ರಲೀಯತೇ |\nರಾತ್ರ್ಯಾಗಮೇಽವಶಃ ಪಾರ್ಥ ಪ್ರಭವತ್ಯಹರಾಗಮೇ ||೮-೧೯||"
     },
-    "transliteration": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate .\nrātryāgame.avaśaḥ pārtha prabhavatyaharāgame ||8-19||",
-    "life_application": "See how the multitude of beings repeatedly comes into existence and dissolves helplessly at the cosmic night.",
+    "transliteration": {
+        "hi": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते |\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ||८-१९||",
+        "en": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate .\nrātryāgame.avaśaḥ pārtha prabhavatyaharāgame ||8-19||",
+        "be": "ভূতগ্রামঃ স এবাযং ভূত্বা ভূত্বা প্রলীযতে |\nরাত্র্যাগমেঽবশঃ পার্থ প্রভবত্যহরাগমে ||৮-১৯||",
+        "ka": "ಭೂತಗ್ರಾಮಃ ಸ ಏವಾಯಂ ಭೂತ್ವಾ ಭೂತ್ವಾ ಪ್ರಲೀಯತೇ |\nರಾತ್ರ್ಯಾಗಮೇಽವಶಃ ಪಾರ್ಥ ಪ್ರಭವತ್ಯಹರಾಗಮೇ ||೮-೧೯||"
+    },
+    "life_application": {
+        "hi": "देखें कि कैसे प्राणियों की भीड़ बार-बार अस्तित्व में आती है और ब्रह्मांडीय रात में असहाय रूप से विलीन हो जाती है।",
+        "en": "See how the multitude of beings repeatedly comes into existence and dissolves helplessly at the cosmic night.",
+        "be": "মহাজাগতিক রাত্রে কীভাবে বহু সত্তা বারবার অস্তিত্বে আসে এবং অসহায়ভাবে বিলীন হয়ে যায় তা দেখুন।",
+        "ka": "ಜೀವಿಗಳ ಸಮೂಹವು ಹೇಗೆ ಪದೇ ಪದೇ ಅಸ್ತಿತ್ವಕ್ಕೆ ಬರುತ್ತದೆ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ರಾತ್ರಿಯಲ್ಲಿ ಅಸಹಾಯಕವಾಗಿ ಕರಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "भूतग्रामः",
-            "transliteration": "bhūtagrāmaḥ",
-            "meaning": "bhūtagrāmaḥ"
+            "transliteration": {
+                "hi": "भूतग्रामः",
+                "en": "bhūtagrāmaḥ",
+                "be": "ভূতগ্রামঃ",
+                "ka": "ಭೂತಗ್ರಾಮಃ"
+            },
+            "meaning": {
+                "hi": "भूतग्रामः",
+                "en": "bhūtagrāmaḥ",
+                "be": "ভূতগ্রামঃ",
+                "ka": "ಭೂತಾಗ್ರಾಮಃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "एवायं",
-            "transliteration": "evāyaṃ",
-            "meaning": "evāyaṃ"
+            "transliteration": {
+                "hi": "एवायं",
+                "en": "evāyaṃ",
+                "be": "এবাযং",
+                "ka": "ಏವಾಯಂ"
+            },
+            "meaning": {
+                "hi": "इवायं",
+                "en": "evāyaṃ",
+                "be": "evayaṃ",
+                "ka": "evāyaṃ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "bhūtvā"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "भूतवा",
+                "en": "bhūtvā",
+                "be": "bhūtvā",
+                "ka": "ಭೂತ್ವ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "bhūtvā"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "भूतवा",
+                "en": "bhūtvā",
+                "be": "bhūtvā",
+                "ka": "ಭೂತ್ವ"
+            }
         },
         {
             "sanskrit": "प्रलीयते",
-            "transliteration": "pralīyate",
-            "meaning": "pralīyate"
+            "transliteration": {
+                "hi": "प्रलीयते",
+                "en": "pralīyate",
+                "be": "প্রলীযতে",
+                "ka": "ಪ್ರಲೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रलीयते",
+                "en": "pralīyate",
+                "be": "প্রলিয়তে",
+                "ka": "ಪ್ರಲೀಯತೆ"
+            }
         },
         {
             "sanskrit": "रात्र्यागमेऽवशः",
-            "transliteration": "rātryāgame'vaśaḥ",
-            "meaning": "rātryāgame'vaśaḥ"
+            "transliteration": {
+                "hi": "रात्र्यागमेऽवशः",
+                "en": "rātryāgame'vaśaḥ",
+                "be": "রাত্র্যাগমেঽবশঃ",
+                "ka": "ರಾತ್ರ್ಯಾಗಮೇಽವಶಃ"
+            },
+            "meaning": {
+                "hi": "रात्रिगमेऽवशः",
+                "en": "rātryāgame'vaśaḥ",
+                "be": "rātryāgame'vashah",
+                "ka": "ರಾತ್ರಿಯಾಗಮೆ'ವಶಃ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "प्रभवत्यहरागमे",
-            "transliteration": "prabhavatyaharāgame",
-            "meaning": "prabhavatyaharāgame"
+            "transliteration": {
+                "hi": "प्रभवत्यहरागमे",
+                "en": "prabhavatyaharāgame",
+                "be": "প্রভবত্যহরাগমে",
+                "ka": "ಪ್ರಭವತ್ಯಹರಾಗಮೇ"
+            },
+            "meaning": {
+                "hi": "प्रभावत्याहारगमे",
+                "en": "prabhavatyaharāgame",
+                "be": "prabhavatyaharāgame",
+                "ka": "ಪ್ರಭಾವತ್ಯಹಾರಾಗಮೇ"
+            }
         }
     ],
     "tej": {

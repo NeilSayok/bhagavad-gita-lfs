@@ -14,8 +14,18 @@
         "en": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca .\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām ||8-12||",
         "ka": "ಸರ್ವದ್ವಾರಾಣಿ ಸಂಯಮ್ಯ ಮನೋ ಹೃದಿ ನಿರುಧ್ಯ ಚ |\nಮೂಧ್ನ್ಯಾರ್ಧಾಯಾತ್ಮನಃ ಪ್ರಾಣಮಾಸ್ಥಿತೋ ಯೋಗಧಾರಣಾಮ್ ||೮-೧೨||"
     },
-    "transliteration": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca .\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām ||8-12||",
-    "life_application": "Control all sensory gates, lock the mind in the heart, and draw vital breath to the head, established in yoga.",
+    "transliteration": {
+        "hi": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |\nमूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||",
+        "en": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca .\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām ||8-12||",
+        "be": "সর্বদ্বারাণি সংযম্য মনো হৃদি নিরুধ্য চ |\nমূধ্ন্যার্ধাযাত্মনঃ প্রাণমাস্থিতো যোগধারণাম্ ||৮-১২||",
+        "ka": "ಸರ್ವದ್ವಾರಾಣಿ ಸಂಯಮ್ಯ ಮನೋ ಹೃದಿ ನಿರುಧ್ಯ ಚ |\nಮೂಧ್ನ್ಯಾರ್ಧಾಯಾತ್ಮನಃ ಪ್ರಾಣಮಾಸ್ಥಿತೋ ಯೋಗಧಾರಣಾಮ್ ||೮-೧೨||"
+    },
+    "life_application": {
+        "hi": "सभी संवेदी द्वारों को नियंत्रित करें, मन को हृदय में बंद करें, और योग में स्थापित होकर महत्वपूर्ण सांस को सिर की ओर खींचें।",
+        "en": "Control all sensory gates, lock the mind in the heart, and draw vital breath to the head, established in yoga.",
+        "be": "সমস্ত সংবেদনশীল দ্বার নিয়ন্ত্রণ করুন, মনকে হৃদয়ে তালাবদ্ধ করুন এবং যোগে প্রতিষ্ঠিত মাথায় গুরুত্বপূর্ণ শ্বাস টানুন।",
+        "ka": "ಎಲ್ಲಾ ಸಂವೇದನಾ ದ್ವಾರಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ, ಮನಸ್ಸನ್ನು ಹೃದಯದಲ್ಲಿ ಲಾಕ್ ಮಾಡಿ ಮತ್ತು ಯೋಗದಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾದ ಪ್ರಮುಖ ಉಸಿರನ್ನು ತಲೆಗೆ ಎಳೆಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Self-Realization"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वद्वाराणि",
-            "transliteration": "sarvadvārāṇi",
-            "meaning": "sarvadvārāṇi"
+            "transliteration": {
+                "hi": "सर्वद्वाराणि",
+                "en": "sarvadvārāṇi",
+                "be": "সর্বদ্বারাণি",
+                "ka": "ಸರ್ವದ್ವಾರಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सर्वद्वारनि",
+                "en": "sarvadvārāṇi",
+                "be": "সর্বদ্বারণী",
+                "ka": "ಸರ್ವದ್ವಾರಾಣಿ"
+            }
         },
         {
             "sanskrit": "संयम्य",
-            "transliteration": "saṃyamya",
-            "meaning": "saṃyamya"
+            "transliteration": {
+                "hi": "संयम्य",
+                "en": "saṃyamya",
+                "be": "সংযম্য",
+                "ka": "ಸಂಯಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "संयम्य",
+                "en": "saṃyamya",
+                "be": "সংযম্য",
+                "ka": "ಸಂಯಮ್ಯ"
+            }
         },
         {
             "sanskrit": "मनो",
-            "transliteration": "mano",
-            "meaning": "mano"
+            "transliteration": {
+                "hi": "मनो",
+                "en": "mano",
+                "be": "মনো",
+                "ka": "ಮನೋ"
+            },
+            "meaning": {
+                "hi": "मनो",
+                "en": "mano",
+                "be": "মানো",
+                "ka": "ಮನೋ"
+            }
         },
         {
             "sanskrit": "हृदि",
-            "transliteration": "hṛdi",
-            "meaning": "hṛdi"
+            "transliteration": {
+                "hi": "हृदि",
+                "en": "hṛdi",
+                "be": "হৃদি",
+                "ka": "ಹೃದಿ"
+            },
+            "meaning": {
+                "hi": "हृदय",
+                "en": "hṛdi",
+                "be": "hṛdi",
+                "ka": "ಹೃದಿ"
+            }
         },
         {
             "sanskrit": "निरुध्य",
-            "transliteration": "nirudhya",
-            "meaning": "nirudhya"
+            "transliteration": {
+                "hi": "निरुध्य",
+                "en": "nirudhya",
+                "be": "নিরুধ্য",
+                "ka": "ನಿರುಧ್ಯ"
+            },
+            "meaning": {
+                "hi": "निरुध्या",
+                "en": "nirudhya",
+                "be": "নিরুধ্যা",
+                "ka": "ನಿರುಧ್ಯ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मूध्न्यार्धायात्मनः",
-            "transliteration": "mūdhnyārdhāyātmanaḥ",
-            "meaning": "mūdhnyārdhāyātmanaḥ"
+            "transliteration": {
+                "hi": "मूध्न्यार्धायात्मनः",
+                "en": "mūdhnyārdhāyātmanaḥ",
+                "be": "মূধ্ন্যার্ধাযাত্মনঃ",
+                "ka": "ಮೂಧ್ನ್ಯಾರ್ಧಾಯಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मुधन्यार्ध्यात्मनः",
+                "en": "mūdhnyārdhāyātmanaḥ",
+                "be": "মুধন্যার্ধ্যায়াত্মনাঃ",
+                "ka": "ಮೂಧ್ನ್ಯಾರ್ಧಾಯಾತ್ಮನಃ"
+            }
         },
         {
             "sanskrit": "प्राणमास्थितो",
-            "transliteration": "prāṇamāsthito",
-            "meaning": "prāṇamāsthito"
+            "transliteration": {
+                "hi": "प्राणमास्थितो",
+                "en": "prāṇamāsthito",
+                "be": "প্রাণমাস্থিতো",
+                "ka": "ಪ್ರಾಣಮಾಸ್ಥಿತೋ"
+            },
+            "meaning": {
+                "hi": "प्राणमस्थितो",
+                "en": "prāṇamāsthito",
+                "be": "প্রণামাস্থিতো",
+                "ka": "ಪ್ರಾಣಮಸ್ಥಿತೋ"
+            }
         },
         {
             "sanskrit": "योगधारणाम्",
-            "transliteration": "yogadhāraṇām",
-            "meaning": "yogadhāraṇām"
+            "transliteration": {
+                "hi": "योगधारणाम्",
+                "en": "yogadhāraṇām",
+                "be": "যোগধারণাম্",
+                "ka": "ಯೋಗಧಾರಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "योगधारणम्",
+                "en": "yogadhāraṇām",
+                "be": "যোগধারাম",
+                "ka": "ಯೋಗಧಾರಣೆ"
+            }
         }
     ],
     "tej": {

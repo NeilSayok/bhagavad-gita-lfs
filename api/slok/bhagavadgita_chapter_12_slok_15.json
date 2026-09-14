@@ -14,8 +14,18 @@
         "en": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
         "ka": "ಯಸ್ಮಾನ್ನೋದ್ವಿಜತೇ ಲೋಕೋ ಲೋಕಾನ್ನೋದ್ವಿಜತೇ ಚ ಯಃ |\nಹರ್ಷಾಮರ್ಷಭಯೋದ್ವೇಗೈರ್ಮುಕ್ತೋ ಯಃ ಸ ಚ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೫||"
     },
-    "transliteration": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
-    "life_application": "Do not disturb the world, and let not the world disturb you; be free from excitement, anger, fear, and anxiety.",
+    "transliteration": {
+        "hi": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||",
+        "en": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
+        "be": "যস্মান্নোদ্বিজতে লোকো লোকান্নোদ্বিজতে চ যঃ |\nহর্ষামর্ষভযোদ্বেগৈর্মুক্তো যঃ স চ মে প্রিযঃ ||১২-১৫||",
+        "ka": "ಯಸ್ಮಾನ್ನೋದ್ವಿಜತೇ ಲೋಕೋ ಲೋಕಾನ್ನೋದ್ವಿಜತೇ ಚ ಯಃ |\nಹರ್ಷಾಮರ್ಷಭಯೋದ್ವೇಗೈರ್ಮುಕ್ತೋ ಯಃ ಸ ಚ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೫||"
+    },
+    "life_application": {
+        "hi": "संसार को परेशान मत करो, और संसार तुम्हें परेशान न करे; उत्तेजना, क्रोध, भय और चिंता से मुक्त रहें।",
+        "en": "Do not disturb the world, and let not the world disturb you; be free from excitement, anger, fear, and anxiety.",
+        "be": "বিশ্বকে বিরক্ত করবেন না, এবং বিশ্ব আপনাকে বিরক্ত করবে না; উত্তেজনা, রাগ, ভয় এবং উদ্বেগ থেকে মুক্ত থাকুন।",
+        "ka": "ಜಗತ್ತನ್ನು ತೊಂದರೆಗೊಳಿಸಬೇಡಿ ಮತ್ತು ಜಗತ್ತು ನಿಮ್ಮನ್ನು ತೊಂದರೆಗೊಳಿಸದಿರಲಿ; ಉತ್ಸಾಹ, ಕೋಪ, ಭಯ ಮತ್ತು ಆತಂಕದಿಂದ ಮುಕ್ತರಾಗಿರಿ."
+    },
     "themes": [
         "Equanimity",
         "Fear",
@@ -24,83 +34,243 @@
     "word_meanings": [
         {
             "sanskrit": "यस्मात्",
-            "transliteration": "yasmāt",
-            "meaning": "for whom"
+            "transliteration": {
+                "hi": "यस्मात्",
+                "en": "yasmāt",
+                "be": "যস্মাত্",
+                "ka": "ಯಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "किसके लिए",
+                "en": "for whom",
+                "be": "কার জন্য",
+                "ka": "ಯಾರಿಗೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "उद्विजते",
-            "transliteration": "udvijate",
-            "meaning": "is agitated"
+            "transliteration": {
+                "hi": "उद्विजते",
+                "en": "udvijate",
+                "be": "উদ্বিজতে",
+                "ka": "ಉದ್ವಿಜತೇ"
+            },
+            "meaning": {
+                "hi": "उत्तेजित है",
+                "en": "is agitated",
+                "be": "উত্তেজিত হয়",
+                "ka": "ಉದ್ರೇಕಗೊಂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "लोकः",
-            "transliteration": "lokaḥ",
-            "meaning": "the world"
+            "transliteration": {
+                "hi": "लोकः",
+                "en": "lokaḥ",
+                "be": "লোকঃ",
+                "ka": "ಲೋಕಃ"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "the world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "लोकात्",
-            "transliteration": "lokāt",
-            "meaning": "from the world"
+            "transliteration": {
+                "hi": "लोकात्",
+                "en": "lokāt",
+                "be": "লোকাত্",
+                "ka": "ಲೋಕಾತ್"
+            },
+            "meaning": {
+                "hi": "दुनिया से",
+                "en": "from the world",
+                "be": "পৃথিবী থেকে",
+                "ka": "ಪ್ರಪಂಚದಿಂದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "उद्विजते",
-            "transliteration": "udvijate",
-            "meaning": "is agitated"
+            "transliteration": {
+                "hi": "उद्विजते",
+                "en": "udvijate",
+                "be": "উদ্বিজতে",
+                "ka": "ಉದ್ವಿಜತೇ"
+            },
+            "meaning": {
+                "hi": "उत्तेजित है",
+                "en": "is agitated",
+                "be": "উত্তেজিত হয়",
+                "ka": "ಉದ್ರೇಕಗೊಂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "हर्षामर्षभयोद्वेगैः",
-            "transliteration": "harṣāmarṣabhayodvegaiḥ",
-            "meaning": "by joy"
+            "transliteration": {
+                "hi": "हर्षामर्षभयोद्वेगैः",
+                "en": "harṣāmarṣabhayodvegaiḥ",
+                "be": "হর্ষামর্ষভযোদ্বেগৈঃ",
+                "ka": "ಹರ್ಷಾಮರ್ಷಭಯೋದ್ವೇಗೈಃ"
+            },
+            "meaning": {
+                "hi": "खुशी से",
+                "en": "by joy",
+                "be": "আনন্দ দ্বারা",
+                "ka": "ಸಂತೋಷದಿಂದ"
+            }
         },
         {
             "sanskrit": "मुक्तः",
-            "transliteration": "muktaḥ",
-            "meaning": "freed"
+            "transliteration": {
+                "hi": "मुक्तः",
+                "en": "muktaḥ",
+                "be": "মুক্তঃ",
+                "ka": "ಮುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "आज़ाद",
+                "en": "freed",
+                "be": "মুক্তি",
+                "ka": "ಮುಕ್ತಗೊಳಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear."
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय।",
+                "en": "dear.",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ."
+            }
         }
     ],
     "tej": {

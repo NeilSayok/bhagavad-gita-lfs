@@ -14,8 +14,18 @@
         "en": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
         "ka": "ಶ್ರೇಯೋ ಹಿ ಜ್ಞಾನಮಭ್ಯಾಸಾಜ್ಜ್ಞಾನಾದ್ಧ್ಯಾನಂ ವಿಶಿಷ್ಯತೇ |\nಧ್ಯಾನಾತ್ಕರ್ಮಫಲತ್ಯಾಗಸ್ತ್ಯಾಗಾಚ್ಛಾನ್ತಿರನನ್ತರಮ್ ||೧೨-೧೨||"
     },
-    "transliteration": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
-    "life_application": "Knowledge is better than mechanical practice; meditation excels knowledge; surrendering action fruits excels meditation, bringing immediate peace.",
+    "transliteration": {
+        "hi": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||१२-१२||",
+        "en": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
+        "be": "শ্রেযো হি জ্ঞানমভ্যাসাজ্জ্ঞানাদ্ধ্যানং বিশিষ্যতে |\nধ্যানাত্কর্মফলত্যাগস্ত্যাগাচ্ছান্তিরনন্তরম্ ||১২-১২||",
+        "ka": "ಶ್ರೇಯೋ ಹಿ ಜ್ಞಾನಮಭ್ಯಾಸಾಜ್ಜ್ಞಾನಾದ್ಧ್ಯಾನಂ ವಿಶಿಷ್ಯತೇ |\nಧ್ಯಾನಾತ್ಕರ್ಮಫಲತ್ಯಾಗಸ್ತ್ಯಾಗಾಚ್ಛಾನ್ತಿರನನ್ತರಮ್ ||೧೨-೧೨||"
+    },
+    "life_application": {
+        "hi": "ज्ञान यांत्रिक अभ्यास से बेहतर है; ध्यान ज्ञान से बढ़कर है; कर्म फल का समर्पण ध्यान से बेहतर है, जिससे तत्काल शांति मिलती है।",
+        "en": "Knowledge is better than mechanical practice; meditation excels knowledge; surrendering action fruits excels meditation, bringing immediate peace.",
+        "be": "যান্ত্রিক অনুশীলনের চেয়ে জ্ঞান উত্তম; ধ্যান জ্ঞানের উৎকর্ষ; আত্মসমর্পণ কর্মের ফল ধ্যানের উৎকর্ষ, তাৎক্ষণিক শান্তি আনয়ন করে।",
+        "ka": "ಯಾಂತ್ರಿಕ ಅಭ್ಯಾಸಕ್ಕಿಂತ ಜ್ಞಾನವು ಉತ್ತಮವಾಗಿದೆ; ಧ್ಯಾನವು ಜ್ಞಾನವನ್ನು ಮೀರಿಸುತ್ತದೆ; ಶರಣಾಗತಿ ಕ್ರಿಯೆಯ ಫಲಗಳು ಧ್ಯಾನವನ್ನು ಉತ್ತಮಗೊಳಿಸುತ್ತದೆ, ತಕ್ಷಣದ ಶಾಂತಿಯನ್ನು ತರುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Detachment",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "better"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "बेहतर",
+                "en": "better",
+                "be": "ভাল",
+                "ka": "ಉತ್ತಮ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "अभ्यासात्",
-            "transliteration": "abhyāsāt",
-            "meaning": "than practice"
+            "transliteration": {
+                "hi": "अभ्यासात्",
+                "en": "abhyāsāt",
+                "be": "অভ্যাসাত্",
+                "ka": "ಅಭ್ಯಾಸಾತ್"
+            },
+            "meaning": {
+                "hi": "अभ्यास से",
+                "en": "than practice",
+                "be": "অনুশীলনের চেয়ে",
+                "ka": "ಅಭ್ಯಾಸಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "ज्ञानात्",
-            "transliteration": "jñānāt",
-            "meaning": "than knowledge"
+            "transliteration": {
+                "hi": "ज्ञानात्",
+                "en": "jñānāt",
+                "be": "জ্ঞানাত্",
+                "ka": "ಜ್ಞಾನಾತ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान की तुलना में",
+                "en": "than knowledge",
+                "be": "জ্ঞানের চেয়ে",
+                "ka": "ಜ್ಞಾನಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "ध्यानम्",
-            "transliteration": "dhyānam",
-            "meaning": "meditation"
+            "transliteration": {
+                "hi": "ध्यानम्",
+                "en": "dhyānam",
+                "be": "ধ্যানম্",
+                "ka": "ಧ್ಯಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ध्यान",
+                "en": "meditation",
+                "be": "ধ্যান",
+                "ka": "ಧ್ಯಾನ"
+            }
         },
         {
             "sanskrit": "विशिष्यते",
-            "transliteration": "viśiṣyate",
-            "meaning": "excels"
+            "transliteration": {
+                "hi": "विशिष्यते",
+                "en": "viśiṣyate",
+                "be": "বিশিষ্যতে",
+                "ka": "ವಿಶಿಷ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "उत्कृष्टता",
+                "en": "excels",
+                "be": "এক্সেল",
+                "ka": "ಉತ್ಕೃಷ್ಟವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "ध्यानात्",
-            "transliteration": "dhyānāt",
-            "meaning": "than meditation"
+            "transliteration": {
+                "hi": "ध्यानात्",
+                "en": "dhyānāt",
+                "be": "ধ্যানাত্",
+                "ka": "ಧ್ಯಾನಾತ್"
+            },
+            "meaning": {
+                "hi": "ध्यान से",
+                "en": "than meditation",
+                "be": "ধ্যানের চেয়ে",
+                "ka": "ಧ್ಯಾನಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "कर्मफलत्यागः",
-            "transliteration": "karmaphalatyāgaḥ",
-            "meaning": "the renunciation of the"
+            "transliteration": {
+                "hi": "कर्मफलत्यागः",
+                "en": "karmaphalatyāgaḥ",
+                "be": "কর্মফলত্যাগঃ",
+                "ka": "ಕರ್ಮಫಲತ್ಯಾಗಃ"
+            },
+            "meaning": {
+                "hi": "का त्याग",
+                "en": "the renunciation of the",
+                "be": "এর ত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "त्यागात्",
-            "transliteration": "tyāgāt",
-            "meaning": "from renunciation"
+            "transliteration": {
+                "hi": "त्यागात्",
+                "en": "tyāgāt",
+                "be": "ত্যাগাত্",
+                "ka": "ತ್ಯಾಗಾತ್"
+            },
+            "meaning": {
+                "hi": "त्याग से",
+                "en": "from renunciation",
+                "be": "ত্যাগ থেকে",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "शान्तिः",
-            "transliteration": "śāntiḥ",
-            "meaning": "peace"
+            "transliteration": {
+                "hi": "शान्तिः",
+                "en": "śāntiḥ",
+                "be": "শান্তিঃ",
+                "ka": "ಶಾನ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "peace",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "अनन्तरम्",
-            "transliteration": "anantaram",
-            "meaning": "immediately."
+            "transliteration": {
+                "hi": "अनन्तरम्",
+                "en": "anantaram",
+                "be": "অনন্তরম্",
+                "ka": "ಅನನ್ತರಮ್"
+            },
+            "meaning": {
+                "hi": "तुरंत।",
+                "en": "immediately.",
+                "be": "অবিলম্বে",
+                "ka": "ತಕ್ಷಣವೇ."
+            }
         }
     ],
     "tej": {

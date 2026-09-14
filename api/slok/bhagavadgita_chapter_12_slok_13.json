@@ -14,8 +14,18 @@
         "en": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
         "ka": "ಅದ್ವೇಷ್ಟಾ ಸರ್ವಭೂತಾನಾಂ ಮೈತ್ರಃ ಕರುಣ ಏವ ಚ |\nನಿರ್ಮಮೋ ನಿರಹಙ್ಕಾರಃ ಸಮದುಃಖಸುಖಃ ಕ್ಷಮೀ ||೧೨-೧೩||"
     },
-    "transliteration": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
-    "life_application": "Bear no ill will toward any creature, be friendly, compassionate, free from possessiveness and ego, equal in pain and pleasure, forgiving.",
+    "transliteration": {
+        "hi": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||१२-१३||",
+        "en": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
+        "be": "অদ্বেষ্টা সর্বভূতানাং মৈত্রঃ করুণ এব চ |\nনির্মমো নিরহঙ্কারঃ সমদুঃখসুখঃ ক্ষমী ||১২-১৩||",
+        "ka": "ಅದ್ವೇಷ್ಟಾ ಸರ್ವಭೂತಾನಾಂ ಮೈತ್ರಃ ಕರುಣ ಏವ ಚ |\nನಿರ್ಮಮೋ ನಿರಹಙ್ಕಾರಃ ಸಮದುಃಖಸುಖಃ ಕ್ಷಮೀ ||೧೨-೧೩||"
+    },
+    "life_application": {
+        "hi": "किसी भी प्राणी के प्रति कोई दुर्भावना न रखें, मैत्रीपूर्ण, दयालु बनें, स्वामित्व और अहंकार से मुक्त हों, दर्द और खुशी में समान हों, क्षमाशील हों।",
+        "en": "Bear no ill will toward any creature, be friendly, compassionate, free from possessiveness and ego, equal in pain and pleasure, forgiving.",
+        "be": "কোন প্রাণীর প্রতি কোন খারাপ ইচ্ছা পোষণ করবেন না, বন্ধুত্বপূর্ণ, সহানুভূতিশীল, অধিকার এবং অহংকার থেকে মুক্ত, বেদনা ও আনন্দে সমান, ক্ষমাশীল।",
+        "ka": "ಯಾವುದೇ ಜೀವಿಗಳ ಬಗ್ಗೆ ಯಾವುದೇ ಕೆಟ್ಟ ಇಚ್ಛೆಯನ್ನು ಸಹಿಸಬೇಡಿ, ಸ್ನೇಹಪರ, ಸಹಾನುಭೂತಿ, ಸ್ವಾಮ್ಯಸೂಚಕತೆ ಮತ್ತು ಅಹಂಕಾರದಿಂದ ಮುಕ್ತರಾಗಿರಿ, ನೋವು ಮತ್ತು ಸಂತೋಷದಲ್ಲಿ ಸಮಾನವಾಗಿ, ಕ್ಷಮಿಸುವವರಾಗಿರಿ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अद्वेष्टा",
-            "transliteration": "adveṣṭā",
-            "meaning": "nonhater"
+            "transliteration": {
+                "hi": "अद्वेष्टा",
+                "en": "adveṣṭā",
+                "be": "অদ্বেষ্টা",
+                "ka": "ಅದ್ವೇಷ್ಟಾ"
+            },
+            "meaning": {
+                "hi": "नफरत न करने वाला",
+                "en": "nonhater",
+                "be": "অপ্রীতিকর",
+                "ka": "ದ್ವೇಷಿಸದ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानाम्",
-            "transliteration": "sarvabhūtānām",
-            "meaning": "of all creatures"
+            "transliteration": {
+                "hi": "सर्वभूतानाम्",
+                "en": "sarvabhūtānām",
+                "be": "সর্বভূতানাম্",
+                "ka": "ಸರ್ವಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सभी प्राणियों में से",
+                "en": "of all creatures",
+                "be": "সমস্ত প্রাণীর",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "मैत्रः",
-            "transliteration": "maitraḥ",
-            "meaning": "friendly"
+            "transliteration": {
+                "hi": "मैत्रः",
+                "en": "maitraḥ",
+                "be": "মৈত্রঃ",
+                "ka": "ಮೈತ್ರಃ"
+            },
+            "meaning": {
+                "hi": "मिलनसार",
+                "en": "friendly",
+                "be": "বন্ধুত্বপূর্ণ",
+                "ka": "ಸ್ನೇಹಪರ"
+            }
         },
         {
             "sanskrit": "करुणः",
-            "transliteration": "karuṇaḥ",
-            "meaning": "compassionate"
+            "transliteration": {
+                "hi": "करुणः",
+                "en": "karuṇaḥ",
+                "be": "করুণঃ",
+                "ka": "ಕರುಣಃ"
+            },
+            "meaning": {
+                "hi": "दयालु",
+                "en": "compassionate",
+                "be": "সহানুভূতিশীল",
+                "ka": "ಕರುಣಾಮಯಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "निर्ममः",
-            "transliteration": "nirmamaḥ",
-            "meaning": "without mineness"
+            "transliteration": {
+                "hi": "निर्ममः",
+                "en": "nirmamaḥ",
+                "be": "নির্মমঃ",
+                "ka": "ನಿರ್ಮಮಃ"
+            },
+            "meaning": {
+                "hi": "मेरेपन के बिना",
+                "en": "without mineness",
+                "be": "খনিতা ছাড়া",
+                "ka": "ಗಣಿತನವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "निरहङ्कारः",
-            "transliteration": "nirahaṅkāraḥ",
-            "meaning": "without egoism"
+            "transliteration": {
+                "hi": "निरहङ्कारः",
+                "en": "nirahaṅkāraḥ",
+                "be": "নিরহঙ্কারঃ",
+                "ka": "ನಿರಹಙ್ಕಾರಃ"
+            },
+            "meaning": {
+                "hi": "अहंकार के बिना",
+                "en": "without egoism",
+                "be": "অহংবোধ ছাড়া",
+                "ka": "ಅಹಂಕಾರವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "समदुःखसुखः",
-            "transliteration": "samaduḥkhasukhaḥ",
-            "meaning": "balanced in pleasure and"
+            "transliteration": {
+                "hi": "समदुःखसुखः",
+                "en": "samaduḥkhasukhaḥ",
+                "be": "সমদুঃখসুখঃ",
+                "ka": "ಸಮದುಃಖಸುಖಃ"
+            },
+            "meaning": {
+                "hi": "आनंद में संतुलित और",
+                "en": "balanced in pleasure and",
+                "be": "আনন্দ এবং ভারসাম্যপূর্ণ",
+                "ka": "ಸಂತೋಷದಲ್ಲಿ ಸಮತೋಲನ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "क्षमी",
-            "transliteration": "kṣamī",
-            "meaning": "forgiving."
+            "transliteration": {
+                "hi": "क्षमी",
+                "en": "kṣamī",
+                "be": "ক্ষমী",
+                "ka": "ಕ್ಷಮೀ"
+            },
+            "meaning": {
+                "hi": "क्षमा करना",
+                "en": "forgiving.",
+                "be": "ক্ষমাশীল",
+                "ka": "ಕ್ಷಮಿಸುವ."
+            }
         }
     ],
     "tej": {

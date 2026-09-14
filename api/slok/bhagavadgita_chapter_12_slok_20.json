@@ -14,8 +14,18 @@
         "en": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
         "ka": "ಯೇ ತು ಧರ್ಮ್ಯಾಮೃತಮಿದಂ ಯಥೋಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಶ್ರದ್ದಧಾನಾ ಮತ್ಪರಮಾ ಭಕ್ತಾಸ್ತೇಽತೀವ ಮೇ ಪ್ರಿಯಾಃ ||೧೨-೨೦||"
     },
-    "transliteration": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
-    "life_application": "Follow this immortal wisdom with faith, making God your supreme goal—become exceedingly dear to the Divine.",
+    "transliteration": {
+        "hi": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||",
+        "en": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
+        "be": "যে তু ধর্ম্যামৃতমিদং যথোক্তং পর্যুপাসতে |\nশ্রদ্দধানা মত্পরমা ভক্তাস্তেঽতীব মে প্রিযাঃ ||১২-২০||",
+        "ka": "ಯೇ ತು ಧರ್ಮ್ಯಾಮೃತಮಿದಂ ಯಥೋಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಶ್ರದ್ದಧಾನಾ ಮತ್ಪರಮಾ ಭಕ್ತಾಸ್ತೇಽತೀವ ಮೇ ಪ್ರಿಯಾಃ ||೧೨-೨೦||"
+    },
+    "life_application": {
+        "hi": "विश्वास के साथ इस अमर ज्ञान का पालन करें, ईश्वर को अपना सर्वोच्च लक्ष्य बनाएं - ईश्वर को अत्यधिक प्रिय बनें।",
+        "en": "Follow this immortal wisdom with faith, making God your supreme goal—become exceedingly dear to the Divine.",
+        "be": "বিশ্বাসের সাথে এই অমর প্রজ্ঞাকে অনুসরণ করুন, ঈশ্বরকে আপনার সর্বোচ্চ লক্ষ্য বানিয়ে দিন - ঈশ্বরের কাছে অত্যন্ত প্রিয় হয়ে উঠুন।",
+        "ka": "ಈ ಅಮರ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ನಂಬಿಕೆಯಿಂದ ಅನುಸರಿಸಿ, ದೇವರನ್ನು ನಿಮ್ಮ ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನಾಗಿ ಮಾಡಿ-ದೈವಿಕರಿಗೆ ಅತ್ಯಂತ ಪ್ರಿಯರಾಗಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Dharma"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "धर्म्यामृतम्",
-            "transliteration": "dharmyāmṛtam",
-            "meaning": "immortal Dharma"
+            "transliteration": {
+                "hi": "धर्म्यामृतम्",
+                "en": "dharmyāmṛtam",
+                "be": "ধর্ম্যামৃতম্",
+                "ka": "ಧರ್ಮ್ಯಾಮೃತಮ್"
+            },
+            "meaning": {
+                "hi": "अमर धर्म",
+                "en": "immortal Dharma",
+                "be": "অমর ধর্ম",
+                "ka": "ಅಮರ ಧರ್ಮ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "यथोक्तम्",
-            "transliteration": "yathoktam",
-            "meaning": "as declared"
+            "transliteration": {
+                "hi": "यथोक्तम्",
+                "en": "yathoktam",
+                "be": "যথোক্তম্",
+                "ka": "ಯಥೋಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "जैसा कि घोषित किया गया है",
+                "en": "as declared",
+                "be": "ঘোষিত হিসাবে",
+                "ka": "ಘೋಷಿಸಿದಂತೆ"
+            }
         },
         {
             "sanskrit": "पर्युपासते",
-            "transliteration": "paryupāsate",
-            "meaning": "follow"
+            "transliteration": {
+                "hi": "पर्युपासते",
+                "en": "paryupāsate",
+                "be": "পর্যুপাসতে",
+                "ka": "ಪರ್ಯುಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "अनुसरण करें",
+                "en": "follow",
+                "be": "অনুসরণ",
+                "ka": "ಅನುಸರಿಸಿ"
+            }
         },
         {
             "sanskrit": "श्रद्दधानाः",
-            "transliteration": "śraddadhānāḥ",
-            "meaning": "endowed with faith"
+            "transliteration": {
+                "hi": "श्रद्दधानाः",
+                "en": "śraddadhānāḥ",
+                "be": "শ্রদ্দধানাঃ",
+                "ka": "ಶ್ರದ್ದಧಾನಾಃ"
+            },
+            "meaning": {
+                "hi": "विश्वास से संपन्न",
+                "en": "endowed with faith",
+                "be": "বিশ্বাসে সমৃদ্ধ",
+                "ka": "ನಂಬಿಕೆಯಿಂದ ಕೂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "मत्परमाः",
-            "transliteration": "matparamāḥ",
-            "meaning": "regarding Me as their"
+            "transliteration": {
+                "hi": "मत्परमाः",
+                "en": "matparamāḥ",
+                "be": "মত্পরমাঃ",
+                "ka": "ಮತ್ಪರಮಾಃ"
+            },
+            "meaning": {
+                "hi": "मुझे अपना मानते हुए",
+                "en": "regarding Me as their",
+                "be": "আমাকে তাদের মনে করে",
+                "ka": "ನನ್ನನ್ನು ಅವರಂತೆ ಪರಿಗಣಿಸಿ"
+            }
         },
         {
             "sanskrit": "भक्ताः",
-            "transliteration": "bhaktāḥ",
-            "meaning": "devotees"
+            "transliteration": {
+                "hi": "भक्ताः",
+                "en": "bhaktāḥ",
+                "be": "ভক্তাঃ",
+                "ka": "ಭಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "भक्त",
+                "en": "devotees",
+                "be": "ভক্ত",
+                "ka": "ಭಕ್ತರು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "अतीव",
-            "transliteration": "atīva",
-            "meaning": "exceedingly"
+            "transliteration": {
+                "hi": "अतीव",
+                "en": "atīva",
+                "be": "অতীব",
+                "ka": "ಅತೀವ"
+            },
+            "meaning": {
+                "hi": "अत्यधिक",
+                "en": "exceedingly",
+                "be": "অতিশয়",
+                "ka": "ವಿಪರೀತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रियाः",
-            "transliteration": "priyāḥ",
-            "meaning": "dear."
+            "transliteration": {
+                "hi": "प्रियाः",
+                "en": "priyāḥ",
+                "be": "প্রিযাঃ",
+                "ka": "ಪ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय।",
+                "en": "dear.",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ."
+            }
         }
     ],
     "tej": {

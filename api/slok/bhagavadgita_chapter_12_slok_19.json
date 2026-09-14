@@ -14,8 +14,18 @@
         "en": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
         "ka": "ತುಲ್ಯನಿನ್ದಾಸ್ತುತಿರ್ಮೌನೀ ಸನ್ತುಷ್ಟೋ ಯೇನ ಕೇನಚಿತ್ |\nಅನಿಕೇತಃ ಸ್ಥಿರಮತಿರ್ಭಕ್ತಿಮಾನ್ಮೇ ಪ್ರಿಯೋ ನರಃ ||೧೨-೧೯||"
     },
-    "transliteration": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
-    "life_application": "Treat blame and praise equally, remain silent, content with anything, homeless in spirit, steady-minded, devoted to God.",
+    "transliteration": {
+        "hi": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||",
+        "en": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
+        "be": "তুল্যনিন্দাস্তুতির্মৌনী সন্তুষ্টো যেন কেনচিত্ |\nঅনিকেতঃ স্থিরমতির্ভক্তিমান্মে প্রিযো নরঃ ||১২-১৯||",
+        "ka": "ತುಲ್ಯನಿನ್ದಾಸ್ತುತಿರ್ಮೌನೀ ಸನ್ತುಷ್ಟೋ ಯೇನ ಕೇನಚಿತ್ |\nಅನಿಕೇತಃ ಸ್ಥಿರಮತಿರ್ಭಕ್ತಿಮಾನ್ಮೇ ಪ್ರಿಯೋ ನರಃ ||೧೨-೧೯||"
+    },
+    "life_application": {
+        "hi": "निंदा और स्तुति को समान समझो, चुप रहो, किसी भी चीज़ में संतुष्ट रहो, आत्मा से बेघर, स्थिरचित्त, ईश्वर के प्रति समर्पित।",
+        "en": "Treat blame and praise equally, remain silent, content with anything, homeless in spirit, steady-minded, devoted to God.",
+        "be": "দোষ এবং প্রশংসার সাথে সমানভাবে আচরণ করুন, নীরব থাকুন, যে কোনও কিছুতে সন্তুষ্ট থাকুন, আত্মায় গৃহহীন, স্থিরচিত্ত, ঈশ্বরের প্রতি নিবেদিত।",
+        "ka": "ದೂಷಣೆ ಮತ್ತು ಹೊಗಳಿಕೆಯನ್ನು ಸಮಾನವಾಗಿ ಪರಿಗಣಿಸಿ, ಮೌನವಾಗಿರಿ, ಯಾವುದರಿಂದಲೂ ತೃಪ್ತರಾಗಿರಿ, ಆತ್ಮದಲ್ಲಿ ನಿರಾಶ್ರಿತರು, ಸ್ಥಿರ ಮನಸ್ಸಿನವರು, ದೇವರಿಗೆ ಸಮರ್ಪಿತರು."
+    },
     "themes": [
         "Equanimity",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "तुल्यनिन्दास्तुतिः",
-            "transliteration": "tulyanindāstutiḥ",
-            "meaning": "to whom censure and"
+            "transliteration": {
+                "hi": "तुल्यनिन्दास्तुतिः",
+                "en": "tulyanindāstutiḥ",
+                "be": "তুল্যনিন্দাস্তুতিঃ",
+                "ka": "ತುಲ್ಯನಿನ್ದಾಸ್ತುತಿಃ"
+            },
+            "meaning": {
+                "hi": "किसको निंदा और",
+                "en": "to whom censure and",
+                "be": "কার নিন্দা এবং",
+                "ka": "ಯಾರಿಗೆ ಖಂಡನೆ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मौनी",
-            "transliteration": "maunī",
-            "meaning": "silent"
+            "transliteration": {
+                "hi": "मौनी",
+                "en": "maunī",
+                "be": "মৌনী",
+                "ka": "ಮೌನೀ"
+            },
+            "meaning": {
+                "hi": "चुप",
+                "en": "silent",
+                "be": "নীরব",
+                "ka": "ಮೌನ"
+            }
         },
         {
             "sanskrit": "सन्तुष्टः",
-            "transliteration": "santuṣṭaḥ",
-            "meaning": "contented"
+            "transliteration": {
+                "hi": "सन्तुष्टः",
+                "en": "santuṣṭaḥ",
+                "be": "সন্তুষ্টঃ",
+                "ka": "ಸನ್ತುಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "संतुष्ट",
+                "en": "contented",
+                "be": "সন্তুষ্ট",
+                "ka": "ತೃಪ್ತನಾದ"
+            }
         },
         {
             "sanskrit": "येनकेनचित्",
-            "transliteration": "yenakenacit",
-            "meaning": "with anything"
+            "transliteration": {
+                "hi": "येनकेनचित्",
+                "en": "yenakenacit",
+                "be": "যেনকেনচিত্",
+                "ka": "ಯೇನಕೇನಚಿತ್"
+            },
+            "meaning": {
+                "hi": "किसी भी चीज़ के साथ",
+                "en": "with anything",
+                "be": "যেকোনো কিছুর সাথে",
+                "ka": "ಯಾವುದರೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अनिकेतः",
-            "transliteration": "aniketaḥ",
-            "meaning": "homeless"
+            "transliteration": {
+                "hi": "अनिकेतः",
+                "en": "aniketaḥ",
+                "be": "অনিকেতঃ",
+                "ka": "ಅನಿಕೇತಃ"
+            },
+            "meaning": {
+                "hi": "बेघर",
+                "en": "homeless",
+                "be": "গৃহহীন",
+                "ka": "ನಿರಾಶ್ರಿತರು"
+            }
         },
         {
             "sanskrit": "स्थिरमतिः",
-            "transliteration": "sthiramatiḥ",
-            "meaning": "steadyminded"
+            "transliteration": {
+                "hi": "स्थिरमतिः",
+                "en": "sthiramatiḥ",
+                "be": "স্থিরমতিঃ",
+                "ka": "ಸ್ಥಿರಮತಿಃ"
+            },
+            "meaning": {
+                "hi": "स्थिरचित्त",
+                "en": "steadyminded",
+                "be": "অবিচলিত",
+                "ka": "ಸ್ಥಿರಮನಸ್ಕ"
+            }
         },
         {
             "sanskrit": "भक्तिमान्",
-            "transliteration": "bhaktimān",
-            "meaning": "full of devotion"
+            "transliteration": {
+                "hi": "भक्तिमान्",
+                "en": "bhaktimān",
+                "be": "ভক্তিমান্",
+                "ka": "ಭಕ್ತಿಮಾನ್"
+            },
+            "meaning": {
+                "hi": "भक्ति से परिपूर्ण",
+                "en": "full of devotion",
+                "be": "ভক্তিতে পূর্ণ",
+                "ka": "ಭಕ್ತಿ ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear"
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय",
+                "en": "dear",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ"
+            }
         },
         {
             "sanskrit": "नरः",
-            "transliteration": "naraḥ",
-            "meaning": "man."
+            "transliteration": {
+                "hi": "नरः",
+                "en": "naraḥ",
+                "be": "নরঃ",
+                "ka": "ನರಃ"
+            },
+            "meaning": {
+                "hi": "आदमी।",
+                "en": "man.",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಮಯ್ಯಾವೇಶ್ಯ ಮನೋ ಯೇ ಮಾಂ ನಿತ್ಯಯುಕ್ತಾ ಉಪಾಸತೇ |\nಶ್ರದ್ಧಯಾ ಪರಯೋಪೇತಾಃ ತೇ ಮೇ ಯುಕ್ತತಮಾ ಮತಾಃ ||೧೨-೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
-    "life_application": "Fix your mind on God with supreme faith and steady devotion, becoming recognized as most perfectly united in yoga.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||",
+        "en": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
+        "be": "শ্রীভগবানুবাচ |\nময্যাবেশ্য মনো যে মাং নিত্যযুক্তা উপাসতে |\nশ্রদ্ধযা পরযোপেতাঃ তে মে যুক্ততমা মতাঃ ||১২-২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಮಯ್ಯಾವೇಶ್ಯ ಮನೋ ಯೇ ಮಾಂ ನಿತ್ಯಯುಕ್ತಾ ಉಪಾಸತೇ |\nಶ್ರದ್ಧಯಾ ಪರಯೋಪೇತಾಃ ತೇ ಮೇ ಯುಕ್ತತಮಾ ಮತಾಃ ||೧೨-೨||"
+    },
+    "life_application": {
+        "hi": "सर्वोच्च विश्वास और स्थिर भक्ति के साथ अपने मन को ईश्वर पर केंद्रित करें, और योग में सबसे पूर्ण रूप से एकजुट होने के रूप में पहचाने जाएँ।",
+        "en": "Fix your mind on God with supreme faith and steady devotion, becoming recognized as most perfectly united in yoga.",
+        "be": "পরম বিশ্বাস এবং অবিচলিত ভক্তি সহ আপনার মনকে ঈশ্বরের প্রতি স্থির করুন, যোগে সবচেয়ে নিখুঁতভাবে একত্রিত হয়ে স্বীকৃত হন।",
+        "ka": "ಅತ್ಯುನ್ನತ ನಂಬಿಕೆ ಮತ್ತು ಸ್ಥಿರವಾದ ಭಕ್ತಿಯೊಂದಿಗೆ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ದೇವರ ಮೇಲೆ ಇರಿಸಿ, ಯೋಗದಲ್ಲಿ ಅತ್ಯಂತ ಪರಿಪೂರ್ಣವಾಗಿ ಐಕ್ಯವೆಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "on Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझ पर",
+                "en": "on Me",
+                "be": "আমার উপর",
+                "ka": "ನನ್ನ ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "आवेश्य",
-            "transliteration": "āveśya",
-            "meaning": "fixing"
+            "transliteration": {
+                "hi": "आवेश्य",
+                "en": "āveśya",
+                "be": "আবেশ্য",
+                "ka": "ಆವೇಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "फिक्सिंग",
+                "en": "fixing",
+                "be": "ফিক্সিং",
+                "ka": "ಫಿಕ್ಸಿಂಗ್"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "the mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "the mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "नित्ययुक्ताः",
-            "transliteration": "nityayuktāḥ",
-            "meaning": "ever steadfast"
+            "transliteration": {
+                "hi": "नित्ययुक्ताः",
+                "en": "nityayuktāḥ",
+                "be": "নিত্যযুক্তাঃ",
+                "ka": "ನಿತ್ಯಯುಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "सदैव स्थिर",
+                "en": "ever steadfast",
+                "be": "সর্বদা অবিচল",
+                "ka": "ಎಂದೆಂದಿಗೂ ಅಚಲ"
+            }
         },
         {
             "sanskrit": "उपासते",
-            "transliteration": "upāsate",
-            "meaning": "worship"
+            "transliteration": {
+                "hi": "उपासते",
+                "en": "upāsate",
+                "be": "উপাসতে",
+                "ka": "ಉಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "पूजा",
+                "en": "worship",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ"
+            }
         },
         {
             "sanskrit": "श्रद्धया",
-            "transliteration": "śraddhayā",
-            "meaning": "with faith"
+            "transliteration": {
+                "hi": "श्रद्धया",
+                "en": "śraddhayā",
+                "be": "শ্রদ্ধযা",
+                "ka": "ಶ್ರದ್ಧಯಾ"
+            },
+            "meaning": {
+                "hi": "विश्वास के साथ",
+                "en": "with faith",
+                "be": "বিশ্বাসের সাথে",
+                "ka": "ನಂಬಿಕೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "परया",
-            "transliteration": "parayā",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परया",
+                "en": "parayā",
+                "be": "পরযা",
+                "ka": "ಪರಯಾ"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "उपेताः",
-            "transliteration": "upetāḥ",
-            "meaning": "endowed"
+            "transliteration": {
+                "hi": "उपेताः",
+                "en": "upetāḥ",
+                "be": "উপেতাঃ",
+                "ka": "ಉಪೇತಾಃ"
+            },
+            "meaning": {
+                "hi": "संपन्न",
+                "en": "endowed",
+                "be": "সমৃদ্ধ",
+                "ka": "ದತ್ತಿ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "those"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वो",
+                "en": "those",
+                "be": "যারা",
+                "ka": "ಆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "युक्ततमाः",
-            "transliteration": "yuktatamāḥ",
-            "meaning": "the best versed in"
+            "transliteration": {
+                "hi": "युक्ततमाः",
+                "en": "yuktatamāḥ",
+                "be": "যুক্ততমাঃ",
+                "ka": "ಯುಕ್ತತಮಾಃ"
+            },
+            "meaning": {
+                "hi": "सबसे अच्छा ज्ञाता",
+                "en": "the best versed in",
+                "be": "সেরা পারদর্শী",
+                "ka": "ಅತ್ಯುತ್ತಮ ಪರಿಣತರು"
+            }
         },
         {
             "sanskrit": "मताः",
-            "transliteration": "matāḥ",
-            "meaning": "opinion."
+            "transliteration": {
+                "hi": "मताः",
+                "en": "matāḥ",
+                "be": "মতাঃ",
+                "ka": "ಮತಾಃ"
+            },
+            "meaning": {
+                "hi": "राय।",
+                "en": "opinion.",
+                "be": "মতামত",
+                "ka": "ಅಭಿಪ್ರಾಯ."
+            }
         }
     ],
     "tej": {

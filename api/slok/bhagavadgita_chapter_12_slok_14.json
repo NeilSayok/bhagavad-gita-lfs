@@ -14,8 +14,18 @@
         "en": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
         "ka": "ಸನ್ತುಷ್ಟಃ ಸತತಂ ಯೋಗೀ ಯತಾತ್ಮಾ ದೃಢನಿಶ್ಚಯಃ |\nಮಯ್ಯರ್ಪಿತಮನೋಬುದ್ಧಿರ್ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೪||"
     },
-    "transliteration": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
-    "life_application": "Remain ever content, self-controlled, firm in resolve, with mind and intellect dedicated to God—be a cherished devotee.",
+    "transliteration": {
+        "hi": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||",
+        "en": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
+        "be": "সন্তুষ্টঃ সততং যোগী যতাত্মা দৃঢনিশ্চযঃ |\nময্যর্পিতমনোবুদ্ধির্যো মদ্ভক্তঃ স মে প্রিযঃ ||১২-১৪||",
+        "ka": "ಸನ್ತುಷ್ಟಃ ಸತತಂ ಯೋಗೀ ಯತಾತ್ಮಾ ದೃಢನಿಶ್ಚಯಃ |\nಮಯ್ಯರ್ಪಿತಮನೋಬುದ್ಧಿರ್ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೪||"
+    },
+    "life_application": {
+        "hi": "सदैव संतुष्ट रहो, आत्म-नियंत्रित रहो, दृढ़ निश्चय करो, मन और बुद्धि को भगवान के प्रति समर्पित रखो - एक प्रिय भक्त बनो।",
+        "en": "Remain ever content, self-controlled, firm in resolve, with mind and intellect dedicated to God—be a cherished devotee.",
+        "be": "সর্বদা সন্তুষ্ট, আত্মনিয়ন্ত্রিত, সংকল্পে দৃঢ়, মন ও বুদ্ধি ভগবানের প্রতি নিবেদিত - লালন ভক্ত হন।",
+        "ka": "ಸದಾ ತೃಪ್ತರಾಗಿರಿ, ಸ್ವಯಂ ನಿಯಂತ್ರಿತರಾಗಿ, ಸಂಕಲ್ಪದಲ್ಲಿ ದೃಢವಾಗಿರಿ, ಮನಸ್ಸು ಮತ್ತು ಬುದ್ಧಿಯು ದೇವರಿಗೆ ಸಮರ್ಪಿತರಾಗಿರಿ-ಪ್ರೀತಿಯ ಭಕ್ತರಾಗಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सन्तुष्टः",
-            "transliteration": "santuṣṭaḥ",
-            "meaning": "contented"
+            "transliteration": {
+                "hi": "सन्तुष्टः",
+                "en": "santuṣṭaḥ",
+                "be": "সন্তুষ্টঃ",
+                "ka": "ಸನ್ತುಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "संतुष्ट",
+                "en": "contented",
+                "be": "সন্তুষ্ট",
+                "ka": "ತೃಪ್ತನಾದ"
+            }
         },
         {
             "sanskrit": "सततम्",
-            "transliteration": "satatam",
-            "meaning": "ever"
+            "transliteration": {
+                "hi": "सततम्",
+                "en": "satatam",
+                "be": "সততম্",
+                "ka": "ಸತತಮ್"
+            },
+            "meaning": {
+                "hi": "कभी",
+                "en": "ever",
+                "be": "কখনও",
+                "ka": "ಎಂದೆಂದಿಗೂ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "Yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "Yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "यतात्मा",
-            "transliteration": "yatātmā",
-            "meaning": "selfcontrolled"
+            "transliteration": {
+                "hi": "यतात्मा",
+                "en": "yatātmā",
+                "be": "যতাত্মা",
+                "ka": "ಯತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "स्वनियंत्रित",
+                "en": "selfcontrolled",
+                "be": "আত্মনিয়ন্ত্রিত",
+                "ka": "ಸ್ವಯಂ ನಿಯಂತ್ರಿತ"
+            }
         },
         {
             "sanskrit": "दृढनिश्चयः",
-            "transliteration": "dṛḍhaniścayaḥ",
-            "meaning": "possessed of firm,conviction"
+            "transliteration": {
+                "hi": "दृढनिश्चयः",
+                "en": "dṛḍhaniścayaḥ",
+                "be": "দৃঢনিশ্চযঃ",
+                "ka": "ದೃಢನಿಶ್ಚಯಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़, दृढ़ विश्वास से युक्त",
+                "en": "possessed of firm,conviction",
+                "be": "দৃঢ়, দৃঢ় বিশ্বাসের অধিকারী",
+                "ka": "ದೃಢ, ದೃಢವಿಶ್ವಾಸವನ್ನು ಹೊಂದಿರುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "मयि अर्पितमनोबुद्धिः",
-            "transliteration": "mayi arpitamanobuddhiḥ",
-            "meaning": "with mind and intellect"
+            "transliteration": {
+                "hi": "मयि अर्पितमनोबुद्धिः",
+                "en": "mayi arpitamanobuddhiḥ",
+                "be": "মযি অর্পিতমনোবুদ্ধিঃ",
+                "ka": "ಮಯಿ ಅರ್ಪಿತಮನೋಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "मन और बुद्धि से",
+                "en": "with mind and intellect",
+                "be": "মন এবং বুদ্ধি দিয়ে",
+                "ka": "ಮನಸ್ಸು ಮತ್ತು ಬುದ್ಧಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "मद्भक्तः",
-            "transliteration": "madbhaktaḥ",
-            "meaning": "My devotee"
+            "transliteration": {
+                "hi": "मद्भक्तः",
+                "en": "madbhaktaḥ",
+                "be": "মদ্ভক্তঃ",
+                "ka": "ಮದ್ಭಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मेरे भक्त",
+                "en": "My devotee",
+                "be": "আমার ভক্ত",
+                "ka": "ನನ್ನ ಭಕ್ತ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear."
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय।",
+                "en": "dear.",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ."
+            }
         }
     ],
     "tej": {

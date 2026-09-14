@@ -14,8 +14,18 @@
         "en": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
         "ka": "ಯೋ ನ ಹೃಷ್ಯತಿ ನ ದ್ವೇಷ್ಟಿ ನ ಶೋಚತಿ ನ ಕಾಙ್ಕ್ಷತಿ |\nಶುಭಾಶುಭಪರಿತ್ಯಾಗೀ ಭಕ್ತಿಮಾನ್ಯಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೭||"
     },
-    "transliteration": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
-    "life_application": "Neither rejoice excessively nor hate, neither grieve nor crave, abandoning both good and evil outcomes with devotion.",
+    "transliteration": {
+        "hi": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||",
+        "en": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
+        "be": "যো ন হৃষ্যতি ন দ্বেষ্টি ন শোচতি ন কাঙ্ক্ষতি |\nশুভাশুভপরিত্যাগী ভক্তিমান্যঃ স মে প্রিযঃ ||১২-১৭||",
+        "ka": "ಯೋ ನ ಹೃಷ್ಯತಿ ನ ದ್ವೇಷ್ಟಿ ನ ಶೋಚತಿ ನ ಕಾಙ್ಕ್ಷತಿ |\nಶುಭಾಶುಭಪರಿತ್ಯಾಗೀ ಭಕ್ತಿಮಾನ್ಯಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೭||"
+    },
+    "life_application": {
+        "hi": "न अत्यधिक आनन्द करो, न द्वेष करो, न शोक करो और न लालसा करो, भक्तिपूर्वक अच्छे और बुरे दोनों परिणामों को त्याग दो।",
+        "en": "Neither rejoice excessively nor hate, neither grieve nor crave, abandoning both good and evil outcomes with devotion.",
+        "be": "অত্যধিক আনন্দ করো না, ঘৃণা করো না, শোক করো না বা আকাঙ্ক্ষা করো না, ভক্তি সহকারে ভাল এবং মন্দ উভয় ফলাফল ত্যাগ করো।",
+        "ka": "ಅತಿಯಾಗಿ ಸಂತೋಷಪಡಬೇಡಿ ಅಥವಾ ದ್ವೇಷಿಸಬೇಡಿ, ದುಃಖಿಸಬೇಡಿ ಅಥವಾ ಹಂಬಲಿಸಬೇಡಿ, ಭಕ್ತಿಯಿಂದ ಒಳ್ಳೆಯ ಮತ್ತು ಕೆಟ್ಟ ಫಲಿತಾಂಶಗಳನ್ನು ತ್ಯಜಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Detachment"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हृष्यति",
-            "transliteration": "hṛṣyati",
-            "meaning": "rejoices"
+            "transliteration": {
+                "hi": "हृष्यति",
+                "en": "hṛṣyati",
+                "be": "হৃষ্যতি",
+                "ka": "ಹೃಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "आनंदित",
+                "en": "rejoices",
+                "be": "আনন্দিত",
+                "ka": "ಸಂತೋಷಪಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "द्वेष्टि",
-            "transliteration": "dveṣṭi",
-            "meaning": "hates"
+            "transliteration": {
+                "hi": "द्वेष्टि",
+                "en": "dveṣṭi",
+                "be": "দ্বেষ্টি",
+                "ka": "ದ್ವೇಷ್ಟಿ"
+            },
+            "meaning": {
+                "hi": "नफरत करता है",
+                "en": "hates",
+                "be": "ঘৃণা করে",
+                "ka": "ದ್ವೇಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "शोचति",
-            "transliteration": "śocati",
-            "meaning": "grieves"
+            "transliteration": {
+                "hi": "शोचति",
+                "en": "śocati",
+                "be": "শোচতি",
+                "ka": "ಶೋಚತಿ"
+            },
+            "meaning": {
+                "hi": "शोक करता है",
+                "en": "grieves",
+                "be": "দুঃখ পায়",
+                "ka": "ದುಃಖಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "काङ्क्षति",
-            "transliteration": "kāṅkṣati",
-            "meaning": "desires"
+            "transliteration": {
+                "hi": "काङ्क्षति",
+                "en": "kāṅkṣati",
+                "be": "কাঙ্ক্ষতি",
+                "ka": "ಕಾಙ್ಕ್ಷತಿ"
+            },
+            "meaning": {
+                "hi": "इच्छाएँ",
+                "en": "desires",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "शुभाशुभपरित्यागी",
-            "transliteration": "śubhāśubhaparityāgī",
-            "meaning": "renouncing good and evil"
+            "transliteration": {
+                "hi": "शुभाशुभपरित्यागी",
+                "en": "śubhāśubhaparityāgī",
+                "be": "শুভাশুভপরিত্যাগী",
+                "ka": "ಶುಭಾಶುಭಪರಿತ್ಯಾಗೀ"
+            },
+            "meaning": {
+                "hi": "अच्छाई और बुराई का त्याग",
+                "en": "renouncing good and evil",
+                "be": "ভাল এবং মন্দ পরিত্যাগ",
+                "ka": "ಒಳ್ಳೆಯದು ಮತ್ತು ಕೆಟ್ಟದ್ದನ್ನು ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "भक्तिमान्",
-            "transliteration": "bhaktimān",
-            "meaning": "full of devotion"
+            "transliteration": {
+                "hi": "भक्तिमान्",
+                "en": "bhaktimān",
+                "be": "ভক্তিমান্",
+                "ka": "ಭಕ್ತಿಮಾನ್"
+            },
+            "meaning": {
+                "hi": "भक्ति से परिपूर्ण",
+                "en": "full of devotion",
+                "be": "ভক্তিতে পূর্ণ",
+                "ka": "ಭಕ್ತಿ ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear."
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय।",
+                "en": "dear.",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ."
+            }
         }
     ],
     "tej": {

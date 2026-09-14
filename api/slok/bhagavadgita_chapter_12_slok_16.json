@@ -14,8 +14,18 @@
         "en": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
         "ka": "ಅನಪೇಕ್ಷಃ ಶುಚಿರ್ದಕ್ಷ ಉದಾಸೀನೋ ಗತವ್ಯಥಃ |\nಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೬||"
     },
-    "transliteration": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
-    "life_application": "Be free from selfish expectation, pure, capable, unconcerned, unagitated, abandoning all personal undertakings for credit.",
+    "transliteration": {
+        "hi": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||",
+        "en": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
+        "be": "অনপেক্ষঃ শুচির্দক্ষ উদাসীনো গতব্যথঃ |\nসর্বারম্ভপরিত্যাগী যো মদ্ভক্তঃ স মে প্রিযঃ ||১২-১৬||",
+        "ka": "ಅನಪೇಕ್ಷಃ ಶುಚಿರ್ದಕ್ಷ ಉದಾಸೀನೋ ಗತವ್ಯಥಃ |\nಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೬||"
+    },
+    "life_application": {
+        "hi": "स्वार्थी अपेक्षा से मुक्त, शुद्ध, सक्षम, निश्चिन्त, निर्लिप्त, श्रेय के लिए सभी व्यक्तिगत उपक्रमों का त्याग करें।",
+        "en": "Be free from selfish expectation, pure, capable, unconcerned, unagitated, abandoning all personal undertakings for credit.",
+        "be": "স্বার্থপর প্রত্যাশা থেকে মুক্ত, শুদ্ধ, সক্ষম, উদ্বিগ্ন, উদ্বিগ্ন, ঋণের জন্য সমস্ত ব্যক্তিগত উদ্যোগ পরিত্যাগ করুন।",
+        "ka": "ಸ್ವಾರ್ಥದ ನಿರೀಕ್ಷೆಯಿಂದ ಮುಕ್ತರಾಗಿರಿ, ಶುದ್ಧ, ಸಮರ್ಥ, ಕಾಳಜಿಯಿಲ್ಲದ, ಉದ್ರೇಕಗೊಳ್ಳದ, ಸಾಲಕ್ಕಾಗಿ ಎಲ್ಲಾ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ತ್ಯಜಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अनपेक्षः",
-            "transliteration": "anapekṣaḥ",
-            "meaning": "free from wants"
+            "transliteration": {
+                "hi": "अनपेक्षः",
+                "en": "anapekṣaḥ",
+                "be": "অনপেক্ষঃ",
+                "ka": "ಅನಪೇಕ್ಷಃ"
+            },
+            "meaning": {
+                "hi": "चाहतों से मुक्त",
+                "en": "free from wants",
+                "be": "ইচ্ছা থেকে মুক্ত",
+                "ka": "ಆಸೆಗಳಿಂದ ಮುಕ್ತ"
+            }
         },
         {
             "sanskrit": "शुचिः",
-            "transliteration": "śuciḥ",
-            "meaning": "pure"
+            "transliteration": {
+                "hi": "शुचिः",
+                "en": "śuciḥ",
+                "be": "শুচিঃ",
+                "ka": "ಶುಚಿಃ"
+            },
+            "meaning": {
+                "hi": "शुद्ध",
+                "en": "pure",
+                "be": "বিশুদ্ধ",
+                "ka": "ಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "दक्षः",
-            "transliteration": "dakṣaḥ",
-            "meaning": "expert"
+            "transliteration": {
+                "hi": "दक्षः",
+                "en": "dakṣaḥ",
+                "be": "দক্ষঃ",
+                "ka": "ದಕ್ಷಃ"
+            },
+            "meaning": {
+                "hi": "विशेषज्ञ",
+                "en": "expert",
+                "be": "বিশেষজ্ঞ",
+                "ka": "ತಜ್ಞ"
+            }
         },
         {
             "sanskrit": "उदासीनः",
-            "transliteration": "udāsīnaḥ",
-            "meaning": "unconcerned"
+            "transliteration": {
+                "hi": "उदासीनः",
+                "en": "udāsīnaḥ",
+                "be": "উদাসীনঃ",
+                "ka": "ಉದಾಸೀನಃ"
+            },
+            "meaning": {
+                "hi": "बेपरवाह",
+                "en": "unconcerned",
+                "be": "উদ্বিগ্ন",
+                "ka": "ಕಾಳಜಿಯಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "गतव्यथः",
-            "transliteration": "gatavyathaḥ",
-            "meaning": "free from pain"
+            "transliteration": {
+                "hi": "गतव्यथः",
+                "en": "gatavyathaḥ",
+                "be": "গতব্যথঃ",
+                "ka": "ಗತವ್ಯಥಃ"
+            },
+            "meaning": {
+                "hi": "दर्द से मुक्त",
+                "en": "free from pain",
+                "be": "ব্যথা থেকে মুক্ত",
+                "ka": "ನೋವಿನಿಂದ ಮುಕ್ತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वारम्भपरित्यागी",
-            "transliteration": "sarvārambhaparityāgī",
-            "meaning": "renouncing all undertakings or"
+            "transliteration": {
+                "hi": "सर्वारम्भपरित्यागी",
+                "en": "sarvārambhaparityāgī",
+                "be": "সর্বারম্ভপরিত্যাগী",
+                "ka": "ಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ"
+            },
+            "meaning": {
+                "hi": "सभी उपक्रमों का त्याग या",
+                "en": "renouncing all undertakings or",
+                "be": "সমস্ত উদ্যোগ পরিত্যাগ করা বা",
+                "ka": "ಎಲ್ಲಾ ಕಾರ್ಯಗಳನ್ನು ತ್ಯಜಿಸುವುದು ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "मद्भक्तः",
-            "transliteration": "madbhaktaḥ",
-            "meaning": "My,devotee"
+            "transliteration": {
+                "hi": "मद्भक्तः",
+                "en": "madbhaktaḥ",
+                "be": "মদ্ভক্তঃ",
+                "ka": "ಮದ್ಭಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मेरे,भक्त",
+                "en": "My,devotee",
+                "be": "আমার, ভক্ত",
+                "ka": "ನನ್ನ, ಭಕ್ತ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear.CommentarY He is free"
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय.टिप्पणी वह स्वतंत्र है",
+                "en": "dear.CommentarY He is free",
+                "be": "প্রিয়. মন্তব্যওয়াই তিনি মুক্ত",
+                "ka": "ಆತ್ಮೀಯ.ವ್ಯಾಖ್ಯಾನ ಅವರು ಸ್ವತಂತ್ರರು"
+            }
         }
     ],
     "tej": {

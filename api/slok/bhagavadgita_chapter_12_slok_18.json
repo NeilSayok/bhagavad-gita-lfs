@@ -14,8 +14,18 @@
         "en": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
         "ka": "ಸಮಃ ಶತ್ರೌ ಚ ಮಿತ್ರೇ ಚ ತಥಾ ಮಾನಾಪಮಾನಯೋಃ |\nಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು ಸಮಃ ಸಙ್ಗವಿವರ್ಜಿತಃ ||೧೨-೧೮||"
     },
-    "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
-    "life_application": "Treat friend and foe alike, remain balanced in honor and dishonor, heat and cold, pleasure and pain, free from attachment.",
+    "transliteration": {
+        "hi": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
+        "en": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
+        "be": "সমঃ শত্রৌ চ মিত্রে চ তথা মানাপমানযোঃ |\nশীতোষ্ণসুখদুঃখেষু সমঃ সঙ্গবিবর্জিতঃ ||১২-১৮||",
+        "ka": "ಸಮಃ ಶತ್ರೌ ಚ ಮಿತ್ರೇ ಚ ತಥಾ ಮಾನಾಪಮಾನಯೋಃ |\nಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು ಸಮಃ ಸಙ್ಗವಿವರ್ಜಿತಃ ||೧೨-೧೮||"
+    },
+    "life_application": {
+        "hi": "मित्र और शत्रु के साथ समान व्यवहार करें, मान और अपमान, गर्मी और सर्दी, सुख और दुख में संतुलित रहें, आसक्ति से मुक्त रहें।",
+        "en": "Treat friend and foe alike, remain balanced in honor and dishonor, heat and cold, pleasure and pain, free from attachment.",
+        "be": "বন্ধু এবং শত্রুর সাথে সমান আচরণ করুন, সম্মান এবং অসম্মান, তাপ এবং ঠান্ডা, আনন্দ এবং ব্যথা, আসক্তি থেকে মুক্ত থাকুন।",
+        "ka": "ಸ್ನೇಹಿತ ಮತ್ತು ಶತ್ರುಗಳನ್ನು ಸಮಾನವಾಗಿ ಪರಿಗಣಿಸಿ, ಗೌರವ ಮತ್ತು ಅವಮಾನ, ಶಾಖ ಮತ್ತು ಶೀತ, ಸಂತೋಷ ಮತ್ತು ನೋವು, ಬಾಂಧವ್ಯದಿಂದ ಮುಕ್ತವಾಗಿ ಸಮತೋಲನದಲ್ಲಿರಿ."
+    },
     "themes": [
         "Equanimity",
         "Detachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "समः",
-            "transliteration": "samaḥ",
-            "meaning": "samaḥ"
+            "transliteration": {
+                "hi": "समः",
+                "en": "samaḥ",
+                "be": "সমঃ",
+                "ka": "ಸಮಃ"
+            },
+            "meaning": {
+                "hi": "समः",
+                "en": "samaḥ",
+                "be": "সমঃ",
+                "ka": "ಸಮಃ"
+            }
         },
         {
             "sanskrit": "शत्रौ",
-            "transliteration": "śatrau",
-            "meaning": "śatrau"
+            "transliteration": {
+                "hi": "शत्रौ",
+                "en": "śatrau",
+                "be": "শত্রৌ",
+                "ka": "ಶತ್ರೌ"
+            },
+            "meaning": {
+                "hi": "शत्रुौ",
+                "en": "śatrau",
+                "be": "শত্রু",
+                "ka": "ಶತ್ರೌ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मित्रे",
-            "transliteration": "mitre",
-            "meaning": "mitre"
+            "transliteration": {
+                "hi": "मित्रे",
+                "en": "mitre",
+                "be": "মিত্রে",
+                "ka": "ಮಿತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "मेटर",
+                "en": "mitre",
+                "be": "মিটার",
+                "ka": "ಮೈಟರ್"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "मानापमानयोः",
-            "transliteration": "mānāpamānayoḥ",
-            "meaning": "mānāpamānayoḥ"
+            "transliteration": {
+                "hi": "मानापमानयोः",
+                "en": "mānāpamānayoḥ",
+                "be": "মানাপমানযোঃ",
+                "ka": "ಮಾನಾಪಮಾನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "मनापमानयोः",
+                "en": "mānāpamānayoḥ",
+                "be": "মানাপমনায়োঃ",
+                "ka": "ಮನಪಾಮಾನಯೋಃ"
+            }
         },
         {
             "sanskrit": "शीतोष्णसुखदुःखेषु",
-            "transliteration": "śītoṣṇasukhaduḥkheṣu",
-            "meaning": "śītoṣṇasukhaduḥkheṣu"
+            "transliteration": {
+                "hi": "शीतोष्णसुखदुःखेषु",
+                "en": "śītoṣṇasukhaduḥkheṣu",
+                "be": "শীতোষ্ণসুখদুঃখেষু",
+                "ka": "ಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು"
+            },
+            "meaning": {
+                "hi": "शीतोष्णसुखदुःक्षेषु",
+                "en": "śītoṣṇasukhaduḥkheṣu",
+                "be": "শীতোষনসুখদুঃখেসু",
+                "ka": "ಶಿತೋಷಣಸುಖದುಃಖೇಷು"
+            }
         },
         {
             "sanskrit": "समः",
-            "transliteration": "samaḥ",
-            "meaning": "samaḥ"
+            "transliteration": {
+                "hi": "समः",
+                "en": "samaḥ",
+                "be": "সমঃ",
+                "ka": "ಸಮಃ"
+            },
+            "meaning": {
+                "hi": "समः",
+                "en": "samaḥ",
+                "be": "সমঃ",
+                "ka": "ಸಮಃ"
+            }
         },
         {
             "sanskrit": "सङ्गविवर्जितः",
-            "transliteration": "saṅgavivarjitaḥ",
-            "meaning": "saṅgavivarjitaḥ"
+            "transliteration": {
+                "hi": "सङ्गविवर्जितः",
+                "en": "saṅgavivarjitaḥ",
+                "be": "সঙ্গবিবর্জিতঃ",
+                "ka": "ಸಙ್ಗವಿವರ್ಜಿತಃ"
+            },
+            "meaning": {
+                "hi": "संगविवर्जितः",
+                "en": "saṅgavivarjitaḥ",
+                "be": "সংগবিবর্জিতঃ",
+                "ka": "ಸಂಘವಿವರ್ಜಿತಃ"
+            }
         }
     ],
     "tej": {

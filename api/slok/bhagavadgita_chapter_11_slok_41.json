@@ -14,8 +14,18 @@
         "en": "sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti .\najānatā mahimānaṃ tavedaṃ mayā pramādātpraṇayena vāpi ||11-41||",
         "ka": "ಸಖೇತಿ ಮತ್ವಾ ಪ್ರಸಭಂ ಯದುಕ್ತಂ\nಹೇ ಕೃಷ್ಣ ಹೇ ಯಾದವ ಹೇ ಸಖೇತಿ |\nಅಜಾನತಾ ಮಹಿಮಾನಂ ತವೇದಂ\nಮಯಾ ಪ್ರಮಾದಾತ್ಪ್ರಣಯೇನ ವಾಪಿ ||೧೧-೪೧||"
     },
-    "transliteration": "sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti .\najānatā mahimānaṃ tavedaṃ mayā pramādātpraṇayena vāpi ||11-41||",
-    "life_application": "Ask forgiveness for having casually addressed the Divine as a mere friend out of fondness or carelessness.",
+    "transliteration": {
+        "hi": "सखेति मत्वा प्रसभं यदुक्तं\nहे कृष्ण हे यादव हे सखेति |\nअजानता महिमानं तवेदं\nमया प्रमादात्प्रणयेन वापि ||११-४१||",
+        "en": "sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti .\najānatā mahimānaṃ tavedaṃ mayā pramādātpraṇayena vāpi ||11-41||",
+        "be": "সখেতি মত্বা প্রসভং যদুক্তং\nহে কৃষ্ণ হে যাদব হে সখেতি |\nঅজানতা মহিমানং তবেদং\nমযা প্রমাদাত্প্রণযেন বাপি ||১১-৪১||",
+        "ka": "ಸಖೇತಿ ಮತ್ವಾ ಪ್ರಸಭಂ ಯದುಕ್ತಂ\nಹೇ ಕೃಷ್ಣ ಹೇ ಯಾದವ ಹೇ ಸಖೇತಿ |\nಅಜಾನತಾ ಮಹಿಮಾನಂ ತವೇದಂ\nಮಯಾ ಪ್ರಮಾದಾತ್ಪ್ರಣಯೇನ ವಾಪಿ ||೧೧-೪೧||"
+    },
+    "life_application": {
+        "hi": "स्नेह या लापरवाही के कारण भगवान को केवल मित्र कहकर संबोधित करने के लिए क्षमा मांगें।",
+        "en": "Ask forgiveness for having casually addressed the Divine as a mere friend out of fondness or carelessness.",
+        "be": "স্নেহ বা অসতর্কতার কারণে আকস্মিকভাবে ঈশ্বরকে নিছক বন্ধু হিসাবে সম্বোধন করার জন্য ক্ষমা প্রার্থনা করুন।",
+        "ka": "ಒಲವು ಅಥವಾ ಅಜಾಗರೂಕತೆಯಿಂದ ದೈವಿಕನನ್ನು ಕೇವಲ ಸ್ನೇಹಿತ ಎಂದು ಸಂಬೋಧಿಸಿದ್ದಕ್ಕಾಗಿ ಕ್ಷಮೆಯನ್ನು ಕೇಳಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "सखा",
-            "transliteration": "sakhā",
-            "meaning": "friend"
+            "transliteration": {
+                "hi": "सखा",
+                "en": "sakhā",
+                "be": "সখা",
+                "ka": "ಸಖಾ"
+            },
+            "meaning": {
+                "hi": "मित्र",
+                "en": "friend",
+                "be": "বন্ধু",
+                "ka": "ಸ್ನೇಹಿತ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "मत्वा",
-            "transliteration": "matvā",
-            "meaning": "regarding"
+            "transliteration": {
+                "hi": "मत्वा",
+                "en": "matvā",
+                "be": "মত্বা",
+                "ka": "ಮತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "के संबंध में",
+                "en": "regarding",
+                "be": "সম্পর্কিত",
+                "ka": "ಬಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "प्रसभम्",
-            "transliteration": "prasabham",
-            "meaning": "presumptuously"
+            "transliteration": {
+                "hi": "प्रसभम्",
+                "en": "prasabham",
+                "be": "প্রসভম্",
+                "ka": "ಪ್ರಸಭಮ್"
+            },
+            "meaning": {
+                "hi": "अभिमानपूर्वक",
+                "en": "presumptuously",
+                "be": "অভিমান করে",
+                "ka": "ಅಹಂಕಾರದಿಂದ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "whatever"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो भी हो",
+                "en": "whatever",
+                "be": "যাই হোক",
+                "ka": "ಏನೇ ಇರಲಿ"
+            }
         },
         {
             "sanskrit": "उक्तम्",
-            "transliteration": "uktam",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उक्तम्",
+                "en": "uktam",
+                "be": "উক্তম্",
+                "ka": "ಉಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "हे कृष्ण",
-            "transliteration": "he kṛṣṇa",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "हे कृष्ण",
+                "en": "he kṛṣṇa",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಹೇ ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "हे यादव",
-            "transliteration": "he yādava",
-            "meaning": "O Yadava"
+            "transliteration": {
+                "hi": "हे यादव",
+                "en": "he yādava",
+                "be": "হে যাদব",
+                "ka": "ಹೇ ಯಾದವ"
+            },
+            "meaning": {
+                "hi": "हे यादव!",
+                "en": "O Yadava",
+                "be": "হে যাদব",
+                "ka": "ಓ ಯಾದವ"
+            }
         },
         {
             "sanskrit": "हे सखा",
-            "transliteration": "he sakhā",
-            "meaning": "O friend"
+            "transliteration": {
+                "hi": "हे सखा",
+                "en": "he sakhā",
+                "be": "হে সখা",
+                "ka": "ಹೇ ಸಖಾ"
+            },
+            "meaning": {
+                "hi": "हे मित्र!",
+                "en": "O friend",
+                "be": "হে বন্ধু",
+                "ka": "ಓ ಗೆಳೆಯ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अजानता",
-            "transliteration": "ajānatā",
-            "meaning": "unknowing"
+            "transliteration": {
+                "hi": "अजानता",
+                "en": "ajānatā",
+                "be": "অজানতা",
+                "ka": "ಅಜಾನತಾ"
+            },
+            "meaning": {
+                "hi": "अनजान",
+                "en": "unknowing",
+                "be": "অজানা",
+                "ka": "ತಿಳಿಯದೆ"
+            }
         },
         {
             "sanskrit": "महिमानम्",
-            "transliteration": "mahimānam",
-            "meaning": "greatness"
+            "transliteration": {
+                "hi": "महिमानम्",
+                "en": "mahimānam",
+                "be": "মহিমানম্",
+                "ka": "ಮಹಿಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "महानता",
+                "en": "greatness",
+                "be": "মহানতা",
+                "ka": "ಹಿರಿಮೆ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रमादात्",
-            "transliteration": "pramādāt",
-            "meaning": "from carelessness"
+            "transliteration": {
+                "hi": "प्रमादात्",
+                "en": "pramādāt",
+                "be": "প্রমাদাত্",
+                "ka": "ಪ್ರಮಾದಾತ್"
+            },
+            "meaning": {
+                "hi": "लापरवाही से",
+                "en": "from carelessness",
+                "be": "অসাবধানতা থেকে",
+                "ka": "ಅಜಾಗರೂಕತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रणयेन",
-            "transliteration": "praṇayena",
-            "meaning": "due to love"
+            "transliteration": {
+                "hi": "प्रणयेन",
+                "en": "praṇayena",
+                "be": "প্রণযেন",
+                "ka": "ಪ್ರಣಯೇನ"
+            },
+            "meaning": {
+                "hi": "प्यार के कारण",
+                "en": "due to love",
+                "be": "ভালবাসার কারণে",
+                "ka": "ಪ್ರೀತಿಯ ಕಾರಣದಿಂದಾಗಿ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even.No"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "सम.नहीं",
+                "en": "even.No",
+                "be": "এমনকি. না",
+                "ka": "ಸಹ.ಸಂ"
+            }
         }
     ],
     "tej": {

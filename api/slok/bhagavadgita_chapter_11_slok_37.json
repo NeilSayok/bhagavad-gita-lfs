@@ -14,8 +14,18 @@
         "en": "kasmācca te na nameranmahātman garīyase brahmaṇo.apyādikartre .\nananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat ||11-37||",
         "ka": "ಕಸ್ಮಾಚ್ಚ ತೇ ನ ನಮೇರನ್ಮಹಾತ್ಮನ್\nಗರೀಯಸೇ ಬ್ರಹ್ಮಣೋಽಪ್ಯಾದಿಕರ್ತ್ರೇ |\nಅನನ್ತ ದೇವೇಶ ಜಗನ್ನಿವಾಸ\nತ್ವಮಕ್ಷರಂ ಸದಸತ್ತತ್ಪರಂ ಯತ್ ||೧೧-೩೭||"
     },
-    "transliteration": "kasmācca te na nameranmahātman garīyase brahmaṇo.apyādikartre .\nananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat ||11-37||",
-    "life_application": "Worship God as the primal creator, greater than all, infinite Lord of celestial beings, abode of the universe.",
+    "transliteration": {
+        "hi": "कस्माच्च ते न नमेरन्महात्मन्\nगरीयसे ब्रह्मणोऽप्यादिकर्त्रे |\nअनन्त देवेश जगन्निवास\nत्वमक्षरं सदसत्तत्परं यत् ||११-३७||",
+        "en": "kasmācca te na nameranmahātman garīyase brahmaṇo.apyādikartre .\nananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat ||11-37||",
+        "be": "কস্মাচ্চ তে ন নমেরন্মহাত্মন্\nগরীযসে ব্রহ্মণোঽপ্যাদিকর্ত্রে |\nঅনন্ত দেবেশ জগন্নিবাস\nত্বমক্ষরং সদসত্তত্পরং যত্ ||১১-৩৭||",
+        "ka": "ಕಸ್ಮಾಚ್ಚ ತೇ ನ ನಮೇರನ್ಮಹಾತ್ಮನ್\nಗರೀಯಸೇ ಬ್ರಹ್ಮಣೋಽಪ್ಯಾದಿಕರ್ತ್ರೇ |\nಅನನ್ತ ದೇವೇಶ ಜಗನ್ನಿವಾಸ\nತ್ವಮಕ್ಷರಂ ಸದಸತ್ತತ್ಪರಂ ಯತ್ ||೧೧-೩೭||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को आदि निर्माता, सभी से महान, दिव्य प्राणियों के अनंत स्वामी, ब्रह्मांड के निवास के रूप में पूजें।",
+        "en": "Worship God as the primal creator, greater than all, infinite Lord of celestial beings, abode of the universe.",
+        "be": "ঈশ্বরকে আদি স্রষ্টা হিসাবে উপাসনা করুন, সকলের চেয়ে বড়, স্বর্গীয় প্রাণীর অসীম প্রভু, মহাবিশ্বের আবাস।",
+        "ka": "ದೇವರನ್ನು ಮೂಲ ಸೃಷ್ಟಿಕರ್ತ, ಎಲ್ಲಕ್ಕಿಂತ ಶ್ರೇಷ್ಠ, ಆಕಾಶ ಜೀವಿಗಳ ಅನಂತ ಭಗವಂತ, ಬ್ರಹ್ಮಾಂಡದ ನಿವಾಸ ಎಂದು ಪೂಜಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,103 +33,303 @@
     "word_meanings": [
         {
             "sanskrit": "कस्मात्",
-            "transliteration": "kasmāt",
-            "meaning": "why"
+            "transliteration": {
+                "hi": "कस्मात्",
+                "en": "kasmāt",
+                "be": "কস্মাত্",
+                "ka": "ಕಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "क्यों",
+                "en": "why",
+                "be": "কেন",
+                "ka": "ಏಕೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "नमेरन्",
-            "transliteration": "nameran",
-            "meaning": "may prostrate"
+            "transliteration": {
+                "hi": "नमेरन्",
+                "en": "nameran",
+                "be": "নমেরন্",
+                "ka": "ನಮೇರನ್"
+            },
+            "meaning": {
+                "hi": "साष्टांग प्रणाम कर सकते हैं",
+                "en": "may prostrate",
+                "be": "সেজদা করতে পারে",
+                "ka": "ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಬಹುದು"
+            }
         },
         {
             "sanskrit": "महात्मन्",
-            "transliteration": "mahātman",
-            "meaning": "O greatsouled One"
+            "transliteration": {
+                "hi": "महात्मन्",
+                "en": "mahātman",
+                "be": "মহাত্মন্",
+                "ka": "ಮಹಾತ್ಮನ್"
+            },
+            "meaning": {
+                "hi": "हे महानात्मा!",
+                "en": "O greatsouled One",
+                "be": "হে মহাপ্রাণ এক",
+                "ka": "ಓ ಮಹಾಪ್ರಾಣನೇ"
+            }
         },
         {
             "sanskrit": "गरीयसे",
-            "transliteration": "garīyase",
-            "meaning": "greater"
+            "transliteration": {
+                "hi": "गरीयसे",
+                "en": "garīyase",
+                "be": "গরীযসে",
+                "ka": "ಗರೀಯಸೇ"
+            },
+            "meaning": {
+                "hi": "अधिक",
+                "en": "greater",
+                "be": "বৃহত্তর",
+                "ka": "ಹೆಚ್ಚು"
+            }
         },
         {
             "sanskrit": "ब्रह्मणः",
-            "transliteration": "brahmaṇaḥ",
-            "meaning": "of Brahma"
+            "transliteration": {
+                "hi": "ब्रह्मणः",
+                "en": "brahmaṇaḥ",
+                "be": "ব্রহ্মণঃ",
+                "ka": "ಬ್ರಹ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा का",
+                "en": "of Brahma",
+                "be": "ব্রহ্মার",
+                "ka": "ಬ್ರಹ್ಮನ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "आदिकर्त्रे",
-            "transliteration": "ādikartre",
-            "meaning": "the primal cause"
+            "transliteration": {
+                "hi": "आदिकर्त्रे",
+                "en": "ādikartre",
+                "be": "আদিকর্ত্রে",
+                "ka": "ಆದಿಕರ್ತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "मूल कारण",
+                "en": "the primal cause",
+                "be": "প্রাথমিক কারণ",
+                "ka": "ಪ್ರಾಥಮಿಕ ಕಾರಣ"
+            }
         },
         {
             "sanskrit": "अनन्त",
-            "transliteration": "ananta",
-            "meaning": "O Infinite Being"
+            "transliteration": {
+                "hi": "अनन्त",
+                "en": "ananta",
+                "be": "অনন্ত",
+                "ka": "ಅನನ್ತ"
+            },
+            "meaning": {
+                "hi": "हे अनंत अस्तित्व!",
+                "en": "O Infinite Being",
+                "be": "হে অসীম সত্তা",
+                "ka": "ಓ ಅನಂತ ಜೀವಿ"
+            }
         },
         {
             "sanskrit": "देवेश",
-            "transliteration": "deveśa",
-            "meaning": "O Lord of the"
+            "transliteration": {
+                "hi": "देवेश",
+                "en": "deveśa",
+                "be": "দেবেশ",
+                "ka": "ದೇವೇಶ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O Lord of the",
+                "be": "হে প্রভু",
+                "ka": "ಓ ಲಾರ್ಡ್ ಆಫ್ ದಿ"
+            }
         },
         {
             "sanskrit": "जगन्निवास",
-            "transliteration": "jagannivāsa",
-            "meaning": "O Abode of the"
+            "transliteration": {
+                "hi": "जगन्निवास",
+                "en": "jagannivāsa",
+                "be": "জগন্নিবাস",
+                "ka": "ಜಗನ್ನಿವಾಸ"
+            },
+            "meaning": {
+                "hi": "हे निवास स्थान",
+                "en": "O Abode of the",
+                "be": "হে আবাস",
+                "ka": "ಓ ನಿವಾಸ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अक्षरम्",
-            "transliteration": "akṣaram",
-            "meaning": "Imperishable"
+            "transliteration": {
+                "hi": "अक्षरम्",
+                "en": "akṣaram",
+                "be": "অক্ষরম্",
+                "ka": "ಅಕ್ಷರಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "Imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "the Being"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "अस्तित्व",
+                "en": "the Being",
+                "be": "সত্তা",
+                "ka": "ಬೀಯಿಂಗ್"
+            }
         },
         {
             "sanskrit": "असत्",
-            "transliteration": "asat",
-            "meaning": "nonbeing"
+            "transliteration": {
+                "hi": "असत्",
+                "en": "asat",
+                "be": "অসত্",
+                "ka": "ಅಸತ್"
+            },
+            "meaning": {
+                "hi": "न होना",
+                "en": "nonbeing",
+                "be": "noning",
+                "ka": "ಇಲ್ಲದಿರುವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "That",
+                "be": "যে",
+                "ka": "ಅದು"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "the Supreme"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "the Supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which."
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "कौन सा।",
+                "en": "which.",
+                "be": "যা",
+                "ka": "ಯಾವುದು."
+            }
         }
     ],
     "tej": {

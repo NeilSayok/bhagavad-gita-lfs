@@ -14,8 +14,18 @@
         "en": "pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān .\nna tvatsamo.astyabhyadhikaḥ kuto.anyo lokatraye.apyapratimaprabhāva ||11-43||",
         "ka": "ಪಿತಾಸಿ ಲೋಕಸ್ಯ ಚರಾಚರಸ್ಯ\nತ್ವಮಸ್ಯ ಪೂಜ್ಯಶ್ಚ ಗುರುರ್ಗರೀಯಾನ್ |\nನ ತ್ವತ್ಸಮೋಽಸ್ತ್ಯಭ್ಯಧಿಕಃ ಕುತೋಽನ್ಯೋ\nಲೋಕತ್ರಯೇಽಪ್ಯಪ್ರತಿಮಪ್ರಭಾವ ||೧೧-೪೩||"
     },
-    "transliteration": "pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān .\nna tvatsamo.astyabhyadhikaḥ kuto.anyo lokatraye.apyapratimaprabhāva ||11-43||",
-    "life_application": "Revere God as the father of all moving and unmoving things, the greatest teacher, unequaled in all worlds.",
+    "transliteration": {
+        "hi": "पितासि लोकस्य चराचरस्य\nत्वमस्य पूज्यश्च गुरुर्गरीयान् |\nन त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो\nलोकत्रयेऽप्यप्रतिमप्रभाव ||११-४३||",
+        "en": "pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān .\nna tvatsamo.astyabhyadhikaḥ kuto.anyo lokatraye.apyapratimaprabhāva ||11-43||",
+        "be": "পিতাসি লোকস্য চরাচরস্য\nত্বমস্য পূজ্যশ্চ গুরুর্গরীযান্ |\nন ত্বত্সমোঽস্ত্যভ্যধিকঃ কুতোঽন্যো\nলোকত্রযেঽপ্যপ্রতিমপ্রভাব ||১১-৪৩||",
+        "ka": "ಪಿತಾಸಿ ಲೋಕಸ್ಯ ಚರಾಚರಸ್ಯ\nತ್ವಮಸ್ಯ ಪೂಜ್ಯಶ್ಚ ಗುರುರ್ಗರೀಯಾನ್ |\nನ ತ್ವತ್ಸಮೋಽಸ್ತ್ಯಭ್ಯಧಿಕಃ ಕುತೋಽನ್ಯೋ\nಲೋಕತ್ರಯೇಽಪ್ಯಪ್ರತಿಮಪ್ರಭಾವ ||೧೧-೪೩||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सभी गतिशील और अक्रिय वस्तुओं का पिता, सबसे महान शिक्षक और सभी संसारों में अद्वितीय मानें।",
+        "en": "Revere God as the father of all moving and unmoving things, the greatest teacher, unequaled in all worlds.",
+        "be": "সমস্ত চলমান এবং অচল জিনিসের পিতা হিসাবে ঈশ্বরকে শ্রদ্ধা করুন, সর্বশ্রেষ্ঠ শিক্ষক, সমস্ত জগতে অসম।",
+        "ka": "ಎಲ್ಲಾ ಚಲಿಸುವ ಮತ್ತು ಚಲಿಸದ ವಸ್ತುಗಳ ತಂದೆಯಾಗಿ ದೇವರನ್ನು ಗೌರವಿಸಿ, ಶ್ರೇಷ್ಠ ಶಿಕ್ಷಕ, ಎಲ್ಲಾ ಪ್ರಪಂಚಗಳಲ್ಲಿ ಅಸಮಾನ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "पिता",
-            "transliteration": "pitā",
-            "meaning": "Father"
+            "transliteration": {
+                "hi": "पिता",
+                "en": "pitā",
+                "be": "পিতা",
+                "ka": "ಪಿತಾ"
+            },
+            "meaning": {
+                "hi": "पिताजी",
+                "en": "Father",
+                "be": "বাবা",
+                "ka": "ತಂದೆ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "लोकस्य",
-            "transliteration": "lokasya",
-            "meaning": "of the world"
+            "transliteration": {
+                "hi": "लोकस्य",
+                "en": "lokasya",
+                "be": "লোকস্য",
+                "ka": "ಲೋಕಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "दुनिया का",
+                "en": "of the world",
+                "be": "বিশ্বের",
+                "ka": "ಪ್ರಪಂಚದ"
+            }
         },
         {
             "sanskrit": "चराचरस्य",
-            "transliteration": "carācarasya",
-            "meaning": "of the moving and"
+            "transliteration": {
+                "hi": "चराचरस्य",
+                "en": "carācarasya",
+                "be": "চরাচরস্য",
+                "ka": "ಚರಾಚರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "चलती का और",
+                "en": "of the moving and",
+                "be": "চলন্ত এবং",
+                "ka": "ಚಲಿಸುವ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "of this"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इस का",
+                "en": "of this",
+                "be": "এই",
+                "ka": "ಇದರ"
+            }
         },
         {
             "sanskrit": "पूज्यः",
-            "transliteration": "pūjyaḥ",
-            "meaning": "to be reserved"
+            "transliteration": {
+                "hi": "पूज्यः",
+                "en": "pūjyaḥ",
+                "be": "পূজ্যঃ",
+                "ka": "ಪೂಜ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "आरक्षित किया जाना है",
+                "en": "to be reserved",
+                "be": "সংরক্ষিত করা",
+                "ka": "ಮೀಸಲಿಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "गुरुः",
-            "transliteration": "guruḥ",
-            "meaning": "the Guru"
+            "transliteration": {
+                "hi": "गुरुः",
+                "en": "guruḥ",
+                "be": "গুরুঃ",
+                "ka": "ಗುರುಃ"
+            },
+            "meaning": {
+                "hi": "गुरु",
+                "en": "the Guru",
+                "be": "গুরু",
+                "ka": "ಗುರು"
+            }
         },
         {
             "sanskrit": "गरीयान्",
-            "transliteration": "garīyān",
-            "meaning": "weightier"
+            "transliteration": {
+                "hi": "गरीयान्",
+                "en": "garīyān",
+                "be": "গরীযান্",
+                "ka": "ಗರೀಯಾನ್"
+            },
+            "meaning": {
+                "hi": "वज़नदार",
+                "en": "weightier",
+                "be": "ওজনদার",
+                "ka": "ಭಾರವಾದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्वत्समः",
-            "transliteration": "tvatsamaḥ",
-            "meaning": "eal to Thee"
+            "transliteration": {
+                "hi": "त्वत्समः",
+                "en": "tvatsamaḥ",
+                "be": "ত্বত্সমঃ",
+                "ka": "ತ್ವತ್ಸಮಃ"
+            },
+            "meaning": {
+                "hi": "तुम्हारे लिए अच्छा है",
+                "en": "eal to Thee",
+                "be": "তোমার কাছে ইল",
+                "ka": "ನಿನಗೆ eal"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अभ्यधिकः",
-            "transliteration": "abhyadhikaḥ",
-            "meaning": "surpassing"
+            "transliteration": {
+                "hi": "अभ्यधिकः",
+                "en": "abhyadhikaḥ",
+                "be": "অভ্যধিকঃ",
+                "ka": "ಅಭ್ಯಧಿಕಃ"
+            },
+            "meaning": {
+                "hi": "श्रेष्ठ",
+                "en": "surpassing",
+                "be": "অতিক্রান্ত",
+                "ka": "ಮೀರುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "कुतः",
-            "transliteration": "kutaḥ",
-            "meaning": "whence"
+            "transliteration": {
+                "hi": "कुतः",
+                "en": "kutaḥ",
+                "be": "কুতঃ",
+                "ka": "ಕುತಃ"
+            },
+            "meaning": {
+                "hi": "कहाँ से",
+                "en": "whence",
+                "be": "কোথা থেকে",
+                "ka": "ಎಲ್ಲಿಂದ"
+            }
         },
         {
             "sanskrit": "अन्यः",
-            "transliteration": "anyaḥ",
-            "meaning": "other"
+            "transliteration": {
+                "hi": "अन्यः",
+                "en": "anyaḥ",
+                "be": "অন্যঃ",
+                "ka": "ಅನ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "other",
+                "be": "অন্যান্য",
+                "ka": "ಇತರೆ"
+            }
         },
         {
             "sanskrit": "लोकत्रये",
-            "transliteration": "lokatraye",
-            "meaning": "in the three worlds"
+            "transliteration": {
+                "hi": "लोकत्रये",
+                "en": "lokatraye",
+                "be": "লোকত্রযে",
+                "ka": "ಲೋಕತ್ರಯೇ"
+            },
+            "meaning": {
+                "hi": "तीनों लोकों में",
+                "en": "in the three worlds",
+                "be": "তিন জগতে",
+                "ka": "ಮೂರು ಲೋಕಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अप्रतिमप्रभाव",
-            "transliteration": "apratimaprabhāva",
-            "meaning": "O Being of unealled"
+            "transliteration": {
+                "hi": "अप्रतिमप्रभाव",
+                "en": "apratimaprabhāva",
+                "be": "অপ্রতিমপ্রভাব",
+                "ka": "ಅಪ್ರತಿಮಪ್ರಭಾವ"
+            },
+            "meaning": {
+                "hi": "हे अप्रकाशित होना",
+                "en": "O Being of unealled",
+                "be": "O হচ্ছে unealled",
+                "ka": "ಓ ಬೀಯಿಂಗ್ ಆಫ್ ಬಿಯಿಂಗ್"
+            }
         }
     ],
     "tej": {

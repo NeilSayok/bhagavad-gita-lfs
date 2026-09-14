@@ -14,8 +14,18 @@
         "en": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .\nyogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||",
         "ka": "ಮನ್ಯಸೇ ಯದಿ ತಚ್ಛಕ್ಯಂ ಮಯಾ ದ್ರಷ್ಟುಮಿತಿ ಪ್ರಭೋ |\nಯೋಗೇಶ್ವರ ತತೋ ಮೇ ತ್ವಂ ದರ್ಶಯಾತ್ಮಾನಮವ್ಯಯಮ್ ||೧೧-೪||"
     },
-    "transliteration": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .\nyogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||",
-    "life_application": "Ask with humility to behold divine glory, acknowledging that spiritual visions are granted through divine grace.",
+    "transliteration": {
+        "hi": "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो |\nयोगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् ||११-४||",
+        "en": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .\nyogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||",
+        "be": "মন্যসে যদি তচ্ছক্যং মযা দ্রষ্টুমিতি প্রভো |\nযোগেশ্বর ততো মে ত্বং দর্শযাত্মানমব্যযম্ ||১১-৪||",
+        "ka": "ಮನ್ಯಸೇ ಯದಿ ತಚ್ಛಕ್ಯಂ ಮಯಾ ದ್ರಷ್ಟುಮಿತಿ ಪ್ರಭೋ |\nಯೋಗೇಶ್ವರ ತತೋ ಮೇ ತ್ವಂ ದರ್ಶಯಾತ್ಮಾನಮವ್ಯಯಮ್ ||೧೧-೪||"
+    },
+    "life_application": {
+        "hi": "दिव्य महिमा को देखने के लिए विनम्रता से पूछें, यह स्वीकार करते हुए कि आध्यात्मिक दर्शन दिव्य अनुग्रह के माध्यम से प्रदान किए जाते हैं।",
+        "en": "Ask with humility to behold divine glory, acknowledging that spiritual visions are granted through divine grace.",
+        "be": "নম্রতার সাথে ঐশ্বরিক মহিমা দেখার জন্য জিজ্ঞাসা করুন, স্বীকার করুন যে আধ্যাত্মিক দৃষ্টিগুলি ঐশ্বরিক অনুগ্রহের মাধ্যমে দেওয়া হয়।",
+        "ka": "ದೈವಿಕ ಮಹಿಮೆಯನ್ನು ನೋಡಲು ನಮ್ರತೆಯಿಂದ ಕೇಳಿ, ಆಧ್ಯಾತ್ಮಿಕ ದರ್ಶನಗಳು ದೈವಿಕ ಅನುಗ್ರಹದ ಮೂಲಕ ನೀಡಲ್ಪಡುತ್ತವೆ ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "मन्यसे",
-            "transliteration": "manyase",
-            "meaning": "Thou thinkest"
+            "transliteration": {
+                "hi": "मन्यसे",
+                "en": "manyase",
+                "be": "মন্যসে",
+                "ka": "ಮನ್ಯಸೇ"
+            },
+            "meaning": {
+                "hi": "आप सोचते हैं",
+                "en": "Thou thinkest",
+                "be": "তুমি ভাবছ",
+                "ka": "ನೀನು ಯೋಚಿಸು"
+            }
         },
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "शक्यम्",
-            "transliteration": "śakyam",
-            "meaning": "possible"
+            "transliteration": {
+                "hi": "शक्यम्",
+                "en": "śakyam",
+                "be": "শক্যম্",
+                "ka": "ಶಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "संभव",
+                "en": "possible",
+                "be": "সম্ভব",
+                "ka": "ಸಾಧ್ಯ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "द्रष्टुम्",
-            "transliteration": "draṣṭum",
-            "meaning": "to see"
+            "transliteration": {
+                "hi": "द्रष्टुम्",
+                "en": "draṣṭum",
+                "be": "দ্রষ্টুম্",
+                "ka": "ದ್ರಷ್ಟುಮ್"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "to see",
+                "be": "দেখতে",
+                "ka": "ನೋಡಲು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "प्रभो",
-            "transliteration": "prabho",
-            "meaning": "O Lord"
+            "transliteration": {
+                "hi": "प्रभो",
+                "en": "prabho",
+                "be": "প্রভো",
+                "ka": "ಪ್ರಭೋ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O Lord",
+                "be": "হে প্রভু",
+                "ka": "ಓ ಕರ್ತನೇ"
+            }
         },
         {
             "sanskrit": "योगेश्वर",
-            "transliteration": "yogeśvara",
-            "meaning": "O Lord of Yogins"
+            "transliteration": {
+                "hi": "योगेश्वर",
+                "en": "yogeśvara",
+                "be": "যোগেশ্বর",
+                "ka": "ಯೋಗೇಶ್ವರ"
+            },
+            "meaning": {
+                "hi": "हे योगियों के भगवान!",
+                "en": "O Lord of Yogins",
+                "be": "হে যোগীদের প্রভু",
+                "ka": "ಓ ಯೋಗಿಗಳ ಪ್ರಭು"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "दर्शय",
-            "transliteration": "darśaya",
-            "meaning": "show"
+            "transliteration": {
+                "hi": "दर्शय",
+                "en": "darśaya",
+                "be": "দর্শয",
+                "ka": "ದರ್ಶಯ"
+            },
+            "meaning": {
+                "hi": "दिखाओ",
+                "en": "show",
+                "be": "প্রদর্শন",
+                "ka": "ತೋರಿಸು"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "Self"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्व",
+                "en": "Self",
+                "be": "স্ব",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "imperishable."
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी.",
+                "en": "imperishable.",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ."
+            }
         }
     ],
     "tej": {

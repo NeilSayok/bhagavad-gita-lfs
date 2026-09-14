@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nsthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca .\nrakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ ||11-36||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸ್ಥಾನೇ ಹೃಷೀಕೇಶ ತವ ಪ್ರಕೀರ್ತ್ಯಾ\nಜಗತ್ಪ್ರಹೃಷ್ಯತ್ಯನುರಜ್ಯತೇ ಚ |\nರಕ್ಷಾಂಸಿ ಭೀತಾನಿ ದಿಶೋ ದ್ರವನ್ತಿ\nಸರ್ವೇ ನಮಸ್ಯನ್ತಿ ಚ ಸಿದ್ಧಸಙ್ಘಾಃ ||೧೧-೩೬||"
     },
-    "transliteration": "arjuna uvāca .\nsthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca .\nrakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ ||11-36||",
-    "life_application": "Rejoice that the world delights in divine glory, while negative forces flee and saintly souls bow in reverence.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nस्थाने हृषीकेश तव प्रकीर्त्या\nजगत्प्रहृष्यत्यनुरज्यते च |\nरक्षांसि भीतानि दिशो द्रवन्ति\nसर्वे नमस्यन्ति च सिद्धसङ्घाः ||११-३६||",
+        "en": "arjuna uvāca .\nsthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca .\nrakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ ||11-36||",
+        "be": "অর্জুন উবাচ |\nস্থানে হৃষীকেশ তব প্রকীর্ত্যা\nজগত্প্রহৃষ্যত্যনুরজ্যতে চ |\nরক্ষাংসি ভীতানি দিশো দ্রবন্তি\nসর্বে নমস্যন্তি চ সিদ্ধসঙ্ঘাঃ ||১১-৩৬||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸ್ಥಾನೇ ಹೃಷೀಕೇಶ ತವ ಪ್ರಕೀರ್ತ್ಯಾ\nಜಗತ್ಪ್ರಹೃಷ್ಯತ್ಯನುರಜ್ಯತೇ ಚ |\nರಕ್ಷಾಂಸಿ ಭೀತಾನಿ ದಿಶೋ ದ್ರವನ್ತಿ\nಸರ್ವೇ ನಮಸ್ಯನ್ತಿ ಚ ಸಿದ್ಧಸಙ್ಘಾಃ ||೧೧-೩೬||"
+    },
+    "life_application": {
+        "hi": "खुशी मनाइए कि दुनिया दैवीय महिमा से आनंदित होती है, जबकि नकारात्मक शक्तियां भाग जाती हैं और संत आत्माएं श्रद्धा से झुक जाती हैं।",
+        "en": "Rejoice that the world delights in divine glory, while negative forces flee and saintly souls bow in reverence.",
+        "be": "আনন্দ করুন যে বিশ্ব ঐশ্বরিক মহিমায় আনন্দিত হয়, যখন নেতিবাচক শক্তিগুলি পলায়ন করে এবং সাধু আত্মারা শ্রদ্ধায় নত হয়।",
+        "ka": "ಪ್ರಪಂಚವು ದೈವಿಕ ವೈಭವದಲ್ಲಿ ಸಂತೋಷಪಡುತ್ತದೆ ಎಂದು ಹಿಗ್ಗು, ಆದರೆ ನಕಾರಾತ್ಮಕ ಶಕ್ತಿಗಳು ಓಡಿಹೋಗುತ್ತವೆ ಮತ್ತು ಸಂತ ಆತ್ಮಗಳು ಗೌರವದಿಂದ ನಮಸ್ಕರಿಸುತ್ತವೆ."
+    },
     "themes": [
         "Devotion",
         "Dharma"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "स्थाने",
-            "transliteration": "sthāne",
-            "meaning": "it is meet"
+            "transliteration": {
+                "hi": "स्थाने",
+                "en": "sthāne",
+                "be": "স্থানে",
+                "ka": "ಸ್ಥಾನೇ"
+            },
+            "meaning": {
+                "hi": "यह मिलना है",
+                "en": "it is meet",
+                "be": "এটা দেখা হয়",
+                "ka": "ಇದು ಭೇಟಿಯಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "हृषीकेश",
-            "transliteration": "hṛṣīkeśa",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "हृषीकेश",
+                "en": "hṛṣīkeśa",
+                "be": "হৃষীকেশ",
+                "ka": "ಹೃಷೀಕೇಶ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "प्रकीर्त्या",
-            "transliteration": "prakīrtyā",
-            "meaning": "by praise"
+            "transliteration": {
+                "hi": "प्रकीर्त्या",
+                "en": "prakīrtyā",
+                "be": "প্রকীর্ত্যা",
+                "ka": "ಪ್ರಕೀರ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "प्रशंसा से",
+                "en": "by praise",
+                "be": "প্রশংসা দ্বারা",
+                "ka": "ಹೊಗಳಿಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "जगत्",
-            "transliteration": "jagat",
-            "meaning": "the world"
+            "transliteration": {
+                "hi": "जगत्",
+                "en": "jagat",
+                "be": "জগত্",
+                "ka": "ಜಗತ್"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "the world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रहृष्यति",
-            "transliteration": "prahṛṣyati",
-            "meaning": "is delighted"
+            "transliteration": {
+                "hi": "प्रहृष्यति",
+                "en": "prahṛṣyati",
+                "be": "প্রহৃষ্যতি",
+                "ka": "ಪ್ರಹೃಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "प्रसन्न है",
+                "en": "is delighted",
+                "be": "আনন্দিত হয়",
+                "ka": "ಸಂತೋಷವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अनुरज्यते",
-            "transliteration": "anurajyate",
-            "meaning": "rejoices"
+            "transliteration": {
+                "hi": "अनुरज्यते",
+                "en": "anurajyate",
+                "be": "অনুরজ্যতে",
+                "ka": "ಅನುರಜ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "आनंदित",
+                "en": "rejoices",
+                "be": "আনন্দিত",
+                "ka": "ಸಂತೋಷಪಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "रक्षांसि",
-            "transliteration": "rakṣāṃsi",
-            "meaning": "the demons"
+            "transliteration": {
+                "hi": "रक्षांसि",
+                "en": "rakṣāṃsi",
+                "be": "রক্ষাংসি",
+                "ka": "ರಕ್ಷಾಂಸಿ"
+            },
+            "meaning": {
+                "hi": "राक्षस",
+                "en": "the demons",
+                "be": "ভূত",
+                "ka": "ರಾಕ್ಷಸರು"
+            }
         },
         {
             "sanskrit": "भीतानि",
-            "transliteration": "bhītāni",
-            "meaning": "in fear"
+            "transliteration": {
+                "hi": "भीतानि",
+                "en": "bhītāni",
+                "be": "ভীতানি",
+                "ka": "ಭೀತಾನಿ"
+            },
+            "meaning": {
+                "hi": "डर में",
+                "en": "in fear",
+                "be": "ভয়ে",
+                "ka": "ಭಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "दिशः",
-            "transliteration": "diśaḥ",
-            "meaning": "to all arters"
+            "transliteration": {
+                "hi": "दिशः",
+                "en": "diśaḥ",
+                "be": "দিশঃ",
+                "ka": "ದಿಶಃ"
+            },
+            "meaning": {
+                "hi": "सभी कलाओं को",
+                "en": "to all arters",
+                "be": "সমস্ত আর্টারে",
+                "ka": "ಎಲ್ಲಾ ಅಪಧಮನಿಗಳಿಗೆ"
+            }
         },
         {
             "sanskrit": "द्रवन्ति",
-            "transliteration": "dravanti",
-            "meaning": "fly"
+            "transliteration": {
+                "hi": "द्रवन्ति",
+                "en": "dravanti",
+                "be": "দ্রবন্তি",
+                "ka": "ದ್ರವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "उड़ना",
+                "en": "fly",
+                "be": "মাছি",
+                "ka": "ಹಾರುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "नमस्यन्ति",
-            "transliteration": "namasyanti",
-            "meaning": "bow"
+            "transliteration": {
+                "hi": "नमस्यन्ति",
+                "en": "namasyanti",
+                "be": "নমস্যন্তি",
+                "ka": "ನಮಸ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "झुकना",
+                "en": "bow",
+                "be": "নম",
+                "ka": "ಬಿಲ್ಲು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सिद्धसङ्घाः",
-            "transliteration": "siddhasaṅghāḥ",
-            "meaning": "the hosts of the"
+            "transliteration": {
+                "hi": "सिद्धसङ्घाः",
+                "en": "siddhasaṅghāḥ",
+                "be": "সিদ্ধসঙ্ঘাঃ",
+                "ka": "ಸಿದ್ಧಸಙ್ಘಾಃ"
+            },
+            "meaning": {
+                "hi": "के मेजबान",
+                "en": "the hosts of the",
+                "be": "এর হোস্ট",
+                "ka": "ಆತಿಥೇಯರು"
+            }
         }
     ],
     "tej": {

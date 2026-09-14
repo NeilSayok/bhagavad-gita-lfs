@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\netacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī .\nnamaskṛtvā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya ||11-35||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏತಚ್ಛ್ರುತ್ವಾ ವಚನಂ ಕೇಶವಸ್ಯ\nಕೃತಾಞ್ಜಲಿರ್ವೇಪಮಾನಃ ಕಿರೀಟೀ |\nನಮಸ್ಕೃತ್ವಾ ಭೂಯ ಏವಾಹ ಕೃಷ್ಣಂ\nಸಗದ್ಗದಂ ಭೀತಭೀತಃ ಪ್ರಣಮ್ಯ ||೧೧-೩೫||"
     },
-    "transliteration": "sañjaya uvāca .\netacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī .\nnamaskṛtvā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya ||11-35||",
-    "life_application": "Hearing these words of time, bow down with trembling hands and offer your humble, loving praise.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nएतच्छ्रुत्वा वचनं केशवस्य\nकृताञ्जलिर्वेपमानः किरीटी |\nनमस्कृत्वा भूय एवाह कृष्णं\nसगद्गदं भीतभीतः प्रणम्य ||११-३५||",
+        "en": "sañjaya uvāca .\netacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī .\nnamaskṛtvā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya ||11-35||",
+        "be": "সঞ্জয উবাচ |\nএতচ্ছ্রুত্বা বচনং কেশবস্য\nকৃতাঞ্জলির্বেপমানঃ কিরীটী |\nনমস্কৃত্বা ভূয এবাহ কৃষ্ণং\nসগদ্গদং ভীতভীতঃ প্রণম্য ||১১-৩৫||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏತಚ್ಛ್ರುತ್ವಾ ವಚನಂ ಕೇಶವಸ್ಯ\nಕೃತಾಞ್ಜಲಿರ್ವೇಪಮಾನಃ ಕಿರೀಟೀ |\nನಮಸ್ಕೃತ್ವಾ ಭೂಯ ಏವಾಹ ಕೃಷ್ಣಂ\nಸಗದ್ಗದಂ ಭೀತಭೀತಃ ಪ್ರಣಮ್ಯ ||೧೧-೩೫||"
+    },
+    "life_application": {
+        "hi": "समय के इन शब्दों को सुनकर, कांपते हाथों से झुकें और अपनी विनम्र, प्रेमपूर्ण स्तुति करें।",
+        "en": "Hearing these words of time, bow down with trembling hands and offer your humble, loving praise.",
+        "be": "সময়ের এই শব্দগুলি শুনে, কাঁপা হাতে প্রণাম করুন এবং আপনার নম্র, প্রেমময় প্রশংসা করুন।",
+        "ka": "ಸಮಯದ ಈ ಮಾತುಗಳನ್ನು ಕೇಳಿ, ನಡುಗುವ ಕೈಗಳಿಂದ ನಮಸ್ಕರಿಸಿ ಮತ್ತು ನಿಮ್ಮ ವಿನಮ್ರ, ಪ್ರೀತಿಯ ಪ್ರಶಂಸೆಯನ್ನು ಅರ್ಪಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "श्रुत्वा",
-            "transliteration": "śrutvā",
-            "meaning": "having heard"
+            "transliteration": {
+                "hi": "श्रुत्वा",
+                "en": "śrutvā",
+                "be": "শ্রুত্বা",
+                "ka": "ಶ್ರುತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "सुना है",
+                "en": "having heard",
+                "be": "শুনেছি",
+                "ka": "ಕೇಳಿದ"
+            }
         },
         {
             "sanskrit": "वचनम्",
-            "transliteration": "vacanam",
-            "meaning": "speech"
+            "transliteration": {
+                "hi": "वचनम्",
+                "en": "vacanam",
+                "be": "বচনম্",
+                "ka": "ವಚನಮ್"
+            },
+            "meaning": {
+                "hi": "भाषण",
+                "en": "speech",
+                "be": "বক্তৃতা",
+                "ka": "ಭಾಷಣ"
+            }
         },
         {
             "sanskrit": "केशवस्य",
-            "transliteration": "keśavasya",
-            "meaning": "of Kesava"
+            "transliteration": {
+                "hi": "केशवस्य",
+                "en": "keśavasya",
+                "be": "কেশবস্য",
+                "ka": "ಕೇಶವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "केशव का",
+                "en": "of Kesava",
+                "be": "কেশভার",
+                "ka": "ಕೇಶವನ"
+            }
         },
         {
             "sanskrit": "कृताञ्जलिः",
-            "transliteration": "kṛtāñjaliḥ",
-            "meaning": "with joined palms"
+            "transliteration": {
+                "hi": "कृताञ्जलिः",
+                "en": "kṛtāñjaliḥ",
+                "be": "কৃতাঞ্জলিঃ",
+                "ka": "ಕೃತಾಞ್ಜಲಿಃ"
+            },
+            "meaning": {
+                "hi": "जुड़ी हुई हथेलियों के साथ",
+                "en": "with joined palms",
+                "be": "যোগ করা হাতের তালু দিয়ে",
+                "ka": "ಸೇರಿಕೊಂಡ ಅಂಗೈಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "वेपमानः",
-            "transliteration": "vepamānaḥ",
-            "meaning": "trembling"
+            "transliteration": {
+                "hi": "वेपमानः",
+                "en": "vepamānaḥ",
+                "be": "বেপমানঃ",
+                "ka": "ವೇಪಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "हिलता हुआ",
+                "en": "trembling",
+                "be": "কম্পন",
+                "ka": "ನಡುಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "किरीटि",
-            "transliteration": "kirīṭi",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "किरीटि",
+                "en": "kirīṭi",
+                "be": "কিরীটি",
+                "ka": "ಕಿರೀಟಿ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "नमस्कृत्वा",
-            "transliteration": "namaskṛtvā",
-            "meaning": "prostrating"
+            "transliteration": {
+                "hi": "नमस्कृत्वा",
+                "en": "namaskṛtvā",
+                "be": "নমস্কৃত্বা",
+                "ka": "ನಮಸ್ಕೃತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "साष्टांग प्रणाम",
+                "en": "prostrating",
+                "be": "প্রণাম",
+                "ka": "ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "आह",
-            "transliteration": "āha",
-            "meaning": "addressed"
+            "transliteration": {
+                "hi": "आह",
+                "en": "āha",
+                "be": "আহ",
+                "ka": "ಆಹ"
+            },
+            "meaning": {
+                "hi": "संबोधित",
+                "en": "addressed",
+                "be": "সম্বোধন",
+                "ka": "ಸಂಬೋಧಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "कृष्णम्",
-            "transliteration": "kṛṣṇam",
-            "meaning": "to Krishna"
+            "transliteration": {
+                "hi": "कृष्णम्",
+                "en": "kṛṣṇam",
+                "be": "কৃষ্ণম্",
+                "ka": "ಕೃಷ್ಣಮ್"
+            },
+            "meaning": {
+                "hi": "कृष्ण को",
+                "en": "to Krishna",
+                "be": "কৃষ্ণের কাছে",
+                "ka": "ಕೃಷ್ಣನಿಗೆ"
+            }
         },
         {
             "sanskrit": "सगद्गदम्",
-            "transliteration": "sagadgadam",
-            "meaning": "in a choked voice"
+            "transliteration": {
+                "hi": "सगद्गदम्",
+                "en": "sagadgadam",
+                "be": "সগদ্গদম্",
+                "ka": "ಸಗದ್ಗದಮ್"
+            },
+            "meaning": {
+                "hi": "दबी हुई आवाज में",
+                "en": "in a choked voice",
+                "be": "দম বন্ধ গলায়",
+                "ka": "ಉಸಿರುಗಟ್ಟಿದ ಧ್ವನಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "भीतभीतः",
-            "transliteration": "bhītabhītaḥ",
-            "meaning": "overwhelmed with fear"
+            "transliteration": {
+                "hi": "भीतभीतः",
+                "en": "bhītabhītaḥ",
+                "be": "ভীতভীতঃ",
+                "ka": "ಭೀತಭೀತಃ"
+            },
+            "meaning": {
+                "hi": "भय से अभिभूत",
+                "en": "overwhelmed with fear",
+                "be": "ভয়ে অভিভূত",
+                "ka": "ಭಯ ಆವರಿಸಿತು"
+            }
         },
         {
             "sanskrit": "प्रणम्य",
-            "transliteration": "praṇamya",
-            "meaning": "having prostrated."
+            "transliteration": {
+                "hi": "प्रणम्य",
+                "en": "praṇamya",
+                "be": "প্রণম্য",
+                "ka": "ಪ್ರಣಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "साष्टांग प्रणाम करना.",
+                "en": "having prostrated.",
+                "be": "সেজদা করা",
+                "ka": "ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಿದ."
+            }
         }
     ],
     "tej": {

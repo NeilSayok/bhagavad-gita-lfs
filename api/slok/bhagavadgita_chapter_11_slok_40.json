@@ -14,8 +14,18 @@
         "en": "namaḥ purastādatha pṛṣṭhataste namo.astu te sarvata eva sarva .\nanantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato.asi sarvaḥ ||11-40||",
         "ka": "ನಮಃ ಪುರಸ್ತಾದಥ ಪೃಷ್ಠತಸ್ತೇ\nನಮೋಽಸ್ತು ತೇ ಸರ್ವತ ಏವ ಸರ್ವ |\nಅನನ್ತವೀರ್ಯಾಮಿತವಿಕ್ರಮಸ್ತ್ವಂ\nಸರ್ವಂ ಸಮಾಪ್ನೋಷಿ ತತೋಽಸಿ ಸರ್ವಃ ||೧೧-೪೦||"
     },
-    "transliteration": "namaḥ purastādatha pṛṣṭhataste namo.astu te sarvata eva sarva .\nanantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato.asi sarvaḥ ||11-40||",
-    "life_application": "Offer salutations from the front, from behind, and from every side, honoring infinite power pervading all.",
+    "transliteration": {
+        "hi": "नमः पुरस्तादथ पृष्ठतस्ते\nनमोऽस्तु ते सर्वत एव सर्व |\nअनन्तवीर्यामितविक्रमस्त्वं\nसर्वं समाप्नोषि ततोऽसि सर्वः ||११-४०||",
+        "en": "namaḥ purastādatha pṛṣṭhataste namo.astu te sarvata eva sarva .\nanantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato.asi sarvaḥ ||11-40||",
+        "be": "নমঃ পুরস্তাদথ পৃষ্ঠতস্তে\nনমোঽস্তু তে সর্বত এব সর্ব |\nঅনন্তবীর্যামিতবিক্রমস্ত্বং\nসর্বং সমাপ্নোষি ততোঽসি সর্বঃ ||১১-৪০||",
+        "ka": "ನಮಃ ಪುರಸ್ತಾದಥ ಪೃಷ್ಠತಸ್ತೇ\nನಮೋಽಸ್ತು ತೇ ಸರ್ವತ ಏವ ಸರ್ವ |\nಅನನ್ತವೀರ್ಯಾಮಿತವಿಕ್ರಮಸ್ತ್ವಂ\nಸರ್ವಂ ಸಮಾಪ್ನೋಷಿ ತತೋಽಸಿ ಸರ್ವಃ ||೧೧-೪೦||"
+    },
+    "life_application": {
+        "hi": "सबमें व्याप्त अनंत शक्ति का सम्मान करते हुए आगे से, पीछे से और हर ओर से नमस्कार करें।",
+        "en": "Offer salutations from the front, from behind, and from every side, honoring infinite power pervading all.",
+        "be": "সামনে থেকে, পিছন থেকে এবং চারদিক থেকে নমস্কার করুন, সর্বব্যাপী অসীম শক্তিকে সম্মান করুন।",
+        "ka": "ಮುಂಭಾಗದಿಂದ, ಹಿಂದಿನಿಂದ ಮತ್ತು ಪ್ರತಿಯೊಂದು ಕಡೆಯಿಂದ ನಮಸ್ಕಾರಗಳನ್ನು ಸಲ್ಲಿಸಿ, ಎಲ್ಲವನ್ನು ವ್ಯಾಪಿಸಿರುವ ಅನಂತ ಶಕ್ತಿಯನ್ನು ಗೌರವಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "नमः",
-            "transliteration": "namaḥ",
-            "meaning": "salutation"
+            "transliteration": {
+                "hi": "नमः",
+                "en": "namaḥ",
+                "be": "নমঃ",
+                "ka": "ನಮಃ"
+            },
+            "meaning": {
+                "hi": "नमस्कार",
+                "en": "salutation",
+                "be": "অভিবাদন",
+                "ka": "ನಮಸ್ಕಾರ"
+            }
         },
         {
             "sanskrit": "पुरस्तात्",
-            "transliteration": "purastāt",
-            "meaning": "front"
+            "transliteration": {
+                "hi": "पुरस्तात्",
+                "en": "purastāt",
+                "be": "পুরস্তাত্",
+                "ka": "ಪುರಸ್ತಾತ್"
+            },
+            "meaning": {
+                "hi": "सामने",
+                "en": "front",
+                "be": "সামনে",
+                "ka": "ಮುಂಭಾಗ"
+            }
         },
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "पृष्ठतः",
-            "transliteration": "pṛṣṭhataḥ",
-            "meaning": "behind"
+            "transliteration": {
+                "hi": "पृष्ठतः",
+                "en": "pṛṣṭhataḥ",
+                "be": "পৃষ্ঠতঃ",
+                "ka": "ಪೃಷ್ಠತಃ"
+            },
+            "meaning": {
+                "hi": "पीछे",
+                "en": "behind",
+                "be": "পিছনে",
+                "ka": "ಹಿಂದೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to Thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हें",
+                "en": "to Thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "नमः",
-            "transliteration": "namaḥ",
-            "meaning": "salutation"
+            "transliteration": {
+                "hi": "नमः",
+                "en": "namaḥ",
+                "be": "নমঃ",
+                "ka": "ನಮಃ"
+            },
+            "meaning": {
+                "hi": "नमस्कार",
+                "en": "salutation",
+                "be": "অভিবাদন",
+                "ka": "ನಮಸ್ಕಾರ"
+            }
         },
         {
             "sanskrit": "अस्तु",
-            "transliteration": "astu",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "अस्तु",
+                "en": "astu",
+                "be": "অস্তু",
+                "ka": "ಅಸ್ತು"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to Thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हें",
+                "en": "to Thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "on every side"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर तरफ",
+                "en": "on every side",
+                "be": "প্রতিটি দিকে",
+                "ka": "ಪ್ರತಿ ಬದಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सर्व",
-            "transliteration": "sarva",
-            "meaning": "O all"
+            "transliteration": {
+                "hi": "सर्व",
+                "en": "sarva",
+                "be": "সর্ব",
+                "ka": "ಸರ್ವ"
+            },
+            "meaning": {
+                "hi": "हे सब!",
+                "en": "O all",
+                "be": "হে সব",
+                "ka": "ಓ ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "अनन्तवीर्य",
-            "transliteration": "anantavīrya",
-            "meaning": "infinite power"
+            "transliteration": {
+                "hi": "अनन्तवीर्य",
+                "en": "anantavīrya",
+                "be": "অনন্তবীর্য",
+                "ka": "ಅನನ್ತವೀರ್ಯ"
+            },
+            "meaning": {
+                "hi": "अनंत शक्ति",
+                "en": "infinite power",
+                "be": "অসীম শক্তি",
+                "ka": "ಅನಂತ ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "अमितविक्रमः",
-            "transliteration": "amitavikramaḥ",
-            "meaning": "infinite in prowess"
+            "transliteration": {
+                "hi": "अमितविक्रमः",
+                "en": "amitavikramaḥ",
+                "be": "অমিতবিক্রমঃ",
+                "ka": "ಅಮಿತವಿಕ್ರಮಃ"
+            },
+            "meaning": {
+                "hi": "पराक्रम में अनंत",
+                "en": "infinite in prowess",
+                "be": "পরাক্রমের মধ্যে অসীম",
+                "ka": "ಪರಾಕ್ರಮದಲ್ಲಿ ಅನಂತ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "सर्वम्",
-            "transliteration": "sarvam",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वम्",
+                "en": "sarvam",
+                "be": "সর্বম্",
+                "ka": "ಸರ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "समाप्नोषि",
-            "transliteration": "samāpnoṣi",
-            "meaning": "pervadest"
+            "transliteration": {
+                "hi": "समाप्नोषि",
+                "en": "samāpnoṣi",
+                "be": "সমাপ্নোষি",
+                "ka": "ಸಮಾಪ್ನೋಷಿ"
+            },
+            "meaning": {
+                "hi": "व्याप्त",
+                "en": "pervadest",
+                "be": "পরিব্যাপ্ত",
+                "ka": "ವ್ಯಾಪಿಸಿರುವ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "wherefore"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "wherefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "सर्वः",
-            "transliteration": "sarvaḥ",
-            "meaning": "all."
+            "transliteration": {
+                "hi": "सर्वः",
+                "en": "sarvaḥ",
+                "be": "সর্বঃ",
+                "ka": "ಸರ್ವಃ"
+            },
+            "meaning": {
+                "hi": "सभी।",
+                "en": "all.",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "vāyuryamo.agnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca .\nnamo namaste.astu sahasrakṛtvaḥ punaśca bhūyo.api namo namaste ||11-39||",
         "ka": "ವಾಯುರ್ಯಮೋಽಗ್ನಿರ್ವರುಣಃ ಶಶಾಙ್ಕಃ\nಪ್ರಜಾಪತಿಸ್ತ್ವಂ ಪ್ರಪಿತಾಮಹಶ್ಚ |\nನಮೋ ನಮಸ್ತೇಽಸ್ತು ಸಹಸ್ರಕೃತ್ವಃ\nಪುನಶ್ಚ ಭೂಯೋಽಪಿ ನಮೋ ನಮಸ್ತೇ ||೧೧-೩೯||"
     },
-    "transliteration": "vāyuryamo.agnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca .\nnamo namaste.astu sahasrakṛtvaḥ punaśca bhūyo.api namo namaste ||11-39||",
-    "life_application": "Bow before the divine presence present in wind, fire, water, moon, creator, and great-grandfather of all.",
+    "transliteration": {
+        "hi": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः\nप्रजापतिस्त्वं प्रपितामहश्च |\nनमो नमस्तेऽस्तु सहस्रकृत्वः\nपुनश्च भूयोऽपि नमो नमस्ते ||११-३९||",
+        "en": "vāyuryamo.agnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca .\nnamo namaste.astu sahasrakṛtvaḥ punaśca bhūyo.api namo namaste ||11-39||",
+        "be": "বাযুর্যমোঽগ্নির্বরুণঃ শশাঙ্কঃ\nপ্রজাপতিস্ত্বং প্রপিতামহশ্চ |\nনমো নমস্তেঽস্তু সহস্রকৃত্বঃ\nপুনশ্চ ভূযোঽপি নমো নমস্তে ||১১-৩৯||",
+        "ka": "ವಾಯುರ್ಯಮೋಽಗ್ನಿರ್ವರುಣಃ ಶಶಾಙ್ಕಃ\nಪ್ರಜಾಪತಿಸ್ತ್ವಂ ಪ್ರಪಿತಾಮಹಶ್ಚ |\nನಮೋ ನಮಸ್ತೇಽಸ್ತು ಸಹಸ್ರಕೃತ್ವಃ\nಪುನಶ್ಚ ಭೂಯೋಽಪಿ ನಮೋ ನಮಸ್ತೇ ||೧೧-೩೯||"
+    },
+    "life_application": {
+        "hi": "वायु, अग्नि, जल, चंद्रमा, सृष्टिकर्ता और सभी के परदादा में मौजूद दिव्य उपस्थिति के सामने झुकें।",
+        "en": "Bow before the divine presence present in wind, fire, water, moon, creator, and great-grandfather of all.",
+        "be": "বায়ু, আগুন, জল, চন্দ্র, স্রষ্টা এবং সকলের প্রপিতামহ উপস্থিত ঐশ্বরিক উপস্থিতির সামনে প্রণাম করুন।",
+        "ka": "ಗಾಳಿ, ಬೆಂಕಿ, ನೀರು, ಚಂದ್ರ, ಸೃಷ್ಟಿಕರ್ತ ಮತ್ತು ಎಲ್ಲರ ಮುತ್ತಜ್ಜನಲ್ಲಿರುವ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯ ಮುಂದೆ ನಮಸ್ಕರಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "वायुः",
-            "transliteration": "vāyuḥ",
-            "meaning": "Vayu"
+            "transliteration": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "বাযুঃ",
+                "ka": "ವಾಯುಃ"
+            },
+            "meaning": {
+                "hi": "वायु",
+                "en": "Vayu",
+                "be": "বায়ু",
+                "ka": "ವಾಯು"
+            }
         },
         {
             "sanskrit": "यमः",
-            "transliteration": "yamaḥ",
-            "meaning": "Yama"
+            "transliteration": {
+                "hi": "यमः",
+                "en": "yamaḥ",
+                "be": "যমঃ",
+                "ka": "ಯಮಃ"
+            },
+            "meaning": {
+                "hi": "यम",
+                "en": "Yama",
+                "be": "যম",
+                "ka": "ಯಮ"
+            }
         },
         {
             "sanskrit": "अग्निः",
-            "transliteration": "agniḥ",
-            "meaning": "Agni"
+            "transliteration": {
+                "hi": "अग्निः",
+                "en": "agniḥ",
+                "be": "অগ্নিঃ",
+                "ka": "ಅಗ್ನಿಃ"
+            },
+            "meaning": {
+                "hi": "अग्नि",
+                "en": "Agni",
+                "be": "অগ্নি",
+                "ka": "ಅಗ್ನಿ"
+            }
         },
         {
             "sanskrit": "वरुणः",
-            "transliteration": "varuṇaḥ",
-            "meaning": "Varuna"
+            "transliteration": {
+                "hi": "वरुणः",
+                "en": "varuṇaḥ",
+                "be": "বরুণঃ",
+                "ka": "ವರುಣಃ"
+            },
+            "meaning": {
+                "hi": "वरुणा",
+                "en": "Varuna",
+                "be": "বরুণ",
+                "ka": "ವರುಣ"
+            }
         },
         {
             "sanskrit": "शशाङ्कः",
-            "transliteration": "śaśāṅkaḥ",
-            "meaning": "moon"
+            "transliteration": {
+                "hi": "शशाङ्कः",
+                "en": "śaśāṅkaḥ",
+                "be": "শশাঙ্কঃ",
+                "ka": "ಶಶಾಙ್ಕಃ"
+            },
+            "meaning": {
+                "hi": "चांद",
+                "en": "moon",
+                "be": "চাঁদ",
+                "ka": "ಚಂದ್ರ"
+            }
         },
         {
             "sanskrit": "प्रजापतिः",
-            "transliteration": "prajāpatiḥ",
-            "meaning": "Prajapati"
+            "transliteration": {
+                "hi": "प्रजापतिः",
+                "en": "prajāpatiḥ",
+                "be": "প্রজাপতিঃ",
+                "ka": "ಪ್ರಜಾಪತಿಃ"
+            },
+            "meaning": {
+                "hi": "प्रजापति",
+                "en": "Prajapati",
+                "be": "প্রজাপতি",
+                "ka": "ಪ್ರಜಾಪತಿ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "प्रपितामहः",
-            "transliteration": "prapitāmahaḥ",
-            "meaning": "greatgrandfather"
+            "transliteration": {
+                "hi": "प्रपितामहः",
+                "en": "prapitāmahaḥ",
+                "be": "প্রপিতামহঃ",
+                "ka": "ಪ್ರಪಿತಾಮಹಃ"
+            },
+            "meaning": {
+                "hi": "परदादा",
+                "en": "greatgrandfather",
+                "be": "দাদা",
+                "ka": "ಮುತ್ತಜ್ಜ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "नमःनमः",
-            "transliteration": "namaḥnamaḥ",
-            "meaning": "salutations"
+            "transliteration": {
+                "hi": "नमःनमः",
+                "en": "namaḥnamaḥ",
+                "be": "নমঃনমঃ",
+                "ka": "ನಮಃನಮಃ"
+            },
+            "meaning": {
+                "hi": "नमस्कार",
+                "en": "salutations",
+                "be": "অভিবাদন",
+                "ka": "ನಮಸ್ಕಾರಗಳು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to Thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हें",
+                "en": "to Thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "अस्तु",
-            "transliteration": "astu",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "अस्तु",
+                "en": "astu",
+                "be": "অস্তু",
+                "ka": "ಅಸ್ತು"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सहस्रकृत्वः",
-            "transliteration": "sahasrakṛtvaḥ",
-            "meaning": "thousand times"
+            "transliteration": {
+                "hi": "सहस्रकृत्वः",
+                "en": "sahasrakṛtvaḥ",
+                "be": "সহস্রকৃত্বঃ",
+                "ka": "ಸಹಸ್ರಕೃತ್ವಃ"
+            },
+            "meaning": {
+                "hi": "हज़ार बार",
+                "en": "thousand times",
+                "be": "হাজার বার",
+                "ka": "ಸಾವಿರ ಬಾರಿ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "नमःनमः",
-            "transliteration": "namaḥnamaḥ",
-            "meaning": "salutations"
+            "transliteration": {
+                "hi": "नमःनमः",
+                "en": "namaḥnamaḥ",
+                "be": "নমঃনমঃ",
+                "ka": "ನಮಃನಮಃ"
+            },
+            "meaning": {
+                "hi": "नमस्कार",
+                "en": "salutations",
+                "be": "অভিবাদন",
+                "ka": "ನಮಸ್ಕಾರಗಳು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to Thee."
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुमको।",
+                "en": "to Thee.",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ."
+            }
         }
     ],
     "tej": {

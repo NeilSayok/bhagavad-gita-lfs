@@ -14,8 +14,18 @@
         "en": "yaccāvahāsārthamasatkṛto.asi vihāraśayyāsanabhojaneṣu .\neko.athavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam ||11-42||",
         "ka": "ಯಚ್ಚಾವಹಾಸಾರ್ಥಮಸತ್ಕೃತೋಽಸಿ\nವಿಹಾರಶಯ್ಯಾಸನಭೋಜನೇಷು |\nಏಕೋಽಥವಾಪ್ಯಚ್ಯುತ ತತ್ಸಮಕ್ಷಂ\nತತ್ಕ್ಷಾಮಯೇ ತ್ವಾಮಹಮಪ್ರಮೇಯಮ್ ||೧೧-೪೨||"
     },
-    "transliteration": "yaccāvahāsārthamasatkṛto.asi vihāraśayyāsanabhojaneṣu .\neko.athavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam ||11-42||",
-    "life_application": "Implore pardon for any disrespect shown in jest, while resting, sitting, or dining together in informal moments.",
+    "transliteration": {
+        "hi": "यच्चावहासार्थमसत्कृतोऽसि\nविहारशय्यासनभोजनेषु |\nएकोऽथवाप्यच्युत तत्समक्षं\nतत्क्षामये त्वामहमप्रमेयम् ||११-४२||",
+        "en": "yaccāvahāsārthamasatkṛto.asi vihāraśayyāsanabhojaneṣu .\neko.athavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam ||11-42||",
+        "be": "যচ্চাবহাসার্থমসত্কৃতোঽসি\nবিহারশয্যাসনভোজনেষু |\nএকোঽথবাপ্যচ্যুত তত্সমক্ষং\nতত্ক্ষামযে ত্বামহমপ্রমেযম্ ||১১-৪২||",
+        "ka": "ಯಚ್ಚಾವಹಾಸಾರ್ಥಮಸತ್ಕೃತೋಽಸಿ\nವಿಹಾರಶಯ್ಯಾಸನಭೋಜನೇಷು |\nಏಕೋಽಥವಾಪ್ಯಚ್ಯುತ ತತ್ಸಮಕ್ಷಂ\nತತ್ಕ್ಷಾಮಯೇ ತ್ವಾಮಹಮಪ್ರಮೇಯಮ್ ||೧೧-೪೨||"
+    },
+    "life_application": {
+        "hi": "आराम करते समय, बैठते समय या अनौपचारिक क्षणों में एक साथ भोजन करते समय मजाक में दिखाए गए किसी भी अनादर के लिए क्षमा याचना करें।",
+        "en": "Implore pardon for any disrespect shown in jest, while resting, sitting, or dining together in informal moments.",
+        "be": "বিশ্রামের সময়, বসা বা অনানুষ্ঠানিক মুহুর্তে একসাথে খাওয়ার সময় ঠাট্টা-বিদ্রূপের মধ্যে দেখানো কোনো অসম্মানের জন্য ক্ষমা প্রার্থনা করুন।",
+        "ka": "ಅನೌಪಚಾರಿಕ ಕ್ಷಣಗಳಲ್ಲಿ ಒಟ್ಟಿಗೆ ವಿಶ್ರಮಿಸುವಾಗ, ಕುಳಿತಿರುವಾಗ ಅಥವಾ ಊಟ ಮಾಡುವಾಗ ತಮಾಷೆಯಾಗಿ ತೋರಿದ ಯಾವುದೇ ಅಗೌರವಕ್ಕಾಗಿ ಕ್ಷಮೆಯನ್ನು ಬೇಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "whatever"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो भी हो",
+                "en": "whatever",
+                "be": "যাই হোক",
+                "ka": "ಏನೇ ಇರಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अवहासार्थम्",
-            "transliteration": "avahāsārtham",
-            "meaning": "for the sake of"
+            "transliteration": {
+                "hi": "अवहासार्थम्",
+                "en": "avahāsārtham",
+                "be": "অবহাসার্থম্",
+                "ka": "ಅವಹಾಸಾರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for the sake of",
+                "be": "জন্য",
+                "ka": "ಸಲುವಾಗಿ"
+            }
         },
         {
             "sanskrit": "असत्कृतः",
-            "transliteration": "asatkṛtaḥ",
-            "meaning": "disrespected"
+            "transliteration": {
+                "hi": "असत्कृतः",
+                "en": "asatkṛtaḥ",
+                "be": "অসত্কৃতঃ",
+                "ka": "ಅಸತ್ಕೃತಃ"
+            },
+            "meaning": {
+                "hi": "अनादर किया गया",
+                "en": "disrespected",
+                "be": "অসম্মান",
+                "ka": "ಅಗೌರವ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "विहारशय्यासनभोजनेषु",
-            "transliteration": "vihāraśayyāsanabhojaneṣu",
-            "meaning": "while at play"
+            "transliteration": {
+                "hi": "विहारशय्यासनभोजनेषु",
+                "en": "vihāraśayyāsanabhojaneṣu",
+                "be": "বিহারশয্যাসনভোজনেষু",
+                "ka": "ವಿಹಾರಶಯ್ಯಾಸನಭೋಜನೇಷು"
+            },
+            "meaning": {
+                "hi": "खेलते समय",
+                "en": "while at play",
+                "be": "খেলার সময়",
+                "ka": "ಆಟದಲ್ಲಿದ್ದಾಗ"
+            }
         },
         {
             "sanskrit": "एकः",
-            "transliteration": "ekaḥ",
-            "meaning": "one"
+            "transliteration": {
+                "hi": "एकः",
+                "en": "ekaḥ",
+                "be": "একঃ",
+                "ka": "ಏಕಃ"
+            },
+            "meaning": {
+                "hi": "एक",
+                "en": "one",
+                "be": "এক",
+                "ka": "ಒಂದು"
+            }
         },
         {
             "sanskrit": "अथवा",
-            "transliteration": "athavā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "अथवा",
+                "en": "athavā",
+                "be": "অথবা",
+                "ka": "ಅಥವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अच्युत",
-            "transliteration": "acyuta",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "अच्युत",
+                "en": "acyuta",
+                "be": "অচ্যুত",
+                "ka": "ಅಚ್ಯುತ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "समक्षम्",
-            "transliteration": "samakṣam",
-            "meaning": "in company"
+            "transliteration": {
+                "hi": "समक्षम्",
+                "en": "samakṣam",
+                "be": "সমক্ষম্",
+                "ka": "ಸಮಕ್ಷಮ್"
+            },
+            "meaning": {
+                "hi": "कंपनी में",
+                "en": "in company",
+                "be": "কোম্পানিতে",
+                "ka": "ಕಂಪನಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "क्षामये",
-            "transliteration": "kṣāmaye",
-            "meaning": "implore to forgive"
+            "transliteration": {
+                "hi": "क्षामये",
+                "en": "kṣāmaye",
+                "be": "ক্ষামযে",
+                "ka": "ಕ್ಷಾಮಯೇ"
+            },
+            "meaning": {
+                "hi": "क्षमा करने के लिए प्रार्थना करें",
+                "en": "implore to forgive",
+                "be": "ক্ষমা করার জন্য অনুরোধ করুন",
+                "ka": "ಕ್ಷಮಿಸಲು ಬೇಡಿಕೊಳ್ಳಿ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "अप्रमेयम्",
-            "transliteration": "aprameyam",
-            "meaning": "immeasurable."
+            "transliteration": {
+                "hi": "अप्रमेयम्",
+                "en": "aprameyam",
+                "be": "অপ্রমেযম্",
+                "ka": "ಅಪ್ರಮೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "अथाह.",
+                "en": "immeasurable.",
+                "be": "অপরিমেয়",
+                "ka": "ಅಳೆಯಲಾಗದ."
+            }
         }
     ],
     "tej": {

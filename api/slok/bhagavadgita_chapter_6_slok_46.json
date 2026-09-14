@@ -14,8 +14,18 @@
         "en": "tapasvibhyo.adhiko yogī jñānibhyo.api mato.adhikaḥ .\nkarmibhyaścādhiko yogī tasmādyogī bhavārjuna ||6-46||",
         "ka": "ತಪಸ್ವಿಭ್ಯೋಽಧಿಕೋ ಯೋಗೀ ಜ್ಞಾನಿಭ್ಯೋಽಪಿ ಮತೋಽಧಿಕಃ |\nಕರ್ಮಿಭ್ಯಶ್ಚಾಧಿಕೋ ಯೋಗೀ ತಸ್ಮಾದ್ಯೋಗೀ ಭವಾರ್ಜುನ ||೬-೪೬||"
     },
-    "transliteration": "tapasvibhyo.adhiko yogī jñānibhyo.api mato.adhikaḥ .\nkarmibhyaścādhiko yogī tasmādyogī bhavārjuna ||6-46||",
-    "life_application": "Aspire to become a true practitioner of inner discipline, rising above mere austerity or dry intellectual study.",
+    "transliteration": {
+        "hi": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः |\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ||६-४६||",
+        "en": "tapasvibhyo.adhiko yogī jñānibhyo.api mato.adhikaḥ .\nkarmibhyaścādhiko yogī tasmādyogī bhavārjuna ||6-46||",
+        "be": "তপস্বিভ্যোঽধিকো যোগী জ্ঞানিভ্যোঽপি মতোঽধিকঃ |\nকর্মিভ্যশ্চাধিকো যোগী তস্মাদ্যোগী ভবার্জুন ||৬-৪৬||",
+        "ka": "ತಪಸ್ವಿಭ್ಯೋಽಧಿಕೋ ಯೋಗೀ ಜ್ಞಾನಿಭ್ಯೋಽಪಿ ಮತೋಽಧಿಕಃ |\nಕರ್ಮಿಭ್ಯಶ್ಚಾಧಿಕೋ ಯೋಗೀ ತಸ್ಮಾದ್ಯೋಗೀ ಭವಾರ್ಜುನ ||೬-೪೬||"
+    },
+    "life_application": {
+        "hi": "केवल तपस्या या शुष्क बौद्धिक अध्ययन से ऊपर उठकर, आंतरिक अनुशासन का सच्चा अभ्यासी बनने की आकांक्षा रखें।",
+        "en": "Aspire to become a true practitioner of inner discipline, rising above mere austerity or dry intellectual study.",
+        "be": "নিছক তপস্যা বা শুষ্ক বুদ্ধিবৃত্তিক অধ্যয়নের ঊর্ধ্বে উঠে অভ্যন্তরীণ শৃঙ্খলার একজন সত্যিকারের অনুশীলনকারী হওয়ার আকাঙ্ক্ষা।",
+        "ka": "ಆಂತರಿಕ ಶಿಸ್ತಿನ ನಿಜವಾದ ಸಾಧಕನಾಗಲು ಆಕಾಂಕ್ಷೆ, ಕೇವಲ ಸಂಯಮ ಅಥವಾ ಶುಷ್ಕ ಬೌದ್ಧಿಕ ಅಧ್ಯಯನದ ಮೇಲೆ ಏರುತ್ತದೆ."
+    },
     "themes": [
         "Purpose",
         "Mindfulness"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "तपस्विभ्योऽधिको",
-            "transliteration": "tapasvibhyo'dhiko",
-            "meaning": "tapasvibhyo'dhiko"
+            "transliteration": {
+                "hi": "तपस्विभ्योऽधिको",
+                "en": "tapasvibhyo'dhiko",
+                "be": "তপস্বিভ্যোঽধিকো",
+                "ka": "ತಪಸ್ವಿಭ್ಯೋಽಧಿಕೋ"
+            },
+            "meaning": {
+                "hi": "तपस्विभ्योऽधिको",
+                "en": "tapasvibhyo'dhiko",
+                "be": "তপস্বীভয়ো'ধিকো",
+                "ka": "ತಪಸ್ವಿಭ್ಯೋ'ಧಿಕೋ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "ज्ञानिभ्योऽपि",
-            "transliteration": "jñānibhyo'pi",
-            "meaning": "jñānibhyo'pi"
+            "transliteration": {
+                "hi": "ज्ञानिभ्योऽपि",
+                "en": "jñānibhyo'pi",
+                "be": "জ্ঞানিভ্যোঽপি",
+                "ka": "ಜ್ಞಾನಿಭ್ಯೋಽಪಿ"
+            },
+            "meaning": {
+                "hi": "ज्ञानीभ्योऽपि",
+                "en": "jñānibhyo'pi",
+                "be": "জ্ঞানভয়োপি",
+                "ka": "ಜ್ಞಾನಿಭ್ಯೋ'ಪಿ"
+            }
         },
         {
             "sanskrit": "मतोऽधिकः",
-            "transliteration": "mato'dhikaḥ",
-            "meaning": "mato'dhikaḥ"
+            "transliteration": {
+                "hi": "मतोऽधिकः",
+                "en": "mato'dhikaḥ",
+                "be": "মতোঽধিকঃ",
+                "ka": "ಮತೋಽಧಿಕಃ"
+            },
+            "meaning": {
+                "hi": "मतोऽधिकः",
+                "en": "mato'dhikaḥ",
+                "be": "mato'dhikah",
+                "ka": "ಮಾತೋ'ಧಿಕಃ"
+            }
         },
         {
             "sanskrit": "कर्मिभ्यश्चाधिको",
-            "transliteration": "karmibhyaścādhiko",
-            "meaning": "karmibhyaścādhiko"
+            "transliteration": {
+                "hi": "कर्मिभ्यश्चाधिको",
+                "en": "karmibhyaścādhiko",
+                "be": "কর্মিভ্যশ্চাধিকো",
+                "ka": "ಕರ್ಮಿಭ್ಯಶ್ಚಾಧಿಕೋ"
+            },
+            "meaning": {
+                "hi": "कर्मिभ्यश्चादिको",
+                "en": "karmibhyaścādhiko",
+                "be": "কর্মিভ্যাশ্চাধিকো",
+                "ka": "ಕರ್ಮಿಭ್ಯಶ್ಚಾಧಿಕೋ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "तस्माद्योगी",
-            "transliteration": "tasmādyogī",
-            "meaning": "tasmādyogī"
+            "transliteration": {
+                "hi": "तस्माद्योगी",
+                "en": "tasmādyogī",
+                "be": "তস্মাদ্যোগী",
+                "ka": "ತಸ್ಮಾದ್ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "तस्माद्योगी",
+                "en": "tasmādyogī",
+                "be": "tasmādyogī",
+                "ka": "ತಸ್ಮಾದ್ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "भवार्जुन",
-            "transliteration": "bhavārjuna",
-            "meaning": "bhavārjuna"
+            "transliteration": {
+                "hi": "भवार्जुन",
+                "en": "bhavārjuna",
+                "be": "ভবার্জুন",
+                "ka": "ಭವಾರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "भावार्जुन",
+                "en": "bhavārjuna",
+                "be": "ভবার্জুন",
+                "ka": "ಭವಾರ್ಜುನ"
+            }
         }
     ],
     "tej": {

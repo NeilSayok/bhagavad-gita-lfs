@@ -14,8 +14,18 @@
         "en": "yogināmapi sarveṣāṃ madgatenāntarātmanā .\nśraddhāvānbhajate yo māṃ sa me yuktatamo mataḥ ||6-47||",
         "ka": "ಯೋಗಿನಾಮಪಿ ಸರ್ವೇಷಾಂ ಮದ್ಗತೇನಾನ್ತರಾತ್ಮನಾ |\nಶ್ರದ್ಧಾವಾನ್ಭಜತೇ ಯೋ ಮಾಂ ಸ ಮೇ ಯುಕ್ತತಮೋ ಮತಃ ||೬-೪೭||"
     },
-    "transliteration": "yogināmapi sarveṣāṃ madgatenāntarātmanā .\nśraddhāvānbhajate yo māṃ sa me yuktatamo mataḥ ||6-47||",
-    "life_application": "Offer your deepest faith and love to the divine presence, becoming the most devoted and centered of all practitioners.",
+    "transliteration": {
+        "hi": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना |\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः ||६-४७||",
+        "en": "yogināmapi sarveṣāṃ madgatenāntarātmanā .\nśraddhāvānbhajate yo māṃ sa me yuktatamo mataḥ ||6-47||",
+        "be": "যোগিনামপি সর্বেষাং মদ্গতেনান্তরাত্মনা |\nশ্রদ্ধাবান্ভজতে যো মাং স মে যুক্ততমো মতঃ ||৬-৪৭||",
+        "ka": "ಯೋಗಿನಾಮಪಿ ಸರ್ವೇಷಾಂ ಮದ್ಗತೇನಾನ್ತರಾತ್ಮನಾ |\nಶ್ರದ್ಧಾವಾನ್ಭಜತೇ ಯೋ ಮಾಂ ಸ ಮೇ ಯುಕ್ತತಮೋ ಮತಃ ||೬-೪೭||"
+    },
+    "life_application": {
+        "hi": "सभी अभ्यासकर्ताओं में सबसे अधिक समर्पित और केंद्रित बनकर, दिव्य उपस्थिति के प्रति अपना गहरा विश्वास और प्रेम अर्पित करें।",
+        "en": "Offer your deepest faith and love to the divine presence, becoming the most devoted and centered of all practitioners.",
+        "be": "সমস্ত অনুশীলনকারীদের মধ্যে সবচেয়ে নিবেদিত এবং কেন্দ্রীভূত হয়ে, ঐশ্বরিক উপস্থিতিতে আপনার গভীরতম বিশ্বাস এবং ভালবাসা অর্পণ করুন।",
+        "ka": "ನಿಮ್ಮ ಆಳವಾದ ನಂಬಿಕೆ ಮತ್ತು ಪ್ರೀತಿಯನ್ನು ದೈವಿಕ ಉಪಸ್ಥಿತಿಗೆ ಅರ್ಪಿಸಿ, ಎಲ್ಲಾ ಅಭ್ಯಾಸಿಗಳಲ್ಲಿ ಅತ್ಯಂತ ಶ್ರದ್ಧಾವಂತ ಮತ್ತು ಕೇಂದ್ರಿತರಾಗಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "योगिनामपि",
-            "transliteration": "yogināmapi",
-            "meaning": "yogināmapi"
+            "transliteration": {
+                "hi": "योगिनामपि",
+                "en": "yogināmapi",
+                "be": "যোগিনামপি",
+                "ka": "ಯೋಗಿನಾಮಪಿ"
+            },
+            "meaning": {
+                "hi": "योगिनामपि",
+                "en": "yogināmapi",
+                "be": "যোগিনামপি",
+                "ka": "ಯೋಗಿನಮಪಿ"
+            }
         },
         {
             "sanskrit": "सर्वेषां",
-            "transliteration": "sarveṣāṃ",
-            "meaning": "sarveṣāṃ"
+            "transliteration": {
+                "hi": "सर्वेषां",
+                "en": "sarveṣāṃ",
+                "be": "সর্বেষাং",
+                "ka": "ಸರ್ವೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "सर्वेषाम्",
+                "en": "sarveṣāṃ",
+                "be": "sarveṣāṃ",
+                "ka": "ಸರ್ವೇಶ"
+            }
         },
         {
             "sanskrit": "मद्गतेनान्तरात्मना",
-            "transliteration": "madgatenāntarātmanā",
-            "meaning": "madgatenāntarātmanā"
+            "transliteration": {
+                "hi": "मद्गतेनान्तरात्मना",
+                "en": "madgatenāntarātmanā",
+                "be": "মদ্গতেনান্তরাত্মনা",
+                "ka": "ಮದ್ಗತೇನಾನ್ತರಾತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "मद्गतेनन्तरात्मना",
+                "en": "madgatenāntarātmanā",
+                "be": "madgatenāntarātmanā",
+                "ka": "ಮದ್ಗತೇನಾಂತರಾತ್ಮನಾ"
+            }
         },
         {
             "sanskrit": "श्रद्धावान्भजते",
-            "transliteration": "śraddhāvānbhajate",
-            "meaning": "śraddhāvānbhajate"
+            "transliteration": {
+                "hi": "श्रद्धावान्भजते",
+                "en": "śraddhāvānbhajate",
+                "be": "শ্রদ্ধাবান্ভজতে",
+                "ka": "ಶ್ರದ್ಧಾವಾನ್ಭಜತೇ"
+            },
+            "meaning": {
+                "hi": "श्रद्धावानभजते",
+                "en": "śraddhāvānbhajate",
+                "be": "শ্রদ্ধাবনভজতে",
+                "ka": "ಶ್ರದ್ಧಾವಾನ್ಭಜತೇ"
+            }
         },
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "युक्ततमो",
-            "transliteration": "yuktatamo",
-            "meaning": "yuktatamo"
+            "transliteration": {
+                "hi": "युक्ततमो",
+                "en": "yuktatamo",
+                "be": "যুক্ততমো",
+                "ka": "ಯುಕ್ತತಮೋ"
+            },
+            "meaning": {
+                "hi": "युक्ततमो",
+                "en": "yuktatamo",
+                "be": "যুক্ততামো",
+                "ka": "ಯುಕ್ತತಮೋ"
+            }
         },
         {
             "sanskrit": "मतः",
-            "transliteration": "mataḥ",
-            "meaning": "mataḥ"
+            "transliteration": {
+                "hi": "मतः",
+                "en": "mataḥ",
+                "be": "মতঃ",
+                "ka": "ಮತಃ"
+            },
+            "meaning": {
+                "hi": "मतः",
+                "en": "mataḥ",
+                "be": "mataḥ",
+                "ka": "ಮತಃ"
+            }
         }
     ],
     "tej": {

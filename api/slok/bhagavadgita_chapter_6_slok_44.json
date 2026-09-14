@@ -14,8 +14,18 @@
         "en": "pūrvābhyāsena tenaiva hriyate hyavaśo.api saḥ .\njijñāsurapi yogasya śabdabrahmātivartate ||6-44||",
         "ka": "ಪೂರ್ವಾಭ್ಯಾಸೇನ ತೇನೈವ ಹ್ರಿಯತೇ ಹ್ಯವಶೋಽಪಿ ಸಃ |\nಜಿಜ್ಞಾಸುರಪಿ ಯೋಗಸ್ಯ ಶಬ್ದಬ್ರಹ್ಮಾತಿವರ್ತತೇ ||೬-೪೪||"
     },
-    "transliteration": "pūrvābhyāsena tenaiva hriyate hyavaśo.api saḥ .\njijñāsurapi yogasya śabdabrahmātivartate ||6-44||",
-    "life_application": "Allow your innate spiritual inclination to carry you forward, rising above mere ritualistic rules.",
+    "transliteration": {
+        "hi": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः |\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ||६-४४||",
+        "en": "pūrvābhyāsena tenaiva hriyate hyavaśo.api saḥ .\njijñāsurapi yogasya śabdabrahmātivartate ||6-44||",
+        "be": "পূর্বাভ্যাসেন তেনৈব হ্রিযতে হ্যবশোঽপি সঃ |\nজিজ্ঞাসুরপি যোগস্য শব্দব্রহ্মাতিবর্ততে ||৬-৪৪||",
+        "ka": "ಪೂರ್ವಾಭ್ಯಾಸೇನ ತೇನೈವ ಹ್ರಿಯತೇ ಹ್ಯವಶೋಽಪಿ ಸಃ |\nಜಿಜ್ಞಾಸುರಪಿ ಯೋಗಸ್ಯ ಶಬ್ದಬ್ರಹ್ಮಾತಿವರ್ತತೇ ||೬-೪೪||"
+    },
+    "life_application": {
+        "hi": "अपने सहज आध्यात्मिक झुकाव को मात्र कर्मकांडीय नियमों से ऊपर उठकर आपको आगे बढ़ने दें।",
+        "en": "Allow your innate spiritual inclination to carry you forward, rising above mere ritualistic rules.",
+        "be": "আপনার সহজাত আধ্যাত্মিক প্রবণতাকে আপনাকে এগিয়ে নিয়ে যাওয়ার অনুমতি দিন, নিছক আচারিক নিয়মের ঊর্ধ্বে উঠে।",
+        "ka": "ನಿಮ್ಮ ಸಹಜವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಒಲವು ನಿಮ್ಮನ್ನು ಮುಂದಕ್ಕೆ ಕೊಂಡೊಯ್ಯಲು ಅನುಮತಿಸಿ, ಕೇವಲ ಧಾರ್ಮಿಕ ನಿಯಮಗಳ ಮೇಲೆ ಏರುತ್ತದೆ."
+    },
     "themes": [
         "Purpose",
         "Knowledge"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "पूर्वाभ्यासेन",
-            "transliteration": "pūrvābhyāsena",
-            "meaning": "pūrvābhyāsena"
+            "transliteration": {
+                "hi": "पूर्वाभ्यासेन",
+                "en": "pūrvābhyāsena",
+                "be": "পূর্বাভ্যাসেন",
+                "ka": "ಪೂರ್ವಾಭ್ಯಾಸೇನ"
+            },
+            "meaning": {
+                "hi": "पूर्वभ्यसेन",
+                "en": "pūrvābhyāsena",
+                "be": "পূর্বাভ্যাসেন",
+                "ka": "ಪೂರ್ವಾಭ್ಯಾಸೇನ"
+            }
         },
         {
             "sanskrit": "तेनैव",
-            "transliteration": "tenaiva",
-            "meaning": "tenaiva"
+            "transliteration": {
+                "hi": "तेनैव",
+                "en": "tenaiva",
+                "be": "তেনৈব",
+                "ka": "ತೇನೈವ"
+            },
+            "meaning": {
+                "hi": "तेनैवा",
+                "en": "tenaiva",
+                "be": "টেনাইভা",
+                "ka": "ಟೆನೈವಾ"
+            }
         },
         {
             "sanskrit": "ह्रियते",
-            "transliteration": "hriyate",
-            "meaning": "hriyate"
+            "transliteration": {
+                "hi": "ह्रियते",
+                "en": "hriyate",
+                "be": "হ্রিযতে",
+                "ka": "ಹ್ರಿಯತೇ"
+            },
+            "meaning": {
+                "hi": "ह्रियते",
+                "en": "hriyate",
+                "be": "হারিয়াতে",
+                "ka": "ಹ್ರಿಯತೇ"
+            }
         },
         {
             "sanskrit": "ह्यवशोऽपि",
-            "transliteration": "hyavaśo'pi",
-            "meaning": "hyavaśo'pi"
+            "transliteration": {
+                "hi": "ह्यवशोऽपि",
+                "en": "hyavaśo'pi",
+                "be": "হ্যবশোঽপি",
+                "ka": "ಹ್ಯವಶೋಽಪಿ"
+            },
+            "meaning": {
+                "hi": "ह्यवशोऽपि",
+                "en": "hyavaśo'pi",
+                "be": "hyavaśo'pi",
+                "ka": "hyavaśo'pi"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "जिज्ञासुरपि",
-            "transliteration": "jijñāsurapi",
-            "meaning": "jijñāsurapi"
+            "transliteration": {
+                "hi": "जिज्ञासुरपि",
+                "en": "jijñāsurapi",
+                "be": "জিজ্ঞাসুরপি",
+                "ka": "ಜಿಜ್ಞಾಸುರಪಿ"
+            },
+            "meaning": {
+                "hi": "जिज्ञासासुरपि",
+                "en": "jijñāsurapi",
+                "be": "জিজ্ঞাসুরপি",
+                "ka": "ಜಿಜ್ಞಾಸುರಪಿ"
+            }
         },
         {
             "sanskrit": "योगस्य",
-            "transliteration": "yogasya",
-            "meaning": "yogasya"
+            "transliteration": {
+                "hi": "योगस्य",
+                "en": "yogasya",
+                "be": "যোগস্য",
+                "ka": "ಯೋಗಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "योगस्य",
+                "en": "yogasya",
+                "be": "যোগাস্য",
+                "ka": "ಯೋಗಸ್ಯ"
+            }
         },
         {
             "sanskrit": "शब्दब्रह्मातिवर्तते",
-            "transliteration": "śabdabrahmātivartate",
-            "meaning": "śabdabrahmātivartate"
+            "transliteration": {
+                "hi": "शब्दब्रह्मातिवर्तते",
+                "en": "śabdabrahmātivartate",
+                "be": "শব্দব্রহ্মাতিবর্ততে",
+                "ka": "ಶಬ್ದಬ್ರಹ್ಮಾತಿವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "शब्दब्रह्मातिवर्तते",
+                "en": "śabdabrahmātivartate",
+                "be": "শব্দব্রহ্মতিবর্ততে",
+                "ka": "ಶಬ್ದಬ್ರಹ್ಮತಿವರ್ತತೇ"
+            }
         }
     ],
     "tej": {

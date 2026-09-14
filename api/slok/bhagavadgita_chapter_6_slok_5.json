@@ -14,8 +14,18 @@
         "en": "uddharedātmanātmānaṃ nātmānamavasādayet .\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||6-5||",
         "ka": "ಉದ್ಧರೇದಾತ್ಮನಾತ್ಮಾನಂ ನಾತ್ಮಾನಮವಸಾದಯೇತ್ |\nಆತ್ಮೈವ ಹ್ಯಾತ್ಮನೋ ಬನ್ಧುರಾತ್ಮೈವ ರಿಪುರಾತ್ಮನಃ ||೬-೫||"
     },
-    "transliteration": "uddharedātmanātmānaṃ nātmānamavasādayet .\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||6-5||",
-    "life_application": "Uplift yourself through your own mental discipline, refusing to degrade yourself, for you are your own friend or enemy.",
+    "transliteration": {
+        "hi": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् |\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ||६-५||",
+        "en": "uddharedātmanātmānaṃ nātmānamavasādayet .\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||6-5||",
+        "be": "উদ্ধরেদাত্মনাত্মানং নাত্মানমবসাদযেত্ |\nআত্মৈব হ্যাত্মনো বন্ধুরাত্মৈব রিপুরাত্মনঃ ||৬-৫||",
+        "ka": "ಉದ್ಧರೇದಾತ್ಮನಾತ್ಮಾನಂ ನಾತ್ಮಾನಮವಸಾದಯೇತ್ |\nಆತ್ಮೈವ ಹ್ಯಾತ್ಮನೋ ಬನ್ಧುರಾತ್ಮೈವ ರಿಪುರಾತ್ಮನಃ ||೬-೫||"
+    },
+    "life_application": {
+        "hi": "अपने स्वयं के मानसिक अनुशासन के माध्यम से स्वयं को ऊपर उठाएं, स्वयं को नीचा दिखाने से इनकार करें, क्योंकि आप स्वयं अपने मित्र या शत्रु हैं।",
+        "en": "Uplift yourself through your own mental discipline, refusing to degrade yourself, for you are your own friend or enemy.",
+        "be": "আপনার নিজের মানসিক শৃঙ্খলার মাধ্যমে নিজেকে উন্নীত করুন, নিজেকে অধঃপতন করতে অস্বীকার করুন, কারণ আপনি আপনার নিজের বন্ধু বা শত্রু।",
+        "ka": "ನಿಮ್ಮ ಸ್ವಂತ ಮಾನಸಿಕ ಶಿಸ್ತಿನ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಉನ್ನತೀಕರಿಸಿ, ನಿಮ್ಮನ್ನು ಕೆಳಮಟ್ಟಕ್ಕಿಳಿಸಲು ನಿರಾಕರಿಸಿ, ಏಕೆಂದರೆ ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಸ್ನೇಹಿತ ಅಥವಾ ಶತ್ರು."
+    },
     "themes": [
         "Mind",
         "Self-Realization"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "उद्धरेदात्मनात्मानं",
-            "transliteration": "uddharedātmanātmānaṃ",
-            "meaning": "uddharedātmanātmānaṃ"
+            "transliteration": {
+                "hi": "उद्धरेदात्मनात्मानं",
+                "en": "uddharedātmanātmānaṃ",
+                "be": "উদ্ধরেদাত্মনাত্মানং",
+                "ka": "ಉದ್ಧರೇದಾತ್ಮನಾತ್ಮಾನಂ"
+            },
+            "meaning": {
+                "hi": "उद्धरेदात्मनात्मनम्",
+                "en": "uddharedātmanātmānaṃ",
+                "be": "uddharedātmanātmānaṃ",
+                "ka": "ಉದ್ಧರೇದಾತ್ಮನಾತ್ಮನಂ"
+            }
         },
         {
             "sanskrit": "नात्मानमवसादयेत्",
-            "transliteration": "nātmānamavasādayet",
-            "meaning": "nātmānamavasādayet"
+            "transliteration": {
+                "hi": "नात्मानमवसादयेत्",
+                "en": "nātmānamavasādayet",
+                "be": "নাত্মানমবসাদযেত্",
+                "ka": "ನಾತ್ಮಾನಮವಸಾದಯೇತ್"
+            },
+            "meaning": {
+                "hi": "नात्मानमवसादयेत्",
+                "en": "nātmānamavasādayet",
+                "be": "nātmanamavasādayet",
+                "ka": "ನಾತ್ಮಾನಮಾವಸಾದಯೇತ್"
+            }
         },
         {
             "sanskrit": "आत्मैव",
-            "transliteration": "ātmaiva",
-            "meaning": "ātmaiva"
+            "transliteration": {
+                "hi": "आत्मैव",
+                "en": "ātmaiva",
+                "be": "আত্মৈব",
+                "ka": "ಆತ್ಮೈವ"
+            },
+            "meaning": {
+                "hi": "आत्मैव",
+                "en": "ātmaiva",
+                "be": "আত্মাইব",
+                "ka": "ಆತ್ಮೈವ"
+            }
         },
         {
             "sanskrit": "ह्यात्मनो",
-            "transliteration": "hyātmano",
-            "meaning": "hyātmano"
+            "transliteration": {
+                "hi": "ह्यात्मनो",
+                "en": "hyātmano",
+                "be": "হ্যাত্মনো",
+                "ka": "ಹ್ಯಾತ್ಮನೋ"
+            },
+            "meaning": {
+                "hi": "ह्यात्मनो",
+                "en": "hyātmano",
+                "be": "hyātmano",
+                "ka": "ಹ್ಯಾತ್ಮನೋ"
+            }
         },
         {
             "sanskrit": "बन्धुरात्मैव",
-            "transliteration": "bandhurātmaiva",
-            "meaning": "bandhurātmaiva"
+            "transliteration": {
+                "hi": "बन्धुरात्मैव",
+                "en": "bandhurātmaiva",
+                "be": "বন্ধুরাত্মৈব",
+                "ka": "ಬನ್ಧುರಾತ್ಮೈವ"
+            },
+            "meaning": {
+                "hi": "बन्धुरात्मैव",
+                "en": "bandhurātmaiva",
+                "be": "bandhurātmaiva",
+                "ka": "ಬನ್ಧುರಾತ್ಮೈವ"
+            }
         },
         {
             "sanskrit": "रिपुरात्मनः",
-            "transliteration": "ripurātmanaḥ",
-            "meaning": "ripurātmanaḥ"
+            "transliteration": {
+                "hi": "रिपुरात्मनः",
+                "en": "ripurātmanaḥ",
+                "be": "রিপুরাত্মনঃ",
+                "ka": "ರಿಪುರಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "रिपुरात्मनः",
+                "en": "ripurātmanaḥ",
+                "be": "ripurātmana:",
+                "ka": "ರಿಪುರಾತ್ಮನಃ"
+            }
         }
     ],
     "tej": {

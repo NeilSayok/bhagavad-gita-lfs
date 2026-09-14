@@ -14,8 +14,18 @@
         "en": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ .\nanātmanastu śatrutve vartetātmaiva śatruvat ||6-6||",
         "ka": "ಬನ್ಧುರಾತ್ಮಾತ್ಮನಸ್ತಸ್ಯ ಯೇನಾತ್ಮೈವಾತ್ಮನಾ ಜಿತಃ |\nಅನಾತ್ಮನಸ್ತು ಶತ್ರುತ್ವೇ ವರ್ತೇತಾತ್ಮೈವ ಶತ್ರುವತ್ ||೬-೬||"
     },
-    "transliteration": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ .\nanātmanastu śatrutve vartetātmaiva śatruvat ||6-6||",
-    "life_application": "Master your mind so it becomes your best ally, rather than letting an undisciplined mind act as your worst enemy.",
+    "transliteration": {
+        "hi": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः |\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ||६-६||",
+        "en": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ .\nanātmanastu śatrutve vartetātmaiva śatruvat ||6-6||",
+        "be": "বন্ধুরাত্মাত্মনস্তস্য যেনাত্মৈবাত্মনা জিতঃ |\nঅনাত্মনস্তু শত্রুত্বে বর্তেতাত্মৈব শত্রুবত্ ||৬-৬||",
+        "ka": "ಬನ್ಧುರಾತ್ಮಾತ್ಮನಸ್ತಸ್ಯ ಯೇನಾತ್ಮೈವಾತ್ಮನಾ ಜಿತಃ |\nಅನಾತ್ಮನಸ್ತು ಶತ್ರುತ್ವೇ ವರ್ತೇತಾತ್ಮೈವ ಶತ್ರುವತ್ ||೬-೬||"
+    },
+    "life_application": {
+        "hi": "अपने मन पर नियंत्रण रखें ताकि वह आपका सबसे अच्छा सहयोगी बन जाए, न कि अनुशासनहीन दिमाग को अपना सबसे बड़ा दुश्मन बनने दें।",
+        "en": "Master your mind so it becomes your best ally, rather than letting an undisciplined mind act as your worst enemy.",
+        "be": "আপনার মনকে আয়ত্ত করুন যাতে এটি আপনার সর্বোত্তম মিত্র হয়ে ওঠে, একটি শৃঙ্খলাহীন মনকে আপনার সবচেয়ে খারাপ শত্রু হিসাবে কাজ করতে না দিয়ে।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಕರಗತ ಮಾಡಿಕೊಳ್ಳಿ ಆದ್ದರಿಂದ ಅದು ನಿಮ್ಮ ಅತ್ಯುತ್ತಮ ಮಿತ್ರವಾಗುತ್ತದೆ, ಬದಲಿಗೆ ಅಶಿಸ್ತಿನ ಮನಸ್ಸು ನಿಮ್ಮ ಕೆಟ್ಟ ಶತ್ರುವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಬಿಡುತ್ತದೆ."
+    },
     "themes": [
         "Mind",
         "Self-Realization"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "बन्धुरात्मात्मनस्तस्य",
-            "transliteration": "bandhurātmātmanastasya",
-            "meaning": "bandhurātmātmanastasya"
+            "transliteration": {
+                "hi": "बन्धुरात्मात्मनस्तस्य",
+                "en": "bandhurātmātmanastasya",
+                "be": "বন্ধুরাত্মাত্মনস্তস্য",
+                "ka": "ಬನ್ಧುರಾತ್ಮಾತ್ಮನಸ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "बन्धुरात्मनस्तस्य",
+                "en": "bandhurātmātmanastasya",
+                "be": "bandhurātmātmanastasya",
+                "ka": "ಬನ್ಧುರಾತ್ಮನಸ್ತಸ್ಯ"
+            }
         },
         {
             "sanskrit": "येनात्मैवात्मना",
-            "transliteration": "yenātmaivātmanā",
-            "meaning": "yenātmaivātmanā"
+            "transliteration": {
+                "hi": "येनात्मैवात्मना",
+                "en": "yenātmaivātmanā",
+                "be": "যেনাত্মৈবাত্মনা",
+                "ka": "ಯೇನಾತ್ಮೈವಾತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "येनात्मैवत्मना",
+                "en": "yenātmaivātmanā",
+                "be": "yenātmaivātmanā",
+                "ka": "yenātmaivātmanā"
+            }
         },
         {
             "sanskrit": "जितः",
-            "transliteration": "jitaḥ",
-            "meaning": "jitaḥ"
+            "transliteration": {
+                "hi": "जितः",
+                "en": "jitaḥ",
+                "be": "জিতঃ",
+                "ka": "ಜಿತಃ"
+            },
+            "meaning": {
+                "hi": "जिताः",
+                "en": "jitaḥ",
+                "be": "জিতঃ",
+                "ka": "ಜಿತಾಃ"
+            }
         },
         {
             "sanskrit": "अनात्मनस्तु",
-            "transliteration": "anātmanastu",
-            "meaning": "anātmanastu"
+            "transliteration": {
+                "hi": "अनात्मनस्तु",
+                "en": "anātmanastu",
+                "be": "অনাত্মনস্তু",
+                "ka": "ಅನಾತ್ಮನಸ್ತು"
+            },
+            "meaning": {
+                "hi": "अनात्मनस्तु",
+                "en": "anātmanastu",
+                "be": "অনাত্মনস্তু",
+                "ka": "ಅನಾತ್ಮನಸ್ತು"
+            }
         },
         {
             "sanskrit": "शत्रुत्वे",
-            "transliteration": "śatrutve",
-            "meaning": "śatrutve"
+            "transliteration": {
+                "hi": "शत्रुत्वे",
+                "en": "śatrutve",
+                "be": "শত্রুত্বে",
+                "ka": "ಶತ್ರುತ್ವೇ"
+            },
+            "meaning": {
+                "hi": "शत्रुत्वे",
+                "en": "śatrutve",
+                "be": "śatrutve",
+                "ka": "ಶತೃತ್ವ"
+            }
         },
         {
             "sanskrit": "वर्तेतात्मैव",
-            "transliteration": "vartetātmaiva",
-            "meaning": "vartetātmaiva"
+            "transliteration": {
+                "hi": "वर्तेतात्मैव",
+                "en": "vartetātmaiva",
+                "be": "বর্তেতাত্মৈব",
+                "ka": "ವರ್ತೇತಾತ್ಮೈವ"
+            },
+            "meaning": {
+                "hi": "वर्तेतात्मैव",
+                "en": "vartetātmaiva",
+                "be": "vartetātmaiva",
+                "ka": "ವರ್ತೇತಾತ್ಮೈವ"
+            }
         },
         {
             "sanskrit": "शत्रुवत्",
-            "transliteration": "śatruvat",
-            "meaning": "śatruvat"
+            "transliteration": {
+                "hi": "शत्रुवत्",
+                "en": "śatruvat",
+                "be": "শত্রুবত্",
+                "ka": "ಶತ್ರುವತ್"
+            },
+            "meaning": {
+                "hi": "शत्रुवत्",
+                "en": "śatruvat",
+                "be": "śatruvat",
+                "ka": "ಶತೃವತ್"
+            }
         }
     ],
     "tej": {

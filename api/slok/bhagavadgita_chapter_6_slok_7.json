@@ -14,8 +14,18 @@
         "en": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ .\nśītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ ||6-7||",
         "ka": "ಜಿತಾತ್ಮನಃ ಪ್ರಶಾನ್ತಸ್ಯ ಪರಮಾತ್ಮಾ ಸಮಾಹಿತಃ |\nಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು ತಥಾ ಮಾನಾಪಮಾನಯೋಃ ||೬-೭||"
     },
-    "transliteration": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ .\nśītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ ||6-7||",
-    "life_application": "Remain serene and self-possessed in cold and heat, pleasure and pain, honor and dishonor, centered in divine awareness.",
+    "transliteration": {
+        "hi": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः |\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः ||६-७||",
+        "en": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ .\nśītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ ||6-7||",
+        "be": "জিতাত্মনঃ প্রশান্তস্য পরমাত্মা সমাহিতঃ |\nশীতোষ্ণসুখদুঃখেষু তথা মানাপমানযোঃ ||৬-৭||",
+        "ka": "ಜಿತಾತ್ಮನಃ ಪ್ರಶಾನ್ತಸ್ಯ ಪರಮಾತ್ಮಾ ಸಮಾಹಿತಃ |\nಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು ತಥಾ ಮಾನಾಪಮಾನಯೋಃ ||೬-೭||"
+    },
+    "life_application": {
+        "hi": "सर्दी-गर्मी, सुख-दुःख, मान-अपमान में शांत और आत्म-स्थित रहो, दिव्य जागरूकता में केन्द्रित रहो।",
+        "en": "Remain serene and self-possessed in cold and heat, pleasure and pain, honor and dishonor, centered in divine awareness.",
+        "be": "ঠাণ্ডা ও তাপ, আনন্দ ও বেদনা, সম্মান ও অসম্মানে নির্মল ও আত্মবিশ্বাসী থাকুন, দৈব সচেতনতায় কেন্দ্রীভূত থাকুন।",
+        "ka": "ಪ್ರಶಾಂತವಾಗಿರಿ ಮತ್ತು ಶೀತ ಮತ್ತು ಶಾಖ, ಸಂತೋಷ ಮತ್ತು ನೋವು, ಗೌರವ ಮತ್ತು ಅವಮಾನ, ದೈವಿಕ ಅರಿವಿನಲ್ಲಿ ಕೇಂದ್ರೀಕೃತವಾಗಿ ಸ್ವಯಂ ಸ್ವಾಧೀನಪಡಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Equanimity",
         "Mind"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "जितात्मनः",
-            "transliteration": "jitātmanaḥ",
-            "meaning": "jitātmanaḥ"
+            "transliteration": {
+                "hi": "जितात्मनः",
+                "en": "jitātmanaḥ",
+                "be": "জিতাত্মনঃ",
+                "ka": "ಜಿತಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "जितात्मनः",
+                "en": "jitātmanaḥ",
+                "be": "জিতাত্মানঃ",
+                "ka": "ಜಿತಾತ್ಮನಃ"
+            }
         },
         {
             "sanskrit": "प्रशान्तस्य",
-            "transliteration": "praśāntasya",
-            "meaning": "praśāntasya"
+            "transliteration": {
+                "hi": "प्रशान्तस्य",
+                "en": "praśāntasya",
+                "be": "প্রশান্তস্য",
+                "ka": "ಪ್ರಶಾನ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्रशांतस्य",
+                "en": "praśāntasya",
+                "be": "প্রশান্তস্য",
+                "ka": "ಪ್ರಶಾಂತಸ್ಯ"
+            }
         },
         {
             "sanskrit": "परमात्मा",
-            "transliteration": "paramātmā",
-            "meaning": "paramātmā"
+            "transliteration": {
+                "hi": "परमात्मा",
+                "en": "paramātmā",
+                "be": "পরমাত্মা",
+                "ka": "ಪರಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "परमात्मा",
+                "en": "paramātmā",
+                "be": "পরমাত্মা",
+                "ka": "ಪರಮಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "समाहितः",
-            "transliteration": "samāhitaḥ",
-            "meaning": "samāhitaḥ"
+            "transliteration": {
+                "hi": "समाहितः",
+                "en": "samāhitaḥ",
+                "be": "সমাহিতঃ",
+                "ka": "ಸಮಾಹಿತಃ"
+            },
+            "meaning": {
+                "hi": "समाहितः",
+                "en": "samāhitaḥ",
+                "be": "সমহিতঃ",
+                "ka": "ಸಮಾಹಿತಃ"
+            }
         },
         {
             "sanskrit": "शीतोष्णसुखदुःखेषु",
-            "transliteration": "śītoṣṇasukhaduḥkheṣu",
-            "meaning": "śītoṣṇasukhaduḥkheṣu"
+            "transliteration": {
+                "hi": "शीतोष्णसुखदुःखेषु",
+                "en": "śītoṣṇasukhaduḥkheṣu",
+                "be": "শীতোষ্ণসুখদুঃখেষু",
+                "ka": "ಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು"
+            },
+            "meaning": {
+                "hi": "शीतोष्णसुखदुःक्षेषु",
+                "en": "śītoṣṇasukhaduḥkheṣu",
+                "be": "শীতোষনসুখদুঃখেসু",
+                "ka": "ಶಿತೋಷಣಸುಖದುಃಖೇಷು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "मानापमानयोः",
-            "transliteration": "mānāpamānayoḥ",
-            "meaning": "mānāpamānayoḥ"
+            "transliteration": {
+                "hi": "मानापमानयोः",
+                "en": "mānāpamānayoḥ",
+                "be": "মানাপমানযোঃ",
+                "ka": "ಮಾನಾಪಮಾನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "मनापमानयोः",
+                "en": "mānāpamānayoḥ",
+                "be": "মানাপমনায়োঃ",
+                "ka": "ಮನಪಾಮಾನಯೋಃ"
+            }
         }
     ],
     "tej": {

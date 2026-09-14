@@ -1,9 +1,24 @@
 {
     "chapter_number": 8,
     "verses_count": 28,
-    "name": "अक्षरब्रह्मयोग",
-    "translation": "Akshara Brahma Yoga",
-    "transliteration": "Akṣhar Brahma Yog",
+    "name": {
+        "hi": "अक्षरब्रह्मयोग",
+        "en": "Akṣarabrahmayoga",
+        "be": "অক্ষরব্রহ্মযোগ",
+        "ka": "ಅಕ್ಷರಬ್ರಹ್ಮಯೋಗ"
+    },
+    "translation": {
+        "hi": "अक्षर ब्रह्म योग",
+        "en": "Akshara Brahma Yoga",
+        "be": "অক্ষর ব্রহ্ম যোগ",
+        "ka": "ಅಕ್ಷರ ಬ್ರಹ್ಮ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "अक्षर ब्रह्म योग",
+        "en": "Akṣhar Brahma Yog",
+        "be": "অক্ষর ব্রহ্ম যোগ",
+        "ka": "ಅಕ್ಷರ ಬ್ರಹ್ಮ ಯೋಗ"
+    },
     "meaning": {
         "hi": "भगवत्प्राप्ति",
         "en": "Path of the Eternal God",

@@ -1,9 +1,24 @@
 {
     "chapter_number": 2,
     "verses_count": 72,
-    "name": "सांख्ययोग",
-    "translation": "Sankhya Yoga",
-    "transliteration": "Sānkhya Yog",
+    "name": {
+        "hi": "सांख्ययोग",
+        "en": "Sāṅkhyayoga",
+        "be": "সাংখ্যযোগ",
+        "ka": "ಸಾಂಖ್ಯಯೋಗ"
+    },
+    "translation": {
+        "hi": "सांख्य योग",
+        "en": "Sankhya Yoga",
+        "be": "সাংখ্য যোগ",
+        "ka": "ಸಾಂಖ್ಯ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "सांख्य योग",
+        "en": "Sānkhya Yog",
+        "be": "সাংখ্য যোগ",
+        "ka": "ಸಾಂಖ್ಯ ಯೋಗ"
+    },
     "meaning": {
         "hi": "गीता का सार",
         "en": "Transcendental Knowledge",

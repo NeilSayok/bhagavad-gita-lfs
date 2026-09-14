@@ -1,9 +1,24 @@
 {
     "chapter_number": 18,
     "verses_count": 78,
-    "name": "मोक्षसंन्यासयोग",
-    "translation": "Moksha Sanyaas Yoga",
-    "transliteration": "Mokṣha Sanyās Yog",
+    "name": {
+        "hi": "मोक्षसंन्यासयोग",
+        "en": "Mokṣasaṃnyāsayoga",
+        "be": "মোক্ষসংন্যাসযোগ",
+        "ka": "ಮೋಕ್ಷಸಂನ್ಯಾಸಯೋಗ"
+    },
+    "translation": {
+        "hi": "मोक्ष संन्यास योग",
+        "en": "Moksha Sanyaas Yoga",
+        "be": "মোক্ষ সন্ন্যাস যোগ",
+        "ka": "ಮೋಕ್ಷ ಸಂನ್ಯಾಸ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "मोक्ष संन्यास योग",
+        "en": "Mokṣha Sanyās Yog",
+        "be": "মোক্ষ সন্ন্যাস যোগ",
+        "ka": "ಮೋಕ್ಷ ಸಂನ್ಯಾಸ ಯೋಗ"
+    },
     "meaning": {
         "hi": "उपसंहार-संन्यास की सिद्धि",
         "en": "Yoga through the Perfection of Renunciation and Surrender",

@@ -1,9 +1,24 @@
 {
     "chapter_number": 6,
     "verses_count": 47,
-    "name": "ध्यानयोग",
-    "translation": "Dhyana Yoga",
-    "transliteration": "Dhyān Yog",
+    "name": {
+        "hi": "ध्यानयोग",
+        "en": "Dhyānayoga",
+        "be": "ধ্যানযোগ",
+        "ka": "ಧ್ಯಾನಯೋಗ"
+    },
+    "translation": {
+        "hi": "ध्यान योग",
+        "en": "Dhyana Yoga",
+        "be": "ধ্যান যোগ",
+        "ka": "ಧ್ಯಾನ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "ध्यान योग",
+        "en": "Dhyān Yog",
+        "be": "ধ্যান যোগ",
+        "ka": "ಧ್ಯಾನ ಯೋಗ"
+    },
     "meaning": {
         "hi": "ध्यानयोग",
         "en": "Path of Meditation",

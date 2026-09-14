@@ -1,9 +1,24 @@
 {
     "chapter_number": 4,
     "verses_count": 42,
-    "name": "ज्ञानकर्मसंन्यासयोग",
-    "translation": "Jnana Karma Sanyasa Yoga",
-    "transliteration": "Jñāna Karm Sanyās Yog",
+    "name": {
+        "hi": "ज्ञानकर्मसंन्यासयोग",
+        "en": "Jñānakarmasaṃnyāsayoga",
+        "be": "জ্ঞানকর্মসংন্যাসযোগ",
+        "ka": "ಜ್ಞಾನಕರ್ಮಸಂನ್ಯಾಸಯೋಗ"
+    },
+    "translation": {
+        "hi": "ज्ञान कर्म संन्यास योग",
+        "en": "Jnana Karma Sanyasa Yoga",
+        "be": "জ্ঞান কর্ম সন্ন্যাস যোগ",
+        "ka": "ಜ್ಞಾನ ಕರ್ಮ ಸಂನ್ಯಾಸ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "ज्ञान कर्म संन्यास योग",
+        "en": "Jñāna Karm Sanyās Yog",
+        "be": "জ্ঞান কর্ম সন্ন্যাস যোগ",
+        "ka": "ಜ್ಞಾನ ಕರ್ಮ ಸಂನ್ಯಾಸ ಯೋಗ"
+    },
     "meaning": {
         "hi": "दिव्य ज्ञान",
         "en": "Path of Knowledge and the Disciplines of Action",

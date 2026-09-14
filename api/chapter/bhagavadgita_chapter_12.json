@@ -1,9 +1,24 @@
 {
     "chapter_number": 12,
     "verses_count": 20,
-    "name": "भक्तियोग",
-    "translation": "Bhakti Yoga",
-    "transliteration": "Bhakti Yog",
+    "name": {
+        "hi": "भक्तियोग",
+        "en": "Bhaktiyoga",
+        "be": "ভক্তিযোগ",
+        "ka": "ಭಕ್ತಿಯೋಗ"
+    },
+    "translation": {
+        "hi": "भक्ति योग",
+        "en": "Bhakti Yoga",
+        "be": "ভক্তি যোগ",
+        "ka": "ಭಕ್ತಿ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "भक्ति योग",
+        "en": "Bhakti Yog",
+        "be": "ভক্তি যোগ",
+        "ka": "ಭಕ್ತಿ ಯೋಗ"
+    },
     "meaning": {
         "hi": "भक्तियोग",
         "en": "The Yoga of Devotion",

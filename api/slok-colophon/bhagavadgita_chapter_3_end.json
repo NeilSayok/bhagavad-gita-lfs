@@ -14,8 +14,18 @@
         "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde karmayogo nāma tṛtīyo.adhyāyaḥ ||3-44||",
         "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಕರ್ಮಯೋಗೋ ನಾಮ ತೃತೀಯೋಽಧ್ಯಾಯಃ ||೩||"
     },
-    "transliteration": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde karmayogo nāma tṛtīyo.adhyāyaḥ ||3-44||",
-    "life_application": "Commit to selfless action in your daily routine, letting work become a path to spiritual freedom.",
+    "transliteration": {
+        "hi": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nकर्मयोगो नाम तृतीयोऽध्यायः ||३||",
+        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde karmayogo nāma tṛtīyo.adhyāyaḥ ||3-44||",
+        "be": "ওঁ তত্সদিতি শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু\nব্রহ্মবিদ্যাযাং যোগশাস্ত্রে শ্রীকৃষ্ণার্জুনসংবাদে\nকর্মযোগো নাম তৃতীযোঽধ্যাযঃ ||৩||",
+        "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಕರ್ಮಯೋಗೋ ನಾಮ ತೃತೀಯೋಽಧ್ಯಾಯಃ ||೩||"
+    },
+    "life_application": {
+        "hi": "अपनी दैनिक दिनचर्या में निष्काम कर्म का संकल्प लें, ताकि आपका कर्म ही आध्यात्मिक मुक्ति का मार्ग बन सके।",
+        "en": "Commit to selfless action in your daily routine, letting work become a path to spiritual freedom.",
+        "be": "আপনার দৈনন্দিন রুটিনে নিঃস্বার্থ কর্মের সংকল্প নিন, যাতে কর্মই আধ্যাত্মিক মুক্তির পথ হয়ে ওঠে।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ದಿನಚರಿಯಲ್ಲಿ ನಿಸ್ವಾರ್ಥ ಕರ್ಮಕ್ಕೆ ಬದ್ಧರಾಗಿ, ಕರ್ಮವೇ ಆಧ್ಯಾತ್ಮಿಕ ಮುಕ್ತಿಯ ಮಾರ್ಗವಾಗಲಿ."
+    },
     "themes": [
         "Karma",
         "Purpose"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "ॐ",
-            "transliteration": "oṃ",
-            "meaning": "oṃ"
+            "transliteration": {
+                "hi": "ॐ",
+                "en": "oṃ",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            },
+            "meaning": {
+                "hi": "ॐ",
+                "en": "Om",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            }
         },
         {
             "sanskrit": "तत्सदिति",
-            "transliteration": "tatsaditi",
-            "meaning": "tatsaditi"
+            "transliteration": {
+                "hi": "तत्सदिति",
+                "en": "tatsaditi",
+                "be": "তত্সদিতি",
+                "ka": "ತತ್ಸದಿತಿ"
+            },
+            "meaning": {
+                "hi": "तत् सत् इति (वह सत्य है)",
+                "en": "thus That is Truth",
+                "be": "তৎ সৎ ইতি",
+                "ka": "ತತ್ ಸತ್ ಇತಿ"
+            }
         },
         {
             "sanskrit": "श्रीमद्भगवद्गीतासूपनिषत्सु",
-            "transliteration": "śrīmadbhagavadgītāsūpaniṣatsu",
-            "meaning": "śrīmadbhagavadgītāsūpaniṣatsu"
+            "transliteration": {
+                "hi": "श्रीमद्भगवद्गीतासूपनिषत्सु",
+                "en": "śrīmadbhagavadgītāsūpaniṣatsu",
+                "be": "শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು"
+            },
+            "meaning": {
+                "hi": "श्रीमद्भगवद्गीता रूपी उपनिषदों में",
+                "en": "in the Upanishads of the glorious Bhagavad Gita",
+                "be": "শ্রীমদ্ভগবদ্গীতা উপনিষদে",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆ ಎಂಬ ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ब्रह्मविद्यायां",
-            "transliteration": "brahmavidyāyāṃ",
-            "meaning": "brahmavidyāyāṃ"
+            "transliteration": {
+                "hi": "ब्रह्मविद्यायां",
+                "en": "brahmavidyāyāṃ",
+                "be": "ব্রহ্মবিদ্যাযাং",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मविद्या में",
+                "en": "in the science of Brahman",
+                "be": "ব্রহ্মবিদ্যায়",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "योगशास्त्रे",
-            "transliteration": "yogaśāstre",
-            "meaning": "yogaśāstre"
+            "transliteration": {
+                "hi": "योगशास्त्रे",
+                "en": "yogaśāstre",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "योगशास्त्र में",
+                "en": "in the scripture of yoga",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "श्रीकृष्णार्जुनसंवादे",
-            "transliteration": "śrīkṛṣṇārjunasaṃvāde",
-            "meaning": "śrīkṛṣṇārjunasaṃvāde"
+            "transliteration": {
+                "hi": "श्रीकृष्णार्जुनसंवादे",
+                "en": "śrīkṛṣṇārjunasaṃvāde",
+                "be": "শ্রীকৃষ্ণার্জুনসংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ"
+            },
+            "meaning": {
+                "hi": "श्रीकृष्ण-अर्जुन संवाद में",
+                "en": "in the dialogue between Sri Krishna and Arjuna",
+                "be": "শ্রীকৃষ্ণ ও অর্জুনের সংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನ ಸಂವಾದದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कर्मयोगो",
-            "transliteration": "karmayogo",
-            "meaning": "karmayogo"
+            "transliteration": {
+                "hi": "कर्मयोगो",
+                "en": "karmayogo",
+                "be": "কর্মযোগো",
+                "ka": "ಕರ್ಮಯೋಗೋ"
+            },
+            "meaning": {
+                "hi": "कर्मयोग",
+                "en": "Karma Yoga",
+                "be": "কর্মযোগ",
+                "ka": "ಕರ್ಮಯೋಗ"
+            }
         },
         {
             "sanskrit": "नाम",
-            "transliteration": "nāma",
-            "meaning": "nāma"
+            "transliteration": {
+                "hi": "नाम",
+                "en": "nāma",
+                "be": "নাম",
+                "ka": "ನಾಮ"
+            },
+            "meaning": {
+                "hi": "नामक",
+                "en": "named",
+                "be": "নামক",
+                "ka": "ಎಂಬ ಹೆಸರಿನ"
+            }
         },
         {
             "sanskrit": "तृतीयोऽध्यायः",
-            "transliteration": "tṛtīyo'dhyāyaḥ",
-            "meaning": "tṛtīyo'dhyāyaḥ"
+            "transliteration": {
+                "hi": "तृतीयोऽध्यायः",
+                "en": "tṛtīyo'dhyāyaḥ",
+                "be": "তৃতীযোঽধ্যাযঃ",
+                "ka": "ತೃತೀಯೋಽಧ್ಯಾಯಃ"
+            },
+            "meaning": {
+                "hi": "कर्मयोग",
+                "en": "Karma Yoga",
+                "be": "কর্মযোগ",
+                "ka": "ಕರ್ಮಯೋಗ"
+            }
         }
     ],
     "tej": {

@@ -1,9 +1,24 @@
 {
     "chapter_number": 16,
     "verses_count": 24,
-    "name": "दैवासुरसम्पद्विभागयोग",
-    "translation": "Daivasura Sampad Vibhaga Yoga",
-    "transliteration": "Daivāsura Sampad Vibhāg Yog",
+    "name": {
+        "hi": "दैवासुरसम्पद्विभागयोग",
+        "en": "Daivāsurasampadvibhāgayoga",
+        "be": "দৈবাসুরসম্পদ্বিভাগযোগ",
+        "ka": "ದೈವಾಸುರಸಮ್ಪದ್ವಿಭಾಗಯೋಗ"
+    },
+    "translation": {
+        "hi": "दैवासुर सम्पद् विभाग योग",
+        "en": "Daivasura Sampad Vibhaga Yoga",
+        "be": "দৈবাসুর সম্পদ বিভাগ যোগ",
+        "ka": "ದೈವಾಸುರ ಸಂಪದ್ ವಿಭಾಗ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "दैवासुर सम्पद् विभाग योग",
+        "en": "Daivāsura Sampad Vibhāg Yog",
+        "be": "দৈবাসুর সম্পদ বিভাগ যোগ",
+        "ka": "ದೈವಾಸುರ ಸಂಪದ್ ವಿಭಾಗ ಯೋಗ"
+    },
     "meaning": {
         "hi": "दैवी तथा आसुरी स्वभाव",
         "en": "Yoga through Discerning the Divine and Demoniac Natures",

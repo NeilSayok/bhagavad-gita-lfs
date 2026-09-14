@@ -14,8 +14,18 @@
         "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ||1-48||",
         "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಅರ್ಜುನವಿಷಾದಯೋಗೋ ನಾಮ ಪ್ರಥಮೋಽಧ್ಯಾಯಃ ||೧||"
     },
-    "transliteration": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ||1-48||",
-    "life_application": "Acknowledge your moments of confusion and vulnerability, viewing them as the essential first step toward spiritual wisdom.",
+    "transliteration": {
+        "hi": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nअर्जुनविषादयोगो नाम प्रथमोऽध्यायः ||१||",
+        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ||1-48||",
+        "be": "ওঁ তত্সদিতি শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু\nব্রহ্মবিদ্যাযাং যোগশাস্ত্রে শ্রীকৃষ্ণার্জুনসংবাদে\nঅর্জুনবিষাদযোগো নাম প্রথমোঽধ্যাযঃ ||১||",
+        "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಅರ್ಜುನವಿಷಾದಯೋಗೋ ನಾಮ ಪ್ರಥಮೋಽಧ್ಯಾಯಃ ||೧||"
+    },
+    "life_application": {
+        "hi": "अपने भ्रम और असमंजस के क्षणों को स्वीकार करें, और उन्हें आध्यात्मिक ज्ञान की ओर पहला आवश्यक कदम समझें।",
+        "en": "Acknowledge your moments of confusion and vulnerability, viewing them as the essential first step toward spiritual wisdom.",
+        "be": "আপনার বিভ্রান্তি ও দুর্বলতার মুহূর্তগুলিকে স্বীকার করুন এবং সেগুলিকে আধ্যাত্মিক জ্ঞানের প্রথম প্রয়োজনীয় পদক্ষেপ হিসেবে দেখুন।",
+        "ka": "ನಿಮ್ಮ ಗೊಂದಲ ಮತ್ತು ಅಸಹಾಯಕತೆಯ ಕ್ಷಣಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನದ ಮೊದಲ ಅಗತ್ಯ ಹೆಜ್ಜೆಯೆಂದು ಭಾವಿಸಿ."
+    },
     "themes": [
         "Self-Realization",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "ॐ",
-            "transliteration": "om",
-            "meaning": "Om"
+            "transliteration": {
+                "hi": "ॐ",
+                "en": "om",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            },
+            "meaning": {
+                "hi": "ॐ",
+                "en": "Om",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "तत् (परब्रह्म)",
+                "en": "That",
+                "be": "তৎ (পরমব্রহ্ম)",
+                "ka": "ತತ್ (ಪರಬ್ರಹ್ಮ)"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "Sat (truth)"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "सत् (सत्य)",
+                "en": "Sat (truth)",
+                "be": "সৎ (সত্য)",
+                "ka": "ಸತ್ (ಸತ್ಯ)"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "श्रीमद्भगवद्गीतासु",
-            "transliteration": "śrīmadbhagavadgītāsu",
-            "meaning": "in the glorious Bhagavad Gita"
+            "transliteration": {
+                "hi": "श्रीमद्भगवद्गीतासु",
+                "en": "śrīmadbhagavadgītāsu",
+                "be": "শ্রীমদ্ভগবদ্গীতাসু",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸು"
+            },
+            "meaning": {
+                "hi": "श्रीमद्भगवद्गीता में",
+                "en": "in the glorious Bhagavad Gita",
+                "be": "শ্রীমদ্ভগবদ্গীতায়",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "उपनिषत्सु",
-            "transliteration": "upaniṣatsu",
-            "meaning": "Upanishads"
+            "transliteration": {
+                "hi": "उपनिषत्सु",
+                "en": "upaniṣatsu",
+                "be": "উপনিষত্সু",
+                "ka": "ಉಪನಿಷತ್ಸು"
+            },
+            "meaning": {
+                "hi": "उपनिषदों में",
+                "en": "in the Upanishads",
+                "be": "উপনিষদে",
+                "ka": "ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ब्रह्मविद्यायाम्",
-            "transliteration": "brahmavidyāyām",
-            "meaning": "in the science of Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मविद्यायाम्",
+                "en": "brahmavidyāyām",
+                "be": "ব্রহ্মবিদ্যাযাম্",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯಾಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्मविद्या में",
+                "en": "in the science of Brahman",
+                "be": "ব্রহ্মবিদ্যায়",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "योगशास्त्रे",
-            "transliteration": "yogaśāstre",
-            "meaning": "in scripture of yoga"
+            "transliteration": {
+                "hi": "योगशास्त्रे",
+                "en": "yogaśāstre",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "योगशास्त्र में",
+                "en": "in the scripture of yoga",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "श्रीकृष्णार्जुनसंवादे",
-            "transliteration": "śrīkṛṣṇārjunasaṁvāde",
-            "meaning": "Krishna-Arjuna dialogue"
+            "transliteration": {
+                "hi": "श्रीकृष्णार्जुनसंवादे",
+                "en": "śrīkṛṣṇārjunasaṁvāde",
+                "be": "শ্রীকৃষ্ণার্জুনসংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ"
+            },
+            "meaning": {
+                "hi": "श्रीकृष्ण-अर्जुन संवाद में",
+                "en": "in the dialogue between Sri Krishna and Arjuna",
+                "be": "শ্রীকৃষ্ণ ও অর্জুনের সংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನ ಸಂವಾದದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अर्जुनविषादयोगः",
-            "transliteration": "arjunaviṣādayogaḥ",
-            "meaning": "Arjuna Vishada Yoga"
+            "transliteration": {
+                "hi": "अर्जुनविषादयोगः",
+                "en": "arjunaviṣādayogaḥ",
+                "be": "অর্জুনবিষাদযোগঃ",
+                "ka": "ಅರ್ಜುನವಿಷಾದಯೋಗಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुनविषादयोग",
+                "en": "Arjuna Vishada Yoga",
+                "be": "অর্জুনবিষাদযোগ",
+                "ka": "ಅರ್ಜುನವಿಷಾದಯೋಗ"
+            }
         },
         {
             "sanskrit": "नाम",
-            "transliteration": "nāma",
-            "meaning": "named"
+            "transliteration": {
+                "hi": "नाम",
+                "en": "nāma",
+                "be": "নাম",
+                "ka": "ನಾಮ"
+            },
+            "meaning": {
+                "hi": "नामक",
+                "en": "named",
+                "be": "নামক",
+                "ka": "ಎಂಬ ಹೆಸರಿನ"
+            }
         },
         {
             "sanskrit": "प्रथमः अध्यायः",
-            "transliteration": "prathamaḥ adhyāyaḥ",
-            "meaning": "first chapter"
+            "transliteration": {
+                "hi": "प्रथमः अध्यायः",
+                "en": "prathamaḥ adhyāyaḥ",
+                "be": "প্রথমঃ অধ্যাযঃ",
+                "ka": "ಪ್ರಥಮಃ ಅಧ್ಯಾಯಃ"
+            },
+            "meaning": {
+                "hi": "पहला अध्याय",
+                "en": "first chapter",
+                "be": "প্রথম অধ্যায়",
+                "ka": "ಮೊದಲನೆಯ ಅಧ್ಯಾಯ"
+            }
         }
     ],
     "tej": {

@@ -1,9 +1,24 @@
 {
     "chapter_number": 9,
     "verses_count": 34,
-    "name": "राजविद्याराजगुह्ययोग",
-    "translation": "Raja Vidya Yoga",
-    "transliteration": "Rāja Vidyā Yog",
+    "name": {
+        "hi": "राजविद्याराजगुह्ययोग",
+        "en": "Rājavidyārājaguhyayoga",
+        "be": "রাজবিদ্যারাজগুহ্যযোগ",
+        "ka": "ರಾಜವಿದ್ಯಾರಾಜಗುಹ್ಯಯೋಗ"
+    },
+    "translation": {
+        "hi": "राजविद्या राजगुह्य योग",
+        "en": "Raja Vidya Yoga",
+        "be": "রাজবিদ্যা রাজগুহ্য যোগ",
+        "ka": "ರಾಜವಿದ್ಯಾ ರಾಜಗುಹ್ಯ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "राजविद्या राजगुह्य योग",
+        "en": "Rāja Vidyā Yog",
+        "be": "রাজবিদ্যা রাজগুহ্য যোগ",
+        "ka": "ರಾಜವಿದ್ಯಾ ರಾಜಗುಹ್ಯ ಯೋಗ"
+    },
     "meaning": {
         "hi": "परम गुह्य ज्ञान",
         "en": "Yoga through the King of Sciences",

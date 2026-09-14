@@ -1,9 +1,24 @@
 {
     "chapter_number": 14,
     "verses_count": 27,
-    "name": "गुणत्रयविभागयोग",
-    "translation": "Gunatraya Vibhaga Yoga",
-    "transliteration": "Guṇa Traya Vibhāg Yog",
+    "name": {
+        "hi": "गुणत्रयविभागयोग",
+        "en": "Guṇatrayavibhāgayoga",
+        "be": "গুণত্রয়বিভাগযোগ",
+        "ka": "ಗುಣತ್ರಯವಿಭಾಗಯೋಗ"
+    },
+    "translation": {
+        "hi": "गुणत्रय विभाग योग",
+        "en": "Gunatraya Vibhaga Yoga",
+        "be": "গুণত্রয় বিভাগ যোগ",
+        "ka": "ಗುಣತ್ರಯ ವಿಭಾಗ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "गुणत्रय विभाग योग",
+        "en": "Guṇa Traya Vibhāg Yog",
+        "be": "গুণত্রয় বিভাগ যোগ",
+        "ka": "ಗುಣತ್ರಯ ವಿಭಾಗ ಯೋಗ"
+    },
     "meaning": {
         "hi": "प्रकृति के तीन गुण",
         "en": "Yoga through Understanding the Three Modes of Material Nature",

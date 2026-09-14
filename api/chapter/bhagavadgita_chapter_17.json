@@ -1,9 +1,24 @@
 {
     "chapter_number": 17,
     "verses_count": 28,
-    "name": "श्रद्धात्रयविभागयोग",
-    "translation": "Sraddhatraya Vibhaga Yoga",
-    "transliteration": "Śhraddhā Traya Vibhāg Yog",
+    "name": {
+        "hi": "श्रद्धात्रयविभागयोग",
+        "en": "Śraddhātrayavibhāgayoga",
+        "be": "শ্রদ্ধাত্রয়বিভাগযোগ",
+        "ka": "ಶ್ರದ್ಧಾತ್ರಯವಿಭಾಗಯೋಗ"
+    },
+    "translation": {
+        "hi": "श्रद्धात्रय विभाग योग",
+        "en": "Sraddhatraya Vibhaga Yoga",
+        "be": "শ্রদ্ধাত্রয় বিভাগ যোগ",
+        "ka": "ಶ್ರದ್ಧಾತ್ರಯ ವಿಭಾಗ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "श्रद्धात्रय विभाग योग",
+        "en": "Śhraddhā Traya Vibhāg Yog",
+        "be": "শ্রদ্ধাত্রয় বিভাগ যোগ",
+        "ka": "ಶ್ರದ್ಧಾತ್ರಯ ವಿಭಾಗ ಯೋಗ"
+    },
     "meaning": {
         "hi": "श्रद्धा के विभाग",
         "en": "Yoga through Discerning the Three Divisions of Faith",

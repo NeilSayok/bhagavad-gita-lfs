@@ -1,9 +1,24 @@
 {
     "chapter_number": 3,
     "verses_count": 43,
-    "name": "कर्मयोग",
-    "translation": "Karma Yoga",
-    "transliteration": "Karm Yog",
+    "name": {
+        "hi": "कर्मयोग",
+        "en": "Karmayoga",
+        "be": "কর্মযোগ",
+        "ka": "ಕರ್ಮಯೋಗ"
+    },
+    "translation": {
+        "hi": "कर्म योग",
+        "en": "Karma Yoga",
+        "be": "কর্ম যোগ",
+        "ka": "ಕರ್ಮ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "कर्म योग",
+        "en": "Karm Yog",
+        "be": "কর্ম যোগ",
+        "ka": "ಕರ್ಮ ಯೋಗ"
+    },
     "meaning": {
         "hi": "कर्मयोग",
         "en": "Path of Selfless Service",

@@ -1,9 +1,24 @@
 {
     "chapter_number": 10,
     "verses_count": 42,
-    "name": "विभूतियोग",
-    "translation": "Vibhooti Yoga",
-    "transliteration": "Vibhūti Yog",
+    "name": {
+        "hi": "विभूतियोग",
+        "en": "Vibhūtiyoga",
+        "be": "বিভূতিযোগ",
+        "ka": "ವಿಭೂತಿಯೋಗ"
+    },
+    "translation": {
+        "hi": "विभूति योग",
+        "en": "Vibhooti Yoga",
+        "be": "বিভূতি যোগ",
+        "ka": "ವಿಭೂತಿ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "विभूति योग",
+        "en": "Vibhūti Yog",
+        "be": "বিভূতি যোগ",
+        "ka": "ವಿಭೂತಿ ಯೋಗ"
+    },
     "meaning": {
         "hi": "श्री भगवान् का ऐश्वर्य",
         "en": "Yoga through Appreciating the Infinite Opulences of God",

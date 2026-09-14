@@ -1,9 +1,24 @@
 {
     "chapter_number": 15,
     "verses_count": 20,
-    "name": "पुरुषोत्तमयोग",
-    "translation": "Purushottama Yoga",
-    "transliteration": "Puruṣhottam Yog",
+    "name": {
+        "hi": "पुरुषोत्तमयोग",
+        "en": "Puruṣottamayoga",
+        "be": "পুরুষোত্তমযোগ",
+        "ka": "ಪುರುಷೋತ್ತಮಯೋಗ"
+    },
+    "translation": {
+        "hi": "पुरुषोत्तम योग",
+        "en": "Purushottama Yoga",
+        "be": "পুরুষোত্তম যোগ",
+        "ka": "ಪುರುಷೋತ್ತಮ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "पुरुषोत्तम योग",
+        "en": "Puruṣhottam Yog",
+        "be": "পুরুষোত্তম যোগ",
+        "ka": "ಪುರುಷೋತ್ತಮ ಯೋಗ"
+    },
     "meaning": {
         "hi": "पुरुषोत्तम योग",
         "en": "The Yoga of the Supreme Divine Personality",

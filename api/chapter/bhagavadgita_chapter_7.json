@@ -1,9 +1,24 @@
 {
     "chapter_number": 7,
     "verses_count": 30,
-    "name": "ज्ञानविज्ञानयोग",
-    "translation": "Gyaan Vigyana Yoga",
-    "transliteration": "Jñāna Vijñāna Yog",
+    "name": {
+        "hi": "ज्ञानविज्ञानयोग",
+        "en": "Jñānavijñānayoga",
+        "be": "জ্ঞানবিজ্ঞানযোগ",
+        "ka": "ಜ್ಞಾನವಿಜ್ಞಾನಯೋಗ"
+    },
+    "translation": {
+        "hi": "ज्ञान विज्ञान योग",
+        "en": "Gyaan Vigyana Yoga",
+        "be": "জ্ঞান বিজ্ঞান যোগ",
+        "ka": "ಜ್ಞಾನ ವಿಜ್ಞಾನ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "ज्ञान विज्ञान योग",
+        "en": "Jñāna Vijñāna Yog",
+        "be": "জ্ঞান বিজ্ঞান যোগ",
+        "ka": "ಜ್ಞಾನ ವಿಜ್ಞಾನ ಯೋಗ"
+    },
     "meaning": {
         "hi": "भगवद्ज्ञान",
         "en": "Self-Knowledge and Enlightenment",

@@ -14,8 +14,18 @@
         "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde daivāsurasampadvibhāgayogo nāma ṣoḍaśo.adhyāyaḥ ||16-25||",
         "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nದೈವಾಸುರಸಮ್ಪದ್ವಿಭಾಗಯೋಗೋ ನಾಮ ಷೋಡಶೋಽಧ್ಯಾಯಃ ||೧೬||"
     },
-    "transliteration": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde daivāsurasampadvibhāgayogo nāma ṣoḍaśo.adhyāyaḥ ||16-25||",
-    "life_application": "Choose noble divine virtues over selfish impulses today, guiding your life by ethical wisdom and self-mastery.",
+    "transliteration": {
+        "hi": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nदैवासुरसम्पद्विभागयोगो नाम षोडशोऽध्यायः ||१६||",
+        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde daivāsurasampadvibhāgayogo nāma ṣoḍaśo.adhyāyaḥ ||16-25||",
+        "be": "ওঁ তত্সদিতি শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু\nব্রহ্মবিদ্যাযাং যোগশাস্ত্রে শ্রীকৃষ্ণার্জুনসংবাদে\nদৈবাসুরসম্পদ্বিভাগযোগো নাম ষোডশোঽধ্যাযঃ ||১৬||",
+        "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nದೈವಾಸುರಸಮ್ಪದ್ವಿಭಾಗಯೋಗೋ ನಾಮ ಷೋಡಶೋಽಧ್ಯಾಯಃ ||೧೬||"
+    },
+    "life_application": {
+        "hi": "आज स्वार्थपूर्ण वृत्तियों के स्थान पर दैवी गुणों को चुनें, और नैतिक विवेक तथा आत्मसंयम से अपने जीवन को दिशा दें।",
+        "en": "Choose noble divine virtues over selfish impulses today, guiding your life by ethical wisdom and self-mastery.",
+        "be": "আজ স্বার্থপর আবেগের পরিবর্তে মহৎ দৈবী গুণাবলি বেছে নিন, এবং নৈতিক প্রজ্ঞা ও আত্মসংযমের দ্বারা জীবনকে পরিচালিত করুন।",
+        "ka": "ಇಂದು ಸ್ವಾರ್ಥ ಪ್ರವೃತ್ತಿಗಳ ಬದಲು ಉದಾತ್ತ ದೈವೀ ಗುಣಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ, ನೈತಿಕ ವಿವೇಕ ಮತ್ತು ಆತ್ಮಸಂಯಮದಿಂದ ನಿಮ್ಮ ಜೀವನವನ್ನು ಮುನ್ನಡೆಸಿ."
+    },
     "themes": [
         "Dharma",
         "Leadership"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "ॐ",
-            "transliteration": "oṃ",
-            "meaning": "oṃ"
+            "transliteration": {
+                "hi": "ॐ",
+                "en": "oṃ",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            },
+            "meaning": {
+                "hi": "ॐ",
+                "en": "Om",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            }
         },
         {
             "sanskrit": "तत्सदिति",
-            "transliteration": "tatsaditi",
-            "meaning": "tatsaditi"
+            "transliteration": {
+                "hi": "तत्सदिति",
+                "en": "tatsaditi",
+                "be": "তত্সদিতি",
+                "ka": "ತತ್ಸದಿತಿ"
+            },
+            "meaning": {
+                "hi": "तत् सत् इति (वह सत्य है)",
+                "en": "thus That is Truth",
+                "be": "তৎ সৎ ইতি",
+                "ka": "ತತ್ ಸತ್ ಇತಿ"
+            }
         },
         {
             "sanskrit": "श्रीमद्भगवद्गीतासूपनिषत्सु",
-            "transliteration": "śrīmadbhagavadgītāsūpaniṣatsu",
-            "meaning": "śrīmadbhagavadgītāsūpaniṣatsu"
+            "transliteration": {
+                "hi": "श्रीमद्भगवद्गीतासूपनिषत्सु",
+                "en": "śrīmadbhagavadgītāsūpaniṣatsu",
+                "be": "শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು"
+            },
+            "meaning": {
+                "hi": "श्रीमद्भगवद्गीता रूपी उपनिषदों में",
+                "en": "in the Upanishads of the glorious Bhagavad Gita",
+                "be": "শ্রীমদ্ভগবদ্গীতা উপনিষদে",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆ ಎಂಬ ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ब्रह्मविद्यायां",
-            "transliteration": "brahmavidyāyāṃ",
-            "meaning": "brahmavidyāyāṃ"
+            "transliteration": {
+                "hi": "ब्रह्मविद्यायां",
+                "en": "brahmavidyāyāṃ",
+                "be": "ব্রহ্মবিদ্যাযাং",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मविद्या में",
+                "en": "in the science of Brahman",
+                "be": "ব্রহ্মবিদ্যায়",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "योगशास्त्रे",
-            "transliteration": "yogaśāstre",
-            "meaning": "yogaśāstre"
+            "transliteration": {
+                "hi": "योगशास्त्रे",
+                "en": "yogaśāstre",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "योगशास्त्र में",
+                "en": "in the scripture of yoga",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "श्रीकृष्णार्जुनसंवादे",
-            "transliteration": "śrīkṛṣṇārjunasaṃvāde",
-            "meaning": "śrīkṛṣṇārjunasaṃvāde"
+            "transliteration": {
+                "hi": "श्रीकृष्णार्जुनसंवादे",
+                "en": "śrīkṛṣṇārjunasaṃvāde",
+                "be": "শ্রীকৃষ্ণার্জুনসংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ"
+            },
+            "meaning": {
+                "hi": "श्रीकृष्ण-अर्जुन संवाद में",
+                "en": "in the dialogue between Sri Krishna and Arjuna",
+                "be": "শ্রীকৃষ্ণ ও অর্জুনের সংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನ ಸಂವಾದದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "दैवासुरसम्पद्विभागयोगो",
-            "transliteration": "daivāsurasampadvibhāgayogo",
-            "meaning": "daivāsurasampadvibhāgayogo"
+            "transliteration": {
+                "hi": "दैवासुरसम्पद्विभागयोगो",
+                "en": "daivāsurasampadvibhāgayogo",
+                "be": "দৈবাসুরসম্পদ্বিভাগযোগো",
+                "ka": "ದೈವಾಸುರಸಮ್ಪದ್ವಿಭಾಗಯೋಗೋ"
+            },
+            "meaning": {
+                "hi": "दैवासुरसम्पद्विभागयोग",
+                "en": "Daivasura Sampad Vibhaga Yoga",
+                "be": "দৈবাসুরসম্পদ্বিভাগযোগ",
+                "ka": "ದೈವಾಸುರಸಮ್ಪದ್ವಿಭಾಗಯೋಗ"
+            }
         },
         {
             "sanskrit": "नाम",
-            "transliteration": "nāma",
-            "meaning": "nāma"
+            "transliteration": {
+                "hi": "नाम",
+                "en": "nāma",
+                "be": "নাম",
+                "ka": "ನಾಮ"
+            },
+            "meaning": {
+                "hi": "नामक",
+                "en": "named",
+                "be": "নামক",
+                "ka": "ಎಂಬ ಹೆಸರಿನ"
+            }
         },
         {
             "sanskrit": "षोडशोऽध्यायः",
-            "transliteration": "ṣoḍaśo'dhyāyaḥ",
-            "meaning": "ṣoḍaśo'dhyāyaḥ"
+            "transliteration": {
+                "hi": "षोडशोऽध्यायः",
+                "en": "ṣoḍaśo'dhyāyaḥ",
+                "be": "ষোডশোঽধ্যাযঃ",
+                "ka": "ಷೋಡಶೋಽಧ್ಯಾಯಃ"
+            },
+            "meaning": {
+                "hi": "दैवासुरसम्पद्विभागयोग",
+                "en": "Daivasura Sampad Vibhaga Yoga",
+                "be": "দৈবাসুরসম্পদ্বিভাগযোগ",
+                "ka": "ದೈವಾಸುರಸಮ್ಪದ್ವಿಭಾಗಯೋಗ"
+            }
         }
     ],
     "tej": {

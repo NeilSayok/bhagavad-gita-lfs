@@ -1,9 +1,24 @@
 {
     "chapter_number": 11,
     "verses_count": 55,
-    "name": "विश्वरूपदर्शनयोग",
-    "translation": "Vishwaroopa Darshana Yoga",
-    "transliteration": "Viśhwarūp Darśhan Yog",
+    "name": {
+        "hi": "विश्वरूपदर्शनयोग",
+        "en": "Viśvarūpadarśanayoga",
+        "be": "বিশ্বরূপদর্শনযোগ",
+        "ka": "ವಿಶ್ವರೂಪದರ್ಶನಯೋಗ"
+    },
+    "translation": {
+        "hi": "विश्वरूप दर्शन योग",
+        "en": "Vishwaroopa Darshana Yoga",
+        "be": "বিশ্বরূপ দর্শন যোগ",
+        "ka": "ವಿಶ್ವರೂಪ ದರ್ಶನ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "विश्वरूप दर्शन योग",
+        "en": "Viśhwarūp Darśhan Yog",
+        "be": "বিশ্বরূপ দর্শন যোগ",
+        "ka": "ವಿಶ್ವರೂಪ ದರ್ಶನ ಯೋಗ"
+    },
     "meaning": {
         "hi": "विराट रूप",
         "en": "Yoga through Beholding the Cosmic Form of God",

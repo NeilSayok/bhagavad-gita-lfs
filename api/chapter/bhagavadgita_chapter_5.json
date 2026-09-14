@@ -1,9 +1,24 @@
 {
     "chapter_number": 5,
     "verses_count": 29,
-    "name": "कर्मसंन्यासयोग",
-    "translation": "Karma Sanyasa Yoga",
-    "transliteration": "Karm Sanyās Yog",
+    "name": {
+        "hi": "कर्मसंन्यासयोग",
+        "en": "Karmasaṃnyāsayoga",
+        "be": "কর্মসংন্যাসযোগ",
+        "ka": "ಕರ್ಮಸಂನ್ಯಾಸಯೋಗ"
+    },
+    "translation": {
+        "hi": "कर्म संन्यास योग",
+        "en": "Karma Sanyasa Yoga",
+        "be": "কর্ম সন্ন্যাস যোগ",
+        "ka": "ಕರ್ಮ ಸಂನ್ಯಾಸ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "कर्म संन्यास योग",
+        "en": "Karm Sanyās Yog",
+        "be": "কর্ম সন্ন্যাস যোগ",
+        "ka": "ಕರ್ಮ ಸಂನ್ಯಾಸ ಯೋಗ"
+    },
     "meaning": {
         "hi": "कर्मयोग-कृष्णभावनाभावित कर्म",
         "en": "Path of Renunciation",

@@ -14,8 +14,18 @@
         "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde ātmasaṃyamayogo nāma ṣaṣṭho.adhyāyaḥ ||6-48||",
         "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಆತ್ಮಸಂಯಮಯೋಗೋ ನಾಮ ಷಷ್ಠೋಽಧ್ಯಾಯಃ ||೬||"
     },
-    "transliteration": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde ātmasaṃyamayogo nāma ṣaṣṭho.adhyāyaḥ ||6-48||",
-    "life_application": "Endeavor to master your mind and meditation, letting inner stillness guide your journey through all life's challenges.",
+    "transliteration": {
+        "hi": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nआत्मसंयमयोगो नाम षष्ठोऽध्यायः ||६||",
+        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde ātmasaṃyamayogo nāma ṣaṣṭho.adhyāyaḥ ||6-48||",
+        "be": "ওঁ তত্সদিতি শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু\nব্রহ্মবিদ্যাযাং যোগশাস্ত্রে শ্রীকৃষ্ণার্জুনসংবাদে\nআত্মসংযমযোগো নাম ষষ্ঠোঽধ্যাযঃ ||৬||",
+        "ka": "ಓಂ ತತ್ಸದಿತಿ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು\nಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ ಯೋಗಶಾಸ್ತ್ರೇ ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ\nಆತ್ಮಸಂಯಮಯೋಗೋ ನಾಮ ಷಷ್ಠೋಽಧ್ಯಾಯಃ ||೬||"
+    },
+    "life_application": {
+        "hi": "अपने मन और ध्यान को वश में करने का प्रयास करें, ताकि आंतरिक स्थिरता जीवन की सभी चुनौतियों में आपका मार्गदर्शन करे।",
+        "en": "Endeavor to master your mind and meditation, letting inner stillness guide your journey through all life's challenges.",
+        "be": "আপনার মন ও ধ্যানকে জয় করার চেষ্টা করুন, যাতে অন্তরের স্থিরতা জীবনের সমস্ত চ্যালেঞ্জের মাঝে আপনাকে পথ দেখায়।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸು ಮತ್ತು ಧ್ಯಾನವನ್ನು ಸಿದ್ಧಿಸಿಕೊಳ್ಳಲು ಶ್ರಮಿಸಿ, ಆಂತರಿಕ ಪ್ರಶಾಂತತೆಯು ಜೀವನದ ಎಲ್ಲಾ ಸವಾಲುಗಳಲ್ಲಿ ನಿಮ್ಮನ್ನು ಮುನ್ನಡೆಸಲಿ."
+    },
     "themes": [
         "Mindfulness",
         "Self-Realization"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "ॐ",
-            "transliteration": "oṃ",
-            "meaning": "oṃ"
+            "transliteration": {
+                "hi": "ॐ",
+                "en": "oṃ",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            },
+            "meaning": {
+                "hi": "ॐ",
+                "en": "Om",
+                "be": "ওঁ",
+                "ka": "ಓಂ"
+            }
         },
         {
             "sanskrit": "तत्सदिति",
-            "transliteration": "tatsaditi",
-            "meaning": "tatsaditi"
+            "transliteration": {
+                "hi": "तत्सदिति",
+                "en": "tatsaditi",
+                "be": "তত্সদিতি",
+                "ka": "ತತ್ಸದಿತಿ"
+            },
+            "meaning": {
+                "hi": "तत् सत् इति (वह सत्य है)",
+                "en": "thus That is Truth",
+                "be": "তৎ সৎ ইতি",
+                "ka": "ತತ್ ಸತ್ ಇತಿ"
+            }
         },
         {
             "sanskrit": "श्रीमद्भगवद्गीतासूपनिषत्सु",
-            "transliteration": "śrīmadbhagavadgītāsūpaniṣatsu",
-            "meaning": "śrīmadbhagavadgītāsūpaniṣatsu"
+            "transliteration": {
+                "hi": "श्रीमद्भगवद्गीतासूपनिषत्सु",
+                "en": "śrīmadbhagavadgītāsūpaniṣatsu",
+                "be": "শ্রীমদ্ভগবদ্গীতাসূপনিষত্সু",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾಸೂಪನಿಷತ್ಸು"
+            },
+            "meaning": {
+                "hi": "श्रीमद्भगवद्गीता रूपी उपनिषदों में",
+                "en": "in the Upanishads of the glorious Bhagavad Gita",
+                "be": "শ্রীমদ্ভগবদ্গীতা উপনিষদে",
+                "ka": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆ ಎಂಬ ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ब्रह्मविद्यायां",
-            "transliteration": "brahmavidyāyāṃ",
-            "meaning": "brahmavidyāyāṃ"
+            "transliteration": {
+                "hi": "ब्रह्मविद्यायां",
+                "en": "brahmavidyāyāṃ",
+                "be": "ব্রহ্মবিদ্যাযাং",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯಾಯಾಂ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मविद्या में",
+                "en": "in the science of Brahman",
+                "be": "ব্রহ্মবিদ্যায়",
+                "ka": "ಬ್ರಹ್ಮವಿದ್ಯೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "योगशास्त्रे",
-            "transliteration": "yogaśāstre",
-            "meaning": "yogaśāstre"
+            "transliteration": {
+                "hi": "योगशास्त्रे",
+                "en": "yogaśāstre",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "योगशास्त्र में",
+                "en": "in the scripture of yoga",
+                "be": "যোগশাস্ত্রে",
+                "ka": "ಯೋಗಶಾಸ್ತ್ರದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "श्रीकृष्णार्जुनसंवादे",
-            "transliteration": "śrīkṛṣṇārjunasaṃvāde",
-            "meaning": "śrīkṛṣṇārjunasaṃvāde"
+            "transliteration": {
+                "hi": "श्रीकृष्णार्जुनसंवादे",
+                "en": "śrīkṛṣṇārjunasaṃvāde",
+                "be": "শ্রীকৃষ্ণার্জুনসংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನಸಂವಾದೇ"
+            },
+            "meaning": {
+                "hi": "श्रीकृष्ण-अर्जुन संवाद में",
+                "en": "in the dialogue between Sri Krishna and Arjuna",
+                "be": "শ্রীকৃষ্ণ ও অর্জুনের সংবাদে",
+                "ka": "ಶ್ರೀಕೃಷ್ಣಾರ್ಜುನ ಸಂವಾದದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "आत्मसंयमयोगो",
-            "transliteration": "ātmasaṃyamayogo",
-            "meaning": "ātmasaṃyamayogo"
+            "transliteration": {
+                "hi": "आत्मसंयमयोगो",
+                "en": "ātmasaṃyamayogo",
+                "be": "আত্মসংযমযোগো",
+                "ka": "ಆತ್ಮಸಂಯಮಯೋಗೋ"
+            },
+            "meaning": {
+                "hi": "आत्मसंयमयोग / ध्यानयोग",
+                "en": "Dhyana Yoga (Atmasamyama Yoga)",
+                "be": "ধ্যানযোগ / আত্মসংযমযোগ",
+                "ka": "ಧ್ಯಾನಯೋಗ / ಆತ್ಮಸಂಯಮಯೋಗ"
+            }
         },
         {
             "sanskrit": "नाम",
-            "transliteration": "nāma",
-            "meaning": "nāma"
+            "transliteration": {
+                "hi": "नाम",
+                "en": "nāma",
+                "be": "নাম",
+                "ka": "ನಾಮ"
+            },
+            "meaning": {
+                "hi": "नामक",
+                "en": "named",
+                "be": "নামক",
+                "ka": "ಎಂಬ ಹೆಸರಿನ"
+            }
         },
         {
             "sanskrit": "षष्ठोऽध्यायः",
-            "transliteration": "ṣaṣṭho'dhyāyaḥ",
-            "meaning": "ṣaṣṭho'dhyāyaḥ"
+            "transliteration": {
+                "hi": "षष्ठोऽध्यायः",
+                "en": "ṣaṣṭho'dhyāyaḥ",
+                "be": "ষষ্ঠোঽধ্যাযঃ",
+                "ka": "ಷಷ್ಠೋಽಧ್ಯಾಯಃ"
+            },
+            "meaning": {
+                "hi": "आत्मसंयमयोग / ध्यानयोग",
+                "en": "Dhyana Yoga (Atmasamyama Yoga)",
+                "be": "ধ্যানযোগ / আত্মসংযমযোগ",
+                "ka": "ಧ್ಯಾನಯೋಗ / ಆತ್ಮಸಂಯಮಯೋಗ"
+            }
         }
     ],
     "tej": {

@@ -1,9 +1,24 @@
 {
     "chapter_number": 1,
     "verses_count": 47,
-    "name": "अर्जुनविषादयोग",
-    "translation": "Arjuna Visada Yoga",
-    "transliteration": "Arjun Viṣhād Yog",
+    "name": {
+        "hi": "अर्जुनविषादयोग",
+        "en": "Arjunaviṣādayoga",
+        "be": "অর্জুনবিষাদযোগ",
+        "ka": "ಅರ್ಜುನವಿಷಾದಯೋಗ"
+    },
+    "translation": {
+        "hi": "अर्जुन विषाद योग",
+        "en": "Arjuna Visada Yoga",
+        "be": "অর্জুন বিষাদ যোগ",
+        "ka": "ಅರ್ಜುನ ವಿಷಾದ ಯೋಗ"
+    },
+    "transliteration": {
+        "hi": "अर्जुन विषाद योग",
+        "en": "Arjun Viṣhād Yog",
+        "be": "অর্জুন বিষাদ যোগ",
+        "ka": "ಅರ್ಜುನ ವಿಷಾದ ಯೋಗ"
+    },
     "meaning": {
         "hi": "अर्जुन विषाद योग",
         "en": "Arjuna's Dilemma",

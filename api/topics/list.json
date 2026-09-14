@@ -1,6 +1,11 @@
 [
   {
-    "name": "Knowledge",
+    "name": {
+      "hi": "ज्ञान",
+      "en": "Knowledge",
+      "be": "জ্ঞান",
+      "ka": "ಜ್ಞಾನ"
+    },
     "image_square": "chapters/{size}/chapter_7/square/img.png",
     "verse_count": 229,
     "sloks": [
@@ -236,7 +241,12 @@
     ]
   },
   {
-    "name": "Devotion",
+    "name": {
+      "hi": "भक्ति",
+      "en": "Devotion",
+      "be": "ভক্তি",
+      "ka": "ಭಕ್ತಿ"
+    },
     "image_square": "chapters/{size}/chapter_12/square/img.png",
     "verse_count": 191,
     "sloks": [
@@ -434,7 +444,12 @@
     ]
   },
   {
-    "name": "Self-Realization",
+    "name": {
+      "hi": "आत्म-साक्षात्कार",
+      "en": "Self-Realization",
+      "be": "আত্ম-সাক্ষাৎকার",
+      "ka": "ಆತ್ಮ-ಸಾಕ್ಷಾತ್ಕಾರ"
+    },
     "image_square": "chapters/{size}/chapter_6/square/img.png",
     "verse_count": 104,
     "sloks": [
@@ -545,7 +560,12 @@
     ]
   },
   {
-    "name": "Mindfulness",
+    "name": {
+      "hi": "सचेतनता",
+      "en": "Mindfulness",
+      "be": "সচেতনতা",
+      "ka": "ಸಾವಧಾನತೆ"
+    },
     "image_square": "chapters/{size}/chapter_6/square/img.png",
     "verse_count": 173,
     "sloks": [
@@ -725,7 +745,12 @@
     ]
   },
   {
-    "name": "Leadership",
+    "name": {
+      "hi": "नेतृत्व",
+      "en": "Leadership",
+      "be": "নেতৃত্ব",
+      "ka": "ನಾಯಕತ್ವ"
+    },
     "image_square": "chapters/{size}/chapter_18/square/img.png",
     "verse_count": 36,
     "sloks": [
@@ -768,7 +793,12 @@
     ]
   },
   {
-    "name": "Duty",
+    "name": {
+      "hi": "कर्तव्य",
+      "en": "Duty",
+      "be": "কর্তব্য",
+      "ka": "ಕರ್ತವ್ಯ"
+    },
     "image_square": "chapters/{size}/chapter_2/square/img.png",
     "verse_count": 116,
     "sloks": [
@@ -891,7 +921,12 @@
     ]
   },
   {
-    "name": "Dharma",
+    "name": {
+      "hi": "धर्म",
+      "en": "Dharma",
+      "be": "ধর্ম",
+      "ka": "ಧರ್ಮ"
+    },
     "image_square": "chapters/{size}/chapter_2/square/img.png",
     "verse_count": 34,
     "sloks": [
@@ -932,7 +967,12 @@
     ]
   },
   {
-    "name": "Death",
+    "name": {
+      "hi": "मृत्यु",
+      "en": "Death",
+      "be": "মৃত্যু",
+      "ka": "ಮೃತ್ಯು"
+    },
     "image_square": "chapters/{size}/chapter_2/square/img.png",
     "verse_count": 40,
     "sloks": [
@@ -979,7 +1019,12 @@
     ]
   },
   {
-    "name": "Equanimity",
+    "name": {
+      "hi": "समत्व",
+      "en": "Equanimity",
+      "be": "সমত্ব",
+      "ka": "ಸಮತ್ವ"
+    },
     "image_square": "chapters/{size}/chapter_2/square/img.png",
     "verse_count": 103,
     "sloks": [
@@ -1089,7 +1134,12 @@
     ]
   },
   {
-    "name": "Purpose",
+    "name": {
+      "hi": "जीवन का उद्देश्य",
+      "en": "Purpose",
+      "be": "জীবনের উদ্দেশ্য",
+      "ka": "ಜೀವನದ ಉದ್ದೇಶ"
+    },
     "image_square": "chapters/{size}/chapter_3/square/img.png",
     "verse_count": 66,
     "sloks": [
@@ -1162,7 +1212,12 @@
     ]
   },
   {
-    "name": "Fear",
+    "name": {
+      "hi": "भय",
+      "en": "Fear",
+      "be": "ভয়",
+      "ka": "ಭಯ"
+    },
     "image_square": "chapters/{size}/chapter_1/square/img.png",
     "verse_count": 33,
     "sloks": [
@@ -1202,7 +1257,12 @@
     ]
   },
   {
-    "name": "Karma",
+    "name": {
+      "hi": "कर्म",
+      "en": "Karma",
+      "be": "কর্ম",
+      "ka": "ಕರ್ಮ"
+    },
     "image_square": "chapters/{size}/chapter_3/square/img.png",
     "verse_count": 104,
     "sloks": [
@@ -1313,7 +1373,12 @@
     ]
   },
   {
-    "name": "Detachment",
+    "name": {
+      "hi": "अनासक्ति",
+      "en": "Detachment",
+      "be": "অনাসক্তি",
+      "ka": "ಅನಾಸಕ್ತಿ"
+    },
     "image_square": "chapters/{size}/chapter_3/square/img.png",
     "verse_count": 89,
     "sloks": [
@@ -1409,7 +1474,12 @@
     ]
   },
   {
-    "name": "Mind",
+    "name": {
+      "hi": "मन",
+      "en": "Mind",
+      "be": "মন",
+      "ka": "ಮನಸ್ಸು"
+    },
     "image_square": "chapters/{size}/chapter_6/square/img.png",
     "verse_count": 103,
     "sloks": [
@@ -1519,7 +1589,12 @@
     ]
   },
   {
-    "name": "Attachment",
+    "name": {
+      "hi": "आसक्ति",
+      "en": "Attachment",
+      "be": "আসক্তি",
+      "ka": "ಆಸಕ್ತಿ"
+    },
     "image_square": "chapters/{size}/chapter_2/square/img.png",
     "verse_count": 41,
     "sloks": [

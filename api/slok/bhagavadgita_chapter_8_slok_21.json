@@ -14,8 +14,18 @@
         "en": "avyakto.akṣara ityuktastamāhuḥ paramāṃ gatim .\nyaṃ prāpya na nivartante taddhāma paramaṃ mama ||8-21||",
         "ka": "ಅವ್ಯಕ್ತೋಽಕ್ಷರ ಇತ್ಯುಕ್ತಸ್ತಮಾಹುಃ ಪರಮಾಂ ಗತಿಮ್ |\nಯಂ ಪ್ರಾಪ್ಯ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೮-೨೧||"
     },
-    "transliteration": "avyakto.akṣara ityuktastamāhuḥ paramāṃ gatim .\nyaṃ prāpya na nivartante taddhāma paramaṃ mama ||8-21||",
-    "life_application": "Make that imperishable unmanifest reality your supreme goal, from which those who reach it never return.",
+    "transliteration": {
+        "hi": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् |\nयं प्राप्य न निवर्तन्ते तद्धाम परमं मम ||८-२१||",
+        "en": "avyakto.akṣara ityuktastamāhuḥ paramāṃ gatim .\nyaṃ prāpya na nivartante taddhāma paramaṃ mama ||8-21||",
+        "be": "অব্যক্তোঽক্ষর ইত্যুক্তস্তমাহুঃ পরমাং গতিম্ |\nযং প্রাপ্য ন নিবর্তন্তে তদ্ধাম পরমং মম ||৮-২১||",
+        "ka": "ಅವ್ಯಕ್ತೋಽಕ್ಷರ ಇತ್ಯುಕ್ತಸ್ತಮಾಹುಃ ಪರಮಾಂ ಗತಿಮ್ |\nಯಂ ಪ್ರಾಪ್ಯ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೮-೨೧||"
+    },
+    "life_application": {
+        "hi": "उस अविनाशी अव्यक्त सत्य को अपना सर्वोच्च लक्ष्य बनाओ, जहाँ तक पहुँचने वाले कभी वापस नहीं लौटते।",
+        "en": "Make that imperishable unmanifest reality your supreme goal, from which those who reach it never return.",
+        "be": "সেই অবিনশ্বর অপ্রকাশিত বাস্তবতাকে আপনার সর্বোচ্চ লক্ষ্য বানিয়ে নিন, যেখান থেকে যারা পৌঁছায় তারা আর ফিরে আসে না।",
+        "ka": "ಆ ನಾಶವಾಗದ ಅವ್ಯಕ್ತವಾದ ವಾಸ್ತವವನ್ನು ನಿಮ್ಮ ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳಿ, ಅದನ್ನು ತಲುಪಿದವರು ಎಂದಿಗೂ ಹಿಂತಿರುಗುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Purpose",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अव्यक्तोऽक्षर",
-            "transliteration": "avyakto'kṣara",
-            "meaning": "avyakto'kṣara"
+            "transliteration": {
+                "hi": "अव्यक्तोऽक्षर",
+                "en": "avyakto'kṣara",
+                "be": "অব্যক্তোঽক্ষর",
+                "ka": "ಅವ್ಯಕ್ತೋಽಕ್ಷರ"
+            },
+            "meaning": {
+                "hi": "अव्यक्तोऽक्षर",
+                "en": "avyakto'kṣara",
+                "be": "অব্যক্তোক্ষরা",
+                "ka": "ಅವ್ಯಕ್ತೋ'ಕ್ಷರ"
+            }
         },
         {
             "sanskrit": "इत्युक्तस्तमाहुः",
-            "transliteration": "ityuktastamāhuḥ",
-            "meaning": "ityuktastamāhuḥ"
+            "transliteration": {
+                "hi": "इत्युक्तस्तमाहुः",
+                "en": "ityuktastamāhuḥ",
+                "be": "ইত্যুক্তস্তমাহুঃ",
+                "ka": "ಇತ್ಯುಕ್ತಸ್ತಮಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "इत्युक्तस्तमाहुः",
+                "en": "ityuktastamāhuḥ",
+                "be": "ইত্যক্তস্তমাহুঃ",
+                "ka": "ಇತ್ಯುಕ್ತಸ್ತಮಾಹುಃ"
+            }
         },
         {
             "sanskrit": "परमां",
-            "transliteration": "paramāṃ",
-            "meaning": "paramāṃ"
+            "transliteration": {
+                "hi": "परमां",
+                "en": "paramāṃ",
+                "be": "পরমাং",
+                "ka": "ಪರಮಾಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramāṃ",
+                "be": "পরমাণ",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "gatim"
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "गैतिम",
+                "en": "gatim",
+                "be": "gatim",
+                "ka": "ಗತಿಮ್"
+            }
         },
         {
             "sanskrit": "यं",
-            "transliteration": "yaṃ",
-            "meaning": "yaṃ"
+            "transliteration": {
+                "hi": "यं",
+                "en": "yaṃ",
+                "be": "যং",
+                "ka": "ಯಂ"
+            },
+            "meaning": {
+                "hi": "हाँ",
+                "en": "yaṃ",
+                "be": "yaṃ",
+                "ka": "ಯಾಂ"
+            }
         },
         {
             "sanskrit": "प्राप्य",
-            "transliteration": "prāpya",
-            "meaning": "prāpya"
+            "transliteration": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "निवर्तन्ते",
-            "transliteration": "nivartante",
-            "meaning": "nivartante"
+            "transliteration": {
+                "hi": "निवर्तन्ते",
+                "en": "nivartante",
+                "be": "নিবর্তন্তে",
+                "ka": "ನಿವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "निवर्तन्ते",
+                "en": "nivartante",
+                "be": "নিবর্তন্তে",
+                "ka": "ನಿವರ್ತಂತೆ"
+            }
         },
         {
             "sanskrit": "तद्धाम",
-            "transliteration": "taddhāma",
-            "meaning": "taddhāma"
+            "transliteration": {
+                "hi": "तद्धाम",
+                "en": "taddhāma",
+                "be": "তদ্ধাম",
+                "ka": "ತದ್ಧಾಮ"
+            },
+            "meaning": {
+                "hi": "तद्धाम",
+                "en": "taddhāma",
+                "be": "তদ্ধাম",
+                "ka": "ತದ್ಧಮ"
+            }
         },
         {
             "sanskrit": "परमं",
-            "transliteration": "paramaṃ",
-            "meaning": "paramaṃ"
+            "transliteration": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         }
     ],
     "tej": {

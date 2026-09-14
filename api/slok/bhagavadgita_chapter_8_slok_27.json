@@ -14,8 +14,18 @@
         "en": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||",
         "ka": "ನೈತೇ ಸೃತೀ ಪಾರ್ಥ ಜಾನನ್ಯೋಗೀ ಮುಹ್ಯತಿ ಕಶ್ಚನ |\nತಸ್ಮಾತ್ಸರ್ವೇಷು ಕಾಲೇಷು ಯೋಗಯುಕ್ತೋ ಭವಾರ್ಜುನ ||೮-೨೭||"
     },
-    "transliteration": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||",
-    "life_application": "Understand these two paths clearly so you are never deluded, remaining steadfast in yoga at all times.",
+    "transliteration": {
+        "hi": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन |\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||",
+        "en": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||",
+        "be": "নৈতে সৃতী পার্থ জানন্যোগী মুহ্যতি কশ্চন |\nতস্মাত্সর্বেষু কালেষু যোগযুক্তো ভবার্জুন ||৮-২৭||",
+        "ka": "ನೈತೇ ಸೃತೀ ಪಾರ್ಥ ಜಾನನ್ಯೋಗೀ ಮುಹ್ಯತಿ ಕಶ್ಚನ |\nತಸ್ಮಾತ್ಸರ್ವೇಷು ಕಾಲೇಷು ಯೋಗಯುಕ್ತೋ ಭವಾರ್ಜುನ ||೮-೨೭||"
+    },
+    "life_application": {
+        "hi": "इन दोनों मार्गों को स्पष्ट रूप से समझ लें ताकि आप कभी भी भ्रमित न हों और हर समय योग में स्थिर रहें।",
+        "en": "Understand these two paths clearly so you are never deluded, remaining steadfast in yoga at all times.",
+        "be": "এই দুটি পথ পরিষ্কারভাবে বুঝুন যাতে আপনি কখনও বিভ্রান্ত হন না, সর্বদা যোগে অবিচল থাকেন।",
+        "ka": "ಈ ಎರಡು ಮಾರ್ಗಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ ಆದ್ದರಿಂದ ನೀವು ಎಂದಿಗೂ ಭ್ರಮೆಗೊಳಗಾಗುವುದಿಲ್ಲ, ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ಯೋಗದಲ್ಲಿ ದೃಢವಾಗಿ ಉಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "नैते",
-            "transliteration": "naite",
-            "meaning": "naite"
+            "transliteration": {
+                "hi": "नैते",
+                "en": "naite",
+                "be": "নৈতে",
+                "ka": "ನೈತೇ"
+            },
+            "meaning": {
+                "hi": "naite",
+                "en": "naite",
+                "be": "naite",
+                "ka": "ನೈಟ್"
+            }
         },
         {
             "sanskrit": "सृती",
-            "transliteration": "sṛtī",
-            "meaning": "sṛtī"
+            "transliteration": {
+                "hi": "सृती",
+                "en": "sṛtī",
+                "be": "সৃতী",
+                "ka": "ಸೃತೀ"
+            },
+            "meaning": {
+                "hi": "श्रीति",
+                "en": "sṛtī",
+                "be": "শ্রতি",
+                "ka": "ಶ್ರತಿ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "जानन्योगी",
-            "transliteration": "jānanyogī",
-            "meaning": "jānanyogī"
+            "transliteration": {
+                "hi": "जानन्योगी",
+                "en": "jānanyogī",
+                "be": "জানন্যোগী",
+                "ka": "ಜಾನನ್ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "जननयोगी",
+                "en": "jānanyogī",
+                "be": "জননযোগী",
+                "ka": "ಜನಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "मुह्यति",
-            "transliteration": "muhyati",
-            "meaning": "muhyati"
+            "transliteration": {
+                "hi": "मुह्यति",
+                "en": "muhyati",
+                "be": "মুহ্যতি",
+                "ka": "ಮುಹ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "मुह्यति",
+                "en": "muhyati",
+                "be": "মুহ্যতি",
+                "ka": "ಮುಹ್ಯತಿ"
+            }
         },
         {
             "sanskrit": "कश्चन",
-            "transliteration": "kaścana",
-            "meaning": "kaścana"
+            "transliteration": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কশ্চন",
+                "ka": "ಕಶ್ಚನ"
+            },
+            "meaning": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কাশ্কান",
+                "ka": "ಕಶ್ಚನ"
+            }
         },
         {
             "sanskrit": "तस्मात्सर्वेषु",
-            "transliteration": "tasmātsarveṣu",
-            "meaning": "tasmātsarveṣu"
+            "transliteration": {
+                "hi": "तस्मात्सर्वेषु",
+                "en": "tasmātsarveṣu",
+                "be": "তস্মাত্সর্বেষু",
+                "ka": "ತಸ್ಮಾತ್ಸರ್ವೇಷು"
+            },
+            "meaning": {
+                "hi": "तस्मात्सर्वेषु",
+                "en": "tasmātsarveṣu",
+                "be": "tasmātsarveṣu",
+                "ka": "ತಸ್ಮಾತ್ಸರ್ವೇಷು"
+            }
         },
         {
             "sanskrit": "कालेषु",
-            "transliteration": "kāleṣu",
-            "meaning": "kāleṣu"
+            "transliteration": {
+                "hi": "कालेषु",
+                "en": "kāleṣu",
+                "be": "কালেষু",
+                "ka": "ಕಾಲೇಷು"
+            },
+            "meaning": {
+                "hi": "कालेषु",
+                "en": "kāleṣu",
+                "be": "kāleṣu",
+                "ka": "ಕಳೇಶು"
+            }
         },
         {
             "sanskrit": "योगयुक्तो",
-            "transliteration": "yogayukto",
-            "meaning": "yogayukto"
+            "transliteration": {
+                "hi": "योगयुक्तो",
+                "en": "yogayukto",
+                "be": "যোগযুক্তো",
+                "ka": "ಯೋಗಯುಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "योगायुक्तो",
+                "en": "yogayukto",
+                "be": "যোগযুক্ত",
+                "ka": "ಯೋಗಯುಕ್ತ"
+            }
         },
         {
             "sanskrit": "भवार्जुन",
-            "transliteration": "bhavārjuna",
-            "meaning": "bhavārjuna"
+            "transliteration": {
+                "hi": "भवार्जुन",
+                "en": "bhavārjuna",
+                "be": "ভবার্জুন",
+                "ka": "ಭವಾರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "भावार्जुन",
+                "en": "bhavārjuna",
+                "be": "ভবার্জুন",
+                "ka": "ಭವಾರ್ಜುನ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||",
         "ka": "ವೇದೇಷು ಯಜ್ಞೇಷು ತಪಃಸು ಚೈವ\nದಾನೇಷು ಯತ್ಪುಣ್ಯಫಲಂ ಪ್ರದಿಷ್ಟಮ್ |\nಅತ್ಯೇತಿ ತತ್ಸರ್ವಮಿದಂ ವಿದಿತ್ವಾ\nಯೋಗೀ ಪರಂ ಸ್ಥಾನಮುಪೈತಿ ಚಾದ್ಯಮ್ ||೮-೨೮||"
     },
-    "transliteration": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||",
-    "life_application": "Rise above merit gained from rituals, charity, and austerities by gaining spiritual wisdom, reaching the primeval abode.",
+    "transliteration": {
+        "hi": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत्पुण्यफलं प्रदिष्टम् |\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम् ||८-२८||",
+        "en": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||",
+        "be": "বেদেষু যজ্ঞেষু তপঃসু চৈব\nদানেষু যত্পুণ্যফলং প্রদিষ্টম্ |\nঅত্যেতি তত্সর্বমিদং বিদিত্বা\nযোগী পরং স্থানমুপৈতি চাদ্যম্ ||৮-২৮||",
+        "ka": "ವೇದೇಷು ಯಜ್ಞೇಷು ತಪಃಸು ಚೈವ\nದಾನೇಷು ಯತ್ಪುಣ್ಯಫಲಂ ಪ್ರದಿಷ್ಟಮ್ |\nಅತ್ಯೇತಿ ತತ್ಸರ್ವಮಿದಂ ವಿದಿತ್ವಾ\nಯೋಗೀ ಪರಂ ಸ್ಥಾನಮುಪೈತಿ ಚಾದ್ಯಮ್ ||೮-೨೮||"
+    },
+    "life_application": {
+        "hi": "अनुष्ठान, दान और तपस्या से प्राप्त पुण्य से ऊपर उठकर आध्यात्मिक ज्ञान प्राप्त करके आदिम धाम तक पहुंचें।",
+        "en": "Rise above merit gained from rituals, charity, and austerities by gaining spiritual wisdom, reaching the primeval abode.",
+        "be": "আধ্যাত্মিক জ্ঞান অর্জনের মাধ্যমে আচার, দান এবং তপস্যা থেকে অর্জিত যোগ্যতার ঊর্ধ্বে উঠুন, আদিম আবাসে পৌঁছান।",
+        "ka": "ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಗಳಿಸುವ ಮೂಲಕ ಆಚರಣೆಗಳು, ದಾನ ಮತ್ತು ತಪಸ್ಸಿನಿಂದ ಗಳಿಸಿದ ಅರ್ಹತೆಯ ಮೇಲೆ ಏರುವುದು, ಪ್ರಾಚೀನ ನಿವಾಸವನ್ನು ತಲುಪುವುದು."
+    },
     "themes": [
         "Knowledge",
         "Purpose"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "वेदेषु",
-            "transliteration": "vedeṣu",
-            "meaning": "vedeṣu"
+            "transliteration": {
+                "hi": "वेदेषु",
+                "en": "vedeṣu",
+                "be": "বেদেষু",
+                "ka": "ವೇದೇಷು"
+            },
+            "meaning": {
+                "hi": "वेदेषु",
+                "en": "vedeṣu",
+                "be": "vedeṣu",
+                "ka": "ವೇದೇಶು"
+            }
         },
         {
             "sanskrit": "यज्ञेषु",
-            "transliteration": "yajñeṣu",
-            "meaning": "yajñeṣu"
+            "transliteration": {
+                "hi": "यज्ञेषु",
+                "en": "yajñeṣu",
+                "be": "যজ্ঞেষু",
+                "ka": "ಯಜ್ಞೇಷು"
+            },
+            "meaning": {
+                "hi": "यज्ञेषु",
+                "en": "yajñeṣu",
+                "be": "যজ্ঞেষু",
+                "ka": "ಯಜ್ಞೇಷು"
+            }
         },
         {
             "sanskrit": "तपःसु",
-            "transliteration": "tapaḥsu",
-            "meaning": "tapaḥsu"
+            "transliteration": {
+                "hi": "तपःसु",
+                "en": "tapaḥsu",
+                "be": "তপঃসু",
+                "ka": "ತಪಃಸು"
+            },
+            "meaning": {
+                "hi": "तपःसु",
+                "en": "tapaḥsu",
+                "be": "tapaḥsu",
+                "ka": "ತಪಃಸು"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "दानेषु",
-            "transliteration": "dāneṣu",
-            "meaning": "dāneṣu"
+            "transliteration": {
+                "hi": "दानेषु",
+                "en": "dāneṣu",
+                "be": "দানেষু",
+                "ka": "ದಾನೇಷು"
+            },
+            "meaning": {
+                "hi": "दानेषु",
+                "en": "dāneṣu",
+                "be": "দানেসু",
+                "ka": "ದಾನೇಶು"
+            }
         },
         {
             "sanskrit": "यत्पुण्यफलं",
-            "transliteration": "yatpuṇyaphalaṃ",
-            "meaning": "yatpuṇyaphalaṃ"
+            "transliteration": {
+                "hi": "यत्पुण्यफलं",
+                "en": "yatpuṇyaphalaṃ",
+                "be": "যত্পুণ্যফলং",
+                "ka": "ಯತ್ಪುಣ್ಯಫಲಂ"
+            },
+            "meaning": {
+                "hi": "यत्पुण्यफलम्",
+                "en": "yatpuṇyaphalaṃ",
+                "be": "ইয়াতপুণ্যফলং",
+                "ka": "ಯತ್ಪುಣ್ಯಫಲಂ"
+            }
         },
         {
             "sanskrit": "प्रदिष्टम्",
-            "transliteration": "pradiṣṭam",
-            "meaning": "pradiṣṭam"
+            "transliteration": {
+                "hi": "प्रदिष्टम्",
+                "en": "pradiṣṭam",
+                "be": "প্রদিষ্টম্",
+                "ka": "ಪ್ರದಿಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "प्रदीष्टम्",
+                "en": "pradiṣṭam",
+                "be": "প্রদিষ্টম",
+                "ka": "ಪ್ರದಿಷ್ಠಮ್"
+            }
         },
         {
             "sanskrit": "अत्येति",
-            "transliteration": "atyeti",
-            "meaning": "atyeti"
+            "transliteration": {
+                "hi": "अत्येति",
+                "en": "atyeti",
+                "be": "অত্যেতি",
+                "ka": "ಅತ್ಯೇತಿ"
+            },
+            "meaning": {
+                "hi": "अत्येति",
+                "en": "atyeti",
+                "be": "atyeti",
+                "ka": "ಅತ್ಯೇತಿ"
+            }
         },
         {
             "sanskrit": "तत्सर्वमिदं",
-            "transliteration": "tatsarvamidaṃ",
-            "meaning": "tatsarvamidaṃ"
+            "transliteration": {
+                "hi": "तत्सर्वमिदं",
+                "en": "tatsarvamidaṃ",
+                "be": "তত্সর্বমিদং",
+                "ka": "ತತ್ಸರ್ವಮಿದಂ"
+            },
+            "meaning": {
+                "hi": "तत्सर्वमिदं",
+                "en": "tatsarvamidaṃ",
+                "be": "তৎসর্বমিদং",
+                "ka": "ತತ್ಸರ್ವಮಿದಂ"
+            }
         },
         {
             "sanskrit": "विदित्वा",
-            "transliteration": "viditvā",
-            "meaning": "viditvā"
+            "transliteration": {
+                "hi": "विदित्वा",
+                "en": "viditvā",
+                "be": "বিদিত্বা",
+                "ka": "ವಿದಿತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "विदित्वा",
+                "en": "viditvā",
+                "be": "viditvā",
+                "ka": "ವಿಧಿತ್ವ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "स्थानमुपैति",
-            "transliteration": "sthānamupaiti",
-            "meaning": "sthānamupaiti"
+            "transliteration": {
+                "hi": "स्थानमुपैति",
+                "en": "sthānamupaiti",
+                "be": "স্থানমুপৈতি",
+                "ka": "ಸ್ಥಾನಮುಪೈತಿ"
+            },
+            "meaning": {
+                "hi": "स्थानमुपैति",
+                "en": "sthānamupaiti",
+                "be": "স্থানমুপাইতি",
+                "ka": "ಸ್ಥಾನಮುಪೈತಿ"
+            }
         },
         {
             "sanskrit": "चाद्यम्",
-            "transliteration": "cādyam",
-            "meaning": "cādyam"
+            "transliteration": {
+                "hi": "चाद्यम्",
+                "en": "cādyam",
+                "be": "চাদ্যম্",
+                "ka": "ಚಾದ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "कैडयम",
+                "en": "cādyam",
+                "be": "চ্যাডিয়াম",
+                "ka": "ಕ್ಯಾಡ್ಯಂ"
+            }
         }
     ],
     "tej": {

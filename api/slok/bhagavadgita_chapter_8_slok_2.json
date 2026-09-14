@@ -14,8 +14,18 @@
         "en": "adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .\nprayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||",
         "ka": "ಅಧಿಯಜ್ಞಃ ಕಥಂ ಕೋಽತ್ರ ದೇಹೇಽಸ್ಮಿನ್ಮಧುಸೂದನ |\nಪ್ರಯಾಣಕಾಲೇ ಚ ಕಥಂ ಜ್ಞೇಯೋಽಸಿ ನಿಯತಾತ್ಮಭಿಃ ||೮-೨||"
     },
-    "transliteration": "adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .\nprayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||",
-    "life_application": "Ask how the supreme Lord resides in the body and how a self-controlled person remembers Him at death.",
+    "transliteration": {
+        "hi": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन |\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ||८-२||",
+        "en": "adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .\nprayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||",
+        "be": "অধিযজ্ঞঃ কথং কোঽত্র দেহেঽস্মিন্মধুসূদন |\nপ্রযাণকালে চ কথং জ্ঞেযোঽসি নিযতাত্মভিঃ ||৮-২||",
+        "ka": "ಅಧಿಯಜ್ಞಃ ಕಥಂ ಕೋಽತ್ರ ದೇಹೇಽಸ್ಮಿನ್ಮಧುಸೂದನ |\nಪ್ರಯಾಣಕಾಲೇ ಚ ಕಥಂ ಜ್ಞೇಯೋಽಸಿ ನಿಯತಾತ್ಮಭಿಃ ||೮-೨||"
+    },
+    "life_application": {
+        "hi": "पूछें कि परम भगवान शरीर में कैसे रहते हैं और एक संयमी व्यक्ति मृत्यु के समय उन्हें कैसे याद करता है।",
+        "en": "Ask how the supreme Lord resides in the body and how a self-controlled person remembers Him at death.",
+        "be": "জিজ্ঞাসা করুন কিভাবে পরমেশ্বর ভগবান দেহে থাকেন এবং কীভাবে একজন আত্মনিয়ন্ত্রিত ব্যক্তি মৃত্যুকালে তাঁকে স্মরণ করেন।",
+        "ka": "ಪರಮಾತ್ಮನು ದೇಹದಲ್ಲಿ ಹೇಗೆ ನೆಲೆಸಿದ್ದಾನೆ ಮತ್ತು ಸ್ವಯಂ ನಿಯಂತ್ರಿತ ವ್ಯಕ್ತಿಯು ಸಾವಿನ ಸಮಯದಲ್ಲಿ ಅವನನ್ನು ಹೇಗೆ ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾನೆ ಎಂದು ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अधियज्ञः",
-            "transliteration": "adhiyajñaḥ",
-            "meaning": "adhiyajñaḥ"
+            "transliteration": {
+                "hi": "अधियज्ञः",
+                "en": "adhiyajñaḥ",
+                "be": "অধিযজ্ঞঃ",
+                "ka": "ಅಧಿಯಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "अधियज्ञः",
+                "en": "adhiyajñaḥ",
+                "be": "অধ্যাযজ্ঞঃ",
+                "ka": "ಅಧಿಯಜ್ಞಃ"
+            }
         },
         {
             "sanskrit": "कथं",
-            "transliteration": "kathaṃ",
-            "meaning": "kathaṃ"
+            "transliteration": {
+                "hi": "कथं",
+                "en": "kathaṃ",
+                "be": "কথং",
+                "ka": "ಕಥಂ"
+            },
+            "meaning": {
+                "hi": "कथा",
+                "en": "kathaṃ",
+                "be": "কথা",
+                "ka": "ಕಥಾಂ"
+            }
         },
         {
             "sanskrit": "कोऽत्र",
-            "transliteration": "ko'tra",
-            "meaning": "ko'tra"
+            "transliteration": {
+                "hi": "कोऽत्र",
+                "en": "ko'tra",
+                "be": "কোঽত্র",
+                "ka": "ಕೋಽತ್ರ"
+            },
+            "meaning": {
+                "hi": "ko'tra",
+                "en": "ko'tra",
+                "be": "ko'tra",
+                "ka": "ಕೊಟ್ರಾ"
+            }
         },
         {
             "sanskrit": "देहेऽस्मिन्मधुसूदन",
-            "transliteration": "dehe'sminmadhusūdana",
-            "meaning": "dehe'sminmadhusūdana"
+            "transliteration": {
+                "hi": "देहेऽस्मिन्मधुसूदन",
+                "en": "dehe'sminmadhusūdana",
+                "be": "দেহেঽস্মিন্মধুসূদন",
+                "ka": "ದೇಹೇಽಸ್ಮಿನ್ಮಧುಸೂದನ"
+            },
+            "meaning": {
+                "hi": "देहेऽस्मिन्नमधुसूदन",
+                "en": "dehe'sminmadhusūdana",
+                "be": "dehe'sminmadhusūdana",
+                "ka": "ದೇಹೇ'ಸ್ಮಿನ್ಮಧುಸೂದನ"
+            }
         },
         {
             "sanskrit": "प्रयाणकाले",
-            "transliteration": "prayāṇakāle",
-            "meaning": "prayāṇakāle"
+            "transliteration": {
+                "hi": "प्रयाणकाले",
+                "en": "prayāṇakāle",
+                "be": "প্রযাণকালে",
+                "ka": "ಪ್ರಯಾಣಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "प्रयाणकाले",
+                "en": "prayāṇakāle",
+                "be": "প্রার্থনাকাল",
+                "ka": "ಪ್ರಾರ್ಥನೆಕಾಲೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कथं",
-            "transliteration": "kathaṃ",
-            "meaning": "kathaṃ"
+            "transliteration": {
+                "hi": "कथं",
+                "en": "kathaṃ",
+                "be": "কথং",
+                "ka": "ಕಥಂ"
+            },
+            "meaning": {
+                "hi": "कथा",
+                "en": "kathaṃ",
+                "be": "কথা",
+                "ka": "ಕಥಾಂ"
+            }
         },
         {
             "sanskrit": "ज्ञेयोऽसि",
-            "transliteration": "jñeyo'si",
-            "meaning": "jñeyo'si"
+            "transliteration": {
+                "hi": "ज्ञेयोऽसि",
+                "en": "jñeyo'si",
+                "be": "জ্ঞেযোঽসি",
+                "ka": "ಜ್ಞೇಯೋಽಸಿ"
+            },
+            "meaning": {
+                "hi": "jneyo'si",
+                "en": "jñeyo'si",
+                "be": "jñeyo'si",
+                "ka": "ಜ್ಞೇಯೋ'ಸಿ"
+            }
         },
         {
             "sanskrit": "नियतात्मभिः",
-            "transliteration": "niyatātmabhiḥ",
-            "meaning": "niyatātmabhiḥ"
+            "transliteration": {
+                "hi": "नियतात्मभिः",
+                "en": "niyatātmabhiḥ",
+                "be": "নিযতাত্মভিঃ",
+                "ka": "ನಿಯತಾತ್ಮಭಿಃ"
+            },
+            "meaning": {
+                "hi": "नियतात्मभिः",
+                "en": "niyatātmabhiḥ",
+                "be": "নিয়তাত্মভিঃ",
+                "ka": "ನಿಯತಾತ್ಮಭಿಃ"
+            }
         }
     ],
     "tej": {

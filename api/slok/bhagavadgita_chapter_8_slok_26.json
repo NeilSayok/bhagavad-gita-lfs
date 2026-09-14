@@ -14,8 +14,18 @@
         "en": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate .\nekayā yātyanāvṛttimanyayāvartate punaḥ ||8-26||",
         "ka": "ಶುಕ್ಲಕೃಷ್ಣೇ ಗತೀ ಹ್ಯೇತೇ ಜಗತಃ ಶಾಶ್ವತೇ ಮತೇ |\nಏಕಯಾ ಯಾತ್ಯನಾವೃತ್ತಿಮನ್ಯಯಾವರ್ತತೇ ಪುನಃ ||೮-೨೬||"
     },
-    "transliteration": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate .\nekayā yātyanāvṛttimanyayāvartate punaḥ ||8-26||",
-    "life_application": "Know these two eternal paths of light and darkness, one leading to liberation and the other to rebirth.",
+    "transliteration": {
+        "hi": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते |\nएकया यात्यनावृत्तिमन्ययावर्तते पुनः ||८-२६||",
+        "en": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate .\nekayā yātyanāvṛttimanyayāvartate punaḥ ||8-26||",
+        "be": "শুক্লকৃষ্ণে গতী হ্যেতে জগতঃ শাশ্বতে মতে |\nএকযা যাত্যনাবৃত্তিমন্যযাবর্ততে পুনঃ ||৮-২৬||",
+        "ka": "ಶುಕ್ಲಕೃಷ್ಣೇ ಗತೀ ಹ್ಯೇತೇ ಜಗತಃ ಶಾಶ್ವತೇ ಮತೇ |\nಏಕಯಾ ಯಾತ್ಯನಾವೃತ್ತಿಮನ್ಯಯಾವರ್ತತೇ ಪುನಃ ||೮-೨೬||"
+    },
+    "life_application": {
+        "hi": "प्रकाश और अंधकार के इन दो शाश्वत मार्गों को जानें, एक मुक्ति की ओर और दूसरा पुनर्जन्म की ओर।",
+        "en": "Know these two eternal paths of light and darkness, one leading to liberation and the other to rebirth.",
+        "be": "আলো এবং অন্ধকারের এই দুটি চিরন্তন পথ জানুন, একটি মুক্তির দিকে নিয়ে যায় এবং অন্যটি পুনর্জন্মের দিকে নিয়ে যায়।",
+        "ka": "ಬೆಳಕು ಮತ್ತು ಕತ್ತಲೆಯ ಈ ಎರಡು ಶಾಶ್ವತ ಮಾರ್ಗಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ, ಒಂದು ವಿಮೋಚನೆಗೆ ಮತ್ತು ಇನ್ನೊಂದು ಪುನರ್ಜನ್ಮಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Purpose"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "शुक्लकृष्णे",
-            "transliteration": "śuklakṛṣṇe",
-            "meaning": "śuklakṛṣṇe"
+            "transliteration": {
+                "hi": "शुक्लकृष्णे",
+                "en": "śuklakṛṣṇe",
+                "be": "শুক্লকৃষ্ণে",
+                "ka": "ಶುಕ್ಲಕೃಷ್ಣೇ"
+            },
+            "meaning": {
+                "hi": "शुक्लकृष्णे",
+                "en": "śuklakṛṣṇe",
+                "be": "শুক্লকৃষ্ণে",
+                "ka": "ಶುಕ್ಲಕ್ಷೇ"
+            }
         },
         {
             "sanskrit": "गती",
-            "transliteration": "gatī",
-            "meaning": "gatī"
+            "transliteration": {
+                "hi": "गती",
+                "en": "gatī",
+                "be": "গতী",
+                "ka": "ಗತೀ"
+            },
+            "meaning": {
+                "hi": "गति",
+                "en": "gatī",
+                "be": "গতি",
+                "ka": "ಗತಿ"
+            }
         },
         {
             "sanskrit": "ह्येते",
-            "transliteration": "hyete",
-            "meaning": "hyete"
+            "transliteration": {
+                "hi": "ह्येते",
+                "en": "hyete",
+                "be": "হ্যেতে",
+                "ka": "ಹ್ಯೇತೇ"
+            },
+            "meaning": {
+                "hi": "हायते",
+                "en": "hyete",
+                "be": "হাইতে",
+                "ka": "ಹೈಟೆ"
+            }
         },
         {
             "sanskrit": "जगतः",
-            "transliteration": "jagataḥ",
-            "meaning": "jagataḥ"
+            "transliteration": {
+                "hi": "जगतः",
+                "en": "jagataḥ",
+                "be": "জগতঃ",
+                "ka": "ಜಗತಃ"
+            },
+            "meaning": {
+                "hi": "जगतः",
+                "en": "jagataḥ",
+                "be": "জগতঃ",
+                "ka": "ಜಗತಃ"
+            }
         },
         {
             "sanskrit": "शाश्वते",
-            "transliteration": "śāśvate",
-            "meaning": "śāśvate"
+            "transliteration": {
+                "hi": "शाश्वते",
+                "en": "śāśvate",
+                "be": "শাশ্বতে",
+                "ka": "ಶಾಶ್ವತೇ"
+            },
+            "meaning": {
+                "hi": "शाश्वते",
+                "en": "śāśvate",
+                "be": "শাশ্বতে",
+                "ka": "ಶಾಶ್ವತೇ"
+            }
         },
         {
             "sanskrit": "मते",
-            "transliteration": "mate",
-            "meaning": "mate"
+            "transliteration": {
+                "hi": "मते",
+                "en": "mate",
+                "be": "মতে",
+                "ka": "ಮತೇ"
+            },
+            "meaning": {
+                "hi": "साथी",
+                "en": "mate",
+                "be": "সঙ্গী",
+                "ka": "ಸಂಗಾತಿ"
+            }
         },
         {
             "sanskrit": "एकया",
-            "transliteration": "ekayā",
-            "meaning": "ekayā"
+            "transliteration": {
+                "hi": "एकया",
+                "en": "ekayā",
+                "be": "একযা",
+                "ka": "ಏಕಯಾ"
+            },
+            "meaning": {
+                "hi": "एकाया",
+                "en": "ekayā",
+                "be": "ekayā",
+                "ka": "ಏಕಾಯ"
+            }
         },
         {
             "sanskrit": "यात्यनावृत्तिमन्ययावर्तते",
-            "transliteration": "yātyanāvṛttimanyayāvartate",
-            "meaning": "yātyanāvṛttimanyayāvartate"
+            "transliteration": {
+                "hi": "यात्यनावृत्तिमन्ययावर्तते",
+                "en": "yātyanāvṛttimanyayāvartate",
+                "be": "যাত্যনাবৃত্তিমন্যযাবর্ততে",
+                "ka": "ಯಾತ್ಯನಾವೃತ್ತಿಮನ್ಯಯಾವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "यत्यानावृत्तिमनयावर्तते",
+                "en": "yātyanāvṛttimanyayāvartate",
+                "be": "yātyanāvṛttimanyavartate",
+                "ka": "ಯತ್ಯಾನಾವೃತ್ತಿಮನ್ಯಯಾವರ್ತತೇ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "punaḥ"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुन:",
+                "en": "punaḥ",
+                "be": "পুনাহ",
+                "ka": "ಪುನಃ"
+            }
         }
     ],
     "tej": {

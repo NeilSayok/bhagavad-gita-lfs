@@ -14,8 +14,18 @@
         "en": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||",
         "ka": "ಯತ್ರ ಕಾಲೇ ತ್ವನಾವೃತ್ತಿಮಾವೃತ್ತಿಂ ಚೈವ ಯೋಗಿನಃ |\nಪ್ರಯಾತಾ ಯಾನ್ತಿ ತಂ ಕಾಲಂ ವಕ್ಷ್ಯಾಮಿ ಭರತರ್ಷಭ ||೮-೨೩||"
     },
-    "transliteration": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||",
-    "life_application": "Learn of the cosmic times and paths along which yogis depart, either to return or not to return.",
+    "transliteration": {
+        "hi": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः |\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||",
+        "en": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||",
+        "be": "যত্র কালে ত্বনাবৃত্তিমাবৃত্তিং চৈব যোগিনঃ |\nপ্রযাতা যান্তি তং কালং বক্ষ্যামি ভরতর্ষভ ||৮-২৩||",
+        "ka": "ಯತ್ರ ಕಾಲೇ ತ್ವನಾವೃತ್ತಿಮಾವೃತ್ತಿಂ ಚೈವ ಯೋಗಿನಃ |\nಪ್ರಯಾತಾ ಯಾನ್ತಿ ತಂ ಕಾಲಂ ವಕ್ಷ್ಯಾಮಿ ಭರತರ್ಷಭ ||೮-೨೩||"
+    },
+    "life_application": {
+        "hi": "उन लौकिक समयों और रास्तों के बारे में जानें जिनके साथ योगी प्रस्थान करते हैं, या तो लौटने के लिए या वापस नहीं लौटने के लिए।",
+        "en": "Learn of the cosmic times and paths along which yogis depart, either to return or not to return.",
+        "be": "মহাজাগতিক সময় এবং পথগুলি শিখুন যা দিয়ে যোগীরা চলে যায়, হয় ফিরে যেতে বা না ফিরে।",
+        "ka": "ಯೋಗಿಗಳು ಹೊರಡುವ ಕಾಸ್ಮಿಕ್ ಸಮಯಗಳು ಮತ್ತು ಮಾರ್ಗಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ, ಹಿಂತಿರುಗಲು ಅಥವಾ ಹಿಂತಿರುಗಲು."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यत्र",
-            "transliteration": "yatra",
-            "meaning": "yatra"
+            "transliteration": {
+                "hi": "यत्र",
+                "en": "yatra",
+                "be": "যত্র",
+                "ka": "ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "यात्रा",
+                "en": "yatra",
+                "be": "যাত্রা",
+                "ka": "ಯಾತ್ರೆ"
+            }
         },
         {
             "sanskrit": "काले",
-            "transliteration": "kāle",
-            "meaning": "kāle"
+            "transliteration": {
+                "hi": "काले",
+                "en": "kāle",
+                "be": "কালে",
+                "ka": "ಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "काले",
+                "en": "kāle",
+                "be": "kāle",
+                "ka": "ಕಾಳೆ"
+            }
         },
         {
             "sanskrit": "त्वनावृत्तिमावृत्तिं",
-            "transliteration": "tvanāvṛttimāvṛttiṃ",
-            "meaning": "tvanāvṛttimāvṛttiṃ"
+            "transliteration": {
+                "hi": "त्वनावृत्तिमावृत्तिं",
+                "en": "tvanāvṛttimāvṛttiṃ",
+                "be": "ত্বনাবৃত্তিমাবৃত্তিং",
+                "ka": "ತ್ವನಾವೃತ್ತಿಮಾವೃತ್ತಿಂ"
+            },
+            "meaning": {
+                "hi": "त्वनावृत्तिमावृत्तिम्",
+                "en": "tvanāvṛttimāvṛttiṃ",
+                "be": "tvanāvṛttimāvṛttiṃ",
+                "ka": "ತ್ವನಾವೃತ್ತಿಮಾವೃತ್ತಿಃ"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "योगिनः",
-            "transliteration": "yoginaḥ",
-            "meaning": "yoginaḥ"
+            "transliteration": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            },
+            "meaning": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            }
         },
         {
             "sanskrit": "प्रयाता",
-            "transliteration": "prayātā",
-            "meaning": "prayātā"
+            "transliteration": {
+                "hi": "प्रयाता",
+                "en": "prayātā",
+                "be": "প্রযাতা",
+                "ka": "ಪ್ರಯಾತಾ"
+            },
+            "meaning": {
+                "hi": "प्रयाता",
+                "en": "prayātā",
+                "be": "প্রার্থনা",
+                "ka": "ಪ್ರಯಾತ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "तं",
-            "transliteration": "taṃ",
-            "meaning": "taṃ"
+            "transliteration": {
+                "hi": "तं",
+                "en": "taṃ",
+                "be": "তং",
+                "ka": "ತಂ"
+            },
+            "meaning": {
+                "hi": "टैं",
+                "en": "taṃ",
+                "be": "taṃ",
+                "ka": "taṃ"
+            }
         },
         {
             "sanskrit": "कालं",
-            "transliteration": "kālaṃ",
-            "meaning": "kālaṃ"
+            "transliteration": {
+                "hi": "कालं",
+                "en": "kālaṃ",
+                "be": "কালং",
+                "ka": "ಕಾಲಂ"
+            },
+            "meaning": {
+                "hi": "कलां",
+                "en": "kālaṃ",
+                "be": "kālaṃ",
+                "ka": "ಕಲಾಂ"
+            }
         },
         {
             "sanskrit": "वक्ष्यामि",
-            "transliteration": "vakṣyāmi",
-            "meaning": "vakṣyāmi"
+            "transliteration": {
+                "hi": "वक्ष्यामि",
+                "en": "vakṣyāmi",
+                "be": "বক্ষ্যামি",
+                "ka": "ವಕ್ಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "वक्षयामि",
+                "en": "vakṣyāmi",
+                "be": "vakṣyāmi",
+                "ka": "ವಕ್ಷ್ಯಾಮಿ"
+            }
         },
         {
             "sanskrit": "भरतर्षभ",
-            "transliteration": "bharatarṣabha",
-            "meaning": "bharatarṣabha"
+            "transliteration": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভরতর্ষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            },
+            "meaning": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভারতরষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            }
         }
     ],
     "tej": {

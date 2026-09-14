@@ -14,8 +14,18 @@
         "en": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā .\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam ||8-22||",
         "ka": "ಪುರುಷಃ ಸ ಪರಃ ಪಾರ್ಥ ಭಕ್ತ್ಯಾ ಲಭ್ಯಸ್ತ್ವನನ್ಯಯಾ |\nಯಸ್ಯಾನ್ತಃಸ್ಥಾನಿ ಭೂತಾನಿ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ ||೮-೨೨||"
     },
-    "transliteration": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā .\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam ||8-22||",
-    "life_application": "Attain that supreme divine person in whom all beings reside and by whom all is pervaded through unswerving devotion.",
+    "transliteration": {
+        "hi": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया |\nयस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ||८-२२||",
+        "en": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā .\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam ||8-22||",
+        "be": "পুরুষঃ স পরঃ পার্থ ভক্ত্যা লভ্যস্ত্বনন্যযা |\nযস্যান্তঃস্থানি ভূতানি যেন সর্বমিদং ততম্ ||৮-২২||",
+        "ka": "ಪುರುಷಃ ಸ ಪರಃ ಪಾರ್ಥ ಭಕ್ತ್ಯಾ ಲಭ್ಯಸ್ತ್ವನನ್ಯಯಾ |\nಯಸ್ಯಾನ್ತಃಸ್ಥಾನಿ ಭೂತಾನಿ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ ||೮-೨೨||"
+    },
+    "life_application": {
+        "hi": "अटल भक्ति से उस परम दिव्य पुरुष को प्राप्त करें जिसमें सभी प्राणी निवास करते हैं और जिससे सब कुछ व्याप्त है।",
+        "en": "Attain that supreme divine person in whom all beings reside and by whom all is pervaded through unswerving devotion.",
+        "be": "সেই পরম দিব্য সত্তাকে লাভ করুন যাঁর মধ্যে সমস্ত প্রাণী বাস করে এবং যাঁর দ্বারা সকলে অটল ভক্তি দ্বারা পরিব্যাপ্ত।",
+        "ka": "ಎಲ್ಲ ಜೀವಿಗಳು ನೆಲೆಸಿರುವ ಮತ್ತು ಅಚಲವಾದ ಭಕ್ತಿಯ ಮೂಲಕ ಎಲ್ಲವನ್ನು ವ್ಯಾಪಿಸಿರುವ ಆ ಪರಮ ದೈವಿಕ ವ್ಯಕ್ತಿಯನ್ನು ಸಾಧಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "puruṣaḥ"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষশাহ",
+                "ka": "ಪುರುಷಃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "परः",
-            "transliteration": "paraḥ",
-            "meaning": "paraḥ"
+            "transliteration": {
+                "hi": "परः",
+                "en": "paraḥ",
+                "be": "পরঃ",
+                "ka": "ಪರಃ"
+            },
+            "meaning": {
+                "hi": "परः",
+                "en": "paraḥ",
+                "be": "প্যারাহ",
+                "ka": "ಪರಃ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "bhaktyā"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্য",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            }
         },
         {
             "sanskrit": "लभ्यस्त्वनन्यया",
-            "transliteration": "labhyastvananyayā",
-            "meaning": "labhyastvananyayā"
+            "transliteration": {
+                "hi": "लभ्यस्त्वनन्यया",
+                "en": "labhyastvananyayā",
+                "be": "লভ্যস্ত্বনন্যযা",
+                "ka": "ಲಭ್ಯಸ್ತ್ವನನ್ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "लभ्यस्तवनन्याय",
+                "en": "labhyastvananyayā",
+                "be": "labhyastvananyayā",
+                "ka": "ಲಭ್ಯಸ್ತ್ವನನ್ಯಾಯ"
+            }
         },
         {
             "sanskrit": "यस्यान्तःस्थानि",
-            "transliteration": "yasyāntaḥsthāni",
-            "meaning": "yasyāntaḥsthāni"
+            "transliteration": {
+                "hi": "यस्यान्तःस्थानि",
+                "en": "yasyāntaḥsthāni",
+                "be": "যস্যান্তঃস্থানি",
+                "ka": "ಯಸ್ಯಾನ್ತಃಸ್ಥಾನಿ"
+            },
+            "meaning": {
+                "hi": "यस्यन्तःस्थानि",
+                "en": "yasyāntaḥsthāni",
+                "be": "যস্যান্তঃস্থানী",
+                "ka": "ಯಸ್ಯಾಂತಃಸ್ಥಾನಿ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "bhūtāni"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "भूटानी",
+                "en": "bhūtāni",
+                "be": "ভুটানি",
+                "ka": "ಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "येन",
-            "transliteration": "yena",
-            "meaning": "yena"
+            "transliteration": {
+                "hi": "येन",
+                "en": "yena",
+                "be": "যেন",
+                "ka": "ಯೇನ"
+            },
+            "meaning": {
+                "hi": "येना",
+                "en": "yena",
+                "be": "ইয়েনা",
+                "ka": "ಯೇನಾ"
+            }
         },
         {
             "sanskrit": "सर्वमिदं",
-            "transliteration": "sarvamidaṃ",
-            "meaning": "sarvamidaṃ"
+            "transliteration": {
+                "hi": "सर्वमिदं",
+                "en": "sarvamidaṃ",
+                "be": "সর্বমিদং",
+                "ka": "ಸರ್ವಮಿದಂ"
+            },
+            "meaning": {
+                "hi": "सर्वमिदं",
+                "en": "sarvamidaṃ",
+                "be": "সর্বমিদং",
+                "ka": "ಸರ್ವಮಿದಂ"
+            }
         },
         {
             "sanskrit": "ततम्",
-            "transliteration": "tatam",
-            "meaning": "tatam"
+            "transliteration": {
+                "hi": "ततम्",
+                "en": "tatam",
+                "be": "ততম্",
+                "ka": "ತತಮ್"
+            },
+            "meaning": {
+                "hi": "tatam",
+                "en": "tatam",
+                "be": "tatam",
+                "ka": "ಟಾಟಮ್"
+            }
         }
     ],
     "tej": {

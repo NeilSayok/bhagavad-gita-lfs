@@ -14,8 +14,18 @@
         "en": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam .\ntatra cāndramasaṃ jyotiryogī prāpya nivartate ||8-25||",
         "ka": "ಧೂಮೋ ರಾತ್ರಿಸ್ತಥಾ ಕೃಷ್ಣಃ ಷಣ್ಮಾಸಾ ದಕ್ಷಿಣಾಯನಮ್ |\nತತ್ರ ಚಾನ್ದ್ರಮಸಂ ಜ್ಯೋತಿರ್ಯೋಗೀ ಪ್ರಾಪ್ಯ ನಿವರ್ತತೇ ||೮-೨೫||"
     },
-    "transliteration": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam .\ntatra cāndramasaṃ jyotiryogī prāpya nivartate ||8-25||",
-    "life_application": "Recognize the dark path of smoke, night, and southern sun, by which the practitioner attains lunar light and returns.",
+    "transliteration": {
+        "hi": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् |\nतत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ||८-२५||",
+        "en": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam .\ntatra cāndramasaṃ jyotiryogī prāpya nivartate ||8-25||",
+        "be": "ধূমো রাত্রিস্তথা কৃষ্ণঃ ষণ্মাসা দক্ষিণাযনম্ |\nতত্র চান্দ্রমসং জ্যোতির্যোগী প্রাপ্য নিবর্ততে ||৮-২৫||",
+        "ka": "ಧೂಮೋ ರಾತ್ರಿಸ್ತಥಾ ಕೃಷ್ಣಃ ಷಣ್ಮಾಸಾ ದಕ್ಷಿಣಾಯನಮ್ |\nತತ್ರ ಚಾನ್ದ್ರಮಸಂ ಜ್ಯೋತಿರ್ಯೋಗೀ ಪ್ರಾಪ್ಯ ನಿವರ್ತತೇ ||೮-೨೫||"
+    },
+    "life_application": {
+        "hi": "धुएँ, रात और दक्षिणी सूरज के अंधेरे रास्ते को पहचानें, जिसके द्वारा अभ्यासकर्ता चंद्र प्रकाश प्राप्त करता है और वापस लौटता है।",
+        "en": "Recognize the dark path of smoke, night, and southern sun, by which the practitioner attains lunar light and returns.",
+        "be": "ধোঁয়া, রাত এবং দক্ষিণ সূর্যের অন্ধকার পথ চিনুন, যার দ্বারা অনুশীলনকারী চন্দ্রের আলো অর্জন করে এবং ফিরে আসে।",
+        "ka": "ಹೊಗೆ, ರಾತ್ರಿ ಮತ್ತು ದಕ್ಷಿಣ ಸೂರ್ಯನ ಕತ್ತಲೆಯ ಮಾರ್ಗವನ್ನು ಗುರುತಿಸಿ, ಅದರ ಮೂಲಕ ವೈದ್ಯರು ಚಂದ್ರನ ಬೆಳಕನ್ನು ಪಡೆಯುತ್ತಾರೆ ಮತ್ತು ಹಿಂತಿರುಗುತ್ತಾರೆ."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "धूमो",
-            "transliteration": "dhūmo",
-            "meaning": "dhūmo"
+            "transliteration": {
+                "hi": "धूमो",
+                "en": "dhūmo",
+                "be": "ধূমো",
+                "ka": "ಧೂಮೋ"
+            },
+            "meaning": {
+                "hi": "धूमो",
+                "en": "dhūmo",
+                "be": "ধুমো",
+                "ka": "ಧೂಮೋ"
+            }
         },
         {
             "sanskrit": "रात्रिस्तथा",
-            "transliteration": "rātristathā",
-            "meaning": "rātristathā"
+            "transliteration": {
+                "hi": "रात्रिस्तथा",
+                "en": "rātristathā",
+                "be": "রাত্রিস্তথা",
+                "ka": "ರಾತ್ರಿಸ್ತಥಾ"
+            },
+            "meaning": {
+                "hi": "रात्रिस्तथा",
+                "en": "rātristathā",
+                "be": "রাত্রিস্তথা",
+                "ka": "ರಾತ್ರಿಸ್ತಥಾ"
+            }
         },
         {
             "sanskrit": "कृष्णः",
-            "transliteration": "kṛṣṇaḥ",
-            "meaning": "Krishna"
+            "transliteration": {
+                "hi": "कृष्णः",
+                "en": "kṛṣṇaḥ",
+                "be": "কৃষ্ণঃ",
+                "ka": "ಕೃಷ್ಣಃ"
+            },
+            "meaning": {
+                "hi": "कृष्ण",
+                "en": "Krishna",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            }
         },
         {
             "sanskrit": "षण्मासा",
-            "transliteration": "ṣaṇmāsā",
-            "meaning": "ṣaṇmāsā"
+            "transliteration": {
+                "hi": "षण्मासा",
+                "en": "ṣaṇmāsā",
+                "be": "ষণ্মাসা",
+                "ka": "ಷಣ್ಮಾಸಾ"
+            },
+            "meaning": {
+                "hi": "शन्मासा",
+                "en": "ṣaṇmāsā",
+                "be": "শানমাসা",
+                "ka": "ಸನ್ಮಾಸ"
+            }
         },
         {
             "sanskrit": "दक्षिणायनम्",
-            "transliteration": "dakṣiṇāyanam",
-            "meaning": "dakṣiṇāyanam"
+            "transliteration": {
+                "hi": "दक्षिणायनम्",
+                "en": "dakṣiṇāyanam",
+                "be": "দক্ষিণাযনম্",
+                "ka": "ದಕ್ಷಿಣಾಯನಮ್"
+            },
+            "meaning": {
+                "hi": "दक्षिणायनम्",
+                "en": "dakṣiṇāyanam",
+                "be": "দক্ষিণায়নাম",
+                "ka": "ದಕ್ಷಿಣಾಯನಂ"
+            }
         },
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "tatra"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "टाट्रा",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            }
         },
         {
             "sanskrit": "चान्द्रमसं",
-            "transliteration": "cāndramasaṃ",
-            "meaning": "cāndramasaṃ"
+            "transliteration": {
+                "hi": "चान्द्रमसं",
+                "en": "cāndramasaṃ",
+                "be": "চান্দ্রমসং",
+                "ka": "ಚಾನ್ದ್ರಮಸಂ"
+            },
+            "meaning": {
+                "hi": "चन्द्रमासम्",
+                "en": "cāndramasaṃ",
+                "be": "চন্দ্রমাসন",
+                "ka": "ಚಂದ್ರಮಾಸ"
+            }
         },
         {
             "sanskrit": "ज्योतिर्योगी",
-            "transliteration": "jyotiryogī",
-            "meaning": "jyotiryogī"
+            "transliteration": {
+                "hi": "ज्योतिर्योगी",
+                "en": "jyotiryogī",
+                "be": "জ্যোতির্যোগী",
+                "ka": "ಜ್ಯೋತಿರ್ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "ज्योतिर्योगी",
+                "en": "jyotiryogī",
+                "be": "জ্যোতিরিযোগী",
+                "ka": "ಜ್ಯೋತಿರ್ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "प्राप्य",
-            "transliteration": "prāpya",
-            "meaning": "prāpya"
+            "transliteration": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "निवर्तते",
-            "transliteration": "nivartate",
-            "meaning": "nivartate"
+            "transliteration": {
+                "hi": "निवर्तते",
+                "en": "nivartate",
+                "be": "নিবর্ততে",
+                "ka": "ನಿವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "निवार्टेट",
+                "en": "nivartate",
+                "be": "nivartate",
+                "ka": "ನಿವಾರ್ಟೇಟ್"
+            }
         }
     ],
     "tej": {

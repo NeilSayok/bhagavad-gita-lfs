@@ -14,8 +14,18 @@
         "en": "yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate .\nsarvatrāvasthito dehe tathātmā nopalipyate ||13-33||",
         "ka": "ಯಥಾ ಸರ್ವಗತಂ ಸೌಕ್ಷ್ಮ್ಯಾದಾಕಾಶಂ ನೋಪಲಿಪ್ಯತೇ |\nಸರ್ವತ್ರಾವಸ್ಥಿತೋ ದೇಹೇ ತಥಾತ್ಮಾ ನೋಪಲಿಪ್ಯತೇ ||೧೩-೩೩||"
     },
-    "transliteration": "yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate .\nsarvatrāvasthito dehe tathātmā nopalipyate ||13-33||",
-    "life_application": "Just as the single sun illuminates this entire world, so the Lord of the field illuminates the whole field.",
+    "transliteration": {
+        "hi": "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते |\nसर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते ||१३-३३||",
+        "en": "yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate .\nsarvatrāvasthito dehe tathātmā nopalipyate ||13-33||",
+        "be": "যথা সর্বগতং সৌক্ষ্ম্যাদাকাশং নোপলিপ্যতে |\nসর্বত্রাবস্থিতো দেহে তথাত্মা নোপলিপ্যতে ||১৩-৩৩||",
+        "ka": "ಯಥಾ ಸರ್ವಗತಂ ಸೌಕ್ಷ್ಮ್ಯಾದಾಕಾಶಂ ನೋಪಲಿಪ್ಯತೇ |\nಸರ್ವತ್ರಾವಸ್ಥಿತೋ ದೇಹೇ ತಥಾತ್ಮಾ ನೋಪಲಿಪ್ಯತೇ ||೧೩-೩೩||"
+    },
+    "life_application": {
+        "hi": "जिस प्रकार एक ही सूर्य इस सम्पूर्ण जगत को प्रकाशित करता है, उसी प्रकार क्षेत्र का स्वामी सम्पूर्ण क्षेत्र को प्रकाशित करता है।",
+        "en": "Just as the single sun illuminates this entire world, so the Lord of the field illuminates the whole field.",
+        "be": "একক সূর্য যেমন এই সমগ্র জগৎকে আলোকিত করে, তেমনি মাঠের পালনকর্তা সমগ্র ক্ষেত্রকে আলোকিত করেন।",
+        "ka": "ಒಂದೇ ಸೂರ್ಯನು ಈ ಇಡೀ ಜಗತ್ತನ್ನು ಬೆಳಗಿಸುವಂತೆ, ಕ್ಷೇತ್ರದ ಭಗವಂತ ಇಡೀ ಕ್ಷೇತ್ರವನ್ನು ಬೆಳಗಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सर्वगतम्",
-            "transliteration": "sarvagatam",
-            "meaning": "the allpervading"
+            "transliteration": {
+                "hi": "सर्वगतम्",
+                "en": "sarvagatam",
+                "be": "সর্বগতম্",
+                "ka": "ಸರ್ವಗತಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वव्यापी",
+                "en": "the allpervading",
+                "be": "সর্বব্যাপী",
+                "ka": "ಎಲ್ಲಾ ವ್ಯಾಪಿಸಿರುವ"
+            }
         },
         {
             "sanskrit": "सौक्ष्म्यात्",
-            "transliteration": "saukṣmyāt",
-            "meaning": "because of its subtlety"
+            "transliteration": {
+                "hi": "सौक्ष्म्यात्",
+                "en": "saukṣmyāt",
+                "be": "সৌক্ষ্ম্যাত্",
+                "ka": "ಸೌಕ್ಷ್ಮ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "इसकी सूक्ष्मता के कारण",
+                "en": "because of its subtlety",
+                "be": "এর সূক্ষ্মতার কারণে",
+                "ka": "ಅದರ ಸೂಕ್ಷ್ಮತೆಯಿಂದಾಗಿ"
+            }
         },
         {
             "sanskrit": "आकाशम्",
-            "transliteration": "ākāśam",
-            "meaning": "ether"
+            "transliteration": {
+                "hi": "आकाशम्",
+                "en": "ākāśam",
+                "be": "আকাশম্",
+                "ka": "ಆಕಾಶಮ್"
+            },
+            "meaning": {
+                "hi": "ईथर",
+                "en": "ether",
+                "be": "ইথার",
+                "ka": "ಈಥರ್"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "उपलिप्यते",
-            "transliteration": "upalipyate",
-            "meaning": "is tainted"
+            "transliteration": {
+                "hi": "उपलिप्यते",
+                "en": "upalipyate",
+                "be": "উপলিপ্যতে",
+                "ka": "ಉಪಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "दागदार है",
+                "en": "is tainted",
+                "be": "কলঙ্কিত",
+                "ka": "ಕಳಂಕಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "अवस्थितः",
-            "transliteration": "avasthitaḥ",
-            "meaning": "seated"
+            "transliteration": {
+                "hi": "अवस्थितः",
+                "en": "avasthitaḥ",
+                "be": "অবস্থিতঃ",
+                "ka": "ಅವಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "बैठा हुआ",
+                "en": "seated",
+                "be": "উপবিষ্ট",
+                "ka": "ಕುಳಿತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "आत्मा",
-            "transliteration": "ātmā",
-            "meaning": "the Self"
+            "transliteration": {
+                "hi": "आत्मा",
+                "en": "ātmā",
+                "be": "আত্মা",
+                "ka": "ಆತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "the Self",
+                "be": "স্বয়ং",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "उपलिप्यते",
-            "transliteration": "upalipyate",
-            "meaning": "is tainted."
+            "transliteration": {
+                "hi": "उपलिप्यते",
+                "en": "upalipyate",
+                "be": "উপলিপ্যতে",
+                "ka": "ಉಪಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "दागदार है.",
+                "en": "is tainted.",
+                "be": "কলঙ্কিত",
+                "ka": "ಕಳಂಕಿತವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

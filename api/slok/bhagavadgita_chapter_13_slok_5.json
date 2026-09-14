@@ -14,8 +14,18 @@
         "en": "ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak .\nbrahmasūtrapadaiścaiva hetumadbhirviniścitaiḥ ||13-5||",
         "ka": "ಋಷಿಭಿರ್ಬಹುಧಾ ಗೀತಂ ಛನ್ದೋಭಿರ್ವಿವಿಧೈಃ ಪೃಥಕ್ |\nಬ್ರಹ್ಮಸೂತ್ರಪದೈಶ್ಚೈವ ಹೇತುಮದ್ಭಿರ್ವಿನಿಶ್ಚಿತೈಃ ||೧೩-೫||"
     },
-    "transliteration": "ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak .\nbrahmasūtrapadaiścaiva hetumadbhirviniścitaiḥ ||13-5||",
-    "life_application": "Observe the 24 elements: great elements, egoism, intellect, unmanifest, ten senses, mind, and five sense objects.",
+    "transliteration": {
+        "hi": "ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् |\nब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ||१३-५||",
+        "en": "ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak .\nbrahmasūtrapadaiścaiva hetumadbhirviniścitaiḥ ||13-5||",
+        "be": "ঋষিভির্বহুধা গীতং ছন্দোভির্বিবিধৈঃ পৃথক্ |\nব্রহ্মসূত্রপদৈশ্চৈব হেতুমদ্ভির্বিনিশ্চিতৈঃ ||১৩-৫||",
+        "ka": "ಋಷಿಭಿರ್ಬಹುಧಾ ಗೀತಂ ಛನ್ದೋಭಿರ್ವಿವಿಧೈಃ ಪೃಥಕ್ |\nಬ್ರಹ್ಮಸೂತ್ರಪದೈಶ್ಚೈವ ಹೇತುಮದ್ಭಿರ್ವಿನಿಶ್ಚಿತೈಃ ||೧೩-೫||"
+    },
+    "life_application": {
+        "hi": "24 तत्वों का निरीक्षण करें: महान तत्व, अहंकार, बुद्धि, अव्यक्त, दस इंद्रियां, मन और पांच इंद्रिय वस्तुएं।",
+        "en": "Observe the 24 elements: great elements, egoism, intellect, unmanifest, ten senses, mind, and five sense objects.",
+        "be": "24টি উপাদান পর্যবেক্ষণ করুন: মহান উপাদান, অহংবোধ, বুদ্ধি, অব্যক্ত, দশ ইন্দ্রিয়, মন এবং পাঁচটি ইন্দ্রিয় বস্তু।",
+        "ka": "24 ಅಂಶಗಳನ್ನು ಗಮನಿಸಿ: ಮಹಾನ್ ಅಂಶಗಳು, ಅಹಂಕಾರ, ಬುದ್ಧಿಶಕ್ತಿ, ಅವ್ಯಕ್ತ, ಹತ್ತು ಇಂದ್ರಿಯಗಳು, ಮನಸ್ಸು ಮತ್ತು ಐದು ಇಂದ್ರಿಯ ವಸ್ತುಗಳು."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "ऋषिभिः",
-            "transliteration": "ṛṣibhiḥ",
-            "meaning": "by Rishis"
+            "transliteration": {
+                "hi": "ऋषिभिः",
+                "en": "ṛṣibhiḥ",
+                "be": "ঋষিভিঃ",
+                "ka": "ಋಷಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "ऋषियों द्वारा",
+                "en": "by Rishis",
+                "be": "ঋষিদের দ্বারা",
+                "ka": "ಋಷಿಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "बहुधा",
-            "transliteration": "bahudhā",
-            "meaning": "in many ways"
+            "transliteration": {
+                "hi": "बहुधा",
+                "en": "bahudhā",
+                "be": "বহুধা",
+                "ka": "ಬಹುಧಾ"
+            },
+            "meaning": {
+                "hi": "कई मायनों में",
+                "en": "in many ways",
+                "be": "অনেক উপায়ে",
+                "ka": "ಅನೇಕ ರೀತಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "गीतम्",
-            "transliteration": "gītam",
-            "meaning": "sung"
+            "transliteration": {
+                "hi": "गीतम्",
+                "en": "gītam",
+                "be": "গীতম্",
+                "ka": "ಗೀತಮ್"
+            },
+            "meaning": {
+                "hi": "गाया",
+                "en": "sung",
+                "be": "গাওয়া",
+                "ka": "ಹಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "छन्दोभिः",
-            "transliteration": "chandobhiḥ",
-            "meaning": "in chants"
+            "transliteration": {
+                "hi": "छन्दोभिः",
+                "en": "chandobhiḥ",
+                "be": "ছন্দোভিঃ",
+                "ka": "ಛನ್ದೋಭಿಃ"
+            },
+            "meaning": {
+                "hi": "मंत्रों में",
+                "en": "in chants",
+                "be": "গানে",
+                "ka": "ಪಠಣಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "विविधैः",
-            "transliteration": "vividhaiḥ",
-            "meaning": "various"
+            "transliteration": {
+                "hi": "विविधैः",
+                "en": "vividhaiḥ",
+                "be": "বিবিধৈঃ",
+                "ka": "ವಿವಿಧೈಃ"
+            },
+            "meaning": {
+                "hi": "विविध",
+                "en": "various",
+                "be": "বিভিন্ন",
+                "ka": "ವಿವಿಧ"
+            }
         },
         {
             "sanskrit": "पृथक्",
-            "transliteration": "pṛthak",
-            "meaning": "distinctive"
+            "transliteration": {
+                "hi": "पृथक्",
+                "en": "pṛthak",
+                "be": "পৃথক্",
+                "ka": "ಪೃಥಕ್"
+            },
+            "meaning": {
+                "hi": "विशिष्ट",
+                "en": "distinctive",
+                "be": "স্বতন্ত্র",
+                "ka": "ವಿಶಿಷ್ಟ"
+            }
         },
         {
             "sanskrit": "ब्रह्मसूत्रपदैः",
-            "transliteration": "brahmasūtrapadaiḥ",
-            "meaning": "in the suggestive words"
+            "transliteration": {
+                "hi": "ब्रह्मसूत्रपदैः",
+                "en": "brahmasūtrapadaiḥ",
+                "be": "ব্রহ্মসূত্রপদৈঃ",
+                "ka": "ಬ್ರಹ್ಮಸೂತ್ರಪದೈಃ"
+            },
+            "meaning": {
+                "hi": "विचारोत्तेजक शब्दों में",
+                "en": "in the suggestive words",
+                "be": "পরামর্শমূলক শব্দে",
+                "ka": "ಸೂಚಿಸುವ ಪದಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "हेतुमद्भिः",
-            "transliteration": "hetumadbhiḥ",
-            "meaning": "full of reasoning"
+            "transliteration": {
+                "hi": "हेतुमद्भिः",
+                "en": "hetumadbhiḥ",
+                "be": "হেতুমদ্ভিঃ",
+                "ka": "ಹೇತುಮದ್ಭಿಃ"
+            },
+            "meaning": {
+                "hi": "तर्क से भरा हुआ",
+                "en": "full of reasoning",
+                "be": "যুক্তিতে পূর্ণ",
+                "ka": "ತರ್ಕ ಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "विनिश्चितैः",
-            "transliteration": "viniścitaiḥ",
-            "meaning": "decisive."
+            "transliteration": {
+                "hi": "विनिश्चितैः",
+                "en": "viniścitaiḥ",
+                "be": "বিনিশ্চিতৈঃ",
+                "ka": "ವಿನಿಶ್ಚಿತೈಃ"
+            },
+            "meaning": {
+                "hi": "निर्णयक।",
+                "en": "decisive.",
+                "be": "সিদ্ধান্তমূলক",
+                "ka": "ನಿರ್ಣಾಯಕ."
+            }
         }
     ],
     "tej": {

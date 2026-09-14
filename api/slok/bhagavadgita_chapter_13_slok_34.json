@@ -14,8 +14,18 @@
         "en": "yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ .\nkṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||13-34||",
         "ka": "ಯಥಾ ಪ್ರಕಾಶಯತ್ಯೇಕಃ ಕೃತ್ಸ್ನಂ ಲೋಕಮಿಮಂ ರವಿಃ |\nಕ್ಷೇತ್ರಂ ಕ್ಷೇತ್ರೀ ತಥಾ ಕೃತ್ಸ್ನಂ ಪ್ರಕಾಶಯತಿ ಭಾರತ ||೧೩-೩೪||"
     },
-    "transliteration": "yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ .\nkṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||13-34||",
-    "life_application": "Those who perceive with the eye of wisdom the distinction between field and knower, and liberation from nature, reach Supreme.",
+    "transliteration": {
+        "hi": "यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः |\nक्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत ||१३-३४||",
+        "en": "yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ .\nkṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||13-34||",
+        "be": "যথা প্রকাশযত্যেকঃ কৃত্স্নং লোকমিমং রবিঃ |\nক্ষেত্রং ক্ষেত্রী তথা কৃত্স্নং প্রকাশযতি ভারত ||১৩-৩৪||",
+        "ka": "ಯಥಾ ಪ್ರಕಾಶಯತ್ಯೇಕಃ ಕೃತ್ಸ್ನಂ ಲೋಕಮಿಮಂ ರವಿಃ |\nಕ್ಷೇತ್ರಂ ಕ್ಷೇತ್ರೀ ತಥಾ ಕೃತ್ಸ್ನಂ ಪ್ರಕಾಶಯತಿ ಭಾರತ ||೧೩-೩೪||"
+    },
+    "life_application": {
+        "hi": "जो लोग ज्ञान की आंखों से क्षेत्र और ज्ञाता के बीच अंतर और प्रकृति से मुक्ति को समझते हैं, वे परम तक पहुंच जाते हैं।",
+        "en": "Those who perceive with the eye of wisdom the distinction between field and knower, and liberation from nature, reach Supreme.",
+        "be": "যাঁরা জ্ঞানের চক্ষু দিয়ে ক্ষেত্র ও জ্ঞাতার পার্থক্য এবং প্রকৃতি থেকে মুক্তি লাভ করেন, তাঁরাই পরমে পৌঁছান।",
+        "ka": "ಕ್ಷೇತ್ರ ಮತ್ತು ಜ್ಞಾನಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಮತ್ತು ಪ್ರಕೃತಿಯಿಂದ ಮುಕ್ತಿಯನ್ನು ಬುದ್ಧಿವಂತಿಕೆಯ ಕಣ್ಣಿನಿಂದ ಗ್ರಹಿಸುವವರು ಪರಮಾತ್ಮನನ್ನು ತಲುಪುತ್ತಾರೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "प्रकाशयति",
-            "transliteration": "prakāśayati",
-            "meaning": "illumines"
+            "transliteration": {
+                "hi": "प्रकाशयति",
+                "en": "prakāśayati",
+                "be": "প্রকাশযতি",
+                "ka": "ಪ್ರಕಾಶಯತಿ"
+            },
+            "meaning": {
+                "hi": "प्रकाशित करता है",
+                "en": "illumines",
+                "be": "আলোকিত করে",
+                "ka": "ಪ್ರಕಾಶಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "एकः",
-            "transliteration": "ekaḥ",
-            "meaning": "one"
+            "transliteration": {
+                "hi": "एकः",
+                "en": "ekaḥ",
+                "be": "একঃ",
+                "ka": "ಏಕಃ"
+            },
+            "meaning": {
+                "hi": "एक",
+                "en": "one",
+                "be": "এক",
+                "ka": "ಒಂದು"
+            }
         },
         {
             "sanskrit": "कृत्स्नम्",
-            "transliteration": "kṛtsnam",
-            "meaning": "the whole"
+            "transliteration": {
+                "hi": "कृत्स्नम्",
+                "en": "kṛtsnam",
+                "be": "কৃত্স্নম্",
+                "ka": "ಕೃತ್ಸ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "संपूर्ण",
+                "en": "the whole",
+                "be": "সমগ্র",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "लोकम्",
-            "transliteration": "lokam",
-            "meaning": "world"
+            "transliteration": {
+                "hi": "लोकम्",
+                "en": "lokam",
+                "be": "লোকম্",
+                "ka": "ಲೋಕಮ್"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "रविः",
-            "transliteration": "raviḥ",
-            "meaning": "sun"
+            "transliteration": {
+                "hi": "रविः",
+                "en": "raviḥ",
+                "be": "রবিঃ",
+                "ka": "ರವಿಃ"
+            },
+            "meaning": {
+                "hi": "सूरज",
+                "en": "sun",
+                "be": "সূর্য",
+                "ka": "ಸೂರ್ಯ"
+            }
         },
         {
             "sanskrit": "क्षेत्रम्",
-            "transliteration": "kṣetram",
-            "meaning": "the field"
+            "transliteration": {
+                "hi": "क्षेत्रम्",
+                "en": "kṣetram",
+                "be": "ক্ষেত্রম্",
+                "ka": "ಕ್ಷೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "फील्ड",
+                "en": "the field",
+                "be": "ক্ষেত্র",
+                "ka": "ಕ್ಷೇತ್ರ"
+            }
         },
         {
             "sanskrit": "क्षेत्री",
-            "transliteration": "kṣetrī",
-            "meaning": "the Lord of the"
+            "transliteration": {
+                "hi": "क्षेत्री",
+                "en": "kṣetrī",
+                "be": "ক্ষেত্রী",
+                "ka": "ಕ್ಷೇತ್ರೀ"
+            },
+            "meaning": {
+                "hi": "के भगवान",
+                "en": "the Lord of the",
+                "be": "প্রভু",
+                "ka": "ಲಾರ್ಡ್ ಆಫ್"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "कृत्स्नम्",
-            "transliteration": "kṛtsnam",
-            "meaning": "the whole"
+            "transliteration": {
+                "hi": "कृत्स्नम्",
+                "en": "kṛtsnam",
+                "be": "কৃত্স্নম্",
+                "ka": "ಕೃತ್ಸ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "संपूर्ण",
+                "en": "the whole",
+                "be": "সমগ্র",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "प्रकाशयति",
-            "transliteration": "prakāśayati",
-            "meaning": "illumines"
+            "transliteration": {
+                "hi": "प्रकाशयति",
+                "en": "prakāśayati",
+                "be": "প্রকাশযতি",
+                "ka": "ಪ್ರಕಾಶಯತಿ"
+            },
+            "meaning": {
+                "hi": "प्रकाशित करता है",
+                "en": "illumines",
+                "be": "আলোকিত করে",
+                "ka": "ಪ್ರಕಾಶಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         }
     ],
     "tej": {

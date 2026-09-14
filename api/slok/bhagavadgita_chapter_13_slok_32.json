@@ -14,8 +14,18 @@
         "en": "anāditvānnirguṇatvātparamātmāyamavyayaḥ .\nśarīrastho.api kaunteya na karoti na lipyate ||13-32||",
         "ka": "ಅನಾದಿತ್ವಾನ್ನಿರ್ಗುಣತ್ವಾತ್ಪರಮಾತ್ಮಾಯಮವ್ಯಯಃ |\nಶರೀರಸ್ಥೋಽಪಿ ಕೌನ್ತೇಯ ನ ಕರೋತಿ ನ ಲಿಪ್ಯತೇ ||೧೩-೩೨||"
     },
-    "transliteration": "anāditvānnirguṇatvātparamātmāyamavyayaḥ .\nśarīrastho.api kaunteya na karoti na lipyate ||13-32||",
-    "life_application": "Just as all-pervading ether is not tainted due to subtlety, so the Self seated everywhere in the body is untainted.",
+    "transliteration": {
+        "hi": "अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः |\nशरीरस्थोऽपि कौन्तेय न करोति न लिप्यते ||१३-३२||",
+        "en": "anāditvānnirguṇatvātparamātmāyamavyayaḥ .\nśarīrastho.api kaunteya na karoti na lipyate ||13-32||",
+        "be": "অনাদিত্বান্নির্গুণত্বাত্পরমাত্মাযমব্যযঃ |\nশরীরস্থোঽপি কৌন্তেয ন করোতি ন লিপ্যতে ||১৩-৩২||",
+        "ka": "ಅನಾದಿತ್ವಾನ್ನಿರ್ಗುಣತ್ವಾತ್ಪರಮಾತ್ಮಾಯಮವ್ಯಯಃ |\nಶರೀರಸ್ಥೋಽಪಿ ಕೌನ್ತೇಯ ನ ಕರೋತಿ ನ ಲಿಪ್ಯತೇ ||೧೩-೩೨||"
+    },
+    "life_application": {
+        "hi": "जिस प्रकार सर्वव्यापी आकाश सूक्ष्मता के कारण कलंकित नहीं है, उसी प्रकार शरीर में सर्वत्र विराजमान आत्मा भी कलंकित नहीं है।",
+        "en": "Just as all-pervading ether is not tainted due to subtlety, so the Self seated everywhere in the body is untainted.",
+        "be": "যেমন সর্বব্যাপী ইথার সূক্ষ্মতার কারণে কলঙ্কিত হয় না, তেমনি দেহের সর্বত্র উপবিষ্ট স্বয়ং অপবিত্র।",
+        "ka": "ಹೇಗೆ ಎಲ್ಲಾ ವ್ಯಾಪಿಸಿರುವ ಈಥರ್ ಸೂಕ್ಷ್ಮತೆಯ ಕಾರಣದಿಂದ ಕಳಂಕಿತವಾಗುವುದಿಲ್ಲವೋ, ಹಾಗೆಯೇ ದೇಹದಲ್ಲಿ ಎಲ್ಲೆಲ್ಲೂ ಕುಳಿತಿರುವ ಆತ್ಮವು ಕಲ್ಮಶರಹಿತವಾಗಿರುತ್ತದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अनादित्वात्",
-            "transliteration": "anāditvāt",
-            "meaning": "being without beginning"
+            "transliteration": {
+                "hi": "अनादित्वात्",
+                "en": "anāditvāt",
+                "be": "অনাদিত্বাত্",
+                "ka": "ಅನಾದಿತ್ವಾತ್"
+            },
+            "meaning": {
+                "hi": "शुरुआत के बिना होना",
+                "en": "being without beginning",
+                "be": "শুরু ছাড়া হচ্ছে",
+                "ka": "ಆರಂಭವಿಲ್ಲದೆ ಇರುವುದು"
+            }
         },
         {
             "sanskrit": "निर्गुणत्वात्",
-            "transliteration": "nirguṇatvāt",
-            "meaning": "being devoid of alities"
+            "transliteration": {
+                "hi": "निर्गुणत्वात्",
+                "en": "nirguṇatvāt",
+                "be": "নির্গুণত্বাত্",
+                "ka": "ನಿರ್ಗುಣತ್ವಾತ್"
+            },
+            "meaning": {
+                "hi": "गुणों से रहित होना",
+                "en": "being devoid of alities",
+                "be": "অলিতি বর্জিত হচ্ছে",
+                "ka": "ಅಲಿಟಿಗಳಿಲ್ಲದಿರುವುದು"
+            }
         },
         {
             "sanskrit": "परमात्मा",
-            "transliteration": "paramātmā",
-            "meaning": "the Supreme Self"
+            "transliteration": {
+                "hi": "परमात्मा",
+                "en": "paramātmā",
+                "be": "পরমাত্মা",
+                "ka": "ಪರಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च स्व",
+                "en": "the Supreme Self",
+                "be": "সর্বোচ্চ স্বয়ং",
+                "ka": "ಸರ್ವೋಚ್ಚ ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अव्ययः",
-            "transliteration": "avyayaḥ",
-            "meaning": "imperishable"
+            "transliteration": {
+                "hi": "अव्ययः",
+                "en": "avyayaḥ",
+                "be": "অব্যযঃ",
+                "ka": "ಅವ್ಯಯಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "शरीरस्थः",
-            "transliteration": "śarīrasthaḥ",
-            "meaning": "dwelling in this body"
+            "transliteration": {
+                "hi": "शरीरस्थः",
+                "en": "śarīrasthaḥ",
+                "be": "শরীরস্থঃ",
+                "ka": "ಶರೀರಸ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "इस शरीर में निवास करना",
+                "en": "dwelling in this body",
+                "be": "এই দেহে বাস করে",
+                "ka": "ಈ ದೇಹದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "though"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "हालाँकि",
+                "en": "though",
+                "be": "যদিও",
+                "ka": "ಆದರೂ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not करोति acts"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "करोति कृत्य नहीं",
+                "en": "not करोति acts",
+                "be": "না করোতি কাজ",
+                "ka": "ಕರೋತಿ ಕಾಯಿದೆಗಳಲ್ಲ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "लिप्यते",
-            "transliteration": "lipyate",
-            "meaning": "is tainted."
+            "transliteration": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "লিপ্যতে",
+                "ka": "ಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "दागदार है.",
+                "en": "is tainted.",
+                "be": "কলঙ্কিত",
+                "ka": "ಕಳಂಕಿತವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

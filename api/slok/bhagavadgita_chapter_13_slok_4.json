@@ -14,8 +14,18 @@
         "en": "tatkṣetraṃ yacca yādṛkca yadvikāri yataśca yat .\nsa ca yo yatprabhāvaśca tatsamāsena me śṛṇu ||13-4||",
         "ka": "ತತ್ಕ್ಷೇತ್ರಂ ಯಚ್ಚ ಯಾದೃಕ್ಚ ಯದ್ವಿಕಾರಿ ಯತಶ್ಚ ಯತ್ |\nಸ ಚ ಯೋ ಯತ್ಪ್ರಭಾವಶ್ಚ ತತ್ಸಮಾಸೇನ ಮೇ ಶೃಣು ||೧೩-೪||"
     },
-    "transliteration": "tatkṣetraṃ yacca yādṛkca yadvikāri yataśca yat .\nsa ca yo yatprabhāvaśca tatsamāsena me śṛṇu ||13-4||",
-    "life_application": "Recognize that this truth has been sung by sages in various hymns and reasoned out in aphorisms of wisdom.",
+    "transliteration": {
+        "hi": "तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् |\nस च यो यत्प्रभावश्च तत्समासेन मे शृणु ||१३-४||",
+        "en": "tatkṣetraṃ yacca yādṛkca yadvikāri yataśca yat .\nsa ca yo yatprabhāvaśca tatsamāsena me śṛṇu ||13-4||",
+        "be": "তত্ক্ষেত্রং যচ্চ যাদৃক্চ যদ্বিকারি যতশ্চ যত্ |\nস চ যো যত্প্রভাবশ্চ তত্সমাসেন মে শৃণু ||১৩-৪||",
+        "ka": "ತತ್ಕ್ಷೇತ್ರಂ ಯಚ್ಚ ಯಾದೃಕ್ಚ ಯದ್ವಿಕಾರಿ ಯತಶ್ಚ ಯತ್ |\nಸ ಚ ಯೋ ಯತ್ಪ್ರಭಾವಶ್ಚ ತತ್ಸಮಾಸೇನ ಮೇ ಶೃಣು ||೧೩-೪||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि इस सत्य को ऋषियों ने विभिन्न भजनों में गाया है और ज्ञान की सूक्तियों में इसका तर्क दिया है।",
+        "en": "Recognize that this truth has been sung by sages in various hymns and reasoned out in aphorisms of wisdom.",
+        "be": "স্বীকার করুন যে এই সত্যটি ঋষিরা বিভিন্ন স্তোত্রে গেয়েছেন এবং জ্ঞানের অ্যাফোরিজমে যুক্তি দিয়েছেন।",
+        "ka": "ಈ ಸತ್ಯವನ್ನು ಋಷಿಗಳು ವಿವಿಧ ಸ್ತೋತ್ರಗಳಲ್ಲಿ ಹಾಡಿದ್ದಾರೆ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯ ಪೌರುಷಗಳಲ್ಲಿ ತರ್ಕಿಸಿದ್ದಾರೆ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "क्षेत्रम्",
-            "transliteration": "kṣetram",
-            "meaning": "field"
+            "transliteration": {
+                "hi": "क्षेत्रम्",
+                "en": "kṣetram",
+                "be": "ক্ষেত্রম্",
+                "ka": "ಕ್ಷೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "फ़ील्ड",
+                "en": "field",
+                "be": "ক্ষেত্র",
+                "ka": "ಕ್ಷೇತ್ರ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यादृक्",
-            "transliteration": "yādṛk",
-            "meaning": "what like"
+            "transliteration": {
+                "hi": "यादृक्",
+                "en": "yādṛk",
+                "be": "যাদৃক্",
+                "ka": "ಯಾದೃಕ್"
+            },
+            "meaning": {
+                "hi": "क्या पसंद है?",
+                "en": "what like",
+                "be": "কি পছন্দ",
+                "ka": "ಏನು ಇಷ್ಟ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यद्विकारि",
-            "transliteration": "yadvikāri",
-            "meaning": "what its modifications"
+            "transliteration": {
+                "hi": "यद्विकारि",
+                "en": "yadvikāri",
+                "be": "যদ্বিকারি",
+                "ka": "ಯದ್ವಿಕಾರಿ"
+            },
+            "meaning": {
+                "hi": "इसके क्या संशोधन हैं",
+                "en": "what its modifications",
+                "be": "কি তার পরিবর্তন",
+                "ka": "ಅದರ ಮಾರ್ಪಾಡುಗಳೇನು"
+            }
         },
         {
             "sanskrit": "यतः",
-            "transliteration": "yataḥ",
-            "meaning": "whence"
+            "transliteration": {
+                "hi": "यतः",
+                "en": "yataḥ",
+                "be": "যতঃ",
+                "ka": "ಯತಃ"
+            },
+            "meaning": {
+                "hi": "कहाँ से",
+                "en": "whence",
+                "be": "কোথা থেকে",
+                "ka": "ಎಲ್ಲಿಂದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "He"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "He",
+                "be": "সে",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "यत्प्रभावः",
-            "transliteration": "yatprabhāvaḥ",
-            "meaning": "what His powers"
+            "transliteration": {
+                "hi": "यत्प्रभावः",
+                "en": "yatprabhāvaḥ",
+                "be": "যত্প্রভাবঃ",
+                "ka": "ಯತ್ಪ್ರಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "उसकी शक्तियाँ क्या हैं",
+                "en": "what His powers",
+                "be": "কি তার ক্ষমতা",
+                "ka": "ಅವನ ಶಕ್ತಿ ಏನು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "समासेन",
-            "transliteration": "samāsena",
-            "meaning": "in brief"
+            "transliteration": {
+                "hi": "समासेन",
+                "en": "samāsena",
+                "be": "সমাসেন",
+                "ka": "ಸಮಾಸೇನ"
+            },
+            "meaning": {
+                "hi": "संक्षेप में",
+                "en": "in brief",
+                "be": "সংক্ষেপে",
+                "ka": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "from Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मुझसे",
+                "en": "from Me",
+                "be": "আমার কাছ থেকে",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear."
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो।",
+                "en": "hear.",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು."
+            }
         }
     ],
     "tej": {

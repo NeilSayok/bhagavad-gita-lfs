@@ -14,8 +14,18 @@
         "en": "yadā bhūtapṛthagbhāvamekasthamanupaśyati .\ntata eva ca vistāraṃ brahma sampadyate tadā ||13-31||",
         "ka": "ಯದಾ ಭೂತಪೃಥಗ್ಭಾವಮೇಕಸ್ಥಮನುಪಶ್ಯತಿ |\nತತ ಏವ ಚ ವಿಸ್ತಾರಂ ಬ್ರಹ್ಮ ಸಮ್ಪದ್ಯತೇ ತದಾ ||೧೩-೩೧||"
     },
-    "transliteration": "yadā bhūtapṛthagbhāvamekasthamanupaśyati .\ntata eva ca vistāraṃ brahma sampadyate tadā ||13-31||",
-    "life_application": "Being beginningless and without qualities, this imperishable supreme Self does not act nor is tainted, though dwelling in body.",
+    "transliteration": {
+        "hi": "यदा भूतपृथग्भावमेकस्थमनुपश्यति |\nतत एव च विस्तारं ब्रह्म सम्पद्यते तदा ||१३-३१||",
+        "en": "yadā bhūtapṛthagbhāvamekasthamanupaśyati .\ntata eva ca vistāraṃ brahma sampadyate tadā ||13-31||",
+        "be": "যদা ভূতপৃথগ্ভাবমেকস্থমনুপশ্যতি |\nতত এব চ বিস্তারং ব্রহ্ম সম্পদ্যতে তদা ||১৩-৩১||",
+        "ka": "ಯದಾ ಭೂತಪೃಥಗ್ಭಾವಮೇಕಸ್ಥಮನುಪಶ್ಯತಿ |\nತತ ಏವ ಚ ವಿಸ್ತಾರಂ ಬ್ರಹ್ಮ ಸಮ್ಪದ್ಯತೇ ತದಾ ||೧೩-೩೧||"
+    },
+    "life_application": {
+        "hi": "अनादि और निर्गुण होने के कारण, यह अविनाशी परम आत्मा शरीर में रहते हुए भी न तो कार्य करता है और न ही कलंकित होता है।",
+        "en": "Being beginningless and without qualities, this imperishable supreme Self does not act nor is tainted, though dwelling in body.",
+        "be": "এই অবিনশ্বর পরমাত্মা অনাদি এবং গুণহীন হওয়ায় দেহে অবস্থান করলেও কাজ করেন না বা কলঙ্কিত হন না।",
+        "ka": "ಆರಂಭವಿಲ್ಲದ ಮತ್ತು ಗುಣಗಳಿಲ್ಲದ, ಈ ನಾಶವಾಗದ ಪರಮಾತ್ಮನು ದೇಹದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದರೂ ವರ್ತಿಸುವುದಿಲ್ಲ ಅಥವಾ ಕಳಂಕಿತನಾಗಿರುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Self-Realization",
         "Detachment"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "भूतपृथग्भावम्",
-            "transliteration": "bhūtapṛthagbhāvam",
-            "meaning": "the whole variety of"
+            "transliteration": {
+                "hi": "भूतपृथग्भावम्",
+                "en": "bhūtapṛthagbhāvam",
+                "be": "ভূতপৃথগ্ভাবম্",
+                "ka": "ಭೂತಪೃಥಗ್ಭಾವಮ್"
+            },
+            "meaning": {
+                "hi": "की पूरी विविधता",
+                "en": "the whole variety of",
+                "be": "সমগ্র বৈচিত্র্য",
+                "ka": "ಸಂಪೂರ್ಣ ವೈವಿಧ್ಯ"
+            }
         },
         {
             "sanskrit": "एकस्थम्",
-            "transliteration": "ekastham",
-            "meaning": "resting in the One"
+            "transliteration": {
+                "hi": "एकस्थम्",
+                "en": "ekastham",
+                "be": "একস্থম্",
+                "ka": "ಏಕಸ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "एक में आराम करना",
+                "en": "resting in the One",
+                "be": "এক মধ্যে বিশ্রাম",
+                "ka": "ಒಂದರಲ್ಲಿ ವಿಶ್ರಾಂತಿ"
+            }
         },
         {
             "sanskrit": "अनुपश्यति",
-            "transliteration": "anupaśyati",
-            "meaning": "sees"
+            "transliteration": {
+                "hi": "अनुपश्यति",
+                "en": "anupaśyati",
+                "be": "অনুপশ্যতি",
+                "ka": "ಅನುಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "sees",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "from that"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "उससे",
+                "en": "from that",
+                "be": "যে থেকে",
+                "ka": "ಅದರಿಂದ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विस्तारम्",
-            "transliteration": "vistāram",
-            "meaning": "the spreading"
+            "transliteration": {
+                "hi": "विस्तारम्",
+                "en": "vistāram",
+                "be": "বিস্তারম্",
+                "ka": "ವಿಸ್ತಾರಮ್"
+            },
+            "meaning": {
+                "hi": "फैल रहा है",
+                "en": "the spreading",
+                "be": "ছড়ানো",
+                "ka": "ಹರಡುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "Brahman"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण",
+                "en": "Brahman",
+                "be": "ব্রাহ্মণ",
+                "ka": "ಬ್ರಹ್ಮನ್"
+            }
         },
         {
             "sanskrit": "सम्पद्यते",
-            "transliteration": "sampadyate",
-            "meaning": "becomes"
+            "transliteration": {
+                "hi": "सम्पद्यते",
+                "en": "sampadyate",
+                "be": "সম্পদ্যতে",
+                "ka": "ಸಮ್ಪದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "बन जाता है",
+                "en": "becomes",
+                "be": "হয়ে যায়",
+                "ka": "ಆಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then."
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "तब।",
+                "en": "then.",
+                "be": "তারপর",
+                "ka": "ನಂತರ."
+            }
         },
         {
             "sanskrit": "आत्मतः प्राण",
-            "transliteration": "ātmataḥ prāṇa",
-            "meaning": "आत्मत आशा आत्मतः स्मरआत्मत"
+            "transliteration": {
+                "hi": "आत्मतः प्राण",
+                "en": "ātmataḥ prāṇa",
+                "be": "আত্মতঃ প্রাণ",
+                "ka": "ಆತ್ಮತಃ ಪ್ರಾಣ"
+            },
+            "meaning": {
+                "hi": "आत्मत आशा आत्मतः स्मरआत्मत",
+                "en": "आत्मत आशा आत्मतः स्मरआत्मत",
+                "be": "আত্মত আশা আত্মতঃ স্মরআত্মত",
+                "ka": "ಆತ್ಮತ ಆಶಾ ಆತ್ಮತಃ ಸ್ಮರಾತ್ಮತ್"
+            }
         }
     ],
     "tej": {

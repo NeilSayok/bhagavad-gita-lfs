@@ -14,8 +14,18 @@
         "en": "prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ .\nyaḥ paśyati tathātmānamakartāraṃ sa paśyati ||13-30||",
         "ka": "ಪ್ರಕೃತ್ಯೈವ ಚ ಕರ್ಮಾಣಿ ಕ್ರಿಯಮಾಣಾನಿ ಸರ್ವಶಃ |\nಯಃ ಪಶ್ಯತಿ ತಥಾತ್ಮಾನಮಕರ್ತಾರಂ ಸ ಪಶ್ಯತಿ ||೧೩-೩೦||"
     },
-    "transliteration": "prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ .\nyaḥ paśyati tathātmānamakartāraṃ sa paśyati ||13-30||",
-    "life_application": "When one sees the diversity of beings resting in the One and spreading out from That alone, he attains Brahman.",
+    "transliteration": {
+        "hi": "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः |\nयः पश्यति तथात्मानमकर्तारं स पश्यति ||१३-३०||",
+        "en": "prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ .\nyaḥ paśyati tathātmānamakartāraṃ sa paśyati ||13-30||",
+        "be": "প্রকৃত্যৈব চ কর্মাণি ক্রিযমাণানি সর্বশঃ |\nযঃ পশ্যতি তথাত্মানমকর্তারং স পশ্যতি ||১৩-৩০||",
+        "ka": "ಪ್ರಕೃತ್ಯೈವ ಚ ಕರ್ಮಾಣಿ ಕ್ರಿಯಮಾಣಾನಿ ಸರ್ವಶಃ |\nಯಃ ಪಶ್ಯತಿ ತಥಾತ್ಮಾನಮಕರ್ತಾರಂ ಸ ಪಶ್ಯತಿ ||೧೩-೩೦||"
+    },
+    "life_application": {
+        "hi": "जब कोई प्राणियों की विविधता को एक में विश्राम करते हुए और उसी से फैलते हुए देखता है, तो वह ब्रह्म को प्राप्त कर लेता है।",
+        "en": "When one sees the diversity of beings resting in the One and spreading out from That alone, he attains Brahman.",
+        "be": "যখন কেউ জীবের বৈচিত্র্যকে একের মধ্যে বিশ্রাম এবং তা থেকে বিস্তৃত হতে দেখে, তখন সে ব্রহ্মকে লাভ করে।",
+        "ka": "ಜೀವಿಗಳ ವೈವಿಧ್ಯತೆಯು ಒಂದರಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯುವುದನ್ನು ಮತ್ತು ಅದರಿಂದಲೇ ಹರಡುವುದನ್ನು ನೋಡಿದಾಗ ಅವನು ಬ್ರಹ್ಮವನ್ನು ಪಡೆಯುತ್ತಾನೆ."
+    },
     "themes": [
         "Self-Realization",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "प्रकृत्या",
-            "transliteration": "prakṛtyā",
-            "meaning": "by Nature"
+            "transliteration": {
+                "hi": "प्रकृत्या",
+                "en": "prakṛtyā",
+                "be": "প্রকৃত্যা",
+                "ka": "ಪ್ರಕೃತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "प्रकृति द्वारा",
+                "en": "by Nature",
+                "be": "প্রকৃতি দ্বারা",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "actions"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "actions",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮಗಳು"
+            }
         },
         {
             "sanskrit": "क्रियमाणानि",
-            "transliteration": "kriyamāṇāni",
-            "meaning": "being performed"
+            "transliteration": {
+                "hi": "क्रियमाणानि",
+                "en": "kriyamāṇāni",
+                "be": "ক্রিযমাণানি",
+                "ka": "ಕ್ರಿಯಮಾಣಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्रदर्शन किया जा रहा है",
+                "en": "being performed",
+                "be": "সঞ্চালিত হচ্ছে",
+                "ka": "ನಿರ್ವಹಿಸಲಾಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "sees"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "sees",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "तो भी",
+                "en": "so also",
+                "be": "তাই এছাড়াও",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "the Self"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "the Self",
+                "be": "স্বয়ং",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "अकर्तारम्",
-            "transliteration": "akartāram",
-            "meaning": "actionless"
+            "transliteration": {
+                "hi": "अकर्तारम्",
+                "en": "akartāram",
+                "be": "অকর্তারম্",
+                "ka": "ಅಕರ್ತಾರಮ್"
+            },
+            "meaning": {
+                "hi": "क्रियाहीन",
+                "en": "actionless",
+                "be": "কর্মহীন",
+                "ka": "ಕ್ರಮವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "sees."
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है.",
+                "en": "sees.",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ."
+            }
         }
     ],
     "tej": {

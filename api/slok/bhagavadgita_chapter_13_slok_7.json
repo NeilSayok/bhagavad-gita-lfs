@@ -14,8 +14,18 @@
         "en": "icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaścetanā dhṛtiḥ .\netatkṣetraṃ samāsena savikāramudāhṛtam ||13-7||",
         "ka": "ಇಚ್ಛಾ ದ್ವೇಷಃ ಸುಖಂ ದುಃಖಂ ಸಂಘಾತಶ್ಚೇತನಾ ಧೃತಿಃ |\nಏತತ್ಕ್ಷೇತ್ರಂ ಸಮಾಸೇನ ಸವಿಕಾರಮುದಾಹೃತಮ್ ||೧೩-೭||"
     },
-    "transliteration": "icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaścetanā dhṛtiḥ .\netatkṣetraṃ samāsena savikāramudāhṛtam ||13-7||",
-    "life_application": "Cultivate humility, unpretentiousness, non-violence, forgiveness, honesty, service to teacher, purity, steadfastness, self-control.",
+    "transliteration": {
+        "hi": "इच्छा द्वेषः सुखं दुःखं संघातश्चेतना धृतिः |\nएतत्क्षेत्रं समासेन सविकारमुदाहृतम् ||१३-७||",
+        "en": "icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaścetanā dhṛtiḥ .\netatkṣetraṃ samāsena savikāramudāhṛtam ||13-7||",
+        "be": "ইচ্ছা দ্বেষঃ সুখং দুঃখং সংঘাতশ্চেতনা ধৃতিঃ |\nএতত্ক্ষেত্রং সমাসেন সবিকারমুদাহৃতম্ ||১৩-৭||",
+        "ka": "ಇಚ್ಛಾ ದ್ವೇಷಃ ಸುಖಂ ದುಃಖಂ ಸಂಘಾತಶ್ಚೇತನಾ ಧೃತಿಃ |\nಏತತ್ಕ್ಷೇತ್ರಂ ಸಮಾಸೇನ ಸವಿಕಾರಮುದಾಹೃತಮ್ ||೧೩-೭||"
+    },
+    "life_application": {
+        "hi": "नम्रता, निर्भीकता, अहिंसा, क्षमा, ईमानदारी, गुरु सेवा, पवित्रता, दृढ़ता, आत्मसंयम का विकास करें।",
+        "en": "Cultivate humility, unpretentiousness, non-violence, forgiveness, honesty, service to teacher, purity, steadfastness, self-control.",
+        "be": "নম্রতা, নম্রতা, অহিংসা, ক্ষমা, সততা, শিক্ষকের সেবা, বিশুদ্ধতা, অটলতা, আত্মনিয়ন্ত্রণ গড়ে তুলুন।",
+        "ka": "ನಮ್ರತೆ, ಆಡಂಬರವಿಲ್ಲದಿರುವಿಕೆ, ಅಹಿಂಸೆ, ಕ್ಷಮೆ, ಪ್ರಾಮಾಣಿಕತೆ, ಶಿಕ್ಷಕರ ಸೇವೆ, ಶುದ್ಧತೆ, ದೃಢತೆ, ಸ್ವಯಂ ನಿಯಂತ್ರಣವನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Duty",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "इच्छा",
-            "transliteration": "icchā",
-            "meaning": "desire"
+            "transliteration": {
+                "hi": "इच्छा",
+                "en": "icchā",
+                "be": "ইচ্ছা",
+                "ka": "ಇಚ್ಛಾ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "desire",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆ"
+            }
         },
         {
             "sanskrit": "द्वेषः",
-            "transliteration": "dveṣaḥ",
-            "meaning": "hatred"
+            "transliteration": {
+                "hi": "द्वेषः",
+                "en": "dveṣaḥ",
+                "be": "দ্বেষঃ",
+                "ka": "ದ್ವೇಷಃ"
+            },
+            "meaning": {
+                "hi": "घृणा",
+                "en": "hatred",
+                "be": "ঘৃণা",
+                "ka": "ದ್ವೇಷ"
+            }
         },
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "pleasure"
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "pleasure",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "दुःखम्",
-            "transliteration": "duḥkham",
-            "meaning": "pain"
+            "transliteration": {
+                "hi": "दुःखम्",
+                "en": "duḥkham",
+                "be": "দুঃখম্",
+                "ka": "ದುಃಖಮ್"
+            },
+            "meaning": {
+                "hi": "दर्द",
+                "en": "pain",
+                "be": "ব্যথা",
+                "ka": "ನೋವು"
+            }
         },
         {
             "sanskrit": "सङ्घातः",
-            "transliteration": "saṅghātaḥ",
-            "meaning": "the aggregate"
+            "transliteration": {
+                "hi": "सङ्घातः",
+                "en": "saṅghātaḥ",
+                "be": "সঙ্ঘাতঃ",
+                "ka": "ಸಙ್ಘಾತಃ"
+            },
+            "meaning": {
+                "hi": "समुच्चय",
+                "en": "the aggregate",
+                "be": "মোট",
+                "ka": "ಒಟ್ಟು"
+            }
         },
         {
             "sanskrit": "चेतना",
-            "transliteration": "cetanā",
-            "meaning": "intelligence"
+            "transliteration": {
+                "hi": "चेतना",
+                "en": "cetanā",
+                "be": "চেতনা",
+                "ka": "ಚೇತನಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intelligence",
+                "be": "বুদ্ধিমত্তা",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ"
+            }
         },
         {
             "sanskrit": "धृतिः",
-            "transliteration": "dhṛtiḥ",
-            "meaning": "fortitude"
+            "transliteration": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "धैर्य",
+                "en": "fortitude",
+                "be": "দৃঢ়তা",
+                "ka": "ಸ್ಥೈರ್ಯ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "क्षेत्रम्",
-            "transliteration": "kṣetram",
-            "meaning": "field"
+            "transliteration": {
+                "hi": "क्षेत्रम्",
+                "en": "kṣetram",
+                "be": "ক্ষেত্রম্",
+                "ka": "ಕ್ಷೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "फ़ील्ड",
+                "en": "field",
+                "be": "ক্ষেত্র",
+                "ka": "ಕ್ಷೇತ್ರ"
+            }
         },
         {
             "sanskrit": "समासेन",
-            "transliteration": "samāsena",
-            "meaning": "briefly"
+            "transliteration": {
+                "hi": "समासेन",
+                "en": "samāsena",
+                "be": "সমাসেন",
+                "ka": "ಸಮಾಸೇನ"
+            },
+            "meaning": {
+                "hi": "संक्षेप में",
+                "en": "briefly",
+                "be": "সংক্ষেপে",
+                "ka": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "सविकारम्",
-            "transliteration": "savikāram",
-            "meaning": "with modifications"
+            "transliteration": {
+                "hi": "सविकारम्",
+                "en": "savikāram",
+                "be": "সবিকারম্",
+                "ka": "ಸವಿಕಾರಮ್"
+            },
+            "meaning": {
+                "hi": "संशोधनों के साथ",
+                "en": "with modifications",
+                "be": "পরিবর্তন সহ",
+                "ka": "ಮಾರ್ಪಾಡುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "उदाहृतम्",
-            "transliteration": "udāhṛtam",
-            "meaning": "has been described."
+            "transliteration": {
+                "hi": "उदाहृतम्",
+                "en": "udāhṛtam",
+                "be": "উদাহৃতম্",
+                "ka": "ಉದಾಹೃತಮ್"
+            },
+            "meaning": {
+                "hi": "वर्णन किया गया है.",
+                "en": "has been described.",
+                "be": "বর্ণনা করা হয়েছে।",
+                "ka": "ವಿವರಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

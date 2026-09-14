@@ -14,8 +14,18 @@
         "en": "mahābhūtānyahaṃkāro buddhiravyaktameva ca .\nindriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ ||13-6||",
         "ka": "ಮಹಾಭೂತಾನ್ಯಹಂಕಾರೋ ಬುದ್ಧಿರವ್ಯಕ್ತಮೇವ ಚ |\nಇನ್ದ್ರಿಯಾಣಿ ದಶೈಕಂ ಚ ಪಞ್ಚ ಚೇನ್ದ್ರಿಯಗೋಚರಾಃ ||೧೩-೬||"
     },
-    "transliteration": "mahābhūtānyahaṃkāro buddhiravyaktameva ca .\nindriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ ||13-6||",
-    "life_application": "Notice desire, hatred, pleasure, pain, physical aggregate, intelligence, and fortitude as modifications of the field.",
+    "transliteration": {
+        "hi": "महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च |\nइन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ||१३-६||",
+        "en": "mahābhūtānyahaṃkāro buddhiravyaktameva ca .\nindriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ ||13-6||",
+        "be": "মহাভূতান্যহংকারো বুদ্ধিরব্যক্তমেব চ |\nইন্দ্রিযাণি দশৈকং চ পঞ্চ চেন্দ্রিযগোচরাঃ ||১৩-৬||",
+        "ka": "ಮಹಾಭೂತಾನ್ಯಹಂಕಾರೋ ಬುದ್ಧಿರವ್ಯಕ್ತಮೇವ ಚ |\nಇನ್ದ್ರಿಯಾಣಿ ದಶೈಕಂ ಚ ಪಞ್ಚ ಚೇನ್ದ್ರಿಯಗೋಚರಾಃ ||೧೩-೬||"
+    },
+    "life_application": {
+        "hi": "क्षेत्र के संशोधनों के रूप में इच्छा, घृणा, सुख, दर्द, भौतिक समुच्चय, बुद्धि और धैर्य पर ध्यान दें।",
+        "en": "Notice desire, hatred, pleasure, pain, physical aggregate, intelligence, and fortitude as modifications of the field.",
+        "be": "ক্ষেত্রের পরিবর্তন হিসাবে ইচ্ছা, ঘৃণা, আনন্দ, বেদনা, শারীরিক সমষ্টি, বুদ্ধিমত্তা এবং দৃঢ়তা লক্ষ্য করুন।",
+        "ka": "ಕ್ಷೇತ್ರದ ಮಾರ್ಪಾಡುಗಳಾಗಿ ಆಸೆ, ದ್ವೇಷ, ಸಂತೋಷ, ನೋವು, ದೈಹಿಕ ಒಟ್ಟು, ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಸ್ಥೈರ್ಯವನ್ನು ಗಮನಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "महाभूतानि",
-            "transliteration": "mahābhūtāni",
-            "meaning": "the great elements"
+            "transliteration": {
+                "hi": "महाभूतानि",
+                "en": "mahābhūtāni",
+                "be": "মহাভূতানি",
+                "ka": "ಮಹಾಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "महान तत्व",
+                "en": "the great elements",
+                "be": "মহান উপাদান",
+                "ka": "ದೊಡ್ಡ ಅಂಶಗಳು"
+            }
         },
         {
             "sanskrit": "अहङ्कारः",
-            "transliteration": "ahaṅkāraḥ",
-            "meaning": "egoism"
+            "transliteration": {
+                "hi": "अहङ्कारः",
+                "en": "ahaṅkāraḥ",
+                "be": "অহঙ্কারঃ",
+                "ka": "ಅಹಙ್ಕಾರಃ"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "egoism",
+                "be": "অহংবোধ",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "अव्यक्तम्",
-            "transliteration": "avyaktam",
-            "meaning": "the unmanifested"
+            "transliteration": {
+                "hi": "अव्यक्तम्",
+                "en": "avyaktam",
+                "be": "অব্যক্তম্",
+                "ka": "ಅವ್ಯಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अव्यक्त",
+                "en": "the unmanifested",
+                "be": "অপ্রকাশিত",
+                "ka": "ಅವ್ಯಕ್ತ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणि",
-            "transliteration": "indriyāṇi",
-            "meaning": "the senses"
+            "transliteration": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "ইন্দ্রিযাণি",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "the senses",
+                "be": "ইন্দ্রিয়",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "दश",
-            "transliteration": "daśa",
-            "meaning": "ten"
+            "transliteration": {
+                "hi": "दश",
+                "en": "daśa",
+                "be": "দশ",
+                "ka": "ದಶ"
+            },
+            "meaning": {
+                "hi": "दस",
+                "en": "ten",
+                "be": "দশ",
+                "ka": "ಹತ್ತು"
+            }
         },
         {
             "sanskrit": "एकम्",
-            "transliteration": "ekam",
-            "meaning": "one"
+            "transliteration": {
+                "hi": "एकम्",
+                "en": "ekam",
+                "be": "একম্",
+                "ka": "ಏಕಮ್"
+            },
+            "meaning": {
+                "hi": "एक",
+                "en": "one",
+                "be": "এক",
+                "ka": "ಒಂದು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पञ्च",
-            "transliteration": "pañca",
-            "meaning": "five"
+            "transliteration": {
+                "hi": "पञ्च",
+                "en": "pañca",
+                "be": "পঞ্চ",
+                "ka": "ಪಞ್ಚ"
+            },
+            "meaning": {
+                "hi": "पांच",
+                "en": "five",
+                "be": "পাঁচ",
+                "ka": "ಐದು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "इन्द्रियगोचराः",
-            "transliteration": "indriyagocarāḥ",
-            "meaning": "objects of the senses."
+            "transliteration": {
+                "hi": "इन्द्रियगोचराः",
+                "en": "indriyagocarāḥ",
+                "be": "ইন্দ্রিযগোচরাঃ",
+                "ka": "ಇನ್ದ್ರಿಯಗೋಚರಾಃ"
+            },
+            "meaning": {
+                "hi": "इंद्रियों की वस्तुएं.",
+                "en": "objects of the senses.",
+                "be": "ইন্দ্রিয়ের বস্তু।",
+                "ka": "ಇಂದ್ರಿಯಗಳ ವಸ್ತುಗಳು."
+            }
         }
     ],
     "tej": {

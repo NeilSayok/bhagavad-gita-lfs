@@ -14,8 +14,18 @@
         "en": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
         "ka": "ಅದೇಶಕಾಲೇ ಯದ್ದಾನಮಪಾತ್ರೇಭ್ಯಶ್ಚ ದೀಯತೇ |\nಅಸತ್ಕೃತಮವಜ್ಞಾತಂ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೨೨||"
     },
-    "transliteration": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
-    "life_application": "Charity given at wrong place/time, to unworthy persons, without respect or with insult—is Tamasic.",
+    "transliteration": {
+        "hi": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||",
+        "en": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
+        "be": "অদেশকালে যদ্দানমপাত্রেভ্যশ্চ দীযতে |\nঅসত্কৃতমবজ্ঞাতং তত্তামসমুদাহৃতম্ ||১৭-২২||",
+        "ka": "ಅದೇಶಕಾಲೇ ಯದ್ದಾನಮಪಾತ್ರೇಭ್ಯಶ್ಚ ದೀಯತೇ |\nಅಸತ್ಕೃತಮವಜ್ಞಾತಂ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೨೨||"
+    },
+    "life_application": {
+        "hi": "गलत स्थान/समय पर, अयोग्य व्यक्तियों को, बिना सम्मान के या अपमान के साथ दिया गया दान तामसिक होता है।",
+        "en": "Charity given at wrong place/time, to unworthy persons, without respect or with insult—is Tamasic.",
+        "be": "ভুল স্থানে/সময়ে, অযোগ্য ব্যক্তিকে, সম্মান না করে বা অপমান সহকারে দান করা- তামসিক।",
+        "ka": "ತಪ್ಪಾದ ಸ್ಥಳದಲ್ಲಿ/ಸಮಯದಲ್ಲಿ, ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗಳಿಗೆ, ಗೌರವವಿಲ್ಲದೆ ಅಥವಾ ಅವಮಾನದಿಂದ ನೀಡಲಾದ ದಾನವು ತಾಮಸಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Duty",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अदेशकाले",
-            "transliteration": "adeśakāle",
-            "meaning": "at a wrong place"
+            "transliteration": {
+                "hi": "अदेशकाले",
+                "en": "adeśakāle",
+                "be": "অদেশকালে",
+                "ka": "ಅದೇಶಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "गलत जगह पर",
+                "en": "at a wrong place",
+                "be": "একটি ভুল জায়গায়",
+                "ka": "ತಪ್ಪಾದ ಸ್ಥಳದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "gift"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "उपहार",
+                "en": "gift",
+                "be": "উপহার",
+                "ka": "ಉಡುಗೊರೆ"
+            }
         },
         {
             "sanskrit": "अपात्रेभ्यः",
-            "transliteration": "apātrebhyaḥ",
-            "meaning": "to unworthy persons"
+            "transliteration": {
+                "hi": "अपात्रेभ्यः",
+                "en": "apātrebhyaḥ",
+                "be": "অপাত্রেভ্যঃ",
+                "ka": "ಅಪಾತ್ರೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अयोग्य व्यक्तियों को",
+                "en": "to unworthy persons",
+                "be": "অযোগ্য ব্যক্তিদের কাছে",
+                "ka": "ಅನರ್ಹ ವ್ಯಕ್ತಿಗಳಿಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "दीयते",
-            "transliteration": "dīyate",
-            "meaning": "is given"
+            "transliteration": {
+                "hi": "दीयते",
+                "en": "dīyate",
+                "be": "দীযতে",
+                "ka": "ದೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "दिया जाता है",
+                "en": "is given",
+                "be": "দেওয়া হয়",
+                "ka": "ನೀಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "असत्कृतम्",
-            "transliteration": "asatkṛtam",
-            "meaning": "without respect"
+            "transliteration": {
+                "hi": "असत्कृतम्",
+                "en": "asatkṛtam",
+                "be": "অসত্কৃতম্",
+                "ka": "ಅಸತ್ಕೃತಮ್"
+            },
+            "meaning": {
+                "hi": "बिना सम्मान के",
+                "en": "without respect",
+                "be": "সম্মান ছাড়া",
+                "ka": "ಗೌರವವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अवज्ञातम्",
-            "transliteration": "avajñātam",
-            "meaning": "with insult"
+            "transliteration": {
+                "hi": "अवज्ञातम्",
+                "en": "avajñātam",
+                "be": "অবজ্ঞাতম্",
+                "ka": "ಅವಜ್ಞಾತಮ್"
+            },
+            "meaning": {
+                "hi": "अपमान के साथ",
+                "en": "with insult",
+                "be": "অপমান সহ",
+                "ka": "ಅವಮಾನದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "तामसम्",
-            "transliteration": "tāmasam",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसम्",
+                "en": "tāmasam",
+                "be": "তামসম্",
+                "ka": "ತಾಮಸಮ್"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "उदाहृतम्",
-            "transliteration": "udāhṛtam",
-            "meaning": "is declared to be."
+            "transliteration": {
+                "hi": "उदाहृतम्",
+                "en": "udāhṛtam",
+                "be": "উদাহৃতম্",
+                "ka": "ಉದಾಹೃತಮ್"
+            },
+            "meaning": {
+                "hi": "होना घोषित किया गया है।",
+                "en": "is declared to be.",
+                "be": "বলে ঘোষণা করা হয়।",
+                "ka": "ಎಂದು ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

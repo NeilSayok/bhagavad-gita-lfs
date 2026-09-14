@@ -14,8 +14,18 @@
         "en": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
         "ka": "ದಾತವ್ಯಮಿತಿ ಯದ್ದಾನಂ ದೀಯತೇಽನುಪಕಾರಿಣೇ |\nದೇಶೇ ಕಾಲೇ ಚ ಪಾತ್ರೇ ಚ ತದ್ದಾನಂ ಸಾತ್ತ್ವಿಕಂ ಸ್ಮೃತಮ್ ||೧೭-೨೦||"
     },
-    "transliteration": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
-    "life_application": "Charity given to worthy person, at right place and time, expecting nothing in return, 'duty to give'—is Sattvic.",
+    "transliteration": {
+        "hi": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे |\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||",
+        "en": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
+        "be": "দাতব্যমিতি যদ্দানং দীযতেঽনুপকারিণে |\nদেশে কালে চ পাত্রে চ তদ্দানং সাত্ত্বিকং স্মৃতম্ ||১৭-২০||",
+        "ka": "ದಾತವ್ಯಮಿತಿ ಯದ್ದಾನಂ ದೀಯತೇಽನುಪಕಾರಿಣೇ |\nದೇಶೇ ಕಾಲೇ ಚ ಪಾತ್ರೇ ಚ ತದ್ದಾನಂ ಸಾತ್ತ್ವಿಕಂ ಸ್ಮೃತಮ್ ||೧೭-೨೦||"
+    },
+    "life_application": {
+        "hi": "योग्य व्यक्ति को, सही स्थान और समय पर दिया गया दान, बदले में कुछ भी न पाने की आशा करते हुए, 'देना कर्तव्य' - सात्विक है।",
+        "en": "Charity given to worthy person, at right place and time, expecting nothing in return, 'duty to give'—is Sattvic.",
+        "be": "যোগ্য ব্যক্তিকে যথাস্থানে ও সময়ে দান করা, বিনিময়ে কিছু আশা না করা, 'দান করা কর্তব্য'—সাত্ত্বিক।",
+        "ka": "ಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ, ಸರಿಯಾದ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ಸಮಯದಲ್ಲಿ, ಪ್ರತಿಯಾಗಿ ಏನನ್ನೂ ನಿರೀಕ್ಷಿಸದೆ ನೀಡಲಾಗುವ ದಾನ, 'ಕೊಡುವ ಕರ್ತವ್ಯ'-ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Duty",
         "Detachment"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "दातव्यम्",
-            "transliteration": "dātavyam",
-            "meaning": "ought to be given"
+            "transliteration": {
+                "hi": "दातव्यम्",
+                "en": "dātavyam",
+                "be": "দাতব্যম্",
+                "ka": "ದಾತವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "दिया जाना चाहिए",
+                "en": "ought to be given",
+                "be": "দেওয়া উচিত",
+                "ka": "ನೀಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "gift"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "उपहार",
+                "en": "gift",
+                "be": "উপহার",
+                "ka": "ಉಡುಗೊರೆ"
+            }
         },
         {
             "sanskrit": "दीयते",
-            "transliteration": "dīyate",
-            "meaning": "is given"
+            "transliteration": {
+                "hi": "दीयते",
+                "en": "dīyate",
+                "be": "দীযতে",
+                "ka": "ದೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "दिया जाता है",
+                "en": "is given",
+                "be": "দেওয়া হয়",
+                "ka": "ನೀಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अनुपकारिणे",
-            "transliteration": "anupakāriṇe",
-            "meaning": "to one who does"
+            "transliteration": {
+                "hi": "अनुपकारिणे",
+                "en": "anupakāriṇe",
+                "be": "অনুপকারিণে",
+                "ka": "ಅನುಪಕಾರಿಣೇ"
+            },
+            "meaning": {
+                "hi": "जो ऐसा करता है",
+                "en": "to one who does",
+                "be": "একজনের কাছে",
+                "ka": "ಮಾಡುವವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "देशे",
-            "transliteration": "deśe",
-            "meaning": "in a fit place"
+            "transliteration": {
+                "hi": "देशे",
+                "en": "deśe",
+                "be": "দেশে",
+                "ka": "ದೇಶೇ"
+            },
+            "meaning": {
+                "hi": "एक उपयुक्त स्थान पर",
+                "en": "in a fit place",
+                "be": "একটি উপযুক্ত জায়গায়",
+                "ka": "ಸೂಕ್ತವಾದ ಸ್ಥಳದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "काले",
-            "transliteration": "kāle",
-            "meaning": "in time"
+            "transliteration": {
+                "hi": "काले",
+                "en": "kāle",
+                "be": "কালে",
+                "ka": "ಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "समय में",
+                "en": "in time",
+                "be": "সময়ের মধ্যে",
+                "ka": "ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पात्रे",
-            "transliteration": "pātre",
-            "meaning": "to a worthy person"
+            "transliteration": {
+                "hi": "पात्रे",
+                "en": "pātre",
+                "be": "পাত্রে",
+                "ka": "ಪಾತ್ರೇ"
+            },
+            "meaning": {
+                "hi": "किसी योग्य व्यक्ति को",
+                "en": "to a worthy person",
+                "be": "একজন যোগ্য ব্যক্তির কাছে",
+                "ka": "ಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "gift"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "उपहार",
+                "en": "gift",
+                "be": "উপহার",
+                "ka": "ಉಡುಗೊರೆ"
+            }
         },
         {
             "sanskrit": "सात्त्विकम्",
-            "transliteration": "sāttvikam",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकम्",
+                "en": "sāttvikam",
+                "be": "সাত্ত্বিকম্",
+                "ka": "ಸಾತ್ತ್ವಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "स्मृतम्",
-            "transliteration": "smṛtam",
-            "meaning": "is held to be."
+            "transliteration": {
+                "hi": "स्मृतम्",
+                "en": "smṛtam",
+                "be": "স্মৃতম্",
+                "ka": "ಸ್ಮೃತಮ್"
+            },
+            "meaning": {
+                "hi": "माना जाता है.",
+                "en": "is held to be.",
+                "be": "হতে অনুষ্ঠিত হয়.",
+                "ka": "ಎಂದು ನಡೆಸಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

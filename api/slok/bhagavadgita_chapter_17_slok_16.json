@@ -14,8 +14,18 @@
         "en": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
         "ka": "ಮನಃ ಪ್ರಸಾದಃ ಸೌಮ್ಯತ್ವಂ ಮೌನಮಾತ್ಮವಿನಿಗ್ರಹಃ |\nಭಾವಸಂಶುದ್ಧಿರಿತ್ಯೇತತ್ತಪೋ ಮಾನಸಮುಚ್ಯತೇ ||೧೭-೧೬||"
     },
-    "transliteration": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
-    "life_application": "Maintain mental serenity, gentleness, silence, and self-restraint to cultivate deep purity of heart today.",
+    "transliteration": {
+        "hi": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः |\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||",
+        "en": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
+        "be": "মনঃ প্রসাদঃ সৌম্যত্বং মৌনমাত্মবিনিগ্রহঃ |\nভাবসংশুদ্ধিরিত্যেতত্তপো মানসমুচ্যতে ||১৭-১৬||",
+        "ka": "ಮನಃ ಪ್ರಸಾದಃ ಸೌಮ್ಯತ್ವಂ ಮೌನಮಾತ್ಮವಿನಿಗ್ರಹಃ |\nಭಾವಸಂಶುದ್ಧಿರಿತ್ಯೇತತ್ತಪೋ ಮಾನಸಮುಚ್ಯತೇ ||೧೭-೧೬||"
+    },
+    "life_application": {
+        "hi": "आज हृदय की गहरी शुद्धता विकसित करने के लिए मानसिक शांति, सौम्यता, मौन और आत्म-संयम बनाए रखें।",
+        "en": "Maintain mental serenity, gentleness, silence, and self-restraint to cultivate deep purity of heart today.",
+        "be": "মানসিক প্রশান্তি, ভদ্রতা, নীরবতা এবং আত্মসংযম বজায় রাখুন আজ হৃদয়ের গভীর বিশুদ্ধতা গড়ে তোলার জন্য।",
+        "ka": "ಇಂದು ಹೃದಯದ ಆಳವಾದ ಶುದ್ಧತೆಯನ್ನು ಬೆಳೆಸಲು ಮಾನಸಿಕ ಪ್ರಶಾಂತತೆ, ಸೌಮ್ಯತೆ, ಮೌನ ಮತ್ತು ಸ್ವಯಂ ಸಂಯಮವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind",
@@ -24,53 +34,153 @@
     "word_meanings": [
         {
             "sanskrit": "मनःप्रसादः",
-            "transliteration": "manaḥprasādaḥ",
-            "meaning": "serenity of mind"
+            "transliteration": {
+                "hi": "मनःप्रसादः",
+                "en": "manaḥprasādaḥ",
+                "be": "মনঃপ্রসাদঃ",
+                "ka": "ಮನಃಪ್ರಸಾದಃ"
+            },
+            "meaning": {
+                "hi": "मन की शांति",
+                "en": "serenity of mind",
+                "be": "মনের প্রশান্তি",
+                "ka": "ಮನಸ್ಸಿನ ಪ್ರಶಾಂತತೆ"
+            }
         },
         {
             "sanskrit": "सौम्यत्वम्",
-            "transliteration": "saumyatvam",
-            "meaning": "goodheartedness"
+            "transliteration": {
+                "hi": "सौम्यत्वम्",
+                "en": "saumyatvam",
+                "be": "সৌম্যত্বম্",
+                "ka": "ಸೌಮ್ಯತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "नेकदिली",
+                "en": "goodheartedness",
+                "be": "ভালো হৃদয়",
+                "ka": "ಒಳ್ಳೆಯ ಹೃದಯ"
+            }
         },
         {
             "sanskrit": "मौनम्",
-            "transliteration": "maunam",
-            "meaning": "silence"
+            "transliteration": {
+                "hi": "मौनम्",
+                "en": "maunam",
+                "be": "মৌনম্",
+                "ka": "ಮೌನಮ್"
+            },
+            "meaning": {
+                "hi": "मौन",
+                "en": "silence",
+                "be": "নীরবতা",
+                "ka": "ಮೌನ"
+            }
         },
         {
             "sanskrit": "आत्मविनिग्रहः",
-            "transliteration": "ātmavinigrahaḥ",
-            "meaning": "selfcontrol"
+            "transliteration": {
+                "hi": "आत्मविनिग्रहः",
+                "en": "ātmavinigrahaḥ",
+                "be": "আত্মবিনিগ্রহঃ",
+                "ka": "ಆತ್ಮವಿನಿಗ್ರಹಃ"
+            },
+            "meaning": {
+                "hi": "आत्मनियंत्रण",
+                "en": "selfcontrol",
+                "be": "আত্মনিয়ন্ত্রণ",
+                "ka": "ಸ್ವಯಂ ನಿಯಂತ್ರಣ"
+            }
         },
         {
             "sanskrit": "भावसंशुद्धिः",
-            "transliteration": "bhāvasaṃśuddhiḥ",
-            "meaning": "purity of nature"
+            "transliteration": {
+                "hi": "भावसंशुद्धिः",
+                "en": "bhāvasaṃśuddhiḥ",
+                "be": "ভাবসংশুদ্ধিঃ",
+                "ka": "ಭಾವಸಂಶುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति की शुद्धता",
+                "en": "purity of nature",
+                "be": "প্রকৃতির বিশুদ্ধতা",
+                "ka": "ಪ್ರಕೃತಿಯ ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "मानसम्",
-            "transliteration": "mānasam",
-            "meaning": "mental"
+            "transliteration": {
+                "hi": "मानसम्",
+                "en": "mānasam",
+                "be": "মানসম্",
+                "ka": "ಮಾನಸಮ್"
+            },
+            "meaning": {
+                "hi": "मानसिक",
+                "en": "mental",
+                "be": "মানসিক",
+                "ka": "ಮಾನಸಿಕ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

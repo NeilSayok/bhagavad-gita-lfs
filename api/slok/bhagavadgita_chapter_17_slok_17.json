@@ -14,8 +14,18 @@
         "en": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
         "ka": "ಶ್ರದ್ಧಯಾ ಪರಯಾ ತಪ್ತಂ ತಪಸ್ತತ್ತ್ರಿವಿಧಂ ನರೈಃ |\nಅಫಲಾಕಾಙ್ಕ್ಷಿಭಿರ್ಯುಕ್ತೈಃ ಸಾತ್ತ್ವಿಕಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೭||"
     },
-    "transliteration": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
-    "life_application": "This threefold austerity practiced with supreme faith by unattached men seeking no fruit—called Sattvic.",
+    "transliteration": {
+        "hi": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः |\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||",
+        "en": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
+        "be": "শ্রদ্ধযা পরযা তপ্তং তপস্তত্ত্রিবিধং নরৈঃ |\nঅফলাকাঙ্ক্ষিভির্যুক্তৈঃ সাত্ত্বিকং পরিচক্ষতে ||১৭-১৭||",
+        "ka": "ಶ್ರದ್ಧಯಾ ಪರಯಾ ತಪ್ತಂ ತಪಸ್ತತ್ತ್ರಿವಿಧಂ ನರೈಃ |\nಅಫಲಾಕಾಙ್ಕ್ಷಿಭಿರ್ಯುಕ್ತೈಃ ಸಾತ್ತ್ವಿಕಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೭||"
+    },
+    "life_application": {
+        "hi": "फल की इच्छा न रखने वाले अनासक्त पुरुषों द्वारा सर्वोच्च विश्वास के साथ की जाने वाली यह त्रिविध तपस्या सात्विक कहलाती है।",
+        "en": "This threefold austerity practiced with supreme faith by unattached men seeking no fruit—called Sattvic.",
+        "be": "এই ত্রিবিধ তপস্যার অভ্যাস করা হয় পরম বিশ্বাসের সাথে অসংলগ্ন পুরুষেরা কোন ফল না পেয়ে-যাকে সাত্ত্বিক বলা হয়।",
+        "ka": "ಈ ತ್ರಿವಿಧ ತಪಸ್ಸನ್ನು ಅಂಟಿಕೊಂಡಿಲ್ಲದ ಪುರುಷರು ಯಾವುದೇ ಫಲವನ್ನು ಬಯಸುವುದಿಲ್ಲ-ಸಾತ್ವಿಕ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಮೂಲಕ ಅತ್ಯುನ್ನತ ನಂಬಿಕೆಯೊಂದಿಗೆ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಾರೆ."
+    },
     "themes": [
         "Detachment",
         "Karma"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "श्रद्धया",
-            "transliteration": "śraddhayā",
-            "meaning": "with faith"
+            "transliteration": {
+                "hi": "श्रद्धया",
+                "en": "śraddhayā",
+                "be": "শ্রদ্ধযা",
+                "ka": "ಶ್ರದ್ಧಯಾ"
+            },
+            "meaning": {
+                "hi": "विश्वास के साथ",
+                "en": "with faith",
+                "be": "বিশ্বাসের সাথে",
+                "ka": "ನಂಬಿಕೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "परया",
-            "transliteration": "parayā",
-            "meaning": "highest"
+            "transliteration": {
+                "hi": "परया",
+                "en": "parayā",
+                "be": "পরযা",
+                "ka": "ಪರಯಾ"
+            },
+            "meaning": {
+                "hi": "उच्चतम",
+                "en": "highest",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯಧಿಕ"
+            }
         },
         {
             "sanskrit": "तप्तम्",
-            "transliteration": "taptam",
-            "meaning": "practised"
+            "transliteration": {
+                "hi": "तप्तम्",
+                "en": "taptam",
+                "be": "তপ্তম্",
+                "ka": "ತಪ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अभ्यास किया",
+                "en": "practised",
+                "be": "অনুশীলন",
+                "ka": "ಅಭ್ಯಾಸ ಮಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "त्रिविधम्",
-            "transliteration": "trividham",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधम्",
+                "en": "trividham",
+                "be": "ত্রিবিধম্",
+                "ka": "ತ್ರಿವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "नरैः",
-            "transliteration": "naraiḥ",
-            "meaning": "by men"
+            "transliteration": {
+                "hi": "नरैः",
+                "en": "naraiḥ",
+                "be": "নরৈঃ",
+                "ka": "ನರೈಃ"
+            },
+            "meaning": {
+                "hi": "पुरुषों द्वारा",
+                "en": "by men",
+                "be": "পুরুষদের দ্বারা",
+                "ka": "ಪುರುಷರಿಂದ"
+            }
         },
         {
             "sanskrit": "अफलाकाङ्क्षिभिः",
-            "transliteration": "aphalākāṅkṣibhiḥ",
-            "meaning": "desiring no fruit"
+            "transliteration": {
+                "hi": "अफलाकाङ्क्षिभिः",
+                "en": "aphalākāṅkṣibhiḥ",
+                "be": "অফলাকাঙ্ক্ষিভিঃ",
+                "ka": "ಅಫಲಾಕಾಙ್ಕ್ಷಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "फल की इच्छा न करना",
+                "en": "desiring no fruit",
+                "be": "কোন ফল কামনা করছি না",
+                "ka": "ಯಾವುದೇ ಫಲವನ್ನು ಬಯಸುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "युक्तैः",
-            "transliteration": "yuktaiḥ",
-            "meaning": "steadfast"
+            "transliteration": {
+                "hi": "युक्तैः",
+                "en": "yuktaiḥ",
+                "be": "যুক্তৈঃ",
+                "ka": "ಯುಕ್ತೈಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़",
+                "en": "steadfast",
+                "be": "অবিচল",
+                "ka": "ದೃಢವಾದ"
+            }
         },
         {
             "sanskrit": "सात्त्विकम्",
-            "transliteration": "sāttvikam",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकम्",
+                "en": "sāttvikam",
+                "be": "সাত্ত্বিকম্",
+                "ka": "ಸಾತ್ತ್ವಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "परिचक्षते",
-            "transliteration": "paricakṣate",
-            "meaning": "declare."
+            "transliteration": {
+                "hi": "परिचक्षते",
+                "en": "paricakṣate",
+                "be": "পরিচক্ষতে",
+                "ka": "ಪರಿಚಕ್ಷತೇ"
+            },
+            "meaning": {
+                "hi": "घोषित करें.",
+                "en": "declare.",
+                "be": "ঘোষণা",
+                "ka": "ಘೋಷಿಸುತ್ತಾರೆ."
+            }
         }
     ],
     "tej": {

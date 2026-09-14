@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nತ್ರಿವಿಧಾ ಭವತಿ ಶ್ರದ್ಧಾ ದೇಹಿನಾಂ ಸಾ ಸ್ವಭಾವಜಾ |\nಸಾತ್ತ್ವಿಕೀ ರಾಜಸೀ ಚೈವ ತಾಮಸೀ ಚೇತಿ ತಾಂ ಶೃಣು ||೧೭-೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
-    "life_application": "Threefold is the faith of embodied beings, born of their nature: Sattvic, Rajasic, and Tamasic; hear of it.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ||१७-२||",
+        "en": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
+        "be": "শ্রীভগবানুবাচ |\nত্রিবিধা ভবতি শ্রদ্ধা দেহিনাং সা স্বভাবজা |\nসাত্ত্বিকী রাজসী চৈব তামসী চেতি তাং শৃণু ||১৭-২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nತ್ರಿವಿಧಾ ಭವತಿ ಶ್ರದ್ಧಾ ದೇಹಿನಾಂ ಸಾ ಸ್ವಭಾವಜಾ |\nಸಾತ್ತ್ವಿಕೀ ರಾಜಸೀ ಚೈವ ತಾಮಸೀ ಚೇತಿ ತಾಂ ಶೃಣು ||೧೭-೨||"
+    },
+    "life_application": {
+        "hi": "देहधारी प्राणियों का विश्वास तीन प्रकार का होता है, जो उनके स्वभाव से उत्पन्न होता है: सात्विक, राजसिक और तामसिक; इसके बारे में सुनो.",
+        "en": "Threefold is the faith of embodied beings, born of their nature: Sattvic, Rajasic, and Tamasic; hear of it.",
+        "be": "তিনগুণ হল মূর্ত প্রাণীদের বিশ্বাস, তাদের প্রকৃতি থেকে জন্মগ্রহণ করে: সাত্ত্বিক, রাজসিক এবং তামসিক; এটা শুনতে",
+        "ka": "ಸಾತ್ವಿಕ, ರಾಜಸಿಕ, ಮತ್ತು ತಾಮಸಿಕ, ಅವುಗಳ ಸ್ವಭಾವದಿಂದ ಹುಟ್ಟಿದ ಮೂರ್ತರೂಪಿ ಜೀವಿಗಳ ನಂಬಿಕೆ ಮೂರು ಪಟ್ಟು; ಅದನ್ನು ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "त्रिविधा",
-            "transliteration": "trividhā",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधा",
+                "en": "trividhā",
+                "be": "ত্রিবিধা",
+                "ka": "ತ್ರಿವಿಧಾ"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "श्रद्धा",
-            "transliteration": "śraddhā",
-            "meaning": "faith"
+            "transliteration": {
+                "hi": "श्रद्धा",
+                "en": "śraddhā",
+                "be": "শ্রদ্ধা",
+                "ka": "ಶ್ರದ್ಧಾ"
+            },
+            "meaning": {
+                "hi": "आस्था",
+                "en": "faith",
+                "be": "বিশ্বাস",
+                "ka": "ನಂಬಿಕೆ"
+            }
         },
         {
             "sanskrit": "देहिनाम्",
-            "transliteration": "dehinām",
-            "meaning": "of the embodied"
+            "transliteration": {
+                "hi": "देहिनाम्",
+                "en": "dehinām",
+                "be": "দেহিনাম্",
+                "ka": "ದೇಹಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सन्निहित का",
+                "en": "of the embodied",
+                "be": "মূর্ত করা",
+                "ka": "ಸಾಕಾರಗೊಂಡವರ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "स्वभावजा",
-            "transliteration": "svabhāvajā",
-            "meaning": "inherent in nature"
+            "transliteration": {
+                "hi": "स्वभावजा",
+                "en": "svabhāvajā",
+                "be": "স্বভাবজা",
+                "ka": "ಸ್ವಭಾವಜಾ"
+            },
+            "meaning": {
+                "hi": "प्रकृति में निहित है",
+                "en": "inherent in nature",
+                "be": "প্রকৃতির অন্তর্নিহিত",
+                "ka": "ಪ್ರಕೃತಿಯಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "सात्त्विकी",
-            "transliteration": "sāttvikī",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकी",
+                "en": "sāttvikī",
+                "be": "সাত্ত্বিকী",
+                "ka": "ಸಾತ್ತ್ವಿಕೀ"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "राजसी",
-            "transliteration": "rājasī",
-            "meaning": "Rajasic"
+            "transliteration": {
+                "hi": "राजसी",
+                "en": "rājasī",
+                "be": "রাজসী",
+                "ka": "ರಾಜಸೀ"
+            },
+            "meaning": {
+                "hi": "राजसिक",
+                "en": "Rajasic",
+                "be": "রাজসিক",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तामसी",
-            "transliteration": "tāmasī",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसी",
+                "en": "tāmasī",
+                "be": "তামসী",
+                "ka": "ತಾಮಸೀ"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "ताम्",
-            "transliteration": "tām",
-            "meaning": "it"
+            "transliteration": {
+                "hi": "ताम्",
+                "en": "tām",
+                "be": "তাম্",
+                "ka": "ತಾಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "it",
+                "be": "এটা",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear ."
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो ।",
+                "en": "hear .",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು ."
+            }
         }
     ],
     "tej": {

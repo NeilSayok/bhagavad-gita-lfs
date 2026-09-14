@@ -14,8 +14,18 @@
         "en": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
         "ka": "ಮೂಢಗ್ರಾಹೇಣಾತ್ಮನೋ ಯತ್ಪೀಡಯಾ ಕ್ರಿಯತೇ ತಪಃ |\nಪರಸ್ಯೋತ್ಸಾದನಾರ್ಥಂ ವಾ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೧೯||"
     },
-    "transliteration": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
-    "life_application": "Austerity practiced out of foolish notion, with self-torture, or to ruin another—called Tamasic.",
+    "transliteration": {
+        "hi": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः |\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||",
+        "en": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
+        "be": "মূঢগ্রাহেণাত্মনো যত্পীডযা ক্রিযতে তপঃ |\nপরস্যোত্সাদনার্থং বা তত্তামসমুদাহৃতম্ ||১৭-১৯||",
+        "ka": "ಮೂಢಗ್ರಾಹೇಣಾತ್ಮನೋ ಯತ್ಪೀಡಯಾ ಕ್ರಿಯತೇ ತಪಃ |\nಪರಸ್ಯೋತ್ಸಾದನಾರ್ಥಂ ವಾ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೧೯||"
+    },
+    "life_application": {
+        "hi": "स्वयं को कष्ट देने या दूसरे को बर्बाद करने के लिए मूर्खतापूर्ण धारणा से की गई तपस्या तामसिक कहलाती है।",
+        "en": "Austerity practiced out of foolish notion, with self-torture, or to ruin another—called Tamasic.",
+        "be": "মূর্খ ধারণা থেকে, আত্ম-নির্যাতন বা অন্যকে ধ্বংস করার জন্য তপস্যা অনুশীলন করা হয় - যাকে তামসিক বলা হয়।",
+        "ka": "ಮೂರ್ಖ ಕಲ್ಪನೆಯಿಂದ, ಸ್ವಯಂ-ಹಿಂಸೆಯೊಂದಿಗೆ ಅಥವಾ ತಾಮಸಿಕ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಇನ್ನೊಂದನ್ನು ಹಾಳುಮಾಡಲು ಕಠಿಣತೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಲಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Mind",
         "Karma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "मूढग्राहेण",
-            "transliteration": "mūḍhagrāheṇa",
-            "meaning": "out of a foolish"
+            "transliteration": {
+                "hi": "मूढग्राहेण",
+                "en": "mūḍhagrāheṇa",
+                "be": "মূঢগ্রাহেণ",
+                "ka": "ಮೂಢಗ್ರಾಹೇಣ"
+            },
+            "meaning": {
+                "hi": "एक मूर्ख से बाहर",
+                "en": "out of a foolish",
+                "be": "একজন বোকা থেকে",
+                "ka": "ಒಂದು ಮೂರ್ಖತನದಿಂದ"
+            }
         },
         {
             "sanskrit": "आत्मनः",
-            "transliteration": "ātmanaḥ",
-            "meaning": "of the self"
+            "transliteration": {
+                "hi": "आत्मनः",
+                "en": "ātmanaḥ",
+                "be": "আত্মনঃ",
+                "ka": "ಆತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "स्वयं का",
+                "en": "of the self",
+                "be": "স্ব-এর",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "पीडया",
-            "transliteration": "pīḍayā",
-            "meaning": "with torture"
+            "transliteration": {
+                "hi": "पीडया",
+                "en": "pīḍayā",
+                "be": "পীডযা",
+                "ka": "ಪೀಡಯಾ"
+            },
+            "meaning": {
+                "hi": "यातना के साथ",
+                "en": "with torture",
+                "be": "নির্যাতনের সাথে",
+                "ka": "ಚಿತ್ರಹಿಂಸೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "क्रियते",
-            "transliteration": "kriyate",
-            "meaning": "is practised"
+            "transliteration": {
+                "hi": "क्रियते",
+                "en": "kriyate",
+                "be": "ক্রিযতে",
+                "ka": "ಕ್ರಿಯತೇ"
+            },
+            "meaning": {
+                "hi": "अभ्यास किया जाता है",
+                "en": "is practised",
+                "be": "অনুশীলন করা হয়",
+                "ka": "ಅಭ್ಯಾಸ ಮಾಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "परस्य",
-            "transliteration": "parasya",
-            "meaning": "of another"
+            "transliteration": {
+                "hi": "परस्य",
+                "en": "parasya",
+                "be": "পরস্য",
+                "ka": "ಪರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "दूसरे का",
+                "en": "of another",
+                "be": "অন্যের",
+                "ka": "ಇನ್ನೊಬ್ಬರ"
+            }
         },
         {
             "sanskrit": "उत्सादनार्थम्",
-            "transliteration": "utsādanārtham",
-            "meaning": "for the purpose of"
+            "transliteration": {
+                "hi": "उत्सादनार्थम्",
+                "en": "utsādanārtham",
+                "be": "উত্সাদনার্থম্",
+                "ka": "ಉತ್ಸಾದನಾರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "के प्रयोजन के लिए",
+                "en": "for the purpose of",
+                "be": "উদ্দেশ্য জন্য",
+                "ka": "ಉದ್ದೇಶಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "तामसम्",
-            "transliteration": "tāmasam",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसम्",
+                "en": "tāmasam",
+                "be": "তামসম্",
+                "ka": "ತಾಮಸಮ್"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "उदाहृतम्",
-            "transliteration": "udāhṛtam",
-            "meaning": "is declared."
+            "transliteration": {
+                "hi": "उदाहृतम्",
+                "en": "udāhṛtam",
+                "be": "উদাহৃতম্",
+                "ka": "ಉದಾಹೃತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित किया गया है.",
+                "en": "is declared.",
+                "be": "ঘোষণা করা হয়।",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

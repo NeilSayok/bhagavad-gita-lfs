@@ -14,8 +14,18 @@
         "en": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
         "ka": "ತಸ್ಮಾದೋಮಿತ್ಯುದಾಹೃತ್ಯ ಯಜ್ಞದಾನತಪಃಕ್ರಿಯಾಃ |\nಪ್ರವರ್ತನ್ತೇ ವಿಧಾನೋಕ್ತಾಃ ಸತತಂ ಬ್ರಹ್ಮವಾದಿನಾಮ್ ||೧೭-೨೪||"
     },
-    "transliteration": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
-    "life_application": "Therefore, acts of sacrifice, gift, and austerity enjoined by scripture are begun uttering 'Om' by knowers of Brahman.",
+    "transliteration": {
+        "hi": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||",
+        "en": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
+        "be": "তস্মাদোমিত্যুদাহৃত্য যজ্ঞদানতপঃক্রিযাঃ |\nপ্রবর্তন্তে বিধানোক্তাঃ সততং ব্রহ্মবাদিনাম্ ||১৭-২৪||",
+        "ka": "ತಸ್ಮಾದೋಮಿತ್ಯುದಾಹೃತ್ಯ ಯಜ್ಞದಾನತಪಃಕ್ರಿಯಾಃ |\nಪ್ರವರ್ತನ್ತೇ ವಿಧಾನೋಕ್ತಾಃ ಸತತಂ ಬ್ರಹ್ಮವಾದಿನಾಮ್ ||೧೭-೨೪||"
+    },
+    "life_application": {
+        "hi": "इसलिए, शास्त्र द्वारा निर्दिष्ट बलिदान, उपहार और तपस्या के कार्यों को ब्रह्म के जानने वालों द्वारा 'ओम' का उच्चारण करना शुरू किया जाता है।",
+        "en": "Therefore, acts of sacrifice, gift, and austerity enjoined by scripture are begun uttering 'Om' by knowers of Brahman.",
+        "be": "তাই, শাস্ত্র দ্বারা নির্দেশিত ত্যাগ, দান এবং তপস্যার কাজগুলি ব্রাহ্মণ জ্ঞানীদের দ্বারা 'ওম' উচ্চারণ করা শুরু হয়।",
+        "ka": "ಆದ್ದರಿಂದ, ಶಾಸ್ತ್ರದ ಮೂಲಕ ವಿಧಿಸಲಾದ ತ್ಯಾಗ, ದಾನ ಮತ್ತು ತಪಸ್ಸಿನ ಕ್ರಿಯೆಗಳು ಬ್ರಹ್ಮನ ಬಲ್ಲವರಿಂದ 'ಓಂ' ಅನ್ನು ಉಚ್ಚರಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ."
+    },
     "themes": [
         "Duty",
         "Devotion"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उदाहृत्य",
-            "transliteration": "udāhṛtya",
-            "meaning": "uttering"
+            "transliteration": {
+                "hi": "उदाहृत्य",
+                "en": "udāhṛtya",
+                "be": "উদাহৃত্য",
+                "ka": "ಉದಾಹೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "उच्चारण",
+                "en": "uttering",
+                "be": "উচ্চারণ",
+                "ka": "ಹೇಳುವುದು"
+            }
         },
         {
             "sanskrit": "यज्ञदानतपःक्रियाः",
-            "transliteration": "yajñadānatapaḥkriyāḥ",
-            "meaning": "the acts of sacrifice"
+            "transliteration": {
+                "hi": "यज्ञदानतपःक्रियाः",
+                "en": "yajñadānatapaḥkriyāḥ",
+                "be": "যজ্ঞদানতপঃক্রিযাঃ",
+                "ka": "ಯಜ್ಞದಾನತಪಃಕ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "बलिदान के कार्य",
+                "en": "the acts of sacrifice",
+                "be": "বলিদানের কাজ",
+                "ka": "ತ್ಯಾಗದ ಕ್ರಿಯೆಗಳು"
+            }
         },
         {
             "sanskrit": "प्रवर्तन्ते",
-            "transliteration": "pravartante",
-            "meaning": "begin"
+            "transliteration": {
+                "hi": "प्रवर्तन्ते",
+                "en": "pravartante",
+                "be": "প্রবর্তন্তে",
+                "ka": "ಪ್ರವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "शुरू करो",
+                "en": "begin",
+                "be": "শুরু",
+                "ka": "ಆರಂಭಿಸಲು"
+            }
         },
         {
             "sanskrit": "विधानोक्ताः",
-            "transliteration": "vidhānoktāḥ",
-            "meaning": "as enjoined in the"
+            "transliteration": {
+                "hi": "विधानोक्ताः",
+                "en": "vidhānoktāḥ",
+                "be": "বিধানোক্তাঃ",
+                "ka": "ವಿಧಾನೋಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "जैसा कि आदेश दिया गया है",
+                "en": "as enjoined in the",
+                "be": "হিসাবে আদেশ করা হয়েছে",
+                "ka": "ನಲ್ಲಿ ವಿಧಿಸಿದಂತೆ"
+            }
         },
         {
             "sanskrit": "सततम्",
-            "transliteration": "satatam",
-            "meaning": "always"
+            "transliteration": {
+                "hi": "सततम्",
+                "en": "satatam",
+                "be": "সততম্",
+                "ka": "ಸತತಮ್"
+            },
+            "meaning": {
+                "hi": "हमेशा",
+                "en": "always",
+                "be": "সবসময়",
+                "ka": "ಯಾವಾಗಲೂ"
+            }
         },
         {
             "sanskrit": "ब्रह्मवादिनाम्",
-            "transliteration": "brahmavādinām",
-            "meaning": "of the students of"
+            "transliteration": {
+                "hi": "ब्रह्मवादिनाम्",
+                "en": "brahmavādinām",
+                "be": "ব্রহ্মবাদিনাম্",
+                "ka": "ಬ್ರಹ್ಮವಾದಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "के छात्रों का",
+                "en": "of the students of",
+                "be": "এর ছাত্রদের",
+                "ka": "ನ ವಿದ್ಯಾರ್ಥಿಗಳ"
+            }
         }
     ],
     "tej": {

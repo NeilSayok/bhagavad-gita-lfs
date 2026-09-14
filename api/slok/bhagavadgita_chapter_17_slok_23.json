@@ -14,8 +14,18 @@
         "en": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
         "ka": "ಓಂತತ್ಸದಿತಿ ನಿರ್ದೇಶೋ ಬ್ರಹ್ಮಣಸ್ತ್ರಿವಿಧಃ ಸ್ಮೃತಃ |\nಬ್ರಾಹ್ಮಣಾಸ್ತೇನ ವೇದಾಶ್ಚ ಯಜ್ಞಾಶ್ಚ ವಿಹಿತಾಃ ಪುರಾ ||೧೭-೨೩||"
     },
-    "transliteration": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
-    "life_application": "'Om Tat Sat' is declared as threefold designation of Brahman, by which scriptures, rituals, and sacrifices were ordained.",
+    "transliteration": {
+        "hi": "ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः |\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||",
+        "en": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
+        "be": "ওঁতত্সদিতি নির্দেশো ব্রহ্মণস্ত্রিবিধঃ স্মৃতঃ |\nব্রাহ্মণাস্তেন বেদাশ্চ যজ্ঞাশ্চ বিহিতাঃ পুরা ||১৭-২৩||",
+        "ka": "ಓಂತತ್ಸದಿತಿ ನಿರ್ದೇಶೋ ಬ್ರಹ್ಮಣಸ್ತ್ರಿವಿಧಃ ಸ್ಮೃತಃ |\nಬ್ರಾಹ್ಮಣಾಸ್ತೇನ ವೇದಾಶ್ಚ ಯಜ್ಞಾಶ್ಚ ವಿಹಿತಾಃ ಪುರಾ ||೧೭-೨೩||"
+    },
+    "life_application": {
+        "hi": "'ओम तत् सत्' को ब्रह्म के तीन गुना पदनाम के रूप में घोषित किया गया है, जिसके द्वारा शास्त्र, अनुष्ठान और बलिदान निर्धारित किए गए थे।",
+        "en": "'Om Tat Sat' is declared as threefold designation of Brahman, by which scriptures, rituals, and sacrifices were ordained.",
+        "be": "'ওম তৎ সত'কে ব্রাহ্মণের ত্রিগুণ উপাধি হিসাবে ঘোষণা করা হয়, যার দ্বারা শাস্ত্র, আচার এবং বলিদান নির্ধারিত হয়েছিল।",
+        "ka": "'ಓಂ ತತ್ ಸತ್' ಅನ್ನು ಬ್ರಹ್ಮನ ಮೂರು ಪಟ್ಟು ಪದನಾಮವೆಂದು ಘೋಷಿಸಲಾಗಿದೆ, ಅದರ ಮೂಲಕ ಧರ್ಮಗ್ರಂಥಗಳು, ಆಚರಣೆಗಳು ಮತ್ತು ತ್ಯಾಗಗಳನ್ನು ನೇಮಿಸಲಾಯಿತು."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "तत्सत्",
-            "transliteration": "tatsat",
-            "meaning": "Om Tat Sat"
+            "transliteration": {
+                "hi": "तत्सत्",
+                "en": "tatsat",
+                "be": "তত্সত্",
+                "ka": "ತತ್ಸತ್"
+            },
+            "meaning": {
+                "hi": "ॐ तत् सत्",
+                "en": "Om Tat Sat",
+                "be": "ওম তাত সত",
+                "ka": "ಓಂ ತತ್ ಸತ್"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "निर्देशः",
-            "transliteration": "nirdeśaḥ",
-            "meaning": "designation"
+            "transliteration": {
+                "hi": "निर्देशः",
+                "en": "nirdeśaḥ",
+                "be": "নির্দেশঃ",
+                "ka": "ನಿರ್ದೇಶಃ"
+            },
+            "meaning": {
+                "hi": "पदनाम",
+                "en": "designation",
+                "be": "পদবী",
+                "ka": "ಪದನಾಮ"
+            }
         },
         {
             "sanskrit": "ब्रह्मणः",
-            "transliteration": "brahmaṇaḥ",
-            "meaning": "of Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मणः",
+                "en": "brahmaṇaḥ",
+                "be": "ব্রহ্মণঃ",
+                "ka": "ಬ್ರಹ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण का",
+                "en": "of Brahman",
+                "be": "ব্রাহ্মণের",
+                "ka": "ಬ್ರಹ್ಮನ"
+            }
         },
         {
             "sanskrit": "त्रिविधः",
-            "transliteration": "trividhaḥ",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधः",
+                "en": "trividhaḥ",
+                "be": "ত্রিবিধঃ",
+                "ka": "ತ್ರಿವಿಧಃ"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "स्मृतः",
-            "transliteration": "smṛtaḥ",
-            "meaning": "has been declared"
+            "transliteration": {
+                "hi": "स्मृतः",
+                "en": "smṛtaḥ",
+                "be": "স্মৃতঃ",
+                "ka": "ಸ್ಮೃತಃ"
+            },
+            "meaning": {
+                "hi": "घोषित कर दिया गया है",
+                "en": "has been declared",
+                "be": "ঘোষণা করা হয়েছে",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "ब्राह्मणाः",
-            "transliteration": "brāhmaṇāḥ",
-            "meaning": "Brahmanas"
+            "transliteration": {
+                "hi": "ब्राह्मणाः",
+                "en": "brāhmaṇāḥ",
+                "be": "ব্রাহ্মণাঃ",
+                "ka": "ಬ್ರಾಹ್ಮಣಾಃ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण",
+                "en": "Brahmanas",
+                "be": "ব্রাহ্মণ",
+                "ka": "ಬ್ರಾಹ್ಮಣರು"
+            }
         },
         {
             "sanskrit": "तेन",
-            "transliteration": "tena",
-            "meaning": "by that"
+            "transliteration": {
+                "hi": "तेन",
+                "en": "tena",
+                "be": "তেন",
+                "ka": "ತೇನ"
+            },
+            "meaning": {
+                "hi": "उससे",
+                "en": "by that",
+                "be": "যে দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "वेदाः",
-            "transliteration": "vedāḥ",
-            "meaning": "Vedas"
+            "transliteration": {
+                "hi": "वेदाः",
+                "en": "vedāḥ",
+                "be": "বেদাঃ",
+                "ka": "ವೇದಾಃ"
+            },
+            "meaning": {
+                "hi": "वेद",
+                "en": "Vedas",
+                "be": "বেদ",
+                "ka": "ವೇದಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यज्ञाः",
-            "transliteration": "yajñāḥ",
-            "meaning": "sacrifices"
+            "transliteration": {
+                "hi": "यज्ञाः",
+                "en": "yajñāḥ",
+                "be": "যজ্ঞাঃ",
+                "ka": "ಯಜ್ಞಾಃ"
+            },
+            "meaning": {
+                "hi": "बलिदान",
+                "en": "sacrifices",
+                "be": "বলিদান",
+                "ka": "ತ್ಯಾಗಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विहिताः",
-            "transliteration": "vihitāḥ",
-            "meaning": "created"
+            "transliteration": {
+                "hi": "विहिताः",
+                "en": "vihitāḥ",
+                "be": "বিহিতাঃ",
+                "ka": "ವಿಹಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "बनाया गया",
+                "en": "created",
+                "be": "তৈরি",
+                "ka": "ರಚಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "पुरा",
-            "transliteration": "purā",
-            "meaning": "formerly."
+            "transliteration": {
+                "hi": "पुरा",
+                "en": "purā",
+                "be": "পুরা",
+                "ka": "ಪುರಾ"
+            },
+            "meaning": {
+                "hi": "पहले.",
+                "en": "formerly.",
+                "be": "পূর্বে",
+                "ka": "ಹಿಂದೆ."
+            }
         }
     ],
     "tej": {

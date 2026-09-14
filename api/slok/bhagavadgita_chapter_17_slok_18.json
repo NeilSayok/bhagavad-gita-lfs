@@ -14,8 +14,18 @@
         "en": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
         "ka": "ಸತ್ಕಾರಮಾನಪೂಜಾರ್ಥಂ ತಪೋ ದಮ್ಭೇನ ಚೈವ ಯತ್ |\nಕ್ರಿಯತೇ ತದಿಹ ಪ್ರೋಕ್ತಂ ರಾಜಸಂ ಚಲಮಧ್ರುವಮ್ ||೧೭-೧೮||"
     },
-    "transliteration": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
-    "life_application": "Avoid performing good deeds or self-discipline merely to gain praise, public honor, or showy status.",
+    "transliteration": {
+        "hi": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् |\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ||१७-१८||",
+        "en": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
+        "be": "সত্কারমানপূজার্থং তপো দম্ভেন চৈব যত্ |\nক্রিযতে তদিহ প্রোক্তং রাজসং চলমধ্রুবম্ ||১৭-১৮||",
+        "ka": "ಸತ್ಕಾರಮಾನಪೂಜಾರ್ಥಂ ತಪೋ ದಮ್ಭೇನ ಚೈವ ಯತ್ |\nಕ್ರಿಯತೇ ತದಿಹ ಪ್ರೋಕ್ತಂ ರಾಜಸಂ ಚಲಮಧ್ರುವಮ್ ||೧೭-೧೮||"
+    },
+    "life_application": {
+        "hi": "केवल प्रशंसा, सार्वजनिक सम्मान या दिखावटी रुतबा हासिल करने के लिए अच्छे कर्म या आत्म-अनुशासन करने से बचें।",
+        "en": "Avoid performing good deeds or self-discipline merely to gain praise, public honor, or showy status.",
+        "be": "শুধুমাত্র প্রশংসা, সর্বজনীন সম্মান বা প্রদর্শনী মর্যাদা লাভের জন্য ভাল কাজ বা স্ব-শৃঙ্খলা এড়িয়ে চলুন।",
+        "ka": "ಕೇವಲ ಹೊಗಳಿಕೆ, ಸಾರ್ವಜನಿಕ ಗೌರವ, ಅಥವಾ ಶೋಭೆಯ ಸ್ಥಾನಮಾನವನ್ನು ಪಡೆಯಲು ಉತ್ತಮ ಕಾರ್ಯಗಳನ್ನು ಅಥವಾ ಸ್ವಯಂ-ಶಿಸ್ತುಗಳನ್ನು ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Attachment",
         "Karma"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "सत्कारमानपूजार्थम्",
-            "transliteration": "satkāramānapūjārtham",
-            "meaning": "with the object of"
+            "transliteration": {
+                "hi": "सत्कारमानपूजार्थम्",
+                "en": "satkāramānapūjārtham",
+                "be": "সত্কারমানপূজার্থম্",
+                "ka": "ಸತ್ಕಾರಮಾನಪೂಜಾರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "के उद्देश्य के साथ",
+                "en": "with the object of",
+                "be": "বস্তুর সঙ্গে",
+                "ka": "ಎಂಬ ವಸ್ತುವಿನೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "दम्भेन",
-            "transliteration": "dambhena",
-            "meaning": "with hypocrisy"
+            "transliteration": {
+                "hi": "दम्भेन",
+                "en": "dambhena",
+                "be": "দম্ভেন",
+                "ka": "ದಮ್ಭೇನ"
+            },
+            "meaning": {
+                "hi": "पाखंड के साथ",
+                "en": "with hypocrisy",
+                "be": "ভন্ডামি সহ",
+                "ka": "ಬೂಟಾಟಿಕೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "क्रियते",
-            "transliteration": "kriyate",
-            "meaning": "is practised"
+            "transliteration": {
+                "hi": "क्रियते",
+                "en": "kriyate",
+                "be": "ক্রিযতে",
+                "ka": "ಕ್ರಿಯತೇ"
+            },
+            "meaning": {
+                "hi": "अभ्यास किया जाता है",
+                "en": "is practised",
+                "be": "অনুশীলন করা হয়",
+                "ka": "ಅಭ್ಯಾಸ ಮಾಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रोक्तम्",
-            "transliteration": "proktam",
-            "meaning": "is said"
+            "transliteration": {
+                "hi": "प्रोक्तम्",
+                "en": "proktam",
+                "be": "প্রোক্তম্",
+                "ka": "ಪ್ರೋಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is said",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "राजसम्",
-            "transliteration": "rājasam",
-            "meaning": "Rajasic"
+            "transliteration": {
+                "hi": "राजसम्",
+                "en": "rājasam",
+                "be": "রাজসম্",
+                "ka": "ರಾಜಸಮ್"
+            },
+            "meaning": {
+                "hi": "राजसिक",
+                "en": "Rajasic",
+                "be": "রাজসিক",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         },
         {
             "sanskrit": "चलम्",
-            "transliteration": "calam",
-            "meaning": "unstable"
+            "transliteration": {
+                "hi": "चलम्",
+                "en": "calam",
+                "be": "চলম্",
+                "ka": "ಚಲಮ್"
+            },
+            "meaning": {
+                "hi": "अस्थिर",
+                "en": "unstable",
+                "be": "অস্থির",
+                "ka": "ಅಸ್ಥಿರ"
+            }
         },
         {
             "sanskrit": "अध्रुवम्",
-            "transliteration": "adhruvam",
-            "meaning": "transitory."
+            "transliteration": {
+                "hi": "अध्रुवम्",
+                "en": "adhruvam",
+                "be": "অধ্রুবম্",
+                "ka": "ಅಧ್ರುವಮ್"
+            },
+            "meaning": {
+                "hi": "क्षणभंगुर.",
+                "en": "transitory.",
+                "be": "ক্ষণস্থায়ী",
+                "ka": "ಕ್ಷಣಿಕ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
         "ka": "ಯತ್ತು ಪ್ರತ್ಯುಪಕಾರಾರ್ಥಂ ಫಲಮುದ್ದಿಶ್ಯ ವಾ ಪುನಃ |\nದೀಯತೇ ಚ ಪರಿಕ್ಲಿಷ್ಟಂ ತದ್ದಾನಂ ರಾಜಸಂ ಸ್ಮೃತಮ್ ||೧೭-೨೧||"
     },
-    "transliteration": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
-    "life_application": "Give charity willingly and joyfully, avoiding giving reluctantly or expecting any personal return.",
+    "transliteration": {
+        "hi": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||",
+        "en": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
+        "be": "যত্তু প্রত্যুপকারার্থং ফলমুদ্দিশ্য বা পুনঃ |\nদীযতে চ পরিক্লিষ্টং তদ্দানং রাজসং স্মৃতম্ ||১৭-২১||",
+        "ka": "ಯತ್ತು ಪ್ರತ್ಯುಪಕಾರಾರ್ಥಂ ಫಲಮುದ್ದಿಶ್ಯ ವಾ ಪುನಃ |\nದೀಯತೇ ಚ ಪರಿಕ್ಲಿಷ್ಟಂ ತದ್ದಾನಂ ರಾಜಸಂ ಸ್ಮೃತಮ್ ||೧೭-೨೧||"
+    },
+    "life_application": {
+        "hi": "स्वेच्छा से और खुशी से दान दें, अनिच्छा से देने या किसी व्यक्तिगत रिटर्न की उम्मीद करने से बचें।",
+        "en": "Give charity willingly and joyfully, avoiding giving reluctantly or expecting any personal return.",
+        "be": "স্বেচ্ছায় এবং আনন্দের সাথে দাতব্য দান করুন, অনিচ্ছায় দান করা এড়িয়ে চলুন বা ব্যক্তিগত রিটার্নের প্রত্যাশা করুন।",
+        "ka": "ಇಷ್ಟವಿಲ್ಲದೆ ನೀಡುವುದನ್ನು ತಪ್ಪಿಸಿ ಅಥವಾ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಪ್ರತಿಫಲವನ್ನು ನಿರೀಕ್ಷಿಸದೆ, ಸ್ವಇಚ್ಛೆಯಿಂದ ಮತ್ತು ಸಂತೋಷದಿಂದ ದಾನ ನೀಡಿ."
+    },
     "themes": [
         "Karma",
         "Attachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "प्रत्युपकारार्थम्",
-            "transliteration": "pratyupakārārtham",
-            "meaning": "with a view to"
+            "transliteration": {
+                "hi": "प्रत्युपकारार्थम्",
+                "en": "pratyupakārārtham",
+                "be": "প্রত্যুপকারার্থম্",
+                "ka": "ಪ್ರತ್ಯುಪಕಾರಾರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "की दृष्टि से",
+                "en": "with a view to",
+                "be": "একটি দৃশ্য সঙ্গে",
+                "ka": "ದೃಷ್ಟಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "उद्दिश्य",
-            "transliteration": "uddiśya",
-            "meaning": "looking for"
+            "transliteration": {
+                "hi": "उद्दिश्य",
+                "en": "uddiśya",
+                "be": "উদ্দিশ্য",
+                "ka": "ಉದ್ದಿಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "ढूंढ रहे हैं",
+                "en": "looking for",
+                "be": "খুঁজছি",
+                "ka": "ಹುಡುಕುತ್ತಿರುವ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "दीयते",
-            "transliteration": "dīyate",
-            "meaning": "is given"
+            "transliteration": {
+                "hi": "दीयते",
+                "en": "dīyate",
+                "be": "দীযতে",
+                "ka": "ದೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "दिया जाता है",
+                "en": "is given",
+                "be": "দেওয়া হয়",
+                "ka": "ನೀಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "परिक्लिष्टम्",
-            "transliteration": "parikliṣṭam",
-            "meaning": "reluctantly"
+            "transliteration": {
+                "hi": "परिक्लिष्टम्",
+                "en": "parikliṣṭam",
+                "be": "পরিক্লিষ্টম্",
+                "ka": "ಪರಿಕ್ಲಿಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "अनिच्छा से",
+                "en": "reluctantly",
+                "be": "অনিচ্ছায়",
+                "ka": "ಇಷ್ಟವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "gift"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "उपहार",
+                "en": "gift",
+                "be": "উপহার",
+                "ka": "ಉಡುಗೊರೆ"
+            }
         },
         {
             "sanskrit": "राजसम्",
-            "transliteration": "rājasam",
-            "meaning": "Rajasic"
+            "transliteration": {
+                "hi": "राजसम्",
+                "en": "rājasam",
+                "be": "রাজসম্",
+                "ka": "ರಾಜಸಮ್"
+            },
+            "meaning": {
+                "hi": "राजसिक",
+                "en": "Rajasic",
+                "be": "রাজসিক",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         },
         {
             "sanskrit": "स्मृतम्",
-            "transliteration": "smṛtam",
-            "meaning": "is held to be."
+            "transliteration": {
+                "hi": "स्मृतम्",
+                "en": "smṛtam",
+                "be": "স্মৃতম্",
+                "ka": "ಸ್ಮೃತಮ್"
+            },
+            "meaning": {
+                "hi": "माना जाता है.",
+                "en": "is held to be.",
+                "be": "হতে অনুষ্ঠিত হয়.",
+                "ka": "ಎಂದು ನಡೆಸಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

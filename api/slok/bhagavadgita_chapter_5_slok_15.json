@@ -14,8 +14,18 @@
         "en": "nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ .\najñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ ||5-15||",
         "ka": "ನಾದತ್ತೇ ಕಸ್ಯಚಿತ್ಪಾಪಂ ನ ಚೈವ ಸುಕೃತಂ ವಿಭುಃ |\nಅಜ್ಞಾನೇನಾವೃತಂ ಜ್ಞಾನಂ ತೇನ ಮುಹ್ಯನ್ತಿ ಜನ್ತವಃ ||೫-೧೫||"
     },
-    "transliteration": "nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ .\najñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ ||5-15||",
-    "life_application": "Dispel personal delusion by recognizing that divine presence remains untainted by human errors or passing claims.",
+    "transliteration": {
+        "hi": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः |\nअज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ||५-१५||",
+        "en": "nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ .\najñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ ||5-15||",
+        "be": "নাদত্তে কস্যচিত্পাপং ন চৈব সুকৃতং বিভুঃ |\nঅজ্ঞানেনাবৃতং জ্ঞানং তেন মুহ্যন্তি জন্তবঃ ||৫-১৫||",
+        "ka": "ನಾದತ್ತೇ ಕಸ್ಯಚಿತ್ಪಾಪಂ ನ ಚೈವ ಸುಕೃತಂ ವಿಭುಃ |\nಅಜ್ಞಾನೇನಾವೃತಂ ಜ್ಞಾನಂ ತೇನ ಮುಹ್ಯನ್ತಿ ಜನ್ತವಃ ||೫-೧೫||"
+    },
+    "life_application": {
+        "hi": "यह पहचान कर व्यक्तिगत भ्रम को दूर करें कि ईश्वरीय उपस्थिति मानवीय त्रुटियों या पारित दावों से बेदाग रहती है।",
+        "en": "Dispel personal delusion by recognizing that divine presence remains untainted by human errors or passing claims.",
+        "be": "স্বর্গীয় উপস্থিতি মানবিক ত্রুটি বা পাসিং দাবী দ্বারা অক্ষত থাকে তা স্বীকার করে ব্যক্তিগত বিভ্রম দূর করুন।",
+        "ka": "ದೈವಿಕ ಉಪಸ್ಥಿತಿಯು ಮಾನವ ದೋಷಗಳು ಅಥವಾ ಹಾದುಹೋಗುವ ಹಕ್ಕುಗಳಿಂದ ಕಳಂಕರಹಿತವಾಗಿ ಉಳಿದಿದೆ ಎಂದು ಗುರುತಿಸುವ ಮೂಲಕ ವೈಯಕ್ತಿಕ ಭ್ರಮೆಯನ್ನು ಹೊರಹಾಕಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "नादत्ते",
-            "transliteration": "nādatte",
-            "meaning": "nādatte"
+            "transliteration": {
+                "hi": "नादत्ते",
+                "en": "nādatte",
+                "be": "নাদত্তে",
+                "ka": "ನಾದತ್ತೇ"
+            },
+            "meaning": {
+                "hi": "नादत्त",
+                "en": "nādatte",
+                "be": "নাদত্তে",
+                "ka": "ನಾಡತ್ತೆ"
+            }
         },
         {
             "sanskrit": "कस्यचित्पापं",
-            "transliteration": "kasyacitpāpaṃ",
-            "meaning": "kasyacitpāpaṃ"
+            "transliteration": {
+                "hi": "कस्यचित्पापं",
+                "en": "kasyacitpāpaṃ",
+                "be": "কস্যচিত্পাপং",
+                "ka": "ಕಸ್ಯಚಿತ್ಪಾಪಂ"
+            },
+            "meaning": {
+                "hi": "कस्यचित्पापम्",
+                "en": "kasyacitpāpaṃ",
+                "be": "kasyacitpāpaṃ",
+                "ka": "ಕಸ್ಯಚಿತ್ಪಾಪಂ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "सुकृतं",
-            "transliteration": "sukṛtaṃ",
-            "meaning": "sukṛtaṃ"
+            "transliteration": {
+                "hi": "सुकृतं",
+                "en": "sukṛtaṃ",
+                "be": "সুকৃতং",
+                "ka": "ಸುಕೃತಂ"
+            },
+            "meaning": {
+                "hi": "सुकृतम्",
+                "en": "sukṛtaṃ",
+                "be": "sukṛtaṃ",
+                "ka": "ಸುಕೃತಂ"
+            }
         },
         {
             "sanskrit": "विभुः",
-            "transliteration": "vibhuḥ",
-            "meaning": "vibhuḥ"
+            "transliteration": {
+                "hi": "विभुः",
+                "en": "vibhuḥ",
+                "be": "বিভুঃ",
+                "ka": "ವಿಭುಃ"
+            },
+            "meaning": {
+                "hi": "विभुः",
+                "en": "vibhuḥ",
+                "be": "বিভুঃ",
+                "ka": "ವಿಭುಃ"
+            }
         },
         {
             "sanskrit": "अज्ञानेनावृतं",
-            "transliteration": "ajñānenāvṛtaṃ",
-            "meaning": "ajñānenāvṛtaṃ"
+            "transliteration": {
+                "hi": "अज्ञानेनावृतं",
+                "en": "ajñānenāvṛtaṃ",
+                "be": "অজ্ঞানেনাবৃতং",
+                "ka": "ಅಜ್ಞಾನೇನಾವೃತಂ"
+            },
+            "meaning": {
+                "hi": "अज्ञानेनवृत्तम्",
+                "en": "ajñānenāvṛtaṃ",
+                "be": "ajñānenāvṛtaṃ",
+                "ka": "ಅಜ್ಞಾನೇನಾವೃತಾಂ"
+            }
         },
         {
             "sanskrit": "ज्ञानं",
-            "transliteration": "jñānaṃ",
-            "meaning": "jñānaṃ"
+            "transliteration": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "জ্ঞানং",
+                "ka": "ಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "jñānaṃ",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "तेन",
-            "transliteration": "tena",
-            "meaning": "tena"
+            "transliteration": {
+                "hi": "तेन",
+                "en": "tena",
+                "be": "তেন",
+                "ka": "ತೇನ"
+            },
+            "meaning": {
+                "hi": "टेना",
+                "en": "tena",
+                "be": "টেনা",
+                "ka": "ತೆನಾ"
+            }
         },
         {
             "sanskrit": "मुह्यन्ति",
-            "transliteration": "muhyanti",
-            "meaning": "muhyanti"
+            "transliteration": {
+                "hi": "मुह्यन्ति",
+                "en": "muhyanti",
+                "be": "মুহ্যন্তি",
+                "ka": "ಮುಹ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "मुहयंती",
+                "en": "muhyanti",
+                "be": "muhyanti",
+                "ka": "ಮುಹ್ಯಂತಿ"
+            }
         },
         {
             "sanskrit": "जन्तवः",
-            "transliteration": "jantavaḥ",
-            "meaning": "jantavaḥ"
+            "transliteration": {
+                "hi": "जन्तवः",
+                "en": "jantavaḥ",
+                "be": "জন্তবঃ",
+                "ka": "ಜನ್ತವಃ"
+            },
+            "meaning": {
+                "hi": "जंतवः",
+                "en": "jantavaḥ",
+                "be": "যান্তভাঃ",
+                "ka": "ಜನತಾವಃ"
+            }
         }
     ],
     "tej": {

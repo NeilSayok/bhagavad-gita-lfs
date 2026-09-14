@@ -14,8 +14,18 @@
         "en": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ .\nlipyate na sa pāpena padmapatramivāmbhasā ||5-10||",
         "ka": "ಬ್ರಹ್ಮಣ್ಯಾಧಾಯ ಕರ್ಮಾಣಿ ಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾ ಕರೋತಿ ಯಃ |\nಲಿಪ್ಯತೇ ನ ಸ ಪಾಪೇನ ಪದ್ಮಪತ್ರಮಿವಾಮ್ಭಸಾ ||೫-೧೦||"
     },
-    "transliteration": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ .\nlipyate na sa pāpena padmapatramivāmbhasā ||5-10||",
-    "life_application": "Offer your work to the divine presence, remaining untouched by worldly troubles just as a lotus leaf repels water.",
+    "transliteration": {
+        "hi": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः |\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ||५-१०||",
+        "en": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ .\nlipyate na sa pāpena padmapatramivāmbhasā ||5-10||",
+        "be": "ব্রহ্মণ্যাধায কর্মাণি সঙ্গং ত্যক্ত্বা করোতি যঃ |\nলিপ্যতে ন স পাপেন পদ্মপত্রমিবাম্ভসা ||৫-১০||",
+        "ka": "ಬ್ರಹ್ಮಣ್ಯಾಧಾಯ ಕರ್ಮಾಣಿ ಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾ ಕರೋತಿ ಯಃ |\nಲಿಪ್ಯತೇ ನ ಸ ಪಾಪೇನ ಪದ್ಮಪತ್ರಮಿವಾಮ್ಭಸಾ ||೫-೧೦||"
+    },
+    "life_application": {
+        "hi": "जैसे कमल का पत्ता पानी को विकर्षित करता है, वैसे ही सांसारिक परेशानियों से अछूते रहकर अपना काम ईश्वरीय उपस्थिति को अर्पित करें।",
+        "en": "Offer your work to the divine presence, remaining untouched by worldly troubles just as a lotus leaf repels water.",
+        "be": "আপনার কাজ ঐশ্বরিক উপস্থিতিতে অর্পণ করুন, পার্থিব ঝামেলা দ্বারা অস্পৃশ্য থাকুন ঠিক যেমন একটি পদ্ম পাতা জলকে বিকর্ষণ করে।",
+        "ka": "ಕಮಲದ ಎಲೆಯು ನೀರನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸುವಂತೆಯೇ ಲೌಕಿಕ ತೊಂದರೆಗಳಿಂದ ಅಸ್ಪೃಶ್ಯರಾಗಿ ನಿಮ್ಮ ಕೆಲಸವನ್ನು ದೈವಿಕ ಉಪಸ್ಥಿತಿಗೆ ಅರ್ಪಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Devotion",
@@ -24,58 +34,168 @@
     "word_meanings": [
         {
             "sanskrit": "ब्रह्मण्याधाय",
-            "transliteration": "brahmaṇyādhāya",
-            "meaning": "brahmaṇyādhāya"
+            "transliteration": {
+                "hi": "ब्रह्मण्याधाय",
+                "en": "brahmaṇyādhāya",
+                "be": "ব্রহ্মণ্যাধায",
+                "ka": "ಬ್ರಹ್ಮಣ್ಯಾಧಾಯ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मन्याध्याय",
+                "en": "brahmaṇyādhāya",
+                "be": "ব্রাহ্মণ্যাধ্যায়",
+                "ka": "ಬ್ರಹ್ಮಣ್ಯಧಾಯ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "karmāṇi"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণী",
+                "ka": "ಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "सङ्गं",
-            "transliteration": "saṅgaṃ",
-            "meaning": "saṅgaṃ"
+            "transliteration": {
+                "hi": "सङ्गं",
+                "en": "saṅgaṃ",
+                "be": "সঙ্গং",
+                "ka": "ಸಙ್ಗಂ"
+            },
+            "meaning": {
+                "hi": "संगं",
+                "en": "saṅgaṃ",
+                "be": "সংগং",
+                "ka": "ಸಂಗಂ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "tyaktvā"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "tyaktvā",
+                "ka": "ತ್ಯಕ್ತ್ವ"
+            }
         },
         {
             "sanskrit": "करोति",
-            "transliteration": "karoti",
-            "meaning": "karoti"
+            "transliteration": {
+                "hi": "करोति",
+                "en": "karoti",
+                "be": "করোতি",
+                "ka": "ಕರೋತಿ"
+            },
+            "meaning": {
+                "hi": "करोति",
+                "en": "karoti",
+                "be": "করোটি",
+                "ka": "ಕರೋತಿ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "yaḥ"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "हां",
+                "en": "yaḥ",
+                "be": "ইয়াহ",
+                "ka": "ಹೌದು"
+            }
         },
         {
             "sanskrit": "लिप्यते",
-            "transliteration": "lipyate",
-            "meaning": "lipyate"
+            "transliteration": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "লিপ্যতে",
+                "ka": "ಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "lipyate",
+                "ka": "ಲಿಪ್ಯೇಟ್"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "पापेन",
-            "transliteration": "pāpena",
-            "meaning": "pāpena"
+            "transliteration": {
+                "hi": "पापेन",
+                "en": "pāpena",
+                "be": "পাপেন",
+                "ka": "ಪಾಪೇನ"
+            },
+            "meaning": {
+                "hi": "पपेना",
+                "en": "pāpena",
+                "be": "পাপেনা",
+                "ka": "ಪಾಪೆನಾ"
+            }
         },
         {
             "sanskrit": "पद्मपत्रमिवाम्भसा",
-            "transliteration": "padmapatramivāmbhasā",
-            "meaning": "padmapatramivāmbhasā"
+            "transliteration": {
+                "hi": "पद्मपत्रमिवाम्भसा",
+                "en": "padmapatramivāmbhasā",
+                "be": "পদ্মপত্রমিবাম্ভসা",
+                "ka": "ಪದ್ಮಪತ್ರಮಿವಾಮ್ಭಸಾ"
+            },
+            "meaning": {
+                "hi": "पद्मपत्रमिवाम्भसा",
+                "en": "padmapatramivāmbhasā",
+                "be": "পদ্মপত্রমিভামভাসা",
+                "ka": "ಪದ್ಮಪತ್ರಮಿವಾಂಭಸಾ"
+            }
         }
     ],
     "tej": {

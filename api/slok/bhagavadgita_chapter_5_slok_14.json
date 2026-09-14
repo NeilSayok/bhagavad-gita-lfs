@@ -14,8 +14,18 @@
         "en": "na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ .\nna karmaphalasaṃyogaṃ svabhāvastu pravartate ||5-14||",
         "ka": "ನ ಕರ್ತೃತ್ವಂ ನ ಕರ್ಮಾಣಿ ಲೋಕಸ್ಯ ಸೃಜತಿ ಪ್ರಭುಃ |\nನ ಕರ್ಮಫಲಸಂಯೋಗಂ ಸ್ವಭಾವಸ್ತು ಪ್ರವರ್ತತೇ ||೫-೧೪||"
     },
-    "transliteration": "na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ .\nna karmaphalasaṃyogaṃ svabhāvastu pravartate ||5-14||",
-    "life_application": "Understand that natural laws govern physical events, freeing your mind from false pride or misplaced guilt.",
+    "transliteration": {
+        "hi": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः |\nन कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ||५-१४||",
+        "en": "na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ .\nna karmaphalasaṃyogaṃ svabhāvastu pravartate ||5-14||",
+        "be": "ন কর্তৃত্বং ন কর্মাণি লোকস্য সৃজতি প্রভুঃ |\nন কর্মফলসংযোগং স্বভাবস্তু প্রবর্ততে ||৫-১৪||",
+        "ka": "ನ ಕರ್ತೃತ್ವಂ ನ ಕರ್ಮಾಣಿ ಲೋಕಸ್ಯ ಸೃಜತಿ ಪ್ರಭುಃ |\nನ ಕರ್ಮಫಲಸಂಯೋಗಂ ಸ್ವಭಾವಸ್ತು ಪ್ರವರ್ತತೇ ||೫-೧೪||"
+    },
+    "life_application": {
+        "hi": "समझें कि प्राकृतिक नियम भौतिक घटनाओं को नियंत्रित करते हैं, जिससे आपका दिमाग झूठे गर्व या गलत अपराध बोध से मुक्त हो जाता है।",
+        "en": "Understand that natural laws govern physical events, freeing your mind from false pride or misplaced guilt.",
+        "be": "বুঝুন যে প্রাকৃতিক আইনগুলি শারীরিক ঘটনাগুলিকে নিয়ন্ত্রণ করে, আপনার মনকে মিথ্যা অহংকার বা ভুল অপরাধবোধ থেকে মুক্ত করে।",
+        "ka": "ನೈಸರ್ಗಿಕ ಕಾನೂನುಗಳು ಭೌತಿಕ ಘಟನೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುತ್ತವೆ, ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸುಳ್ಳು ಹೆಮ್ಮೆಯಿಂದ ಅಥವಾ ತಪ್ಪಾದ ಅಪರಾಧದಿಂದ ಮುಕ್ತಗೊಳಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्तृत्वं",
-            "transliteration": "kartṛtvaṃ",
-            "meaning": "kartṛtvaṃ"
+            "transliteration": {
+                "hi": "कर्तृत्वं",
+                "en": "kartṛtvaṃ",
+                "be": "কর্তৃত্বং",
+                "ka": "ಕರ್ತೃತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "कर्तृत्वम्",
+                "en": "kartṛtvaṃ",
+                "be": "কর্তৃত্ব",
+                "ka": "ಕರ್ತೃತ್ವ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "karmāṇi"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণী",
+                "ka": "ಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "लोकस्य",
-            "transliteration": "lokasya",
-            "meaning": "lokasya"
+            "transliteration": {
+                "hi": "लोकस्य",
+                "en": "lokasya",
+                "be": "লোকস্য",
+                "ka": "ಲೋಕಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "लोकस्य",
+                "en": "lokasya",
+                "be": "লোকস্যা",
+                "ka": "ಲೋಕಸ್ಯ"
+            }
         },
         {
             "sanskrit": "सृजति",
-            "transliteration": "sṛjati",
-            "meaning": "sṛjati"
+            "transliteration": {
+                "hi": "सृजति",
+                "en": "sṛjati",
+                "be": "সৃজতি",
+                "ka": "ಸೃಜತಿ"
+            },
+            "meaning": {
+                "hi": "सृजति",
+                "en": "sṛjati",
+                "be": "শ্রীজাতি",
+                "ka": "ಸೃಜತಿ"
+            }
         },
         {
             "sanskrit": "प्रभुः",
-            "transliteration": "prabhuḥ",
-            "meaning": "prabhuḥ"
+            "transliteration": {
+                "hi": "प्रभुः",
+                "en": "prabhuḥ",
+                "be": "প্রভুঃ",
+                "ka": "ಪ್ರಭುಃ"
+            },
+            "meaning": {
+                "hi": "प्रभुः",
+                "en": "prabhuḥ",
+                "be": "প্রভুঃ",
+                "ka": "ಪ್ರಭುಃ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्मफलसंयोगं",
-            "transliteration": "karmaphalasaṃyogaṃ",
-            "meaning": "karmaphalasaṃyogaṃ"
+            "transliteration": {
+                "hi": "कर्मफलसंयोगं",
+                "en": "karmaphalasaṃyogaṃ",
+                "be": "কর্মফলসংযোগং",
+                "ka": "ಕರ್ಮಫಲಸಂಯೋಗಂ"
+            },
+            "meaning": {
+                "hi": "कर्मफलसंयोगम्",
+                "en": "karmaphalasaṃyogaṃ",
+                "be": "কর্মফলসংযোগ",
+                "ka": "ಕರ್ಮಫಲಸಂಯೋಗಂ"
+            }
         },
         {
             "sanskrit": "स्वभावस्तु",
-            "transliteration": "svabhāvastu",
-            "meaning": "svabhāvastu"
+            "transliteration": {
+                "hi": "स्वभावस्तु",
+                "en": "svabhāvastu",
+                "be": "স্বভাবস্তু",
+                "ka": "ಸ್ವಭಾವಸ್ತು"
+            },
+            "meaning": {
+                "hi": "स्वभाववस्तु",
+                "en": "svabhāvastu",
+                "be": "স্বভাবস্তু",
+                "ka": "svabhavastu"
+            }
         },
         {
             "sanskrit": "प्रवर्तते",
-            "transliteration": "pravartate",
-            "meaning": "pravartate"
+            "transliteration": {
+                "hi": "प्रवर्तते",
+                "en": "pravartate",
+                "be": "প্রবর্ততে",
+                "ka": "ಪ್ರವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "प्रवर्तित करें",
+                "en": "pravartate",
+                "be": "প্রবর্ততে",
+                "ka": "ಪ್ರವರ್ಟೇಟ್"
+            }
         }
     ],
     "tej": {

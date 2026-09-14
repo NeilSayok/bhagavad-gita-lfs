@@ -14,8 +14,18 @@
         "en": "kāyena manasā buddhyā kevalairindriyairapi .\nyoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye ||5-11||",
         "ka": "ಕಾಯೇನ ಮನಸಾ ಬುದ್ಧ್ಯಾ ಕೇವಲೈರಿನ್ದ್ರಿಯೈರಪಿ |\nಯೋಗಿನಃ ಕರ್ಮ ಕುರ್ವನ್ತಿ ಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾತ್ಮಶುದ್ಧಯೇ ||೫-೧೧||"
     },
-    "transliteration": "kāyena manasā buddhyā kevalairindriyairapi .\nyoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye ||5-11||",
-    "life_application": "Use your daily work as an instrument for mental purification, acting with care while releasing selfish attachment.",
+    "transliteration": {
+        "hi": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि |\nयोगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ||५-११||",
+        "en": "kāyena manasā buddhyā kevalairindriyairapi .\nyoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye ||5-11||",
+        "be": "কাযেন মনসা বুদ্ধ্যা কেবলৈরিন্দ্রিযৈরপি |\nযোগিনঃ কর্ম কুর্বন্তি সঙ্গং ত্যক্ত্বাত্মশুদ্ধযে ||৫-১১||",
+        "ka": "ಕಾಯೇನ ಮನಸಾ ಬುದ್ಧ್ಯಾ ಕೇವಲೈರಿನ್ದ್ರಿಯೈರಪಿ |\nಯೋಗಿನಃ ಕರ್ಮ ಕುರ್ವನ್ತಿ ಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾತ್ಮಶುದ್ಧಯೇ ||೫-೧೧||"
+    },
+    "life_application": {
+        "hi": "अपने दैनिक कार्य को मानसिक शुद्धि के साधन के रूप में उपयोग करें, स्वार्थी लगाव को दूर करते हुए सावधानी से कार्य करें।",
+        "en": "Use your daily work as an instrument for mental purification, acting with care while releasing selfish attachment.",
+        "be": "আপনার দৈনন্দিন কাজকে মানসিক শুদ্ধির জন্য একটি যন্ত্র হিসাবে ব্যবহার করুন, স্বার্থপর সংযুক্তি মুক্ত করার সময় যত্ন সহকারে কাজ করুন।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಕೆಲಸವನ್ನು ಮಾನಸಿಕ ಶುದ್ಧೀಕರಣದ ಸಾಧನವಾಗಿ ಬಳಸಿ, ಸ್ವಾರ್ಥದ ಬಾಂಧವ್ಯವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವಾಗ ಎಚ್ಚರಿಕೆಯಿಂದ ವರ್ತಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "कायेन",
-            "transliteration": "kāyena",
-            "meaning": "kāyena"
+            "transliteration": {
+                "hi": "कायेन",
+                "en": "kāyena",
+                "be": "কাযেন",
+                "ka": "ಕಾಯೇನ"
+            },
+            "meaning": {
+                "hi": "कायेना",
+                "en": "kāyena",
+                "be": "কায়েনা",
+                "ka": "ಕಯೇನಾ"
+            }
         },
         {
             "sanskrit": "मनसा",
-            "transliteration": "manasā",
-            "meaning": "by the mind"
+            "transliteration": {
+                "hi": "मनसा",
+                "en": "manasā",
+                "be": "মনসা",
+                "ka": "ಮನಸಾ"
+            },
+            "meaning": {
+                "hi": "मन से",
+                "en": "by the mind",
+                "be": "মনের দ্বারা",
+                "ka": "ಮನಸ್ಸಿನಿಂದ"
+            }
         },
         {
             "sanskrit": "बुद्ध्या",
-            "transliteration": "buddhyā",
-            "meaning": "by intellect"
+            "transliteration": {
+                "hi": "बुद्ध्या",
+                "en": "buddhyā",
+                "be": "বুদ্ধ্যা",
+                "ka": "ಬುದ್ಧ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि से",
+                "en": "by intellect",
+                "be": "বুদ্ধি দ্বারা",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "केवलैरिन्द्रियैरपि",
-            "transliteration": "kevalairindriyairapi",
-            "meaning": "kevalairindriyairapi"
+            "transliteration": {
+                "hi": "केवलैरिन्द्रियैरपि",
+                "en": "kevalairindriyairapi",
+                "be": "কেবলৈরিন্দ্রিযৈরপি",
+                "ka": "ಕೇವಲೈರಿನ್ದ್ರಿಯೈರಪಿ"
+            },
+            "meaning": {
+                "hi": "केवलैरिन्द्रियैरपि",
+                "en": "kevalairindriyairapi",
+                "be": "কেভালইন্দ্রিয়রাপি",
+                "ka": "ಕೇವಲೈರಿನ್ದ್ರಿಯೈರಪಿ"
+            }
         },
         {
             "sanskrit": "योगिनः",
-            "transliteration": "yoginaḥ",
-            "meaning": "yoginaḥ"
+            "transliteration": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            },
+            "meaning": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "कुर्वन्ति",
-            "transliteration": "kurvanti",
-            "meaning": "kurvanti"
+            "transliteration": {
+                "hi": "कुर्वन्ति",
+                "en": "kurvanti",
+                "be": "কুর্বন্তি",
+                "ka": "ಕುರ್ವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "कुरवंती",
+                "en": "kurvanti",
+                "be": "কুরবন্তী",
+                "ka": "ಕುರ್ವಂತಿ"
+            }
         },
         {
             "sanskrit": "सङ्गं",
-            "transliteration": "saṅgaṃ",
-            "meaning": "saṅgaṃ"
+            "transliteration": {
+                "hi": "सङ्गं",
+                "en": "saṅgaṃ",
+                "be": "সঙ্গং",
+                "ka": "ಸಙ್ಗಂ"
+            },
+            "meaning": {
+                "hi": "संगं",
+                "en": "saṅgaṃ",
+                "be": "সংগং",
+                "ka": "ಸಂಗಂ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वात्मशुद्धये",
-            "transliteration": "tyaktvātmaśuddhaye",
-            "meaning": "tyaktvātmaśuddhaye"
+            "transliteration": {
+                "hi": "त्यक्त्वात्मशुद्धये",
+                "en": "tyaktvātmaśuddhaye",
+                "be": "ত্যক্ত্বাত্মশুদ্ধযে",
+                "ka": "ತ್ಯಕ್ತ್ವಾತ್ಮಶುದ್ಧಯೇ"
+            },
+            "meaning": {
+                "hi": "त्यक्त्वात्मशुद्धये",
+                "en": "tyaktvātmaśuddhaye",
+                "be": "ত্যক্তাত্মাশুদ্ধয়ে",
+                "ka": "ತ್ಯಕ್ತ್ವಾತ್ಮಶುದ್ಧಯೇ"
+            }
         }
     ],
     "tej": {

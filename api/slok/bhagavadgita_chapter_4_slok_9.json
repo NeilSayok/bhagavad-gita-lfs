@@ -14,8 +14,18 @@
         "en": "janma karma ca me divyamevaṃ yo vetti tattvataḥ .\ntyaktvā dehaṃ punarjanma naiti māmeti so.arjuna ||4-9||",
         "ka": "ಜನ್ಮ ಕರ್ಮ ಚ ಮೇ ದಿವ್ಯಮೇವಂ ಯೋ ವೇತ್ತಿ ತತ್ತ್ವತಃ |\nತ್ಯಕ್ತ್ವಾ ದೇಹಂ ಪುನರ್ಜನ್ಮ ನೈತಿ ಮಾಮೇತಿ ಸೋಽರ್ಜುನ ||೪-೯||"
     },
-    "transliteration": "janma karma ca me divyamevaṃ yo vetti tattvataḥ .\ntyaktvā dehaṃ punarjanma naiti māmeti so.arjuna ||4-9||",
-    "life_application": "Contemplate the divine nature behind sacred events to lift your awareness above temporary earthly attachments.",
+    "transliteration": {
+        "hi": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः |\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ||४-९||",
+        "en": "janma karma ca me divyamevaṃ yo vetti tattvataḥ .\ntyaktvā dehaṃ punarjanma naiti māmeti so.arjuna ||4-9||",
+        "be": "জন্ম কর্ম চ মে দিব্যমেবং যো বেত্তি তত্ত্বতঃ |\nত্যক্ত্বা দেহং পুনর্জন্ম নৈতি মামেতি সোঽর্জুন ||৪-৯||",
+        "ka": "ಜನ್ಮ ಕರ್ಮ ಚ ಮೇ ದಿವ್ಯಮೇವಂ ಯೋ ವೇತ್ತಿ ತತ್ತ್ವತಃ |\nತ್ಯಕ್ತ್ವಾ ದೇಹಂ ಪುನರ್ಜನ್ಮ ನೈತಿ ಮಾಮೇತಿ ಸೋಽರ್ಜುನ ||೪-೯||"
+    },
+    "life_application": {
+        "hi": "अपनी जागरूकता को अस्थायी सांसारिक लगावों से ऊपर उठाने के लिए पवित्र घटनाओं के पीछे की दिव्य प्रकृति पर चिंतन करें।",
+        "en": "Contemplate the divine nature behind sacred events to lift your awareness above temporary earthly attachments.",
+        "be": "আপনার সচেতনতাকে অস্থায়ী পার্থিব সংযুক্তির ঊর্ধ্বে তুলতে পবিত্র ঘটনাগুলির পিছনে ঐশ্বরিক প্রকৃতি নিয়ে চিন্তা করুন।",
+        "ka": "ತಾತ್ಕಾಲಿಕ ಐಹಿಕ ಲಗತ್ತುಗಳ ಮೇಲೆ ನಿಮ್ಮ ಅರಿವು ಮೂಡಿಸಲು ಪವಿತ್ರ ಘಟನೆಗಳ ಹಿಂದಿನ ದೈವಿಕ ಸ್ವರೂಪವನ್ನು ಆಲೋಚಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "जन्म",
-            "transliteration": "janma",
-            "meaning": "janma"
+            "transliteration": {
+                "hi": "जन्म",
+                "en": "janma",
+                "be": "জন্ম",
+                "ka": "ಜನ್ಮ"
+            },
+            "meaning": {
+                "hi": "जन्म",
+                "en": "janma",
+                "be": "janma",
+                "ka": "ಜನ್ಮ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "दिव्यमेवं",
-            "transliteration": "divyamevaṃ",
-            "meaning": "divyamevaṃ"
+            "transliteration": {
+                "hi": "दिव्यमेवं",
+                "en": "divyamevaṃ",
+                "be": "দিব্যমেবং",
+                "ka": "ದಿವ್ಯಮೇವಂ"
+            },
+            "meaning": {
+                "hi": "दिव्यमेवम्",
+                "en": "divyamevaṃ",
+                "be": "divyamevaṃ",
+                "ka": "ದಿವ್ಯಮೇವಂ"
+            }
         },
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "vetti"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "वेट्टी",
+                "en": "vetti",
+                "be": "ভেটি",
+                "ka": "ವೆಟ್ಟಿ"
+            }
         },
         {
             "sanskrit": "तत्त्वतः",
-            "transliteration": "tattvataḥ",
-            "meaning": "tattvataḥ"
+            "transliteration": {
+                "hi": "तत्त्वतः",
+                "en": "tattvataḥ",
+                "be": "তত্ত্বতঃ",
+                "ka": "ತತ್ತ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "तत्त्वतः",
+                "en": "tattvataḥ",
+                "be": "তত্ত্বঃ",
+                "ka": "ತತ್ತ್ವತಃ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "tyaktvā"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "tyaktvā",
+                "ka": "ತ್ಯಕ್ತ್ವ"
+            }
         },
         {
             "sanskrit": "देहं",
-            "transliteration": "dehaṃ",
-            "meaning": "dehaṃ"
+            "transliteration": {
+                "hi": "देहं",
+                "en": "dehaṃ",
+                "be": "দেহং",
+                "ka": "ದೇಹಂ"
+            },
+            "meaning": {
+                "hi": "देहं",
+                "en": "dehaṃ",
+                "be": "dehaṃ",
+                "ka": "ದೇಹಂ"
+            }
         },
         {
             "sanskrit": "पुनर्जन्म",
-            "transliteration": "punarjanma",
-            "meaning": "punarjanma"
+            "transliteration": {
+                "hi": "पुनर्जन्म",
+                "en": "punarjanma",
+                "be": "পুনর্জন্ম",
+                "ka": "ಪುನರ್ಜನ್ಮ"
+            },
+            "meaning": {
+                "hi": "पुनर्जन्म",
+                "en": "punarjanma",
+                "be": "punarjanma",
+                "ka": "ಪುನರ್ಜನ್ಮ"
+            }
         },
         {
             "sanskrit": "नैति",
-            "transliteration": "naiti",
-            "meaning": "naiti"
+            "transliteration": {
+                "hi": "नैति",
+                "en": "naiti",
+                "be": "নৈতি",
+                "ka": "ನೈತಿ"
+            },
+            "meaning": {
+                "hi": "नैति",
+                "en": "naiti",
+                "be": "নাইটি",
+                "ka": "ನೈಟಿ"
+            }
         },
         {
             "sanskrit": "मामेति",
-            "transliteration": "māmeti",
-            "meaning": "māmeti"
+            "transliteration": {
+                "hi": "मामेति",
+                "en": "māmeti",
+                "be": "মামেতি",
+                "ka": "ಮಾಮೇತಿ"
+            },
+            "meaning": {
+                "hi": "मामेती",
+                "en": "māmeti",
+                "be": "মামেতি",
+                "ka": "ಮಾಮೇತಿ"
+            }
         },
         {
             "sanskrit": "सोऽर्जुन",
-            "transliteration": "so'rjuna",
-            "meaning": "so'rjuna"
+            "transliteration": {
+                "hi": "सोऽर्जुन",
+                "en": "so'rjuna",
+                "be": "সোঽর্জুন",
+                "ka": "ಸೋಽರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "सोअर्जुन",
+                "en": "so'rjuna",
+                "be": "so'rjuna",
+                "ka": "so'rjuna"
+            }
         }
     ],
     "tej": {

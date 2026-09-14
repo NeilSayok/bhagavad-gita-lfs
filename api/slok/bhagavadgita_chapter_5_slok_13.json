@@ -14,8 +14,18 @@
         "en": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī .\nnavadvāre pure dehī naiva kurvanna kārayan ||5-13||",
         "ka": "ಸರ್ವಕರ್ಮಾಣಿ ಮನಸಾ ಸಂನ್ಯಸ್ಯಾಸ್ತೇ ಸುಖಂ ವಶೀ |\nನವದ್ವಾರೇ ಪುರೇ ದೇಹೀ ನೈವ ಕುರ್ವನ್ನ ಕಾರಯನ್ ||೫-೧೩||"
     },
-    "transliteration": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī .\nnavadvāre pure dehī naiva kurvanna kārayan ||5-13||",
-    "life_application": "Rest peacefully in your inner awareness, realizing your true self is the quiet witness within your physical body.",
+    "transliteration": {
+        "hi": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी |\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ||५-१३||",
+        "en": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī .\nnavadvāre pure dehī naiva kurvanna kārayan ||5-13||",
+        "be": "সর্বকর্মাণি মনসা সংন্যস্যাস্তে সুখং বশী |\nনবদ্বারে পুরে দেহী নৈব কুর্বন্ন কারযন্ ||৫-১৩||",
+        "ka": "ಸರ್ವಕರ್ಮಾಣಿ ಮನಸಾ ಸಂನ್ಯಸ್ಯಾಸ್ತೇ ಸುಖಂ ವಶೀ |\nನವದ್ವಾರೇ ಪುರೇ ದೇಹೀ ನೈವ ಕುರ್ವನ್ನ ಕಾರಯನ್ ||೫-೧೩||"
+    },
+    "life_application": {
+        "hi": "अपनी आंतरिक जागरूकता में शांति से आराम करें, यह महसूस करें कि आपका सच्चा स्व आपके भौतिक शरीर के भीतर शांत गवाह है।",
+        "en": "Rest peacefully in your inner awareness, realizing your true self is the quiet witness within your physical body.",
+        "be": "আপনার অভ্যন্তরীণ সচেতনতায় শান্তিপূর্ণভাবে বিশ্রাম নিন, আপনার প্রকৃত আত্মকে উপলব্ধি করা আপনার শারীরিক শরীরের মধ্যে শান্ত সাক্ষী।",
+        "ka": "ನಿಮ್ಮ ಆಂತರಿಕ ಅರಿವಿನಲ್ಲಿ ಶಾಂತಿಯುತವಾಗಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯಿರಿ, ನಿಮ್ಮ ನಿಜವಾದ ಆತ್ಮವನ್ನು ಅರಿತುಕೊಳ್ಳುವುದು ನಿಮ್ಮ ಭೌತಿಕ ದೇಹದಲ್ಲಿ ಶಾಂತ ಸಾಕ್ಷಿಯಾಗಿದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वकर्माणि",
-            "transliteration": "sarvakarmāṇi",
-            "meaning": "sarvakarmāṇi"
+            "transliteration": {
+                "hi": "सर्वकर्माणि",
+                "en": "sarvakarmāṇi",
+                "be": "সর্বকর্মাণি",
+                "ka": "ಸರ್ವಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सर्वकर्माणि",
+                "en": "sarvakarmāṇi",
+                "be": "সর্বকর্মাণী",
+                "ka": "ಸರ್ವಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "मनसा",
-            "transliteration": "manasā",
-            "meaning": "by the mind"
+            "transliteration": {
+                "hi": "मनसा",
+                "en": "manasā",
+                "be": "মনসা",
+                "ka": "ಮನಸಾ"
+            },
+            "meaning": {
+                "hi": "मन से",
+                "en": "by the mind",
+                "be": "মনের দ্বারা",
+                "ka": "ಮನಸ್ಸಿನಿಂದ"
+            }
         },
         {
             "sanskrit": "संन्यस्यास्ते",
-            "transliteration": "saṃnyasyāste",
-            "meaning": "saṃnyasyāste"
+            "transliteration": {
+                "hi": "संन्यस्यास्ते",
+                "en": "saṃnyasyāste",
+                "be": "সংন্যস্যাস্তে",
+                "ka": "ಸಂನ್ಯಸ್ಯಾಸ್ತೇ"
+            },
+            "meaning": {
+                "hi": "संन्यासस्ते",
+                "en": "saṃnyasyāste",
+                "be": "সন্ন্যাসস্তে",
+                "ka": "ಸಂನ್ಯಾಸ್ಯಾಸ್ತೇ"
+            }
         },
         {
             "sanskrit": "सुखं",
-            "transliteration": "sukhaṃ",
-            "meaning": "sukhaṃ"
+            "transliteration": {
+                "hi": "सुखं",
+                "en": "sukhaṃ",
+                "be": "সুখং",
+                "ka": "ಸುಖಂ"
+            },
+            "meaning": {
+                "hi": "सुखं",
+                "en": "sukhaṃ",
+                "be": "সুখ",
+                "ka": "ಸುಖಂ"
+            }
         },
         {
             "sanskrit": "वशी",
-            "transliteration": "vaśī",
-            "meaning": "vaśī"
+            "transliteration": {
+                "hi": "वशी",
+                "en": "vaśī",
+                "be": "বশী",
+                "ka": "ವಶೀ"
+            },
+            "meaning": {
+                "hi": "वासी",
+                "en": "vaśī",
+                "be": "vashi",
+                "ka": "ವಾಸಿ"
+            }
         },
         {
             "sanskrit": "नवद्वारे",
-            "transliteration": "navadvāre",
-            "meaning": "navadvāre"
+            "transliteration": {
+                "hi": "नवद्वारे",
+                "en": "navadvāre",
+                "be": "নবদ্বারে",
+                "ka": "ನವದ್ವಾರೇ"
+            },
+            "meaning": {
+                "hi": "नवादा",
+                "en": "navadvāre",
+                "be": "নবদ্বারে",
+                "ka": "ನವದ್ವಾರ"
+            }
         },
         {
             "sanskrit": "पुरे",
-            "transliteration": "pure",
-            "meaning": "pure"
+            "transliteration": {
+                "hi": "पुरे",
+                "en": "pure",
+                "be": "পুরে",
+                "ka": "ಪುರೇ"
+            },
+            "meaning": {
+                "hi": "शुद्ध",
+                "en": "pure",
+                "be": "বিশুদ্ধ",
+                "ka": "ಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "देही",
-            "transliteration": "dehī",
-            "meaning": "the embodied soul"
+            "transliteration": {
+                "hi": "देही",
+                "en": "dehī",
+                "be": "দেহী",
+                "ka": "ದೇಹೀ"
+            },
+            "meaning": {
+                "hi": "अवतरित आत्मा",
+                "en": "the embodied soul",
+                "be": "মূর্ত আত্মা",
+                "ka": "ಸಾಕಾರಗೊಂಡ ಆತ್ಮ"
+            }
         },
         {
             "sanskrit": "नैव",
-            "transliteration": "naiva",
-            "meaning": "naiva"
+            "transliteration": {
+                "hi": "नैव",
+                "en": "naiva",
+                "be": "নৈব",
+                "ka": "ನೈವ"
+            },
+            "meaning": {
+                "hi": "नैवा",
+                "en": "naiva",
+                "be": "নাইভা",
+                "ka": "ನೈವಾ"
+            }
         },
         {
             "sanskrit": "कुर्वन्न",
-            "transliteration": "kurvanna",
-            "meaning": "kurvanna"
+            "transliteration": {
+                "hi": "कुर्वन्न",
+                "en": "kurvanna",
+                "be": "কুর্বন্ন",
+                "ka": "ಕುರ್ವನ್ನ"
+            },
+            "meaning": {
+                "hi": "कुर्वन्ना",
+                "en": "kurvanna",
+                "be": "কুরভান্না",
+                "ka": "ಕುರ್ವಣ್ಣ"
+            }
         },
         {
             "sanskrit": "कारयन्",
-            "transliteration": "kārayan",
-            "meaning": "kārayan"
+            "transliteration": {
+                "hi": "कारयन्",
+                "en": "kārayan",
+                "be": "কারযন্",
+                "ka": "ಕಾರಯನ್"
+            },
+            "meaning": {
+                "hi": "करायण",
+                "en": "kārayan",
+                "be": "কারায়ণ",
+                "ka": "ಕಾರಯನ್"
+            }
         }
     ],
     "tej": {

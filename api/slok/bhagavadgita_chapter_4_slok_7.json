@@ -14,8 +14,18 @@
         "en": "yadā yadā hi dharmasya glānirbhavati bhārata .\nabhyutthānamadharmasya tadātmānaṃ sṛjāmyaham ||4-7||",
         "ka": "ಯದಾ ಯದಾ ಹಿ ಧರ್ಮಸ್ಯ ಗ್ಲಾನಿರ್ಭವತಿ ಭಾರತ |\nಅಭ್ಯುತ್ಥಾನಮಧರ್ಮಸ್ಯ ತದಾತ್ಮಾನಂ ಸೃಜಾಮ್ಯಹಮ್ ||೪-೭||"
     },
-    "transliteration": "yadā yadā hi dharmasya glānirbhavati bhārata .\nabhyutthānamadharmasya tadātmānaṃ sṛjāmyaham ||4-7||",
-    "life_application": "Stand up for fairness and integrity when moral standards decline in your surrounding environment.",
+    "transliteration": {
+        "hi": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत |\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ||४-७||",
+        "en": "yadā yadā hi dharmasya glānirbhavati bhārata .\nabhyutthānamadharmasya tadātmānaṃ sṛjāmyaham ||4-7||",
+        "be": "যদা যদা হি ধর্মস্য গ্লানির্ভবতি ভারত |\nঅভ্যুত্থানমধর্মস্য তদাত্মানং সৃজাম্যহম্ ||৪-৭||",
+        "ka": "ಯದಾ ಯದಾ ಹಿ ಧರ್ಮಸ್ಯ ಗ್ಲಾನಿರ್ಭವತಿ ಭಾರತ |\nಅಭ್ಯುತ್ಥಾನಮಧರ್ಮಸ್ಯ ತದಾತ್ಮಾನಂ ಸೃಜಾಮ್ಯಹಮ್ ||೪-೭||"
+    },
+    "life_application": {
+        "hi": "जब आपके आस-पास के वातावरण में नैतिक मानकों में गिरावट हो तो निष्पक्षता और सत्यनिष्ठा के लिए खड़े हों।",
+        "en": "Stand up for fairness and integrity when moral standards decline in your surrounding environment.",
+        "be": "আপনার আশেপাশের পরিবেশে নৈতিক মান হ্রাস পেলে ন্যায্যতা এবং সততার জন্য দাঁড়ান।",
+        "ka": "ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪರಿಸರದಲ್ಲಿ ನೈತಿಕ ಮಾನದಂಡಗಳು ಕುಸಿದಾಗ ನ್ಯಾಯಸಮ್ಮತತೆ ಮತ್ತು ಸಮಗ್ರತೆಗಾಗಿ ನಿಲ್ಲಿರಿ."
+    },
     "themes": [
         "Dharma",
         "Leadership"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "धर्मस्य",
-            "transliteration": "dharmasya",
-            "meaning": "dharmasya"
+            "transliteration": {
+                "hi": "धर्मस्य",
+                "en": "dharmasya",
+                "be": "ধর্মস্য",
+                "ka": "ಧರ್ಮಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "धर्मस्य",
+                "en": "dharmasya",
+                "be": "ধর্মস্য",
+                "ka": "ಧರ್ಮಸ್ಯ"
+            }
         },
         {
             "sanskrit": "ग्लानिर्भवति",
-            "transliteration": "glānirbhavati",
-            "meaning": "glānirbhavati"
+            "transliteration": {
+                "hi": "ग्लानिर्भवति",
+                "en": "glānirbhavati",
+                "be": "গ্লানির্ভবতি",
+                "ka": "ಗ್ಲಾನಿರ್ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "ग्लानिर्भवति",
+                "en": "glānirbhavati",
+                "be": "glānirbhavati",
+                "ka": "ಗ್ಲಾನಿರ್ಭವತಿ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         },
         {
             "sanskrit": "अभ्युत्थानमधर्मस्य",
-            "transliteration": "abhyutthānamadharmasya",
-            "meaning": "abhyutthānamadharmasya"
+            "transliteration": {
+                "hi": "अभ्युत्थानमधर्मस्य",
+                "en": "abhyutthānamadharmasya",
+                "be": "অভ্যুত্থানমধর্মস্য",
+                "ka": "ಅಭ್ಯುತ್ಥಾನಮಧರ್ಮಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अभ्युत्थानमधर्मस्य",
+                "en": "abhyutthānamadharmasya",
+                "be": "অভ্যুত্থানামধর্মস্য",
+                "ka": "ಅಭ್ಯುತ್ಥಾನಮಧರ್ಮಸ್ಯ"
+            }
         },
         {
             "sanskrit": "तदात्मानं",
-            "transliteration": "tadātmānaṃ",
-            "meaning": "tadātmānaṃ"
+            "transliteration": {
+                "hi": "तदात्मानं",
+                "en": "tadātmānaṃ",
+                "be": "তদাত্মানং",
+                "ka": "ತದಾತ್ಮಾನಂ"
+            },
+            "meaning": {
+                "hi": "तदात्मनम्",
+                "en": "tadātmānaṃ",
+                "be": "tadātmanānaṃ",
+                "ka": "ತದಾತ್ಮನಂ"
+            }
         },
         {
             "sanskrit": "सृजाम्यहम्",
-            "transliteration": "sṛjāmyaham",
-            "meaning": "sṛjāmyaham"
+            "transliteration": {
+                "hi": "सृजाम्यहम्",
+                "en": "sṛjāmyaham",
+                "be": "সৃজাম্যহম্",
+                "ka": "ಸೃಜಾಮ್ಯಹಮ್"
+            },
+            "meaning": {
+                "hi": "सृजाम्यहम्",
+                "en": "sṛjāmyaham",
+                "be": "sṛjāmyaham",
+                "ka": "ಸೃಜಾಮ್ಯಹಂ"
+            }
         }
     ],
     "tej": {

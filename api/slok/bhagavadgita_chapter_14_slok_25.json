@@ -14,8 +14,18 @@
         "en": "mānāpamānayostulyastulyo mitrāripakṣayoḥ .\nsarvārambhaparityāgī guṇātītaḥ sa ucyate ||14-25||",
         "ka": "ಮಾನಾಪಮಾನಯೋಸ್ತುಲ್ಯಸ್ತುಲ್ಯೋ ಮಿತ್ರಾರಿಪಕ್ಷಯೋಃ |\nಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ ಗುಣಾತೀತಃ ಸ ಉಚ್ಯತೇ ||೧೪-೨೫||"
     },
-    "transliteration": "mānāpamānayostulyastulyo mitrāripakṣayoḥ .\nsarvārambhaparityāgī guṇātītaḥ sa ucyate ||14-25||",
-    "life_application": "Same in honor and dishonor, same to friend and foe, abandoning all selfish undertakings—he is said to transcend modes.",
+    "transliteration": {
+        "hi": "मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः |\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते ||१४-२५||",
+        "en": "mānāpamānayostulyastulyo mitrāripakṣayoḥ .\nsarvārambhaparityāgī guṇātītaḥ sa ucyate ||14-25||",
+        "be": "মানাপমানযোস্তুল্যস্তুল্যো মিত্রারিপক্ষযোঃ |\nসর্বারম্ভপরিত্যাগী গুণাতীতঃ স উচ্যতে ||১৪-২৫||",
+        "ka": "ಮಾನಾಪಮಾನಯೋಸ್ತುಲ್ಯಸ್ತುಲ್ಯೋ ಮಿತ್ರಾರಿಪಕ್ಷಯೋಃ |\nಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ ಗುಣಾತೀತಃ ಸ ಉಚ್ಯತೇ ||೧೪-೨೫||"
+    },
+    "life_application": {
+        "hi": "मान और अपमान में समान, मित्र और शत्रु में समान, सभी स्वार्थी उपक्रमों को त्यागकर - वह गुणों से परे कहा जाता है।",
+        "en": "Same in honor and dishonor, same to friend and foe, abandoning all selfish undertakings—he is said to transcend modes.",
+        "be": "সম্মান এবং অসম্মান একই, বন্ধু এবং শত্রু একই, সমস্ত স্বার্থপর উদ্যোগ পরিত্যাগ - তিনি মোড অতিক্রম করতে বলা হয়.",
+        "ka": "ಗೌರವ ಮತ್ತು ಅವಮಾನದಲ್ಲಿ ಒಂದೇ, ಸ್ನೇಹಿತ ಮತ್ತು ಶತ್ರುಗಳಿಗೆ ಒಂದೇ, ಎಲ್ಲಾ ಸ್ವಾರ್ಥಿ ಕಾರ್ಯಗಳನ್ನು ತ್ಯಜಿಸುವುದು - ಅವನು ವಿಧಾನಗಳನ್ನು ಮೀರುತ್ತಾನೆ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Equanimity",
         "Detachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "मानापमानयोः",
-            "transliteration": "mānāpamānayoḥ",
-            "meaning": "in honour and dishonour"
+            "transliteration": {
+                "hi": "मानापमानयोः",
+                "en": "mānāpamānayoḥ",
+                "be": "মানাপমানযোঃ",
+                "ka": "ಮಾನಾಪಮಾನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सम्मान और अपमान में",
+                "en": "in honour and dishonour",
+                "be": "সম্মান এবং অসম্মানে",
+                "ka": "ಗೌರವ ಮತ್ತು ಅವಮಾನದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तुल्यः",
-            "transliteration": "tulyaḥ",
-            "meaning": "the same"
+            "transliteration": {
+                "hi": "तुल्यः",
+                "en": "tulyaḥ",
+                "be": "তুল্যঃ",
+                "ka": "ತುಲ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "वही",
+                "en": "the same",
+                "be": "একই",
+                "ka": "ಅದೇ"
+            }
         },
         {
             "sanskrit": "तुल्यः",
-            "transliteration": "tulyaḥ",
-            "meaning": "the same"
+            "transliteration": {
+                "hi": "तुल्यः",
+                "en": "tulyaḥ",
+                "be": "তুল্যঃ",
+                "ka": "ತುಲ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "वही",
+                "en": "the same",
+                "be": "একই",
+                "ka": "ಅದೇ"
+            }
         },
         {
             "sanskrit": "मित्रारिपक्षयोः",
-            "transliteration": "mitrāripakṣayoḥ",
-            "meaning": "to friend and foe"
+            "transliteration": {
+                "hi": "मित्रारिपक्षयोः",
+                "en": "mitrāripakṣayoḥ",
+                "be": "মিত্রারিপক্ষযোঃ",
+                "ka": "ಮಿತ್ರಾರಿಪಕ್ಷಯೋಃ"
+            },
+            "meaning": {
+                "hi": "दोस्त और दुश्मन के लिए",
+                "en": "to friend and foe",
+                "be": "বন্ধু এবং শত্রুর কাছে",
+                "ka": "ಸ್ನೇಹಿತ ಮತ್ತು ಶತ್ರುಗಳಿಗೆ"
+            }
         },
         {
             "sanskrit": "सर्वारम्भपरित्यागी",
-            "transliteration": "sarvārambhaparityāgī",
-            "meaning": "abandoning all undertakings"
+            "transliteration": {
+                "hi": "सर्वारम्भपरित्यागी",
+                "en": "sarvārambhaparityāgī",
+                "be": "সর্বারম্ভপরিত্যাগী",
+                "ka": "ಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ"
+            },
+            "meaning": {
+                "hi": "सभी उपक्रमों को त्यागना",
+                "en": "abandoning all undertakings",
+                "be": "সমস্ত উদ্যোগ পরিত্যাগ করা",
+                "ka": "ಎಲ್ಲಾ ಕಾರ್ಯಗಳನ್ನು ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "गुणातीतः",
-            "transliteration": "guṇātītaḥ",
-            "meaning": "crossed the Gunas"
+            "transliteration": {
+                "hi": "गुणातीतः",
+                "en": "guṇātītaḥ",
+                "be": "গুণাতীতঃ",
+                "ka": "ಗುಣಾತೀತಃ"
+            },
+            "meaning": {
+                "hi": "गुणों को पार कर लिया",
+                "en": "crossed the Gunas",
+                "be": "গুনাস অতিক্রম করেছে",
+                "ka": "ಗುಣಗಳನ್ನು ದಾಟಿದರು"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is said."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है कि।",
+                "en": "is said.",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

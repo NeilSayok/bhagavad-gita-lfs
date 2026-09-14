@@ -14,8 +14,18 @@
         "en": "udāsīnavadāsīno guṇairyo na vicālyate .\nguṇā vartanta ityevaṃ yo.avatiṣṭhati neṅgate ||14-23||",
         "ka": "ಉದಾಸೀನವದಾಸೀನೋ ಗುಣೈರ್ಯೋ ನ ವಿಚಾಲ್ಯತೇ |\nಗುಣಾ ವರ್ತನ್ತ ಇತ್ಯೇವಂ ಯೋಽವತಿಷ್ಠತಿ ನೇಙ್ಗತೇ ||೧೪-೨೩||"
     },
-    "transliteration": "udāsīnavadāsīno guṇairyo na vicālyate .\nguṇā vartanta ityevaṃ yo.avatiṣṭhati neṅgate ||14-23||",
-    "life_application": "He who sits like one unconcerned, unmoved by modes, knowing 'modes operate,' remains firm and wavers not...",
+    "transliteration": {
+        "hi": "उदासीनवदासीनो गुणैर्यो न विचाल्यते |\nगुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||",
+        "en": "udāsīnavadāsīno guṇairyo na vicālyate .\nguṇā vartanta ityevaṃ yo.avatiṣṭhati neṅgate ||14-23||",
+        "be": "উদাসীনবদাসীনো গুণৈর্যো ন বিচাল্যতে |\nগুণা বর্তন্ত ইত্যেবং যোঽবতিষ্ঠতি নেঙ্গতে ||১৪-২৩||",
+        "ka": "ಉದಾಸೀನವದಾಸೀನೋ ಗುಣೈರ್ಯೋ ನ ವಿಚಾಲ್ಯತೇ |\nಗುಣಾ ವರ್ತನ್ತ ಇತ್ಯೇವಂ ಯೋಽವತಿಷ್ಠತಿ ನೇಙ್ಗತೇ ||೧೪-೨೩||"
+    },
+    "life_application": {
+        "hi": "वह जो 'मोड संचालित होते हैं' जानते हुए भी, मोड से प्रभावित हुए बिना, बेपरवाह की तरह बैठता है, वह दृढ़ रहता है और डगमगाता नहीं है...",
+        "en": "He who sits like one unconcerned, unmoved by modes, knowing 'modes operate,' remains firm and wavers not...",
+        "be": "যে একজন উদ্বিগ্ন, মোড দ্বারা অচলের মতো বসে থাকে, 'মোডগুলি কাজ করে' জেনেও দৃঢ় থাকে এবং টলতে পারে না...",
+        "ka": "\"ವಿಧಾನಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ\" ಎಂದು ತಿಳಿದಿರುವ ಮೋಡ್‌ಗಳಿಂದ ಕದಲದೆ, ಕಾಳಜಿಯಿಲ್ಲದವರಂತೆ ಕುಳಿತುಕೊಳ್ಳುವವನು ದೃಢವಾಗಿ ಉಳಿಯುತ್ತಾನೆ ಮತ್ತು ಅಲ್ಲಾಡುವುದಿಲ್ಲ ..."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "उदासीनवत्",
-            "transliteration": "udāsīnavat",
-            "meaning": "like one unconcerned"
+            "transliteration": {
+                "hi": "उदासीनवत्",
+                "en": "udāsīnavat",
+                "be": "উদাসীনবত্",
+                "ka": "ಉದಾಸೀನವತ್"
+            },
+            "meaning": {
+                "hi": "एक बेपरवाह की तरह",
+                "en": "like one unconcerned",
+                "be": "একজন উদ্বিগ্ন মত",
+                "ka": "ಕಾಳಜಿಯಿಲ್ಲದವನಂತೆ"
+            }
         },
         {
             "sanskrit": "आसीनः",
-            "transliteration": "āsīnaḥ",
-            "meaning": "seated"
+            "transliteration": {
+                "hi": "आसीनः",
+                "en": "āsīnaḥ",
+                "be": "আসীনঃ",
+                "ka": "ಆಸೀನಃ"
+            },
+            "meaning": {
+                "hi": "बैठा हुआ",
+                "en": "seated",
+                "be": "উপবিষ্ট",
+                "ka": "ಕುಳಿತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "गुणैः",
-            "transliteration": "guṇaiḥ",
-            "meaning": "by the Gunas"
+            "transliteration": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুণৈঃ",
+                "ka": "ಗುಣೈಃ"
+            },
+            "meaning": {
+                "hi": "गुणों द्वारा",
+                "en": "by the Gunas",
+                "be": "গুণের দ্বারা",
+                "ka": "ಗುಣಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विचाल्यते",
-            "transliteration": "vicālyate",
-            "meaning": "is moved"
+            "transliteration": {
+                "hi": "विचाल्यते",
+                "en": "vicālyate",
+                "be": "বিচাল্যতে",
+                "ka": "ವಿಚಾಲ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "स्थानांतरित कर दिया गया है",
+                "en": "is moved",
+                "be": "সরানো হয়",
+                "ka": "ಸ್ಥಳಾಂತರಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "गुणाः",
-            "transliteration": "guṇāḥ",
-            "meaning": "the Gunas"
+            "transliteration": {
+                "hi": "गुणाः",
+                "en": "guṇāḥ",
+                "be": "গুণাঃ",
+                "ka": "ಗುಣಾಃ"
+            },
+            "meaning": {
+                "hi": "गुण",
+                "en": "the Gunas",
+                "be": "গান",
+                "ka": "ಗುಣಗಳು"
+            }
         },
         {
             "sanskrit": "वर्तन्ते",
-            "transliteration": "vartante",
-            "meaning": "operate"
+            "transliteration": {
+                "hi": "वर्तन्ते",
+                "en": "vartante",
+                "be": "বর্তন্তে",
+                "ka": "ವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "संचालन",
+                "en": "operate",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "अवतिष्ठति",
-            "transliteration": "avatiṣṭhati",
-            "meaning": "is selfcentred"
+            "transliteration": {
+                "hi": "अवतिष्ठति",
+                "en": "avatiṣṭhati",
+                "be": "অবতিষ্ঠতি",
+                "ka": "ಅವತಿಷ್ಠತಿ"
+            },
+            "meaning": {
+                "hi": "आत्मकेन्द्रित है",
+                "en": "is selfcentred",
+                "be": "আত্মকেন্দ্রিক",
+                "ka": "ಸ್ವಕೇಂದ್ರಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "इङ्गते",
-            "transliteration": "iṅgate",
-            "meaning": "moves."
+            "transliteration": {
+                "hi": "इङ्गते",
+                "en": "iṅgate",
+                "be": "ইঙ্গতে",
+                "ka": "ಇಙ್ಗತೇ"
+            },
+            "meaning": {
+                "hi": "चलता है.",
+                "en": "moves.",
+                "be": "চলে",
+                "ka": "ಚಲಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

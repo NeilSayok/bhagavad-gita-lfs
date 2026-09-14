@@ -14,8 +14,18 @@
         "en": "sattvātsañjāyate jñānaṃ rajaso lobha eva ca .\npramādamohau tamaso bhavato.ajñānameva ca ||14-17||",
         "ka": "ಸತ್ತ್ವಾತ್ಸಞ್ಜಾಯತೇ ಜ್ಞಾನಂ ರಜಸೋ ಲೋಭ ಏವ ಚ |\nಪ್ರಮಾದಮೋಹೌ ತಮಸೋ ಭವತೋಽಜ್ಞಾನಮೇವ ಚ ||೧೪-೧೭||"
     },
-    "transliteration": "sattvātsañjāyate jñānaṃ rajaso lobha eva ca .\npramādamohau tamaso bhavato.ajñānameva ca ||14-17||",
-    "life_application": "From goodness arises wisdom; from passion arises greed; from ignorance arise heedlessness, delusion, and blindness.",
+    "transliteration": {
+        "hi": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||१४-१७||",
+        "en": "sattvātsañjāyate jñānaṃ rajaso lobha eva ca .\npramādamohau tamaso bhavato.ajñānameva ca ||14-17||",
+        "be": "সত্ত্বাত্সঞ্জাযতে জ্ঞানং রজসো লোভ এব চ |\nপ্রমাদমোহৌ তমসো ভবতোঽজ্ঞানমেব চ ||১৪-১৭||",
+        "ka": "ಸತ್ತ್ವಾತ್ಸಞ್ಜಾಯತೇ ಜ್ಞಾನಂ ರಜಸೋ ಲೋಭ ಏವ ಚ |\nಪ್ರಮಾದಮೋಹೌ ತಮಸೋ ಭವತೋಽಜ್ಞಾನಮೇವ ಚ ||೧೪-೧೭||"
+    },
+    "life_application": {
+        "hi": "अच्छाई से ज्ञान उत्पन्न होता है; जुनून से लालच पैदा होता है; अज्ञान से असावधानी, भ्रम और अंधापन उत्पन्न होता है।",
+        "en": "From goodness arises wisdom; from passion arises greed; from ignorance arise heedlessness, delusion, and blindness.",
+        "be": "মঙ্গল থেকে প্রজ্ঞা জন্মে; আবেগ থেকে লোভ উৎপন্ন হয়; অজ্ঞতা থেকে উদাসীনতা, ভ্রম এবং অন্ধত্বের উদ্ভব হয়।",
+        "ka": "ಒಳ್ಳೆಯತನದಿಂದ ಬುದ್ಧಿವಂತಿಕೆ ಉಂಟಾಗುತ್ತದೆ; ಉತ್ಸಾಹದಿಂದ ದುರಾಶೆ ಉಂಟಾಗುತ್ತದೆ; ಅಜ್ಞಾನದಿಂದ ಅಜಾಗರೂಕತೆ, ಭ್ರಮೆ ಮತ್ತು ಕುರುಡುತನ ಉಂಟಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Attachment"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सत्त्वात्",
-            "transliteration": "sattvāt",
-            "meaning": "from purity"
+            "transliteration": {
+                "hi": "सत्त्वात्",
+                "en": "sattvāt",
+                "be": "সত্ত্বাত্",
+                "ka": "ಸತ್ತ್ವಾತ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता से",
+                "en": "from purity",
+                "be": "বিশুদ্ধতা থেকে",
+                "ka": "ಶುದ್ಧತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "सञ्जायते",
-            "transliteration": "sañjāyate",
-            "meaning": "arises"
+            "transliteration": {
+                "hi": "सञ्जायते",
+                "en": "sañjāyate",
+                "be": "সঞ্জাযতে",
+                "ka": "ಸಞ್ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "उठता है",
+                "en": "arises",
+                "be": "উদিত হয়",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "रजसः",
-            "transliteration": "rajasaḥ",
-            "meaning": "from activity"
+            "transliteration": {
+                "hi": "रजसः",
+                "en": "rajasaḥ",
+                "be": "রজসঃ",
+                "ka": "ರಜಸಃ"
+            },
+            "meaning": {
+                "hi": "गतिविधि से",
+                "en": "from activity",
+                "be": "কার্যকলাপ থেকে",
+                "ka": "ಚಟುವಟಿಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "लोभः",
-            "transliteration": "lobhaḥ",
-            "meaning": "greed"
+            "transliteration": {
+                "hi": "लोभः",
+                "en": "lobhaḥ",
+                "be": "লোভঃ",
+                "ka": "ಲೋಭಃ"
+            },
+            "meaning": {
+                "hi": "लालच",
+                "en": "greed",
+                "be": "লোভ",
+                "ka": "ದುರಾಸೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रमादमोहौ",
-            "transliteration": "pramādamohau",
-            "meaning": "heedlessness and delusion"
+            "transliteration": {
+                "hi": "प्रमादमोहौ",
+                "en": "pramādamohau",
+                "be": "প্রমাদমোহৌ",
+                "ka": "ಪ್ರಮಾದಮೋಹೌ"
+            },
+            "meaning": {
+                "hi": "लापरवाही और भ्रम",
+                "en": "heedlessness and delusion",
+                "be": "উদাসীনতা এবং বিভ্রম",
+                "ka": "ಅಜಾಗರೂಕತೆ ಮತ್ತು ಭ್ರಮೆ"
+            }
         },
         {
             "sanskrit": "तमसः",
-            "transliteration": "tamasaḥ",
-            "meaning": "from inertia"
+            "transliteration": {
+                "hi": "तमसः",
+                "en": "tamasaḥ",
+                "be": "তমসঃ",
+                "ka": "ತಮಸಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता से",
+                "en": "from inertia",
+                "be": "জড়তা থেকে",
+                "ka": "ಜಡತ್ವದಿಂದ"
+            }
         },
         {
             "sanskrit": "अज्ञानम्",
-            "transliteration": "ajñānam",
-            "meaning": "ignorance"
+            "transliteration": {
+                "hi": "अज्ञानम्",
+                "en": "ajñānam",
+                "be": "অজ্ঞানম্",
+                "ka": "ಅಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "अज्ञान",
+                "en": "ignorance",
+                "be": "অজ্ঞতা",
+                "ka": "ಅಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

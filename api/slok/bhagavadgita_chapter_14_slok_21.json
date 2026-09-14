@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nkairliṅgaistrīnguṇānetānatīto bhavati prabho .\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate ||14-21||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕೈರ್ಲಿಙ್ಗೈಸ್ತ್ರೀನ್ಗುಣಾನೇತಾನತೀತೋ ಭವತಿ ಪ್ರಭೋ |\nಕಿಮಾಚಾರಃ ಕಥಂ ಚೈತಾಂಸ್ತ್ರೀನ್ಗುಣಾನತಿವರ್ತತೇ ||೧೪-೨೧||"
     },
-    "transliteration": "arjuna uvāca .\nkairliṅgaistrīnguṇānetānatīto bhavati prabho .\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate ||14-21||",
-    "life_application": "Inquire by what marks one who has transcended the three modes is known, his conduct, and how he rises above them.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nकैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो |\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ||१४-२१||",
+        "en": "arjuna uvāca .\nkairliṅgaistrīnguṇānetānatīto bhavati prabho .\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate ||14-21||",
+        "be": "অর্জুন উবাচ |\nকৈর্লিঙ্গৈস্ত্রীন্গুণানেতানতীতো ভবতি প্রভো |\nকিমাচারঃ কথং চৈতাংস্ত্রীন্গুণানতিবর্ততে ||১৪-২১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕೈರ್ಲಿಙ್ಗೈಸ್ತ್ರೀನ್ಗುಣಾನೇತಾನತೀತೋ ಭವತಿ ಪ್ರಭೋ |\nಕಿಮಾಚಾರಃ ಕಥಂ ಚೈತಾಂಸ್ತ್ರೀನ್ಗುಣಾನತಿವರ್ತತೇ ||೧೪-೨೧||"
+    },
+    "life_application": {
+        "hi": "पूछताछ करें कि जो व्यक्ति तीनों गुणों को पार कर चुका है, वह किन लक्षणों से जाना जाता है, उसका आचरण क्या है, और वह उनसे कैसे ऊपर उठता है।",
+        "en": "Inquire by what marks one who has transcended the three modes is known, his conduct, and how he rises above them.",
+        "be": "যে তিনটি মোড অতিক্রম করেছে তাকে কী চিহ্ন দ্বারা জিজ্ঞাসা করা হয়, তার আচার-আচরণ এবং কীভাবে সে তাদের উপরে উঠে যায়।",
+        "ka": "ಮೂರು ವಿಧಾನಗಳನ್ನು ಮೀರಿದವನು ಯಾವ ಅಂಕಗಳಿಂದ ತಿಳಿಯಲ್ಪಟ್ಟಿದ್ದಾನೆ, ಅವನ ನಡವಳಿಕೆ ಮತ್ತು ಅವನು ಹೇಗೆ ಮೇಲೇರುತ್ತಾನೆ ಎಂದು ವಿಚಾರಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Equanimity"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "कैः",
-            "transliteration": "kaiḥ",
-            "meaning": "by what"
+            "transliteration": {
+                "hi": "कैः",
+                "en": "kaiḥ",
+                "be": "কৈঃ",
+                "ka": "ಕೈಃ"
+            },
+            "meaning": {
+                "hi": "किससे",
+                "en": "by what",
+                "be": "কি দ্বারা",
+                "ka": "ಯಾವುದರಿಂದ"
+            }
         },
         {
             "sanskrit": "लिंगैः",
-            "transliteration": "liṃgaiḥ",
-            "meaning": "by marks"
+            "transliteration": {
+                "hi": "लिंगैः",
+                "en": "liṃgaiḥ",
+                "be": "লিংগৈঃ",
+                "ka": "ಲಿಂಗೈಃ"
+            },
+            "meaning": {
+                "hi": "निशानों से",
+                "en": "by marks",
+                "be": "চিহ্ন দ্বারা",
+                "ka": "ಅಂಕಗಳ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "त्रीन्",
-            "transliteration": "trīn",
-            "meaning": "three"
+            "transliteration": {
+                "hi": "त्रीन्",
+                "en": "trīn",
+                "be": "ত্রীন্",
+                "ka": "ತ್ರೀನ್"
+            },
+            "meaning": {
+                "hi": "तीन",
+                "en": "three",
+                "be": "তিন",
+                "ka": "ಮೂರು"
+            }
         },
         {
             "sanskrit": "गुणान्",
-            "transliteration": "guṇān",
-            "meaning": "Gunas"
+            "transliteration": {
+                "hi": "गुणान्",
+                "en": "guṇān",
+                "be": "গুণান্",
+                "ka": "ಗುಣಾನ್"
+            },
+            "meaning": {
+                "hi": "गुनास",
+                "en": "Gunas",
+                "be": "গুনাস",
+                "ka": "ಗುಣಗಳು"
+            }
         },
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "अतीतः",
-            "transliteration": "atītaḥ",
-            "meaning": "crossed"
+            "transliteration": {
+                "hi": "अतीतः",
+                "en": "atītaḥ",
+                "be": "অতীতঃ",
+                "ka": "ಅತೀತಃ"
+            },
+            "meaning": {
+                "hi": "पार कर गया",
+                "en": "crossed",
+                "be": "অতিক্রম করা",
+                "ka": "ದಾಟಿದೆ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "becomes"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "बन जाता है",
+                "en": "becomes",
+                "be": "হয়ে যায়",
+                "ka": "ಆಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "प्रभो",
-            "transliteration": "prabho",
-            "meaning": "O Lord"
+            "transliteration": {
+                "hi": "प्रभो",
+                "en": "prabho",
+                "be": "প্রভো",
+                "ka": "ಪ್ರಭೋ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O Lord",
+                "be": "হে প্রভু",
+                "ka": "ಓ ಕರ್ತನೇ"
+            }
         },
         {
             "sanskrit": "किमाचारः",
-            "transliteration": "kimācāraḥ",
-            "meaning": "what conduct"
+            "transliteration": {
+                "hi": "किमाचारः",
+                "en": "kimācāraḥ",
+                "be": "কিমাচারঃ",
+                "ka": "ಕಿಮಾಚಾರಃ"
+            },
+            "meaning": {
+                "hi": "कैसा आचरण",
+                "en": "what conduct",
+                "be": "কি আচরণ",
+                "ka": "ಯಾವ ನಡವಳಿಕೆ"
+            }
         },
         {
             "sanskrit": "कथम्",
-            "transliteration": "katham",
-            "meaning": "how"
+            "transliteration": {
+                "hi": "कथम्",
+                "en": "katham",
+                "be": "কথম্",
+                "ka": "ಕಥಮ್"
+            },
+            "meaning": {
+                "hi": "कैसे",
+                "en": "how",
+                "be": "কিভাবে",
+                "ka": "ಹೇಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "त्रीन्",
-            "transliteration": "trīn",
-            "meaning": "three"
+            "transliteration": {
+                "hi": "त्रीन्",
+                "en": "trīn",
+                "be": "ত্রীন্",
+                "ka": "ತ್ರೀನ್"
+            },
+            "meaning": {
+                "hi": "तीन",
+                "en": "three",
+                "be": "তিন",
+                "ka": "ಮೂರು"
+            }
         },
         {
             "sanskrit": "गुणान्",
-            "transliteration": "guṇān",
-            "meaning": "Gunas"
+            "transliteration": {
+                "hi": "गुणान्",
+                "en": "guṇān",
+                "be": "গুণান্",
+                "ka": "ಗುಣಾನ್"
+            },
+            "meaning": {
+                "hi": "गुनास",
+                "en": "Gunas",
+                "be": "গুনাস",
+                "ka": "ಗುಣಗಳು"
+            }
         },
         {
             "sanskrit": "अतिवर्तते",
-            "transliteration": "ativartate",
-            "meaning": "goes beyond."
+            "transliteration": {
+                "hi": "अतिवर्तते",
+                "en": "ativartate",
+                "be": "অতিবর্ততে",
+                "ka": "ಅತಿವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "परे चला जाता है.",
+                "en": "goes beyond.",
+                "be": "অতিক্রম করে",
+                "ka": "ಮೀರಿ ಹೋಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

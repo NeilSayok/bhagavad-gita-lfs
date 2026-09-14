@@ -14,8 +14,18 @@
         "en": "idaṃ jñānamupāśritya mama sādharmyamāgatāḥ .\nsarge.api nopajāyante pralaye na vyathanti ca ||14-2||",
         "ka": "ಇದಂ ಜ್ಞಾನಮುಪಾಶ್ರಿತ್ಯ ಮಮ ಸಾಧರ್ಮ್ಯಮಾಗತಾಃ |\nಸರ್ಗೇಽಪಿ ನೋಪಜಾಯನ್ತೇ ಪ್ರಲಯೇ ನ ವ್ಯಥನ್ತಿ ಚ ||೧೪-೨||"
     },
-    "transliteration": "idaṃ jñānamupāśritya mama sādharmyamāgatāḥ .\nsarge.api nopajāyante pralaye na vyathanti ca ||14-2||",
-    "life_application": "Take refuge in this wisdom to attain divine nature, neither born at creation nor disturbed at dissolution.",
+    "transliteration": {
+        "hi": "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः |\nसर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||",
+        "en": "idaṃ jñānamupāśritya mama sādharmyamāgatāḥ .\nsarge.api nopajāyante pralaye na vyathanti ca ||14-2||",
+        "be": "ইদং জ্ঞানমুপাশ্রিত্য মম সাধর্ম্যমাগতাঃ |\nসর্গেঽপি নোপজাযন্তে প্রলযে ন ব্যথন্তি চ ||১৪-২||",
+        "ka": "ಇದಂ ಜ್ಞಾನಮುಪಾಶ್ರಿತ್ಯ ಮಮ ಸಾಧರ್ಮ್ಯಮಾಗತಾಃ |\nಸರ್ಗೇಽಪಿ ನೋಪಜಾಯನ್ತೇ ಪ್ರಲಯೇ ನ ವ್ಯಥನ್ತಿ ಚ ||೧೪-೨||"
+    },
+    "life_application": {
+        "hi": "दिव्य प्रकृति को प्राप्त करने के लिए इस ज्ञान का आश्रय लें, जो न सृजन के समय उत्पन्न होता है और न ही प्रलय के समय परेशान होता है।",
+        "en": "Take refuge in this wisdom to attain divine nature, neither born at creation nor disturbed at dissolution.",
+        "be": "ঐশ্বরিক প্রকৃতি লাভের জন্য এই প্রজ্ঞার আশ্রয় নিন, সৃষ্টির সময় জন্মও নয় এবং বিলুপ্তির সময়ও বিচলিত নয়।",
+        "ka": "ಸೃಷ್ಟಿಯಲ್ಲಿ ಜನಿಸದೆ, ವಿಘ್ನಗೊಳ್ಳದೆ, ಪರಮಾತ್ಮನ ಸ್ವರೂಪವನ್ನು ಪಡೆಯಲು ಈ ಜ್ಞಾನವನ್ನು ಆಶ್ರಯಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "उपाश्रित्य",
-            "transliteration": "upāśritya",
-            "meaning": "having taken refuge in"
+            "transliteration": {
+                "hi": "उपाश्रित्य",
+                "en": "upāśritya",
+                "be": "উপাশ্রিত্য",
+                "ka": "ಉಪಾಶ್ರಿತ್ಯ"
+            },
+            "meaning": {
+                "hi": "में शरण ली है",
+                "en": "having taken refuge in",
+                "be": "আশ্রয় নিয়েছে",
+                "ka": "ಆಶ್ರಯ ಪಡೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "साधर्म्यम्",
-            "transliteration": "sādharmyam",
-            "meaning": "unity"
+            "transliteration": {
+                "hi": "साधर्म्यम्",
+                "en": "sādharmyam",
+                "be": "সাধর্ম্যম্",
+                "ka": "ಸಾಧರ್ಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "एकता",
+                "en": "unity",
+                "be": "ঐক্য",
+                "ka": "ಏಕತೆ"
+            }
         },
         {
             "sanskrit": "आगताः",
-            "transliteration": "āgatāḥ",
-            "meaning": "have attained to"
+            "transliteration": {
+                "hi": "आगताः",
+                "en": "āgatāḥ",
+                "be": "আগতাঃ",
+                "ka": "ಆಗತಾಃ"
+            },
+            "meaning": {
+                "hi": "तक पहुंच गए हैं",
+                "en": "have attained to",
+                "be": "অর্জন করেছে",
+                "ka": "ಗೆ ಸಾಧಿಸಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "सर्गे",
-            "transliteration": "sarge",
-            "meaning": "at the time of"
+            "transliteration": {
+                "hi": "सर्गे",
+                "en": "sarge",
+                "be": "সর্গে",
+                "ka": "ಸರ್ಗೇ"
+            },
+            "meaning": {
+                "hi": "के समय",
+                "en": "at the time of",
+                "be": "এর সময়ে",
+                "ka": "ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "उपजायन्ते",
-            "transliteration": "upajāyante",
-            "meaning": "are born"
+            "transliteration": {
+                "hi": "उपजायन्ते",
+                "en": "upajāyante",
+                "be": "উপজাযন্তে",
+                "ka": "ಉಪಜಾಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा होते हैं",
+                "en": "are born",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "प्रलये",
-            "transliteration": "pralaye",
-            "meaning": "at the time of"
+            "transliteration": {
+                "hi": "प्रलये",
+                "en": "pralaye",
+                "be": "প্রলযে",
+                "ka": "ಪ್ರಲಯೇ"
+            },
+            "meaning": {
+                "hi": "के समय",
+                "en": "at the time of",
+                "be": "এর সময়ে",
+                "ka": "ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "व्यथन्ति",
-            "transliteration": "vyathanti",
-            "meaning": "are disturbed"
+            "transliteration": {
+                "hi": "व्यथन्ति",
+                "en": "vyathanti",
+                "be": "ব্যথন্তি",
+                "ka": "ವ್ಯಥನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "परेशान हैं",
+                "en": "are disturbed",
+                "be": "বিরক্ত হয়",
+                "ka": "ತೊಂದರೆಗೊಳಗಾಗಿವೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

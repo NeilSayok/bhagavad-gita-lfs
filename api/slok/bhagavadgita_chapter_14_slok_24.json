@@ -14,8 +14,18 @@
         "en": "samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ .\ntulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ ||14-24||",
         "ka": "ಸಮದುಃಖಸುಖಃ ಸ್ವಸ್ಥಃ ಸಮಲೋಷ್ಟಾಶ್ಮಕಾಞ್ಚನಃ |\nತುಲ್ಯಪ್ರಿಯಾಪ್ರಿಯೋ ಧೀರಸ್ತುಲ್ಯನಿನ್ದಾತ್ಮಸಂಸ್ತುತಿಃ ||೧೪-೨೪||"
     },
-    "transliteration": "samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ .\ntulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ ||14-24||",
-    "life_application": "Balanced in pleasure and pain, self-abiding, regarding clod, stone, gold equal, same to pleasant and unpleasant, firm, balanced in praise/blame...",
+    "transliteration": {
+        "hi": "समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः |\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||१४-२४||",
+        "en": "samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ .\ntulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ ||14-24||",
+        "be": "সমদুঃখসুখঃ স্বস্থঃ সমলোষ্টাশ্মকাঞ্চনঃ |\nতুল্যপ্রিযাপ্রিযো ধীরস্তুল্যনিন্দাত্মসংস্তুতিঃ ||১৪-২৪||",
+        "ka": "ಸಮದುಃಖಸುಖಃ ಸ್ವಸ್ಥಃ ಸಮಲೋಷ್ಟಾಶ್ಮಕಾಞ್ಚನಃ |\nತುಲ್ಯಪ್ರಿಯಾಪ್ರಿಯೋ ಧೀರಸ್ತುಲ್ಯನಿನ್ದಾತ್ಮಸಂಸ್ತುತಿಃ ||೧೪-೨೪||"
+    },
+    "life_application": {
+        "hi": "सुख-दुःख में सम, आत्म-स्थिर, ढेले, पत्थर, सोने में सम, सुखद-अप्रिय में सम, दृढ़, स्तुति/निंदा में समतुल...",
+        "en": "Balanced in pleasure and pain, self-abiding, regarding clod, stone, gold equal, same to pleasant and unpleasant, firm, balanced in praise/blame...",
+        "be": "আনন্দ এবং বেদনায় ভারসাম্যপূর্ণ, স্ব-অবস্থাশীল, ক্লোড, পাথর, সোনার সমান, আনন্দদায়ক এবং অপ্রীতিকর, দৃঢ়, প্রশংসা/দোষে ভারসাম্যপূর্ণ...",
+        "ka": "ಸಂತೋಷ ಮತ್ತು ನೋವುಗಳಲ್ಲಿ ಸಮತೋಲನ, ಸ್ವಯಂ ಬದ್ಧತೆ, ಉಂಡೆ, ಕಲ್ಲು, ಚಿನ್ನಕ್ಕೆ ಸಮಾನ, ಆಹ್ಲಾದಕರ ಮತ್ತು ಅಹಿತಕರ, ದೃಢವಾದ, ಹೊಗಳಿಕೆ/ದೂಷಣೆಯಲ್ಲಿ ಸಮತೋಲನ..."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "समदुःखसुखः",
-            "transliteration": "samaduḥkhasukhaḥ",
-            "meaning": "alike in pleasure and"
+            "transliteration": {
+                "hi": "समदुःखसुखः",
+                "en": "samaduḥkhasukhaḥ",
+                "be": "সমদুঃখসুখঃ",
+                "ka": "ಸಮದುಃಖಸುಖಃ"
+            },
+            "meaning": {
+                "hi": "आनंद में समान और",
+                "en": "alike in pleasure and",
+                "be": "একইভাবে আনন্দ এবং",
+                "ka": "ಸಂತೋಷದಲ್ಲಿ ಸಮಾನವಾಗಿ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "स्वस्थः",
-            "transliteration": "svasthaḥ",
-            "meaning": "standing in his own"
+            "transliteration": {
+                "hi": "स्वस्थः",
+                "en": "svasthaḥ",
+                "be": "স্বস্থঃ",
+                "ka": "ಸ್ವಸ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "अपने आप में खड़ा है",
+                "en": "standing in his own",
+                "be": "নিজের মধ্যে দাঁড়িয়ে",
+                "ka": "ತನ್ನದೇ ಆದ ನಿಂತ"
+            }
         },
         {
             "sanskrit": "समलोष्टाश्मकाञ्चनः",
-            "transliteration": "samaloṣṭāśmakāñcanaḥ",
-            "meaning": "regarding a clod of"
+            "transliteration": {
+                "hi": "समलोष्टाश्मकाञ्चनः",
+                "en": "samaloṣṭāśmakāñcanaḥ",
+                "be": "সমলোষ্টাশ্মকাঞ্চনঃ",
+                "ka": "ಸಮಲೋಷ್ಟಾಶ್ಮಕಾಞ್ಚನಃ"
+            },
+            "meaning": {
+                "hi": "के एक ढेले के संबंध में",
+                "en": "regarding a clod of",
+                "be": "একটি clod সম্পর্কে",
+                "ka": "ಒಂದು ಕ್ಲೋಡ್ ಬಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "तुल्यप्रियाप्रियः",
-            "transliteration": "tulyapriyāpriyaḥ",
-            "meaning": "the same to the"
+            "transliteration": {
+                "hi": "तुल्यप्रियाप्रियः",
+                "en": "tulyapriyāpriyaḥ",
+                "be": "তুল্যপ্রিযাপ্রিযঃ",
+                "ka": "ತುಲ್ಯಪ್ರಿಯಾಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "के समान",
+                "en": "the same to the",
+                "be": "একই",
+                "ka": "ಗೆ ಅದೇ"
+            }
         },
         {
             "sanskrit": "धीरः",
-            "transliteration": "dhīraḥ",
-            "meaning": "firm"
+            "transliteration": {
+                "hi": "धीरः",
+                "en": "dhīraḥ",
+                "be": "ধীরঃ",
+                "ka": "ಧೀರಃ"
+            },
+            "meaning": {
+                "hi": "फर्म",
+                "en": "firm",
+                "be": "দৃঢ়",
+                "ka": "ದೃಢವಾದ"
+            }
         },
         {
             "sanskrit": "तुल्यनिन्दात्मसंस्तुतिः",
-            "transliteration": "tulyanindātmasaṃstutiḥ",
-            "meaning": "the same in censure"
+            "transliteration": {
+                "hi": "तुल्यनिन्दात्मसंस्तुतिः",
+                "en": "tulyanindātmasaṃstutiḥ",
+                "be": "তুল্যনিন্দাত্মসংস্তুতিঃ",
+                "ka": "ತುಲ್ಯನಿನ್ದಾತ್ಮಸಂಸ್ತುತಿಃ"
+            },
+            "meaning": {
+                "hi": "निंदा में भी वही",
+                "en": "the same in censure",
+                "be": "নিন্দায় একই",
+                "ka": "ಖಂಡನೆಯಲ್ಲಿ ಅದೇ"
+            }
         }
     ],
     "tej": {

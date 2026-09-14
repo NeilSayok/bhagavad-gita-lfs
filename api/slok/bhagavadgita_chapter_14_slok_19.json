@@ -14,8 +14,18 @@
         "en": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati .\nguṇebhyaśca paraṃ vetti madbhāvaṃ so.adhigacchati ||14-19||",
         "ka": "ನಾನ್ಯಂ ಗುಣೇಭ್ಯಃ ಕರ್ತಾರಂ ಯದಾ ದ್ರಷ್ಟಾನುಪಶ್ಯತಿ |\nಗುಣೇಭ್ಯಶ್ಚ ಪರಂ ವೇತ್ತಿ ಮದ್ಭಾವಂ ಸೋಽಧಿಗಚ್ಛತಿ ||೧೪-೧೯||"
     },
-    "transliteration": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati .\nguṇebhyaśca paraṃ vetti madbhāvaṃ so.adhigacchati ||14-19||",
-    "life_application": "When the seer beholds no agent other than the modes of nature, and knows That which transcends modes, he reaches God.",
+    "transliteration": {
+        "hi": "नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति |\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ||१४-१९||",
+        "en": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati .\nguṇebhyaśca paraṃ vetti madbhāvaṃ so.adhigacchati ||14-19||",
+        "be": "নান্যং গুণেভ্যঃ কর্তারং যদা দ্রষ্টানুপশ্যতি |\nগুণেভ্যশ্চ পরং বেত্তি মদ্ভাবং সোঽধিগচ্ছতি ||১৪-১৯||",
+        "ka": "ನಾನ್ಯಂ ಗುಣೇಭ್ಯಃ ಕರ್ತಾರಂ ಯದಾ ದ್ರಷ್ಟಾನುಪಶ್ಯತಿ |\nಗುಣೇಭ್ಯಶ್ಚ ಪರಂ ವೇತ್ತಿ ಮದ್ಭಾವಂ ಸೋಽಧಿಗಚ್ಛತಿ ||೧೪-೧೯||"
+    },
+    "life_application": {
+        "hi": "जब द्रष्टा प्रकृति के गुणों के अलावा किसी अन्य एजेंट को नहीं देखता है, और उसे जानता है जो गुणों से परे है, तो वह भगवान तक पहुंच जाता है।",
+        "en": "When the seer beholds no agent other than the modes of nature, and knows That which transcends modes, he reaches God.",
+        "be": "দ্রষ্টা যখন প্রকৃতির ধারা ছাড়া অন্য কোন বাহককে দেখেন না, এবং জানেন যে যা পদ্ধতি অতিক্রম করে, তখন সে ঈশ্বরের কাছে পৌঁছায়।",
+        "ka": "ನೋಡುವವನು ಪ್ರಕೃತಿಯ ವಿಧಾನಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಏಜೆಂಟ್ ಅನ್ನು ನೋಡದಿದ್ದರೆ ಮತ್ತು ವಿಧಾನಗಳನ್ನು ಮೀರಿದದನ್ನು ತಿಳಿದಾಗ, ಅವನು ದೇವರನ್ನು ತಲುಪುತ್ತಾನೆ."
+    },
     "themes": [
         "Self-Realization",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अन्यम्",
-            "transliteration": "anyam",
-            "meaning": "other"
+            "transliteration": {
+                "hi": "अन्यम्",
+                "en": "anyam",
+                "be": "অন্যম্",
+                "ka": "ಅನ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "other",
+                "be": "অন্যান্য",
+                "ka": "ಇತರೆ"
+            }
         },
         {
             "sanskrit": "गुणेभ्यः",
-            "transliteration": "guṇebhyaḥ",
-            "meaning": "than the Gunas"
+            "transliteration": {
+                "hi": "गुणेभ्यः",
+                "en": "guṇebhyaḥ",
+                "be": "গুণেভ্যঃ",
+                "ka": "ಗುಣೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "गुणों की तुलना में",
+                "en": "than the Gunas",
+                "be": "গুণের চেয়ে",
+                "ka": "ಗುಣಗಳಿಗಿಂತ"
+            }
         },
         {
             "sanskrit": "कर्तारम्",
-            "transliteration": "kartāram",
-            "meaning": "agent"
+            "transliteration": {
+                "hi": "कर्तारम्",
+                "en": "kartāram",
+                "be": "কর্তারম্",
+                "ka": "ಕರ್ತಾರಮ್"
+            },
+            "meaning": {
+                "hi": "एजेंट",
+                "en": "agent",
+                "be": "এজেন্ট",
+                "ka": "ಏಜೆಂಟ್"
+            }
         },
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "द्रष्टा",
-            "transliteration": "draṣṭā",
-            "meaning": "the seer"
+            "transliteration": {
+                "hi": "द्रष्टा",
+                "en": "draṣṭā",
+                "be": "দ্রষ্টা",
+                "ka": "ದ್ರಷ್ಟಾ"
+            },
+            "meaning": {
+                "hi": "द्रष्टा",
+                "en": "the seer",
+                "be": "দ্রষ্টা",
+                "ka": "ನೋಡುವವನು"
+            }
         },
         {
             "sanskrit": "अनुपश्यति",
-            "transliteration": "anupaśyati",
-            "meaning": "beholds"
+            "transliteration": {
+                "hi": "अनुपश्यति",
+                "en": "anupaśyati",
+                "be": "অনুপশ্যতি",
+                "ka": "ಅನುಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "beholds",
+                "be": "দেখছে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "गुणेभ्यः",
-            "transliteration": "guṇebhyaḥ",
-            "meaning": "than the alities"
+            "transliteration": {
+                "hi": "गुणेभ्यः",
+                "en": "guṇebhyaḥ",
+                "be": "গুণেভ্যঃ",
+                "ka": "ಗುಣೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "एलिज़िट की तुलना में",
+                "en": "than the alities",
+                "be": "alities তুলনায়",
+                "ka": "ಅಲಿಟಿಗಳಿಗಿಂತ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "higher"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "उच्चतर",
+                "en": "higher",
+                "be": "উচ্চতর",
+                "ka": "ಹೆಚ್ಚಿನ"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "मद्भावम्",
-            "transliteration": "madbhāvam",
-            "meaning": "My Being"
+            "transliteration": {
+                "hi": "मद्भावम्",
+                "en": "madbhāvam",
+                "be": "মদ্ভাবম্",
+                "ka": "ಮದ್ಭಾವಮ್"
+            },
+            "meaning": {
+                "hi": "मेरा अस्तित्व",
+                "en": "My Being",
+                "be": "আমার সত্তা",
+                "ka": "ಮೈ ಬೀಯಿಂಗ್"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "अधिगच्छति",
-            "transliteration": "adhigacchati",
-            "meaning": ",attains to."
+            "transliteration": {
+                "hi": "अधिगच्छति",
+                "en": "adhigacchati",
+                "be": "অধিগচ্ছতি",
+                "ka": "ಅಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": ",को प्राप्त होता है।",
+                "en": ",attains to.",
+                "be": ", অর্জন করে।",
+                "ka": ", ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

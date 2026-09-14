@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava .\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ||14-22||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪ್ರಕಾಶಂ ಚ ಪ್ರವೃತ್ತಿಂ ಚ ಮೋಹಮೇವ ಚ ಪಾಣ್ಡವ |\nನ ದ್ವೇಷ್ಟಿ ಸಮ್ಪ್ರವೃತ್ತಾನಿ ನ ನಿವೃತ್ತಾನಿ ಕಾಙ್ಕ್ಷತಿ ||೧೪-೨೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava .\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ||14-22||",
-    "life_application": "He who does not hate illumination, activity, or delusion when present, nor long for them when absent...",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति ||१४-२२||",
+        "en": "śrībhagavānuvāca .\nprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava .\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ||14-22||",
+        "be": "শ্রীভগবানুবাচ |\nপ্রকাশং চ প্রবৃত্তিং চ মোহমেব চ পাণ্ডব |\nন দ্বেষ্টি সম্প্রবৃত্তানি ন নিবৃত্তানি কাঙ্ক্ষতি ||১৪-২২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪ್ರಕಾಶಂ ಚ ಪ್ರವೃತ್ತಿಂ ಚ ಮೋಹಮೇವ ಚ ಪಾಣ್ಡವ |\nನ ದ್ವೇಷ್ಟಿ ಸಮ್ಪ್ರವೃತ್ತಾನಿ ನ ನಿವೃತ್ತಾನಿ ಕಾಙ್ಕ್ಷತಿ ||೧೪-೨೨||"
+    },
+    "life_application": {
+        "hi": "वह जो उपस्थित होने पर रोशनी, गतिविधि या भ्रम से घृणा नहीं करता, और न ही अनुपस्थित होने पर उनकी लालसा करता है...",
+        "en": "He who does not hate illumination, activity, or delusion when present, nor long for them when absent...",
+        "be": "যিনি উপস্থিত থাকলে আলোকসজ্জা, কার্যকলাপ বা বিভ্রমকে ঘৃণা করেন না এবং অনুপস্থিত থাকলে তাদের জন্য আকাঙ্ক্ষা করেন না...",
+        "ka": "ಇರುವಾಗ ಪ್ರಕಾಶ, ಚಟುವಟಿಕೆ ಅಥವಾ ಭ್ರಮೆಯನ್ನು ದ್ವೇಷಿಸದವನು ಅಥವಾ ಇಲ್ಲದಿರುವಾಗ ಅವರಿಗಾಗಿ ಹಂಬಲಿಸುವುದಿಲ್ಲ ..."
+    },
     "themes": [
         "Equanimity",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "प्रकाशम्",
-            "transliteration": "prakāśam",
-            "meaning": "light"
+            "transliteration": {
+                "hi": "प्रकाशम्",
+                "en": "prakāśam",
+                "be": "প্রকাশম্",
+                "ka": "ಪ್ರಕಾಶಮ್"
+            },
+            "meaning": {
+                "hi": "रोशनी",
+                "en": "light",
+                "be": "আলো",
+                "ka": "ಬೆಳಕು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रवृत्तिम्",
-            "transliteration": "pravṛttim",
-            "meaning": "activity"
+            "transliteration": {
+                "hi": "प्रवृत्तिम्",
+                "en": "pravṛttim",
+                "be": "প্রবৃত্তিম্",
+                "ka": "ಪ್ರವೃತ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "गतिविधि",
+                "en": "activity",
+                "be": "কার্যকলাপ",
+                "ka": "ಚಟುವಟಿಕೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मोहम्",
-            "transliteration": "moham",
-            "meaning": "delusion"
+            "transliteration": {
+                "hi": "मोहम्",
+                "en": "moham",
+                "be": "মোহম্",
+                "ka": "ಮೋಹಮ್"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "delusion",
+                "be": "বিভ্রম",
+                "ka": "ಭ್ರಮೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पाण्डव",
-            "transliteration": "pāṇḍava",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "पाण्डव",
+                "en": "pāṇḍava",
+                "be": "পাণ্ডব",
+                "ka": "ಪಾಣ್ಡವ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "द्वेष्टि",
-            "transliteration": "dveṣṭi",
-            "meaning": "hates"
+            "transliteration": {
+                "hi": "द्वेष्टि",
+                "en": "dveṣṭi",
+                "be": "দ্বেষ্টি",
+                "ka": "ದ್ವೇಷ್ಟಿ"
+            },
+            "meaning": {
+                "hi": "नफरत करता है",
+                "en": "hates",
+                "be": "ঘৃণা করে",
+                "ka": "ದ್ವೇಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "सम्प्रवृत्तानि",
-            "transliteration": "sampravṛttāni",
-            "meaning": "gone forth"
+            "transliteration": {
+                "hi": "सम्प्रवृत्तानि",
+                "en": "sampravṛttāni",
+                "be": "সম্প্রবৃত্তানি",
+                "ka": "ಸಮ್ಪ್ರವೃತ್ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "आगे चला गया",
+                "en": "gone forth",
+                "be": "চলে গেছে",
+                "ka": "ಮುಂದೆ ಹೋಗಿದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "निवृत्तानि",
-            "transliteration": "nivṛttāni",
-            "meaning": "when absent"
+            "transliteration": {
+                "hi": "निवृत्तानि",
+                "en": "nivṛttāni",
+                "be": "নিবৃত্তানি",
+                "ka": "ನಿವೃತ್ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "अनुपस्थित होने पर",
+                "en": "when absent",
+                "be": "যখন অনুপস্থিত",
+                "ka": "ಇಲ್ಲದಿದ್ದಾಗ"
+            }
         },
         {
             "sanskrit": "काङ्क्षति",
-            "transliteration": "kāṅkṣati",
-            "meaning": "longs."
+            "transliteration": {
+                "hi": "काङ्क्षति",
+                "en": "kāṅkṣati",
+                "be": "কাঙ্ক্ষতি",
+                "ka": "ಕಾಙ್ಕ್ಷತಿ"
+            },
+            "meaning": {
+                "hi": "लम्बाई.",
+                "en": "longs.",
+                "be": "দীর্ঘ",
+                "ka": "ಹಂಬಲಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ .\njaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ ||14-18||",
         "ka": "ಊರ್ಧ್ವಂ ಗಚ್ಛನ್ತಿ ಸತ್ತ್ವಸ್ಥಾ ಮಧ್ಯೇ ತಿಷ್ಠನ್ತಿ ರಾಜಸಾಃ |\nಜಘನ್ಯಗುಣವೃತ್ತಿಸ್ಥಾ ಅಧೋ ಗಚ್ಛನ್ತಿ ತಾಮಸಾಃ ||೧೪-೧೮||"
     },
-    "transliteration": "ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ .\njaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ ||14-18||",
-    "life_application": "Those in goodness go upward; those in passion remain in middle; those in ignorance go downward.",
+    "transliteration": {
+        "hi": "ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः |\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः ||१४-१८||",
+        "en": "ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ .\njaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ ||14-18||",
+        "be": "ঊর্ধ্বং গচ্ছন্তি সত্ত্বস্থা মধ্যে তিষ্ঠন্তি রাজসাঃ |\nজঘন্যগুণবৃত্তিস্থা অধো গচ্ছন্তি তামসাঃ ||১৪-১৮||",
+        "ka": "ಊರ್ಧ್ವಂ ಗಚ್ಛನ್ತಿ ಸತ್ತ್ವಸ್ಥಾ ಮಧ್ಯೇ ತಿಷ್ಠನ್ತಿ ರಾಜಸಾಃ |\nಜಘನ್ಯಗುಣವೃತ್ತಿಸ್ಥಾ ಅಧೋ ಗಚ್ಛನ್ತಿ ತಾಮಸಾಃ ||೧೪-೧೮||"
+    },
+    "life_application": {
+        "hi": "जो लोग अच्छाई में हैं वे ऊपर की ओर जाते हैं; रजोगुण वाले बीच में रह जाते हैं; जो अज्ञान में हैं वे नीचे की ओर जाते हैं।",
+        "en": "Those in goodness go upward; those in passion remain in middle; those in ignorance go downward.",
+        "be": "যারা ধার্মিকতায় ঊর্ধ্বমুখী হয়; যারা আবেগে আছে তারা মাঝখানে থাকে; যারা অজ্ঞ তারা নিচের দিকে চলে যায়।",
+        "ka": "ಒಳ್ಳೆಯತನದಲ್ಲಿರುವವರು ಮೇಲಕ್ಕೆ ಹೋಗುತ್ತಾರೆ; ಉತ್ಸಾಹದಲ್ಲಿರುವವರು ಮಧ್ಯದಲ್ಲಿ ಉಳಿಯುತ್ತಾರೆ; ಅಜ್ಞಾನದಲ್ಲಿರುವವರು ಅಧೋಗತಿಗೆ ಹೋಗುತ್ತಾರೆ."
+    },
     "themes": [
         "Karma",
         "Purpose"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "ऊर्ध्वम्",
-            "transliteration": "ūrdhvam",
-            "meaning": "upwards"
+            "transliteration": {
+                "hi": "ऊर्ध्वम्",
+                "en": "ūrdhvam",
+                "be": "ঊর্ধ্বম্",
+                "ka": "ಊರ್ಧ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "ऊपर की ओर",
+                "en": "upwards",
+                "be": "উপরের দিকে",
+                "ka": "ಮೇಲಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "गच्छन्ति",
-            "transliteration": "gacchanti",
-            "meaning": "go"
+            "transliteration": {
+                "hi": "गच्छन्ति",
+                "en": "gacchanti",
+                "be": "গচ্ছন্তি",
+                "ka": "ಗಚ್ಛನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जाओ",
+                "en": "go",
+                "be": "যাও",
+                "ka": "ಹೋಗು"
+            }
         },
         {
             "sanskrit": "सत्त्वस्थाः",
-            "transliteration": "sattvasthāḥ",
-            "meaning": "in Sattva seated"
+            "transliteration": {
+                "hi": "सत्त्वस्थाः",
+                "en": "sattvasthāḥ",
+                "be": "সত্ত্বস্থাঃ",
+                "ka": "ಸತ್ತ್ವಸ್ಥಾಃ"
+            },
+            "meaning": {
+                "hi": "सत्त्व में विराजमान",
+                "en": "in Sattva seated",
+                "be": "সত্ত্বে উপবিষ্ট",
+                "ka": "ಸತ್ವದಲ್ಲಿ ಕುಳಿತಿದ್ದಾನೆ"
+            }
         },
         {
             "sanskrit": "मध्ये",
-            "transliteration": "madhye",
-            "meaning": "in the middle"
+            "transliteration": {
+                "hi": "मध्ये",
+                "en": "madhye",
+                "be": "মধ্যে",
+                "ka": "ಮಧ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "बीच में",
+                "en": "in the middle",
+                "be": "মাঝখানে",
+                "ka": "ಮಧ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तिष्ठन्ति",
-            "transliteration": "tiṣṭhanti",
-            "meaning": "dwell"
+            "transliteration": {
+                "hi": "तिष्ठन्ति",
+                "en": "tiṣṭhanti",
+                "be": "তিষ্ঠন্তি",
+                "ka": "ತಿಷ್ಠನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "निवास",
+                "en": "dwell",
+                "be": "বাস",
+                "ka": "ವಾಸಮಾಡು"
+            }
         },
         {
             "sanskrit": "राजसाः",
-            "transliteration": "rājasāḥ",
-            "meaning": "the Rajasic"
+            "transliteration": {
+                "hi": "राजसाः",
+                "en": "rājasāḥ",
+                "be": "রাজসাঃ",
+                "ka": "ರಾಜಸಾಃ"
+            },
+            "meaning": {
+                "hi": "राजसिक",
+                "en": "the Rajasic",
+                "be": "রাজসিক",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         },
         {
             "sanskrit": "जघन्यगुणवृत्तिस्थाः",
-            "transliteration": "jaghanyaguṇavṛttisthāḥ",
-            "meaning": "abiding in the function"
+            "transliteration": {
+                "hi": "जघन्यगुणवृत्तिस्थाः",
+                "en": "jaghanyaguṇavṛttisthāḥ",
+                "be": "জঘন্যগুণবৃত্তিস্থাঃ",
+                "ka": "ಜಘನ್ಯಗುಣವೃತ್ತಿಸ್ಥಾಃ"
+            },
+            "meaning": {
+                "hi": "समारोह में बने रहना",
+                "en": "abiding in the function",
+                "be": "ফাংশনে মেনে চলা",
+                "ka": "ಕಾರ್ಯದಲ್ಲಿ ಬದ್ಧವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अधः",
-            "transliteration": "adhaḥ",
-            "meaning": "downwards"
+            "transliteration": {
+                "hi": "अधः",
+                "en": "adhaḥ",
+                "be": "অধঃ",
+                "ka": "ಅಧಃ"
+            },
+            "meaning": {
+                "hi": "नीचे की ओर",
+                "en": "downwards",
+                "be": "নিচের দিকে",
+                "ka": "ಕೆಳಮುಖವಾಗಿ"
+            }
         },
         {
             "sanskrit": "गच्छन्ति",
-            "transliteration": "gacchanti",
-            "meaning": "go"
+            "transliteration": {
+                "hi": "गच्छन्ति",
+                "en": "gacchanti",
+                "be": "গচ্ছন্তি",
+                "ka": "ಗಚ್ಛನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जाओ",
+                "en": "go",
+                "be": "যাও",
+                "ka": "ಹೋಗು"
+            }
         },
         {
             "sanskrit": "तामसाः",
-            "transliteration": "tāmasāḥ",
-            "meaning": "the Tamasic."
+            "transliteration": {
+                "hi": "तामसाः",
+                "en": "tāmasāḥ",
+                "be": "তামসাঃ",
+                "ka": "ತಾಮಸಾಃ"
+            },
+            "meaning": {
+                "hi": "तामसिक.",
+                "en": "the Tamasic.",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ."
+            }
         }
     ],
     "tej": {

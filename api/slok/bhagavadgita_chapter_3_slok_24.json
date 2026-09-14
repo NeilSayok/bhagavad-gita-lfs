@@ -14,8 +14,18 @@
         "en": "utsīdeyurime lokā na kuryāṃ karma cedaham .\nsaṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ ||3-24||",
         "ka": "ಉತ್ಸೀದೇಯುರಿಮೇ ಲೋಕಾ ನ ಕುರ್ಯಾಂ ಕರ್ಮ ಚೇದಹಮ್ |\nಸಙ್ಕರಸ್ಯ ಚ ಕರ್ತಾ ಸ್ಯಾಮುಪಹನ್ಯಾಮಿಮಾಃ ಪ್ರಜಾಃ ||೩-೨೪||"
     },
-    "transliteration": "utsīdeyurime lokā na kuryāṃ karma cedaham .\nsaṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ ||3-24||",
-    "life_application": "Uphold your commitments faithfully so that those who depend on your presence experience stability and clarity.",
+    "transliteration": {
+        "hi": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् |\nसङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ||३-२४||",
+        "en": "utsīdeyurime lokā na kuryāṃ karma cedaham .\nsaṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ ||3-24||",
+        "be": "উত্সীদেযুরিমে লোকা ন কুর্যাং কর্ম চেদহম্ |\nসঙ্করস্য চ কর্তা স্যামুপহন্যামিমাঃ প্রজাঃ ||৩-২৪||",
+        "ka": "ಉತ್ಸೀದೇಯುರಿಮೇ ಲೋಕಾ ನ ಕುರ್ಯಾಂ ಕರ್ಮ ಚೇದಹಮ್ |\nಸಙ್ಕರಸ್ಯ ಚ ಕರ್ತಾ ಸ್ಯಾಮುಪಹನ್ಯಾಮಿಮಾಃ ಪ್ರಜಾಃ ||೩-೨೪||"
+    },
+    "life_application": {
+        "hi": "अपनी प्रतिबद्धताओं को ईमानदारी से कायम रखें ताकि जो लोग आपकी उपस्थिति पर निर्भर हैं वे स्थिरता और स्पष्टता का अनुभव करें।",
+        "en": "Uphold your commitments faithfully so that those who depend on your presence experience stability and clarity.",
+        "be": "আপনার প্রতিশ্রুতি বিশ্বস্তভাবে বজায় রাখুন যাতে যারা আপনার উপস্থিতির উপর নির্ভর করে তারা স্থিতিশীলতা এবং স্বচ্ছতা অনুভব করে।",
+        "ka": "ನಿಮ್ಮ ಉಪಸ್ಥಿತಿಯನ್ನು ಅವಲಂಬಿಸಿರುವವರು ಸ್ಥಿರತೆ ಮತ್ತು ಸ್ಪಷ್ಟತೆಯನ್ನು ಅನುಭವಿಸಲು ನಿಮ್ಮ ಬದ್ಧತೆಗಳನ್ನು ನಿಷ್ಠೆಯಿಂದ ಎತ್ತಿಹಿಡಿಯಿರಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "उत्सीदेयुरिमे",
-            "transliteration": "utsīdeyurime",
-            "meaning": "utsīdeyurime"
+            "transliteration": {
+                "hi": "उत्सीदेयुरिमे",
+                "en": "utsīdeyurime",
+                "be": "উত্সীদেযুরিমে",
+                "ka": "ಉತ್ಸೀದೇಯುರಿಮೇ"
+            },
+            "meaning": {
+                "hi": "utsīdeyurime",
+                "en": "utsīdeyurime",
+                "be": "utsīdeyurime",
+                "ka": "utsīdeyurime"
+            }
         },
         {
             "sanskrit": "लोका",
-            "transliteration": "lokā",
-            "meaning": "lokā"
+            "transliteration": {
+                "hi": "लोका",
+                "en": "lokā",
+                "be": "লোকা",
+                "ka": "ಲೋಕಾ"
+            },
+            "meaning": {
+                "hi": "लोका",
+                "en": "lokā",
+                "be": "lokā",
+                "ka": "ಲೋಕ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कुर्यां",
-            "transliteration": "kuryāṃ",
-            "meaning": "kuryāṃ"
+            "transliteration": {
+                "hi": "कुर्यां",
+                "en": "kuryāṃ",
+                "be": "কুর্যাং",
+                "ka": "ಕುರ್ಯಾಂ"
+            },
+            "meaning": {
+                "hi": "कुरयान",
+                "en": "kuryāṃ",
+                "be": "kuryāṃ",
+                "ka": "ಕುರ್ಯಾಂ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "चेदहम्",
-            "transliteration": "cedaham",
-            "meaning": "cedaham"
+            "transliteration": {
+                "hi": "चेदहम्",
+                "en": "cedaham",
+                "be": "চেদহম্",
+                "ka": "ಚೇದಹಮ್"
+            },
+            "meaning": {
+                "hi": "Cedaham",
+                "en": "cedaham",
+                "be": "সিডাহাম",
+                "ka": "ಸೆಡಹ್ಯಾಮ್"
+            }
         },
         {
             "sanskrit": "सङ्करस्य",
-            "transliteration": "saṅkarasya",
-            "meaning": "saṅkarasya"
+            "transliteration": {
+                "hi": "सङ्करस्य",
+                "en": "saṅkarasya",
+                "be": "সঙ্করস্য",
+                "ka": "ಸಙ್ಕರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "संकरस्य",
+                "en": "saṅkarasya",
+                "be": "সংকরস্য",
+                "ka": "ಸಂಕರಸ್ಯ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "kartā"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            }
         },
         {
             "sanskrit": "स्यामुपहन्यामिमाः",
-            "transliteration": "syāmupahanyāmimāḥ",
-            "meaning": "syāmupahanyāmimāḥ"
+            "transliteration": {
+                "hi": "स्यामुपहन्यामिमाः",
+                "en": "syāmupahanyāmimāḥ",
+                "be": "স্যামুপহন্যামিমাঃ",
+                "ka": "ಸ್ಯಾಮುಪಹನ್ಯಾಮಿಮಾಃ"
+            },
+            "meaning": {
+                "hi": "स्यामुपहन्यमिमाः",
+                "en": "syāmupahanyāmimāḥ",
+                "be": "syamupahanyāmimāh",
+                "ka": "ಶ್ಯಾಮುಪಹನ್ಯಾಮಿಮಾಃ"
+            }
         },
         {
             "sanskrit": "प्रजाः",
-            "transliteration": "prajāḥ",
-            "meaning": "prajāḥ"
+            "transliteration": {
+                "hi": "प्रजाः",
+                "en": "prajāḥ",
+                "be": "প্রজাঃ",
+                "ka": "ಪ್ರಜಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रजाः",
+                "en": "prajāḥ",
+                "be": "প্রজাঃ",
+                "ka": "ಪ್ರಜಾಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata .\nkuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham ||3-25||",
         "ka": "ಸಕ್ತಾಃ ಕರ್ಮಣ್ಯವಿದ್ವಾಂಸೋ ಯಥಾ ಕುರ್ವನ್ತಿ ಭಾರತ |\nಕುರ್ಯಾದ್ವಿದ್ವಾಂಸ್ತಥಾಸಕ್ತಶ್ಚಿಕೀರ್ಷುರ್ಲೋಕಸಂಗ್ರಹಮ್ ||೩-೨೫||"
     },
-    "transliteration": "saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata .\nkuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham ||3-25||",
-    "life_application": "Work with the same energy as the most driven people, but direct your passion toward helping others instead of self-aggrandizement.",
+    "transliteration": {
+        "hi": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत |\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् ||३-२५||",
+        "en": "saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata .\nkuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham ||3-25||",
+        "be": "সক্তাঃ কর্মণ্যবিদ্বাংসো যথা কুর্বন্তি ভারত |\nকুর্যাদ্বিদ্বাংস্তথাসক্তশ্চিকীর্ষুর্লোকসংগ্রহম্ ||৩-২৫||",
+        "ka": "ಸಕ್ತಾಃ ಕರ್ಮಣ್ಯವಿದ್ವಾಂಸೋ ಯಥಾ ಕುರ್ವನ್ತಿ ಭಾರತ |\nಕುರ್ಯಾದ್ವಿದ್ವಾಂಸ್ತಥಾಸಕ್ತಶ್ಚಿಕೀರ್ಷುರ್ಲೋಕಸಂಗ್ರಹಮ್ ||೩-೨೫||"
+    },
+    "life_application": {
+        "hi": "सबसे अधिक प्रेरित लोगों की तरह उसी ऊर्जा के साथ काम करें, लेकिन अपने जुनून को आत्म-प्रशंसा के बजाय दूसरों की मदद करने की ओर निर्देशित करें।",
+        "en": "Work with the same energy as the most driven people, but direct your passion toward helping others instead of self-aggrandizement.",
+        "be": "সবচেয়ে চালিত লোকদের মতো একই শক্তি নিয়ে কাজ করুন, তবে আত্ম-উৎসাহের পরিবর্তে অন্যদের সাহায্য করার দিকে আপনার আবেগকে নির্দেশ করুন।",
+        "ka": "ಹೆಚ್ಚು ಚಾಲಿತ ಜನರಂತೆ ಅದೇ ಶಕ್ತಿಯೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಿ, ಆದರೆ ಸ್ವಯಂ-ಅಭಿಮಾನದ ಬದಲಿಗೆ ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡುವ ಕಡೆಗೆ ನಿಮ್ಮ ಉತ್ಸಾಹವನ್ನು ನಿರ್ದೇಶಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Detachment",
@@ -24,33 +34,93 @@
     "word_meanings": [
         {
             "sanskrit": "सक्ताः",
-            "transliteration": "saktāḥ",
-            "meaning": "saktāḥ"
+            "transliteration": {
+                "hi": "सक्ताः",
+                "en": "saktāḥ",
+                "be": "সক্তাঃ",
+                "ka": "ಸಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "शक्तः",
+                "en": "saktāḥ",
+                "be": "সক্তঃ",
+                "ka": "ಸಕ್ತಾಃ"
+            }
         },
         {
             "sanskrit": "कर्मण्यविद्वांसो",
-            "transliteration": "karmaṇyavidvāṃso",
-            "meaning": "karmaṇyavidvāṃso"
+            "transliteration": {
+                "hi": "कर्मण्यविद्वांसो",
+                "en": "karmaṇyavidvāṃso",
+                "be": "কর্মণ্যবিদ্বাংসো",
+                "ka": "ಕರ್ಮಣ್ಯವಿದ್ವಾಂಸೋ"
+            },
+            "meaning": {
+                "hi": "कर्मण्यविद्वानसो",
+                "en": "karmaṇyavidvāṃso",
+                "be": "কর্ম্মণ্যবিদ্বাংসো",
+                "ka": "ಕರ್ಮಾಣ್ಯವಿದ್ವಾಂಸೋ"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "कुर्वन्ति",
-            "transliteration": "kurvanti",
-            "meaning": "kurvanti"
+            "transliteration": {
+                "hi": "कुर्वन्ति",
+                "en": "kurvanti",
+                "be": "কুর্বন্তি",
+                "ka": "ಕುರ್ವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "कुरवंती",
+                "en": "kurvanti",
+                "be": "কুরবন্তী",
+                "ka": "ಕುರ್ವಂತಿ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         },
         {
             "sanskrit": "कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्",
-            "transliteration": "kuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham",
-            "meaning": "kuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham"
+            "transliteration": {
+                "hi": "कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्",
+                "en": "kuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham",
+                "be": "কুর্যাদ্বিদ্বাংস্তথাসক্তশ্চিকীর্ষুর্লোকসংগ্রহম্",
+                "ka": "ಕುರ್ಯಾದ್ವಿದ್ವಾಂಸ್ತಥಾಸಕ್ತಶ್ಚಿಕೀರ್ಷುರ್ಲೋಕಸಂಗ್ರಹಮ್"
+            },
+            "meaning": {
+                "hi": "कुर्याद्विद्वंस्तथासक्तश्चिकिर्शुर्लोकसंग्रहम्",
+                "en": "kuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham",
+                "be": "কুর্যাদ্বিদ্বৈষ্টথাসক্তশিকিরসুরলোকসংগ্রহম",
+                "ka": "ಕುರ್ಯಾದ್ವಿದ್ವಾಂಸ್ತತಃಸಕ್ತಶ್ಚಿರ್ಶುರ್ಲೋಕಸಂಗ್ರಹಮ್"
+            }
         }
     ],
     "tej": {

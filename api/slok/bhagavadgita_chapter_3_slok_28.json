@@ -14,8 +14,18 @@
         "en": "tattvavittu mahābāho guṇakarmavibhāgayoḥ .\nguṇā guṇeṣu vartanta iti matvā na sajjate ||3-28||",
         "ka": "ತತ್ತ್ವವಿತ್ತು ಮಹಾಬಾಹೋ ಗುಣಕರ್ಮವಿಭಾಗಯೋಃ |\nಗುಣಾ ಗುಣೇಷು ವರ್ತನ್ತ ಇತಿ ಮತ್ವಾ ನ ಸಜ್ಜತೇ ||೩-೨೮||"
     },
-    "transliteration": "tattvavittu mahābāho guṇakarmavibhāgayoḥ .\nguṇā guṇeṣu vartanta iti matvā na sajjate ||3-28||",
-    "life_application": "Observe sensory attractions calmly as natural physical interactions, remaining unperturbed as the detached observer within.",
+    "transliteration": {
+        "hi": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः |\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||३-२८||",
+        "en": "tattvavittu mahābāho guṇakarmavibhāgayoḥ .\nguṇā guṇeṣu vartanta iti matvā na sajjate ||3-28||",
+        "be": "তত্ত্ববিত্তু মহাবাহো গুণকর্মবিভাগযোঃ |\nগুণা গুণেষু বর্তন্ত ইতি মত্বা ন সজ্জতে ||৩-২৮||",
+        "ka": "ತತ್ತ್ವವಿತ್ತು ಮಹಾಬಾಹೋ ಗುಣಕರ್ಮವಿಭಾಗಯೋಃ |\nಗುಣಾ ಗುಣೇಷು ವರ್ತನ್ತ ಇತಿ ಮತ್ವಾ ನ ಸಜ್ಜತೇ ||೩-೨೮||"
+    },
+    "life_application": {
+        "hi": "संवेदी आकर्षणों को प्राकृतिक शारीरिक अंतःक्रियाओं के रूप में शांति से देखें, भीतर के अलग पर्यवेक्षक के रूप में अविचलित रहें।",
+        "en": "Observe sensory attractions calmly as natural physical interactions, remaining unperturbed as the detached observer within.",
+        "be": "স্বাভাবিক শারীরিক মিথস্ক্রিয়া হিসাবে শান্তভাবে সংবেদনশীল আকর্ষণগুলি পর্যবেক্ষণ করুন, ভিতরে বিচ্ছিন্ন পর্যবেক্ষক হিসাবে অস্থির থাকুন।",
+        "ka": "ಸಂವೇದನಾ ಆಕರ್ಷಣೆಗಳನ್ನು ನೈಸರ್ಗಿಕ ಭೌತಿಕ ಸಂವಹನಗಳಂತೆ ಶಾಂತವಾಗಿ ಗಮನಿಸಿ, ಒಳಗೆ ಬೇರ್ಪಟ್ಟ ವೀಕ್ಷಕರಾಗಿ ವಿಚಲಿತರಾಗಬೇಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Detachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "तत्त्ववित्तु",
-            "transliteration": "tattvavittu",
-            "meaning": "tattvavittu"
+            "transliteration": {
+                "hi": "तत्त्ववित्तु",
+                "en": "tattvavittu",
+                "be": "তত্ত্ববিত্তু",
+                "ka": "ತತ್ತ್ವವಿತ್ತು"
+            },
+            "meaning": {
+                "hi": "तत्त्ववित्तु",
+                "en": "tattvavittu",
+                "be": "তত্ত্ববিত্ত",
+                "ka": "ತತ್ವವಿಟ್ಟು"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "mahābāho"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            }
         },
         {
             "sanskrit": "गुणकर्मविभागयोः",
-            "transliteration": "guṇakarmavibhāgayoḥ",
-            "meaning": "guṇakarmavibhāgayoḥ"
+            "transliteration": {
+                "hi": "गुणकर्मविभागयोः",
+                "en": "guṇakarmavibhāgayoḥ",
+                "be": "গুণকর্মবিভাগযোঃ",
+                "ka": "ಗುಣಕರ್ಮವಿಭಾಗಯೋಃ"
+            },
+            "meaning": {
+                "hi": "गुणकर्मविभागयोः",
+                "en": "guṇakarmavibhāgayoḥ",
+                "be": "গুনাকর্মবিভাগয়োঃ",
+                "ka": "ಗುಣಕರ್ಮವಿಭಾಗಯೋಃ"
+            }
         },
         {
             "sanskrit": "गुणा",
-            "transliteration": "guṇā",
-            "meaning": "guṇā"
+            "transliteration": {
+                "hi": "गुणा",
+                "en": "guṇā",
+                "be": "গুণা",
+                "ka": "ಗುಣಾ"
+            },
+            "meaning": {
+                "hi": "गुना",
+                "en": "guṇā",
+                "be": "guṇā",
+                "ka": "ಗುಣ"
+            }
         },
         {
             "sanskrit": "गुणेषु",
-            "transliteration": "guṇeṣu",
-            "meaning": "guṇeṣu"
+            "transliteration": {
+                "hi": "गुणेषु",
+                "en": "guṇeṣu",
+                "be": "গুণেষু",
+                "ka": "ಗುಣೇಷು"
+            },
+            "meaning": {
+                "hi": "गुनेषु",
+                "en": "guṇeṣu",
+                "be": "গুনেসু",
+                "ka": "ಗುಣೇಶು"
+            }
         },
         {
             "sanskrit": "वर्तन्त",
-            "transliteration": "vartanta",
-            "meaning": "vartanta"
+            "transliteration": {
+                "hi": "वर्तन्त",
+                "en": "vartanta",
+                "be": "বর্তন্ত",
+                "ka": "ವರ್ತನ್ತ"
+            },
+            "meaning": {
+                "hi": "वार्ता",
+                "en": "vartanta",
+                "be": "vartant",
+                "ka": "ವರ್ತಂತ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मत्वा",
-            "transliteration": "matvā",
-            "meaning": "matvā"
+            "transliteration": {
+                "hi": "मत्वा",
+                "en": "matvā",
+                "be": "মত্বা",
+                "ka": "ಮತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "मतवा",
+                "en": "matvā",
+                "be": "মাতভা",
+                "ka": "ಮತ್ವಾ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सज्जते",
-            "transliteration": "sajjate",
-            "meaning": "sajjate"
+            "transliteration": {
+                "hi": "सज्जते",
+                "en": "sajjate",
+                "be": "সজ্জতে",
+                "ka": "ಸಜ್ಜತೇ"
+            },
+            "meaning": {
+                "hi": "सजते",
+                "en": "sajjate",
+                "be": "সাজতে",
+                "ka": "ಸಜ್ಜತೆ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana .\nnānavāptamavāptavyaṃ varta eva ca karmaṇi ||3-22||",
         "ka": "ನ ಮೇ ಪಾರ್ಥಾಸ್ತಿ ಕರ್ತವ್ಯಂ ತ್ರಿಷು ಲೋಕೇಷು ಕಿಞ್ಚನ |\nನಾನವಾಪ್ತಮವಾಪ್ತವ್ಯಂ ವರ್ತ ಏವ ಚ ಕರ್ಮಣಿ ||೩-೨೨||"
     },
-    "transliteration": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana .\nnānavāptamavāptavyaṃ varta eva ca karmaṇi ||3-22||",
-    "life_application": "Engage in helpful work enthusiastically even when you have no personal need or obligation forcing you to do so.",
+    "transliteration": {
+        "hi": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||३-२२||",
+        "en": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana .\nnānavāptamavāptavyaṃ varta eva ca karmaṇi ||3-22||",
+        "be": "ন মে পার্থাস্তি কর্তব্যং ত্রিষু লোকেষু কিঞ্চন |\nনানবাপ্তমবাপ্তব্যং বর্ত এব চ কর্মণি ||৩-২২||",
+        "ka": "ನ ಮೇ ಪಾರ್ಥಾಸ್ತಿ ಕರ್ತವ್ಯಂ ತ್ರಿಷು ಲೋಕೇಷು ಕಿಞ್ಚನ |\nನಾನವಾಪ್ತಮವಾಪ್ತವ್ಯಂ ವರ್ತ ಏವ ಚ ಕರ್ಮಣಿ ||೩-೨೨||"
+    },
+    "life_application": {
+        "hi": "सहायक कार्य में उत्साहपूर्वक संलग्न रहें, भले ही आपकी कोई व्यक्तिगत आवश्यकता या दायित्व आपको ऐसा करने के लिए बाध्य न कर रहा हो।",
+        "en": "Engage in helpful work enthusiastically even when you have no personal need or obligation forcing you to do so.",
+        "be": "আপনার কোন ব্যক্তিগত প্রয়োজন বা বাধ্যবাধকতা আপনাকে তা করতে বাধ্য না করলেও উৎসাহের সাথে সহায়ক কাজে নিযুক্ত হন।",
+        "ka": "ನಿಮಗೆ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಅವಶ್ಯಕತೆ ಅಥವಾ ಬಾಧ್ಯತೆ ಇಲ್ಲದಿದ್ದರೂ ಸಹ ಉತ್ಸಾಹದಿಂದ ಸಹಾಯಕವಾದ ಕೆಲಸದಲ್ಲಿ ತೊಡಗಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "पार्थास्ति",
-            "transliteration": "pārthāsti",
-            "meaning": "pārthāsti"
+            "transliteration": {
+                "hi": "पार्थास्ति",
+                "en": "pārthāsti",
+                "be": "পার্থাস্তি",
+                "ka": "ಪಾರ್ಥಾಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "पार्थस्ति",
+                "en": "pārthāsti",
+                "be": "pārthāsti",
+                "ka": "ಪಾರ್ಥಾಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "कर्तव्यं",
-            "transliteration": "kartavyaṃ",
-            "meaning": "kartavyaṃ"
+            "transliteration": {
+                "hi": "कर्तव्यं",
+                "en": "kartavyaṃ",
+                "be": "কর্তব্যং",
+                "ka": "ಕರ್ತವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "कर्त्तव्यं",
+                "en": "kartavyaṃ",
+                "be": "কর্তব্য",
+                "ka": "ಕರ್ತವ್ಯಂ"
+            }
         },
         {
             "sanskrit": "त्रिषु",
-            "transliteration": "triṣu",
-            "meaning": "triṣu"
+            "transliteration": {
+                "hi": "त्रिषु",
+                "en": "triṣu",
+                "be": "ত্রিষু",
+                "ka": "ತ್ರಿಷು"
+            },
+            "meaning": {
+                "hi": "त्रिशु",
+                "en": "triṣu",
+                "be": "trishu",
+                "ka": "ತ್ರಿಷು"
+            }
         },
         {
             "sanskrit": "लोकेषु",
-            "transliteration": "lokeṣu",
-            "meaning": "lokeṣu"
+            "transliteration": {
+                "hi": "लोकेषु",
+                "en": "lokeṣu",
+                "be": "লোকেষু",
+                "ka": "ಲೋಕೇಷು"
+            },
+            "meaning": {
+                "hi": "लोकेषु",
+                "en": "lokeṣu",
+                "be": "lokeṣu",
+                "ka": "ಲೋಕೇಶು"
+            }
         },
         {
             "sanskrit": "किञ्चन",
-            "transliteration": "kiñcana",
-            "meaning": "kiñcana"
+            "transliteration": {
+                "hi": "किञ्चन",
+                "en": "kiñcana",
+                "be": "কিঞ্চন",
+                "ka": "ಕಿಞ್ಚನ"
+            },
+            "meaning": {
+                "hi": "किंकाना",
+                "en": "kiñcana",
+                "be": "kiñcana",
+                "ka": "ಕಿಂಚನ"
+            }
         },
         {
             "sanskrit": "नानवाप्तमवाप्तव्यं",
-            "transliteration": "nānavāptamavāptavyaṃ",
-            "meaning": "nānavāptamavāptavyaṃ"
+            "transliteration": {
+                "hi": "नानवाप्तमवाप्तव्यं",
+                "en": "nānavāptamavāptavyaṃ",
+                "be": "নানবাপ্তমবাপ্তব্যং",
+                "ka": "ನಾನವಾಪ್ತಮವಾಪ್ತವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "नानावाप्तमवाप्तव्यम्",
+                "en": "nānavāptamavāptavyaṃ",
+                "be": "nānavāptamavāptavyaṃ",
+                "ka": "ನಾನವಾಪ್ತಮವಾಪ್ತವ್ಯಂ"
+            }
         },
         {
             "sanskrit": "वर्त",
-            "transliteration": "varta",
-            "meaning": "varta"
+            "transliteration": {
+                "hi": "वर्त",
+                "en": "varta",
+                "be": "বর্ত",
+                "ka": "ವರ್ತ"
+            },
+            "meaning": {
+                "hi": "वार्ता",
+                "en": "varta",
+                "be": "ভার্তা",
+                "ka": "ವಾರ್ತಾ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्मणि",
-            "transliteration": "karmaṇi",
-            "meaning": "in action"
+            "transliteration": {
+                "hi": "कर्मणि",
+                "en": "karmaṇi",
+                "be": "কর্মণি",
+                "ka": "ಕರ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई में",
+                "en": "in action",
+                "be": "কর্মে",
+                "ka": "ಕ್ರಿಯೆಯಲ್ಲಿ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yadyadācarati śreṣṭhastattadevetaro janaḥ .\nsa yatpramāṇaṃ kurute lokastadanuvartate ||3-21||",
         "ka": "ಯದ್ಯದಾಚರತಿ ಶ್ರೇಷ್ಠಸ್ತತ್ತದೇವೇತರೋ ಜನಃ |\nಸ ಯತ್ಪ್ರಮಾಣಂ ಕುರುತೇ ಲೋಕಸ್ತದನುವರ್ತತೇ ||೩-೨೧||"
     },
-    "transliteration": "yadyadācarati śreṣṭhastattadevetaro janaḥ .\nsa yatpramāṇaṃ kurute lokastadanuvartate ||3-21||",
-    "life_application": "Set a high moral standard in your daily behavior, knowing that those around you look to your example.",
+    "transliteration": {
+        "hi": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः |\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||३-२१||",
+        "en": "yadyadācarati śreṣṭhastattadevetaro janaḥ .\nsa yatpramāṇaṃ kurute lokastadanuvartate ||3-21||",
+        "be": "যদ্যদাচরতি শ্রেষ্ঠস্তত্তদেবেতরো জনঃ |\nস যত্প্রমাণং কুরুতে লোকস্তদনুবর্ততে ||৩-২১||",
+        "ka": "ಯದ್ಯದಾಚರತಿ ಶ್ರೇಷ್ಠಸ್ತತ್ತದೇವೇತರೋ ಜನಃ |\nಸ ಯತ್ಪ್ರಮಾಣಂ ಕುರುತೇ ಲೋಕಸ್ತದನುವರ್ತತೇ ||೩-೨೧||"
+    },
+    "life_application": {
+        "hi": "अपने दैनिक व्यवहार में एक उच्च नैतिक मानक स्थापित करें, यह जानते हुए कि आपके आस-पास के लोग आपका उदाहरण देखते हैं।",
+        "en": "Set a high moral standard in your daily behavior, knowing that those around you look to your example.",
+        "be": "আপনার দৈনন্দিন আচরণে একটি উচ্চ নৈতিক মান সেট করুন, জেনে রাখুন যে আপনার চারপাশের লোকেরা আপনার উদাহরণের দিকে তাকায়।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ನಡವಳಿಕೆಯಲ್ಲಿ ಉನ್ನತ ನೈತಿಕ ಮಾನದಂಡವನ್ನು ಹೊಂದಿಸಿ, ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನವರು ನಿಮ್ಮ ಉದಾಹರಣೆಯನ್ನು ನೋಡುತ್ತಾರೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Leadership",
         "Duty"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "यद्यदाचरति",
-            "transliteration": "yadyadācarati",
-            "meaning": "yadyadācarati"
+            "transliteration": {
+                "hi": "यद्यदाचरति",
+                "en": "yadyadācarati",
+                "be": "যদ্যদাচরতি",
+                "ka": "ಯದ್ಯದಾಚರತಿ"
+            },
+            "meaning": {
+                "hi": "यद्यदाचरति",
+                "en": "yadyadācarati",
+                "be": "yadyadācharati",
+                "ka": "ಯದ್ಯದಾಚರತಿ"
+            }
         },
         {
             "sanskrit": "श्रेष्ठस्तत्तदेवेतरो",
-            "transliteration": "śreṣṭhastattadevetaro",
-            "meaning": "śreṣṭhastattadevetaro"
+            "transliteration": {
+                "hi": "श्रेष्ठस्तत्तदेवेतरो",
+                "en": "śreṣṭhastattadevetaro",
+                "be": "শ্রেষ্ঠস্তত্তদেবেতরো",
+                "ka": "ಶ್ರೇಷ್ಠಸ್ತತ್ತದೇವೇತರೋ"
+            },
+            "meaning": {
+                "hi": "श्रेष्ठस्तत्तदेवेतरो",
+                "en": "śreṣṭhastattadevetaro",
+                "be": "শ্রেষ্টহস্তত্তদেবেতরো",
+                "ka": "ಶ್ರೇಷ್ಠಸ್ತತ್ತದೇವತರೋ"
+            }
         },
         {
             "sanskrit": "जनः",
-            "transliteration": "janaḥ",
-            "meaning": "janaḥ"
+            "transliteration": {
+                "hi": "जनः",
+                "en": "janaḥ",
+                "be": "জনঃ",
+                "ka": "ಜನಃ"
+            },
+            "meaning": {
+                "hi": "जनः",
+                "en": "janaḥ",
+                "be": "জানাঃ",
+                "ka": "ಜನಃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "यत्प्रमाणं",
-            "transliteration": "yatpramāṇaṃ",
-            "meaning": "yatpramāṇaṃ"
+            "transliteration": {
+                "hi": "यत्प्रमाणं",
+                "en": "yatpramāṇaṃ",
+                "be": "যত্প্রমাণং",
+                "ka": "ಯತ್ಪ್ರಮಾಣಂ"
+            },
+            "meaning": {
+                "hi": "यत्प्रमाणम्",
+                "en": "yatpramāṇaṃ",
+                "be": "yatpramāṇaṃ",
+                "ka": "ಯತ್ಪ್ರಮಾಣ"
+            }
         },
         {
             "sanskrit": "कुरुते",
-            "transliteration": "kurute",
-            "meaning": "kurute"
+            "transliteration": {
+                "hi": "कुरुते",
+                "en": "kurute",
+                "be": "কুরুতে",
+                "ka": "ಕುರುತೇ"
+            },
+            "meaning": {
+                "hi": "कुरुते",
+                "en": "kurute",
+                "be": "কুরুতে",
+                "ka": "ಕುರುತೆ"
+            }
         },
         {
             "sanskrit": "लोकस्तदनुवर्तते",
-            "transliteration": "lokastadanuvartate",
-            "meaning": "lokastadanuvartate"
+            "transliteration": {
+                "hi": "लोकस्तदनुवर्तते",
+                "en": "lokastadanuvartate",
+                "be": "লোকস্তদনুবর্ততে",
+                "ka": "ಲೋಕಸ್ತದನುವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "लोकास्तादनुवर्तते",
+                "en": "lokastadanuvartate",
+                "be": "লোকস্তাদনুবর্ততে",
+                "ka": "ಲೋಕಸ್ತದನುವರ್ತತೇ"
+            }
         }
     ],
     "tej": {

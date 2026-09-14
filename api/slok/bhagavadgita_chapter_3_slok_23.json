@@ -14,8 +14,18 @@
         "en": "yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ .\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||3-23||",
         "ka": "ಯದಿ ಹ್ಯಹಂ ನ ವರ್ತೇಯಂ ಜಾತು ಕರ್ಮಣ್ಯತನ್ದ್ರಿತಃ |\nಮಮ ವರ್ತ್ಮಾನುವರ್ತನ್ತೇ ಮನುಷ್ಯಾಃ ಪಾರ್ಥ ಸರ್ವಶಃ ||೩-೨೩||"
     },
-    "transliteration": "yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ .\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||3-23||",
-    "life_application": "Stay active and reliable in your role, realizing that your laziness can encourage slackness in those who rely on you.",
+    "transliteration": {
+        "hi": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः |\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||३-२३||",
+        "en": "yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ .\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||3-23||",
+        "be": "যদি হ্যহং ন বর্তেযং জাতু কর্মণ্যতন্দ্রিতঃ |\nমম বর্ত্মানুবর্তন্তে মনুষ্যাঃ পার্থ সর্বশঃ ||৩-২৩||",
+        "ka": "ಯದಿ ಹ್ಯಹಂ ನ ವರ್ತೇಯಂ ಜಾತು ಕರ್ಮಣ್ಯತನ್ದ್ರಿತಃ |\nಮಮ ವರ್ತ್ಮಾನುವರ್ತನ್ತೇ ಮನುಷ್ಯಾಃ ಪಾರ್ಥ ಸರ್ವಶಃ ||೩-೨೩||"
+    },
+    "life_application": {
+        "hi": "अपनी भूमिका में सक्रिय और विश्वसनीय रहें, यह महसूस करते हुए कि आपका आलस्य उन लोगों में शिथिलता को प्रोत्साहित कर सकता है जो आप पर भरोसा करते हैं।",
+        "en": "Stay active and reliable in your role, realizing that your laziness can encourage slackness in those who rely on you.",
+        "be": "আপনার ভূমিকায় সক্রিয় এবং নির্ভরযোগ্য থাকুন, আপনার অলসতা যারা আপনার উপর নির্ভর করে তাদের মধ্যে শিথিলতাকে উত্সাহিত করতে পারে তা উপলব্ধি করে।",
+        "ka": "ನಿಮ್ಮ ಸೋಮಾರಿತನವು ನಿಮ್ಮನ್ನು ಅವಲಂಬಿಸಿರುವವರಲ್ಲಿ ಆಲಸ್ಯವನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಅರಿತುಕೊಂಡು ನಿಮ್ಮ ಪಾತ್ರದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಮತ್ತು ವಿಶ್ವಾಸಾರ್ಹವಾಗಿರಿ."
+    },
     "themes": [
         "Leadership",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "ह्यहं",
-            "transliteration": "hyahaṃ",
-            "meaning": "hyahaṃ"
+            "transliteration": {
+                "hi": "ह्यहं",
+                "en": "hyahaṃ",
+                "be": "হ্যহং",
+                "ka": "ಹ್ಯಹಂ"
+            },
+            "meaning": {
+                "hi": "हयाहं",
+                "en": "hyahaṃ",
+                "be": "hyahaṃ",
+                "ka": "ಹೈಹಾಂ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "वर्तेयं",
-            "transliteration": "varteyaṃ",
-            "meaning": "varteyaṃ"
+            "transliteration": {
+                "hi": "वर्तेयं",
+                "en": "varteyaṃ",
+                "be": "বর্তেযং",
+                "ka": "ವರ್ತೇಯಂ"
+            },
+            "meaning": {
+                "hi": "वर्तेयं",
+                "en": "varteyaṃ",
+                "be": "varteyaṃ",
+                "ka": "varteyaṃ"
+            }
         },
         {
             "sanskrit": "जातु",
-            "transliteration": "jātu",
-            "meaning": "jātu"
+            "transliteration": {
+                "hi": "जातु",
+                "en": "jātu",
+                "be": "জাতু",
+                "ka": "ಜಾತು"
+            },
+            "meaning": {
+                "hi": "जाटू",
+                "en": "jātu",
+                "be": "jātu",
+                "ka": "ಜಾತು"
+            }
         },
         {
             "sanskrit": "कर्मण्यतन्द्रितः",
-            "transliteration": "karmaṇyatandritaḥ",
-            "meaning": "karmaṇyatandritaḥ"
+            "transliteration": {
+                "hi": "कर्मण्यतन्द्रितः",
+                "en": "karmaṇyatandritaḥ",
+                "be": "কর্মণ্যতন্দ্রিতঃ",
+                "ka": "ಕರ್ಮಣ್ಯತನ್ದ್ರಿತಃ"
+            },
+            "meaning": {
+                "hi": "कर्मण्यतन्द्रितः",
+                "en": "karmaṇyatandritaḥ",
+                "be": "কর্মময়তান্দ্রিতঃ",
+                "ka": "ಕರ್ಮಣ್ಯತನ್ದ್ರಿತಾಃ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "वर्त्मानुवर्तन्ते",
-            "transliteration": "vartmānuvartante",
-            "meaning": "vartmānuvartante"
+            "transliteration": {
+                "hi": "वर्त्मानुवर्तन्ते",
+                "en": "vartmānuvartante",
+                "be": "বর্ত্মানুবর্তন্তে",
+                "ka": "ವರ್ತ್ಮಾನುವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "वर्त्मनुवर्तन्ते",
+                "en": "vartmānuvartante",
+                "be": "vartmanuvartante",
+                "ka": "ವರ್ತ್ಮಾನುವರ್ತಂತೆ"
+            }
         },
         {
             "sanskrit": "मनुष्याः",
-            "transliteration": "manuṣyāḥ",
-            "meaning": "manuṣyāḥ"
+            "transliteration": {
+                "hi": "मनुष्याः",
+                "en": "manuṣyāḥ",
+                "be": "মনুষ্যাঃ",
+                "ka": "ಮನುಷ್ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "मनुष्यः",
+                "en": "manuṣyāḥ",
+                "be": "মনুষ্যঃ",
+                "ka": "ಮನುಷ್ಯಃ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "sarvaśaḥ"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "सर्वश:",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            }
         }
     ],
     "tej": {

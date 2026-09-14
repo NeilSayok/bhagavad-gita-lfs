@@ -14,8 +14,18 @@
         "en": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ .\nahaṅkāravimūḍhātmā kartāhamiti manyate ||3-27||",
         "ka": "ಪ್ರಕೃತೇಃ ಕ್ರಿಯಮಾಣಾನಿ ಗುಣೈಃ ಕರ್ಮಾಣಿ ಸರ್ವಶಃ |\nಅಹಙ್ಕಾರವಿಮೂಢಾತ್ಮಾ ಕರ್ತಾಹಮಿತಿ ಮನ್ಯತೇ ||೩-೨೭||"
     },
-    "transliteration": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ .\nahaṅkāravimūḍhātmā kartāhamiti manyate ||3-27||",
-    "life_application": "Release personal pride over your achievements today, recognizing that nature and circumstances enable all your actions.",
+    "transliteration": {
+        "hi": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः |\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||३-२७||",
+        "en": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ .\nahaṅkāravimūḍhātmā kartāhamiti manyate ||3-27||",
+        "be": "প্রকৃতেঃ ক্রিযমাণানি গুণৈঃ কর্মাণি সর্বশঃ |\nঅহঙ্কারবিমূঢাত্মা কর্তাহমিতি মন্যতে ||৩-২৭||",
+        "ka": "ಪ್ರಕೃತೇಃ ಕ್ರಿಯಮಾಣಾನಿ ಗುಣೈಃ ಕರ್ಮಾಣಿ ಸರ್ವಶಃ |\nಅಹಙ್ಕಾರವಿಮೂಢಾತ್ಮಾ ಕರ್ತಾಹಮಿತಿ ಮನ್ಯತೇ ||೩-೨೭||"
+    },
+    "life_application": {
+        "hi": "आज अपनी उपलब्धियों पर व्यक्तिगत गर्व छोड़ें, यह पहचानें कि प्रकृति और परिस्थितियाँ आपके सभी कार्यों को सक्षम बनाती हैं।",
+        "en": "Release personal pride over your achievements today, recognizing that nature and circumstances enable all your actions.",
+        "be": "আজ আপনার কৃতিত্বের উপর ব্যক্তিগত গর্ব মুক্ত করুন, প্রকৃতি এবং পরিস্থিতি আপনার সমস্ত কর্মকে সক্ষম করে তা স্বীকার করে।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಸಾಧನೆಗಳ ಬಗ್ಗೆ ವೈಯಕ್ತಿಕ ಹೆಮ್ಮೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ, ಪ್ರಕೃತಿ ಮತ್ತು ಸಂದರ್ಭಗಳು ನಿಮ್ಮ ಎಲ್ಲಾ ಕಾರ್ಯಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತವೆ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Detachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "प्रकृतेः",
-            "transliteration": "prakṛteḥ",
-            "meaning": "prakṛteḥ"
+            "transliteration": {
+                "hi": "प्रकृतेः",
+                "en": "prakṛteḥ",
+                "be": "প্রকৃতেঃ",
+                "ka": "ಪ್ರಕೃತೇಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृतेः",
+                "en": "prakṛteḥ",
+                "be": "প্রকৃততেঃ",
+                "ka": "ಪ್ರಕೃತೇಃ"
+            }
         },
         {
             "sanskrit": "क्रियमाणानि",
-            "transliteration": "kriyamāṇāni",
-            "meaning": "kriyamāṇāni"
+            "transliteration": {
+                "hi": "क्रियमाणानि",
+                "en": "kriyamāṇāni",
+                "be": "ক্রিযমাণানি",
+                "ka": "ಕ್ರಿಯಮಾಣಾನಿ"
+            },
+            "meaning": {
+                "hi": "क्रियमाणानि",
+                "en": "kriyamāṇāni",
+                "be": "ক্রিয়ামনানি",
+                "ka": "ಕ್ರಿಯಾಮಾನಿ"
+            }
         },
         {
             "sanskrit": "गुणैः",
-            "transliteration": "guṇaiḥ",
-            "meaning": "guṇaiḥ"
+            "transliteration": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুণৈঃ",
+                "ka": "ಗುಣೈಃ"
+            },
+            "meaning": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুনাইঃ",
+                "ka": "ಗುಣೈಃ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "karmāṇi"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণী",
+                "ka": "ಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "sarvaśaḥ"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "सर्वश:",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            }
         },
         {
             "sanskrit": "अहङ्कारविमूढात्मा",
-            "transliteration": "ahaṅkāravimūḍhātmā",
-            "meaning": "ahaṅkāravimūḍhātmā"
+            "transliteration": {
+                "hi": "अहङ्कारविमूढात्मा",
+                "en": "ahaṅkāravimūḍhātmā",
+                "be": "অহঙ্কারবিমূঢাত্মা",
+                "ka": "ಅಹಙ್ಕಾರವಿಮೂಢಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "अहंकारविमूढात्मा",
+                "en": "ahaṅkāravimūḍhātmā",
+                "be": "অহঙ্কারবিমুধত্মা",
+                "ka": "ಅಹಂಕಾರವಿಮೂಢಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "कर्ताहमिति",
-            "transliteration": "kartāhamiti",
-            "meaning": "kartāhamiti"
+            "transliteration": {
+                "hi": "कर्ताहमिति",
+                "en": "kartāhamiti",
+                "be": "কর্তাহমিতি",
+                "ka": "ಕರ್ತಾಹಮಿತಿ"
+            },
+            "meaning": {
+                "hi": "कर्ताहमिति",
+                "en": "kartāhamiti",
+                "be": "কর্তাহমিতি",
+                "ka": "ಕರ್ತಾಹಮಿತಿ"
+            }
         },
         {
             "sanskrit": "मन्यते",
-            "transliteration": "manyate",
-            "meaning": "manyate"
+            "transliteration": {
+                "hi": "मन्यते",
+                "en": "manyate",
+                "be": "মন্যতে",
+                "ka": "ಮನ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "मन्यते",
+                "en": "manyate",
+                "be": "অনেক",
+                "ka": "ಅನೇಕತೆ"
+            }
         }
     ],
     "tej": {

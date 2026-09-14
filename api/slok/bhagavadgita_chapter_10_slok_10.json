@@ -14,8 +14,18 @@
         "en": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam .\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ||10-10||",
         "ka": "ತೇಷಾಂ ಸತತಯುಕ್ತಾನಾಂ ಭಜತಾಂ ಪ್ರೀತಿಪೂರ್ವಕಮ್ |\nದದಾಮಿ ಬುದ್ಧಿಯೋಗಂ ತಂ ಯೇನ ಮಾಮುಪಯಾನ್ತಿ ತೇ ||೧೦-೧೦||"
     },
-    "transliteration": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam .\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ||10-10||",
-    "life_application": "To those ever-steadfast, worshipping with love, God grants the yoga of wisdom by which they reach the Supreme.",
+    "transliteration": {
+        "hi": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |\nददामि बुद्धियोगं तं येन मामुपयान्ति ते ||१०-१०||",
+        "en": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam .\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ||10-10||",
+        "be": "তেষাং সততযুক্তানাং ভজতাং প্রীতিপূর্বকম্ |\nদদামি বুদ্ধিযোগং তং যেন মামুপযান্তি তে ||১০-১০||",
+        "ka": "ತೇಷಾಂ ಸತತಯುಕ್ತಾನಾಂ ಭಜತಾಂ ಪ್ರೀತಿಪೂರ್ವಕಮ್ |\nದದಾಮಿ ಬುದ್ಧಿಯೋಗಂ ತಂ ಯೇನ ಮಾಮುಪಯಾನ್ತಿ ತೇ ||೧೦-೧೦||"
+    },
+    "life_application": {
+        "hi": "जो लोग सदैव स्थिर रहते हैं, प्रेम से पूजा करते हैं, उन्हें भगवान ज्ञान का योग देते हैं जिसके द्वारा वे सर्वोच्च तक पहुंच जाते हैं।",
+        "en": "To those ever-steadfast, worshipping with love, God grants the yoga of wisdom by which they reach the Supreme.",
+        "be": "যারা নিত্য অবিচল, প্রেমের সাথে উপাসনা করে, ভগবান তাদেরকে জ্ঞানের যোগ দেন যার দ্বারা তারা পরমে পৌঁছান।",
+        "ka": "ಯಾರು ಸದಾ ಸ್ಥೈರ್ಯ, ಪ್ರೀತಿಯಿಂದ ಪೂಜಿಸುತ್ತಾರೋ ಅವರಿಗೆ ಪರಮಾತ್ಮನನ್ನು ತಲುಪುವ ಜ್ಞಾನದ ಯೋಗವನ್ನು ದೇವರು ನೀಡುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "तेषां",
-            "transliteration": "teṣāṃ",
-            "meaning": "teṣāṃ"
+            "transliteration": {
+                "hi": "तेषां",
+                "en": "teṣāṃ",
+                "be": "তেষাং",
+                "ka": "ತೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "तेषां",
+                "en": "teṣāṃ",
+                "be": "তেষাণ",
+                "ka": "ತೇಶಾಶ"
+            }
         },
         {
             "sanskrit": "सततयुक्तानां",
-            "transliteration": "satatayuktānāṃ",
-            "meaning": "satatayuktānāṃ"
+            "transliteration": {
+                "hi": "सततयुक्तानां",
+                "en": "satatayuktānāṃ",
+                "be": "সততযুক্তানাং",
+                "ka": "ಸತತಯುಕ್ತಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "सततयुक्तानम्",
+                "en": "satatayuktānāṃ",
+                "be": "satatayuktānāṃ",
+                "ka": "ಶತತಾಯುಕ್ತಾನಂ"
+            }
         },
         {
             "sanskrit": "भजतां",
-            "transliteration": "bhajatāṃ",
-            "meaning": "bhajatāṃ"
+            "transliteration": {
+                "hi": "भजतां",
+                "en": "bhajatāṃ",
+                "be": "ভজতাং",
+                "ka": "ಭಜತಾಂ"
+            },
+            "meaning": {
+                "hi": "भजताम्",
+                "en": "bhajatāṃ",
+                "be": "bhajatāṃ",
+                "ka": "ಭಜತಾಂ"
+            }
         },
         {
             "sanskrit": "प्रीतिपूर्वकम्",
-            "transliteration": "prītipūrvakam",
-            "meaning": "prītipūrvakam"
+            "transliteration": {
+                "hi": "प्रीतिपूर्वकम्",
+                "en": "prītipūrvakam",
+                "be": "প্রীতিপূর্বকম্",
+                "ka": "ಪ್ರೀತಿಪೂರ್ವಕಮ್"
+            },
+            "meaning": {
+                "hi": "प्रीतिपूर्वकम्",
+                "en": "prītipūrvakam",
+                "be": "প্রীতিপুর্বকম",
+                "ka": "ಪ್ರೀತಿಪೂರ್ವಕಮ್"
+            }
         },
         {
             "sanskrit": "ददामि",
-            "transliteration": "dadāmi",
-            "meaning": "dadāmi"
+            "transliteration": {
+                "hi": "ददामि",
+                "en": "dadāmi",
+                "be": "দদামি",
+                "ka": "ದದಾಮಿ"
+            },
+            "meaning": {
+                "hi": "दादामी",
+                "en": "dadāmi",
+                "be": "দাদামি",
+                "ka": "ದಾದಾಮಿ"
+            }
         },
         {
             "sanskrit": "बुद्धियोगं",
-            "transliteration": "buddhiyogaṃ",
-            "meaning": "buddhiyogaṃ"
+            "transliteration": {
+                "hi": "बुद्धियोगं",
+                "en": "buddhiyogaṃ",
+                "be": "বুদ্ধিযোগং",
+                "ka": "ಬುದ್ಧಿಯೋಗಂ"
+            },
+            "meaning": {
+                "hi": "बुद्धियोगम्",
+                "en": "buddhiyogaṃ",
+                "be": "বুদ্ধিযোগ",
+                "ka": "ಬುದ್ಧಿಯೋಗ"
+            }
         },
         {
             "sanskrit": "तं",
-            "transliteration": "taṃ",
-            "meaning": "taṃ"
+            "transliteration": {
+                "hi": "तं",
+                "en": "taṃ",
+                "be": "তং",
+                "ka": "ತಂ"
+            },
+            "meaning": {
+                "hi": "टैं",
+                "en": "taṃ",
+                "be": "taṃ",
+                "ka": "taṃ"
+            }
         },
         {
             "sanskrit": "येन",
-            "transliteration": "yena",
-            "meaning": "yena"
+            "transliteration": {
+                "hi": "येन",
+                "en": "yena",
+                "be": "যেন",
+                "ka": "ಯೇನ"
+            },
+            "meaning": {
+                "hi": "येना",
+                "en": "yena",
+                "be": "ইয়েনা",
+                "ka": "ಯೇನಾ"
+            }
         },
         {
             "sanskrit": "मामुपयान्ति",
-            "transliteration": "māmupayānti",
-            "meaning": "māmupayānti"
+            "transliteration": {
+                "hi": "मामुपयान्ति",
+                "en": "māmupayānti",
+                "be": "মামুপযান্তি",
+                "ka": "ಮಾಮುಪಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "मामुपयन्ति",
+                "en": "māmupayānti",
+                "be": "মামুপায়ন্তী",
+                "ka": "ಮಾಮುಪಯಂತಿ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         }
     ],
     "tej": {

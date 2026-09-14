@@ -14,8 +14,18 @@
         "en": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||",
         "ka": "ವಕ್ತುಮರ್ಹಸ್ಯಶೇಷೇಣ ದಿವ್ಯಾ ಹ್ಯಾತ್ಮವಿಭೂತಯಃ |\nಯಾಭಿರ್ವಿಭೂತಿಭಿರ್ಲೋಕಾನಿಮಾಂಸ್ತ್ವಂ ವ್ಯಾಪ್ಯ ತಿಷ್ಠಸಿ ||೧೦-೧೬||"
     },
-    "transliteration": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||",
-    "life_application": "Ask to hear the divine manifestations by which God pervades and abides in all these worlds.",
+    "transliteration": {
+        "hi": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः |\nयाभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||",
+        "en": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||",
+        "be": "বক্তুমর্হস্যশেষেণ দিব্যা হ্যাত্মবিভূতযঃ |\nযাভির্বিভূতিভির্লোকানিমাংস্ত্বং ব্যাপ্য তিষ্ঠসি ||১০-১৬||",
+        "ka": "ವಕ್ತುಮರ್ಹಸ್ಯಶೇಷೇಣ ದಿವ್ಯಾ ಹ್ಯಾತ್ಮವಿಭೂತಯಃ |\nಯಾಭಿರ್ವಿಭೂತಿಭಿರ್ಲೋಕಾನಿಮಾಂಸ್ತ್ವಂ ವ್ಯಾಪ್ಯ ತಿಷ್ಠಸಿ ||೧೦-೧೬||"
+    },
+    "life_application": {
+        "hi": "उन दिव्य अभिव्यक्तियों को सुनने के लिए कहें जिनके द्वारा भगवान इन सभी संसारों में व्याप्त और निवास करते हैं।",
+        "en": "Ask to hear the divine manifestations by which God pervades and abides in all these worlds.",
+        "be": "ঐশ্বরিক প্রকাশ শ্রবণ করতে বলুন যার দ্বারা ঈশ্বর এই সমস্ত জগতে বিরাজ করেন এবং অবস্থান করেন।",
+        "ka": "ಈ ಎಲ್ಲಾ ಲೋಕಗಳಲ್ಲಿ ದೇವರು ವ್ಯಾಪಿಸಿರುವ ಮತ್ತು ನೆಲೆಸಿರುವ ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಕೇಳಲು ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "वक्तुमर्हस्यशेषेण",
-            "transliteration": "vaktumarhasyaśeṣeṇa",
-            "meaning": "vaktumarhasyaśeṣeṇa"
+            "transliteration": {
+                "hi": "वक्तुमर्हस्यशेषेण",
+                "en": "vaktumarhasyaśeṣeṇa",
+                "be": "বক্তুমর্হস্যশেষেণ",
+                "ka": "ವಕ್ತುಮರ್ಹಸ್ಯಶೇಷೇಣ"
+            },
+            "meaning": {
+                "hi": "वक्तुमरहस्यशेषेन",
+                "en": "vaktumarhasyaśeṣeṇa",
+                "be": "vaktumarhasyaśeṣeṇa",
+                "ka": "ವಕ್ತುಮರ್ಹಸ್ಯಾಶೇನ"
+            }
         },
         {
             "sanskrit": "दिव्या",
-            "transliteration": "divyā",
-            "meaning": "divyā"
+            "transliteration": {
+                "hi": "दिव्या",
+                "en": "divyā",
+                "be": "দিব্যা",
+                "ka": "ದಿವ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "दिव्या",
+                "en": "divyā",
+                "be": "দিব্য",
+                "ka": "ದಿವ್ಯ"
+            }
         },
         {
             "sanskrit": "ह्यात्मविभूतयः",
-            "transliteration": "hyātmavibhūtayaḥ",
-            "meaning": "hyātmavibhūtayaḥ"
+            "transliteration": {
+                "hi": "ह्यात्मविभूतयः",
+                "en": "hyātmavibhūtayaḥ",
+                "be": "হ্যাত্মবিভূতযঃ",
+                "ka": "ಹ್ಯಾತ್ಮವಿಭೂತಯಃ"
+            },
+            "meaning": {
+                "hi": "ह्यात्मविभूतयः",
+                "en": "hyātmavibhūtayaḥ",
+                "be": "hyātmavibhūtayah",
+                "ka": "ಹ್ಯಾತ್ಮವಿಭೂತಾಯಃ"
+            }
         },
         {
             "sanskrit": "याभिर्विभूतिभिर्लोकानिमांस्त्वं",
-            "transliteration": "yābhirvibhūtibhirlokānimāṃstvaṃ",
-            "meaning": "yābhirvibhūtibhirlokānimāṃstvaṃ"
+            "transliteration": {
+                "hi": "याभिर्विभूतिभिर्लोकानिमांस्त्वं",
+                "en": "yābhirvibhūtibhirlokānimāṃstvaṃ",
+                "be": "যাভির্বিভূতিভির্লোকানিমাংস্ত্বং",
+                "ka": "ಯಾಭಿರ್ವಿಭೂತಿಭಿರ್ಲೋಕಾನಿಮಾಂಸ್ತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "याभिर्विभूतिभिर्लोकनिमस्त्वं",
+                "en": "yābhirvibhūtibhirlokānimāṃstvaṃ",
+                "be": "yābhirvibhutibhirlokānimāṃstvaṃ",
+                "ka": "ಯಾಭಿರ್ವಿಭೂತಿಭಿರ್ಲೋಕನಿಮಾನ್ಸ್ತ್ವಮ್"
+            }
         },
         {
             "sanskrit": "व्याप्य",
-            "transliteration": "vyāpya",
-            "meaning": "vyāpya"
+            "transliteration": {
+                "hi": "व्याप्य",
+                "en": "vyāpya",
+                "be": "ব্যাপ্য",
+                "ka": "ವ್ಯಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "व्याप्य",
+                "en": "vyāpya",
+                "be": "ব্যাপ্যা",
+                "ka": "ವ್ಯಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "तिष्ठसि",
-            "transliteration": "tiṣṭhasi",
-            "meaning": "tiṣṭhasi"
+            "transliteration": {
+                "hi": "तिष्ठसि",
+                "en": "tiṣṭhasi",
+                "be": "তিষ্ঠসি",
+                "ka": "ತಿಷ್ಠಸಿ"
+            },
+            "meaning": {
+                "hi": "तिष्ठसि",
+                "en": "tiṣṭhasi",
+                "be": "তিষ্টসি",
+                "ka": "ತಿಷ್ಠಸಿ"
+            }
         }
     ],
     "tej": {

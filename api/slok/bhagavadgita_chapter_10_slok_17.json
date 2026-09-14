@@ -14,8 +14,18 @@
         "en": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||",
         "ka": "ಕಥಂ ವಿದ್ಯಾಮಹಂ ಯೋಗಿಂಸ್ತ್ವಾಂ ಸದಾ ಪರಿಚಿನ್ತಯನ್ |\nಕೇಷು ಕೇಷು ಚ ಭಾವೇಷು ಚಿನ್ತ್ಯೋಽಸಿ ಭಗವನ್ಮಯಾ ||೧೦-೧೭||"
     },
-    "transliteration": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||",
-    "life_application": "Inquire how to know God through constant meditation, and upon which divine aspects to contemplate.",
+    "transliteration": {
+        "hi": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् |\nकेषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||१०-१७||",
+        "en": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||",
+        "be": "কথং বিদ্যামহং যোগিংস্ত্বাং সদা পরিচিন্তযন্ |\nকেষু কেষু চ ভাবেষু চিন্ত্যোঽসি ভগবন্মযা ||১০-১৭||",
+        "ka": "ಕಥಂ ವಿದ್ಯಾಮಹಂ ಯೋಗಿಂಸ್ತ್ವಾಂ ಸದಾ ಪರಿಚಿನ್ತಯನ್ |\nಕೇಷು ಕೇಷು ಚ ಭಾವೇಷು ಚಿನ್ತ್ಯೋಽಸಿ ಭಗವನ್ಮಯಾ ||೧೦-೧೭||"
+    },
+    "life_application": {
+        "hi": "पूछताछ करें कि निरंतर ध्यान के माध्यम से ईश्वर को कैसे जाना जाए, और किन दिव्य पहलुओं पर चिंतन किया जाए।",
+        "en": "Inquire how to know God through constant meditation, and upon which divine aspects to contemplate.",
+        "be": "ক্রমাগত ধ্যানের মাধ্যমে কীভাবে ঈশ্বরকে জানা যায় এবং কোন ঐশ্বরিক দিকগুলিকে চিন্তা করতে হয় তা অনুসন্ধান করুন।",
+        "ka": "ನಿರಂತರ ಧ್ಯಾನದ ಮೂಲಕ ದೇವರನ್ನು ಹೇಗೆ ತಿಳಿಯುವುದು ಮತ್ತು ಯಾವ ದೈವಿಕ ಅಂಶಗಳನ್ನು ಆಲೋಚಿಸಬೇಕು ಎಂದು ವಿಚಾರಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कथं",
-            "transliteration": "kathaṃ",
-            "meaning": "kathaṃ"
+            "transliteration": {
+                "hi": "कथं",
+                "en": "kathaṃ",
+                "be": "কথং",
+                "ka": "ಕಥಂ"
+            },
+            "meaning": {
+                "hi": "कथा",
+                "en": "kathaṃ",
+                "be": "কথা",
+                "ka": "ಕಥಾಂ"
+            }
         },
         {
             "sanskrit": "विद्यामहं",
-            "transliteration": "vidyāmahaṃ",
-            "meaning": "vidyāmahaṃ"
+            "transliteration": {
+                "hi": "विद्यामहं",
+                "en": "vidyāmahaṃ",
+                "be": "বিদ্যামহং",
+                "ka": "ವಿದ್ಯಾಮಹಂ"
+            },
+            "meaning": {
+                "hi": "विद्यामहं",
+                "en": "vidyāmahaṃ",
+                "be": "বিদ্যামহাম",
+                "ka": "vidyamahaṃ"
+            }
         },
         {
             "sanskrit": "योगिंस्त्वां",
-            "transliteration": "yogiṃstvāṃ",
-            "meaning": "yogiṃstvāṃ"
+            "transliteration": {
+                "hi": "योगिंस्त्वां",
+                "en": "yogiṃstvāṃ",
+                "be": "যোগিংস্ত্বাং",
+                "ka": "ಯೋಗಿಂಸ್ತ್ವಾಂ"
+            },
+            "meaning": {
+                "hi": "योगिस्त्वं",
+                "en": "yogiṃstvāṃ",
+                "be": "যোগীস্ত্বনা",
+                "ka": "ಯೋಗಿಸ್ತ್ವಂ"
+            }
         },
         {
             "sanskrit": "सदा",
-            "transliteration": "sadā",
-            "meaning": "sadā"
+            "transliteration": {
+                "hi": "सदा",
+                "en": "sadā",
+                "be": "সদা",
+                "ka": "ಸದಾ"
+            },
+            "meaning": {
+                "hi": "सदा",
+                "en": "sadā",
+                "be": "sadā",
+                "ka": "ಸದಾ"
+            }
         },
         {
             "sanskrit": "परिचिन्तयन्",
-            "transliteration": "paricintayan",
-            "meaning": "paricintayan"
+            "transliteration": {
+                "hi": "परिचिन्तयन्",
+                "en": "paricintayan",
+                "be": "পরিচিন্তযন্",
+                "ka": "ಪರಿಚಿನ್ತಯನ್"
+            },
+            "meaning": {
+                "hi": "परिचिंतायन",
+                "en": "paricintayan",
+                "be": "পরিচিন্তায়ণ",
+                "ka": "ಪರಿಚಿಂತಯನ್"
+            }
         },
         {
             "sanskrit": "केषु",
-            "transliteration": "keṣu",
-            "meaning": "keṣu"
+            "transliteration": {
+                "hi": "केषु",
+                "en": "keṣu",
+                "be": "কেষু",
+                "ka": "ಕೇಷು"
+            },
+            "meaning": {
+                "hi": "केशु",
+                "en": "keṣu",
+                "be": "keṣu",
+                "ka": "ಕೇಸು"
+            }
         },
         {
             "sanskrit": "केषु",
-            "transliteration": "keṣu",
-            "meaning": "keṣu"
+            "transliteration": {
+                "hi": "केषु",
+                "en": "keṣu",
+                "be": "কেষু",
+                "ka": "ಕೇಷು"
+            },
+            "meaning": {
+                "hi": "केशु",
+                "en": "keṣu",
+                "be": "keṣu",
+                "ka": "ಕೇಸು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भावेषु",
-            "transliteration": "bhāveṣu",
-            "meaning": "bhāveṣu"
+            "transliteration": {
+                "hi": "भावेषु",
+                "en": "bhāveṣu",
+                "be": "ভাবেষু",
+                "ka": "ಭಾವೇಷು"
+            },
+            "meaning": {
+                "hi": "भवेषु",
+                "en": "bhāveṣu",
+                "be": "bhāveṣu",
+                "ka": "ಭಾವೇಷು"
+            }
         },
         {
             "sanskrit": "चिन्त्योऽसि",
-            "transliteration": "cintyo'si",
-            "meaning": "cintyo'si"
+            "transliteration": {
+                "hi": "चिन्त्योऽसि",
+                "en": "cintyo'si",
+                "be": "চিন্ত্যোঽসি",
+                "ka": "ಚಿನ್ತ್ಯೋಽಸಿ"
+            },
+            "meaning": {
+                "hi": "सिंत्यो'सी",
+                "en": "cintyo'si",
+                "be": "cintyo'si",
+                "ka": "ಸಿಂಟ್ಯೋಸಿ"
+            }
         },
         {
             "sanskrit": "भगवन्मया",
-            "transliteration": "bhagavanmayā",
-            "meaning": "bhagavanmayā"
+            "transliteration": {
+                "hi": "भगवन्मया",
+                "en": "bhagavanmayā",
+                "be": "ভগবন্মযা",
+                "ka": "ಭಗವನ್ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "भगवन्मय",
+                "en": "bhagavanmayā",
+                "be": "ভগবানমায়া",
+                "ka": "ಭಗವನ್ಮಯ"
+            }
         }
     ],
     "tej": {

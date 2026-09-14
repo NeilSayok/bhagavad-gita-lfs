@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nbhūya eva mahābāho śṛṇu me paramaṃ vacaḥ .\nyatte.ahaṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10-1||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಭೂಯ ಏವ ಮಹಾಬಾಹೋ ಶೃಣು ಮೇ ಪರಮಂ ವಚಃ |\nಯತ್ತೇಽಹಂ ಪ್ರೀಯಮಾಣಾಯ ವಕ್ಷ್ಯಾಮಿ ಹಿತಕಾಮ್ಯಯಾ ||೧೦-೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\nbhūya eva mahābāho śṛṇu me paramaṃ vacaḥ .\nyatte.ahaṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10-1||",
-    "life_application": "Listen further to supreme divine words spoken for your benefit because you take delight in spiritual truth.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nभूय एव महाबाहो शृणु मे परमं वचः |\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||",
+        "en": "śrībhagavānuvāca .\nbhūya eva mahābāho śṛṇu me paramaṃ vacaḥ .\nyatte.ahaṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10-1||",
+        "be": "শ্রীভগবানুবাচ |\nভূয এব মহাবাহো শৃণু মে পরমং বচঃ |\nযত্তেঽহং প্রীযমাণায বক্ষ্যামি হিতকাম্যযা ||১০-১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಭೂಯ ಏವ ಮಹಾಬಾಹೋ ಶೃಣು ಮೇ ಪರಮಂ ವಚಃ |\nಯತ್ತೇಽಹಂ ಪ್ರೀಯಮಾಣಾಯ ವಕ್ಷ್ಯಾಮಿ ಹಿತಕಾಮ್ಯಯಾ ||೧೦-೧||"
+    },
+    "life_application": {
+        "hi": "अपने लाभ के लिए बोले गए सर्वोच्च दिव्य शब्दों को आगे सुनें क्योंकि आप आध्यात्मिक सत्य से प्रसन्न होते हैं।",
+        "en": "Listen further to supreme divine words spoken for your benefit because you take delight in spiritual truth.",
+        "be": "আপনার উপকারের জন্য উচ্চারিত সর্বোচ্চ ঐশ্বরিক শব্দগুলি আরও শুনুন কারণ আপনি আধ্যাত্মিক সত্যে আনন্দ পান।",
+        "ka": "ನೀವು ಆಧ್ಯಾತ್ಮಿಕ ಸತ್ಯದಲ್ಲಿ ಆನಂದಪಡುವುದರಿಂದ ನಿಮ್ಮ ಪ್ರಯೋಜನಕ್ಕಾಗಿ ಹೇಳಲಾದ ಪರಮೋಚ್ಚ ದೈವಿಕ ಮಾತುಗಳನ್ನು ಆಲಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "भूय",
-            "transliteration": "bhūya",
-            "meaning": "bhūya"
+            "transliteration": {
+                "hi": "भूय",
+                "en": "bhūya",
+                "be": "ভূয",
+                "ka": "ಭೂಯ"
+            },
+            "meaning": {
+                "hi": "भुइया",
+                "en": "bhūya",
+                "be": "ভূয়া",
+                "ka": "ಭೂಯಾ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "mahābāho"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            }
         },
         {
             "sanskrit": "शृणु",
-            "transliteration": "śṛṇu",
-            "meaning": "śṛṇu"
+            "transliteration": {
+                "hi": "शृणु",
+                "en": "śṛṇu",
+                "be": "শৃণু",
+                "ka": "ಶೃಣು"
+            },
+            "meaning": {
+                "hi": "श्रृणु",
+                "en": "śṛṇu",
+                "be": "শৃণু",
+                "ka": "ಕೃಷ್ಣು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "परमं",
-            "transliteration": "paramaṃ",
-            "meaning": "paramaṃ"
+            "transliteration": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "वचः",
-            "transliteration": "vacaḥ",
-            "meaning": "vacaḥ"
+            "transliteration": {
+                "hi": "वचः",
+                "en": "vacaḥ",
+                "be": "বচঃ",
+                "ka": "ವಚಃ"
+            },
+            "meaning": {
+                "hi": "वचः",
+                "en": "vacaḥ",
+                "be": "vacaḥ",
+                "ka": "vacaḥ"
+            }
         },
         {
             "sanskrit": "यत्तेऽहं",
-            "transliteration": "yatte'haṃ",
-            "meaning": "yatte'haṃ"
+            "transliteration": {
+                "hi": "यत्तेऽहं",
+                "en": "yatte'haṃ",
+                "be": "যত্তেঽহং",
+                "ka": "ಯತ್ತೇಽಹಂ"
+            },
+            "meaning": {
+                "hi": "यत्तेऽहं",
+                "en": "yatte'haṃ",
+                "be": "yatte'haṃ",
+                "ka": "ಯಟ್ಟೆ'ಹಾಂ"
+            }
         },
         {
             "sanskrit": "प्रीयमाणाय",
-            "transliteration": "prīyamāṇāya",
-            "meaning": "prīyamāṇāya"
+            "transliteration": {
+                "hi": "प्रीयमाणाय",
+                "en": "prīyamāṇāya",
+                "be": "প্রীযমাণায",
+                "ka": "ಪ್ರೀಯಮಾಣಾಯ"
+            },
+            "meaning": {
+                "hi": "प्रियामानया",
+                "en": "prīyamāṇāya",
+                "be": "প্রিয়ামানায়া",
+                "ka": "ಪ್ರಿಯಮಾನಾಯ"
+            }
         },
         {
             "sanskrit": "वक्ष्यामि",
-            "transliteration": "vakṣyāmi",
-            "meaning": "vakṣyāmi"
+            "transliteration": {
+                "hi": "वक्ष्यामि",
+                "en": "vakṣyāmi",
+                "be": "বক্ষ্যামি",
+                "ka": "ವಕ್ಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "वक्षयामि",
+                "en": "vakṣyāmi",
+                "be": "vakṣyāmi",
+                "ka": "ವಕ್ಷ್ಯಾಮಿ"
+            }
         },
         {
             "sanskrit": "हितकाम्यया",
-            "transliteration": "hitakāmyayā",
-            "meaning": "hitakāmyayā"
+            "transliteration": {
+                "hi": "हितकाम्यया",
+                "en": "hitakāmyayā",
+                "be": "হিতকাম্যযা",
+                "ka": "ಹಿತಕಾಮ್ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "हितकामया",
+                "en": "hitakāmyayā",
+                "be": "hitakāmyayaā",
+                "ka": "ಹಿತಕಾಮ್ಯಯಾ"
+            }
         }
     ],
     "tej": {

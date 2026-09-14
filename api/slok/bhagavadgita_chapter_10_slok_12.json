@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪರಂ ಬ್ರಹ್ಮ ಪರಂ ಧಾಮ ಪವಿತ್ರಂ ಪರಮಂ ಭವಾನ್ |\nಪುರುಷಂ ಶಾಶ್ವತಂ ದಿವ್ಯಮಾದಿದೇವಮಜಂ ವಿಭುಮ್ ||೧೦-೧೨||"
     },
-    "transliteration": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||",
-    "life_application": "Acknowledge God as the supreme Brahman, ultimate abode, supreme purifier, eternal divine person, primeval deity.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् |\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ||१०-१२||",
+        "en": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||",
+        "be": "অর্জুন উবাচ |\nপরং ব্রহ্ম পরং ধাম পবিত্রং পরমং ভবান্ |\nপুরুষং শাশ্বতং দিব্যমাদিদেবমজং বিভুম্ ||১০-১২||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪರಂ ಬ್ರಹ್ಮ ಪರಂ ಧಾಮ ಪವಿತ್ರಂ ಪರಮಂ ಭವಾನ್ |\nಪುರುಷಂ ಶಾಶ್ವತಂ ದಿವ್ಯಮಾದಿದೇವಮಜಂ ವಿಭುಮ್ ||೧೦-೧೨||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सर्वोच्च ब्रह्म, परम निवास, सर्वोच्च शुद्ध करने वाला, शाश्वत दिव्य व्यक्ति, आदि देवता के रूप में स्वीकार करें।",
+        "en": "Acknowledge God as the supreme Brahman, ultimate abode, supreme purifier, eternal divine person, primeval deity.",
+        "be": "ঈশ্বরকে পরম ব্রহ্ম, পরম আবাস, পরম শুদ্ধকারী, শাশ্বত ঐশ্বরিক ব্যক্তি, আদি দেবতা হিসাবে স্বীকার করুন।",
+        "ka": "ಪರಮಾತ್ಮನನ್ನು ಪರಮ ಬ್ರಹ್ಮನ್, ಅಂತಿಮ ವಾಸಸ್ಥಳ, ಸರ್ವೋಚ್ಚ ಶುದ್ಧಿಕಾರ, ಶಾಶ್ವತ ದೈವಿಕ ವ್ಯಕ್ತಿ, ಪ್ರಧಾನ ದೇವತೆ ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "धाम",
-            "transliteration": "dhāma",
-            "meaning": "dhāma"
+            "transliteration": {
+                "hi": "धाम",
+                "en": "dhāma",
+                "be": "ধাম",
+                "ka": "ಧಾಮ"
+            },
+            "meaning": {
+                "hi": "धाम",
+                "en": "dhāma",
+                "be": "ধাম",
+                "ka": "ಧಾಮ"
+            }
         },
         {
             "sanskrit": "पवित्रं",
-            "transliteration": "pavitraṃ",
-            "meaning": "pavitraṃ"
+            "transliteration": {
+                "hi": "पवित्रं",
+                "en": "pavitraṃ",
+                "be": "পবিত্রং",
+                "ka": "ಪವಿತ್ರಂ"
+            },
+            "meaning": {
+                "hi": "पवित्रं",
+                "en": "pavitraṃ",
+                "be": "pavitraṃ",
+                "ka": "pavitraṃ"
+            }
         },
         {
             "sanskrit": "परमं",
-            "transliteration": "paramaṃ",
-            "meaning": "paramaṃ"
+            "transliteration": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "भवान्",
-            "transliteration": "bhavān",
-            "meaning": "bhavān"
+            "transliteration": {
+                "hi": "भवान्",
+                "en": "bhavān",
+                "be": "ভবান্",
+                "ka": "ಭವಾನ್"
+            },
+            "meaning": {
+                "hi": "भवन",
+                "en": "bhavān",
+                "be": "ভান",
+                "ka": "ಭವನ್"
+            }
         },
         {
             "sanskrit": "पुरुषं",
-            "transliteration": "puruṣaṃ",
-            "meaning": "puruṣaṃ"
+            "transliteration": {
+                "hi": "पुरुषं",
+                "en": "puruṣaṃ",
+                "be": "পুরুষং",
+                "ka": "ಪುರುಷಂ"
+            },
+            "meaning": {
+                "hi": "पुरुषम्",
+                "en": "puruṣaṃ",
+                "be": "purusaṃ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "शाश्वतं",
-            "transliteration": "śāśvataṃ",
-            "meaning": "śāśvataṃ"
+            "transliteration": {
+                "hi": "शाश्वतं",
+                "en": "śāśvataṃ",
+                "be": "শাশ্বতং",
+                "ka": "ಶಾಶ್ವತಂ"
+            },
+            "meaning": {
+                "hi": "शाश्वतम्",
+                "en": "śāśvataṃ",
+                "be": "শাশ্বতং",
+                "ka": "ಶಾಶ್ವತಂ"
+            }
         },
         {
             "sanskrit": "दिव्यमादिदेवमजं",
-            "transliteration": "divyamādidevamajaṃ",
-            "meaning": "divyamādidevamajaṃ"
+            "transliteration": {
+                "hi": "दिव्यमादिदेवमजं",
+                "en": "divyamādidevamajaṃ",
+                "be": "দিব্যমাদিদেবমজং",
+                "ka": "ದಿವ್ಯಮಾದಿದೇವಮಜಂ"
+            },
+            "meaning": {
+                "hi": "दिव्यमादिदेवमजं",
+                "en": "divyamādidevamajaṃ",
+                "be": "divyamādidevamajaṃ",
+                "ka": "ದಿವ್ಯಮಾದಿದೇವಮಜಃ"
+            }
         },
         {
             "sanskrit": "विभुम्",
-            "transliteration": "vibhum",
-            "meaning": "vibhum"
+            "transliteration": {
+                "hi": "विभुम्",
+                "en": "vibhum",
+                "be": "বিভুম্",
+                "ka": "ವಿಭುಮ್"
+            },
+            "meaning": {
+                "hi": "विभुम्",
+                "en": "vibhum",
+                "be": "বিভুম",
+                "ka": "ವಿಭುಮ್"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
         "ka": "ಸ್ವಯಮೇವಾತ್ಮನಾತ್ಮಾನಂ ವೇತ್ಥ ತ್ವಂ ಪುರುಷೋತ್ತಮ |\nಭೂತಭಾವನ ಭೂತೇಶ ದೇವದೇವ ಜಗತ್ಪತೇ ||೧೦-೧೫||"
     },
-    "transliteration": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
-    "life_application": "Know that God alone knows Himself by Himself, O Supreme Person, source and Lord of all beings.",
+    "transliteration": {
+        "hi": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ||१०-१५||",
+        "en": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
+        "be": "স্বযমেবাত্মনাত্মানং বেত্থ ত্বং পুরুষোত্তম |\nভূতভাবন ভূতেশ দেবদেব জগত্পতে ||১০-১৫||",
+        "ka": "ಸ್ವಯಮೇವಾತ್ಮನಾತ್ಮಾನಂ ವೇತ್ಥ ತ್ವಂ ಪುರುಷೋತ್ತಮ |\nಭೂತಭಾವನ ಭೂತೇಶ ದೇವದೇವ ಜಗತ್ಪತೇ ||೧೦-೧೫||"
+    },
+    "life_application": {
+        "hi": "हे सर्वोच्च व्यक्ति, सभी प्राणियों के स्रोत और भगवान, यह जान लें कि ईश्वर ही स्वयं को अपने आप से जानता है।",
+        "en": "Know that God alone knows Himself by Himself, O Supreme Person, source and Lord of all beings.",
+        "be": "জেনে রেখো যে, হে পরম পুরুষ, উৎস ও সকল প্রাণীর প্রভু, একমাত্র ভগবানই নিজেকে জানেন।",
+        "ka": "ಪರಮಾತ್ಮನೇ, ಎಲ್ಲಾ ಜೀವಿಗಳ ಮೂಲ ಮತ್ತು ಭಗವಂತ, ದೇವರು ಮಾತ್ರ ತನ್ನನ್ನು ತಾನೇ ತಿಳಿದಿದ್ದಾನೆ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "स्वयम्",
-            "transliteration": "svayam",
-            "meaning": "Thyself"
+            "transliteration": {
+                "hi": "स्वयम्",
+                "en": "svayam",
+                "be": "স্বযম্",
+                "ka": "ಸ್ವಯಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "Thyself",
+                "be": "নিজেকে",
+                "ka": "ನೀವೇ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "आत्मना",
-            "transliteration": "ātmanā",
-            "meaning": "by Thyself"
+            "transliteration": {
+                "hi": "आत्मना",
+                "en": "ātmanā",
+                "be": "আত্মনা",
+                "ka": "ಆತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "अपने आप से",
+                "en": "by Thyself",
+                "be": "আপনার দ্বারা",
+                "ka": "ನಿನ್ನಿಂದಲೇ"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "Thyself"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "Thyself",
+                "be": "নিজেকে",
+                "ka": "ನೀವೇ"
+            }
         },
         {
             "sanskrit": "वेत्थ",
-            "transliteration": "vettha",
-            "meaning": "knowest"
+            "transliteration": {
+                "hi": "वेत्थ",
+                "en": "vettha",
+                "be": "বেত্থ",
+                "ka": "ವೇತ್ಥ"
+            },
+            "meaning": {
+                "hi": "सबसे जानकार",
+                "en": "knowest",
+                "be": "জানেন",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "पुरुषोत्तम",
-            "transliteration": "puruṣottama",
-            "meaning": "O Purusha Supreme"
+            "transliteration": {
+                "hi": "पुरुषोत्तम",
+                "en": "puruṣottama",
+                "be": "পুরুষোত্তম",
+                "ka": "ಪುರುಷೋತ್ತಮ"
+            },
+            "meaning": {
+                "hi": "हे पुरुष परम!",
+                "en": "O Purusha Supreme",
+                "be": "হে পুরুষ পরম",
+                "ka": "ಓ ಪುರುಷಃ ಸರ್ವೋತ್ತಮಃ"
+            }
         },
         {
             "sanskrit": "भूतभावन",
-            "transliteration": "bhūtabhāvana",
-            "meaning": "O source of beings"
+            "transliteration": {
+                "hi": "भूतभावन",
+                "en": "bhūtabhāvana",
+                "be": "ভূতভাবন",
+                "ka": "ಭೂತಭಾವನ"
+            },
+            "meaning": {
+                "hi": "हे प्राणियों के स्रोत!",
+                "en": "O source of beings",
+                "be": "হে জীবের উৎস",
+                "ka": "ಓ ಜೀವಿಗಳ ಮೂಲ"
+            }
         },
         {
             "sanskrit": "भूतेश",
-            "transliteration": "bhūteśa",
-            "meaning": "O Lord of beings"
+            "transliteration": {
+                "hi": "भूतेश",
+                "en": "bhūteśa",
+                "be": "ভূতেশ",
+                "ka": "ಭೂತೇಶ"
+            },
+            "meaning": {
+                "hi": "हे प्राणियों के स्वामी!",
+                "en": "O Lord of beings",
+                "be": "হে সত্তার পালনকর্তা",
+                "ka": "ಓ ಜೀವಿಗಳ ಪ್ರಭು"
+            }
         },
         {
             "sanskrit": "देवदेव",
-            "transliteration": "devadeva",
-            "meaning": "O God of,gods"
+            "transliteration": {
+                "hi": "देवदेव",
+                "en": "devadeva",
+                "be": "দেবদেব",
+                "ka": "ದೇವದೇವ"
+            },
+            "meaning": {
+                "hi": "हे देवों के देव!",
+                "en": "O God of,gods",
+                "be": "হে ঈশ্বর, দেবতা",
+                "ka": "ಓ ದೇವರೇ, ದೇವರುಗಳು"
+            }
         },
         {
             "sanskrit": "जगत्पते",
-            "transliteration": "jagatpate",
-            "meaning": "O ruler of the"
+            "transliteration": {
+                "hi": "जगत्पते",
+                "en": "jagatpate",
+                "be": "জগত্পতে",
+                "ka": "ಜಗತ್ಪತೇ"
+            },
+            "meaning": {
+                "hi": "हे शासक!",
+                "en": "O ruler of the",
+                "be": "হে শাসক",
+                "ka": "ಓ ಆಡಳಿತಗಾರ"
+            }
         }
     ],
     "tej": {

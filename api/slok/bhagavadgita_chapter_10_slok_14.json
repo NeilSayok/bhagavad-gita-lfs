@@ -14,8 +14,18 @@
         "en": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||",
         "ka": "ಸರ್ವಮೇತದೃತಂ ಮನ್ಯೇ ಯನ್ಮಾಂ ವದಸಿ ಕೇಶವ |\nನ ಹಿ ತೇ ಭಗವನ್ವ್ಯಕ್ತಿಂ ವಿದುರ್ದೇವಾ ನ ದಾನವಾಃ ||೧೦-೧೪||"
     },
-    "transliteration": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||",
-    "life_application": "Accept all divine words as absolute truth, recognizing that neither gods nor demons fully know God's manifestation.",
+    "transliteration": {
+        "hi": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||१०-१४||",
+        "en": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||",
+        "be": "সর্বমেতদৃতং মন্যে যন্মাং বদসি কেশব |\nন হি তে ভগবন্ব্যক্তিং বিদুর্দেবা ন দানবাঃ ||১০-১৪||",
+        "ka": "ಸರ್ವಮೇತದೃತಂ ಮನ್ಯೇ ಯನ್ಮಾಂ ವದಸಿ ಕೇಶವ |\nನ ಹಿ ತೇ ಭಗವನ್ವ್ಯಕ್ತಿಂ ವಿದುರ್ದೇವಾ ನ ದಾನವಾಃ ||೧೦-೧೪||"
+    },
+    "life_application": {
+        "hi": "सभी दिव्य शब्दों को पूर्ण सत्य के रूप में स्वीकार करें, यह मानते हुए कि न तो देवता और न ही राक्षस भगवान की अभिव्यक्ति को पूरी तरह से जानते हैं।",
+        "en": "Accept all divine words as absolute truth, recognizing that neither gods nor demons fully know God's manifestation.",
+        "be": "সমস্ত ঐশ্বরিক শব্দগুলিকে পরম সত্য হিসাবে গ্রহণ করুন, স্বীকার করুন যে দেবতা বা দানব কেউই ঈশ্বরের প্রকাশকে পুরোপুরি জানেন না।",
+        "ka": "ಎಲ್ಲಾ ದೈವಿಕ ಪದಗಳನ್ನು ಸಂಪೂರ್ಣ ಸತ್ಯವೆಂದು ಸ್ವೀಕರಿಸಿ, ದೇವರುಗಳು ಅಥವಾ ರಾಕ್ಷಸರು ದೇವರ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿದಿರುವುದಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वमेतदृतं",
-            "transliteration": "sarvametadṛtaṃ",
-            "meaning": "sarvametadṛtaṃ"
+            "transliteration": {
+                "hi": "सर्वमेतदृतं",
+                "en": "sarvametadṛtaṃ",
+                "be": "সর্বমেতদৃতং",
+                "ka": "ಸರ್ವಮೇತದೃತಂ"
+            },
+            "meaning": {
+                "hi": "सर्वमेतदृतं",
+                "en": "sarvametadṛtaṃ",
+                "be": "সর্বমেতদৃত্তম",
+                "ka": "ಸರ್ವಮೇತದೃಷ್ಟಂ"
+            }
         },
         {
             "sanskrit": "मन्ये",
-            "transliteration": "manye",
-            "meaning": "manye"
+            "transliteration": {
+                "hi": "मन्ये",
+                "en": "manye",
+                "be": "মন্যে",
+                "ka": "ಮನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "कई",
+                "en": "manye",
+                "be": "অনেক",
+                "ka": "ಅನೇಕ"
+            }
         },
         {
             "sanskrit": "यन्मां",
-            "transliteration": "yanmāṃ",
-            "meaning": "yanmāṃ"
+            "transliteration": {
+                "hi": "यन्मां",
+                "en": "yanmāṃ",
+                "be": "যন্মাং",
+                "ka": "ಯನ್ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "यनमं",
+                "en": "yanmāṃ",
+                "be": "yanmāṃ",
+                "ka": "yanmāṃ"
+            }
         },
         {
             "sanskrit": "वदसि",
-            "transliteration": "vadasi",
-            "meaning": "vadasi"
+            "transliteration": {
+                "hi": "वदसि",
+                "en": "vadasi",
+                "be": "বদসি",
+                "ka": "ವದಸಿ"
+            },
+            "meaning": {
+                "hi": "वडासी",
+                "en": "vadasi",
+                "be": "ভাদাসি",
+                "ka": "ವದಾಸಿ"
+            }
         },
         {
             "sanskrit": "केशव",
-            "transliteration": "keśava",
-            "meaning": "keśava"
+            "transliteration": {
+                "hi": "केशव",
+                "en": "keśava",
+                "be": "কেশব",
+                "ka": "ಕೇಶವ"
+            },
+            "meaning": {
+                "hi": "केशव",
+                "en": "keśava",
+                "be": "কেশব",
+                "ka": "ಕೇಶವ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "भगवन्व्यक्तिं",
-            "transliteration": "bhagavanvyaktiṃ",
-            "meaning": "bhagavanvyaktiṃ"
+            "transliteration": {
+                "hi": "भगवन्व्यक्तिं",
+                "en": "bhagavanvyaktiṃ",
+                "be": "ভগবন্ব্যক্তিং",
+                "ka": "ಭಗವನ್ವ್ಯಕ್ತಿಂ"
+            },
+            "meaning": {
+                "hi": "भगवानव्याक्तिम्",
+                "en": "bhagavanvyaktiṃ",
+                "be": "ভগবানব্যক্তি",
+                "ka": "ಭಗವಾನ್ವ್ಯಕ್ತಿಃ"
+            }
         },
         {
             "sanskrit": "विदुर्देवा",
-            "transliteration": "vidurdevā",
-            "meaning": "vidurdevā"
+            "transliteration": {
+                "hi": "विदुर्देवा",
+                "en": "vidurdevā",
+                "be": "বিদুর্দেবা",
+                "ka": "ವಿದುರ್ದೇವಾ"
+            },
+            "meaning": {
+                "hi": "विदुरदेव",
+                "en": "vidurdevā",
+                "be": "vidurdevā",
+                "ka": "ವಿದುರ್ದೇವ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "दानवाः",
-            "transliteration": "dānavāḥ",
-            "meaning": "dānavāḥ"
+            "transliteration": {
+                "hi": "दानवाः",
+                "en": "dānavāḥ",
+                "be": "দানবাঃ",
+                "ka": "ದಾನವಾಃ"
+            },
+            "meaning": {
+                "hi": "दानवः",
+                "en": "dānavāḥ",
+                "be": "দানাভাঃ",
+                "ka": "ದಾನವಃ"
+            }
         }
     ],
     "tej": {

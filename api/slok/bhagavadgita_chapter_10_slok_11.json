@@ -14,8 +14,18 @@
         "en": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ .\nnāśayāmyātmabhāvastho jñānadīpena bhāsvatā ||10-11||",
         "ka": "ತೇಷಾಮೇವಾನುಕಮ್ಪಾರ್ಥಮಹಮಜ್ಞಾನಜಂ ತಮಃ |\nನಾಶಯಾಮ್ಯಾತ್ಮಭಾವಸ್ಥೋ ಜ್ಞಾನದೀಪೇನ ಭಾಸ್ವತಾ ||೧೦-೧೧||"
     },
-    "transliteration": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ .\nnāśayāmyātmabhāvastho jñānadīpena bhāsvatā ||10-11||",
-    "life_application": "Out of compassion for His devotees, God dwelling in their hearts destroys the darkness born of ignorance with wisdom's lamp.",
+    "transliteration": {
+        "hi": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः |\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ||१०-११||",
+        "en": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ .\nnāśayāmyātmabhāvastho jñānadīpena bhāsvatā ||10-11||",
+        "be": "তেষামেবানুকম্পার্থমহমজ্ঞানজং তমঃ |\nনাশযাম্যাত্মভাবস্থো জ্ঞানদীপেন ভাস্বতা ||১০-১১||",
+        "ka": "ತೇಷಾಮೇವಾನುಕಮ್ಪಾರ್ಥಮಹಮಜ್ಞಾನಜಂ ತಮಃ |\nನಾಶಯಾಮ್ಯಾತ್ಮಭಾವಸ್ಥೋ ಜ್ಞಾನದೀಪೇನ ಭಾಸ್ವತಾ ||೧೦-೧೧||"
+    },
+    "life_application": {
+        "hi": "भगवान अपने भक्तों पर दया करके उनके हृदय में निवास करके अज्ञान से उत्पन्न अंधकार को ज्ञान के दीपक से नष्ट कर देते हैं।",
+        "en": "Out of compassion for His devotees, God dwelling in their hearts destroys the darkness born of ignorance with wisdom's lamp.",
+        "be": "ভক্তদের প্রতি মমতায় ভগবান তাদের অন্তরে অবস্থান করে জ্ঞানের প্রদীপ দিয়ে অজ্ঞানতা থেকে জন্ম নেওয়া অন্ধকারকে ধ্বংস করেন।",
+        "ka": "ತನ್ನ ಭಕ್ತರ ಮೇಲಿನ ಕರುಣೆಯಿಂದ, ಅವರ ಹೃದಯದಲ್ಲಿ ನೆಲೆಸಿರುವ ದೇವರು ಜ್ಞಾನದ ದೀಪದಿಂದ ಅಜ್ಞಾನದಿಂದ ಹುಟ್ಟಿದ ಅಂಧಕಾರವನ್ನು ನಾಶಮಾಡುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,28 +33,78 @@
     "word_meanings": [
         {
             "sanskrit": "तेषामेवानुकम्पार्थमहमज्ञानजं",
-            "transliteration": "teṣāmevānukampārthamahamajñānajaṃ",
-            "meaning": "teṣāmevānukampārthamahamajñānajaṃ"
+            "transliteration": {
+                "hi": "तेषामेवानुकम्पार्थमहमज्ञानजं",
+                "en": "teṣāmevānukampārthamahamajñānajaṃ",
+                "be": "তেষামেবানুকম্পার্থমহমজ্ঞানজং",
+                "ka": "ತೇಷಾಮೇವಾನುಕಮ್ಪಾರ್ಥಮಹಮಜ್ಞಾನಜಂ"
+            },
+            "meaning": {
+                "hi": "तेषामेवनुकम्पार्थमहामज्ञानजं",
+                "en": "teṣāmevānukampārthamahamajñānajaṃ",
+                "be": "তেষামেভানুকম্পার্থমহাজ্ঞানজনন",
+                "ka": "ತೇಷಾಮೇವಾನುಕಂಪಾರ್ಥಮಹಾಮಜ್ಞಾನಜಂ"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "ignorance"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "अज्ञान",
+                "en": "ignorance",
+                "be": "অজ্ঞতা",
+                "ka": "ಅಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "नाशयाम्यात्मभावस्थो",
-            "transliteration": "nāśayāmyātmabhāvastho",
-            "meaning": "nāśayāmyātmabhāvastho"
+            "transliteration": {
+                "hi": "नाशयाम्यात्मभावस्थो",
+                "en": "nāśayāmyātmabhāvastho",
+                "be": "নাশযাম্যাত্মভাবস্থো",
+                "ka": "ನಾಶಯಾಮ್ಯಾತ್ಮಭಾವಸ್ಥೋ"
+            },
+            "meaning": {
+                "hi": "नाशयाम्यात्मभावस्थो",
+                "en": "nāśayāmyātmabhāvastho",
+                "be": "nāshayāmyātmabhāvastho",
+                "ka": "ನಾಶಯಾಮ್ಯಾತ್ಮಭಾವಸ್ತೋ"
+            }
         },
         {
             "sanskrit": "ज्ञानदीपेन",
-            "transliteration": "jñānadīpena",
-            "meaning": "jñānadīpena"
+            "transliteration": {
+                "hi": "ज्ञानदीपेन",
+                "en": "jñānadīpena",
+                "be": "জ্ঞানদীপেন",
+                "ka": "ಜ್ಞಾನದೀಪೇನ"
+            },
+            "meaning": {
+                "hi": "ज्ञानदीपेन",
+                "en": "jñānadīpena",
+                "be": "জ্ঞানদীপেন",
+                "ka": "ಜ್ಞಾನದೀಪೇನ"
+            }
         },
         {
             "sanskrit": "भास्वता",
-            "transliteration": "bhāsvatā",
-            "meaning": "bhāsvatā"
+            "transliteration": {
+                "hi": "भास्वता",
+                "en": "bhāsvatā",
+                "be": "ভাস্বতা",
+                "ka": "ಭಾಸ್ವತಾ"
+            },
+            "meaning": {
+                "hi": "भास्वता",
+                "en": "bhāsvatā",
+                "be": "bhāsvatā",
+                "ka": "ಭಾಸ್ವತ"
+            }
         }
     ],
     "tej": {

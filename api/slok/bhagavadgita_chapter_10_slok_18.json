@@ -14,8 +14,18 @@
         "en": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||",
         "ka": "ವಿಸ್ತರೇಣಾತ್ಮನೋ ಯೋಗಂ ವಿಭೂತಿಂ ಚ ಜನಾರ್ದನ |\nಭೂಯಃ ಕಥಯ ತೃಪ್ತಿರ್ಹಿ ಶೃಣ್ವತೋ ನಾಸ್ತಿ ಮೇಽಮೃತಮ್ ||೧೦-೧೮||"
     },
-    "transliteration": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||",
-    "life_application": "Request to hear again in detail of divine glory and power, for there is never satiety in drinking this nectar.",
+    "transliteration": {
+        "hi": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |\nभूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||",
+        "en": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||",
+        "be": "বিস্তরেণাত্মনো যোগং বিভূতিং চ জনার্দন |\nভূযঃ কথয তৃপ্তির্হি শৃণ্বতো নাস্তি মেঽমৃতম্ ||১০-১৮||",
+        "ka": "ವಿಸ್ತರೇಣಾತ್ಮನೋ ಯೋಗಂ ವಿಭೂತಿಂ ಚ ಜನಾರ್ದನ |\nಭೂಯಃ ಕಥಯ ತೃಪ್ತಿರ್ಹಿ ಶೃಣ್ವತೋ ನಾಸ್ತಿ ಮೇಽಮೃತಮ್ ||೧೦-೧೮||"
+    },
+    "life_application": {
+        "hi": "ईश्वरीय महिमा और शक्ति का विस्तार से पुनः श्रवण करने का अनुरोध करें, क्योंकि इस अमृत को पीने से कभी तृप्ति नहीं होती।",
+        "en": "Request to hear again in detail of divine glory and power, for there is never satiety in drinking this nectar.",
+        "be": "ঐশ্বরিক মহিমা ও শক্তির বিস্তারিত আবার শোনার জন্য অনুরোধ করছি, কারণ এই অমৃত পানে কখনও তৃপ্তি হয় না।",
+        "ka": "ದೈವಿಕ ಮಹಿಮೆ ಮತ್ತು ಶಕ್ತಿಯ ವಿವರಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ಕೇಳಲು ವಿನಂತಿ, ಏಕೆಂದರೆ ಈ ಅಮೃತವನ್ನು ಕುಡಿಯುವುದರಲ್ಲಿ ಎಂದಿಗೂ ತೃಪ್ತಿಯಿಲ್ಲ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "विस्तरेणात्मनो",
-            "transliteration": "vistareṇātmano",
-            "meaning": "vistareṇātmano"
+            "transliteration": {
+                "hi": "विस्तरेणात्मनो",
+                "en": "vistareṇātmano",
+                "be": "বিস্তরেণাত্মনো",
+                "ka": "ವಿಸ್ತರೇಣಾತ್ಮನೋ"
+            },
+            "meaning": {
+                "hi": "विस्तारेणात्मनो",
+                "en": "vistareṇātmano",
+                "be": "vistareṇātmano",
+                "ka": "ವಿಸ್ತಾರೇಣಾತ್ಮನೋ"
+            }
         },
         {
             "sanskrit": "योगं",
-            "transliteration": "yogaṃ",
-            "meaning": "yogaṃ"
+            "transliteration": {
+                "hi": "योगं",
+                "en": "yogaṃ",
+                "be": "যোগং",
+                "ka": "ಯೋಗಂ"
+            },
+            "meaning": {
+                "hi": "योगम्",
+                "en": "yogaṃ",
+                "be": "যোগাস",
+                "ka": "ಯೋಗಂ"
+            }
         },
         {
             "sanskrit": "विभूतिं",
-            "transliteration": "vibhūtiṃ",
-            "meaning": "vibhūtiṃ"
+            "transliteration": {
+                "hi": "विभूतिं",
+                "en": "vibhūtiṃ",
+                "be": "বিভূতিং",
+                "ka": "ವಿಭೂತಿಂ"
+            },
+            "meaning": {
+                "hi": "विभूतिः",
+                "en": "vibhūtiṃ",
+                "be": "বিভূতি",
+                "ka": "ವಿಭೂತಿಂ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "जनार्दन",
-            "transliteration": "janārdana",
-            "meaning": "janārdana"
+            "transliteration": {
+                "hi": "जनार्दन",
+                "en": "janārdana",
+                "be": "জনার্দন",
+                "ka": "ಜನಾರ್ದನ"
+            },
+            "meaning": {
+                "hi": "जनार्दन",
+                "en": "janārdana",
+                "be": "জনার্দন",
+                "ka": "ಜನಾರ್ದನ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "bhūyaḥ"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূয়াঃ",
+                "ka": "ಭೂಯಃ"
+            }
         },
         {
             "sanskrit": "कथय",
-            "transliteration": "kathaya",
-            "meaning": "kathaya"
+            "transliteration": {
+                "hi": "कथय",
+                "en": "kathaya",
+                "be": "কথয",
+                "ka": "ಕಥಯ"
+            },
+            "meaning": {
+                "hi": "कथैया",
+                "en": "kathaya",
+                "be": "কথায়",
+                "ka": "ಕಥಾಯ"
+            }
         },
         {
             "sanskrit": "तृप्तिर्हि",
-            "transliteration": "tṛptirhi",
-            "meaning": "tṛptirhi"
+            "transliteration": {
+                "hi": "तृप्तिर्हि",
+                "en": "tṛptirhi",
+                "be": "তৃপ্তির্হি",
+                "ka": "ತೃಪ್ತಿರ್ಹಿ"
+            },
+            "meaning": {
+                "hi": "तृप्तिरि",
+                "en": "tṛptirhi",
+                "be": "tṛptirhi",
+                "ka": "ತೃಪ್ತರ್ಹಿ"
+            }
         },
         {
             "sanskrit": "शृण्वतो",
-            "transliteration": "śṛṇvato",
-            "meaning": "śṛṇvato"
+            "transliteration": {
+                "hi": "शृण्वतो",
+                "en": "śṛṇvato",
+                "be": "শৃণ্বতো",
+                "ka": "ಶೃಣ್ವತೋ"
+            },
+            "meaning": {
+                "hi": "शृण्वतो",
+                "en": "śṛṇvato",
+                "be": "শৃণ্বতো",
+                "ka": "ಶ್ರೀನ್ವತೋ"
+            }
         },
         {
             "sanskrit": "नास्ति",
-            "transliteration": "nāsti",
-            "meaning": "nāsti"
+            "transliteration": {
+                "hi": "नास्ति",
+                "en": "nāsti",
+                "be": "নাস্তি",
+                "ka": "ನಾಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नास्ति",
+                "en": "nāsti",
+                "be": "নাস্তি",
+                "ka": "ನಾಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "मेऽमृतम्",
-            "transliteration": "me'mṛtam",
-            "meaning": "me'mṛtam"
+            "transliteration": {
+                "hi": "मेऽमृतम्",
+                "en": "me'mṛtam",
+                "be": "মেঽমৃতম্",
+                "ka": "ಮೇಽಮೃತಮ್"
+            },
+            "meaning": {
+                "hi": "मेऽमृतम्",
+                "en": "me'mṛtam",
+                "be": "me'mṛtam",
+                "ka": "ಮಿ'ಮೃತಮ್"
+            }
         }
     ],
     "tej": {

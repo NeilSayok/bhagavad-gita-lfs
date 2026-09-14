@@ -14,8 +14,18 @@
         "en": "mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ .\nbhajantyananyamanaso jñātvā bhūtādimavyayam ||9-13||",
         "ka": "ಮಹಾತ್ಮಾನಸ್ತು ಮಾಂ ಪಾರ್ಥ ದೈವೀಂ ಪ್ರಕೃತಿಮಾಶ್ರಿತಾಃ |\nಭಜನ್ತ್ಯನನ್ಯಮನಸೋ ಜ್ಞಾತ್ವಾ ಭೂತಾದಿಮವ್ಯಯಮ್ ||೯-೧೩||"
     },
-    "transliteration": "mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ .\nbhajantyananyamanaso jñātvā bhūtādimavyayam ||9-13||",
-    "life_application": "Embrace a noble nature, worshipping God with single-pointed devotion as the imperishable origin of all.",
+    "transliteration": {
+        "hi": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः |\nभजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ||९-१३||",
+        "en": "mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ .\nbhajantyananyamanaso jñātvā bhūtādimavyayam ||9-13||",
+        "be": "মহাত্মানস্তু মাং পার্থ দৈবীং প্রকৃতিমাশ্রিতাঃ |\nভজন্ত্যনন্যমনসো জ্ঞাত্বা ভূতাদিমব্যযম্ ||৯-১৩||",
+        "ka": "ಮಹಾತ್ಮಾನಸ್ತು ಮಾಂ ಪಾರ್ಥ ದೈವೀಂ ಪ್ರಕೃತಿಮಾಶ್ರಿತಾಃ |\nಭಜನ್ತ್ಯನನ್ಯಮನಸೋ ಜ್ಞಾತ್ವಾ ಭೂತಾದಿಮವ್ಯಯಮ್ ||೯-೧೩||"
+    },
+    "life_application": {
+        "hi": "एक महान स्वभाव को अपनाएं, सभी के अविनाशी मूल के रूप में एकनिष्ठ भक्ति के साथ भगवान की पूजा करें।",
+        "en": "Embrace a noble nature, worshipping God with single-pointed devotion as the imperishable origin of all.",
+        "be": "একটি মহৎ প্রকৃতিকে আলিঙ্গন করুন, সকলের অবিনশ্বর উত্স হিসাবে একক-বিন্দু ভক্তির সাথে ঈশ্বরের উপাসনা করুন।",
+        "ka": "ಉದಾತ್ತ ಸ್ವಭಾವವನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳಿ, ದೇವರನ್ನು ಏಕ-ಬಿಂದು ಭಕ್ತಿಯಿಂದ ಪೂಜಿಸುವುದು ಎಲ್ಲದಕ್ಕೂ ನಾಶವಾಗದ ಮೂಲವಾಗಿದೆ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "महात्मानस्तु",
-            "transliteration": "mahātmānastu",
-            "meaning": "mahātmānastu"
+            "transliteration": {
+                "hi": "महात्मानस्तु",
+                "en": "mahātmānastu",
+                "be": "মহাত্মানস্তু",
+                "ka": "ಮಹಾತ್ಮಾನಸ್ತು"
+            },
+            "meaning": {
+                "hi": "महात्मनस्तु",
+                "en": "mahātmānastu",
+                "be": "মহাত্মানস্তু",
+                "ka": "ಮಹಾತ್ಮಾನಸ್ತು"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "दैवीं",
-            "transliteration": "daivīṃ",
-            "meaning": "daivīṃ"
+            "transliteration": {
+                "hi": "दैवीं",
+                "en": "daivīṃ",
+                "be": "দৈবীং",
+                "ka": "ದೈವೀಂ"
+            },
+            "meaning": {
+                "hi": "दैवी",
+                "en": "daivīṃ",
+                "be": "daivīṃ",
+                "ka": "ದೈವಿ"
+            }
         },
         {
             "sanskrit": "प्रकृतिमाश्रिताः",
-            "transliteration": "prakṛtimāśritāḥ",
-            "meaning": "prakṛtimāśritāḥ"
+            "transliteration": {
+                "hi": "प्रकृतिमाश्रिताः",
+                "en": "prakṛtimāśritāḥ",
+                "be": "প্রকৃতিমাশ্রিতাঃ",
+                "ka": "ಪ್ರಕೃತಿಮಾಶ್ರಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृतिमाश्रितः",
+                "en": "prakṛtimāśritāḥ",
+                "be": "প্রকৃতিমাশ্রিতঃ",
+                "ka": "ಪ್ರಕೃತಿಮಾಶ್ರಿತಾಃ"
+            }
         },
         {
             "sanskrit": "भजन्त्यनन्यमनसो",
-            "transliteration": "bhajantyananyamanaso",
-            "meaning": "bhajantyananyamanaso"
+            "transliteration": {
+                "hi": "भजन्त्यनन्यमनसो",
+                "en": "bhajantyananyamanaso",
+                "be": "ভজন্ত্যনন্যমনসো",
+                "ka": "ಭಜನ್ತ್ಯನನ್ಯಮನಸೋ"
+            },
+            "meaning": {
+                "hi": "भजनत्यान्यामनसो",
+                "en": "bhajantyananyamanaso",
+                "be": "bhajantyananyamanaso",
+                "ka": "ಭಜನ್ತ್ಯನನ್ಯಮಾನಸೋ"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "jñātvā"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "jñātvā",
+                "ka": "ಜ್ಞಾನತ್ವ"
+            }
         },
         {
             "sanskrit": "भूतादिमव्ययम्",
-            "transliteration": "bhūtādimavyayam",
-            "meaning": "bhūtādimavyayam"
+            "transliteration": {
+                "hi": "भूतादिमव्ययम्",
+                "en": "bhūtādimavyayam",
+                "be": "ভূতাদিমব্যযম্",
+                "ka": "ಭೂತಾದಿಮವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "भूतादिमव्ययम्",
+                "en": "bhūtādimavyayam",
+                "be": "ভূতাদিমব্যয়ম",
+                "ka": "ಭೂತದಿಮವ್ಯಯಂ"
+            }
         }
     ],
     "tej": {

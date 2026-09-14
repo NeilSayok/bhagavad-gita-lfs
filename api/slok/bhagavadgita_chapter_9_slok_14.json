@@ -14,8 +14,18 @@
         "en": "satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ .\nnamasyantaśca māṃ bhaktyā nityayuktā upāsate ||9-14||",
         "ka": "ಸತತಂ ಕೀರ್ತಯನ್ತೋ ಮಾಂ ಯತನ್ತಶ್ಚ ದೃಢವ್ರತಾಃ |\nನಮಸ್ಯನ್ತಶ್ಚ ಮಾಂ ಭಕ್ತ್ಯಾ ನಿತ್ಯಯುಕ್ತಾ ಉಪಾಸತೇ ||೯-೧೪||"
     },
-    "transliteration": "satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ .\nnamasyantaśca māṃ bhaktyā nityayuktā upāsate ||9-14||",
-    "life_application": "Glorify God constantly, striving with firm resolve, bowing down with love, ever devoted in worship.",
+    "transliteration": {
+        "hi": "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः |\nनमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ||९-१४||",
+        "en": "satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ .\nnamasyantaśca māṃ bhaktyā nityayuktā upāsate ||9-14||",
+        "be": "সততং কীর্তযন্তো মাং যতন্তশ্চ দৃঢব্রতাঃ |\nনমস্যন্তশ্চ মাং ভক্ত্যা নিত্যযুক্তা উপাসতে ||৯-১৪||",
+        "ka": "ಸತತಂ ಕೀರ್ತಯನ್ತೋ ಮಾಂ ಯತನ್ತಶ್ಚ ದೃಢವ್ರತಾಃ |\nನಮಸ್ಯನ್ತಶ್ಚ ಮಾಂ ಭಕ್ತ್ಯಾ ನಿತ್ಯಯುಕ್ತಾ ಉಪಾಸತೇ ||೯-೧೪||"
+    },
+    "life_application": {
+        "hi": "निरंतर ईश्वर की स्तुति करो, दृढ़ संकल्प के साथ प्रयास करो, प्रेम से झुको, सदैव पूजा में समर्पित रहो।",
+        "en": "Glorify God constantly, striving with firm resolve, bowing down with love, ever devoted in worship.",
+        "be": "নিরন্তর ভগবানকে মহিমান্বিত করুন, দৃঢ় সংকল্পের সাথে প্রচেষ্টা করুন, প্রেমের সাথে মাথা নত করুন, সর্বদা উপাসনায় নিবেদিত থাকুন।",
+        "ka": "ದೇವರನ್ನು ನಿರಂತರವಾಗಿ ಮಹಿಮೆಪಡಿಸಿ, ದೃಢವಾದ ಸಂಕಲ್ಪದಿಂದ ಶ್ರಮಿಸಿ, ಪ್ರೀತಿಯಿಂದ ನಮಸ್ಕರಿಸಿ, ಎಂದಿಗೂ ಆರಾಧನೆಯಲ್ಲಿ ತೊಡಗಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "सततं",
-            "transliteration": "satataṃ",
-            "meaning": "satataṃ"
+            "transliteration": {
+                "hi": "सततं",
+                "en": "satataṃ",
+                "be": "সততং",
+                "ka": "ಸತತಂ"
+            },
+            "meaning": {
+                "hi": "सततं",
+                "en": "satataṃ",
+                "be": "satataṃ",
+                "ka": "ಸತತಂ"
+            }
         },
         {
             "sanskrit": "कीर्तयन्तो",
-            "transliteration": "kīrtayanto",
-            "meaning": "kīrtayanto"
+            "transliteration": {
+                "hi": "कीर्तयन्तो",
+                "en": "kīrtayanto",
+                "be": "কীর্তযন্তো",
+                "ka": "ಕೀರ್ತಯನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "किर्तयांतो",
+                "en": "kīrtayanto",
+                "be": "কীর্তায়নতো",
+                "ka": "ಕೀರ್ತಯಂತೋ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "यतन्तश्च",
-            "transliteration": "yatantaśca",
-            "meaning": "yatantaśca"
+            "transliteration": {
+                "hi": "यतन्तश्च",
+                "en": "yatantaśca",
+                "be": "যতন্তশ্চ",
+                "ka": "ಯತನ್ತಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "यतान्तश्च",
+                "en": "yatantaśca",
+                "be": "yatantaśca",
+                "ka": "ಯಾತಂತಶ್ಚ"
+            }
         },
         {
             "sanskrit": "दृढव्रताः",
-            "transliteration": "dṛḍhavratāḥ",
-            "meaning": "dṛḍhavratāḥ"
+            "transliteration": {
+                "hi": "दृढव्रताः",
+                "en": "dṛḍhavratāḥ",
+                "be": "দৃঢব্রতাঃ",
+                "ka": "ದೃಢವ್ರತಾಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़व्रत:",
+                "en": "dṛḍhavratāḥ",
+                "be": "dṛḍhavratāḥ",
+                "ka": "ದೃಢವ್ರತಾಃ"
+            }
         },
         {
             "sanskrit": "नमस्यन्तश्च",
-            "transliteration": "namasyantaśca",
-            "meaning": "namasyantaśca"
+            "transliteration": {
+                "hi": "नमस्यन्तश्च",
+                "en": "namasyantaśca",
+                "be": "নমস্যন্তশ্চ",
+                "ka": "ನಮಸ್ಯನ್ತಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "नमस्यान्तश्च",
+                "en": "namasyantaśca",
+                "be": "namasyantaśca",
+                "ka": "ನಮಸ್ಯಾಂತಶ್ಚ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "bhaktyā"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্য",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            }
         },
         {
             "sanskrit": "नित्ययुक्ता",
-            "transliteration": "nityayuktā",
-            "meaning": "nityayuktā"
+            "transliteration": {
+                "hi": "नित्ययुक्ता",
+                "en": "nityayuktā",
+                "be": "নিত্যযুক্তা",
+                "ka": "ನಿತ್ಯಯುಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "नित्ययुक्त",
+                "en": "nityayuktā",
+                "be": "নিত্যযুক্ত",
+                "ka": "ನಿತ್ಯಾಯುಕ್ತ"
+            }
         },
         {
             "sanskrit": "उपासते",
-            "transliteration": "upāsate",
-            "meaning": "upāsate"
+            "transliteration": {
+                "hi": "उपासते",
+                "en": "upāsate",
+                "be": "উপাসতে",
+                "ka": "ಉಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "उपासते",
+                "en": "upāsate",
+                "be": "উপাসতে",
+                "ka": "ಉಪಾಸತೇ"
+            }
         }
     ],
     "tej": {

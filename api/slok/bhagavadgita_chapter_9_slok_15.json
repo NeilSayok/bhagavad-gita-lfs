@@ -14,8 +14,18 @@
         "en": "jñānayajñena cāpyanye yajanto māmupāsate .\nekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||",
         "ka": "ಜ್ಞಾನಯಜ್ಞೇನ ಚಾಪ್ಯನ್ಯೇ ಯಜನ್ತೋ ಮಾಮುಪಾಸತೇ |\nಏಕತ್ವೇನ ಪೃಥಕ್ತ್ವೇನ ಬಹುಧಾ ವಿಶ್ವತೋಮುಖಮ್ ||೯-೧೫||"
     },
-    "transliteration": "jñānayajñena cāpyanye yajanto māmupāsate .\nekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||",
-    "life_application": "Worship God through the sacrifice of knowledge, seeing the divine as one, as distinct, or as multifaceted.",
+    "transliteration": {
+        "hi": "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |\nएकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ||९-१५||",
+        "en": "jñānayajñena cāpyanye yajanto māmupāsate .\nekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||",
+        "be": "জ্ঞানযজ্ঞেন চাপ্যন্যে যজন্তো মামুপাসতে |\nএকত্বেন পৃথক্ত্বেন বহুধা বিশ্বতোমুখম্ ||৯-১৫||",
+        "ka": "ಜ್ಞಾನಯಜ್ಞೇನ ಚಾಪ್ಯನ್ಯೇ ಯಜನ್ತೋ ಮಾಮುಪಾಸತೇ |\nಏಕತ್ವೇನ ಪೃಥಕ್ತ್ವೇನ ಬಹುಧಾ ವಿಶ್ವತೋಮುಖಮ್ ||೯-೧೫||"
+    },
+    "life_application": {
+        "hi": "ज्ञान के यज्ञ के माध्यम से ईश्वर की पूजा करें, परमात्मा को एक, विशिष्ट या बहुआयामी के रूप में देखें।",
+        "en": "Worship God through the sacrifice of knowledge, seeing the divine as one, as distinct, or as multifaceted.",
+        "be": "ঈশ্বরকে এক, স্বতন্ত্র বা বহুমুখী রূপে দেখে জ্ঞানের উৎসর্গের মাধ্যমে ঈশ্বরের উপাসনা করুন।",
+        "ka": "ಜ್ಞಾನದ ತ್ಯಾಗದ ಮೂಲಕ ದೇವರನ್ನು ಪೂಜಿಸಿ, ದೈವವನ್ನು ಒಂದಾಗಿ, ವಿಭಿನ್ನವಾಗಿ ಅಥವಾ ಬಹುಮುಖಿಯಾಗಿ ನೋಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "ज्ञानयज्ञेन",
-            "transliteration": "jñānayajñena",
-            "meaning": "jñānayajñena"
+            "transliteration": {
+                "hi": "ज्ञानयज्ञेन",
+                "en": "jñānayajñena",
+                "be": "জ্ঞানযজ্ঞেন",
+                "ka": "ಜ್ಞಾನಯಜ್ಞೇನ"
+            },
+            "meaning": {
+                "hi": "ज्ञानयज्ञेन",
+                "en": "jñānayajñena",
+                "be": "জ্ঞানজ্ঞান",
+                "ka": "ಜ್ಞಾನಯಜ್ಞ"
+            }
         },
         {
             "sanskrit": "चाप्यन्ये",
-            "transliteration": "cāpyanye",
-            "meaning": "cāpyanye"
+            "transliteration": {
+                "hi": "चाप्यन्ये",
+                "en": "cāpyanye",
+                "be": "চাপ্যন্যে",
+                "ka": "ಚಾಪ್ಯನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "कैप्यान्ये",
+                "en": "cāpyanye",
+                "be": "ক্যাপিয়ানে",
+                "ka": "cāpyanye"
+            }
         },
         {
             "sanskrit": "यजन्तो",
-            "transliteration": "yajanto",
-            "meaning": "yajanto"
+            "transliteration": {
+                "hi": "यजन्तो",
+                "en": "yajanto",
+                "be": "যজন্তো",
+                "ka": "ಯಜನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "यजन्तो",
+                "en": "yajanto",
+                "be": "যজন্তো",
+                "ka": "ಯಜಂತೋ"
+            }
         },
         {
             "sanskrit": "मामुपासते",
-            "transliteration": "māmupāsate",
-            "meaning": "māmupāsate"
+            "transliteration": {
+                "hi": "मामुपासते",
+                "en": "māmupāsate",
+                "be": "মামুপাসতে",
+                "ka": "ಮಾಮುಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "मामुपासते",
+                "en": "māmupāsate",
+                "be": "মামুপাসতে",
+                "ka": "ಮಾಮುಪಾಸತೇ"
+            }
         },
         {
             "sanskrit": "एकत्वेन",
-            "transliteration": "ekatvena",
-            "meaning": "ekatvena"
+            "transliteration": {
+                "hi": "एकत्वेन",
+                "en": "ekatvena",
+                "be": "একত্বেন",
+                "ka": "ಏಕತ್ವೇನ"
+            },
+            "meaning": {
+                "hi": "एकतवेना",
+                "en": "ekatvena",
+                "be": "একাতভেনা",
+                "ka": "ಏಕತ್ವೇನ"
+            }
         },
         {
             "sanskrit": "पृथक्त्वेन",
-            "transliteration": "pṛthaktvena",
-            "meaning": "pṛthaktvena"
+            "transliteration": {
+                "hi": "पृथक्त्वेन",
+                "en": "pṛthaktvena",
+                "be": "পৃথক্ত্বেন",
+                "ka": "ಪೃಥಕ್ತ್ವೇನ"
+            },
+            "meaning": {
+                "hi": "पृथक्त्वेन",
+                "en": "pṛthaktvena",
+                "be": "prthaktvena",
+                "ka": "ಪೃಥಕ್ತ್ವೇನ"
+            }
         },
         {
             "sanskrit": "बहुधा",
-            "transliteration": "bahudhā",
-            "meaning": "bahudhā"
+            "transliteration": {
+                "hi": "बहुधा",
+                "en": "bahudhā",
+                "be": "বহুধা",
+                "ka": "ಬಹುಧಾ"
+            },
+            "meaning": {
+                "hi": "बहुधा",
+                "en": "bahudhā",
+                "be": "বহুধা",
+                "ka": "ಬಹುಧಾ"
+            }
         },
         {
             "sanskrit": "विश्वतोमुखम्",
-            "transliteration": "viśvatomukham",
-            "meaning": "viśvatomukham"
+            "transliteration": {
+                "hi": "विश्वतोमुखम्",
+                "en": "viśvatomukham",
+                "be": "বিশ্বতোমুখম্",
+                "ka": "ವಿಶ್ವತೋಮುಖಮ್"
+            },
+            "meaning": {
+                "hi": "विश्वतोमुखम्",
+                "en": "viśvatomukham",
+                "be": "বিশ্বমুখম",
+                "ka": "ವಿಶ್ವಮುಖಂ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "pitāhamasya jagato mātā dhātā pitāmahaḥ .\nvedyaṃ pavitramoṃkāra ṛksāma yajureva ca ||9-17||",
         "ka": "ಪಿತಾಹಮಸ್ಯ ಜಗತೋ ಮಾತಾ ಧಾತಾ ಪಿತಾಮಹಃ |\nವೇದ್ಯಂ ಪವಿತ್ರಮೋಂಕಾರ ಋಕ್ಸಾಮ ಯಜುರೇವ ಚ ||೯-೧೭||"
     },
-    "transliteration": "pitāhamasya jagato mātā dhātā pitāmahaḥ .\nvedyaṃ pavitramoṃkāra ṛksāma yajureva ca ||9-17||",
-    "life_application": "Honor God as the father, mother, sustainer, grandfather, purifier, sacred syllable, and ancient scripture.",
+    "transliteration": {
+        "hi": "पिताहमस्य जगतो माता धाता पितामहः |\nवेद्यं पवित्रमोंकार ऋक्साम यजुरेव च ||९-१७||",
+        "en": "pitāhamasya jagato mātā dhātā pitāmahaḥ .\nvedyaṃ pavitramoṃkāra ṛksāma yajureva ca ||9-17||",
+        "be": "পিতাহমস্য জগতো মাতা ধাতা পিতামহঃ |\nবেদ্যং পবিত্রমোংকার ঋক্সাম যজুরেব চ ||৯-১৭||",
+        "ka": "ಪಿತಾಹಮಸ್ಯ ಜಗತೋ ಮಾತಾ ಧಾತಾ ಪಿತಾಮಹಃ |\nವೇದ್ಯಂ ಪವಿತ್ರಮೋಂಕಾರ ಋಕ್ಸಾಮ ಯಜುರೇವ ಚ ||೯-೧೭||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को पिता, माता, पालनकर्ता, दादा, शोधक, पवित्र शब्दांश और प्राचीन धर्मग्रंथ के रूप में सम्मान दें।",
+        "en": "Honor God as the father, mother, sustainer, grandfather, purifier, sacred syllable, and ancient scripture.",
+        "be": "পিতা, মাতা, ধারক, পিতামহ, শুদ্ধকারী, পবিত্র শব্দাংশ এবং প্রাচীন ধর্মগ্রন্থ হিসাবে ঈশ্বরকে সম্মান করুন।",
+        "ka": "ದೇವರನ್ನು ತಂದೆ, ತಾಯಿ, ಪೋಷಕ, ಅಜ್ಜ, ಶುದ್ಧಿಕಾರ, ಪವಿತ್ರ ಉಚ್ಚಾರಾಂಶ ಮತ್ತು ಪ್ರಾಚೀನ ಗ್ರಂಥವಾಗಿ ಗೌರವಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "पिताहमस्य",
-            "transliteration": "pitāhamasya",
-            "meaning": "pitāhamasya"
+            "transliteration": {
+                "hi": "पिताहमस्य",
+                "en": "pitāhamasya",
+                "be": "পিতাহমস্য",
+                "ka": "ಪಿತಾಹಮಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "पितामहस्य",
+                "en": "pitāhamasya",
+                "be": "পিতৃহামস্যা",
+                "ka": "ಪಿತಾಹಮಸ್ಯ"
+            }
         },
         {
             "sanskrit": "जगतो",
-            "transliteration": "jagato",
-            "meaning": "jagato"
+            "transliteration": {
+                "hi": "जगतो",
+                "en": "jagato",
+                "be": "জগতো",
+                "ka": "ಜಗತೋ"
+            },
+            "meaning": {
+                "hi": "जगतो",
+                "en": "jagato",
+                "be": "জাগতো",
+                "ka": "ಜಗತೋ"
+            }
         },
         {
             "sanskrit": "माता",
-            "transliteration": "mātā",
-            "meaning": "mātā"
+            "transliteration": {
+                "hi": "माता",
+                "en": "mātā",
+                "be": "মাতা",
+                "ka": "ಮಾತಾ"
+            },
+            "meaning": {
+                "hi": "माता",
+                "en": "mātā",
+                "be": "মাতা",
+                "ka": "ಮಾತಾ"
+            }
         },
         {
             "sanskrit": "धाता",
-            "transliteration": "dhātā",
-            "meaning": "dhātā"
+            "transliteration": {
+                "hi": "धाता",
+                "en": "dhātā",
+                "be": "ধাতা",
+                "ka": "ಧಾತಾ"
+            },
+            "meaning": {
+                "hi": "धाता",
+                "en": "dhātā",
+                "be": "ধাতা",
+                "ka": "ಧಾತ"
+            }
         },
         {
             "sanskrit": "पितामहः",
-            "transliteration": "pitāmahaḥ",
-            "meaning": "pitāmahaḥ"
+            "transliteration": {
+                "hi": "पितामहः",
+                "en": "pitāmahaḥ",
+                "be": "পিতামহঃ",
+                "ka": "ಪಿತಾಮಹಃ"
+            },
+            "meaning": {
+                "hi": "पितामहः",
+                "en": "pitāmahaḥ",
+                "be": "পিতামহঃ",
+                "ka": "ಪಿತಾಮಹಃ"
+            }
         },
         {
             "sanskrit": "वेद्यं",
-            "transliteration": "vedyaṃ",
-            "meaning": "vedyaṃ"
+            "transliteration": {
+                "hi": "वेद्यं",
+                "en": "vedyaṃ",
+                "be": "বেদ্যং",
+                "ka": "ವೇದ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "वेद्यं",
+                "en": "vedyaṃ",
+                "be": "vedyaṃ",
+                "ka": "vedyaṃ"
+            }
         },
         {
             "sanskrit": "पवित्रमोंकार",
-            "transliteration": "pavitramoṃkāra",
-            "meaning": "pavitramoṃkāra"
+            "transliteration": {
+                "hi": "पवित्रमोंकार",
+                "en": "pavitramoṃkāra",
+                "be": "পবিত্রমোংকার",
+                "ka": "ಪವಿತ್ರಮೋಂಕಾರ"
+            },
+            "meaning": {
+                "hi": "पवित्रमोङ्कर",
+                "en": "pavitramoṃkāra",
+                "be": "পবিত্রমোঙ্কার",
+                "ka": "pavitramoṃkāra"
+            }
         },
         {
             "sanskrit": "ऋक्साम",
-            "transliteration": "ṛksāma",
-            "meaning": "ṛksāma"
+            "transliteration": {
+                "hi": "ऋक्साम",
+                "en": "ṛksāma",
+                "be": "ঋক্সাম",
+                "ka": "ಋಕ್ಸಾಮ"
+            },
+            "meaning": {
+                "hi": "ऋक्साम",
+                "en": "ṛksāma",
+                "be": "ক্ষমা",
+                "ka": "ಋಕ್ಷಮ"
+            }
         },
         {
             "sanskrit": "यजुरेव",
-            "transliteration": "yajureva",
-            "meaning": "yajureva"
+            "transliteration": {
+                "hi": "यजुरेव",
+                "en": "yajureva",
+                "be": "যজুরেব",
+                "ka": "ಯಜುರೇವ"
+            },
+            "meaning": {
+                "hi": "यजुरेवा",
+                "en": "yajureva",
+                "be": "যজুরেভা",
+                "ka": "ಯಜುರೇವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "moghāśā moghakarmāṇo moghajñānā vicetasaḥ .\nrākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||9-12||",
         "ka": "ಮೋಘಾಶಾ ಮೋಘಕರ್ಮಾಣೋ ಮೋಘಜ್ಞಾನಾ ವಿಚೇತಸಃ |\nರಾಕ್ಷಸೀಮಾಸುರೀಂ ಚೈವ ಪ್ರಕೃತಿಂ ಮೋಹಿನೀಂ ಶ್ರಿತಾಃ ||೯-೧೨||"
     },
-    "transliteration": "moghāśā moghakarmāṇo moghajñānā vicetasaḥ .\nrākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||9-12||",
-    "life_application": "Avoid vain hopes, vain actions, and vain knowledge that spring from a deluded, materialistic, and arrogant mindset.",
+    "transliteration": {
+        "hi": "मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः |\nराक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ||९-१२||",
+        "en": "moghāśā moghakarmāṇo moghajñānā vicetasaḥ .\nrākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||9-12||",
+        "be": "মোঘাশা মোঘকর্মাণো মোঘজ্ঞানা বিচেতসঃ |\nরাক্ষসীমাসুরীং চৈব প্রকৃতিং মোহিনীং শ্রিতাঃ ||৯-১২||",
+        "ka": "ಮೋಘಾಶಾ ಮೋಘಕರ್ಮಾಣೋ ಮೋಘಜ್ಞಾನಾ ವಿಚೇತಸಃ |\nರಾಕ್ಷಸೀಮಾಸುರೀಂ ಚೈವ ಪ್ರಕೃತಿಂ ಮೋಹಿನೀಂ ಶ್ರಿತಾಃ ||೯-೧೨||"
+    },
+    "life_application": {
+        "hi": "व्यर्थ आशाओं, व्यर्थ कार्यों और व्यर्थ ज्ञान से बचें जो भ्रमित, भौतिकवादी और अहंकारी मानसिकता से उत्पन्न होते हैं।",
+        "en": "Avoid vain hopes, vain actions, and vain knowledge that spring from a deluded, materialistic, and arrogant mindset.",
+        "be": "নিরর্থক আশা, নিরর্থক কাজ এবং নিরর্থক জ্ঞান এড়িয়ে চলুন যা একটি প্রতারিত, বস্তুবাদী এবং অহংকারী মানসিকতা থেকে উদ্ভূত হয়।",
+        "ka": "ಭ್ರಮೆ, ಭೌತಿಕ ಮತ್ತು ಸೊಕ್ಕಿನ ಮನಸ್ಥಿತಿಯಿಂದ ಹುಟ್ಟುವ ವ್ಯರ್ಥವಾದ ಭರವಸೆಗಳು, ವ್ಯರ್ಥ ಕ್ರಿಯೆಗಳು ಮತ್ತು ವ್ಯರ್ಥ ಜ್ಞಾನವನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Knowledge"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "मोघाशा",
-            "transliteration": "moghāśā",
-            "meaning": "moghāśā"
+            "transliteration": {
+                "hi": "मोघाशा",
+                "en": "moghāśā",
+                "be": "মোঘাশা",
+                "ka": "ಮೋಘಾಶಾ"
+            },
+            "meaning": {
+                "hi": "मोघाशा",
+                "en": "moghāśā",
+                "be": "মোঘাসা",
+                "ka": "ಮೋಘಾಶಾ"
+            }
         },
         {
             "sanskrit": "मोघकर्माणो",
-            "transliteration": "moghakarmāṇo",
-            "meaning": "moghakarmāṇo"
+            "transliteration": {
+                "hi": "मोघकर्माणो",
+                "en": "moghakarmāṇo",
+                "be": "মোঘকর্মাণো",
+                "ka": "ಮೋಘಕರ್ಮಾಣೋ"
+            },
+            "meaning": {
+                "hi": "मोघकर्मणो",
+                "en": "moghakarmāṇo",
+                "be": "মৃগকর্মাণো",
+                "ka": "ಮೋಘಕರ್ಮಣೋ"
+            }
         },
         {
             "sanskrit": "मोघज्ञाना",
-            "transliteration": "moghajñānā",
-            "meaning": "moghajñānā"
+            "transliteration": {
+                "hi": "मोघज्ञाना",
+                "en": "moghajñānā",
+                "be": "মোঘজ্ঞানা",
+                "ka": "ಮೋಘಜ್ಞಾನಾ"
+            },
+            "meaning": {
+                "hi": "मोघज्ञान",
+                "en": "moghajñānā",
+                "be": "moghjñānā",
+                "ka": "ಮೋಘಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "विचेतसः",
-            "transliteration": "vicetasaḥ",
-            "meaning": "vicetasaḥ"
+            "transliteration": {
+                "hi": "विचेतसः",
+                "en": "vicetasaḥ",
+                "be": "বিচেতসঃ",
+                "ka": "ವಿಚೇತಸಃ"
+            },
+            "meaning": {
+                "hi": "विकटसः",
+                "en": "vicetasaḥ",
+                "be": "vicetasaḥ",
+                "ka": "ವಿಸೇತಾಸಃ"
+            }
         },
         {
             "sanskrit": "राक्षसीमासुरीं",
-            "transliteration": "rākṣasīmāsurīṃ",
-            "meaning": "rākṣasīmāsurīṃ"
+            "transliteration": {
+                "hi": "राक्षसीमासुरीं",
+                "en": "rākṣasīmāsurīṃ",
+                "be": "রাক্ষসীমাসুরীং",
+                "ka": "ರಾಕ್ಷಸೀಮಾಸುರೀಂ"
+            },
+            "meaning": {
+                "hi": "राक्षसीमासूरिम्",
+                "en": "rākṣasīmāsurīṃ",
+                "be": "রাক্ষসীমাসুরিষ",
+                "ka": "ರಕ್ಷಸೀಮಾಸೂರಿಃ"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "प्रकृतिं",
-            "transliteration": "prakṛtiṃ",
-            "meaning": "prakṛtiṃ"
+            "transliteration": {
+                "hi": "प्रकृतिं",
+                "en": "prakṛtiṃ",
+                "be": "প্রকৃতিং",
+                "ka": "ಪ್ರಕೃತಿಂ"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "prakṛtiṃ",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "मोहिनीं",
-            "transliteration": "mohinīṃ",
-            "meaning": "mohinīṃ"
+            "transliteration": {
+                "hi": "मोहिनीं",
+                "en": "mohinīṃ",
+                "be": "মোহিনীং",
+                "ka": "ಮೋಹಿನೀಂ"
+            },
+            "meaning": {
+                "hi": "मोहिनीं",
+                "en": "mohinīṃ",
+                "be": "মোহিনীন",
+                "ka": "mohinīṃ"
+            }
         },
         {
             "sanskrit": "श्रिताः",
-            "transliteration": "śritāḥ",
-            "meaning": "śritāḥ"
+            "transliteration": {
+                "hi": "श्रिताः",
+                "en": "śritāḥ",
+                "be": "শ্রিতাঃ",
+                "ka": "ಶ್ರಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "श्रीतः",
+                "en": "śritāḥ",
+                "be": "শ্রিতাঃ",
+                "ka": "ಶ್ರಿತಾಃ"
+            }
         }
     ],
     "tej": {

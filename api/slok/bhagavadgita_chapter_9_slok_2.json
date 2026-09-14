@@ -14,8 +14,18 @@
         "en": "rājavidyā rājaguhyaṃ pavitramidamuttamam .\npratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam ||9-2||",
         "ka": "ರಾಜವಿದ್ಯಾ ರಾಜಗುಹ್ಯಂ ಪವಿತ್ರಮಿದಮುತ್ತಮಮ್ |\nಪ್ರತ್ಯಕ್ಷಾವಗಮಂ ಧರ್ಮ್ಯಂ ಸುಸುಖಂ ಕರ್ತುಮವ್ಯಯಮ್ ||೯-೨||"
     },
-    "transliteration": "rājavidyā rājaguhyaṃ pavitramidamuttamam .\npratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam ||9-2||",
-    "life_application": "Value this king of sciences and secrets as pure, directly realizable, righteous, easy to perform, and imperishable.",
+    "transliteration": {
+        "hi": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् |\nप्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ||९-२||",
+        "en": "rājavidyā rājaguhyaṃ pavitramidamuttamam .\npratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam ||9-2||",
+        "be": "রাজবিদ্যা রাজগুহ্যং পবিত্রমিদমুত্তমম্ |\nপ্রত্যক্ষাবগমং ধর্ম্যং সুসুখং কর্তুমব্যযম্ ||৯-২||",
+        "ka": "ರಾಜವಿದ್ಯಾ ರಾಜಗುಹ್ಯಂ ಪವಿತ್ರಮಿದಮುತ್ತಮಮ್ |\nಪ್ರತ್ಯಕ್ಷಾವಗಮಂ ಧರ್ಮ್ಯಂ ಸುಸುಖಂ ಕರ್ತುಮವ್ಯಯಮ್ ||೯-೨||"
+    },
+    "life_application": {
+        "hi": "विज्ञान और रहस्यों के इस राजा को शुद्ध, प्रत्यक्ष रूप से प्राप्त होने योग्य, धर्मनिष्ठ, करने में आसान और अविनाशी मानें।",
+        "en": "Value this king of sciences and secrets as pure, directly realizable, righteous, easy to perform, and imperishable.",
+        "be": "বিজ্ঞান ও রহস্যের এই রাজাকে বিশুদ্ধ, সরাসরি উপলব্ধিযোগ্য, ধার্মিক, সম্পাদন করা সহজ এবং অবিনশ্বর হিসাবে মূল্যায়ন করুন।",
+        "ka": "ವಿಜ್ಞಾನ ಮತ್ತು ರಹಸ್ಯಗಳ ಈ ರಾಜನನ್ನು ಶುದ್ಧ, ನೇರವಾಗಿ ಸಾಕ್ಷಾತ್ಕಾರ, ನೀತಿವಂತ, ನಿರ್ವಹಿಸಲು ಸುಲಭ ಮತ್ತು ನಾಶವಾಗದಂತೆ ಗೌರವಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Dharma"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "राजविद्या",
-            "transliteration": "rājavidyā",
-            "meaning": "rājavidyā"
+            "transliteration": {
+                "hi": "राजविद्या",
+                "en": "rājavidyā",
+                "be": "রাজবিদ্যা",
+                "ka": "ರಾಜವಿದ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "राजविद्या",
+                "en": "rājavidyā",
+                "be": "রাজবিদ্যা",
+                "ka": "ರಾಜವಿದ್ಯಾ"
+            }
         },
         {
             "sanskrit": "राजगुह्यं",
-            "transliteration": "rājaguhyaṃ",
-            "meaning": "rājaguhyaṃ"
+            "transliteration": {
+                "hi": "राजगुह्यं",
+                "en": "rājaguhyaṃ",
+                "be": "রাজগুহ্যং",
+                "ka": "ರಾಜಗುಹ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "राजगुह्यं",
+                "en": "rājaguhyaṃ",
+                "be": "রাজগুহ্যং",
+                "ka": "rājaguhyaṃ"
+            }
         },
         {
             "sanskrit": "पवित्रमिदमुत्तमम्",
-            "transliteration": "pavitramidamuttamam",
-            "meaning": "pavitramidamuttamam"
+            "transliteration": {
+                "hi": "पवित्रमिदमुत्तमम्",
+                "en": "pavitramidamuttamam",
+                "be": "পবিত্রমিদমুত্তমম্",
+                "ka": "ಪವಿತ್ರಮಿದಮುತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रमिदामुत्तमम्",
+                "en": "pavitramidamuttamam",
+                "be": "পবিত্রমিদামুত্তম",
+                "ka": "ಪವಿತ್ರಮಿದಮುತ್ತಮಮ್"
+            }
         },
         {
             "sanskrit": "प्रत्यक्षावगमं",
-            "transliteration": "pratyakṣāvagamaṃ",
-            "meaning": "pratyakṣāvagamaṃ"
+            "transliteration": {
+                "hi": "प्रत्यक्षावगमं",
+                "en": "pratyakṣāvagamaṃ",
+                "be": "প্রত্যক্ষাবগমং",
+                "ka": "ಪ್ರತ್ಯಕ್ಷಾವಗಮಂ"
+            },
+            "meaning": {
+                "hi": "प्रत्यक्षवागमम्",
+                "en": "pratyakṣāvagamaṃ",
+                "be": "প্রত্যক্ষ্যবগমং",
+                "ka": "ಪ್ರತ್ಯಕ್ಷವಾಗಮ"
+            }
         },
         {
             "sanskrit": "धर्म्यं",
-            "transliteration": "dharmyaṃ",
-            "meaning": "dharmyaṃ"
+            "transliteration": {
+                "hi": "धर्म्यं",
+                "en": "dharmyaṃ",
+                "be": "ধর্ম্যং",
+                "ka": "ಧರ್ಮ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "धर्म्यम्",
+                "en": "dharmyaṃ",
+                "be": "ধর্ম্য",
+                "ka": "ಧರ್ಮಂ"
+            }
         },
         {
             "sanskrit": "सुसुखं",
-            "transliteration": "susukhaṃ",
-            "meaning": "susukhaṃ"
+            "transliteration": {
+                "hi": "सुसुखं",
+                "en": "susukhaṃ",
+                "be": "সুসুখং",
+                "ka": "ಸುಸುಖಂ"
+            },
+            "meaning": {
+                "hi": "सुसुखं",
+                "en": "susukhaṃ",
+                "be": "susukhaṃ",
+                "ka": "ಸುಸುಖಾಂ"
+            }
         },
         {
             "sanskrit": "कर्तुमव्ययम्",
-            "transliteration": "kartumavyayam",
-            "meaning": "kartumavyayam"
+            "transliteration": {
+                "hi": "कर्तुमव्ययम्",
+                "en": "kartumavyayam",
+                "be": "কর্তুমব্যযম্",
+                "ka": "ಕರ್ತುಮವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "कर्तुमव्ययम्",
+                "en": "kartumavyayam",
+                "be": "কর্তুমাব্যয়ম",
+                "ka": "ಕರ್ತುಮವ್ಯಯಮ್"
+            }
         }
     ],
     "tej": {

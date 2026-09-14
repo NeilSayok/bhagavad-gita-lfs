@@ -14,8 +14,18 @@
         "en": "ahaṃ kraturahaṃ yajñaḥ svadhāhamahamauṣadham .\nmantro.ahamahamevājyamahamagnirahaṃ hutam ||9-16||",
         "ka": "ಅಹಂ ಕ್ರತುರಹಂ ಯಜ್ಞಃ ಸ್ವಧಾಹಮಹಮೌಷಧಮ್ |\nಮನ್ತ್ರೋಽಹಮಹಮೇವಾಜ್ಯಮಹಮಗ್ನಿರಹಂ ಹುತಮ್ ||೯-೧೬||"
     },
-    "transliteration": "ahaṃ kraturahaṃ yajñaḥ svadhāhamahamauṣadham .\nmantro.ahamahamevājyamahamagnirahaṃ hutam ||9-16||",
-    "life_application": "Recognize God as the ritual, sacrifice, offering, healing herb, sacred chant, clarified butter, fire, and oblation.",
+    "transliteration": {
+        "hi": "अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् |\nमन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ||९-१६||",
+        "en": "ahaṃ kraturahaṃ yajñaḥ svadhāhamahamauṣadham .\nmantro.ahamahamevājyamahamagnirahaṃ hutam ||9-16||",
+        "be": "অহং ক্রতুরহং যজ্ঞঃ স্বধাহমহমৌষধম্ |\nমন্ত্রোঽহমহমেবাজ্যমহমগ্নিরহং হুতম্ ||৯-১৬||",
+        "ka": "ಅಹಂ ಕ್ರತುರಹಂ ಯಜ್ಞಃ ಸ್ವಧಾಹಮಹಮೌಷಧಮ್ |\nಮನ್ತ್ರೋಽಹಮಹಮೇವಾಜ್ಯಮಹಮಗ್ನಿರಹಂ ಹುತಮ್ ||೯-೧೬||"
+    },
+    "life_application": {
+        "hi": "भगवान को अनुष्ठान, बलिदान, भेंट, उपचार जड़ी बूटी, पवित्र मंत्र, घी, अग्नि और आहुति के रूप में पहचानें।",
+        "en": "Recognize God as the ritual, sacrifice, offering, healing herb, sacred chant, clarified butter, fire, and oblation.",
+        "be": "আচার, বলিদান, নৈবেদ্য, নিরাময় ভেষজ, পবিত্র মন্ত্র, স্পষ্ট মাখন, আগুন এবং উৎসর্গ হিসাবে ঈশ্বরকে চিনুন।",
+        "ka": "ದೇವರನ್ನು ಆಚರಣೆ, ತ್ಯಾಗ, ಅರ್ಪಣೆ, ಗುಣಪಡಿಸುವ ಗಿಡಮೂಲಿಕೆ, ಪವಿತ್ರ ಪಠಣ, ಸ್ಪಷ್ಟೀಕರಿಸಿದ ಬೆಣ್ಣೆ, ಬೆಂಕಿ ಮತ್ತು ನೈವೇದ್ಯ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "अहं",
-            "transliteration": "ahaṃ",
-            "meaning": "ahaṃ"
+            "transliteration": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "অহং",
+                "ka": "ಅಹಂ"
+            },
+            "meaning": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "ahaṃ",
+                "ka": "ahaṃ"
+            }
         },
         {
             "sanskrit": "क्रतुरहं",
-            "transliteration": "kraturahaṃ",
-            "meaning": "kraturahaṃ"
+            "transliteration": {
+                "hi": "क्रतुरहं",
+                "en": "kraturahaṃ",
+                "be": "ক্রতুরহং",
+                "ka": "ಕ್ರತುರಹಂ"
+            },
+            "meaning": {
+                "hi": "क्रतुरहं",
+                "en": "kraturahaṃ",
+                "be": "kraturahaṃ",
+                "ka": "ಕ್ರತುರಹಂ"
+            }
         },
         {
             "sanskrit": "यज्ञः",
-            "transliteration": "yajñaḥ",
-            "meaning": "yajñaḥ"
+            "transliteration": {
+                "hi": "यज्ञः",
+                "en": "yajñaḥ",
+                "be": "যজ্ঞঃ",
+                "ka": "ಯಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "यज्ञः",
+                "en": "yajñaḥ",
+                "be": "যজ্ঞঃ",
+                "ka": "ಯಜ್ಞಃ"
+            }
         },
         {
             "sanskrit": "स्वधाहमहमौषधम्",
-            "transliteration": "svadhāhamahamauṣadham",
-            "meaning": "svadhāhamahamauṣadham"
+            "transliteration": {
+                "hi": "स्वधाहमहमौषधम्",
+                "en": "svadhāhamahamauṣadham",
+                "be": "স্বধাহমহমৌষধম্",
+                "ka": "ಸ್ವಧಾಹಮಹಮೌಷಧಮ್"
+            },
+            "meaning": {
+                "hi": "स्वधाहमहमौषधम्",
+                "en": "svadhāhamahamauṣadham",
+                "be": "স্বধামহামৌষধম",
+                "ka": "ಸ್ವಧಾಹಮಹಮೌಷಧಮ್"
+            }
         },
         {
             "sanskrit": "मन्त्रोऽहमहमेवाज्यमहमग्निरहं",
-            "transliteration": "mantro'hamahamevājyamahamagnirahaṃ",
-            "meaning": "mantro'hamahamevājyamahamagnirahaṃ"
+            "transliteration": {
+                "hi": "मन्त्रोऽहमहमेवाज्यमहमग्निरहं",
+                "en": "mantro'hamahamevājyamahamagnirahaṃ",
+                "be": "মন্ত্রোঽহমহমেবাজ্যমহমগ্নিরহং",
+                "ka": "ಮನ್ತ್ರೋಽಹಮಹಮೇವಾಜ್ಯಮಹಮಗ್ನಿರಹಂ"
+            },
+            "meaning": {
+                "hi": "मन्त्रोऽहमहमेवाज्यमहामग्निरहं",
+                "en": "mantro'hamahamevājyamahamagnirahaṃ",
+                "be": "mantro'hamahamevājyamahamagnirahṃ",
+                "ka": "ಮಂತ್ರೋ'ಹಮಹಮೇವಾಜ್ಯಮಹಾಮಗ್ನಿರಹಃ"
+            }
         },
         {
             "sanskrit": "हुतम्",
-            "transliteration": "hutam",
-            "meaning": "hutam"
+            "transliteration": {
+                "hi": "हुतम्",
+                "en": "hutam",
+                "be": "হুতম্",
+                "ka": "ಹುತಮ್"
+            },
+            "meaning": {
+                "hi": "हुतम",
+                "en": "hutam",
+                "be": "হুতাম",
+                "ka": "ಹುತಮ್"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "devānbhāvayatānena te devā bhāvayantu vaḥ .\nparasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha ||3-11||",
         "ka": "ದೇವಾನ್ಭಾವಯತಾನೇನ ತೇ ದೇವಾ ಭಾವಯನ್ತು ವಃ |\nಪರಸ್ಪರಂ ಭಾವಯನ್ತಃ ಶ್ರೇಯಃ ಪರಮವಾಪ್ಸ್ಯಥ ||೩-೧೧||"
     },
-    "transliteration": "devānbhāvayatānena te devā bhāvayantu vaḥ .\nparasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha ||3-11||",
-    "life_application": "Nurture the natural and social systems around you through responsible habits, receiving their ongoing support in return.",
+    "transliteration": {
+        "hi": "देवान्भावयतानेन ते देवा भावयन्तु वः |\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||३-११||",
+        "en": "devānbhāvayatānena te devā bhāvayantu vaḥ .\nparasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha ||3-11||",
+        "be": "দেবান্ভাবযতানেন তে দেবা ভাবযন্তু বঃ |\nপরস্পরং ভাবযন্তঃ শ্রেযঃ পরমবাপ্স্যথ ||৩-১১||",
+        "ka": "ದೇವಾನ್ಭಾವಯತಾನೇನ ತೇ ದೇವಾ ಭಾವಯನ್ತು ವಃ |\nಪರಸ್ಪರಂ ಭಾವಯನ್ತಃ ಶ್ರೇಯಃ ಪರಮವಾಪ್ಸ್ಯಥ ||೩-೧೧||"
+    },
+    "life_application": {
+        "hi": "जिम्मेदार आदतों के माध्यम से अपने आस-पास की प्राकृतिक और सामाजिक प्रणालियों का पोषण करें और बदले में उनका निरंतर समर्थन प्राप्त करें।",
+        "en": "Nurture the natural and social systems around you through responsible habits, receiving their ongoing support in return.",
+        "be": "আপনার চারপাশের প্রাকৃতিক এবং সামাজিক ব্যবস্থাকে দায়িত্বশীল অভ্যাসের মাধ্যমে লালন করুন, বিনিময়ে তাদের চলমান সমর্থন পান।",
+        "ka": "ಜವಾಬ್ದಾರಿಯುತ ಅಭ್ಯಾಸಗಳ ಮೂಲಕ ನಿಮ್ಮ ಸುತ್ತಲಿನ ನೈಸರ್ಗಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಪೋಷಿಸಿ, ಪ್ರತಿಯಾಗಿ ಅವರ ನಿರಂತರ ಬೆಂಬಲವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "देवान्भावयतानेन",
-            "transliteration": "devānbhāvayatānena",
-            "meaning": "devānbhāvayatānena"
+            "transliteration": {
+                "hi": "देवान्भावयतानेन",
+                "en": "devānbhāvayatānena",
+                "be": "দেবান্ভাবযতানেন",
+                "ka": "ದೇವಾನ್ಭಾವಯತಾನೇನ"
+            },
+            "meaning": {
+                "hi": "देवान्भावयतानेन",
+                "en": "devānbhāvayatānena",
+                "be": "devānbhavayatānena",
+                "ka": "ದೇವಾನ್ಭಾವಯತಾನೇನ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "देवा",
-            "transliteration": "devā",
-            "meaning": "devā"
+            "transliteration": {
+                "hi": "देवा",
+                "en": "devā",
+                "be": "দেবা",
+                "ka": "ದೇವಾ"
+            },
+            "meaning": {
+                "hi": "देवा",
+                "en": "devā",
+                "be": "দেবা",
+                "ka": "ದೇವಾ"
+            }
         },
         {
             "sanskrit": "भावयन्तु",
-            "transliteration": "bhāvayantu",
-            "meaning": "bhāvayantu"
+            "transliteration": {
+                "hi": "भावयन्तु",
+                "en": "bhāvayantu",
+                "be": "ভাবযন্তু",
+                "ka": "ಭಾವಯನ್ತು"
+            },
+            "meaning": {
+                "hi": "भावयन्तु",
+                "en": "bhāvayantu",
+                "be": "ভবয়ন্তু",
+                "ka": "ಭಾವಯಂತು"
+            }
         },
         {
             "sanskrit": "वः",
-            "transliteration": "vaḥ",
-            "meaning": "vaḥ"
+            "transliteration": {
+                "hi": "वः",
+                "en": "vaḥ",
+                "be": "বঃ",
+                "ka": "ವಃ"
+            },
+            "meaning": {
+                "hi": "वाह",
+                "en": "vaḥ",
+                "be": "vaḥ",
+                "ka": "ವಃ"
+            }
         },
         {
             "sanskrit": "परस्परं",
-            "transliteration": "parasparaṃ",
-            "meaning": "parasparaṃ"
+            "transliteration": {
+                "hi": "परस्परं",
+                "en": "parasparaṃ",
+                "be": "পরস্পরং",
+                "ka": "ಪರಸ್ಪರಂ"
+            },
+            "meaning": {
+                "hi": "पारस्परम्",
+                "en": "parasparaṃ",
+                "be": "parasparaṃ",
+                "ka": "ಪರಸ್ಪರ"
+            }
         },
         {
             "sanskrit": "भावयन्तः",
-            "transliteration": "bhāvayantaḥ",
-            "meaning": "bhāvayantaḥ"
+            "transliteration": {
+                "hi": "भावयन्तः",
+                "en": "bhāvayantaḥ",
+                "be": "ভাবযন্তঃ",
+                "ka": "ಭಾವಯನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "भावयन्तः",
+                "en": "bhāvayantaḥ",
+                "be": "bhāvayantah",
+                "ka": "ಭಾವಯನ್ತಃ"
+            }
         },
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "śreyaḥ"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেয়াঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            }
         },
         {
             "sanskrit": "परमवाप्स्यथ",
-            "transliteration": "paramavāpsyatha",
-            "meaning": "paramavāpsyatha"
+            "transliteration": {
+                "hi": "परमवाप्स्यथ",
+                "en": "paramavāpsyatha",
+                "be": "পরমবাপ্স্যথ",
+                "ka": "ಪರಮವಾಪ್ಸ್ಯಥ"
+            },
+            "meaning": {
+                "hi": "परमवाप्स्यथा",
+                "en": "paramavāpsyatha",
+                "be": "পরমব্যাপ্স্যথ",
+                "ka": "ಪರಮವಾಪ್ಸ್ಯತ"
+            }
         }
     ],
     "tej": {

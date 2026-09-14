@@ -14,8 +14,18 @@
         "en": "naiva tasya kṛtenārtho nākṛteneha kaścana .\nna cāsya sarvabhūteṣu kaścidarthavyapāśrayaḥ ||3-18||",
         "ka": "ನೈವ ತಸ್ಯ ಕೃತೇನಾರ್ಥೋ ನಾಕೃತೇನೇಹ ಕಶ್ಚನ |\nನ ಚಾಸ್ಯ ಸರ್ವಭೂತೇಷು ಕಶ್ಚಿದರ್ಥವ್ಯಪಾಶ್ರಯಃ ||೩-೧೮||"
     },
-    "transliteration": "naiva tasya kṛtenārtho nākṛteneha kaścana .\nna cāsya sarvabhūteṣu kaścidarthavyapāśrayaḥ ||3-18||",
-    "life_application": "Perform your work with complete inner independence, free from needy dependence on other people's approval or assistance.",
+    "transliteration": {
+        "hi": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन |\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ||३-१८||",
+        "en": "naiva tasya kṛtenārtho nākṛteneha kaścana .\nna cāsya sarvabhūteṣu kaścidarthavyapāśrayaḥ ||3-18||",
+        "be": "নৈব তস্য কৃতেনার্থো নাকৃতেনেহ কশ্চন |\nন চাস্য সর্বভূতেষু কশ্চিদর্থব্যপাশ্রযঃ ||৩-১৮||",
+        "ka": "ನೈವ ತಸ್ಯ ಕೃತೇನಾರ್ಥೋ ನಾಕೃತೇನೇಹ ಕಶ್ಚನ |\nನ ಚಾಸ್ಯ ಸರ್ವಭೂತೇಷು ಕಶ್ಚಿದರ್ಥವ್ಯಪಾಶ್ರಯಃ ||೩-೧೮||"
+    },
+    "life_application": {
+        "hi": "अन्य लोगों की स्वीकृति या सहायता पर निर्भरता से मुक्त होकर, पूर्ण आंतरिक स्वतंत्रता के साथ अपना कार्य करें।",
+        "en": "Perform your work with complete inner independence, free from needy dependence on other people's approval or assistance.",
+        "be": "সম্পূর্ণ অভ্যন্তরীণ স্বাধীনতার সাথে আপনার কাজ সম্পাদন করুন, অন্যের অনুমোদন বা সহায়তার উপর অভাবী নির্ভরতা থেকে মুক্ত।",
+        "ka": "ಇತರ ಜನರ ಅನುಮೋದನೆ ಅಥವಾ ಸಹಾಯದ ಮೇಲೆ ಅಗತ್ಯವಿರುವ ಅವಲಂಬನೆಯಿಂದ ಮುಕ್ತವಾಗಿ ಸಂಪೂರ್ಣ ಆಂತರಿಕ ಸ್ವಾತಂತ್ರ್ಯದೊಂದಿಗೆ ನಿಮ್ಮ ಕೆಲಸವನ್ನು ನಿರ್ವಹಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "नैव",
-            "transliteration": "naiva",
-            "meaning": "naiva"
+            "transliteration": {
+                "hi": "नैव",
+                "en": "naiva",
+                "be": "নৈব",
+                "ka": "ನೈವ"
+            },
+            "meaning": {
+                "hi": "नैवा",
+                "en": "naiva",
+                "be": "নাইভা",
+                "ka": "ನೈವಾ"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "his"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "कृतेनार्थो",
-            "transliteration": "kṛtenārtho",
-            "meaning": "kṛtenārtho"
+            "transliteration": {
+                "hi": "कृतेनार्थो",
+                "en": "kṛtenārtho",
+                "be": "কৃতেনার্থো",
+                "ka": "ಕೃತೇನಾರ್ಥೋ"
+            },
+            "meaning": {
+                "hi": "कृतेनार्थो",
+                "en": "kṛtenārtho",
+                "be": "কৃত্নার্থো",
+                "ka": "ಕೃತೇನಾರ್ಥೋ"
+            }
         },
         {
             "sanskrit": "नाकृतेनेह",
-            "transliteration": "nākṛteneha",
-            "meaning": "nākṛteneha"
+            "transliteration": {
+                "hi": "नाकृतेनेह",
+                "en": "nākṛteneha",
+                "be": "নাকৃতেনেহ",
+                "ka": "ನಾಕೃತೇನೇಹ"
+            },
+            "meaning": {
+                "hi": "नाकृतेनेहा",
+                "en": "nākṛteneha",
+                "be": "নক্ষত্রেনেহা",
+                "ka": "ನಕೃತೇನೇಹ"
+            }
         },
         {
             "sanskrit": "कश्चन",
-            "transliteration": "kaścana",
-            "meaning": "kaścana"
+            "transliteration": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কশ্চন",
+                "ka": "ಕಶ್ಚನ"
+            },
+            "meaning": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কাশ্কান",
+                "ka": "ಕಶ್ಚನ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "चास्य",
-            "transliteration": "cāsya",
-            "meaning": "cāsya"
+            "transliteration": {
+                "hi": "चास्य",
+                "en": "cāsya",
+                "be": "চাস্য",
+                "ka": "ಚಾಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "कास्या",
+                "en": "cāsya",
+                "be": "cāsya",
+                "ka": "cāsya"
+            }
         },
         {
             "sanskrit": "सर्वभूतेषु",
-            "transliteration": "sarvabhūteṣu",
-            "meaning": "sarvabhūteṣu"
+            "transliteration": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            }
         },
         {
             "sanskrit": "कश्चिदर्थव्यपाश्रयः",
-            "transliteration": "kaścidarthavyapāśrayaḥ",
-            "meaning": "kaścidarthavyapāśrayaḥ"
+            "transliteration": {
+                "hi": "कश्चिदर्थव्यपाश्रयः",
+                "en": "kaścidarthavyapāśrayaḥ",
+                "be": "কশ্চিদর্থব্যপাশ্রযঃ",
+                "ka": "ಕಶ್ಚಿದರ್ಥವ್ಯಪಾಶ್ರಯಃ"
+            },
+            "meaning": {
+                "hi": "कश्चिदार्थव्यापाश्रयः",
+                "en": "kaścidarthavyapāśrayaḥ",
+                "be": "কাশিদার্থব্যপাশ্রয়ঃ",
+                "ka": "ಕಶ್ಚಿದಾರ್ಥವ್ಯಾಪಾಶ್ರಯಃ"
+            }
         }
     ],
     "tej": {

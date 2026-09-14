@@ -14,8 +14,18 @@
         "en": "vyāmiśreṇeva vākyena buddhiṃ mohayasīva me .\ntadekaṃ vada niścitya yena śreyo.ahamāpnuyām ||3-2||",
         "ka": "ವ್ಯಾಮಿಶ್ರೇಣೇವ ವಾಕ್ಯೇನ ಬುದ್ಧಿಂ ಮೋಹಯಸೀವ ಮೇ |\nತದೇಕಂ ವದ ನಿಶ್ಚಿತ್ಯ ಯೇನ ಶ್ರೇಯೋಽಹಮಾಪ್ನುಯಾಮ್ ||೩-೨||"
     },
-    "transliteration": "vyāmiśreṇeva vākyena buddhiṃ mohayasīva me .\ntadekaṃ vada niścitya yena śreyo.ahamāpnuyām ||3-2||",
-    "life_application": "Ask for clear, practical guidance when overwhelmed by complex options, focusing on the single path that fits your situation.",
+    "transliteration": {
+        "hi": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे |\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ||३-२||",
+        "en": "vyāmiśreṇeva vākyena buddhiṃ mohayasīva me .\ntadekaṃ vada niścitya yena śreyo.ahamāpnuyām ||3-2||",
+        "be": "ব্যামিশ্রেণেব বাক্যেন বুদ্ধিং মোহযসীব মে |\nতদেকং বদ নিশ্চিত্য যেন শ্রেযোঽহমাপ্নুযাম্ ||৩-২||",
+        "ka": "ವ್ಯಾಮಿಶ್ರೇಣೇವ ವಾಕ್ಯೇನ ಬುದ್ಧಿಂ ಮೋಹಯಸೀವ ಮೇ |\nತದೇಕಂ ವದ ನಿಶ್ಚಿತ್ಯ ಯೇನ ಶ್ರೇಯೋಽಹಮಾಪ್ನುಯಾಮ್ ||೩-೨||"
+    },
+    "life_application": {
+        "hi": "जटिल विकल्पों से अभिभूत होने पर स्पष्ट, व्यावहारिक मार्गदर्शन मांगें, अपनी स्थिति के अनुकूल एकल मार्ग पर ध्यान केंद्रित करें।",
+        "en": "Ask for clear, practical guidance when overwhelmed by complex options, focusing on the single path that fits your situation.",
+        "be": "জটিল বিকল্পগুলির দ্বারা অভিভূত হলে স্পষ্ট, ব্যবহারিক দিকনির্দেশনার জন্য জিজ্ঞাসা করুন, আপনার পরিস্থিতির সাথে মানানসই একক পথের উপর ফোকাস করুন।",
+        "ka": "ಸಂಕೀರ್ಣ ಆಯ್ಕೆಗಳಿಂದ ಮುಳುಗಿದಾಗ ಸ್ಪಷ್ಟ, ಪ್ರಾಯೋಗಿಕ ಮಾರ್ಗದರ್ಶನಕ್ಕಾಗಿ ಕೇಳಿ, ನಿಮ್ಮ ಪರಿಸ್ಥಿತಿಗೆ ಸರಿಹೊಂದುವ ಏಕೈಕ ಮಾರ್ಗವನ್ನು ಕೇಂದ್ರೀಕರಿಸಿ."
+    },
     "themes": [
         "Purpose",
         "Mind"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "व्यामिश्रेण",
-            "transliteration": "vyāmiśreṇa",
-            "meaning": "perplexing"
+            "transliteration": {
+                "hi": "व्यामिश्रेण",
+                "en": "vyāmiśreṇa",
+                "be": "ব্যামিশ্রেণ",
+                "ka": "ವ್ಯಾಮಿಶ್ರೇಣ"
+            },
+            "meaning": {
+                "hi": "उलझन में डालने वाला",
+                "en": "perplexing",
+                "be": "বিভ্রান্তিকর",
+                "ka": "ದಿಗ್ಭ್ರಮೆಗೊಳಿಸುವ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "as it were"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसा कि यह था",
+                "en": "as it were",
+                "be": "যেমন ছিল",
+                "ka": "ಇದ್ದಂತೆ"
+            }
         },
         {
             "sanskrit": "वाक्येन",
-            "transliteration": "vākyena",
-            "meaning": "with speech"
+            "transliteration": {
+                "hi": "वाक्येन",
+                "en": "vākyena",
+                "be": "বাক্যেন",
+                "ka": "ವಾಕ್ಯೇನ"
+            },
+            "meaning": {
+                "hi": "भाषण के साथ",
+                "en": "with speech",
+                "be": "বক্তৃতা দিয়ে",
+                "ka": "ಭಾಷಣದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "बुद्धिम्",
-            "transliteration": "buddhim",
-            "meaning": "understanding"
+            "transliteration": {
+                "hi": "बुद्धिम्",
+                "en": "buddhim",
+                "be": "বুদ্ধিম্",
+                "ka": "ಬುದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "समझ",
+                "en": "understanding",
+                "be": "বোঝা",
+                "ka": "ತಿಳುವಳಿಕೆ"
+            }
         },
         {
             "sanskrit": "मोहयसि",
-            "transliteration": "mohayasi",
-            "meaning": "confusest"
+            "transliteration": {
+                "hi": "मोहयसि",
+                "en": "mohayasi",
+                "be": "মোহযসি",
+                "ka": "ಮೋಹಯಸಿ"
+            },
+            "meaning": {
+                "hi": "सबसे भ्रमित करने वाला",
+                "en": "confusest",
+                "be": "বিভ্রান্ত",
+                "ka": "ಗೊಂದಲಮಯ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "as it were"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसा कि यह था",
+                "en": "as it were",
+                "be": "যেমন ছিল",
+                "ka": "ಇದ್ದಂತೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "एकम्",
-            "transliteration": "ekam",
-            "meaning": "one"
+            "transliteration": {
+                "hi": "एकम्",
+                "en": "ekam",
+                "be": "একম্",
+                "ka": "ಏಕಮ್"
+            },
+            "meaning": {
+                "hi": "एक",
+                "en": "one",
+                "be": "এক",
+                "ka": "ಒಂದು"
+            }
         },
         {
             "sanskrit": "वद",
-            "transliteration": "vada",
-            "meaning": "tell"
+            "transliteration": {
+                "hi": "वद",
+                "en": "vada",
+                "be": "বদ",
+                "ka": "ವದ"
+            },
+            "meaning": {
+                "hi": "बताओ",
+                "en": "tell",
+                "be": "বল",
+                "ka": "ಹೇಳು"
+            }
         },
         {
             "sanskrit": "निश्चित्य",
-            "transliteration": "niścitya",
-            "meaning": "for certain"
+            "transliteration": {
+                "hi": "निश्चित्य",
+                "en": "niścitya",
+                "be": "নিশ্চিত্য",
+                "ka": "ನಿಶ್ಚಿತ್ಯ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "for certain",
+                "be": "নিশ্চিতভাবে",
+                "ka": "ಖಚಿತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "येन",
-            "transliteration": "yena",
-            "meaning": "by which"
+            "transliteration": {
+                "hi": "येन",
+                "en": "yena",
+                "be": "যেন",
+                "ka": "ಯೇನ"
+            },
+            "meaning": {
+                "hi": "जिससे",
+                "en": "by which",
+                "be": "যার দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "bliss"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "bliss",
+                "be": "আনন্দ",
+                "ka": "ಆನಂದ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "आप्नुयाम्",
-            "transliteration": "āpnuyām",
-            "meaning": "may attain."
+            "transliteration": {
+                "hi": "आप्नुयाम्",
+                "en": "āpnuyām",
+                "be": "আপ্নুযাম্",
+                "ka": "ಆಪ್ನುಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "प्राप्त कर सकते हैं.",
+                "en": "may attain.",
+                "be": "অর্জন করতে পারে।",
+                "ka": "ಸಾಧಿಸಬಹುದು."
+            }
         }
     ],
     "tej": {

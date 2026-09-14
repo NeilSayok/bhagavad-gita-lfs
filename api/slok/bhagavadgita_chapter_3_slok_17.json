@@ -14,8 +14,18 @@
         "en": "yastvātmaratireva syādātmatṛptaśca mānavaḥ .\nātmanyeva ca santuṣṭastasya kāryaṃ na vidyate ||3-17||",
         "ka": "ಯಸ್ತ್ವಾತ್ಮರತಿರೇವ ಸ್ಯಾದಾತ್ಮತೃಪ್ತಶ್ಚ ಮಾನವಃ |\nಆತ್ಮನ್ಯೇವ ಚ ಸನ್ತುಷ್ಟಸ್ತಸ್ಯ ಕಾರ್ಯಂ ನ ವಿದ್ಯತೇ ||೩-೧೭||"
     },
-    "transliteration": "yastvātmaratireva syādātmatṛptaśca mānavaḥ .\nātmanyeva ca santuṣṭastasya kāryaṃ na vidyate ||3-17||",
-    "life_application": "Cultivate inner contentment until your happiness relies entirely on self-awareness rather than external conditions.",
+    "transliteration": {
+        "hi": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः |\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ||३-१७||",
+        "en": "yastvātmaratireva syādātmatṛptaśca mānavaḥ .\nātmanyeva ca santuṣṭastasya kāryaṃ na vidyate ||3-17||",
+        "be": "যস্ত্বাত্মরতিরেব স্যাদাত্মতৃপ্তশ্চ মানবঃ |\nআত্মন্যেব চ সন্তুষ্টস্তস্য কার্যং ন বিদ্যতে ||৩-১৭||",
+        "ka": "ಯಸ್ತ್ವಾತ್ಮರತಿರೇವ ಸ್ಯಾದಾತ್ಮತೃಪ್ತಶ್ಚ ಮಾನವಃ |\nಆತ್ಮನ್ಯೇವ ಚ ಸನ್ತುಷ್ಟಸ್ತಸ್ಯ ಕಾರ್ಯಂ ನ ವಿದ್ಯತೇ ||೩-೧೭||"
+    },
+    "life_application": {
+        "hi": "आंतरिक संतुष्टि तब तक विकसित करें जब तक कि आपकी खुशी बाहरी परिस्थितियों के बजाय पूरी तरह से आत्म-जागरूकता पर निर्भर न हो जाए।",
+        "en": "Cultivate inner contentment until your happiness relies entirely on self-awareness rather than external conditions.",
+        "be": "অভ্যন্তরীণ তৃপ্তি গড়ে তুলুন যতক্ষণ না আপনার সুখ সম্পূর্ণরূপে বাহ্যিক অবস্থার পরিবর্তে আত্ম-সচেতনতার উপর নির্ভর করে।",
+        "ka": "ನಿಮ್ಮ ಸಂತೋಷವು ಬಾಹ್ಯ ಪರಿಸ್ಥಿತಿಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಸ್ವಯಂ-ಅರಿವಿನ ಮೇಲೆ ಸಂಪೂರ್ಣವಾಗಿ ಅವಲಂಬಿತವಾಗುವವರೆಗೆ ಆಂತರಿಕ ತೃಪ್ತಿಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Self-Realization",
         "Detachment"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "यस्त्वात्मरतिरेव",
-            "transliteration": "yastvātmaratireva",
-            "meaning": "yastvātmaratireva"
+            "transliteration": {
+                "hi": "यस्त्वात्मरतिरेव",
+                "en": "yastvātmaratireva",
+                "be": "যস্ত্বাত্মরতিরেব",
+                "ka": "ಯಸ್ತ್ವಾತ್ಮರತಿರೇವ"
+            },
+            "meaning": {
+                "hi": "यस्तवत्मरतिरेव",
+                "en": "yastvātmaratireva",
+                "be": "যস্ত্বাত্মারাতিরেভা",
+                "ka": "ಯಸ್ತ್ವಾತ್ಮರತಿರೇವ"
+            }
         },
         {
             "sanskrit": "स्यादात्मतृप्तश्च",
-            "transliteration": "syādātmatṛptaśca",
-            "meaning": "syādātmatṛptaśca"
+            "transliteration": {
+                "hi": "स्यादात्मतृप्तश्च",
+                "en": "syādātmatṛptaśca",
+                "be": "স্যাদাত্মতৃপ্তশ্চ",
+                "ka": "ಸ್ಯಾದಾತ್ಮತೃಪ್ತಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "स्यादात्मतृप्तश्च",
+                "en": "syādātmatṛptaśca",
+                "be": "syadātmatṛptaśca",
+                "ka": "ಸ್ಯಾದಾತ್ಮತೃಪ್ತಶ್ಚ"
+            }
         },
         {
             "sanskrit": "मानवः",
-            "transliteration": "mānavaḥ",
-            "meaning": "mānavaḥ"
+            "transliteration": {
+                "hi": "मानवः",
+                "en": "mānavaḥ",
+                "be": "মানবঃ",
+                "ka": "ಮಾನವಃ"
+            },
+            "meaning": {
+                "hi": "मानवः",
+                "en": "mānavaḥ",
+                "be": "মানবঃ",
+                "ka": "ಮಾನವಃ"
+            }
         },
         {
             "sanskrit": "आत्मन्येव",
-            "transliteration": "ātmanyeva",
-            "meaning": "ātmanyeva"
+            "transliteration": {
+                "hi": "आत्मन्येव",
+                "en": "ātmanyeva",
+                "be": "আত্মন্যেব",
+                "ka": "ಆತ್ಮನ್ಯೇವ"
+            },
+            "meaning": {
+                "hi": "आत्मन्येव",
+                "en": "ātmanyeva",
+                "be": "আত্মানিয়েভা",
+                "ka": "ಆತ್ಮನ್ಯೇವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सन्तुष्टस्तस्य",
-            "transliteration": "santuṣṭastasya",
-            "meaning": "santuṣṭastasya"
+            "transliteration": {
+                "hi": "सन्तुष्टस्तस्य",
+                "en": "santuṣṭastasya",
+                "be": "সন্তুষ্টস্তস্য",
+                "ka": "ಸನ್ತುಷ್ಟಸ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सन्तुष्टस्तस्य",
+                "en": "santuṣṭastasya",
+                "be": "সন্তুষ্টসত্য",
+                "ka": "ಸಂತುಷ್ಟಸ್ತಸ್ಯ"
+            }
         },
         {
             "sanskrit": "कार्यं",
-            "transliteration": "kāryaṃ",
-            "meaning": "kāryaṃ"
+            "transliteration": {
+                "hi": "कार्यं",
+                "en": "kāryaṃ",
+                "be": "কার্যং",
+                "ka": "ಕಾರ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "कार्यं",
+                "en": "kāryaṃ",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯಂ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "vidyate"
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যাতে",
+                "ka": "ವಿದ್ಯೆ"
+            }
         }
     ],
     "tej": {

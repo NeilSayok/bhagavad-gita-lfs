@@ -14,8 +14,18 @@
         "en": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ .\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt ||3-13||",
         "ka": "ಯಜ್ಞಶಿಷ್ಟಾಶಿನಃ ಸನ್ತೋ ಮುಚ್ಯನ್ತೇ ಸರ್ವಕಿಲ್ಬಿಷೈಃ |\nಭುಞ್ಜತೇ ತೇ ತ್ವಘಂ ಪಾಪಾ ಯೇ ಪಚನ್ತ್ಯಾತ್ಮಕಾರಣಾತ್ ||೩-೧೩||"
     },
-    "transliteration": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ .\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt ||3-13||",
-    "life_application": "Share your meals and resources with others before satisfying your own needs, experiencing the joy of shared abundance.",
+    "transliteration": {
+        "hi": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः |\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ||३-१३||",
+        "en": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ .\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt ||3-13||",
+        "be": "যজ্ঞশিষ্টাশিনঃ সন্তো মুচ্যন্তে সর্বকিল্বিষৈঃ |\nভুঞ্জতে তে ত্বঘং পাপা যে পচন্ত্যাত্মকারণাত্ ||৩-১৩||",
+        "ka": "ಯಜ್ಞಶಿಷ್ಟಾಶಿನಃ ಸನ್ತೋ ಮುಚ್ಯನ್ತೇ ಸರ್ವಕಿಲ್ಬಿಷೈಃ |\nಭುಞ್ಜತೇ ತೇ ತ್ವಘಂ ಪಾಪಾ ಯೇ ಪಚನ್ತ್ಯಾತ್ಮಕಾರಣಾತ್ ||೩-೧೩||"
+    },
+    "life_application": {
+        "hi": "साझा प्रचुरता की खुशी का अनुभव करते हुए, अपनी जरूरतों को पूरा करने से पहले अपना भोजन और संसाधन दूसरों के साथ साझा करें।",
+        "en": "Share your meals and resources with others before satisfying your own needs, experiencing the joy of shared abundance.",
+        "be": "ভাগ করা প্রাচুর্যের আনন্দ উপভোগ করার আগে আপনার নিজের চাহিদা পূরণ করার আগে আপনার খাবার এবং সম্পদ অন্যদের সাথে ভাগ করুন।",
+        "ka": "ನಿಮ್ಮ ಸ್ವಂತ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸುವ ಮೊದಲು ನಿಮ್ಮ ಊಟ ಮತ್ತು ಸಂಪನ್ಮೂಲಗಳನ್ನು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ, ಹಂಚಿಕೆಯ ಸಮೃದ್ಧಿಯ ಸಂತೋಷವನ್ನು ಅನುಭವಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Detachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "यज्ञशिष्टाशिनः",
-            "transliteration": "yajñaśiṣṭāśinaḥ",
-            "meaning": "yajñaśiṣṭāśinaḥ"
+            "transliteration": {
+                "hi": "यज्ञशिष्टाशिनः",
+                "en": "yajñaśiṣṭāśinaḥ",
+                "be": "যজ্ঞশিষ্টাশিনঃ",
+                "ka": "ಯಜ್ಞಶಿಷ್ಟಾಶಿನಃ"
+            },
+            "meaning": {
+                "hi": "यज्ञशिष्ठाशिनः",
+                "en": "yajñaśiṣṭāśinaḥ",
+                "be": "yajñashiṣṭāśinah",
+                "ka": "ಯಜ್ಞಶಿಷ್ಟಾಶಿನಃ"
+            }
         },
         {
             "sanskrit": "सन्तो",
-            "transliteration": "santo",
-            "meaning": "santo"
+            "transliteration": {
+                "hi": "सन्तो",
+                "en": "santo",
+                "be": "সন্তো",
+                "ka": "ಸನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "सैंटो",
+                "en": "santo",
+                "be": "সান্টো",
+                "ka": "ಸ್ಯಾಂಟೋ"
+            }
         },
         {
             "sanskrit": "मुच्यन्ते",
-            "transliteration": "mucyante",
-            "meaning": "mucyante"
+            "transliteration": {
+                "hi": "मुच्यन्ते",
+                "en": "mucyante",
+                "be": "মুচ্যন্তে",
+                "ka": "ಮುಚ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "mucyante",
+                "en": "mucyante",
+                "be": "mucyante",
+                "ka": "ಮ್ಯೂಸಿಯಂಟ್"
+            }
         },
         {
             "sanskrit": "सर्वकिल्बिषैः",
-            "transliteration": "sarvakilbiṣaiḥ",
-            "meaning": "sarvakilbiṣaiḥ"
+            "transliteration": {
+                "hi": "सर्वकिल्बिषैः",
+                "en": "sarvakilbiṣaiḥ",
+                "be": "সর্বকিল্বিষৈঃ",
+                "ka": "ಸರ್ವಕಿಲ್ಬಿಷೈಃ"
+            },
+            "meaning": {
+                "hi": "सर्वकिलबिषैः",
+                "en": "sarvakilbiṣaiḥ",
+                "be": "সর্বকিলবিষইঃ",
+                "ka": "ಸರ್ವಕೀಲ್ಬಿಷೈಃ"
+            }
         },
         {
             "sanskrit": "भुञ्जते",
-            "transliteration": "bhuñjate",
-            "meaning": "bhuñjate"
+            "transliteration": {
+                "hi": "भुञ्जते",
+                "en": "bhuñjate",
+                "be": "ভুঞ্জতে",
+                "ka": "ಭುಞ್ಜತೇ"
+            },
+            "meaning": {
+                "hi": "भुंजते",
+                "en": "bhuñjate",
+                "be": "ভুঞ্জতে",
+                "ka": "ಭುಂಜತೇ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "त्वघं",
-            "transliteration": "tvaghaṃ",
-            "meaning": "tvaghaṃ"
+            "transliteration": {
+                "hi": "त्वघं",
+                "en": "tvaghaṃ",
+                "be": "ত্বঘং",
+                "ka": "ತ್ವಘಂ"
+            },
+            "meaning": {
+                "hi": "त्वघं",
+                "en": "tvaghaṃ",
+                "be": "tvaghaṃ",
+                "ka": "ತ್ವಘಂ"
+            }
         },
         {
             "sanskrit": "पापा",
-            "transliteration": "pāpā",
-            "meaning": "pāpā"
+            "transliteration": {
+                "hi": "पापा",
+                "en": "pāpā",
+                "be": "পাপা",
+                "ka": "ಪಾಪಾ"
+            },
+            "meaning": {
+                "hi": "पापा",
+                "en": "pāpā",
+                "be": "পাপা",
+                "ka": "ಪಾಪಾ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "पचन्त्यात्मकारणात्",
-            "transliteration": "pacantyātmakāraṇāt",
-            "meaning": "pacantyātmakāraṇāt"
+            "transliteration": {
+                "hi": "पचन्त्यात्मकारणात्",
+                "en": "pacantyātmakāraṇāt",
+                "be": "পচন্ত্যাত্মকারণাত্",
+                "ka": "ಪಚನ್ತ್ಯಾತ್ಮಕಾರಣಾತ್"
+            },
+            "meaning": {
+                "hi": "पचन्त्यात्मकारणात्",
+                "en": "pacantyātmakāraṇāt",
+                "be": "pacantyātmakāraṇāt",
+                "ka": "ಪಚನ್ತ್ಯಾತ್ಮಕರಾಣಾತ್"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara .\nasakto hyācarankarma paramāpnoti pūruṣaḥ ||3-19||",
         "ka": "ತಸ್ಮಾದಸಕ್ತಃ ಸತತಂ ಕಾರ್ಯಂ ಕರ್ಮ ಸಮಾಚರ |\nಅಸಕ್ತೋ ಹ್ಯಾಚರನ್ಕರ್ಮ ಪರಮಾಪ್ನೋತಿ ಪೂರುಷಃ ||೩-೧೯||"
     },
-    "transliteration": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara .\nasakto hyācarankarma paramāpnoti pūruṣaḥ ||3-19||",
-    "life_application": "Do what needs to be done today with full dedication, while releasing all personal craving for the outcome.",
+    "transliteration": {
+        "hi": "तस्मादसक्तः सततं कार्यं कर्म समाचर |\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||३-१९||",
+        "en": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara .\nasakto hyācarankarma paramāpnoti pūruṣaḥ ||3-19||",
+        "be": "তস্মাদসক্তঃ সততং কার্যং কর্ম সমাচর |\nঅসক্তো হ্যাচরন্কর্ম পরমাপ্নোতি পূরুষঃ ||৩-১৯||",
+        "ka": "ತಸ್ಮಾದಸಕ್ತಃ ಸತತಂ ಕಾರ್ಯಂ ಕರ್ಮ ಸಮಾಚರ |\nಅಸಕ್ತೋ ಹ್ಯಾಚರನ್ಕರ್ಮ ಪರಮಾಪ್ನೋತಿ ಪೂರುಷಃ ||೩-೧೯||"
+    },
+    "life_application": {
+        "hi": "आज जो करने की आवश्यकता है उसे पूरे समर्पण के साथ करें, साथ ही परिणाम के लिए अपनी सारी व्यक्तिगत लालसा को भी त्याग दें।",
+        "en": "Do what needs to be done today with full dedication, while releasing all personal craving for the outcome.",
+        "be": "ফলাফলের জন্য সমস্ত ব্যক্তিগত আকাঙ্ক্ষা মুক্ত করার সময়, পূর্ণ নিষ্ঠার সাথে আজ যা করা দরকার তা করুন।",
+        "ka": "ಫಲಿತಾಂಶಕ್ಕಾಗಿ ಎಲ್ಲಾ ವೈಯಕ್ತಿಕ ಕಡುಬಯಕೆಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವಾಗ ಸಂಪೂರ್ಣ ಸಮರ್ಪಣೆಯೊಂದಿಗೆ ಇಂದು ಮಾಡಬೇಕಾದುದನ್ನು ಮಾಡಿ."
+    },
     "themes": [
         "Karma",
         "Detachment",
@@ -24,48 +34,138 @@
     "word_meanings": [
         {
             "sanskrit": "तस्मादसक्तः",
-            "transliteration": "tasmādasaktaḥ",
-            "meaning": "tasmādasaktaḥ"
+            "transliteration": {
+                "hi": "तस्मादसक्तः",
+                "en": "tasmādasaktaḥ",
+                "be": "তস্মাদসক্তঃ",
+                "ka": "ತಸ್ಮಾದಸಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "तस्मादसक्तः",
+                "en": "tasmādasaktaḥ",
+                "be": "তস্মাদসক্তঃ",
+                "ka": "ತಸ್ಮಾದಶಕ್ತಃ"
+            }
         },
         {
             "sanskrit": "सततं",
-            "transliteration": "satataṃ",
-            "meaning": "satataṃ"
+            "transliteration": {
+                "hi": "सततं",
+                "en": "satataṃ",
+                "be": "সততং",
+                "ka": "ಸತತಂ"
+            },
+            "meaning": {
+                "hi": "सततं",
+                "en": "satataṃ",
+                "be": "satataṃ",
+                "ka": "ಸತತಂ"
+            }
         },
         {
             "sanskrit": "कार्यं",
-            "transliteration": "kāryaṃ",
-            "meaning": "kāryaṃ"
+            "transliteration": {
+                "hi": "कार्यं",
+                "en": "kāryaṃ",
+                "be": "কার্যং",
+                "ka": "ಕಾರ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "कार्यं",
+                "en": "kāryaṃ",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯಂ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "समाचर",
-            "transliteration": "samācara",
-            "meaning": "samācara"
+            "transliteration": {
+                "hi": "समाचर",
+                "en": "samācara",
+                "be": "সমাচর",
+                "ka": "ಸಮಾಚರ"
+            },
+            "meaning": {
+                "hi": "Samachar",
+                "en": "samācara",
+                "be": "সমাচার",
+                "ka": "ಸಮಾಚಾರ"
+            }
         },
         {
             "sanskrit": "असक्तो",
-            "transliteration": "asakto",
-            "meaning": "asakto"
+            "transliteration": {
+                "hi": "असक्तो",
+                "en": "asakto",
+                "be": "অসক্তো",
+                "ka": "ಅಸಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "asakto",
+                "en": "asakto",
+                "be": "asakto",
+                "ka": "ಅಸಕ್ತೋ"
+            }
         },
         {
             "sanskrit": "ह्याचरन्कर्म",
-            "transliteration": "hyācarankarma",
-            "meaning": "hyācarankarma"
+            "transliteration": {
+                "hi": "ह्याचरन्कर्म",
+                "en": "hyācarankarma",
+                "be": "হ্যাচরন্কর্ম",
+                "ka": "ಹ್ಯಾಚರನ್ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "ह्यचरणकर्म",
+                "en": "hyācarankarma",
+                "be": "হায়চরনকর্ম",
+                "ka": "ಹ್ಯಕಾರಂಕರ್ಮ"
+            }
         },
         {
             "sanskrit": "परमाप्नोति",
-            "transliteration": "paramāpnoti",
-            "meaning": "paramāpnoti"
+            "transliteration": {
+                "hi": "परमाप्नोति",
+                "en": "paramāpnoti",
+                "be": "পরমাপ্নোতি",
+                "ka": "ಪರಮಾಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "परमाप्नोति",
+                "en": "paramāpnoti",
+                "be": "পরমাপ্নোতি",
+                "ka": "ಪರಮಾಪ್ನೋತಿ"
+            }
         },
         {
             "sanskrit": "पूरुषः",
-            "transliteration": "pūruṣaḥ",
-            "meaning": "pūruṣaḥ"
+            "transliteration": {
+                "hi": "पूरुषः",
+                "en": "pūruṣaḥ",
+                "be": "পূরুষঃ",
+                "ka": "ಪೂರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुषः",
+                "en": "pūruṣaḥ",
+                "be": "পুরূষঃ",
+                "ka": "ಪುರುಷಃ"
+            }
         }
     ],
     "tej": {

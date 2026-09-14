@@ -14,8 +14,18 @@
         "en": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ .\naghāyurindriyārāmo moghaṃ pārtha sa jīvati ||3-16||",
         "ka": "ಏವಂ ಪ್ರವರ್ತಿತಂ ಚಕ್ರಂ ನಾನುವರ್ತಯತೀಹ ಯಃ |\nಅಘಾಯುರಿನ್ದ್ರಿಯಾರಾಮೋ ಮೋಘಂ ಪಾರ್ಥ ಸ ಜೀವತಿ ||೩-೧೬||"
     },
-    "transliteration": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ .\naghāyurindriyārāmo moghaṃ pārtha sa jīvati ||3-16||",
-    "life_application": "Live responsibly as an active participant in life's communal cycle rather than wasting your time in self-indulgence.",
+    "transliteration": {
+        "hi": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः |\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||३-१६||",
+        "en": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ .\naghāyurindriyārāmo moghaṃ pārtha sa jīvati ||3-16||",
+        "be": "এবং প্রবর্তিতং চক্রং নানুবর্তযতীহ যঃ |\nঅঘাযুরিন্দ্রিযারামো মোঘং পার্থ স জীবতি ||৩-১৬||",
+        "ka": "ಏವಂ ಪ್ರವರ್ತಿತಂ ಚಕ್ರಂ ನಾನುವರ್ತಯತೀಹ ಯಃ |\nಅಘಾಯುರಿನ್ದ್ರಿಯಾರಾಮೋ ಮೋಘಂ ಪಾರ್ಥ ಸ ಜೀವತಿ ||೩-೧೬||"
+    },
+    "life_application": {
+        "hi": "आत्म-भोग में अपना समय बर्बाद करने के बजाय जीवन के सामुदायिक चक्र में एक सक्रिय भागीदार के रूप में जिम्मेदारी से जिएं।",
+        "en": "Live responsibly as an active participant in life's communal cycle rather than wasting your time in self-indulgence.",
+        "be": "আত্মভোলাতে আপনার সময় নষ্ট না করে জীবনের সাম্প্রদায়িক চক্রে সক্রিয় অংশগ্রহণকারী হিসাবে দায়িত্বশীলভাবে জীবনযাপন করুন।",
+        "ka": "ಸ್ವಯಂ ಭೋಗದಲ್ಲಿ ನಿಮ್ಮ ಸಮಯವನ್ನು ವ್ಯರ್ಥ ಮಾಡುವುದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿ ಜೀವನದ ಸಾಮುದಾಯಿಕ ಚಕ್ರದಲ್ಲಿ ಸಕ್ರಿಯ ಪಾಲ್ಗೊಳ್ಳುವವರಾಗಿ ಜವಾಬ್ದಾರಿಯುತವಾಗಿ ಜೀವಿಸಿ."
+    },
     "themes": [
         "Purpose",
         "Duty"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "एवं",
-            "transliteration": "evaṃ",
-            "meaning": "evaṃ"
+            "transliteration": {
+                "hi": "एवं",
+                "en": "evaṃ",
+                "be": "এবং",
+                "ka": "ಏವಂ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "evaṃ",
+                "be": "ইভান",
+                "ka": "evaṃ"
+            }
         },
         {
             "sanskrit": "प्रवर्तितं",
-            "transliteration": "pravartitaṃ",
-            "meaning": "pravartitaṃ"
+            "transliteration": {
+                "hi": "प्रवर्तितं",
+                "en": "pravartitaṃ",
+                "be": "প্রবর্তিতং",
+                "ka": "ಪ್ರವರ್ತಿತಂ"
+            },
+            "meaning": {
+                "hi": "प्रवर्तितम्",
+                "en": "pravartitaṃ",
+                "be": "প্রবর্তিতঃ",
+                "ka": "ಪ್ರವರ್ತಿತಂ"
+            }
         },
         {
             "sanskrit": "चक्रं",
-            "transliteration": "cakraṃ",
-            "meaning": "cakraṃ"
+            "transliteration": {
+                "hi": "चक्रं",
+                "en": "cakraṃ",
+                "be": "চক্রং",
+                "ka": "ಚಕ್ರಂ"
+            },
+            "meaning": {
+                "hi": "चक्रं",
+                "en": "cakraṃ",
+                "be": "চক্র",
+                "ka": "ಚಕ್ರಂ"
+            }
         },
         {
             "sanskrit": "नानुवर्तयतीह",
-            "transliteration": "nānuvartayatīha",
-            "meaning": "nānuvartayatīha"
+            "transliteration": {
+                "hi": "नानुवर्तयतीह",
+                "en": "nānuvartayatīha",
+                "be": "নানুবর্তযতীহ",
+                "ka": "ನಾನುವರ್ತಯತೀಹ"
+            },
+            "meaning": {
+                "hi": "नानुवर्तयतिः",
+                "en": "nānuvartayatīha",
+                "be": "নানুবর্তায়তিহা",
+                "ka": "ನಾನುವರ್ತಯತಿಹ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "yaḥ"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "हां",
+                "en": "yaḥ",
+                "be": "ইয়াহ",
+                "ka": "ಹೌದು"
+            }
         },
         {
             "sanskrit": "अघायुरिन्द्रियारामो",
-            "transliteration": "aghāyurindriyārāmo",
-            "meaning": "aghāyurindriyārāmo"
+            "transliteration": {
+                "hi": "अघायुरिन्द्रियारामो",
+                "en": "aghāyurindriyārāmo",
+                "be": "অঘাযুরিন্দ্রিযারামো",
+                "ka": "ಅಘಾಯುರಿನ್ದ್ರಿಯಾರಾಮೋ"
+            },
+            "meaning": {
+                "hi": "अघायुरिन्द्रियारामो",
+                "en": "aghāyurindriyārāmo",
+                "be": "aghāyurindriyārāmo",
+                "ka": "ಅಘಾಯುರಿನ್ದ್ರಿಯರಾಮೋ"
+            }
         },
         {
             "sanskrit": "मोघं",
-            "transliteration": "moghaṃ",
-            "meaning": "moghaṃ"
+            "transliteration": {
+                "hi": "मोघं",
+                "en": "moghaṃ",
+                "be": "মোঘং",
+                "ka": "ಮೋಘಂ"
+            },
+            "meaning": {
+                "hi": "मोघं",
+                "en": "moghaṃ",
+                "be": "moghaṃ",
+                "ka": "ಮೊಘಂ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "जीवति",
-            "transliteration": "jīvati",
-            "meaning": "jīvati"
+            "transliteration": {
+                "hi": "जीवति",
+                "en": "jīvati",
+                "be": "জীবতি",
+                "ka": "ಜೀವತಿ"
+            },
+            "meaning": {
+                "hi": "जीवति",
+                "en": "jīvati",
+                "be": "জীবতী",
+                "ka": "ಜೀವತಿ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "iṣṭānbhogānhi vo devā dāsyante yajñabhāvitāḥ .\ntairdattānapradāyaibhyo yo bhuṅkte stena eva saḥ ||3-12||",
         "ka": "ಇಷ್ಟಾನ್ಭೋಗಾನ್ಹಿ ವೋ ದೇವಾ ದಾಸ್ಯನ್ತೇ ಯಜ್ಞಭಾವಿತಾಃ |\nತೈರ್ದತ್ತಾನಪ್ರದಾಯೈಭ್ಯೋ ಯೋ ಭುಙ್ಕ್ತೇ ಸ್ತೇನ ಏವ ಸಃ ||೩-೧೨||"
     },
-    "transliteration": "iṣṭānbhogānhi vo devā dāsyante yajñabhāvitāḥ .\ntairdattānapradāyaibhyo yo bhuṅkte stena eva saḥ ||3-12||",
-    "life_application": "Give back to society and nature for the blessings you receive, ensuring you do not consume selfishly without contributing.",
+    "transliteration": {
+        "hi": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः |\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ||३-१२||",
+        "en": "iṣṭānbhogānhi vo devā dāsyante yajñabhāvitāḥ .\ntairdattānapradāyaibhyo yo bhuṅkte stena eva saḥ ||3-12||",
+        "be": "ইষ্টান্ভোগান্হি বো দেবা দাস্যন্তে যজ্ঞভাবিতাঃ |\nতৈর্দত্তানপ্রদাযৈভ্যো যো ভুঙ্ক্তে স্তেন এব সঃ ||৩-১২||",
+        "ka": "ಇಷ್ಟಾನ್ಭೋಗಾನ್ಹಿ ವೋ ದೇವಾ ದಾಸ್ಯನ್ತೇ ಯಜ್ಞಭಾವಿತಾಃ |\nತೈರ್ದತ್ತಾನಪ್ರದಾಯೈಭ್ಯೋ ಯೋ ಭುಙ್ಕ್ತೇ ಸ್ತೇನ ಏವ ಸಃ ||೩-೧೨||"
+    },
+    "life_application": {
+        "hi": "आपको मिलने वाले आशीर्वाद के लिए समाज और प्रकृति को वापस लौटाएं, यह सुनिश्चित करते हुए कि आप योगदान किए बिना स्वार्थी रूप से उपभोग नहीं करते हैं।",
+        "en": "Give back to society and nature for the blessings you receive, ensuring you do not consume selfishly without contributing.",
+        "be": "আপনি প্রাপ্ত আশীর্বাদের জন্য সমাজ এবং প্রকৃতিকে ফিরিয়ে দিন, নিশ্চিত করুন যে আপনি অবদান না রেখে স্বার্থপরভাবে গ্রাস করবেন না।",
+        "ka": "ನೀವು ಪಡೆಯುವ ಆಶೀರ್ವಾದಗಳಿಗಾಗಿ ಸಮಾಜ ಮತ್ತು ಪ್ರಕೃತಿಗೆ ಹಿಂತಿರುಗಿ, ಕೊಡುಗೆ ನೀಡದೆ ನೀವು ಸ್ವಾರ್ಥದಿಂದ ಸೇವಿಸುವುದಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "इष्टान्भोगान्हि",
-            "transliteration": "iṣṭānbhogānhi",
-            "meaning": "iṣṭānbhogānhi"
+            "transliteration": {
+                "hi": "इष्टान्भोगान्हि",
+                "en": "iṣṭānbhogānhi",
+                "be": "ইষ্টান্ভোগান্হি",
+                "ka": "ಇಷ್ಟಾನ್ಭೋಗಾನ್ಹಿ"
+            },
+            "meaning": {
+                "hi": "इष्टान्भोगान्हि",
+                "en": "iṣṭānbhogānhi",
+                "be": "ইষ্টনভোগনাহি",
+                "ka": "ಇಷ್ಠಾನಭೋಗಾನ್ಹಿ"
+            }
         },
         {
             "sanskrit": "वो",
-            "transliteration": "vo",
-            "meaning": "vo"
+            "transliteration": {
+                "hi": "वो",
+                "en": "vo",
+                "be": "বো",
+                "ka": "ವೋ"
+            },
+            "meaning": {
+                "hi": "आवाज",
+                "en": "vo",
+                "be": "vo",
+                "ka": "vo"
+            }
         },
         {
             "sanskrit": "देवा",
-            "transliteration": "devā",
-            "meaning": "devā"
+            "transliteration": {
+                "hi": "देवा",
+                "en": "devā",
+                "be": "দেবা",
+                "ka": "ದೇವಾ"
+            },
+            "meaning": {
+                "hi": "देवा",
+                "en": "devā",
+                "be": "দেবা",
+                "ka": "ದೇವಾ"
+            }
         },
         {
             "sanskrit": "दास्यन्ते",
-            "transliteration": "dāsyante",
-            "meaning": "dāsyante"
+            "transliteration": {
+                "hi": "दास्यन्ते",
+                "en": "dāsyante",
+                "be": "দাস্যন্তে",
+                "ka": "ದಾಸ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "दास्यन्ते",
+                "en": "dāsyante",
+                "be": "দাস্যন্তে",
+                "ka": "ದಾಸ್ಯಂತೇ"
+            }
         },
         {
             "sanskrit": "यज्ञभाविताः",
-            "transliteration": "yajñabhāvitāḥ",
-            "meaning": "yajñabhāvitāḥ"
+            "transliteration": {
+                "hi": "यज्ञभाविताः",
+                "en": "yajñabhāvitāḥ",
+                "be": "যজ্ঞভাবিতাঃ",
+                "ka": "ಯಜ್ಞಭಾವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "यज्ञभाविता:",
+                "en": "yajñabhāvitāḥ",
+                "be": "যজ্ঞভবিতাঃ",
+                "ka": "ಯಜ್ಞಭಾವಿತಃ"
+            }
         },
         {
             "sanskrit": "तैर्दत्तानप्रदायैभ्यो",
-            "transliteration": "tairdattānapradāyaibhyo",
-            "meaning": "tairdattānapradāyaibhyo"
+            "transliteration": {
+                "hi": "तैर्दत्तानप्रदायैभ्यो",
+                "en": "tairdattānapradāyaibhyo",
+                "be": "তৈর্দত্তানপ্রদাযৈভ্যো",
+                "ka": "ತೈರ್ದತ್ತಾನಪ್ರದಾಯೈಭ್ಯೋ"
+            },
+            "meaning": {
+                "hi": "तैरदत्तानप्रदायैभ्यो",
+                "en": "tairdattānapradāyaibhyo",
+                "be": "তৈরদত্তনপ্রদায়িভ্যো",
+                "ka": "ತೈರ್ದತ್ತಾನಪ್ರದಾಯೈಭ್ಯೋ"
+            }
         },
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "भुङ्क्ते",
-            "transliteration": "bhuṅkte",
-            "meaning": "bhuṅkte"
+            "transliteration": {
+                "hi": "भुङ्क्ते",
+                "en": "bhuṅkte",
+                "be": "ভুঙ্ক্তে",
+                "ka": "ಭುಙ್ಕ್ತೇ"
+            },
+            "meaning": {
+                "hi": "भुन्क्ते",
+                "en": "bhuṅkte",
+                "be": "bhuṅkte",
+                "ka": "ಭುಂಕ್ತೆ"
+            }
         },
         {
             "sanskrit": "स्तेन",
-            "transliteration": "stena",
-            "meaning": "stena"
+            "transliteration": {
+                "hi": "स्तेन",
+                "en": "stena",
+                "be": "স্তেন",
+                "ka": "ಸ್ತೇನ"
+            },
+            "meaning": {
+                "hi": "स्टेना",
+                "en": "stena",
+                "be": "স্টেনা",
+                "ka": "ಸ್ಟೆನಾ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         }
     ],
     "tej": {

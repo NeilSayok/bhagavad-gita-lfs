@@ -14,8 +14,18 @@
         "en": "amānitvamadambhitvamahiṃsā kṣāntirārjavam .\nācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ ||13-8||",
         "ka": "ಅಮಾನಿತ್ವಮದಮ್ಭಿತ್ವಮಹಿಂಸಾ ಕ್ಷಾನ್ತಿರಾರ್ಜವಮ್ |\nಆಚಾರ್ಯೋಪಾಸನಂ ಶೌಚಂ ಸ್ಥೈರ್ಯಮಾತ್ಮವಿನಿಗ್ರಹಃ ||೧೩-೮||"
     },
-    "transliteration": "amānitvamadambhitvamahiṃsā kṣāntirārjavam .\nācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ ||13-8||",
-    "life_application": "Maintain dispassion toward sense objects, absence of egoism, and perception of evil in birth, death, old age, sickness.",
+    "transliteration": {
+        "hi": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् |\nआचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ||१३-८||",
+        "en": "amānitvamadambhitvamahiṃsā kṣāntirārjavam .\nācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ ||13-8||",
+        "be": "অমানিত্বমদম্ভিত্বমহিংসা ক্ষান্তিরার্জবম্ |\nআচার্যোপাসনং শৌচং স্থৈর্যমাত্মবিনিগ্রহঃ ||১৩-৮||",
+        "ka": "ಅಮಾನಿತ್ವಮದಮ್ಭಿತ್ವಮಹಿಂಸಾ ಕ್ಷಾನ್ತಿರಾರ್ಜವಮ್ |\nಆಚಾರ್ಯೋಪಾಸನಂ ಶೌಚಂ ಸ್ಥೈರ್ಯಮಾತ್ಮವಿನಿಗ್ರಹಃ ||೧೩-೮||"
+    },
+    "life_application": {
+        "hi": "इंद्रिय विषयों के प्रति वैराग्य, अहंकार का अभाव और जन्म, मृत्यु, बुढ़ापा, बीमारी में बुराई की धारणा बनाए रखें।",
+        "en": "Maintain dispassion toward sense objects, absence of egoism, and perception of evil in birth, death, old age, sickness.",
+        "be": "জন্ম, মৃত্যু, বার্ধক্য, অসুস্থতায় ইন্দ্রিয় বস্তুর প্রতি বিতৃষ্ণা, অহংবোধের অনুপস্থিতি এবং মন্দের উপলব্ধি বজায় রাখা।",
+        "ka": "ಇಂದ್ರಿಯ ವಸ್ತುಗಳ ಕಡೆಗೆ ನಿರಾಸಕ್ತಿ, ಅಹಂಕಾರದ ಅನುಪಸ್ಥಿತಿ ಮತ್ತು ಹುಟ್ಟು, ಸಾವು, ವೃದ್ಧಾಪ್ಯ, ಅನಾರೋಗ್ಯದ ದುಷ್ಟತನದ ಗ್ರಹಿಕೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Detachment",
         "Death"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अमानित्वम्",
-            "transliteration": "amānitvam",
-            "meaning": "humility"
+            "transliteration": {
+                "hi": "अमानित्वम्",
+                "en": "amānitvam",
+                "be": "অমানিত্বম্",
+                "ka": "ಅಮಾನಿತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "विनम्रता",
+                "en": "humility",
+                "be": "নম্রতা",
+                "ka": "ನಮ್ರತೆ"
+            }
         },
         {
             "sanskrit": "अदम्भित्वम्",
-            "transliteration": "adambhitvam",
-            "meaning": "unpretentiousness"
+            "transliteration": {
+                "hi": "अदम्भित्वम्",
+                "en": "adambhitvam",
+                "be": "অদম্ভিত্বম্",
+                "ka": "ಅದಮ್ಭಿತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "निर्भीकता",
+                "en": "unpretentiousness",
+                "be": "unpretentiousness",
+                "ka": "ಆಡಂಬರವಿಲ್ಲದಿರುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "अहिंसा",
-            "transliteration": "ahiṃsā",
-            "meaning": "noninjury"
+            "transliteration": {
+                "hi": "अहिंसा",
+                "en": "ahiṃsā",
+                "be": "অহিংসা",
+                "ka": "ಅಹಿಂಸಾ"
+            },
+            "meaning": {
+                "hi": "गैर चोट",
+                "en": "noninjury",
+                "be": "অ আঘাত",
+                "ka": "ಗಾಯವಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "क्षान्तिः",
-            "transliteration": "kṣāntiḥ",
-            "meaning": "forgiveness"
+            "transliteration": {
+                "hi": "क्षान्तिः",
+                "en": "kṣāntiḥ",
+                "be": "ক্ষান্তিঃ",
+                "ka": "ಕ್ಷಾನ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "क्षमा",
+                "en": "forgiveness",
+                "be": "ক্ষমা",
+                "ka": "ಕ್ಷಮೆ"
+            }
         },
         {
             "sanskrit": "आर्जवम्",
-            "transliteration": "ārjavam",
-            "meaning": "uprightness"
+            "transliteration": {
+                "hi": "आर्जवम्",
+                "en": "ārjavam",
+                "be": "আর্জবম্",
+                "ka": "ಆರ್ಜವಮ್"
+            },
+            "meaning": {
+                "hi": "ईमानदारी",
+                "en": "uprightness",
+                "be": "ন্যায়পরায়ণতা",
+                "ka": "ನೇರತೆ"
+            }
         },
         {
             "sanskrit": "आचार्योपासनम्",
-            "transliteration": "ācāryopāsanam",
-            "meaning": "service of the teacher"
+            "transliteration": {
+                "hi": "आचार्योपासनम्",
+                "en": "ācāryopāsanam",
+                "be": "আচার্যোপাসনম্",
+                "ka": "ಆಚಾರ್ಯೋಪಾಸನಮ್"
+            },
+            "meaning": {
+                "hi": "शिक्षक की सेवा",
+                "en": "service of the teacher",
+                "be": "শিক্ষকের সেবা",
+                "ka": "ಶಿಕ್ಷಕರ ಸೇವೆ"
+            }
         },
         {
             "sanskrit": "शौचम्",
-            "transliteration": "śaucam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "शौचम्",
+                "en": "śaucam",
+                "be": "শৌচম্",
+                "ka": "ಶೌಚಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "स्थैर्यम्",
-            "transliteration": "sthairyam",
-            "meaning": "steadiness"
+            "transliteration": {
+                "hi": "स्थैर्यम्",
+                "en": "sthairyam",
+                "be": "স্থৈর্যম্",
+                "ka": "ಸ್ಥೈರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "स्थिरता",
+                "en": "steadiness",
+                "be": "স্থিরতা",
+                "ka": "ಸ್ಥಿರತೆ"
+            }
         },
         {
             "sanskrit": "आत्मविनिग्रहः",
-            "transliteration": "ātmavinigrahaḥ",
-            "meaning": "selfcontrol."
+            "transliteration": {
+                "hi": "आत्मविनिग्रहः",
+                "en": "ātmavinigrahaḥ",
+                "be": "আত্মবিনিগ্রহঃ",
+                "ka": "ಆತ್ಮವಿನಿಗ್ರಹಃ"
+            },
+            "meaning": {
+                "hi": "आत्म - संयम।",
+                "en": "selfcontrol.",
+                "be": "আত্মনিয়ন্ত্রণ",
+                "ka": "ಸ್ವಯಂ ನಿಯಂತ್ರಣ."
+            }
         }
     ],
     "tej": {

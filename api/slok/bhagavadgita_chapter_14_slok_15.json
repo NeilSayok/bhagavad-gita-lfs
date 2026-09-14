@@ -14,8 +14,18 @@
         "en": "rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate .\ntathā pralīnastamasi mūḍhayoniṣu jāyate ||14-15||",
         "ka": "ರಜಸಿ ಪ್ರಲಯಂ ಗತ್ವಾ ಕರ್ಮಸಙ್ಗಿಷು ಜಾಯತೇ |\nತಥಾ ಪ್ರಲೀನಸ್ತಮಸಿ ಮೂಢಯೋನಿಷು ಜಾಯತೇ ||೧೪-೧೫||"
     },
-    "transliteration": "rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate .\ntathā pralīnastamasi mūḍhayoniṣu jāyate ||14-15||",
-    "life_application": "Meeting death in passion, one is born among those attached to action; dying in ignorance, born in dull wombs.",
+    "transliteration": {
+        "hi": "रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |\nतथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||",
+        "en": "rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate .\ntathā pralīnastamasi mūḍhayoniṣu jāyate ||14-15||",
+        "be": "রজসি প্রলযং গত্বা কর্মসঙ্গিষু জাযতে |\nতথা প্রলীনস্তমসি মূঢযোনিষু জাযতে ||১৪-১৫||",
+        "ka": "ರಜಸಿ ಪ್ರಲಯಂ ಗತ್ವಾ ಕರ್ಮಸಙ್ಗಿಷು ಜಾಯತೇ |\nತಥಾ ಪ್ರಲೀನಸ್ತಮಸಿ ಮೂಢಯೋನಿಷು ಜಾಯತೇ ||೧೪-೧೫||"
+    },
+    "life_application": {
+        "hi": "रजोगुण में मृत्यु को पाकर मनुष्य का जन्म कर्म में आसक्त लोगों में होता है; अज्ञान में मर रहे हैं, नीरस योनियों में जन्म ले रहे हैं।",
+        "en": "Meeting death in passion, one is born among those attached to action; dying in ignorance, born in dull wombs.",
+        "be": "আবেগে মৃত্যুর সাথে সাক্ষাত, কর্মের সাথে জড়িতদের মধ্যে একজনের জন্ম হয়; অজ্ঞতায় মারা যাওয়া, নিস্তেজ গর্ভে জন্মানো।",
+        "ka": "ಭಾವೋದ್ರೇಕದಲ್ಲಿ ಸಾವನ್ನು ಭೇಟಿಯಾಗುವುದು, ಕ್ರಿಯೆಗೆ ಅಂಟಿಕೊಂಡಿರುವವರಲ್ಲಿ ಒಬ್ಬರು ಜನಿಸುತ್ತಾರೆ; ಅಜ್ಞಾನದಲ್ಲಿ ಸಾಯುವುದು, ಮಂದ ಗರ್ಭದಲ್ಲಿ ಹುಟ್ಟುವುದು."
+    },
     "themes": [
         "Death",
         "Karma"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "रजसि",
-            "transliteration": "rajasi",
-            "meaning": "in Rajas"
+            "transliteration": {
+                "hi": "रजसि",
+                "en": "rajasi",
+                "be": "রজসি",
+                "ka": "ರಜಸಿ"
+            },
+            "meaning": {
+                "hi": "राजस में",
+                "en": "in Rajas",
+                "be": "রাজসে",
+                "ka": "ರಾಜಾಸ್‌ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रलयम्",
-            "transliteration": "pralayam",
-            "meaning": "death"
+            "transliteration": {
+                "hi": "प्रलयम्",
+                "en": "pralayam",
+                "be": "প্রলযম্",
+                "ka": "ಪ್ರಲಯಮ್"
+            },
+            "meaning": {
+                "hi": "मौत",
+                "en": "death",
+                "be": "মৃত্যু",
+                "ka": "ಸಾವು"
+            }
         },
         {
             "sanskrit": "गत्वा",
-            "transliteration": "gatvā",
-            "meaning": "meeting"
+            "transliteration": {
+                "hi": "गत्वा",
+                "en": "gatvā",
+                "be": "গত্বা",
+                "ka": "ಗತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बैठक",
+                "en": "meeting",
+                "be": "মিটিং",
+                "ka": "ಸಭೆ"
+            }
         },
         {
             "sanskrit": "कर्मसङ्गिषु",
-            "transliteration": "karmasaṅgiṣu",
-            "meaning": "among those attached to"
+            "transliteration": {
+                "hi": "कर्मसङ्गिषु",
+                "en": "karmasaṅgiṣu",
+                "be": "কর্মসঙ্গিষু",
+                "ka": "ಕರ್ಮಸಙ್ಗಿಷು"
+            },
+            "meaning": {
+                "hi": "जुड़े हुए लोगों के बीच",
+                "en": "among those attached to",
+                "be": "যারা সংযুক্ত তাদের মধ্যে",
+                "ka": "ಲಗತ್ತಿಸಲಾದವರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "जायते",
-            "transliteration": "jāyate",
-            "meaning": "is born"
+            "transliteration": {
+                "hi": "जायते",
+                "en": "jāyate",
+                "be": "জাযতে",
+                "ka": "ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा होता है",
+                "en": "is born",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रलीनः",
-            "transliteration": "pralīnaḥ",
-            "meaning": "dying"
+            "transliteration": {
+                "hi": "प्रलीनः",
+                "en": "pralīnaḥ",
+                "be": "প্রলীনঃ",
+                "ka": "ಪ್ರಲೀನಃ"
+            },
+            "meaning": {
+                "hi": "मर रहा है",
+                "en": "dying",
+                "be": "মারা যাচ্ছে",
+                "ka": "ಸಾಯುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "तमसि",
-            "transliteration": "tamasi",
-            "meaning": "in inertia"
+            "transliteration": {
+                "hi": "तमसि",
+                "en": "tamasi",
+                "be": "তমসি",
+                "ka": "ತಮಸಿ"
+            },
+            "meaning": {
+                "hi": "जड़ता में",
+                "en": "in inertia",
+                "be": "জড়তায়",
+                "ka": "ಜಡತ್ವದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "मूढयोनिषु",
-            "transliteration": "mūḍhayoniṣu",
-            "meaning": "in the wombs of"
+            "transliteration": {
+                "hi": "मूढयोनिषु",
+                "en": "mūḍhayoniṣu",
+                "be": "মূঢযোনিষু",
+                "ka": "ಮೂಢಯೋನಿಷು"
+            },
+            "meaning": {
+                "hi": "के गर्भ में",
+                "en": "in the wombs of",
+                "be": "এর গর্ভাশয়ে",
+                "ka": "ಗರ್ಭಾಶಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "जायते",
-            "transliteration": "jāyate",
-            "meaning": "is born."
+            "transliteration": {
+                "hi": "जायते",
+                "en": "jāyate",
+                "be": "জাযতে",
+                "ka": "ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा है।",
+                "en": "is born.",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದೆ."
+            }
         }
     ],
     "tej": {

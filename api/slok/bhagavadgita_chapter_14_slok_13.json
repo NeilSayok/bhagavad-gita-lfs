@@ -14,8 +14,18 @@
         "en": "aprakāśo.apravṛttiśca pramādo moha eva ca .\ntamasyetāni jāyante vivṛddhe kurunandana ||14-13||",
         "ka": "ಅಪ್ರಕಾಶೋಽಪ್ರವೃತ್ತಿಶ್ಚ ಪ್ರಮಾದೋ ಮೋಹ ಏವ ಚ |\nತಮಸ್ಯೇತಾನಿ ಜಾಯನ್ತೇ ವಿವೃದ್ಧೇ ಕುರುನನ್ದನ ||೧೪-೧೩||"
     },
-    "transliteration": "aprakāśo.apravṛttiśca pramādo moha eva ca .\ntamasyetāni jāyante vivṛddhe kurunandana ||14-13||",
-    "life_application": "When darkness, inactivity, heedlessness, and delusion arise, know that ignorance is predominant.",
+    "transliteration": {
+        "hi": "अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च |\nतमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||१४-१३||",
+        "en": "aprakāśo.apravṛttiśca pramādo moha eva ca .\ntamasyetāni jāyante vivṛddhe kurunandana ||14-13||",
+        "be": "অপ্রকাশোঽপ্রবৃত্তিশ্চ প্রমাদো মোহ এব চ |\nতমস্যেতানি জাযন্তে বিবৃদ্ধে কুরুনন্দন ||১৪-১৩||",
+        "ka": "ಅಪ್ರಕಾಶೋಽಪ್ರವೃತ್ತಿಶ್ಚ ಪ್ರಮಾದೋ ಮೋಹ ಏವ ಚ |\nತಮಸ್ಯೇತಾನಿ ಜಾಯನ್ತೇ ವಿವೃದ್ಧೇ ಕುರುನನ್ದನ ||೧೪-೧೩||"
+    },
+    "life_application": {
+        "hi": "जब अंधकार, अकर्मण्यता, असावधानी और भ्रम उत्पन्न हो तो जान लें कि अज्ञान प्रबल है।",
+        "en": "When darkness, inactivity, heedlessness, and delusion arise, know that ignorance is predominant.",
+        "be": "যখন অন্ধকার, নিষ্ক্রিয়তা, উদাসীনতা, এবং ভ্রম দেখা দেয়, তখন জেনে রাখুন যে অজ্ঞতা প্রধান।",
+        "ka": "ಕತ್ತಲೆ, ನಿಷ್ಕ್ರಿಯತೆ, ಅಜಾಗರೂಕತೆ ಮತ್ತು ಭ್ರಮೆಗಳು ಉದ್ಭವಿಸಿದಾಗ, ಅಜ್ಞಾನವು ಪ್ರಧಾನವಾಗಿದೆ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अप्रकाशः",
-            "transliteration": "aprakāśaḥ",
-            "meaning": "darkness"
+            "transliteration": {
+                "hi": "अप्रकाशः",
+                "en": "aprakāśaḥ",
+                "be": "অপ্রকাশঃ",
+                "ka": "ಅಪ್ರಕಾಶಃ"
+            },
+            "meaning": {
+                "hi": "अँधेरा",
+                "en": "darkness",
+                "be": "অন্ধকার",
+                "ka": "ಕತ್ತಲೆ"
+            }
         },
         {
             "sanskrit": "अप्रवृत्तिः",
-            "transliteration": "apravṛttiḥ",
-            "meaning": "inertness"
+            "transliteration": {
+                "hi": "अप्रवृत्तिः",
+                "en": "apravṛttiḥ",
+                "be": "অপ্রবৃত্তিঃ",
+                "ka": "ಅಪ್ರವೃತ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertness",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रमादः",
-            "transliteration": "pramādaḥ",
-            "meaning": "heedlessness"
+            "transliteration": {
+                "hi": "प्रमादः",
+                "en": "pramādaḥ",
+                "be": "প্রমাদঃ",
+                "ka": "ಪ್ರಮಾದಃ"
+            },
+            "meaning": {
+                "hi": "असावधानी",
+                "en": "heedlessness",
+                "be": "উদাসীনতা",
+                "ka": "ಅಜಾಗರೂಕತೆ"
+            }
         },
         {
             "sanskrit": "मोहः",
-            "transliteration": "mohaḥ",
-            "meaning": "delusion"
+            "transliteration": {
+                "hi": "मोहः",
+                "en": "mohaḥ",
+                "be": "মোহঃ",
+                "ka": "ಮೋಹಃ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "delusion",
+                "be": "বিভ্রম",
+                "ka": "ಭ್ರಮೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तमसि",
-            "transliteration": "tamasi",
-            "meaning": "in inertia"
+            "transliteration": {
+                "hi": "तमसि",
+                "en": "tamasi",
+                "be": "তমসি",
+                "ka": "ತಮಸಿ"
+            },
+            "meaning": {
+                "hi": "जड़ता में",
+                "en": "in inertia",
+                "be": "জড়তায়",
+                "ka": "ಜಡತ್ವದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एतानि",
-            "transliteration": "etāni",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतानि",
+                "en": "etāni",
+                "be": "এতানি",
+                "ka": "ಏತಾನಿ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "जायन्ते",
-            "transliteration": "jāyante",
-            "meaning": "arise"
+            "transliteration": {
+                "hi": "जायन्ते",
+                "en": "jāyante",
+                "be": "জাযন্তে",
+                "ka": "ಜಾಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "उठो",
+                "en": "arise",
+                "be": "উঠা",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "विवृद्धे",
-            "transliteration": "vivṛddhe",
-            "meaning": "have become prdominant"
+            "transliteration": {
+                "hi": "विवृद्धे",
+                "en": "vivṛddhe",
+                "be": "বিবৃদ্ধে",
+                "ka": "ವಿವೃದ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "प्रमुख हो गए हैं",
+                "en": "have become prdominant",
+                "be": "প্রধান হয়ে উঠেছে",
+                "ka": "ಪ್ರಧಾನವಾಗಿ ಮಾರ್ಪಟ್ಟಿವೆ"
+            }
         },
         {
             "sanskrit": "कुरुनन्दन",
-            "transliteration": "kurunandana",
-            "meaning": "O descendant of Kuru"
+            "transliteration": {
+                "hi": "कुरुनन्दन",
+                "en": "kurunandana",
+                "be": "কুরুনন্দন",
+                "ka": "ಕುರುನನ್ದನ"
+            },
+            "meaning": {
+                "hi": "हे कुरु के वंशज!",
+                "en": "O descendant of Kuru",
+                "be": "হে কুরুর বংশধর",
+                "ka": "ಓ ಕುರು ಸಂತತಿ"
+            }
         }
     ],
     "tej": {

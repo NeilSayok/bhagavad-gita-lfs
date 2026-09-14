@@ -14,8 +14,18 @@
         "en": "sarvadvāreṣu dehe.asminprakāśa upajāyate .\njñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta ||14-11||",
         "ka": "ಸರ್ವದ್ವಾರೇಷು ದೇಹೇಽಸ್ಮಿನ್ಪ್ರಕಾಶ ಉಪಜಾಯತೇ |\nಜ್ಞಾನಂ ಯದಾ ತದಾ ವಿದ್ಯಾದ್ವಿವೃದ್ಧಂ ಸತ್ತ್ವಮಿತ್ಯುತ ||೧೪-೧೧||"
     },
-    "transliteration": "sarvadvāreṣu dehe.asminprakāśa upajāyate .\njñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta ||14-11||",
-    "life_application": "When the light of wisdom shines through all body gates, know that goodness is predominant.",
+    "transliteration": {
+        "hi": "सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते |\nज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||",
+        "en": "sarvadvāreṣu dehe.asminprakāśa upajāyate .\njñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta ||14-11||",
+        "be": "সর্বদ্বারেষু দেহেঽস্মিন্প্রকাশ উপজাযতে |\nজ্ঞানং যদা তদা বিদ্যাদ্বিবৃদ্ধং সত্ত্বমিত্যুত ||১৪-১১||",
+        "ka": "ಸರ್ವದ್ವಾರೇಷು ದೇಹೇಽಸ್ಮಿನ್ಪ್ರಕಾಶ ಉಪಜಾಯತೇ |\nಜ್ಞಾನಂ ಯದಾ ತದಾ ವಿದ್ಯಾದ್ವಿವೃದ್ಧಂ ಸತ್ತ್ವಮಿತ್ಯುತ ||೧೪-೧೧||"
+    },
+    "life_application": {
+        "hi": "जब ज्ञान का प्रकाश शरीर के सभी द्वारों से होकर चमकता है, तो जान लें कि अच्छाई प्रबल है।",
+        "en": "When the light of wisdom shines through all body gates, know that goodness is predominant.",
+        "be": "যখন জ্ঞানের আলো শরীরের সমস্ত দরজা দিয়ে জ্বলবে, তখন জেনে রাখুন যে মঙ্গলই প্রধান।",
+        "ka": "ಜ್ಞಾನದ ಬೆಳಕು ಎಲ್ಲಾ ದೇಹದ ದ್ವಾರಗಳಲ್ಲಿ ಬೆಳಗಿದಾಗ, ಒಳ್ಳೆಯತನವು ಪ್ರಧಾನವಾಗಿದೆ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वद्वारेषु",
-            "transliteration": "sarvadvāreṣu",
-            "meaning": "through every gate"
+            "transliteration": {
+                "hi": "सर्वद्वारेषु",
+                "en": "sarvadvāreṣu",
+                "be": "সর্বদ্বারেষু",
+                "ka": "ಸರ್ವದ್ವಾರೇಷು"
+            },
+            "meaning": {
+                "hi": "हर द्वार के माध्यम से",
+                "en": "through every gate",
+                "be": "প্রতিটি গেট দিয়ে",
+                "ka": "ಪ್ರತಿ ಗೇಟ್ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अस्मिन्",
-            "transliteration": "asmin",
-            "meaning": "in this"
+            "transliteration": {
+                "hi": "अस्मिन्",
+                "en": "asmin",
+                "be": "অস্মিন্",
+                "ka": "ಅಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "इसमें",
+                "en": "in this",
+                "be": "এই",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रकाशः",
-            "transliteration": "prakāśaḥ",
-            "meaning": "wisdomlight"
+            "transliteration": {
+                "hi": "प्रकाशः",
+                "en": "prakāśaḥ",
+                "be": "প্রকাশঃ",
+                "ka": "ಪ್ರಕಾಶಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धिमता",
+                "en": "wisdomlight",
+                "be": "বুদ্ধির আলো",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆಯ ಬೆಳಕು"
+            }
         },
         {
             "sanskrit": "उपजायते",
-            "transliteration": "upajāyate",
-            "meaning": "shines"
+            "transliteration": {
+                "hi": "उपजायते",
+                "en": "upajāyate",
+                "be": "উপজাযতে",
+                "ka": "ಉಪಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "चमकता है",
+                "en": "shines",
+                "be": "চকচকে",
+                "ka": "ಹೊಳೆಯುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "विद्यात्",
-            "transliteration": "vidyāt",
-            "meaning": "may be known"
+            "transliteration": {
+                "hi": "विद्यात्",
+                "en": "vidyāt",
+                "be": "বিদ্যাত্",
+                "ka": "ವಿದ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "ज्ञात हो सकता है",
+                "en": "may be known",
+                "be": "পরিচিত হতে পারে",
+                "ka": "ತಿಳಿದಿರಬಹುದು"
+            }
         },
         {
             "sanskrit": "विवृद्धम्",
-            "transliteration": "vivṛddham",
-            "meaning": "predominant"
+            "transliteration": {
+                "hi": "विवृद्धम्",
+                "en": "vivṛddham",
+                "be": "বিবৃদ্ধম্",
+                "ka": "ವಿವೃದ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "प्रमुख",
+                "en": "predominant",
+                "be": "প্রধান",
+                "ka": "ಪ್ರಧಾನವಾದ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": ",Sattva"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": ",सत्व",
+                "en": ",Sattva",
+                "be": ",সত্ত্ব",
+                "ka": ",ಸತ್ವ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उत",
-            "transliteration": "uta",
-            "meaning": "indeed."
+            "transliteration": {
+                "hi": "उत",
+                "en": "uta",
+                "be": "উত",
+                "ka": "ಉತ"
+            },
+            "meaning": {
+                "hi": "वास्तव में।",
+                "en": "indeed.",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ."
+            }
         }
     ],
     "tej": {

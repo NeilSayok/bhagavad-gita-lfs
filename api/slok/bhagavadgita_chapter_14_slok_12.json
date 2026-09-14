@@ -14,8 +14,18 @@
         "en": "lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā .\nrajasyetāni jāyante vivṛddhe bharatarṣabha ||14-12||",
         "ka": "ಲೋಭಃ ಪ್ರವೃತ್ತಿರಾರಮ್ಭಃ ಕರ್ಮಣಾಮಶಮಃ ಸ್ಪೃಹಾ |\nರಜಸ್ಯೇತಾನಿ ಜಾಯನ್ತೇ ವಿವೃದ್ಧೇ ಭರತರ್ಷಭ ||೧೪-೧೨||"
     },
-    "transliteration": "lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā .\nrajasyetāni jāyante vivṛddhe bharatarṣabha ||14-12||",
-    "life_application": "When greed, activity, undertaking of works, restlessness, and longing arise, know that passion is predominant.",
+    "transliteration": {
+        "hi": "लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा |\nरजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||",
+        "en": "lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā .\nrajasyetāni jāyante vivṛddhe bharatarṣabha ||14-12||",
+        "be": "লোভঃ প্রবৃত্তিরারম্ভঃ কর্মণামশমঃ স্পৃহা |\nরজস্যেতানি জাযন্তে বিবৃদ্ধে ভরতর্ষভ ||১৪-১২||",
+        "ka": "ಲೋಭಃ ಪ್ರವೃತ್ತಿರಾರಮ್ಭಃ ಕರ್ಮಣಾಮಶಮಃ ಸ್ಪೃಹಾ |\nರಜಸ್ಯೇತಾನಿ ಜಾಯನ್ತೇ ವಿವೃದ್ಧೇ ಭರತರ್ಷಭ ||೧೪-೧೨||"
+    },
+    "life_application": {
+        "hi": "जब लोभ, सक्रियता, कार्य का उपक्रम, बेचैनी और लालसा उत्पन्न हो तो जान लें कि जुनून प्रबल है।",
+        "en": "When greed, activity, undertaking of works, restlessness, and longing arise, know that passion is predominant.",
+        "be": "যখন লোভ, তৎপরতা, কর্মের উদ্যোগ, অস্থিরতা এবং আকাঙ্ক্ষা দেখা দেয়, তখন জেনে রাখুন যে আবেগ প্রধান।",
+        "ka": "ದುರಾಶೆ, ಚಟುವಟಿಕೆ, ಕೆಲಸಗಳನ್ನು ಕೈಗೊಳ್ಳುವುದು, ಚಡಪಡಿಕೆ ಮತ್ತು ಹಂಬಲವು ಉದ್ಭವಿಸಿದಾಗ, ಉತ್ಸಾಹವು ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Attachment"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "लोभः",
-            "transliteration": "lobhaḥ",
-            "meaning": "greed"
+            "transliteration": {
+                "hi": "लोभः",
+                "en": "lobhaḥ",
+                "be": "লোভঃ",
+                "ka": "ಲೋಭಃ"
+            },
+            "meaning": {
+                "hi": "लालच",
+                "en": "greed",
+                "be": "লোভ",
+                "ka": "ದುರಾಸೆ"
+            }
         },
         {
             "sanskrit": "प्रवृत्तिः",
-            "transliteration": "pravṛttiḥ",
-            "meaning": "activity"
+            "transliteration": {
+                "hi": "प्रवृत्तिः",
+                "en": "pravṛttiḥ",
+                "be": "প্রবৃত্তিঃ",
+                "ka": "ಪ್ರವೃತ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "गतिविधि",
+                "en": "activity",
+                "be": "কার্যকলাপ",
+                "ka": "ಚಟುವಟಿಕೆ"
+            }
         },
         {
             "sanskrit": "आरम्भः",
-            "transliteration": "ārambhaḥ",
-            "meaning": "the undertaking"
+            "transliteration": {
+                "hi": "आरम्भः",
+                "en": "ārambhaḥ",
+                "be": "আরম্ভঃ",
+                "ka": "ಆರಮ್ಭಃ"
+            },
+            "meaning": {
+                "hi": "उपक्रम",
+                "en": "the undertaking",
+                "be": "অঙ্গীকার",
+                "ka": "ಕೈಗೊಳ್ಳುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "कर्मणाम्",
-            "transliteration": "karmaṇām",
-            "meaning": "of actions"
+            "transliteration": {
+                "hi": "कर्मणाम्",
+                "en": "karmaṇām",
+                "be": "কর্মণাম্",
+                "ka": "ಕರ್ಮಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "क्रियाओं का",
+                "en": "of actions",
+                "be": "কর্মের",
+                "ka": "ಕ್ರಿಯೆಗಳ"
+            }
         },
         {
             "sanskrit": "अशमः",
-            "transliteration": "aśamaḥ",
-            "meaning": "restlessness"
+            "transliteration": {
+                "hi": "अशमः",
+                "en": "aśamaḥ",
+                "be": "অশমঃ",
+                "ka": "ಅಶಮಃ"
+            },
+            "meaning": {
+                "hi": "बेचैनी",
+                "en": "restlessness",
+                "be": "অস্থিরতা",
+                "ka": "ಚಡಪಡಿಕೆ"
+            }
         },
         {
             "sanskrit": "स्पृहा",
-            "transliteration": "spṛhā",
-            "meaning": "longing"
+            "transliteration": {
+                "hi": "स्पृहा",
+                "en": "spṛhā",
+                "be": "স্পৃহা",
+                "ka": "ಸ್ಪೃಹಾ"
+            },
+            "meaning": {
+                "hi": "लालसा",
+                "en": "longing",
+                "be": "আকাঙ্ক্ষা",
+                "ka": "ಹಾತೊರೆಯುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "रजसि",
-            "transliteration": "rajasi",
-            "meaning": "in Rajas"
+            "transliteration": {
+                "hi": "रजसि",
+                "en": "rajasi",
+                "be": "রজসি",
+                "ka": "ರಜಸಿ"
+            },
+            "meaning": {
+                "hi": "राजस में",
+                "en": "in Rajas",
+                "be": "রাজসে",
+                "ka": "ರಾಜಾಸ್‌ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एतानि",
-            "transliteration": "etāni",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतानि",
+                "en": "etāni",
+                "be": "এতানি",
+                "ka": "ಏತಾನಿ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "जायन्ते",
-            "transliteration": "jāyante",
-            "meaning": "arise"
+            "transliteration": {
+                "hi": "जायन्ते",
+                "en": "jāyante",
+                "be": "জাযন্তে",
+                "ka": "ಜಾಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "उठो",
+                "en": "arise",
+                "be": "উঠা",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "विवृद्धे",
-            "transliteration": "vivṛddhe",
-            "meaning": "having become predominant"
+            "transliteration": {
+                "hi": "विवृद्धे",
+                "en": "vivṛddhe",
+                "be": "বিবৃদ্ধে",
+                "ka": "ವಿವೃದ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "प्रबल हो जाना",
+                "en": "having become predominant",
+                "be": "প্রধান হয়ে উঠেছে",
+                "ka": "ಪ್ರಧಾನವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "भरतर्षभ",
-            "transliteration": "bharatarṣabha",
-            "meaning": "O best of the"
+            "transliteration": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভরতর্ষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            },
+            "meaning": {
+                "hi": "हे श्रेष्ठ!",
+                "en": "O best of the",
+                "be": "হে সেরা",
+                "ka": "ಓ ಅತ್ಯುತ್ತಮ"
+            }
         }
     ],
     "tej": {

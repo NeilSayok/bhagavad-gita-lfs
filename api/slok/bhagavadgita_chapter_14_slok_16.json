@@ -14,8 +14,18 @@
         "en": "karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam .\nrajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam ||14-16||",
         "ka": "ಕರ್ಮಣಃ ಸುಕೃತಸ್ಯಾಹುಃ ಸಾತ್ತ್ವಿಕಂ ನಿರ್ಮಲಂ ಫಲಮ್ |\nರಜಸಸ್ತು ಫಲಂ ದುಃಖಮಜ್ಞಾನಂ ತಮಸಃ ಫಲಮ್ ||೧೪-೧೬||"
     },
-    "transliteration": "karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam .\nrajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam ||14-16||",
-    "life_application": "Fruit of good action is pure and harmonious; fruit of passion is pain; fruit of ignorance is delusion.",
+    "transliteration": {
+        "hi": "कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् |\nरजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||१४-१६||",
+        "en": "karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam .\nrajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam ||14-16||",
+        "be": "কর্মণঃ সুকৃতস্যাহুঃ সাত্ত্বিকং নির্মলং ফলম্ |\nরজসস্তু ফলং দুঃখমজ্ঞানং তমসঃ ফলম্ ||১৪-১৬||",
+        "ka": "ಕರ್ಮಣಃ ಸುಕೃತಸ್ಯಾಹುಃ ಸಾತ್ತ್ವಿಕಂ ನಿರ್ಮಲಂ ಫಲಮ್ |\nರಜಸಸ್ತು ಫಲಂ ದುಃಖಮಜ್ಞಾನಂ ತಮಸಃ ಫಲಮ್ ||೧೪-೧೬||"
+    },
+    "life_application": {
+        "hi": "अच्छे कर्म का फल शुद्ध और सामंजस्यपूर्ण होता है; जुनून का फल दर्द है; अज्ञान का फल भ्रम है.",
+        "en": "Fruit of good action is pure and harmonious; fruit of passion is pain; fruit of ignorance is delusion.",
+        "be": "উত্তম কর্মের ফল শুদ্ধ ও সুরেলা; আবেগের ফল ব্যথা; অজ্ঞতার ফল হল ভ্রম।",
+        "ka": "ಒಳ್ಳೆಯ ಕ್ರಿಯೆಯ ಹಣ್ಣು ಶುದ್ಧ ಮತ್ತು ಸಾಮರಸ್ಯ; ಭಾವೋದ್ರೇಕದ ಫಲ ನೋವು; ಅಜ್ಞಾನದ ಫಲ ಭ್ರಮೆ."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "कर्मणः",
-            "transliteration": "karmaṇaḥ",
-            "meaning": "of action"
+            "transliteration": {
+                "hi": "कर्मणः",
+                "en": "karmaṇaḥ",
+                "be": "কর্মণঃ",
+                "ka": "ಕರ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई का",
+                "en": "of action",
+                "be": "কর্মের",
+                "ka": "ಕ್ರಿಯೆಯ"
+            }
         },
         {
             "sanskrit": "सुकृतस्य",
-            "transliteration": "sukṛtasya",
-            "meaning": "good"
+            "transliteration": {
+                "hi": "सुकृतस्य",
+                "en": "sukṛtasya",
+                "be": "সুকৃতস্য",
+                "ka": "ಸುಕೃತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अच्छा",
+                "en": "good",
+                "be": "ভাল",
+                "ka": "ಒಳ್ಳೆಯದು"
+            }
         },
         {
             "sanskrit": "आहुः",
-            "transliteration": "āhuḥ",
-            "meaning": "say"
+            "transliteration": {
+                "hi": "आहुः",
+                "en": "āhuḥ",
+                "be": "আহুঃ",
+                "ka": "ಆಹುಃ"
+            },
+            "meaning": {
+                "hi": "कहो",
+                "en": "say",
+                "be": "বল",
+                "ka": "ಹೇಳುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "सात्त्विकम्",
-            "transliteration": "sāttvikam",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकम्",
+                "en": "sāttvikam",
+                "be": "সাত্ত্বিকম্",
+                "ka": "ಸಾತ್ತ್ವಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "निर्मलम्",
-            "transliteration": "nirmalam",
-            "meaning": "pure"
+            "transliteration": {
+                "hi": "निर्मलम्",
+                "en": "nirmalam",
+                "be": "নির্মলম্",
+                "ka": "ನಿರ್ಮಲಮ್"
+            },
+            "meaning": {
+                "hi": "शुद्ध",
+                "en": "pure",
+                "be": "বিশুদ্ধ",
+                "ka": "ಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "the fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "the fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "रजसः",
-            "transliteration": "rajasaḥ",
-            "meaning": "of Rajas"
+            "transliteration": {
+                "hi": "रजसः",
+                "en": "rajasaḥ",
+                "be": "রজসঃ",
+                "ka": "ರಜಸಃ"
+            },
+            "meaning": {
+                "hi": "राजस का",
+                "en": "of Rajas",
+                "be": "রাজাদের",
+                "ka": "ರಾಜಾಸ್ ನ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "the fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "the fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "दुःखम्",
-            "transliteration": "duḥkham",
-            "meaning": "pain"
+            "transliteration": {
+                "hi": "दुःखम्",
+                "en": "duḥkham",
+                "be": "দুঃখম্",
+                "ka": "ದುಃಖಮ್"
+            },
+            "meaning": {
+                "hi": "दर्द",
+                "en": "pain",
+                "be": "ব্যথা",
+                "ka": "ನೋವು"
+            }
         },
         {
             "sanskrit": "अज्ञानम्",
-            "transliteration": "ajñānam",
-            "meaning": "ignorance"
+            "transliteration": {
+                "hi": "अज्ञानम्",
+                "en": "ajñānam",
+                "be": "অজ্ঞানম্",
+                "ka": "ಅಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "अज्ञान",
+                "en": "ignorance",
+                "be": "অজ্ঞতা",
+                "ka": "ಅಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "तमसः",
-            "transliteration": "tamasaḥ",
-            "meaning": "of inertia"
+            "transliteration": {
+                "hi": "तमसः",
+                "en": "tamasaḥ",
+                "be": "তমসঃ",
+                "ka": "ತಮಸಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता का",
+                "en": "of inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವದ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "the fruit."
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल.",
+                "en": "the fruit.",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam .\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ||14-1||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪರಂ ಭೂಯಃ ಪ್ರವಕ್ಷ್ಯಾಮಿ ಜ್ಞಾನಾನಾಂ ಜ್ಞಾನಮುತ್ತಮಮ್ |\nಯಜ್ಜ್ಞಾತ್ವಾ ಮುನಯಃ ಸರ್ವೇ ಪರಾಂ ಸಿದ್ಧಿಮಿತೋ ಗತಾಃ ||೧೪-೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\nparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam .\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ||14-1||",
-    "life_application": "Listen to the supreme knowledge, the best of all wisdom, having known which all sages attained supreme perfection.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् |\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ||१४-१||",
+        "en": "śrībhagavānuvāca .\nparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam .\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ||14-1||",
+        "be": "শ্রীভগবানুবাচ |\nপরং ভূযঃ প্রবক্ষ্যামি জ্ঞানানাং জ্ঞানমুত্তমম্ |\nযজ্জ্ঞাত্বা মুনযঃ সর্বে পরাং সিদ্ধিমিতো গতাঃ ||১৪-১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪರಂ ಭೂಯಃ ಪ್ರವಕ್ಷ್ಯಾಮಿ ಜ್ಞಾನಾನಾಂ ಜ್ಞಾನಮುತ್ತಮಮ್ |\nಯಜ್ಜ್ಞಾತ್ವಾ ಮುನಯಃ ಸರ್ವೇ ಪರಾಂ ಸಿದ್ಧಿಮಿತೋ ಗತಾಃ ||೧೪-೧||"
+    },
+    "life_application": {
+        "hi": "उस परम ज्ञान, सर्वोत्तम ज्ञान को सुनो, जिसे जानकर सभी ऋषियों ने परम सिद्धि प्राप्त की है।",
+        "en": "Listen to the supreme knowledge, the best of all wisdom, having known which all sages attained supreme perfection.",
+        "be": "সর্বোত্তম জ্ঞান, সর্বোত্তম জ্ঞানের কথা শ্রবণ করুন, যা জেনে সমস্ত ঋষি পরম সিদ্ধি লাভ করেছিলেন।",
+        "ka": "ಎಲ್ಲ ಋಷಿಗಳು ಸರ್ವೋತ್ತಮವಾದ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಸಾಧಿಸಿದ ಸರ್ವೋತ್ತಮ ಜ್ಞಾನವನ್ನು ಆಲಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Purpose"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "प्रवक्ष्यामि",
-            "transliteration": "pravakṣyāmi",
-            "meaning": "will declare"
+            "transliteration": {
+                "hi": "प्रवक्ष्यामि",
+                "en": "pravakṣyāmi",
+                "be": "প্রবক্ষ্যামি",
+                "ka": "ಪ್ರವಕ್ಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "घोषित करेंगे",
+                "en": "will declare",
+                "be": "ঘোষণা করবে",
+                "ka": "ಘೋಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानानाम्",
-            "transliteration": "jñānānām",
-            "meaning": "of all knowledge"
+            "transliteration": {
+                "hi": "ज्ञानानाम्",
+                "en": "jñānānām",
+                "be": "জ্ঞানানাম্",
+                "ka": "ಜ್ಞಾನಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "समस्त ज्ञान का",
+                "en": "of all knowledge",
+                "be": "সমস্ত জ্ঞানের",
+                "ka": "ಎಲ್ಲಾ ಜ್ಞಾನದ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "उत्तमम्",
-            "transliteration": "uttamam",
-            "meaning": "the best"
+            "transliteration": {
+                "hi": "उत्तमम्",
+                "en": "uttamam",
+                "be": "উত্তমম্",
+                "ka": "ಉತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "सबसे अच्छा",
+                "en": "the best",
+                "be": "সেরা",
+                "ka": "ಅತ್ಯುತ್ತಮ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "having known"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात होना",
+                "en": "having known",
+                "be": "জানা থাকা",
+                "ka": "ತಿಳಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "मुनयः",
-            "transliteration": "munayaḥ",
-            "meaning": "the sages"
+            "transliteration": {
+                "hi": "मुनयः",
+                "en": "munayaḥ",
+                "be": "মুনযঃ",
+                "ka": "ಮುನಯಃ"
+            },
+            "meaning": {
+                "hi": "ऋषियों",
+                "en": "the sages",
+                "be": "ঋষিরা",
+                "ka": "ಋಷಿಗಳು"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "सिद्धिम्",
-            "transliteration": "siddhim",
-            "meaning": "to perfection"
+            "transliteration": {
+                "hi": "सिद्धिम्",
+                "en": "siddhim",
+                "be": "সিদ্ধিম্",
+                "ka": "ಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता के लिए",
+                "en": "to perfection",
+                "be": "পরিপূর্ণতা",
+                "ka": "ಪರಿಪೂರ್ಣತೆಗೆ"
+            }
         },
         {
             "sanskrit": "इतः",
-            "transliteration": "itaḥ",
-            "meaning": "after this life"
+            "transliteration": {
+                "hi": "इतः",
+                "en": "itaḥ",
+                "be": "ইতঃ",
+                "ka": "ಇತಃ"
+            },
+            "meaning": {
+                "hi": "इस जीवन के बाद",
+                "en": "after this life",
+                "be": "এই জীবনের পরে",
+                "ka": "ಈ ಜೀವನದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "गताः",
-            "transliteration": "gatāḥ",
-            "meaning": "gone."
+            "transliteration": {
+                "hi": "गताः",
+                "en": "gatāḥ",
+                "be": "গতাঃ",
+                "ka": "ಗತಾಃ"
+            },
+            "meaning": {
+                "hi": "गया।",
+                "en": "gone.",
+                "be": "চলে গেছে",
+                "ka": "ಹೋಗಿದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "rajastamaścābhibhūya sattvaṃ bhavati bhārata .\nrajaḥ sattvaṃ tamaścaiva tamaḥ sattvaṃ rajastathā ||14-10||",
         "ka": "ರಜಸ್ತಮಶ್ಚಾಭಿಭೂಯ ಸತ್ತ್ವಂ ಭವತಿ ಭಾರತ |\nರಜಃ ಸತ್ತ್ವಂ ತಮಶ್ಚೈವ ತಮಃ ಸತ್ತ್ವಂ ರಜಸ್ತಥಾ ||೧೪-೧೦||"
     },
-    "transliteration": "rajastamaścābhibhūya sattvaṃ bhavati bhārata .\nrajaḥ sattvaṃ tamaścaiva tamaḥ sattvaṃ rajastathā ||14-10||",
-    "life_application": "Notice how goodness prevails by overpowering passion and ignorance, passion over goodness and ignorance, ignorance over goodness and passion.",
+    "transliteration": {
+        "hi": "रजस्तमश्चाभिभूय सत्त्वं भवति भारत |\nरजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||१४-१०||",
+        "en": "rajastamaścābhibhūya sattvaṃ bhavati bhārata .\nrajaḥ sattvaṃ tamaścaiva tamaḥ sattvaṃ rajastathā ||14-10||",
+        "be": "রজস্তমশ্চাভিভূয সত্ত্বং ভবতি ভারত |\nরজঃ সত্ত্বং তমশ্চৈব তমঃ সত্ত্বং রজস্তথা ||১৪-১০||",
+        "ka": "ರಜಸ್ತಮಶ್ಚಾಭಿಭೂಯ ಸತ್ತ್ವಂ ಭವತಿ ಭಾರತ |\nರಜಃ ಸತ್ತ್ವಂ ತಮಶ್ಚೈವ ತಮಃ ಸತ್ತ್ವಂ ರಜಸ್ತಥಾ ||೧೪-೧೦||"
+    },
+    "life_application": {
+        "hi": "ध्यान दें कि कैसे अच्छाई जुनून और अज्ञान पर, जुनून अच्छाई और अज्ञान पर, अज्ञान अच्छाई और जुनून पर हावी होकर प्रबल होती है।",
+        "en": "Notice how goodness prevails by overpowering passion and ignorance, passion over goodness and ignorance, ignorance over goodness and passion.",
+        "be": "লক্ষ্য করুন কিভাবে উত্তেজনা এবং অজ্ঞতাকে, উত্তমতা এবং অজ্ঞতার উপর আবেগ, মঙ্গল এবং আবেগের উপর অজ্ঞতাকে জয় করে।",
+        "ka": "ಉತ್ಸಾಹ ಮತ್ತು ಅಜ್ಞಾನವನ್ನು ಮೀರಿಸುವ ಮೂಲಕ ಒಳ್ಳೆಯತನವು ಹೇಗೆ ಮೇಲುಗೈ ಸಾಧಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ, ಒಳ್ಳೆಯತನ ಮತ್ತು ಅಜ್ಞಾನದ ಮೇಲೆ ಉತ್ಸಾಹ, ಒಳ್ಳೆಯತನ ಮತ್ತು ಉತ್ಸಾಹದ ಮೇಲೆ ಅಜ್ಞಾನ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "Rajas"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "राजस",
+                "en": "Rajas",
+                "be": "রাজস",
+                "ka": "ರಾಜಾಸ್"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "inertia"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अभिभूय",
-            "transliteration": "abhibhūya",
-            "meaning": "having overpowered"
+            "transliteration": {
+                "hi": "अभिभूय",
+                "en": "abhibhūya",
+                "be": "অভিভূয",
+                "ka": "ಅಭಿಭೂಯ"
+            },
+            "meaning": {
+                "hi": "प्रबल होना",
+                "en": "having overpowered",
+                "be": "overpowered থাকার",
+                "ka": "ಅಧಿಕಾರವನ್ನು ಪಡೆದಿದೆ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "Sattva"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सत्त्व",
+                "en": "Sattva",
+                "be": "সত্ত্বা",
+                "ka": "ಸತ್ವ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "arises"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "उठता है",
+                "en": "arises",
+                "be": "উদিত হয়",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "Rajas"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "राजस",
+                "en": "Rajas",
+                "be": "রাজস",
+                "ka": "ರಾಜಾಸ್"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "Sattva"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सत्त्व",
+                "en": "Sattva",
+                "be": "সত্ত্বা",
+                "ka": "ಸತ್ವ"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "inertia"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "inertia"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "active force"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "सक्रिय बल",
+                "en": "active force",
+                "be": "সক্রিয় শক্তি",
+                "ka": "ಸಕ್ರಿಯ ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also."
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी।",
+                "en": "also.",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt .\ntadottamavidāṃ lokānamalānpratipadyate ||14-14||",
         "ka": "ಯದಾ ಸತ್ತ್ವೇ ಪ್ರವೃದ್ಧೇ ತು ಪ್ರಲಯಂ ಯಾತಿ ದೇಹಭೃತ್ |\nತದೋತ್ತಮವಿದಾಂ ಲೋಕಾನಮಲಾನ್ಪ್ರತಿಪದ್ಯತೇ ||೧೪-೧೪||"
     },
-    "transliteration": "yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt .\ntadottamavidāṃ lokānamalānpratipadyate ||14-14||",
-    "life_application": "If the embodied soul meets death when goodness prevails, it reaches the pure worlds of knowers of the highest.",
+    "transliteration": {
+        "hi": "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||",
+        "en": "yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt .\ntadottamavidāṃ lokānamalānpratipadyate ||14-14||",
+        "be": "যদা সত্ত্বে প্রবৃদ্ধে তু প্রলযং যাতি দেহভৃত্ |\nতদোত্তমবিদাং লোকানমলান্প্রতিপদ্যতে ||১৪-১৪||",
+        "ka": "ಯದಾ ಸತ್ತ್ವೇ ಪ್ರವೃದ್ಧೇ ತು ಪ್ರಲಯಂ ಯಾತಿ ದೇಹಭೃತ್ |\nತದೋತ್ತಮವಿದಾಂ ಲೋಕಾನಮಲಾನ್ಪ್ರತಿಪದ್ಯತೇ ||೧೪-೧೪||"
+    },
+    "life_application": {
+        "hi": "यदि अच्छाई प्रबल होने पर देहधारी आत्मा की मृत्यु हो जाती है, तो वह सर्वोच्च जानने वालों की शुद्ध दुनिया में पहुँच जाती है।",
+        "en": "If the embodied soul meets death when goodness prevails, it reaches the pure worlds of knowers of the highest.",
+        "be": "যদি মূর্ত আত্মা মৃত্যুর সাথে দেখা করে যখন মঙ্গল বিরাজ করে, তবে এটি সর্বোচ্চ জ্ঞানীদের বিশুদ্ধ জগতে পৌঁছে যায়।",
+        "ka": "ಸದ್ಗುಣವು ಮೇಲುಗೈ ಸಾಧಿಸಿದಾಗ ಸಾಕಾರಗೊಂಡ ಆತ್ಮವು ಮರಣವನ್ನು ಎದುರಿಸಿದರೆ, ಅದು ಅತ್ಯುನ್ನತ ಜ್ಞಾನಿಗಳ ಶುದ್ಧ ಪ್ರಪಂಚವನ್ನು ತಲುಪುತ್ತದೆ."
+    },
     "themes": [
         "Death",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "सत्त्वे",
-            "transliteration": "sattve",
-            "meaning": "in Sattva"
+            "transliteration": {
+                "hi": "सत्त्वे",
+                "en": "sattve",
+                "be": "সত্ত্বে",
+                "ka": "ಸತ್ತ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सत्व में",
+                "en": "in Sattva",
+                "be": "সত্ত্বে",
+                "ka": "ಸತ್ವದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रवृद्धे",
-            "transliteration": "pravṛddhe",
-            "meaning": "having become predominant"
+            "transliteration": {
+                "hi": "प्रवृद्धे",
+                "en": "pravṛddhe",
+                "be": "প্রবৃদ্ধে",
+                "ka": "ಪ್ರವೃದ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "प्रबल हो जाना",
+                "en": "having become predominant",
+                "be": "প্রধান হয়ে উঠেছে",
+                "ka": "ಪ್ರಧಾನವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "प्रलयम्",
-            "transliteration": "pralayam",
-            "meaning": "death"
+            "transliteration": {
+                "hi": "प्रलयम्",
+                "en": "pralayam",
+                "be": "প্রলযম্",
+                "ka": "ಪ್ರಲಯಮ್"
+            },
+            "meaning": {
+                "hi": "मौत",
+                "en": "death",
+                "be": "মৃত্যু",
+                "ka": "ಸಾವು"
+            }
         },
         {
             "sanskrit": "याति",
-            "transliteration": "yāti",
-            "meaning": "meets"
+            "transliteration": {
+                "hi": "याति",
+                "en": "yāti",
+                "be": "যাতি",
+                "ka": "ಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "मिलते हैं",
+                "en": "meets",
+                "be": "মিলিত হয়",
+                "ka": "ಭೇಟಿಯಾಗುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "देहभृत्",
-            "transliteration": "dehabhṛt",
-            "meaning": "the embodied one"
+            "transliteration": {
+                "hi": "देहभृत्",
+                "en": "dehabhṛt",
+                "be": "দেহভৃত্",
+                "ka": "ದೇಹಭೃತ್"
+            },
+            "meaning": {
+                "hi": "सन्निहित",
+                "en": "the embodied one",
+                "be": "মূর্ত এক",
+                "ka": "ಸಾಕಾರಗೊಂಡವನು"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "उत्तमविदाम्",
-            "transliteration": "uttamavidām",
-            "meaning": "of the knowers of"
+            "transliteration": {
+                "hi": "उत्तमविदाम्",
+                "en": "uttamavidām",
+                "be": "উত্তমবিদাম্",
+                "ka": "ಉತ್ತಮವಿದಾಮ್"
+            },
+            "meaning": {
+                "hi": "के जानने वालों में से",
+                "en": "of the knowers of",
+                "be": "এর পরিচিতদের",
+                "ka": "ಬಲ್ಲವರ"
+            }
         },
         {
             "sanskrit": "लोकान्",
-            "transliteration": "lokān",
-            "meaning": "to the worlds"
+            "transliteration": {
+                "hi": "लोकान्",
+                "en": "lokān",
+                "be": "লোকান্",
+                "ka": "ಲೋಕಾನ್"
+            },
+            "meaning": {
+                "hi": "दुनिया के लिए",
+                "en": "to the worlds",
+                "be": "বিশ্বের কাছে",
+                "ka": "ಲೋಕಗಳಿಗೆ"
+            }
         },
         {
             "sanskrit": "अमलान्",
-            "transliteration": "amalān",
-            "meaning": "of the spotless"
+            "transliteration": {
+                "hi": "अमलान्",
+                "en": "amalān",
+                "be": "অমলান্",
+                "ka": "ಅಮಲಾನ್"
+            },
+            "meaning": {
+                "hi": "बेदाग का",
+                "en": "of the spotless",
+                "be": "দাগহীন",
+                "ka": "ನಿರ್ಮಲವಾದ"
+            }
         },
         {
             "sanskrit": "प्रतिपद्यते",
-            "transliteration": "pratipadyate",
-            "meaning": "attains."
+            "transliteration": {
+                "hi": "प्रतिपद्यते",
+                "en": "pratipadyate",
+                "be": "প্রতিপদ্যতে",
+                "ka": "ಪ್ರತಿಪದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है.",
+                "en": "attains.",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

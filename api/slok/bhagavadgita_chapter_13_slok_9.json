@@ -14,8 +14,18 @@
         "en": "indriyārtheṣu vairāgyamanahaṃkāra eva ca .\njanmamṛtyujarāvyādhiduḥkhadoṣānudarśanam ||13-9||",
         "ka": "ಇನ್ದ್ರಿಯಾರ್ಥೇಷು ವೈರಾಗ್ಯಮನಹಂಕಾರ ಏವ ಚ |\nಜನ್ಮಮೃತ್ಯುಜರಾವ್ಯಾಧಿದುಃಖದೋಷಾನುದರ್ಶನಮ್ ||೧೩-೯||"
     },
-    "transliteration": "indriyārtheṣu vairāgyamanahaṃkāra eva ca .\njanmamṛtyujarāvyādhiduḥkhadoṣānudarśanam ||13-9||",
-    "life_application": "Practice non-attachment and non-identification with family, home, and possessions, maintaining constant even-mindedness in desirable and undesirable events.",
+    "transliteration": {
+        "hi": "इन्द्रियार्थेषु वैराग्यमनहंकार एव च |\nजन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ||१३-९||",
+        "en": "indriyārtheṣu vairāgyamanahaṃkāra eva ca .\njanmamṛtyujarāvyādhiduḥkhadoṣānudarśanam ||13-9||",
+        "be": "ইন্দ্রিযার্থেষু বৈরাগ্যমনহংকার এব চ |\nজন্মমৃত্যুজরাব্যাধিদুঃখদোষানুদর্শনম্ ||১৩-৯||",
+        "ka": "ಇನ್ದ್ರಿಯಾರ್ಥೇಷು ವೈರಾಗ್ಯಮನಹಂಕಾರ ಏವ ಚ |\nಜನ್ಮಮೃತ್ಯುಜರಾವ್ಯಾಧಿದುಃಖದೋಷಾನುದರ್ಶನಮ್ ||೧೩-೯||"
+    },
+    "life_application": {
+        "hi": "परिवार, घर और संपत्ति के साथ अनासक्ति और गैर-पहचान का अभ्यास करें, वांछनीय और अवांछनीय घटनाओं में निरंतर समता बनाए रखें।",
+        "en": "Practice non-attachment and non-identification with family, home, and possessions, maintaining constant even-mindedness in desirable and undesirable events.",
+        "be": "পরিবার, বাড়ি এবং সম্পত্তির সাথে অ-সংযুক্তি এবং অ-পরিচয় অভ্যাস করুন, পছন্দসই এবং অবাঞ্ছিত ঘটনাগুলিতে অবিচ্ছিন্নভাবে সমান-মনোভাব বজায় রাখুন।",
+        "ka": "ಅಪೇಕ್ಷಣೀಯ ಮತ್ತು ಅನಪೇಕ್ಷಿತ ಘಟನೆಗಳಲ್ಲಿ ಸ್ಥಿರವಾದ ಸಮ-ಮನಸ್ಸನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ ಕುಟುಂಬ, ಮನೆ ಮತ್ತು ಆಸ್ತಿಗಳೊಂದಿಗೆ ಬಾಂಧವ್ಯವಿಲ್ಲದ ಮತ್ತು ಗುರುತಿಸದಿರುವುದನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "इन्द्रियार्थेषु",
-            "transliteration": "indriyārtheṣu",
-            "meaning": "in senseobjects"
+            "transliteration": {
+                "hi": "इन्द्रियार्थेषु",
+                "en": "indriyārtheṣu",
+                "be": "ইন্দ্রিযার্থেষু",
+                "ka": "ಇನ್ದ್ರಿಯಾರ್ಥೇಷು"
+            },
+            "meaning": {
+                "hi": "इंद्रिय-वस्तुओं में",
+                "en": "in senseobjects",
+                "be": "ইন্দ্রিয় বস্তুতে",
+                "ka": "ಇಂದ್ರಿಯ ವಸ್ತುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "वैराग्यम्",
-            "transliteration": "vairāgyam",
-            "meaning": "dispassion"
+            "transliteration": {
+                "hi": "वैराग्यम्",
+                "en": "vairāgyam",
+                "be": "বৈরাগ্যম্",
+                "ka": "ವೈರಾಗ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "वैराग्य",
+                "en": "dispassion",
+                "be": "বৈরাগ্য",
+                "ka": "ನಿರಾಸಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "अनहङ्कारः",
-            "transliteration": "anahaṅkāraḥ",
-            "meaning": "absence of egoism"
+            "transliteration": {
+                "hi": "अनहङ्कारः",
+                "en": "anahaṅkāraḥ",
+                "be": "অনহঙ্কারঃ",
+                "ka": "ಅನಹಙ್ಕಾರಃ"
+            },
+            "meaning": {
+                "hi": "अहंकार का अभाव",
+                "en": "absence of egoism",
+                "be": "অহংবোধের অনুপস্থিতি",
+                "ka": "ಅಹಂಕಾರದ ಅನುಪಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्",
-            "transliteration": "janmamṛtyujarāvyādhiduḥkhadoṣānudarśanam",
-            "meaning": "perception of evil in"
+            "transliteration": {
+                "hi": "जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्",
+                "en": "janmamṛtyujarāvyādhiduḥkhadoṣānudarśanam",
+                "be": "জন্মমৃত্যুজরাব্যাধিদুঃখদোষানুদর্শনম্",
+                "ka": "ಜನ್ಮಮೃತ್ಯುಜರಾವ್ಯಾಧಿದುಃಖದೋಷಾನುದರ್ಶನಮ್"
+            },
+            "meaning": {
+                "hi": "में बुराई की धारणा",
+                "en": "perception of evil in",
+                "be": "মধ্যে মন্দ উপলব্ধি",
+                "ka": "ದುಷ್ಟತನದ ಗ್ರಹಿಕೆ"
+            }
         }
     ],
     "tej": {

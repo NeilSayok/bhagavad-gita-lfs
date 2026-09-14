@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nanāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅನಾಶ್ರಿತಃ ಕರ್ಮಫಲಂ ಕಾರ್ಯಂ ಕರ್ಮ ಕರೋತಿ ಯಃ |\nಸ ಸಂನ್ಯಾಸೀ ಚ ಯೋಗೀ ಚ ನ ನಿರಗ್ನಿರ್ನ ಚಾಕ್ರಿಯಃ ||೬-೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\nanāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||",
-    "life_application": "Perform your required work without depending on the rewards, living as a true practitioner of inner renunciation.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः |\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः ||६-१||",
+        "en": "śrībhagavānuvāca .\nanāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||",
+        "be": "শ্রীভগবানুবাচ |\nঅনাশ্রিতঃ কর্মফলং কার্যং কর্ম করোতি যঃ |\nস সংন্যাসী চ যোগী চ ন নিরগ্নির্ন চাক্রিযঃ ||৬-১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅನಾಶ್ರಿತಃ ಕರ್ಮಫಲಂ ಕಾರ್ಯಂ ಕರ್ಮ ಕರೋತಿ ಯಃ |\nಸ ಸಂನ್ಯಾಸೀ ಚ ಯೋಗೀ ಚ ನ ನಿರಗ್ನಿರ್ನ ಚಾಕ್ರಿಯಃ ||೬-೧||"
+    },
+    "life_application": {
+        "hi": "आंतरिक त्याग के सच्चे अभ्यासी के रूप में रहते हुए, पुरस्कार पर निर्भर हुए बिना अपना आवश्यक कार्य करें।",
+        "en": "Perform your required work without depending on the rewards, living as a true practitioner of inner renunciation.",
+        "be": "পুরষ্কারের উপর নির্ভর না করে আপনার প্রয়োজনীয় কাজ সম্পাদন করুন, অভ্যন্তরীণ ত্যাগের প্রকৃত অনুশীলনকারী হিসাবে জীবনযাপন করুন।",
+        "ka": "ಪ್ರತಿಫಲಗಳನ್ನು ಅವಲಂಬಿಸದೆ ನಿಮ್ಮ ಅಗತ್ಯ ಕೆಲಸವನ್ನು ನಿರ್ವಹಿಸಿ, ಆಂತರಿಕ ಪರಿತ್ಯಾಗದ ನಿಜವಾದ ಅಭ್ಯಾಸಕಾರರಾಗಿ ಜೀವಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Detachment"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "अनाश्रितः",
-            "transliteration": "anāśritaḥ",
-            "meaning": "anāśritaḥ"
+            "transliteration": {
+                "hi": "अनाश्रितः",
+                "en": "anāśritaḥ",
+                "be": "অনাশ্রিতঃ",
+                "ka": "ಅನಾಶ್ರಿತಃ"
+            },
+            "meaning": {
+                "hi": "अनाश्रित:",
+                "en": "anāśritaḥ",
+                "be": "অনাশ্রিতঃ",
+                "ka": "ಅನಾಶ್ರಿತಃ"
+            }
         },
         {
             "sanskrit": "कर्मफलं",
-            "transliteration": "karmaphalaṃ",
-            "meaning": "karmaphalaṃ"
+            "transliteration": {
+                "hi": "कर्मफलं",
+                "en": "karmaphalaṃ",
+                "be": "কর্মফলং",
+                "ka": "ಕರ್ಮಫಲಂ"
+            },
+            "meaning": {
+                "hi": "कर्मफलम्",
+                "en": "karmaphalaṃ",
+                "be": "কর্মফলং",
+                "ka": "ಕರ್ಮಫಲ"
+            }
         },
         {
             "sanskrit": "कार्यं",
-            "transliteration": "kāryaṃ",
-            "meaning": "kāryaṃ"
+            "transliteration": {
+                "hi": "कार्यं",
+                "en": "kāryaṃ",
+                "be": "কার্যং",
+                "ka": "ಕಾರ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "कार्यं",
+                "en": "kāryaṃ",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯಂ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "करोति",
-            "transliteration": "karoti",
-            "meaning": "karoti"
+            "transliteration": {
+                "hi": "करोति",
+                "en": "karoti",
+                "be": "করোতি",
+                "ka": "ಕರೋತಿ"
+            },
+            "meaning": {
+                "hi": "करोति",
+                "en": "karoti",
+                "be": "করোটি",
+                "ka": "ಕರೋತಿ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "yaḥ"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "हां",
+                "en": "yaḥ",
+                "be": "ইয়াহ",
+                "ka": "ಹೌದು"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "संन्यासी",
-            "transliteration": "saṃnyāsī",
-            "meaning": "saṃnyāsī"
+            "transliteration": {
+                "hi": "संन्यासी",
+                "en": "saṃnyāsī",
+                "be": "সংন্যাসী",
+                "ka": "ಸಂನ್ಯಾಸೀ"
+            },
+            "meaning": {
+                "hi": "संन्यासी",
+                "en": "saṃnyāsī",
+                "be": "সন্ন্যাসী",
+                "ka": "ಸಂನ್ಯಾಸಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "निरग्निर्न",
-            "transliteration": "niragnirna",
-            "meaning": "niragnirna"
+            "transliteration": {
+                "hi": "निरग्निर्न",
+                "en": "niragnirna",
+                "be": "নিরগ্নির্ন",
+                "ka": "ನಿರಗ್ನಿರ್ನ"
+            },
+            "meaning": {
+                "hi": "निराग्निर्णा",
+                "en": "niragnirna",
+                "be": "নির্গনির্ণ",
+                "ka": "ನಿರಗ್ನಿರ್ಣ"
+            }
         },
         {
             "sanskrit": "चाक्रियः",
-            "transliteration": "cākriyaḥ",
-            "meaning": "cākriyaḥ"
+            "transliteration": {
+                "hi": "चाक्रियः",
+                "en": "cākriyaḥ",
+                "be": "চাক্রিযঃ",
+                "ka": "ಚಾಕ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "चक्रियः",
+                "en": "cākriyaḥ",
+                "be": "চক্রীয়ঃ",
+                "ka": "ಚಕ್ರಿಯಾಃ"
+            }
         }
     ],
     "tej": {

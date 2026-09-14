@@ -14,8 +14,18 @@
         "en": "yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ .\nekākī yatacittātmā nirāśīraparigrahaḥ ||6-10||",
         "ka": "ಯೋಗೀ ಯುಞ್ಜೀತ ಸತತಮಾತ್ಮಾನಂ ರಹಸಿ ಸ್ಥಿತಃ |\nಏಕಾಕೀ ಯತಚಿತ್ತಾತ್ಮಾ ನಿರಾಶೀರಪರಿಗ್ರಹಃ ||೬-೧೦||"
     },
-    "transliteration": "yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ .\nekākī yatacittātmā nirāśīraparigrahaḥ ||6-10||",
-    "life_application": "Set aside regular time in a quiet space to center your mind, free from cravings and possessiveness.",
+    "transliteration": {
+        "hi": "योगी युञ्जीत सततमात्मानं रहसि स्थितः |\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः ||६-१०||",
+        "en": "yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ .\nekākī yatacittātmā nirāśīraparigrahaḥ ||6-10||",
+        "be": "যোগী যুঞ্জীত সততমাত্মানং রহসি স্থিতঃ |\nএকাকী যতচিত্তাত্মা নিরাশীরপরিগ্রহঃ ||৬-১০||",
+        "ka": "ಯೋಗೀ ಯುಞ್ಜೀತ ಸತತಮಾತ್ಮಾನಂ ರಹಸಿ ಸ್ಥಿತಃ |\nಏಕಾಕೀ ಯತಚಿತ್ತಾತ್ಮಾ ನಿರಾಶೀರಪರಿಗ್ರಹಃ ||೬-೧೦||"
+    },
+    "life_application": {
+        "hi": "लालसा और स्वामित्व की भावना से मुक्त होकर, अपने मन को एकाग्र करने के लिए एक शांत स्थान पर नियमित समय निर्धारित करें।",
+        "en": "Set aside regular time in a quiet space to center your mind, free from cravings and possessiveness.",
+        "be": "আপনার মনকে কেন্দ্রীভূত করার জন্য একটি শান্ত জায়গায় নিয়মিত সময় আলাদা করুন, লালসা এবং অধিকারীতা থেকে মুক্ত।",
+        "ka": "ಕಡುಬಯಕೆಗಳು ಮತ್ತು ಸ್ವಾಮ್ಯಸೂಚಕತೆಯಿಂದ ಮುಕ್ತವಾಗಿ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಕೇಂದ್ರೀಕರಿಸಲು ಶಾಂತ ಸ್ಥಳದಲ್ಲಿ ನಿಯಮಿತ ಸಮಯವನ್ನು ನಿಗದಿಪಡಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "युञ्जीत",
-            "transliteration": "yuñjīta",
-            "meaning": "yuñjīta"
+            "transliteration": {
+                "hi": "युञ्जीत",
+                "en": "yuñjīta",
+                "be": "যুঞ্জীত",
+                "ka": "ಯುಞ್ಜೀತ"
+            },
+            "meaning": {
+                "hi": "युन्जिता",
+                "en": "yuñjīta",
+                "be": "যুঞ্জিতা",
+                "ka": "ಯುಂಜಿತಾ"
+            }
         },
         {
             "sanskrit": "सततमात्मानं",
-            "transliteration": "satatamātmānaṃ",
-            "meaning": "satatamātmānaṃ"
+            "transliteration": {
+                "hi": "सततमात्मानं",
+                "en": "satatamātmānaṃ",
+                "be": "সততমাত্মানং",
+                "ka": "ಸತತಮಾತ್ಮಾನಂ"
+            },
+            "meaning": {
+                "hi": "सततात्मनम्",
+                "en": "satatamātmānaṃ",
+                "be": "satatamātmānaṃ",
+                "ka": "ಸತತಮಾತ್ಮನಂ"
+            }
         },
         {
             "sanskrit": "रहसि",
-            "transliteration": "rahasi",
-            "meaning": "rahasi"
+            "transliteration": {
+                "hi": "रहसि",
+                "en": "rahasi",
+                "be": "রহসি",
+                "ka": "ರಹಸಿ"
+            },
+            "meaning": {
+                "hi": "रहसी",
+                "en": "rahasi",
+                "be": "রাহাসি",
+                "ka": "ರಹಸಿ"
+            }
         },
         {
             "sanskrit": "स्थितः",
-            "transliteration": "sthitaḥ",
-            "meaning": "sthitaḥ"
+            "transliteration": {
+                "hi": "स्थितः",
+                "en": "sthitaḥ",
+                "be": "স্থিতঃ",
+                "ka": "ಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "स्थितः",
+                "en": "sthitaḥ",
+                "be": "স্থিতঃ",
+                "ka": "ಸ್ಥಿತಃ"
+            }
         },
         {
             "sanskrit": "एकाकी",
-            "transliteration": "ekākī",
-            "meaning": "ekākī"
+            "transliteration": {
+                "hi": "एकाकी",
+                "en": "ekākī",
+                "be": "একাকী",
+                "ka": "ಏಕಾಕೀ"
+            },
+            "meaning": {
+                "hi": "एकाकी",
+                "en": "ekākī",
+                "be": "ekākī",
+                "ka": "ಏಕಾಕಿ"
+            }
         },
         {
             "sanskrit": "यतचित्तात्मा",
-            "transliteration": "yatacittātmā",
-            "meaning": "yatacittātmā"
+            "transliteration": {
+                "hi": "यतचित्तात्मा",
+                "en": "yatacittātmā",
+                "be": "যতচিত্তাত্মা",
+                "ka": "ಯತಚಿತ್ತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "यतचित्तात्मा",
+                "en": "yatacittātmā",
+                "be": "ইয়াতচিত্তাত্মা",
+                "ka": "ಯಾತಚಿತ್ತಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "निराशीरपरिग्रहः",
-            "transliteration": "nirāśīraparigrahaḥ",
-            "meaning": "nirāśīraparigrahaḥ"
+            "transliteration": {
+                "hi": "निराशीरपरिग्रहः",
+                "en": "nirāśīraparigrahaḥ",
+                "be": "নিরাশীরপরিগ্রহঃ",
+                "ka": "ನಿರಾಶೀರಪರಿಗ್ರಹಃ"
+            },
+            "meaning": {
+                "hi": "निराशिरपरिग्रहः",
+                "en": "nirāśīraparigrahaḥ",
+                "be": "নিরাশিরাপরিগ্রহঃ",
+                "ka": "ನಿರಾಶಿರಪರಿಗ್ರಹಃ"
+            }
         }
     ],
     "tej": {

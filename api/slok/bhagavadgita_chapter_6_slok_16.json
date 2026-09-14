@@ -14,8 +14,18 @@
         "en": "nātyaśnatastu yogo.asti na caikāntamanaśnataḥ .\nna cātisvapnaśīlasya jāgrato naiva cārjuna ||6-16||",
         "ka": "ನಾತ್ಯಶ್ನತಸ್ತು ಯೋಗೋಽಸ್ತಿ ನ ಚೈಕಾನ್ತಮನಶ್ನತಃ |\nನ ಚಾತಿಸ್ವಪ್ನಶೀಲಸ್ಯ ಜಾಗ್ರತೋ ನೈವ ಚಾರ್ಜುನ ||೬-೧೬||"
     },
-    "transliteration": "nātyaśnatastu yogo.asti na caikāntamanaśnataḥ .\nna cātisvapnaśīlasya jāgrato naiva cārjuna ||6-16||",
-    "life_application": "Avoid extremes in eating and sleeping, maintaining healthy balance in all your physical habits today.",
+    "transliteration": {
+        "hi": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः |\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ||६-१६||",
+        "en": "nātyaśnatastu yogo.asti na caikāntamanaśnataḥ .\nna cātisvapnaśīlasya jāgrato naiva cārjuna ||6-16||",
+        "be": "নাত্যশ্নতস্তু যোগোঽস্তি ন চৈকান্তমনশ্নতঃ |\nন চাতিস্বপ্নশীলস্য জাগ্রতো নৈব চার্জুন ||৬-১৬||",
+        "ka": "ನಾತ್ಯಶ್ನತಸ್ತು ಯೋಗೋಽಸ್ತಿ ನ ಚೈಕಾನ್ತಮನಶ್ನತಃ |\nನ ಚಾತಿಸ್ವಪ್ನಶೀಲಸ್ಯ ಜಾಗ್ರತೋ ನೈವ ಚಾರ್ಜುನ ||೬-೧೬||"
+    },
+    "life_application": {
+        "hi": "आज अपनी सभी शारीरिक आदतों में स्वस्थ संतुलन बनाए रखते हुए खाने और सोने में अति से बचें।",
+        "en": "Avoid extremes in eating and sleeping, maintaining healthy balance in all your physical habits today.",
+        "be": "খাওয়া এবং ঘুমের মধ্যে চরমতা এড়িয়ে চলুন, আজ আপনার সমস্ত শারীরিক অভ্যাসের মধ্যে স্বাস্থ্যকর ভারসাম্য বজায় রাখুন।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಎಲ್ಲಾ ದೈಹಿಕ ಅಭ್ಯಾಸಗಳಲ್ಲಿ ಆರೋಗ್ಯಕರ ಸಮತೋಲನವನ್ನು ಕಾಯ್ದುಕೊಳ್ಳಿ, ತಿನ್ನುವುದು ಮತ್ತು ಮಲಗುವುದರಲ್ಲಿ ವಿಪರೀತತೆಯನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Equanimity"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "नात्यश्नतस्तु",
-            "transliteration": "nātyaśnatastu",
-            "meaning": "nātyaśnatastu"
+            "transliteration": {
+                "hi": "नात्यश्नतस्तु",
+                "en": "nātyaśnatastu",
+                "be": "নাত্যশ্নতস্তু",
+                "ka": "ನಾತ್ಯಶ್ನತಸ್ತು"
+            },
+            "meaning": {
+                "hi": "नात्यश्नतस्तु",
+                "en": "nātyaśnatastu",
+                "be": "nātyaśnatastu",
+                "ka": "ನಾಟ್ಯಶ್ನತಸ್ತು"
+            }
         },
         {
             "sanskrit": "योगोऽस्ति",
-            "transliteration": "yogo'sti",
-            "meaning": "yogo'sti"
+            "transliteration": {
+                "hi": "योगोऽस्ति",
+                "en": "yogo'sti",
+                "be": "যোগোঽস্তি",
+                "ka": "ಯೋಗೋಽಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "yogo'sti",
+                "en": "yogo'sti",
+                "be": "yogo'sti",
+                "ka": "ಯೋಗೋ'ಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "चैकान्तमनश्नतः",
-            "transliteration": "caikāntamanaśnataḥ",
-            "meaning": "caikāntamanaśnataḥ"
+            "transliteration": {
+                "hi": "चैकान्तमनश्नतः",
+                "en": "caikāntamanaśnataḥ",
+                "be": "চৈকান্তমনশ্নতঃ",
+                "ka": "ಚೈಕಾನ್ತಮನಶ್ನತಃ"
+            },
+            "meaning": {
+                "hi": "कैकांतमनाश्नतः",
+                "en": "caikāntamanaśnataḥ",
+                "be": "চৈকান্তমানশনাতঃ",
+                "ka": "ಚೈಕಾಂತಮನಸ್ನಾತಃ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "चातिस्वप्नशीलस्य",
-            "transliteration": "cātisvapnaśīlasya",
-            "meaning": "cātisvapnaśīlasya"
+            "transliteration": {
+                "hi": "चातिस्वप्नशीलस्य",
+                "en": "cātisvapnaśīlasya",
+                "be": "চাতিস্বপ্নশীলস্য",
+                "ka": "ಚಾತಿಸ್ವಪ್ನಶೀಲಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "चतिस्वप्नशीलस्य",
+                "en": "cātisvapnaśīlasya",
+                "be": "চাতিস্বপ্নশিলস্য",
+                "ka": "ಚತಿಸ್ವಪ್ನಶಿಲಸ್ಯ"
+            }
         },
         {
             "sanskrit": "जाग्रतो",
-            "transliteration": "jāgrato",
-            "meaning": "jāgrato"
+            "transliteration": {
+                "hi": "जाग्रतो",
+                "en": "jāgrato",
+                "be": "জাগ্রতো",
+                "ka": "ಜಾಗ್ರತೋ"
+            },
+            "meaning": {
+                "hi": "जगरातो",
+                "en": "jāgrato",
+                "be": "জাগ্রতো",
+                "ka": "ಜಾಗ್ರತೋ"
+            }
         },
         {
             "sanskrit": "नैव",
-            "transliteration": "naiva",
-            "meaning": "naiva"
+            "transliteration": {
+                "hi": "नैव",
+                "en": "naiva",
+                "be": "নৈব",
+                "ka": "ನೈವ"
+            },
+            "meaning": {
+                "hi": "नैवा",
+                "en": "naiva",
+                "be": "নাইভা",
+                "ka": "ನೈವಾ"
+            }
         },
         {
             "sanskrit": "चार्जुन",
-            "transliteration": "cārjuna",
-            "meaning": "cārjuna"
+            "transliteration": {
+                "hi": "चार्जुन",
+                "en": "cārjuna",
+                "be": "চার্জুন",
+                "ka": "ಚಾರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "कार्जुन",
+                "en": "cārjuna",
+                "be": "কার্জুন",
+                "ka": "ಕಾರ್ಜುನ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ .\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati ||6-15||",
         "ka": "ಯುಞ್ಜನ್ನೇವಂ ಸದಾತ್ಮಾನಂ ಯೋಗೀ ನಿಯತಮಾನಸಃ |\nಶಾನ್ತಿಂ ನಿರ್ವಾಣಪರಮಾಂ ಮತ್ಸಂಸ್ಥಾಮಧಿಗಚ್ಛತಿ ||೬-೧೫||"
     },
-    "transliteration": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ .\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati ||6-15||",
-    "life_application": "Keep your mind steadily disciplined through regular practice to experience supreme peace and spiritual liberation.",
+    "transliteration": {
+        "hi": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः |\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ||६-१५||",
+        "en": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ .\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati ||6-15||",
+        "be": "যুঞ্জন্নেবং সদাত্মানং যোগী নিযতমানসঃ |\nশান্তিং নির্বাণপরমাং মত্সংস্থামধিগচ্ছতি ||৬-১৫||",
+        "ka": "ಯುಞ್ಜನ್ನೇವಂ ಸದಾತ್ಮಾನಂ ಯೋಗೀ ನಿಯತಮಾನಸಃ |\nಶಾನ್ತಿಂ ನಿರ್ವಾಣಪರಮಾಂ ಮತ್ಸಂಸ್ಥಾಮಧಿಗಚ್ಛತಿ ||೬-೧೫||"
+    },
+    "life_application": {
+        "hi": "सर्वोच्च शांति और आध्यात्मिक मुक्ति का अनुभव करने के लिए नियमित अभ्यास के माध्यम से अपने दिमाग को लगातार अनुशासित रखें।",
+        "en": "Keep your mind steadily disciplined through regular practice to experience supreme peace and spiritual liberation.",
+        "be": "পরম শান্তি এবং আধ্যাত্মিক মুক্তি অনুভব করার জন্য নিয়মিত অনুশীলনের মাধ্যমে আপনার মনকে স্থিরভাবে শৃঙ্খলাবদ্ধ রাখুন।",
+        "ka": "ಸರ್ವೋಚ್ಚ ಶಾಂತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಿಮೋಚನೆಯನ್ನು ಅನುಭವಿಸಲು ನಿಯಮಿತ ಅಭ್ಯಾಸದ ಮೂಲಕ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸ್ಥಿರವಾಗಿ ಶಿಸ್ತುಬದ್ಧವಾಗಿ ಇರಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Equanimity"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "युञ्जन्नेवं",
-            "transliteration": "yuñjannevaṃ",
-            "meaning": "yuñjannevaṃ"
+            "transliteration": {
+                "hi": "युञ्जन्नेवं",
+                "en": "yuñjannevaṃ",
+                "be": "যুঞ্জন্নেবং",
+                "ka": "ಯುಞ್ಜನ್ನೇವಂ"
+            },
+            "meaning": {
+                "hi": "युञ्जन्नेवं",
+                "en": "yuñjannevaṃ",
+                "be": "yuñjannevaṃ",
+                "ka": "yuñjannevaṃ"
+            }
         },
         {
             "sanskrit": "सदात्मानं",
-            "transliteration": "sadātmānaṃ",
-            "meaning": "sadātmānaṃ"
+            "transliteration": {
+                "hi": "सदात्मानं",
+                "en": "sadātmānaṃ",
+                "be": "সদাত্মানং",
+                "ka": "ಸದಾತ್ಮಾನಂ"
+            },
+            "meaning": {
+                "hi": "सदात्मनम्",
+                "en": "sadātmānaṃ",
+                "be": "sadātmanānaṃ",
+                "ka": "ಸದಾತ್ಮಾನಂ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "नियतमानसः",
-            "transliteration": "niyatamānasaḥ",
-            "meaning": "niyatamānasaḥ"
+            "transliteration": {
+                "hi": "नियतमानसः",
+                "en": "niyatamānasaḥ",
+                "be": "নিযতমানসঃ",
+                "ka": "ನಿಯತಮಾನಸಃ"
+            },
+            "meaning": {
+                "hi": "नियतमानसः",
+                "en": "niyatamānasaḥ",
+                "be": "নিয়তমানাসঃ",
+                "ka": "ನಿಯತಮಾನಸಃ"
+            }
         },
         {
             "sanskrit": "शान्तिं",
-            "transliteration": "śāntiṃ",
-            "meaning": "śāntiṃ"
+            "transliteration": {
+                "hi": "शान्तिं",
+                "en": "śāntiṃ",
+                "be": "শান্তিং",
+                "ka": "ಶಾನ್ತಿಂ"
+            },
+            "meaning": {
+                "hi": "शांतिम्",
+                "en": "śāntiṃ",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "निर्वाणपरमां",
-            "transliteration": "nirvāṇaparamāṃ",
-            "meaning": "nirvāṇaparamāṃ"
+            "transliteration": {
+                "hi": "निर्वाणपरमां",
+                "en": "nirvāṇaparamāṃ",
+                "be": "নির্বাণপরমাং",
+                "ka": "ನಿರ್ವಾಣಪರಮಾಂ"
+            },
+            "meaning": {
+                "hi": "निर्वाणपरमन्",
+                "en": "nirvāṇaparamāṃ",
+                "be": "নির্বাণপরমণ",
+                "ka": "ನಿರ್ವಾಣಪರಮಂ"
+            }
         },
         {
             "sanskrit": "मत्संस्थामधिगच्छति",
-            "transliteration": "matsaṃsthāmadhigacchati",
-            "meaning": "matsaṃsthāmadhigacchati"
+            "transliteration": {
+                "hi": "मत्संस्थामधिगच्छति",
+                "en": "matsaṃsthāmadhigacchati",
+                "be": "মত্সংস্থামধিগচ্ছতি",
+                "ka": "ಮತ್ಸಂಸ್ಥಾಮಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "मत्सन्स्थमधिगच्छति",
+                "en": "matsaṃsthāmadhigacchati",
+                "be": "matsaṃsthāmadhigacchati",
+                "ka": "ಮತ್ಸಂಸ್ಥಮಧಿಗಚ್ಛತಿ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ .\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram ||6-11||",
         "ka": "ಶುಚೌ ದೇಶೇ ಪ್ರತಿಷ್ಠಾಪ್ಯ ಸ್ಥಿರಮಾಸನಮಾತ್ಮನಃ |\nನಾತ್ಯುಚ್ಛ್ರಿತಂ ನಾತಿನೀಚಂ ಚೈಲಾಜಿನಕುಶೋತ್ತರಮ್ ||೬-೧೧||"
     },
-    "transliteration": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ .\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram ||6-11||",
-    "life_application": "Arrange a clean, stable, and comfortable meditation seat in a quiet place free from unnecessary distractions.",
+    "transliteration": {
+        "hi": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः |\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ||६-११||",
+        "en": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ .\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram ||6-11||",
+        "be": "শুচৌ দেশে প্রতিষ্ঠাপ্য স্থিরমাসনমাত্মনঃ |\nনাত্যুচ্ছ্রিতং নাতিনীচং চৈলাজিনকুশোত্তরম্ ||৬-১১||",
+        "ka": "ಶುಚೌ ದೇಶೇ ಪ್ರತಿಷ್ಠಾಪ್ಯ ಸ್ಥಿರಮಾಸನಮಾತ್ಮನಃ |\nನಾತ್ಯುಚ್ಛ್ರಿತಂ ನಾತಿನೀಚಂ ಚೈಲಾಜಿನಕುಶೋತ್ತರಮ್ ||೬-೧೧||"
+    },
+    "life_application": {
+        "hi": "अनावश्यक विकर्षणों से मुक्त एक शांत स्थान पर स्वच्छ, स्थिर और आरामदायक ध्यान आसन की व्यवस्था करें।",
+        "en": "Arrange a clean, stable, and comfortable meditation seat in a quiet place free from unnecessary distractions.",
+        "be": "অপ্রয়োজনীয় বিভ্রান্তি থেকে মুক্ত একটি শান্ত জায়গায় একটি পরিষ্কার, স্থিতিশীল এবং আরামদায়ক ধ্যানের আসনের ব্যবস্থা করুন।",
+        "ka": "ಅನಗತ್ಯ ಗೊಂದಲಗಳಿಂದ ಮುಕ್ತವಾದ ಶಾಂತ ಸ್ಥಳದಲ್ಲಿ ಸ್ವಚ್ಛ, ಸ್ಥಿರ ಮತ್ತು ಆರಾಮದಾಯಕ ಧ್ಯಾನ ಆಸನವನ್ನು ವ್ಯವಸ್ಥೆ ಮಾಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Purpose"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "शुचौ",
-            "transliteration": "śucau",
-            "meaning": "śucau"
+            "transliteration": {
+                "hi": "शुचौ",
+                "en": "śucau",
+                "be": "শুচৌ",
+                "ka": "ಶುಚೌ"
+            },
+            "meaning": {
+                "hi": "शुकाउ",
+                "en": "śucau",
+                "be": "শুকাউ",
+                "ka": "ಶುಕೌ"
+            }
         },
         {
             "sanskrit": "देशे",
-            "transliteration": "deśe",
-            "meaning": "deśe"
+            "transliteration": {
+                "hi": "देशे",
+                "en": "deśe",
+                "be": "দেশে",
+                "ka": "ದೇಶೇ"
+            },
+            "meaning": {
+                "hi": "देस",
+                "en": "deśe",
+                "be": "deśe",
+                "ka": "ದೇಶ"
+            }
         },
         {
             "sanskrit": "प्रतिष्ठाप्य",
-            "transliteration": "pratiṣṭhāpya",
-            "meaning": "pratiṣṭhāpya"
+            "transliteration": {
+                "hi": "प्रतिष्ठाप्य",
+                "en": "pratiṣṭhāpya",
+                "be": "প্রতিষ্ঠাপ্য",
+                "ka": "ಪ್ರತಿಷ್ಠಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्रतिष्ठाप्य",
+                "en": "pratiṣṭhāpya",
+                "be": "প্রতিষ্টাপ্যা",
+                "ka": "ಪ್ರತಿಷ್ಠಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "स्थिरमासनमात्मनः",
-            "transliteration": "sthiramāsanamātmanaḥ",
-            "meaning": "sthiramāsanamātmanaḥ"
+            "transliteration": {
+                "hi": "स्थिरमासनमात्मनः",
+                "en": "sthiramāsanamātmanaḥ",
+                "be": "স্থিরমাসনমাত্মনঃ",
+                "ka": "ಸ್ಥಿರಮಾಸನಮಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "स्थिरमासनामात्मनः",
+                "en": "sthiramāsanamātmanaḥ",
+                "be": "স্থিরমাসনমাত্মানঃ",
+                "ka": "ಸ್ಥಿರಮಾಸನಮಾತ್ಮನಃ"
+            }
         },
         {
             "sanskrit": "नात्युच्छ्रितं",
-            "transliteration": "nātyucchritaṃ",
-            "meaning": "nātyucchritaṃ"
+            "transliteration": {
+                "hi": "नात्युच्छ्रितं",
+                "en": "nātyucchritaṃ",
+                "be": "নাত্যুচ্ছ্রিতং",
+                "ka": "ನಾತ್ಯುಚ್ಛ್ರಿತಂ"
+            },
+            "meaning": {
+                "hi": "नात्युच्छ्रिताम्",
+                "en": "nātyucchritaṃ",
+                "be": "nātyucchritaṃ",
+                "ka": "ನಾಟ್ಯುಚ್ಛೃತಂ"
+            }
         },
         {
             "sanskrit": "नातिनीचं",
-            "transliteration": "nātinīcaṃ",
-            "meaning": "nātinīcaṃ"
+            "transliteration": {
+                "hi": "नातिनीचं",
+                "en": "nātinīcaṃ",
+                "be": "নাতিনীচং",
+                "ka": "ನಾತಿನೀಚಂ"
+            },
+            "meaning": {
+                "hi": "नातिनिकं",
+                "en": "nātinīcaṃ",
+                "be": "নাতিনিচন",
+                "ka": "ನಾಟಿನಿಕಂ"
+            }
         },
         {
             "sanskrit": "चैलाजिनकुशोत्तरम्",
-            "transliteration": "cailājinakuśottaram",
-            "meaning": "cailājinakuśottaram"
+            "transliteration": {
+                "hi": "चैलाजिनकुशोत्तरम्",
+                "en": "cailājinakuśottaram",
+                "be": "চৈলাজিনকুশোত্তরম্",
+                "ka": "ಚೈಲಾಜಿನಕುಶೋತ್ತರಮ್"
+            },
+            "meaning": {
+                "hi": "कैलाजिनकुशोत्तारम्",
+                "en": "cailājinakuśottaram",
+                "be": "cailājinakusottaram",
+                "ka": "ಕೈಲಾಜಿನಕುಶೋತ್ತರಂ"
+            }
         }
     ],
     "tej": {

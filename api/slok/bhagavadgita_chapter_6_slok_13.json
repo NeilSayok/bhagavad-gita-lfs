@@ -14,8 +14,18 @@
         "en": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ .\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan ||6-13||",
         "ka": "ಸಮಂ ಕಾಯಶಿರೋಗ್ರೀವಂ ಧಾರಯನ್ನಚಲಂ ಸ್ಥಿರಃ |\nಸಮ್ಪ್ರೇಕ್ಷ್ಯ ನಾಸಿಕಾಗ್ರಂ ಸ್ವಂ ದಿಶಶ್ಚಾನವಲೋಕಯನ್ ||೬-೧೩||"
     },
-    "transliteration": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ .\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan ||6-13||",
-    "life_application": "Hold your body, neck, and head erect and still, focusing your gaze inward to settle your wandering attention.",
+    "transliteration": {
+        "hi": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः |\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ||६-१३||",
+        "en": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ .\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan ||6-13||",
+        "be": "সমং কাযশিরোগ্রীবং ধারযন্নচলং স্থিরঃ |\nসম্প্রেক্ষ্য নাসিকাগ্রং স্বং দিশশ্চানবলোকযন্ ||৬-১৩||",
+        "ka": "ಸಮಂ ಕಾಯಶಿರೋಗ್ರೀವಂ ಧಾರಯನ್ನಚಲಂ ಸ್ಥಿರಃ |\nಸಮ್ಪ್ರೇಕ್ಷ್ಯ ನಾಸಿಕಾಗ್ರಂ ಸ್ವಂ ದಿಶಶ್ಚಾನವಲೋಕಯನ್ ||೬-೧೩||"
+    },
+    "life_application": {
+        "hi": "अपने भटकते ध्यान को व्यवस्थित करने के लिए अपने शरीर, गर्दन और सिर को सीधा और स्थिर रखें, अपनी निगाहों को अंदर की ओर केंद्रित करें।",
+        "en": "Hold your body, neck, and head erect and still, focusing your gaze inward to settle your wandering attention.",
+        "be": "আপনার শরীর, ঘাড় এবং মাথা খাড়া এবং স্থির রাখুন, আপনার বিচরণ মনোযোগ স্থির করার জন্য আপনার দৃষ্টিকে ভিতরের দিকে ফোকাস করুন।",
+        "ka": "ನಿಮ್ಮ ದೇಹ, ಕುತ್ತಿಗೆ ಮತ್ತು ತಲೆಯನ್ನು ನೇರವಾಗಿ ಮತ್ತು ಸ್ಥಿರವಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ, ನಿಮ್ಮ ಅಲೆದಾಡುವ ಗಮನವನ್ನು ಇತ್ಯರ್ಥಗೊಳಿಸಲು ನಿಮ್ಮ ನೋಟವನ್ನು ಒಳಮುಖವಾಗಿ ಕೇಂದ್ರೀಕರಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "समं",
-            "transliteration": "samaṃ",
-            "meaning": "samaṃ"
+            "transliteration": {
+                "hi": "समं",
+                "en": "samaṃ",
+                "be": "সমং",
+                "ka": "ಸಮಂ"
+            },
+            "meaning": {
+                "hi": "समं",
+                "en": "samaṃ",
+                "be": "সমাং",
+                "ka": "ಸಮಂ"
+            }
         },
         {
             "sanskrit": "कायशिरोग्रीवं",
-            "transliteration": "kāyaśirogrīvaṃ",
-            "meaning": "kāyaśirogrīvaṃ"
+            "transliteration": {
+                "hi": "कायशिरोग्रीवं",
+                "en": "kāyaśirogrīvaṃ",
+                "be": "কাযশিরোগ্রীবং",
+                "ka": "ಕಾಯಶಿರೋಗ್ರೀವಂ"
+            },
+            "meaning": {
+                "hi": "कायशिरोग्रीवम्",
+                "en": "kāyaśirogrīvaṃ",
+                "be": "কায়াশিরোগ্রীবং",
+                "ka": "ಕಾಯಶಿರೋಗ್ರೀವಂ"
+            }
         },
         {
             "sanskrit": "धारयन्नचलं",
-            "transliteration": "dhārayannacalaṃ",
-            "meaning": "dhārayannacalaṃ"
+            "transliteration": {
+                "hi": "धारयन्नचलं",
+                "en": "dhārayannacalaṃ",
+                "be": "ধারযন্নচলং",
+                "ka": "ಧಾರಯನ್ನಚಲಂ"
+            },
+            "meaning": {
+                "hi": "धारयन्नचलं",
+                "en": "dhārayannacalaṃ",
+                "be": "ধারায়ন্নচলন",
+                "ka": "ಧಾರಯನ್ನಚಲಂ"
+            }
         },
         {
             "sanskrit": "स्थिरः",
-            "transliteration": "sthiraḥ",
-            "meaning": "sthiraḥ"
+            "transliteration": {
+                "hi": "स्थिरः",
+                "en": "sthiraḥ",
+                "be": "স্থিরঃ",
+                "ka": "ಸ್ಥಿರಃ"
+            },
+            "meaning": {
+                "hi": "स्थिरः",
+                "en": "sthiraḥ",
+                "be": "স্থিরঃ",
+                "ka": "ಸ್ಥಿರಃ"
+            }
         },
         {
             "sanskrit": "सम्प्रेक्ष्य",
-            "transliteration": "samprekṣya",
-            "meaning": "samprekṣya"
+            "transliteration": {
+                "hi": "सम्प्रेक्ष्य",
+                "en": "samprekṣya",
+                "be": "সম্প্রেক্ষ্য",
+                "ka": "ಸಮ್ಪ್ರೇಕ್ಷ್ಯ"
+            },
+            "meaning": {
+                "hi": "सम्प्रेक्ष्य",
+                "en": "samprekṣya",
+                "be": "samprekṣya",
+                "ka": "ಸಂಪ್ರೇಕ್ಷ್ಯ"
+            }
         },
         {
             "sanskrit": "नासिकाग्रं",
-            "transliteration": "nāsikāgraṃ",
-            "meaning": "nāsikāgraṃ"
+            "transliteration": {
+                "hi": "नासिकाग्रं",
+                "en": "nāsikāgraṃ",
+                "be": "নাসিকাগ্রং",
+                "ka": "ನಾಸಿಕಾಗ್ರಂ"
+            },
+            "meaning": {
+                "hi": "नासिकाग्राम",
+                "en": "nāsikāgraṃ",
+                "be": "nāsikāgraṃ",
+                "ka": "ನಾಸಿಕಾಗ್ರಂ"
+            }
         },
         {
             "sanskrit": "स्वं",
-            "transliteration": "svaṃ",
-            "meaning": "svaṃ"
+            "transliteration": {
+                "hi": "स्वं",
+                "en": "svaṃ",
+                "be": "স্বং",
+                "ka": "ಸ್ವಂ"
+            },
+            "meaning": {
+                "hi": "स्वं",
+                "en": "svaṃ",
+                "be": "svaṃ",
+                "ka": "ಸ್ವಾಂ"
+            }
         },
         {
             "sanskrit": "दिशश्चानवलोकयन्",
-            "transliteration": "diśaścānavalokayan",
-            "meaning": "diśaścānavalokayan"
+            "transliteration": {
+                "hi": "दिशश्चानवलोकयन्",
+                "en": "diśaścānavalokayan",
+                "be": "দিশশ্চানবলোকযন্",
+                "ka": "ದಿಶಶ್ಚಾನವಲೋಕಯನ್"
+            },
+            "meaning": {
+                "hi": "दिशाश्चानवलोकायन",
+                "en": "diśaścānavalokayan",
+                "be": "diśaścānavalokayan",
+                "ka": "ದಿಶಾಶ್ಚಾನವಲೋಕಯನ್"
+            }
         }
     ],
     "tej": {

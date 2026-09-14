@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Akshara Brahma Yoga"
+    "translation": {
+      "hi": "अक्षर ब्रह्म योग",
+      "en": "Akshara Brahma Yoga",
+      "be": "অক্ষর ব্রহ্ম যোগ",
+      "ka": "ಅಕ್ಷರ ಬ್ರಹ್ಮ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG8.1",
         "img_landscape": "sloks/{size}/chapter_8/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_1/square/img.png",
-        "transliteration": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||"
+        "transliteration": {
+          "hi": "अर्जुन उवाच |\nकिं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम |\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ||८-१||",
+          "en": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||",
+          "be": "অর্জুন উবাচ |\nকিং তদ্ ব্রহ্ম কিমধ্যাত্মং কিং কর্ম পুরুষোত্তম |\nঅধিভূতং চ কিং প্রোক্তমধিদৈবং কিমুচ্যতে ||৮-১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕಿಂ ತದ್ ಬ್ರಹ್ಮ ಕಿಮಧ್ಯಾತ್ಮಂ ಕಿಂ ಕರ್ಮ ಪುರುಷೋತ್ತಮ |\nಅಧಿಭೂತಂ ಚ ಕಿಂ ಪ್ರೋಕ್ತಮಧಿದೈವಂ ಕಿಮುಚ್ಯತೇ ||೮-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अर्जुन उवाच |\nकिं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम |\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ||८-१||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अर्जुन उवाच |\nकिं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम |\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ||८-१||",
+          "en": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||",
+          "be": "অর্জুন উবাচ |\nকিং তদ্ ব্রহ্ম কিমধ্যাত্মং কিং কর্ম পুরুষোত্তম |\nঅধিভূতং চ কিং প্রোক্তমধিদৈবং কিমুচ্যতে ||৮-১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕಿಂ ತದ್ ಬ್ರಹ್ಮ ಕಿಮಧ್ಯಾತ್ಮಂ ಕಿಂ ಕರ್ಮ ಪುರುಷೋತ್ತಮ |\nಅಧಿಭೂತಂ ಚ ಕಿಂ ಪ್ರೋಕ್ತಮಧಿದೈವಂ ಕಿಮುಚ್ಯತೇ ||೮-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Inquire earnestly about Brahman, the Self, action, material realm, divine realm, and the Lord of sacrifice."
+        "life_application": {
+          "hi": "ब्रह्म, आत्मा, कर्म, भौतिक क्षेत्र, दिव्य क्षेत्र और यज्ञ के भगवान के बारे में ईमानदारी से पूछताछ करें।",
+          "en": "Inquire earnestly about Brahman, the Self, action, material realm, divine realm, and the Lord of sacrifice.",
+          "be": "ব্রহ্ম, আত্মা, কর্ম, জড় জগতে, ঐশ্বরিক রাজ্য এবং ত্যাগের প্রভু সম্পর্কে আন্তরিকভাবে অনুসন্ধান করুন।",
+          "ka": "ಬ್ರಹ್ಮ, ಆತ್ಮ, ಕ್ರಿಯೆ, ಭೌತಿಕ ಕ್ಷೇತ್ರ, ದೈವಿಕ ಕ್ಷೇತ್ರ ಮತ್ತು ತ್ಯಾಗದ ಭಗವಂತನ ಬಗ್ಗೆ ಶ್ರದ್ಧೆಯಿಂದ ವಿಚಾರಿಸಿ."
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG8.2",
         "img_landscape": "sloks/{size}/chapter_8/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_2/square/img.png",
-        "transliteration": "adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .\nprayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||"
+        "transliteration": {
+          "hi": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन |\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ||८-२||",
+          "en": "adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .\nprayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||",
+          "be": "অধিযজ্ঞঃ কথং কোঽত্র দেহেঽস্মিন্মধুসূদন |\nপ্রযাণকালে চ কথং জ্ঞেযোঽসি নিযতাত্মভিঃ ||৮-২||",
+          "ka": "ಅಧಿಯಜ್ಞಃ ಕಥಂ ಕೋಽತ್ರ ದೇಹೇಽಸ್ಮಿನ್ಮಧುಸೂದನ |\nಪ್ರಯಾಣಕಾಲೇ ಚ ಕಥಂ ಜ್ಞೇಯೋಽಸಿ ನಿಯತಾತ್ಮಭಿಃ ||೮-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन |\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ||८-२||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन |\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ||८-२||",
+          "en": "adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .\nprayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||",
+          "be": "অধিযজ্ঞঃ কথং কোঽত্র দেহেঽস্মিন্মধুসূদন |\nপ্রযাণকালে চ কথং জ্ঞেযোঽসি নিযতাত্মভিঃ ||৮-২||",
+          "ka": "ಅಧಿಯಜ್ಞಃ ಕಥಂ ಕೋಽತ್ರ ದೇಹೇಽಸ್ಮಿನ್ಮಧುಸೂದನ |\nಪ್ರಯಾಣಕಾಲೇ ಚ ಕಥಂ ಜ್ಞೇಯೋಽಸಿ ನಿಯತಾತ್ಮಭಿಃ ||೮-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Ask how the supreme Lord resides in the body and how a self-controlled person remembers Him at death."
+        "life_application": {
+          "hi": "पूछें कि परम भगवान शरीर में कैसे रहते हैं और एक संयमी व्यक्ति मृत्यु के समय उन्हें कैसे याद करता है।",
+          "en": "Ask how the supreme Lord resides in the body and how a self-controlled person remembers Him at death.",
+          "be": "জিজ্ঞাসা করুন কিভাবে পরমেশ্বর ভগবান দেহে থাকেন এবং কীভাবে একজন আত্মনিয়ন্ত্রিত ব্যক্তি মৃত্যুকালে তাঁকে স্মরণ করেন।",
+          "ka": "ಪರಮಾತ್ಮನು ದೇಹದಲ್ಲಿ ಹೇಗೆ ನೆಲೆಸಿದ್ದಾನೆ ಮತ್ತು ಸ್ವಯಂ ನಿಯಂತ್ರಿತ ವ್ಯಕ್ತಿಯು ಸಾವಿನ ಸಮಯದಲ್ಲಿ ಅವನನ್ನು ಹೇಗೆ ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾನೆ ಎಂದು ಕೇಳಿ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG8.3",
         "img_landscape": "sloks/{size}/chapter_8/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_3/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ||८-३||",
+          "en": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||",
+          "be": "শ্রীভগবানুবাচ |\nঅক্ষরং ব্রহ্ম পরমং স্বভাবোঽধ্যাত্মমুচ্যতে |\nভূতভাবোদ্ভবকরো বিসর্গঃ কর্মসংজ্ঞিতঃ ||৮-৩||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಕ್ಷರಂ ಬ್ರಹ್ಮ ಪರಮಂ ಸ್ವಭಾವೋಽಧ್ಯಾತ್ಮಮುಚ್ಯತೇ |\nಭೂತಭಾವೋದ್ಭವಕರೋ ವಿಸರ್ಗಃ ಕರ್ಮಸಂಜ್ಞಿತಃ ||೮-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ||८-३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ||८-३||",
+          "en": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||",
+          "be": "শ্রীভগবানুবাচ |\nঅক্ষরং ব্রহ্ম পরমং স্বভাবোঽধ্যাত্মমুচ্যতে |\nভূতভাবোদ্ভবকরো বিসর্গঃ কর্মসংজ্ঞিতঃ ||৮-৩||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಕ್ಷರಂ ಬ್ರಹ್ಮ ಪರಮಂ ಸ್ವಭಾವೋಽಧ್ಯಾತ್ಮಮುಚ್ಯತೇ |\nಭೂತಭಾವೋದ್ಭವಕರೋ ವಿಸರ್ಗಃ ಕರ್ಮಸಂಜ್ಞಿತಃ ||೮-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know Brahman as the supreme imperishable entity, the Self as innate nature, and action as the creative force of life."
+        "life_application": {
+          "hi": "ब्रह्म को सर्वोच्च अविनाशी इकाई के रूप में, आत्मा को सहज प्रकृति के रूप में और क्रिया को जीवन की रचनात्मक शक्ति के रूप में जानें।",
+          "en": "Know Brahman as the supreme imperishable entity, the Self as innate nature, and action as the creative force of life.",
+          "be": "ব্রহ্মকে পরম অবিনশ্বর সত্তা, আত্মকে সহজাত প্রকৃতি এবং কর্মকে জীবনের সৃজনশীল শক্তি হিসাবে জানুন।",
+          "ka": "ಬ್ರಹ್ಮವನ್ನು ಸರ್ವೋನ್ನತ ಅವಿನಾಶಿ ಘಟಕವೆಂದು ತಿಳಿಯಿರಿ, ಆತ್ಮವನ್ನು ಸಹಜ ಸ್ವಭಾವವೆಂದು ಮತ್ತು ಕ್ರಿಯೆಯನ್ನು ಜೀವನದ ಸೃಜನಶೀಲ ಶಕ್ತಿ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG8.4",
         "img_landscape": "sloks/{size}/chapter_8/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_4/square/img.png",
-        "transliteration": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||"
+        "transliteration": {
+          "hi": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् |\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||",
+          "en": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||",
+          "be": "অধিভূতং ক্ষরো ভাবঃ পুরুষশ্চাধিদৈবতম্ |\nঅধিযজ্ঞোঽহমেবাত্র দেহে দেহভৃতাং বর ||৮-৪||",
+          "ka": "ಅಧಿಭೂತಂ ಕ್ಷರೋ ಭಾವಃ ಪುರುಷಶ್ಚಾಧಿದೈವತಮ್ |\nಅಧಿಯಜ್ಞೋಽಹಮೇವಾತ್ರ ದೇಹೇ ದೇಹಭೃತಾಂ ವರ ||೮-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् |\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् |\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||",
+          "en": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||",
+          "be": "অধিভূতং ক্ষরো ভাবঃ পুরুষশ্চাধিদৈবতম্ |\nঅধিযজ্ঞোঽহমেবাত্র দেহে দেহভৃতাং বর ||৮-৪||",
+          "ka": "ಅಧಿಭೂತಂ ಕ್ಷರೋ ಭಾವಃ ಪುರುಷಶ್ಚಾಧಿದೈವತಮ್ |\nಅಧಿಯಜ್ಞೋಽಹಮೇವಾತ್ರ ದೇಹೇ ದೇಹಭೃತಾಂ ವರ ||೮-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize physical nature as perishable, the divine person as cosmic spirit, and God as the inner sacrifice in the body."
+        "life_application": {
+          "hi": "भौतिक प्रकृति को नाशवान के रूप में, दिव्य व्यक्ति को ब्रह्मांडीय आत्मा के रूप में, और ईश्वर को शरीर में आंतरिक बलिदान के रूप में पहचानें।",
+          "en": "Recognize physical nature as perishable, the divine person as cosmic spirit, and God as the inner sacrifice in the body.",
+          "be": "দৈহিক প্রকৃতিকে পচনশীল, ঐশ্বরিক ব্যক্তিকে মহাজাগতিক আত্মা হিসাবে এবং ঈশ্বরকে দেহের অভ্যন্তরীণ বলি হিসাবে স্বীকৃতি দিন।",
+          "ka": "ಭೌತಿಕ ಪ್ರಕೃತಿಯನ್ನು ನಾಶವಾಗುವಂತೆ, ದೈವಿಕ ವ್ಯಕ್ತಿಯನ್ನು ಕಾಸ್ಮಿಕ್ ಚೈತನ್ಯವೆಂದು ಮತ್ತು ದೇವರನ್ನು ದೇಹದಲ್ಲಿನ ಆಂತರಿಕ ತ್ಯಾಗವೆಂದು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG8.5",
         "img_landscape": "sloks/{size}/chapter_8/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_5/square/img.png",
-        "transliteration": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||"
+        "transliteration": {
+          "hi": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||",
+          "en": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||",
+          "be": "অন্তকালে চ মামেব স্মরন্মুক্ত্বা কলেবরম্ |\nযঃ প্রযাতি স মদ্ভাবং যাতি নাস্ত্যত্র সংশযঃ ||৮-৫||",
+          "ka": "ಅನ್ತಕಾಲೇ ಚ ಮಾಮೇವ ಸ್ಮರನ್ಮುಕ್ತ್ವಾ ಕಲೇವರಮ್ |\nಯಃ ಪ್ರಯಾತಿ ಸ ಮದ್ಭಾವಂ ಯಾತಿ ನಾಸ್ತ್ಯತ್ರ ಸಂಶಯಃ ||೮-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||",
+          "en": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||",
+          "be": "অন্তকালে চ মামেব স্মরন্মুক্ত্বা কলেবরম্ |\nযঃ প্রযাতি স মদ্ভাবং যাতি নাস্ত্যত্র সংশযঃ ||৮-৫||",
+          "ka": "ಅನ್ತಕಾಲೇ ಚ ಮಾಮೇವ ಸ್ಮರನ್ಮುಕ್ತ್ವಾ ಕಲೇವರಮ್ |\nಯಃ ಪ್ರಯಾತಿ ಸ ಮದ್ಭಾವಂ ಯಾತಿ ನಾಸ್ತ್ಯತ್ರ ಸಂಶಯಃ ||೮-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Remember God at the time of leaving your body to attain the divine state without any doubt."
+        "life_application": {
+          "hi": "बिना किसी संदेह के दिव्य अवस्था प्राप्त करने के लिए अपने शरीर को छोड़ते समय भगवान को याद करें।",
+          "en": "Remember God at the time of leaving your body to attain the divine state without any doubt.",
+          "be": "নিঃসন্দেহে ঐশ্বরিক অবস্থা লাভের জন্য শরীর ত্যাগ করার সময় ঈশ্বরকে স্মরণ করুন।",
+          "ka": "ಯಾವುದೇ ಸಂದೇಹವಿಲ್ಲದೆ ದೈವಿಕ ಸ್ಥಿತಿಯನ್ನು ಪಡೆಯಲು ನಿಮ್ಮ ದೇಹವನ್ನು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ದೇವರನ್ನು ಸ್ಮರಿಸಿ."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG8.6",
         "img_landscape": "sloks/{size}/chapter_8/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_6/square/img.png",
-        "transliteration": "yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram .\ntaṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ ||8-6||"
+        "transliteration": {
+          "hi": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |\nतं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||",
+          "en": "yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram .\ntaṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ ||8-6||",
+          "be": "যং যং বাপি স্মরন্ভাবং ত্যজত্যন্তে কলেবরম্ |\nতং তমেবৈতি কৌন্তেয সদা তদ্ভাবভাবিতঃ ||৮-৬||",
+          "ka": "ಯಂ ಯಂ ವಾಪಿ ಸ್ಮರನ್ಭಾವಂ ತ್ಯಜತ್ಯನ್ತೇ ಕಲೇವರಮ್ |\nತಂ ತಮೇವೈತಿ ಕೌನ್ತೇಯ ಸದಾ ತದ್ಭಾವಭಾವಿತಃ ||೮-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |\nतं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |\nतं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||",
+          "en": "yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram .\ntaṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ ||8-6||",
+          "be": "যং যং বাপি স্মরন্ভাবং ত্যজত্যন্তে কলেবরম্ |\nতং তমেবৈতি কৌন্তেয সদা তদ্ভাবভাবিতঃ ||৮-৬||",
+          "ka": "ಯಂ ಯಂ ವಾಪಿ ಸ್ಮರನ್ಭಾವಂ ತ್ಯಜತ್ಯನ್ತೇ ಕಲೇವರಮ್ |\nತಂ ತಮೇವೈತಿ ಕೌನ್ತೇಯ ಸದಾ ತದ್ಭಾವಭಾವಿತಃ ||೮-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Be mindful of your daily thoughts, for whatever state of being you remember at death determines your next state."
+        "life_application": {
+          "hi": "अपने दैनिक विचारों के प्रति सचेत रहें, क्योंकि मृत्यु के समय आप जो भी अवस्था याद करते हैं वही आपकी अगली अवस्था निर्धारित करती है।",
+          "en": "Be mindful of your daily thoughts, for whatever state of being you remember at death determines your next state.",
+          "be": "আপনার দৈনন্দিন চিন্তাভাবনা সম্পর্কে সচেতন থাকুন, কারণ মৃত্যুতে আপনি যে অবস্থার কথা মনে রাখবেন তা আপনার পরবর্তী অবস্থা নির্ধারণ করে।",
+          "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಆಲೋಚನೆಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ, ಏಕೆಂದರೆ ಸಾವಿನ ಸಮಯದಲ್ಲಿ ನೀವು ನೆನಪಿಸಿಕೊಳ್ಳುವ ಯಾವುದೇ ಸ್ಥಿತಿಯು ನಿಮ್ಮ ಮುಂದಿನ ಸ್ಥಿತಿಯನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG8.7",
         "img_landscape": "sloks/{size}/chapter_8/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_7/square/img.png",
-        "transliteration": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca .\nmayyarpitamanobuddhirmāmevaiṣyasyasaṃśayaḥ ||8-7||"
+        "transliteration": {
+          "hi": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च |\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः (orसंशयम्) ||८-७||",
+          "en": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca .\nmayyarpitamanobuddhirmāmevaiṣyasyasaṃśayaḥ ||8-7||",
+          "be": "তস্মাত্সর্বেষু কালেষু মামনুস্মর যুধ্য চ |\nময্যর্পিতমনোবুদ্ধির্মামেবৈষ্যস্যসংশযঃ (orসংশযম্) ||৮-৭||",
+          "ka": "ತಸ್ಮಾತ್ಸರ್ವೇಷು ಕಾಲೇಷು ಮಾಮನುಸ್ಮರ ಯುಧ್ಯ ಚ |\nಮಯ್ಯರ್ಪಿತಮನೋಬುದ್ಧಿರ್ಮಾಮೇವೈಷ್ಯಸ್ಯಸಂಶಯಃ (orಸಂಶಯಮ್) ||೮-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च |\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः (orसंशयम्) ||८-७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च |\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः (orसंशयम्) ||८-७||",
+          "en": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca .\nmayyarpitamanobuddhirmāmevaiṣyasyasaṃśayaḥ ||8-7||",
+          "be": "তস্মাত্সর্বেষু কালেষু মামনুস্মর যুধ্য চ |\nময্যর্পিতমনোবুদ্ধির্মামেবৈষ্যস্যসংশযঃ (orসংশযম্) ||৮-৭||",
+          "ka": "ತಸ್ಮಾತ್ಸರ್ವೇಷು ಕಾಲೇಷು ಮಾಮನುಸ್ಮರ ಯುಧ್ಯ ಚ |\nಮಯ್ಯರ್ಪಿತಮನೋಬುದ್ಧಿರ್ಮಾಮೇವೈಷ್ಯಸ್ಯಸಂಶಯಃ (orಸಂಶಯಮ್) ||೮-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Remember God constantly at all times while performing your duty; with mind and intellect dedicated, you will reach Him."
+        "life_application": {
+          "hi": "अपना कर्तव्य निभाते समय हर समय भगवान को याद रखें; समर्पित मन और बुद्धि से तुम उस तक पहुँच जाओगे।",
+          "en": "Remember God constantly at all times while performing your duty; with mind and intellect dedicated, you will reach Him.",
+          "be": "আপনার কর্তব্য পালনের সময় সর্বদা ঈশ্বরকে স্মরণ করুন; মন ও বুদ্ধি নিবেদিত করে, আপনি তাঁর কাছে পৌঁছাবেন।",
+          "ka": "ನಿಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ನಿರಂತರವಾಗಿ ದೇವರನ್ನು ಸ್ಮರಿಸಿ; ಮನಸ್ಸು ಮತ್ತು ಬುದ್ಧಿಯನ್ನು ಸಮರ್ಪಿತವಾಗಿ, ನೀವು ಅವನನ್ನು ತಲುಪುತ್ತೀರಿ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG8.8",
         "img_landscape": "sloks/{size}/chapter_8/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_8/square/img.png",
-        "transliteration": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||"
+        "transliteration": {
+          "hi": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना |\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ||८-८||",
+          "en": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||",
+          "be": "অভ্যাসযোগযুক্তেন চেতসা নান্যগামিনা |\nপরমং পুরুষং দিব্যং যাতি পার্থানুচিন্তযন্ ||৮-৮||",
+          "ka": "ಅಭ್ಯಾಸಯೋಗಯುಕ್ತೇನ ಚೇತಸಾ ನಾನ್ಯಗಾಮಿನಾ |\nಪರಮಂ ಪುರುಷಂ ದಿವ್ಯಂ ಯಾತಿ ಪಾರ್ಥಾನುಚಿನ್ತಯನ್ ||೮-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना |\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ||८-८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना |\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ||८-८||",
+          "en": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||",
+          "be": "অভ্যাসযোগযুক্তেন চেতসা নান্যগামিনা |\nপরমং পুরুষং দিব্যং যাতি পার্থানুচিন্তযন্ ||৮-৮||",
+          "ka": "ಅಭ್ಯಾಸಯೋಗಯುಕ್ತೇನ ಚೇತಸಾ ನಾನ್ಯಗಾಮಿನಾ |\nಪರಮಂ ಪುರುಷಂ ದಿವ್ಯಂ ಯಾತಿ ಪಾರ್ಥಾನುಚಿನ್ತಯನ್ ||೮-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Train your mind through daily practice not to wander, meditating constantly on the supreme divine person."
+        "life_application": {
+          "hi": "दैनिक अभ्यास के माध्यम से अपने मन को प्रशिक्षित करें कि वह भटके नहीं, निरंतर सर्वोच्च दिव्य व्यक्ति का ध्यान करें।",
+          "en": "Train your mind through daily practice not to wander, meditating constantly on the supreme divine person.",
+          "be": "প্রতিদিনের অভ্যাসের মাধ্যমে আপনার মনকে প্রশিক্ষিত করুন যাতে বিচরণ না করা, সর্বদা পরম ঐশ্বরিক ব্যক্তির ধ্যান করা।",
+          "ka": "ಅಲೆದಾಡದಂತೆ ದೈನಂದಿನ ಅಭ್ಯಾಸದ ಮೂಲಕ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ತರಬೇತಿ ಮಾಡಿ, ಪರಮ ದೈವಿಕ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ನಿರಂತರವಾಗಿ ಧ್ಯಾನ ಮಾಡಿ."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG8.9",
         "img_landscape": "sloks/{size}/chapter_8/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_9/square/img.png",
-        "transliteration": "kaviṃ purāṇamanuśāsitāraṃ aṇoraṇīyaṃsamanusmaredyaḥ .\nsarvasya dhātāramacintyarūpaṃ ādityavarṇaṃ tamasaḥ parastāt ||8-9||"
+        "transliteration": {
+          "hi": "कविं पुराणमनुशासितार-\nमणोरणीयंसमनुस्मरेद्यः |\nसर्वस्य धातारमचिन्त्यरूप-\nमादित्यवर्णं तमसः परस्तात् ||८-९||",
+          "en": "kaviṃ purāṇamanuśāsitāraṃ aṇoraṇīyaṃsamanusmaredyaḥ .\nsarvasya dhātāramacintyarūpaṃ ādityavarṇaṃ tamasaḥ parastāt ||8-9||",
+          "be": "কবিং পুরাণমনুশাসিতার-\nমণোরণীযংসমনুস্মরেদ্যঃ |\nসর্বস্য ধাতারমচিন্ত্যরূপ-\nমাদিত্যবর্ণং তমসঃ পরস্তাত্ ||৮-৯||",
+          "ka": "ಕವಿಂ ಪುರಾಣಮನುಶಾಸಿತಾರ-\nಮಣೋರಣೀಯಂಸಮನುಸ್ಮರೇದ್ಯಃ |\nಸರ್ವಸ್ಯ ಧಾತಾರಮಚಿನ್ತ್ಯರೂಪ-\nಮಾದಿತ್ಯವರ್ಣಂ ತಮಸಃ ಪರಸ್ತಾತ್ ||೮-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "कविं पुराणमनुशासितार-\nमणोरणीयंसमनुस्मरेद्यः |\nसर्वस्य धातारमचिन्त्यरूप-\nमादित्यवर्णं तमसः परस्तात् ||८-९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "कविं पुराणमनुशासितार-\nमणोरणीयंसमनुस्मरेद्यः |\nसर्वस्य धातारमचिन्त्यरूप-\nमादित्यवर्णं तमसः परस्तात् ||८-९||",
+          "en": "kaviṃ purāṇamanuśāsitāraṃ aṇoraṇīyaṃsamanusmaredyaḥ .\nsarvasya dhātāramacintyarūpaṃ ādityavarṇaṃ tamasaḥ parastāt ||8-9||",
+          "be": "কবিং পুরাণমনুশাসিতার-\nমণোরণীযংসমনুস্মরেদ্যঃ |\nসর্বস্য ধাতারমচিন্ত্যরূপ-\nমাদিত্যবর্ণং তমসঃ পরস্তাত্ ||৮-৯||",
+          "ka": "ಕವಿಂ ಪುರಾಣಮನುಶಾಸಿತಾರ-\nಮಣೋರಣೀಯಂಸಮನುಸ್ಮರೇದ್ಯಃ |\nಸರ್ವಸ್ಯ ಧಾತಾರಮಚಿನ್ತ್ಯರೂಪ-\nಮಾದಿತ್ಯವರ್ಣಂ ತಮಸಃ ಪರಸ್ತಾತ್ ||೮-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Meditate on the omniscient, ancient ruler, subtler than the atom, sustainer of all, luminous like the sun beyond darkness."
+        "life_application": {
+          "hi": "सर्वज्ञ, प्राचीन शासक, परमाणु से भी सूक्ष्म, सबका पालनकर्ता, अंधकार से परे सूर्य के समान प्रकाशमान का ध्यान करें।",
+          "en": "Meditate on the omniscient, ancient ruler, subtler than the atom, sustainer of all, luminous like the sun beyond darkness.",
+          "be": "সর্বজ্ঞ, প্রাচীন শাসকের ধ্যান কর, পরমাণুর চেয়েও সূক্ষ্ম, সকলের ধারক, অন্ধকারের ওপারে সূর্যের মতো আলোকিত।",
+          "ka": "ಸರ್ವಜ್ಞ, ಪುರಾತನ ಆಡಳಿತಗಾರ, ಪರಮಾಣುವಿಗಿಂತ ಸೂಕ್ಷ್ಮ, ಎಲ್ಲವನ್ನೂ ಪೋಷಕ, ಕತ್ತಲೆ ಮೀರಿದ ಸೂರ್ಯನಂತೆ ಪ್ರಕಾಶಮಾನವಾಗಿ ಧ್ಯಾನಿಸಿ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG8.10",
         "img_landscape": "sloks/{size}/chapter_8/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_10/square/img.png",
-        "transliteration": "prayāṇakāle manasā.acalena bhaktyā yukto yogabalena caiva .\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam ||8-10||"
+        "transliteration": {
+          "hi": "प्रयाणकाले मनसाऽचलेन\nभक्त्या युक्तो योगबलेन चैव |\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम् ||८-१०||",
+          "en": "prayāṇakāle manasā.acalena bhaktyā yukto yogabalena caiva .\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam ||8-10||",
+          "be": "প্রযাণকালে মনসাঽচলেন\nভক্ত্যা যুক্তো যোগবলেন চৈব |\nভ্রুবোর্মধ্যে প্রাণমাবেশ্য সম্যক্\nস তং পরং পুরুষমুপৈতি দিব্যম্ ||৮-১০||",
+          "ka": "ಪ್ರಯಾಣಕಾಲೇ ಮನಸಾಽಚಲೇನ\nಭಕ್ತ್ಯಾ ಯುಕ್ತೋ ಯೋಗಬಲೇನ ಚೈವ |\nಭ್ರುವೋರ್ಮಧ್ಯೇ ಪ್ರಾಣಮಾವೇಶ್ಯ ಸಮ್ಯಕ್\nಸ ತಂ ಪರಂ ಪುರುಷಮುಪೈತಿ ದಿವ್ಯಮ್ ||೮-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "प्रयाणकाले मनसाऽचलेन\nभक्त्या युक्तो योगबलेन चैव |\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम् ||८-१०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "प्रयाणकाले मनसाऽचलेन\nभक्त्या युक्तो योगबलेन चैव |\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम् ||८-१०||",
+          "en": "prayāṇakāle manasā.acalena bhaktyā yukto yogabalena caiva .\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam ||8-10||",
+          "be": "প্রযাণকালে মনসাঽচলেন\nভক্ত্যা যুক্তো যোগবলেন চৈব |\nভ্রুবোর্মধ্যে প্রাণমাবেশ্য সম্যক্\nস তং পরং পুরুষমুপৈতি দিব্যম্ ||৮-১০||",
+          "ka": "ಪ್ರಯಾಣಕಾಲೇ ಮನಸಾಽಚಲೇನ\nಭಕ್ತ್ಯಾ ಯುಕ್ತೋ ಯೋಗಬಲೇನ ಚೈವ |\nಭ್ರುವೋರ್ಮಧ್ಯೇ ಪ್ರಾಣಮಾವೇಶ್ಯ ಸಮ್ಯಕ್\nಸ ತಂ ಪರಂ ಪುರುಷಮುಪೈತಿ ದಿವ್ಯಮ್ ||೮-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Focus your mind with devotion at the time of death, drawing life energy between the eyebrows to reach the Supreme."
+        "life_application": {
+          "hi": "मृत्यु के समय अपने मन को भक्ति के साथ केंद्रित करें, जीवन ऊर्जा को भौहों के बीच खींचकर सर्वोच्च तक पहुंचाएं।",
+          "en": "Focus your mind with devotion at the time of death, drawing life energy between the eyebrows to reach the Supreme.",
+          "be": "মৃত্যুর সময় নিষ্ঠার সাথে আপনার মনকে কেন্দ্রীভূত করুন, ভ্রুগুলির মধ্যে জীবন শক্তি আঁকুন পরম পর্যন্ত পৌঁছানোর জন্য।",
+          "ka": "ಮರಣದ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಭಕ್ತಿಯಿಂದ ಕೇಂದ್ರೀಕರಿಸಿ, ಪರಮಾತ್ಮನನ್ನು ತಲುಪಲು ಹುಬ್ಬುಗಳ ನಡುವೆ ಜೀವ ಶಕ್ತಿಯನ್ನು ಸೆಳೆಯಿರಿ."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG8.11",
         "img_landscape": "sloks/{size}/chapter_8/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_11/square/img.png",
-        "transliteration": "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ .\nyadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa pravakṣye ||8-11||"
+        "transliteration": {
+          "hi": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः |\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं संग्रहेण प्रवक्ष्ये ||८-११||",
+          "en": "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ .\nyadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa pravakṣye ||8-11||",
+          "be": "যদক্ষরং বেদবিদো বদন্তি\nবিশন্তি যদ্যতযো বীতরাগাঃ |\nযদিচ্ছন্তো ব্রহ্মচর্যং চরন্তি\nতত্তে পদং সংগ্রহেণ প্রবক্ষ্যে ||৮-১১||",
+          "ka": "ಯದಕ್ಷರಂ ವೇದವಿದೋ ವದನ್ತಿ\nವಿಶನ್ತಿ ಯದ್ಯತಯೋ ವೀತರಾಗಾಃ |\nಯದಿಚ್ಛನ್ತೋ ಬ್ರಹ್ಮಚರ್ಯಂ ಚರನ್ತಿ\nತತ್ತೇ ಪದಂ ಸಂಗ್ರಹೇಣ ಪ್ರವಕ್ಷ್ಯೇ ||೮-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः |\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं संग्रहेण प्रवक्ष्ये ||८-११||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः |\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं संग्रहेण प्रवक्ष्ये ||८-११||",
+          "en": "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ .\nyadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa pravakṣye ||8-11||",
+          "be": "যদক্ষরং বেদবিদো বদন্তি\nবিশন্তি যদ্যতযো বীতরাগাঃ |\nযদিচ্ছন্তো ব্রহ্মচর্যং চরন্তি\nতত্তে পদং সংগ্রহেণ প্রবক্ষ্যে ||৮-১১||",
+          "ka": "ಯದಕ್ಷರಂ ವೇದವಿದೋ ವದನ್ತಿ\nವಿಶನ್ತಿ ಯದ್ಯತಯೋ ವೀತರಾಗಾಃ |\nಯದಿಚ್ಛನ್ತೋ ಬ್ರಹ್ಮಚರ್ಯಂ ಚರನ್ತಿ\nತತ್ತೇ ಪದಂ ಸಂಗ್ರಹೇಣ ಪ್ರವಕ್ಷ್ಯೇ ||೮-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Seek that imperishable goal which knowers of truth enter, for which ascetics practice self-control and celibacy."
+        "life_application": {
+          "hi": "उस अविनाशी लक्ष्य की तलाश करो जिसमें सत्य के जानने वाले प्रवेश करते हैं, जिसके लिए तपस्वी आत्म-नियंत्रण और ब्रह्मचर्य का अभ्यास करते हैं।",
+          "en": "Seek that imperishable goal which knowers of truth enter, for which ascetics practice self-control and celibacy.",
+          "be": "সেই অবিনশ্বর লক্ষ্যের সন্ধান করুন যাতে সত্যের জ্ঞানীরা প্রবেশ করে, যার জন্য তপস্বীরা আত্মনিয়ন্ত্রণ ও ব্রহ্মচর্য পালন করে।",
+          "ka": "ಸತ್ಯದ ಬಲ್ಲವರು ಪ್ರವೇಶಿಸುವ ಆ ನಾಶವಾಗದ ಗುರಿಯನ್ನು ಹುಡುಕುವುದು, ಇದಕ್ಕಾಗಿ ತಪಸ್ವಿಗಳು ಸ್ವಯಂ ನಿಯಂತ್ರಣ ಮತ್ತು ಬ್ರಹ್ಮಚರ್ಯವನ್ನು ಆಚರಿಸುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG8.12",
         "img_landscape": "sloks/{size}/chapter_8/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_12/square/img.png",
-        "transliteration": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca .\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām ||8-12||"
+        "transliteration": {
+          "hi": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |\nमूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||",
+          "en": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca .\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām ||8-12||",
+          "be": "সর্বদ্বারাণি সংযম্য মনো হৃদি নিরুধ্য চ |\nমূধ্ন্যার্ধাযাত্মনঃ প্রাণমাস্থিতো যোগধারণাম্ ||৮-১২||",
+          "ka": "ಸರ್ವದ್ವಾರಾಣಿ ಸಂಯಮ್ಯ ಮನೋ ಹೃದಿ ನಿರುಧ್ಯ ಚ |\nಮೂಧ್ನ್ಯಾರ್ಧಾಯಾತ್ಮನಃ ಪ್ರಾಣಮಾಸ್ಥಿತೋ ಯೋಗಧಾರಣಾಮ್ ||೮-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |\nमूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |\nमूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||",
+          "en": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca .\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām ||8-12||",
+          "be": "সর্বদ্বারাণি সংযম্য মনো হৃদি নিরুধ্য চ |\nমূধ্ন্যার্ধাযাত্মনঃ প্রাণমাস্থিতো যোগধারণাম্ ||৮-১২||",
+          "ka": "ಸರ್ವದ್ವಾರಾಣಿ ಸಂಯಮ್ಯ ಮನೋ ಹೃದಿ ನಿರುಧ್ಯ ಚ |\nಮೂಧ್ನ್ಯಾರ್ಧಾಯಾತ್ಮನಃ ಪ್ರಾಣಮಾಸ್ಥಿತೋ ಯೋಗಧಾರಣಾಮ್ ||೮-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Control all sensory gates, lock the mind in the heart, and draw vital breath to the head, established in yoga."
+        "life_application": {
+          "hi": "सभी संवेदी द्वारों को नियंत्रित करें, मन को हृदय में बंद करें, और योग में स्थापित होकर महत्वपूर्ण सांस को सिर की ओर खींचें।",
+          "en": "Control all sensory gates, lock the mind in the heart, and draw vital breath to the head, established in yoga.",
+          "be": "সমস্ত সংবেদনশীল দ্বার নিয়ন্ত্রণ করুন, মনকে হৃদয়ে তালাবদ্ধ করুন এবং যোগে প্রতিষ্ঠিত মাথায় গুরুত্বপূর্ণ শ্বাস টানুন।",
+          "ka": "ಎಲ್ಲಾ ಸಂವೇದನಾ ದ್ವಾರಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ, ಮನಸ್ಸನ್ನು ಹೃದಯದಲ್ಲಿ ಲಾಕ್ ಮಾಡಿ ಮತ್ತು ಯೋಗದಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾದ ಪ್ರಮುಖ ಉಸಿರನ್ನು ತಲೆಗೆ ಎಳೆಯಿರಿ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG8.13",
         "img_landscape": "sloks/{size}/chapter_8/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_13/square/img.png",
-        "transliteration": "omityekākṣaraṃ brahma vyāharanmāmanusmaran .\nyaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim ||8-13||"
+        "transliteration": {
+          "hi": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |\nयः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||",
+          "en": "omityekākṣaraṃ brahma vyāharanmāmanusmaran .\nyaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim ||8-13||",
+          "be": "ওমিত্যেকাক্ষরং ব্রহ্ম ব্যাহরন্মামনুস্মরন্ |\nযঃ প্রযাতি ত্যজন্দেহং স যাতি পরমাং গতিম্ ||৮-১৩||",
+          "ka": "ಓಮಿತ್ಯೇಕಾಕ್ಷರಂ ಬ್ರಹ್ಮ ವ್ಯಾಹರನ್ಮಾಮನುಸ್ಮರನ್ |\nಯಃ ಪ್ರಯಾತಿ ತ್ಯಜನ್ದೇಹಂ ಸ ಯಾತಿ ಪರಮಾಂ ಗತಿಮ್ ||೮-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |\nयः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |\nयः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||",
+          "en": "omityekākṣaraṃ brahma vyāharanmāmanusmaran .\nyaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim ||8-13||",
+          "be": "ওমিত্যেকাক্ষরং ব্রহ্ম ব্যাহরন্মামনুস্মরন্ |\nযঃ প্রযাতি ত্যজন্দেহং স যাতি পরমাং গতিম্ ||৮-১৩||",
+          "ka": "ಓಮಿತ್ಯೇಕಾಕ್ಷರಂ ಬ್ರಹ್ಮ ವ್ಯಾಹರನ್ಮಾಮನುಸ್ಮರನ್ |\nಯಃ ಪ್ರಯಾತಿ ತ್ಯಜನ್ದೇಹಂ ಸ ಯಾತಿ ಪರಮಾಂ ಗತಿಮ್ ||೮-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Utter the sacred sound while remembering the divine presence as you leave the body to attain the supreme goal."
+        "life_application": {
+          "hi": "सर्वोच्च लक्ष्य को प्राप्त करने के लिए शरीर छोड़ते समय दिव्य उपस्थिति को याद करते हुए पवित्र ध्वनि का उच्चारण करें।",
+          "en": "Utter the sacred sound while remembering the divine presence as you leave the body to attain the supreme goal.",
+          "be": "সর্বোচ্চ লক্ষ্য অর্জনের জন্য দেহ ত্যাগ করার সময় ঐশ্বরিক উপস্থিতি স্মরণ করার সময় পবিত্র শব্দ উচ্চারণ করুন।",
+          "ka": "ಪರಮ ಗುರಿಯನ್ನು ಸಾಧಿಸಲು ನೀವು ದೇಹವನ್ನು ತೊರೆಯುವಾಗ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವಾಗ ಪವಿತ್ರ ಧ್ವನಿಯನ್ನು ಉಚ್ಚರಿಸಿ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG8.14",
         "img_landscape": "sloks/{size}/chapter_8/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_14/square/img.png",
-        "transliteration": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||"
+        "transliteration": {
+          "hi": "अनन्यचेताः सततं यो मां स्मरति नित्यशः |\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||",
+          "en": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||",
+          "be": "অনন্যচেতাঃ সততং যো মাং স্মরতি নিত্যশঃ |\nতস্যাহং সুলভঃ পার্থ নিত্যযুক্তস্য যোগিনঃ ||৮-১৪||",
+          "ka": "ಅನನ್ಯಚೇತಾಃ ಸತತಂ ಯೋ ಮಾಂ ಸ್ಮರತಿ ನಿತ್ಯಶಃ |\nತಸ್ಯಾಹಂ ಸುಲಭಃ ಪಾರ್ಥ ನಿತ್ಯಯುಕ್ತಸ್ಯ ಯೋಗಿನಃ ||೮-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अनन्यचेताः सततं यो मां स्मरति नित्यशः |\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अनन्यचेताः सततं यो मां स्मरति नित्यशः |\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||",
+          "en": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||",
+          "be": "অনন্যচেতাঃ সততং যো মাং স্মরতি নিত্যশঃ |\nতস্যাহং সুলভঃ পার্থ নিত্যযুক্তস্য যোগিনঃ ||৮-১৪||",
+          "ka": "ಅನನ್ಯಚೇತಾಃ ಸತತಂ ಯೋ ಮಾಂ ಸ್ಮರತಿ ನಿತ್ಯಶಃ |\nತಸ್ಯಾಹಂ ಸುಲಭಃ ಪಾರ್ಥ ನಿತ್ಯಯುಕ್ತಸ್ಯ ಯೋಗಿನಃ ||೮-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Remember God constantly with single-pointed attention today, making the supreme path easy to attain."
+        "life_application": {
+          "hi": "आज एकाग्र ध्यान से भगवान को लगातार याद करें, जिससे सर्वोच्च मार्ग प्राप्त करना आसान हो जाएगा।",
+          "en": "Remember God constantly with single-pointed attention today, making the supreme path easy to attain.",
+          "be": "আজ একক মনোযোগের সাথে ক্রমাগত ঈশ্বরকে স্মরণ করুন, সর্বোচ্চ পথটি অর্জন করা সহজ করে তুলুন।",
+          "ka": "ಇಂದು ಏಕಮುಖ ಗಮನದಿಂದ ನಿರಂತರವಾಗಿ ದೇವರನ್ನು ಸ್ಮರಿಸಿ, ಅತ್ಯುನ್ನತ ಮಾರ್ಗವನ್ನು ಸಾಧಿಸಲು ಸುಲಭವಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG8.15",
         "img_landscape": "sloks/{size}/chapter_8/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_15/square/img.png",
-        "transliteration": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||"
+        "transliteration": {
+          "hi": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् |\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||",
+          "en": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||",
+          "be": "মামুপেত্য পুনর্জন্ম দুঃখালযমশাশ্বতম্ |\nনাপ্নুবন্তি মহাত্মানঃ সংসিদ্ধিং পরমাং গতাঃ ||৮-১৫||",
+          "ka": "ಮಾಮುಪೇತ್ಯ ಪುನರ್ಜನ್ಮ ದುಃಖಾಲಯಮಶಾಶ್ವತಮ್ |\nನಾಪ್ನುವನ್ತಿ ಮಹಾತ್ಮಾನಃ ಸಂಸಿದ್ಧಿಂ ಪರಮಾಂ ಗತಾಃ ||೮-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् |\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् |\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||",
+          "en": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||",
+          "be": "মামুপেত্য পুনর্জন্ম দুঃখালযমশাশ্বতম্ |\nনাপ্নুবন্তি মহাত্মানঃ সংসিদ্ধিং পরমাং গতাঃ ||৮-১৫||",
+          "ka": "ಮಾಮುಪೇತ್ಯ ಪುನರ್ಜನ್ಮ ದುಃಖಾಲಯಮಶಾಶ್ವತಮ್ |\nನಾಪ್ನುವನ್ತಿ ಮಹಾತ್ಮಾನಃ ಸಂಸಿದ್ಧಿಂ ಪರಮಾಂ ಗತಾಃ ||೮-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Attain the supreme perfection in God so you never again return to this temporary world of sorrow."
+        "life_application": {
+          "hi": "ईश्वर में सर्वोच्च पूर्णता प्राप्त करें ताकि आप दुःख की इस अस्थायी दुनिया में फिर कभी न लौटें।",
+          "en": "Attain the supreme perfection in God so you never again return to this temporary world of sorrow.",
+          "be": "ঈশ্বরে সর্বোচ্চ পরিপূর্ণতা অর্জন করুন যাতে আপনি আর কখনও দুঃখের এই অস্থায়ী জগতে ফিরে না যান।",
+          "ka": "ಭಗವಂತನಲ್ಲಿ ಸರ್ವೋಚ್ಚ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಸಾಧಿಸಿ ಆದ್ದರಿಂದ ನೀವು ಈ ತಾತ್ಕಾಲಿಕ ದುಃಖದ ಜಗತ್ತಿಗೆ ಹಿಂತಿರುಗುವುದಿಲ್ಲ."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG8.16",
         "img_landscape": "sloks/{size}/chapter_8/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_16/square/img.png",
-        "transliteration": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||"
+        "transliteration": {
+          "hi": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन |\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ||८-१६||",
+          "en": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||",
+          "be": "আব্রহ্মভুবনাল্লোকাঃ পুনরাবর্তিনোঽর্জুন |\nমামুপেত্য তু কৌন্তেয পুনর্জন্ম ন বিদ্যতে ||৮-১৬||",
+          "ka": "ಆಬ್ರಹ್ಮಭುವನಾಲ್ಲೋಕಾಃ ಪುನರಾವರ್ತಿನೋಽರ್ಜುನ |\nಮಾಮುಪೇತ್ಯ ತು ಕೌನ್ತೇಯ ಪುನರ್ಜನ್ಮ ನ ವಿದ್ಯತೇ ||೮-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन |\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ||८-१६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन |\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ||८-१६||",
+          "en": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||",
+          "be": "আব্রহ্মভুবনাল্লোকাঃ পুনরাবর্তিনোঽর্জুন |\nমামুপেত্য তু কৌন্তেয পুনর্জন্ম ন বিদ্যতে ||৮-১৬||",
+          "ka": "ಆಬ್ರಹ್ಮಭುವನಾಲ್ಲೋಕಾಃ ಪುನರಾವರ್ತಿನೋಽರ್ಜುನ |\nಮಾಮುಪೇತ್ಯ ತು ಕೌನ್ತೇಯ ಪುನರ್ಜನ್ಮ ನ ವಿದ್ಯತೇ ||೮-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Realize that all worlds up to the highest heaven are subject to return, but reaching God ends rebirth forever."
+        "life_application": {
+          "hi": "यह समझें कि सर्वोच्च स्वर्ग तक सभी लोक वापस लौटने के अधीन हैं, लेकिन ईश्वर तक पहुँचने पर पुनर्जन्म हमेशा के लिए समाप्त हो जाता है।",
+          "en": "Realize that all worlds up to the highest heaven are subject to return, but reaching God ends rebirth forever.",
+          "be": "উপলব্ধি করুন যে সর্বোচ্চ স্বর্গ পর্যন্ত সমস্ত জগৎ প্রত্যাবর্তনের বিষয়, কিন্তু ঈশ্বরের কাছে পৌঁছালে চিরতরে পুনর্জন্ম শেষ হয়।",
+          "ka": "ಅತ್ಯುನ್ನತ ಸ್ವರ್ಗದವರೆಗಿನ ಎಲ್ಲಾ ಪ್ರಪಂಚಗಳು ಹಿಂತಿರುಗಲು ಒಳಪಟ್ಟಿವೆ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ, ಆದರೆ ದೇವರನ್ನು ತಲುಪುವುದು ಪುನರ್ಜನ್ಮವನ್ನು ಶಾಶ್ವತವಾಗಿ ಕೊನೆಗೊಳಿಸುತ್ತದೆ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG8.17",
         "img_landscape": "sloks/{size}/chapter_8/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_17/square/img.png",
-        "transliteration": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||"
+        "transliteration": {
+          "hi": "सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः |\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||",
+          "en": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||",
+          "be": "সহস্রযুগপর্যন্তমহর্যদ্ ব্রহ্মণো বিদুঃ |\nরাত্রিং যুগসহস্রান্তাং তেঽহোরাত্রবিদো জনাঃ ||৮-১৭||",
+          "ka": "ಸಹಸ್ರಯುಗಪರ್ಯನ್ತಮಹರ್ಯದ್ ಬ್ರಹ್ಮಣೋ ವಿದುಃ |\nರಾತ್ರಿಂ ಯುಗಸಹಸ್ರಾನ್ತಾಂ ತೇಽಹೋರಾತ್ರವಿದೋ ಜನಾಃ ||೮-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः |\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः |\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||",
+          "en": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||",
+          "be": "সহস্রযুগপর্যন্তমহর্যদ্ ব্রহ্মণো বিদুঃ |\nরাত্রিং যুগসহস্রান্তাং তেঽহোরাত্রবিদো জনাঃ ||৮-১৭||",
+          "ka": "ಸಹಸ್ರಯುಗಪರ್ಯನ್ತಮಹರ್ಯದ್ ಬ್ರಹ್ಮಣೋ ವಿದುಃ |\nರಾತ್ರಿಂ ಯುಗಸಹಸ್ರಾನ್ತಾಂ ತೇಽಹೋರಾತ್ರವಿದೋ ಜನಾಃ ||೮-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Understand cosmic time, where a single day or night of Brahma lasts a thousand cosmic ages."
+        "life_application": {
+          "hi": "ब्रह्मांडीय समय को समझें, जहां ब्रह्मा का एक दिन या रात एक हजार ब्रह्मांडीय युगों तक रहता है।",
+          "en": "Understand cosmic time, where a single day or night of Brahma lasts a thousand cosmic ages.",
+          "be": "মহাজাগতিক সময় বুঝুন, যেখানে ব্রহ্মার একটি দিন বা রাত এক হাজার মহাজাগতিক যুগ স্থায়ী হয়।",
+          "ka": "ಬ್ರಹ್ಮಾಂಡದ ಸಮಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಅಲ್ಲಿ ಬ್ರಹ್ಮನ ಒಂದು ದಿನ ಅಥವಾ ರಾತ್ರಿ ಸಾವಿರ ಕಾಸ್ಮಿಕ್ ಯುಗಗಳು ಇರುತ್ತದೆ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG8.18",
         "img_landscape": "sloks/{size}/chapter_8/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_18/square/img.png",
-        "transliteration": "avyaktād vyaktayaḥ sarvāḥ prabhavantyaharāgame .\nrātryāgame pralīyante tatraivāvyaktasaṃjñake ||8-18||"
+        "transliteration": {
+          "hi": "अव्यक्ताद् व्यक्तयः सर्वाः प्रभवन्त्यहरागमे |\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ||८-१८||",
+          "en": "avyaktād vyaktayaḥ sarvāḥ prabhavantyaharāgame .\nrātryāgame pralīyante tatraivāvyaktasaṃjñake ||8-18||",
+          "be": "অব্যক্তাদ্ ব্যক্তযঃ সর্বাঃ প্রভবন্ত্যহরাগমে |\nরাত্র্যাগমে প্রলীযন্তে তত্রৈবাব্যক্তসংজ্ঞকে ||৮-১৮||",
+          "ka": "ಅವ್ಯಕ್ತಾದ್ ವ್ಯಕ್ತಯಃ ಸರ್ವಾಃ ಪ್ರಭವನ್ತ್ಯಹರಾಗಮೇ |\nರಾತ್ರ್ಯಾಗಮೇ ಪ್ರಲೀಯನ್ತೇ ತತ್ರೈವಾವ್ಯಕ್ತಸಂಜ್ಞಕೇ ||೮-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अव्यक्ताद् व्यक्तयः सर्वाः प्रभवन्त्यहरागमे |\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ||८-१८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अव्यक्ताद् व्यक्तयः सर्वाः प्रभवन्त्यहरागमे |\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ||८-१८||",
+          "en": "avyaktād vyaktayaḥ sarvāḥ prabhavantyaharāgame .\nrātryāgame pralīyante tatraivāvyaktasaṃjñake ||8-18||",
+          "be": "অব্যক্তাদ্ ব্যক্তযঃ সর্বাঃ প্রভবন্ত্যহরাগমে |\nরাত্র্যাগমে প্রলীযন্তে তত্রৈবাব্যক্তসংজ্ঞকে ||৮-১৮||",
+          "ka": "ಅವ್ಯಕ್ತಾದ್ ವ್ಯಕ್ತಯಃ ಸರ್ವಾಃ ಪ್ರಭವನ್ತ್ಯಹರಾಗಮೇ |\nರಾತ್ರ್ಯಾಗಮೇ ಪ್ರಲೀಯನ್ತೇ ತತ್ರೈವಾವ್ಯಕ್ತಸಂಜ್ಞಕೇ ||೮-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize how all manifest beings emerge from the unmanifest at daybreak and dissolve back into it at nightfall."
+        "life_application": {
+          "hi": "पहचानें कि कैसे सभी व्यक्त प्राणी दिन के उजाले में अव्यक्त से निकलते हैं और रात होते ही वापस उसी में विलीन हो जाते हैं।",
+          "en": "Recognize how all manifest beings emerge from the unmanifest at daybreak and dissolve back into it at nightfall.",
+          "be": "চিনুন কিভাবে সমস্ত উদ্ভাসিত সত্তা অপ্রকাশিত থেকে উদিত হয় দিনের বেলায় এবং রাত্রিকালে এটিতে ফিরে দ্রবীভূত হয়।",
+          "ka": "ಎಲ್ಲಾ ಪ್ರತ್ಯಕ್ಷ ಜೀವಿಗಳು ಹಗಲು ಹೊತ್ತಿನಲ್ಲಿ ಅವ್ಯಕ್ತದಿಂದ ಹೇಗೆ ಹೊರಹೊಮ್ಮುತ್ತವೆ ಮತ್ತು ರಾತ್ರಿಯ ಸಮಯದಲ್ಲಿ ಅದರೊಳಗೆ ಹೇಗೆ ಕರಗುತ್ತವೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG8.19",
         "img_landscape": "sloks/{size}/chapter_8/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_19/square/img.png",
-        "transliteration": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate .\nrātryāgame.avaśaḥ pārtha prabhavatyaharāgame ||8-19||"
+        "transliteration": {
+          "hi": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते |\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ||८-१९||",
+          "en": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate .\nrātryāgame.avaśaḥ pārtha prabhavatyaharāgame ||8-19||",
+          "be": "ভূতগ্রামঃ স এবাযং ভূত্বা ভূত্বা প্রলীযতে |\nরাত্র্যাগমেঽবশঃ পার্থ প্রভবত্যহরাগমে ||৮-১৯||",
+          "ka": "ಭೂತಗ್ರಾಮಃ ಸ ಏವಾಯಂ ಭೂತ್ವಾ ಭೂತ್ವಾ ಪ್ರಲೀಯತೇ |\nರಾತ್ರ್ಯಾಗಮೇಽವಶಃ ಪಾರ್ಥ ಪ್ರಭವತ್ಯಹರಾಗಮೇ ||೮-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते |\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ||८-१९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते |\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ||८-१९||",
+          "en": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate .\nrātryāgame.avaśaḥ pārtha prabhavatyaharāgame ||8-19||",
+          "be": "ভূতগ্রামঃ স এবাযং ভূত্বা ভূত্বা প্রলীযতে |\nরাত্র্যাগমেঽবশঃ পার্থ প্রভবত্যহরাগমে ||৮-১৯||",
+          "ka": "ಭೂತಗ್ರಾಮಃ ಸ ಏವಾಯಂ ಭೂತ್ವಾ ಭೂತ್ವಾ ಪ್ರಲೀಯತೇ |\nರಾತ್ರ್ಯಾಗಮೇಽವಶಃ ಪಾರ್ಥ ಪ್ರಭವತ್ಯಹರಾಗಮೇ ||೮-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "See how the multitude of beings repeatedly comes into existence and dissolves helplessly at the cosmic night."
+        "life_application": {
+          "hi": "देखें कि कैसे प्राणियों की भीड़ बार-बार अस्तित्व में आती है और ब्रह्मांडीय रात में असहाय रूप से विलीन हो जाती है।",
+          "en": "See how the multitude of beings repeatedly comes into existence and dissolves helplessly at the cosmic night.",
+          "be": "মহাজাগতিক রাত্রে কীভাবে বহু সত্তা বারবার অস্তিত্বে আসে এবং অসহায়ভাবে বিলীন হয়ে যায় তা দেখুন।",
+          "ka": "ಜೀವಿಗಳ ಸಮೂಹವು ಹೇಗೆ ಪದೇ ಪದೇ ಅಸ್ತಿತ್ವಕ್ಕೆ ಬರುತ್ತದೆ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ರಾತ್ರಿಯಲ್ಲಿ ಅಸಹಾಯಕವಾಗಿ ಕರಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಿ."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG8.20",
         "img_landscape": "sloks/{size}/chapter_8/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_20/square/img.png",
-        "transliteration": "parastasmāttu bhāvo.anyo.avyakto.avyaktātsanātanaḥ .\nyaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati ||8-20||"
+        "transliteration": {
+          "hi": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः |\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ||८-२०||",
+          "en": "parastasmāttu bhāvo.anyo.avyakto.avyaktātsanātanaḥ .\nyaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati ||8-20||",
+          "be": "পরস্তস্মাত্তু ভাবোঽন্যোঽব্যক্তোঽব্যক্তাত্সনাতনঃ |\nযঃ স সর্বেষু ভূতেষু নশ্যত্সু ন বিনশ্যতি ||৮-২০||",
+          "ka": "ಪರಸ್ತಸ್ಮಾತ್ತು ಭಾವೋಽನ್ಯೋಽವ್ಯಕ್ತೋಽವ್ಯಕ್ತಾತ್ಸನಾತನಃ |\nಯಃ ಸ ಸರ್ವೇಷು ಭೂತೇಷು ನಶ್ಯತ್ಸು ನ ವಿನಶ್ಯತಿ ||೮-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः |\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ||८-२०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः |\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ||८-२०||",
+          "en": "parastasmāttu bhāvo.anyo.avyakto.avyaktātsanātanaḥ .\nyaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati ||8-20||",
+          "be": "পরস্তস্মাত্তু ভাবোঽন্যোঽব্যক্তোঽব্যক্তাত্সনাতনঃ |\nযঃ স সর্বেষু ভূতেষু নশ্যত্সু ন বিনশ্যতি ||৮-২০||",
+          "ka": "ಪರಸ್ತಸ್ಮಾತ್ತು ಭಾವೋಽನ್ಯೋಽವ್ಯಕ್ತೋಽವ್ಯಕ್ತಾತ್ಸನಾತನಃ |\nಯಃ ಸ ಸರ್ವೇಷು ಭೂತೇಷು ನಶ್ಯತ್ಸು ನ ವಿನಶ್ಯತಿ ||೮-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Seek that unmanifest eternal state which exists beyond physical creation and is never destroyed when all perishes."
+        "life_application": {
+          "hi": "उस अव्यक्त शाश्वत स्थिति की तलाश करें जो भौतिक सृष्टि से परे मौजूद है और सभी के नष्ट होने पर भी कभी नष्ट नहीं होती।",
+          "en": "Seek that unmanifest eternal state which exists beyond physical creation and is never destroyed when all perishes.",
+          "be": "সেই অব্যক্ত শাশ্বত অবস্থার সন্ধান করুন যা দৈহিক সৃষ্টির বাইরে বিদ্যমান এবং যখন সমস্ত বিনষ্ট হয় তখন কখনও ধ্বংস হয় না।",
+          "ka": "ಭೌತಿಕ ಸೃಷ್ಟಿಯನ್ನು ಮೀರಿ ಇರುವ ಮತ್ತು ಎಲ್ಲಾ ನಾಶವಾದಾಗ ಎಂದಿಗೂ ನಾಶವಾಗದ ಆ ಅವ್ಯಕ್ತವಾದ ಶಾಶ್ವತ ಸ್ಥಿತಿಯನ್ನು ಹುಡುಕಿ."
+        }
       }
     },
     {
@@ -308,14 +713,34 @@
         "verse_id": "BG8.21",
         "img_landscape": "sloks/{size}/chapter_8/slok_21/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_21/square/img.png",
-        "transliteration": "avyakto.akṣara ityuktastamāhuḥ paramāṃ gatim .\nyaṃ prāpya na nivartante taddhāma paramaṃ mama ||8-21||"
+        "transliteration": {
+          "hi": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् |\nयं प्राप्य न निवर्तन्ते तद्धाम परमं मम ||८-२१||",
+          "en": "avyakto.akṣara ityuktastamāhuḥ paramāṃ gatim .\nyaṃ prāpya na nivartante taddhāma paramaṃ mama ||8-21||",
+          "be": "অব্যক্তোঽক্ষর ইত্যুক্তস্তমাহুঃ পরমাং গতিম্ |\nযং প্রাপ্য ন নিবর্তন্তে তদ্ধাম পরমং মম ||৮-২১||",
+          "ka": "ಅವ್ಯಕ್ತೋಽಕ್ಷರ ಇತ್ಯುಕ್ತಸ್ತಮಾಹುಃ ಪರಮಾಂ ಗತಿಮ್ |\nಯಂ ಪ್ರಾಪ್ಯ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೮-೨೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् |\nयं प्राप्य न निवर्तन्ते तद्धाम परमं मम ||८-२१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् |\nयं प्राप्य न निवर्तन्ते तद्धाम परमं मम ||८-२१||",
+          "en": "avyakto.akṣara ityuktastamāhuḥ paramāṃ gatim .\nyaṃ prāpya na nivartante taddhāma paramaṃ mama ||8-21||",
+          "be": "অব্যক্তোঽক্ষর ইত্যুক্তস্তমাহুঃ পরমাং গতিম্ |\nযং প্রাপ্য ন নিবর্তন্তে তদ্ধাম পরমং মম ||৮-২১||",
+          "ka": "ಅವ್ಯಕ್ತೋಽಕ್ಷರ ಇತ್ಯುಕ್ತಸ್ತಮಾಹುಃ ಪರಮಾಂ ಗತಿಮ್ |\nಯಂ ಪ್ರಾಪ್ಯ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೮-೨೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Make that imperishable unmanifest reality your supreme goal, from which those who reach it never return."
+        "life_application": {
+          "hi": "उस अविनाशी अव्यक्त सत्य को अपना सर्वोच्च लक्ष्य बनाओ, जहाँ तक पहुँचने वाले कभी वापस नहीं लौटते।",
+          "en": "Make that imperishable unmanifest reality your supreme goal, from which those who reach it never return.",
+          "be": "সেই অবিনশ্বর অপ্রকাশিত বাস্তবতাকে আপনার সর্বোচ্চ লক্ষ্য বানিয়ে নিন, যেখান থেকে যারা পৌঁছায় তারা আর ফিরে আসে না।",
+          "ka": "ಆ ನಾಶವಾಗದ ಅವ್ಯಕ್ತವಾದ ವಾಸ್ತವವನ್ನು ನಿಮ್ಮ ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳಿ, ಅದನ್ನು ತಲುಪಿದವರು ಎಂದಿಗೂ ಹಿಂತಿರುಗುವುದಿಲ್ಲ."
+        }
       }
     },
     {
@@ -323,14 +748,34 @@
         "verse_id": "BG8.22",
         "img_landscape": "sloks/{size}/chapter_8/slok_22/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_22/square/img.png",
-        "transliteration": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā .\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam ||8-22||"
+        "transliteration": {
+          "hi": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया |\nयस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ||८-२२||",
+          "en": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā .\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam ||8-22||",
+          "be": "পুরুষঃ স পরঃ পার্থ ভক্ত্যা লভ্যস্ত্বনন্যযা |\nযস্যান্তঃস্থানি ভূতানি যেন সর্বমিদং ততম্ ||৮-২২||",
+          "ka": "ಪುರುಷಃ ಸ ಪರಃ ಪಾರ್ಥ ಭಕ್ತ್ಯಾ ಲಭ್ಯಸ್ತ್ವನನ್ಯಯಾ |\nಯಸ್ಯಾನ್ತಃಸ್ಥಾನಿ ಭೂತಾನಿ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ ||೮-೨೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया |\nयस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ||८-२२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया |\nयस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ||८-२२||",
+          "en": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā .\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam ||8-22||",
+          "be": "পুরুষঃ স পরঃ পার্থ ভক্ত্যা লভ্যস্ত্বনন্যযা |\nযস্যান্তঃস্থানি ভূতানি যেন সর্বমিদং ততম্ ||৮-২২||",
+          "ka": "ಪುರುಷಃ ಸ ಪರಃ ಪಾರ್ಥ ಭಕ್ತ್ಯಾ ಲಭ್ಯಸ್ತ್ವನನ್ಯಯಾ |\nಯಸ್ಯಾನ್ತಃಸ್ಥಾನಿ ಭೂತಾನಿ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ ||೮-೨೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Attain that supreme divine person in whom all beings reside and by whom all is pervaded through unswerving devotion."
+        "life_application": {
+          "hi": "अटल भक्ति से उस परम दिव्य पुरुष को प्राप्त करें जिसमें सभी प्राणी निवास करते हैं और जिससे सब कुछ व्याप्त है।",
+          "en": "Attain that supreme divine person in whom all beings reside and by whom all is pervaded through unswerving devotion.",
+          "be": "সেই পরম দিব্য সত্তাকে লাভ করুন যাঁর মধ্যে সমস্ত প্রাণী বাস করে এবং যাঁর দ্বারা সকলে অটল ভক্তি দ্বারা পরিব্যাপ্ত।",
+          "ka": "ಎಲ್ಲ ಜೀವಿಗಳು ನೆಲೆಸಿರುವ ಮತ್ತು ಅಚಲವಾದ ಭಕ್ತಿಯ ಮೂಲಕ ಎಲ್ಲವನ್ನು ವ್ಯಾಪಿಸಿರುವ ಆ ಪರಮ ದೈವಿಕ ವ್ಯಕ್ತಿಯನ್ನು ಸಾಧಿಸಿ."
+        }
       }
     },
     {
@@ -338,14 +783,34 @@
         "verse_id": "BG8.23",
         "img_landscape": "sloks/{size}/chapter_8/slok_23/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_23/square/img.png",
-        "transliteration": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||"
+        "transliteration": {
+          "hi": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः |\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||",
+          "en": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||",
+          "be": "যত্র কালে ত্বনাবৃত্তিমাবৃত্তিং চৈব যোগিনঃ |\nপ্রযাতা যান্তি তং কালং বক্ষ্যামি ভরতর্ষভ ||৮-২৩||",
+          "ka": "ಯತ್ರ ಕಾಲೇ ತ್ವನಾವೃತ್ತಿಮಾವೃತ್ತಿಂ ಚೈವ ಯೋಗಿನಃ |\nಪ್ರಯಾತಾ ಯಾನ್ತಿ ತಂ ಕಾಲಂ ವಕ್ಷ್ಯಾಮಿ ಭರತರ್ಷಭ ||೮-೨೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः |\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः |\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||",
+          "en": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||",
+          "be": "যত্র কালে ত্বনাবৃত্তিমাবৃত্তিং চৈব যোগিনঃ |\nপ্রযাতা যান্তি তং কালং বক্ষ্যামি ভরতর্ষভ ||৮-২৩||",
+          "ka": "ಯತ್ರ ಕಾಲೇ ತ್ವನಾವೃತ್ತಿಮಾವೃತ್ತಿಂ ಚೈವ ಯೋಗಿನಃ |\nಪ್ರಯಾತಾ ಯಾನ್ತಿ ತಂ ಕಾಲಂ ವಕ್ಷ್ಯಾಮಿ ಭರತರ್ಷಭ ||೮-೨೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Learn of the cosmic times and paths along which yogis depart, either to return or not to return."
+        "life_application": {
+          "hi": "उन लौकिक समयों और रास्तों के बारे में जानें जिनके साथ योगी प्रस्थान करते हैं, या तो लौटने के लिए या वापस नहीं लौटने के लिए।",
+          "en": "Learn of the cosmic times and paths along which yogis depart, either to return or not to return.",
+          "be": "মহাজাগতিক সময় এবং পথগুলি শিখুন যা দিয়ে যোগীরা চলে যায়, হয় ফিরে যেতে বা না ফিরে।",
+          "ka": "ಯೋಗಿಗಳು ಹೊರಡುವ ಕಾಸ್ಮಿಕ್ ಸಮಯಗಳು ಮತ್ತು ಮಾರ್ಗಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ, ಹಿಂತಿರುಗಲು ಅಥವಾ ಹಿಂತಿರುಗಲು."
+        }
       }
     },
     {
@@ -353,14 +818,34 @@
         "verse_id": "BG8.24",
         "img_landscape": "sloks/{size}/chapter_8/slok_24/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_24/square/img.png",
-        "transliteration": "agnirjotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam .\ntatra prayātā gacchanti brahma brahmavido janāḥ ||8-24||"
+        "transliteration": {
+          "hi": "अग्निर्जोतिरहः शुक्लः षण्मासा उत्तरायणम् |\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ||८-२४||",
+          "en": "agnirjotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam .\ntatra prayātā gacchanti brahma brahmavido janāḥ ||8-24||",
+          "be": "অগ্নির্জোতিরহঃ শুক্লঃ ষণ্মাসা উত্তরাযণম্ |\nতত্র প্রযাতা গচ্ছন্তি ব্রহ্ম ব্রহ্মবিদো জনাঃ ||৮-২৪||",
+          "ka": "ಅಗ್ನಿರ್ಜೋತಿರಹಃ ಶುಕ್ಲಃ ಷಣ್ಮಾಸಾ ಉತ್ತರಾಯಣಮ್ |\nತತ್ರ ಪ್ರಯಾತಾ ಗಚ್ಛನ್ತಿ ಬ್ರಹ್ಮ ಬ್ರಹ್ಮವಿದೋ ಜನಾಃ ||೮-೨೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अग्निर्जोतिरहः शुक्लः षण्मासा उत्तरायणम् |\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ||८-२४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अग्निर्जोतिरहः शुक्लः षण्मासा उत्तरायणम् |\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ||८-२४||",
+          "en": "agnirjotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam .\ntatra prayātā gacchanti brahma brahmavido janāḥ ||8-24||",
+          "be": "অগ্নির্জোতিরহঃ শুক্লঃ ষণ্মাসা উত্তরাযণম্ |\nতত্র প্রযাতা গচ্ছন্তি ব্রহ্ম ব্রহ্মবিদো জনাঃ ||৮-২৪||",
+          "ka": "ಅಗ್ನಿರ್ಜೋತಿರಹಃ ಶುಕ್ಲಃ ಷಣ್ಮಾಸಾ ಉತ್ತರಾಯಣಮ್ |\nತತ್ರ ಪ್ರಯಾತಾ ಗಚ್ಛನ್ತಿ ಬ್ರಹ್ಮ ಬ್ರಹ್ಮವಿದೋ ಜನಾಃ ||೮-೨೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Understand the bright path of light, fire, day, and northern sun, by which knowers of Brahman reach the Supreme."
+        "life_application": {
+          "hi": "प्रकाश, अग्नि, दिन और उत्तरी सूर्य के उज्ज्वल मार्ग को समझें, जिसके द्वारा ब्रह्म के ज्ञाता सर्वोच्च तक पहुँचते हैं।",
+          "en": "Understand the bright path of light, fire, day, and northern sun, by which knowers of Brahman reach the Supreme.",
+          "be": "আলো, অগ্নি, দিন এবং উত্তর সূর্যের উজ্জ্বল পথ বুঝুন, যার দ্বারা ব্রহ্মজ্ঞানীরা পরমে পৌঁছান।",
+          "ka": "ಬೆಳಕು, ಬೆಂಕಿ, ಹಗಲು ಮತ್ತು ಉತ್ತರದ ಸೂರ್ಯನ ಪ್ರಕಾಶಮಾನವಾದ ಮಾರ್ಗವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಅದರ ಮೂಲಕ ಬ್ರಹ್ಮನ ಜ್ಞಾನಿಗಳು ಪರಮಾತ್ಮನನ್ನು ತಲುಪುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -368,14 +853,34 @@
         "verse_id": "BG8.25",
         "img_landscape": "sloks/{size}/chapter_8/slok_25/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_25/square/img.png",
-        "transliteration": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam .\ntatra cāndramasaṃ jyotiryogī prāpya nivartate ||8-25||"
+        "transliteration": {
+          "hi": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् |\nतत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ||८-२५||",
+          "en": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam .\ntatra cāndramasaṃ jyotiryogī prāpya nivartate ||8-25||",
+          "be": "ধূমো রাত্রিস্তথা কৃষ্ণঃ ষণ্মাসা দক্ষিণাযনম্ |\nতত্র চান্দ্রমসং জ্যোতির্যোগী প্রাপ্য নিবর্ততে ||৮-২৫||",
+          "ka": "ಧೂಮೋ ರಾತ್ರಿಸ್ತಥಾ ಕೃಷ್ಣಃ ಷಣ್ಮಾಸಾ ದಕ್ಷಿಣಾಯನಮ್ |\nತತ್ರ ಚಾನ್ದ್ರಮಸಂ ಜ್ಯೋತಿರ್ಯೋಗೀ ಪ್ರಾಪ್ಯ ನಿವರ್ತತೇ ||೮-೨೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् |\nतत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ||८-२५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् |\nतत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ||८-२५||",
+          "en": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam .\ntatra cāndramasaṃ jyotiryogī prāpya nivartate ||8-25||",
+          "be": "ধূমো রাত্রিস্তথা কৃষ্ণঃ ষণ্মাসা দক্ষিণাযনম্ |\nতত্র চান্দ্রমসং জ্যোতির্যোগী প্রাপ্য নিবর্ততে ||৮-২৫||",
+          "ka": "ಧೂಮೋ ರಾತ್ರಿಸ್ತಥಾ ಕೃಷ್ಣಃ ಷಣ್ಮಾಸಾ ದಕ್ಷಿಣಾಯನಮ್ |\nತತ್ರ ಚಾನ್ದ್ರಮಸಂ ಜ್ಯೋತಿರ್ಯೋಗೀ ಪ್ರಾಪ್ಯ ನಿವರ್ತತೇ ||೮-೨೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize the dark path of smoke, night, and southern sun, by which the practitioner attains lunar light and returns."
+        "life_application": {
+          "hi": "धुएँ, रात और दक्षिणी सूरज के अंधेरे रास्ते को पहचानें, जिसके द्वारा अभ्यासकर्ता चंद्र प्रकाश प्राप्त करता है और वापस लौटता है।",
+          "en": "Recognize the dark path of smoke, night, and southern sun, by which the practitioner attains lunar light and returns.",
+          "be": "ধোঁয়া, রাত এবং দক্ষিণ সূর্যের অন্ধকার পথ চিনুন, যার দ্বারা অনুশীলনকারী চন্দ্রের আলো অর্জন করে এবং ফিরে আসে।",
+          "ka": "ಹೊಗೆ, ರಾತ್ರಿ ಮತ್ತು ದಕ್ಷಿಣ ಸೂರ್ಯನ ಕತ್ತಲೆಯ ಮಾರ್ಗವನ್ನು ಗುರುತಿಸಿ, ಅದರ ಮೂಲಕ ವೈದ್ಯರು ಚಂದ್ರನ ಬೆಳಕನ್ನು ಪಡೆಯುತ್ತಾರೆ ಮತ್ತು ಹಿಂತಿರುಗುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -383,14 +888,34 @@
         "verse_id": "BG8.26",
         "img_landscape": "sloks/{size}/chapter_8/slok_26/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_26/square/img.png",
-        "transliteration": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate .\nekayā yātyanāvṛttimanyayāvartate punaḥ ||8-26||"
+        "transliteration": {
+          "hi": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते |\nएकया यात्यनावृत्तिमन्ययावर्तते पुनः ||८-२६||",
+          "en": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate .\nekayā yātyanāvṛttimanyayāvartate punaḥ ||8-26||",
+          "be": "শুক্লকৃষ্ণে গতী হ্যেতে জগতঃ শাশ্বতে মতে |\nএকযা যাত্যনাবৃত্তিমন্যযাবর্ততে পুনঃ ||৮-২৬||",
+          "ka": "ಶುಕ್ಲಕೃಷ್ಣೇ ಗತೀ ಹ್ಯೇತೇ ಜಗತಃ ಶಾಶ್ವತೇ ಮತೇ |\nಏಕಯಾ ಯಾತ್ಯನಾವೃತ್ತಿಮನ್ಯಯಾವರ್ತತೇ ಪುನಃ ||೮-೨೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते |\nएकया यात्यनावृत्तिमन्ययावर्तते पुनः ||८-२६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते |\nएकया यात्यनावृत्तिमन्ययावर्तते पुनः ||८-२६||",
+          "en": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate .\nekayā yātyanāvṛttimanyayāvartate punaḥ ||8-26||",
+          "be": "শুক্লকৃষ্ণে গতী হ্যেতে জগতঃ শাশ্বতে মতে |\nএকযা যাত্যনাবৃত্তিমন্যযাবর্ততে পুনঃ ||৮-২৬||",
+          "ka": "ಶುಕ್ಲಕೃಷ್ಣೇ ಗತೀ ಹ್ಯೇತೇ ಜಗತಃ ಶಾಶ್ವತೇ ಮತೇ |\nಏಕಯಾ ಯಾತ್ಯನಾವೃತ್ತಿಮನ್ಯಯಾವರ್ತತೇ ಪುನಃ ||೮-೨೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know these two eternal paths of light and darkness, one leading to liberation and the other to rebirth."
+        "life_application": {
+          "hi": "प्रकाश और अंधकार के इन दो शाश्वत मार्गों को जानें, एक मुक्ति की ओर और दूसरा पुनर्जन्म की ओर।",
+          "en": "Know these two eternal paths of light and darkness, one leading to liberation and the other to rebirth.",
+          "be": "আলো এবং অন্ধকারের এই দুটি চিরন্তন পথ জানুন, একটি মুক্তির দিকে নিয়ে যায় এবং অন্যটি পুনর্জন্মের দিকে নিয়ে যায়।",
+          "ka": "ಬೆಳಕು ಮತ್ತು ಕತ್ತಲೆಯ ಈ ಎರಡು ಶಾಶ್ವತ ಮಾರ್ಗಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ, ಒಂದು ವಿಮೋಚನೆಗೆ ಮತ್ತು ಇನ್ನೊಂದು ಪುನರ್ಜನ್ಮಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -398,14 +923,34 @@
         "verse_id": "BG8.27",
         "img_landscape": "sloks/{size}/chapter_8/slok_27/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_27/square/img.png",
-        "transliteration": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||"
+        "transliteration": {
+          "hi": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन |\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||",
+          "en": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||",
+          "be": "নৈতে সৃতী পার্থ জানন্যোগী মুহ্যতি কশ্চন |\nতস্মাত্সর্বেষু কালেষু যোগযুক্তো ভবার্জুন ||৮-২৭||",
+          "ka": "ನೈತೇ ಸೃತೀ ಪಾರ್ಥ ಜಾನನ್ಯೋಗೀ ಮುಹ್ಯತಿ ಕಶ್ಚನ |\nತಸ್ಮಾತ್ಸರ್ವೇಷು ಕಾಲೇಷು ಯೋಗಯುಕ್ತೋ ಭವಾರ್ಜುನ ||೮-೨೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन |\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन |\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||",
+          "en": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||",
+          "be": "নৈতে সৃতী পার্থ জানন্যোগী মুহ্যতি কশ্চন |\nতস্মাত্সর্বেষু কালেষু যোগযুক্তো ভবার্জুন ||৮-২৭||",
+          "ka": "ನೈತೇ ಸೃತೀ ಪಾರ್ಥ ಜಾನನ್ಯೋಗೀ ಮುಹ್ಯತಿ ಕಶ್ಚನ |\nತಸ್ಮಾತ್ಸರ್ವೇಷು ಕಾಲೇಷು ಯೋಗಯುಕ್ತೋ ಭವಾರ್ಜುನ ||೮-೨೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Understand these two paths clearly so you are never deluded, remaining steadfast in yoga at all times."
+        "life_application": {
+          "hi": "इन दोनों मार्गों को स्पष्ट रूप से समझ लें ताकि आप कभी भी भ्रमित न हों और हर समय योग में स्थिर रहें।",
+          "en": "Understand these two paths clearly so you are never deluded, remaining steadfast in yoga at all times.",
+          "be": "এই দুটি পথ পরিষ্কারভাবে বুঝুন যাতে আপনি কখনও বিভ্রান্ত হন না, সর্বদা যোগে অবিচল থাকেন।",
+          "ka": "ಈ ಎರಡು ಮಾರ್ಗಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ ಆದ್ದರಿಂದ ನೀವು ಎಂದಿಗೂ ಭ್ರಮೆಗೊಳಗಾಗುವುದಿಲ್ಲ, ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ಯೋಗದಲ್ಲಿ ದೃಢವಾಗಿ ಉಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -413,14 +958,34 @@
         "verse_id": "BG8.28",
         "img_landscape": "sloks/{size}/chapter_8/slok_28/landscape/img.png",
         "img_square": "sloks/{size}/chapter_8/slok_28/square/img.png",
-        "transliteration": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||"
+        "transliteration": {
+          "hi": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत्पुण्यफलं प्रदिष्टम् |\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम् ||८-२८||",
+          "en": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||",
+          "be": "বেদেষু যজ্ঞেষু তপঃসু চৈব\nদানেষু যত্পুণ্যফলং প্রদিষ্টম্ |\nঅত্যেতি তত্সর্বমিদং বিদিত্বা\nযোগী পরং স্থানমুপৈতি চাদ্যম্ ||৮-২৮||",
+          "ka": "ವೇದೇಷು ಯಜ್ಞೇಷು ತಪಃಸು ಚೈವ\nದಾನೇಷು ಯತ್ಪುಣ್ಯಫಲಂ ಪ್ರದಿಷ್ಟಮ್ |\nಅತ್ಯೇತಿ ತತ್ಸರ್ವಮಿದಂ ವಿದಿತ್ವಾ\nಯೋಗೀ ಪರಂ ಸ್ಥಾನಮುಪೈತಿ ಚಾದ್ಯಮ್ ||೮-೨೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत्पुण्यफलं प्रदिष्टम् |\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम् ||८-२८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत्पुण्यफलं प्रदिष्टम् |\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम् ||८-२८||",
+          "en": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||",
+          "be": "বেদেষু যজ্ঞেষু তপঃসু চৈব\nদানেষু যত্পুণ্যফলং প্রদিষ্টম্ |\nঅত্যেতি তত্সর্বমিদং বিদিত্বা\nযোগী পরং স্থানমুপৈতি চাদ্যম্ ||৮-২৮||",
+          "ka": "ವೇದೇಷು ಯಜ್ಞೇಷು ತಪಃಸು ಚೈವ\nದಾನೇಷು ಯತ್ಪುಣ್ಯಫಲಂ ಪ್ರದಿಷ್ಟಮ್ |\nಅತ್ಯೇತಿ ತತ್ಸರ್ವಮಿದಂ ವಿದಿತ್ವಾ\nಯೋಗೀ ಪರಂ ಸ್ಥಾನಮುಪೈತಿ ಚಾದ್ಯಮ್ ||೮-೨೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Rise above merit gained from rituals, charity, and austerities by gaining spiritual wisdom, reaching the primeval abode."
+        "life_application": {
+          "hi": "अनुष्ठान, दान और तपस्या से प्राप्त पुण्य से ऊपर उठकर आध्यात्मिक ज्ञान प्राप्त करके आदिम धाम तक पहुंचें।",
+          "en": "Rise above merit gained from rituals, charity, and austerities by gaining spiritual wisdom, reaching the primeval abode.",
+          "be": "আধ্যাত্মিক জ্ঞান অর্জনের মাধ্যমে আচার, দান এবং তপস্যা থেকে অর্জিত যোগ্যতার ঊর্ধ্বে উঠুন, আদিম আবাসে পৌঁছান।",
+          "ka": "ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಗಳಿಸುವ ಮೂಲಕ ಆಚರಣೆಗಳು, ದಾನ ಮತ್ತು ತಪಸ್ಸಿನಿಂದ ಗಳಿಸಿದ ಅರ್ಹತೆಯ ಮೇಲೆ ಏರುವುದು, ಪ್ರಾಚೀನ ನಿವಾಸವನ್ನು ತಲುಪುವುದು."
+        }
       }
     }
   ]

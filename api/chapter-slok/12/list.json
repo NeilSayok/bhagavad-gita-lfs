@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Bhakti Yoga"
+    "translation": {
+      "hi": "भक्ति योग",
+      "en": "Bhakti Yoga",
+      "be": "ভক্তি যোগ",
+      "ka": "ಭಕ್ತಿ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG12.1",
         "img_landscape": "sloks/{size}/chapter_12/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_1/square/img.png",
-        "transliteration": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||"
+        "transliteration": {
+          "hi": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||",
+          "en": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
+          "be": "অর্জুন উবাচ |\nএবং সততযুক্তা যে ভক্তাস্ত্বাং পর্যুপাসতে |\nযে চাপ্যক্ষরমব্যক্তং তেষাং কে যোগবিত্তমাঃ ||১২-১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಏವಂ ಸತತಯುಕ್ತಾ ಯೇ ಭಕ್ತಾಸ್ತ್ವಾಂ ಪರ್ಯುಪಾಸತೇ |\nಯೇ ಚಾಪ್ಯಕ್ಷರಮವ್ಯಕ್ತಂ ತೇಷಾಂ ಕೇ ಯೋಗವಿತ್ತಮಾಃ ||೧೨-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||",
+          "en": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
+          "be": "অর্জুন উবাচ |\nএবং সততযুক্তা যে ভক্তাস্ত্বাং পর্যুপাসতে |\nযে চাপ্যক্ষরমব্যক্তং তেষাং কে যোগবিত্তমাঃ ||১২-১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಏವಂ ಸತತಯುಕ್ತಾ ಯೇ ಭಕ್ತಾಸ್ತ್ವಾಂ ಪರ್ಯುಪಾಸತೇ |\nಯೇ ಚಾಪ್ಯಕ್ಷರಮವ್ಯಕ್ತಂ ತೇಷಾಂ ಕೇ ಯೋಗವಿತ್ತಮಾಃ ||೧೨-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Inquire whether those who worship God in a personal form or those who contemplate the unmanifest are more versed in yoga."
+        "life_application": {
+          "hi": "पूछो कि क्या वे लोग योग में अधिक पारंगत हैं जो सगुण रूप में ईश्वर की पूजा करते हैं या जो अव्यक्त का चिंतन करते हैं वे योग में अधिक पारंगत हैं।",
+          "en": "Inquire whether those who worship God in a personal form or those who contemplate the unmanifest are more versed in yoga.",
+          "be": "যাঁরা ব্যক্তিগত রূপে ভগবানের উপাসনা করেন বা যাঁরা অব্যক্ত চিন্তা করেন তাঁরা যোগব্যায়ামে বেশি পারদর্শী কিনা তা অনুসন্ধান করুন।",
+          "ka": "ದೇವರನ್ನು ವೈಯಕ್ತಿಕ ರೂಪದಲ್ಲಿ ಪೂಜಿಸುವವರು ಅಥವಾ ಅವ್ಯಕ್ತವನ್ನು ಆಲೋಚಿಸುವವರು ಯೋಗದಲ್ಲಿ ಹೆಚ್ಚು ಪಾರಂಗತರಾಗಿದ್ದಾರೆಯೇ ಎಂದು ವಿಚಾರಿಸಿ."
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG12.2",
         "img_landscape": "sloks/{size}/chapter_12/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_2/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||",
+          "en": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
+          "be": "শ্রীভগবানুবাচ |\nময্যাবেশ্য মনো যে মাং নিত্যযুক্তা উপাসতে |\nশ্রদ্ধযা পরযোপেতাঃ তে মে যুক্ততমা মতাঃ ||১২-২||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಮಯ್ಯಾವೇಶ್ಯ ಮನೋ ಯೇ ಮಾಂ ನಿತ್ಯಯುಕ್ತಾ ಉಪಾಸತೇ |\nಶ್ರದ್ಧಯಾ ಪರಯೋಪೇತಾಃ ತೇ ಮೇ ಯುಕ್ತತಮಾ ಮತಾಃ ||೧೨-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||",
+          "en": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
+          "be": "শ্রীভগবানুবাচ |\nময্যাবেশ্য মনো যে মাং নিত্যযুক্তা উপাসতে |\nশ্রদ্ধযা পরযোপেতাঃ তে মে যুক্ততমা মতাঃ ||১২-২||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಮಯ್ಯಾವೇಶ್ಯ ಮನೋ ಯೇ ಮಾಂ ನಿತ್ಯಯುಕ್ತಾ ಉಪಾಸತೇ |\nಶ್ರದ್ಧಯಾ ಪರಯೋಪೇತಾಃ ತೇ ಮೇ ಯುಕ್ತತಮಾ ಮತಾಃ ||೧೨-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Fix your mind on God with supreme faith and steady devotion, becoming recognized as most perfectly united in yoga."
+        "life_application": {
+          "hi": "सर्वोच्च विश्वास और स्थिर भक्ति के साथ अपने मन को ईश्वर पर केंद्रित करें, और योग में सबसे पूर्ण रूप से एकजुट होने के रूप में पहचाने जाएँ।",
+          "en": "Fix your mind on God with supreme faith and steady devotion, becoming recognized as most perfectly united in yoga.",
+          "be": "পরম বিশ্বাস এবং অবিচলিত ভক্তি সহ আপনার মনকে ঈশ্বরের প্রতি স্থির করুন, যোগে সবচেয়ে নিখুঁতভাবে একত্রিত হয়ে স্বীকৃত হন।",
+          "ka": "ಅತ್ಯುನ್ನತ ನಂಬಿಕೆ ಮತ್ತು ಸ್ಥಿರವಾದ ಭಕ್ತಿಯೊಂದಿಗೆ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ದೇವರ ಮೇಲೆ ಇರಿಸಿ, ಯೋಗದಲ್ಲಿ ಅತ್ಯಂತ ಪರಿಪೂರ್ಣವಾಗಿ ಐಕ್ಯವೆಂದು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG12.3",
         "img_landscape": "sloks/{size}/chapter_12/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_3/square/img.png",
-        "transliteration": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||"
+        "transliteration": {
+          "hi": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||",
+          "en": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
+          "be": "যে ত্বক্ষরমনির্দেশ্যমব্যক্তং পর্যুপাসতে |\nসর্বত্রগমচিন্ত্যঞ্চ কূটস্থমচলন্ধ্রুবম্ ||১২-৩||",
+          "ka": "ಯೇ ತ್ವಕ್ಷರಮನಿರ್ದೇಶ್ಯಮವ್ಯಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಸರ್ವತ್ರಗಮಚಿನ್ತ್ಯಞ್ಚ ಕೂಟಸ್ಥಮಚಲನ್ಧ್ರುವಮ್ ||೧೨-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||",
+          "en": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
+          "be": "যে ত্বক্ষরমনির্দেশ্যমব্যক্তং পর্যুপাসতে |\nসর্বত্রগমচিন্ত্যঞ্চ কূটস্থমচলন্ধ্রুবম্ ||১২-৩||",
+          "ka": "ಯೇ ತ್ವಕ್ಷರಮನಿರ್ದೇಶ್ಯಮವ್ಯಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಸರ್ವತ್ರಗಮಚಿನ್ತ್ಯಞ್ಚ ಕೂಟಸ್ಥಮಚಲನ್ಧ್ರುವಮ್ ||೧೨-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Understand that those who contemplate the imperishable, undefinable, unmanifest, all-pervading, unthinkable, unchanging, immovable, eternal..."
+        "life_application": {
+          "hi": "समझें कि जो लोग अविनाशी, अनिर्वचनीय, अव्यक्त, सर्वव्यापक, अकल्पनीय, अपरिवर्तनीय, अचल, शाश्वत... का चिंतन करते हैं।",
+          "en": "Understand that those who contemplate the imperishable, undefinable, unmanifest, all-pervading, unthinkable, unchanging, immovable, eternal...",
+          "be": "বোঝেন যে যারা অবিনশ্বর, অব্যক্ত, অব্যক্ত, সর্বব্যাপী, অচিন্তনীয়, অপরিবর্তনীয়, স্থাবর, চিরন্তন...",
+          "ka": "ಅವಿನಾಶಿ, ಅನಿರ್ವಚನೀಯ, ಅವ್ಯಕ್ತ, ಸರ್ವವ್ಯಾಪಿ, ಅಚಿಂತ್ಯ, ಬದಲಾಗದ, ಚಲನರಹಿತ, ಶಾಶ್ವತ... ಎಂದು ಆಲೋಚಿಸುವವರು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG12.4",
         "img_landscape": "sloks/{size}/chapter_12/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_4/square/img.png",
-        "transliteration": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||"
+        "transliteration": {
+          "hi": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||",
+          "en": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
+          "be": "সন্নিযম্যেন্দ্রিযগ্রামং সর্বত্র সমবুদ্ধযঃ |\nতে প্রাপ্নুবন্তি মামেব সর্বভূতহিতে রতাঃ ||১২-৪||",
+          "ka": "ಸನ್ನಿಯಮ್ಯೇನ್ದ್ರಿಯಗ್ರಾಮಂ ಸರ್ವತ್ರ ಸಮಬುದ್ಧಯಃ |\nತೇ ಪ್ರಾಪ್ನುವನ್ತಿ ಮಾಮೇವ ಸರ್ವಭೂತಹಿತೇ ರತಾಃ ||೧೨-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||",
+          "en": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
+          "be": "সন্নিযম্যেন্দ্রিযগ্রামং সর্বত্র সমবুদ্ধযঃ |\nতে প্রাপ্নুবন্তি মামেব সর্বভূতহিতে রতাঃ ||১২-৪||",
+          "ka": "ಸನ್ನಿಯಮ್ಯೇನ್ದ್ರಿಯಗ್ರಾಮಂ ಸರ್ವತ್ರ ಸಮಬುದ್ಧಯಃ |\nತೇ ಪ್ರಾಪ್ನುವನ್ತಿ ಮಾಮೇವ ಸರ್ವಭೂತಹಿತೇ ರತಾಃ ||೧೨-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Restrain your senses, maintain equal vision everywhere, and rejoice in the welfare of all beings to reach God."
+        "life_application": {
+          "hi": "अपनी इन्द्रियों पर संयम रखें, सर्वत्र सम दृष्टि रखें और ईश्वर तक पहुँचने के लिए सभी प्राणियों के कल्याण में आनन्द मनाएँ।",
+          "en": "Restrain your senses, maintain equal vision everywhere, and rejoice in the welfare of all beings to reach God.",
+          "be": "ইন্দ্রিয় সংযত কর, সর্বত্র সমান দৃষ্টি বজায় রাখ এবং ঈশ্বরের কাছে পৌঁছানোর জন্য সকল প্রাণীর কল্যাণে আনন্দ কর।",
+          "ka": "ನಿಮ್ಮ ಇಂದ್ರಿಯಗಳನ್ನು ನಿಗ್ರಹಿಸಿ, ಎಲ್ಲೆಡೆ ಸಮಾನ ದೃಷ್ಟಿಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ದೇವರನ್ನು ತಲುಪಲು ಎಲ್ಲಾ ಜೀವಿಗಳ ಕಲ್ಯಾಣದಲ್ಲಿ ಆನಂದಿಸಿ."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG12.5",
         "img_landscape": "sloks/{size}/chapter_12/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_5/square/img.png",
-        "transliteration": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||"
+        "transliteration": {
+          "hi": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||",
+          "en": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
+          "be": "ক্লেশোঽধিকতরস্তেষামব্যক্তাসক্তচেতসাম্ |\nঅব্যক্তা হি গতির্দুঃখং দেহবদ্ভিরবাপ্যতে ||১২-৫||",
+          "ka": "ಕ್ಲೇಶೋಽಧಿಕತರಸ್ತೇಷಾಮವ್ಯಕ್ತಾಸಕ್ತಚೇತಸಾಮ್ |\nಅವ್ಯಕ್ತಾ ಹಿ ಗತಿರ್ದುಃಖಂ ದೇಹವದ್ಭಿರವಾಪ್ಯತೇ ||೧೨-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||",
+          "en": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
+          "be": "ক্লেশোঽধিকতরস্তেষামব্যক্তাসক্তচেতসাম্ |\nঅব্যক্তা হি গতির্দুঃখং দেহবদ্ভিরবাপ্যতে ||১২-৫||",
+          "ka": "ಕ್ಲೇಶೋಽಧಿಕತರಸ್ತೇಷಾಮವ್ಯಕ್ತಾಸಕ್ತಚೇತಸಾಮ್ |\nಅವ್ಯಕ್ತಾ ಹಿ ಗತಿರ್ದುಃಖಂ ದೇಹವದ್ಭಿರವಾಪ್ಯತೇ ||೧೨-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize that path of the unmanifest is difficult for embodied beings, requiring intense self-discipline."
+        "life_application": {
+          "hi": "पहचानें कि अव्यक्त का मार्ग देहधारी प्राणियों के लिए कठिन है, जिसके लिए गहन आत्म-अनुशासन की आवश्यकता होती है।",
+          "en": "Recognize that path of the unmanifest is difficult for embodied beings, requiring intense self-discipline.",
+          "be": "চিনুন যে অব্যক্তের পথটি মূর্ত প্রাণীদের পক্ষে কঠিন, তীব্র স্ব-শৃঙ্খলার প্রয়োজন।",
+          "ka": "ಅವ್ಯಕ್ತದ ಮಾರ್ಗವು ಸಾಕಾರ ಜೀವಿಗಳಿಗೆ ಕಷ್ಟಕರವಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ, ತೀವ್ರವಾದ ಸ್ವಯಂ-ಶಿಸ್ತಿನ ಅಗತ್ಯವಿರುತ್ತದೆ."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG12.6",
         "img_landscape": "sloks/{size}/chapter_12/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_6/square/img.png",
-        "transliteration": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||"
+        "transliteration": {
+          "hi": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||",
+          "en": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
+          "be": "যে তু সর্বাণি কর্মাণি মযি সংন্যস্য মত্পরঃ |\nঅনন্যেনৈব যোগেন মাং ধ্যাযন্ত উপাসতে ||১২-৬||",
+          "ka": "ಯೇ ತು ಸರ್ವಾಣಿ ಕರ್ಮಾಣಿ ಮಯಿ ಸಂನ್ಯಸ್ಯ ಮತ್ಪರಃ |\nಅನನ್ಯೇನೈವ ಯೋಗೇನ ಮಾಂ ಧ್ಯಾಯನ್ತ ಉಪಾಸತೇ ||೧೨-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||",
+          "en": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
+          "be": "যে তু সর্বাণি কর্মাণি মযি সংন্যস্য মত্পরঃ |\nঅনন্যেনৈব যোগেন মাং ধ্যাযন্ত উপাসতে ||১২-৬||",
+          "ka": "ಯೇ ತು ಸರ್ವಾಣಿ ಕರ್ಮಾಣಿ ಮಯಿ ಸಂನ್ಯಸ್ಯ ಮತ್ಪರಃ |\nಅನನ್ಯೇನೈವ ಯೋಗೇನ ಮಾಂ ಧ್ಯಾಯನ್ತ ಉಪಾಸತೇ ||೧೨-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Renounce all actions to God, meditate on the Divine with single-pointed devotion, making God your ultimate goal."
+        "life_application": {
+          "hi": "सभी कार्यों को भगवान पर छोड़ दो, एकनिष्ठ भक्ति के साथ भगवान का ध्यान करो, भगवान को अपना अंतिम लक्ष्य बनाओ।",
+          "en": "Renounce all actions to God, meditate on the Divine with single-pointed devotion, making God your ultimate goal.",
+          "be": "ঈশ্বরের কাছে সমস্ত কর্ম ত্যাগ করুন, একক-বিন্দু ভক্তির সাথে ঈশ্বরের ধ্যান করুন, ঈশ্বরকে আপনার চূড়ান্ত লক্ষ্য করুন।",
+          "ka": "ದೇವರಿಗೆ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳನ್ನು ತ್ಯಜಿಸಿ, ಏಕ-ಬಿಂದು ಭಕ್ತಿಯಿಂದ ಪರಮಾತ್ಮನನ್ನು ಧ್ಯಾನಿಸಿ, ದೇವರನ್ನು ನಿಮ್ಮ ಅಂತಿಮ ಗುರಿಯನ್ನಾಗಿ ಮಾಡಿ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG12.7",
         "img_landscape": "sloks/{size}/chapter_12/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_7/square/img.png",
-        "transliteration": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||"
+        "transliteration": {
+          "hi": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||",
+          "en": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
+          "be": "তেষামহং সমুদ্ধর্তা মৃত্যুসংসারসাগরাত্ |\nভবামি নচিরাত্পার্থ ময্যাবেশিতচেতসাম্ ||১২-৭||",
+          "ka": "ತೇಷಾಮಹಂ ಸಮುದ್ಧರ್ತಾ ಮೃತ್ಯುಸಂಸಾರಸಾಗರಾತ್ |\nಭವಾಮಿ ನಚಿರಾತ್ಪಾರ್ಥ ಮಯ್ಯಾವೇಶಿತಚೇತಸಾಮ್ ||೧೨-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||",
+          "en": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
+          "be": "তেষামহং সমুদ্ধর্তা মৃত্যুসংসারসাগরাত্ |\nভবামি নচিরাত্পার্থ ময্যাবেশিতচেতসাম্ ||১২-৭||",
+          "ka": "ತೇಷಾಮಹಂ ಸಮುದ್ಧರ್ತಾ ಮೃತ್ಯುಸಂಸಾರಸಾಗರಾತ್ |\nಭವಾಮಿ ನಚಿರಾತ್ಪಾರ್ಥ ಮಯ್ಯಾವೇಶಿತಚೇತಸಾಮ್ ||೧೨-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Trust that God swiftly rescues those whose minds are set on the Divine from the ocean of mortal death."
+        "life_application": {
+          "hi": "भरोसा रखें कि ईश्वर उन लोगों को शीघ्रता से बचा लेता है जिनका मन ईश्वर में लगा हुआ है, नश्वर मृत्यु के सागर से।",
+          "en": "Trust that God swiftly rescues those whose minds are set on the Divine from the ocean of mortal death.",
+          "be": "বিশ্বাস করুন যে ঈশ্বর দ্রুত তাদের মরণশীল মৃত্যুর সাগর থেকে ঈশ্বরের উপর স্থির হয়ে উদ্ধার করেন।",
+          "ka": "ಪರಮಾತ್ಮನ ಮೇಲೆ ಮನಸ್ಸು ಮಾಡುವವರನ್ನು ಮರಣದ ಮರಣದ ಸಾಗರದಿಂದ ದೇವರು ತ್ವರಿತವಾಗಿ ರಕ್ಷಿಸುತ್ತಾನೆ ಎಂದು ನಂಬಿರಿ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG12.8",
         "img_landscape": "sloks/{size}/chapter_12/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_8/square/img.png",
-        "transliteration": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||"
+        "transliteration": {
+          "hi": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||",
+          "en": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
+          "be": "ময্যেব মন আধত্স্ব মযি বুদ্ধিং নিবেশয |\nনিবসিষ্যসি ময্যেব অত ঊর্ধ্বং ন সংশযঃ ||১২-৮||",
+          "ka": "ಮಯ್ಯೇವ ಮನ ಆಧತ್ಸ್ವ ಮಯಿ ಬುದ್ಧಿಂ ನಿವೇಶಯ |\nನಿವಸಿಷ್ಯಸಿ ಮಯ್ಯೇವ ಅತ ಊರ್ಧ್ವಂ ನ ಸಂಶಯಃ ||೧೨-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||",
+          "en": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
+          "be": "ময্যেব মন আধত্স্ব মযি বুদ্ধিং নিবেশয |\nনিবসিষ্যসি ময্যেব অত ঊর্ধ্বং ন সংশযঃ ||১২-৮||",
+          "ka": "ಮಯ್ಯೇವ ಮನ ಆಧತ್ಸ್ವ ಮಯಿ ಬುದ್ಧಿಂ ನಿವೇಶಯ |\nನಿವಸಿಷ್ಯಸಿ ಮಯ್ಯೇವ ಅತ ಊರ್ಧ್ವಂ ನ ಸಂಶಯಃ ||೧೨-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Fix your mind on God alone and let your intellect abide in the Divine; you will surely live in God hereafter."
+        "life_application": {
+          "hi": "अपने मन को केवल ईश्वर पर केन्द्रित करो और अपनी बुद्धि को ईश्वर में ही रहने दो; इसके बाद तुम निश्चय ही परमेश्वर में निवास करोगे।",
+          "en": "Fix your mind on God alone and let your intellect abide in the Divine; you will surely live in God hereafter.",
+          "be": "আপনার মন একমাত্র ঈশ্বরের উপর স্থির করুন এবং আপনার বুদ্ধিকে ঐশ্বরিকভাবে থাকতে দিন; আপনি অবশ্যই পরকালে ঈশ্বরের মধ্যে বসবাস করবেন।",
+          "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ದೇವರ ಮೇಲೆ ಮಾತ್ರ ಇರಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಬುದ್ಧಿಯು ದೈವಿಕದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳಲಿ; ನೀವು ಖಂಡಿತವಾಗಿಯೂ ಮುಂದೆ ದೇವರಲ್ಲಿ ವಾಸಿಸುವಿರಿ."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG12.9",
         "img_landscape": "sloks/{size}/chapter_12/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_9/square/img.png",
-        "transliteration": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||"
+        "transliteration": {
+          "hi": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||",
+          "en": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
+          "be": "অথ চিত্তং সমাধাতুং ন শক্নোষি মযি স্থিরম্ |\nঅভ্যাসযোগেন ততো মামিচ্ছাপ্তুং ধনঞ্জয ||১২-৯||",
+          "ka": "ಅಥ ಚಿತ್ತಂ ಸಮಾಧಾತುಂ ನ ಶಕ್ನೋಷಿ ಮಯಿ ಸ್ಥಿರಮ್ |\nಅಭ್ಯಾಸಯೋಗೇನ ತತೋ ಮಾಮಿಚ್ಛಾಪ್ತುಂ ಧನಞ್ಜಯ ||೧೨-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||",
+          "en": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
+          "be": "অথ চিত্তং সমাধাতুং ন শক্নোষি মযি স্থিরম্ |\nঅভ্যাসযোগেন ততো মামিচ্ছাপ্তুং ধনঞ্জয ||১২-৯||",
+          "ka": "ಅಥ ಚಿತ್ತಂ ಸಮಾಧಾತುಂ ನ ಶಕ್ನೋಷಿ ಮಯಿ ಸ್ಥಿರಮ್ |\nಅಭ್ಯಾಸಯೋಗೇನ ತತೋ ಮಾಮಿಚ್ಛಾಪ್ತುಂ ಧನಞ್ಜಯ ||೧೨-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "If you cannot fix your mind steadily, seek to reach God through the steady practice of regular meditation."
+        "life_application": {
+          "hi": "यदि आप अपने मन को स्थिर रूप से स्थिर नहीं कर सकते हैं, तो नियमित ध्यान के स्थिर अभ्यास के माध्यम से ईश्वर तक पहुँचने का प्रयास करें।",
+          "en": "If you cannot fix your mind steadily, seek to reach God through the steady practice of regular meditation.",
+          "be": "আপনি যদি আপনার মনকে স্থিরভাবে ঠিক করতে না পারেন তবে নিয়মিত ধ্যানের স্থির অনুশীলনের মাধ্যমে ঈশ্বরের কাছে পৌঁছানোর চেষ্টা করুন।",
+          "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸ್ಥಿರವಾಗಿ ಸರಿಪಡಿಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ನಿಯಮಿತ ಧ್ಯಾನದ ನಿರಂತರ ಅಭ್ಯಾಸದ ಮೂಲಕ ದೇವರನ್ನು ತಲುಪಲು ಪ್ರಯತ್ನಿಸಿ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG12.10",
         "img_landscape": "sloks/{size}/chapter_12/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_10/square/img.png",
-        "transliteration": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||"
+        "transliteration": {
+          "hi": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||",
+          "en": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
+          "be": "অভ্যাসেঽপ্যসমর্থোঽসি মত্কর্মপরমো ভব |\nমদর্থমপি কর্মাণি কুর্বন্সিদ্ধিমবাপ্স্যসি ||১২-১০||",
+          "ka": "ಅಭ್ಯಾಸೇಽಪ್ಯಸಮರ್ಥೋಽಸಿ ಮತ್ಕರ್ಮಪರಮೋ ಭವ |\nಮದರ್ಥಮಪಿ ಕರ್ಮಾಣಿ ಕುರ್ವನ್ಸಿದ್ಧಿಮವಾಪ್ಸ್ಯಸಿ ||೧೨-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||",
+          "en": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
+          "be": "অভ্যাসেঽপ্যসমর্থোঽসি মত্কর্মপরমো ভব |\nমদর্থমপি কর্মাণি কুর্বন্সিদ্ধিমবাপ্স্যসি ||১২-১০||",
+          "ka": "ಅಭ್ಯಾಸೇಽಪ್ಯಸಮರ್ಥೋಽಸಿ ಮತ್ಕರ್ಮಪರಮೋ ಭವ |\nಮದರ್ಥಮಪಿ ಕರ್ಮಾಣಿ ಕುರ್ವನ್ಸಿದ್ಧಿಮವಾಪ್ಸ್ಯಸಿ ||೧೨-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "If you lack strength for regular practice, perform work for the sake of God, attaining perfection through divine service."
+        "life_application": {
+          "hi": "यदि आपके पास नियमित अभ्यास के लिए शक्ति की कमी है, तो ईश्वरीय सेवा के माध्यम से पूर्णता प्राप्त करते हुए, ईश्वर के लिए कार्य करें।",
+          "en": "If you lack strength for regular practice, perform work for the sake of God, attaining perfection through divine service.",
+          "be": "যদি নিয়মিত অনুশীলনের জন্য আপনার শক্তির অভাব হয় তবে ঈশ্বরের জন্য কাজ করুন, দৈব সেবার মাধ্যমে পরিপূর্ণতা অর্জন করুন।",
+          "ka": "ನಿಯಮಿತ ಅಭ್ಯಾಸಕ್ಕಾಗಿ ನಿಮಗೆ ಶಕ್ತಿಯ ಕೊರತೆಯಿದ್ದರೆ, ದೇವರ ಸಲುವಾಗಿ ಕೆಲಸವನ್ನು ಮಾಡಿ, ದೈವಿಕ ಸೇವೆಯ ಮೂಲಕ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಸಾಧಿಸಿ."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG12.11",
         "img_landscape": "sloks/{size}/chapter_12/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_11/square/img.png",
-        "transliteration": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||"
+        "transliteration": {
+          "hi": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||",
+          "en": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
+          "be": "অথৈতদপ্যশক্তোঽসি কর্তুং মদ্যোগমাশ্রিতঃ |\nসর্বকর্মফলত্যাগং ততঃ কুরু যতাত্মবান্ ||১২-১১||",
+          "ka": "ಅಥೈತದಪ್ಯಶಕ್ತೋಽಸಿ ಕರ್ತುಂ ಮದ್ಯೋಗಮಾಶ್ರಿತಃ |\nಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಂ ತತಃ ಕುರು ಯತಾತ್ಮವಾನ್ ||೧೨-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||",
+          "en": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
+          "be": "অথৈতদপ্যশক্তোঽসি কর্তুং মদ্যোগমাশ্রিতঃ |\nসর্বকর্মফলত্যাগং ততঃ কুরু যতাত্মবান্ ||১২-১১||",
+          "ka": "ಅಥೈತದಪ್ಯಶಕ್ತೋಽಸಿ ಕರ್ತುಂ ಮದ್ಯೋಗಮಾಶ್ರಿತಃ |\nಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಂ ತತಃ ಕುರು ಯತಾತ್ಮವಾನ್ ||೧೨-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "If even divine service feels difficult, take refuge in devotion and surrender the fruits of all your actions with self-control."
+        "life_application": {
+          "hi": "यदि ईश्वरीय सेवा भी कठिन लगे तो भक्ति का आश्रय लें और संयमपूर्वक अपने सभी कर्मों का फल समर्पित कर दें।",
+          "en": "If even divine service feels difficult, take refuge in devotion and surrender the fruits of all your actions with self-control.",
+          "be": "যদি ঐশ্বরিক সেবাও কঠিন মনে হয়, তবে ভক্তির আশ্রয় নিন এবং আপনার সমস্ত কর্মের ফল আত্মনিয়ন্ত্রণে সমর্পণ করুন।",
+          "ka": "ದೈವಿಕ ಸೇವೆಯು ಸಹ ಕಷ್ಟಕರವೆಂದು ಭಾವಿಸಿದರೆ, ಭಕ್ತಿಯನ್ನು ಆಶ್ರಯಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳ ಫಲವನ್ನು ಸ್ವಯಂ ನಿಯಂತ್ರಣದಿಂದ ಒಪ್ಪಿಸಿ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG12.12",
         "img_landscape": "sloks/{size}/chapter_12/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_12/square/img.png",
-        "transliteration": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||"
+        "transliteration": {
+          "hi": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||१२-१२||",
+          "en": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
+          "be": "শ্রেযো হি জ্ঞানমভ্যাসাজ্জ্ঞানাদ্ধ্যানং বিশিষ্যতে |\nধ্যানাত্কর্মফলত্যাগস্ত্যাগাচ্ছান্তিরনন্তরম্ ||১২-১২||",
+          "ka": "ಶ್ರೇಯೋ ಹಿ ಜ್ಞಾನಮಭ್ಯಾಸಾಜ್ಜ್ಞಾನಾದ್ಧ್ಯಾನಂ ವಿಶಿಷ್ಯತೇ |\nಧ್ಯಾನಾತ್ಕರ್ಮಫಲತ್ಯಾಗಸ್ತ್ಯಾಗಾಚ್ಛಾನ್ತಿರನನ್ತರಮ್ ||೧೨-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||१२-१२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||१२-१२||",
+          "en": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
+          "be": "শ্রেযো হি জ্ঞানমভ্যাসাজ্জ্ঞানাদ্ধ্যানং বিশিষ্যতে |\nধ্যানাত্কর্মফলত্যাগস্ত্যাগাচ্ছান্তিরনন্তরম্ ||১২-১২||",
+          "ka": "ಶ್ರೇಯೋ ಹಿ ಜ್ಞಾನಮಭ್ಯಾಸಾಜ್ಜ್ಞಾನಾದ್ಧ್ಯಾನಂ ವಿಶಿಷ್ಯತೇ |\nಧ್ಯಾನಾತ್ಕರ್ಮಫಲತ್ಯಾಗಸ್ತ್ಯಾಗಾಚ್ಛಾನ್ತಿರನನ್ತರಮ್ ||೧೨-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Knowledge is better than mechanical practice; meditation excels knowledge; surrendering action fruits excels meditation, bringing immediate peace."
+        "life_application": {
+          "hi": "ज्ञान यांत्रिक अभ्यास से बेहतर है; ध्यान ज्ञान से बढ़कर है; कर्म फल का समर्पण ध्यान से बेहतर है, जिससे तत्काल शांति मिलती है।",
+          "en": "Knowledge is better than mechanical practice; meditation excels knowledge; surrendering action fruits excels meditation, bringing immediate peace.",
+          "be": "যান্ত্রিক অনুশীলনের চেয়ে জ্ঞান উত্তম; ধ্যান জ্ঞানের উৎকর্ষ; আত্মসমর্পণ কর্মের ফল ধ্যানের উৎকর্ষ, তাৎক্ষণিক শান্তি আনয়ন করে।",
+          "ka": "ಯಾಂತ್ರಿಕ ಅಭ್ಯಾಸಕ್ಕಿಂತ ಜ್ಞಾನವು ಉತ್ತಮವಾಗಿದೆ; ಧ್ಯಾನವು ಜ್ಞಾನವನ್ನು ಮೀರಿಸುತ್ತದೆ; ಶರಣಾಗತಿ ಕ್ರಿಯೆಯ ಫಲಗಳು ಧ್ಯಾನವನ್ನು ಉತ್ತಮಗೊಳಿಸುತ್ತದೆ, ತಕ್ಷಣದ ಶಾಂತಿಯನ್ನು ತರುತ್ತದೆ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG12.13",
         "img_landscape": "sloks/{size}/chapter_12/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_13/square/img.png",
-        "transliteration": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||"
+        "transliteration": {
+          "hi": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||१२-१३||",
+          "en": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
+          "be": "অদ্বেষ্টা সর্বভূতানাং মৈত্রঃ করুণ এব চ |\nনির্মমো নিরহঙ্কারঃ সমদুঃখসুখঃ ক্ষমী ||১২-১৩||",
+          "ka": "ಅದ್ವೇಷ್ಟಾ ಸರ್ವಭೂತಾನಾಂ ಮೈತ್ರಃ ಕರುಣ ಏವ ಚ |\nನಿರ್ಮಮೋ ನಿರಹಙ್ಕಾರಃ ಸಮದುಃಖಸುಖಃ ಕ್ಷಮೀ ||೧೨-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||१२-१३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||१२-१३||",
+          "en": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
+          "be": "অদ্বেষ্টা সর্বভূতানাং মৈত্রঃ করুণ এব চ |\nনির্মমো নিরহঙ্কারঃ সমদুঃখসুখঃ ক্ষমী ||১২-১৩||",
+          "ka": "ಅದ್ವೇಷ್ಟಾ ಸರ್ವಭೂತಾನಾಂ ಮೈತ್ರಃ ಕರುಣ ಏವ ಚ |\nನಿರ್ಮಮೋ ನಿರಹಙ್ಕಾರಃ ಸಮದುಃಖಸುಖಃ ಕ್ಷಮೀ ||೧೨-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Bear no ill will toward any creature, be friendly, compassionate, free from possessiveness and ego, equal in pain and pleasure, forgiving."
+        "life_application": {
+          "hi": "किसी भी प्राणी के प्रति कोई दुर्भावना न रखें, मैत्रीपूर्ण, दयालु बनें, स्वामित्व और अहंकार से मुक्त हों, दर्द और खुशी में समान हों, क्षमाशील हों।",
+          "en": "Bear no ill will toward any creature, be friendly, compassionate, free from possessiveness and ego, equal in pain and pleasure, forgiving.",
+          "be": "কোন প্রাণীর প্রতি কোন খারাপ ইচ্ছা পোষণ করবেন না, বন্ধুত্বপূর্ণ, সহানুভূতিশীল, অধিকার এবং অহংকার থেকে মুক্ত, বেদনা ও আনন্দে সমান, ক্ষমাশীল।",
+          "ka": "ಯಾವುದೇ ಜೀವಿಗಳ ಬಗ್ಗೆ ಯಾವುದೇ ಕೆಟ್ಟ ಇಚ್ಛೆಯನ್ನು ಸಹಿಸಬೇಡಿ, ಸ್ನೇಹಪರ, ಸಹಾನುಭೂತಿ, ಸ್ವಾಮ್ಯಸೂಚಕತೆ ಮತ್ತು ಅಹಂಕಾರದಿಂದ ಮುಕ್ತರಾಗಿರಿ, ನೋವು ಮತ್ತು ಸಂತೋಷದಲ್ಲಿ ಸಮಾನವಾಗಿ, ಕ್ಷಮಿಸುವವರಾಗಿರಿ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG12.14",
         "img_landscape": "sloks/{size}/chapter_12/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_14/square/img.png",
-        "transliteration": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||"
+        "transliteration": {
+          "hi": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||",
+          "en": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
+          "be": "সন্তুষ্টঃ সততং যোগী যতাত্মা দৃঢনিশ্চযঃ |\nময্যর্পিতমনোবুদ্ধির্যো মদ্ভক্তঃ স মে প্রিযঃ ||১২-১৪||",
+          "ka": "ಸನ್ತುಷ್ಟಃ ಸತತಂ ಯೋಗೀ ಯತಾತ್ಮಾ ದೃಢನಿಶ್ಚಯಃ |\nಮಯ್ಯರ್ಪಿತಮನೋಬುದ್ಧಿರ್ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||",
+          "en": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
+          "be": "সন্তুষ্টঃ সততং যোগী যতাত্মা দৃঢনিশ্চযঃ |\nময্যর্পিতমনোবুদ্ধির্যো মদ্ভক্তঃ স মে প্রিযঃ ||১২-১৪||",
+          "ka": "ಸನ್ತುಷ್ಟಃ ಸತತಂ ಯೋಗೀ ಯತಾತ್ಮಾ ದೃಢನಿಶ್ಚಯಃ |\nಮಯ್ಯರ್ಪಿತಮನೋಬುದ್ಧಿರ್ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Remain ever content, self-controlled, firm in resolve, with mind and intellect dedicated to God—be a cherished devotee."
+        "life_application": {
+          "hi": "सदैव संतुष्ट रहो, आत्म-नियंत्रित रहो, दृढ़ निश्चय करो, मन और बुद्धि को भगवान के प्रति समर्पित रखो - एक प्रिय भक्त बनो।",
+          "en": "Remain ever content, self-controlled, firm in resolve, with mind and intellect dedicated to God—be a cherished devotee.",
+          "be": "সর্বদা সন্তুষ্ট, আত্মনিয়ন্ত্রিত, সংকল্পে দৃঢ়, মন ও বুদ্ধি ভগবানের প্রতি নিবেদিত - লালন ভক্ত হন।",
+          "ka": "ಸದಾ ತೃಪ್ತರಾಗಿರಿ, ಸ್ವಯಂ ನಿಯಂತ್ರಿತರಾಗಿ, ಸಂಕಲ್ಪದಲ್ಲಿ ದೃಢವಾಗಿರಿ, ಮನಸ್ಸು ಮತ್ತು ಬುದ್ಧಿಯು ದೇವರಿಗೆ ಸಮರ್ಪಿತರಾಗಿರಿ-ಪ್ರೀತಿಯ ಭಕ್ತರಾಗಿರಿ."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG12.15",
         "img_landscape": "sloks/{size}/chapter_12/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_15/square/img.png",
-        "transliteration": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||"
+        "transliteration": {
+          "hi": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||",
+          "en": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
+          "be": "যস্মান্নোদ্বিজতে লোকো লোকান্নোদ্বিজতে চ যঃ |\nহর্ষামর্ষভযোদ্বেগৈর্মুক্তো যঃ স চ মে প্রিযঃ ||১২-১৫||",
+          "ka": "ಯಸ್ಮಾನ್ನೋದ್ವಿಜತೇ ಲೋಕೋ ಲೋಕಾನ್ನೋದ್ವಿಜತೇ ಚ ಯಃ |\nಹರ್ಷಾಮರ್ಷಭಯೋದ್ವೇಗೈರ್ಮುಕ್ತೋ ಯಃ ಸ ಚ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||",
+          "en": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
+          "be": "যস্মান্নোদ্বিজতে লোকো লোকান্নোদ্বিজতে চ যঃ |\nহর্ষামর্ষভযোদ্বেগৈর্মুক্তো যঃ স চ মে প্রিযঃ ||১২-১৫||",
+          "ka": "ಯಸ್ಮಾನ್ನೋದ್ವಿಜತೇ ಲೋಕೋ ಲೋಕಾನ್ನೋದ್ವಿಜತೇ ಚ ಯಃ |\nಹರ್ಷಾಮರ್ಷಭಯೋದ್ವೇಗೈರ್ಮುಕ್ತೋ ಯಃ ಸ ಚ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Do not disturb the world, and let not the world disturb you; be free from excitement, anger, fear, and anxiety."
+        "life_application": {
+          "hi": "संसार को परेशान मत करो, और संसार तुम्हें परेशान न करे; उत्तेजना, क्रोध, भय और चिंता से मुक्त रहें।",
+          "en": "Do not disturb the world, and let not the world disturb you; be free from excitement, anger, fear, and anxiety.",
+          "be": "বিশ্বকে বিরক্ত করবেন না, এবং বিশ্ব আপনাকে বিরক্ত করবে না; উত্তেজনা, রাগ, ভয় এবং উদ্বেগ থেকে মুক্ত থাকুন।",
+          "ka": "ಜಗತ್ತನ್ನು ತೊಂದರೆಗೊಳಿಸಬೇಡಿ ಮತ್ತು ಜಗತ್ತು ನಿಮ್ಮನ್ನು ತೊಂದರೆಗೊಳಿಸದಿರಲಿ; ಉತ್ಸಾಹ, ಕೋಪ, ಭಯ ಮತ್ತು ಆತಂಕದಿಂದ ಮುಕ್ತರಾಗಿರಿ."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG12.16",
         "img_landscape": "sloks/{size}/chapter_12/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_16/square/img.png",
-        "transliteration": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||"
+        "transliteration": {
+          "hi": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||",
+          "en": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
+          "be": "অনপেক্ষঃ শুচির্দক্ষ উদাসীনো গতব্যথঃ |\nসর্বারম্ভপরিত্যাগী যো মদ্ভক্তঃ স মে প্রিযঃ ||১২-১৬||",
+          "ka": "ಅನಪೇಕ್ಷಃ ಶುಚಿರ್ದಕ್ಷ ಉದಾಸೀನೋ ಗತವ್ಯಥಃ |\nಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||",
+          "en": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
+          "be": "অনপেক্ষঃ শুচির্দক্ষ উদাসীনো গতব্যথঃ |\nসর্বারম্ভপরিত্যাগী যো মদ্ভক্তঃ স মে প্রিযঃ ||১২-১৬||",
+          "ka": "ಅನಪೇಕ್ಷಃ ಶುಚಿರ್ದಕ್ಷ ಉದಾಸೀನೋ ಗತವ್ಯಥಃ |\nಸರ್ವಾರಮ್ಭಪರಿತ್ಯಾಗೀ ಯೋ ಮದ್ಭಕ್ತಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Be free from selfish expectation, pure, capable, unconcerned, unagitated, abandoning all personal undertakings for credit."
+        "life_application": {
+          "hi": "स्वार्थी अपेक्षा से मुक्त, शुद्ध, सक्षम, निश्चिन्त, निर्लिप्त, श्रेय के लिए सभी व्यक्तिगत उपक्रमों का त्याग करें।",
+          "en": "Be free from selfish expectation, pure, capable, unconcerned, unagitated, abandoning all personal undertakings for credit.",
+          "be": "স্বার্থপর প্রত্যাশা থেকে মুক্ত, শুদ্ধ, সক্ষম, উদ্বিগ্ন, উদ্বিগ্ন, ঋণের জন্য সমস্ত ব্যক্তিগত উদ্যোগ পরিত্যাগ করুন।",
+          "ka": "ಸ್ವಾರ್ಥದ ನಿರೀಕ್ಷೆಯಿಂದ ಮುಕ್ತರಾಗಿರಿ, ಶುದ್ಧ, ಸಮರ್ಥ, ಕಾಳಜಿಯಿಲ್ಲದ, ಉದ್ರೇಕಗೊಳ್ಳದ, ಸಾಲಕ್ಕಾಗಿ ಎಲ್ಲಾ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ತ್ಯಜಿಸಿ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG12.17",
         "img_landscape": "sloks/{size}/chapter_12/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_17/square/img.png",
-        "transliteration": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||"
+        "transliteration": {
+          "hi": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||",
+          "en": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
+          "be": "যো ন হৃষ্যতি ন দ্বেষ্টি ন শোচতি ন কাঙ্ক্ষতি |\nশুভাশুভপরিত্যাগী ভক্তিমান্যঃ স মে প্রিযঃ ||১২-১৭||",
+          "ka": "ಯೋ ನ ಹೃಷ್ಯತಿ ನ ದ್ವೇಷ್ಟಿ ನ ಶೋಚತಿ ನ ಕಾಙ್ಕ್ಷತಿ |\nಶುಭಾಶುಭಪರಿತ್ಯಾಗೀ ಭಕ್ತಿಮಾನ್ಯಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||",
+          "en": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
+          "be": "যো ন হৃষ্যতি ন দ্বেষ্টি ন শোচতি ন কাঙ্ক্ষতি |\nশুভাশুভপরিত্যাগী ভক্তিমান্যঃ স মে প্রিযঃ ||১২-১৭||",
+          "ka": "ಯೋ ನ ಹೃಷ್ಯತಿ ನ ದ್ವೇಷ್ಟಿ ನ ಶೋಚತಿ ನ ಕಾಙ್ಕ್ಷತಿ |\nಶುಭಾಶುಭಪರಿತ್ಯಾಗೀ ಭಕ್ತಿಮಾನ್ಯಃ ಸ ಮೇ ಪ್ರಿಯಃ ||೧೨-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Neither rejoice excessively nor hate, neither grieve nor crave, abandoning both good and evil outcomes with devotion."
+        "life_application": {
+          "hi": "न अत्यधिक आनन्द करो, न द्वेष करो, न शोक करो और न लालसा करो, भक्तिपूर्वक अच्छे और बुरे दोनों परिणामों को त्याग दो।",
+          "en": "Neither rejoice excessively nor hate, neither grieve nor crave, abandoning both good and evil outcomes with devotion.",
+          "be": "অত্যধিক আনন্দ করো না, ঘৃণা করো না, শোক করো না বা আকাঙ্ক্ষা করো না, ভক্তি সহকারে ভাল এবং মন্দ উভয় ফলাফল ত্যাগ করো।",
+          "ka": "ಅತಿಯಾಗಿ ಸಂತೋಷಪಡಬೇಡಿ ಅಥವಾ ದ್ವೇಷಿಸಬೇಡಿ, ದುಃಖಿಸಬೇಡಿ ಅಥವಾ ಹಂಬಲಿಸಬೇಡಿ, ಭಕ್ತಿಯಿಂದ ಒಳ್ಳೆಯ ಮತ್ತು ಕೆಟ್ಟ ಫಲಿತಾಂಶಗಳನ್ನು ತ್ಯಜಿಸಿ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG12.18",
         "img_landscape": "sloks/{size}/chapter_12/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_18/square/img.png",
-        "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||"
+        "transliteration": {
+          "hi": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
+          "en": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
+          "be": "সমঃ শত্রৌ চ মিত্রে চ তথা মানাপমানযোঃ |\nশীতোষ্ণসুখদুঃখেষু সমঃ সঙ্গবিবর্জিতঃ ||১২-১৮||",
+          "ka": "ಸಮಃ ಶತ್ರೌ ಚ ಮಿತ್ರೇ ಚ ತಥಾ ಮಾನಾಪಮಾನಯೋಃ |\nಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು ಸಮಃ ಸಙ್ಗವಿವರ್ಜಿತಃ ||೧೨-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
+          "en": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
+          "be": "সমঃ শত্রৌ চ মিত্রে চ তথা মানাপমানযোঃ |\nশীতোষ্ণসুখদুঃখেষু সমঃ সঙ্গবিবর্জিতঃ ||১২-১৮||",
+          "ka": "ಸಮಃ ಶತ್ರೌ ಚ ಮಿತ್ರೇ ಚ ತಥಾ ಮಾನಾಪಮಾನಯೋಃ |\nಶೀತೋಷ್ಣಸುಖದುಃಖೇಷು ಸಮಃ ಸಙ್ಗವಿವರ್ಜಿತಃ ||೧೨-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Treat friend and foe alike, remain balanced in honor and dishonor, heat and cold, pleasure and pain, free from attachment."
+        "life_application": {
+          "hi": "मित्र और शत्रु के साथ समान व्यवहार करें, मान और अपमान, गर्मी और सर्दी, सुख और दुख में संतुलित रहें, आसक्ति से मुक्त रहें।",
+          "en": "Treat friend and foe alike, remain balanced in honor and dishonor, heat and cold, pleasure and pain, free from attachment.",
+          "be": "বন্ধু এবং শত্রুর সাথে সমান আচরণ করুন, সম্মান এবং অসম্মান, তাপ এবং ঠান্ডা, আনন্দ এবং ব্যথা, আসক্তি থেকে মুক্ত থাকুন।",
+          "ka": "ಸ್ನೇಹಿತ ಮತ್ತು ಶತ್ರುಗಳನ್ನು ಸಮಾನವಾಗಿ ಪರಿಗಣಿಸಿ, ಗೌರವ ಮತ್ತು ಅವಮಾನ, ಶಾಖ ಮತ್ತು ಶೀತ, ಸಂತೋಷ ಮತ್ತು ನೋವು, ಬಾಂಧವ್ಯದಿಂದ ಮುಕ್ತವಾಗಿ ಸಮತೋಲನದಲ್ಲಿರಿ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG12.19",
         "img_landscape": "sloks/{size}/chapter_12/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_19/square/img.png",
-        "transliteration": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||"
+        "transliteration": {
+          "hi": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||",
+          "en": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
+          "be": "তুল্যনিন্দাস্তুতির্মৌনী সন্তুষ্টো যেন কেনচিত্ |\nঅনিকেতঃ স্থিরমতির্ভক্তিমান্মে প্রিযো নরঃ ||১২-১৯||",
+          "ka": "ತುಲ್ಯನಿನ್ದಾಸ್ತುತಿರ್ಮೌನೀ ಸನ್ತುಷ್ಟೋ ಯೇನ ಕೇನಚಿತ್ |\nಅನಿಕೇತಃ ಸ್ಥಿರಮತಿರ್ಭಕ್ತಿಮಾನ್ಮೇ ಪ್ರಿಯೋ ನರಃ ||೧೨-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||",
+          "en": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
+          "be": "তুল্যনিন্দাস্তুতির্মৌনী সন্তুষ্টো যেন কেনচিত্ |\nঅনিকেতঃ স্থিরমতির্ভক্তিমান্মে প্রিযো নরঃ ||১২-১৯||",
+          "ka": "ತುಲ್ಯನಿನ್ದಾಸ್ತುತಿರ್ಮೌನೀ ಸನ್ತುಷ್ಟೋ ಯೇನ ಕೇನಚಿತ್ |\nಅನಿಕೇತಃ ಸ್ಥಿರಮತಿರ್ಭಕ್ತಿಮಾನ್ಮೇ ಪ್ರಿಯೋ ನರಃ ||೧೨-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Treat blame and praise equally, remain silent, content with anything, homeless in spirit, steady-minded, devoted to God."
+        "life_application": {
+          "hi": "निंदा और स्तुति को समान समझो, चुप रहो, किसी भी चीज़ में संतुष्ट रहो, आत्मा से बेघर, स्थिरचित्त, ईश्वर के प्रति समर्पित।",
+          "en": "Treat blame and praise equally, remain silent, content with anything, homeless in spirit, steady-minded, devoted to God.",
+          "be": "দোষ এবং প্রশংসার সাথে সমানভাবে আচরণ করুন, নীরব থাকুন, যে কোনও কিছুতে সন্তুষ্ট থাকুন, আত্মায় গৃহহীন, স্থিরচিত্ত, ঈশ্বরের প্রতি নিবেদিত।",
+          "ka": "ದೂಷಣೆ ಮತ್ತು ಹೊಗಳಿಕೆಯನ್ನು ಸಮಾನವಾಗಿ ಪರಿಗಣಿಸಿ, ಮೌನವಾಗಿರಿ, ಯಾವುದರಿಂದಲೂ ತೃಪ್ತರಾಗಿರಿ, ಆತ್ಮದಲ್ಲಿ ನಿರಾಶ್ರಿತರು, ಸ್ಥಿರ ಮನಸ್ಸಿನವರು, ದೇವರಿಗೆ ಸಮರ್ಪಿತರು."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG12.20",
         "img_landscape": "sloks/{size}/chapter_12/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_12/slok_20/square/img.png",
-        "transliteration": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||"
+        "transliteration": {
+          "hi": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||",
+          "en": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
+          "be": "যে তু ধর্ম্যামৃতমিদং যথোক্তং পর্যুপাসতে |\nশ্রদ্দধানা মত্পরমা ভক্তাস্তেঽতীব মে প্রিযাঃ ||১২-২০||",
+          "ka": "ಯೇ ತು ಧರ್ಮ್ಯಾಮೃತಮಿದಂ ಯಥೋಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಶ್ರದ್ದಧಾನಾ ಮತ್ಪರಮಾ ಭಕ್ತಾಸ್ತೇಽತೀವ ಮೇ ಪ್ರಿಯಾಃ ||೧೨-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||",
+          "en": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
+          "be": "যে তু ধর্ম্যামৃতমিদং যথোক্তং পর্যুপাসতে |\nশ্রদ্দধানা মত্পরমা ভক্তাস্তেঽতীব মে প্রিযাঃ ||১২-২০||",
+          "ka": "ಯೇ ತು ಧರ್ಮ್ಯಾಮೃತಮಿದಂ ಯಥೋಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಶ್ರದ್ದಧಾನಾ ಮತ್ಪರಮಾ ಭಕ್ತಾಸ್ತೇಽತೀವ ಮೇ ಪ್ರಿಯಾಃ ||೧೨-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Follow this immortal wisdom with faith, making God your supreme goal—become exceedingly dear to the Divine."
+        "life_application": {
+          "hi": "विश्वास के साथ इस अमर ज्ञान का पालन करें, ईश्वर को अपना सर्वोच्च लक्ष्य बनाएं - ईश्वर को अत्यधिक प्रिय बनें।",
+          "en": "Follow this immortal wisdom with faith, making God your supreme goal—become exceedingly dear to the Divine.",
+          "be": "বিশ্বাসের সাথে এই অমর প্রজ্ঞাকে অনুসরণ করুন, ঈশ্বরকে আপনার সর্বোচ্চ লক্ষ্য বানিয়ে দিন - ঈশ্বরের কাছে অত্যন্ত প্রিয় হয়ে উঠুন।",
+          "ka": "ಈ ಅಮರ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ನಂಬಿಕೆಯಿಂದ ಅನುಸರಿಸಿ, ದೇವರನ್ನು ನಿಮ್ಮ ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನಾಗಿ ಮಾಡಿ-ದೈವಿಕರಿಗೆ ಅತ್ಯಂತ ಪ್ರಿಯರಾಗಿರಿ."
+        }
       }
     }
   ]

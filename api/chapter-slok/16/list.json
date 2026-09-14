@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Daivasura Sampad Vibhaga Yoga"
+    "translation": {
+      "hi": "दैवासुर सम्पद् विभाग योग",
+      "en": "Daivasura Sampad Vibhaga Yoga",
+      "be": "দৈবাসুর সম্পদ বিভাগ যোগ",
+      "ka": "ದೈವಾಸುರ ಸಂಪದ್ ವಿಭಾಗ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG16.1",
         "img_landscape": "sloks/{size}/chapter_16/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_1/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||",
+          "en": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
+          "be": "শ্রীভগবানুবাচ |\nঅভযং সত্ত্বসংশুদ্ধির্জ্ঞানযোগব্যবস্থিতিঃ |\nদানং দমশ্চ যজ্ঞশ্চ স্বাধ্যাযস্তপ আর্জবম্ ||১৬-১||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಭಯಂ ಸತ್ತ್ವಸಂಶುದ್ಧಿರ್ಜ್ಞಾನಯೋಗವ್ಯವಸ್ಥಿತಿಃ |\nದಾನಂ ದಮಶ್ಚ ಯಜ್ಞಶ್ಚ ಸ್ವಾಧ್ಯಾಯಸ್ತಪ ಆರ್ಜವಮ್ ||೧೬-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||",
+          "en": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
+          "be": "শ্রীভগবানুবাচ |\nঅভযং সত্ত্বসংশুদ্ধির্জ্ঞানযোগব্যবস্থিতিঃ |\nদানং দমশ্চ যজ্ঞশ্চ স্বাধ্যাযস্তপ আর্জবম্ ||১৬-১||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಭಯಂ ಸತ್ತ್ವಸಂಶುದ್ಧಿರ್ಜ್ಞಾನಯೋಗವ್ಯವಸ್ಥಿತಿಃ |\nದಾನಂ ದಮಶ್ಚ ಯಜ್ಞಶ್ಚ ಸ್ವಾಧ್ಯಾಯಸ್ತಪ ಆರ್ಜವಮ್ ||೧೬-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Cultivate fearlessness, purity of heart, steadfastness in knowledge, charity, self-control, sacrifice, study, austerity, honesty."
+        "life_application": {
+          "hi": "निर्भयता, हृदय की पवित्रता, ज्ञान में दृढ़ता, दान, संयम, त्याग, अध्ययन, तपस्या, ईमानदारी का विकास करें।",
+          "en": "Cultivate fearlessness, purity of heart, steadfastness in knowledge, charity, self-control, sacrifice, study, austerity, honesty.",
+          "be": "নির্ভীকতা, হৃদয়ের পবিত্রতা, জ্ঞানে অবিচলতা, দান, আত্মনিয়ন্ত্রণ, ত্যাগ, অধ্যয়ন, তপস্যা, সততা গড়ে তুলুন।",
+          "ka": "ನಿರ್ಭಯತೆ, ಹೃದಯ ಶುದ್ಧತೆ, ಜ್ಞಾನದಲ್ಲಿ ದೃಢತೆ, ದಾನ, ಸ್ವಯಂ ನಿಯಂತ್ರಣ, ತ್ಯಾಗ, ಅಧ್ಯಯನ, ತಪಸ್ಸು, ಪ್ರಾಮಾಣಿಕತೆಗಳನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG16.2",
         "img_landscape": "sloks/{size}/chapter_16/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_2/square/img.png",
-        "transliteration": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||"
+        "transliteration": {
+          "hi": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||",
+          "en": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
+          "be": "অহিংসা সত্যমক্রোধস্ত্যাগঃ শান্তিরপৈশুনম্ |\nদযা ভূতেষ্বলোলুপ্ত্বং মার্দবং হ্রীরচাপলম্ ||১৬-২||",
+          "ka": "ಅಹಿಂಸಾ ಸತ್ಯಮಕ್ರೋಧಸ್ತ್ಯಾಗಃ ಶಾನ್ತಿರಪೈಶುನಮ್ |\nದಯಾ ಭೂತೇಷ್ವಲೋಲುಪ್ತ್ವಂ ಮಾರ್ದವಂ ಹ್ರೀರಚಾಪಲಮ್ ||೧೬-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||",
+          "en": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
+          "be": "অহিংসা সত্যমক্রোধস্ত্যাগঃ শান্তিরপৈশুনম্ |\nদযা ভূতেষ্বলোলুপ্ত্বং মার্দবং হ্রীরচাপলম্ ||১৬-২||",
+          "ka": "ಅಹಿಂಸಾ ಸತ್ಯಮಕ್ರೋಧಸ್ತ್ಯಾಗಃ ಶಾನ್ತಿರಪೈಶುನಮ್ |\nದಯಾ ಭೂತೇಷ್ವಲೋಲುಪ್ತ್ವಂ ಮಾರ್ದವಂ ಹ್ರೀರಚಾಪಲಮ್ ||೧೬-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Practice non-violence, truthfulness, freedom from anger, renunciation, tranquility, absence of fault-finding, compassion, gentleness, modesty."
+        "life_application": {
+          "hi": "अहिंसा, सत्य, क्रोध से मुक्ति, त्याग, शांति, दोष-निरीक्षण का अभाव, करुणा, नम्रता, शील का अभ्यास करें।",
+          "en": "Practice non-violence, truthfulness, freedom from anger, renunciation, tranquility, absence of fault-finding, compassion, gentleness, modesty.",
+          "be": "অহিংসা, সত্যবাদিতা, ক্রোধ থেকে মুক্তি, ত্যাগ, প্রশান্তি, দোষ অনুসন্ধানের অনুপস্থিতি, সহানুভূতি, ভদ্রতা, বিনয় অনুশীলন করুন।",
+          "ka": "ಅಹಿಂಸೆ, ಸತ್ಯನಿಷ್ಠೆ, ಕ್ರೋಧದಿಂದ ಮುಕ್ತಿ, ತ್ಯಾಗ, ನೆಮ್ಮದಿ, ದೋಷ ಕಂಡು ಹಿಡಿಯದಿರುವುದು, ಸಹಾನುಭೂತಿ, ಸೌಮ್ಯತೆ, ನಮ್ರತೆ ಇವುಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG16.3",
         "img_landscape": "sloks/{size}/chapter_16/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_3/square/img.png",
-        "transliteration": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||"
+        "transliteration": {
+          "hi": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||",
+          "en": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
+          "be": "তেজঃ ক্ষমা ধৃতিঃ শৌচমদ্রোহো নাতিমানিতা |\nভবন্তি সম্পদং দৈবীমভিজাতস্য ভারত ||১৬-৩||",
+          "ka": "ತೇಜಃ ಕ್ಷಮಾ ಧೃತಿಃ ಶೌಚಮದ್ರೋಹೋ ನಾತಿಮಾನಿತಾ |\nಭವನ್ತಿ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತಸ್ಯ ಭಾರತ ||೧೬-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||",
+          "en": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
+          "be": "তেজঃ ক্ষমা ধৃতিঃ শৌচমদ্রোহো নাতিমানিতা |\nভবন্তি সম্পদং দৈবীমভিজাতস্য ভারত ||১৬-৩||",
+          "ka": "ತೇಜಃ ಕ್ಷಮಾ ಧೃತಿಃ ಶೌಚಮದ್ರೋಹೋ ನಾತಿಮಾನಿತಾ |\nಭವನ್ತಿ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತಸ್ಯ ಭಾರತ ||೧೬-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Embody vigor, forgiveness, fortitude, purity, absence of hatred, and freedom from excessive pride as divine traits."
+        "life_application": {
+          "hi": "शक्ति, क्षमा, धैर्य, पवित्रता, घृणा का अभाव और अत्यधिक अभिमान से मुक्ति को दैवीय गुणों के रूप में अपनाएं।",
+          "en": "Embody vigor, forgiveness, fortitude, purity, absence of hatred, and freedom from excessive pride as divine traits.",
+          "be": "শক্তি, ক্ষমা, দৃঢ়তা, বিশুদ্ধতা, ঘৃণার অনুপস্থিতি এবং অতিরিক্ত অহংকার থেকে মুক্তিকে ঐশ্বরিক বৈশিষ্ট্য হিসাবে মূর্ত করুন।",
+          "ka": "ಚೈತನ್ಯ, ಕ್ಷಮೆ, ಸ್ಥೈರ್ಯ, ಪರಿಶುದ್ಧತೆ, ದ್ವೇಷದ ಅನುಪಸ್ಥಿತಿ ಮತ್ತು ಅತಿಯಾದ ಹೆಮ್ಮೆಯಿಂದ ಮುಕ್ತಿ ದೈವಿಕ ಲಕ್ಷಣಗಳಾಗಿ."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG16.4",
         "img_landscape": "sloks/{size}/chapter_16/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_4/square/img.png",
-        "transliteration": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||"
+        "transliteration": {
+          "hi": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||",
+          "en": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
+          "be": "দম্ভো দর্পোঽভিমানশ্চ ক্রোধঃ পারুষ্যমেব চ |\nঅজ্ঞানং চাভিজাতস্য পার্থ সম্পদমাসুরীম্ ||১৬-৪||",
+          "ka": "ದಮ್ಭೋ ದರ್ಪೋಽಭಿಮಾನಶ್ಚ ಕ್ರೋಧಃ ಪಾರುಷ್ಯಮೇವ ಚ |\nಅಜ್ಞಾನಂ ಚಾಭಿಜಾತಸ್ಯ ಪಾರ್ಥ ಸಮ್ಪದಮಾಸುರೀಮ್ ||೧೬-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||",
+          "en": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
+          "be": "দম্ভো দর্পোঽভিমানশ্চ ক্রোধঃ পারুষ্যমেব চ |\nঅজ্ঞানং চাভিজাতস্য পার্থ সম্পদমাসুরীম্ ||১৬-৪||",
+          "ka": "ದಮ್ಭೋ ದರ್ಪೋಽಭಿಮಾನಶ್ಚ ಕ್ರೋಧಃ ಪಾರುಷ್ಯಮೇವ ಚ |\nಅಜ್ಞಾನಂ ಚಾಭಿಜಾತಸ್ಯ ಪಾರ್ಥ ಸಮ್ಪದಮಾಸುರೀಮ್ ||೧೬-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Beware of ostentation, arrogance, self-conceit, anger, harshness, and ignorance, which mark demonic nature."
+        "life_application": {
+          "hi": "आडंबर, अहंकार, आत्म-दंभ, क्रोध, कठोरता और अज्ञानता से सावधान रहें, जो राक्षसी स्वभाव का प्रतीक हैं।",
+          "en": "Beware of ostentation, arrogance, self-conceit, anger, harshness, and ignorance, which mark demonic nature.",
+          "be": "দাম্ভিকতা, অহংকার, আত্ম-অহংকার, রাগ, কঠোরতা এবং অজ্ঞতা থেকে সাবধান থাকুন, যা শয়তানী প্রকৃতিকে চিহ্নিত করে।",
+          "ka": "ಆಡಂಬರ, ದುರಹಂಕಾರ, ಅಹಂಕಾರ, ಕೋಪ, ಕಠೋರತೆ ಮತ್ತು ಅಜ್ಞಾನದ ಬಗ್ಗೆ ಎಚ್ಚರದಿಂದಿರಿ, ಇದು ರಾಕ್ಷಸ ಸ್ವಭಾವವನ್ನು ಗುರುತಿಸುತ್ತದೆ."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG16.5",
         "img_landscape": "sloks/{size}/chapter_16/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_5/square/img.png",
-        "transliteration": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||"
+        "transliteration": {
+          "hi": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
+          "en": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
+          "be": "দৈবী সম্পদ্বিমোক্ষায নিবন্ধাযাসুরী মতা |\nমা শুচঃ সম্পদং দৈবীমভিজাতোঽসি পাণ্ডব ||১৬-৫||",
+          "ka": "ದೈವೀ ಸಮ್ಪದ್ವಿಮೋಕ್ಷಾಯ ನಿಬನ್ಧಾಯಾಸುರೀ ಮತಾ |\nಮಾ ಶುಚಃ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತೋಽಸಿ ಪಾಣ್ಡವ ||೧೬-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
+          "en": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
+          "be": "দৈবী সম্পদ্বিমোক্ষায নিবন্ধাযাসুরী মতা |\nমা শুচঃ সম্পদং দৈবীমভিজাতোঽসি পাণ্ডব ||১৬-৫||",
+          "ka": "ದೈವೀ ಸಮ್ಪದ್ವಿಮೋಕ್ಷಾಯ ನಿಬನ್ಧಾಯಾಸುರೀ ಮತಾ |\nಮಾ ಶುಚಃ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತೋಽಸಿ ಪಾಣ್ಡವ ||೧೬-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Divine virtues lead to liberation while destructive traits cause bondage, so walk the path of virtue confidently."
+        "life_application": {
+          "hi": "दैवी गुण मुक्ति की ओर ले जाते हैं जबकि विनाशकारी गुण बंधन का कारण बनते हैं, इसलिए आत्मविश्वास के साथ सद्गुण के मार्ग पर चलें।",
+          "en": "Divine virtues lead to liberation while destructive traits cause bondage, so walk the path of virtue confidently.",
+          "be": "ঐশ্বরিক গুণগুলি মুক্তির দিকে পরিচালিত করে যখন ধ্বংসাত্মক বৈশিষ্ট্যগুলি বন্ধন সৃষ্টি করে, তাই আত্মবিশ্বাসের সাথে পুণ্যের পথে চলুন।",
+          "ka": "ದೈವಿಕ ಗುಣಗಳು ಮುಕ್ತಿಗೆ ಕಾರಣವಾಗುತ್ತವೆ ಆದರೆ ವಿನಾಶಕಾರಿ ಲಕ್ಷಣಗಳು ಬಂಧನವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ, ಆದ್ದರಿಂದ ಆತ್ಮವಿಶ್ವಾಸದಿಂದ ಪುಣ್ಯದ ಹಾದಿಯಲ್ಲಿ ನಡೆಯಿರಿ."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG16.6",
         "img_landscape": "sloks/{size}/chapter_16/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_6/square/img.png",
-        "transliteration": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||"
+        "transliteration": {
+          "hi": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||१६-६||",
+          "en": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
+          "be": "দ্বৌ ভূতসর্গৌ লোকেঽস্মিন্দৈব আসুর এব চ |\nদৈবো বিস্তরশঃ প্রোক্ত আসুরং পার্থ মে শৃণু ||১৬-৬||",
+          "ka": "ದ್ವೌ ಭೂತಸರ್ಗೌ ಲೋಕೇಽಸ್ಮಿನ್ದೈವ ಆಸುರ ಏವ ಚ |\nದೈವೋ ವಿಸ್ತರಶಃ ಪ್ರೋಕ್ತ ಆಸುರಂ ಪಾರ್ಥ ಮೇ ಶೃಣು ||೧೬-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||१६-६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||१६-६||",
+          "en": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
+          "be": "দ্বৌ ভূতসর্গৌ লোকেঽস্মিন্দৈব আসুর এব চ |\nদৈবো বিস্তরশঃ প্রোক্ত আসুরং পার্থ মে শৃণু ||১৬-৬||",
+          "ka": "ದ್ವೌ ಭೂತಸರ್ಗೌ ಲೋಕೇಽಸ್ಮಿನ್ದೈವ ಆಸುರ ಏವ ಚ |\nದೈವೋ ವಿಸ್ತರಶಃ ಪ್ರೋಕ್ತ ಆಸುರಂ ಪಾರ್ಥ ಮೇ ಶೃಣು ||೧೬-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Two types of beings exist in this world: divine and demonic; divine has been described, hear now of demonic."
+        "life_application": {
+          "hi": "इस संसार में दो प्रकार के प्राणी विद्यमान हैं: दैवीय और आसुरी; दैवी का वर्णन हो चुका है, अब आसुरी का सुनो।",
+          "en": "Two types of beings exist in this world: divine and demonic; divine has been described, hear now of demonic.",
+          "be": "এই পৃথিবীতে দুই ধরনের সত্তা বিদ্যমান: ঐশ্বরিক এবং দানবীয়; দৈব বর্ণনা করা হয়েছে, এখন দানবের কথা শুনুন।",
+          "ka": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ಎರಡು ರೀತಿಯ ಜೀವಿಗಳು ಅಸ್ತಿತ್ವದಲ್ಲಿವೆ: ದೈವಿಕ ಮತ್ತು ರಾಕ್ಷಸ; ದೈವಿಕ ವಿವರಿಸಲಾಗಿದೆ, ರಾಕ್ಷಸ ಈಗ ಕೇಳಿ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG16.7",
         "img_landscape": "sloks/{size}/chapter_16/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_7/square/img.png",
-        "transliteration": "pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ .\nna śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||16-7||"
+        "transliteration": {
+          "hi": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः |\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||",
+          "en": "pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ .\nna śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||16-7||",
+          "be": "প্রবৃত্তিং চ নিবৃত্তিং চ জনা ন বিদুরাসুরাঃ |\nন শৌচং নাপি চাচারো ন সত্যং তেষু বিদ্যতে ||১৬-৭||",
+          "ka": "ಪ್ರವೃತ್ತಿಂ ಚ ನಿವೃತ್ತಿಂ ಚ ಜನಾ ನ ವಿದುರಾಸುರಾಃ |\nನ ಶೌಚಂ ನಾಪಿ ಚಾಚಾರೋ ನ ಸತ್ಯಂ ತೇಷು ವಿದ್ಯತೇ ||೧೬-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः |\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः |\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||",
+          "en": "pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ .\nna śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||16-7||",
+          "be": "প্রবৃত্তিং চ নিবৃত্তিং চ জনা ন বিদুরাসুরাঃ |\nন শৌচং নাপি চাচারো ন সত্যং তেষু বিদ্যতে ||১৬-৭||",
+          "ka": "ಪ್ರವೃತ್ತಿಂ ಚ ನಿವೃತ್ತಿಂ ಚ ಜನಾ ನ ವಿದುರಾಸುರಾಃ |\nನ ಶೌಚಂ ನಾಪಿ ಚಾಚಾರೋ ನ ಸತ್ಯಂ ತೇಷು ವಿದ್ಯತೇ ||೧೬-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Demonic people know not what to do or avoid; neither purity, nor good conduct, nor truth is found in them."
+        "life_application": {
+          "hi": "राक्षसी लोग नहीं जानते कि क्या करना है या क्या नहीं करना है; उनमें न पवित्रता, न सदाचार, न सत्य पाया जाता है।",
+          "en": "Demonic people know not what to do or avoid; neither purity, nor good conduct, nor truth is found in them.",
+          "be": "পৈশাচিক লোকেরা জানে না কী করতে হবে বা এড়াতে হবে; না তাদের মধ্যে পবিত্রতা, না ভাল আচরণ, না সত্য পাওয়া যায়.",
+          "ka": "ದೆವ್ವದ ಜನರಿಗೆ ಏನು ಮಾಡಬೇಕು ಅಥವಾ ತಪ್ಪಿಸಬೇಕು ಎಂದು ತಿಳಿದಿಲ್ಲ; ಅವುಗಳಲ್ಲಿ ಶುದ್ಧತೆಯಾಗಲೀ, ಒಳ್ಳೆಯ ನಡತೆಯಾಗಲೀ, ಸತ್ಯವಾಗಲೀ ಕಂಡುಬರುವುದಿಲ್ಲ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG16.8",
         "img_landscape": "sloks/{size}/chapter_16/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_8/square/img.png",
-        "transliteration": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||"
+        "transliteration": {
+          "hi": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||",
+          "en": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
+          "be": "অসত্যমপ্রতিষ্ঠং তে জগদাহুরনীশ্বরম্ |\nঅপরস্পরসম্ভূতং কিমন্যত্কামহৈতুকম্ ||১৬-৮||",
+          "ka": "ಅಸತ್ಯಮಪ್ರತಿಷ್ಠಂ ತೇ ಜಗದಾಹುರನೀಶ್ವರಮ್ |\nಅಪರಸ್ಪರಸಮ್ಭೂತಂ ಕಿಮನ್ಯತ್ಕಾಮಹೈತುಕಮ್ ||೧೬-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||",
+          "en": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
+          "be": "অসত্যমপ্রতিষ্ঠং তে জগদাহুরনীশ্বরম্ |\nঅপরস্পরসম্ভূতং কিমন্যত্কামহৈতুকম্ ||১৬-৮||",
+          "ka": "ಅಸತ್ಯಮಪ್ರತಿಷ್ಠಂ ತೇ ಜಗದಾಹುರನೀಶ್ವರಮ್ |\nಅಪರಸ್ಪರಸಮ್ಭೂತಂ ಕಿಮನ್ಯತ್ಕಾಮಹೈತುಕಮ್ ||೧೬-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "They say world is without truth, without moral basis, without God, brought about by mutual union caused by lust."
+        "life_application": {
+          "hi": "वे कहते हैं कि संसार सत्य के बिना, नैतिक आधार के बिना, ईश्वर के बिना, वासना के कारण आपसी मेल से बना है।",
+          "en": "They say world is without truth, without moral basis, without God, brought about by mutual union caused by lust.",
+          "be": "তারা বলে যে বিশ্ব সত্যহীন, নৈতিক ভিত্তিহীন, ঈশ্বর ছাড়া, লালসা দ্বারা সৃষ্ট পারস্পরিক মিলনের দ্বারা সৃষ্ট।",
+          "ka": "ಜಗತ್ತು ಸತ್ಯವಿಲ್ಲದೆ, ನೈತಿಕ ಆಧಾರಗಳಿಲ್ಲದೆ, ದೇವರಿಲ್ಲದೆ, ಕಾಮದಿಂದ ಉಂಟಾದ ಪರಸ್ಪರ ಒಕ್ಕೂಟದಿಂದ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಅವರು ಹೇಳುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG16.9",
         "img_landscape": "sloks/{size}/chapter_16/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_9/square/img.png",
-        "transliteration": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||"
+        "transliteration": {
+          "hi": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||",
+          "en": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
+          "be": "এতাং দৃষ্টিমবষ্টভ্য নষ্টাত্মানোঽল্পবুদ্ধযঃ |\nপ্রভবন্ত্যুগ্রকর্মাণঃ ক্ষযায জগতোঽহিতাঃ ||১৬-৯||",
+          "ka": "ಏತಾಂ ದೃಷ್ಟಿಮವಷ್ಟಭ್ಯ ನಷ್ಟಾತ್ಮಾನೋಽಲ್ಪಬುದ್ಧಯಃ |\nಪ್ರಭವನ್ತ್ಯುಗ್ರಕರ್ಮಾಣಃ ಕ್ಷಯಾಯ ಜಗತೋಽಹಿತಾಃ ||೧೬-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||",
+          "en": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
+          "be": "এতাং দৃষ্টিমবষ্টভ্য নষ্টাত্মানোঽল্পবুদ্ধযঃ |\nপ্রভবন্ত্যুগ্রকর্মাণঃ ক্ষযায জগতোঽহিতাঃ ||১৬-৯||",
+          "ka": "ಏತಾಂ ದೃಷ್ಟಿಮವಷ್ಟಭ್ಯ ನಷ್ಟಾತ್ಮಾನೋಽಲ್ಪಬುದ್ಧಯಃ |\nಪ್ರಭವನ್ತ್ಯುಗ್ರಕರ್ಮಾಣಃ ಕ್ಷಯಾಯ ಜಗತೋಽಹಿತಾಃ ||೧೬-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Holding material views, ruined in intellect, of small understanding, fierce deeds, they rise as enemies for destruction."
+        "life_application": {
+          "hi": "भौतिक दृष्टिकोण रखने वाले, बुद्धि से नष्ट, अल्प समझ वाले, उग्र कर्म करने वाले, विनाश के शत्रु बनकर खड़े हो जाते हैं।",
+          "en": "Holding material views, ruined in intellect, of small understanding, fierce deeds, they rise as enemies for destruction.",
+          "be": "বস্তুগত দৃষ্টিভঙ্গি ধারণ করে, বুদ্ধিতে বিধ্বস্ত, ক্ষুদ্র বোধ, উগ্র কাজ, তারা ধ্বংসের শত্রু হয়ে ওঠে।",
+          "ka": "ಭೌತಿಕ ದೃಷ್ಟಿಕೋನಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಂಡು, ಬುದ್ಧಿಯಲ್ಲಿ ಹಾಳಾದ, ಸಣ್ಣ ತಿಳುವಳಿಕೆ, ಉಗ್ರ ಕಾರ್ಯಗಳು, ಅವರು ನಾಶಕ್ಕೆ ಶತ್ರುಗಳಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG16.10",
         "img_landscape": "sloks/{size}/chapter_16/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_10/square/img.png",
-        "transliteration": "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ .\nmohādgṛhītvāsadgrāhānpravartante.aśucivratāḥ ||16-10||"
+        "transliteration": {
+          "hi": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः |\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||१६-१०||",
+          "en": "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ .\nmohādgṛhītvāsadgrāhānpravartante.aśucivratāḥ ||16-10||",
+          "be": "কামমাশ্রিত্য দুষ্পূরং দম্ভমানমদান্বিতাঃ |\nমোহাদ্গৃহীত্বাসদ্গ্রাহান্প্রবর্তন্তেঽশুচিব্রতাঃ ||১৬-১০||",
+          "ka": "ಕಾಮಮಾಶ್ರಿತ್ಯ ದುಷ್ಪೂರಂ ದಮ್ಭಮಾನಮದಾನ್ವಿತಾಃ |\nಮೋಹಾದ್ಗೃಹೀತ್ವಾಸದ್ಗ್ರಾಹಾನ್ಪ್ರವರ್ತನ್ತೇಽಶುಚಿವ್ರತಾಃ ||೧೬-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः |\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||१६-१०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः |\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||१६-१०||",
+          "en": "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ .\nmohādgṛhītvāsadgrāhānpravartante.aśucivratāḥ ||16-10||",
+          "be": "কামমাশ্রিত্য দুষ্পূরং দম্ভমানমদান্বিতাঃ |\nমোহাদ্গৃহীত্বাসদ্গ্রাহান্প্রবর্তন্তেঽশুচিব্রতাঃ ||১৬-১০||",
+          "ka": "ಕಾಮಮಾಶ್ರಿತ್ಯ ದುಷ್ಪೂರಂ ದಮ್ಭಮಾನಮದಾನ್ವಿತಾಃ |\nಮೋಹಾದ್ಗೃಹೀತ್ವಾಸದ್ಗ್ರಾಹಾನ್ಪ್ರವರ್ತನ್ತೇಽಶುಚಿವ್ರತಾಃ ||೧೬-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Surrendering to insatiable desire, full of hypocrisy, pride, arrogance, holding false views through delusion, acting with impure vows."
+        "life_application": {
+          "hi": "अतृप्त इच्छा के आगे समर्पण करने वाला, पाखंड, घमंड, अहंकार से भरा हुआ, भ्रम के माध्यम से गलत विचार रखने वाला, अशुद्ध प्रतिज्ञाओं के साथ काम करने वाला।",
+          "en": "Surrendering to insatiable desire, full of hypocrisy, pride, arrogance, holding false views through delusion, acting with impure vows.",
+          "be": "অতৃপ্ত কামনার কাছে আত্মসমর্পণ করা, কপটতা, অহংকার, অহংকারে পরিপূর্ণ, ভ্রম দ্বারা মিথ্যা মত পোষণ করা, অপবিত্র ব্রত নিয়ে কাজ করা।",
+          "ka": "ಅತೃಪ್ತ ಬಯಕೆಗೆ ಶರಣಾಗುವುದು, ಬೂಟಾಟಿಕೆ, ಹೆಮ್ಮೆ, ಅಹಂಕಾರ, ಭ್ರಮೆಯ ಮೂಲಕ ಸುಳ್ಳು ದೃಷ್ಟಿಕೋನಗಳನ್ನು ಹೊಂದುವುದು, ಅಶುದ್ಧ ಪ್ರತಿಜ್ಞೆಗಳೊಂದಿಗೆ ವರ್ತಿಸುವುದು."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG16.11",
         "img_landscape": "sloks/{size}/chapter_16/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_11/square/img.png",
-        "transliteration": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||"
+        "transliteration": {
+          "hi": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||",
+          "en": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
+          "be": "চিন্তামপরিমেযাং চ প্রলযান্তামুপাশ্রিতাঃ |\nকামোপভোগপরমা এতাবদিতি নিশ্চিতাঃ ||১৬-১১||",
+          "ka": "ಚಿನ್ತಾಮಪರಿಮೇಯಾಂ ಚ ಪ್ರಲಯಾನ್ತಾಮುಪಾಶ್ರಿತಾಃ |\nಕಾಮೋಪಭೋಗಪರಮಾ ಏತಾವದಿತಿ ನಿಶ್ಚಿತಾಃ ||೧೬-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||",
+          "en": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
+          "be": "চিন্তামপরিমেযাং চ প্রলযান্তামুপাশ্রিতাঃ |\nকামোপভোগপরমা এতাবদিতি নিশ্চিতাঃ ||১৬-১১||",
+          "ka": "ಚಿನ್ತಾಮಪರಿಮೇಯಾಂ ಚ ಪ್ರಲಯಾನ್ತಾಮುಪಾಶ್ರಿತಾಃ |\nಕಾಮೋಪಭೋಗಪರಮಾ ಏತಾವದಿತಿ ನಿಶ್ಚಿತಾಃ ||೧೬-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Bound by endless cares ending only at death, regarding gratification of lust as supreme goal, convinced 'this is all'."
+        "life_application": {
+          "hi": "केवल मृत्यु पर समाप्त होने वाली अंतहीन चिंताओं से बंधे हुए, वासना की संतुष्टि को सर्वोच्च लक्ष्य मानते हुए, आश्वस्त थे कि 'यही सब कुछ है'।",
+          "en": "Bound by endless cares ending only at death, regarding gratification of lust as supreme goal, convinced 'this is all'.",
+          "be": "অন্তহীন চিন্তার দ্বারা আবদ্ধ, শুধুমাত্র মৃত্যুতে শেষ হয়, লালসা পরিতৃপ্তিকে সর্বোচ্চ লক্ষ্য হিসাবে বিবেচনা করে, 'এটাই সব'।",
+          "ka": "ಕೊನೆಯಿಲ್ಲದ ಕಾಳಜಿಗಳಿಂದ ಬಂಧಿತರಾಗಿ ಸಾವಿನಲ್ಲಿ ಮಾತ್ರ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ, ಕಾಮದ ತೃಪ್ತಿಯನ್ನು ಪರಮೋಚ್ಚ ಗುರಿಯಾಗಿ ಪರಿಗಣಿಸಿ, 'ಇದೆಲ್ಲವೂ' ಎಂದು ಮನವರಿಕೆಯಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG16.12",
         "img_landscape": "sloks/{size}/chapter_16/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_12/square/img.png",
-        "transliteration": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||"
+        "transliteration": {
+          "hi": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||",
+          "en": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
+          "be": "আশাপাশশতৈর্বদ্ধাঃ কামক্রোধপরাযণাঃ |\nঈহন্তে কামভোগার্থমন্যাযেনার্থসঞ্চযান্ ||১৬-১২||",
+          "ka": "ಆಶಾಪಾಶಶತೈರ್ಬದ್ಧಾಃ ಕಾಮಕ್ರೋಧಪರಾಯಣಾಃ |\nಈಹನ್ತೇ ಕಾಮಭೋಗಾರ್ಥಮನ್ಯಾಯೇನಾರ್ಥಸಞ್ಚಯಾನ್ ||೧೬-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||",
+          "en": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
+          "be": "আশাপাশশতৈর্বদ্ধাঃ কামক্রোধপরাযণাঃ |\nঈহন্তে কামভোগার্থমন্যাযেনার্থসঞ্চযান্ ||১৬-১২||",
+          "ka": "ಆಶಾಪಾಶಶತೈರ್ಬದ್ಧಾಃ ಕಾಮಕ್ರೋಧಪರಾಯಣಾಃ |\nಈಹನ್ತೇ ಕಾಮಭೋಗಾರ್ಥಮನ್ಯಾಯೇನಾರ್ಥಸಞ್ಚಯಾನ್ ||೧೬-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Bound by hundreds of ties of hope, given to lust and anger, they strive to amass hoards of wealth unjustly for enjoyment."
+        "life_application": {
+          "hi": "आशा के सैकड़ों बंधनों से बंधे हुए, काम और क्रोध के कारण, वे आनंद के लिए अन्यायपूर्वक धन का संग्रह करने का प्रयास करते हैं।",
+          "en": "Bound by hundreds of ties of hope, given to lust and anger, they strive to amass hoards of wealth unjustly for enjoyment.",
+          "be": "আশার শত বন্ধনে আবদ্ধ, কাম ও ক্রোধে প্রদত্ত, তারা ভোগের জন্য অন্যায়ভাবে সম্পদের ভাণ্ডার সংগ্রহ করার চেষ্টা করে।",
+          "ka": "ನೂರಾರು ಭರವಸೆಯ ಸಂಬಂಧಗಳಿಂದ ಬಂಧಿತರಾಗಿ, ಕಾಮ ಮತ್ತು ಕ್ರೋಧಕ್ಕೆ ಬದ್ಧರಾಗಿ, ಅವರು ಸಂತೋಷಕ್ಕಾಗಿ ಅನ್ಯಾಯವಾಗಿ ಸಂಪತ್ತಿನ ಸಂಗ್ರಹವನ್ನು ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG16.13",
         "img_landscape": "sloks/{size}/chapter_16/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_13/square/img.png",
-        "transliteration": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||"
+        "transliteration": {
+          "hi": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||",
+          "en": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
+          "be": "ইদমদ্য মযা লব্ধমিমং প্রাপ্স্যে মনোরথম্ |\nইদমস্তীদমপি মে ভবিষ্যতি পুনর্ধনম্ ||১৬-১৩||",
+          "ka": "ಇದಮದ್ಯ ಮಯಾ ಲಬ್ಧಮಿಮಂ ಪ್ರಾಪ್ಸ್ಯೇ ಮನೋರಥಮ್ |\nಇದಮಸ್ತೀದಮಪಿ ಮೇ ಭವಿಷ್ಯತಿ ಪುನರ್ಧನಮ್ ||೧೬-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||",
+          "en": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
+          "be": "ইদমদ্য মযা লব্ধমিমং প্রাপ্স্যে মনোরথম্ |\nইদমস্তীদমপি মে ভবিষ্যতি পুনর্ধনম্ ||১৬-১৩||",
+          "ka": "ಇದಮದ್ಯ ಮಯಾ ಲಬ್ಧಮಿಮಂ ಪ್ರಾಪ್ಸ್ಯೇ ಮನೋರಥಮ್ |\nಇದಮಸ್ತೀದಮಪಿ ಮೇ ಭವಿಷ್ಯತಿ ಪುನರ್ಧನಮ್ ||೧೬-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Avoid thinking greedily about what you acquired today and what more wealth you will claim tomorrow."
+        "life_application": {
+          "hi": "आज आपने क्या अर्जित किया और कल आप कितनी अधिक संपत्ति का दावा करेंगे, इसके बारे में लालच से सोचने से बचें।",
+          "en": "Avoid thinking greedily about what you acquired today and what more wealth you will claim tomorrow.",
+          "be": "আপনি আজ কী অর্জন করেছেন এবং আগামীকাল আপনি আরও কী সম্পদ দাবি করবেন তা নিয়ে লোভের সাথে চিন্তা করা এড়িয়ে চলুন।",
+          "ka": "ಇಂದು ನೀವು ಗಳಿಸಿದ್ದನ್ನು ಮತ್ತು ನಾಳೆ ನೀವು ಎಷ್ಟು ಹೆಚ್ಚು ಸಂಪತ್ತನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತೀರಿ ಎಂಬುದರ ಕುರಿತು ದುರಾಸೆಯಿಂದ ಯೋಚಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG16.14",
         "img_landscape": "sloks/{size}/chapter_16/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_14/square/img.png",
-        "transliteration": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||"
+        "transliteration": {
+          "hi": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||",
+          "en": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
+          "be": "অসৌ মযা হতঃ শত্রুর্হনিষ্যে চাপরানপি |\nঈশ্বরোঽহমহং ভোগী সিদ্ধোঽহং বলবান্সুখী ||১৬-১৪||",
+          "ka": "ಅಸೌ ಮಯಾ ಹತಃ ಶತ್ರುರ್ಹನಿಷ್ಯೇ ಚಾಪರಾನಪಿ |\nಈಶ್ವರೋಽಹಮಹಂ ಭೋಗೀ ಸಿದ್ಧೋಽಹಂ ಬಲವಾನ್ಸುಖೀ ||೧೬-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||",
+          "en": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
+          "be": "অসৌ মযা হতঃ শত্রুর্হনিষ্যে চাপরানপি |\nঈশ্বরোঽহমহং ভোগী সিদ্ধোঽহং বলবান্সুখী ||১৬-১৪||",
+          "ka": "ಅಸೌ ಮಯಾ ಹತಃ ಶತ್ರುರ್ಹನಿಷ್ಯೇ ಚಾಪರಾನಪಿ |\nಈಶ್ವರೋಽಹಮಹಂ ಭೋಗೀ ಸಿದ್ಧೋಽಹಂ ಬಲವಾನ್ಸುಖೀ ||೧೬-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "'That enemy has been slain by me, others also I shall slay; I am lord, enjoyer, successful, powerful, happy'."
+        "life_application": {
+          "hi": "'वह शत्रु तो मेरे द्वारा मारा जा चुका है, अन्यों को भी मैं मार डालूँगा; मैं स्वामी हूं, भोक्ता हूं, सफल हूं, शक्तिशाली हूं, सुखी हूं।'",
+          "en": "'That enemy has been slain by me, others also I shall slay; I am lord, enjoyer, successful, powerful, happy'.",
+          "be": "'সে শত্রু আমার দ্বারা নিহত হয়েছে, অন্যদেরও আমি হত্যা করব; আমি প্রভু, ভোগকারী, সফল, শক্তিশালী, সুখী'।",
+          "ka": "'ಆ ಶತ್ರುವನ್ನು ನನ್ನಿಂದ ಕೊಲ್ಲಲಾಗಿದೆ, ಇತರರನ್ನು ಸಹ ನಾನು ಕೊಲ್ಲುತ್ತೇನೆ; ನಾನು ಅಧಿಪತಿ, ಆನಂದಿಸುವವನು, ಯಶಸ್ವಿ, ಶಕ್ತಿಶಾಲಿ, ಸಂತೋಷ'."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG16.15",
         "img_landscape": "sloks/{size}/chapter_16/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_15/square/img.png",
-        "transliteration": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||"
+        "transliteration": {
+          "hi": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||",
+          "en": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
+          "be": "আঢ্যোঽভিজনবানস্মি কোঽন্যোঽস্তি সদৃশো মযা |\nযক্ষ্যে দাস্যামি মোদিষ্য ইত্যজ্ঞানবিমোহিতাঃ ||১৬-১৫||",
+          "ka": "ಆಢ್ಯೋಽಭಿಜನವಾನಸ್ಮಿ ಕೋಽನ್ಯೋಽಸ್ತಿ ಸದೃಶೋ ಮಯಾ |\nಯಕ್ಷ್ಯೇ ದಾಸ್ಯಾಮಿ ಮೋದಿಷ್ಯ ಇತ್ಯಜ್ಞಾನವಿಮೋಹಿತಾಃ ||೧೬-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||",
+          "en": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
+          "be": "আঢ্যোঽভিজনবানস্মি কোঽন্যোঽস্তি সদৃশো মযা |\nযক্ষ্যে দাস্যামি মোদিষ্য ইত্যজ্ঞানবিমোহিতাঃ ||১৬-১৫||",
+          "ka": "ಆಢ್ಯೋಽಭಿಜನವಾನಸ್ಮಿ ಕೋಽನ್ಯೋಽಸ್ತಿ ಸದೃಶೋ ಮಯಾ |\nಯಕ್ಷ್ಯೇ ದಾಸ್ಯಾಮಿ ಮೋದಿಷ್ಯ ಇತ್ಯಜ್ಞಾನವಿಮೋಹಿತಾಃ ||೧೬-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "'I am rich, well-born; who else is equal to me? I will sacrifice, give, rejoice'—thus deluded by ignorance."
+        "life_application": {
+          "hi": "'मैं अमीर हूं, अच्छा जन्मा हूं; मेरे बराबर और कौन है? मैं त्याग करूंगा, दूंगा, आनंद मनाऊंगा' - इस प्रकार अज्ञान से भ्रमित हूं।",
+          "en": "'I am rich, well-born; who else is equal to me? I will sacrifice, give, rejoice'—thus deluded by ignorance.",
+          "be": "'আমি ধনী, ভালো জন্মেছি; আমার সমান আর কে? আমি বলি দেব, দান করব, আনন্দ করব'—এইভাবে অজ্ঞতার দ্বারা প্রতারিত।",
+          "ka": "'ನಾನು ಶ್ರೀಮಂತ, ಚೆನ್ನಾಗಿ ಹುಟ್ಟಿದ್ದೇನೆ; ನನಗೆ ಯಾರು ಸಮಾನರು? ನಾನು ತ್ಯಾಗ ಮಾಡುತ್ತೇನೆ, ಕೊಡುತ್ತೇನೆ, ಸಂತೋಷಪಡುತ್ತೇನೆ'-ಹೀಗೆ ಅಜ್ಞಾನದಿಂದ ಭ್ರಮೆಗೊಂಡಿದೆ."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG16.16",
         "img_landscape": "sloks/{size}/chapter_16/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_16/square/img.png",
-        "transliteration": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||"
+        "transliteration": {
+          "hi": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||",
+          "en": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
+          "be": "অনেকচিত্তবিভ্রান্তা মোহজালসমাবৃতাঃ |\nপ্রসক্তাঃ কামভোগেষু পতন্তি নরকেঽশুচৌ ||১৬-১৬||",
+          "ka": "ಅನೇಕಚಿತ್ತವಿಭ್ರಾನ್ತಾ ಮೋಹಜಾಲಸಮಾವೃತಾಃ |\nಪ್ರಸಕ್ತಾಃ ಕಾಮಭೋಗೇಷು ಪತನ್ತಿ ನರಕೇಽಶುಚೌ ||೧೬-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||",
+          "en": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
+          "be": "অনেকচিত্তবিভ্রান্তা মোহজালসমাবৃতাঃ |\nপ্রসক্তাঃ কামভোগেষু পতন্তি নরকেঽশুচৌ ||১৬-১৬||",
+          "ka": "ಅನೇಕಚಿತ್ತವಿಭ್ರಾನ್ತಾ ಮೋಹಜಾಲಸಮಾವೃತಾಃ |\nಪ್ರಸಕ್ತಾಃ ಕಾಮಭೋಗೇಷು ಪತನ್ತಿ ನರಕೇಽಶುಚೌ ||೧೬-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Bewildered by many thoughts, entangled in net of delusion, addicted to gratification of desires, they fall into foul hell."
+        "life_application": {
+          "hi": "अनेक विचारों से मोहित, मोह जाल में फँसे हुए, कामनाओं की तृप्ति में आसक्त होकर वे घोर नरक में गिरते हैं।",
+          "en": "Bewildered by many thoughts, entangled in net of delusion, addicted to gratification of desires, they fall into foul hell.",
+          "be": "বহু চিন্তায় বিহ্বল, ভ্রান্তির জালে আবদ্ধ, কামনা-বাসনা তৃপ্তিতে আসক্ত, তারা নোংরা নরকে পতিত হয়।",
+          "ka": "ಅನೇಕ ಆಲೋಚನೆಗಳಿಂದ ದಿಗ್ಭ್ರಮೆಗೊಂಡು, ಭ್ರಮೆಯ ಜಾಲದಲ್ಲಿ ಸಿಲುಕಿ, ಆಸೆಗಳ ತೃಪ್ತಿಗೆ ವ್ಯಸನಿಯಾಗಿ, ಅವರು ಕೆಟ್ಟ ನರಕಕ್ಕೆ ಬೀಳುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG16.17",
         "img_landscape": "sloks/{size}/chapter_16/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_17/square/img.png",
-        "transliteration": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||"
+        "transliteration": {
+          "hi": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||",
+          "en": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
+          "be": "আত্মসম্ভাবিতাঃ স্তব্ধা ধনমানমদান্বিতাঃ |\nযজন্তে নামযজ্ঞৈস্তে দম্ভেনাবিধিপূর্বকম্ ||১৬-১৭||",
+          "ka": "ಆತ್ಮಸಮ್ಭಾವಿತಾಃ ಸ್ತಬ್ಧಾ ಧನಮಾನಮದಾನ್ವಿತಾಃ |\nಯಜನ್ತೇ ನಾಮಯಜ್ಞೈಸ್ತೇ ದಮ್ಭೇನಾವಿಧಿಪೂರ್ವಕಮ್ ||೧೬-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||",
+          "en": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
+          "be": "আত্মসম্ভাবিতাঃ স্তব্ধা ধনমানমদান্বিতাঃ |\nযজন্তে নামযজ্ঞৈস্তে দম্ভেনাবিধিপূর্বকম্ ||১৬-১৭||",
+          "ka": "ಆತ್ಮಸಮ್ಭಾವಿತಾಃ ಸ್ತಬ್ಧಾ ಧನಮಾನಮದಾನ್ವಿತಾಃ |\nಯಜನ್ತೇ ನಾಮಯಜ್ಞೈಸ್ತೇ ದಮ್ಭೇನಾವಿಧಿಪೂರ್ವಕಮ್ ||೧೬-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Self-conceited, stubborn, filled with pride and wealth's intoxication, they perform sacrifices in name only out of ostentation."
+        "life_application": {
+          "hi": "अहंकारी, हठी, घमंड और धन के नशे से भरे हुए, वे केवल दिखावे के लिए नाम पर यज्ञ करते हैं।",
+          "en": "Self-conceited, stubborn, filled with pride and wealth's intoxication, they perform sacrifices in name only out of ostentation.",
+          "be": "আত্ম-অহংকারী, একগুঁয়ে, অহংকার ও ধন-সম্পদের নেশায় ভরা, তারা কেবল নামেই ত্যাগ স্বীকার করে।",
+          "ka": "ಸ್ವಾಭಿಮಾನಿ, ನಿಷ್ಠುರ, ಹೆಮ್ಮೆ ಮತ್ತು ಸಂಪತ್ತಿನ ಅಮಲು ತುಂಬಿದ ಅವರು ಕೇವಲ ಆಡಂಬರದಿಂದ ಹೆಸರಿನಲ್ಲಿ ಯಜ್ಞಗಳನ್ನು ಮಾಡುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG16.18",
         "img_landscape": "sloks/{size}/chapter_16/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_18/square/img.png",
-        "transliteration": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||"
+        "transliteration": {
+          "hi": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||",
+          "en": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
+          "be": "অহংকারং বলং দর্পং কামং ক্রোধং চ সংশ্রিতাঃ |\nমামাত্মপরদেহেষু প্রদ্বিষন্তোঽভ্যসূযকাঃ ||১৬-১৮||",
+          "ka": "ಅಹಂಕಾರಂ ಬಲಂ ದರ್ಪಂ ಕಾಮಂ ಕ್ರೋಧಂ ಚ ಸಂಶ್ರಿತಾಃ |\nಮಾಮಾತ್ಮಪರದೇಹೇಷು ಪ್ರದ್ವಿಷನ್ತೋಽಭ್ಯಸೂಯಕಾಃ ||೧೬-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||",
+          "en": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
+          "be": "অহংকারং বলং দর্পং কামং ক্রোধং চ সংশ্রিতাঃ |\nমামাত্মপরদেহেষু প্রদ্বিষন্তোঽভ্যসূযকাঃ ||১৬-১৮||",
+          "ka": "ಅಹಂಕಾರಂ ಬಲಂ ದರ್ಪಂ ಕಾಮಂ ಕ್ರೋಧಂ ಚ ಸಂಶ್ರಿತಾಃ |\nಮಾಮಾತ್ಮಪರದೇಹೇಷು ಪ್ರದ್ವಿಷನ್ತೋಽಭ್ಯಸೂಯಕಾಃ ||೧೬-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Given to egotism, power, pride, lust, anger, these malicious people hate Me in their own and others' bodies."
+        "life_application": {
+          "hi": "अहंकार, शक्ति, अभिमान, वासना, क्रोध से प्रेरित ये दुर्भावनापूर्ण लोग अपने और दूसरों के शरीर में मुझसे नफरत करते हैं।",
+          "en": "Given to egotism, power, pride, lust, anger, these malicious people hate Me in their own and others' bodies.",
+          "be": "অহংকার, শক্তি, অহংকার, লালসা, ক্রোধের কারণে এই বিদ্বেষপূর্ণ লোকেরা তাদের নিজের এবং অন্যের দেহে আমাকে ঘৃণা করে।",
+          "ka": "ಅಹಂಕಾರ, ಅಧಿಕಾರ, ಅಹಂಕಾರ, ಕಾಮ, ಕ್ರೋಧಗಳಿಂದಾಗಿ ಈ ದುರುದ್ದೇಶಪೂರಿತ ಜನರು ತಮ್ಮ ಮತ್ತು ಇತರರ ದೇಹದಲ್ಲಿ ನನ್ನನ್ನು ದ್ವೇಷಿಸುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG16.19",
         "img_landscape": "sloks/{size}/chapter_16/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_19/square/img.png",
-        "transliteration": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||"
+        "transliteration": {
+          "hi": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||",
+          "en": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
+          "be": "তানহং দ্বিষতঃ ক্রুরান্সংসারেষু নরাধমান্ |\nক্ষিপাম্যজস্রমশুভানাসুরীষ্বেব যোনিষু ||১৬-১৯||",
+          "ka": "ತಾನಹಂ ದ್ವಿಷತಃ ಕ್ರುರಾನ್ಸಂಸಾರೇಷು ನರಾಧಮಾನ್ |\nಕ್ಷಿಪಾಮ್ಯಜಸ್ರಮಶುಭಾನಾಸುರೀಷ್ವೇವ ಯೋನಿಷು ||೧೬-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||",
+          "en": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
+          "be": "তানহং দ্বিষতঃ ক্রুরান্সংসারেষু নরাধমান্ |\nক্ষিপাম্যজস্রমশুভানাসুরীষ্বেব যোনিষু ||১৬-১৯||",
+          "ka": "ತಾನಹಂ ದ್ವಿಷತಃ ಕ್ರುರಾನ್ಸಂಸಾರೇಷು ನರಾಧಮಾನ್ |\nಕ್ಷಿಪಾಮ್ಯಜಸ್ರಮಶುಭಾನಾಸುರೀಷ್ವೇವ ಯೋನಿಷು ||೧೬-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "These hateful, cruel, lowest of men I hurl perpetually into demonic wombs in the cycle of birth and death."
+        "life_application": {
+          "hi": "इन घृणित, क्रूर, निम्नतम मनुष्यों को मैं जन्म और मृत्यु के चक्र में राक्षसी योनियों में डाल देता हूँ।",
+          "en": "These hateful, cruel, lowest of men I hurl perpetually into demonic wombs in the cycle of birth and death.",
+          "be": "এই বিদ্বেষপূর্ণ, নিষ্ঠুর, সর্বনিম্ন পুরুষদের আমি জন্ম ও মৃত্যুর চক্রে চিরকাল দানবীয় গর্ভে নিক্ষেপ করি।",
+          "ka": "ಈ ದ್ವೇಷಪೂರಿತ, ಕ್ರೂರ, ಕೆಳಮಟ್ಟದ ಪುರುಷರನ್ನು ನಾನು ಜನನ ಮತ್ತು ಮರಣದ ಚಕ್ರದಲ್ಲಿ ರಾಕ್ಷಸ ಗರ್ಭಗಳಿಗೆ ಶಾಶ್ವತವಾಗಿ ಎಸೆಯುತ್ತೇನೆ."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG16.20",
         "img_landscape": "sloks/{size}/chapter_16/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_20/square/img.png",
-        "transliteration": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||"
+        "transliteration": {
+          "hi": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||",
+          "en": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
+          "be": "আসুরীং যোনিমাপন্না মূঢা জন্মনি জন্মনি |\nমামপ্রাপ্যৈব কৌন্তেয ততো যান্ত্যধমাং গতিম্ ||১৬-২০||",
+          "ka": "ಆಸುರೀಂ ಯೋನಿಮಾಪನ್ನಾ ಮೂಢಾ ಜನ್ಮನಿ ಜನ್ಮನಿ |\nಮಾಮಪ್ರಾಪ್ಯೈವ ಕೌನ್ತೇಯ ತತೋ ಯಾನ್ತ್ಯಧಮಾಂ ಗತಿಮ್ ||೧೬-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||",
+          "en": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
+          "be": "আসুরীং যোনিমাপন্না মূঢা জন্মনি জন্মনি |\nমামপ্রাপ্যৈব কৌন্তেয ততো যান্ত্যধমাং গতিম্ ||১৬-২০||",
+          "ka": "ಆಸುರೀಂ ಯೋನಿಮಾಪನ್ನಾ ಮೂಢಾ ಜನ್ಮನಿ ಜನ್ಮನಿ |\nಮಾಮಪ್ರಾಪ್ಯೈವ ಕೌನ್ತೇಯ ತತೋ ಯಾನ್ತ್ಯಧಮಾಂ ಗತಿಮ್ ||೧೬-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Entering demonic wombs, deluded birth after birth, failing to reach Me, they sink into lowest degradation."
+        "life_application": {
+          "hi": "आसुरी योनियों में प्रवेश करके, जन्म-जन्मान्तर में भ्रमित होकर, मुझ तक पहुँचने में असफल होकर, वे निम्नतम पतन में डूब जाते हैं।",
+          "en": "Entering demonic wombs, deluded birth after birth, failing to reach Me, they sink into lowest degradation.",
+          "be": "রাক্ষসী গর্ভে প্রবেশ করে, জন্মের পর জন্মের প্রলোভন, আমার কাছে পৌঁছাতে ব্যর্থ হয়ে তারা সর্বনিম্ন অধঃপতনে ডুবে যায়।",
+          "ka": "ದೆವ್ವದ ಗರ್ಭಗಳನ್ನು ಪ್ರವೇಶಿಸಿ, ಹುಟ್ಟಿದ ನಂತರ ಭ್ರಮೆಗೊಂಡ ಜನ್ಮ, ನನ್ನನ್ನು ತಲುಪಲು ವಿಫಲವಾದರೆ, ಅವರು ಅತ್ಯಂತ ಕೆಳಮಟ್ಟದ ಅವನತಿಗೆ ಮುಳುಗುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -308,14 +713,34 @@
         "verse_id": "BG16.21",
         "img_landscape": "sloks/{size}/chapter_16/slok_21/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_21/square/img.png",
-        "transliteration": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||"
+        "transliteration": {
+          "hi": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||",
+          "en": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
+          "be": "ত্রিবিধং নরকস্যেদং দ্বারং নাশনমাত্মনঃ |\nকামঃ ক্রোধস্তথা লোভস্তস্মাদেতত্ত্রযং ত্যজেত্ ||১৬-২১||",
+          "ka": "ತ್ರಿವಿಧಂ ನರಕಸ್ಯೇದಂ ದ್ವಾರಂ ನಾಶನಮಾತ್ಮನಃ |\nಕಾಮಃ ಕ್ರೋಧಸ್ತಥಾ ಲೋಭಸ್ತಸ್ಮಾದೇತತ್ತ್ರಯಂ ತ್ಯಜೇತ್ ||೧೬-೨೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||",
+          "en": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
+          "be": "ত্রিবিধং নরকস্যেদং দ্বারং নাশনমাত্মনঃ |\nকামঃ ক্রোধস্তথা লোভস্তস্মাদেতত্ত্রযং ত্যজেত্ ||১৬-২১||",
+          "ka": "ತ್ರಿವಿಧಂ ನರಕಸ್ಯೇದಂ ದ್ವಾರಂ ನಾಶನಮಾತ್ಮನಃ |\nಕಾಮಃ ಕ್ರೋಧಸ್ತಥಾ ಲೋಭಸ್ತಸ್ಮಾದೇತತ್ತ್ರಯಂ ತ್ಯಜೇತ್ ||೧೬-೨೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Triple is the gate of hell, destructive of the self: lust, anger, and greed; therefore one should abandon these three."
+        "life_application": {
+          "hi": "त्रिगुण नरक का द्वार है, जो स्वयं का विनाशकारी है: काम, क्रोध और लोभ; इसलिए इन तीनों को त्याग देना चाहिए।",
+          "en": "Triple is the gate of hell, destructive of the self: lust, anger, and greed; therefore one should abandon these three.",
+          "be": "ত্রিপল নরকের দ্বার, নফসের ধ্বংসকারী: কাম, ক্রোধ এবং লোভ; তাই এই তিনটি পরিত্যাগ করা উচিত।",
+          "ka": "ಟ್ರಿಪಲ್ ನರಕದ ದ್ವಾರವಾಗಿದೆ, ಸ್ವಯಂ ವಿನಾಶಕಾರಿ: ಕಾಮ, ಕೋಪ ಮತ್ತು ದುರಾಶೆ; ಆದ್ದರಿಂದ ಈ ಮೂರನ್ನೂ ತ್ಯಜಿಸಬೇಕು."
+        }
       }
     },
     {
@@ -323,14 +748,34 @@
         "verse_id": "BG16.22",
         "img_landscape": "sloks/{size}/chapter_16/slok_22/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_22/square/img.png",
-        "transliteration": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||"
+        "transliteration": {
+          "hi": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||",
+          "en": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
+          "be": "এতৈর্বিমুক্তঃ কৌন্তেয তমোদ্বারৈস্ত্রিভির্নরঃ |\nআচরত্যাত্মনঃ শ্রেযস্ততো যাতি পরাং গতিম্ ||১৬-২২||",
+          "ka": "ಏತೈರ್ವಿಮುಕ್ತಃ ಕೌನ್ತೇಯ ತಮೋದ್ವಾರೈಸ್ತ್ರಿಭಿರ್ನರಃ |\nಆಚರತ್ಯಾತ್ಮನಃ ಶ್ರೇಯಸ್ತತೋ ಯಾತಿ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||",
+          "en": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
+          "be": "এতৈর্বিমুক্তঃ কৌন্তেয তমোদ্বারৈস্ত্রিভির্নরঃ |\nআচরত্যাত্মনঃ শ্রেযস্ততো যাতি পরাং গতিম্ ||১৬-২২||",
+          "ka": "ಏತೈರ್ವಿಮುಕ್ತಃ ಕೌನ್ತೇಯ ತಮೋದ್ವಾರೈಸ್ತ್ರಿಭಿರ್ನರಃ |\nಆಚರತ್ಯಾತ್ಮನಃ ಶ್ರೇಯಸ್ತತೋ ಯಾತಿ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "A man freed from these three gates of darkness acts for his own good and reaches the supreme goal."
+        "life_application": {
+          "hi": "अंधकार के इन तीन द्वारों से मुक्त हुआ व्यक्ति अपने भले के लिए कार्य करता है और सर्वोच्च लक्ष्य तक पहुँच जाता है।",
+          "en": "A man freed from these three gates of darkness acts for his own good and reaches the supreme goal.",
+          "be": "অন্ধকারের এই তিনটি দরজা থেকে মুক্ত একজন মানুষ তার নিজের ভালোর জন্য কাজ করে এবং সর্বোচ্চ লক্ষ্যে পৌঁছায়।",
+          "ka": "ಕತ್ತಲೆಯ ಈ ಮೂರು ದ್ವಾರಗಳಿಂದ ಮುಕ್ತನಾದ ಮನುಷ್ಯನು ತನ್ನ ಒಳಿತಿಗಾಗಿ ವರ್ತಿಸುತ್ತಾನೆ ಮತ್ತು ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನು ತಲುಪುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -338,14 +783,34 @@
         "verse_id": "BG16.23",
         "img_landscape": "sloks/{size}/chapter_16/slok_23/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_23/square/img.png",
-        "transliteration": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||"
+        "transliteration": {
+          "hi": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||",
+          "en": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
+          "be": "যঃ শাস্ত্রবিধিমুত্সৃজ্য বর্ততে কামকারতঃ |\nন স সিদ্ধিমবাপ্নোতি ন সুখং ন পরাং গতিম্ ||১৬-২৩||",
+          "ka": "ಯಃ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ವರ್ತತೇ ಕಾಮಕಾರತಃ |\nನ ಸ ಸಿದ್ಧಿಮವಾಪ್ನೋತಿ ನ ಸುಖಂ ನ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||",
+          "en": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
+          "be": "যঃ শাস্ত্রবিধিমুত্সৃজ্য বর্ততে কামকারতঃ |\nন স সিদ্ধিমবাপ্নোতি ন সুখং ন পরাং গতিম্ ||১৬-২৩||",
+          "ka": "ಯಃ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ವರ್ತತೇ ಕಾಮಕಾರತಃ |\nನ ಸ ಸಿದ್ಧಿಮವಾಪ್ನೋತಿ ನ ಸುಖಂ ನ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "He who discards scriptural guidelines and acts under impulse of desire attains neither perfection, happiness, nor supreme goal."
+        "life_application": {
+          "hi": "जो शास्त्रीय दिशानिर्देशों को त्याग देता है और इच्छा के आवेग के तहत कार्य करता है वह न तो पूर्णता, खुशी, न ही सर्वोच्च लक्ष्य प्राप्त करता है।",
+          "en": "He who discards scriptural guidelines and acts under impulse of desire attains neither perfection, happiness, nor supreme goal.",
+          "be": "যে ব্যক্তি শাস্ত্রীয় নির্দেশনা পরিত্যাগ করে এবং ইচ্ছার প্ররোচনায় কাজ করে সে পরিপূর্ণতা, সুখ বা সর্বোচ্চ লক্ষ্য অর্জন করতে পারে না।",
+          "ka": "ಯಾರು ಧರ್ಮಗ್ರಂಥದ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ತ್ಯಜಿಸುತ್ತಾರೆ ಮತ್ತು ಬಯಕೆಯ ಪ್ರಚೋದನೆಯ ಅಡಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಾರೆ ಅವರು ಪರಿಪೂರ್ಣತೆ, ಸಂತೋಷ ಅಥವಾ ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನು ಸಾಧಿಸುವುದಿಲ್ಲ."
+        }
       }
     },
     {
@@ -353,14 +818,34 @@
         "verse_id": "BG16.24",
         "img_landscape": "sloks/{size}/chapter_16/slok_24/landscape/img.png",
         "img_square": "sloks/{size}/chapter_16/slok_24/square/img.png",
-        "transliteration": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||"
+        "transliteration": {
+          "hi": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
+          "en": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
+          "be": "তস্মাচ্ছাস্ত্রং প্রমাণং তে কার্যাকার্যব্যবস্থিতৌ |\nজ্ঞাত্বা শাস্ত্রবিধানোক্তং কর্ম কর্তুমিহার্হসি ||১৬-২৪||",
+          "ka": "ತಸ್ಮಾಚ್ಛಾಸ್ತ್ರಂ ಪ್ರಮಾಣಂ ತೇ ಕಾರ್ಯಾಕಾರ್ಯವ್ಯವಸ್ಥಿತೌ |\nಜ್ಞಾತ್ವಾ ಶಾಸ್ತ್ರವಿಧಾನೋಕ್ತಂ ಕರ್ಮ ಕರ್ತುಮಿಹಾರ್ಹಸಿ ||೧೬-೨೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
+          "en": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
+          "be": "তস্মাচ্ছাস্ত্রং প্রমাণং তে কার্যাকার্যব্যবস্থিতৌ |\nজ্ঞাত্বা শাস্ত্রবিধানোক্তং কর্ম কর্তুমিহার্হসি ||১৬-২৪||",
+          "ka": "ತಸ್ಮಾಚ್ಛಾಸ್ತ್ರಂ ಪ್ರಮಾಣಂ ತೇ ಕಾರ್ಯಾಕಾರ್ಯವ್ಯವಸ್ಥಿತೌ |\nಜ್ಞಾತ್ವಾ ಶಾಸ್ತ್ರವಿಧಾನೋಕ್ತಂ ಕರ್ಮ ಕರ್ತುಮಿಹಾರ್ಹಸಿ ||೧೬-೨೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Therefore let scripture be your authority in determining what ought to be done and avoided; perform duty knowing scriptural rules."
+        "life_application": {
+          "hi": "इसलिए क्या करना चाहिए और क्या नहीं करना चाहिए, यह निर्धारित करने में धर्मग्रंथ को आपका अधिकार होना चाहिए; शास्त्रोक्त नियमों को जानकर कर्तव्य का पालन करें।",
+          "en": "Therefore let scripture be your authority in determining what ought to be done and avoided; perform duty knowing scriptural rules.",
+          "be": "তাই কি করা উচিত এবং এড়ানো উচিত তা নির্ধারণে শাস্ত্র আপনার কর্তৃত্ব হতে দিন; শাস্ত্রীয় নিয়ম জেনে দায়িত্ব পালন করা।",
+          "ka": "ಆದ್ದರಿಂದ ಏನು ಮಾಡಬೇಕು ಮತ್ತು ತಪ್ಪಿಸಬೇಕು ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ ಧರ್ಮಗ್ರಂಥವು ನಿಮ್ಮ ಅಧಿಕಾರವಾಗಿರಲಿ; ಧರ್ಮಶಾಸ್ತ್ರದ ನಿಯಮಗಳನ್ನು ತಿಳಿದುಕೊಂಡು ಕರ್ತವ್ಯ ನಿರ್ವಹಿಸಿ."
+        }
       }
     }
   ]

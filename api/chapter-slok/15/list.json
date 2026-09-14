@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Purushottama Yoga"
+    "translation": {
+      "hi": "पुरुषोत्तम योग",
+      "en": "Purushottama Yoga",
+      "be": "পুরুষোত্তম যোগ",
+      "ka": "ಪುರುಷೋತ್ತಮ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG15.1",
         "img_landscape": "sloks/{size}/chapter_15/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_1/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||",
+          "en": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
+          "be": "শ্রীভগবানুবাচ |\nঊর্ধ্বমূলমধঃশাখমশ্বত্থং প্রাহুরব্যযম্ |\nছন্দাংসি যস্য পর্ণানি যস্তং বেদ স বেদবিত্ ||১৫-১||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಊರ್ಧ್ವಮೂಲಮಧಃಶಾಖಮಶ್ವತ್ಥಂ ಪ್ರಾಹುರವ್ಯಯಮ್ |\nಛನ್ದಾಂಸಿ ಯಸ್ಯ ಪರ್ಣಾನಿ ಯಸ್ತಂ ವೇದ ಸ ವೇದವಿತ್ ||೧೫-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||",
+          "en": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
+          "be": "শ্রীভগবানুবাচ |\nঊর্ধ্বমূলমধঃশাখমশ্বত্থং প্রাহুরব্যযম্ |\nছন্দাংসি যস্য পর্ণানি যস্তং বেদ স বেদবিত্ ||১৫-১||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಊರ್ಧ್ವಮೂಲಮಧಃಶಾಖಮಶ್ವತ್ಥಂ ಪ್ರಾಹುರವ್ಯಯಮ್ |\nಛನ್ದಾಂಸಿ ಯಸ್ಯ ಪರ್ಣಾನಿ ಯಸ್ತಂ ವೇದ ಸ ವೇದವಿತ್ ||೧೫-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Contemplate the inverted banyan tree of world existence, roots above in spirit, branches below in senses, leaves as hymns."
+        "life_application": {
+          "hi": "विश्व अस्तित्व के उलटे बरगद के पेड़ का चिंतन करें, जड़ें ऊपर आत्मा में, शाखाएं नीचे इंद्रियों में, पत्तियां भजन के रूप में।",
+          "en": "Contemplate the inverted banyan tree of world existence, roots above in spirit, branches below in senses, leaves as hymns.",
+          "be": "বিশ্বের অস্তিত্বের উল্টানো বটবৃক্ষ, চেতনার উপরে শিকড়, ইন্দ্রিয়ের নীচে শাখা, স্তোত্র হিসাবে পাতাগুলি বিবেচনা করুন।",
+          "ka": "ಪ್ರಪಂಚದ ಅಸ್ತಿತ್ವದ ತಲೆಕೆಳಗಾದ ಆಲದ ಮರ, ಆತ್ಮದಲ್ಲಿ ಮೇಲಿನ ಬೇರುಗಳು, ಇಂದ್ರಿಯಗಳ ಕೆಳಗೆ ಶಾಖೆಗಳು, ಸ್ತೋತ್ರಗಳಂತೆ ಎಲೆಗಳನ್ನು ಆಲೋಚಿಸಿ."
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG15.2",
         "img_landscape": "sloks/{size}/chapter_15/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_2/square/img.png",
-        "transliteration": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||"
+        "transliteration": {
+          "hi": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ||१५-२||",
+          "en": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
+          "be": "অধশ্চোর্ধ্বং প্রসৃতাস্তস্য শাখা\nগুণপ্রবৃদ্ধা বিষযপ্রবালাঃ |\nঅধশ্চ মূলান্যনুসন্ততানি\nকর্মানুবন্ধীনি মনুষ্যলোকে ||১৫-২||",
+          "ka": "ಅಧಶ್ಚೋರ್ಧ್ವಂ ಪ್ರಸೃತಾಸ್ತಸ್ಯ ಶಾಖಾ\nಗುಣಪ್ರವೃದ್ಧಾ ವಿಷಯಪ್ರವಾಲಾಃ |\nಅಧಶ್ಚ ಮೂಲಾನ್ಯನುಸನ್ತತಾನಿ\nಕರ್ಮಾನುಬನ್ಧೀನಿ ಮನುಷ್ಯಲೋಕೇ ||೧೫-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ||१५-२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ||१५-२||",
+          "en": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
+          "be": "অধশ্চোর্ধ্বং প্রসৃতাস্তস্য শাখা\nগুণপ্রবৃদ্ধা বিষযপ্রবালাঃ |\nঅধশ্চ মূলান্যনুসন্ততানি\nকর্মানুবন্ধীনি মনুষ্যলোকে ||১৫-২||",
+          "ka": "ಅಧಶ್ಚೋರ್ಧ್ವಂ ಪ್ರಸೃತಾಸ್ತಸ್ಯ ಶಾಖಾ\nಗುಣಪ್ರವೃದ್ಧಾ ವಿಷಯಪ್ರವಾಲಾಃ |\nಅಧಶ್ಚ ಮೂಲಾನ್ಯನುಸನ್ತತಾನಿ\nಕರ್ಮಾನುಬನ್ಧೀನಿ ಮನುಷ್ಯಲೋಕೇ ||೧೫-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Its branches spread below and above, nourished by modes, sense objects as buds, roots binding to action in human world."
+        "life_application": {
+          "hi": "इसकी शाखाएँ नीचे और ऊपर फैली हुई हैं, जो गुणों द्वारा पोषित हैं, कलियों के रूप में इंद्रिय वस्तुएं, मानव जगत में क्रिया के लिए बाध्य जड़ें हैं।",
+          "en": "Its branches spread below and above, nourished by modes, sense objects as buds, roots binding to action in human world.",
+          "be": "এর শাখাগুলি নীচে এবং উপরে ছড়িয়ে পড়ে, মোড দ্বারা পুষ্ট, বস্তুকে কুঁড়ি হিসাবে উপলব্ধি করে, মানব জগতে ক্রিয়া করার জন্য শিকড়গুলি আবদ্ধ।",
+          "ka": "ಅದರ ಶಾಖೆಗಳು ಕೆಳಗೆ ಮತ್ತು ಮೇಲೆ ಹರಡುತ್ತವೆ, ವಿಧಾನಗಳಿಂದ ಪೋಷಿಸಲ್ಪಡುತ್ತವೆ, ವಸ್ತುವನ್ನು ಮೊಗ್ಗುಗಳಾಗಿ ಗ್ರಹಿಸುತ್ತವೆ, ಬೇರುಗಳು ಮಾನವ ಜಗತ್ತಿನಲ್ಲಿ ಕ್ರಿಯೆಗೆ ಬಂಧಿಸುತ್ತವೆ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG15.3",
         "img_landscape": "sloks/{size}/chapter_15/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_3/square/img.png",
-        "transliteration": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||"
+        "transliteration": {
+          "hi": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा ||१५-३||",
+          "en": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
+          "be": "ন রূপমস্যেহ তথোপলভ্যতে\nনান্তো ন চাদির্ন চ সম্প্রতিষ্ঠা |\nঅশ্বত্থমেনং সুবিরূঢমূলং\nঅসঙ্গশস্ত্রেণ দৃঢেন ছিত্ত্বা ||১৫-৩||",
+          "ka": "ನ ರೂಪಮಸ್ಯೇಹ ತಥೋಪಲಭ್ಯತೇ\nನಾನ್ತೋ ನ ಚಾದಿರ್ನ ಚ ಸಮ್ಪ್ರತಿಷ್ಠಾ |\nಅಶ್ವತ್ಥಮೇನಂ ಸುವಿರೂಢಮೂಲಂ\nಅಸಙ್ಗಶಸ್ತ್ರೇಣ ದೃಢೇನ ಛಿತ್ತ್ವಾ ||೧೫-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा ||१५-३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा ||१५-३||",
+          "en": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
+          "be": "ন রূপমস্যেহ তথোপলভ্যতে\nনান্তো ন চাদির্ন চ সম্প্রতিষ্ঠা |\nঅশ্বত্থমেনং সুবিরূঢমূলং\nঅসঙ্গশস্ত্রেণ দৃঢেন ছিত্ত্বা ||১৫-৩||",
+          "ka": "ನ ರೂಪಮಸ್ಯೇಹ ತಥೋಪಲಭ್ಯತೇ\nನಾನ್ತೋ ನ ಚಾದಿರ್ನ ಚ ಸಮ್ಪ್ರತಿಷ್ಠಾ |\nಅಶ್ವತ್ಥಮೇನಂ ಸುವಿರೂಢಮೂಲಂ\nಅಸಙ್ಗಶಸ್ತ್ರೇಣ ದೃಢೇನ ಛಿತ್ತ್ವಾ ||೧೫-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Cut down this firm-rooted tree of attachment using the strong axe of detachment, seeking the primal source."
+        "life_application": {
+          "hi": "मूल स्रोत की तलाश करते हुए, विरक्ति की मजबूत कुल्हाड़ी का उपयोग करके आसक्ति के इस दृढ़ जड़ वाले वृक्ष को काट डालो।",
+          "en": "Cut down this firm-rooted tree of attachment using the strong axe of detachment, seeking the primal source.",
+          "be": "আদি উৎসের সন্ধানে বিচ্ছিন্নতার শক্তিশালী কুঠার ব্যবহার করে সংযুক্তির এই দৃঢ়-মূলযুক্ত গাছটিকে কেটে ফেলুন।",
+          "ka": "ಬೇರ್ಪಡುವಿಕೆಯ ಬಲವಾದ ಕೊಡಲಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಈ ದೃಢವಾದ ಬೇರೂರಿರುವ ಬಾಂಧವ್ಯದ ಮರವನ್ನು ಕತ್ತರಿಸಿ, ಮೂಲ ಮೂಲವನ್ನು ಹುಡುಕುವುದು."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG15.4",
         "img_landscape": "sloks/{size}/chapter_15/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_4/square/img.png",
-        "transliteration": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||"
+        "transliteration": {
+          "hi": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये |\nयतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||",
+          "en": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
+          "be": "ততঃ পদং তত্পরিমার্গিতব্যং\nযস্মিন্গতা ন নিবর্তন্তি ভূযঃ |\nতমেব চাদ্যং পুরুষং প্রপদ্যে |\nযতঃ প্রবৃত্তিঃ প্রসৃতা পুরাণী ||১৫-৪||",
+          "ka": "ತತಃ ಪದಂ ತತ್ಪರಿಮಾರ್ಗಿತವ್ಯಂ\nಯಸ್ಮಿನ್ಗತಾ ನ ನಿವರ್ತನ್ತಿ ಭೂಯಃ |\nತಮೇವ ಚಾದ್ಯಂ ಪುರುಷಂ ಪ್ರಪದ್ಯೇ |\nಯತಃ ಪ್ರವೃತ್ತಿಃ ಪ್ರಸೃತಾ ಪುರಾಣೀ ||೧೫-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये |\nयतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये |\nयतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||",
+          "en": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
+          "be": "ততঃ পদং তত্পরিমার্গিতব্যং\nযস্মিন্গতা ন নিবর্তন্তি ভূযঃ |\nতমেব চাদ্যং পুরুষং প্রপদ্যে |\nযতঃ প্রবৃত্তিঃ প্রসৃতা পুরাণী ||১৫-৪||",
+          "ka": "ತತಃ ಪದಂ ತತ್ಪರಿಮಾರ್ಗಿತವ್ಯಂ\nಯಸ್ಮಿನ್ಗತಾ ನ ನಿವರ್ತನ್ತಿ ಭೂಯಃ |\nತಮೇವ ಚಾದ್ಯಂ ಪುರುಷಂ ಪ್ರಪದ್ಯೇ |\nಯತಃ ಪ್ರವೃತ್ತಿಃ ಪ್ರಸೃತಾ ಪುರಾಣೀ ||೧೫-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Seek that goal from which none return, surrendering to the primeval person from whom ancient activity streamed."
+        "life_application": {
+          "hi": "उस लक्ष्य की तलाश करें जहां से कोई भी वापस नहीं लौटता है, उस आदिम व्यक्ति के सामने समर्पण करें जिससे प्राचीन गतिविधि प्रवाहित होती है।",
+          "en": "Seek that goal from which none return, surrendering to the primeval person from whom ancient activity streamed.",
+          "be": "সেই লক্ষ্যটি সন্ধান করুন যেখান থেকে কেউ ফিরে আসে না, সেই আদিম ব্যক্তির কাছে আত্মসমর্পণ করে যা থেকে প্রাচীন কার্যকলাপ প্রবাহিত হয়েছিল।",
+          "ka": "ಯಾರೊಬ್ಬರೂ ಹಿಂತಿರುಗದ ಗುರಿಯನ್ನು ಹುಡುಕುವುದು, ಪ್ರಾಚೀನ ಚಟುವಟಿಕೆಯು ಸ್ಟ್ರೀಮ್ ಮಾಡಿದ ಪ್ರಾಚೀನ ವ್ಯಕ್ತಿಗೆ ಶರಣಾಗುವುದು."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG15.5",
         "img_landscape": "sloks/{size}/chapter_15/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_5/square/img.png",
-        "transliteration": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ .\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñaira- gacchantyamūḍhāḥ padamavyayaṃ tat ||15-5||"
+        "transliteration": {
+          "hi": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः |\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-\nगच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||",
+          "en": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ .\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñaira- gacchantyamūḍhāḥ padamavyayaṃ tat ||15-5||",
+          "be": "নির্মানমোহা জিতসঙ্গদোষা\nঅধ্যাত্মনিত্যা বিনিবৃত্তকামাঃ |\nদ্বন্দ্বৈর্বিমুক্তাঃ সুখদুঃখসংজ্ঞৈর্-\nগচ্ছন্ত্যমূঢাঃ পদমব্যযং তত্ ||১৫-৫||",
+          "ka": "ನಿರ್ಮಾನಮೋಹಾ ಜಿತಸಙ್ಗದೋಷಾ\nಅಧ್ಯಾತ್ಮನಿತ್ಯಾ ವಿನಿವೃತ್ತಕಾಮಾಃ |\nದ್ವನ್ದ್ವೈರ್ವಿಮುಕ್ತಾಃ ಸುಖದುಃಖಸಂಜ್ಞೈರ್-\nಗಚ್ಛನ್ತ್ಯಮೂಢಾಃ ಪದಮವ್ಯಯಂ ತತ್ ||೧೫-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः |\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-\nगच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः |\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-\nगच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||",
+          "en": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ .\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñaira- gacchantyamūḍhāḥ padamavyayaṃ tat ||15-5||",
+          "be": "নির্মানমোহা জিতসঙ্গদোষা\nঅধ্যাত্মনিত্যা বিনিবৃত্তকামাঃ |\nদ্বন্দ্বৈর্বিমুক্তাঃ সুখদুঃখসংজ্ঞৈর্-\nগচ্ছন্ত্যমূঢাঃ পদমব্যযং তত্ ||১৫-৫||",
+          "ka": "ನಿರ್ಮಾನಮೋಹಾ ಜಿತಸಙ್ಗದೋಷಾ\nಅಧ್ಯಾತ್ಮನಿತ್ಯಾ ವಿನಿವೃತ್ತಕಾಮಾಃ |\nದ್ವನ್ದ್ವೈರ್ವಿಮುಕ್ತಾಃ ಸುಖದುಃಖಸಂಜ್ಞೈರ್-\nಗಚ್ಛನ್ತ್ಯಮೂಢಾಃ ಪದಮವ್ಯಯಂ ತತ್ ||೧೫-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Free from pride and delusion, victorious over attachment, devoted to Self, desires stilled, freed from dualities—reach eternal goal."
+        "life_application": {
+          "hi": "अभिमान और भ्रम से मुक्त, आसक्ति पर विजय प्राप्त करने वाला, स्वयं के प्रति समर्पित, शांत इच्छाएं, द्वंद्वों से मुक्त - शाश्वत लक्ष्य तक पहुंचें।",
+          "en": "Free from pride and delusion, victorious over attachment, devoted to Self, desires stilled, freed from dualities—reach eternal goal.",
+          "be": "অহংকার ও ভ্রম থেকে মুক্ত, আসক্তির উপর বিজয়ী, নিজের প্রতি নিবেদিত, আকাঙ্ক্ষা শান্ত, দ্বৈততা থেকে মুক্ত - চিরন্তন লক্ষ্যে পৌঁছান।",
+          "ka": "ಅಹಂಕಾರ ಮತ್ತು ಭ್ರಮೆಯಿಂದ ಮುಕ್ತರಾಗಿ, ಬಾಂಧವ್ಯದ ಮೇಲೆ ಜಯಶಾಲಿಯಾಗಿ, ಆತ್ಮಕ್ಕೆ ಸಮರ್ಪಿತರಾಗಿ, ಆಸೆಗಳು ಶಾಂತವಾಗಿ, ದ್ವಂದ್ವಗಳಿಂದ ಮುಕ್ತರಾಗಿ-ಶಾಶ್ವತ ಗುರಿಯನ್ನು ತಲುಪುತ್ತವೆ."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG15.6",
         "img_landscape": "sloks/{size}/chapter_15/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_6/square/img.png",
-        "transliteration": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||"
+        "transliteration": {
+          "hi": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||",
+          "en": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
+          "be": "ন তদ্ভাসযতে সূর্যো ন শশাঙ্কো ন পাবকঃ |\nযদ্গত্বা ন নিবর্তন্তে তদ্ধাম পরমং মম ||১৫-৬||",
+          "ka": "ನ ತದ್ಭಾಸಯತೇ ಸೂರ್ಯೋ ನ ಶಶಾಙ್ಕೋ ನ ಪಾವಕಃ |\nಯದ್ಗತ್ವಾ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೧೫-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||",
+          "en": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
+          "be": "ন তদ্ভাসযতে সূর্যো ন শশাঙ্কো ন পাবকঃ |\nযদ্গত্বা ন নিবর্তন্তে তদ্ধাম পরমং মম ||১৫-৬||",
+          "ka": "ನ ತದ್ಭಾಸಯತೇ ಸೂರ್ಯೋ ನ ಶಶಾಙ್ಕೋ ನ ಪಾವಕಃ |\nಯದ್ಗತ್ವಾ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೧೫-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "That supreme abode is not illuminated by sun, moon, or fire; reaching it, seekers never return to mortal darkness."
+        "life_application": {
+          "hi": "वह परमधाम सूर्य, चन्द्रमा अथवा अग्नि से प्रकाशित नहीं होता; उस तक पहुँचने पर, साधक कभी नश्वर अंधकार में नहीं लौटते।",
+          "en": "That supreme abode is not illuminated by sun, moon, or fire; reaching it, seekers never return to mortal darkness.",
+          "be": "সেই পরম আবাস সূর্য, চন্দ্র বা আগুন দ্বারা আলোকিত হয় না; এটি পৌঁছানোর, সন্ধানকারীরা কখনও নশ্বর অন্ধকারে ফিরে আসে না।",
+          "ka": "ಆ ಪರಮ ನಿವಾಸವು ಸೂರ್ಯ, ಚಂದ್ರ ಅಥವಾ ಬೆಂಕಿಯಿಂದ ಪ್ರಕಾಶಿಸಲ್ಪಟ್ಟಿಲ್ಲ; ಅದನ್ನು ತಲುಪಿದಾಗ, ಅನ್ವೇಷಕರು ಎಂದಿಗೂ ಮಾರಣಾಂತಿಕ ಕತ್ತಲೆಗೆ ಹಿಂತಿರುಗುವುದಿಲ್ಲ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG15.7",
         "img_landscape": "sloks/{size}/chapter_15/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_7/square/img.png",
-        "transliteration": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||"
+        "transliteration": {
+          "hi": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ||१५-७||",
+          "en": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
+          "be": "মমৈবাংশো জীবলোকে জীবভূতঃ সনাতনঃ |\nমনঃষষ্ঠানীন্দ্রিযাণি প্রকৃতিস্থানি কর্ষতি ||১৫-৭||",
+          "ka": "ಮಮೈವಾಂಶೋ ಜೀವಲೋಕೇ ಜೀವಭೂತಃ ಸನಾತನಃ |\nಮನಃಷಷ್ಠಾನೀನ್ದ್ರಿಯಾಣಿ ಪ್ರಕೃತಿಸ್ಥಾನಿ ಕರ್ಷತಿ ||೧೫-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ||१५-७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ||१५-७||",
+          "en": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
+          "be": "মমৈবাংশো জীবলোকে জীবভূতঃ সনাতনঃ |\nমনঃষষ্ঠানীন্দ্রিযাণি প্রকৃতিস্থানি কর্ষতি ||১৫-৭||",
+          "ka": "ಮಮೈವಾಂಶೋ ಜೀವಲೋಕೇ ಜೀವಭೂತಃ ಸನಾತನಃ |\nಮನಃಷಷ್ಠಾನೀನ್ದ್ರಿಯಾಣಿ ಪ್ರಕೃತಿಸ್ಥಾನಿ ಕರ್ಷತಿ ||೧೫-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "An eternal fragment of God becomes the individual soul, drawing to itself the five senses and mind from nature."
+        "life_application": {
+          "hi": "ईश्वर का एक शाश्वत अंश व्यक्तिगत आत्मा बन जाता है, जो प्रकृति से पांच इंद्रियों और मन को अपनी ओर खींचता है।",
+          "en": "An eternal fragment of God becomes the individual soul, drawing to itself the five senses and mind from nature.",
+          "be": "ঈশ্বরের একটি চিরন্তন খণ্ড স্বতন্ত্র আত্মা হয়ে ওঠে, প্রকৃতি থেকে পাঁচটি ইন্দ্রিয় এবং মনকে নিজের কাছে আঁকতে থাকে।",
+          "ka": "ಭಗವಂತನ ಶಾಶ್ವತವಾದ ಒಂದು ಭಾಗವು ವೈಯಕ್ತಿಕ ಆತ್ಮವಾಗುತ್ತದೆ, ಪ್ರಕೃತಿಯಿಂದ ಐದು ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮನಸ್ಸನ್ನು ತನ್ನತ್ತ ಸೆಳೆಯುತ್ತದೆ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG15.8",
         "img_landscape": "sloks/{size}/chapter_15/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_8/square/img.png",
-        "transliteration": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||"
+        "transliteration": {
+          "hi": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||",
+          "en": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
+          "be": "শরীরং যদবাপ্নোতি যচ্চাপ্যুত্ক্রামতীশ্বরঃ |\nগৃহীত্বৈতানি সংযাতি বাযুর্গন্ধানিবাশযাত্ ||১৫-৮||",
+          "ka": "ಶರೀರಂ ಯದವಾಪ್ನೋತಿ ಯಚ್ಚಾಪ್ಯುತ್ಕ್ರಾಮತೀಶ್ವರಃ |\nಗೃಹೀತ್ವೈತಾನಿ ಸಂಯಾತಿ ವಾಯುರ್ಗನ್ಧಾನಿವಾಶಯಾತ್ ||೧೫-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||",
+          "en": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
+          "be": "শরীরং যদবাপ্নোতি যচ্চাপ্যুত্ক্রামতীশ্বরঃ |\nগৃহীত্বৈতানি সংযাতি বাযুর্গন্ধানিবাশযাত্ ||১৫-৮||",
+          "ka": "ಶರೀರಂ ಯದವಾಪ್ನೋತಿ ಯಚ್ಚಾಪ್ಯುತ್ಕ್ರಾಮತೀಶ್ವರಃ |\nಗೃಹೀತ್ವೈತಾನಿ ಸಂಯಾತಿ ವಾಯುರ್ಗನ್ಧಾನಿವಾಶಯಾತ್ ||೧೫-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "When the soul obtains a body or leaves it, it carries senses and mind along, as wind carries scents from flowers."
+        "life_application": {
+          "hi": "जब आत्मा शरीर प्राप्त करती है या उसे छोड़ती है, तो वह इंद्रियों और मन को साथ ले जाती है, जैसे हवा फूलों से सुगंध ले जाती है।",
+          "en": "When the soul obtains a body or leaves it, it carries senses and mind along, as wind carries scents from flowers.",
+          "be": "আত্মা যখন একটি শরীর প্রাপ্ত করে বা এটি ছেড়ে যায়, তখন এটি ইন্দ্রিয় এবং মনকে বহন করে, যেমন বাতাস ফুলের গন্ধ বহন করে।",
+          "ka": "ಆತ್ಮವು ದೇಹವನ್ನು ಪಡೆದಾಗ ಅಥವಾ ಅದನ್ನು ತೊರೆದಾಗ, ಗಾಳಿಯು ಹೂವುಗಳಿಂದ ಪರಿಮಳವನ್ನು ಸಾಗಿಸುವಂತೆ ಅದು ಇಂದ್ರಿಯಗಳನ್ನು ಮತ್ತು ಮನಸ್ಸನ್ನು ಒಯ್ಯುತ್ತದೆ."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG15.9",
         "img_landscape": "sloks/{size}/chapter_15/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_9/square/img.png",
-        "transliteration": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||"
+        "transliteration": {
+          "hi": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||",
+          "en": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
+          "be": "শ্রোত্রং চক্ষুঃ স্পর্শনং চ রসনং ঘ্রাণমেব চ |\nঅধিষ্ঠায মনশ্চাযং বিষযানুপসেবতে ||১৫-৯||",
+          "ka": "ಶ್ರೋತ್ರಂ ಚಕ್ಷುಃ ಸ್ಪರ್ಶನಂ ಚ ರಸನಂ ಘ್ರಾಣಮೇವ ಚ |\nಅಧಿಷ್ಠಾಯ ಮನಶ್ಚಾಯಂ ವಿಷಯಾನುಪಸೇವತೇ ||೧೫-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||",
+          "en": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
+          "be": "শ্রোত্রং চক্ষুঃ স্পর্শনং চ রসনং ঘ্রাণমেব চ |\nঅধিষ্ঠায মনশ্চাযং বিষযানুপসেবতে ||১৫-৯||",
+          "ka": "ಶ್ರೋತ್ರಂ ಚಕ್ಷುಃ ಸ್ಪರ್ಶನಂ ಚ ರಸನಂ ಘ್ರಾಣಮೇವ ಚ |\nಅಧಿಷ್ಠಾಯ ಮನಶ್ಚಾಯಂ ವಿಷಯಾನುಪಸೇವತೇ ||೧೫-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Presiding over hearing, sight, touch, taste, smell, and mind, the embodied soul experiences sense objects."
+        "life_application": {
+          "hi": "श्रवण, दृष्टि, स्पर्श, स्वाद, गंध और मन पर शासन करते हुए, देहधारी आत्मा इंद्रिय विषयों का अनुभव करती है।",
+          "en": "Presiding over hearing, sight, touch, taste, smell, and mind, the embodied soul experiences sense objects.",
+          "be": "শ্রবণ, দৃষ্টি, স্পর্শ, স্বাদ, গন্ধ এবং মনের উপর সভাপতিত্ব করে, মূর্ত আত্মা ইন্দ্রিয় বস্তু অনুভব করে।",
+          "ka": "ಶ್ರವಣ, ದೃಷ್ಟಿ, ಸ್ಪರ್ಶ, ರುಚಿ, ವಾಸನೆ ಮತ್ತು ಮನಸ್ಸಿನ ಮೇಲೆ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿ, ಸಾಕಾರಗೊಂಡ ಆತ್ಮವು ಇಂದ್ರಿಯ ವಸ್ತುಗಳನ್ನು ಅನುಭವಿಸುತ್ತದೆ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG15.10",
         "img_landscape": "sloks/{size}/chapter_15/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_10/square/img.png",
-        "transliteration": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||"
+        "transliteration": {
+          "hi": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||",
+          "en": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
+          "be": "উত্ক্রামন্তং স্থিতং বাপি ভুঞ্জানং বা গুণান্বিতম্ |\nবিমূঢা নানুপশ্যন্তি পশ্যন্তি জ্ঞানচক্ষুষঃ ||১৫-১০||",
+          "ka": "ಉತ್ಕ್ರಾಮನ್ತಂ ಸ್ಥಿತಂ ವಾಪಿ ಭುಞ್ಜಾನಂ ವಾ ಗುಣಾನ್ವಿತಮ್ |\nವಿಮೂಢಾ ನಾನುಪಶ್ಯನ್ತಿ ಪಶ್ಯನ್ತಿ ಜ್ಞಾನಚಕ್ಷುಷಃ ||೧೫-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||",
+          "en": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
+          "be": "উত্ক্রামন্তং স্থিতং বাপি ভুঞ্জানং বা গুণান্বিতম্ |\nবিমূঢা নানুপশ্যন্তি পশ্যন্তি জ্ঞানচক্ষুষঃ ||১৫-১০||",
+          "ka": "ಉತ್ಕ್ರಾಮನ್ತಂ ಸ್ಥಿತಂ ವಾಪಿ ಭುಞ್ಜಾನಂ ವಾ ಗುಣಾನ್ವಿತಮ್ |\nವಿಮೂಢಾ ನಾನುಪಶ್ಯನ್ತಿ ಪಶ್ಯನ್ತಿ ಜ್ಞಾನಚಕ್ಷುಷಃ ||೧೫-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "The deluded do not see the soul departing, staying, or experiencing quality; those with eye of wisdom see."
+        "life_application": {
+          "hi": "भ्रमित लोग आत्मा को प्रस्थान करते, ठहरते या गुणवत्ता का अनुभव करते हुए नहीं देखते हैं; जिनके पास ज्ञान की आँख है वे देखते हैं।",
+          "en": "The deluded do not see the soul departing, staying, or experiencing quality; those with eye of wisdom see.",
+          "be": "প্রতারিতরা আত্মাকে প্রস্থান, অবস্থান, বা গুণ অনুভব করতে দেখে না; যাদের জ্ঞানের চোখ আছে তারা দেখে।",
+          "ka": "ಭ್ರಮೆಗೊಳಗಾದವರು ಆತ್ಮವು ನಿರ್ಗಮಿಸುವುದನ್ನು, ಉಳಿಯುವುದನ್ನು ಅಥವಾ ಗುಣಮಟ್ಟವನ್ನು ಅನುಭವಿಸುವುದನ್ನು ನೋಡುವುದಿಲ್ಲ; ಬುದ್ಧಿವಂತಿಕೆಯ ಕಣ್ಣು ಹೊಂದಿರುವವರು ನೋಡುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG15.11",
         "img_landscape": "sloks/{size}/chapter_15/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_11/square/img.png",
-        "transliteration": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||"
+        "transliteration": {
+          "hi": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||",
+          "en": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
+          "be": "যতন্তো যোগিনশ্চৈনং পশ্যন্ত্যাত্মন্যবস্থিতম্ |\nযতন্তোঽপ্যকৃতাত্মানো নৈনং পশ্যন্ত্যচেতসঃ ||১৫-১১||",
+          "ka": "ಯತನ್ತೋ ಯೋಗಿನಶ್ಚೈನಂ ಪಶ್ಯನ್ತ್ಯಾತ್ಮನ್ಯವಸ್ಥಿತಮ್ |\nಯತನ್ತೋಽಪ್ಯಕೃತಾತ್ಮಾನೋ ನೈನಂ ಪಶ್ಯನ್ತ್ಯಚೇತಸಃ ||೧೫-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||",
+          "en": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
+          "be": "যতন্তো যোগিনশ্চৈনং পশ্যন্ত্যাত্মন্যবস্থিতম্ |\nযতন্তোঽপ্যকৃতাত্মানো নৈনং পশ্যন্ত্যচেতসঃ ||১৫-১১||",
+          "ka": "ಯತನ್ತೋ ಯೋಗಿನಶ್ಚೈನಂ ಪಶ್ಯನ್ತ್ಯಾತ್ಮನ್ಯವಸ್ಥಿತಮ್ |\nಯತನ್ತೋಽಪ್ಯಕೃತಾತ್ಮಾನೋ ನೈನಂ ಪಶ್ಯನ್ತ್ಯಚೇತಸಃ ||೧೫-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Striving practitioners behold the soul seated in Self; the unrefined and undisciplined see It not, though striving."
+        "life_application": {
+          "hi": "प्रयासरत अभ्यासी स्वयं में विराजमान आत्मा को देखते हैं; अपरिष्कृत और अनुशासनहीन लोग प्रयास करते हुए भी इसे नहीं देख पाते हैं।",
+          "en": "Striving practitioners behold the soul seated in Self; the unrefined and undisciplined see It not, though striving.",
+          "be": "প্রয়াসী অনুশীলনকারীরা আত্মার মধ্যে বসে থাকা আত্মাকে দেখেন; অপরিশোধিত এবং শৃঙ্খলাহীনরা এটি দেখতে পায় না, যদিও চেষ্টা করে।",
+          "ka": "ಪ್ರಯತ್ನಶೀಲ ಸಾಧಕರು ಆತ್ಮದಲ್ಲಿ ಕುಳಿತಿರುವ ಆತ್ಮವನ್ನು ನೋಡುತ್ತಾರೆ; ಸಂಸ್ಕರಿಸದ ಮತ್ತು ಅಶಿಸ್ತಿನವರು ಅದನ್ನು ನೋಡುವುದಿಲ್ಲ, ಆದರೂ ಶ್ರಮಿಸುತ್ತಿದ್ದಾರೆ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG15.12",
         "img_landscape": "sloks/{size}/chapter_15/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_12/square/img.png",
-        "transliteration": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||"
+        "transliteration": {
+          "hi": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||",
+          "en": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
+          "be": "যদাদিত্যগতং তেজো জগদ্ভাসযতেঽখিলম্ |\nযচ্চন্দ্রমসি যচ্চাগ্নৌ তত্তেজো বিদ্ধি মামকম্ ||১৫-১২||",
+          "ka": "ಯದಾದಿತ್ಯಗತಂ ತೇಜೋ ಜಗದ್ಭಾಸಯತೇಽಖಿಲಮ್ |\nಯಚ್ಚನ್ದ್ರಮಸಿ ಯಚ್ಚಾಗ್ನೌ ತತ್ತೇಜೋ ವಿದ್ಧಿ ಮಾಮಕಮ್ ||೧೫-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||",
+          "en": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
+          "be": "যদাদিত্যগতং তেজো জগদ্ভাসযতেঽখিলম্ |\nযচ্চন্দ্রমসি যচ্চাগ্নৌ তত্তেজো বিদ্ধি মামকম্ ||১৫-১২||",
+          "ka": "ಯದಾದಿತ್ಯಗತಂ ತೇಜೋ ಜಗದ್ಭಾಸಯತೇಽಖಿಲಮ್ |\nಯಚ್ಚನ್ದ್ರಮಸಿ ಯಚ್ಚಾಗ್ನೌ ತತ್ತೇಜೋ ವಿದ್ಧಿ ಮಾಮಕಮ್ ||೧೫-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know that radiance in the sun illuminating the world, in moon and fire, to be divine splendor."
+        "life_application": {
+          "hi": "संसार को प्रकाशित करने वाले सूर्य में जो तेज है, चंद्रमा और अग्नि में जो तेज है, उसे दिव्य तेज जानो।",
+          "en": "Know that radiance in the sun illuminating the world, in moon and fire, to be divine splendor.",
+          "be": "জানুন যে সূর্যের তেজ জগৎকে আলোকিত করে, চন্দ্র ও অগ্নিতে, দৈব মহিমা।",
+          "ka": "ಜಗತ್ತನ್ನು ಬೆಳಗಿಸುವ ಸೂರ್ಯನಲ್ಲಿ, ಚಂದ್ರ ಮತ್ತು ಬೆಂಕಿಯಲ್ಲಿ, ದೈವಿಕ ತೇಜಸ್ಸಿಗೆ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG15.13",
         "img_landscape": "sloks/{size}/chapter_15/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_13/square/img.png",
-        "transliteration": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||"
+        "transliteration": {
+          "hi": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||",
+          "en": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
+          "be": "গামাবিশ্য চ ভূতানি ধারযাম্যহমোজসা |\nপুষ্ণামি চৌষধীঃ সর্বাঃ সোমো ভূত্বা রসাত্মকঃ ||১৫-১৩||",
+          "ka": "ಗಾಮಾವಿಶ್ಯ ಚ ಭೂತಾನಿ ಧಾರಯಾಮ್ಯಹಮೋಜಸಾ |\nಪುಷ್ಣಾಮಿ ಚೌಷಧೀಃ ಸರ್ವಾಃ ಸೋಮೋ ಭೂತ್ವಾ ರಸಾತ್ಮಕಃ ||೧೫-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||",
+          "en": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
+          "be": "গামাবিশ্য চ ভূতানি ধারযাম্যহমোজসা |\nপুষ্ণামি চৌষধীঃ সর্বাঃ সোমো ভূত্বা রসাত্মকঃ ||১৫-১৩||",
+          "ka": "ಗಾಮಾವಿಶ್ಯ ಚ ಭೂತಾನಿ ಧಾರಯಾಮ್ಯಹಮೋಜಸಾ |\nಪುಷ್ಣಾಮಿ ಚೌಷಧೀಃ ಸರ್ವಾಃ ಸೋಮೋ ಭೂತ್ವಾ ರಸಾತ್ಮಕಃ ||೧೫-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Entering earth, God sustains all beings by divine energy, and becoming sapful moon, nourishes all plants."
+        "life_application": {
+          "hi": "भगवान पृथ्वी में प्रवेश करके दिव्य शक्ति से सभी प्राणियों का पालन-पोषण करते हैं और रसपूर्ण चंद्रमा बनकर सभी पौधों का पोषण करते हैं।",
+          "en": "Entering earth, God sustains all beings by divine energy, and becoming sapful moon, nourishes all plants.",
+          "be": "পৃথিবীতে প্রবেশ করে, ঈশ্বর ঐশ্বরিক শক্তি দ্বারা সমস্ত প্রাণীকে টিকিয়ে রাখেন, এবং রৌদ্রময় চাঁদ হয়ে সমস্ত উদ্ভিদকে পুষ্ট করেন।",
+          "ka": "ಭೂಮಿಯನ್ನು ಪ್ರವೇಶಿಸಿ, ದೇವರು ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ದೈವಿಕ ಶಕ್ತಿಯಿಂದ ಪೋಷಿಸುತ್ತಾನೆ ಮತ್ತು ಸಪ್ಫುಲ್ ಚಂದ್ರನಾಗುತ್ತಾನೆ, ಎಲ್ಲಾ ಸಸ್ಯಗಳನ್ನು ಪೋಷಿಸುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG15.14",
         "img_landscape": "sloks/{size}/chapter_15/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_14/square/img.png",
-        "transliteration": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||"
+        "transliteration": {
+          "hi": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||",
+          "en": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
+          "be": "অহং বৈশ্বানরো ভূত্বা প্রাণিনাং দেহমাশ্রিতঃ |\nপ্রাণাপানসমাযুক্তঃ পচাম্যন্নং চতুর্বিধম্ ||১৫-১৪||",
+          "ka": "ಅಹಂ ವೈಶ್ವಾನರೋ ಭೂತ್ವಾ ಪ್ರಾಣಿನಾಂ ದೇಹಮಾಶ್ರಿತಃ |\nಪ್ರಾಣಾಪಾನಸಮಾಯುಕ್ತಃ ಪಚಾಮ್ಯನ್ನಂ ಚತುರ್ವಿಧಮ್ ||೧೫-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||",
+          "en": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
+          "be": "অহং বৈশ্বানরো ভূত্বা প্রাণিনাং দেহমাশ্রিতঃ |\nপ্রাণাপানসমাযুক্তঃ পচাম্যন্নং চতুর্বিধম্ ||১৫-১৪||",
+          "ka": "ಅಹಂ ವೈಶ್ವಾನರೋ ಭೂತ್ವಾ ಪ್ರಾಣಿನಾಂ ದೇಹಮಾಶ್ರಿತಃ |\nಪ್ರಾಣಾಪಾನಸಮಾಯುಕ್ತಃ ಪಚಾಮ್ಯನ್ನಂ ಚತುರ್ವಿಧಮ್ ||೧೫-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Becoming the digestive fire in living bodies, united with breath, God digests four kinds of food."
+        "life_application": {
+          "hi": "जीवित शरीरों में पाचन अग्नि बनकर, सांस के साथ एकजुट होकर, भगवान चार प्रकार के भोजन को पचाते हैं।",
+          "en": "Becoming the digestive fire in living bodies, united with breath, God digests four kinds of food.",
+          "be": "জীবদেহে পরিপাক অগ্নি হয়ে, নিঃশ্বাসে একত্রিত হয়ে ভগবান চার প্রকার খাদ্য হজম করেন।",
+          "ka": "ಜೀವಂತ ದೇಹಗಳಲ್ಲಿ ಜೀರ್ಣಕಾರಿ ಬೆಂಕಿಯಾಗಿ, ಉಸಿರಿನೊಂದಿಗೆ ಐಕ್ಯವಾಗಿ, ದೇವರು ನಾಲ್ಕು ರೀತಿಯ ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG15.15",
         "img_landscape": "sloks/{size}/chapter_15/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_15/square/img.png",
-        "transliteration": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||"
+        "transliteration": {
+          "hi": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनञ्च |\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ||१५-१५||",
+          "en": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
+          "be": "সর্বস্য চাহং হৃদি সন্নিবিষ্টো\nমত্তঃ স্মৃতির্জ্ঞানমপোহনঞ্চ |\nবেদৈশ্চ সর্বৈরহমেব বেদ্যো\nবেদান্তকৃদ্বেদবিদেব চাহম্ ||১৫-১৫||",
+          "ka": "ಸರ್ವಸ್ಯ ಚಾಹಂ ಹೃದಿ ಸನ್ನಿವಿಷ್ಟೋ\nಮತ್ತಃ ಸ್ಮೃತಿರ್ಜ್ಞಾನಮಪೋಹನಞ್ಚ |\nವೇದೈಶ್ಚ ಸರ್ವೈರಹಮೇವ ವೇದ್ಯೋ\nವೇದಾನ್ತಕೃದ್ವೇದವಿದೇವ ಚಾಹಮ್ ||೧೫-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनञ्च |\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ||१५-१५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनञ्च |\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ||१५-१५||",
+          "en": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
+          "be": "সর্বস্য চাহং হৃদি সন্নিবিষ্টো\nমত্তঃ স্মৃতির্জ্ঞানমপোহনঞ্চ |\nবেদৈশ্চ সর্বৈরহমেব বেদ্যো\nবেদান্তকৃদ্বেদবিদেব চাহম্ ||১৫-১৫||",
+          "ka": "ಸರ್ವಸ್ಯ ಚಾಹಂ ಹೃದಿ ಸನ್ನಿವಿಷ್ಟೋ\nಮತ್ತಃ ಸ್ಮೃತಿರ್ಜ್ಞಾನಮಪೋಹನಞ್ಚ |\nವೇದೈಶ್ಚ ಸರ್ವೈರಹಮೇವ ವೇದ್ಯೋ\nವೇದಾನ್ತಕೃದ್ವೇದವಿದೇವ ಚಾಹಮ್ ||೧೫-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Seated in the heart of all, from God comes memory, knowledge, and their loss; God is to be known by all scriptures."
+        "life_application": {
+          "hi": "सभी के हृदय में विराजमान ईश्वर से स्मृति, ज्ञान और उनकी हानि आती है; ईश्वर को सभी शास्त्रों से जाना जा सकता है।",
+          "en": "Seated in the heart of all, from God comes memory, knowledge, and their loss; God is to be known by all scriptures.",
+          "be": "সকলের হৃদয়ে উপবিষ্ট, ঈশ্বরের কাছ থেকে স্মৃতি, জ্ঞান এবং তাদের ক্ষতি আসে; সকল ধর্মগ্রন্থ দ্বারা ঈশ্বরকে জানাতে হয়।",
+          "ka": "ಎಲ್ಲರ ಹೃದಯದಲ್ಲಿ ಕುಳಿತು, ದೇವರಿಂದ ಸ್ಮರಣೆ, ​​ಜ್ಞಾನ ಮತ್ತು ಅವರ ನಷ್ಟವು ಬರುತ್ತದೆ; ದೇವರನ್ನು ಎಲ್ಲಾ ಶಾಸ್ತ್ರಗಳಿಂದಲೂ ತಿಳಿಯಬೇಕು."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG15.16",
         "img_landscape": "sloks/{size}/chapter_15/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_16/square/img.png",
-        "transliteration": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||"
+        "transliteration": {
+          "hi": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ||१५-१६||",
+          "en": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
+          "be": "দ্বাবিমৌ পুরুষৌ লোকে ক্ষরশ্চাক্ষর এব চ |\nক্ষরঃ সর্বাণি ভূতানি কূটস্থোঽক্ষর উচ্যতে ||১৫-১৬||",
+          "ka": "ದ್ವಾವಿಮೌ ಪುರುಷೌ ಲೋಕೇ ಕ್ಷರಶ್ಚಾಕ್ಷರ ಏವ ಚ |\nಕ್ಷರಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ಕೂಟಸ್ಥೋಽಕ್ಷರ ಉಚ್ಯತೇ ||೧೫-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ||१५-१६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ||१५-१६||",
+          "en": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
+          "be": "দ্বাবিমৌ পুরুষৌ লোকে ক্ষরশ্চাক্ষর এব চ |\nক্ষরঃ সর্বাণি ভূতানি কূটস্থোঽক্ষর উচ্যতে ||১৫-১৬||",
+          "ka": "ದ್ವಾವಿಮೌ ಪುರುಷೌ ಲೋಕೇ ಕ್ಷರಶ್ಚಾಕ್ಷರ ಏವ ಚ |\nಕ್ಷರಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ಕೂಟಸ್ಥೋಽಕ್ಷರ ಉಚ್ಯತೇ ||೧೫-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Two beings exist in the world: perishable physical creation and imperishable soul; all beings are perishable, soul unchangeable."
+        "life_application": {
+          "hi": "संसार में दो सत्ताएँ विद्यमान हैं: नाशवान भौतिक सृष्टि और अविनाशी आत्मा; सभी प्राणी नाशवान हैं, आत्मा अपरिवर्तनीय है।",
+          "en": "Two beings exist in the world: perishable physical creation and imperishable soul; all beings are perishable, soul unchangeable.",
+          "be": "পৃথিবীতে দুটি প্রাণীর অস্তিত্ব রয়েছে: ধ্বংসশীল দৈহিক সৃষ্টি এবং অবিনশ্বর আত্মা; সমস্ত প্রাণী ধ্বংসশীল, আত্মা অপরিবর্তনীয়।",
+          "ka": "ಜಗತ್ತಿನಲ್ಲಿ ಎರಡು ಜೀವಿಗಳು ಅಸ್ತಿತ್ವದಲ್ಲಿವೆ: ನಾಶವಾಗುವ ಭೌತಿಕ ಸೃಷ್ಟಿ ಮತ್ತು ನಾಶವಾಗದ ಆತ್ಮ; ಎಲ್ಲಾ ಜೀವಿಗಳು ನಾಶವಾಗುತ್ತವೆ, ಆತ್ಮವು ಬದಲಾಗುವುದಿಲ್ಲ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG15.17",
         "img_landscape": "sloks/{size}/chapter_15/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_17/square/img.png",
-        "transliteration": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||"
+        "transliteration": {
+          "hi": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||",
+          "en": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
+          "be": "উত্তমঃ পুরুষস্ত্বন্যঃ পরমাত্মেত্যুধাহৃতঃ |\nযো লোকত্রযমাবিশ্য বিভর্ত্যব্যয ঈশ্বরঃ ||১৫-১৭||",
+          "ka": "ಉತ್ತಮಃ ಪುರುಷಸ್ತ್ವನ್ಯಃ ಪರಮಾತ್ಮೇತ್ಯುಧಾಹೃತಃ |\nಯೋ ಲೋಕತ್ರಯಮಾವಿಶ್ಯ ಬಿಭರ್ತ್ಯವ್ಯಯ ಈಶ್ವರಃ ||೧೫-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||",
+          "en": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
+          "be": "উত্তমঃ পুরুষস্ত্বন্যঃ পরমাত্মেত্যুধাহৃতঃ |\nযো লোকত্রযমাবিশ্য বিভর্ত্যব্যয ঈশ্বরঃ ||১৫-১৭||",
+          "ka": "ಉತ್ತಮಃ ಪುರುಷಸ್ತ್ವನ್ಯಃ ಪರಮಾತ್ಮೇತ್ಯುಧಾಹೃತಃ |\nಯೋ ಲೋಕತ್ರಯಮಾವಿಶ್ಯ ಬಿಭರ್ತ್ಯವ್ಯಯ ಈಶ್ವರಃ ||೧೫-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Supreme Person is distinct, declared as Supreme Self, imperishable Lord who pervades three worlds and sustains them."
+        "life_application": {
+          "hi": "सर्वोच्च व्यक्ति विशिष्ट है, जिसे सर्वोच्च आत्मा, अविनाशी भगवान के रूप में घोषित किया गया है जो तीनों लोकों में व्याप्त है और उनका भरण-पोषण करता है।",
+          "en": "Supreme Person is distinct, declared as Supreme Self, imperishable Lord who pervades three worlds and sustains them.",
+          "be": "পরম পুরুষ স্বতন্ত্র, পরম স্বয়ং, অবিনশ্বর ভগবান হিসাবে ঘোষিত যিনি তিনটি জগতে বিরাজ করেন এবং তাদের টিকিয়ে রাখেন।",
+          "ka": "ಪರಮಪುರುಷನು ವಿಭಿನ್ನ, ಪರಮಾತ್ಮನೆಂದು ಘೋಷಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ, ಮೂರು ಲೋಕಗಳನ್ನು ವ್ಯಾಪಿಸಿರುವ ಮತ್ತು ಅವುಗಳನ್ನು ಪೋಷಿಸುವ ಅವಿನಾಶಿ ಭಗವಂತ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG15.18",
         "img_landscape": "sloks/{size}/chapter_15/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_18/square/img.png",
-        "transliteration": "yasmātkṣaramatīto.ahamakṣarādapi cottamaḥ .\nato.asmi loke vedeca prathitaḥ puruṣottamaḥ ||15-18||"
+        "transliteration": {
+          "hi": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः |\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ||१५-१८||",
+          "en": "yasmātkṣaramatīto.ahamakṣarādapi cottamaḥ .\nato.asmi loke vedeca prathitaḥ puruṣottamaḥ ||15-18||",
+          "be": "যস্মাত্ক্ষরমতীতোঽহমক্ষরাদপি চোত্তমঃ |\nঅতোঽস্মি লোকে বেদে চ প্রথিতঃ পুরুষোত্তমঃ ||১৫-১৮||",
+          "ka": "ಯಸ್ಮಾತ್ಕ್ಷರಮತೀತೋಽಹಮಕ್ಷರಾದಪಿ ಚೋತ್ತಮಃ |\nಅತೋಽಸ್ಮಿ ಲೋಕೇ ವೇದೇ ಚ ಪ್ರಥಿತಃ ಪುರುಷೋತ್ತಮಃ ||೧೫-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः |\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ||१५-१८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः |\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ||१५-१८||",
+          "en": "yasmātkṣaramatīto.ahamakṣarādapi cottamaḥ .\nato.asmi loke vedeca prathitaḥ puruṣottamaḥ ||15-18||",
+          "be": "যস্মাত্ক্ষরমতীতোঽহমক্ষরাদপি চোত্তমঃ |\nঅতোঽস্মি লোকে বেদে চ প্রথিতঃ পুরুষোত্তমঃ ||১৫-১৮||",
+          "ka": "ಯಸ್ಮಾತ್ಕ್ಷರಮತೀತೋಽಹಮಕ್ಷರಾದಪಿ ಚೋತ್ತಮಃ |\nಅತೋಽಸ್ಮಿ ಲೋಕೇ ವೇದೇ ಚ ಪ್ರಥಿತಃ ಪುರುಷೋತ್ತಮಃ ||೧೫-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Because God transcends the perishable and excels the imperishable, God is celebrated in world and Veda as Supreme Person."
+        "life_application": {
+          "hi": "चूँकि ईश्वर नाशवान से परे है और अविनाशी से श्रेष्ठ है, ईश्वर को दुनिया में और वेद में सर्वोच्च व्यक्ति के रूप में मनाया जाता है।",
+          "en": "Because God transcends the perishable and excels the imperishable, God is celebrated in world and Veda as Supreme Person.",
+          "be": "যেহেতু ঈশ্বর ধ্বংসশীলকে অতিক্রম করেন এবং অবিনশ্বরকে ছাড়িয়ে যান, তাই ঈশ্বর বিশ্ব ও বেদে পরম পুরুষ হিসাবে পালিত হয়।",
+          "ka": "ಭಗವಂತನು ನಾಶವಾಗುವುದನ್ನು ಮೀರುತ್ತಾನೆ ಮತ್ತು ಅಕ್ಷಯವನ್ನು ಮೀರಿಸುತ್ತಾನೆ, ದೇವರು ಜಗತ್ತಿನಲ್ಲಿ ಮತ್ತು ವೇದವನ್ನು ಪರಮಪುರುಷ ಎಂದು ಕೊಂಡಾಡಲಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG15.19",
         "img_landscape": "sloks/{size}/chapter_15/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_19/square/img.png",
-        "transliteration": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||"
+        "transliteration": {
+          "hi": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||",
+          "en": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
+          "be": "যো মামেবমসম্মূঢো জানাতি পুরুষোত্তমম্ |\nস সর্ববিদ্ভজতি মাং সর্বভাবেন ভারত ||১৫-১৯||",
+          "ka": "ಯೋ ಮಾಮೇವಮಸಮ್ಮೂಢೋ ಜಾನಾತಿ ಪುರುಷೋತ್ತಮಮ್ |\nಸ ಸರ್ವವಿದ್ಭಜತಿ ಮಾಂ ಸರ್ವಭಾವೇನ ಭಾರತ ||೧೫-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||",
+          "en": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
+          "be": "যো মামেবমসম্মূঢো জানাতি পুরুষোত্তমম্ |\nস সর্ববিদ্ভজতি মাং সর্বভাবেন ভারত ||১৫-১৯||",
+          "ka": "ಯೋ ಮಾಮೇವಮಸಮ್ಮೂಢೋ ಜಾನಾತಿ ಪುರುಷೋತ್ತಮಮ್ |\nಸ ಸರ್ವವಿದ್ಭಜತಿ ಮಾಂ ಸರ್ವಭಾವೇನ ಭಾರತ ||೧೫-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "He who, undeluded, knows God thus as Supreme Person knows all, worshipping God with his whole being."
+        "life_application": {
+          "hi": "वह, जो भ्रमित न होकर, ईश्वर को इस प्रकार जानता है जैसे कि सर्वोच्च व्यक्ति, वह सब कुछ जानता है, अपने पूरे अस्तित्व के साथ ईश्वर की पूजा करता है।",
+          "en": "He who, undeluded, knows God thus as Supreme Person knows all, worshipping God with his whole being.",
+          "be": "যিনি বিভ্রান্ত হয়ে পরমেশ্বর ভগবানকে এইভাবে জানেন যে তিনি সমস্ত কিছু জানেন, তিনি তাঁর সমস্ত সত্তা দিয়ে ভগবানের আরাধনা করেন।",
+          "ka": "ಭ್ರಮೆಯಿಲ್ಲದೆ, ಪರಮಾತ್ಮನನ್ನು ಹೀಗೆ ತಿಳಿದಿರುವವನು ಎಲ್ಲವನ್ನೂ ತಿಳಿದಿರುತ್ತಾನೆ, ತನ್ನ ಸಂಪೂರ್ಣ ಅಸ್ತಿತ್ವದಿಂದ ದೇವರನ್ನು ಆರಾಧಿಸುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG15.20",
         "img_landscape": "sloks/{size}/chapter_15/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_15/slok_20/square/img.png",
-        "transliteration": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||"
+        "transliteration": {
+          "hi": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||",
+          "en": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
+          "be": "ইতি গুহ্যতমং শাস্ত্রমিদমুক্তং মযানঘ |\nএতদ্বুদ্ধ্বা বুদ্ধিমান্স্যাত্কৃতকৃত্যশ্চ ভারত ||১৫-২০||",
+          "ka": "ಇತಿ ಗುಹ್ಯತಮಂ ಶಾಸ್ತ್ರಮಿದಮುಕ್ತಂ ಮಯಾನಘ |\nಏತದ್ಬುದ್ಧ್ವಾ ಬುದ್ಧಿಮಾನ್ಸ್ಯಾತ್ಕೃತಕೃತ್ಯಶ್ಚ ಭಾರತ ||೧೫-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||",
+          "en": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
+          "be": "ইতি গুহ্যতমং শাস্ত্রমিদমুক্তং মযানঘ |\nএতদ্বুদ্ধ্বা বুদ্ধিমান্স্যাত্কৃতকৃত্যশ্চ ভারত ||১৫-২০||",
+          "ka": "ಇತಿ ಗುಹ್ಯತಮಂ ಶಾಸ್ತ್ರಮಿದಮುಕ್ತಂ ಮಯಾನಘ |\nಏತದ್ಬುದ್ಧ್ವಾ ಬುದ್ಧಿಮಾನ್ಸ್ಯಾತ್ಕೃತಕೃತ್ಯಶ್ಚ ಭಾರತ ||೧೫-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Thus has this most secret science been declared; knowing this, one becomes wise and completes all duty."
+        "life_application": {
+          "hi": "इस प्रकार यह अत्यंत गुप्त विज्ञान घोषित किया गया है; ऐसा जानकर मनुष्य बुद्धिमान हो जाता है और सभी कर्तव्य पूर्ण कर लेता है।",
+          "en": "Thus has this most secret science been declared; knowing this, one becomes wise and completes all duty.",
+          "be": "এইভাবে এই সবচেয়ে গোপন বিজ্ঞান ঘোষণা করা হয়েছে; একথা জেনে জ্ঞানী হয় এবং সমস্ত কর্তব্য সম্পন্ন করে।",
+          "ka": "ಹೀಗೆ ಈ ಅತ್ಯಂತ ರಹಸ್ಯ ವಿಜ್ಞಾನವನ್ನು ಘೋಷಿಸಲಾಗಿದೆ; ಇದನ್ನು ತಿಳಿದುಕೊಂಡು, ಒಬ್ಬನು ಬುದ್ಧಿವಂತನಾಗುತ್ತಾನೆ ಮತ್ತು ಎಲ್ಲಾ ಕರ್ತವ್ಯಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತಾನೆ."
+        }
       }
     }
   ]

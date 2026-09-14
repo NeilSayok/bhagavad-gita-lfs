@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Arjuna Visada Yoga"
+    "translation": {
+      "hi": "अर्जुन विषाद योग",
+      "en": "Arjuna Visada Yoga",
+      "be": "অর্জুন বিষাদ যোগ",
+      "ka": "ಅರ್ಜುನ ವಿಷಾದ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG1.1",
         "img_landscape": "sloks/{size}/chapter_1/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_1/square/img.png",
-        "transliteration": "dhṛtarāṣṭra uvāca .\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ .\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||1-1||"
+        "transliteration": {
+          "hi": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||",
+          "en": "dhṛtarāṣṭra uvāca .\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ .\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||1-1||",
+          "be": "ধৃতরাষ্ট্র উবাচ |\nধর্মক্ষেত্রে কুরুক্ষেত্রে সমবেতা যুযুত্সবঃ |\nমামকাঃ পাণ্ডবাশ্চৈব কিমকুর্বত সঞ্জয ||১-১||",
+          "ka": "ಧೃತರಾಷ್ಟ್ರ ಉವಾಚ |\nಧರ್ಮಕ್ಷೇತ್ರೇ ಕುರುಕ್ಷೇತ್ರೇ ಸಮವೇತಾ ಯುಯುತ್ಸವಃ |\nಮಾಮಕಾಃ ಪಾಣ್ಡವಾಶ್ಚೈವ ಕಿಮಕುರ್ವತ ಸಞ್ಜಯ ||೧-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "धृतराष्ट्र",
-        "slok": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||"
+        "speaker": {
+          "hi": "धृतराष्ट्र",
+          "en": "Dhritarashtra",
+          "be": "ধৃতরাষ্ট্র",
+          "ka": "ಧೃತರಾಷ್ಟ್ರ"
+        },
+        "slok": {
+          "hi": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||",
+          "en": "dhṛtarāṣṭra uvāca .\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ .\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||1-1||",
+          "be": "ধৃতরাষ্ট্র উবাচ |\nধর্মক্ষেত্রে কুরুক্ষেত্রে সমবেতা যুযুত্সবঃ |\nমামকাঃ পাণ্ডবাশ্চৈব কিমকুর্বত সঞ্জয ||১-১||",
+          "ka": "ಧೃತರಾಷ್ಟ್ರ ಉವಾಚ |\nಧರ್ಮಕ್ಷೇತ್ರೇ ಕುರುಕ್ಷೇತ್ರೇ ಸಮವೇತಾ ಯುಯುತ್ಸವಃ |\nಮಾಮಕಾಃ ಪಾಣ್ಡವಾಶ್ಚೈವ ಕಿಮಕುರ್ವತ ಸಞ್ಜಯ ||೧-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Notice when personal bias clouds your judgment today, and seek an honest, objective perspective before taking any action."
+        "life_application": {
+          "hi": "ध्यान दें कि व्यक्तिगत पूर्वाग्रह आज आपके निर्णय पर कब हावी हो जाता है, और कोई भी कार्रवाई करने से पहले एक ईमानदार, वस्तुनिष्ठ दृष्टिकोण की तलाश करें।",
+          "en": "Notice when personal bias clouds your judgment today, and seek an honest, objective perspective before taking any action.",
+          "be": "লক্ষ্য করুন যখন ব্যক্তিগত পক্ষপাতিত্ব আজ আপনার রায়কে মেঘে পরিণত করে, এবং কোনো পদক্ষেপ নেওয়ার আগে একটি সৎ, উদ্দেশ্যমূলক দৃষ্টিভঙ্গি সন্ধান করুন।",
+          "ka": "ವೈಯಕ್ತಿಕ ಪಕ್ಷಪಾತವು ಇಂದು ನಿಮ್ಮ ತೀರ್ಪನ್ನು ಆವರಿಸಿದಾಗ ಗಮನಿಸಿ ಮತ್ತು ಯಾವುದೇ ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ಪ್ರಾಮಾಣಿಕ, ವಸ್ತುನಿಷ್ಠ ದೃಷ್ಟಿಕೋನವನ್ನು ಹುಡುಕಿ."
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG1.2",
         "img_landscape": "sloks/{size}/chapter_1/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_2/square/img.png",
-        "transliteration": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||"
+        "transliteration": {
+          "hi": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||",
+          "en": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||",
+          "be": "সঞ্জয উবাচ |\nদৃষ্ট্বা তু পাণ্ডবানীকং ব্যূঢং দুর্যোধনস্তদা |\nআচার্যমুপসংগম্য রাজা বচনমব্রবীত্ ||১-২||",
+          "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nದೃಷ್ಟ್ವಾ ತು ಪಾಣ್ಡವಾನೀಕಂ ವ್ಯೂಢಂ ದುರ್ಯೋಧನಸ್ತದಾ |\nಆಚಾರ್ಯಮುಪಸಂಗಮ್ಯ ರಾಜಾ ವಚನಮಬ್ರವೀತ್ ||೧-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||",
+          "en": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||",
+          "be": "সঞ্জয উবাচ |\nদৃষ্ট্বা তু পাণ্ডবানীকং ব্যূঢং দুর্যোধনস্তদা |\nআচার্যমুপসংগম্য রাজা বচনমব্রবীত্ ||১-২||",
+          "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nದೃಷ್ಟ್ವಾ ತು ಪಾಣ್ಡವಾನೀಕಂ ವ್ಯೂಢಂ ದುರ್ಯೋಧನಸ್ತದಾ |\nಆಚಾರ್ಯಮುಪಸಂಗಮ್ಯ ರಾಜಾ ವಚನಮಬ್ರವೀತ್ ||೧-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "When facing a challenging situation today, approach your mentors with respect and address difficulties with calm composure."
+        "life_application": {
+          "hi": "आज किसी चुनौतीपूर्ण स्थिति का सामना करते समय, अपने आकाओं से सम्मान के साथ संपर्क करें और शांत धैर्य के साथ कठिनाइयों का समाधान करें।",
+          "en": "When facing a challenging situation today, approach your mentors with respect and address difficulties with calm composure.",
+          "be": "আজ যখন একটি চ্যালেঞ্জিং পরিস্থিতির সম্মুখীন হচ্ছেন, তখন সম্মানের সাথে আপনার পরামর্শদাতাদের সাথে যোগাযোগ করুন এবং শান্ত সহনশীলতার সাথে সমস্যার সমাধান করুন।",
+          "ka": "ಇಂದು ಸವಾಲಿನ ಪರಿಸ್ಥಿತಿಯನ್ನು ಎದುರಿಸುತ್ತಿರುವಾಗ, ನಿಮ್ಮ ಮಾರ್ಗದರ್ಶಕರನ್ನು ಗೌರವದಿಂದ ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ತೊಂದರೆಗಳನ್ನು ಶಾಂತವಾಗಿ ಸಂಯಮದಿಂದ ಪರಿಹರಿಸಿ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG1.3",
         "img_landscape": "sloks/{size}/chapter_1/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_3/square/img.png",
-        "transliteration": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm .\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||1-3||"
+        "transliteration": {
+          "hi": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||",
+          "en": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm .\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||1-3||",
+          "be": "পশ্যৈতাং পাণ্ডুপুত্রাণামাচার্য মহতীং চমূম্ |\nব্যূঢাং দ্রুপদপুত্রেণ তব শিষ্যেণ ধীমতা ||১-৩||",
+          "ka": "ಪಶ್ಯೈತಾಂ ಪಾಣ್ಡುಪುತ್ರಾಣಾಮಾಚಾರ್ಯ ಮಹತೀಂ ಚಮೂಮ್ |\nವ್ಯೂಢಾಂ ದ್ರುಪದಪುತ್ರೇಣ ತವ ಶಿಷ್ಯೇಣ ಧೀಮತಾ ||೧-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||",
+          "en": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm .\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||1-3||",
+          "be": "পশ্যৈতাং পাণ্ডুপুত্রাণামাচার্য মহতীং চমূম্ |\nব্যূঢাং দ্রুপদপুত্রেণ তব শিষ্যেণ ধীমতা ||১-৩||",
+          "ka": "ಪಶ್ಯೈತಾಂ ಪಾಣ್ಡುಪುತ್ರಾಣಾಮಾಚಾರ್ಯ ಮಹತೀಂ ಚಮೂಮ್ |\nವ್ಯೂಢಾಂ ದ್ರುಪದಪುತ್ರೇಣ ತವ ಶಿಷ್ಯೇಣ ಧೀಮತಾ ||೧-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Acknowledge the capabilities of your opponents or rivals with clarity instead of letting insecurity distort your assessment."
+        "life_application": {
+          "hi": "असुरक्षा को अपने मूल्यांकन को विकृत करने देने के बजाय अपने विरोधियों या प्रतिद्वंद्वियों की क्षमताओं को स्पष्टता से स्वीकार करें।",
+          "en": "Acknowledge the capabilities of your opponents or rivals with clarity instead of letting insecurity distort your assessment.",
+          "be": "নিরাপত্তাহীনতাকে আপনার মূল্যায়নকে বিকৃত করতে না দিয়ে আপনার প্রতিপক্ষ বা প্রতিদ্বন্দ্বীদের ক্ষমতাকে স্পষ্টতার সাথে স্বীকার করুন।",
+          "ka": "ಅಭದ್ರತೆಯು ನಿಮ್ಮ ಮೌಲ್ಯಮಾಪನವನ್ನು ವಿರೂಪಗೊಳಿಸಲು ಬಿಡುವ ಬದಲು ನಿಮ್ಮ ವಿರೋಧಿಗಳು ಅಥವಾ ಪ್ರತಿಸ್ಪರ್ಧಿಗಳ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಸ್ಪಷ್ಟತೆಯೊಂದಿಗೆ ಒಪ್ಪಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG1.4",
         "img_landscape": "sloks/{size}/chapter_1/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_4/square/img.png",
-        "transliteration": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||1-4||"
+        "transliteration": {
+          "hi": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि |\nयुयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||",
+          "en": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||1-4||",
+          "be": "অত্র শূরা মহেষ্বাসা ভীমার্জুনসমা যুধি |\nযুযুধানো বিরাটশ্চ দ্রুপদশ্চ মহারথঃ ||১-৪||",
+          "ka": "ಅತ್ರ ಶೂರಾ ಮಹೇಷ್ವಾಸಾ ಭೀಮಾರ್ಜುನಸಮಾ ಯುಧಿ |\nಯುಯುಧಾನೋ ವಿರಾಟಶ್ಚ ದ್ರುಪದಶ್ಚ ಮಹಾರಥಃ ||೧-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि |\nयुयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि |\nयुयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||",
+          "en": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||1-4||",
+          "be": "অত্র শূরা মহেষ্বাসা ভীমার্জুনসমা যুধি |\nযুযুধানো বিরাটশ্চ দ্রুপদশ্চ মহারথঃ ||১-৪||",
+          "ka": "ಅತ್ರ ಶೂರಾ ಮಹೇಷ್ವಾಸಾ ಭೀಮಾರ್ಜುನಸಮಾ ಯುಧಿ |\nಯುಯುಧಾನೋ ವಿರಾಟಶ್ಚ ದ್ರುಪದಶ್ಚ ಮಹಾರಥಃ ||೧-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize the strengths and skills of others around you without feeling diminished by their accomplishments."
+        "life_application": {
+          "hi": "अपने आस-पास दूसरों की उपलब्धियों से कम महसूस किए बिना उनकी ताकत और कौशल को पहचानें।",
+          "en": "Recognize the strengths and skills of others around you without feeling diminished by their accomplishments.",
+          "be": "আপনার চারপাশের অন্যদের শক্তি এবং দক্ষতা তাদের কৃতিত্ব দ্বারা হ্রাস অনুভব না করে স্বীকৃতি দিন।",
+          "ka": "ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಇತರರ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಕೌಶಲ್ಯಗಳನ್ನು ಗುರುತಿಸಿ, ಅವರ ಸಾಧನೆಗಳಿಂದ ಕ್ಷೀಣಿಸಬೇಡಿ."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG1.5",
         "img_landscape": "sloks/{size}/chapter_1/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_5/square/img.png",
-        "transliteration": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ||1-5||"
+        "transliteration": {
+          "hi": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् |\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||",
+          "en": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ||1-5||",
+          "be": "ধৃষ্টকেতুশ্চেকিতানঃ কাশিরাজশ্চ বীর্যবান্ |\nপুরুজিত্কুন্তিভোজশ্চ শৈব্যশ্চ নরপুংগবঃ ||১-৫||",
+          "ka": "ಧೃಷ್ಟಕೇತುಶ್ಚೇಕಿತಾನಃ ಕಾಶಿರಾಜಶ್ಚ ವೀರ್ಯವಾನ್ |\nಪುರುಜಿತ್ಕುನ್ತಿಭೋಜಶ್ಚ ಶೈಬ್ಯಶ್ಚ ನರಪುಂಗವಃ ||೧-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् |\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् |\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||",
+          "en": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ||1-5||",
+          "be": "ধৃষ্টকেতুশ্চেকিতানঃ কাশিরাজশ্চ বীর্যবান্ |\nপুরুজিত্কুন্তিভোজশ্চ শৈব্যশ্চ নরপুংগবঃ ||১-৫||",
+          "ka": "ಧೃಷ್ಟಕೇತುಶ್ಚೇಕಿತಾನಃ ಕಾಶಿರಾಜಶ್ಚ ವೀರ್ಯವಾನ್ |\nಪುರುಜಿತ್ಕುನ್ತಿಭೋಜಶ್ಚ ಶೈಬ್ಯಶ್ಚ ನರಪುಂಗವಃ ||೧-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Assess your team and surroundings with thorough attention, appreciating the distinct contributions each person brings."
+        "life_application": {
+          "hi": "अपनी टीम और परिवेश का सावधानीपूर्वक मूल्यांकन करें, प्रत्येक व्यक्ति के विशिष्ट योगदान की सराहना करें।",
+          "en": "Assess your team and surroundings with thorough attention, appreciating the distinct contributions each person brings.",
+          "be": "আপনার দল এবং পারিপার্শ্বিকতাকে পুঙ্খানুপুঙ্খ মনোযোগের সাথে মূল্যায়ন করুন, প্রতিটি ব্যক্তির আলাদা অবদানের প্রশংসা করে।",
+          "ka": "ನಿಮ್ಮ ತಂಡ ಮತ್ತು ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳನ್ನು ಸಂಪೂರ್ಣ ಗಮನದಿಂದ ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ, ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯು ತರುವ ವಿಭಿನ್ನ ಕೊಡುಗೆಗಳನ್ನು ಶ್ಲಾಘಿಸಿ."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG1.6",
         "img_landscape": "sloks/{size}/chapter_1/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_6/square/img.png",
-        "transliteration": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||1-6||"
+        "transliteration": {
+          "hi": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||",
+          "en": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||1-6||",
+          "be": "যুধামন্যুশ্চ বিক্রান্ত উত্তমৌজাশ্চ বীর্যবান্ |\nসৌভদ্রো দ্রৌপদেযাশ্চ সর্ব এব মহারথাঃ ||১-৬||",
+          "ka": "ಯುಧಾಮನ್ಯುಶ್ಚ ವಿಕ್ರಾನ್ತ ಉತ್ತಮೌಜಾಶ್ಚ ವೀರ್ಯವಾನ್ |\nಸೌಭದ್ರೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವ ಏವ ಮಹಾರಥಾಃ ||೧-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||",
+          "en": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||1-6||",
+          "be": "যুধামন্যুশ্চ বিক্রান্ত উত্তমৌজাশ্চ বীর্যবান্ |\nসৌভদ্রো দ্রৌপদেযাশ্চ সর্ব এব মহারথাঃ ||১-৬||",
+          "ka": "ಯುಧಾಮನ್ಯುಶ್ಚ ವಿಕ್ರಾನ್ತ ಉತ್ತಮೌಜಾಶ್ಚ ವೀರ್ಯವಾನ್ |\nಸೌಭದ್ರೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವ ಏವ ಮಹಾರಥಾಃ ||೧-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Focus on collective group strength rather than relying solely on individual talent when tackling complex responsibilities."
+        "life_application": {
+          "hi": "जटिल जिम्मेदारियों से निपटते समय केवल व्यक्तिगत प्रतिभा पर निर्भर रहने के बजाय सामूहिक समूह की ताकत पर ध्यान दें।",
+          "en": "Focus on collective group strength rather than relying solely on individual talent when tackling complex responsibilities.",
+          "be": "জটিল দায়িত্বগুলি মোকাবেলা করার সময় শুধুমাত্র ব্যক্তিগত প্রতিভার উপর নির্ভর না করে সমষ্টিগত গোষ্ঠী শক্তির দিকে মনোনিবেশ করুন।",
+          "ka": "ಸಂಕೀರ್ಣ ಜವಾಬ್ದಾರಿಗಳನ್ನು ನಿಭಾಯಿಸುವಾಗ ಕೇವಲ ವೈಯಕ್ತಿಕ ಪ್ರತಿಭೆಯನ್ನು ಅವಲಂಬಿಸದೆ ಸಾಮೂಹಿಕ ಗುಂಪಿನ ಬಲದ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG1.7",
         "img_landscape": "sloks/{size}/chapter_1/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_7/square/img.png",
-        "transliteration": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||1-7||"
+        "transliteration": {
+          "hi": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||",
+          "en": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||1-7||",
+          "be": "অস্মাকং তু বিশিষ্টা যে তান্নিবোধ দ্বিজোত্তম |\nনাযকা মম সৈন্যস্য সংজ্ঞার্থং তান্ব্রবীমি তে ||১-৭||",
+          "ka": "ಅಸ್ಮಾಕಂ ತು ವಿಶಿಷ್ಟಾ ಯೇ ತಾನ್ನಿಬೋಧ ದ್ವಿಜೋತ್ತಮ |\nನಾಯಕಾ ಮಮ ಸೈನ್ಯಸ್ಯ ಸಂಜ್ಞಾರ್ಥಂ ತಾನ್ಬ್ರವೀಮಿ ತೇ ||೧-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||",
+          "en": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||1-7||",
+          "be": "অস্মাকং তু বিশিষ্টা যে তান্নিবোধ দ্বিজোত্তম |\nনাযকা মম সৈন্যস্য সংজ্ঞার্থং তান্ব্রবীমি তে ||১-৭||",
+          "ka": "ಅಸ್ಮಾಕಂ ತು ವಿಶಿಷ್ಟಾ ಯೇ ತಾನ್ನಿಬೋಧ ದ್ವಿಜೋತ್ತಮ |\nನಾಯಕಾ ಮಮ ಸೈನ್ಯಸ್ಯ ಸಂಜ್ಞಾರ್ಥಂ ತಾನ್ಬ್ರವೀಮಿ ತೇ ||೧-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Take stock of your available resources and allies before launching into an important project or difficult challenge."
+        "life_application": {
+          "hi": "किसी महत्वपूर्ण परियोजना या कठिन चुनौती में उतरने से पहले अपने उपलब्ध संसाधनों और सहयोगियों का जायजा लें।",
+          "en": "Take stock of your available resources and allies before launching into an important project or difficult challenge.",
+          "be": "একটি গুরুত্বপূর্ণ প্রকল্প বা কঠিন চ্যালেঞ্জ শুরু করার আগে আপনার উপলব্ধ সংস্থান এবং সহযোগীদের স্টক নিন।",
+          "ka": "ಪ್ರಮುಖ ಯೋಜನೆ ಅಥವಾ ಕಷ್ಟಕರ ಸವಾಲಿಗೆ ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಲಭ್ಯವಿರುವ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ಮಿತ್ರರಾಷ್ಟ್ರಗಳ ಸ್ಟಾಕ್ ತೆಗೆದುಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG1.8",
         "img_landscape": "sloks/{size}/chapter_1/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_8/square/img.png",
-        "transliteration": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||1-8||"
+        "transliteration": {
+          "hi": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः |\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||",
+          "en": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||1-8||",
+          "be": "ভবান্ভীষ্মশ্চ কর্ণশ্চ কৃপশ্চ সমিতিঞ্জযঃ |\nঅশ্বত্থামা বিকর্ণশ্চ সৌমদত্তিস্তথৈব চ ||১-৮||",
+          "ka": "ಭವಾನ್ಭೀಷ್ಮಶ್ಚ ಕರ್ಣಶ್ಚ ಕೃಪಶ್ಚ ಸಮಿತಿಞ್ಜಯಃ |\nಅಶ್ವತ್ಥಾಮಾ ವಿಕರ್ಣಶ್ಚ ಸೌಮದತ್ತಿಸ್ತಥೈವ ಚ ||೧-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः |\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः |\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||",
+          "en": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||1-8||",
+          "be": "ভবান্ভীষ্মশ্চ কর্ণশ্চ কৃপশ্চ সমিতিঞ্জযঃ |\nঅশ্বত্থামা বিকর্ণশ্চ সৌমদত্তিস্তথৈব চ ||১-৮||",
+          "ka": "ಭವಾನ್ಭೀಷ್ಮಶ್ಚ ಕರ್ಣಶ್ಚ ಕೃಪಶ್ಚ ಸಮಿತಿಞ್ಜಯಃ |\nಅಶ್ವತ್ಥಾಮಾ ವಿಕರ್ಣಶ್ಚ ಸೌಮದತ್ತಿಸ್ತಥೈವ ಚ ||೧-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Value the experienced and reliable people in your life, seeking their guidance during moments of uncertainty."
+        "life_application": {
+          "hi": "अपने जीवन में अनुभवी और विश्वसनीय लोगों को महत्व दें, अनिश्चितता के क्षणों में उनका मार्गदर्शन लें।",
+          "en": "Value the experienced and reliable people in your life, seeking their guidance during moments of uncertainty.",
+          "be": "আপনার জীবনে অভিজ্ঞ এবং নির্ভরযোগ্য ব্যক্তিদের মূল্য দিন, অনিশ্চয়তার মুহুর্তে তাদের নির্দেশনা খুঁজছেন।",
+          "ka": "ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ಅನುಭವಿ ಮತ್ತು ವಿಶ್ವಾಸಾರ್ಹ ಜನರನ್ನು ಗೌರವಿಸಿ, ಅನಿಶ್ಚಿತತೆಯ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ಮಾರ್ಗದರ್ಶನವನ್ನು ಹುಡುಕುವುದು."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG1.9",
         "img_landscape": "sloks/{size}/chapter_1/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_9/square/img.png",
-        "transliteration": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||1-9||"
+        "transliteration": {
+          "hi": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः |\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||",
+          "en": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||1-9||",
+          "be": "অন্যে চ বহবঃ শূরা মদর্থে ত্যক্তজীবিতাঃ |\nনানাশস্ত্রপ্রহরণাঃ সর্বে যুদ্ধবিশারদাঃ ||১-৯||",
+          "ka": "ಅನ್ಯೇ ಚ ಬಹವಃ ಶೂರಾ ಮದರ್ಥೇ ತ್ಯಕ್ತಜೀವಿತಾಃ |\nನಾನಾಶಸ್ತ್ರಪ್ರಹರಣಾಃ ಸರ್ವೇ ಯುದ್ಧವಿಶಾರದಾಃ ||೧-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः |\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः |\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||",
+          "en": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||1-9||",
+          "be": "অন্যে চ বহবঃ শূরা মদর্থে ত্যক্তজীবিতাঃ |\nনানাশস্ত্রপ্রহরণাঃ সর্বে যুদ্ধবিশারদাঃ ||১-৯||",
+          "ka": "ಅನ್ಯೇ ಚ ಬಹವಃ ಶೂರಾ ಮದರ್ಥೇ ತ್ಯಕ್ತಜೀವಿತಾಃ |\nನಾನಾಶಸ್ತ್ರಪ್ರಹರಣಾಃ ಸರ್ವೇ ಯುದ್ಧವಿಶಾರದಾಃ ||೧-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Appreciate the sacrifices made by others on your behalf, and honor their commitment with genuine gratitude."
+        "life_application": {
+          "hi": "अपनी ओर से दूसरों द्वारा किए गए बलिदान की सराहना करें और सच्ची कृतज्ञता के साथ उनकी प्रतिबद्धता का सम्मान करें।",
+          "en": "Appreciate the sacrifices made by others on your behalf, and honor their commitment with genuine gratitude.",
+          "be": "আপনার পক্ষে অন্যদের দ্বারা করা ত্যাগের প্রশংসা করুন এবং তাদের প্রতিশ্রুতিকে সত্যিকারের কৃতজ্ঞতার সাথে সম্মান করুন।",
+          "ka": "ನಿಮ್ಮ ಪರವಾಗಿ ಇತರರು ಮಾಡಿದ ತ್ಯಾಗವನ್ನು ಶ್ಲಾಘಿಸಿ ಮತ್ತು ಅವರ ಬದ್ಧತೆಯನ್ನು ನಿಜವಾದ ಕೃತಜ್ಞತೆಯಿಂದ ಗೌರವಿಸಿ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG1.10",
         "img_landscape": "sloks/{size}/chapter_1/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_10/square/img.png",
-        "transliteration": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||"
+        "transliteration": {
+          "hi": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||",
+          "en": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||",
+          "be": "অপর্যাপ্তং তদস্মাকং বলং ভীষ্মাভিরক্ষিতম্ |\nপর্যাপ্তং ত্বিদমেতেষাং বলং ভীমাভিরক্ষিতম্ ||১-১০||",
+          "ka": "ಅಪರ್ಯಾಪ್ತಂ ತದಸ್ಮಾಕಂ ಬಲಂ ಭೀಷ್ಮಾಭಿರಕ್ಷಿತಮ್ |\nಪರ್ಯಾಪ್ತಂ ತ್ವಿದಮೇತೇಷಾಂ ಬಲಂ ಭೀಮಾಭಿರಕ್ಷಿತಮ್ ||೧-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||",
+          "en": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||",
+          "be": "অপর্যাপ্তং তদস্মাকং বলং ভীষ্মাভিরক্ষিতম্ |\nপর্যাপ্তং ত্বিদমেতেষাং বলং ভীমাভিরক্ষিতম্ ||১-১০||",
+          "ka": "ಅಪರ್ಯಾಪ್ತಂ ತದಸ್ಮಾಕಂ ಬಲಂ ಭೀಷ್ಮಾಭಿರಕ್ಷಿತಮ್ |\nಪರ್ಯಾಪ್ತಂ ತ್ವಿದಮೇತೇಷಾಂ ಬಲಂ ಭೀಮಾಭಿರಕ್ಷಿತಮ್ ||೧-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Avoid overconfidence or self-doubt by evaluating your true readiness rather than making biased comparisons."
+        "life_application": {
+          "hi": "पक्षपातपूर्ण तुलना करने के बजाय अपनी वास्तविक तत्परता का मूल्यांकन करके अति आत्मविश्वास या आत्म-संदेह से बचें।",
+          "en": "Avoid overconfidence or self-doubt by evaluating your true readiness rather than making biased comparisons.",
+          "be": "পক্ষপাতমূলক তুলনা করার পরিবর্তে আপনার সত্যিকারের প্রস্তুতির মূল্যায়ন করে অতিরিক্ত আত্মবিশ্বাস বা আত্ম-সন্দেহ এড়িয়ে চলুন।",
+          "ka": "ಪಕ್ಷಪಾತದ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡುವ ಬದಲು ನಿಮ್ಮ ನಿಜವಾದ ಸಿದ್ಧತೆಯನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುವ ಮೂಲಕ ಅತಿಯಾದ ಆತ್ಮವಿಶ್ವಾಸ ಅಥವಾ ಸ್ವಯಂ-ಅನುಮಾನವನ್ನು ತಪ್ಪಿಸಿ."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG1.11",
         "img_landscape": "sloks/{size}/chapter_1/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_11/square/img.png",
-        "transliteration": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||"
+        "transliteration": {
+          "hi": "अयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||",
+          "en": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||",
+          "be": "অযনেষু চ সর্বেষু যথাভাগমবস্থিতাঃ |\nভীষ্মমেবাভিরক্ষন্তু ভবন্তঃ সর্ব এব হি ||১-১১||",
+          "ka": "ಅಯನೇಷು ಚ ಸರ್ವೇಷು ಯಥಾಭಾಗಮವಸ್ಥಿತಾಃ |\nಭೀಷ್ಮಮೇವಾಭಿರಕ್ಷನ್ತು ಭವನ್ತಃ ಸರ್ವ ಏವ ಹಿ ||೧-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||",
+          "en": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||",
+          "be": "অযনেষু চ সর্বেষু যথাভাগমবস্থিতাঃ |\nভীষ্মমেবাভিরক্ষন্তু ভবন্তঃ সর্ব এব হি ||১-১১||",
+          "ka": "ಅಯನೇಷು ಚ ಸರ್ವೇಷು ಯಥಾಭಾಗಮವಸ್ಥಿತಾಃ |\nಭೀಷ್ಮಮೇವಾಭಿರಕ್ಷನ್ತು ಭವನ್ತಃ ಸರ್ವ ಏವ ಹಿ ||೧-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Support and protect key leaders or core priorities in your organization when pressure mounts during tough times."
+        "life_application": {
+          "hi": "कठिन समय के दौरान दबाव बढ़ने पर अपने संगठन में प्रमुख नेताओं या मुख्य प्राथमिकताओं का समर्थन और सुरक्षा करें।",
+          "en": "Support and protect key leaders or core priorities in your organization when pressure mounts during tough times.",
+          "be": "কঠিন সময়ে যখন চাপ বেড়ে যায় তখন আপনার প্রতিষ্ঠানের প্রধান নেতাদের বা মূল অগ্রাধিকারগুলিকে সমর্থন ও রক্ষা করুন।",
+          "ka": "ಕಠಿಣ ಸಮಯದಲ್ಲಿ ಒತ್ತಡ ಹೆಚ್ಚಾದಾಗ ನಿಮ್ಮ ಸಂಸ್ಥೆಯಲ್ಲಿ ಪ್ರಮುಖ ನಾಯಕರು ಅಥವಾ ಪ್ರಮುಖ ಆದ್ಯತೆಗಳನ್ನು ಬೆಂಬಲಿಸಿ ಮತ್ತು ರಕ್ಷಿಸಿ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG1.12",
         "img_landscape": "sloks/{size}/chapter_1/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_12/square/img.png",
-        "transliteration": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||1-12||"
+        "transliteration": {
+          "hi": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः |\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||",
+          "en": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||1-12||",
+          "be": "তস্য সঞ্জনযন্হর্ষং কুরুবৃদ্ধঃ পিতামহঃ |\nসিংহনাদং বিনদ্যোচ্চৈঃ শঙ্খং দধ্মৌ প্রতাপবান্ ||১-১২||",
+          "ka": "ತಸ್ಯ ಸಞ್ಜನಯನ್ಹರ್ಷಂ ಕುರುವೃದ್ಧಃ ಪಿತಾಮಹಃ |\nಸಿಂಹನಾದಂ ವಿನದ್ಯೋಚ್ಚೈಃ ಶಙ್ಖಂ ದಧ್ಮೌ ಪ್ರತಾಪವಾನ್ ||೧-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः |\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः |\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||",
+          "en": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||1-12||",
+          "be": "তস্য সঞ্জনযন্হর্ষং কুরুবৃদ্ধঃ পিতামহঃ |\nসিংহনাদং বিনদ্যোচ্চৈঃ শঙ্খং দধ্মৌ প্রতাপবান্ ||১-১২||",
+          "ka": "ತಸ್ಯ ಸಞ್ಜನಯನ್ಹರ್ಷಂ ಕುರುವೃದ್ಧಃ ಪಿತಾಮಹಃ |\nಸಿಂಹನಾದಂ ವಿನದ್ಯೋಚ್ಚೈಃ ಶಙ್ಖಂ ದಧ್ಮೌ ಪ್ರತಾಪವಾನ್ ||೧-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Offer encouragement and confidence to those under your care when they feel anxious or uncertain."
+        "life_application": {
+          "hi": "जब आपकी देखरेख में लोग चिंतित या अनिश्चित महसूस करें तो उन्हें प्रोत्साहन और आत्मविश्वास प्रदान करें।",
+          "en": "Offer encouragement and confidence to those under your care when they feel anxious or uncertain.",
+          "be": "আপনার তত্ত্বাবধানে যারা উদ্বিগ্ন বা অনিশ্চিত বোধ করেন তাদের উৎসাহ এবং আত্মবিশ্বাস অফার করুন।",
+          "ka": "ನಿಮ್ಮ ಆರೈಕೆಯಲ್ಲಿರುವವರು ಆತಂಕ ಅಥವಾ ಅನಿಶ್ಚಿತತೆಯನ್ನು ಅನುಭವಿಸಿದಾಗ ಅವರಿಗೆ ಪ್ರೋತ್ಸಾಹ ಮತ್ತು ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG1.13",
         "img_landscape": "sloks/{size}/chapter_1/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_13/square/img.png",
-        "transliteration": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ||1-13||"
+        "transliteration": {
+          "hi": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः |\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||",
+          "en": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ||1-13||",
+          "be": "ততঃ শঙ্খাশ্চ ভের্যশ্চ পণবানকগোমুখাঃ |\nসহসৈবাভ্যহন্যন্ত স শব্দস্তুমুলোঽভবত্ ||১-১৩||",
+          "ka": "ತತಃ ಶಙ್ಖಾಶ್ಚ ಭೇರ್ಯಶ್ಚ ಪಣವಾನಕಗೋಮುಖಾಃ |\nಸಹಸೈವಾಭ್ಯಹನ್ಯನ್ತ ಸ ಶಬ್ದಸ್ತುಮುಲೋಽಭವತ್ ||೧-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः |\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः |\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||",
+          "en": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ||1-13||",
+          "be": "ততঃ শঙ্খাশ্চ ভের্যশ্চ পণবানকগোমুখাঃ |\nসহসৈবাভ্যহন্যন্ত স শব্দস্তুমুলোঽভবত্ ||১-১৩||",
+          "ka": "ತತಃ ಶಙ್ಖಾಶ್ಚ ಭೇರ್ಯಶ್ಚ ಪಣವಾನಕಗೋಮುಖಾಃ |\nಸಹಸೈವಾಭ್ಯಹನ್ಯನ್ತ ಸ ಶಬ್ದಸ್ತುಮುಲೋಽಭವತ್ ||೧-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Prepare your mind for action when signals call for your active participation and focused energy."
+        "life_application": {
+          "hi": "जब संकेत आपकी सक्रिय भागीदारी और केंद्रित ऊर्जा की मांग करें तो अपने दिमाग को कार्रवाई के लिए तैयार करें।",
+          "en": "Prepare your mind for action when signals call for your active participation and focused energy.",
+          "be": "যখন সংকেত আপনার সক্রিয় অংশগ্রহণ এবং ফোকাসড শক্তির জন্য আহ্বান করে তখন কর্মের জন্য আপনার মনকে প্রস্তুত করুন।",
+          "ka": "ಸಿಗ್ನಲ್‌ಗಳು ನಿಮ್ಮ ಸಕ್ರಿಯ ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು ಕೇಂದ್ರೀಕೃತ ಶಕ್ತಿಯನ್ನು ಕರೆದಾಗ ಕ್ರಿಯೆಗೆ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG1.14",
         "img_landscape": "sloks/{size}/chapter_1/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_14/square/img.png",
-        "transliteration": "tataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||1-14||"
+        "transliteration": {
+          "hi": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||",
+          "en": "tataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||1-14||",
+          "be": "ততঃ শ্বেতৈর্হযৈর্যুক্তে মহতি স্যন্দনে স্থিতৌ |\nমাধবঃ পাণ্ডবশ্চৈব দিব্যৌ শঙ্খৌ প্রদধ্মতুঃ ||১-১৪||",
+          "ka": "ತತಃ ಶ್ವೇತೈರ್ಹಯೈರ್ಯುಕ್ತೇ ಮಹತಿ ಸ್ಯನ್ದನೇ ಸ್ಥಿತೌ |\nಮಾಧವಃ ಪಾಣ್ಡವಶ್ಚೈವ ದಿವ್ಯೌ ಶಙ್ಖೌ ಪ್ರದಧ್ಮತುಃ ||೧-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||",
+          "en": "tataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||1-14||",
+          "be": "ততঃ শ্বেতৈর্হযৈর্যুক্তে মহতি স্যন্দনে স্থিতৌ |\nমাধবঃ পাণ্ডবশ্চৈব দিব্যৌ শঙ্খৌ প্রদধ্মতুঃ ||১-১৪||",
+          "ka": "ತತಃ ಶ್ವೇತೈರ್ಹಯೈರ್ಯುಕ್ತೇ ಮಹತಿ ಸ್ಯನ್ದನೇ ಸ್ಥಿತೌ |\nಮಾಧವಃ ಪಾಣ್ಡವಶ್ಚೈವ ದಿವ್ಯೌ ಶಙ್ಖೌ ಪ್ರದಧ್ಮತುಃ ||೧-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Enter difficult tasks with quiet dignity and inner strength, knowing your resolve is grounded in righteousness."
+        "life_application": {
+          "hi": "शांत गरिमा और आंतरिक शक्ति के साथ कठिन कार्यों में प्रवेश करें, यह जानते हुए कि आपका संकल्प धार्मिकता पर आधारित है।",
+          "en": "Enter difficult tasks with quiet dignity and inner strength, knowing your resolve is grounded in righteousness.",
+          "be": "শান্ত মর্যাদা এবং অভ্যন্তরীণ শক্তির সাথে কঠিন কাজগুলি প্রবেশ করুন, আপনার সংকল্প ধার্মিকতার উপর ভিত্তি করে জেনে নিন।",
+          "ka": "ಕಠಿಣ ಕಾರ್ಯಗಳನ್ನು ಶಾಂತ ಘನತೆ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿಯೊಂದಿಗೆ ನಮೂದಿಸಿ, ನಿಮ್ಮ ಸಂಕಲ್ಪವು ಸದಾಚಾರದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG1.15",
         "img_landscape": "sloks/{size}/chapter_1/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_15/square/img.png",
-        "transliteration": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||1-15||"
+        "transliteration": {
+          "hi": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः |\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||",
+          "en": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||1-15||",
+          "be": "পাঞ্চজন্যং হৃষীকেশো দেবদত্তং ধনঞ্জযঃ |\nপৌণ্ড্রং দধ্মৌ মহাশঙ্খং ভীমকর্মা বৃকোদরঃ ||১-১৫||",
+          "ka": "ಪಾಞ್ಚಜನ್ಯಂ ಹೃಷೀಕೇಶೋ ದೇವದತ್ತಂ ಧನಞ್ಜಯಃ |\nಪೌಣ್ಡ್ರಂ ದಧ್ಮೌ ಮಹಾಶಙ್ಖಂ ಭೀಮಕರ್ಮಾ ವೃಕೋದರಃ ||೧-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः |\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः |\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||",
+          "en": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||1-15||",
+          "be": "পাঞ্চজন্যং হৃষীকেশো দেবদত্তং ধনঞ্জযঃ |\nপৌণ্ড্রং দধ্মৌ মহাশঙ্খং ভীমকর্মা বৃকোদরঃ ||১-১৫||",
+          "ka": "ಪಾಞ್ಚಜನ್ಯಂ ಹೃಷೀಕೇಶೋ ದೇವದತ್ತಂ ಧನಞ್ಜಯಃ |\nಪೌಣ್ಡ್ರಂ ದಧ್ಮೌ ಮಹಾಶಙ್ಖಂ ಭೀಮಕರ್ಮಾ ವೃಕೋದರಃ ||೧-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Express your unique capabilities boldly when called to duty, acting with courage alongside your teammates."
+        "life_application": {
+          "hi": "ड्यूटी पर बुलाए जाने पर अपने साथियों के साथ साहस के साथ काम करते हुए अपनी अद्वितीय क्षमताओं को साहसपूर्वक व्यक्त करें।",
+          "en": "Express your unique capabilities boldly when called to duty, acting with courage alongside your teammates.",
+          "be": "আপনার সতীর্থদের সাথে সাহসের সাথে কাজ করে, কর্তব্যে ডাকার সময় সাহসের সাথে আপনার অনন্য ক্ষমতা প্রকাশ করুন।",
+          "ka": "ಕರ್ತವ್ಯಕ್ಕೆ ಕರೆದಾಗ ನಿಮ್ಮ ಅನನ್ಯ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಧೈರ್ಯದಿಂದ ವ್ಯಕ್ತಪಡಿಸಿ, ನಿಮ್ಮ ತಂಡದ ಸದಸ್ಯರೊಂದಿಗೆ ಧೈರ್ಯದಿಂದ ವರ್ತಿಸಿ."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG1.16",
         "img_landscape": "sloks/{size}/chapter_1/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_16/square/img.png",
-        "transliteration": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||1-16||"
+        "transliteration": {
+          "hi": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः |\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||",
+          "en": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||1-16||",
+          "be": "অনন্তবিজযং রাজা কুন্তীপুত্রো যুধিষ্ঠিরঃ |\nনকুলঃ সহদেবশ্চ সুঘোষমণিপুষ্পকৌ ||১-১৬||",
+          "ka": "ಅನನ್ತವಿಜಯಂ ರಾಜಾ ಕುನ್ತೀಪುತ್ರೋ ಯುಧಿಷ್ಠಿರಃ |\nನಕುಲಃ ಸಹದೇವಶ್ಚ ಸುಘೋಷಮಣಿಪುಷ್ಪಕೌ ||೧-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः |\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः |\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||",
+          "en": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||1-16||",
+          "be": "অনন্তবিজযং রাজা কুন্তীপুত্রো যুধিষ্ঠিরঃ |\nনকুলঃ সহদেবশ্চ সুঘোষমণিপুষ্পকৌ ||১-১৬||",
+          "ka": "ಅನನ್ತವಿಜಯಂ ರಾಜಾ ಕುನ್ತೀಪುತ್ರೋ ಯುಧಿಷ್ಠಿರಃ |\nನಕುಲಃ ಸಹದೇವಶ್ಚ ಸುಘೋಷಮಣಿಪುಷ್ಪಕೌ ||೧-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Stand united with your companions, letting each person's contribution resonate harmoniously toward a shared purpose."
+        "life_application": {
+          "hi": "अपने साथियों के साथ एकजुट रहें, प्रत्येक व्यक्ति के योगदान को एक साझा उद्देश्य के प्रति सामंजस्यपूर्ण रूप से प्रतिबिंबित होने दें।",
+          "en": "Stand united with your companions, letting each person's contribution resonate harmoniously toward a shared purpose.",
+          "be": "আপনার সঙ্গীদের সাথে ঐক্যবদ্ধ থাকুন, প্রতিটি ব্যক্তির অবদানকে একটি ভাগ করা উদ্দেশ্যের প্রতি সুরেলাভাবে অনুরণিত হতে দিন।",
+          "ka": "ನಿಮ್ಮ ಸಹಚರರೊಂದಿಗೆ ಒಂದಾಗಿ ನಿಂತುಕೊಳ್ಳಿ, ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯ ಕೊಡುಗೆಯು ಹಂಚಿಕೊಂಡ ಉದ್ದೇಶದ ಕಡೆಗೆ ಸಾಮರಸ್ಯದಿಂದ ಅನುರಣಿಸಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG1.17",
         "img_landscape": "sloks/{size}/chapter_1/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_17/square/img.png",
-        "transliteration": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||1-17||"
+        "transliteration": {
+          "hi": "काश्यश्च परमेष्वासः शिखण्डी च महारथः |\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||",
+          "en": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||1-17||",
+          "be": "কাশ্যশ্চ পরমেষ্বাসঃ শিখণ্ডী চ মহারথঃ |\nধৃষ্টদ্যুম্নো বিরাটশ্চ সাত্যকিশ্চাপরাজিতঃ ||১-১৭||",
+          "ka": "ಕಾಶ್ಯಶ್ಚ ಪರಮೇಷ್ವಾಸಃ ಶಿಖಣ್ಡೀ ಚ ಮಹಾರಥಃ |\nಧೃಷ್ಟದ್ಯುಮ್ನೋ ವಿರಾಟಶ್ಚ ಸಾತ್ಯಕಿಶ್ಚಾಪರಾಜಿತಃ ||೧-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "काश्यश्च परमेष्वासः शिखण्डी च महारथः |\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "काश्यश्च परमेष्वासः शिखण्डी च महारथः |\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||",
+          "en": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||1-17||",
+          "be": "কাশ্যশ্চ পরমেষ্বাসঃ শিখণ্ডী চ মহারথঃ |\nধৃষ্টদ্যুম্নো বিরাটশ্চ সাত্যকিশ্চাপরাজিতঃ ||১-১৭||",
+          "ka": "ಕಾಶ್ಯಶ್ಚ ಪರಮೇಷ್ವಾಸಃ ಶಿಖಣ್ಡೀ ಚ ಮಹಾರಥಃ |\nಧೃಷ್ಟದ್ಯುಮ್ನೋ ವಿರಾಟಶ್ಚ ಸಾತ್ಯಕಿಶ್ಚಾಪರಾಜಿತಃ ||೧-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Rally your strength and align your efforts with principled allies when standing up for justice."
+        "life_application": {
+          "hi": "न्याय के लिए खड़े होने पर अपनी ताकत जुटाएं और सैद्धांतिक सहयोगियों के साथ अपने प्रयासों को संरेखित करें।",
+          "en": "Rally your strength and align your efforts with principled allies when standing up for justice.",
+          "be": "ন্যায়বিচারের জন্য দাঁড়ানোর সময় আপনার শক্তি সংগ্রহ করুন এবং নীতিগত মিত্রদের সাথে আপনার প্রচেষ্টাকে সারিবদ্ধ করুন।",
+          "ka": "ನಿಮ್ಮ ಶಕ್ತಿಯನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ನಿಂತಾಗ ತತ್ವಬದ್ಧ ಮಿತ್ರರೊಂದಿಗೆ ನಿಮ್ಮ ಪ್ರಯತ್ನಗಳನ್ನು ಜೋಡಿಸಿ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG1.18",
         "img_landscape": "sloks/{size}/chapter_1/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_18/square/img.png",
-        "transliteration": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||1-18||"
+        "transliteration": {
+          "hi": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||",
+          "en": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||1-18||",
+          "be": "দ্রুপদো দ্রৌপদেযাশ্চ সর্বশঃ পৃথিবীপতে |\nসৌভদ্রশ্চ মহাবাহুঃ শঙ্খান্দধ্মুঃ পৃথক্পৃথক্ ||১-১৮||",
+          "ka": "ದ್ರುಪದೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವಶಃ ಪೃಥಿವೀಪತೇ |\nಸೌಭದ್ರಶ್ಚ ಮಹಾಬಾಹುಃ ಶಙ್ಖಾನ್ದಧ್ಮುಃ ಪೃಥಕ್ಪೃಥಕ್ ||೧-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||",
+          "en": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||1-18||",
+          "be": "দ্রুপদো দ্রৌপদেযাশ্চ সর্বশঃ পৃথিবীপতে |\nসৌভদ্রশ্চ মহাবাহুঃ শঙ্খান্দধ্মুঃ পৃথক্পৃথক্ ||১-১৮||",
+          "ka": "ದ್ರುಪದೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವಶಃ ಪೃಥಿವೀಪತೇ |\nಸೌಭದ್ರಶ್ಚ ಮಹಾಬಾಹುಃ ಶಙ್ಖಾನ್ದಧ್ಮುಃ ಪೃಥಕ್ಪೃಥಕ್ ||೧-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Commit fully to your responsibilities alongside your family and peers, leaving no room for hesitation."
+        "life_application": {
+          "hi": "अपने परिवार और साथियों के साथ-साथ अपनी जिम्मेदारियों के प्रति पूरी तरह प्रतिबद्ध रहें, झिझक की कोई गुंजाइश न रखें।",
+          "en": "Commit fully to your responsibilities alongside your family and peers, leaving no room for hesitation.",
+          "be": "আপনার পরিবার এবং সমবয়সীদের পাশাপাশি আপনার দায়িত্বের প্রতি সম্পূর্ণরূপে প্রতিশ্রুতিবদ্ধ হন, দ্বিধা করার জন্য কোনও জায়গা না রেখে।",
+          "ka": "ನಿಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಗೆಳೆಯರೊಂದಿಗೆ ನಿಮ್ಮ ಜವಾಬ್ದಾರಿಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಬದ್ಧರಾಗಿರಿ, ಯಾವುದೇ ಹಿಂಜರಿಕೆಗೆ ಅವಕಾಶವಿಲ್ಲ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG1.19",
         "img_landscape": "sloks/{size}/chapter_1/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_19/square/img.png",
-        "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)||1-19||"
+        "transliteration": {
+          "hi": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् |\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||",
+          "en": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)||1-19||",
+          "be": "স ঘোষো ধার্তরাষ্ট্রাণাং হৃদযানি ব্যদারযত্ |\nনভশ্চ পৃথিবীং চৈব তুমুলোঽভ্যনুনাদযন্ (or লোব্যনু) ||১-১৯||",
+          "ka": "ಸ ಘೋಷೋ ಧಾರ್ತರಾಷ್ಟ್ರಾಣಾಂ ಹೃದಯಾನಿ ವ್ಯದಾರಯತ್ |\nನಭಶ್ಚ ಪೃಥಿವೀಂ ಚೈವ ತುಮುಲೋಽಭ್ಯನುನಾದಯನ್ (or ಲೋವ್ಯನು) ||೧-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् |\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् |\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||",
+          "en": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)||1-19||",
+          "be": "স ঘোষো ধার্তরাষ্ট্রাণাং হৃদযানি ব্যদারযত্ |\nনভশ্চ পৃথিবীং চৈব তুমুলোঽভ্যনুনাদযন্ (or লোব্যনু) ||১-১৯||",
+          "ka": "ಸ ಘೋಷೋ ಧಾರ್ತರಾಷ್ಟ್ರಾಣಾಂ ಹೃದಯಾನಿ ವ್ಯದಾರಯತ್ |\nನಭಶ್ಚ ಪೃಥಿವೀಂ ಚೈವ ತುಮುಲೋಽಭ್ಯನುನಾದಯನ್ (or ಲೋವ್ಯನು) ||೧-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Remain steadfast and calm when surrounded by overwhelming noise or intimidating circumstances in your daily life."
+        "life_application": {
+          "hi": "अपने दैनिक जीवन में अत्यधिक शोर या डराने वाली परिस्थितियों से घिरे रहने पर स्थिर और शांत रहें।",
+          "en": "Remain steadfast and calm when surrounded by overwhelming noise or intimidating circumstances in your daily life.",
+          "be": "আপনার দৈনন্দিন জীবনে অপ্রতিরোধ্য গোলমাল বা ভীতিকর পরিস্থিতি দ্বারা বেষ্টিত হলে অবিচল এবং শান্ত থাকুন।",
+          "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಅಗಾಧವಾದ ಶಬ್ದ ಅಥವಾ ಬೆದರಿಸುವ ಸಂದರ್ಭಗಳಿಂದ ಸುತ್ತುವರೆದಿರುವಾಗ ಸ್ಥಿರವಾಗಿ ಮತ್ತು ಶಾಂತವಾಗಿರಿ."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG1.20",
         "img_landscape": "sloks/{size}/chapter_1/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_20/square/img.png",
-        "transliteration": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ||1-20||"
+        "transliteration": {
+          "hi": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते ||१-२०||",
+          "en": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ||1-20||",
+          "be": "অথ ব্যবস্থিতান্দৃষ্ট্বা ধার্তরাষ্ট্রান্ কপিধ্বজঃ |\nপ্রবৃত্তে শস্ত্রসম্পাতে ধনুরুদ্যম্য পাণ্ডবঃ |\nহৃষীকেশং তদা বাক্যমিদমাহ মহীপতে ||১-২০||",
+          "ka": "ಅಥ ವ್ಯವಸ್ಥಿತಾನ್ದೃಷ್ಟ್ವಾ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ ಕಪಿಧ್ವಜಃ |\nಪ್ರವೃತ್ತೇ ಶಸ್ತ್ರಸಮ್ಪಾತೇ ಧನುರುದ್ಯಮ್ಯ ಪಾಣ್ಡವಃ |\nಹೃಷೀಕೇಶಂ ತದಾ ವಾಕ್ಯಮಿದಮಾಹ ಮಹೀಪತೇ ||೧-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते ||१-२०||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते ||१-२०||",
+          "en": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ||1-20||",
+          "be": "অথ ব্যবস্থিতান্দৃষ্ট্বা ধার্তরাষ্ট্রান্ কপিধ্বজঃ |\nপ্রবৃত্তে শস্ত্রসম্পাতে ধনুরুদ্যম্য পাণ্ডবঃ |\nহৃষীকেশং তদা বাক্যমিদমাহ মহীপতে ||১-২০||",
+          "ka": "ಅಥ ವ್ಯವಸ್ಥಿತಾನ್ದೃಷ್ಟ್ವಾ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ ಕಪಿಧ್ವಜಃ |\nಪ್ರವೃತ್ತೇ ಶಸ್ತ್ರಸಮ್ಪಾತೇ ಧನುರುದ್ಯಮ್ಯ ಪಾಣ್ಡವಃ |\nಹೃಷೀಕೇಶಂ ತದಾ ವಾಕ್ಯಮಿದಮಾಹ ಮಹೀಪತೇ ||೧-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Gather your focus and prepare your tools deliberately before stepping into any major conflict or challenge."
+        "life_application": {
+          "hi": "किसी भी बड़े संघर्ष या चुनौती में कदम रखने से पहले अपना ध्यान केंद्रित करें और जानबूझकर अपने उपकरण तैयार करें।",
+          "en": "Gather your focus and prepare your tools deliberately before stepping into any major conflict or challenge.",
+          "be": "আপনার ফোকাস সংগ্রহ করুন এবং কোনও বড় দ্বন্দ্ব বা চ্যালেঞ্জে পা দেওয়ার আগে ইচ্ছাকৃতভাবে আপনার সরঞ্জামগুলি প্রস্তুত করুন।",
+          "ka": "ನಿಮ್ಮ ಗಮನವನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಮತ್ತು ಯಾವುದೇ ಪ್ರಮುಖ ಸಂಘರ್ಷ ಅಥವಾ ಸವಾಲಿಗೆ ಹೆಜ್ಜೆ ಹಾಕುವ ಮೊದಲು ನಿಮ್ಮ ಸಾಧನಗಳನ್ನು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ತಯಾರಿಸಿ."
+        }
       }
     },
     {
@@ -308,14 +713,34 @@
         "verse_id": "BG1.21",
         "img_landscape": "sloks/{size}/chapter_1/slok_21/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_21/square/img.png",
-        "transliteration": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ||1-21||"
+        "transliteration": {
+          "hi": "अर्जुन उवाच |\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||",
+          "en": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ||1-21||",
+          "be": "অর্জুন উবাচ |\nসেনযোরুভযোর্মধ্যে রথং স্থাপয মেঽচ্যুত ||১-২১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ರಥಂ ಸ್ಥಾಪಯ ಮೇಽಚ್ಯುತ ||೧-೨೧||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अर्जुन उवाच |\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अर्जुन उवाच |\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||",
+          "en": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ||1-21||",
+          "be": "অর্জুন উবাচ |\nসেনযোরুভযোর্মধ্যে রথং স্থাপয মেঽচ্যুত ||১-২১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ರಥಂ ಸ್ಥಾಪಯ ಮೇಽಚ್ಯುತ ||೧-೨೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Position yourself to view conflicting perspectives clearly before making critical decisions about your next steps."
+        "life_application": {
+          "hi": "अपने अगले कदमों के बारे में महत्वपूर्ण निर्णय लेने से पहले स्वयं को परस्पर विरोधी दृष्टिकोणों को स्पष्ट रूप से देखने की स्थिति में रखें।",
+          "en": "Position yourself to view conflicting perspectives clearly before making critical decisions about your next steps.",
+          "be": "আপনার পরবর্তী পদক্ষেপগুলি সম্পর্কে সমালোচনামূলক সিদ্ধান্ত নেওয়ার আগে স্পষ্টভাবে বিরোধপূর্ণ দৃষ্টিভঙ্গি দেখতে নিজেকে অবস্থান করুন।",
+          "ka": "ನಿಮ್ಮ ಮುಂದಿನ ಹಂತಗಳ ಬಗ್ಗೆ ನಿರ್ಣಾಯಕ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ಸಂಘರ್ಷದ ದೃಷ್ಟಿಕೋನಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ವೀಕ್ಷಿಸಲು ನಿಮ್ಮನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -323,14 +748,34 @@
         "verse_id": "BG1.22",
         "img_landscape": "sloks/{size}/chapter_1/slok_22/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_22/square/img.png",
-        "transliteration": "yāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ||1-22||"
+        "transliteration": {
+          "hi": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||",
+          "en": "yāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ||1-22||",
+          "be": "যাবদেতান্নিরীক্ষেঽহং যোদ্ধুকামানবস্থিতান্ |\nকৈর্মযা সহ যোদ্ধব্যমস্মিন্ রণসমুদ্যমে ||১-২২||",
+          "ka": "ಯಾವದೇತಾನ್ನಿರೀಕ್ಷೇಽಹಂ ಯೋದ್ಧುಕಾಮಾನವಸ್ಥಿತಾನ್ |\nಕೈರ್ಮಯಾ ಸಹ ಯೋದ್ಧವ್ಯಮಸ್ಮಿನ್ ರಣಸಮುದ್ಯಮೇ ||೧-೨೨||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||",
+          "en": "yāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ||1-22||",
+          "be": "যাবদেতান্নিরীক্ষেঽহং যোদ্ধুকামানবস্থিতান্ |\nকৈর্মযা সহ যোদ্ধব্যমস্মিন্ রণসমুদ্যমে ||১-২২||",
+          "ka": "ಯಾವದೇತಾನ್ನಿರೀಕ್ಷೇಽಹಂ ಯೋದ್ಧುಕಾಮಾನವಸ್ಥಿತಾನ್ |\nಕೈರ್ಮಯಾ ಸಹ ಯೋದ್ಧವ್ಯಮಸ್ಮಿನ್ ರಣಸಮುದ್ಯಮೇ ||೧-೨೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Examine your challenges directly and assess the situation thoroughly before acting under pressure."
+        "life_application": {
+          "hi": "दबाव में कार्य करने से पहले अपनी चुनौतियों का सीधे परीक्षण करें और स्थिति का अच्छी तरह आकलन करें।",
+          "en": "Examine your challenges directly and assess the situation thoroughly before acting under pressure.",
+          "be": "আপনার চ্যালেঞ্জগুলি সরাসরি পরীক্ষা করুন এবং চাপের মধ্যে কাজ করার আগে পরিস্থিতিটি পুঙ্খানুপুঙ্খভাবে মূল্যায়ন করুন।",
+          "ka": "ನಿಮ್ಮ ಸವಾಲುಗಳನ್ನು ನೇರವಾಗಿ ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಒತ್ತಡದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಮೊದಲು ಪರಿಸ್ಥಿತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿರ್ಣಯಿಸಿ."
+        }
       }
     },
     {
@@ -338,14 +783,34 @@
         "verse_id": "BG1.23",
         "img_landscape": "sloks/{size}/chapter_1/slok_23/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_23/square/img.png",
-        "transliteration": "yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||"
+        "transliteration": {
+          "hi": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||",
+          "en": "yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||",
+          "be": "যোত্স্যমানানবেক্ষেঽহং য এতেঽত্র সমাগতাঃ |\nধার্তরাষ্ট্রস্য দুর্বুদ্ধের্যুদ্ধে প্রিযচিকীর্ষবঃ ||১-২৩||",
+          "ka": "ಯೋತ್ಸ್ಯಮಾನಾನವೇಕ್ಷೇಽಹಂ ಯ ಏತೇಽತ್ರ ಸಮಾಗತಾಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಸ್ಯ ದುರ್ಬುದ್ಧೇರ್ಯುದ್ಧೇ ಪ್ರಿಯಚಿಕೀರ್ಷವಃ ||೧-೨೩||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||",
+          "en": "yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||",
+          "be": "যোত্স্যমানানবেক্ষেঽহং য এতেঽত্র সমাগতাঃ |\nধার্তরাষ্ট্রস্য দুর্বুদ্ধের্যুদ্ধে প্রিযচিকীর্ষবঃ ||১-২৩||",
+          "ka": "ಯೋತ್ಸ್ಯಮಾನಾನವೇಕ್ಷೇಽಹಂ ಯ ಏತೇಽತ್ರ ಸಮಾಗತಾಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಸ್ಯ ದುರ್ಬುದ್ಧೇರ್ಯುದ್ಧೇ ಪ್ರಿಯಚಿಕೀರ್ಷವಃ ||೧-೨೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Identify the underlying motives behind conflicts around you so you can respond with wisdom rather than anger."
+        "life_application": {
+          "hi": "अपने आस-पास के झगड़ों के पीछे के अंतर्निहित उद्देश्यों को पहचानें ताकि आप गुस्से के बजाय समझदारी से जवाब दे सकें।",
+          "en": "Identify the underlying motives behind conflicts around you so you can respond with wisdom rather than anger.",
+          "be": "আপনার চারপাশে দ্বন্দ্বের পিছনে অন্তর্নিহিত উদ্দেশ্যগুলি সনাক্ত করুন যাতে আপনি রাগের পরিবর্তে জ্ঞানের সাথে প্রতিক্রিয়া জানাতে পারেন।",
+          "ka": "ನಿಮ್ಮ ಸುತ್ತಲಿನ ಘರ್ಷಣೆಗಳ ಹಿಂದಿನ ಮೂಲ ಉದ್ದೇಶಗಳನ್ನು ಗುರುತಿಸಿ ಇದರಿಂದ ನೀವು ಕೋಪಕ್ಕಿಂತ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಪ್ರತಿಕ್ರಿಯಿಸಬಹುದು."
+        }
       }
     },
     {
@@ -353,14 +818,34 @@
         "verse_id": "BG1.24",
         "img_landscape": "sloks/{size}/chapter_1/slok_24/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_24/square/img.png",
-        "transliteration": "sañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ||1-24||"
+        "transliteration": {
+          "hi": "सञ्जय उवाच |\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत |\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||",
+          "en": "sañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ||1-24||",
+          "be": "সঞ্জয উবাচ |\nএবমুক্তো হৃষীকেশো গুডাকেশেন ভারত |\nসেনযোরুভযোর্মধ্যে স্থাপযিত্বা রথোত্তমম্ ||১-২৪||",
+          "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತೋ ಹೃಷೀಕೇಶೋ ಗುಡಾಕೇಶೇನ ಭಾರತ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ಸ್ಥಾಪಯಿತ್ವಾ ರಥೋತ್ತಮಮ್ ||೧-೨೪||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "सञ्जय उवाच |\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत |\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "सञ्जय उवाच |\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत |\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||",
+          "en": "sañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ||1-24||",
+          "be": "সঞ্জয উবাচ |\nএবমুক্তো হৃষীকেশো গুডাকেশেন ভারত |\nসেনযোরুভযোর্মধ্যে স্থাপযিত্বা রথোত্তমম্ ||১-২৪||",
+          "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತೋ ಹೃಷೀಕೇಶೋ ಗುಡಾಕೇಶೇನ ಭಾರತ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ಸ್ಥಾಪಯಿತ್ವಾ ರಥೋತ್ತಮಮ್ ||೧-೨೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Seek a neutral mental vantage point from which you can observe emotional storms without being swept away."
+        "life_application": {
+          "hi": "एक तटस्थ मानसिक सुविधाजनक बिंदु की तलाश करें जहां से आप भावनात्मक तूफानों को बिना बहे देख सकें।",
+          "en": "Seek a neutral mental vantage point from which you can observe emotional storms without being swept away.",
+          "be": "একটি নিরপেক্ষ মানসিক সুবিধার বিন্দু সন্ধান করুন যেখান থেকে আপনি প্রবাহিত না হয়ে মানসিক ঝড় পর্যবেক্ষণ করতে পারেন।",
+          "ka": "ಭಾವನಾತ್ಮಕ ಬಿರುಗಾಳಿಗಳನ್ನು ಗುಡಿಸದೆಯೇ ನೀವು ವೀಕ್ಷಿಸಬಹುದಾದ ತಟಸ್ಥ ಮಾನಸಿಕ ಅನುಕೂಲತೆಯ ಬಿಂದುವನ್ನು ಹುಡುಕಿ."
+        }
       }
     },
     {
@@ -368,14 +853,34 @@
         "verse_id": "BG1.25",
         "img_landscape": "sloks/{size}/chapter_1/slok_25/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_25/square/img.png",
-        "transliteration": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ||1-25||"
+        "transliteration": {
+          "hi": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् |\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||१-२५||",
+          "en": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ||1-25||",
+          "be": "ভীষ্মদ্রোণপ্রমুখতঃ সর্বেষাং চ মহীক্ষিতাম্ |\nউবাচ পার্থ পশ্যৈতান্সমবেতান্কুরূনিতি ||১-২৫||",
+          "ka": "ಭೀಷ್ಮದ್ರೋಣಪ್ರಮುಖತಃ ಸರ್ವೇಷಾಂ ಚ ಮಹೀಕ್ಷಿತಾಮ್ |\nಉವಾಚ ಪಾರ್ಥ ಪಶ್ಯೈತಾನ್ಸಮವೇತಾನ್ಕುರೂನಿತಿ ||೧-೨೫||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् |\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||१-२५||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् |\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||१-२५||",
+          "en": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ||1-25||",
+          "be": "ভীষ্মদ্রোণপ্রমুখতঃ সর্বেষাং চ মহীক্ষিতাম্ |\nউবাচ পার্থ পশ্যৈতান্সমবেতান্কুরূনিতি ||১-২৫||",
+          "ka": "ಭೀಷ್ಮದ್ರೋಣಪ್ರಮುಖತಃ ಸರ್ವೇಷಾಂ ಚ ಮಹೀಕ್ಷಿತಾಮ್ |\nಉವಾಚ ಪಾರ್ಥ ಪಶ್ಯೈತಾನ್ಸಮವೇತಾನ್ಕುರೂನಿತಿ ||೧-೨೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Confront reality openly, acknowledging uncomfortable truths even when they evoke personal sorrow or hesitation."
+        "life_application": {
+          "hi": "वास्तविकता का खुलकर सामना करें, असुविधाजनक सच्चाइयों को स्वीकार करें, भले ही वे व्यक्तिगत दुःख या झिझक पैदा करें।",
+          "en": "Confront reality openly, acknowledging uncomfortable truths even when they evoke personal sorrow or hesitation.",
+          "be": "খোলাখুলিভাবে বাস্তবতার মোকাবিলা করুন, অস্বস্তিকর সত্য স্বীকার করে এমনকি যখন তারা ব্যক্তিগত দুঃখ বা দ্বিধা জাগিয়ে তোলে।",
+          "ka": "ವಾಸ್ತವವನ್ನು ಬಹಿರಂಗವಾಗಿ ಎದುರಿಸಿ, ಅವರು ವೈಯಕ್ತಿಕ ದುಃಖ ಅಥವಾ ಹಿಂಜರಿಕೆಯನ್ನು ಉಂಟುಮಾಡಿದಾಗಲೂ ಅಹಿತಕರ ಸತ್ಯಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -383,14 +888,34 @@
         "verse_id": "BG1.26",
         "img_landscape": "sloks/{size}/chapter_1/slok_26/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_26/square/img.png",
-        "transliteration": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||"
+        "transliteration": {
+          "hi": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||",
+          "en": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||",
+          "be": "তত্রাপশ্যত্স্থিতান্পার্থঃ পিতৄনথ পিতামহান্ |\nআচার্যান্মাতুলান্ভ্রাতৄন্পুত্রান্পৌত্রান্সখীংস্তথা ||১-২৬||",
+          "ka": "ತತ್ರಾಪಶ್ಯತ್ಸ್ಥಿತಾನ್ಪಾರ್ಥಃ ಪಿತೄನಥ ಪಿತಾಮಹಾನ್ |\nಆಚಾರ್ಯಾನ್ಮಾತುಲಾನ್ಭ್ರಾತೄನ್ಪುತ್ರಾನ್ಪೌತ್ರಾನ್ಸಖೀಂಸ್ತಥಾ ||೧-೨೬||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||",
+          "en": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||",
+          "be": "তত্রাপশ্যত্স্থিতান্পার্থঃ পিতৄনথ পিতামহান্ |\nআচার্যান্মাতুলান্ভ্রাতৄন্পুত্রান্পৌত্রান্সখীংস্তথা ||১-২৬||",
+          "ka": "ತತ್ರಾಪಶ್ಯತ್ಸ್ಥಿತಾನ್ಪಾರ್ಥಃ ಪಿತೄನಥ ಪಿತಾಮಹಾನ್ |\nಆಚಾರ್ಯಾನ್ಮಾತುಲಾನ್ಭ್ರಾತೄನ್ಪುತ್ರಾನ್ಪೌತ್ರಾನ್ಸಖೀಂಸ್ತಥಾ ||೧-೨೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Notice how personal relationships and personal ties can complicate your sense of duty during difficult dilemmas."
+        "life_application": {
+          "hi": "ध्यान दें कि कठिन दुविधाओं के दौरान व्यक्तिगत रिश्ते और व्यक्तिगत संबंध आपके कर्तव्य की भावना को कैसे जटिल बना सकते हैं।",
+          "en": "Notice how personal relationships and personal ties can complicate your sense of duty during difficult dilemmas.",
+          "be": "লক্ষ্য করুন কিভাবে ব্যক্তিগত সম্পর্ক এবং ব্যক্তিগত বন্ধন কঠিন সমস্যায় আপনার দায়িত্ববোধকে জটিল করে তুলতে পারে।",
+          "ka": "ವೈಯಕ್ತಿಕ ಸಂಬಂಧಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಸಂಬಂಧಗಳು ಕಷ್ಟಕರವಾದ ಇಕ್ಕಟ್ಟುಗಳ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಕರ್ತವ್ಯ ಪ್ರಜ್ಞೆಯನ್ನು ಹೇಗೆ ಸಂಕೀರ್ಣಗೊಳಿಸಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸಿ."
+        }
       }
     },
     {
@@ -398,14 +923,34 @@
         "verse_id": "BG1.27",
         "img_landscape": "sloks/{size}/chapter_1/slok_27/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_27/square/img.png",
-        "transliteration": "śvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||1-27||"
+        "transliteration": {
+          "hi": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||१-२७||",
+          "en": "śvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||1-27||",
+          "be": "শ্বশুরান্সুহৃদশ্চৈব সেনযোরুভযোরপি |\nতান্সমীক্ষ্য স কৌন্তেযঃ সর্বান্বন্ধূনবস্থিতান্ ||১-২৭||",
+          "ka": "ಶ್ವಶುರಾನ್ಸುಹೃದಶ್ಚೈವ ಸೇನಯೋರುಭಯೋರಪಿ |\nತಾನ್ಸಮೀಕ್ಷ್ಯ ಸ ಕೌನ್ತೇಯಃ ಸರ್ವಾನ್ಬನ್ಧೂನವಸ್ಥಿತಾನ್ ||೧-೨೭||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||१-२७||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||१-२७||",
+          "en": "śvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||1-27||",
+          "be": "শ্বশুরান্সুহৃদশ্চৈব সেনযোরুভযোরপি |\nতান্সমীক্ষ্য স কৌন্তেযঃ সর্বান্বন্ধূনবস্থিতান্ ||১-২৭||",
+          "ka": "ಶ್ವಶುರಾನ್ಸುಹೃದಶ್ಚೈವ ಸೇನಯೋರುಭಯೋರಪಿ |\nತಾನ್ಸಮೀಕ್ಷ್ಯ ಸ ಕೌನ್ತೇಯಃ ಸರ್ವಾನ್ಬನ್ಧೂನವಸ್ಥಿತಾನ್ ||೧-೨೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Acknowledge feelings of grief or empathy when they arise, but do not let them paralyze your judgment."
+        "life_application": {
+          "hi": "दुःख या सहानुभूति की भावनाएँ उत्पन्न होने पर उन्हें स्वीकार करें, लेकिन उन्हें अपने निर्णय को बाधित न करने दें।",
+          "en": "Acknowledge feelings of grief or empathy when they arise, but do not let them paralyze your judgment.",
+          "be": "দুঃখ বা সহানুভূতির অনুভূতিগুলি যখন তারা উদিত হয় তখন স্বীকার করুন, কিন্তু তাদের আপনার বিচারকে পক্ষাঘাতগ্রস্ত করতে দেবেন না।",
+          "ka": "ದುಃಖ ಅಥವಾ ಸಹಾನುಭೂತಿಯ ಭಾವನೆಗಳು ಉದ್ಭವಿಸಿದಾಗ ಅವುಗಳನ್ನು ಅಂಗೀಕರಿಸಿ, ಆದರೆ ನಿಮ್ಮ ತೀರ್ಪನ್ನು ಪಾರ್ಶ್ವವಾಯುವಿಗೆ ಬಿಡಬೇಡಿ."
+        }
       }
     },
     {
@@ -413,14 +958,34 @@
         "verse_id": "BG1.28",
         "img_landscape": "sloks/{size}/chapter_1/slok_28/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_28/square/img.png",
-        "transliteration": "kṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||"
+        "transliteration": {
+          "hi": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् |\nअर्जुन उवाच |\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||",
+          "en": "kṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||",
+          "be": "কৃপযা পরযাবিষ্টো বিষীদন্নিদমব্রবীত্ |\nঅর্জুন উবাচ |\nদৃষ্ট্বেমং স্বজনং কৃষ্ণ যুযুত্সুং সমুপস্থিতম্ ||১-২৮||",
+          "ka": "ಕೃಪಯಾ ಪರಯಾವಿಷ್ಟೋ ವಿಷೀದನ್ನಿದಮಬ್ರವೀತ್ |\nಅರ್ಜುನ ಉವಾಚ |\nದೃಷ್ಟ್ವೇಮಂ ಸ್ವಜನಂ ಕೃಷ್ಣ ಯುಯುತ್ಸುಂ ಸಮುಪಸ್ಥಿತಮ್ ||೧-೨೮||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् |\nअर्जुन उवाच |\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् |\nअर्जुन उवाच |\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||",
+          "en": "kṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||",
+          "be": "কৃপযা পরযাবিষ্টো বিষীদন্নিদমব্রবীত্ |\nঅর্জুন উবাচ |\nদৃষ্ট্বেমং স্বজনং কৃষ্ণ যুযুত্সুং সমুপস্থিতম্ ||১-২৮||",
+          "ka": "ಕೃಪಯಾ ಪರಯಾವಿಷ್ಟೋ ವಿಷೀದನ್ನಿದಮಬ್ರವೀತ್ |\nಅರ್ಜುನ ಉವಾಚ |\nದೃಷ್ಟ್ವೇಮಂ ಸ್ವಜನಂ ಕೃಷ್ಣ ಯುಯುತ್ಸುಂ ಸಮುಪಸ್ಥಿತಮ್ ||೧-೨೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize physical signs of stress or anxiety in your body, and take time to restore inner balance."
+        "life_application": {
+          "hi": "अपने शरीर में तनाव या चिंता के शारीरिक लक्षणों को पहचानें और आंतरिक संतुलन बहाल करने के लिए समय निकालें।",
+          "en": "Recognize physical signs of stress or anxiety in your body, and take time to restore inner balance.",
+          "be": "আপনার শরীরের মানসিক চাপ বা উদ্বেগের শারীরিক লক্ষণগুলি চিনুন এবং অভ্যন্তরীণ ভারসাম্য পুনরুদ্ধার করতে সময় নিন।",
+          "ka": "ನಿಮ್ಮ ದೇಹದಲ್ಲಿ ಒತ್ತಡ ಅಥವಾ ಆತಂಕದ ದೈಹಿಕ ಚಿಹ್ನೆಗಳನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಆಂತರಿಕ ಸಮತೋಲನವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -428,14 +993,34 @@
         "verse_id": "BG1.29",
         "img_landscape": "sloks/{size}/chapter_1/slok_29/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_29/square/img.png",
-        "transliteration": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ||1-29||"
+        "transliteration": {
+          "hi": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति |\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||",
+          "en": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ||1-29||",
+          "be": "সীদন্তি মম গাত্রাণি মুখং চ পরিশুষ্যতি |\nবেপথুশ্চ শরীরে মে রোমহর্ষশ্চ জাযতে ||১-২৯||",
+          "ka": "ಸೀದನ್ತಿ ಮಮ ಗಾತ್ರಾಣಿ ಮುಖಂ ಚ ಪರಿಶುಷ್ಯತಿ |\nವೇಪಥುಶ್ಚ ಶರೀರೇ ಮೇ ರೋಮಹರ್ಷಶ್ಚ ಜಾಯತೇ ||೧-೨೯||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति |\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति |\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||",
+          "en": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ||1-29||",
+          "be": "সীদন্তি মম গাত্রাণি মুখং চ পরিশুষ্যতি |\nবেপথুশ্চ শরীরে মে রোমহর্ষশ্চ জাযতে ||১-২৯||",
+          "ka": "ಸೀದನ್ತಿ ಮಮ ಗಾತ್ರಾಣಿ ಮುಖಂ ಚ ಪರಿಶುಷ್ಯತಿ |\nವೇಪಥುಶ್ಚ ಶರೀರೇ ಮೇ ರೋಮಹರ್ಷಶ್ಚ ಜಾಯತೇ ||೧-೨೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "When overwhelm strikes your body and mind, pause before making decisions you might later regret."
+        "life_application": {
+          "hi": "जब आपके शरीर और दिमाग पर दबाव पड़ने लगे, तो ऐसे निर्णय लेने से पहले रुकें, जिनके लिए आपको बाद में पछताना पड़ सकता है।",
+          "en": "When overwhelm strikes your body and mind, pause before making decisions you might later regret.",
+          "be": "যখন আপনার শরীর এবং মনকে অভিভূত করে, তখন সিদ্ধান্ত নেওয়ার আগে বিরতি দিন আপনি পরে অনুশোচনা করতে পারেন।",
+          "ka": "ನಿಮ್ಮ ದೇಹ ಮತ್ತು ಮನಸ್ಸನ್ನು ಅತಿಯಾಗಿ ಹೊಡೆದಾಗ, ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ವಿರಾಮಗೊಳಿಸಿ ನಂತರ ನೀವು ವಿಷಾದಿಸಬಹುದು."
+        }
       }
     },
     {
@@ -443,14 +1028,34 @@
         "verse_id": "BG1.30",
         "img_landscape": "sloks/{size}/chapter_1/slok_30/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_30/square/img.png",
-        "transliteration": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||1-30||"
+        "transliteration": {
+          "hi": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||",
+          "en": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||1-30||",
+          "be": "গাণ্ডীবং স্রংসতে হস্তাত্ত্বক্চৈব পরিদহ্যতে |\nন চ শক্নোম্যবস্থাতুং ভ্রমতীব চ মে মনঃ ||১-৩০||",
+          "ka": "ಗಾಣ್ಡೀವಂ ಸ್ರಂಸತೇ ಹಸ್ತಾತ್ತ್ವಕ್ಚೈವ ಪರಿದಹ್ಯತೇ |\nನ ಚ ಶಕ್ನೋಮ್ಯವಸ್ಥಾತುಂ ಭ್ರಮತೀವ ಚ ಮೇ ಮನಃ ||೧-೩೦||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||",
+          "en": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||1-30||",
+          "be": "গাণ্ডীবং স্রংসতে হস্তাত্ত্বক্চৈব পরিদহ্যতে |\nন চ শক্নোম্যবস্থাতুং ভ্রমতীব চ মে মনঃ ||১-৩০||",
+          "ka": "ಗಾಣ್ಡೀವಂ ಸ್ರಂಸತೇ ಹಸ್ತಾತ್ತ್ವಕ್ಚೈವ ಪರಿದಹ್ಯತೇ |\nನ ಚ ಶಕ್ನೋಮ್ಯವಸ್ಥಾತುಂ ಭ್ರಮತೀವ ಚ ಮೇ ಮನಃ ||೧-೩೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Give yourself permission to pause when emotional turmoil threatens to sweep away your self-control."
+        "life_application": {
+          "hi": "जब भावनात्मक उथल-पुथल आपके आत्म-नियंत्रण को खत्म करने का खतरा पैदा कर दे तो खुद को रुकने की अनुमति दें।",
+          "en": "Give yourself permission to pause when emotional turmoil threatens to sweep away your self-control.",
+          "be": "মানসিক অশান্তি যখন আপনার আত্ম-নিয়ন্ত্রণকে দূরে সরিয়ে দেওয়ার হুমকি দেয় তখন নিজেকে বিরতি দেওয়ার অনুমতি দিন।",
+          "ka": "ಭಾವನಾತ್ಮಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯು ನಿಮ್ಮ ಸ್ವಯಂ ನಿಯಂತ್ರಣವನ್ನು ಅಳಿಸಿಹಾಕಲು ಬೆದರಿಕೆ ಹಾಕಿದಾಗ ವಿರಾಮಗೊಳಿಸಲು ನಿಮಗೆ ಅನುಮತಿ ನೀಡಿ."
+        }
       }
     },
     {
@@ -458,14 +1063,34 @@
         "verse_id": "BG1.31",
         "img_landscape": "sloks/{size}/chapter_1/slok_31/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_31/square/img.png",
-        "transliteration": "nimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||"
+        "transliteration": {
+          "hi": "निमित्तानि च पश्यामि विपरीतानि केशव |\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||",
+          "en": "nimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||",
+          "be": "নিমিত্তানি চ পশ্যামি বিপরীতানি কেশব |\nন চ শ্রেযোঽনুপশ্যামি হত্বা স্বজনমাহবে ||১-৩১||",
+          "ka": "ನಿಮಿತ್ತಾನಿ ಚ ಪಶ್ಯಾಮಿ ವಿಪರೀತಾನಿ ಕೇಶವ |\nನ ಚ ಶ್ರೇಯೋಽನುಪಶ್ಯಾಮಿ ಹತ್ವಾ ಸ್ವಜನಮಾಹವೇ ||೧-೩೧||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "निमित्तानि च पश्यामि विपरीतानि केशव |\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "निमित्तानि च पश्यामि विपरीतानि केशव |\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||",
+          "en": "nimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||",
+          "be": "নিমিত্তানি চ পশ্যামি বিপরীতানি কেশব |\nন চ শ্রেযোঽনুপশ্যামি হত্বা স্বজনমাহবে ||১-৩১||",
+          "ka": "ನಿಮಿತ್ತಾನಿ ಚ ಪಶ್ಯಾಮಿ ವಿಪರೀತಾನಿ ಕೇಶವ |\nನ ಚ ಶ್ರೇಯೋಽನುಪಶ್ಯಾಮಿ ಹತ್ವಾ ಸ್ವಜನಮಾಹವೇ ||೧-೩೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Distinguish between genuine ethical warnings and rationalizations born of fear when facing tough choices."
+        "life_application": {
+          "hi": "कठिन विकल्पों का सामना करते समय वास्तविक नैतिक चेतावनियों और भय से उत्पन्न तर्कसंगतताओं के बीच अंतर करें।",
+          "en": "Distinguish between genuine ethical warnings and rationalizations born of fear when facing tough choices.",
+          "be": "কঠিন পছন্দের মুখোমুখি হওয়ার সময় প্রকৃত নৈতিক সতর্কতা এবং ভয় থেকে উদ্ভূত যুক্তিযুক্তকরণের মধ্যে পার্থক্য করুন।",
+          "ka": "ಕಠಿಣ ಆಯ್ಕೆಗಳನ್ನು ಎದುರಿಸುವಾಗ ಭಯದಿಂದ ಹುಟ್ಟಿದ ನಿಜವಾದ ನೈತಿಕ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ತರ್ಕಬದ್ಧತೆಗಳ ನಡುವೆ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -473,14 +1098,34 @@
         "verse_id": "BG1.32",
         "img_landscape": "sloks/{size}/chapter_1/slok_32/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_32/square/img.png",
-        "transliteration": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1-32||"
+        "transliteration": {
+          "hi": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||",
+          "en": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1-32||",
+          "be": "ন কাঙ্ক্ষে বিজযং কৃষ্ণ ন চ রাজ্যং সুখানি চ |\nকিং নো রাজ্যেন গোবিন্দ কিং ভোগৈর্জীবিতেন বা ||১-৩২||",
+          "ka": "ನ ಕಾಙ್ಕ್ಷೇ ವಿಜಯಂ ಕೃಷ್ಣ ನ ಚ ರಾಜ್ಯಂ ಸುಖಾನಿ ಚ |\nಕಿಂ ನೋ ರಾಜ್ಯೇನ ಗೋವಿನ್ದ ಕಿಂ ಭೋಗೈರ್ಜೀವಿತೇನ ವಾ ||೧-೩೨||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||",
+          "en": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1-32||",
+          "be": "ন কাঙ্ক্ষে বিজযং কৃষ্ণ ন চ রাজ্যং সুখানি চ |\nকিং নো রাজ্যেন গোবিন্দ কিং ভোগৈর্জীবিতেন বা ||১-৩২||",
+          "ka": "ನ ಕಾಙ್ಕ್ಷೇ ವಿಜಯಂ ಕೃಷ್ಣ ನ ಚ ರಾಜ್ಯಂ ಸುಖಾನಿ ಚ |\nಕಿಂ ನೋ ರಾಜ್ಯೇನ ಗೋವಿನ್ದ ಕಿಂ ಭೋಗೈರ್ಜೀವಿತೇನ ವಾ ||೧-೩೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Question whether worldly success is worth pursuing if it requires sacrificing your core values or harming others."
+        "life_application": {
+          "hi": "प्रश्न करें कि क्या सांसारिक सफलता हासिल करने लायक है यदि इसके लिए अपने मूल मूल्यों का त्याग करना या दूसरों को नुकसान पहुंचाना आवश्यक है।",
+          "en": "Question whether worldly success is worth pursuing if it requires sacrificing your core values or harming others.",
+          "be": "প্রশ্ন করুন যে পার্থিব সাফল্য অনুসরণ করা মূল্যবান কিনা যদি এর জন্য আপনার মূল মূল্যবোধকে বলিদান বা অন্যদের ক্ষতি করার প্রয়োজন হয়।",
+          "ka": "ಲೌಕಿಕ ಯಶಸ್ಸಿಗೆ ನಿಮ್ಮ ಮೂಲ ಮೌಲ್ಯಗಳನ್ನು ತ್ಯಾಗ ಮಾಡುವ ಅಥವಾ ಇತರರಿಗೆ ಹಾನಿ ಮಾಡುವ ಅಗತ್ಯವಿದ್ದರೆ ಅದನ್ನು ಅನುಸರಿಸಲು ಯೋಗ್ಯವಾಗಿದೆಯೇ ಎಂದು ಪ್ರಶ್ನಿಸಿ."
+        }
       }
     },
     {
@@ -488,14 +1133,34 @@
         "verse_id": "BG1.33",
         "img_landscape": "sloks/{size}/chapter_1/slok_33/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_33/square/img.png",
-        "transliteration": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||"
+        "transliteration": {
+          "hi": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||",
+          "en": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||",
+          "be": "যেষামর্থে কাঙ্ক্ষিতং নো রাজ্যং ভোগাঃ সুখানি চ |\nত ইমেঽবস্থিতা যুদ্ধে প্রাণাংস্ত্যক্ত্বা ধনানি চ ||১-৩৩||",
+          "ka": "ಯೇಷಾಮರ್ಥೇ ಕಾಙ್ಕ್ಷಿತಂ ನೋ ರಾಜ್ಯಂ ಭೋಗಾಃ ಸುಖಾನಿ ಚ |\nತ ಇಮೇಽವಸ್ಥಿತಾ ಯುದ್ಧೇ ಪ್ರಾಣಾಂಸ್ತ್ಯಕ್ತ್ವಾ ಧನಾನಿ ಚ ||೧-೩೩||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||",
+          "en": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||",
+          "be": "যেষামর্থে কাঙ্ক্ষিতং নো রাজ্যং ভোগাঃ সুখানি চ |\nত ইমেঽবস্থিতা যুদ্ধে প্রাণাংস্ত্যক্ত্বা ধনানি চ ||১-৩৩||",
+          "ka": "ಯೇಷಾಮರ್ಥೇ ಕಾಙ್ಕ್ಷಿತಂ ನೋ ರಾಜ್ಯಂ ಭೋಗಾಃ ಸುಖಾನಿ ಚ |\nತ ಇಮೇಽವಸ್ಥಿತಾ ಯುದ್ಧೇ ಪ್ರಾಣಾಂಸ್ತ್ಯಕ್ತ್ವಾ ಧನಾನಿ ಚ ||೧-೩೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Reflect on whether your ambitions truly serve the well-being of the people you care about most."
+        "life_application": {
+          "hi": "इस पर विचार करें कि क्या आपकी महत्वाकांक्षाएं वास्तव में उन लोगों की भलाई के लिए हैं जिनकी आप सबसे अधिक परवाह करते हैं।",
+          "en": "Reflect on whether your ambitions truly serve the well-being of the people you care about most.",
+          "be": "আপনার উচ্চাকাঙ্ক্ষাগুলি সত্যিকার অর্থে আপনার সবচেয়ে বেশি যত্নশীল লোকদের মঙ্গল করে কিনা তা প্রতিফলিত করুন।",
+          "ka": "ನಿಮ್ಮ ಮಹತ್ವಾಕಾಂಕ್ಷೆಗಳು ನೀವು ಹೆಚ್ಚು ಕಾಳಜಿವಹಿಸುವ ಜನರ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ನಿಜವಾಗಿಯೂ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತವೆಯೇ ಎಂಬುದನ್ನು ಪ್ರತಿಬಿಂಬಿಸಿ."
+        }
       }
     },
     {
@@ -503,14 +1168,34 @@
         "verse_id": "BG1.34",
         "img_landscape": "sloks/{size}/chapter_1/slok_34/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_34/square/img.png",
-        "transliteration": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||1-34||"
+        "transliteration": {
+          "hi": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः |\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||",
+          "en": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||1-34||",
+          "be": "আচার্যাঃ পিতরঃ পুত্রাস্তথৈব চ পিতামহাঃ |\nমাতুলাঃ শ্বশুরাঃ পৌত্রাঃ শ্যালাঃ সম্বন্ধিনস্তথা ||১-৩৪||",
+          "ka": "ಆಚಾರ್ಯಾಃ ಪಿತರಃ ಪುತ್ರಾಸ್ತಥೈವ ಚ ಪಿತಾಮಹಾಃ |\nಮಾತುಲಾಃ ಶ್ವಶುರಾಃ ಪೌತ್ರಾಃ ಶ್ಯಾಲಾಃ ಸಮ್ಬನ್ಧಿನಸ್ತಥಾ ||೧-೩೪||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः |\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः |\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||",
+          "en": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||1-34||",
+          "be": "আচার্যাঃ পিতরঃ পুত্রাস্তথৈব চ পিতামহাঃ |\nমাতুলাঃ শ্বশুরাঃ পৌত্রাঃ শ্যালাঃ সম্বন্ধিনস্তথা ||১-৩৪||",
+          "ka": "ಆಚಾರ್ಯಾಃ ಪಿತರಃ ಪುತ್ರಾಸ್ತಥೈವ ಚ ಪಿತಾಮಹಾಃ |\nಮಾತುಲಾಃ ಶ್ವಶುರಾಃ ಪೌತ್ರಾಃ ಶ್ಯಾಲಾಃ ಸಮ್ಬನ್ಧಿನಸ್ತಥಾ ||೧-೩೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Consider how your choices affect your family and community before taking actions driven by personal ambition."
+        "life_application": {
+          "hi": "व्यक्तिगत महत्वाकांक्षा से प्रेरित कार्य करने से पहले विचार करें कि आपकी पसंद आपके परिवार और समुदाय को कैसे प्रभावित करती है।",
+          "en": "Consider how your choices affect your family and community before taking actions driven by personal ambition.",
+          "be": "ব্যক্তিগত উচ্চাকাঙ্ক্ষা দ্বারা চালিত পদক্ষেপ নেওয়ার আগে আপনার পছন্দগুলি কীভাবে আপনার পরিবার এবং সম্প্রদায়কে প্রভাবিত করে তা বিবেচনা করুন।",
+          "ka": "ವೈಯಕ್ತಿಕ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯಿಂದ ಪ್ರೇರಿತವಾದ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ನಿಮ್ಮ ಆಯ್ಕೆಗಳು ನಿಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಸಮುದಾಯದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂಬುದನ್ನು ಪರಿಗಣಿಸಿ."
+        }
       }
     },
     {
@@ -518,14 +1203,34 @@
         "verse_id": "BG1.35",
         "img_landscape": "sloks/{size}/chapter_1/slok_35/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_35/square/img.png",
-        "transliteration": "etānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||1-35||"
+        "transliteration": {
+          "hi": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||",
+          "en": "etānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||1-35||",
+          "be": "এতান্ন হন্তুমিচ্ছামি ঘ্নতোঽপি মধুসূদন |\nঅপি ত্রৈলোক্যরাজ্যস্য হেতোঃ কিং নু মহীকৃতে ||১-৩৫||",
+          "ka": "ಏತಾನ್ನ ಹನ್ತುಮಿಚ್ಛಾಮಿ ಘ್ನತೋಽಪಿ ಮಧುಸೂದನ |\nಅಪಿ ತ್ರೈಲೋಕ್ಯರಾಜ್ಯಸ್ಯ ಹೇತೋಃ ಕಿಂ ನು ಮಹೀಕೃತೇ ||೧-೩೫||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||",
+          "en": "etānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||1-35||",
+          "be": "এতান্ন হন্তুমিচ্ছামি ঘ্নতোঽপি মধুসূদন |\nঅপি ত্রৈলোক্যরাজ্যস্য হেতোঃ কিং নু মহীকৃতে ||১-৩৫||",
+          "ka": "ಏತಾನ್ನ ಹನ್ತುಮಿಚ್ಛಾಮಿ ಘ್ನತೋಽಪಿ ಮಧುಸೂದನ |\nಅಪಿ ತ್ರೈಲೋಕ್ಯರಾಜ್ಯಸ್ಯ ಹೇತೋಃ ಕಿಂ ನು ಮಹೀಕೃತೇ ||೧-೩೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Refuse to compromise your ethical principles for material gain, no matter how great the reward seems."
+        "life_application": {
+          "hi": "भौतिक लाभ के लिए अपने नैतिक सिद्धांतों से समझौता करने से इंकार करें, चाहे इनाम कितना भी बड़ा क्यों न लगे।",
+          "en": "Refuse to compromise your ethical principles for material gain, no matter how great the reward seems.",
+          "be": "বস্তুগত লাভের জন্য আপনার নৈতিক নীতির সাথে আপস করতে অস্বীকার করুন, পুরস্কার যতই বড় মনে হোক না কেন।",
+          "ka": "ವಸ್ತು ಲಾಭಕ್ಕಾಗಿ ನಿಮ್ಮ ನೈತಿಕ ತತ್ವಗಳನ್ನು ರಾಜಿ ಮಾಡಿಕೊಳ್ಳಲು ನಿರಾಕರಿಸಿ, ಪ್ರತಿಫಲವು ಎಷ್ಟೇ ದೊಡ್ಡದಾಗಿ ತೋರುತ್ತದೆಯಾದರೂ."
+        }
       }
     },
     {
@@ -533,14 +1238,34 @@
         "verse_id": "BG1.36",
         "img_landscape": "sloks/{size}/chapter_1/slok_36/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_36/square/img.png",
-        "transliteration": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||1-36||"
+        "transliteration": {
+          "hi": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन |\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||",
+          "en": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||1-36||",
+          "be": "নিহত্য ধার্তরাষ্ট্রান্নঃ কা প্রীতিঃ স্যাজ্জনার্দন |\nপাপমেবাশ্রযেদস্মান্হত্বৈতানাততাযিনঃ ||১-৩৬||",
+          "ka": "ನಿಹತ್ಯ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ನಃ ಕಾ ಪ್ರೀತಿಃ ಸ್ಯಾಜ್ಜನಾರ್ದನ |\nಪಾಪಮೇವಾಶ್ರಯೇದಸ್ಮಾನ್ಹತ್ವೈತಾನಾತತಾಯಿನಃ ||೧-೩೬||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन |\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन |\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||",
+          "en": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||1-36||",
+          "be": "নিহত্য ধার্তরাষ্ট্রান্নঃ কা প্রীতিঃ স্যাজ্জনার্দন |\nপাপমেবাশ্রযেদস্মান্হত্বৈতানাততাযিনঃ ||১-৩৬||",
+          "ka": "ನಿಹತ್ಯ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ನಃ ಕಾ ಪ್ರೀತಿಃ ಸ್ಯಾಜ್ಜನಾರ್ದನ |\nಪಾಪಮೇವಾಶ್ರಯೇದಸ್ಮಾನ್ಹತ್ವೈತಾನಾತತಾಯಿನಃ ||೧-೩೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Consider the long-term spiritual and emotional consequences of retaliation before reacting to those who wrong you."
+        "life_application": {
+          "hi": "जो लोग आपके साथ गलत करते हैं उन पर प्रतिक्रिया करने से पहले प्रतिशोध के दीर्घकालिक आध्यात्मिक और भावनात्मक परिणामों पर विचार करें।",
+          "en": "Consider the long-term spiritual and emotional consequences of retaliation before reacting to those who wrong you.",
+          "be": "যারা আপনাকে অন্যায় করে তাদের প্রতি প্রতিক্রিয়া জানানোর আগে প্রতিশোধের দীর্ঘমেয়াদী আধ্যাত্মিক এবং মানসিক পরিণতি বিবেচনা করুন।",
+          "ka": "ನಿಮಗೆ ತಪ್ಪು ಮಾಡುವವರಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುವ ಮೊದಲು ಪ್ರತೀಕಾರದ ದೀರ್ಘಾವಧಿಯ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಪರಿಣಾಮಗಳನ್ನು ಪರಿಗಣಿಸಿ."
+        }
       }
     },
     {
@@ -548,14 +1273,34 @@
         "verse_id": "BG1.37",
         "img_landscape": "sloks/{size}/chapter_1/slok_37/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_37/square/img.png",
-        "transliteration": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||"
+        "transliteration": {
+          "hi": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||",
+          "en": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||",
+          "be": "তস্মান্নার্হা বযং হন্তুং ধার্তরাষ্ট্রান্স্ববান্ধবান্ |\nস্বজনং হি কথং হত্বা সুখিনঃ স্যাম মাধব ||১-৩৭||",
+          "ka": "ತಸ್ಮಾನ್ನಾರ್ಹಾ ವಯಂ ಹನ್ತುಂ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ಸ್ವಬಾನ್ಧವಾನ್ |\nಸ್ವಜನಂ ಹಿ ಕಥಂ ಹತ್ವಾ ಸುಖಿನಃ ಸ್ಯಾಮ ಮಾಧವ ||೧-೩೭||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||",
+          "en": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||",
+          "be": "তস্মান্নার্হা বযং হন্তুং ধার্তরাষ্ট্রান্স্ববান্ধবান্ |\nস্বজনং হি কথং হত্বা সুখিনঃ স্যাম মাধব ||১-৩৭||",
+          "ka": "ತಸ್ಮಾನ್ನಾರ್ಹಾ ವಯಂ ಹನ್ತುಂ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ಸ್ವಬಾನ್ಧವಾನ್ |\nಸ್ವಜನಂ ಹಿ ಕಥಂ ಹತ್ವಾ ಸುಖಿನಃ ಸ್ಯಾಮ ಮಾಧವ ||೧-೩೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Seek peaceful resolution over conflict whenever possible, realizing that victory built on destruction brings no joy."
+        "life_application": {
+          "hi": "जब भी संभव हो संघर्ष पर शांतिपूर्ण समाधान की तलाश करें, यह महसूस करते हुए कि विनाश पर बनी जीत कोई खुशी नहीं लाती है।",
+          "en": "Seek peaceful resolution over conflict whenever possible, realizing that victory built on destruction brings no joy.",
+          "be": "যখনই সম্ভব সংঘাতের শান্তিপূর্ণ সমাধান সন্ধান করুন, এই উপলব্ধি যে ধ্বংসের উপর নির্মিত বিজয় কোন আনন্দ নিয়ে আসে না।",
+          "ka": "ಸಾಧ್ಯವಾದಾಗಲೆಲ್ಲಾ ಸಂಘರ್ಷದ ಮೇಲೆ ಶಾಂತಿಯುತ ಪರಿಹಾರವನ್ನು ಹುಡುಕುವುದು, ವಿನಾಶದ ಮೇಲೆ ನಿರ್ಮಿಸಲಾದ ವಿಜಯವು ಯಾವುದೇ ಸಂತೋಷವನ್ನು ತರುವುದಿಲ್ಲ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -563,14 +1308,34 @@
         "verse_id": "BG1.38",
         "img_landscape": "sloks/{size}/chapter_1/slok_38/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_38/square/img.png",
-        "transliteration": "yadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||1-38||"
+        "transliteration": {
+          "hi": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः |\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||",
+          "en": "yadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||1-38||",
+          "be": "যদ্যপ্যেতে ন পশ্যন্তি লোভোপহতচেতসঃ |\nকুলক্ষযকৃতং দোষং মিত্রদ্রোহে চ পাতকম্ ||১-৩৮||",
+          "ka": "ಯದ್ಯಪ್ಯೇತೇ ನ ಪಶ್ಯನ್ತಿ ಲೋಭೋಪಹತಚೇತಸಃ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಮಿತ್ರದ್ರೋಹೇ ಚ ಪಾತಕಮ್ ||೧-೩೮||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः |\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः |\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||",
+          "en": "yadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||1-38||",
+          "be": "যদ্যপ্যেতে ন পশ্যন্তি লোভোপহতচেতসঃ |\nকুলক্ষযকৃতং দোষং মিত্রদ্রোহে চ পাতকম্ ||১-৩৮||",
+          "ka": "ಯದ್ಯಪ್ಯೇತೇ ನ ಪಶ್ಯನ್ತಿ ಲೋಭೋಪಹತಚೇತಸಃ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಮಿತ್ರದ್ರೋಹೇ ಚ ಪಾತಕಮ್ ||೧-೩೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Do not lower your moral standards simply because others around you act out of greed or blind ambition."
+        "life_application": {
+          "hi": "अपने नैतिक मानकों को केवल इसलिए कम न करें क्योंकि आपके आस-पास के अन्य लोग लालच या अंधी महत्वाकांक्षा के कारण कार्य करते हैं।",
+          "en": "Do not lower your moral standards simply because others around you act out of greed or blind ambition.",
+          "be": "আপনার আশেপাশের অন্যরা লোভ বা অন্ধ উচ্চাকাঙ্ক্ষা থেকে কাজ করে বলে আপনার নৈতিক মানগুলিকে নিচু করবেন না।",
+          "ka": "ನಿಮ್ಮ ಸುತ್ತಲಿರುವ ಇತರರು ದುರಾಶೆಯಿಂದ ಅಥವಾ ಕುರುಡು ಮಹತ್ವಾಕಾಂಕ್ಷೆಯಿಂದ ವರ್ತಿಸುತ್ತಾರೆ ಎಂಬ ಕಾರಣಕ್ಕಾಗಿ ನಿಮ್ಮ ನೈತಿಕ ಮಾನದಂಡಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಡಿ."
+        }
       }
     },
     {
@@ -578,14 +1343,34 @@
         "verse_id": "BG1.39",
         "img_landscape": "sloks/{size}/chapter_1/slok_39/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_39/square/img.png",
-        "transliteration": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||1-39||"
+        "transliteration": {
+          "hi": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||१-३९||",
+          "en": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||1-39||",
+          "be": "কথং ন জ্ঞেযমস্মাভিঃ পাপাদস্মান্নিবর্তিতুম্ |\nকুলক্ষযকৃতং দোষং প্রপশ্যদ্ভির্জনার্দন ||১-৩৯||",
+          "ka": "ಕಥಂ ನ ಜ್ಞೇಯಮಸ್ಮಾಭಿಃ ಪಾಪಾದಸ್ಮಾನ್ನಿವರ್ತಿತುಮ್ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಪ್ರಪಶ್ಯದ್ಭಿರ್ಜನಾರ್ದನ ||೧-೩೯||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||१-३९||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||१-३९||",
+          "en": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||1-39||",
+          "be": "কথং ন জ্ঞেযমস্মাভিঃ পাপাদস্মান্নিবর্তিতুম্ |\nকুলক্ষযকৃতং দোষং প্রপশ্যদ্ভির্জনার্দন ||১-৩৯||",
+          "ka": "ಕಥಂ ನ ಜ್ಞೇಯಮಸ್ಮಾಭಿಃ ಪಾಪಾದಸ್ಮಾನ್ನಿವರ್ತಿತುಮ್ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಪ್ರಪಶ್ಯದ್ಭಿರ್ಜನಾರ್ದನ ||೧-೩೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Choose to step back from destructive cycles when you recognize the harm they will cause to everyone involved."
+        "life_application": {
+          "hi": "विनाशकारी चक्रों से पीछे हटने का चयन तब करें जब आप यह पहचान लें कि इनसे इसमें शामिल सभी लोगों को कितना नुकसान होगा।",
+          "en": "Choose to step back from destructive cycles when you recognize the harm they will cause to everyone involved.",
+          "be": "ধ্বংসাত্মক চক্র থেকে পিছিয়ে যাওয়া বেছে নিন যখন আপনি চিনবেন যে তারা জড়িত প্রত্যেকের ক্ষতি করবে।",
+          "ka": "ವಿನಾಶಕಾರಿ ಚಕ್ರಗಳಿಂದ ಹಿಂದೆ ಸರಿಯಲು ಆಯ್ಕೆಮಾಡಿ, ಅವರು ಒಳಗೊಂಡಿರುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಹಾನಿಯನ್ನುಂಟುಮಾಡುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -593,14 +1378,34 @@
         "verse_id": "BG1.40",
         "img_landscape": "sloks/{size}/chapter_1/slok_40/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_40/square/img.png",
-        "transliteration": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||"
+        "transliteration": {
+          "hi": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||",
+          "en": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||",
+          "be": "কুলক্ষযে প্রণশ্যন্তি কুলধর্মাঃ সনাতনাঃ |\nধর্মে নষ্টে কুলং কৃত্স্নমধর্মোঽভিভবত্যুত ||১-৪০||",
+          "ka": "ಕುಲಕ್ಷಯೇ ಪ್ರಣಶ್ಯನ್ತಿ ಕುಲಧರ್ಮಾಃ ಸನಾತನಾಃ |\nಧರ್ಮೇ ನಷ್ಟೇ ಕುಲಂ ಕೃತ್ಸ್ನಮಧರ್ಮೋಽಭಿಭವತ್ಯುತ ||೧-೪೦||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||",
+          "en": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||",
+          "be": "কুলক্ষযে প্রণশ্যন্তি কুলধর্মাঃ সনাতনাঃ |\nধর্মে নষ্টে কুলং কৃত্স্নমধর্মোঽভিভবত্যুত ||১-৪০||",
+          "ka": "ಕುಲಕ್ಷಯೇ ಪ್ರಣಶ್ಯನ್ತಿ ಕುಲಧರ್ಮಾಃ ಸನಾತನಾಃ |\nಧರ್ಮೇ ನಷ್ಟೇ ಕುಲಂ ಕೃತ್ಸ್ನಮಧರ್ಮೋಽಭಿಭವತ್ಯುತ ||೧-೪೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Protect the positive traditions and ethical foundations of your community, ensuring they are passed on intact."
+        "life_application": {
+          "hi": "अपने समुदाय की सकारात्मक परंपराओं और नैतिक नींवों की रक्षा करें, यह सुनिश्चित करते हुए कि वे बरकरार रहें।",
+          "en": "Protect the positive traditions and ethical foundations of your community, ensuring they are passed on intact.",
+          "be": "আপনার সম্প্রদায়ের ইতিবাচক ঐতিহ্য এবং নৈতিক ভিত্তি রক্ষা করুন, নিশ্চিত করুন যে সেগুলি অক্ষত রয়েছে।",
+          "ka": "ನಿಮ್ಮ ಸಮುದಾಯದ ಸಕಾರಾತ್ಮಕ ಸಂಪ್ರದಾಯಗಳು ಮತ್ತು ನೈತಿಕ ಅಡಿಪಾಯಗಳನ್ನು ರಕ್ಷಿಸಿ, ಅವುಗಳು ಅಖಂಡವಾಗಿ ಹಾದುಹೋಗುತ್ತವೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -608,14 +1413,34 @@
         "verse_id": "BG1.41",
         "img_landscape": "sloks/{size}/chapter_1/slok_41/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_41/square/img.png",
-        "transliteration": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||1-41||"
+        "transliteration": {
+          "hi": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः |\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||",
+          "en": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||1-41||",
+          "be": "অধর্মাভিভবাত্কৃষ্ণ প্রদুষ্যন্তি কুলস্ত্রিযঃ |\nস্ত্রীষু দুষ্টাসু বার্ষ্ণেয জাযতে বর্ণসঙ্করঃ ||১-৪১||",
+          "ka": "ಅಧರ್ಮಾಭಿಭವಾತ್ಕೃಷ್ಣ ಪ್ರದುಷ್ಯನ್ತಿ ಕುಲಸ್ತ್ರಿಯಃ |\nಸ್ತ್ರೀಷು ದುಷ್ಟಾಸು ವಾರ್ಷ್ಣೇಯ ಜಾಯತೇ ವರ್ಣಸಙ್ಕರಃ ||೧-೪೧||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः |\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः |\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||",
+          "en": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||1-41||",
+          "be": "অধর্মাভিভবাত্কৃষ্ণ প্রদুষ্যন্তি কুলস্ত্রিযঃ |\nস্ত্রীষু দুষ্টাসু বার্ষ্ণেয জাযতে বর্ণসঙ্করঃ ||১-৪১||",
+          "ka": "ಅಧರ್ಮಾಭಿಭವಾತ್ಕೃಷ್ಣ ಪ್ರದುಷ್ಯನ್ತಿ ಕುಲಸ್ತ್ರಿಯಃ |\nಸ್ತ್ರೀಷು ದುಷ್ಟಾಸು ವಾರ್ಷ್ಣೇಯ ಜಾಯತೇ ವರ್ಣಸಙ್ಕರಃ ||೧-೪೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Uphold integrity and respect within your household to maintain harmony and moral clarity for future generations."
+        "life_application": {
+          "hi": "भावी पीढ़ियों के लिए सद्भाव और नैतिक स्पष्टता बनाए रखने के लिए अपने घर में अखंडता और सम्मान बनाए रखें।",
+          "en": "Uphold integrity and respect within your household to maintain harmony and moral clarity for future generations.",
+          "be": "ভবিষ্যত প্রজন্মের জন্য সম্প্রীতি এবং নৈতিক স্বচ্ছতা বজায় রাখতে আপনার পরিবারের মধ্যে সততা এবং সম্মান বজায় রাখুন।",
+          "ka": "ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗೆ ಸಾಮರಸ್ಯ ಮತ್ತು ನೈತಿಕ ಸ್ಪಷ್ಟತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ನಿಮ್ಮ ಮನೆಯೊಳಗೆ ಸಮಗ್ರತೆ ಮತ್ತು ಗೌರವವನ್ನು ಎತ್ತಿಹಿಡಿಯಿರಿ."
+        }
       }
     },
     {
@@ -623,14 +1448,34 @@
         "verse_id": "BG1.42",
         "img_landscape": "sloks/{size}/chapter_1/slok_42/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_42/square/img.png",
-        "transliteration": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||1-42||"
+        "transliteration": {
+          "hi": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च |\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||१-४२||",
+          "en": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||1-42||",
+          "be": "সঙ্করো নরকাযৈব কুলঘ্নানাং কুলস্য চ |\nপতন্তি পিতরো হ্যেষাং লুপ্তপিণ্ডোদকক্রিযাঃ ||১-৪২||",
+          "ka": "ಸಙ್ಕರೋ ನರಕಾಯೈವ ಕುಲಘ್ನಾನಾಂ ಕುಲಸ್ಯ ಚ |\nಪತನ್ತಿ ಪಿತರೋ ಹ್ಯೇಷಾಂ ಲುಪ್ತಪಿಣ್ಡೋದಕಕ್ರಿಯಾಃ ||೧-೪೨||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च |\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||१-४२||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च |\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||१-४२||",
+          "en": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||1-42||",
+          "be": "সঙ্করো নরকাযৈব কুলঘ্নানাং কুলস্য চ |\nপতন্তি পিতরো হ্যেষাং লুপ্তপিণ্ডোদকক্রিযাঃ ||১-৪২||",
+          "ka": "ಸಙ್ಕರೋ ನರಕಾಯೈವ ಕುಲಘ್ನಾನಾಂ ಕುಲಸ್ಯ ಚ |\nಪತನ್ತಿ ಪಿತರೋ ಹ್ಯೇಷಾಂ ಲುಪ್ತಪಿಣ್ಡೋದಕಕ್ರಿಯಾಃ ||೧-೪೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Remember that your current choices ripple outward, affecting both your ancestors' legacy and your descendants' future."
+        "life_application": {
+          "hi": "याद रखें कि आपकी वर्तमान पसंद बाहर की ओर तरंगित होती है, जो आपके पूर्वजों की विरासत और आपके वंशजों के भविष्य दोनों को प्रभावित करती है।",
+          "en": "Remember that your current choices ripple outward, affecting both your ancestors' legacy and your descendants' future.",
+          "be": "মনে রাখবেন যে আপনার বর্তমান পছন্দগুলি বাইরের দিকে ঢেউ খেলে, আপনার পূর্বপুরুষদের উত্তরাধিকার এবং আপনার বংশধরদের ভবিষ্যত উভয়কেই প্রভাবিত করে।",
+          "ka": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಆಯ್ಕೆಗಳು ನಿಮ್ಮ ಪೂರ್ವಜರ ಪರಂಪರೆ ಮತ್ತು ನಿಮ್ಮ ವಂಶಸ್ಥರ ಭವಿಷ್ಯದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ."
+        }
       }
     },
     {
@@ -638,14 +1483,34 @@
         "verse_id": "BG1.43",
         "img_landscape": "sloks/{size}/chapter_1/slok_43/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_43/square/img.png",
-        "transliteration": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||"
+        "transliteration": {
+          "hi": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||",
+          "en": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||",
+          "be": "দোষৈরেতৈঃ কুলঘ্নানাং বর্ণসঙ্করকারকৈঃ |\nউত্সাদ্যন্তে জাতিধর্মাঃ কুলধর্মাশ্চ শাশ্বতাঃ ||১-৪৩||",
+          "ka": "ದೋಷೈರೇತೈಃ ಕುಲಘ್ನಾನಾಂ ವರ್ಣಸಙ್ಕರಕಾರಕೈಃ |\nಉತ್ಸಾದ್ಯನ್ತೇ ಜಾತಿಧರ್ಮಾಃ ಕುಲಧರ್ಮಾಶ್ಚ ಶಾಶ್ವತಾಃ ||೧-೪೩||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||",
+          "en": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||",
+          "be": "দোষৈরেতৈঃ কুলঘ্নানাং বর্ণসঙ্করকারকৈঃ |\nউত্সাদ্যন্তে জাতিধর্মাঃ কুলধর্মাশ্চ শাশ্বতাঃ ||১-৪৩||",
+          "ka": "ದೋಷೈರೇತೈಃ ಕುಲಘ್ನಾನಾಂ ವರ್ಣಸಙ್ಕರಕಾರಕೈಃ |\nಉತ್ಸಾದ್ಯನ್ತೇ ಜಾತಿಧರ್ಮಾಃ ಕುಲಧರ್ಮಾಶ್ಚ ಶಾಶ್ವತಾಃ ||೧-೪೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Guard against actions that weaken social trust or break down essential communal bonds in your daily life."
+        "life_application": {
+          "hi": "उन कार्यों से सावधान रहें जो सामाजिक विश्वास को कमजोर करते हैं या आपके दैनिक जीवन में आवश्यक सांप्रदायिक बंधनों को तोड़ते हैं।",
+          "en": "Guard against actions that weaken social trust or break down essential communal bonds in your daily life.",
+          "be": "সামাজিক বিশ্বাসকে দুর্বল করে বা আপনার দৈনন্দিন জীবনে অপরিহার্য সাম্প্রদায়িক বন্ধন ভেঙ্গে দেয় এমন কর্মের বিরুদ্ধে সতর্ক থাকুন।",
+          "ka": "ಸಾಮಾಜಿಕ ನಂಬಿಕೆಯನ್ನು ದುರ್ಬಲಗೊಳಿಸುವ ಅಥವಾ ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಅಗತ್ಯ ಕೋಮು ಬಂಧಗಳನ್ನು ಮುರಿಯುವ ಕ್ರಿಯೆಗಳ ವಿರುದ್ಧ ಕಾವಲು ಕಾಯಿರಿ."
+        }
       }
     },
     {
@@ -653,14 +1518,34 @@
         "verse_id": "BG1.44",
         "img_landscape": "sloks/{size}/chapter_1/slok_44/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_44/square/img.png",
-        "transliteration": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ||1-44||"
+        "transliteration": {
+          "hi": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |\nनरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||",
+          "en": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ||1-44||",
+          "be": "উত্সন্নকুলধর্মাণাং মনুষ্যাণাং জনার্দন |\nনরকে নিযতং বাসো ভবতীত্যনুশুশ্রুম (or নরকেঽনিযতং) ||১-৪৪||",
+          "ka": "ಉತ್ಸನ್ನಕುಲಧರ್ಮಾಣಾಂ ಮನುಷ್ಯಾಣಾಂ ಜನಾರ್ದನ |\nನರಕೇ ನಿಯತಂ ವಾಸೋ ಭವತೀತ್ಯನುಶುಶ್ರುಮ (or ನರಕೇಽನಿಯತಂ) ||೧-೪೪||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |\nनरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |\nनरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||",
+          "en": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ||1-44||",
+          "be": "উত্সন্নকুলধর্মাণাং মনুষ্যাণাং জনার্দন |\nনরকে নিযতং বাসো ভবতীত্যনুশুশ্রুম (or নরকেঽনিযতং) ||১-৪৪||",
+          "ka": "ಉತ್ಸನ್ನಕುಲಧರ್ಮಾಣಾಂ ಮನುಷ್ಯಾಣಾಂ ಜನಾರ್ದನ |\nನರಕೇ ನಿಯತಂ ವಾಸೋ ಭವತೀತ್ಯನುಶುಶ್ರುಮ (or ನರಕೇಽನಿಯತಂ) ||೧-೪೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Respect wisdom passed down through generations, letting established moral guidelines steer you away from reckless actions."
+        "life_application": {
+          "hi": "पीढ़ियों से चले आ रहे ज्ञान का सम्मान करें, स्थापित नैतिक दिशानिर्देशों को आपको लापरवाह कार्यों से दूर रखें।",
+          "en": "Respect wisdom passed down through generations, letting established moral guidelines steer you away from reckless actions.",
+          "be": "প্রজন্মের মধ্য দিয়ে চলে আসা জ্ঞানকে সম্মান করুন, প্রতিষ্ঠিত নৈতিক নির্দেশিকা আপনাকে বেপরোয়া কাজ থেকে দূরে সরিয়ে দেয়।",
+          "ka": "ತಲೆಮಾರುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಗೌರವಿಸಿ, ಸ್ಥಾಪಿತ ನೈತಿಕ ಮಾರ್ಗಸೂಚಿಗಳು ನಿಮ್ಮನ್ನು ಅಜಾಗರೂಕ ಕ್ರಿಯೆಗಳಿಂದ ದೂರವಿರಿಸಲು ಅವಕಾಶ ಮಾಡಿಕೊಡುತ್ತವೆ."
+        }
       }
     },
     {
@@ -668,14 +1553,34 @@
         "verse_id": "BG1.45",
         "img_landscape": "sloks/{size}/chapter_1/slok_45/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_45/square/img.png",
-        "transliteration": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||"
+        "transliteration": {
+          "hi": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् |\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||",
+          "en": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||",
+          "be": "অহো বত মহত্পাপং কর্তুং ব্যবসিতা বযম্ |\nযদ্রাজ্যসুখলোভেন হন্তুং স্বজনমুদ্যতাঃ ||১-৪৫||",
+          "ka": "ಅಹೋ ಬತ ಮಹತ್ಪಾಪಂ ಕರ್ತುಂ ವ್ಯವಸಿತಾ ವಯಮ್ |\nಯದ್ರಾಜ್ಯಸುಖಲೋಭೇನ ಹನ್ತುಂ ಸ್ವಜನಮುದ್ಯತಾಃ ||೧-೪೫||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् |\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् |\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||",
+          "en": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||",
+          "be": "অহো বত মহত্পাপং কর্তুং ব্যবসিতা বযম্ |\nযদ্রাজ্যসুখলোভেন হন্তুং স্বজনমুদ্যতাঃ ||১-৪৫||",
+          "ka": "ಅಹೋ ಬತ ಮಹತ್ಪಾಪಂ ಕರ್ತುಂ ವ್ಯವಸಿತಾ ವಯಮ್ |\nಯದ್ರಾಜ್ಯಸುಖಲೋಭೇನ ಹನ್ತುಂ ಸ್ವಜನಮುದ್ಯತಾಃ ||೧-೪೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Examine your intentions honestly today, ensuring that ambition for wealth or status does not override your conscience."
+        "life_application": {
+          "hi": "आज अपने इरादों की ईमानदारी से जांच करें, यह सुनिश्चित करते हुए कि धन या पद की महत्वाकांक्षा आपके विवेक पर हावी न हो जाए।",
+          "en": "Examine your intentions honestly today, ensuring that ambition for wealth or status does not override your conscience.",
+          "be": "আজ সৎভাবে আপনার উদ্দেশ্য পরীক্ষা করুন, নিশ্চিত করুন যে সম্পদ বা মর্যাদার জন্য উচ্চাকাঙ্ক্ষা আপনার বিবেককে অগ্রাহ্য করে না।",
+          "ka": "ಇಂದು ನಿಮ್ಮ ಉದ್ದೇಶಗಳನ್ನು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಪರೀಕ್ಷಿಸಿ, ಸಂಪತ್ತು ಅಥವಾ ಸ್ಥಾನಮಾನದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯು ನಿಮ್ಮ ಆತ್ಮಸಾಕ್ಷಿಯನ್ನು ಅತಿಕ್ರಮಿಸುವುದಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -683,14 +1588,34 @@
         "verse_id": "BG1.46",
         "img_landscape": "sloks/{size}/chapter_1/slok_46/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_46/square/img.png",
-        "transliteration": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||1-46||"
+        "transliteration": {
+          "hi": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||१-४६||",
+          "en": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||1-46||",
+          "be": "যদি মামপ্রতীকারমশস্ত্রং শস্ত্রপাণযঃ |\nধার্তরাষ্ট্রা রণে হন্যুস্তন্মে ক্ষেমতরং ভবেত্ ||১-৪৬||",
+          "ka": "ಯದಿ ಮಾಮಪ್ರತೀಕಾರಮಶಸ್ತ್ರಂ ಶಸ್ತ್ರಪಾಣಯಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಾ ರಣೇ ಹನ್ಯುಸ್ತನ್ಮೇ ಕ್ಷೇಮತರಂ ಭವೇತ್ ||೧-೪೬||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||१-४६||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||१-४६||",
+          "en": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||1-46||",
+          "be": "যদি মামপ্রতীকারমশস্ত্রং শস্ত্রপাণযঃ |\nধার্তরাষ্ট্রা রণে হন্যুস্তন্মে ক্ষেমতরং ভবেত্ ||১-৪৬||",
+          "ka": "ಯದಿ ಮಾಮಪ್ರತೀಕಾರಮಶಸ್ತ್ರಂ ಶಸ್ತ್ರಪಾಣಯಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಾ ರಣೇ ಹನ್ಯುಸ್ತನ್ಮೇ ಕ್ಷೇಮತರಂ ಭವೇತ್ ||೧-೪೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Choose selflessness over retaliation when faced with hostility, prioritizing inner peace over winning at all costs."
+        "life_application": {
+          "hi": "शत्रुता का सामना होने पर प्रतिशोध के स्थान पर निस्वार्थता को चुनें, हर कीमत पर जीतने के स्थान पर आंतरिक शांति को प्राथमिकता दें।",
+          "en": "Choose selflessness over retaliation when faced with hostility, prioritizing inner peace over winning at all costs.",
+          "be": "শত্রুতার মুখোমুখি হলে প্রতিশোধের চেয়ে নিঃস্বার্থতা বেছে নিন, যেকোনো মূল্যে জয়ের চেয়ে অভ্যন্তরীণ শান্তিকে অগ্রাধিকার দিন।",
+          "ka": "ಹಗೆತನವನ್ನು ಎದುರಿಸುವಾಗ ಪ್ರತೀಕಾರದ ಮೇಲೆ ನಿಸ್ವಾರ್ಥತೆಯನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ, ಎಲ್ಲಾ ವೆಚ್ಚದಲ್ಲಿ ಗೆಲ್ಲುವುದಕ್ಕಿಂತ ಆಂತರಿಕ ಶಾಂತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ."
+        }
       }
     },
     {
@@ -698,14 +1623,34 @@
         "verse_id": "BG1.47",
         "img_landscape": "sloks/{size}/chapter_1/slok_47/landscape/img.png",
         "img_square": "sloks/{size}/chapter_1/slok_47/square/img.png",
-        "transliteration": "sañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||"
+        "transliteration": {
+          "hi": "सञ्जय उवाच |\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |\nविसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||",
+          "en": "sañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||",
+          "be": "সঞ্জয উবাচ |\nএবমুক্ত্বার্জুনঃ সঙ্খ্যে রথোপস্থ উপাবিশত্ |\nবিসৃজ্য সশরং চাপং শোকসংবিগ্নমানসঃ ||১-৪৭||",
+          "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾರ್ಜುನಃ ಸಙ್ಖ್ಯೇ ರಥೋಪಸ್ಥ ಉಪಾವಿಶತ್ |\nವಿಸೃಜ್ಯ ಸಶರಂ ಚಾಪಂ ಶೋಕಸಂವಿಗ್ನಮಾನಸಃ ||೧-೪೭||"
+        }
       },
       "verse_text": {
-        "speaker": "सञ्जय",
-        "slok": "सञ्जय उवाच |\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |\nविसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||"
+        "speaker": {
+          "hi": "सञ्जय",
+          "en": "Sanjaya",
+          "be": "সঞ্জয",
+          "ka": "ಸಞ್ಜಯ"
+        },
+        "slok": {
+          "hi": "सञ्जय उवाच |\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |\nविसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||",
+          "en": "sañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||",
+          "be": "সঞ্জয উবাচ |\nএবমুক্ত্বার্জুনঃ সঙ্খ্যে রথোপস্থ উপাবিশত্ |\nবিসৃজ্য সশরং চাপং শোকসংবিগ্নমানসঃ ||১-৪৭||",
+          "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾರ್ಜುನಃ ಸಙ್ಖ್ಯೇ ರಥೋಪಸ್ಥ ಉಪಾವಿಶತ್ |\nವಿಸೃಜ್ಯ ಸಶರಂ ಚಾಪಂ ಶೋಕಸಂವಿಗ್ನಮಾನಸಃ ||೧-೪೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "When doubt and sorrow overwhelm you, sit quietly and seek higher wisdom before attempting to move forward."
+        "life_application": {
+          "hi": "जब संदेह और दुःख आप पर हावी हो जाए, तो चुपचाप बैठें और आगे बढ़ने का प्रयास करने से पहले उच्च ज्ञान की तलाश करें।",
+          "en": "When doubt and sorrow overwhelm you, sit quietly and seek higher wisdom before attempting to move forward.",
+          "be": "যখন সন্দেহ এবং দুঃখ আপনাকে আবিষ্ট করে, তখন চুপচাপ বসে থাকুন এবং এগিয়ে যাওয়ার চেষ্টা করার আগে উচ্চতর জ্ঞানের সন্ধান করুন।",
+          "ka": "ಸಂದೇಹ ಮತ್ತು ದುಃಖವು ನಿಮ್ಮನ್ನು ಆವರಿಸಿದಾಗ, ಶಾಂತವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಿ ಮತ್ತು ಮುಂದುವರಿಯಲು ಪ್ರಯತ್ನಿಸುವ ಮೊದಲು ಉನ್ನತ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಹುಡುಕಿ."
+        }
       }
     }
   ]

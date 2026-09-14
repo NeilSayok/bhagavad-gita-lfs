@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Vibhooti Yoga"
+    "translation": {
+      "hi": "विभूति योग",
+      "en": "Vibhooti Yoga",
+      "be": "বিভূতি যোগ",
+      "ka": "ವಿಭೂತಿ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG10.1",
         "img_landscape": "sloks/{size}/chapter_10/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_1/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\nbhūya eva mahābāho śṛṇu me paramaṃ vacaḥ .\nyatte.ahaṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10-1||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nभूय एव महाबाहो शृणु मे परमं वचः |\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||",
+          "en": "śrībhagavānuvāca .\nbhūya eva mahābāho śṛṇu me paramaṃ vacaḥ .\nyatte.ahaṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10-1||",
+          "be": "শ্রীভগবানুবাচ |\nভূয এব মহাবাহো শৃণু মে পরমং বচঃ |\nযত্তেঽহং প্রীযমাণায বক্ষ্যামি হিতকাম্যযা ||১০-১||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಭೂಯ ಏವ ಮಹಾಬಾಹೋ ಶೃಣು ಮೇ ಪರಮಂ ವಚಃ |\nಯತ್ತೇಽಹಂ ಪ್ರೀಯಮಾಣಾಯ ವಕ್ಷ್ಯಾಮಿ ಹಿತಕಾಮ್ಯಯಾ ||೧೦-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nभूय एव महाबाहो शृणु मे परमं वचः |\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nभूय एव महाबाहो शृणु मे परमं वचः |\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||",
+          "en": "śrībhagavānuvāca .\nbhūya eva mahābāho śṛṇu me paramaṃ vacaḥ .\nyatte.ahaṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||10-1||",
+          "be": "শ্রীভগবানুবাচ |\nভূয এব মহাবাহো শৃণু মে পরমং বচঃ |\nযত্তেঽহং প্রীযমাণায বক্ষ্যামি হিতকাম্যযা ||১০-১||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಭೂಯ ಏವ ಮಹಾಬಾಹೋ ಶೃಣು ಮೇ ಪರಮಂ ವಚಃ |\nಯತ್ತೇಽಹಂ ಪ್ರೀಯಮಾಣಾಯ ವಕ್ಷ್ಯಾಮಿ ಹಿತಕಾಮ್ಯಯಾ ||೧೦-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Listen further to supreme divine words spoken for your benefit because you take delight in spiritual truth."
+        "life_application": {
+          "hi": "अपने लाभ के लिए बोले गए सर्वोच्च दिव्य शब्दों को आगे सुनें क्योंकि आप आध्यात्मिक सत्य से प्रसन्न होते हैं।",
+          "en": "Listen further to supreme divine words spoken for your benefit because you take delight in spiritual truth.",
+          "be": "আপনার উপকারের জন্য উচ্চারিত সর্বোচ্চ ঐশ্বরিক শব্দগুলি আরও শুনুন কারণ আপনি আধ্যাত্মিক সত্যে আনন্দ পান।",
+          "ka": "ನೀವು ಆಧ್ಯಾತ್ಮಿಕ ಸತ್ಯದಲ್ಲಿ ಆನಂದಪಡುವುದರಿಂದ ನಿಮ್ಮ ಪ್ರಯೋಜನಕ್ಕಾಗಿ ಹೇಳಲಾದ ಪರಮೋಚ್ಚ ದೈವಿಕ ಮಾತುಗಳನ್ನು ಆಲಿಸಿ."
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG10.2",
         "img_landscape": "sloks/{size}/chapter_10/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_2/square/img.png",
-        "transliteration": "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .\nahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||"
+        "transliteration": {
+          "hi": "न मे विदुः सुरगणाः प्रभवं न महर्षयः |\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||",
+          "en": "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .\nahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",
+          "be": "ন মে বিদুঃ সুরগণাঃ প্রভবং ন মহর্ষযঃ |\nঅহমাদির্হি দেবানাং মহর্ষীণাং চ সর্বশঃ ||১০-২||",
+          "ka": "ನ ಮೇ ವಿದುಃ ಸುರಗಣಾಃ ಪ್ರಭವಂ ನ ಮಹರ್ಷಯಃ |\nಅಹಮಾದಿರ್ಹಿ ದೇವಾನಾಂ ಮಹರ್ಷೀಣಾಂ ಚ ಸರ್ವಶಃ ||೧೦-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "न मे विदुः सुरगणाः प्रभवं न महर्षयः |\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "न मे विदुः सुरगणाः प्रभवं न महर्षयः |\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||",
+          "en": "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .\nahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",
+          "be": "ন মে বিদুঃ সুরগণাঃ প্রভবং ন মহর্ষযঃ |\nঅহমাদির্হি দেবানাং মহর্ষীণাং চ সর্বশঃ ||১০-২||",
+          "ka": "ನ ಮೇ ವಿದುಃ ಸುರಗಣಾಃ ಪ್ರಭವಂ ನ ಮಹರ್ಷಯಃ |\nಅಹಮಾದಿರ್ಹಿ ದೇವಾನಾಂ ಮಹರ್ಷೀಣಾಂ ಚ ಸರ್ವಶಃ ||೧೦-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize God as the primeval origin of all gods and great sages, beyond their full comprehension."
+        "life_application": {
+          "hi": "ईश्वर को सभी देवताओं और महान संतों के आदि मूल के रूप में पहचानें, जो उनकी पूरी समझ से परे है।",
+          "en": "Recognize God as the primeval origin of all gods and great sages, beyond their full comprehension.",
+          "be": "ঈশ্বরকে সমস্ত দেবতা এবং মহান ঋষিদের আদিম উত্স হিসাবে স্বীকৃতি দিন, তাদের সম্পূর্ণ বোঝার বাইরে।",
+          "ka": "ದೇವರನ್ನು ಎಲ್ಲಾ ದೇವರುಗಳು ಮತ್ತು ಮಹಾನ್ ಋಷಿಗಳ ಮೂಲ ಮೂಲವೆಂದು ಗುರುತಿಸಿ, ಅವರ ಸಂಪೂರ್ಣ ಗ್ರಹಿಕೆಯನ್ನು ಮೀರಿ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG10.3",
         "img_landscape": "sloks/{size}/chapter_10/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_3/square/img.png",
-        "transliteration": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||"
+        "transliteration": {
+          "hi": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |\nअसम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ||१०-३||",
+          "en": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||",
+          "be": "যো মামজমনাদিং চ বেত্তি লোকমহেশ্বরম্ |\nঅসম্মূঢঃ স মর্ত্যেষু সর্বপাপৈঃ প্রমুচ্যতে ||১০-৩||",
+          "ka": "ಯೋ ಮಾಮಜಮನಾದಿಂ ಚ ವೇತ್ತಿ ಲೋಕಮಹೇಶ್ವರಮ್ |\nಅಸಮ್ಮೂಢಃ ಸ ಮರ್ತ್ಯೇಷು ಸರ್ವಪಾಪೈಃ ಪ್ರಮುಚ್ಯತೇ ||೧೦-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |\nअसम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ||१०-३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |\nअसम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ||१०-३||",
+          "en": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||",
+          "be": "যো মামজমনাদিং চ বেত্তি লোকমহেশ্বরম্ |\nঅসম্মূঢঃ স মর্ত্যেষু সর্বপাপৈঃ প্রমুচ্যতে ||১০-৩||",
+          "ka": "ಯೋ ಮಾಮಜಮನಾದಿಂ ಚ ವೇತ್ತಿ ಲೋಕಮಹೇಶ್ವರಮ್ |\nಅಸಮ್ಮೂಢಃ ಸ ಮರ್ತ್ಯೇಷು ಸರ್ವಪಾಪೈಃ ಪ್ರಮುಚ್ಯತೇ ||೧೦-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as unborn, beginningless, and great Lord of the worlds, freeing yourself from all delusion and sin."
+        "life_application": {
+          "hi": "भगवान को अजन्मा, अनादि और दुनिया के महान भगवान के रूप में जानें, अपने आप को सभी भ्रम और पाप से मुक्त करें।",
+          "en": "Know God as unborn, beginningless, and great Lord of the worlds, freeing yourself from all delusion and sin.",
+          "be": "সমস্ত বিভ্রম ও পাপ থেকে নিজেকে মুক্ত করে ঈশ্বরকে অজাত, অনাদি, এবং বিশ্বজগতের মহান প্রভু হিসাবে জানুন।",
+          "ka": "ಎಲ್ಲಾ ಭ್ರಮೆ ಮತ್ತು ಪಾಪಗಳಿಂದ ನಿಮ್ಮನ್ನು ಮುಕ್ತಗೊಳಿಸುತ್ತಾ, ದೇವರನ್ನು ಹುಟ್ಟಿಲ್ಲದ, ಆರಂಭವಿಲ್ಲದ ಮತ್ತು ಪ್ರಪಂಚದ ಶ್ರೇಷ್ಠ ಭಗವಂತ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG10.4",
         "img_landscape": "sloks/{size}/chapter_10/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_4/square/img.png",
-        "transliteration": "buddhirjñānamasammohaḥ kṣamā satyaṃ damaḥ śamaḥ .\nsukhaṃ duḥkhaṃ bhavo.abhāvo bhayaṃ cābhayameva ca ||10-4||"
+        "transliteration": {
+          "hi": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः |\nसुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||",
+          "en": "buddhirjñānamasammohaḥ kṣamā satyaṃ damaḥ śamaḥ .\nsukhaṃ duḥkhaṃ bhavo.abhāvo bhayaṃ cābhayameva ca ||10-4||",
+          "be": "বুদ্ধির্জ্ঞানমসম্মোহঃ ক্ষমা সত্যং দমঃ শমঃ |\nসুখং দুঃখং ভবোঽভাবো ভযং চাভযমেব চ ||১০-৪||",
+          "ka": "ಬುದ್ಧಿರ್ಜ್ಞಾನಮಸಮ್ಮೋಹಃ ಕ್ಷಮಾ ಸತ್ಯಂ ದಮಃ ಶಮಃ |\nಸುಖಂ ದುಃಖಂ ಭವೋಽಭಾವೋ ಭಯಂ ಚಾಭಯಮೇವ ಚ ||೧೦-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः |\nसुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः |\nसुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||",
+          "en": "buddhirjñānamasammohaḥ kṣamā satyaṃ damaḥ śamaḥ .\nsukhaṃ duḥkhaṃ bhavo.abhāvo bhayaṃ cābhayameva ca ||10-4||",
+          "be": "বুদ্ধির্জ্ঞানমসম্মোহঃ ক্ষমা সত্যং দমঃ শমঃ |\nসুখং দুঃখং ভবোঽভাবো ভযং চাভযমেব চ ||১০-৪||",
+          "ka": "ಬುದ್ಧಿರ್ಜ್ಞಾನಮಸಮ್ಮೋಹಃ ಕ್ಷಮಾ ಸತ್ಯಂ ದಮಃ ಶಮಃ |\nಸುಖಂ ದುಃಖಂ ಭವೋಽಭಾವೋ ಭಯಂ ಚಾಭಯಮೇವ ಚ ||೧೦-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Understand that intellect, wisdom, non-delusion, forgiveness, truth, sensory control, and calm arise from God alone."
+        "life_application": {
+          "hi": "समझें कि बुद्धि, ज्ञान, भ्रम-मुक्ति, क्षमा, सत्य, इंद्रिय नियंत्रण और शांति केवल ईश्वर से ही उत्पन्न होती है।",
+          "en": "Understand that intellect, wisdom, non-delusion, forgiveness, truth, sensory control, and calm arise from God alone.",
+          "be": "বুঝুন যে বুদ্ধি, প্রজ্ঞা, অ-ভ্রম, ক্ষমা, সত্য, ইন্দ্রিয় নিয়ন্ত্রণ, এবং শান্ত একমাত্র ঈশ্বর থেকে উদ্ভূত হয়।",
+          "ka": "ಬುದ್ಧಿ, ಬುದ್ಧಿವಂತಿಕೆ, ಭ್ರಮೆಯಿಲ್ಲದಿರುವುದು, ಕ್ಷಮೆ, ಸತ್ಯ, ಇಂದ್ರಿಯ ನಿಯಂತ್ರಣ ಮತ್ತು ಶಾಂತತೆಯು ದೇವರಿಂದ ಮಾತ್ರ ಉದ್ಭವಿಸುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG10.5",
         "img_landscape": "sloks/{size}/chapter_10/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_5/square/img.png",
-        "transliteration": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||"
+        "transliteration": {
+          "hi": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |\nभवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||",
+          "en": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||",
+          "be": "অহিংসা সমতা তুষ্টিস্তপো দানং যশোঽযশঃ |\nভবন্তি ভাবা ভূতানাং মত্ত এব পৃথগ্বিধাঃ ||১০-৫||",
+          "ka": "ಅಹಿಂಸಾ ಸಮತಾ ತುಷ್ಟಿಸ್ತಪೋ ದಾನಂ ಯಶೋಽಯಶಃ |\nಭವನ್ತಿ ಭಾವಾ ಭೂತಾನಾಂ ಮತ್ತ ಏವ ಪೃಥಗ್ವಿಧಾಃ ||೧೦-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |\nभवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |\nभवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||",
+          "en": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||",
+          "be": "অহিংসা সমতা তুষ্টিস্তপো দানং যশোঽযশঃ |\nভবন্তি ভাবা ভূতানাং মত্ত এব পৃথগ্বিধাঃ ||১০-৫||",
+          "ka": "ಅಹಿಂಸಾ ಸಮತಾ ತುಷ್ಟಿಸ್ತಪೋ ದಾನಂ ಯಶೋಽಯಶಃ |\nಭವನ್ತಿ ಭಾವಾ ಭೂತಾನಾಂ ಮತ್ತ ಏವ ಪೃಥಗ್ವಿಧಾಃ ||೧೦-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize non-violence, equanimity, contentment, austerity, charity, fame, and disrepute as states created by God."
+        "life_application": {
+          "hi": "अहिंसा, समता, संतोष, तपस्या, दान, यश और अपयश को ईश्वर द्वारा निर्मित अवस्थाओं के रूप में पहचानो।",
+          "en": "Recognize non-violence, equanimity, contentment, austerity, charity, fame, and disrepute as states created by God.",
+          "be": "অহিংসা, সমতা, তৃপ্তি, কঠোরতা, দাতব্য, খ্যাতি, এবং ঈশ্বরের দ্বারা সৃষ্ট রাষ্ট্র হিসাবে অনাদরকে স্বীকৃতি দিন।",
+          "ka": "ಅಹಿಂಸೆ, ಸಮಚಿತ್ತತೆ, ಸಂತೃಪ್ತಿ, ತಪಸ್ಸು, ದಾನ, ಕೀರ್ತಿ ಮತ್ತು ಅಪಕೀರ್ತಿ ಇವುಗಳನ್ನು ಭಗವಂತನಿಂದ ರಚಿಸಲ್ಪಟ್ಟ ರಾಜ್ಯಗಳೆಂದು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG10.6",
         "img_landscape": "sloks/{size}/chapter_10/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_6/square/img.png",
-        "transliteration": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||"
+        "transliteration": {
+          "hi": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा |\nमद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||",
+          "en": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||",
+          "be": "মহর্ষযঃ সপ্ত পূর্বে চত্বারো মনবস্তথা |\nমদ্ভাবা মানসা জাতা যেষাং লোক ইমাঃ প্রজাঃ ||১০-৬||",
+          "ka": "ಮಹರ್ಷಯಃ ಸಪ್ತ ಪೂರ್ವೇ ಚತ್ವಾರೋ ಮನವಸ್ತಥಾ |\nಮದ್ಭಾವಾ ಮಾನಸಾ ಜಾತಾ ಯೇಷಾಂ ಲೋಕ ಇಮಾಃ ಪ್ರಜಾಃ ||೧೦-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा |\nमद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा |\nमद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||",
+          "en": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||",
+          "be": "মহর্ষযঃ সপ্ত পূর্বে চত্বারো মনবস্তথা |\nমদ্ভাবা মানসা জাতা যেষাং লোক ইমাঃ প্রজাঃ ||১০-৬||",
+          "ka": "ಮಹರ್ಷಯಃ ಸಪ್ತ ಪೂರ್ವೇ ಚತ್ವಾರೋ ಮನವಸ್ತಥಾ |\nಮದ್ಭಾವಾ ಮಾನಸಾ ಜಾತಾ ಯೇಷಾಂ ಲೋಕ ಇಮಾಃ ಪ್ರಜಾಃ ||೧೦-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know that the ancient progenitors and patriarchs of humanity were born from divine mind and power."
+        "life_application": {
+          "hi": "जान लें कि मानवता के प्राचीन पूर्वज और पितामह दिव्य मन और शक्ति से पैदा हुए थे।",
+          "en": "Know that the ancient progenitors and patriarchs of humanity were born from divine mind and power.",
+          "be": "জেনে রাখুন যে মানবতার প্রাচীন পূর্বপুরুষ এবং পিতৃপুরুষরা ঐশ্বরিক মন এবং শক্তি থেকে জন্মগ্রহণ করেছিলেন।",
+          "ka": "ಮಾನವೀಯತೆಯ ಪುರಾತನ ಪೂರ್ವಜರು ಮತ್ತು ಪಿತಾಮಹರು ದೈವಿಕ ಮನಸ್ಸು ಮತ್ತು ಶಕ್ತಿಯಿಂದ ಜನಿಸಿದರು ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG10.7",
         "img_landscape": "sloks/{size}/chapter_10/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_7/square/img.png",
-        "transliteration": "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ .\nso.avikampena yogena yujyate nātra saṃśayaḥ ||10-7||"
+        "transliteration": {
+          "hi": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः |\nसोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||",
+          "en": "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ .\nso.avikampena yogena yujyate nātra saṃśayaḥ ||10-7||",
+          "be": "এতাং বিভূতিং যোগং চ মম যো বেত্তি তত্ত্বতঃ |\nসোঽবিকম্পেন যোগেন যুজ্যতে নাত্র সংশযঃ ||১০-৭||",
+          "ka": "ಏತಾಂ ವಿಭೂತಿಂ ಯೋಗಂ ಚ ಮಮ ಯೋ ವೇತ್ತಿ ತತ್ತ್ವತಃ |\nಸೋಽವಿಕಮ್ಪೇನ ಯೋಗೇನ ಯುಜ್ಯತೇ ನಾತ್ರ ಸಂಶಯಃ ||೧೦-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः |\nसोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः |\nसोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||",
+          "en": "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ .\nso.avikampena yogena yujyate nātra saṃśayaḥ ||10-7||",
+          "be": "এতাং বিভূতিং যোগং চ মম যো বেত্তি তত্ত্বতঃ |\nসোঽবিকম্পেন যোগেন যুজ্যতে নাত্র সংশযঃ ||১০-৭||",
+          "ka": "ಏತಾಂ ವಿಭೂತಿಂ ಯೋಗಂ ಚ ಮಮ ಯೋ ವೇತ್ತಿ ತತ್ತ್ವತಃ |\nಸೋಽವಿಕಮ್ಪೇನ ಯೋಗೇನ ಯುಜ್ಯತೇ ನಾತ್ರ ಸಂಶಯಃ ||೧೦-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "He who knows in truth this divine glory and power becomes established in unwavering yoga without a doubt."
+        "life_application": {
+          "hi": "जो इस दिव्य महिमा और शक्ति को यथार्थ रूप से जानता है, वह नि:संदेह अटल योग में स्थित हो जाता है।",
+          "en": "He who knows in truth this divine glory and power becomes established in unwavering yoga without a doubt.",
+          "be": "যিনি এই দিব্য মহিমা ও শক্তিকে সত্যে জানেন তিনি নিঃসন্দেহে অটল যোগে প্রতিষ্ঠিত হন।",
+          "ka": "ಈ ದೈವಿಕ ಮಹಿಮೆ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಸತ್ಯದಲ್ಲಿ ತಿಳಿದಿರುವವನು ನಿಸ್ಸಂದೇಹವಾಗಿ ಅಚಲವಾದ ಯೋಗದಲ್ಲಿ ಸ್ಥಿರನಾಗುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG10.8",
         "img_landscape": "sloks/{size}/chapter_10/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_8/square/img.png",
-        "transliteration": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||"
+        "transliteration": {
+          "hi": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते |\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||",
+          "en": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||",
+          "be": "অহং সর্বস্য প্রভবো মত্তঃ সর্বং প্রবর্ততে |\nইতি মত্বা ভজন্তে মাং বুধা ভাবসমন্বিতাঃ ||১০-৮||",
+          "ka": "ಅಹಂ ಸರ್ವಸ್ಯ ಪ್ರಭವೋ ಮತ್ತಃ ಸರ್ವಂ ಪ್ರವರ್ತತೇ |\nಇತಿ ಮತ್ವಾ ಭಜನ್ತೇ ಮಾಂ ಬುಧಾ ಭಾವಸಮನ್ವಿತಾಃ ||೧೦-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते |\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते |\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||",
+          "en": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||",
+          "be": "অহং সর্বস্য প্রভবো মত্তঃ সর্বং প্রবর্ততে |\nইতি মত্বা ভজন্তে মাং বুধা ভাবসমন্বিতাঃ ||১০-৮||",
+          "ka": "ಅಹಂ ಸರ್ವಸ್ಯ ಪ್ರಭವೋ ಮತ್ತಃ ಸರ್ವಂ ಪ್ರವರ್ತತೇ |\nಇತಿ ಮತ್ವಾ ಭಜನ್ತೇ ಮಾಂ ಬುಧಾ ಭಾವಸಮನ್ವಿತಾಃ ||೧೦-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Realize God as the source of all from which everything emanates, worshipping with loving intellectual devotion."
+        "life_application": {
+          "hi": "ईश्वर को सभी के स्रोत के रूप में महसूस करें जिससे सब कुछ उत्पन्न होता है, प्रेमपूर्ण बौद्धिक भक्ति के साथ पूजा करें।",
+          "en": "Realize God as the source of all from which everything emanates, worshipping with loving intellectual devotion.",
+          "be": "ঈশ্বরকে সকলের উৎস হিসাবে উপলব্ধি করুন যা থেকে সবকিছু উৎপন্ন হয়, প্রেমময় বুদ্ধিবৃত্তিক ভক্তির সাথে উপাসনা করুন।",
+          "ka": "ಪ್ರೀತಿಯಿಂದ ಬೌದ್ಧಿಕ ಶ್ರದ್ಧೆಯಿಂದ ಪೂಜಿಸುತ್ತಾ, ಎಲ್ಲವೂ ಹೊರಹೊಮ್ಮುವ ಎಲ್ಲದರ ಮೂಲ ಭಗವಂತನನ್ನು ಅರಿತುಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG10.9",
         "img_landscape": "sloks/{size}/chapter_10/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_9/square/img.png",
-        "transliteration": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||"
+        "transliteration": {
+          "hi": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् |\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||",
+          "en": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||",
+          "be": "মচ্চিত্তা মদ্গতপ্রাণা বোধযন্তঃ পরস্পরম্ |\nকথযন্তশ্চ মাং নিত্যং তুষ্যন্তি চ রমন্তি চ ||১০-৯||",
+          "ka": "ಮಚ್ಚಿತ್ತಾ ಮದ್ಗತಪ್ರಾಣಾ ಬೋಧಯನ್ತಃ ಪರಸ್ಪರಮ್ |\nಕಥಯನ್ತಶ್ಚ ಮಾಂ ನಿತ್ಯಂ ತುಷ್ಯನ್ತಿ ಚ ರಮನ್ತಿ ಚ ||೧೦-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् |\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् |\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||",
+          "en": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||",
+          "be": "মচ্চিত্তা মদ্গতপ্রাণা বোধযন্তঃ পরস্পরম্ |\nকথযন্তশ্চ মাং নিত্যং তুষ্যন্তি চ রমন্তি চ ||১০-৯||",
+          "ka": "ಮಚ್ಚಿತ್ತಾ ಮದ್ಗತಪ್ರಾಣಾ ಬೋಧಯನ್ತಃ ಪರಸ್ಪರಮ್ |\nಕಥಯನ್ತಶ್ಚ ಮಾಂ ನಿತ್ಯಂ ತುಷ್ಯನ್ತಿ ಚ ರಮನ್ತಿ ಚ ||೧೦-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "With thoughts fixed on God and lives surrendered, wise seekers enlighten one another and converse with delight."
+        "life_application": {
+          "hi": "ईश्वर पर केंद्रित विचारों और समर्पित जीवन के साथ, बुद्धिमान साधक एक-दूसरे को प्रबुद्ध करते हैं और प्रसन्नता के साथ बातचीत करते हैं।",
+          "en": "With thoughts fixed on God and lives surrendered, wise seekers enlighten one another and converse with delight.",
+          "be": "ঈশ্বরের প্রতি স্থির চিন্তা এবং আত্মসমর্পণ করে জীবন, জ্ঞানী অন্বেষীরা একে অপরকে আলোকিত করে এবং আনন্দের সাথে কথা বলে।",
+          "ka": "ದೇವರು ಮತ್ತು ಶರಣಾದ ಜೀವನಗಳ ಮೇಲೆ ಸ್ಥಿರವಾದ ಆಲೋಚನೆಗಳೊಂದಿಗೆ, ಬುದ್ಧಿವಂತ ಅನ್ವೇಷಕರು ಒಬ್ಬರನ್ನೊಬ್ಬರು ಬೆಳಗಿಸುತ್ತಾರೆ ಮತ್ತು ಸಂತೋಷದಿಂದ ಸಂಭಾಷಿಸುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG10.10",
         "img_landscape": "sloks/{size}/chapter_10/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_10/square/img.png",
-        "transliteration": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam .\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ||10-10||"
+        "transliteration": {
+          "hi": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |\nददामि बुद्धियोगं तं येन मामुपयान्ति ते ||१०-१०||",
+          "en": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam .\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ||10-10||",
+          "be": "তেষাং সততযুক্তানাং ভজতাং প্রীতিপূর্বকম্ |\nদদামি বুদ্ধিযোগং তং যেন মামুপযান্তি তে ||১০-১০||",
+          "ka": "ತೇಷಾಂ ಸತತಯುಕ್ತಾನಾಂ ಭಜತಾಂ ಪ್ರೀತಿಪೂರ್ವಕಮ್ |\nದದಾಮಿ ಬುದ್ಧಿಯೋಗಂ ತಂ ಯೇನ ಮಾಮುಪಯಾನ್ತಿ ತೇ ||೧೦-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |\nददामि बुद्धियोगं तं येन मामुपयान्ति ते ||१०-१०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |\nददामि बुद्धियोगं तं येन मामुपयान्ति ते ||१०-१०||",
+          "en": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam .\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ||10-10||",
+          "be": "তেষাং সততযুক্তানাং ভজতাং প্রীতিপূর্বকম্ |\nদদামি বুদ্ধিযোগং তং যেন মামুপযান্তি তে ||১০-১০||",
+          "ka": "ತೇಷಾಂ ಸತತಯುಕ್ತಾನಾಂ ಭಜತಾಂ ಪ್ರೀತಿಪೂರ್ವಕಮ್ |\nದದಾಮಿ ಬುದ್ಧಿಯೋಗಂ ತಂ ಯೇನ ಮಾಮುಪಯಾನ್ತಿ ತೇ ||೧೦-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "To those ever-steadfast, worshipping with love, God grants the yoga of wisdom by which they reach the Supreme."
+        "life_application": {
+          "hi": "जो लोग सदैव स्थिर रहते हैं, प्रेम से पूजा करते हैं, उन्हें भगवान ज्ञान का योग देते हैं जिसके द्वारा वे सर्वोच्च तक पहुंच जाते हैं।",
+          "en": "To those ever-steadfast, worshipping with love, God grants the yoga of wisdom by which they reach the Supreme.",
+          "be": "যারা নিত্য অবিচল, প্রেমের সাথে উপাসনা করে, ভগবান তাদেরকে জ্ঞানের যোগ দেন যার দ্বারা তারা পরমে পৌঁছান।",
+          "ka": "ಯಾರು ಸದಾ ಸ್ಥೈರ್ಯ, ಪ್ರೀತಿಯಿಂದ ಪೂಜಿಸುತ್ತಾರೋ ಅವರಿಗೆ ಪರಮಾತ್ಮನನ್ನು ತಲುಪುವ ಜ್ಞಾನದ ಯೋಗವನ್ನು ದೇವರು ನೀಡುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG10.11",
         "img_landscape": "sloks/{size}/chapter_10/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_11/square/img.png",
-        "transliteration": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ .\nnāśayāmyātmabhāvastho jñānadīpena bhāsvatā ||10-11||"
+        "transliteration": {
+          "hi": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः |\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ||१०-११||",
+          "en": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ .\nnāśayāmyātmabhāvastho jñānadīpena bhāsvatā ||10-11||",
+          "be": "তেষামেবানুকম্পার্থমহমজ্ঞানজং তমঃ |\nনাশযাম্যাত্মভাবস্থো জ্ঞানদীপেন ভাস্বতা ||১০-১১||",
+          "ka": "ತೇಷಾಮೇವಾನುಕಮ್ಪಾರ್ಥಮಹಮಜ್ಞಾನಜಂ ತಮಃ |\nನಾಶಯಾಮ್ಯಾತ್ಮಭಾವಸ್ಥೋ ಜ್ಞಾನದೀಪೇನ ಭಾಸ್ವತಾ ||೧೦-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः |\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ||१०-११||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः |\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ||१०-११||",
+          "en": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ .\nnāśayāmyātmabhāvastho jñānadīpena bhāsvatā ||10-11||",
+          "be": "তেষামেবানুকম্পার্থমহমজ্ঞানজং তমঃ |\nনাশযাম্যাত্মভাবস্থো জ্ঞানদীপেন ভাস্বতা ||১০-১১||",
+          "ka": "ತೇಷಾಮೇವಾನುಕಮ್ಪಾರ್ಥಮಹಮಜ್ಞಾನಜಂ ತಮಃ |\nನಾಶಯಾಮ್ಯಾತ್ಮಭಾವಸ್ಥೋ ಜ್ಞಾನದೀಪೇನ ಭಾಸ್ವತಾ ||೧೦-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Out of compassion for His devotees, God dwelling in their hearts destroys the darkness born of ignorance with wisdom's lamp."
+        "life_application": {
+          "hi": "भगवान अपने भक्तों पर दया करके उनके हृदय में निवास करके अज्ञान से उत्पन्न अंधकार को ज्ञान के दीपक से नष्ट कर देते हैं।",
+          "en": "Out of compassion for His devotees, God dwelling in their hearts destroys the darkness born of ignorance with wisdom's lamp.",
+          "be": "ভক্তদের প্রতি মমতায় ভগবান তাদের অন্তরে অবস্থান করে জ্ঞানের প্রদীপ দিয়ে অজ্ঞানতা থেকে জন্ম নেওয়া অন্ধকারকে ধ্বংস করেন।",
+          "ka": "ತನ್ನ ಭಕ್ತರ ಮೇಲಿನ ಕರುಣೆಯಿಂದ, ಅವರ ಹೃದಯದಲ್ಲಿ ನೆಲೆಸಿರುವ ದೇವರು ಜ್ಞಾನದ ದೀಪದಿಂದ ಅಜ್ಞಾನದಿಂದ ಹುಟ್ಟಿದ ಅಂಧಕಾರವನ್ನು ನಾಶಮಾಡುತ್ತಾನೆ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG10.12",
         "img_landscape": "sloks/{size}/chapter_10/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_12/square/img.png",
-        "transliteration": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||"
+        "transliteration": {
+          "hi": "अर्जुन उवाच |\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् |\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ||१०-१२||",
+          "en": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||",
+          "be": "অর্জুন উবাচ |\nপরং ব্রহ্ম পরং ধাম পবিত্রং পরমং ভবান্ |\nপুরুষং শাশ্বতং দিব্যমাদিদেবমজং বিভুম্ ||১০-১২||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪರಂ ಬ್ರಹ್ಮ ಪರಂ ಧಾಮ ಪವಿತ್ರಂ ಪರಮಂ ಭವಾನ್ |\nಪುರುಷಂ ಶಾಶ್ವತಂ ದಿವ್ಯಮಾದಿದೇವಮಜಂ ವಿಭುಮ್ ||೧೦-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अर्जुन उवाच |\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् |\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ||१०-१२||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अर्जुन उवाच |\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् |\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ||१०-१२||",
+          "en": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||",
+          "be": "অর্জুন উবাচ |\nপরং ব্রহ্ম পরং ধাম পবিত্রং পরমং ভবান্ |\nপুরুষং শাশ্বতং দিব্যমাদিদেবমজং বিভুম্ ||১০-১২||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪರಂ ಬ್ರಹ್ಮ ಪರಂ ಧಾಮ ಪವಿತ್ರಂ ಪರಮಂ ಭವಾನ್ |\nಪುರುಷಂ ಶಾಶ್ವತಂ ದಿವ್ಯಮಾದಿದೇವಮಜಂ ವಿಭುಮ್ ||೧೦-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Acknowledge God as the supreme Brahman, ultimate abode, supreme purifier, eternal divine person, primeval deity."
+        "life_application": {
+          "hi": "ईश्वर को सर्वोच्च ब्रह्म, परम निवास, सर्वोच्च शुद्ध करने वाला, शाश्वत दिव्य व्यक्ति, आदि देवता के रूप में स्वीकार करें।",
+          "en": "Acknowledge God as the supreme Brahman, ultimate abode, supreme purifier, eternal divine person, primeval deity.",
+          "be": "ঈশ্বরকে পরম ব্রহ্ম, পরম আবাস, পরম শুদ্ধকারী, শাশ্বত ঐশ্বরিক ব্যক্তি, আদি দেবতা হিসাবে স্বীকার করুন।",
+          "ka": "ಪರಮಾತ್ಮನನ್ನು ಪರಮ ಬ್ರಹ್ಮನ್, ಅಂತಿಮ ವಾಸಸ್ಥಳ, ಸರ್ವೋಚ್ಚ ಶುದ್ಧಿಕಾರ, ಶಾಶ್ವತ ದೈವಿಕ ವ್ಯಕ್ತಿ, ಪ್ರಧಾನ ದೇವತೆ ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG10.13",
         "img_landscape": "sloks/{size}/chapter_10/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_13/square/img.png",
-        "transliteration": "āhustvāmṛṣayaḥ sarve devarṣirnāradastathā .\nasito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||10-13||"
+        "transliteration": {
+          "hi": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा |\nअसितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ||१०-१३||",
+          "en": "āhustvāmṛṣayaḥ sarve devarṣirnāradastathā .\nasito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||10-13||",
+          "be": "আহুস্ত্বামৃষযঃ সর্বে দেবর্ষির্নারদস্তথা |\nঅসিতো দেবলো ব্যাসঃ স্বযং চৈব ব্রবীষি মে ||১০-১৩||",
+          "ka": "ಆಹುಸ್ತ್ವಾಮೃಷಯಃ ಸರ್ವೇ ದೇವರ್ಷಿರ್ನಾರದಸ್ತಥಾ |\nಅಸಿತೋ ದೇವಲೋ ವ್ಯಾಸಃ ಸ್ವಯಂ ಚೈವ ಬ್ರವೀಷಿ ಮೇ ||೧೦-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा |\nअसितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ||१०-१३||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा |\nअसितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ||१०-१३||",
+          "en": "āhustvāmṛṣayaḥ sarve devarṣirnāradastathā .\nasito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||10-13||",
+          "be": "আহুস্ত্বামৃষযঃ সর্বে দেবর্ষির্নারদস্তথা |\nঅসিতো দেবলো ব্যাসঃ স্বযং চৈব ব্রবীষি মে ||১০-১৩||",
+          "ka": "ಆಹುಸ್ತ್ವಾಮೃಷಯಃ ಸರ್ವೇ ದೇವರ್ಷಿರ್ನಾರದಸ್ತಥಾ |\nಅಸಿತೋ ದೇವಲೋ ವ್ಯಾಸಃ ಸ್ವಯಂ ಚೈವ ಬ್ರವೀಷಿ ಮೇ ||೧೦-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Confirm divine truth as declared by ancient sages like Narada, Asita, Devala, and Vyasa, and now by God Himself."
+        "life_application": {
+          "hi": "नारद, असित, देवल और व्यास जैसे प्राचीन ऋषियों और अब स्वयं भगवान द्वारा घोषित दिव्य सत्य की पुष्टि करें।",
+          "en": "Confirm divine truth as declared by ancient sages like Narada, Asita, Devala, and Vyasa, and now by God Himself.",
+          "be": "নারদ, অসিতা, দেবাল এবং ব্যাসের মতো প্রাচীন ঋষিদের দ্বারা এবং এখন স্বয়ং ঈশ্বরের দ্বারা ঘোষিত ঐশ্বরিক সত্যকে নিশ্চিত করুন।",
+          "ka": "ನಾರದ, ಅಸಿತ, ದೇವಳ ಮತ್ತು ವ್ಯಾಸರಂತಹ ಪ್ರಾಚೀನ ಋಷಿಗಳು ಮತ್ತು ಈಗ ಸ್ವತಃ ದೇವರೇ ಘೋಷಿಸಿದ ದೈವಿಕ ಸತ್ಯವನ್ನು ದೃಢೀಕರಿಸಿ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG10.14",
         "img_landscape": "sloks/{size}/chapter_10/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_14/square/img.png",
-        "transliteration": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||"
+        "transliteration": {
+          "hi": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||१०-१४||",
+          "en": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||",
+          "be": "সর্বমেতদৃতং মন্যে যন্মাং বদসি কেশব |\nন হি তে ভগবন্ব্যক্তিং বিদুর্দেবা ন দানবাঃ ||১০-১৪||",
+          "ka": "ಸರ್ವಮೇತದೃತಂ ಮನ್ಯೇ ಯನ್ಮಾಂ ವದಸಿ ಕೇಶವ |\nನ ಹಿ ತೇ ಭಗವನ್ವ್ಯಕ್ತಿಂ ವಿದುರ್ದೇವಾ ನ ದಾನವಾಃ ||೧೦-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||१०-१४||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||१०-१४||",
+          "en": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||",
+          "be": "সর্বমেতদৃতং মন্যে যন্মাং বদসি কেশব |\nন হি তে ভগবন্ব্যক্তিং বিদুর্দেবা ন দানবাঃ ||১০-১৪||",
+          "ka": "ಸರ್ವಮೇತದೃತಂ ಮನ್ಯೇ ಯನ್ಮಾಂ ವದಸಿ ಕೇಶವ |\nನ ಹಿ ತೇ ಭಗವನ್ವ್ಯಕ್ತಿಂ ವಿದುರ್ದೇವಾ ನ ದಾನವಾಃ ||೧೦-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Accept all divine words as absolute truth, recognizing that neither gods nor demons fully know God's manifestation."
+        "life_application": {
+          "hi": "सभी दिव्य शब्दों को पूर्ण सत्य के रूप में स्वीकार करें, यह मानते हुए कि न तो देवता और न ही राक्षस भगवान की अभिव्यक्ति को पूरी तरह से जानते हैं।",
+          "en": "Accept all divine words as absolute truth, recognizing that neither gods nor demons fully know God's manifestation.",
+          "be": "সমস্ত ঐশ্বরিক শব্দগুলিকে পরম সত্য হিসাবে গ্রহণ করুন, স্বীকার করুন যে দেবতা বা দানব কেউই ঈশ্বরের প্রকাশকে পুরোপুরি জানেন না।",
+          "ka": "ಎಲ್ಲಾ ದೈವಿಕ ಪದಗಳನ್ನು ಸಂಪೂರ್ಣ ಸತ್ಯವೆಂದು ಸ್ವೀಕರಿಸಿ, ದೇವರುಗಳು ಅಥವಾ ರಾಕ್ಷಸರು ದೇವರ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿದಿರುವುದಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG10.15",
         "img_landscape": "sloks/{size}/chapter_10/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_15/square/img.png",
-        "transliteration": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||"
+        "transliteration": {
+          "hi": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ||१०-१५||",
+          "en": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
+          "be": "স্বযমেবাত্মনাত্মানং বেত্থ ত্বং পুরুষোত্তম |\nভূতভাবন ভূতেশ দেবদেব জগত্পতে ||১০-১৫||",
+          "ka": "ಸ್ವಯಮೇವಾತ್ಮನಾತ್ಮಾನಂ ವೇತ್ಥ ತ್ವಂ ಪುರುಷೋತ್ತಮ |\nಭೂತಭಾವನ ಭೂತೇಶ ದೇವದೇವ ಜಗತ್ಪತೇ ||೧೦-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ||१०-१५||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ||१०-१५||",
+          "en": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
+          "be": "স্বযমেবাত্মনাত্মানং বেত্থ ত্বং পুরুষোত্তম |\nভূতভাবন ভূতেশ দেবদেব জগত্পতে ||১০-১৫||",
+          "ka": "ಸ್ವಯಮೇವಾತ್ಮನಾತ್ಮಾನಂ ವೇತ್ಥ ತ್ವಂ ಪುರುಷೋತ್ತಮ |\nಭೂತಭಾವನ ಭೂತೇಶ ದೇವದೇವ ಜಗತ್ಪತೇ ||೧೦-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know that God alone knows Himself by Himself, O Supreme Person, source and Lord of all beings."
+        "life_application": {
+          "hi": "हे सर्वोच्च व्यक्ति, सभी प्राणियों के स्रोत और भगवान, यह जान लें कि ईश्वर ही स्वयं को अपने आप से जानता है।",
+          "en": "Know that God alone knows Himself by Himself, O Supreme Person, source and Lord of all beings.",
+          "be": "জেনে রেখো যে, হে পরম পুরুষ, উৎস ও সকল প্রাণীর প্রভু, একমাত্র ভগবানই নিজেকে জানেন।",
+          "ka": "ಪರಮಾತ್ಮನೇ, ಎಲ್ಲಾ ಜೀವಿಗಳ ಮೂಲ ಮತ್ತು ಭಗವಂತ, ದೇವರು ಮಾತ್ರ ತನ್ನನ್ನು ತಾನೇ ತಿಳಿದಿದ್ದಾನೆ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG10.16",
         "img_landscape": "sloks/{size}/chapter_10/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_16/square/img.png",
-        "transliteration": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||"
+        "transliteration": {
+          "hi": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः |\nयाभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||",
+          "en": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||",
+          "be": "বক্তুমর্হস্যশেষেণ দিব্যা হ্যাত্মবিভূতযঃ |\nযাভির্বিভূতিভির্লোকানিমাংস্ত্বং ব্যাপ্য তিষ্ঠসি ||১০-১৬||",
+          "ka": "ವಕ್ತುಮರ್ಹಸ್ಯಶೇಷೇಣ ದಿವ್ಯಾ ಹ್ಯಾತ್ಮವಿಭೂತಯಃ |\nಯಾಭಿರ್ವಿಭೂತಿಭಿರ್ಲೋಕಾನಿಮಾಂಸ್ತ್ವಂ ವ್ಯಾಪ್ಯ ತಿಷ್ಠಸಿ ||೧೦-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः |\nयाभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः |\nयाभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||",
+          "en": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||",
+          "be": "বক্তুমর্হস্যশেষেণ দিব্যা হ্যাত্মবিভূতযঃ |\nযাভির্বিভূতিভির্লোকানিমাংস্ত্বং ব্যাপ্য তিষ্ঠসি ||১০-১৬||",
+          "ka": "ವಕ್ತುಮರ್ಹಸ್ಯಶೇಷೇಣ ದಿವ್ಯಾ ಹ್ಯಾತ್ಮವಿಭೂತಯಃ |\nಯಾಭಿರ್ವಿಭೂತಿಭಿರ್ಲೋಕಾನಿಮಾಂಸ್ತ್ವಂ ವ್ಯಾಪ್ಯ ತಿಷ್ಠಸಿ ||೧೦-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Ask to hear the divine manifestations by which God pervades and abides in all these worlds."
+        "life_application": {
+          "hi": "उन दिव्य अभिव्यक्तियों को सुनने के लिए कहें जिनके द्वारा भगवान इन सभी संसारों में व्याप्त और निवास करते हैं।",
+          "en": "Ask to hear the divine manifestations by which God pervades and abides in all these worlds.",
+          "be": "ঐশ্বরিক প্রকাশ শ্রবণ করতে বলুন যার দ্বারা ঈশ্বর এই সমস্ত জগতে বিরাজ করেন এবং অবস্থান করেন।",
+          "ka": "ಈ ಎಲ್ಲಾ ಲೋಕಗಳಲ್ಲಿ ದೇವರು ವ್ಯಾಪಿಸಿರುವ ಮತ್ತು ನೆಲೆಸಿರುವ ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಕೇಳಲು ಕೇಳಿ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG10.17",
         "img_landscape": "sloks/{size}/chapter_10/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_17/square/img.png",
-        "transliteration": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||"
+        "transliteration": {
+          "hi": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् |\nकेषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||१०-१७||",
+          "en": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||",
+          "be": "কথং বিদ্যামহং যোগিংস্ত্বাং সদা পরিচিন্তযন্ |\nকেষু কেষু চ ভাবেষু চিন্ত্যোঽসি ভগবন্মযা ||১০-১৭||",
+          "ka": "ಕಥಂ ವಿದ್ಯಾಮಹಂ ಯೋಗಿಂಸ್ತ್ವಾಂ ಸದಾ ಪರಿಚಿನ್ತಯನ್ |\nಕೇಷು ಕೇಷು ಚ ಭಾವೇಷು ಚಿನ್ತ್ಯೋಽಸಿ ಭಗವನ್ಮಯಾ ||೧೦-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् |\nकेषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||१०-१७||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् |\nकेषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||१०-१७||",
+          "en": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||",
+          "be": "কথং বিদ্যামহং যোগিংস্ত্বাং সদা পরিচিন্তযন্ |\nকেষু কেষু চ ভাবেষু চিন্ত্যোঽসি ভগবন্মযা ||১০-১৭||",
+          "ka": "ಕಥಂ ವಿದ್ಯಾಮಹಂ ಯೋಗಿಂಸ್ತ್ವಾಂ ಸದಾ ಪರಿಚಿನ್ತಯನ್ |\nಕೇಷು ಕೇಷು ಚ ಭಾವೇಷು ಚಿನ್ತ್ಯೋಽಸಿ ಭಗವನ್ಮಯಾ ||೧೦-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Inquire how to know God through constant meditation, and upon which divine aspects to contemplate."
+        "life_application": {
+          "hi": "पूछताछ करें कि निरंतर ध्यान के माध्यम से ईश्वर को कैसे जाना जाए, और किन दिव्य पहलुओं पर चिंतन किया जाए।",
+          "en": "Inquire how to know God through constant meditation, and upon which divine aspects to contemplate.",
+          "be": "ক্রমাগত ধ্যানের মাধ্যমে কীভাবে ঈশ্বরকে জানা যায় এবং কোন ঐশ্বরিক দিকগুলিকে চিন্তা করতে হয় তা অনুসন্ধান করুন।",
+          "ka": "ನಿರಂತರ ಧ್ಯಾನದ ಮೂಲಕ ದೇವರನ್ನು ಹೇಗೆ ತಿಳಿಯುವುದು ಮತ್ತು ಯಾವ ದೈವಿಕ ಅಂಶಗಳನ್ನು ಆಲೋಚಿಸಬೇಕು ಎಂದು ವಿಚಾರಿಸಿ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG10.18",
         "img_landscape": "sloks/{size}/chapter_10/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_18/square/img.png",
-        "transliteration": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||"
+        "transliteration": {
+          "hi": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |\nभूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||",
+          "en": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||",
+          "be": "বিস্তরেণাত্মনো যোগং বিভূতিং চ জনার্দন |\nভূযঃ কথয তৃপ্তির্হি শৃণ্বতো নাস্তি মেঽমৃতম্ ||১০-১৮||",
+          "ka": "ವಿಸ್ತರೇಣಾತ್ಮನೋ ಯೋಗಂ ವಿಭೂತಿಂ ಚ ಜನಾರ್ದನ |\nಭೂಯಃ ಕಥಯ ತೃಪ್ತಿರ್ಹಿ ಶೃಣ್ವತೋ ನಾಸ್ತಿ ಮೇಽಮೃತಮ್ ||೧೦-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |\nभूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |\nभूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||",
+          "en": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||",
+          "be": "বিস্তরেণাত্মনো যোগং বিভূতিং চ জনার্দন |\nভূযঃ কথয তৃপ্তির্হি শৃণ্বতো নাস্তি মেঽমৃতম্ ||১০-১৮||",
+          "ka": "ವಿಸ್ತರೇಣಾತ್ಮನೋ ಯೋಗಂ ವಿಭೂತಿಂ ಚ ಜನಾರ್ದನ |\nಭೂಯಃ ಕಥಯ ತೃಪ್ತಿರ್ಹಿ ಶೃಣ್ವತೋ ನಾಸ್ತಿ ಮೇಽಮೃತಮ್ ||೧೦-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Request to hear again in detail of divine glory and power, for there is never satiety in drinking this nectar."
+        "life_application": {
+          "hi": "ईश्वरीय महिमा और शक्ति का विस्तार से पुनः श्रवण करने का अनुरोध करें, क्योंकि इस अमृत को पीने से कभी तृप्ति नहीं होती।",
+          "en": "Request to hear again in detail of divine glory and power, for there is never satiety in drinking this nectar.",
+          "be": "ঐশ্বরিক মহিমা ও শক্তির বিস্তারিত আবার শোনার জন্য অনুরোধ করছি, কারণ এই অমৃত পানে কখনও তৃপ্তি হয় না।",
+          "ka": "ದೈವಿಕ ಮಹಿಮೆ ಮತ್ತು ಶಕ್ತಿಯ ವಿವರಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ಕೇಳಲು ವಿನಂತಿ, ಏಕೆಂದರೆ ಈ ಅಮೃತವನ್ನು ಕುಡಿಯುವುದರಲ್ಲಿ ಎಂದಿಗೂ ತೃಪ್ತಿಯಿಲ್ಲ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG10.19",
         "img_landscape": "sloks/{size}/chapter_10/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_19/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\nhanta te kathayiṣyāmi divyā hyātmavibhūtayaḥ .\nprādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me ||10-19||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः |\nप्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||",
+          "en": "śrībhagavānuvāca .\nhanta te kathayiṣyāmi divyā hyātmavibhūtayaḥ .\nprādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me ||10-19||",
+          "be": "শ্রীভগবানুবাচ |\nহন্ত তে কথযিষ্যামি দিব্যা হ্যাত্মবিভূতযঃ |\nপ্রাধান্যতঃ কুরুশ্রেষ্ঠ নাস্ত্যন্তো বিস্তরস্য মে ||১০-১৯||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಹನ್ತ ತೇ ಕಥಯಿಷ್ಯಾಮಿ ದಿವ್ಯಾ ಹ್ಯಾತ್ಮವಿಭೂತಯಃ |\nಪ್ರಾಧಾನ್ಯತಃ ಕುರುಶ್ರೇಷ್ಠ ನಾಸ್ತ್ಯನ್ತೋ ವಿಸ್ತರಸ್ಯ ಮೇ ||೧೦-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः |\nप्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः |\nप्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||",
+          "en": "śrībhagavānuvāca .\nhanta te kathayiṣyāmi divyā hyātmavibhūtayaḥ .\nprādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me ||10-19||",
+          "be": "শ্রীভগবানুবাচ |\nহন্ত তে কথযিষ্যামি দিব্যা হ্যাত্মবিভূতযঃ |\nপ্রাধান্যতঃ কুরুশ্রেষ্ঠ নাস্ত্যন্তো বিস্তরস্য মে ||১০-১৯||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಹನ್ತ ತೇ ಕಥಯಿಷ್ಯಾಮಿ ದಿವ್ಯಾ ಹ್ಯಾತ್ಮವಿಭೂತಯಃ |\nಪ್ರಾಧಾನ್ಯತಃ ಕುರುಶ್ರೇಷ್ಠ ನಾಸ್ತ್ಯನ್ತೋ ವಿಸ್ತರಸ್ಯ ಮೇ ||೧೦-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Listen as God describes His prominent divine manifestations, for there is no end to divine expanse."
+        "life_application": {
+          "hi": "सुनिए जैसे भगवान अपनी प्रमुख दिव्य अभिव्यक्तियों का वर्णन करते हैं, क्योंकि दिव्य विस्तार का कोई अंत नहीं है।",
+          "en": "Listen as God describes His prominent divine manifestations, for there is no end to divine expanse.",
+          "be": "শুনুন ঈশ্বর যেমন তাঁর বিশিষ্ট ঐশ্বরিক প্রকাশ বর্ণনা করেছেন, কারণ ঐশ্বরিক বিস্তারের কোন শেষ নেই।",
+          "ka": "ದೇವರು ತನ್ನ ಪ್ರಮುಖ ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ವಿವರಿಸಿದಂತೆ ಆಲಿಸಿ, ಏಕೆಂದರೆ ದೈವಿಕ ವಿಸ್ತಾರಕ್ಕೆ ಅಂತ್ಯವಿಲ್ಲ."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG10.20",
         "img_landscape": "sloks/{size}/chapter_10/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_20/square/img.png",
-        "transliteration": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||"
+        "transliteration": {
+          "hi": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः |\nअहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||",
+          "en": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||",
+          "be": "অহমাত্মা গুডাকেশ সর্বভূতাশযস্থিতঃ |\nঅহমাদিশ্চ মধ্যং চ ভূতানামন্ত এব চ ||১০-২০||",
+          "ka": "ಅಹಮಾತ್ಮಾ ಗುಡಾಕೇಶ ಸರ್ವಭೂತಾಶಯಸ್ಥಿತಃ |\nಅಹಮಾದಿಶ್ಚ ಮಧ್ಯಂ ಚ ಭೂತಾನಾಮನ್ತ ಏವ ಚ ||೧೦-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः |\nअहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः |\nअहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||",
+          "en": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||",
+          "be": "অহমাত্মা গুডাকেশ সর্বভূতাশযস্থিতঃ |\nঅহমাদিশ্চ মধ্যং চ ভূতানামন্ত এব চ ||১০-২০||",
+          "ka": "ಅಹಮಾತ್ಮಾ ಗುಡಾಕೇಶ ಸರ್ವಭೂತಾಶಯಸ್ಥಿತಃ |\nಅಹಮಾದಿಶ್ಚ ಮಧ್ಯಂ ಚ ಭೂತಾನಾಮನ್ತ ಏವ ಚ ||೧೦-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as the Self seated in the heart of all beings, the beginning, middle, and end of all existence."
+        "life_application": {
+          "hi": "ईश्वर को समस्त प्राणियों के हृदय में, समस्त अस्तित्व के आदि, मध्य और अंत में विराजमान आत्मा के रूप में जानो।",
+          "en": "Know God as the Self seated in the heart of all beings, the beginning, middle, and end of all existence.",
+          "be": "সমস্ত অস্তিত্বের আদি, মধ্য এবং শেষ সমস্ত প্রাণীর হৃদয়ে বিরাজমান স্বয়ং ঈশ্বরকে জানুন।",
+          "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ ಹೃದಯದಲ್ಲಿ, ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದ ಆದಿ, ಮಧ್ಯ ಮತ್ತು ಅಂತ್ಯದಲ್ಲಿ ಕುಳಿತಿರುವ ಸ್ವಯಂ ಎಂದು ದೇವರನ್ನು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -308,14 +713,34 @@
         "verse_id": "BG10.21",
         "img_landscape": "sloks/{size}/chapter_10/slok_21/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_21/square/img.png",
-        "transliteration": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||"
+        "transliteration": {
+          "hi": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||१०-२१||",
+          "en": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||",
+          "be": "আদিত্যানামহং বিষ্ণুর্জ্যোতিষাং রবিরংশুমান্ |\nমরীচির্মরুতামস্মি নক্ষত্রাণামহং শশী ||১০-২১||",
+          "ka": "ಆದಿತ್ಯಾನಾಮಹಂ ವಿಷ್ಣುರ್ಜ್ಯೋತಿಷಾಂ ರವಿರಂಶುಮಾನ್ |\nಮರೀಚಿರ್ಮರುತಾಮಸ್ಮಿ ನಕ್ಷತ್ರಾಣಾಮಹಂ ಶಶೀ ||೧೦-೨೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||१०-२१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||१०-२१||",
+          "en": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||",
+          "be": "আদিত্যানামহং বিষ্ণুর্জ্যোতিষাং রবিরংশুমান্ |\nমরীচির্মরুতামস্মি নক্ষত্রাণামহং শশী ||১০-২১||",
+          "ka": "ಆದಿತ್ಯಾನಾಮಹಂ ವಿಷ್ಣುರ್ಜ್ಯೋತಿಷಾಂ ರವಿರಂಶುಮಾನ್ |\nಮರೀಚಿರ್ಮರುತಾಮಸ್ಮಿ ನಕ್ಷತ್ರಾಣಾಮಹಂ ಶಶೀ ||೧೦-೨೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as Vishnu among light-givers, the sun among luminaries, Marichi among winds, and the moon among stars."
+        "life_application": {
+          "hi": "ईश्वर को प्रकाश देने वालों में विष्णु, प्रकाश देने वालों में सूर्य, हवाओं में मरीचि और तारों में चंद्रमा के रूप में देखें।",
+          "en": "See God as Vishnu among light-givers, the sun among luminaries, Marichi among winds, and the moon among stars.",
+          "be": "ভগবানকে আলোকদাতাদের মধ্যে বিষ্ণু, আলোকদের মধ্যে সূর্য, বাতাসের মধ্যে মারিচি এবং তারার মধ্যে চন্দ্রকে দেখুন।",
+          "ka": "ಭಗವಂತನನ್ನು ಬೆಳಕು ನೀಡುವವರಲ್ಲಿ ವಿಷ್ಣುವಿನಂತೆ, ಜ್ಯೋತಿರ್ಗಳಲ್ಲಿ ಸೂರ್ಯನಂತೆ, ಗಾಳಿಯಲ್ಲಿ ಮರೀಚಿಯಾಗಿ ಮತ್ತು ನಕ್ಷತ್ರಗಳಲ್ಲಿ ಚಂದ್ರನಾಗಿ ನೋಡಿ."
+        }
       }
     },
     {
@@ -323,14 +748,34 @@
         "verse_id": "BG10.22",
         "img_landscape": "sloks/{size}/chapter_10/slok_22/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_22/square/img.png",
-        "transliteration": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||"
+        "transliteration": {
+          "hi": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः |\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||",
+          "en": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||",
+          "be": "বেদানাং সামবেদোঽস্মি দেবানামস্মি বাসবঃ |\nইন্দ্রিযাণাং মনশ্চাস্মি ভূতানামস্মি চেতনা ||১০-২২||",
+          "ka": "ವೇದಾನಾಂ ಸಾಮವೇದೋಽಸ್ಮಿ ದೇವಾನಾಮಸ್ಮಿ ವಾಸವಃ |\nಇನ್ದ್ರಿಯಾಣಾಂ ಮನಶ್ಚಾಸ್ಮಿ ಭೂತಾನಾಮಸ್ಮಿ ಚೇತನಾ ||೧೦-೨೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः |\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः |\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||",
+          "en": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||",
+          "be": "বেদানাং সামবেদোঽস্মি দেবানামস্মি বাসবঃ |\nইন্দ্রিযাণাং মনশ্চাস্মি ভূতানামস্মি চেতনা ||১০-২২||",
+          "ka": "ವೇದಾನಾಂ ಸಾಮವೇದೋಽಸ್ಮಿ ದೇವಾನಾಮಸ್ಮಿ ವಾಸವಃ |\nಇನ್ದ್ರಿಯಾಣಾಂ ಮನಶ್ಚಾಸ್ಮಿ ಭೂತಾನಾಮಸ್ಮಿ ಚೇತನಾ ||೧೦-೨೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Perceive God as the Sama Veda among scriptures, Indra among gods, mind among senses, and consciousness in beings."
+        "life_application": {
+          "hi": "ईश्वर को शास्त्रों में सामवेद के रूप में, देवताओं में इंद्र के रूप में, इंद्रियों में मन के रूप में और प्राणियों में चेतना के रूप में समझें।",
+          "en": "Perceive God as the Sama Veda among scriptures, Indra among gods, mind among senses, and consciousness in beings.",
+          "be": "শাস্ত্রের মধ্যে ঈশ্বরকে সাম বেদ, দেবতাদের মধ্যে ইন্দ্র, ইন্দ্রিয়ের মধ্যে মন এবং প্রাণীদের মধ্যে চেতনাকে উপলব্ধি করুন।",
+          "ka": "ಧರ್ಮಗ್ರಂಥಗಳಲ್ಲಿ ದೇವರನ್ನು ಸಾಮವೇದ, ದೇವರುಗಳಲ್ಲಿ ಇಂದ್ರ, ಇಂದ್ರಿಯಗಳಲ್ಲಿ ಮನಸ್ಸು ಮತ್ತು ಜೀವಿಗಳಲ್ಲಿ ಪ್ರಜ್ಞೆ ಎಂದು ಗ್ರಹಿಸಿ."
+        }
       }
     },
     {
@@ -338,14 +783,34 @@
         "verse_id": "BG10.23",
         "img_landscape": "sloks/{size}/chapter_10/slok_23/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_23/square/img.png",
-        "transliteration": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||"
+        "transliteration": {
+          "hi": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |\nवसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||",
+          "en": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||",
+          "be": "রুদ্রাণাং শঙ্করশ্চাস্মি বিত্তেশো যক্ষরক্ষসাম্ |\nবসূনাং পাবকশ্চাস্মি মেরুঃ শিখরিণামহম্ ||১০-২৩||",
+          "ka": "ರುದ್ರಾಣಾಂ ಶಙ್ಕರಶ್ಚಾಸ್ಮಿ ವಿತ್ತೇಶೋ ಯಕ್ಷರಕ್ಷಸಾಮ್ |\nವಸೂನಾಂ ಪಾವಕಶ್ಚಾಸ್ಮಿ ಮೇರುಃ ಶಿಖರಿಣಾಮಹಮ್ ||೧೦-೨೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |\nवसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |\nवसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||",
+          "en": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||",
+          "be": "রুদ্রাণাং শঙ্করশ্চাস্মি বিত্তেশো যক্ষরক্ষসাম্ |\nবসূনাং পাবকশ্চাস্মি মেরুঃ শিখরিণামহম্ ||১০-২৩||",
+          "ka": "ರುದ್ರಾಣಾಂ ಶಙ್ಕರಶ್ಚಾಸ್ಮಿ ವಿತ್ತೇಶೋ ಯಕ್ಷರಕ್ಷಸಾಮ್ |\nವಸೂನಾಂ ಪಾವಕಶ್ಚಾಸ್ಮಿ ಮೇರುಃ ಶಿಖರಿಣಾಮಹಮ್ ||೧೦-೨೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize God as Shiva among Rudras, Kubera among wealth-keepers, Agni among elements, and Meru among mountains."
+        "life_application": {
+          "hi": "भगवान को रुद्रों में शिव, धन के रखवालों में कुबेर, तत्वों में अग्नि और पर्वतों में मेरु के रूप में पहचानो।",
+          "en": "Recognize God as Shiva among Rudras, Kubera among wealth-keepers, Agni among elements, and Meru among mountains.",
+          "be": "ঈশ্বরকে রুদ্রদের মধ্যে শিব, সম্পদ রক্ষাকারীদের মধ্যে কুবের, উপাদানগুলির মধ্যে অগ্নি এবং পর্বতের মধ্যে মেরুকে চিনুন।",
+          "ka": "ದೇವರನ್ನು ರುದ್ರರಲ್ಲಿ ಶಿವನೆಂದು, ಸಂಪತ್ತು-ಪಾಲಕರಲ್ಲಿ ಕುಬೇರನೆಂದು, ಅಂಶಗಳಲ್ಲಿ ಅಗ್ನಿ ಮತ್ತು ಪರ್ವತಗಳಲ್ಲಿ ಮೇರು ಎಂದು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -353,14 +818,34 @@
         "verse_id": "BG10.24",
         "img_landscape": "sloks/{size}/chapter_10/slok_24/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_24/square/img.png",
-        "transliteration": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||"
+        "transliteration": {
+          "hi": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |\nसेनानीनामहं स्कन्दः सरसामस्मि सागरः ||१०-२४||",
+          "en": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||",
+          "be": "পুরোধসাং চ মুখ্যং মাং বিদ্ধি পার্থ বৃহস্পতিম্ |\nসেনানীনামহং স্কন্দঃ সরসামস্মি সাগরঃ ||১০-২৪||",
+          "ka": "ಪುರೋಧಸಾಂ ಚ ಮುಖ್ಯಂ ಮಾಂ ವಿದ್ಧಿ ಪಾರ್ಥ ಬೃಹಸ್ಪತಿಮ್ |\nಸೇನಾನೀನಾಮಹಂ ಸ್ಕನ್ದಃ ಸರಸಾಮಸ್ಮಿ ಸಾಗರಃ ||೧೦-೨೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |\nसेनानीनामहं स्कन्दः सरसामस्मि सागरः ||१०-२४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |\nसेनानीनामहं स्कन्दः सरसामस्मि सागरः ||१०-२४||",
+          "en": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||",
+          "be": "পুরোধসাং চ মুখ্যং মাং বিদ্ধি পার্থ বৃহস্পতিম্ |\nসেনানীনামহং স্কন্দঃ সরসামস্মি সাগরঃ ||১০-২৪||",
+          "ka": "ಪುರೋಧಸಾಂ ಚ ಮುಖ್ಯಂ ಮಾಂ ವಿದ್ಧಿ ಪಾರ್ಥ ಬೃಹಸ್ಪತಿಮ್ |\nಸೇನಾನೀನಾಮಹಂ ಸ್ಕನ್ದಃ ಸರಸಾಮಸ್ಮಿ ಸಾಗರಃ ||೧೦-೨೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as Brihaspati among priests, Skanda among generals, and the vast ocean among bodies of water."
+        "life_application": {
+          "hi": "ईश्वर को पुरोहितों में बृहस्पति, सेनापतियों में स्कंद और जलाशयों में विशाल महासागर के रूप में जानो।",
+          "en": "Know God as Brihaspati among priests, Skanda among generals, and the vast ocean among bodies of water.",
+          "be": "ভগবানকে পুরোহিতদের মধ্যে বৃহস্পতি, সেনাপতিদের মধ্যে স্কন্দ এবং জলের মধ্যে বিশাল সমুদ্র হিসাবে জানুন।",
+          "ka": "ಭಗವಂತನನ್ನು ಪುರೋಹಿತರಲ್ಲಿ ಬೃಹಸ್ಪತಿ ಎಂದೂ, ಸೇನಾಧಿಪತಿಗಳಲ್ಲಿ ಸ್ಕಂದ ಎಂದೂ, ಜಲರಾಶಿಗಳಲ್ಲಿ ವಿಶಾಲವಾದ ಸಾಗರ ಎಂದೂ ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -368,14 +853,34 @@
         "verse_id": "BG10.25",
         "img_landscape": "sloks/{size}/chapter_10/slok_25/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_25/square/img.png",
-        "transliteration": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||"
+        "transliteration": {
+          "hi": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||१०-२५||",
+          "en": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||",
+          "be": "মহর্ষীণাং ভৃগুরহং গিরামস্ম্যেকমক্ষরম্ |\nযজ্ঞানাং জপযজ্ঞোঽস্মি স্থাবরাণাং হিমালযঃ ||১০-২৫||",
+          "ka": "ಮಹರ್ಷೀಣಾಂ ಭೃಗುರಹಂ ಗಿರಾಮಸ್ಮ್ಯೇಕಮಕ್ಷರಮ್ |\nಯಜ್ಞಾನಾಂ ಜಪಯಜ್ಞೋಽಸ್ಮಿ ಸ್ಥಾವರಾಣಾಂ ಹಿಮಾಲಯಃ ||೧೦-೨೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||१०-२५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||१०-२५||",
+          "en": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||",
+          "be": "মহর্ষীণাং ভৃগুরহং গিরামস্ম্যেকমক্ষরম্ |\nযজ্ঞানাং জপযজ্ঞোঽস্মি স্থাবরাণাং হিমালযঃ ||১০-২৫||",
+          "ka": "ಮಹರ್ಷೀಣಾಂ ಭೃಗುರಹಂ ಗಿರಾಮಸ್ಮ್ಯೇಕಮಕ್ಷರಮ್ |\nಯಜ್ಞಾನಾಂ ಜಪಯಜ್ಞೋಽಸ್ಮಿ ಸ್ಥಾವರಾಣಾಂ ಹಿಮಾಲಯಃ ||೧೦-೨೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as Bhrigu among great sages, Om among words, silent repetition (japa) among sacrifices, and Himalayas among mountains."
+        "life_application": {
+          "hi": "भगवान को महान ऋषियों में भृगु, शब्दों में ओम, यज्ञों में मौन जप (जप) और पर्वतों में हिमालय के रूप में देखें।",
+          "en": "See God as Bhrigu among great sages, Om among words, silent repetition (japa) among sacrifices, and Himalayas among mountains.",
+          "be": "মহান ঋষিদের মধ্যে ভৃগু, শব্দের মধ্যে ওম, যজ্ঞের মধ্যে নীরব পুনরাবৃত্তি (জপ) এবং পাহাড়ের মধ্যে হিমালয়কে দেখুন।",
+          "ka": "ಭಗವಂತನನ್ನು ಮಹಾನ್ ಋಷಿಗಳಲ್ಲಿ ಭೃಗು, ಪದಗಳಲ್ಲಿ ಓಂ, ತ್ಯಾಗಗಳಲ್ಲಿ ಮೌನ ಪುನರಾವರ್ತನೆ (ಜಪ) ಮತ್ತು ಪರ್ವತಗಳಲ್ಲಿ ಹಿಮಾಲಯವನ್ನು ನೋಡಿ."
+        }
       }
     },
     {
@@ -383,14 +888,34 @@
         "verse_id": "BG10.26",
         "img_landscape": "sloks/{size}/chapter_10/slok_26/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_26/square/img.png",
-        "transliteration": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||"
+        "transliteration": {
+          "hi": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः |\nगन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||",
+          "en": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||",
+          "be": "অশ্বত্থঃ সর্ববৃক্ষাণাং দেবর্ষীণাং চ নারদঃ |\nগন্ধর্বাণাং চিত্ররথঃ সিদ্ধানাং কপিলো মুনিঃ ||১০-২৬||",
+          "ka": "ಅಶ್ವತ್ಥಃ ಸರ್ವವೃಕ್ಷಾಣಾಂ ದೇವರ್ಷೀಣಾಂ ಚ ನಾರದಃ |\nಗನ್ಧರ್ವಾಣಾಂ ಚಿತ್ರರಥಃ ಸಿದ್ಧಾನಾಂ ಕಪಿಲೋ ಮುನಿಃ ||೧೦-೨೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः |\nगन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः |\nगन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||",
+          "en": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||",
+          "be": "অশ্বত্থঃ সর্ববৃক্ষাণাং দেবর্ষীণাং চ নারদঃ |\nগন্ধর্বাণাং চিত্ররথঃ সিদ্ধানাং কপিলো মুনিঃ ||১০-২৬||",
+          "ka": "ಅಶ್ವತ್ಥಃ ಸರ್ವವೃಕ್ಷಾಣಾಂ ದೇವರ್ಷೀಣಾಂ ಚ ನಾರದಃ |\nಗನ್ಧರ್ವಾಣಾಂ ಚಿತ್ರರಥಃ ಸಿದ್ಧಾನಾಂ ಕಪಿಲೋ ಮುನಿಃ ||೧೦-೨೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Perceive God as the banyan tree among trees, Narada among divine sages, Chitraratha among singers, Kapila among perfected souls."
+        "life_application": {
+          "hi": "भगवान को वृक्षों में वटवृक्ष के रूप में, दिव्य ऋषियों में नारद को, गायकों में चित्ररथ को, सिद्ध आत्माओं में कपिल को समझें।",
+          "en": "Perceive God as the banyan tree among trees, Narada among divine sages, Chitraratha among singers, Kapila among perfected souls.",
+          "be": "ভগবানকে বৃক্ষের মধ্যে বটবৃক্ষ, ঋষিদের মধ্যে নারদ, গায়কদের মধ্যে চিত্ররথ, সিদ্ধ আত্মার মধ্যে কপিলাকে উপলব্ধি করুন।",
+          "ka": "ದೇವರನ್ನು ಮರಗಳ ನಡುವೆ ಆಲದ ಮರವಾಗಿ, ದಿವ್ಯ ಋಷಿಗಳಲ್ಲಿ ನಾರದ, ಗಾಯಕರಲ್ಲಿ ಚಿತ್ರರಥ, ಪರಿಪೂರ್ಣ ಆತ್ಮಗಳಲ್ಲಿ ಕಪಿಲನನ್ನು ಗ್ರಹಿಸಿ."
+        }
       }
     },
     {
@@ -398,14 +923,34 @@
         "verse_id": "BG10.27",
         "img_landscape": "sloks/{size}/chapter_10/slok_27/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_27/square/img.png",
-        "transliteration": "uccaiḥśravasamaśvānāṃ viddhi māmamṛtodbhavam .\nairāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||10-27||"
+        "transliteration": {
+          "hi": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् |\nऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||१०-२७||",
+          "en": "uccaiḥśravasamaśvānāṃ viddhi māmamṛtodbhavam .\nairāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||10-27||",
+          "be": "উচ্চৈঃশ্রবসমশ্বানাং বিদ্ধি মামমৃতোদ্ভবম্ |\nঐরাবতং গজেন্দ্রাণাং নরাণাং চ নরাধিপম্ ||১০-২৭||",
+          "ka": "ಉಚ್ಚೈಃಶ್ರವಸಮಶ್ವಾನಾಂ ವಿದ್ಧಿ ಮಾಮಮೃತೋದ್ಭವಮ್ |\nಐರಾವತಂ ಗಜೇನ್ದ್ರಾಣಾಂ ನರಾಣಾಂ ಚ ನರಾಧಿಪಮ್ ||೧೦-೨೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् |\nऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||१०-२७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् |\nऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||१०-२७||",
+          "en": "uccaiḥśravasamaśvānāṃ viddhi māmamṛtodbhavam .\nairāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||10-27||",
+          "be": "উচ্চৈঃশ্রবসমশ্বানাং বিদ্ধি মামমৃতোদ্ভবম্ |\nঐরাবতং গজেন্দ্রাণাং নরাণাং চ নরাধিপম্ ||১০-২৭||",
+          "ka": "ಉಚ್ಚೈಃಶ್ರವಸಮಶ್ವಾನಾಂ ವಿದ್ಧಿ ಮಾಮಮೃತೋದ್ಭವಮ್ |\nಐರಾವತಂ ಗಜೇನ್ದ್ರಾಣಾಂ ನರಾಣಾಂ ಚ ನರಾಧಿಪಮ್ ||೧೦-೨೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as Uchchaihshravas among horses, Airavata among noble elephants, and the monarch among human beings."
+        "life_application": {
+          "hi": "भगवान को घोड़ों में उच्चैःश्रवा, श्रेष्ठ हाथियों में ऐरावत और मनुष्यों में राजा के रूप में जानो।",
+          "en": "Know God as Uchchaihshravas among horses, Airavata among noble elephants, and the monarch among human beings.",
+          "be": "ভগবানকে ঘোড়ার মধ্যে উচ্ছাইশ্রব, মহৎ হস্তীর মধ্যে ঐরাবত এবং মানুষের মধ্যে রাজা হিসাবে জানুন।",
+          "ka": "ದೇವರನ್ನು ಕುದುರೆಗಳಲ್ಲಿ ಉಚ್ಚೈಃಶ್ರವನೆಂದೂ, ಉದಾತ್ತ ಆನೆಗಳಲ್ಲಿ ಐರಾವತನೆಂದೂ, ಮನುಷ್ಯರಲ್ಲಿ ರಾಜನೆಂದೂ ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -413,14 +958,34 @@
         "verse_id": "BG10.28",
         "img_landscape": "sloks/{size}/chapter_10/slok_28/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_28/square/img.png",
-        "transliteration": "āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk .\nprajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ ||10-28||"
+        "transliteration": {
+          "hi": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् |\nप्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ||१०-२८||",
+          "en": "āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk .\nprajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ ||10-28||",
+          "be": "আযুধানামহং বজ্রং ধেনূনামস্মি কামধুক্ |\nপ্রজনশ্চাস্মি কন্দর্পঃ সর্পাণামস্মি বাসুকিঃ ||১০-২৮||",
+          "ka": "ಆಯುಧಾನಾಮಹಂ ವಜ್ರಂ ಧೇನೂನಾಮಸ್ಮಿ ಕಾಮಧುಕ್ |\nಪ್ರಜನಶ್ಚಾಸ್ಮಿ ಕನ್ದರ್ಪಃ ಸರ್ಪಾಣಾಮಸ್ಮಿ ವಾಸುಕಿಃ ||೧೦-೨೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् |\nप्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ||१०-२८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् |\nप्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ||१०-२८||",
+          "en": "āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk .\nprajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ ||10-28||",
+          "be": "আযুধানামহং বজ্রং ধেনূনামস্মি কামধুক্ |\nপ্রজনশ্চাস্মি কন্দর্পঃ সর্পাণামস্মি বাসুকিঃ ||১০-২৮||",
+          "ka": "ಆಯುಧಾನಾಮಹಂ ವಜ್ರಂ ಧೇನೂನಾಮಸ್ಮಿ ಕಾಮಧುಕ್ |\nಪ್ರಜನಶ್ಚಾಸ್ಮಿ ಕನ್ದರ್ಪಃ ಸರ್ಪಾಣಾಮಸ್ಮಿ ವಾಸುಕಿಃ ||೧೦-೨೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among progenitors, and Vasuki among serpents."
+        "life_application": {
+          "hi": "भगवान को हथियारों में वज्र, गायों में कामधेनु, पूर्वजों में कंदर्प और नागों में वासुकी के रूप में देखें।",
+          "en": "See God as the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among progenitors, and Vasuki among serpents.",
+          "be": "ভগবানকে অস্ত্রের মধ্যে বজ্র, গরুর মধ্যে কামধেনু, পূর্বপুরুষদের মধ্যে কন্দর্প এবং সর্পের মধ্যে বাসুকিকে দেখুন।",
+          "ka": "ದೇವರನ್ನು ಆಯುಧಗಳಲ್ಲಿ ಸಿಡಿಲು, ಗೋವುಗಳಲ್ಲಿ ಕಾಮಧೇನು, ಮೂಲಪುರುಷರಲ್ಲಿ ಕಂದರ್ಪ ಮತ್ತು ಸರ್ಪಗಳಲ್ಲಿ ವಾಸುಕಿಯನ್ನು ನೋಡಿ."
+        }
       }
     },
     {
@@ -428,14 +993,34 @@
         "verse_id": "BG10.29",
         "img_landscape": "sloks/{size}/chapter_10/slok_29/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_29/square/img.png",
-        "transliteration": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||"
+        "transliteration": {
+          "hi": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् |\nपितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||",
+          "en": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||",
+          "be": "অনন্তশ্চাস্মি নাগানাং বরুণো যাদসামহম্ |\nপিতৄণামর্যমা চাস্মি যমঃ সংযমতামহম্ ||১০-২৯||",
+          "ka": "ಅನನ್ತಶ್ಚಾಸ್ಮಿ ನಾಗಾನಾಂ ವರುಣೋ ಯಾದಸಾಮಹಮ್ |\nಪಿತೄಣಾಮರ್ಯಮಾ ಚಾಸ್ಮಿ ಯಮಃ ಸಂಯಮತಾಮಹಮ್ ||೧೦-೨೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् |\nपितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् |\nपितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||",
+          "en": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||",
+          "be": "অনন্তশ্চাস্মি নাগানাং বরুণো যাদসামহম্ |\nপিতৄণামর্যমা চাস্মি যমঃ সংযমতামহম্ ||১০-২৯||",
+          "ka": "ಅನನ್ತಶ್ಚಾಸ್ಮಿ ನಾಗಾನಾಂ ವರುಣೋ ಯಾದಸಾಮಹಮ್ |\nಪಿತೄಣಾಮರ್ಯಮಾ ಚಾಸ್ಮಿ ಯಮಃ ಸಂಯಮತಾಮಹಮ್ ||೧೦-೨೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize God as Ananta among Nagas, Varuna among water-deities, Aryaman among ancestors, and Yama among law-enforcers."
+        "life_application": {
+          "hi": "भगवान को नागों में अनंत, जल-देवताओं में वरुण, पितरों में अर्यमन और कानून लागू करने वालों में यम के रूप में पहचानें।",
+          "en": "Recognize God as Ananta among Nagas, Varuna among water-deities, Aryaman among ancestors, and Yama among law-enforcers.",
+          "be": "নাগদের মধ্যে ঈশ্বরকে অনন্ত, জল-দেবতাদের মধ্যে বরুণ, পূর্বপুরুষদের মধ্যে আর্যমান এবং আইন-শৃঙ্খলা রক্ষাকারীদের মধ্যে যমকে স্বীকৃতি দিন।",
+          "ka": "ದೇವರನ್ನು ನಾಗಗಳಲ್ಲಿ ಅನಂತ, ಜಲದೇವತೆಗಳಲ್ಲಿ ವರುಣ, ಪೂರ್ವಜರಲ್ಲಿ ಆರ್ಯಮನ್ ಮತ್ತು ಕಾನೂನು ಪರಿಪಾಲಕರಲ್ಲಿ ಯಮ ಎಂದು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -443,14 +1028,34 @@
         "verse_id": "BG10.30",
         "img_landscape": "sloks/{size}/chapter_10/slok_30/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_30/square/img.png",
-        "transliteration": "prahlādaścāsmi daityānāṃ kālaḥ kalayatāmaham .\nmṛgāṇāṃ ca mṛgendro.ahaṃ vainateyaśca pakṣiṇām ||10-30||"
+        "transliteration": {
+          "hi": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् |\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ||१०-३०||",
+          "en": "prahlādaścāsmi daityānāṃ kālaḥ kalayatāmaham .\nmṛgāṇāṃ ca mṛgendro.ahaṃ vainateyaśca pakṣiṇām ||10-30||",
+          "be": "প্রহ্লাদশ্চাস্মি দৈত্যানাং কালঃ কলযতামহম্ |\nমৃগাণাং চ মৃগেন্দ্রোঽহং বৈনতেযশ্চ পক্ষিণাম্ ||১০-৩০||",
+          "ka": "ಪ್ರಹ್ಲಾದಶ್ಚಾಸ್ಮಿ ದೈತ್ಯಾನಾಂ ಕಾಲಃ ಕಲಯತಾಮಹಮ್ |\nಮೃಗಾಣಾಂ ಚ ಮೃಗೇನ್ದ್ರೋಽಹಂ ವೈನತೇಯಶ್ಚ ಪಕ್ಷಿಣಾಮ್ ||೧೦-೩೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् |\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ||१०-३०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् |\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ||१०-३०||",
+          "en": "prahlādaścāsmi daityānāṃ kālaḥ kalayatāmaham .\nmṛgāṇāṃ ca mṛgendro.ahaṃ vainateyaśca pakṣiṇām ||10-30||",
+          "be": "প্রহ্লাদশ্চাস্মি দৈত্যানাং কালঃ কলযতামহম্ |\nমৃগাণাং চ মৃগেন্দ্রোঽহং বৈনতেযশ্চ পক্ষিণাম্ ||১০-৩০||",
+          "ka": "ಪ್ರಹ್ಲಾದಶ್ಚಾಸ್ಮಿ ದೈತ್ಯಾನಾಂ ಕಾಲಃ ಕಲಯತಾಮಹಮ್ |\nಮೃಗಾಣಾಂ ಚ ಮೃಗೇನ್ದ್ರೋಽಹಂ ವೈನತೇಯಶ್ಚ ಪಕ್ಷಿಣಾಮ್ ||೧೦-೩೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as Prahlada among demons, Time among reckoners, the lion among beasts, and Garuda among birds."
+        "life_application": {
+          "hi": "भगवान को राक्षसों में प्रह्लाद, हिसाब-किताब करने वालों में काल, जानवरों में शेर और पक्षियों में गरुड़ के रूप में देखें।",
+          "en": "See God as Prahlada among demons, Time among reckoners, the lion among beasts, and Garuda among birds.",
+          "be": "ভগবানকে রাক্ষসদের মধ্যে প্রহ্লাদ, হিসাবকারীদের মধ্যে সময়, পশুদের মধ্যে সিংহ এবং পাখিদের মধ্যে গরুড়কে দেখুন।",
+          "ka": "ದೇವರನ್ನು ರಾಕ್ಷಸರಲ್ಲಿ ಪ್ರಹ್ಲಾದನಂತೆಯೂ, ಲೆಕ್ಕ ಮಾಡುವವರಲ್ಲಿ ಕಾಲವಾಗಿಯೂ, ಮೃಗಗಳಲ್ಲಿ ಸಿಂಹವಾಗಿಯೂ, ಪಕ್ಷಿಗಳಲ್ಲಿ ಗರುಡನಾಗಿಯೂ ಕಾಣು."
+        }
       }
     },
     {
@@ -458,14 +1063,34 @@
         "verse_id": "BG10.31",
         "img_landscape": "sloks/{size}/chapter_10/slok_31/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_31/square/img.png",
-        "transliteration": "pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham .\njhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī ||10-31||"
+        "transliteration": {
+          "hi": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् |\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||",
+          "en": "pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham .\njhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī ||10-31||",
+          "be": "পবনঃ পবতামস্মি রামঃ শস্ত্রভৃতামহম্ |\nঝষাণাং মকরশ্চাস্মি স্রোতসামস্মি জাহ্নবী ||১০-৩১||",
+          "ka": "ಪವನಃ ಪವತಾಮಸ್ಮಿ ರಾಮಃ ಶಸ್ತ್ರಭೃತಾಮಹಮ್ |\nಝಷಾಣಾಂ ಮಕರಶ್ಚಾಸ್ಮಿ ಸ್ರೋತಸಾಮಸ್ಮಿ ಜಾಹ್ನವೀ ||೧೦-೩೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् |\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् |\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||",
+          "en": "pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham .\njhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī ||10-31||",
+          "be": "পবনঃ পবতামস্মি রামঃ শস্ত্রভৃতামহম্ |\nঝষাণাং মকরশ্চাস্মি স্রোতসামস্মি জাহ্নবী ||১০-৩১||",
+          "ka": "ಪವನಃ ಪವತಾಮಸ್ಮಿ ರಾಮಃ ಶಸ್ತ್ರಭೃತಾಮಹಮ್ |\nಝಷಾಣಾಂ ಮಕರಶ್ಚಾಸ್ಮಿ ಸ್ರೋತಸಾಮಸ್ಮಿ ಜಾಹ್ನವೀ ||೧೦-೩೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as the wind among purifiers, Rama among warriors, Makara among fish, and Ganges among rivers."
+        "life_application": {
+          "hi": "ईश्वर को पवित्र करने वालों में वायु, योद्धाओं में राम, मछलियों में मकर और नदियों में गंगा के रूप में जानो।",
+          "en": "Know God as the wind among purifiers, Rama among warriors, Makara among fish, and Ganges among rivers.",
+          "be": "ভগবানকে শুদ্ধির মধ্যে বায়ু, যোদ্ধাদের মধ্যে রাম, মাছের মধ্যে মকর এবং নদীর মধ্যে গঙ্গাকে জান।",
+          "ka": "ದೇವರನ್ನು ಶುದ್ಧಿಕಾರರಲ್ಲಿ ಗಾಳಿ, ಯೋಧರಲ್ಲಿ ರಾಮ, ಮೀನುಗಳಲ್ಲಿ ಮಕರ ಮತ್ತು ನದಿಗಳಲ್ಲಿ ಗಂಗೆ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -473,14 +1098,34 @@
         "verse_id": "BG10.32",
         "img_landscape": "sloks/{size}/chapter_10/slok_32/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_32/square/img.png",
-        "transliteration": "sargāṇāmādirantaśca madhyaṃ caivāhamarjuna .\nadhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham ||10-32||"
+        "transliteration": {
+          "hi": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |\nअध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ||१०-३२||",
+          "en": "sargāṇāmādirantaśca madhyaṃ caivāhamarjuna .\nadhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham ||10-32||",
+          "be": "সর্গাণামাদিরন্তশ্চ মধ্যং চৈবাহমর্জুন |\nঅধ্যাত্মবিদ্যা বিদ্যানাং বাদঃ প্রবদতামহম্ ||১০-৩২||",
+          "ka": "ಸರ್ಗಾಣಾಮಾದಿರನ್ತಶ್ಚ ಮಧ್ಯಂ ಚೈವಾಹಮರ್ಜುನ |\nಅಧ್ಯಾತ್ಮವಿದ್ಯಾ ವಿದ್ಯಾನಾಂ ವಾದಃ ಪ್ರವದತಾಮಹಮ್ ||೧೦-೩೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |\nअध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ||१०-३२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |\nअध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ||१०-३२||",
+          "en": "sargāṇāmādirantaśca madhyaṃ caivāhamarjuna .\nadhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham ||10-32||",
+          "be": "সর্গাণামাদিরন্তশ্চ মধ্যং চৈবাহমর্জুন |\nঅধ্যাত্মবিদ্যা বিদ্যানাং বাদঃ প্রবদতামহম্ ||১০-৩২||",
+          "ka": "ಸರ್ಗಾಣಾಮಾದಿರನ್ತಶ್ಚ ಮಧ್ಯಂ ಚೈವಾಹಮರ್ಜುನ |\nಅಧ್ಯಾತ್ಮವಿದ್ಯಾ ವಿದ್ಯಾನಾಂ ವಾದಃ ಪ್ರವದತಾಮಹಮ್ ||೧೦-೩೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Perceive God as the beginning, middle, and end of creations, self-knowledge among sciences, and logic in debate."
+        "life_application": {
+          "hi": "ईश्वर को सृष्टि के आरंभ, मध्य और अंत के रूप में, विज्ञानों में आत्म-ज्ञान को और वाद-विवाद में तर्क को समझें।",
+          "en": "Perceive God as the beginning, middle, and end of creations, self-knowledge among sciences, and logic in debate.",
+          "be": "সৃষ্টির শুরু, মধ্য ও শেষ, বিজ্ঞানের মধ্যে স্ব-জ্ঞান এবং বিতর্কে যুক্তি হিসাবে ঈশ্বরকে উপলব্ধি করুন।",
+          "ka": "ಸೃಷ್ಟಿಗಳ ಪ್ರಾರಂಭ, ಮಧ್ಯ ಮತ್ತು ಅಂತ್ಯ, ವಿಜ್ಞಾನಗಳ ನಡುವೆ ಸ್ವಯಂ ಜ್ಞಾನ ಮತ್ತು ಚರ್ಚೆಯಲ್ಲಿ ತರ್ಕ ಎಂದು ದೇವರನ್ನು ಗ್ರಹಿಸಿ."
+        }
       }
     },
     {
@@ -488,14 +1133,34 @@
         "verse_id": "BG10.33",
         "img_landscape": "sloks/{size}/chapter_10/slok_33/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_33/square/img.png",
-        "transliteration": "akṣarāṇāmakāro.asmi dvandvaḥ sāmāsikasya ca .\nahamevākṣayaḥ kālo dhātāhaṃ viśvatomukhaḥ ||10-33||"
+        "transliteration": {
+          "hi": "अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च |\nअहमेवाक्षयः कालो धाताहं विश्वतोमुखः ||१०-३३||",
+          "en": "akṣarāṇāmakāro.asmi dvandvaḥ sāmāsikasya ca .\nahamevākṣayaḥ kālo dhātāhaṃ viśvatomukhaḥ ||10-33||",
+          "be": "অক্ষরাণামকারোঽস্মি দ্বন্দ্বঃ সামাসিকস্য চ |\nঅহমেবাক্ষযঃ কালো ধাতাহং বিশ্বতোমুখঃ ||১০-৩৩||",
+          "ka": "ಅಕ್ಷರಾಣಾಮಕಾರೋಽಸ್ಮಿ ದ್ವನ್ದ್ವಃ ಸಾಮಾಸಿಕಸ್ಯ ಚ |\nಅಹಮೇವಾಕ್ಷಯಃ ಕಾಲೋ ಧಾತಾಹಂ ವಿಶ್ವತೋಮುಖಃ ||೧೦-೩೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च |\nअहमेवाक्षयः कालो धाताहं विश्वतोमुखः ||१०-३३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च |\nअहमेवाक्षयः कालो धाताहं विश्वतोमुखः ||१०-३३||",
+          "en": "akṣarāṇāmakāro.asmi dvandvaḥ sāmāsikasya ca .\nahamevākṣayaḥ kālo dhātāhaṃ viśvatomukhaḥ ||10-33||",
+          "be": "অক্ষরাণামকারোঽস্মি দ্বন্দ্বঃ সামাসিকস্য চ |\nঅহমেবাক্ষযঃ কালো ধাতাহং বিশ্বতোমুখঃ ||১০-৩৩||",
+          "ka": "ಅಕ್ಷರಾಣಾಮಕಾರೋಽಸ್ಮಿ ದ್ವನ್ದ್ವಃ ಸಾಮಾಸಿಕಸ್ಯ ಚ |\nಅಹಮೇವಾಕ್ಷಯಃ ಕಾಲೋ ಧಾತಾಹಂ ವಿಶ್ವತೋಮುಖಃ ||೧೦-೩೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as the letter 'A' among alphabets, dual compound in grammar, imperishable time, and all-facing creator."
+        "life_application": {
+          "hi": "ईश्वर को अक्षरों में 'अ' अक्षर, व्याकरण में द्वैत समास, अविनाशी काल और सर्वव्यापी सृष्टिकर्ता के रूप में देखें।",
+          "en": "See God as the letter 'A' among alphabets, dual compound in grammar, imperishable time, and all-facing creator.",
+          "be": "ঈশ্বরকে বর্ণমালার মধ্যে 'A' অক্ষর, ব্যাকরণে দ্বৈত যৌগ, অবিনশ্বর সময় এবং সর্বমুখী স্রষ্টা হিসাবে দেখুন।",
+          "ka": "ದೇವರನ್ನು ವರ್ಣಮಾಲೆಗಳ ನಡುವೆ 'A' ಅಕ್ಷರದಂತೆ ನೋಡಿ, ವ್ಯಾಕರಣದಲ್ಲಿ ದ್ವಂದ್ವ ಸಂಯುಕ್ತ, ನಾಶವಾಗದ ಸಮಯ, ಮತ್ತು ಎಲ್ಲವನ್ನು ಎದುರಿಸುವ ಸೃಷ್ಟಿಕರ್ತ."
+        }
       }
     },
     {
@@ -503,14 +1168,34 @@
         "verse_id": "BG10.34",
         "img_landscape": "sloks/{size}/chapter_10/slok_34/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_34/square/img.png",
-        "transliteration": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||"
+        "transliteration": {
+          "hi": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् |\nकीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ||१०-३४||",
+          "en": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||",
+          "be": "মৃত্যুঃ সর্বহরশ্চাহমুদ্ভবশ্চ ভবিষ্যতাম্ |\nকীর্তিঃ শ্রীর্বাক্চ নারীণাং স্মৃতির্মেধা ধৃতিঃ ক্ষমা ||১০-৩৪||",
+          "ka": "ಮೃತ್ಯುಃ ಸರ್ವಹರಶ್ಚಾಹಮುದ್ಭವಶ್ಚ ಭವಿಷ್ಯತಾಮ್ |\nಕೀರ್ತಿಃ ಶ್ರೀರ್ವಾಕ್ಚ ನಾರೀಣಾಂ ಸ್ಮೃತಿರ್ಮೇಧಾ ಧೃತಿಃ ಕ್ಷಮಾ ||೧೦-೩೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् |\nकीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ||१०-३४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् |\nकीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ||१०-३४||",
+          "en": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||",
+          "be": "মৃত্যুঃ সর্বহরশ্চাহমুদ্ভবশ্চ ভবিষ্যতাম্ |\nকীর্তিঃ শ্রীর্বাক্চ নারীণাং স্মৃতির্মেধা ধৃতিঃ ক্ষমা ||১০-৩৪||",
+          "ka": "ಮೃತ್ಯುಃ ಸರ್ವಹರಶ್ಚಾಹಮುದ್ಭವಶ್ಚ ಭವಿಷ್ಯತಾಮ್ |\nಕೀರ್ತಿಃ ಶ್ರೀರ್ವಾಕ್ಚ ನಾರೀಣಾಂ ಸ್ಮೃತಿರ್ಮೇಧಾ ಧೃತಿಃ ಕ್ಷಮಾ ||೧೦-೩೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize God as all-devouring death, the origin of future things, and feminine virtues of fame, fortune, speech, memory, intellect, courage, forgiveness."
+        "life_application": {
+          "hi": "ईश्वर को सर्वभक्षी मृत्यु, भविष्य की चीजों की उत्पत्ति, और प्रसिद्धि, भाग्य, वाणी, स्मृति, बुद्धि, साहस, क्षमा जैसे स्त्री गुणों के रूप में पहचानें।",
+          "en": "Recognize God as all-devouring death, the origin of future things, and feminine virtues of fame, fortune, speech, memory, intellect, courage, forgiveness.",
+          "be": "ঈশ্বরকে সর্বগ্রাসী মৃত্যু, ভবিষ্যৎ জিনিসের উৎপত্তি এবং খ্যাতি, ভাগ্য, বক্তৃতা, স্মৃতি, বুদ্ধি, সাহস, ক্ষমার নারীসুলভ গুণাবলী হিসাবে স্বীকৃতি দিন।",
+          "ka": "ಭಗವಂತನನ್ನು ಎಲ್ಲಾ-ತಿನ್ನುವ ಮರಣ, ಭವಿಷ್ಯದ ವಸ್ತುಗಳ ಮೂಲ ಮತ್ತು ಖ್ಯಾತಿ, ಅದೃಷ್ಟ, ಮಾತು, ಸ್ಮರಣೆ, ​​ಬುದ್ಧಿಶಕ್ತಿ, ಧೈರ್ಯ, ಕ್ಷಮೆಯ ಸ್ತ್ರೀಲಿಂಗ ಗುಣಗಳನ್ನು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -518,14 +1203,34 @@
         "verse_id": "BG10.35",
         "img_landscape": "sloks/{size}/chapter_10/slok_35/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_35/square/img.png",
-        "transliteration": "bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham .\nmāsānāṃ mārgaśīrṣo.ahamṛtūnāṃ kusumākaraḥ ||10-35||"
+        "transliteration": {
+          "hi": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ||१०-३५||",
+          "en": "bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham .\nmāsānāṃ mārgaśīrṣo.ahamṛtūnāṃ kusumākaraḥ ||10-35||",
+          "be": "বৃহত্সাম তথা সাম্নাং গাযত্রী ছন্দসামহম্ |\nমাসানাং মার্গশীর্ষোঽহমৃতূনাং কুসুমাকরঃ ||১০-৩৫||",
+          "ka": "ಬೃಹತ್ಸಾಮ ತಥಾ ಸಾಮ್ನಾಂ ಗಾಯತ್ರೀ ಛನ್ದಸಾಮಹಮ್ |\nಮಾಸಾನಾಂ ಮಾರ್ಗಶೀರ್ಷೋಽಹಮೃತೂನಾಂ ಕುಸುಮಾಕರಃ ||೧೦-೩೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ||१०-३५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ||१०-३५||",
+          "en": "bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham .\nmāsānāṃ mārgaśīrṣo.ahamṛtūnāṃ kusumākaraḥ ||10-35||",
+          "be": "বৃহত্সাম তথা সাম্নাং গাযত্রী ছন্দসামহম্ |\nমাসানাং মার্গশীর্ষোঽহমৃতূনাং কুসুমাকরঃ ||১০-৩৫||",
+          "ka": "ಬೃಹತ್ಸಾಮ ತಥಾ ಸಾಮ್ನಾಂ ಗಾಯತ್ರೀ ಛನ್ದಸಾಮಹಮ್ |\nಮಾಸಾನಾಂ ಮಾರ್ಗಶೀರ್ಷೋಽಹಮೃತೂನಾಂ ಕುಸುಮಾಕರಃ ||೧೦-೩೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as Brihat-sama among hymns, Gayatri among meters, Margashirsha among months, and spring among seasons."
+        "life_application": {
+          "hi": "भगवान को भजनों में बृहत्साम, छंदों में गायत्री, महीनों में मार्गशीर्ष और ऋतुओं में वसंत के रूप में जानो।",
+          "en": "Know God as Brihat-sama among hymns, Gayatri among meters, Margashirsha among months, and spring among seasons.",
+          "be": "ভগবানকে স্তোত্রের মধ্যে বৃহৎ-সম, মিটারের মধ্যে গায়ত্রী, মাসের মধ্যে মার্গশীর্ষ এবং ঋতুর মধ্যে বসন্ত হিসাবে জানুন।",
+          "ka": "ಭಗವಂತನನ್ನು ಸ್ತೋತ್ರಗಳಲ್ಲಿ ಬೃಹತ್-ಸಾಮ, ಮೀಟರ್‌ಗಳಲ್ಲಿ ಗಾಯತ್ರಿ, ತಿಂಗಳುಗಳಲ್ಲಿ ಮಾರ್ಗಶೀರ್ಷ ಮತ್ತು ಋತುಗಳಲ್ಲಿ ವಸಂತ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -533,14 +1238,34 @@
         "verse_id": "BG10.36",
         "img_landscape": "sloks/{size}/chapter_10/slok_36/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_36/square/img.png",
-        "transliteration": "dyūtaṃ chalayatāmasmi tejastejasvināmaham .\njayo.asmi vyavasāyo.asmi sattvaṃ sattvavatāmaham ||10-36||"
+        "transliteration": {
+          "hi": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |\nजयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ||१०-३६||",
+          "en": "dyūtaṃ chalayatāmasmi tejastejasvināmaham .\njayo.asmi vyavasāyo.asmi sattvaṃ sattvavatāmaham ||10-36||",
+          "be": "দ্যূতং ছলযতামস্মি তেজস্তেজস্বিনামহম্ |\nজযোঽস্মি ব্যবসাযোঽস্মি সত্ত্বং সত্ত্ববতামহম্ ||১০-৩৬||",
+          "ka": "ದ್ಯೂತಂ ಛಲಯತಾಮಸ್ಮಿ ತೇಜಸ್ತೇಜಸ್ವಿನಾಮಹಮ್ |\nಜಯೋಽಸ್ಮಿ ವ್ಯವಸಾಯೋಽಸ್ಮಿ ಸತ್ತ್ವಂ ಸತ್ತ್ವವತಾಮಹಮ್ ||೧೦-೩೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |\nजयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ||१०-३६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |\nजयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ||१०-३६||",
+          "en": "dyūtaṃ chalayatāmasmi tejastejasvināmaham .\njayo.asmi vyavasāyo.asmi sattvaṃ sattvavatāmaham ||10-36||",
+          "be": "দ্যূতং ছলযতামস্মি তেজস্তেজস্বিনামহম্ |\nজযোঽস্মি ব্যবসাযোঽস্মি সত্ত্বং সত্ত্ববতামহম্ ||১০-৩৬||",
+          "ka": "ದ್ಯೂತಂ ಛಲಯತಾಮಸ್ಮಿ ತೇಜಸ್ತೇಜಸ್ವಿನಾಮಹಮ್ |\nಜಯೋಽಸ್ಮಿ ವ್ಯವಸಾಯೋಽಸ್ಮಿ ಸತ್ತ್ವಂ ಸತ್ತ್ವವತಾಮಹಮ್ ||೧೦-೩೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as the gambling of cheats, splendor of the splendid, victory, resolve, and purity of the pure."
+        "life_application": {
+          "hi": "ईश्वर को धोखेबाजों के जुआ, वैभवशाली के वैभव, विजय, संकल्प और शुद्ध की पवित्रता के रूप में देखें।",
+          "en": "See God as the gambling of cheats, splendor of the splendid, victory, resolve, and purity of the pure.",
+          "be": "ভগবানকে প্রতারণার জুয়া, জাঁকজমকের জাঁকজমক, বিজয়, সংকল্প এবং শুদ্ধের পবিত্রতা হিসাবে দেখুন।",
+          "ka": "ಭಗವಂತನನ್ನು ಮೋಸಗಾರರ ಜೂಜು, ವೈಭವದ ವೈಭವ, ವಿಜಯ, ಸಂಕಲ್ಪ ಮತ್ತು ಶುದ್ಧತೆಯ ಪರಿಶುದ್ಧತೆಯಾಗಿ ನೋಡಿ."
+        }
       }
     },
     {
@@ -548,14 +1273,34 @@
         "verse_id": "BG10.37",
         "img_landscape": "sloks/{size}/chapter_10/slok_37/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_37/square/img.png",
-        "transliteration": "vṛṣṇīnāṃ vāsudevo.asmi pāṇḍavānāṃ dhanañjayaḥ .\nmunīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ ||10-37||"
+        "transliteration": {
+          "hi": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः |\nमुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||",
+          "en": "vṛṣṇīnāṃ vāsudevo.asmi pāṇḍavānāṃ dhanañjayaḥ .\nmunīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ ||10-37||",
+          "be": "বৃষ্ণীনাং বাসুদেবোঽস্মি পাণ্ডবানাং ধনঞ্জযঃ |\nমুনীনামপ্যহং ব্যাসঃ কবীনামুশনা কবিঃ ||১০-৩৭||",
+          "ka": "ವೃಷ್ಣೀನಾಂ ವಾಸುದೇವೋಽಸ್ಮಿ ಪಾಣ್ಡವಾನಾಂ ಧನಞ್ಜಯಃ |\nಮುನೀನಾಮಪ್ಯಹಂ ವ್ಯಾಸಃ ಕವೀನಾಮುಶನಾ ಕವಿಃ ||೧೦-೩೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः |\nमुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः |\nमुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||",
+          "en": "vṛṣṇīnāṃ vāsudevo.asmi pāṇḍavānāṃ dhanañjayaḥ .\nmunīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ ||10-37||",
+          "be": "বৃষ্ণীনাং বাসুদেবোঽস্মি পাণ্ডবানাং ধনঞ্জযঃ |\nমুনীনামপ্যহং ব্যাসঃ কবীনামুশনা কবিঃ ||১০-৩৭||",
+          "ka": "ವೃಷ್ಣೀನಾಂ ವಾಸುದೇವೋಽಸ್ಮಿ ಪಾಣ್ಡವಾನಾಂ ಧನಞ್ಜಯಃ |\nಮುನೀನಾಮಪ್ಯಹಂ ವ್ಯಾಸಃ ಕವೀನಾಮುಶನಾ ಕವಿಃ ||೧೦-೩೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Recognize God as Krishna among Vrishnis, Arjuna among Pandavas, Vyasa among sages, and Ushana among poets."
+        "life_application": {
+          "hi": "भगवान को वृष्णियों में कृष्ण के रूप में, पांडवों में अर्जुन के रूप में, ऋषियों में व्यास के रूप में और कवियों में उशना के रूप में पहचानें।",
+          "en": "Recognize God as Krishna among Vrishnis, Arjuna among Pandavas, Vyasa among sages, and Ushana among poets.",
+          "be": "ভগবানকে বৃষ্ণিদের মধ্যে কৃষ্ণ, পাণ্ডবদের মধ্যে অর্জুন, ঋষিদের মধ্যে ব্যাস এবং কবিদের মধ্যে উষান বলে চিনুন।",
+          "ka": "ವೃಷ್ಣಿಗಳಲ್ಲಿ ಕೃಷ್ಣನಾಗಿ, ಪಾಂಡವರಲ್ಲಿ ಅರ್ಜುನನಾಗಿ, ಋಷಿಗಳಲ್ಲಿ ವ್ಯಾಸನಾಗಿ, ಕವಿಗಳಲ್ಲಿ ಉಷನಾಗಿ ದೇವರನ್ನು ಗುರುತಿಸಿ."
+        }
       }
     },
     {
@@ -563,14 +1308,34 @@
         "verse_id": "BG10.38",
         "img_landscape": "sloks/{size}/chapter_10/slok_38/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_38/square/img.png",
-        "transliteration": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||"
+        "transliteration": {
+          "hi": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||",
+          "en": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||",
+          "be": "দণ্ডো দমযতামস্মি নীতিরস্মি জিগীষতাম্ |\nমৌনং চৈবাস্মি গুহ্যানাং জ্ঞানং জ্ঞানবতামহম্ ||১০-৩৮||",
+          "ka": "ದಣ್ಡೋ ದಮಯತಾಮಸ್ಮಿ ನೀತಿರಸ್ಮಿ ಜಿಗೀಷತಾಮ್ |\nಮೌನಂ ಚೈವಾಸ್ಮಿ ಗುಹ್ಯಾನಾಂ ಜ್ಞಾನಂ ಜ್ಞಾನವತಾಮಹಮ್ ||೧೦-೩೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||",
+          "en": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||",
+          "be": "দণ্ডো দমযতামস্মি নীতিরস্মি জিগীষতাম্ |\nমৌনং চৈবাস্মি গুহ্যানাং জ্ঞানং জ্ঞানবতামহম্ ||১০-৩৮||",
+          "ka": "ದಣ್ಡೋ ದಮಯತಾಮಸ್ಮಿ ನೀತಿರಸ್ಮಿ ಜಿಗೀಷತಾಮ್ |\nಮೌನಂ ಚೈವಾಸ್ಮಿ ಗುಹ್ಯಾನಾಂ ಜ್ಞಾನಂ ಜ್ಞಾನವತಾಮಹಮ್ ||೧೦-೩೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "See God as the rod of punishers, statesmanship of victors, silence of secrets, and wisdom of the wise."
+        "life_application": {
+          "hi": "ईश्वर को दंड देने वालों की छड़ी, विजेताओं की राजनीति, रहस्यों की चुप्पी और बुद्धिमानों की बुद्धि के रूप में देखें।",
+          "en": "See God as the rod of punishers, statesmanship of victors, silence of secrets, and wisdom of the wise.",
+          "be": "ঈশ্বরকে শাস্তিদাতাদের লাঠি, বিজয়ীদের রাষ্ট্রনীতি, গোপনীয়তার নীরবতা এবং জ্ঞানীদের প্রজ্ঞা হিসাবে দেখুন।",
+          "ka": "ದೇವರನ್ನು ಶಿಕ್ಷಕರ ದಂಡವಾಗಿ, ವಿಜಯಶಾಲಿಗಳ ರಾಜನೀತಿ, ರಹಸ್ಯಗಳ ಮೌನ ಮತ್ತು ಬುದ್ಧಿವಂತರ ಬುದ್ಧಿವಂತಿಕೆಯಾಗಿ ನೋಡಿ."
+        }
       }
     },
     {
@@ -578,14 +1343,34 @@
         "verse_id": "BG10.39",
         "img_landscape": "sloks/{size}/chapter_10/slok_39/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_39/square/img.png",
-        "transliteration": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||"
+        "transliteration": {
+          "hi": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन |\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||१०-३९||",
+          "en": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||",
+          "be": "যচ্চাপি সর্বভূতানাং বীজং তদহমর্জুন |\nন তদস্তি বিনা যত্স্যান্মযা ভূতং চরাচরম্ ||১০-৩৯||",
+          "ka": "ಯಚ್ಚಾಪಿ ಸರ್ವಭೂತಾನಾಂ ಬೀಜಂ ತದಹಮರ್ಜುನ |\nನ ತದಸ್ತಿ ವಿನಾ ಯತ್ಸ್ಯಾನ್ಮಯಾ ಭೂತಂ ಚರಾಚರಮ್ ||೧೦-೩೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन |\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||१०-३९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन |\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||१०-३९||",
+          "en": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||",
+          "be": "যচ্চাপি সর্বভূতানাং বীজং তদহমর্জুন |\nন তদস্তি বিনা যত্স্যান্মযা ভূতং চরাচরম্ ||১০-৩৯||",
+          "ka": "ಯಚ್ಚಾಪಿ ಸರ್ವಭೂತಾನಾಂ ಬೀಜಂ ತದಹಮರ್ಜುನ |\nನ ತದಸ್ತಿ ವಿನಾ ಯತ್ಸ್ಯಾನ್ಮಯಾ ಭೂತಂ ಚರಾಚರಮ್ ||೧೦-೩೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Know God as the seed of all beings; no moving or unmoving creature can exist without the divine presence."
+        "life_application": {
+          "hi": "ईश्वर को सभी प्राणियों के बीज के रूप में जानो; कोई भी गतिशील या स्थिर प्राणी ईश्वरीय उपस्थिति के बिना अस्तित्व में नहीं रह सकता।",
+          "en": "Know God as the seed of all beings; no moving or unmoving creature can exist without the divine presence.",
+          "be": "ঈশ্বরকে সমস্ত প্রাণীর বীজ হিসাবে জান; ঐশ্বরিক উপস্থিতি ছাড়া কোনো চলমান বা অচল প্রাণী থাকতে পারে না।",
+          "ka": "ದೇವರನ್ನು ಎಲ್ಲಾ ಜೀವಿಗಳ ಬೀಜವೆಂದು ತಿಳಿಯಿರಿ; ಯಾವುದೇ ಚಲಿಸುವ ಅಥವಾ ಚಲಿಸದ ಜೀವಿಗಳು ದೈವಿಕ ಉಪಸ್ಥಿತಿಯಿಲ್ಲದೆ ಅಸ್ತಿತ್ವದಲ್ಲಿರಲು ಸಾಧ್ಯವಿಲ್ಲ."
+        }
       }
     },
     {
@@ -593,14 +1378,34 @@
         "verse_id": "BG10.40",
         "img_landscape": "sloks/{size}/chapter_10/slok_40/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_40/square/img.png",
-        "transliteration": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||"
+        "transliteration": {
+          "hi": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |\nएष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||",
+          "en": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||",
+          "be": "নান্তোঽস্তি মম দিব্যানাং বিভূতীনাং পরন্তপ |\nএষ তূদ্দেশতঃ প্রোক্তো বিভূতের্বিস্তরো মযা ||১০-৪০||",
+          "ka": "ನಾನ್ತೋಽಸ್ತಿ ಮಮ ದಿವ್ಯಾನಾಂ ವಿಭೂತೀನಾಂ ಪರನ್ತಪ |\nಏಷ ತೂದ್ದೇಶತಃ ಪ್ರೋಕ್ತೋ ವಿಭೂತೇರ್ವಿಸ್ತರೋ ಮಯಾ ||೧೦-೪೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |\nएष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |\nएष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||",
+          "en": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||",
+          "be": "নান্তোঽস্তি মম দিব্যানাং বিভূতীনাং পরন্তপ |\nএষ তূদ্দেশতঃ প্রোক্তো বিভূতের্বিস্তরো মযা ||১০-৪০||",
+          "ka": "ನಾನ್ತೋಽಸ್ತಿ ಮಮ ದಿವ್ಯಾನಾಂ ವಿಭೂತೀನಾಂ ಪರನ್ತಪ |\nಏಷ ತೂದ್ದೇಶತಃ ಪ್ರೋಕ್ತೋ ವಿಭೂತೇರ್ವಿಸ್ತರೋ ಮಯಾ ||೧೦-೪೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Understand that there is no end to divine manifestations; what has been declared is merely a brief illustration."
+        "life_application": {
+          "hi": "समझें कि दिव्य अभिव्यक्तियों का कोई अंत नहीं है; जो घोषित किया गया है वह केवल एक संक्षिप्त चित्रण है।",
+          "en": "Understand that there is no end to divine manifestations; what has been declared is merely a brief illustration.",
+          "be": "বুঝুন যে ঐশ্বরিক প্রকাশের কোন শেষ নেই; যা ঘোষণা করা হয়েছে তা একটি সংক্ষিপ্ত চিত্র মাত্র।",
+          "ka": "ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಗಳಿಗೆ ಅಂತ್ಯವಿಲ್ಲ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ; ಏನನ್ನು ಘೋಷಿಸಲಾಗಿದೆ ಎಂಬುದು ಕೇವಲ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆಯಾಗಿದೆ."
+        }
       }
     },
     {
@@ -608,14 +1413,34 @@
         "verse_id": "BG10.41",
         "img_landscape": "sloks/{size}/chapter_10/slok_41/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_41/square/img.png",
-        "transliteration": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||"
+        "transliteration": {
+          "hi": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||१०-४१||",
+          "en": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||",
+          "be": "যদ্যদ্বিভূতিমত্সত্ত্বং শ্রীমদূর্জিতমেব বা |\nতত্তদেবাবগচ্ছ ত্বং মম তেজোংঽশসম্ভবম্ ||১০-৪১||",
+          "ka": "ಯದ್ಯದ್ವಿಭೂತಿಮತ್ಸತ್ತ್ವಂ ಶ್ರೀಮದೂರ್ಜಿತಮೇವ ವಾ |\nತತ್ತದೇವಾವಗಚ್ಛ ತ್ವಂ ಮಮ ತೇಜೋಂಽಶಸಮ್ಭವಮ್ ||೧೦-೪೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||१०-४१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||१०-४१||",
+          "en": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||",
+          "be": "যদ্যদ্বিভূতিমত্সত্ত্বং শ্রীমদূর্জিতমেব বা |\nতত্তদেবাবগচ্ছ ত্বং মম তেজোংঽশসম্ভবম্ ||১০-৪১||",
+          "ka": "ಯದ್ಯದ್ವಿಭೂತಿಮತ್ಸತ್ತ್ವಂ ಶ್ರೀಮದೂರ್ಜಿತಮೇವ ವಾ |\nತತ್ತದೇವಾವಗಚ್ಛ ತ್ವಂ ಮಮ ತೇಜೋಂಽಶಸಮ್ಭವಮ್ ||೧೦-೪೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Whatever is glorious, beautiful, or mighty—know that to spring from a fragment of divine splendor."
+        "life_application": {
+          "hi": "जो कुछ भी गौरवशाली, सुंदर या शक्तिशाली है, उसे दिव्य वैभव के एक टुकड़े से उत्पन्न होने वाला जान लें।",
+          "en": "Whatever is glorious, beautiful, or mighty—know that to spring from a fragment of divine splendor.",
+          "be": "মহিমান্বিত, সুন্দর বা পরাক্রমশালী যাই হোক না কেন - জেনে রাখুন যে ঐশ্বরিক জাঁকজমকের একটি টুকরো থেকে উৎপন্ন হয়।",
+          "ka": "ವೈಭವೋಪೇತವೋ, ಸುಂದರವೋ ಅಥವಾ ಪರಾಕ್ರಮವೋ-ದೈವಿಕ ತೇಜಸ್ಸಿನ ತುಣುಕಿನಿಂದ ಹುಟ್ಟುವುದು ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -623,14 +1448,34 @@
         "verse_id": "BG10.42",
         "img_landscape": "sloks/{size}/chapter_10/slok_42/landscape/img.png",
         "img_square": "sloks/{size}/chapter_10/slok_42/square/img.png",
-        "transliteration": "athavā bahunaitena kiṃ jñātena tavārjuna .\nviṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ||10-42||"
+        "transliteration": {
+          "hi": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||१०-४२||",
+          "en": "athavā bahunaitena kiṃ jñātena tavārjuna .\nviṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ||10-42||",
+          "be": "অথবা বহুনৈতেন কিং জ্ঞাতেন তবার্জুন |\nবিষ্টভ্যাহমিদং কৃত্স্নমেকাংশেন স্থিতো জগত্ ||১০-৪২||",
+          "ka": "ಅಥವಾ ಬಹುನೈತೇನ ಕಿಂ ಜ್ಞಾತೇನ ತವಾರ್ಜುನ |\nವಿಷ್ಟಭ್ಯಾಹಮಿದಂ ಕೃತ್ಸ್ನಮೇಕಾಂಶೇನ ಸ್ಥಿತೋ ಜಗತ್ ||೧೦-೪೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||१०-४२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||१०-४२||",
+          "en": "athavā bahunaitena kiṃ jñātena tavārjuna .\nviṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ||10-42||",
+          "be": "অথবা বহুনৈতেন কিং জ্ঞাতেন তবার্জুন |\nবিষ্টভ্যাহমিদং কৃত্স্নমেকাংশেন স্থিতো জগত্ ||১০-৪২||",
+          "ka": "ಅಥವಾ ಬಹುನೈತೇನ ಕಿಂ ಜ್ಞಾತೇನ ತವಾರ್ಜುನ |\nವಿಷ್ಟಭ್ಯಾಹಮಿದಂ ಕೃತ್ಸ್ನಮೇಕಾಂಶೇನ ಸ್ಥಿತೋ ಜಗತ್ ||೧೦-೪೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Realize that God pervades and supports this entire universe with a single small fraction of divine power."
+        "life_application": {
+          "hi": "एहसास करें कि ईश्वर दिव्य शक्ति के एक छोटे से अंश से इस संपूर्ण ब्रह्मांड में व्याप्त है और उसका समर्थन करता है।",
+          "en": "Realize that God pervades and supports this entire universe with a single small fraction of divine power.",
+          "be": "উপলব্ধি করুন যে ঈশ্বর ঐশ্বরিক শক্তির একটি ছোট ভগ্নাংশ দিয়ে এই সমগ্র মহাবিশ্বকে পরিব্যাপ্ত এবং সমর্থন করেন।",
+          "ka": "ದೈವಿಕ ಶಕ್ತಿಯ ಒಂದು ಸಣ್ಣ ಭಾಗದಿಂದ ದೇವರು ಈ ಇಡೀ ವಿಶ್ವವನ್ನು ವ್ಯಾಪಿಸುತ್ತಾನೆ ಮತ್ತು ಬೆಂಬಲಿಸುತ್ತಾನೆ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ."
+        }
       }
     }
   ]

@@ -1,6 +1,11 @@
 {
   "chapter": {
-    "translation": "Sraddhatraya Vibhaga Yoga"
+    "translation": {
+      "hi": "श्रद्धात्रय विभाग योग",
+      "en": "Sraddhatraya Vibhaga Yoga",
+      "be": "শ্রদ্ধাত্রয় বিভাগ যোগ",
+      "ka": "ಶ್ರದ್ಧಾತ್ರಯ ವಿಭಾಗ ಯೋಗ"
+    }
   },
   "sloks": [
     {
@@ -8,14 +13,34 @@
         "verse_id": "BG17.1",
         "img_landscape": "sloks/{size}/chapter_17/slok_1/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_1/square/img.png",
-        "transliteration": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||"
+        "transliteration": {
+          "hi": "अर्जुन उवाच |\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः |\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||",
+          "en": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
+          "be": "অর্জুন উবাচ |\nযে শাস্ত্রবিধিমুত্সৃজ্য যজন্তে শ্রদ্ধযান্বিতাঃ |\nতেষাং নিষ্ঠা তু কা কৃষ্ণ সত্ত্বমাহো রজস্তমঃ ||১৭-১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಯೇ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ಯಜನ್ತೇ ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ |\nತೇಷಾಂ ನಿಷ್ಠಾ ತು ಕಾ ಕೃಷ್ಣ ಸತ್ತ್ವಮಾಹೋ ರಜಸ್ತಮಃ ||೧೭-೧||"
+        }
       },
       "verse_text": {
-        "speaker": "अर्जुन",
-        "slok": "अर्जुन उवाच |\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः |\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||"
+        "speaker": {
+          "hi": "अर्जुन",
+          "en": "Arjuna",
+          "be": "অর্জুন",
+          "ka": "ಅರ್ಜುನ"
+        },
+        "slok": {
+          "hi": "अर्जुन उवाच |\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः |\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||",
+          "en": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
+          "be": "অর্জুন উবাচ |\nযে শাস্ত্রবিধিমুত্সৃজ্য যজন্তে শ্রদ্ধযান্বিতাঃ |\nতেষাং নিষ্ঠা তু কা কৃষ্ণ সত্ত্বমাহো রজস্তমঃ ||১৭-১||",
+          "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಯೇ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ಯಜನ್ತೇ ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ |\nತೇಷಾಂ ನಿಷ್ಠಾ ತು ಕಾ ಕೃಷ್ಣ ಸತ್ತ್ವಮಾಹೋ ರಜಸ್ತಮಃ ||೧೭-೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Arjuna asks: What is the state of those who perform sacrifice with faith but setting aside scriptural rules? Sattva, Rajas, or Tamas?"
+        "life_application": {
+          "hi": "अर्जुन पूछते हैं: जो लोग शास्त्रीय नियमों को ताक पर रखकर श्रद्धापूर्वक यज्ञ करते हैं उनकी क्या स्थिति होती है? सत्त्व, रजस, या तमस?",
+          "en": "Arjuna asks: What is the state of those who perform sacrifice with faith but setting aside scriptural rules? Sattva, Rajas, or Tamas?",
+          "be": "অর্জুন প্রশ্ন করেন: যারা ধর্মের বিধি-বিধান বাদ দিয়ে বিশ্বাসের সাথে যজ্ঞ করে তাদের অবস্থা কী? সত্ত্ব, রজস, নাকি তমস?",
+          "ka": "ಅರ್ಜುನ ಕೇಳುತ್ತಾನೆ: ಧರ್ಮಶಾಸ್ತ್ರದ ನಿಯಮಗಳನ್ನು ಬದಿಗಿಟ್ಟು ನಂಬಿಕೆಯಿಂದ ತ್ಯಾಗ ಮಾಡುವವರ ಸ್ಥಿತಿ ಏನು? ಸತ್ವ, ರಜಸ್ ಅಥವಾ ತಮಸ್?"
+        }
       }
     },
     {
@@ -23,14 +48,34 @@
         "verse_id": "BG17.2",
         "img_landscape": "sloks/{size}/chapter_17/slok_2/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_2/square/img.png",
-        "transliteration": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||"
+        "transliteration": {
+          "hi": "श्रीभगवानुवाच |\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ||१७-२||",
+          "en": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
+          "be": "শ্রীভগবানুবাচ |\nত্রিবিধা ভবতি শ্রদ্ধা দেহিনাং সা স্বভাবজা |\nসাত্ত্বিকী রাজসী চৈব তামসী চেতি তাং শৃণু ||১৭-২||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nತ್ರಿವಿಧಾ ಭವತಿ ಶ್ರದ್ಧಾ ದೇಹಿನಾಂ ಸಾ ಸ್ವಭಾವಜಾ |\nಸಾತ್ತ್ವಿಕೀ ರಾಜಸೀ ಚೈವ ತಾಮಸೀ ಚೇತಿ ತಾಂ ಶೃಣು ||೧೭-೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रीभगवानुवाच |\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ||१७-२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रीभगवानुवाच |\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ||१७-२||",
+          "en": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
+          "be": "শ্রীভগবানুবাচ |\nত্রিবিধা ভবতি শ্রদ্ধা দেহিনাং সা স্বভাবজা |\nসাত্ত্বিকী রাজসী চৈব তামসী চেতি তাং শৃণু ||১৭-২||",
+          "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nತ್ರಿವಿಧಾ ಭವತಿ ಶ್ರದ್ಧಾ ದೇಹಿನಾಂ ಸಾ ಸ್ವಭಾವಜಾ |\nಸಾತ್ತ್ವಿಕೀ ರಾಜಸೀ ಚೈವ ತಾಮಸೀ ಚೇತಿ ತಾಂ ಶೃಣು ||೧೭-೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Threefold is the faith of embodied beings, born of their nature: Sattvic, Rajasic, and Tamasic; hear of it."
+        "life_application": {
+          "hi": "देहधारी प्राणियों का विश्वास तीन प्रकार का होता है, जो उनके स्वभाव से उत्पन्न होता है: सात्विक, राजसिक और तामसिक; इसके बारे में सुनो.",
+          "en": "Threefold is the faith of embodied beings, born of their nature: Sattvic, Rajasic, and Tamasic; hear of it.",
+          "be": "তিনগুণ হল মূর্ত প্রাণীদের বিশ্বাস, তাদের প্রকৃতি থেকে জন্মগ্রহণ করে: সাত্ত্বিক, রাজসিক এবং তামসিক; এটা শুনতে",
+          "ka": "ಸಾತ್ವಿಕ, ರಾಜಸಿಕ, ಮತ್ತು ತಾಮಸಿಕ, ಅವುಗಳ ಸ್ವಭಾವದಿಂದ ಹುಟ್ಟಿದ ಮೂರ್ತರೂಪಿ ಜೀವಿಗಳ ನಂಬಿಕೆ ಮೂರು ಪಟ್ಟು; ಅದನ್ನು ಕೇಳಿ."
+        }
       }
     },
     {
@@ -38,14 +83,34 @@
         "verse_id": "BG17.3",
         "img_landscape": "sloks/{size}/chapter_17/slok_3/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_3/square/img.png",
-        "transliteration": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||"
+        "transliteration": {
+          "hi": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत |\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ||१७-३||",
+          "en": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
+          "be": "সত্ত্বানুরূপা সর্বস্য শ্রদ্ধা ভবতি ভারত |\nশ্রদ্ধামযোঽযং পুরুষো যো যচ্ছ্রদ্ধঃ স এব সঃ ||১৭-৩||",
+          "ka": "ಸತ್ತ್ವಾನುರೂಪಾ ಸರ್ವಸ್ಯ ಶ್ರದ್ಧಾ ಭವತಿ ಭಾರತ |\nಶ್ರದ್ಧಾಮಯೋಽಯಂ ಪುರುಷೋ ಯೋ ಯಚ್ಛ್ರದ್ಧಃ ಸ ಏವ ಸಃ ||೧೭-೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत |\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ||१७-३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत |\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ||१७-३||",
+          "en": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
+          "be": "সত্ত্বানুরূপা সর্বস্য শ্রদ্ধা ভবতি ভারত |\nশ্রদ্ধামযোঽযং পুরুষো যো যচ্ছ্রদ্ধঃ স এব সঃ ||১৭-৩||",
+          "ka": "ಸತ್ತ್ವಾನುರೂಪಾ ಸರ್ವಸ್ಯ ಶ್ರದ್ಧಾ ಭವತಿ ಭಾರತ |\nಶ್ರದ್ಧಾಮಯೋಽಯಂ ಪುರುಷೋ ಯೋ ಯಚ್ಛ್ರದ್ಧಃ ಸ ಏವ ಸಃ ||೧೭-೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Faith of each accords with his nature; a person consists of his faith; whatever his faith is, that indeed he is."
+        "life_application": {
+          "hi": "प्रत्येक का विश्वास उसके स्वभाव के अनुरूप है; एक व्यक्ति अपने विश्वास से बनता है; उसका विश्वास जो भी हो, वह वास्तव में वही है।",
+          "en": "Faith of each accords with his nature; a person consists of his faith; whatever his faith is, that indeed he is.",
+          "be": "প্রত্যেকের বিশ্বাস তার প্রকৃতির সাথে মিলিত হয়; একজন ব্যক্তি তার বিশ্বাস নিয়ে গঠিত; তার বিশ্বাস যাই হোক না কেন, প্রকৃতপক্ষে সে সেই।",
+          "ka": "ಪ್ರತಿಯೊಬ್ಬರ ನಂಬಿಕೆಯು ಅವನ ಸ್ವಭಾವಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತದೆ; ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ತನ್ನ ನಂಬಿಕೆಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ; ಅವನ ನಂಬಿಕೆ ಏನೇ ಇರಲಿ, ಅವನು ನಿಜವಾಗಿಯೂ ಇದ್ದಾನೆ."
+        }
       }
     },
     {
@@ -53,14 +118,34 @@
         "verse_id": "BG17.4",
         "img_landscape": "sloks/{size}/chapter_17/slok_4/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_4/square/img.png",
-        "transliteration": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||"
+        "transliteration": {
+          "hi": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||",
+          "en": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
+          "be": "যজন্তে সাত্ত্বিকা দেবান্যক্ষরক্ষাংসি রাজসাঃ |\nপ্রেতান্ভূতগণাংশ্চান্যে যজন্তে তামসা জনাঃ ||১৭-৪||",
+          "ka": "ಯಜನ್ತೇ ಸಾತ್ತ್ವಿಕಾ ದೇವಾನ್ಯಕ್ಷರಕ್ಷಾಂಸಿ ರಾಜಸಾಃ |\nಪ್ರೇತಾನ್ಭೂತಗಣಾಂಶ್ಚಾನ್ಯೇ ಯಜನ್ತೇ ತಾಮಸಾ ಜನಾಃ ||೧೭-೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||",
+          "en": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
+          "be": "যজন্তে সাত্ত্বিকা দেবান্যক্ষরক্ষাংসি রাজসাঃ |\nপ্রেতান্ভূতগণাংশ্চান্যে যজন্তে তামসা জনাঃ ||১৭-৪||",
+          "ka": "ಯಜನ್ತೇ ಸಾತ್ತ್ವಿಕಾ ದೇವಾನ್ಯಕ್ಷರಕ್ಷಾಂಸಿ ರಾಜಸಾಃ |\nಪ್ರೇತಾನ್ಭೂತಗಣಾಂಶ್ಚಾನ್ಯೇ ಯಜನ್ತೇ ತಾಮಸಾ ಜನಾಃ ||೧೭-೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Sattvic people worship celestial beings; Rajasic worship demigods and demons; Tamasic worship spirits and ghosts."
+        "life_application": {
+          "hi": "सात्विक लोग दिव्य प्राणियों की पूजा करते हैं; राजसिक देवताओं और राक्षसों की पूजा करते हैं; तामसी आत्माओं और भूतों की पूजा करते हैं।",
+          "en": "Sattvic people worship celestial beings; Rajasic worship demigods and demons; Tamasic worship spirits and ghosts.",
+          "be": "সাত্ত্বিক লোকেরা স্বর্গীয় প্রাণীর পূজা করে; রাজসিক দেবদেবী ও অসুরদের পূজা করে; তামসিক পূজা আত্মা ও ভূত।",
+          "ka": "ಸಾತ್ವಿಕ ಜನರು ಆಕಾಶ ಜೀವಿಗಳನ್ನು ಪೂಜಿಸುತ್ತಾರೆ; ರಾಜಸಿಕ ಆರಾಧನೆ ದೇವತೆಗಳು ಮತ್ತು ರಾಕ್ಷಸರು; ತಾಮಸಿಕ ಆರಾಧನಾ ಶಕ್ತಿಗಳು ಮತ್ತು ಪ್ರೇತಗಳು."
+        }
       }
     },
     {
@@ -68,14 +153,34 @@
         "verse_id": "BG17.5",
         "img_landscape": "sloks/{size}/chapter_17/slok_5/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_5/square/img.png",
-        "transliteration": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||"
+        "transliteration": {
+          "hi": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः |\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||",
+          "en": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
+          "be": "অশাস্ত্রবিহিতং ঘোরং তপ্যন্তে যে তপো জনাঃ |\nদম্ভাহংকারসংযুক্তাঃ কামরাগবলান্বিতাঃ ||১৭-৫||",
+          "ka": "ಅಶಾಸ್ತ್ರವಿಹಿತಂ ಘೋರಂ ತಪ್ಯನ್ತೇ ಯೇ ತಪೋ ಜನಾಃ |\nದಮ್ಭಾಹಂಕಾರಸಂಯುಕ್ತಾಃ ಕಾಮರಾಗಬಲಾನ್ವಿತಾಃ ||೧೭-೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः |\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः |\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||",
+          "en": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
+          "be": "অশাস্ত্রবিহিতং ঘোরং তপ্যন্তে যে তপো জনাঃ |\nদম্ভাহংকারসংযুক্তাঃ কামরাগবলান্বিতাঃ ||১৭-৫||",
+          "ka": "ಅಶಾಸ್ತ್ರವಿಹಿತಂ ಘೋರಂ ತಪ್ಯನ್ತೇ ಯೇ ತಪೋ ಜನಾಃ |\nದಮ್ಭಾಹಂಕಾರಸಂಯುಕ್ತಾಃ ಕಾಮರಾಗಬಲಾನ್ವಿತಾಃ ||೧೭-೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Those who practice severe non-scriptural austerities out of hypocrisy, egotism, desire, and attachment..."
+        "life_application": {
+          "hi": "जो लोग पाखंड, अहंकार, इच्छा और आसक्ति के कारण गंभीर गैर-शास्त्रीय तपस्या का अभ्यास करते हैं...",
+          "en": "Those who practice severe non-scriptural austerities out of hypocrisy, egotism, desire, and attachment...",
+          "be": "যারা কপটতা, অহংকার, আকাঙ্ক্ষা এবং আসক্তি থেকে কঠোর অশাস্ত্রীয় তপস্যা অনুশীলন করে...",
+          "ka": "ಬೂಟಾಟಿಕೆ, ಅಹಂಕಾರ, ಆಸೆ ಮತ್ತು ಬಾಂಧವ್ಯದಿಂದ ಶಾಸ್ತ್ರಬದ್ಧವಲ್ಲದ ತೀವ್ರವಾದ ತಪಸ್ಸನ್ನು ಆಚರಿಸುವವರು..."
+        }
       }
     },
     {
@@ -83,14 +188,34 @@
         "verse_id": "BG17.6",
         "img_landscape": "sloks/{size}/chapter_17/slok_6/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_6/square/img.png",
-        "transliteration": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||"
+        "transliteration": {
+          "hi": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः |\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||",
+          "en": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
+          "be": "কর্ষযন্তঃ শরীরস্থং ভূতগ্রামমচেতসঃ |\nমাং চৈবান্তঃশরীরস্থং তান্বিদ্ধ্যাসুরনিশ্চযান্ ||১৭-৬||",
+          "ka": "ಕರ್ಷಯನ್ತಃ ಶರೀರಸ್ಥಂ ಭೂತಗ್ರಾಮಮಚೇತಸಃ |\nಮಾಂ ಚೈವಾನ್ತಃಶರೀರಸ್ಥಂ ತಾನ್ವಿದ್ಧ್ಯಾಸುರನಿಶ್ಚಯಾನ್ ||೧೭-೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः |\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः |\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||",
+          "en": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
+          "be": "কর্ষযন্তঃ শরীরস্থং ভূতগ্রামমচেতসঃ |\nমাং চৈবান্তঃশরীরস্থং তান্বিদ্ধ্যাসুরনিশ্চযান্ ||১৭-৬||",
+          "ka": "ಕರ್ಷಯನ್ತಃ ಶರೀರಸ್ಥಂ ಭೂತಗ್ರಾಮಮಚೇತಸಃ |\nಮಾಂ ಚೈವಾನ್ತಃಶರೀರಸ್ಥಂ ತಾನ್ವಿದ್ಧ್ಯಾಸುರನಿಶ್ಚಯಾನ್ ||೧೭-೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Senselessly torturing elements in the body and God dwelling within—know them to be of demonic resolves."
+        "life_application": {
+          "hi": "शरीर के तत्वों और भीतर निवास करने वाले ईश्वर को मूर्खतापूर्वक कष्ट देना-उन्हें राक्षसी संकल्पों वाला जानो।",
+          "en": "Senselessly torturing elements in the body and God dwelling within—know them to be of demonic resolves.",
+          "be": "শরীরের মধ্যে নির্বোধভাবে অত্যাচারকারী উপাদান এবং ভিতরে ঈশ্বর বাস করেন - তাদের শয়তানী সংকল্পের হতে জানুন।",
+          "ka": "ದೇಹದಲ್ಲಿರುವ ಅಂಶಗಳನ್ನು ಪ್ರಜ್ಞಾಶೂನ್ಯವಾಗಿ ಹಿಂಸಿಸುವುದು ಮತ್ತು ಒಳಗೆ ವಾಸಿಸುವ ದೇವರು-ಅವು ರಾಕ್ಷಸ ಸಂಕಲ್ಪಗಳೆಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -98,14 +223,34 @@
         "verse_id": "BG17.7",
         "img_landscape": "sloks/{size}/chapter_17/slok_7/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_7/square/img.png",
-        "transliteration": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||"
+        "transliteration": {
+          "hi": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः |\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||",
+          "en": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
+          "be": "আহারস্ত্বপি সর্বস্য ত্রিবিধো ভবতি প্রিযঃ |\nযজ্ঞস্তপস্তথা দানং তেষাং ভেদমিমং শৃণু ||১৭-৭||",
+          "ka": "ಆಹಾರಸ್ತ್ವಪಿ ಸರ್ವಸ್ಯ ತ್ರಿವಿಧೋ ಭವತಿ ಪ್ರಿಯಃ |\nಯಜ್ಞಸ್ತಪಸ್ತಥಾ ದಾನಂ ತೇಷಾಂ ಭೇದಮಿಮಂ ಶೃಣು ||೧೭-೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः |\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः |\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||",
+          "en": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
+          "be": "আহারস্ত্বপি সর্বস্য ত্রিবিধো ভবতি প্রিযঃ |\nযজ্ঞস্তপস্তথা দানং তেষাং ভেদমিমং শৃণু ||১৭-৭||",
+          "ka": "ಆಹಾರಸ್ತ್ವಪಿ ಸರ್ವಸ್ಯ ತ್ರಿವಿಧೋ ಭವತಿ ಪ್ರಿಯಃ |\nಯಜ್ಞಸ್ತಪಸ್ತಥಾ ದಾನಂ ತೇಷಾಂ ಭೇದಮಿಮಂ ಶೃಣು ||೧೭-೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Food liked by each is threefold, so also sacrifice, austerity, and charity; hear their distinctions."
+        "life_application": {
+          "hi": "प्रत्येक को पसंद किया जाने वाला भोजन तीन गुना है, इसलिए त्याग, तपस्या और दान भी; उनके भेद सुनो।",
+          "en": "Food liked by each is threefold, so also sacrifice, austerity, and charity; hear their distinctions.",
+          "be": "প্রত্যেকের পছন্দের খাদ্য ত্রিগুণ, তাই ত্যাগ, তপস্যা এবং দানও; তাদের পার্থক্য শুনুন।",
+          "ka": "ಪ್ರತಿಯೊಬ್ಬರೂ ಇಷ್ಟಪಡುವ ಆಹಾರವು ಮೂರು ಪಟ್ಟು, ಹಾಗೆಯೇ ತ್ಯಾಗ, ತಪಸ್ಸು ಮತ್ತು ದಾನ; ಅವರ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಕೇಳಿ."
+        }
       }
     },
     {
@@ -113,14 +258,34 @@
         "verse_id": "BG17.8",
         "img_landscape": "sloks/{size}/chapter_17/slok_8/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_8/square/img.png",
-        "transliteration": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||"
+        "transliteration": {
+          "hi": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः |\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||",
+          "en": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
+          "be": "আযুঃসত্ত্ববলারোগ্যসুখপ্রীতিবিবর্ধনাঃ |\nরস্যাঃ স্নিগ্ধাঃ স্থিরা হৃদ্যা আহারাঃ সাত্ত্বিকপ্রিযাঃ ||১৭-৮||",
+          "ka": "ಆಯುಃಸತ್ತ್ವಬಲಾರೋಗ್ಯಸುಖಪ್ರೀತಿವಿವರ್ಧನಾಃ |\nರಸ್ಯಾಃ ಸ್ನಿಗ್ಧಾಃ ಸ್ಥಿರಾ ಹೃದ್ಯಾ ಆಹಾರಾಃ ಸಾತ್ತ್ವಿಕಪ್ರಿಯಾಃ ||೧೭-೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः |\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः |\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||",
+          "en": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
+          "be": "আযুঃসত্ত্ববলারোগ্যসুখপ্রীতিবিবর্ধনাঃ |\nরস্যাঃ স্নিগ্ধাঃ স্থিরা হৃদ্যা আহারাঃ সাত্ত্বিকপ্রিযাঃ ||১৭-৮||",
+          "ka": "ಆಯುಃಸತ್ತ್ವಬಲಾರೋಗ್ಯಸುಖಪ್ರೀತಿವಿವರ್ಧನಾಃ |\nರಸ್ಯಾಃ ಸ್ನಿಗ್ಧಾಃ ಸ್ಥಿರಾ ಹೃದ್ಯಾ ಆಹಾರಾಃ ಸಾತ್ತ್ವಿಕಪ್ರಿಯಾಃ ||೧೭-೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Foods increasing life, purity, strength, health, joy, cheerfulness, succulent, fatty, wholesome, pleasing—liked by Sattvic."
+        "life_application": {
+          "hi": "आयु, पवित्रता, शक्ति, स्वास्थ्य, आनंद, प्रसन्नता, रसीला, वसायुक्त, पौष्टिक, सुखदायक-सात्त्विक को पसंद आने वाले आहार-विहार।",
+          "en": "Foods increasing life, purity, strength, health, joy, cheerfulness, succulent, fatty, wholesome, pleasing—liked by Sattvic.",
+          "be": "জীবন বৃদ্ধিকারী খাদ্য, পবিত্রতা, শক্তি, স্বাস্থ্য, আনন্দ, প্রফুল্লতা, রসালো, চর্বিযুক্ত, স্বাস্থ্যকর, আনন্দদায়ক—সাত্ত্বিকের পছন্দ।",
+          "ka": "ಆಯುಷ್ಯ, ಶುದ್ಧತೆ, ಶಕ್ತಿ, ಆರೋಗ್ಯ, ಸಂತೋಷ, ಲವಲವಿಕೆ, ರಸಭರಿತ, ಕೊಬ್ಬಿನ, ಆರೋಗ್ಯಕರ, ಸಂತೋಷವನ್ನು ಹೆಚ್ಚಿಸುವ ಆಹಾರಗಳು ಸಾತ್ವಿಕನಿಗೆ ಇಷ್ಟವಾಗುತ್ತವೆ."
+        }
       }
     },
     {
@@ -128,14 +293,34 @@
         "verse_id": "BG17.9",
         "img_landscape": "sloks/{size}/chapter_17/slok_9/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_9/square/img.png",
-        "transliteration": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||"
+        "transliteration": {
+          "hi": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||",
+          "en": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
+          "be": "কট্বম্ললবণাত্যুষ্ণতীক্ষ্ণরূক্ষবিদাহিনঃ |\nআহারা রাজসস্যেষ্টা দুঃখশোকামযপ্রদাঃ ||১৭-৯||",
+          "ka": "ಕಟ್ವಮ್ಲಲವಣಾತ್ಯುಷ್ಣತೀಕ್ಷ್ಣರೂಕ್ಷವಿದಾಹಿನಃ |\nಆಹಾರಾ ರಾಜಸಸ್ಯೇಷ್ಟಾ ದುಃಖಶೋಕಾಮಯಪ್ರದಾಃ ||೧೭-೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||",
+          "en": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
+          "be": "কট্বম্ললবণাত্যুষ্ণতীক্ষ্ণরূক্ষবিদাহিনঃ |\nআহারা রাজসস্যেষ্টা দুঃখশোকামযপ্রদাঃ ||১৭-৯||",
+          "ka": "ಕಟ್ವಮ್ಲಲವಣಾತ್ಯುಷ್ಣತೀಕ್ಷ್ಣರೂಕ್ಷವಿದಾಹಿನಃ |\nಆಹಾರಾ ರಾಜಸಸ್ಯೇಷ್ಟಾ ದುಃಖಶೋಕಾಮಯಪ್ರದಾಃ ||೧೭-೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Foods bitter, sour, salty, excessively hot, pungent, dry, burning—desired by Rajasic, causing pain, grief, sickness."
+        "life_application": {
+          "hi": "भोजन कड़वा, खट्टा, नमकीन, अत्यधिक गर्म, तीखा, सूखा, जलन पैदा करने वाला - राजसिक के लिए वांछित, दर्द, शोक, बीमारी का कारण बनता है।",
+          "en": "Foods bitter, sour, salty, excessively hot, pungent, dry, burning—desired by Rajasic, causing pain, grief, sickness.",
+          "be": "তেতো, টক, নোনতা, অত্যধিক গরম, তীক্ষ্ণ, শুষ্ক, জ্বালাময় - রাজসিকের ইচ্ছাকৃত খাদ্য, যা ব্যথা, শোক, অসুস্থতা সৃষ্টি করে।",
+          "ka": "ಕಹಿ, ಹುಳಿ, ಖಾರ, ಅತಿಯಾದ ಬಿಸಿ, ಕಟುವಾದ, ಒಣ, ಸುಡುವ ಆಹಾರಗಳು-ರಾಜಸಿಕ್‌ನಿಂದ ಬಯಸಿ, ನೋವು, ದುಃಖ, ಅನಾರೋಗ್ಯವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+        }
       }
     },
     {
@@ -143,14 +328,34 @@
         "verse_id": "BG17.10",
         "img_landscape": "sloks/{size}/chapter_17/slok_10/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_10/square/img.png",
-        "transliteration": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||"
+        "transliteration": {
+          "hi": "यातयामं गतरसं पूति पर्युषितं च यत् |\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||",
+          "en": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
+          "be": "যাতযামং গতরসং পূতি পর্যুষিতং চ যত্ |\nউচ্ছিষ্টমপি চামেধ্যং ভোজনং তামসপ্রিযম্ ||১৭-১০||",
+          "ka": "ಯಾತಯಾಮಂ ಗತರಸಂ ಪೂತಿ ಪರ್ಯುಷಿತಂ ಚ ಯತ್ |\nಉಚ್ಛಿಷ್ಟಮಪಿ ಚಾಮೇಧ್ಯಂ ಭೋಜನಂ ತಾಮಸಪ್ರಿಯಮ್ ||೧೭-೧೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यातयामं गतरसं पूति पर्युषितं च यत् |\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यातयामं गतरसं पूति पर्युषितं च यत् |\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||",
+          "en": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
+          "be": "যাতযামং গতরসং পূতি পর্যুষিতং চ যত্ |\nউচ্ছিষ্টমপি চামেধ্যং ভোজনং তামসপ্রিযম্ ||১৭-১০||",
+          "ka": "ಯಾತಯಾಮಂ ಗತರಸಂ ಪೂತಿ ಪರ್ಯುಷಿತಂ ಚ ಯತ್ |\nಉಚ್ಛಿಷ್ಟಮಪಿ ಚಾಮೇಧ್ಯಂ ಭೋಜನಂ ತಾಮಸಪ್ರಿಯಮ್ ||೧೭-೧೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Avoid eating stale, tasteless, or impure food, choosing wholesome meals that nourish body and mind."
+        "life_application": {
+          "hi": "बासी, बेस्वाद या अशुद्ध भोजन खाने से बचें, शरीर और दिमाग को पोषण देने वाला पौष्टिक भोजन चुनें।",
+          "en": "Avoid eating stale, tasteless, or impure food, choosing wholesome meals that nourish body and mind.",
+          "be": "বাসি, স্বাদহীন বা অপরিষ্কার খাবার খাওয়া থেকে বিরত থাকুন, স্বাস্থ্যকর খাবার বেছে নিন যা শরীর ও মনকে পুষ্ট করে।",
+          "ka": "ಹಳಸಿದ, ರುಚಿಯಿಲ್ಲದ ಅಥವಾ ಅಶುದ್ಧ ಆಹಾರವನ್ನು ಸೇವಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ, ದೇಹ ಮತ್ತು ಮನಸ್ಸನ್ನು ಪೋಷಿಸುವ ಆರೋಗ್ಯಕರ ಊಟವನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -158,14 +363,34 @@
         "verse_id": "BG17.11",
         "img_landscape": "sloks/{size}/chapter_17/slok_11/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_11/square/img.png",
-        "transliteration": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||"
+        "transliteration": {
+          "hi": "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||",
+          "en": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
+          "be": "অফলাঙ্ক্ষিভির্যজ্ঞো বিধিদৃষ্টো য ইজ্যতে |\nযষ্টব্যমেবেতি মনঃ সমাধায স সাত্ত্বিকঃ ||১৭-১১||",
+          "ka": "ಅಫಲಾಙ್ಕ್ಷಿಭಿರ್ಯಜ್ಞೋ ವಿಧಿದೃಷ್ಟೋ ಯ ಇಜ್ಯತೇ |\nಯಷ್ಟವ್ಯಮೇವೇತಿ ಮನಃ ಸಮಾಧಾಯ ಸ ಸಾತ್ತ್ವಿಕಃ ||೧೭-೧೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||",
+          "en": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
+          "be": "অফলাঙ্ক্ষিভির্যজ্ঞো বিধিদৃষ্টো য ইজ্যতে |\nযষ্টব্যমেবেতি মনঃ সমাধায স সাত্ত্বিকঃ ||১৭-১১||",
+          "ka": "ಅಫಲಾಙ್ಕ್ಷಿಭಿರ್ಯಜ್ಞೋ ವಿಧಿದೃಷ್ಟೋ ಯ ಇಜ್ಯತೇ |\nಯಷ್ಟವ್ಯಮೇವೇತಿ ಮನಃ ಸಮಾಧಾಯ ಸ ಸಾತ್ತ್ವಿಕಃ ||೧೭-೧೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Sacrifice offered according to scriptural rules by those desiring no fruit, believing 'it ought to be done'—is Sattvic."
+        "life_application": {
+          "hi": "फल की इच्छा न रखने वाले लोगों द्वारा 'यह किया जाना चाहिए' यह मानकर शास्त्रोक्त नियमों के अनुसार किया गया बलिदान सात्विक है।",
+          "en": "Sacrifice offered according to scriptural rules by those desiring no fruit, believing 'it ought to be done'—is Sattvic.",
+          "be": "'যা করা উচিত' বলে বিশ্বাস করে কোন ফল কামনা না করে শাস্ত্রীয় নিয়মানুযায়ী যজ্ঞ করা হয়—সাত্ত্বিক।",
+          "ka": "ಯಾವುದೇ ಫಲವನ್ನು ಬಯಸದೆ, 'ಅದನ್ನು ಮಾಡಲೇಬೇಕು' ಎಂದು ನಂಬುವವರು ಧರ್ಮಗ್ರಂಥದ ನಿಯಮಗಳ ಪ್ರಕಾರ ಅರ್ಪಿಸುವ ತ್ಯಾಗವು ಸಾತ್ವಿಕವಾಗಿದೆ."
+        }
       }
     },
     {
@@ -173,14 +398,34 @@
         "verse_id": "BG17.12",
         "img_landscape": "sloks/{size}/chapter_17/slok_12/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_12/square/img.png",
-        "transliteration": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||"
+        "transliteration": {
+          "hi": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||",
+          "en": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
+          "be": "অভিসন্ধায তু ফলং দম্ভার্থমপি চৈব যত্ |\nইজ্যতে ভরতশ্রেষ্ঠ তং যজ্ঞং বিদ্ধি রাজসম্ ||১৭-১২||",
+          "ka": "ಅಭಿಸನ್ಧಾಯ ತು ಫಲಂ ದಮ್ಭಾರ್ಥಮಪಿ ಚೈವ ಯತ್ |\nಇಜ್ಯತೇ ಭರತಶ್ರೇಷ್ಠ ತಂ ಯಜ್ಞಂ ವಿದ್ಧಿ ರಾಜಸಮ್ ||೧೭-೧೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||",
+          "en": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
+          "be": "অভিসন্ধায তু ফলং দম্ভার্থমপি চৈব যত্ |\nইজ্যতে ভরতশ্রেষ্ঠ তং যজ্ঞং বিদ্ধি রাজসম্ ||১৭-১২||",
+          "ka": "ಅಭಿಸನ್ಧಾಯ ತು ಫಲಂ ದಮ್ಭಾರ್ಥಮಪಿ ಚೈವ ಯತ್ |\nಇಜ್ಯತೇ ಭರತಶ್ರೇಷ್ಠ ತಂ ಯಜ್ಞಂ ವಿದ್ಧಿ ರಾಜಸಮ್ ||೧೭-೧೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Sacrifice offered seeking fruit or out of ostentation—know that to be Rajasic sacrifice."
+        "life_application": {
+          "hi": "जो यज्ञ फल की इच्छा से या दिखावे के लिए किया जाता है, उसे राजसिक यज्ञ समझो।",
+          "en": "Sacrifice offered seeking fruit or out of ostentation—know that to be Rajasic sacrifice.",
+          "be": "যজ্ঞ ফল চাওয়ার জন্য বা দৃষ্টান্তের জন্য দেওয়া হয়-জানুন রাজসিক বলি।",
+          "ka": "ಫಲವನ್ನು ಬಯಸಿ ಅಥವಾ ಆಡಂಬರದಿಂದ ಅರ್ಪಿಸಿದ ತ್ಯಾಗ-ಅದು ರಾಜಸಿಕ ತ್ಯಾಗ ಎಂದು ತಿಳಿಯಿರಿ."
+        }
       }
     },
     {
@@ -188,14 +433,34 @@
         "verse_id": "BG17.13",
         "img_landscape": "sloks/{size}/chapter_17/slok_13/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_13/square/img.png",
-        "transliteration": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||"
+        "transliteration": {
+          "hi": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||",
+          "en": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
+          "be": "বিধিহীনমসৃষ্টান্নং মন্ত্রহীনমদক্ষিণম্ |\nশ্রদ্ধাবিরহিতং যজ্ঞং তামসং পরিচক্ষতে ||১৭-১৩||",
+          "ka": "ವಿಧಿಹೀನಮಸೃಷ್ಟಾನ್ನಂ ಮನ್ತ್ರಹೀನಮದಕ್ಷಿಣಮ್ |\nಶ್ರದ್ಧಾವಿರಹಿತಂ ಯಜ್ಞಂ ತಾಮಸಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||",
+          "en": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
+          "be": "বিধিহীনমসৃষ্টান্নং মন্ত্রহীনমদক্ষিণম্ |\nশ্রদ্ধাবিরহিতং যজ্ঞং তামসং পরিচক্ষতে ||১৭-১৩||",
+          "ka": "ವಿಧಿಹೀನಮಸೃಷ್ಟಾನ್ನಂ ಮನ್ತ್ರಹೀನಮದಕ್ಷಿಣಮ್ |\nಶ್ರದ್ಧಾವಿರಹಿತಂ ಯಜ್ಞಂ ತಾಮಸಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "Sacrifice contrary to rules, without food distribution, without chants, without gift, devoid of faith—is Tamasic."
+        "life_application": {
+          "hi": "नियमों के विपरीत, भोजन वितरण के बिना, मंत्रों के बिना, दान के बिना, विश्वास से रहित त्याग तामसिक है।",
+          "en": "Sacrifice contrary to rules, without food distribution, without chants, without gift, devoid of faith—is Tamasic.",
+          "be": "নিয়মের পরিপন্থী, অন্নবণ্টন ব্যতীত, জপ ছাড়া, দান ছাড়া, বিশ্বাস বর্জিত যজ্ঞ- তামসিক।",
+          "ka": "ನಿಯಮಗಳಿಗೆ ವ್ಯತಿರಿಕ್ತವಾದ ತ್ಯಾಗ, ಆಹಾರ ವಿತರಣೆಯಿಲ್ಲದೆ, ಮಂತ್ರಗಳಿಲ್ಲದೆ, ಉಡುಗೊರೆಯಿಲ್ಲದ, ನಂಬಿಕೆಯಿಲ್ಲದ - ತಾಮಸಿಕವಾಗಿದೆ."
+        }
       }
     },
     {
@@ -203,14 +468,34 @@
         "verse_id": "BG17.14",
         "img_landscape": "sloks/{size}/chapter_17/slok_14/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_14/square/img.png",
-        "transliteration": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||"
+        "transliteration": {
+          "hi": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् |\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||",
+          "en": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
+          "be": "দেবদ্বিজগুরুপ্রাজ্ঞপূজনং শৌচমার্জবম্ |\nব্রহ্মচর্যমহিংসা চ শারীরং তপ উচ্যতে ||১৭-১৪||",
+          "ka": "ದೇವದ್ವಿಜಗುರುಪ್ರಾಜ್ಞಪೂಜನಂ ಶೌಚಮಾರ್ಜವಮ್ |\nಬ್ರಹ್ಮಚರ್ಯಮಹಿಂಸಾ ಚ ಶಾರೀರಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् |\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् |\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||",
+          "en": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
+          "be": "দেবদ্বিজগুরুপ্রাজ্ঞপূজনং শৌচমার্জবম্ |\nব্রহ্মচর্যমহিংসা চ শারীরং তপ উচ্যতে ||১৭-১৪||",
+          "ka": "ದೇವದ್ವಿಜಗುರುಪ್ರಾಜ್ಞಪೂಜನಂ ಶೌಚಮಾರ್ಜವಮ್ |\nಬ್ರಹ್ಮಚರ್ಯಮಹಿಂಸಾ ಚ ಶಾರೀರಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Practice physical austerity by respecting elders, maintaining cleanliness, and observing non-violence in your daily actions."
+        "life_application": {
+          "hi": "बड़ों का सम्मान करके, स्वच्छता बनाए रखकर और अपने दैनिक कार्यों में अहिंसा का पालन करके शारीरिक तपस्या का अभ्यास करें।",
+          "en": "Practice physical austerity by respecting elders, maintaining cleanliness, and observing non-violence in your daily actions.",
+          "be": "গুরুজনদের সম্মান করে, পরিচ্ছন্নতা বজায় রেখে এবং আপনার দৈনন্দিন কাজে অহিংসা পালন করে শারীরিক তপস্যা অনুশীলন করুন।",
+          "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಕಾರ್ಯಗಳಲ್ಲಿ ಹಿರಿಯರನ್ನು ಗೌರವಿಸುವ ಮೂಲಕ, ಶುಚಿತ್ವವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಮತ್ತು ಅಹಿಂಸೆಯನ್ನು ಪಾಲಿಸುವ ಮೂಲಕ ದೈಹಿಕ ಕಠಿಣತೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+        }
       }
     },
     {
@@ -218,14 +503,34 @@
         "verse_id": "BG17.15",
         "img_landscape": "sloks/{size}/chapter_17/slok_15/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_15/square/img.png",
-        "transliteration": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||"
+        "transliteration": {
+          "hi": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
+          "en": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
+          "be": "অনুদ্বেগকরং বাক্যং সত্যং প্রিযহিতং চ যত্ |\nস্বাধ্যাযাভ্যসনং চৈব বাঙ্মযং তপ উচ্যতে ||১৭-১৫||",
+          "ka": "ಅನುದ್ವೇಗಕರಂ ವಾಕ್ಯಂ ಸತ್ಯಂ ಪ್ರಿಯಹಿತಂ ಚ ಯತ್ |\nಸ್ವಾಧ್ಯಾಯಾಭ್ಯಸನಂ ಚೈವ ವಾಙ್ಮಯಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
+          "en": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
+          "be": "অনুদ্বেগকরং বাক্যং সত্যং প্রিযহিতং চ যত্ |\nস্বাধ্যাযাভ্যসনং চৈব বাঙ্মযং তপ উচ্যতে ||১৭-১৫||",
+          "ka": "ಅನುದ್ವೇಗಕರಂ ವಾಕ್ಯಂ ಸತ್ಯಂ ಪ್ರಿಯಹಿತಂ ಚ ಯತ್ |\nಸ್ವಾಧ್ಯಾಯಾಭ್ಯಸನಂ ಚೈವ ವಾಙ್ಮಯಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Words causing no excitement, truthful, pleasant, beneficial, and regular scriptural study—called vocal austerity."
+        "life_application": {
+          "hi": "उत्तेजना उत्पन्न न करने वाले, सत्य, सुखदायक, हितकारी तथा नियमित शास्त्र अध्ययन वाले शब्द - वाचिक तप कहलाते हैं।",
+          "en": "Words causing no excitement, truthful, pleasant, beneficial, and regular scriptural study—called vocal austerity.",
+          "be": "কোন উত্তেজনা সৃষ্টিকারী শব্দ, সত্যবাদী, আনন্দদায়ক, উপকারী, এবং নিয়মিত শাস্ত্রীয় অধ্যয়ন - যাকে কণ্ঠ্য তপস্যা বলা হয়।",
+          "ka": "ಯಾವುದೇ ಉತ್ಸಾಹವನ್ನು ಉಂಟುಮಾಡದ ಪದಗಳು, ಸತ್ಯವಾದ, ಆಹ್ಲಾದಕರ, ಪ್ರಯೋಜನಕಾರಿ ಮತ್ತು ನಿಯಮಿತವಾದ ಶಾಸ್ತ್ರಗ್ರಂಥದ ಅಧ್ಯಯನವನ್ನು ಗಾಯನ ಕಠಿಣತೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -233,14 +538,34 @@
         "verse_id": "BG17.16",
         "img_landscape": "sloks/{size}/chapter_17/slok_16/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_16/square/img.png",
-        "transliteration": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||"
+        "transliteration": {
+          "hi": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः |\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||",
+          "en": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
+          "be": "মনঃ প্রসাদঃ সৌম্যত্বং মৌনমাত্মবিনিগ্রহঃ |\nভাবসংশুদ্ধিরিত্যেতত্তপো মানসমুচ্যতে ||১৭-১৬||",
+          "ka": "ಮನಃ ಪ್ರಸಾದಃ ಸೌಮ್ಯತ್ವಂ ಮೌನಮಾತ್ಮವಿನಿಗ್ರಹಃ |\nಭಾವಸಂಶುದ್ಧಿರಿತ್ಯೇತತ್ತಪೋ ಮಾನಸಮುಚ್ಯತೇ ||೧೭-೧೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः |\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः |\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||",
+          "en": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
+          "be": "মনঃ প্রসাদঃ সৌম্যত্বং মৌনমাত্মবিনিগ্রহঃ |\nভাবসংশুদ্ধিরিত্যেতত্তপো মানসমুচ্যতে ||১৭-১৬||",
+          "ka": "ಮನಃ ಪ್ರಸಾದಃ ಸೌಮ್ಯತ್ವಂ ಮೌನಮಾತ್ಮವಿನಿಗ್ರಹಃ |\nಭಾವಸಂಶುದ್ಧಿರಿತ್ಯೇತತ್ತಪೋ ಮಾನಸಮುಚ್ಯತೇ ||೧೭-೧೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "Maintain mental serenity, gentleness, silence, and self-restraint to cultivate deep purity of heart today."
+        "life_application": {
+          "hi": "आज हृदय की गहरी शुद्धता विकसित करने के लिए मानसिक शांति, सौम्यता, मौन और आत्म-संयम बनाए रखें।",
+          "en": "Maintain mental serenity, gentleness, silence, and self-restraint to cultivate deep purity of heart today.",
+          "be": "মানসিক প্রশান্তি, ভদ্রতা, নীরবতা এবং আত্মসংযম বজায় রাখুন আজ হৃদয়ের গভীর বিশুদ্ধতা গড়ে তোলার জন্য।",
+          "ka": "ಇಂದು ಹೃದಯದ ಆಳವಾದ ಶುದ್ಧತೆಯನ್ನು ಬೆಳೆಸಲು ಮಾನಸಿಕ ಪ್ರಶಾಂತತೆ, ಸೌಮ್ಯತೆ, ಮೌನ ಮತ್ತು ಸ್ವಯಂ ಸಂಯಮವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ."
+        }
       }
     },
     {
@@ -248,14 +573,34 @@
         "verse_id": "BG17.17",
         "img_landscape": "sloks/{size}/chapter_17/slok_17/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_17/square/img.png",
-        "transliteration": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||"
+        "transliteration": {
+          "hi": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः |\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||",
+          "en": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
+          "be": "শ্রদ্ধযা পরযা তপ্তং তপস্তত্ত্রিবিধং নরৈঃ |\nঅফলাকাঙ্ক্ষিভির্যুক্তৈঃ সাত্ত্বিকং পরিচক্ষতে ||১৭-১৭||",
+          "ka": "ಶ್ರದ್ಧಯಾ ಪರಯಾ ತಪ್ತಂ ತಪಸ್ತತ್ತ್ರಿವಿಧಂ ನರೈಃ |\nಅಫಲಾಕಾಙ್ಕ್ಷಿಭಿರ್ಯುಕ್ತೈಃ ಸಾತ್ತ್ವಿಕಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः |\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः |\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||",
+          "en": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
+          "be": "শ্রদ্ধযা পরযা তপ্তং তপস্তত্ত্রিবিধং নরৈঃ |\nঅফলাকাঙ্ক্ষিভির্যুক্তৈঃ সাত্ত্বিকং পরিচক্ষতে ||১৭-১৭||",
+          "ka": "ಶ್ರದ್ಧಯಾ ಪರಯಾ ತಪ್ತಂ ತಪಸ್ತತ್ತ್ರಿವಿಧಂ ನರೈಃ |\nಅಫಲಾಕಾಙ್ಕ್ಷಿಭಿರ್ಯುಕ್ತೈಃ ಸಾತ್ತ್ವಿಕಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "This threefold austerity practiced with supreme faith by unattached men seeking no fruit—called Sattvic."
+        "life_application": {
+          "hi": "फल की इच्छा न रखने वाले अनासक्त पुरुषों द्वारा सर्वोच्च विश्वास के साथ की जाने वाली यह त्रिविध तपस्या सात्विक कहलाती है।",
+          "en": "This threefold austerity practiced with supreme faith by unattached men seeking no fruit—called Sattvic.",
+          "be": "এই ত্রিবিধ তপস্যার অভ্যাস করা হয় পরম বিশ্বাসের সাথে অসংলগ্ন পুরুষেরা কোন ফল না পেয়ে-যাকে সাত্ত্বিক বলা হয়।",
+          "ka": "ಈ ತ್ರಿವಿಧ ತಪಸ್ಸನ್ನು ಅಂಟಿಕೊಂಡಿಲ್ಲದ ಪುರುಷರು ಯಾವುದೇ ಫಲವನ್ನು ಬಯಸುವುದಿಲ್ಲ-ಸಾತ್ವಿಕ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಮೂಲಕ ಅತ್ಯುನ್ನತ ನಂಬಿಕೆಯೊಂದಿಗೆ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -263,14 +608,34 @@
         "verse_id": "BG17.18",
         "img_landscape": "sloks/{size}/chapter_17/slok_18/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_18/square/img.png",
-        "transliteration": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||"
+        "transliteration": {
+          "hi": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् |\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ||१७-१८||",
+          "en": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
+          "be": "সত্কারমানপূজার্থং তপো দম্ভেন চৈব যত্ |\nক্রিযতে তদিহ প্রোক্তং রাজসং চলমধ্রুবম্ ||১৭-১৮||",
+          "ka": "ಸತ್ಕಾರಮಾನಪೂಜಾರ್ಥಂ ತಪೋ ದಮ್ಭೇನ ಚೈವ ಯತ್ |\nಕ್ರಿಯತೇ ತದಿಹ ಪ್ರೋಕ್ತಂ ರಾಜಸಂ ಚಲಮಧ್ರುವಮ್ ||೧೭-೧೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् |\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ||१७-१८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् |\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ||१७-१८||",
+          "en": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
+          "be": "সত্কারমানপূজার্থং তপো দম্ভেন চৈব যত্ |\nক্রিযতে তদিহ প্রোক্তং রাজসং চলমধ্রুবম্ ||১৭-১৮||",
+          "ka": "ಸತ್ಕಾರಮಾನಪೂಜಾರ್ಥಂ ತಪೋ ದಮ್ಭೇನ ಚೈವ ಯತ್ |\nಕ್ರಿಯತೇ ತದಿಹ ಪ್ರೋಕ್ತಂ ರಾಜಸಂ ಚಲಮಧ್ರುವಮ್ ||೧೭-೧೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Avoid performing good deeds or self-discipline merely to gain praise, public honor, or showy status."
+        "life_application": {
+          "hi": "केवल प्रशंसा, सार्वजनिक सम्मान या दिखावटी रुतबा हासिल करने के लिए अच्छे कर्म या आत्म-अनुशासन करने से बचें।",
+          "en": "Avoid performing good deeds or self-discipline merely to gain praise, public honor, or showy status.",
+          "be": "শুধুমাত্র প্রশংসা, সর্বজনীন সম্মান বা প্রদর্শনী মর্যাদা লাভের জন্য ভাল কাজ বা স্ব-শৃঙ্খলা এড়িয়ে চলুন।",
+          "ka": "ಕೇವಲ ಹೊಗಳಿಕೆ, ಸಾರ್ವಜನಿಕ ಗೌರವ, ಅಥವಾ ಶೋಭೆಯ ಸ್ಥಾನಮಾನವನ್ನು ಪಡೆಯಲು ಉತ್ತಮ ಕಾರ್ಯಗಳನ್ನು ಅಥವಾ ಸ್ವಯಂ-ಶಿಸ್ತುಗಳನ್ನು ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        }
       }
     },
     {
@@ -278,14 +643,34 @@
         "verse_id": "BG17.19",
         "img_landscape": "sloks/{size}/chapter_17/slok_19/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_19/square/img.png",
-        "transliteration": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||"
+        "transliteration": {
+          "hi": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः |\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||",
+          "en": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
+          "be": "মূঢগ্রাহেণাত্মনো যত্পীডযা ক্রিযতে তপঃ |\nপরস্যোত্সাদনার্থং বা তত্তামসমুদাহৃতম্ ||১৭-১৯||",
+          "ka": "ಮೂಢಗ್ರಾಹೇಣಾತ್ಮನೋ ಯತ್ಪೀಡಯಾ ಕ್ರಿಯತೇ ತಪಃ |\nಪರಸ್ಯೋತ್ಸಾದನಾರ್ಥಂ ವಾ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೧೯||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः |\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः |\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||",
+          "en": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
+          "be": "মূঢগ্রাহেণাত্মনো যত্পীডযা ক্রিযতে তপঃ |\nপরস্যোত্সাদনার্থং বা তত্তামসমুদাহৃতম্ ||১৭-১৯||",
+          "ka": "ಮೂಢಗ್ರಾಹೇಣಾತ್ಮನೋ ಯತ್ಪೀಡಯಾ ಕ್ರಿಯತೇ ತಪಃ |\nಪರಸ್ಯೋತ್ಸಾದನಾರ್ಥಂ ವಾ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೧೯||"
+        }
       },
       "verse_translation": {
-        "life_application": "Austerity practiced out of foolish notion, with self-torture, or to ruin another—called Tamasic."
+        "life_application": {
+          "hi": "स्वयं को कष्ट देने या दूसरे को बर्बाद करने के लिए मूर्खतापूर्ण धारणा से की गई तपस्या तामसिक कहलाती है।",
+          "en": "Austerity practiced out of foolish notion, with self-torture, or to ruin another—called Tamasic.",
+          "be": "মূর্খ ধারণা থেকে, আত্ম-নির্যাতন বা অন্যকে ধ্বংস করার জন্য তপস্যা অনুশীলন করা হয় - যাকে তামসিক বলা হয়।",
+          "ka": "ಮೂರ್ಖ ಕಲ್ಪನೆಯಿಂದ, ಸ್ವಯಂ-ಹಿಂಸೆಯೊಂದಿಗೆ ಅಥವಾ ತಾಮಸಿಕ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಇನ್ನೊಂದನ್ನು ಹಾಳುಮಾಡಲು ಕಠಿಣತೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಲಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -293,14 +678,34 @@
         "verse_id": "BG17.20",
         "img_landscape": "sloks/{size}/chapter_17/slok_20/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_20/square/img.png",
-        "transliteration": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||"
+        "transliteration": {
+          "hi": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे |\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||",
+          "en": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
+          "be": "দাতব্যমিতি যদ্দানং দীযতেঽনুপকারিণে |\nদেশে কালে চ পাত্রে চ তদ্দানং সাত্ত্বিকং স্মৃতম্ ||১৭-২০||",
+          "ka": "ದಾತವ್ಯಮಿತಿ ಯದ್ದಾನಂ ದೀಯತೇಽನುಪಕಾರಿಣೇ |\nದೇಶೇ ಕಾಲೇ ಚ ಪಾತ್ರೇ ಚ ತದ್ದಾನಂ ಸಾತ್ತ್ವಿಕಂ ಸ್ಮೃತಮ್ ||೧೭-೨೦||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे |\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे |\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||",
+          "en": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
+          "be": "দাতব্যমিতি যদ্দানং দীযতেঽনুপকারিণে |\nদেশে কালে চ পাত্রে চ তদ্দানং সাত্ত্বিকং স্মৃতম্ ||১৭-২০||",
+          "ka": "ದಾತವ್ಯಮಿತಿ ಯದ್ದಾನಂ ದೀಯತೇಽನುಪಕಾರಿಣೇ |\nದೇಶೇ ಕಾಲೇ ಚ ಪಾತ್ರೇ ಚ ತದ್ದಾನಂ ಸಾತ್ತ್ವಿಕಂ ಸ್ಮೃತಮ್ ||೧೭-೨೦||"
+        }
       },
       "verse_translation": {
-        "life_application": "Charity given to worthy person, at right place and time, expecting nothing in return, 'duty to give'—is Sattvic."
+        "life_application": {
+          "hi": "योग्य व्यक्ति को, सही स्थान और समय पर दिया गया दान, बदले में कुछ भी न पाने की आशा करते हुए, 'देना कर्तव्य' - सात्विक है।",
+          "en": "Charity given to worthy person, at right place and time, expecting nothing in return, 'duty to give'—is Sattvic.",
+          "be": "যোগ্য ব্যক্তিকে যথাস্থানে ও সময়ে দান করা, বিনিময়ে কিছু আশা না করা, 'দান করা কর্তব্য'—সাত্ত্বিক।",
+          "ka": "ಯೋಗ್ಯ ವ್ಯಕ್ತಿಗೆ, ಸರಿಯಾದ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ಸಮಯದಲ್ಲಿ, ಪ್ರತಿಯಾಗಿ ಏನನ್ನೂ ನಿರೀಕ್ಷಿಸದೆ ನೀಡಲಾಗುವ ದಾನ, 'ಕೊಡುವ ಕರ್ತವ್ಯ'-ಸಾತ್ವಿಕವಾಗಿದೆ."
+        }
       }
     },
     {
@@ -308,14 +713,34 @@
         "verse_id": "BG17.21",
         "img_landscape": "sloks/{size}/chapter_17/slok_21/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_21/square/img.png",
-        "transliteration": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||"
+        "transliteration": {
+          "hi": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||",
+          "en": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
+          "be": "যত্তু প্রত্যুপকারার্থং ফলমুদ্দিশ্য বা পুনঃ |\nদীযতে চ পরিক্লিষ্টং তদ্দানং রাজসং স্মৃতম্ ||১৭-২১||",
+          "ka": "ಯತ್ತು ಪ್ರತ್ಯುಪಕಾರಾರ್ಥಂ ಫಲಮುದ್ದಿಶ್ಯ ವಾ ಪುನಃ |\nದೀಯತೇ ಚ ಪರಿಕ್ಲಿಷ್ಟಂ ತದ್ದಾನಂ ರಾಜಸಂ ಸ್ಮೃತಮ್ ||೧೭-೨೧||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||",
+          "en": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
+          "be": "যত্তু প্রত্যুপকারার্থং ফলমুদ্দিশ্য বা পুনঃ |\nদীযতে চ পরিক্লিষ্টং তদ্দানং রাজসং স্মৃতম্ ||১৭-২১||",
+          "ka": "ಯತ್ತು ಪ್ರತ್ಯುಪಕಾರಾರ್ಥಂ ಫಲಮುದ್ದಿಶ್ಯ ವಾ ಪುನಃ |\nದೀಯತೇ ಚ ಪರಿಕ್ಲಿಷ್ಟಂ ತದ್ದಾನಂ ರಾಜಸಂ ಸ್ಮೃತಮ್ ||೧೭-೨೧||"
+        }
       },
       "verse_translation": {
-        "life_application": "Give charity willingly and joyfully, avoiding giving reluctantly or expecting any personal return."
+        "life_application": {
+          "hi": "स्वेच्छा से और खुशी से दान दें, अनिच्छा से देने या किसी व्यक्तिगत रिटर्न की उम्मीद करने से बचें।",
+          "en": "Give charity willingly and joyfully, avoiding giving reluctantly or expecting any personal return.",
+          "be": "স্বেচ্ছায় এবং আনন্দের সাথে দাতব্য দান করুন, অনিচ্ছায় দান করা এড়িয়ে চলুন বা ব্যক্তিগত রিটার্নের প্রত্যাশা করুন।",
+          "ka": "ಇಷ್ಟವಿಲ್ಲದೆ ನೀಡುವುದನ್ನು ತಪ್ಪಿಸಿ ಅಥವಾ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಪ್ರತಿಫಲವನ್ನು ನಿರೀಕ್ಷಿಸದೆ, ಸ್ವಇಚ್ಛೆಯಿಂದ ಮತ್ತು ಸಂತೋಷದಿಂದ ದಾನ ನೀಡಿ."
+        }
       }
     },
     {
@@ -323,14 +748,34 @@
         "verse_id": "BG17.22",
         "img_landscape": "sloks/{size}/chapter_17/slok_22/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_22/square/img.png",
-        "transliteration": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||"
+        "transliteration": {
+          "hi": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||",
+          "en": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
+          "be": "অদেশকালে যদ্দানমপাত্রেভ্যশ্চ দীযতে |\nঅসত্কৃতমবজ্ঞাতং তত্তামসমুদাহৃতম্ ||১৭-২২||",
+          "ka": "ಅದೇಶಕಾಲೇ ಯದ್ದಾನಮಪಾತ್ರೇಭ್ಯಶ್ಚ ದೀಯತೇ |\nಅಸತ್ಕೃತಮವಜ್ಞಾತಂ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೨೨||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||",
+          "en": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
+          "be": "অদেশকালে যদ্দানমপাত্রেভ্যশ্চ দীযতে |\nঅসত্কৃতমবজ্ঞাতং তত্তামসমুদাহৃতম্ ||১৭-২২||",
+          "ka": "ಅದೇಶಕಾಲೇ ಯದ್ದಾನಮಪಾತ್ರೇಭ್ಯಶ್ಚ ದೀಯತೇ |\nಅಸತ್ಕೃತಮವಜ್ಞಾತಂ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೭-೨೨||"
+        }
       },
       "verse_translation": {
-        "life_application": "Charity given at wrong place/time, to unworthy persons, without respect or with insult—is Tamasic."
+        "life_application": {
+          "hi": "गलत स्थान/समय पर, अयोग्य व्यक्तियों को, बिना सम्मान के या अपमान के साथ दिया गया दान तामसिक होता है।",
+          "en": "Charity given at wrong place/time, to unworthy persons, without respect or with insult—is Tamasic.",
+          "be": "ভুল স্থানে/সময়ে, অযোগ্য ব্যক্তিকে, সম্মান না করে বা অপমান সহকারে দান করা- তামসিক।",
+          "ka": "ತಪ್ಪಾದ ಸ್ಥಳದಲ್ಲಿ/ಸಮಯದಲ್ಲಿ, ಅಯೋಗ್ಯ ವ್ಯಕ್ತಿಗಳಿಗೆ, ಗೌರವವಿಲ್ಲದೆ ಅಥವಾ ಅವಮಾನದಿಂದ ನೀಡಲಾದ ದಾನವು ತಾಮಸಿಕವಾಗಿದೆ."
+        }
       }
     },
     {
@@ -338,14 +783,34 @@
         "verse_id": "BG17.23",
         "img_landscape": "sloks/{size}/chapter_17/slok_23/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_23/square/img.png",
-        "transliteration": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||"
+        "transliteration": {
+          "hi": "ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः |\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||",
+          "en": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
+          "be": "ওঁতত্সদিতি নির্দেশো ব্রহ্মণস্ত্রিবিধঃ স্মৃতঃ |\nব্রাহ্মণাস্তেন বেদাশ্চ যজ্ঞাশ্চ বিহিতাঃ পুরা ||১৭-২৩||",
+          "ka": "ಓಂತತ್ಸದಿತಿ ನಿರ್ದೇಶೋ ಬ್ರಹ್ಮಣಸ್ತ್ರಿವಿಧಃ ಸ್ಮೃತಃ |\nಬ್ರಾಹ್ಮಣಾಸ್ತೇನ ವೇದಾಶ್ಚ ಯಜ್ಞಾಶ್ಚ ವಿಹಿತಾಃ ಪುರಾ ||೧೭-೨೩||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः |\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः |\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||",
+          "en": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
+          "be": "ওঁতত্সদিতি নির্দেশো ব্রহ্মণস্ত্রিবিধঃ স্মৃতঃ |\nব্রাহ্মণাস্তেন বেদাশ্চ যজ্ঞাশ্চ বিহিতাঃ পুরা ||১৭-২৩||",
+          "ka": "ಓಂತತ್ಸದಿತಿ ನಿರ್ದೇಶೋ ಬ್ರಹ್ಮಣಸ್ತ್ರಿವಿಧಃ ಸ್ಮೃತಃ |\nಬ್ರಾಹ್ಮಣಾಸ್ತೇನ ವೇದಾಶ್ಚ ಯಜ್ಞಾಶ್ಚ ವಿಹಿತಾಃ ಪುರಾ ||೧೭-೨೩||"
+        }
       },
       "verse_translation": {
-        "life_application": "'Om Tat Sat' is declared as threefold designation of Brahman, by which scriptures, rituals, and sacrifices were ordained."
+        "life_application": {
+          "hi": "'ओम तत् सत्' को ब्रह्म के तीन गुना पदनाम के रूप में घोषित किया गया है, जिसके द्वारा शास्त्र, अनुष्ठान और बलिदान निर्धारित किए गए थे।",
+          "en": "'Om Tat Sat' is declared as threefold designation of Brahman, by which scriptures, rituals, and sacrifices were ordained.",
+          "be": "'ওম তৎ সত'কে ব্রাহ্মণের ত্রিগুণ উপাধি হিসাবে ঘোষণা করা হয়, যার দ্বারা শাস্ত্র, আচার এবং বলিদান নির্ধারিত হয়েছিল।",
+          "ka": "'ಓಂ ತತ್ ಸತ್' ಅನ್ನು ಬ್ರಹ್ಮನ ಮೂರು ಪಟ್ಟು ಪದನಾಮವೆಂದು ಘೋಷಿಸಲಾಗಿದೆ, ಅದರ ಮೂಲಕ ಧರ್ಮಗ್ರಂಥಗಳು, ಆಚರಣೆಗಳು ಮತ್ತು ತ್ಯಾಗಗಳನ್ನು ನೇಮಿಸಲಾಯಿತು."
+        }
       }
     },
     {
@@ -353,14 +818,34 @@
         "verse_id": "BG17.24",
         "img_landscape": "sloks/{size}/chapter_17/slok_24/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_24/square/img.png",
-        "transliteration": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||"
+        "transliteration": {
+          "hi": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||",
+          "en": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
+          "be": "তস্মাদোমিত্যুদাহৃত্য যজ্ঞদানতপঃক্রিযাঃ |\nপ্রবর্তন্তে বিধানোক্তাঃ সততং ব্রহ্মবাদিনাম্ ||১৭-২৪||",
+          "ka": "ತಸ್ಮಾದೋಮಿತ್ಯುದಾಹೃತ್ಯ ಯಜ್ಞದಾನತಪಃಕ್ರಿಯಾಃ |\nಪ್ರವರ್ತನ್ತೇ ವಿಧಾನೋಕ್ತಾಃ ಸತತಂ ಬ್ರಹ್ಮವಾದಿನಾಮ್ ||೧೭-೨೪||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||",
+          "en": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
+          "be": "তস্মাদোমিত্যুদাহৃত্য যজ্ঞদানতপঃক্রিযাঃ |\nপ্রবর্তন্তে বিধানোক্তাঃ সততং ব্রহ্মবাদিনাম্ ||১৭-২৪||",
+          "ka": "ತಸ್ಮಾದೋಮಿತ್ಯುದಾಹೃತ್ಯ ಯಜ್ಞದಾನತಪಃಕ್ರಿಯಾಃ |\nಪ್ರವರ್ತನ್ತೇ ವಿಧಾನೋಕ್ತಾಃ ಸತತಂ ಬ್ರಹ್ಮವಾದಿನಾಮ್ ||೧೭-೨೪||"
+        }
       },
       "verse_translation": {
-        "life_application": "Therefore, acts of sacrifice, gift, and austerity enjoined by scripture are begun uttering 'Om' by knowers of Brahman."
+        "life_application": {
+          "hi": "इसलिए, शास्त्र द्वारा निर्दिष्ट बलिदान, उपहार और तपस्या के कार्यों को ब्रह्म के जानने वालों द्वारा 'ओम' का उच्चारण करना शुरू किया जाता है।",
+          "en": "Therefore, acts of sacrifice, gift, and austerity enjoined by scripture are begun uttering 'Om' by knowers of Brahman.",
+          "be": "তাই, শাস্ত্র দ্বারা নির্দেশিত ত্যাগ, দান এবং তপস্যার কাজগুলি ব্রাহ্মণ জ্ঞানীদের দ্বারা 'ওম' উচ্চারণ করা শুরু হয়।",
+          "ka": "ಆದ್ದರಿಂದ, ಶಾಸ್ತ್ರದ ಮೂಲಕ ವಿಧಿಸಲಾದ ತ್ಯಾಗ, ದಾನ ಮತ್ತು ತಪಸ್ಸಿನ ಕ್ರಿಯೆಗಳು ಬ್ರಹ್ಮನ ಬಲ್ಲವರಿಂದ 'ಓಂ' ಅನ್ನು ಉಚ್ಚರಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ."
+        }
       }
     },
     {
@@ -368,14 +853,34 @@
         "verse_id": "BG17.25",
         "img_landscape": "sloks/{size}/chapter_17/slok_25/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_25/square/img.png",
-        "transliteration": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||"
+        "transliteration": {
+          "hi": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः |\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||",
+          "en": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
+          "be": "তদিত্যনভিসন্ধায ফলং যজ্ঞতপঃক্রিযাঃ |\nদানক্রিযাশ্চ বিবিধাঃ ক্রিযন্তে মোক্ষকাঙ্ক্ষিভিঃ ||১৭-২৫||",
+          "ka": "ತದಿತ್ಯನಭಿಸನ್ಧಾಯ ಫಲಂ ಯಜ್ಞತಪಃಕ್ರಿಯಾಃ |\nದಾನಕ್ರಿಯಾಶ್ಚ ವಿವಿಧಾಃ ಕ್ರಿಯನ್ತೇ ಮೋಕ್ಷಕಾಙ್ಕ್ಷಿಭಿಃ ||೧೭-೨೫||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः |\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः |\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||",
+          "en": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
+          "be": "তদিত্যনভিসন্ধায ফলং যজ্ঞতপঃক্রিযাঃ |\nদানক্রিযাশ্চ বিবিধাঃ ক্রিযন্তে মোক্ষকাঙ্ক্ষিভিঃ ||১৭-২৫||",
+          "ka": "ತದಿತ್ಯನಭಿಸನ್ಧಾಯ ಫಲಂ ಯಜ್ಞತಪಃಕ್ರಿಯಾಃ |\nದಾನಕ್ರಿಯಾಶ್ಚ ವಿವಿಧಾಃ ಕ್ರಿಯನ್ತೇ ಮೋಕ್ಷಕಾಙ್ಕ್ಷಿಭಿಃ ||೧೭-೨೫||"
+        }
       },
       "verse_translation": {
-        "life_application": "Uttering 'Tat' without seeking fruit, acts of sacrifice, austerity, and gift are performed by seekers of liberation."
+        "life_application": {
+          "hi": "फल की इच्छा किए बिना 'तत्' का उच्चारण करते हुए, मुक्ति के साधकों द्वारा त्याग, तपस्या और दान के कार्य किए जाते हैं।",
+          "en": "Uttering 'Tat' without seeking fruit, acts of sacrifice, austerity, and gift are performed by seekers of liberation.",
+          "be": "ফল না চেয়ে 'তাত' উচ্চারণ, ত্যাগ, তপস্যা এবং দান মুক্তিকামীদের দ্বারা করা হয়।",
+          "ka": "ಫಲವನ್ನು ಅಪೇಕ್ಷಿಸದೆ 'ತತ್' ಅನ್ನು ಉಚ್ಚರಿಸುವುದು, ತ್ಯಾಗ, ತಪಸ್ಸು ಮತ್ತು ದಾನವನ್ನು ಮುಕ್ತಿಯನ್ನು ಹುಡುಕುವವರು ಮಾಡುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -383,14 +888,34 @@
         "verse_id": "BG17.26",
         "img_landscape": "sloks/{size}/chapter_17/slok_26/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_26/square/img.png",
-        "transliteration": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||"
+        "transliteration": {
+          "hi": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते |\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||",
+          "en": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
+          "be": "সদ্ভাবে সাধুভাবে চ সদিত্যেতত্প্রযুজ্যতে |\nপ্রশস্তে কর্মণি তথা সচ্ছব্দঃ পার্থ যুজ্যতে ||১৭-২৬||",
+          "ka": "ಸದ್ಭಾವೇ ಸಾಧುಭಾವೇ ಚ ಸದಿತ್ಯೇತತ್ಪ್ರಯುಜ್ಯತೇ |\nಪ್ರಶಸ್ತೇ ಕರ್ಮಣಿ ತಥಾ ಸಚ್ಛಬ್ದಃ ಪಾರ್ಥ ಯುಜ್ಯತೇ ||೧೭-೨೬||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते |\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते |\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||",
+          "en": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
+          "be": "সদ্ভাবে সাধুভাবে চ সদিত্যেতত্প্রযুজ্যতে |\nপ্রশস্তে কর্মণি তথা সচ্ছব্দঃ পার্থ যুজ্যতে ||১৭-২৬||",
+          "ka": "ಸದ್ಭಾವೇ ಸಾಧುಭಾವೇ ಚ ಸದಿತ್ಯೇತತ್ಪ್ರಯುಜ್ಯತೇ |\nಪ್ರಶಸ್ತೇ ಕರ್ಮಣಿ ತಥಾ ಸಚ್ಛಬ್ದಃ ಪಾರ್ಥ ಯುಜ್ಯತೇ ||೧೭-೨೬||"
+        }
       },
       "verse_translation": {
-        "life_application": "'Sat' is used in sense of reality and goodness; so also 'Sat' is applied to auspicious action."
+        "life_application": {
+          "hi": "'सत्' का प्रयोग वास्तविकता और अच्छाई के अर्थ में किया जाता है; इसी प्रकार शुभ कार्य में भी 'सत्' का प्रयोग किया जाता है।",
+          "en": "'Sat' is used in sense of reality and goodness; so also 'Sat' is applied to auspicious action.",
+          "be": "'সত' বাস্তবতা ও মঙ্গল অর্থে ব্যবহৃত হয়; তাই শুভ কর্মের ক্ষেত্রেও 'শনি' প্রয়োগ করা হয়।",
+          "ka": "'ಸತ್' ಅನ್ನು ವಾಸ್ತವ ಮತ್ತು ಒಳ್ಳೆಯತನದ ಅರ್ಥದಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ; ಆದ್ದರಿಂದ 'ಸತ್' ಅನ್ನು ಮಂಗಳಕರ ಕ್ರಿಯೆಗೆ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ."
+        }
       }
     },
     {
@@ -398,14 +923,34 @@
         "verse_id": "BG17.27",
         "img_landscape": "sloks/{size}/chapter_17/slok_27/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_27/square/img.png",
-        "transliteration": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||"
+        "transliteration": {
+          "hi": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते |\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||",
+          "en": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
+          "be": "যজ্ঞে তপসি দানে চ স্থিতিঃ সদিতি চোচ্যতে |\nকর্ম চৈব তদর্থীযং সদিত্যেবাভিধীযতে ||১৭-২৭||",
+          "ka": "ಯಜ್ಞೇ ತಪಸಿ ದಾನೇ ಚ ಸ್ಥಿತಿಃ ಸದಿತಿ ಚೋಚ್ಯತೇ |\nಕರ್ಮ ಚೈವ ತದರ್ಥೀಯಂ ಸದಿತ್ಯೇವಾಭಿಧೀಯತೇ ||೧೭-೨೭||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते |\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते |\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||",
+          "en": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
+          "be": "যজ্ঞে তপসি দানে চ স্থিতিঃ সদিতি চোচ্যতে |\nকর্ম চৈব তদর্থীযং সদিত্যেবাভিধীযতে ||১৭-২৭||",
+          "ka": "ಯಜ್ಞೇ ತಪಸಿ ದಾನೇ ಚ ಸ್ಥಿತಿಃ ಸದಿತಿ ಚೋಚ್ಯತೇ |\nಕರ್ಮ ಚೈವ ತದರ್ಥೀಯಂ ಸದಿತ್ಯೇವಾಭಿಧೀಯತೇ ||೧೭-೨೭||"
+        }
       },
       "verse_translation": {
-        "life_application": "Steadfastness in sacrifice, austerity, gift is called 'Sat'; action for sake of That is also called 'Sat'."
+        "life_application": {
+          "hi": "त्याग, तपस्या, दान में दृढ़ता को 'सत्' कहा जाता है; उसके लिए की जाने वाली क्रिया को 'सत्' भी कहा जाता है।",
+          "en": "Steadfastness in sacrifice, austerity, gift is called 'Sat'; action for sake of That is also called 'Sat'.",
+          "be": "ত্যাগ, তপস্যা, দানে অবিচলতাকে 'শনি' বলে; এর জন্য কর্মকে 'শনি'ও বলা হয়।",
+          "ka": "ತ್ಯಾಗ, ತಪಸ್ಸು, ದಾನಗಳಲ್ಲಿ ದೃಢತೆಯನ್ನು ‘ಸತ್’ ಎನ್ನುತ್ತಾರೆ; ಅದಕ್ಕಾಗಿ ಮಾಡುವ ಕ್ರಿಯೆಯನ್ನು 'ಸತ್' ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+        }
       }
     },
     {
@@ -413,14 +958,34 @@
         "verse_id": "BG17.28",
         "img_landscape": "sloks/{size}/chapter_17/slok_28/landscape/img.png",
         "img_square": "sloks/{size}/chapter_17/slok_28/square/img.png",
-        "transliteration": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||"
+        "transliteration": {
+          "hi": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||",
+          "en": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
+          "be": "অশ্রদ্ধযা হুতং দত্তং তপস্তপ্তং কৃতং চ যত্ |\nঅসদিত্যুচ্যতে পার্থ ন চ তত্প্রেত্য নো ইহ ||১৭-২৮||",
+          "ka": "ಅಶ್ರದ್ಧಯಾ ಹುತಂ ದತ್ತಂ ತಪಸ್ತಪ್ತಂ ಕೃತಂ ಚ ಯತ್ |\nಅಸದಿತ್ಯುಚ್ಯತೇ ಪಾರ್ಥ ನ ಚ ತತ್ಪ್ರೇತ್ಯ ನೋ ಇಹ ||೧೭-೨೮||"
+        }
       },
       "verse_text": {
-        "speaker": "श्रीभगवान्",
-        "slok": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||"
+        "speaker": {
+          "hi": "श्रीभगवान्",
+          "en": "Sri Bhagavan",
+          "be": "শ্রীভগবান্",
+          "ka": "ಶ್ರೀಭಗವಾನ್"
+        },
+        "slok": {
+          "hi": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||",
+          "en": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
+          "be": "অশ্রদ্ধযা হুতং দত্তং তপস্তপ্তং কৃতং চ যত্ |\nঅসদিত্যুচ্যতে পার্থ ন চ তত্প্রেত্য নো ইহ ||১৭-২৮||",
+          "ka": "ಅಶ್ರದ್ಧಯಾ ಹುತಂ ದತ್ತಂ ತಪಸ್ತಪ್ತಂ ಕೃತಂ ಚ ಯತ್ |\nಅಸದಿತ್ಯುಚ್ಯತೇ ಪಾರ್ಥ ನ ಚ ತತ್ಪ್ರೇತ್ಯ ನೋ ಇಹ ||೧೭-೨೮||"
+        }
       },
       "verse_translation": {
-        "life_application": "Whatever is offered, given, or done without faith is called 'Asat'; it is of no value here or hereafter."
+        "life_application": {
+          "hi": "Whatever is offered, given, or done without faith is called 'Asat'; इसका यहां या इसके बाद कोई मूल्य नहीं है।",
+          "en": "Whatever is offered, given, or done without faith is called 'Asat'; it is of no value here or hereafter.",
+          "be": "বিশ্বাস ছাড়া যা কিছু দেওয়া, দেওয়া বা করা হয় তাকে 'আসত' বলে; এখানে বা পরকালে এর কোনো মূল্য নেই।",
+          "ka": "ನಂಬಿಕೆಯಿಲ್ಲದೆ ಏನನ್ನು ಅರ್ಪಿಸಿದರೂ, ಕೊಟ್ಟರೂ ಅಥವಾ ಮಾಡಿದರೂ ಅದನ್ನು 'ಅಸತ್' ಎನ್ನುತ್ತಾರೆ; ಇದು ಇಲ್ಲಿ ಅಥವಾ ಮುಂದೆ ಯಾವುದೇ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿಲ್ಲ."
+        }
       }
     }
   ]

@@ -14,8 +14,18 @@
         "en": "sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ .\ntāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā ||14-4||",
         "ka": "ಸರ್ವಯೋನಿಷು ಕೌನ್ತೇಯ ಮೂರ್ತಯಃ ಸಮ್ಭವನ್ತಿ ಯಾಃ |\nತಾಸಾಂ ಬ್ರಹ್ಮ ಮಹದ್ಯೋನಿರಹಂ ಬೀಜಪ್ರದಃ ಪಿತಾ ||೧೪-೪||"
     },
-    "transliteration": "sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ .\ntāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā ||14-4||",
-    "life_application": "Recognize that of all forms born in any womb, great nature is the mother and God the seed-giving father.",
+    "transliteration": {
+        "hi": "सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः |\nतासां ब्रह्म महद्योनिरहं बीजप्रदः पिता ||१४-४||",
+        "en": "sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ .\ntāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā ||14-4||",
+        "be": "সর্বযোনিষু কৌন্তেয মূর্তযঃ সম্ভবন্তি যাঃ |\nতাসাং ব্রহ্ম মহদ্যোনিরহং বীজপ্রদঃ পিতা ||১৪-৪||",
+        "ka": "ಸರ್ವಯೋನಿಷು ಕೌನ್ತೇಯ ಮೂರ್ತಯಃ ಸಮ್ಭವನ್ತಿ ಯಾಃ |\nತಾಸಾಂ ಬ್ರಹ್ಮ ಮಹದ್ಯೋನಿರಹಂ ಬೀಜಪ್ರದಃ ಪಿತಾ ||೧೪-೪||"
+    },
+    "life_application": {
+        "hi": "पहचानो कि किसी भी गर्भ में जन्म लेने वाले सभी रूपों में महान प्रकृति ही माता है और ईश्वर ही बीज देने वाला पिता है।",
+        "en": "Recognize that of all forms born in any womb, great nature is the mother and God the seed-giving father.",
+        "be": "যে কোন গর্ভে জন্মগ্রহণকারী সকল রূপের স্বীকৃতি, মহান প্রকৃতি মা এবং ঈশ্বর বীজদাতা পিতা।",
+        "ka": "ಯಾವುದೇ ಗರ್ಭದಲ್ಲಿ ಹುಟ್ಟಿದ ಎಲ್ಲಾ ರೂಪಗಳಲ್ಲಿ ಶ್ರೇಷ್ಠ ಸ್ವಭಾವವು ತಾಯಿ ಮತ್ತು ದೇವರು ಬೀಜವನ್ನು ನೀಡುವ ತಂದೆ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वयोनिषु",
-            "transliteration": "sarvayoniṣu",
-            "meaning": "in all the wombs"
+            "transliteration": {
+                "hi": "सर्वयोनिषु",
+                "en": "sarvayoniṣu",
+                "be": "সর্বযোনিষু",
+                "ka": "ಸರ್ವಯೋನಿಷು"
+            },
+            "meaning": {
+                "hi": "सभी गर्भों में",
+                "en": "in all the wombs",
+                "be": "সমস্ত গর্ভে",
+                "ka": "ಎಲ್ಲಾ ಗರ್ಭಾಶಯಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "मूर्तयः",
-            "transliteration": "mūrtayaḥ",
-            "meaning": "forms"
+            "transliteration": {
+                "hi": "मूर्तयः",
+                "en": "mūrtayaḥ",
+                "be": "মূর্তযঃ",
+                "ka": "ಮೂರ್ತಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रपत्र",
+                "en": "forms",
+                "be": "ফর্ম",
+                "ka": "ರೂಪಗಳು"
+            }
         },
         {
             "sanskrit": "सम्भवन्ति",
-            "transliteration": "sambhavanti",
-            "meaning": "are produced"
+            "transliteration": {
+                "hi": "सम्भवन्ति",
+                "en": "sambhavanti",
+                "be": "সম্ভবন্তি",
+                "ka": "ಸಮ್ಭವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "उत्पादित किये जाते हैं",
+                "en": "are produced",
+                "be": "উত্পাদিত হয়",
+                "ka": "ಉತ್ಪಾದಿಸಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "याः",
-            "transliteration": "yāḥ",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "याः",
+                "en": "yāḥ",
+                "be": "যাঃ",
+                "ka": "ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तासाम्",
-            "transliteration": "tāsām",
-            "meaning": "their"
+            "transliteration": {
+                "hi": "तासाम्",
+                "en": "tāsām",
+                "be": "তাসাম্",
+                "ka": "ತಾಸಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनके",
+                "en": "their",
+                "be": "তাদের",
+                "ka": "ಅವರ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "Brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "Brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "महत्",
-            "transliteration": "mahat",
-            "meaning": "great"
+            "transliteration": {
+                "hi": "महत्",
+                "en": "mahat",
+                "be": "মহত্",
+                "ka": "ಮಹತ್"
+            },
+            "meaning": {
+                "hi": "बढ़िया",
+                "en": "great",
+                "be": "মহান",
+                "ka": "ಶ್ರೇಷ್ಠ"
+            }
         },
         {
             "sanskrit": "योनिः",
-            "transliteration": "yoniḥ",
-            "meaning": "womb"
+            "transliteration": {
+                "hi": "योनिः",
+                "en": "yoniḥ",
+                "be": "যোনিঃ",
+                "ka": "ಯೋನಿಃ"
+            },
+            "meaning": {
+                "hi": "गर्भ",
+                "en": "womb",
+                "be": "গর্ভ",
+                "ka": "ಗರ್ಭ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "बीजप्रदः",
-            "transliteration": "bījapradaḥ",
-            "meaning": "seedgiving"
+            "transliteration": {
+                "hi": "बीजप्रदः",
+                "en": "bījapradaḥ",
+                "be": "বীজপ্রদঃ",
+                "ka": "ಬೀಜಪ್ರದಃ"
+            },
+            "meaning": {
+                "hi": "बीजदान",
+                "en": "seedgiving",
+                "be": "বীজ প্রদান",
+                "ka": "ಬೀಜ ಕೊಡುವುದು"
+            }
         },
         {
             "sanskrit": "पिता",
-            "transliteration": "pitā",
-            "meaning": "father."
+            "transliteration": {
+                "hi": "पिता",
+                "en": "pitā",
+                "be": "পিতা",
+                "ka": "ಪಿತಾ"
+            },
+            "meaning": {
+                "hi": "पिता।",
+                "en": "father.",
+                "be": "পিতা",
+                "ka": "ತಂದೆ."
+            }
         }
     ],
     "tej": {

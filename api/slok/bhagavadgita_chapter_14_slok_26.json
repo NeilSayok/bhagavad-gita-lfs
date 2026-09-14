@@ -14,8 +14,18 @@
         "en": "māṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate ||14-26||",
         "ka": "ಮಾಂ ಚ ಯೋಽವ್ಯಭಿಚಾರೇಣ ಭಕ್ತಿಯೋಗೇನ ಸೇವತೇ |\nಸ ಗುಣಾನ್ಸಮತೀತ್ಯೈತಾನ್ಬ್ರಹ್ಮಭೂಯಾಯ ಕಲ್ಪತೇ ||೧೪-೨೬||"
     },
-    "transliteration": "māṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate ||14-26||",
-    "life_application": "He who serves God with unswerving devotion transcends these modes of nature, becoming fit for liberation.",
+    "transliteration": {
+        "hi": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते |\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||",
+        "en": "māṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate ||14-26||",
+        "be": "মাং চ যোঽব্যভিচারেণ ভক্তিযোগেন সেবতে |\nস গুণান্সমতীত্যৈতান্ব্রহ্মভূযায কল্পতে ||১৪-২৬||",
+        "ka": "ಮಾಂ ಚ ಯೋಽವ್ಯಭಿಚಾರೇಣ ಭಕ್ತಿಯೋಗೇನ ಸೇವತೇ |\nಸ ಗುಣಾನ್ಸಮತೀತ್ಯೈತಾನ್ಬ್ರಹ್ಮಭೂಯಾಯ ಕಲ್ಪತೇ ||೧೪-೨೬||"
+    },
+    "life_application": {
+        "hi": "जो व्यक्ति अटल भक्ति के साथ भगवान की सेवा करता है, वह प्रकृति के इन गुणों को पार कर जाता है और मुक्ति के योग्य बन जाता है।",
+        "en": "He who serves God with unswerving devotion transcends these modes of nature, becoming fit for liberation.",
+        "be": "যিনি অটল ভক্তি সহকারে ভগবানের সেবা করেন তিনি এই প্রকৃতির ধারাগুলিকে অতিক্রম করেন, মুক্তির জন্য উপযুক্ত হন।",
+        "ka": "ಅಚಲವಾದ ಭಕ್ತಿಯಿಂದ ದೇವರ ಸೇವೆ ಮಾಡುವವನು ಈ ಪ್ರಕೃತಿಯ ವಿಧಾನಗಳನ್ನು ಮೀರಿ, ಮುಕ್ತಿಗೆ ಯೋಗ್ಯನಾಗುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "अव्यभिचारेण",
-            "transliteration": "avyabhicāreṇa",
-            "meaning": "unswerving"
+            "transliteration": {
+                "hi": "अव्यभिचारेण",
+                "en": "avyabhicāreṇa",
+                "be": "অব্যভিচারেণ",
+                "ka": "ಅವ್ಯಭಿಚಾರೇಣ"
+            },
+            "meaning": {
+                "hi": "अटल",
+                "en": "unswerving",
+                "be": "অস্থির",
+                "ka": "ಅಚಲ"
+            }
         },
         {
             "sanskrit": "भक्तियोगेन",
-            "transliteration": "bhaktiyogena",
-            "meaning": "with devotion"
+            "transliteration": {
+                "hi": "भक्तियोगेन",
+                "en": "bhaktiyogena",
+                "be": "ভক্তিযোগেন",
+                "ka": "ಭಕ್ತಿಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "भक्ति के साथ",
+                "en": "with devotion",
+                "be": "ভক্তি সহকারে",
+                "ka": "ಭಕ್ತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "सेवते",
-            "transliteration": "sevate",
-            "meaning": "serves"
+            "transliteration": {
+                "hi": "सेवते",
+                "en": "sevate",
+                "be": "সেবতে",
+                "ka": "ಸೇವತೇ"
+            },
+            "meaning": {
+                "hi": "सेवा करता है",
+                "en": "serves",
+                "be": "পরিবেশন করে",
+                "ka": "ಸೇವೆ ಮಾಡುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "गुणान्",
-            "transliteration": "guṇān",
-            "meaning": "Gunas"
+            "transliteration": {
+                "hi": "गुणान्",
+                "en": "guṇān",
+                "be": "গুণান্",
+                "ka": "ಗುಣಾನ್"
+            },
+            "meaning": {
+                "hi": "गुनास",
+                "en": "Gunas",
+                "be": "গুনাস",
+                "ka": "ಗುಣಗಳು"
+            }
         },
         {
             "sanskrit": "समतीत्य",
-            "transliteration": "samatītya",
-            "meaning": "crossing beyond"
+            "transliteration": {
+                "hi": "समतीत्य",
+                "en": "samatītya",
+                "be": "সমতীত্য",
+                "ka": "ಸಮತೀತ್ಯ"
+            },
+            "meaning": {
+                "hi": "परे पार करना",
+                "en": "crossing beyond",
+                "be": "অতিক্রম করা",
+                "ka": "ಮೀರಿ ದಾಟುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "ब्रह्मभूयाय",
-            "transliteration": "brahmabhūyāya",
-            "meaning": "for becoming Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मभूयाय",
+                "en": "brahmabhūyāya",
+                "be": "ব্রহ্মভূযায",
+                "ka": "ಬ್ರಹ್ಮಭೂಯಾಯ"
+            },
+            "meaning": {
+                "hi": "ब्रह्म बनने के लिए",
+                "en": "for becoming Brahman",
+                "be": "ব্রাহ্মণ হওয়ার জন্য",
+                "ka": "ಬ್ರಹ್ಮನಾಗುವುದಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "कल्पते",
-            "transliteration": "kalpate",
-            "meaning": "is fit."
+            "transliteration": {
+                "hi": "कल्पते",
+                "en": "kalpate",
+                "be": "কল্পতে",
+                "ka": "ಕಲ್ಪತೇ"
+            },
+            "meaning": {
+                "hi": "फिट है।",
+                "en": "is fit.",
+                "be": "উপযুক্ত",
+                "ka": "ಫಿಟ್ ಆಗಿದೆ."
+            }
         }
     ],
     "tej": {

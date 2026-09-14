@@ -14,8 +14,18 @@
         "en": "brahmaṇo hi pratiṣṭhāhamamṛtasyāvyayasya ca .\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ||14-27||",
         "ka": "ಬ್ರಹ್ಮಣೋ ಹಿ ಪ್ರತಿಷ್ಠಾಹಮಮೃತಸ್ಯಾವ್ಯಯಸ್ಯ ಚ |\nಶಾಶ್ವತಸ್ಯ ಚ ಧರ್ಮಸ್ಯ ಸುಖಸ್ಯೈಕಾನ್ತಿಕಸ್ಯ ಚ ||೧೪-೨೭||"
     },
-    "transliteration": "brahmaṇo hi pratiṣṭhāhamamṛtasyāvyayasya ca .\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ||14-27||",
-    "life_application": "Know God as the foundation of Brahman, of imperishable immortality, of eternal dharma, and of absolute bliss.",
+    "transliteration": {
+        "hi": "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च |\nशाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ||१४-२७||",
+        "en": "brahmaṇo hi pratiṣṭhāhamamṛtasyāvyayasya ca .\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ||14-27||",
+        "be": "ব্রহ্মণো হি প্রতিষ্ঠাহমমৃতস্যাব্যযস্য চ |\nশাশ্বতস্য চ ধর্মস্য সুখস্যৈকান্তিকস্য চ ||১৪-২৭||",
+        "ka": "ಬ್ರಹ್ಮಣೋ ಹಿ ಪ್ರತಿಷ್ಠಾಹಮಮೃತಸ್ಯಾವ್ಯಯಸ್ಯ ಚ |\nಶಾಶ್ವತಸ್ಯ ಚ ಧರ್ಮಸ್ಯ ಸುಖಸ್ಯೈಕಾನ್ತಿಕಸ್ಯ ಚ ||೧೪-೨೭||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को ब्रह्म, अविनाशी अमरता, शाश्वत धर्म और पूर्ण आनंद की नींव के रूप में जानें।",
+        "en": "Know God as the foundation of Brahman, of imperishable immortality, of eternal dharma, and of absolute bliss.",
+        "be": "ভগবানকে ব্রহ্ম, অবিনশ্বর অমরত্ব, শাশ্বত ধর্ম এবং পরম আনন্দের ভিত্তিরূপে জানুন।",
+        "ka": "ಭಗವಂತನನ್ನು ಬ್ರಹ್ಮನ, ನಾಶವಾಗದ ಅಮರತ್ವದ, ಶಾಶ್ವತ ಧರ್ಮದ ಮತ್ತು ಸಂಪೂರ್ಣ ಆನಂದದ ಅಡಿಪಾಯ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ब्रह्मणः",
-            "transliteration": "brahmaṇaḥ",
-            "meaning": "of Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मणः",
+                "en": "brahmaṇaḥ",
+                "be": "ব্রহ্মণঃ",
+                "ka": "ಬ್ರಹ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण का",
+                "en": "of Brahman",
+                "be": "ব্রাহ্মণের",
+                "ka": "ಬ್ರಹ್ಮನ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "प्रतिष्ठा",
-            "transliteration": "pratiṣṭhā",
-            "meaning": "the abode"
+            "transliteration": {
+                "hi": "प्रतिष्ठा",
+                "en": "pratiṣṭhā",
+                "be": "প্রতিষ্ঠা",
+                "ka": "ಪ್ರತಿಷ್ಠಾ"
+            },
+            "meaning": {
+                "hi": "निवास",
+                "en": "the abode",
+                "be": "বাসস্থান",
+                "ka": "ವಾಸಸ್ಥಾನ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "अमृतस्य",
-            "transliteration": "amṛtasya",
-            "meaning": "the immortal"
+            "transliteration": {
+                "hi": "अमृतस्य",
+                "en": "amṛtasya",
+                "be": "অমৃতস্য",
+                "ka": "ಅಮೃತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अमर",
+                "en": "the immortal",
+                "be": "অমর",
+                "ka": "ಅಮರ"
+            }
         },
         {
             "sanskrit": "अव्ययस्य",
-            "transliteration": "avyayasya",
-            "meaning": "the immutable"
+            "transliteration": {
+                "hi": "अव्ययस्य",
+                "en": "avyayasya",
+                "be": "অব্যযস্য",
+                "ka": "ಅವ್ಯಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अपरिवर्तनीय",
+                "en": "the immutable",
+                "be": "অপরিবর্তনীয়",
+                "ka": "ಬದಲಾಗದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शाश्वतस्य",
-            "transliteration": "śāśvatasya",
-            "meaning": "everlasting"
+            "transliteration": {
+                "hi": "शाश्वतस्य",
+                "en": "śāśvatasya",
+                "be": "শাশ্বতস্য",
+                "ka": "ಶಾಶ್ವತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "चिरस्थायी",
+                "en": "everlasting",
+                "be": "চিরস্থায়ী",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "धर्मस्य",
-            "transliteration": "dharmasya",
-            "meaning": "of Dharma"
+            "transliteration": {
+                "hi": "धर्मस्य",
+                "en": "dharmasya",
+                "be": "ধর্মস্য",
+                "ka": "ಧರ್ಮಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "धर्म का",
+                "en": "of Dharma",
+                "be": "ধর্মের",
+                "ka": "ಧರ್ಮದ"
+            }
         },
         {
             "sanskrit": "सुखस्य",
-            "transliteration": "sukhasya",
-            "meaning": "of bliss"
+            "transliteration": {
+                "hi": "सुखस्य",
+                "en": "sukhasya",
+                "be": "সুখস্য",
+                "ka": "ಸುಖಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "आनंद का",
+                "en": "of bliss",
+                "be": "আনন্দের",
+                "ka": "ಆನಂದದ"
+            }
         },
         {
             "sanskrit": "एकान्तिकस्य",
-            "transliteration": "ekāntikasya",
-            "meaning": "absolute"
+            "transliteration": {
+                "hi": "एकान्तिकस्य",
+                "en": "ekāntikasya",
+                "be": "একান্তিকস্য",
+                "ka": "ಏಕಾನ್ತಿಕಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "निरपेक्ष",
+                "en": "absolute",
+                "be": "পরম",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

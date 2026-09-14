@@ -14,8 +14,18 @@
         "en": "tatra sattvaṃ nirmalatvātprakāśakamanāmayam .\nsukhasaṅgena badhnāti jñānasaṅgena cānagha ||14-6||",
         "ka": "ತತ್ರ ಸತ್ತ್ವಂ ನಿರ್ಮಲತ್ವಾತ್ಪ್ರಕಾಶಕಮನಾಮಯಮ್ |\nಸುಖಸಙ್ಗೇನ ಬಧ್ನಾತಿ ಜ್ಞಾನಸಙ್ಗೇನ ಚಾನಘ ||೧೪-೬||"
     },
-    "transliteration": "tatra sattvaṃ nirmalatvātprakāśakamanāmayam .\nsukhasaṅgena badhnāti jñānasaṅgena cānagha ||14-6||",
-    "life_application": "Understand goodness as luminous and healthy, yet binding the soul through attachment to happiness and knowledge.",
+    "transliteration": {
+        "hi": "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ||१४-६||",
+        "en": "tatra sattvaṃ nirmalatvātprakāśakamanāmayam .\nsukhasaṅgena badhnāti jñānasaṅgena cānagha ||14-6||",
+        "be": "তত্র সত্ত্বং নির্মলত্বাত্প্রকাশকমনামযম্ |\nসুখসঙ্গেন বধ্নাতি জ্ঞানসঙ্গেন চানঘ ||১৪-৬||",
+        "ka": "ತತ್ರ ಸತ್ತ್ವಂ ನಿರ್ಮಲತ್ವಾತ್ಪ್ರಕಾಶಕಮನಾಮಯಮ್ |\nಸುಖಸಙ್ಗೇನ ಬಧ್ನಾತಿ ಜ್ಞಾನಸಙ್ಗೇನ ಚಾನಘ ||೧೪-೬||"
+    },
+    "life_application": {
+        "hi": "अच्छाई को उज्ज्वल और स्वस्थ समझें, फिर भी आत्मा को खुशी और ज्ञान के प्रति आसक्ति से बांधें।",
+        "en": "Understand goodness as luminous and healthy, yet binding the soul through attachment to happiness and knowledge.",
+        "be": "মঙ্গলকে দীপ্তিময় এবং স্বাস্থ্যকর বুঝুন, তবুও সুখ এবং জ্ঞানের সাথে সংযুক্তির মাধ্যমে আত্মাকে আবদ্ধ করুন।",
+        "ka": "ಒಳ್ಳೆಯತನವನ್ನು ಪ್ರಕಾಶಮಾನ ಮತ್ತು ಆರೋಗ್ಯಕರ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಆದರೆ ಸಂತೋಷ ಮತ್ತು ಜ್ಞಾನದ ಬಾಂಧವ್ಯದ ಮೂಲಕ ಆತ್ಮವನ್ನು ಬಂಧಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Attachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "of these"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "इनमें से",
+                "en": "of these",
+                "be": "এই",
+                "ka": "ಇವುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "निर्मलत्वात्",
-            "transliteration": "nirmalatvāt",
-            "meaning": "from its stainlessness"
+            "transliteration": {
+                "hi": "निर्मलत्वात्",
+                "en": "nirmalatvāt",
+                "be": "নির্মলত্বাত্",
+                "ka": "ನಿರ್ಮಲತ್ವಾತ್"
+            },
+            "meaning": {
+                "hi": "इसकी स्टेनलेसनेस से",
+                "en": "from its stainlessness",
+                "be": "এর দাগহীনতা থেকে",
+                "ka": "ಅದರ ಸ್ಟೇನ್ಲೆಸ್ನೆಸ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रकाशकम्",
-            "transliteration": "prakāśakam",
-            "meaning": "luminous"
+            "transliteration": {
+                "hi": "प्रकाशकम्",
+                "en": "prakāśakam",
+                "be": "প্রকাশকম্",
+                "ka": "ಪ್ರಕಾಶಕಮ್"
+            },
+            "meaning": {
+                "hi": "चमकदार",
+                "en": "luminous",
+                "be": "উজ্জ্বল",
+                "ka": "ಹೊಳೆಯುವ"
+            }
         },
         {
             "sanskrit": "अनामयम्",
-            "transliteration": "anāmayam",
-            "meaning": "healthy"
+            "transliteration": {
+                "hi": "अनामयम्",
+                "en": "anāmayam",
+                "be": "অনামযম্",
+                "ka": "ಅನಾಮಯಮ್"
+            },
+            "meaning": {
+                "hi": "स्वस्थ",
+                "en": "healthy",
+                "be": "সুস্থ",
+                "ka": "ಆರೋಗ್ಯಕರ"
+            }
         },
         {
             "sanskrit": "सुखसङ्गेन",
-            "transliteration": "sukhasaṅgena",
-            "meaning": "by attachment to happiness"
+            "transliteration": {
+                "hi": "सुखसङ्गेन",
+                "en": "sukhasaṅgena",
+                "be": "সুখসঙ্গেন",
+                "ka": "ಸುಖಸಙ್ಗೇನ"
+            },
+            "meaning": {
+                "hi": "सुख के प्रति आसक्ति से",
+                "en": "by attachment to happiness",
+                "be": "সুখের সাথে সংযুক্তি দ্বারা",
+                "ka": "ಸಂತೋಷದ ಬಾಂಧವ್ಯದಿಂದ"
+            }
         },
         {
             "sanskrit": "बध्नाति",
-            "transliteration": "badhnāti",
-            "meaning": "binds"
+            "transliteration": {
+                "hi": "बध्नाति",
+                "en": "badhnāti",
+                "be": "বধ্নাতি",
+                "ka": "ಬಧ್ನಾತಿ"
+            },
+            "meaning": {
+                "hi": "बांधता है",
+                "en": "binds",
+                "be": "আবদ্ধ করে",
+                "ka": "ಬಂಧಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानसङ्गेन",
-            "transliteration": "jñānasaṅgena",
-            "meaning": "by attachment to knowledge"
+            "transliteration": {
+                "hi": "ज्ञानसङ्गेन",
+                "en": "jñānasaṅgena",
+                "be": "জ্ঞানসঙ্গেন",
+                "ka": "ಜ್ಞಾನಸಙ್ಗೇನ"
+            },
+            "meaning": {
+                "hi": "ज्ञान के प्रति आसक्ति से",
+                "en": "by attachment to knowledge",
+                "be": "জ্ঞানের সাথে সংযুক্তি দ্বারা",
+                "ka": "ಜ್ಞಾನದ ಬಾಂಧವ್ಯದಿಂದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अनग",
-            "transliteration": "anaga",
-            "meaning": "O sinless one."
+            "transliteration": {
+                "hi": "अनग",
+                "en": "anaga",
+                "be": "অনগ",
+                "ka": "ಅನಗ"
+            },
+            "meaning": {
+                "hi": "हे पापरहित!",
+                "en": "O sinless one.",
+                "be": "হে পাপহীন।",
+                "ka": "ಓ ಪಾಪರಹಿತನೇ."
+            }
         }
     ],
     "tej": {

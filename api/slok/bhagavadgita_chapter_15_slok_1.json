@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಊರ್ಧ್ವಮೂಲಮಧಃಶಾಖಮಶ್ವತ್ಥಂ ಪ್ರಾಹುರವ್ಯಯಮ್ |\nಛನ್ದಾಂಸಿ ಯಸ್ಯ ಪರ್ಣಾನಿ ಯಸ್ತಂ ವೇದ ಸ ವೇದವಿತ್ ||೧೫-೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
-    "life_application": "Contemplate the inverted banyan tree of world existence, roots above in spirit, branches below in senses, leaves as hymns.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||",
+        "en": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
+        "be": "শ্রীভগবানুবাচ |\nঊর্ধ্বমূলমধঃশাখমশ্বত্থং প্রাহুরব্যযম্ |\nছন্দাংসি যস্য পর্ণানি যস্তং বেদ স বেদবিত্ ||১৫-১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಊರ್ಧ್ವಮೂಲಮಧಃಶಾಖಮಶ್ವತ್ಥಂ ಪ್ರಾಹುರವ್ಯಯಮ್ |\nಛನ್ದಾಂಸಿ ಯಸ್ಯ ಪರ್ಣಾನಿ ಯಸ್ತಂ ವೇದ ಸ ವೇದವಿತ್ ||೧೫-೧||"
+    },
+    "life_application": {
+        "hi": "विश्व अस्तित्व के उलटे बरगद के पेड़ का चिंतन करें, जड़ें ऊपर आत्मा में, शाखाएं नीचे इंद्रियों में, पत्तियां भजन के रूप में।",
+        "en": "Contemplate the inverted banyan tree of world existence, roots above in spirit, branches below in senses, leaves as hymns.",
+        "be": "বিশ্বের অস্তিত্বের উল্টানো বটবৃক্ষ, চেতনার উপরে শিকড়, ইন্দ্রিয়ের নীচে শাখা, স্তোত্র হিসাবে পাতাগুলি বিবেচনা করুন।",
+        "ka": "ಪ್ರಪಂಚದ ಅಸ್ತಿತ್ವದ ತಲೆಕೆಳಗಾದ ಆಲದ ಮರ, ಆತ್ಮದಲ್ಲಿ ಮೇಲಿನ ಬೇರುಗಳು, ಇಂದ್ರಿಯಗಳ ಕೆಳಗೆ ಶಾಖೆಗಳು, ಸ್ತೋತ್ರಗಳಂತೆ ಎಲೆಗಳನ್ನು ಆಲೋಚಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ऊर्ध्वमूलम्",
-            "transliteration": "ūrdhvamūlam",
-            "meaning": "rooted above"
+            "transliteration": {
+                "hi": "ऊर्ध्वमूलम्",
+                "en": "ūrdhvamūlam",
+                "be": "ঊর্ধ্বমূলম্",
+                "ka": "ಊರ್ಧ್ವಮೂಲಮ್"
+            },
+            "meaning": {
+                "hi": "ऊपर जड़ित",
+                "en": "rooted above",
+                "be": "উপরে মূল",
+                "ka": "ಮೇಲೆ ಬೇರೂರಿದೆ"
+            }
         },
         {
             "sanskrit": "अधःशाखम्",
-            "transliteration": "adhaḥśākham",
-            "meaning": "branches below"
+            "transliteration": {
+                "hi": "अधःशाखम्",
+                "en": "adhaḥśākham",
+                "be": "অধঃশাখম্",
+                "ka": "ಅಧಃಶಾಖಮ್"
+            },
+            "meaning": {
+                "hi": "नीचे शाखाएँ",
+                "en": "branches below",
+                "be": "নীচের শাখা",
+                "ka": "ಕೆಳಗೆ ಶಾಖೆಗಳು"
+            }
         },
         {
             "sanskrit": "अश्वत्थम्",
-            "transliteration": "aśvattham",
-            "meaning": "the Asvattha"
+            "transliteration": {
+                "hi": "अश्वत्थम्",
+                "en": "aśvattham",
+                "be": "অশ্বত্থম্",
+                "ka": "ಅಶ್ವತ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "अश्वत्थ",
+                "en": "the Asvattha",
+                "be": "অশ্বত্থ",
+                "ka": "ಅಶ್ವತ್ಥ"
+            }
         },
         {
             "sanskrit": "प्राहुः",
-            "transliteration": "prāhuḥ",
-            "meaning": "they speak of"
+            "transliteration": {
+                "hi": "प्राहुः",
+                "en": "prāhuḥ",
+                "be": "প্রাহুঃ",
+                "ka": "ಪ್ರಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "वे बात करते हैं",
+                "en": "they speak of",
+                "be": "তারা কথা বলে",
+                "ka": "ಅವರು ಮಾತನಾಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "indestructible"
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ"
+            }
         },
         {
             "sanskrit": "छन्दांसि",
-            "transliteration": "chandāṃsi",
-            "meaning": "metres or hymns"
+            "transliteration": {
+                "hi": "छन्दांसि",
+                "en": "chandāṃsi",
+                "be": "ছন্দাংসি",
+                "ka": "ಛನ್ದಾಂಸಿ"
+            },
+            "meaning": {
+                "hi": "मीटर या भजन",
+                "en": "metres or hymns",
+                "be": "মিটার বা স্তোত্র",
+                "ka": "ಮೀಟರ್ಗಳು ಅಥವಾ ಸ್ತೋತ್ರಗಳು"
+            }
         },
         {
             "sanskrit": "यस्य",
-            "transliteration": "yasya",
-            "meaning": "of which"
+            "transliteration": {
+                "hi": "यस्य",
+                "en": "yasya",
+                "be": "যস্য",
+                "ka": "ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "जिनमें से",
+                "en": "of which",
+                "be": "যার মধ্যে",
+                "ka": "ಅದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "पर्णानि",
-            "transliteration": "parṇāni",
-            "meaning": "leaves"
+            "transliteration": {
+                "hi": "पर्णानि",
+                "en": "parṇāni",
+                "be": "পর্ণানি",
+                "ka": "ಪರ್ಣಾನಿ"
+            },
+            "meaning": {
+                "hi": "पत्तियां",
+                "en": "leaves",
+                "be": "পাতা",
+                "ka": "ಎಲೆಗಳು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "वेद",
-            "transliteration": "veda",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेद",
+                "en": "veda",
+                "be": "বেদ",
+                "ka": "ವೇದ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "वेदवित्",
-            "transliteration": "vedavit",
-            "meaning": "is the knower of"
+            "transliteration": {
+                "hi": "वेदवित्",
+                "en": "vedavit",
+                "be": "বেদবিত্",
+                "ka": "ವೇದವಿತ್"
+            },
+            "meaning": {
+                "hi": "का ज्ञाता है",
+                "en": "is the knower of",
+                "be": "এর জ্ঞানী",
+                "ka": "ಬಲ್ಲವನಾಗಿದ್ದಾನೆ"
+            }
         }
     ],
     "tej": {

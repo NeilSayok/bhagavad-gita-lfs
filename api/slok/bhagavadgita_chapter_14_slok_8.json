@@ -14,8 +14,18 @@
         "en": "tamastvajñānajaṃ viddhi mohanaṃ sarvadehinām .\npramādālasyanidrābhistannibadhnāti bhārata ||14-8||",
         "ka": "ತಮಸ್ತ್ವಜ್ಞಾನಜಂ ವಿದ್ಧಿ ಮೋಹನಂ ಸರ್ವದೇಹಿನಾಮ್ |\nಪ್ರಮಾದಾಲಸ್ಯನಿದ್ರಾಭಿಸ್ತನ್ನಿಬಧ್ನಾತಿ ಭಾರತ ||೧೪-೮||"
     },
-    "transliteration": "tamastvajñānajaṃ viddhi mohanaṃ sarvadehinām .\npramādālasyanidrābhistannibadhnāti bhārata ||14-8||",
-    "life_application": "Know ignorance as born of darkness, deluding all embodied souls, binding through heedlessness, indolence, and sleep.",
+    "transliteration": {
+        "hi": "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||१४-८||",
+        "en": "tamastvajñānajaṃ viddhi mohanaṃ sarvadehinām .\npramādālasyanidrābhistannibadhnāti bhārata ||14-8||",
+        "be": "তমস্ত্বজ্ঞানজং বিদ্ধি মোহনং সর্বদেহিনাম্ |\nপ্রমাদালস্যনিদ্রাভিস্তন্নিবধ্নাতি ভারত ||১৪-৮||",
+        "ka": "ತಮಸ್ತ್ವಜ್ಞಾನಜಂ ವಿದ್ಧಿ ಮೋಹನಂ ಸರ್ವದೇಹಿನಾಮ್ |\nಪ್ರಮಾದಾಲಸ್ಯನಿದ್ರಾಭಿಸ್ತನ್ನಿಬಧ್ನಾತಿ ಭಾರತ ||೧೪-೮||"
+    },
+    "life_application": {
+        "hi": "अज्ञान को अंधकार से उत्पन्न हुआ, सभी देहधारी आत्माओं को भ्रमित करने वाला, असावधानी, आलस्य और नींद से बांधने वाला जान।",
+        "en": "Know ignorance as born of darkness, deluding all embodied souls, binding through heedlessness, indolence, and sleep.",
+        "be": "অজ্ঞতাকে অন্ধকারের জন্ম বলে জান, সমস্ত মূর্ত আত্মাকে প্রতারিত করে, গাফিলতি, অলসতা এবং নিদ্রার দ্বারা আবদ্ধ।",
+        "ka": "ಅಜ್ಞಾನವು ಅಂಧಕಾರದಿಂದ ಹುಟ್ಟಿದೆ ಎಂದು ತಿಳಿಯಿರಿ, ಎಲ್ಲಾ ಮೂರ್ತ ಆತ್ಮಗಳನ್ನು ಮೋಸಗೊಳಿಸುತ್ತದೆ, ಅಜಾಗರೂಕತೆ, ನಿರಾಸಕ್ತಿ ಮತ್ತು ನಿದ್ರೆಯ ಮೂಲಕ ಬಂಧಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "inertia"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "अज्ञानजम्",
-            "transliteration": "ajñānajam",
-            "meaning": "born of ignorance"
+            "transliteration": {
+                "hi": "अज्ञानजम्",
+                "en": "ajñānajam",
+                "be": "অজ্ঞানজম্",
+                "ka": "ಅಜ್ಞಾನಜಮ್"
+            },
+            "meaning": {
+                "hi": "अज्ञान से पैदा हुआ",
+                "en": "born of ignorance",
+                "be": "অজ্ঞতার জন্ম",
+                "ka": "ಅಜ್ಞಾನದಿಂದ ಹುಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "मोहनम्",
-            "transliteration": "mohanam",
-            "meaning": "deluding"
+            "transliteration": {
+                "hi": "मोहनम्",
+                "en": "mohanam",
+                "be": "মোহনম্",
+                "ka": "ಮೋಹನಮ್"
+            },
+            "meaning": {
+                "hi": "बहकाना",
+                "en": "deluding",
+                "be": "deluding",
+                "ka": "ಭ್ರಮೆಗೊಳಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "सर्वदेहिनाम्",
-            "transliteration": "sarvadehinām",
-            "meaning": "to all,embodied beings"
+            "transliteration": {
+                "hi": "सर्वदेहिनाम्",
+                "en": "sarvadehinām",
+                "be": "সর্বদেহিনাম্",
+                "ka": "ಸರ್ವದೇಹಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सभी देहधारी प्राणियों के लिए",
+                "en": "to all,embodied beings",
+                "be": "সকলের কাছে, মূর্ত প্রাণী",
+                "ka": "ಎಲ್ಲರಿಗೂ, ಸಾಕಾರ ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "प्रमादालस्यनिद्राभिः",
-            "transliteration": "pramādālasyanidrābhiḥ",
-            "meaning": "by heedlessness"
+            "transliteration": {
+                "hi": "प्रमादालस्यनिद्राभिः",
+                "en": "pramādālasyanidrābhiḥ",
+                "be": "প্রমাদালস্যনিদ্রাভিঃ",
+                "ka": "ಪ್ರಮಾದಾಲಸ್ಯನಿದ್ರಾಭಿಃ"
+            },
+            "meaning": {
+                "hi": "असावधानी से",
+                "en": "by heedlessness",
+                "be": "গাফিলতি দ্বারা",
+                "ka": "ಅಜಾಗರೂಕತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "निबध्नाति",
-            "transliteration": "nibadhnāti",
-            "meaning": "binds fast"
+            "transliteration": {
+                "hi": "निबध्नाति",
+                "en": "nibadhnāti",
+                "be": "নিবধ্নাতি",
+                "ka": "ನಿಬಧ್ನಾತಿ"
+            },
+            "meaning": {
+                "hi": "तेजी से बांधता है",
+                "en": "binds fast",
+                "be": "দ্রুত আবদ্ধ হয়",
+                "ka": "ವೇಗವಾಗಿ ಬಂಧಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         }
     ],
     "tej": {

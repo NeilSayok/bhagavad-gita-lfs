@@ -14,8 +14,18 @@
         "en": "rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam .\ntannibadhnāti kaunteya karmasaṅgena dehinam ||14-7||",
         "ka": "ರಜೋ ರಾಗಾತ್ಮಕಂ ವಿದ್ಧಿ ತೃಷ್ಣಾಸಙ್ಗಸಮುದ್ಭವಮ್ |\nತನ್ನಿಬಧ್ನಾತಿ ಕೌನ್ತೇಯ ಕರ್ಮಸಙ್ಗೇನ ದೇಹಿನಮ್ ||೧೪-೭||"
     },
-    "transliteration": "rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam .\ntannibadhnāti kaunteya karmasaṅgena dehinam ||14-7||",
-    "life_application": "Know passion as nature of desire, born of longing and attachment, binding the embodied soul to action.",
+    "transliteration": {
+        "hi": "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् |\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||१४-७||",
+        "en": "rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam .\ntannibadhnāti kaunteya karmasaṅgena dehinam ||14-7||",
+        "be": "রজো রাগাত্মকং বিদ্ধি তৃষ্ণাসঙ্গসমুদ্ভবম্ |\nতন্নিবধ্নাতি কৌন্তেয কর্মসঙ্গেন দেহিনম্ ||১৪-৭||",
+        "ka": "ರಜೋ ರಾಗಾತ್ಮಕಂ ವಿದ್ಧಿ ತೃಷ್ಣಾಸಙ್ಗಸಮುದ್ಭವಮ್ |\nತನ್ನಿಬಧ್ನಾತಿ ಕೌನ್ತೇಯ ಕರ್ಮಸಙ್ಗೇನ ದೇಹಿನಮ್ ||೧೪-೭||"
+    },
+    "life_application": {
+        "hi": "जुनून को इच्छा की प्रकृति के रूप में जानें, जो लालसा और लगाव से पैदा होता है, जो देहधारी आत्मा को कर्म से बांधता है।",
+        "en": "Know passion as nature of desire, born of longing and attachment, binding the embodied soul to action.",
+        "be": "আবেগকে আকাঙ্ক্ষার প্রকৃতি হিসাবে জানুন, আকাঙ্ক্ষা এবং সংযুক্তি থেকে জন্মগ্রহণ করুন, মূর্ত আত্মাকে কর্মের সাথে আবদ্ধ করুন।",
+        "ka": "ಭಾವೋದ್ರೇಕವನ್ನು ಬಯಕೆಯ ಸ್ವಭಾವವೆಂದು ತಿಳಿಯಿರಿ, ಹಾತೊರೆಯುವಿಕೆ ಮತ್ತು ಬಾಂಧವ್ಯದಿಂದ ಹುಟ್ಟಿ, ಸಾಕಾರಗೊಂಡ ಆತ್ಮವನ್ನು ಕ್ರಿಯೆಗೆ ಬಂಧಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Attachment",
         "Karma"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "Rajas"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "राजस",
+                "en": "Rajas",
+                "be": "রাজস",
+                "ka": "ರಾಜಾಸ್"
+            }
         },
         {
             "sanskrit": "रागात्मकम्",
-            "transliteration": "rāgātmakam",
-            "meaning": "of the nature of"
+            "transliteration": {
+                "hi": "रागात्मकम्",
+                "en": "rāgātmakam",
+                "be": "রাগাত্মকম্",
+                "ka": "ರಾಗಾತ್ಮಕಮ್"
+            },
+            "meaning": {
+                "hi": "की प्रकृति का",
+                "en": "of the nature of",
+                "be": "প্রকৃতির",
+                "ka": "ಸ್ವಭಾವದ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "तृष्णासङ्गसमुद्भवम्",
-            "transliteration": "tṛṣṇāsaṅgasamudbhavam",
-            "meaning": "the source of thirst"
+            "transliteration": {
+                "hi": "तृष्णासङ्गसमुद्भवम्",
+                "en": "tṛṣṇāsaṅgasamudbhavam",
+                "be": "তৃষ্ণাসঙ্গসমুদ্ভবম্",
+                "ka": "ತೃಷ್ಣಾಸಙ್ಗಸಮುದ್ಭವಮ್"
+            },
+            "meaning": {
+                "hi": "प्यास का स्रोत",
+                "en": "the source of thirst",
+                "be": "তৃষ্ণার উৎস",
+                "ka": "ಬಾಯಾರಿಕೆಯ ಮೂಲ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "निबध्नाति",
-            "transliteration": "nibadhnāti",
-            "meaning": "binds"
+            "transliteration": {
+                "hi": "निबध्नाति",
+                "en": "nibadhnāti",
+                "be": "নিবধ্নাতি",
+                "ka": "ನಿಬಧ್ನಾತಿ"
+            },
+            "meaning": {
+                "hi": "बांधता है",
+                "en": "binds",
+                "be": "আবদ্ধ করে",
+                "ka": "ಬಂಧಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "कर्मसङ्गेन",
-            "transliteration": "karmasaṅgena",
-            "meaning": "by attachment to action"
+            "transliteration": {
+                "hi": "कर्मसङ्गेन",
+                "en": "karmasaṅgena",
+                "be": "কর্মসঙ্গেন",
+                "ka": "ಕರ್ಮಸಙ್ಗೇನ"
+            },
+            "meaning": {
+                "hi": "कर्म के प्रति आसक्ति से",
+                "en": "by attachment to action",
+                "be": "কর্মের সাথে সংযুক্তি দ্বারা",
+                "ka": "ಕ್ರಿಯೆಗೆ ಲಗತ್ತಿಸುವ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "देहिनम्",
-            "transliteration": "dehinam",
-            "meaning": "the embodied one."
+            "transliteration": {
+                "hi": "देहिनम्",
+                "en": "dehinam",
+                "be": "দেহিনম্",
+                "ka": "ದೇಹಿನಮ್"
+            },
+            "meaning": {
+                "hi": "सन्निहित.",
+                "en": "the embodied one.",
+                "be": "মূর্ত এক",
+                "ka": "ಸಾಕಾರಗೊಂಡವನು."
+            }
         }
     ],
     "tej": {

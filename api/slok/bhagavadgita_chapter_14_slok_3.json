@@ -14,8 +14,18 @@
         "en": "mama yonirmahad brahma tasmingarbhaṃ dadhāmyaham .\nsambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ||14-3||",
         "ka": "ಮಮ ಯೋನಿರ್ಮಹದ್ ಬ್ರಹ್ಮ ತಸ್ಮಿನ್ಗರ್ಭಂ ದಧಾಮ್ಯಹಮ್ |\nಸಮ್ಭವಃ ಸರ್ವಭೂತಾನಾಂ ತತೋ ಭವತಿ ಭಾರತ ||೧೪-೩||"
     },
-    "transliteration": "mama yonirmahad brahma tasmingarbhaṃ dadhāmyaham .\nsambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ||14-3||",
-    "life_application": "Understand great nature as the womb in which the divine seed is placed, giving birth to all beings.",
+    "transliteration": {
+        "hi": "मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् |\nसम्भवः सर्वभूतानां ततो भवति भारत ||१४-३||",
+        "en": "mama yonirmahad brahma tasmingarbhaṃ dadhāmyaham .\nsambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ||14-3||",
+        "be": "মম যোনির্মহদ্ ব্রহ্ম তস্মিন্গর্ভং দধাম্যহম্ |\nসম্ভবঃ সর্বভূতানাং ততো ভবতি ভারত ||১৪-৩||",
+        "ka": "ಮಮ ಯೋನಿರ್ಮಹದ್ ಬ್ರಹ್ಮ ತಸ್ಮಿನ್ಗರ್ಭಂ ದಧಾಮ್ಯಹಮ್ |\nಸಮ್ಭವಃ ಸರ್ವಭೂತಾನಾಂ ತತೋ ಭವತಿ ಭಾರತ ||೧೪-೩||"
+    },
+    "life_application": {
+        "hi": "महान प्रकृति को उस गर्भ के रूप में समझें जिसमें सभी प्राणियों को जन्म देने वाला दिव्य बीज रखा गया है।",
+        "en": "Understand great nature as the womb in which the divine seed is placed, giving birth to all beings.",
+        "be": "মহান প্রকৃতিকে বুঝুন যে গর্ভে ঐশ্বরিক বীজ স্থাপন করা হয়, সমস্ত প্রাণীর জন্ম দেয়।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೆ ಜನ್ಮ ನೀಡುವ ದೈವಿಕ ಬೀಜವನ್ನು ಇರಿಸಲಾಗಿರುವ ಗರ್ಭ ಎಂದು ಮಹಾನ್ ಪ್ರಕೃತಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "योनिः",
-            "transliteration": "yoniḥ",
-            "meaning": "womb"
+            "transliteration": {
+                "hi": "योनिः",
+                "en": "yoniḥ",
+                "be": "যোনিঃ",
+                "ka": "ಯೋನಿಃ"
+            },
+            "meaning": {
+                "hi": "गर्भ",
+                "en": "womb",
+                "be": "গর্ভ",
+                "ka": "ಗರ್ಭ"
+            }
         },
         {
             "sanskrit": "महत्",
-            "transliteration": "mahat",
-            "meaning": "the great"
+            "transliteration": {
+                "hi": "महत्",
+                "en": "mahat",
+                "be": "মহত্",
+                "ka": "ಮಹತ್"
+            },
+            "meaning": {
+                "hi": "महान",
+                "en": "the great",
+                "be": "মহান",
+                "ka": "ಶ್ರೇಷ್ಠ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "Brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "Brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "तस्मिन्",
-            "transliteration": "tasmin",
-            "meaning": "in that"
+            "transliteration": {
+                "hi": "तस्मिन्",
+                "en": "tasmin",
+                "be": "তস্মিন্",
+                "ka": "ತಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "उसमें",
+                "en": "in that",
+                "be": "যে",
+                "ka": "ಅದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "गर्भम्",
-            "transliteration": "garbham",
-            "meaning": "germ"
+            "transliteration": {
+                "hi": "गर्भम्",
+                "en": "garbham",
+                "be": "গর্ভম্",
+                "ka": "ಗರ್ಭಮ್"
+            },
+            "meaning": {
+                "hi": "रोगाणु",
+                "en": "germ",
+                "be": "জীবাণু",
+                "ka": "ಸೂಕ್ಷ್ಮಾಣು"
+            }
         },
         {
             "sanskrit": "दधामि",
-            "transliteration": "dadhāmi",
-            "meaning": "bears"
+            "transliteration": {
+                "hi": "दधामि",
+                "en": "dadhāmi",
+                "be": "দধামি",
+                "ka": "ದಧಾಮಿ"
+            },
+            "meaning": {
+                "hi": "भालू",
+                "en": "bears",
+                "be": "ভালুক",
+                "ka": "ಕರಡಿಗಳು"
+            }
         },
         {
             "sanskrit": "अहम",
-            "transliteration": "ahama",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम",
+                "en": "ahama",
+                "be": "অহম",
+                "ka": "ಅಹಮ"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "संभवः",
-            "transliteration": "saṃbhavaḥ",
-            "meaning": "the birth"
+            "transliteration": {
+                "hi": "संभवः",
+                "en": "saṃbhavaḥ",
+                "be": "সংভবঃ",
+                "ka": "ಸಂಭವಃ"
+            },
+            "meaning": {
+                "hi": "जन्म",
+                "en": "the birth",
+                "be": "জন্ম",
+                "ka": "ಜನನ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानाम्",
-            "transliteration": "sarvabhūtānām",
-            "meaning": "of all beings"
+            "transliteration": {
+                "hi": "सर्वभूतानाम्",
+                "en": "sarvabhūtānām",
+                "be": "সর্বভূতানাম্",
+                "ka": "ಸರ್ವಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सभी प्राणियों का",
+                "en": "of all beings",
+                "be": "সমস্ত প্রাণীর",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "thence"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "वहां से",
+                "en": "thence",
+                "be": "সেখান থেকে",
+                "ka": "ಅಲ್ಲಿಂದ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata .\njñānamāvṛtya tu tamaḥ pramāde sañjayatyuta ||14-9||",
         "ka": "ಸತ್ತ್ವಂ ಸುಖೇ ಸಞ್ಜಯತಿ ರಜಃ ಕರ್ಮಣಿ ಭಾರತ |\nಜ್ಞಾನಮಾವೃತ್ಯ ತು ತಮಃ ಪ್ರಮಾದೇ ಸಞ್ಜಯತ್ಯುತ ||೧೪-೯||"
     },
-    "transliteration": "sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata .\njñānamāvṛtya tu tamaḥ pramāde sañjayatyuta ||14-9||",
-    "life_application": "Goodness attaches to happiness, passion to action, while ignorance, veiling wisdom, attaches to heedlessness.",
+    "transliteration": {
+        "hi": "सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत |\nज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||१४-९||",
+        "en": "sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata .\njñānamāvṛtya tu tamaḥ pramāde sañjayatyuta ||14-9||",
+        "be": "সত্ত্বং সুখে সঞ্জযতি রজঃ কর্মণি ভারত |\nজ্ঞানমাবৃত্য তু তমঃ প্রমাদে সঞ্জযত্যুত ||১৪-৯||",
+        "ka": "ಸತ್ತ್ವಂ ಸುಖೇ ಸಞ್ಜಯತಿ ರಜಃ ಕರ್ಮಣಿ ಭಾರತ |\nಜ್ಞಾನಮಾವೃತ್ಯ ತು ತಮಃ ಪ್ರಮಾದೇ ಸಞ್ಜಯತ್ಯುತ ||೧೪-೯||"
+    },
+    "life_application": {
+        "hi": "अच्छाई ख़ुशी से जुड़ती है, जुनून क्रिया से जुड़ता है, जबकि अज्ञानता, ज्ञान पर पर्दा डालते हुए, लापरवाही से जुड़ती है।",
+        "en": "Goodness attaches to happiness, passion to action, while ignorance, veiling wisdom, attaches to heedlessness.",
+        "be": "ধার্মিকতা সুখের সাথে সংযুক্ত করে, কর্মের প্রতি অনুরাগ, যখন অজ্ঞতা, প্রজ্ঞাকে আড়াল করে, গাফিলতির সাথে সংযুক্ত করে।",
+        "ka": "ಒಳ್ಳೆಯತನವು ಸಂತೋಷಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ, ಕ್ರಿಯೆಗೆ ಉತ್ಸಾಹ, ಆದರೆ ಅಜ್ಞಾನ, ಮುಸುಕು ಬುದ್ಧಿವಂತಿಕೆ, ಅಜಾಗರೂಕತೆಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "सुखे",
-            "transliteration": "sukhe",
-            "meaning": "to happiness"
+            "transliteration": {
+                "hi": "सुखे",
+                "en": "sukhe",
+                "be": "সুখে",
+                "ka": "ಸುಖೇ"
+            },
+            "meaning": {
+                "hi": "खुशी के लिए",
+                "en": "to happiness",
+                "be": "সুখের জন্য",
+                "ka": "ಸಂತೋಷಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "सञ्जयति",
-            "transliteration": "sañjayati",
-            "meaning": "attaches"
+            "transliteration": {
+                "hi": "सञ्जयति",
+                "en": "sañjayati",
+                "be": "সঞ্জযতি",
+                "ka": "ಸಞ್ಜಯತಿ"
+            },
+            "meaning": {
+                "hi": "संलग्न करता है",
+                "en": "attaches",
+                "be": "সংযুক্ত করে",
+                "ka": "ಲಗತ್ತಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "active force"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "सक्रिय बल",
+                "en": "active force",
+                "be": "সক্রিয় শক্তি",
+                "ka": "ಸಕ್ರಿಯ ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "कर्मणि",
-            "transliteration": "karmaṇi",
-            "meaning": "to action"
+            "transliteration": {
+                "hi": "कर्मणि",
+                "en": "karmaṇi",
+                "be": "কর্মণি",
+                "ka": "ಕರ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई के लिए",
+                "en": "to action",
+                "be": "কর্মের জন্য",
+                "ka": "ಕ್ರಮಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata",
+                "be": "হে ভরত",
+                "ka": "ಓ ಭರತ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "आवृत्य",
-            "transliteration": "āvṛtya",
-            "meaning": "shrouding"
+            "transliteration": {
+                "hi": "आवृत्य",
+                "en": "āvṛtya",
+                "be": "আবৃত্য",
+                "ka": "ಆವೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "कफ़न",
+                "en": "shrouding",
+                "be": "আবরণ",
+                "ka": "ಮುಚ್ಚಿಕೊಳ್ಳುವುದು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "inertia"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "प्रमादे",
-            "transliteration": "pramāde",
-            "meaning": "to heedlessness"
+            "transliteration": {
+                "hi": "प्रमादे",
+                "en": "pramāde",
+                "be": "প্রমাদে",
+                "ka": "ಪ್ರಮಾದೇ"
+            },
+            "meaning": {
+                "hi": "असावधानी को",
+                "en": "to heedlessness",
+                "be": "গাফিলতি",
+                "ka": "ಅಜಾಗರೂಕತೆಗೆ"
+            }
         },
         {
             "sanskrit": "सञ्जयति",
-            "transliteration": "sañjayati",
-            "meaning": "attaches"
+            "transliteration": {
+                "hi": "सञ्जयति",
+                "en": "sañjayati",
+                "be": "সঞ্জযতি",
+                "ka": "ಸಞ್ಜಯತಿ"
+            },
+            "meaning": {
+                "hi": "संलग्न करता है",
+                "en": "attaches",
+                "be": "সংযুক্ত করে",
+                "ka": "ಲಗತ್ತಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "उत",
-            "transliteration": "uta",
-            "meaning": "but."
+            "transliteration": {
+                "hi": "उत",
+                "en": "uta",
+                "be": "উত",
+                "ka": "ಉತ"
+            },
+            "meaning": {
+                "hi": "लेकिन।",
+                "en": "but.",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ."
+            }
         }
     ],
     "tej": {

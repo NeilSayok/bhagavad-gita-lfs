@@ -14,8 +14,18 @@
         "en": "sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ .\nnibadhnanti mahābāho dehe dehinamavyayam ||14-5||",
         "ka": "ಸತ್ತ್ವಂ ರಜಸ್ತಮ ಇತಿ ಗುಣಾಃ ಪ್ರಕೃತಿಸಮ್ಭವಾಃ |\nನಿಬಧ್ನನ್ತಿ ಮಹಾಬಾಹೋ ದೇಹೇ ದೇಹಿನಮವ್ಯಯಮ್ ||೧೪-೫||"
     },
-    "transliteration": "sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ .\nnibadhnanti mahābāho dehe dehinamavyayam ||14-5||",
-    "life_application": "Know the three modes born of nature—goodness, passion, and ignorance—which bind the imperishable soul to the body.",
+    "transliteration": {
+        "hi": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः |\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||१४-५||",
+        "en": "sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ .\nnibadhnanti mahābāho dehe dehinamavyayam ||14-5||",
+        "be": "সত্ত্বং রজস্তম ইতি গুণাঃ প্রকৃতিসম্ভবাঃ |\nনিবধ্নন্তি মহাবাহো দেহে দেহিনমব্যযম্ ||১৪-৫||",
+        "ka": "ಸತ್ತ್ವಂ ರಜಸ್ತಮ ಇತಿ ಗುಣಾಃ ಪ್ರಕೃತಿಸಮ್ಭವಾಃ |\nನಿಬಧ್ನನ್ತಿ ಮಹಾಬಾಹೋ ದೇಹೇ ದೇಹಿನಮವ್ಯಯಮ್ ||೧೪-೫||"
+    },
+    "life_application": {
+        "hi": "प्रकृति से उत्पन्न तीन गुणों - सतोगुण, रजोगुण और अज्ञान - को जानें, जो अविनाशी आत्मा को शरीर से बांधते हैं।",
+        "en": "Know the three modes born of nature—goodness, passion, and ignorance—which bind the imperishable soul to the body.",
+        "be": "প্রকৃতি থেকে জন্ম নেওয়া তিনটি পদ্ধতিকে জানুন - ভালতা, আবেগ এবং অজ্ঞতা - যা অবিনশ্বর আত্মাকে দেহের সাথে আবদ্ধ করে।",
+        "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ ಮೂರು ವಿಧಾನಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ-ಒಳ್ಳೆಯತನ, ಉತ್ಸಾಹ ಮತ್ತು ಅಜ್ಞಾನ-ಇದು ದೇಹಕ್ಕೆ ನಾಶವಾಗದ ಆತ್ಮವನ್ನು ಬಂಧಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Attachment"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "passion"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "जुनून",
+                "en": "passion",
+                "be": "আবেগ",
+                "ka": "ಉತ್ಸಾಹ"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "inertia"
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "जड़ता",
+                "en": "inertia",
+                "be": "জড়তা",
+                "ka": "ಜಡತ್ವ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "गुणाः",
-            "transliteration": "guṇāḥ",
-            "meaning": "alities"
+            "transliteration": {
+                "hi": "गुणाः",
+                "en": "guṇāḥ",
+                "be": "গুণাঃ",
+                "ka": "ಗುಣಾಃ"
+            },
+            "meaning": {
+                "hi": "सुविधाएँ",
+                "en": "alities",
+                "be": "alities",
+                "ka": "ಅಲಿಟಿಗಳು"
+            }
         },
         {
             "sanskrit": "प्रकृतिसंभवाः",
-            "transliteration": "prakṛtisaṃbhavāḥ",
-            "meaning": "born of Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिसंभवाः",
+                "en": "prakṛtisaṃbhavāḥ",
+                "be": "প্রকৃতিসংভবাঃ",
+                "ka": "ಪ್ರಕೃತಿಸಂಭವಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति से उत्पन्न",
+                "en": "born of Prakriti",
+                "be": "প্রকৃতির জন্ম",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ"
+            }
         },
         {
             "sanskrit": "निबध्नन्ति",
-            "transliteration": "nibadhnanti",
-            "meaning": "bind"
+            "transliteration": {
+                "hi": "निबध्नन्ति",
+                "en": "nibadhnanti",
+                "be": "নিবধ্নন্তি",
+                "ka": "ನಿಬಧ್ನನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "बांधना",
+                "en": "bind",
+                "be": "আবদ্ধ",
+                "ka": "ಬಂಧಿಸು"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "O mightyarmed"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "हे पराक्रमी!",
+                "en": "O mightyarmed",
+                "be": "হে পরাক্রমশালী",
+                "ka": "ಓ ಬಲಶಾಲಿ"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "देहिनम्",
-            "transliteration": "dehinam",
-            "meaning": "the embodied"
+            "transliteration": {
+                "hi": "देहिनम्",
+                "en": "dehinam",
+                "be": "দেহিনম্",
+                "ka": "ದೇಹಿನಮ್"
+            },
+            "meaning": {
+                "hi": "सन्निहित",
+                "en": "the embodied",
+                "be": "মূর্ত",
+                "ka": "ಸಾಕಾರಗೊಂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "the,indestructible."
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी.",
+                "en": "the,indestructible.",
+                "be": "অবিনাশী।",
+                "ka": "ಅವಿನಾಶಿ."
+            }
         }
     ],
     "tej": {

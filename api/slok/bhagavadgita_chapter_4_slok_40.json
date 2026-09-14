@@ -14,8 +14,18 @@
         "en": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati .\nnāyaṃ loko.asti na paro na sukhaṃ saṃśayātmanaḥ ||4-40||",
         "ka": "ಅಜ್ಞಶ್ಚಾಶ್ರದ್ದಧಾನಶ್ಚ ಸಂಶಯಾತ್ಮಾ ವಿನಶ್ಯತಿ |\nನಾಯಂ ಲೋಕೋಽಸ್ತಿ ನ ಪರೋ ನ ಸುಖಂ ಸಂಶಯಾತ್ಮನಃ ||೪-೪೦||"
     },
-    "transliteration": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati .\nnāyaṃ loko.asti na paro na sukhaṃ saṃśayātmanaḥ ||4-40||",
-    "life_application": "Overcome persistent self-doubt and cynicism, cultivating healthy trust so you can experience peace and happiness.",
+    "transliteration": {
+        "hi": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ||४-४०||",
+        "en": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati .\nnāyaṃ loko.asti na paro na sukhaṃ saṃśayātmanaḥ ||4-40||",
+        "be": "অজ্ঞশ্চাশ্রদ্দধানশ্চ সংশযাত্মা বিনশ্যতি |\nনাযং লোকোঽস্তি ন পরো ন সুখং সংশযাত্মনঃ ||৪-৪০||",
+        "ka": "ಅಜ್ಞಶ್ಚಾಶ್ರದ್ದಧಾನಶ್ಚ ಸಂಶಯಾತ್ಮಾ ವಿನಶ್ಯತಿ |\nನಾಯಂ ಲೋಕೋಽಸ್ತಿ ನ ಪರೋ ನ ಸುಖಂ ಸಂಶಯಾತ್ಮನಃ ||೪-೪೦||"
+    },
+    "life_application": {
+        "hi": "लगातार आत्म-संदेह और संशयवाद पर काबू पाएं, स्वस्थ विश्वास विकसित करें ताकि आप शांति और खुशी का अनुभव कर सकें।",
+        "en": "Overcome persistent self-doubt and cynicism, cultivating healthy trust so you can experience peace and happiness.",
+        "be": "ক্রমাগত আত্ম-সন্দেহ এবং নিন্দাবাদকে কাটিয়ে উঠুন, সুস্থ বিশ্বাস গড়ে তুলুন যাতে আপনি শান্তি এবং সুখ অনুভব করতে পারেন।",
+        "ka": "ನಿರಂತರ ಸ್ವಯಂ-ಅನುಮಾನ ಮತ್ತು ಸಿನಿಕತನವನ್ನು ನಿವಾರಿಸಿ, ಆರೋಗ್ಯಕರ ನಂಬಿಕೆಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ ಇದರಿಂದ ನೀವು ಶಾಂತಿ ಮತ್ತು ಸಂತೋಷವನ್ನು ಅನುಭವಿಸಬಹುದು."
+    },
     "themes": [
         "Mind",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अज्ञश्चाश्रद्दधानश्च",
-            "transliteration": "ajñaścāśraddadhānaśca",
-            "meaning": "ajñaścāśraddadhānaśca"
+            "transliteration": {
+                "hi": "अज्ञश्चाश्रद्दधानश्च",
+                "en": "ajñaścāśraddadhānaśca",
+                "be": "অজ্ঞশ্চাশ্রদ্দধানশ্চ",
+                "ka": "ಅಜ್ಞಶ್ಚಾಶ್ರದ್ದಧಾನಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "अज्ञश्चश्रद्धादहनश्च",
+                "en": "ajñaścāśraddadhānaśca",
+                "be": "ajñaścāśraddadhānaśca",
+                "ka": "ಅಜ್ಞಾಶ್ಚಾಶ್ರದ್ದಧನಶ್ಚ"
+            }
         },
         {
             "sanskrit": "संशयात्मा",
-            "transliteration": "saṃśayātmā",
-            "meaning": "saṃśayātmā"
+            "transliteration": {
+                "hi": "संशयात्मा",
+                "en": "saṃśayātmā",
+                "be": "সংশযাত্মা",
+                "ka": "ಸಂಶಯಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "संशयात्मा",
+                "en": "saṃśayātmā",
+                "be": "সংশয়াত্মা",
+                "ka": "ಸಂಶಯಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "विनश्यति",
-            "transliteration": "vinaśyati",
-            "meaning": "vinaśyati"
+            "transliteration": {
+                "hi": "विनश्यति",
+                "en": "vinaśyati",
+                "be": "বিনশ্যতি",
+                "ka": "ವಿನಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "विनश्यति",
+                "en": "vinaśyati",
+                "be": "বিনাশ্যাতি",
+                "ka": "ವಿನಶ್ಯತಿ"
+            }
         },
         {
             "sanskrit": "नायं",
-            "transliteration": "nāyaṃ",
-            "meaning": "nāyaṃ"
+            "transliteration": {
+                "hi": "नायं",
+                "en": "nāyaṃ",
+                "be": "নাযং",
+                "ka": "ನಾಯಂ"
+            },
+            "meaning": {
+                "hi": "नयन",
+                "en": "nāyaṃ",
+                "be": "nāyaṃ",
+                "ka": "nayaṃ"
+            }
         },
         {
             "sanskrit": "लोकोऽस्ति",
-            "transliteration": "loko'sti",
-            "meaning": "loko'sti"
+            "transliteration": {
+                "hi": "लोकोऽस्ति",
+                "en": "loko'sti",
+                "be": "লোকোঽস্তি",
+                "ka": "ಲೋಕೋಽಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "लोको'sti",
+                "en": "loko'sti",
+                "be": "loko'sti",
+                "ka": "ಲೋಕೋ'ಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "परो",
-            "transliteration": "paro",
-            "meaning": "paro"
+            "transliteration": {
+                "hi": "परो",
+                "en": "paro",
+                "be": "পরো",
+                "ka": "ಪರೋ"
+            },
+            "meaning": {
+                "hi": "पारो",
+                "en": "paro",
+                "be": "প্যারো",
+                "ka": "ಪರೋ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सुखं",
-            "transliteration": "sukhaṃ",
-            "meaning": "sukhaṃ"
+            "transliteration": {
+                "hi": "सुखं",
+                "en": "sukhaṃ",
+                "be": "সুখং",
+                "ka": "ಸುಖಂ"
+            },
+            "meaning": {
+                "hi": "सुखं",
+                "en": "sukhaṃ",
+                "be": "সুখ",
+                "ka": "ಸುಖಂ"
+            }
         },
         {
             "sanskrit": "संशयात्मनः",
-            "transliteration": "saṃśayātmanaḥ",
-            "meaning": "saṃśayātmanaḥ"
+            "transliteration": {
+                "hi": "संशयात्मनः",
+                "en": "saṃśayātmanaḥ",
+                "be": "সংশযাত্মনঃ",
+                "ka": "ಸಂಶಯಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "संशयात्मनः",
+                "en": "saṃśayātmanaḥ",
+                "be": "সংশয়াত্মনাঃ",
+                "ka": "ಸಂಶಯಾತ್ಮನಃ"
+            }
         }
     ],
     "tej": {

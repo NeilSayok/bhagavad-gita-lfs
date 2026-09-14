@@ -14,8 +14,18 @@
         "en": "api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ .\nsarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi ||4-36||",
         "ka": "ಅಪಿ ಚೇದಸಿ ಪಾಪೇಭ್ಯಃ ಸರ್ವೇಭ್ಯಃ ಪಾಪಕೃತ್ತಮಃ |\nಸರ್ವಂ ಜ್ಞಾನಪ್ಲವೇನೈವ ವೃಜಿನಂ ಸನ್ತರಿಷ್ಯಸಿ ||೪-೩೬||"
     },
-    "transliteration": "api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ .\nsarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi ||4-36||",
-    "life_application": "Never give up hope over past mistakes, trusting that spiritual wisdom has the power to transform any life.",
+    "transliteration": {
+        "hi": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः |\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ||४-३६||",
+        "en": "api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ .\nsarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi ||4-36||",
+        "be": "অপি চেদসি পাপেভ্যঃ সর্বেভ্যঃ পাপকৃত্তমঃ |\nসর্বং জ্ঞানপ্লবেনৈব বৃজিনং সন্তরিষ্যসি ||৪-৩৬||",
+        "ka": "ಅಪಿ ಚೇದಸಿ ಪಾಪೇಭ್ಯಃ ಸರ್ವೇಭ್ಯಃ ಪಾಪಕೃತ್ತಮಃ |\nಸರ್ವಂ ಜ್ಞಾನಪ್ಲವೇನೈವ ವೃಜಿನಂ ಸನ್ತರಿಷ್ಯಸಿ ||೪-೩೬||"
+    },
+    "life_application": {
+        "hi": "पिछली गलतियों पर कभी आशा न छोड़ें, यह भरोसा रखें कि आध्यात्मिक ज्ञान किसी भी जीवन को बदलने की शक्ति रखता है।",
+        "en": "Never give up hope over past mistakes, trusting that spiritual wisdom has the power to transform any life.",
+        "be": "অতীতের ভুলগুলির উপর আশা ছেড়ে দেবেন না, বিশ্বাস করুন যে আধ্যাত্মিক জ্ঞান যে কোনও জীবনকে পরিবর্তন করার ক্ষমতা রাখে।",
+        "ka": "ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆಯು ಯಾವುದೇ ಜೀವನವನ್ನು ಪರಿವರ್ತಿಸುವ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿದೆ ಎಂದು ನಂಬಿ, ಹಿಂದಿನ ತಪ್ಪುಗಳ ಮೇಲೆ ಎಂದಿಗೂ ಭರವಸೆಯನ್ನು ಬಿಟ್ಟುಕೊಡಬೇಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "चेदसि",
-            "transliteration": "cedasi",
-            "meaning": "cedasi"
+            "transliteration": {
+                "hi": "चेदसि",
+                "en": "cedasi",
+                "be": "চেদসি",
+                "ka": "ಚೇದಸಿ"
+            },
+            "meaning": {
+                "hi": "cedasi",
+                "en": "cedasi",
+                "be": "cedasi",
+                "ka": "ಸೇದಸಿ"
+            }
         },
         {
             "sanskrit": "पापेभ्यः",
-            "transliteration": "pāpebhyaḥ",
-            "meaning": "pāpebhyaḥ"
+            "transliteration": {
+                "hi": "पापेभ्यः",
+                "en": "pāpebhyaḥ",
+                "be": "পাপেভ্যঃ",
+                "ka": "ಪಾಪೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "पापेभ्यः",
+                "en": "pāpebhyaḥ",
+                "be": "pāpebyah",
+                "ka": "ಪಾಪೇಭ್ಯಃ"
+            }
         },
         {
             "sanskrit": "सर्वेभ्यः",
-            "transliteration": "sarvebhyaḥ",
-            "meaning": "sarvebhyaḥ"
+            "transliteration": {
+                "hi": "सर्वेभ्यः",
+                "en": "sarvebhyaḥ",
+                "be": "সর্বেভ্যঃ",
+                "ka": "ಸರ್ವೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "सर्वेभ्यः",
+                "en": "sarvebhyaḥ",
+                "be": "সর্বেভ্যঃ",
+                "ka": "ಸರ್ವೇಭ್ಯಃ"
+            }
         },
         {
             "sanskrit": "पापकृत्तमः",
-            "transliteration": "pāpakṛttamaḥ",
-            "meaning": "pāpakṛttamaḥ"
+            "transliteration": {
+                "hi": "पापकृत्तमः",
+                "en": "pāpakṛttamaḥ",
+                "be": "পাপকৃত্তমঃ",
+                "ka": "ಪಾಪಕೃತ್ತಮಃ"
+            },
+            "meaning": {
+                "hi": "पापकृतमः",
+                "en": "pāpakṛttamaḥ",
+                "be": "পাপাকৃততমঃ",
+                "ka": "ಪಾಪಕೃತಮಃ"
+            }
         },
         {
             "sanskrit": "सर्वं",
-            "transliteration": "sarvaṃ",
-            "meaning": "sarvaṃ"
+            "transliteration": {
+                "hi": "सर्वं",
+                "en": "sarvaṃ",
+                "be": "সর্বং",
+                "ka": "ಸರ್ವಂ"
+            },
+            "meaning": {
+                "hi": "सर्वं",
+                "en": "sarvaṃ",
+                "be": "sarvaṃ",
+                "ka": "sarvaṃ"
+            }
         },
         {
             "sanskrit": "ज्ञानप्लवेनैव",
-            "transliteration": "jñānaplavenaiva",
-            "meaning": "jñānaplavenaiva"
+            "transliteration": {
+                "hi": "ज्ञानप्लवेनैव",
+                "en": "jñānaplavenaiva",
+                "be": "জ্ঞানপ্লবেনৈব",
+                "ka": "ಜ್ಞಾನಪ್ಲವೇನೈವ"
+            },
+            "meaning": {
+                "hi": "ज्ञानप्लवेनैव",
+                "en": "jñānaplavenaiva",
+                "be": "jñānaplavenaiva",
+                "ka": "ಜ್ಞಾನಪ್ಲವೇನೈವ"
+            }
         },
         {
             "sanskrit": "वृजिनं",
-            "transliteration": "vṛjinaṃ",
-            "meaning": "vṛjinaṃ"
+            "transliteration": {
+                "hi": "वृजिनं",
+                "en": "vṛjinaṃ",
+                "be": "বৃজিনং",
+                "ka": "ವೃಜಿನಂ"
+            },
+            "meaning": {
+                "hi": "वृजिनं",
+                "en": "vṛjinaṃ",
+                "be": "vṛjinaṃ",
+                "ka": "ವೃಜಿನಂ"
+            }
         },
         {
             "sanskrit": "सन्तरिष्यसि",
-            "transliteration": "santariṣyasi",
-            "meaning": "santariṣyasi"
+            "transliteration": {
+                "hi": "सन्तरिष्यसि",
+                "en": "santariṣyasi",
+                "be": "সন্তরিষ্যসি",
+                "ka": "ಸನ್ತರಿಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "संतरिष्यसि",
+                "en": "santariṣyasi",
+                "be": "সান্তারিষ্যসি",
+                "ka": "ಸಂತರಿಷ್ಯಸಿ"
+            }
         }
     ],
     "tej": {

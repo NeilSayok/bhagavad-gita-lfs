@@ -14,8 +14,18 @@
         "en": "śraddhāvā.Nllabhate jñānaṃ tatparaḥ saṃyatendriyaḥ .\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||4-39||",
         "ka": "ಶ್ರದ್ಧಾವಾಁಲ್ಲಭತೇ ಜ್ಞಾನಂ ತತ್ಪರಃ ಸಂಯತೇನ್ದ್ರಿಯಃ |\nಜ್ಞಾನಂ ಲಬ್ಧ್ವಾ ಪರಾಂ ಶಾನ್ತಿಮಚಿರೇಣಾಧಿಗಚ್ಛತಿ ||೪-೩೯||"
     },
-    "transliteration": "śraddhāvā.Nllabhate jñānaṃ tatparaḥ saṃyatendriyaḥ .\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||4-39||",
-    "life_application": "Combine steady faith, focused devotion, and sensory control to experience deep, lasting inner peace.",
+    "transliteration": {
+        "hi": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः |\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ||४-३९||",
+        "en": "śraddhāvā.Nllabhate jñānaṃ tatparaḥ saṃyatendriyaḥ .\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||4-39||",
+        "be": "শ্রদ্ধাবাঁল্লভতে জ্ঞানং তত্পরঃ সংযতেন্দ্রিযঃ |\nজ্ঞানং লব্ধ্বা পরাং শান্তিমচিরেণাধিগচ্ছতি ||৪-৩৯||",
+        "ka": "ಶ್ರದ್ಧಾವಾಁಲ್ಲಭತೇ ಜ್ಞಾನಂ ತತ್ಪರಃ ಸಂಯತೇನ್ದ್ರಿಯಃ |\nಜ್ಞಾನಂ ಲಬ್ಧ್ವಾ ಪರಾಂ ಶಾನ್ತಿಮಚಿರೇಣಾಧಿಗಚ್ಛತಿ ||೪-೩೯||"
+    },
+    "life_application": {
+        "hi": "गहरी, स्थायी आंतरिक शांति का अनुभव करने के लिए स्थिर विश्वास, केंद्रित भक्ति और संवेदी नियंत्रण को मिलाएं।",
+        "en": "Combine steady faith, focused devotion, and sensory control to experience deep, lasting inner peace.",
+        "be": "গভীর, দীর্ঘস্থায়ী অভ্যন্তরীণ শান্তি অনুভব করতে স্থির বিশ্বাস, নিবদ্ধ ভক্তি এবং সংবেদনশীল নিয়ন্ত্রণকে একত্রিত করুন।",
+        "ka": "ಆಳವಾದ, ಶಾಶ್ವತವಾದ ಆಂತರಿಕ ಶಾಂತಿಯನ್ನು ಅನುಭವಿಸಲು ಸ್ಥಿರವಾದ ನಂಬಿಕೆ, ಕೇಂದ್ರೀಕೃತ ಭಕ್ತಿ ಮತ್ತು ಸಂವೇದನಾ ನಿಯಂತ್ರಣವನ್ನು ಸಂಯೋಜಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion",
@@ -24,43 +34,123 @@
     "word_meanings": [
         {
             "sanskrit": "श्रद्धावाँल्लभते",
-            "transliteration": "śraddhāvā~llabhate",
-            "meaning": "śraddhāvā~llabhate"
+            "transliteration": {
+                "hi": "श्रद्धावाँल्लभते",
+                "en": "śraddhāvā~llabhate",
+                "be": "শ্রদ্ধাবাঁল্লভতে",
+                "ka": "ಶ್ರದ್ಧಾವಾಁಲ್ಲಭತೇ"
+            },
+            "meaning": {
+                "hi": "श्रद्धावा~ल्लभते",
+                "en": "śraddhāvā~llabhate",
+                "be": "শ্রদ্ধাভা~লাভতে",
+                "ka": "ಶ್ರದ್ಧಾವ~ಲ್ಲಭತೇ"
+            }
         },
         {
             "sanskrit": "ज्ञानं",
-            "transliteration": "jñānaṃ",
-            "meaning": "jñānaṃ"
+            "transliteration": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "জ্ঞানং",
+                "ka": "ಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "jñānaṃ",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "तत्परः",
-            "transliteration": "tatparaḥ",
-            "meaning": "tatparaḥ"
+            "transliteration": {
+                "hi": "तत्परः",
+                "en": "tatparaḥ",
+                "be": "তত্পরঃ",
+                "ka": "ತತ್ಪರಃ"
+            },
+            "meaning": {
+                "hi": "तत्परः",
+                "en": "tatparaḥ",
+                "be": "তত্পরঃ",
+                "ka": "ತತ್ಪರಃ"
+            }
         },
         {
             "sanskrit": "संयतेन्द्रियः",
-            "transliteration": "saṃyatendriyaḥ",
-            "meaning": "saṃyatendriyaḥ"
+            "transliteration": {
+                "hi": "संयतेन्द्रियः",
+                "en": "saṃyatendriyaḥ",
+                "be": "সংযতেন্দ্রিযঃ",
+                "ka": "ಸಂಯತೇನ್ದ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "संयमेन्द्रियः",
+                "en": "saṃyatendriyaḥ",
+                "be": "সংত্যেন্দ্রিয়ঃ",
+                "ka": "ಪ್ರಮಾಣೇಂದ್ರಿಯಃ"
+            }
         },
         {
             "sanskrit": "ज्ञानं",
-            "transliteration": "jñānaṃ",
-            "meaning": "jñānaṃ"
+            "transliteration": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "জ্ঞানং",
+                "ka": "ಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "jñānaṃ",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "लब्ध्वा",
-            "transliteration": "labdhvā",
-            "meaning": "labdhvā"
+            "transliteration": {
+                "hi": "लब्ध्वा",
+                "en": "labdhvā",
+                "be": "লব্ধ্বা",
+                "ka": "ಲಬ್ಧ್ವಾ"
+            },
+            "meaning": {
+                "hi": "लब्धवा",
+                "en": "labdhvā",
+                "be": "labdhvā",
+                "ka": "ಲಬ್ಧ್ವಾ"
+            }
         },
         {
             "sanskrit": "परां",
-            "transliteration": "parāṃ",
-            "meaning": "parāṃ"
+            "transliteration": {
+                "hi": "परां",
+                "en": "parāṃ",
+                "be": "পরাং",
+                "ka": "ಪರಾಂ"
+            },
+            "meaning": {
+                "hi": "परां",
+                "en": "parāṃ",
+                "be": "paraṃ",
+                "ka": "ಪರಾಂ"
+            }
         },
         {
             "sanskrit": "शान्तिमचिरेणाधिगच्छति",
-            "transliteration": "śāntimacireṇādhigacchati",
-            "meaning": "śāntimacireṇādhigacchati"
+            "transliteration": {
+                "hi": "शान्तिमचिरेणाधिगच्छति",
+                "en": "śāntimacireṇādhigacchati",
+                "be": "শান্তিমচিরেণাধিগচ্ছতি",
+                "ka": "ಶಾನ್ತಿಮಚಿರೇಣಾಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "शांतिमाचिरेणाधिगच्छति",
+                "en": "śāntimacireṇādhigacchati",
+                "be": "শান্তিমাচিরেণাধিগচ্ছতি",
+                "ka": "ಶಾನ್ತಿಮಚಿರೇಣಾಧಿಗಚ್ಛತಿ"
+            }
         }
     ],
     "tej": {

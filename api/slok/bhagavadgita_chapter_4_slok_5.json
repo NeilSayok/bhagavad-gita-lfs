@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nbahūni me vyatītāni janmāni tava cārjuna .\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||4-5||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಬಹೂನಿ ಮೇ ವ್ಯತೀತಾನಿ ಜನ್ಮಾನಿ ತವ ಚಾರ್ಜುನ |\nತಾನ್ಯಹಂ ವೇದ ಸರ್ವಾಣಿ ನ ತ್ವಂ ವೇತ್ಥ ಪರನ್ತಪ ||೪-೫||"
     },
-    "transliteration": "śrībhagavānuvāca .\nbahūni me vyatītāni janmāni tava cārjuna .\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||4-5||",
-    "life_application": "Maintain humility regarding your limited memory and view, honoring the broader divine vision behind life's events.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन |\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ||४-५||",
+        "en": "śrībhagavānuvāca .\nbahūni me vyatītāni janmāni tava cārjuna .\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||4-5||",
+        "be": "শ্রীভগবানুবাচ |\nবহূনি মে ব্যতীতানি জন্মানি তব চার্জুন |\nতান্যহং বেদ সর্বাণি ন ত্বং বেত্থ পরন্তপ ||৪-৫||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಬಹೂನಿ ಮೇ ವ್ಯತೀತಾನಿ ಜನ್ಮಾನಿ ತವ ಚಾರ್ಜುನ |\nತಾನ್ಯಹಂ ವೇದ ಸರ್ವಾಣಿ ನ ತ್ವಂ ವೇತ್ಥ ಪರನ್ತಪ ||೪-೫||"
+    },
+    "life_application": {
+        "hi": "अपनी सीमित स्मृति और दृष्टिकोण के संबंध में विनम्रता बनाए रखें, जीवन की घटनाओं के पीछे व्यापक दिव्य दृष्टि का सम्मान करें।",
+        "en": "Maintain humility regarding your limited memory and view, honoring the broader divine vision behind life's events.",
+        "be": "আপনার সীমিত স্মৃতি এবং দৃষ্টিভঙ্গি সম্পর্কে নম্রতা বজায় রাখুন, জীবনের ঘটনাগুলির পিছনে বৃহত্তর ঐশ্বরিক দৃষ্টিভঙ্গিকে সম্মান করুন।",
+        "ka": "ನಿಮ್ಮ ಸೀಮಿತ ಸ್ಮರಣೆ ಮತ್ತು ದೃಷ್ಟಿಕೋನದ ಬಗ್ಗೆ ನಮ್ರತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ, ಜೀವನದ ಘಟನೆಗಳ ಹಿಂದೆ ವಿಶಾಲವಾದ ದೈವಿಕ ದೃಷ್ಟಿಯನ್ನು ಗೌರವಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "बहूनि",
-            "transliteration": "bahūni",
-            "meaning": "bahūni"
+            "transliteration": {
+                "hi": "बहूनि",
+                "en": "bahūni",
+                "be": "বহূনি",
+                "ka": "ಬಹೂನಿ"
+            },
+            "meaning": {
+                "hi": "बहुनि",
+                "en": "bahūni",
+                "be": "বহুনি",
+                "ka": "ಬಹೂನಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "व्यतीतानि",
-            "transliteration": "vyatītāni",
-            "meaning": "vyatītāni"
+            "transliteration": {
+                "hi": "व्यतीतानि",
+                "en": "vyatītāni",
+                "be": "ব্যতীতানি",
+                "ka": "ವ್ಯತೀತಾನಿ"
+            },
+            "meaning": {
+                "hi": "व्यतितानि",
+                "en": "vyatītāni",
+                "be": "vyatititāni",
+                "ka": "ವ್ಯತಿತಾನಿ"
+            }
         },
         {
             "sanskrit": "जन्मानि",
-            "transliteration": "janmāni",
-            "meaning": "janmāni"
+            "transliteration": {
+                "hi": "जन्मानि",
+                "en": "janmāni",
+                "be": "জন্মানি",
+                "ka": "ಜನ್ಮಾನಿ"
+            },
+            "meaning": {
+                "hi": "जन्मनी",
+                "en": "janmāni",
+                "be": "জনমনি",
+                "ka": "ಜನ್ಮನಿ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "your"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "आपका",
+                "en": "your",
+                "be": "আপনার",
+                "ka": "ನಿಮ್ಮ"
+            }
         },
         {
             "sanskrit": "चार्जुन",
-            "transliteration": "cārjuna",
-            "meaning": "cārjuna"
+            "transliteration": {
+                "hi": "चार्जुन",
+                "en": "cārjuna",
+                "be": "চার্জুন",
+                "ka": "ಚಾರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "कार्जुन",
+                "en": "cārjuna",
+                "be": "কার্জুন",
+                "ka": "ಕಾರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "तान्यहं",
-            "transliteration": "tānyahaṃ",
-            "meaning": "tānyahaṃ"
+            "transliteration": {
+                "hi": "तान्यहं",
+                "en": "tānyahaṃ",
+                "be": "তান্যহং",
+                "ka": "ತಾನ್ಯಹಂ"
+            },
+            "meaning": {
+                "hi": "तन्यहं",
+                "en": "tānyahaṃ",
+                "be": "তানিয়াহণ",
+                "ka": "tanyahanṃ"
+            }
         },
         {
             "sanskrit": "वेद",
-            "transliteration": "veda",
-            "meaning": "veda"
+            "transliteration": {
+                "hi": "वेद",
+                "en": "veda",
+                "be": "বেদ",
+                "ka": "ವೇದ"
+            },
+            "meaning": {
+                "hi": "वेद",
+                "en": "veda",
+                "be": "বেদ",
+                "ka": "ವೇದ"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "sarvāṇi"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सरवाणी",
+                "en": "sarvāṇi",
+                "be": "sarvāṇi",
+                "ka": "ಸರ್ವಾಣಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्वं",
-            "transliteration": "tvaṃ",
-            "meaning": "tvaṃ"
+            "transliteration": {
+                "hi": "त्वं",
+                "en": "tvaṃ",
+                "be": "ত্বং",
+                "ka": "ತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "त्वा",
+                "en": "tvaṃ",
+                "be": "tvaṃ",
+                "ka": "tvaṃ"
+            }
         },
         {
             "sanskrit": "वेत्थ",
-            "transliteration": "vettha",
-            "meaning": "vettha"
+            "transliteration": {
+                "hi": "वेत्थ",
+                "en": "vettha",
+                "be": "বেত্থ",
+                "ka": "ವೇತ್ಥ"
+            },
+            "meaning": {
+                "hi": "वेथा",
+                "en": "vettha",
+                "be": "ভেথা",
+                "ka": "ವೆತ್ತಾ"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "parantapa"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "परंतपा",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರಂತಪ"
+            }
         }
     ],
     "tej": {

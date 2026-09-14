@@ -14,8 +14,18 @@
         "en": "yattadagre viṣamiva pariṇāme.amṛtopamam .\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam ||18-37||",
         "ka": "ಯತ್ತದಗ್ರೇ ವಿಷಮಿವ ಪರಿಣಾಮೇಽಮೃತೋಪಮಮ್ |\nತತ್ಸುಖಂ ಸಾತ್ತ್ವಿಕಂ ಪ್ರೋಕ್ತಮಾತ್ಮಬುದ್ಧಿಪ್ರಸಾದಜಮ್ ||೧೮-೩೭||"
     },
-    "transliteration": "yattadagre viṣamiva pariṇāme.amṛtopamam .\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam ||18-37||",
-    "life_application": "Happiness like poison at first, nectar in end, born of self-clarity of intellect—is Sattvic.",
+    "transliteration": {
+        "hi": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् |\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||१८-३७||",
+        "en": "yattadagre viṣamiva pariṇāme.amṛtopamam .\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam ||18-37||",
+        "be": "যত্তদগ্রে বিষমিব পরিণামেঽমৃতোপমম্ |\nতত্সুখং সাত্ত্বিকং প্রোক্তমাত্মবুদ্ধিপ্রসাদজম্ ||১৮-৩৭||",
+        "ka": "ಯತ್ತದಗ್ರೇ ವಿಷಮಿವ ಪರಿಣಾಮೇಽಮೃತೋಪಮಮ್ |\nತತ್ಸುಖಂ ಸಾತ್ತ್ವಿಕಂ ಪ್ರೋಕ್ತಮಾತ್ಮಬುದ್ಧಿಪ್ರಸಾದಜಮ್ ||೧೮-೩೭||"
+    },
+    "life_application": {
+        "hi": "प्रसन्नता प्रथमतः विष के समान, अंत में अमृत के समान, बुद्धि की आत्म-स्पष्टता से उत्पन्न - सात्विक है।",
+        "en": "Happiness like poison at first, nectar in end, born of self-clarity of intellect—is Sattvic.",
+        "be": "প্রথমে বিষের মতো সুখ, শেষে অমৃত, বুদ্ধির স্ব-স্বচ্ছতার জন্ম—সাত্ত্বিক।",
+        "ka": "ಮೊದಮೊದಲು ವಿಷದಂತೆ ಸುಖ, ಕೊನೆಯಲ್ಲಿ ಅಮೃತ, ಬುದ್ಧಿಯ ಸ್ವಯಂ ಸ್ಪಷ್ಟತೆಯಿಂದ ಹುಟ್ಟುವುದು-ಸಾತ್ವಿಕ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "अग्रे",
-            "transliteration": "agre",
-            "meaning": "at first"
+            "transliteration": {
+                "hi": "अग्रे",
+                "en": "agre",
+                "be": "অগ্রে",
+                "ka": "ಅಗ್ರೇ"
+            },
+            "meaning": {
+                "hi": "सबसे पहले",
+                "en": "at first",
+                "be": "প্রথমে",
+                "ka": "ಮೊದಲಿಗೆ"
+            }
         },
         {
             "sanskrit": "विषम्",
-            "transliteration": "viṣam",
-            "meaning": "poison"
+            "transliteration": {
+                "hi": "विषम्",
+                "en": "viṣam",
+                "be": "বিষম্",
+                "ka": "ವಿಷಮ್"
+            },
+            "meaning": {
+                "hi": "ज़हर",
+                "en": "poison",
+                "be": "বিষ",
+                "ka": "ವಿಷ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "परिणामे",
-            "transliteration": "pariṇāme",
-            "meaning": "in the end"
+            "transliteration": {
+                "hi": "परिणामे",
+                "en": "pariṇāme",
+                "be": "পরিণামে",
+                "ka": "ಪರಿಣಾಮೇ"
+            },
+            "meaning": {
+                "hi": "अंत में",
+                "en": "in the end",
+                "be": "শেষ পর্যন্ত",
+                "ka": "ಕೊನೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अमृतोपमम्",
-            "transliteration": "amṛtopamam",
-            "meaning": "like nectar"
+            "transliteration": {
+                "hi": "अमृतोपमम्",
+                "en": "amṛtopamam",
+                "be": "অমৃতোপমম্",
+                "ka": "ಅಮೃತೋಪಮಮ್"
+            },
+            "meaning": {
+                "hi": "अमृत की तरह",
+                "en": "like nectar",
+                "be": "অমৃতের মত",
+                "ka": "ಅಮೃತದಂತೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "pleasure"
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "pleasure",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "सात्त्विकम्",
-            "transliteration": "sāttvikam",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकम्",
+                "en": "sāttvikam",
+                "be": "সাত্ত্বিকম্",
+                "ka": "ಸಾತ್ತ್ವಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "प्रोक्तम्",
-            "transliteration": "proktam",
-            "meaning": "is declared"
+            "transliteration": {
+                "hi": "प्रोक्तम्",
+                "en": "proktam",
+                "be": "প্রোক্তম্",
+                "ka": "ಪ್ರೋಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित किया गया है",
+                "en": "is declared",
+                "be": "ঘোষণা করা হয়",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "आत्मबुद्धिप्रसादजम्",
-            "transliteration": "ātmabuddhiprasādajam",
-            "meaning": "born of the purity"
+            "transliteration": {
+                "hi": "आत्मबुद्धिप्रसादजम्",
+                "en": "ātmabuddhiprasādajam",
+                "be": "আত্মবুদ্ধিপ্রসাদজম্",
+                "ka": "ಆತ್ಮಬುದ್ಧಿಪ್ರಸಾದಜಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता से पैदा हुआ",
+                "en": "born of the purity",
+                "be": "বিশুদ্ধতার জন্ম",
+                "ka": "ಶುದ್ಧತೆಯಿಂದ ಹುಟ್ಟಿದೆ"
+            }
         }
     ],
     "tej": {

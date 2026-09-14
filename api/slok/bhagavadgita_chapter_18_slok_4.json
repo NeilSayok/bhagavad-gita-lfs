@@ -14,8 +14,18 @@
         "en": "niścayaṃ śṛṇu me tatra tyāge bharatasattama .\ntyāgo hi puruṣavyāghra trividhaḥ samprakīrtitaḥ ||18-4||",
         "ka": "ನಿಶ್ಚಯಂ ಶೃಣು ಮೇ ತತ್ರ ತ್ಯಾಗೇ ಭರತಸತ್ತಮ |\nತ್ಯಾಗೋ ಹಿ ಪುರುಷವ್ಯಾಘ್ರ ತ್ರಿವಿಧಃ ಸಮ್ಪ್ರಕೀರ್ತಿತಃ ||೧೮-೪||"
     },
-    "transliteration": "niścayaṃ śṛṇu me tatra tyāge bharatasattama .\ntyāgo hi puruṣavyāghra trividhaḥ samprakīrtitaḥ ||18-4||",
-    "life_application": "Hear My conclusive decision about relinquishment; relinquishment is declared to be of three kinds.",
+    "transliteration": {
+        "hi": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम |\nत्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||१८-४||",
+        "en": "niścayaṃ śṛṇu me tatra tyāge bharatasattama .\ntyāgo hi puruṣavyāghra trividhaḥ samprakīrtitaḥ ||18-4||",
+        "be": "নিশ্চযং শৃণু মে তত্র ত্যাগে ভরতসত্তম |\nত্যাগো হি পুরুষব্যাঘ্র ত্রিবিধঃ সম্প্রকীর্তিতঃ ||১৮-৪||",
+        "ka": "ನಿಶ್ಚಯಂ ಶೃಣು ಮೇ ತತ್ರ ತ್ಯಾಗೇ ಭರತಸತ್ತಮ |\nತ್ಯಾಗೋ ಹಿ ಪುರುಷವ್ಯಾಘ್ರ ತ್ರಿವಿಧಃ ಸಮ್ಪ್ರಕೀರ್ತಿತಃ ||೧೮-೪||"
+    },
+    "life_application": {
+        "hi": "त्याग के विषय में मेरा निर्णायक निर्णय सुनो; त्याग तीन प्रकार का बताया गया है।",
+        "en": "Hear My conclusive decision about relinquishment; relinquishment is declared to be of three kinds.",
+        "be": "ত্যাগ সম্পর্কে আমার চূড়ান্ত সিদ্ধান্ত শুনুন; পরিত্যাগ তিন প্রকার বলে ঘোষণা করা হয়।",
+        "ka": "ತ್ಯಜಿಸುವಿಕೆಯ ಬಗ್ಗೆ ನನ್ನ ನಿರ್ಣಾಯಕ ನಿರ್ಧಾರವನ್ನು ಕೇಳಿ; ತ್ಯಜಿಸುವಿಕೆಯನ್ನು ಮೂರು ವಿಧವೆಂದು ಘೋಷಿಸಲಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "निश्चयम्",
-            "transliteration": "niścayam",
-            "meaning": "conclusion or the final"
+            "transliteration": {
+                "hi": "निश्चयम्",
+                "en": "niścayam",
+                "be": "নিশ্চযম্",
+                "ka": "ನಿಶ್ಚಯಮ್"
+            },
+            "meaning": {
+                "hi": "निष्कर्ष या अंतिम",
+                "en": "conclusion or the final",
+                "be": "উপসংহার বা চূড়ান্ত",
+                "ka": "ತೀರ್ಮಾನ ಅಥವಾ ಅಂತಿಮ"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear"
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो",
+                "en": "hear",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "there"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "there",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "त्यागे",
-            "transliteration": "tyāge",
-            "meaning": "about abandonment"
+            "transliteration": {
+                "hi": "त्यागे",
+                "en": "tyāge",
+                "be": "ত্যাগে",
+                "ka": "ತ್ಯಾಗೇ"
+            },
+            "meaning": {
+                "hi": "परित्याग के बारे में",
+                "en": "about abandonment",
+                "be": "পরিত্যাগ সম্পর্কে",
+                "ka": "ತ್ಯಜಿಸುವ ಬಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "भरतसत्तम",
-            "transliteration": "bharatasattama",
-            "meaning": "O best of the"
+            "transliteration": {
+                "hi": "भरतसत्तम",
+                "en": "bharatasattama",
+                "be": "ভরতসত্তম",
+                "ka": "ಭರತಸತ್ತಮ"
+            },
+            "meaning": {
+                "hi": "हे श्रेष्ठ!",
+                "en": "O best of the",
+                "be": "হে সেরা",
+                "ka": "ಓ ಅತ್ಯುತ್ತಮ"
+            }
         },
         {
             "sanskrit": "त्यागः",
-            "transliteration": "tyāgaḥ",
-            "meaning": "abandonment"
+            "transliteration": {
+                "hi": "त्यागः",
+                "en": "tyāgaḥ",
+                "be": "ত্যাগঃ",
+                "ka": "ತ್ಯಾಗಃ"
+            },
+            "meaning": {
+                "hi": "परित्याग",
+                "en": "abandonment",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "पुरुषव्याघ्र",
-            "transliteration": "puruṣavyāghra",
-            "meaning": "O best of men"
+            "transliteration": {
+                "hi": "पुरुषव्याघ्र",
+                "en": "puruṣavyāghra",
+                "be": "পুরুষব্যাঘ্র",
+                "ka": "ಪುರುಷವ್ಯಾಘ್ರ"
+            },
+            "meaning": {
+                "hi": "हे पुरुषश्रेष्ठ!",
+                "en": "O best of men",
+                "be": "হে শ্রেষ্ঠ পুরুষ",
+                "ka": "ಓ ಪುರುಷರಲ್ಲಿ ಉತ್ತಮ"
+            }
         },
         {
             "sanskrit": "त्रिविधः",
-            "transliteration": "trividhaḥ",
-            "meaning": "of three kinds"
+            "transliteration": {
+                "hi": "त्रिविधः",
+                "en": "trividhaḥ",
+                "be": "ত্রিবিধঃ",
+                "ka": "ತ್ರಿವಿಧಃ"
+            },
+            "meaning": {
+                "hi": "तीन प्रकार का",
+                "en": "of three kinds",
+                "be": "তিন ধরনের",
+                "ka": "ಮೂರು ರೀತಿಯ"
+            }
         },
         {
             "sanskrit": "संप्रकीर्तितः",
-            "transliteration": "saṃprakīrtitaḥ",
-            "meaning": "has been declared ."
+            "transliteration": {
+                "hi": "संप्रकीर्तितः",
+                "en": "saṃprakīrtitaḥ",
+                "be": "সংপ্রকীর্তিতঃ",
+                "ka": "ಸಂಪ್ರಕೀರ್ತಿತಃ"
+            },
+            "meaning": {
+                "hi": "घोषित कर दिया गया है.",
+                "en": "has been declared .",
+                "be": "ঘোষণা করা হয়েছে।",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

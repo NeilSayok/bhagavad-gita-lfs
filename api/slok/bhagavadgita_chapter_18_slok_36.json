@@ -14,8 +14,18 @@
         "en": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha .\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati ||18-36||",
         "ka": "ಸುಖಂ ತ್ವಿದಾನೀಂ ತ್ರಿವಿಧಂ ಶೃಣು ಮೇ ಭರತರ್ಷಭ |\nಅಭ್ಯಾಸಾದ್ರಮತೇ ಯತ್ರ ದುಃಖಾನ್ತಂ ಚ ನಿಗಚ್ಛತಿ ||೧೮-೩೬||"
     },
-    "transliteration": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha .\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati ||18-36||",
-    "life_application": "Hear now of threefold happiness, in which one rejoices by practice and reaches end of pain.",
+    "transliteration": {
+        "hi": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ |\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ||१८-३६||",
+        "en": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha .\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati ||18-36||",
+        "be": "সুখং ত্বিদানীং ত্রিবিধং শৃণু মে ভরতর্ষভ |\nঅভ্যাসাদ্রমতে যত্র দুঃখান্তং চ নিগচ্ছতি ||১৮-৩৬||",
+        "ka": "ಸುಖಂ ತ್ವಿದಾನೀಂ ತ್ರಿವಿಧಂ ಶೃಣು ಮೇ ಭರತರ್ಷಭ |\nಅಭ್ಯಾಸಾದ್ರಮತೇ ಯತ್ರ ದುಃಖಾನ್ತಂ ಚ ನಿಗಚ್ಛತಿ ||೧೮-೩೬||"
+    },
+    "life_application": {
+        "hi": "अब तीन प्रकार के सुखों के बारे में सुनिए, जिसमें व्यक्ति अभ्यास से आनंदित होता है और दुख के अंत तक पहुंचता है।",
+        "en": "Hear now of threefold happiness, in which one rejoices by practice and reaches end of pain.",
+        "be": "এখন শুনুন ত্রিগুণ সুখের কথা, যাতে কেউ অভ্যাসের দ্বারা আনন্দিত হয় এবং ব্যথার শেষ পর্যন্ত পৌঁছে যায়।",
+        "ka": "ತ್ರಿವಿಧ ಸಂತೋಷವನ್ನು ಈಗ ಕೇಳಿರಿ, ಅದರಲ್ಲಿ ಒಬ್ಬರು ಅಭ್ಯಾಸದಿಂದ ಸಂತೋಷಪಡುತ್ತಾರೆ ಮತ್ತು ನೋವಿನ ಅಂತ್ಯವನ್ನು ತಲುಪುತ್ತಾರೆ."
+    },
     "themes": [
         "Equanimity",
         "Purpose"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "pleasure"
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "pleasure",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "इदानीम्",
-            "transliteration": "idānīm",
-            "meaning": "now"
+            "transliteration": {
+                "hi": "इदानीम्",
+                "en": "idānīm",
+                "be": "ইদানীম্",
+                "ka": "ಇದಾನೀಮ್"
+            },
+            "meaning": {
+                "hi": "अभी",
+                "en": "now",
+                "be": "এখন",
+                "ka": "ಈಗ"
+            }
         },
         {
             "sanskrit": "त्रिविधम्",
-            "transliteration": "trividham",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधम्",
+                "en": "trividham",
+                "be": "ত্রিবিধম্",
+                "ka": "ತ್ರಿವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear"
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो",
+                "en": "hear",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "भरतर्षभ",
-            "transliteration": "bharatarṣabha",
-            "meaning": "O lord of the"
+            "transliteration": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভরতর্ষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            },
+            "meaning": {
+                "hi": "हे स्वामी!",
+                "en": "O lord of the",
+                "be": "হে প্রভু",
+                "ka": "ಓ ಪ್ರಭುವೇ"
+            }
         },
         {
             "sanskrit": "अभ्यासात्",
-            "transliteration": "abhyāsāt",
-            "meaning": "from practice"
+            "transliteration": {
+                "hi": "अभ्यासात्",
+                "en": "abhyāsāt",
+                "be": "অভ্যাসাত্",
+                "ka": "ಅಭ್ಯಾಸಾತ್"
+            },
+            "meaning": {
+                "hi": "अभ्यास से",
+                "en": "from practice",
+                "be": "অনুশীলন থেকে",
+                "ka": "ಅಭ್ಯಾಸದಿಂದ"
+            }
         },
         {
             "sanskrit": "रमते",
-            "transliteration": "ramate",
-            "meaning": "rejoices"
+            "transliteration": {
+                "hi": "रमते",
+                "en": "ramate",
+                "be": "রমতে",
+                "ka": "ರಮತೇ"
+            },
+            "meaning": {
+                "hi": "आनंदित",
+                "en": "rejoices",
+                "be": "আনন্দিত",
+                "ka": "ಸಂತೋಷಪಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "यत्र",
-            "transliteration": "yatra",
-            "meaning": "in which"
+            "transliteration": {
+                "hi": "यत्र",
+                "en": "yatra",
+                "be": "যত্র",
+                "ka": "ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "जिसमें",
+                "en": "in which",
+                "be": "যার মধ্যে",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "दुःखान्तम्",
-            "transliteration": "duḥkhāntam",
-            "meaning": "the end of pain"
+            "transliteration": {
+                "hi": "दुःखान्तम्",
+                "en": "duḥkhāntam",
+                "be": "দুঃখান্তম্",
+                "ka": "ದುಃಖಾನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "दर्द का अंत",
+                "en": "the end of pain",
+                "be": "ব্যথার শেষ",
+                "ka": "ನೋವಿನ ಅಂತ್ಯ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "निगच्छति",
-            "transliteration": "nigacchati",
-            "meaning": "attains to."
+            "transliteration": {
+                "hi": "निगच्छति",
+                "en": "nigacchati",
+                "be": "নিগচ্ছতি",
+                "ka": "ನಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "को प्राप्त होता है.",
+                "en": "attains to.",
+                "be": "অর্জন করে।",
+                "ka": "ಗೆ ತಲುಪುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

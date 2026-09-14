@@ -14,8 +14,18 @@
         "en": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ .\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ ||18-40||",
         "ka": "ನ ತದಸ್ತಿ ಪೃಥಿವ್ಯಾಂ ವಾ ದಿವಿ ದೇವೇಷು ವಾ ಪುನಃ |\nಸತ್ತ್ವಂ ಪ್ರಕೃತಿಜೈರ್ಮುಕ್ತಂ ಯದೇಭಿಃ ಸ್ಯಾತ್ತ್ರಿಭಿರ್ಗುಣೈಃ ||೧೮-೪೦||"
     },
-    "transliteration": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ .\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ ||18-40||",
-    "life_application": "No entity on earth or in heaven among gods is free from these three modes born of nature.",
+    "transliteration": {
+        "hi": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः |\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||१८-४०||",
+        "en": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ .\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ ||18-40||",
+        "be": "ন তদস্তি পৃথিব্যাং বা দিবি দেবেষু বা পুনঃ |\nসত্ত্বং প্রকৃতিজৈর্মুক্তং যদেভিঃ স্যাত্ত্রিভির্গুণৈঃ ||১৮-৪০||",
+        "ka": "ನ ತದಸ್ತಿ ಪೃಥಿವ್ಯಾಂ ವಾ ದಿವಿ ದೇವೇಷು ವಾ ಪುನಃ |\nಸತ್ತ್ವಂ ಪ್ರಕೃತಿಜೈರ್ಮುಕ್ತಂ ಯದೇಭಿಃ ಸ್ಯಾತ್ತ್ರಿಭಿರ್ಗುಣೈಃ ||೧೮-೪೦||"
+    },
+    "life_application": {
+        "hi": "पृथ्वी पर या स्वर्ग में देवताओं के बीच कोई भी इकाई प्रकृति से जन्मे इन तीन गुणों से मुक्त नहीं है।",
+        "en": "No entity on earth or in heaven among gods is free from these three modes born of nature.",
+        "be": "পৃথিবীতে বা স্বর্গে দেবতাদের মধ্যে কোন সত্তাই প্রকৃতির জন্ম এই তিনটি মোড থেকে মুক্ত নয়।",
+        "ka": "ಭೂಮಿಯಲ್ಲಿ ಅಥವಾ ಸ್ವರ್ಗದಲ್ಲಿ ದೇವರುಗಳಲ್ಲಿ ಯಾವುದೇ ಅಸ್ತಿತ್ವವು ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ ಈ ಮೂರು ವಿಧಾನಗಳಿಂದ ಮುಕ್ತವಾಗಿಲ್ಲ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "पृथिव्याम्",
-            "transliteration": "pṛthivyām",
-            "meaning": "on the earth"
+            "transliteration": {
+                "hi": "पृथिव्याम्",
+                "en": "pṛthivyām",
+                "be": "পৃথিব্যাম্",
+                "ka": "ಪೃಥಿವ್ಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "पृथ्वी पर",
+                "en": "on the earth",
+                "be": "পৃথিবীতে",
+                "ka": "ಭೂಮಿಯ ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "दिवि",
-            "transliteration": "divi",
-            "meaning": "in heaven"
+            "transliteration": {
+                "hi": "दिवि",
+                "en": "divi",
+                "be": "দিবি",
+                "ka": "ದಿವಿ"
+            },
+            "meaning": {
+                "hi": "स्वर्ग में",
+                "en": "in heaven",
+                "be": "স্বর্গে",
+                "ka": "ಸ್ವರ್ಗದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "देवेषु",
-            "transliteration": "deveṣu",
-            "meaning": "among the gods"
+            "transliteration": {
+                "hi": "देवेषु",
+                "en": "deveṣu",
+                "be": "দেবেষু",
+                "ka": "ದೇವೇಷು"
+            },
+            "meaning": {
+                "hi": "देवताओं के बीच",
+                "en": "among the gods",
+                "be": "দেবতাদের মধ্যে",
+                "ka": "ದೇವರುಗಳ ನಡುವೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "being"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "किया जा रहा है",
+                "en": "being",
+                "be": "হচ্ছে",
+                "ka": "ಇರುವುದು"
+            }
         },
         {
             "sanskrit": "प्रकृतिजैः",
-            "transliteration": "prakṛtijaiḥ",
-            "meaning": "born of Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिजैः",
+                "en": "prakṛtijaiḥ",
+                "be": "প্রকৃতিজৈঃ",
+                "ka": "ಪ್ರಕೃತಿಜೈಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति से उत्पन्न",
+                "en": "born of Prakriti",
+                "be": "প্রকৃতির জন্ম",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ"
+            }
         },
         {
             "sanskrit": "मुक्तम्",
-            "transliteration": "muktam",
-            "meaning": "freed"
+            "transliteration": {
+                "hi": "मुक्तम्",
+                "en": "muktam",
+                "be": "মুক্তম্",
+                "ka": "ಮುಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "आज़ाद",
+                "en": "freed",
+                "be": "মুক্তি",
+                "ka": "ಮುಕ್ತಗೊಳಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "एभिः",
-            "transliteration": "ebhiḥ",
-            "meaning": "from these"
+            "transliteration": {
+                "hi": "एभिः",
+                "en": "ebhiḥ",
+                "be": "এভিঃ",
+                "ka": "ಏಭಿಃ"
+            },
+            "meaning": {
+                "hi": "इनसे",
+                "en": "from these",
+                "be": "এগুলো থেকে",
+                "ka": "ಇವುಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "स्यात्",
-            "transliteration": "syāt",
-            "meaning": "may be"
+            "transliteration": {
+                "hi": "स्यात्",
+                "en": "syāt",
+                "be": "স্যাত্",
+                "ka": "ಸ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "हो सकता है",
+                "en": "may be",
+                "be": "হতে পারে",
+                "ka": "ಇರಬಹುದು"
+            }
         },
         {
             "sanskrit": "त्रिभिः",
-            "transliteration": "tribhiḥ",
-            "meaning": "from three"
+            "transliteration": {
+                "hi": "त्रिभिः",
+                "en": "tribhiḥ",
+                "be": "ত্রিভিঃ",
+                "ka": "ತ್ರಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "तीन से",
+                "en": "from three",
+                "be": "তিন থেকে",
+                "ka": "ಮೂರರಿಂದ"
+            }
         },
         {
             "sanskrit": "गुणैः",
-            "transliteration": "guṇaiḥ",
-            "meaning": "by alities."
+            "transliteration": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুণৈঃ",
+                "ka": "ಗುಣೈಃ"
+            },
+            "meaning": {
+                "hi": "सुविधाओं द्वारा.",
+                "en": "by alities.",
+                "be": "alities দ্বারা",
+                "ka": "ಅಲಿಟಿಗಳಿಂದ."
+            }
         }
     ],
     "tej": {

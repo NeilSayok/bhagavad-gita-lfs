@@ -14,8 +14,18 @@
         "en": "viṣayendriyasaṃyogādyattadagre.amṛtopamam .\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam ||18-38||",
         "ka": "ವಿಷಯೇನ್ದ್ರಿಯಸಂಯೋಗಾದ್ಯತ್ತದಗ್ರೇಽಮೃತೋಪಮಮ್ |\nಪರಿಣಾಮೇ ವಿಷಮಿವ ತತ್ಸುಖಂ ರಾಜಸಂ ಸ್ಮೃತಮ್ ||೧೮-೩೮||"
     },
-    "transliteration": "viṣayendriyasaṃyogādyattadagre.amṛtopamam .\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam ||18-38||",
-    "life_application": "Happiness arising from sensory contact, nectar at first, poison in end—is Rajasic.",
+    "transliteration": {
+        "hi": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् |\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम् ||१८-३८||",
+        "en": "viṣayendriyasaṃyogādyattadagre.amṛtopamam .\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam ||18-38||",
+        "be": "বিষযেন্দ্রিযসংযোগাদ্যত্তদগ্রেঽমৃতোপমম্ |\nপরিণামে বিষমিব তত্সুখং রাজসং স্মৃতম্ ||১৮-৩৮||",
+        "ka": "ವಿಷಯೇನ್ದ್ರಿಯಸಂಯೋಗಾದ್ಯತ್ತದಗ್ರೇಽಮೃತೋಪಮಮ್ |\nಪರಿಣಾಮೇ ವಿಷಮಿವ ತತ್ಸುಖಂ ರಾಜಸಂ ಸ್ಮೃತಮ್ ||೧೮-೩೮||"
+    },
+    "life_application": {
+        "hi": "इन्द्रिय संपर्क से उत्पन्न होने वाला सुख, पहले अमृत, अंत में विष - राजसिक है।",
+        "en": "Happiness arising from sensory contact, nectar at first, poison in end—is Rajasic.",
+        "be": "ইন্দ্রিয় সংস্পর্শে উৎপন্ন সুখ, প্রথমে অমৃত, শেষে বিষ—রাজসিক।",
+        "ka": "ಇಂದ್ರಿಯ ಸಂಪರ್ಕದಿಂದ ಉಂಟಾಗುವ ಸಂತೋಷ, ಮೊದಲು ಅಮೃತ, ಕೊನೆಯಲ್ಲಿ ವಿಷ - ರಾಜಸಿಕ."
+    },
     "themes": [
         "Attachment",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "विषयेन्द्रियसंयोगात्",
-            "transliteration": "viṣayendriyasaṃyogāt",
-            "meaning": "from the contact of"
+            "transliteration": {
+                "hi": "विषयेन्द्रियसंयोगात्",
+                "en": "viṣayendriyasaṃyogāt",
+                "be": "বিষযেন্দ্রিযসংযোগাত্",
+                "ka": "ವಿಷಯೇನ್ದ್ರಿಯಸಂಯೋಗಾತ್"
+            },
+            "meaning": {
+                "hi": "के संपर्क से",
+                "en": "from the contact of",
+                "be": "এর যোগাযোগ থেকে",
+                "ka": "ನ ಸಂಪರ್ಕದಿಂದ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "अग्रे",
-            "transliteration": "agre",
-            "meaning": "at first"
+            "transliteration": {
+                "hi": "अग्रे",
+                "en": "agre",
+                "be": "অগ্রে",
+                "ka": "ಅಗ್ರೇ"
+            },
+            "meaning": {
+                "hi": "सबसे पहले",
+                "en": "at first",
+                "be": "প্রথমে",
+                "ka": "ಮೊದಲಿಗೆ"
+            }
         },
         {
             "sanskrit": "अमृतोपमम्",
-            "transliteration": "amṛtopamam",
-            "meaning": "like nectar"
+            "transliteration": {
+                "hi": "अमृतोपमम्",
+                "en": "amṛtopamam",
+                "be": "অমৃতোপমম্",
+                "ka": "ಅಮೃತೋಪಮಮ್"
+            },
+            "meaning": {
+                "hi": "अमृत की तरह",
+                "en": "like nectar",
+                "be": "অমৃতের মত",
+                "ka": "ಅಮೃತದಂತೆ"
+            }
         },
         {
             "sanskrit": "परिणामे",
-            "transliteration": "pariṇāme",
-            "meaning": "in the end"
+            "transliteration": {
+                "hi": "परिणामे",
+                "en": "pariṇāme",
+                "be": "পরিণামে",
+                "ka": "ಪರಿಣಾಮೇ"
+            },
+            "meaning": {
+                "hi": "अंत में",
+                "en": "in the end",
+                "be": "শেষ পর্যন্ত",
+                "ka": "ಕೊನೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "विषम्",
-            "transliteration": "viṣam",
-            "meaning": "poison"
+            "transliteration": {
+                "hi": "विषम्",
+                "en": "viṣam",
+                "be": "বিষম্",
+                "ka": "ವಿಷಮ್"
+            },
+            "meaning": {
+                "hi": "ज़हर",
+                "en": "poison",
+                "be": "বিষ",
+                "ka": "ವಿಷ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "pleasure"
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "pleasure",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "राजसम्",
-            "transliteration": "rājasam",
-            "meaning": "Rajasic"
+            "transliteration": {
+                "hi": "राजसम्",
+                "en": "rājasam",
+                "be": "রাজসম্",
+                "ka": "ರಾಜಸಮ್"
+            },
+            "meaning": {
+                "hi": "राजसिक",
+                "en": "Rajasic",
+                "be": "রাজসিক",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         },
         {
             "sanskrit": "स्मृतम्",
-            "transliteration": "smṛtam",
-            "meaning": "is declared."
+            "transliteration": {
+                "hi": "स्मृतम्",
+                "en": "smṛtam",
+                "be": "স্মৃতম্",
+                "ka": "ಸ್ಮೃತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित किया गया है.",
+                "en": "is declared.",
+                "be": "ঘোষণা করা হয়।",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

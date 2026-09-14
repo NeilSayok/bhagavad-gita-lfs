@@ -14,8 +14,18 @@
         "en": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa .\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ ||18-41||",
         "ka": "ಬ್ರಾಹ್ಮಣಕ್ಷತ್ರಿಯವಿಶಾಂ ಶೂದ್ರಾಣಾಂ ಚ ಪರನ್ತಪ |\nಕರ್ಮಾಣಿ ಪ್ರವಿಭಕ್ತಾನಿ ಸ್ವಭಾವಪ್ರಭವೈರ್ಗುಣೈಃ ||೧೮-೪೧||"
     },
-    "transliteration": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa .\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ ||18-41||",
-    "life_application": "Duties of different vocations are distributed according to gunas born of their own nature.",
+    "transliteration": {
+        "hi": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप |\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||१८-४१||",
+        "en": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa .\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ ||18-41||",
+        "be": "ব্রাহ্মণক্ষত্রিযবিশাং শূদ্রাণাং চ পরন্তপ |\nকর্মাণি প্রবিভক্তানি স্বভাবপ্রভবৈর্গুণৈঃ ||১৮-৪১||",
+        "ka": "ಬ್ರಾಹ್ಮಣಕ್ಷತ್ರಿಯವಿಶಾಂ ಶೂದ್ರಾಣಾಂ ಚ ಪರನ್ತಪ |\nಕರ್ಮಾಣಿ ಪ್ರವಿಭಕ್ತಾನಿ ಸ್ವಭಾವಪ್ರಭವೈರ್ಗುಣೈಃ ||೧೮-೪೧||"
+    },
+    "life_application": {
+        "hi": "विभिन्न व्यवसायों के कर्तव्य उनके अपने स्वभाव से उत्पन्न गुणों के अनुसार वितरित किये जाते हैं।",
+        "en": "Duties of different vocations are distributed according to gunas born of their own nature.",
+        "be": "বিভিন্ন পেশার কর্তব্য তাদের নিজস্ব প্রকৃতির জন্ম গুন অনুসারে বন্টন করা হয়।",
+        "ka": "ವಿಭಿನ್ನ ವೃತ್ತಿಗಳ ಕರ್ತವ್ಯಗಳನ್ನು ತಮ್ಮದೇ ಸ್ವಭಾವದಿಂದ ಹುಟ್ಟಿದ ಗುಣಗಳ ಪ್ರಕಾರ ವಿತರಿಸಲಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "ब्राह्मणक्षत्रियविशाम्",
-            "transliteration": "brāhmaṇakṣatriyaviśām",
-            "meaning": "of Brahmanas"
+            "transliteration": {
+                "hi": "ब्राह्मणक्षत्रियविशाम्",
+                "en": "brāhmaṇakṣatriyaviśām",
+                "be": "ব্রাহ্মণক্ষত্রিযবিশাম্",
+                "ka": "ಬ್ರಾಹ್ಮಣಕ್ಷತ್ರಿಯವಿಶಾಮ್"
+            },
+            "meaning": {
+                "hi": "ब्राह्मणों का",
+                "en": "of Brahmanas",
+                "be": "ব্রাহ্মণদের",
+                "ka": "ಬ್ರಾಹ್ಮಣರ"
+            }
         },
         {
             "sanskrit": "शूद्राणाम्",
-            "transliteration": "śūdrāṇām",
-            "meaning": "of Sudras"
+            "transliteration": {
+                "hi": "शूद्राणाम्",
+                "en": "śūdrāṇām",
+                "be": "শূদ্রাণাম্",
+                "ka": "ಶೂದ್ರಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "शूद्रों का",
+                "en": "of Sudras",
+                "be": "শূদ্রদের",
+                "ka": "ಶೂದ್ರರ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "as also"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "के रूप में भी",
+                "en": "as also",
+                "be": "এছাড়াও",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "परंतप",
-            "transliteration": "paraṃtapa",
-            "meaning": "O Parantapa"
+            "transliteration": {
+                "hi": "परंतप",
+                "en": "paraṃtapa",
+                "be": "পরংতপ",
+                "ka": "ಪರಂತಪ"
+            },
+            "meaning": {
+                "hi": "हे परंतप!",
+                "en": "O Parantapa",
+                "be": "হে পরন্তপা",
+                "ka": "ಓ ಪರಂತಪಾ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "duties"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्तव्य",
+                "en": "duties",
+                "be": "কর্তব্য",
+                "ka": "ಕರ್ತವ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "प्रविभक्तानि",
-            "transliteration": "pravibhaktāni",
-            "meaning": "are distributed"
+            "transliteration": {
+                "hi": "प्रविभक्तानि",
+                "en": "pravibhaktāni",
+                "be": "প্রবিভক্তানি",
+                "ka": "ಪ್ರವಿಭಕ್ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "वितरित किये जाते हैं",
+                "en": "are distributed",
+                "be": "বিতরণ করা হয়",
+                "ka": "ವಿತರಿಸಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "स्वभावप्रभवैः",
-            "transliteration": "svabhāvaprabhavaiḥ",
-            "meaning": "born of their own"
+            "transliteration": {
+                "hi": "स्वभावप्रभवैः",
+                "en": "svabhāvaprabhavaiḥ",
+                "be": "স্বভাবপ্রভবৈঃ",
+                "ka": "ಸ್ವಭಾವಪ್ರಭವೈಃ"
+            },
+            "meaning": {
+                "hi": "उन्हीं से पैदा हुआ",
+                "en": "born of their own",
+                "be": "তাদের নিজস্ব জন্ম",
+                "ka": "ತಮ್ಮದೇ ಆದ ಜನನ"
+            }
         },
         {
             "sanskrit": "गुणैः",
-            "transliteration": "guṇaiḥ",
-            "meaning": "by alities."
+            "transliteration": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুণৈঃ",
+                "ka": "ಗುಣೈಃ"
+            },
+            "meaning": {
+                "hi": "सुविधाओं द्वारा.",
+                "en": "by alities.",
+                "be": "alities দ্বারা",
+                "ka": "ಅಲಿಟಿಗಳಿಂದ."
+            }
         }
     ],
     "tej": {

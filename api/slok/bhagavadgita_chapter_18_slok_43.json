@@ -14,8 +14,18 @@
         "en": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam .\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam ||18-43||",
         "ka": "ಶೌರ್ಯಂ ತೇಜೋ ಧೃತಿರ್ದಾಕ್ಷ್ಯಂ ಯುದ್ಧೇ ಚಾಪ್ಯಪಲಾಯನಮ್ |\nದಾನಮೀಶ್ವರಭಾವಶ್ಚ ಕ್ಷಾತ್ರಂ ಕರ್ಮ ಸ್ವಭಾವಜಮ್ ||೧೮-೪೩||"
     },
-    "transliteration": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam .\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam ||18-43||",
-    "life_application": "Heroism, majesty, fortitude, dexterity, not fleeing in battle, generosity, lordliness—natural duties of a leader/warrior.",
+    "transliteration": {
+        "hi": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् |\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ||१८-४३||",
+        "en": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam .\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam ||18-43||",
+        "be": "শৌর্যং তেজো ধৃতির্দাক্ষ্যং যুদ্ধে চাপ্যপলাযনম্ |\nদানমীশ্বরভাবশ্চ ক্ষাত্রং কর্ম স্বভাবজম্ ||১৮-৪৩||",
+        "ka": "ಶೌರ್ಯಂ ತೇಜೋ ಧೃತಿರ್ದಾಕ್ಷ್ಯಂ ಯುದ್ಧೇ ಚಾಪ್ಯಪಲಾಯನಮ್ |\nದಾನಮೀಶ್ವರಭಾವಶ್ಚ ಕ್ಷಾತ್ರಂ ಕರ್ಮ ಸ್ವಭಾವಜಮ್ ||೧೮-೪೩||"
+    },
+    "life_application": {
+        "hi": "वीरता, ऐश्वर्य, धैर्य, निपुणता, युद्ध में न भागना, उदारता, आधिपत्य - एक नेता/योद्धा के स्वाभाविक कर्तव्य।",
+        "en": "Heroism, majesty, fortitude, dexterity, not fleeing in battle, generosity, lordliness—natural duties of a leader/warrior.",
+        "be": "বীরত্ব, মহিমা, দৃঢ়তা, দক্ষতা, যুদ্ধে পলায়ন না করা, উদারতা, প্রভুত্ব—একজন নেতা/যোদ্ধার স্বাভাবিক কর্তব্য।",
+        "ka": "ಪರಾಕ್ರಮ, ಗಾಂಭೀರ್ಯ, ಧೈರ್ಯ, ದಕ್ಷತೆ, ಯುದ್ಧದಲ್ಲಿ ಪಲಾಯನ ಮಾಡದಿರುವುದು, ಔದಾರ್ಯ, ಪ್ರಭುತ್ವ-ನಾಯಕ/ಯೋಧನ ಸಹಜ ಕರ್ತವ್ಯಗಳು."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "शौर्यम्",
-            "transliteration": "śauryam",
-            "meaning": "prowess"
+            "transliteration": {
+                "hi": "शौर्यम्",
+                "en": "śauryam",
+                "be": "শৌর্যম্",
+                "ka": "ಶೌರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "पराक्रम",
+                "en": "prowess",
+                "be": "পরাক্রম",
+                "ka": "ಪರಾಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "तेजः",
-            "transliteration": "tejaḥ",
-            "meaning": "splendour"
+            "transliteration": {
+                "hi": "तेजः",
+                "en": "tejaḥ",
+                "be": "তেজঃ",
+                "ka": "ತೇಜಃ"
+            },
+            "meaning": {
+                "hi": "वैभव",
+                "en": "splendour",
+                "be": "splendor",
+                "ka": "ವೈಭವ"
+            }
         },
         {
             "sanskrit": "धृतः",
-            "transliteration": "dhṛtaḥ",
-            "meaning": "firmness"
+            "transliteration": {
+                "hi": "धृतः",
+                "en": "dhṛtaḥ",
+                "be": "ধৃতঃ",
+                "ka": "ಧೃತಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता",
+                "en": "firmness",
+                "be": "দৃঢ়তা",
+                "ka": "ದೃಢತೆ"
+            }
         },
         {
             "sanskrit": "दाक्ष्यम्",
-            "transliteration": "dākṣyam",
-            "meaning": "dexterity"
+            "transliteration": {
+                "hi": "दाक्ष्यम्",
+                "en": "dākṣyam",
+                "be": "দাক্ষ্যম্",
+                "ka": "ದಾಕ್ಷ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "निपुणता",
+                "en": "dexterity",
+                "be": "দক্ষতা",
+                "ka": "ದಕ್ಷತೆ"
+            }
         },
         {
             "sanskrit": "युद्धे",
-            "transliteration": "yuddhe",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "युद्धे",
+                "en": "yuddhe",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अपलायनम्",
-            "transliteration": "apalāyanam",
-            "meaning": "not fleeing"
+            "transliteration": {
+                "hi": "अपलायनम्",
+                "en": "apalāyanam",
+                "be": "অপলাযনম্",
+                "ka": "ಅಪಲಾಯನಮ್"
+            },
+            "meaning": {
+                "hi": "पलायन नहीं",
+                "en": "not fleeing",
+                "be": "পালাচ্ছে না",
+                "ka": "ಪಲಾಯನ ಮಾಡುತ್ತಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "generosity"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "उदारता",
+                "en": "generosity",
+                "be": "উদারতা",
+                "ka": "ಉದಾರತೆ"
+            }
         },
         {
             "sanskrit": "ईश्वरभावः",
-            "transliteration": "īśvarabhāvaḥ",
-            "meaning": "lordliness"
+            "transliteration": {
+                "hi": "ईश्वरभावः",
+                "en": "īśvarabhāvaḥ",
+                "be": "ঈশ্বরভাবঃ",
+                "ka": "ಈಶ್ವರಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "प्रभुता",
+                "en": "lordliness",
+                "be": "প্রভুত্ব",
+                "ka": "ಪ್ರಭುತ್ವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "क्षात्रम्",
-            "transliteration": "kṣātram",
-            "meaning": "of Kshatriyas"
+            "transliteration": {
+                "hi": "क्षात्रम्",
+                "en": "kṣātram",
+                "be": "ক্ষাত্রম্",
+                "ka": "ಕ್ಷಾತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "क्षत्रियों का",
+                "en": "of Kshatriyas",
+                "be": "ক্ষত্রিয়দের",
+                "ka": "ಕ್ಷತ್ರಿಯರ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "स्वभावजम्",
-            "transliteration": "svabhāvajam",
-            "meaning": "born of nature."
+            "transliteration": {
+                "hi": "स्वभावजम्",
+                "en": "svabhāvajam",
+                "be": "স্বভাবজম্",
+                "ka": "ಸ್ವಭಾವಜಮ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति से पैदा हुआ.",
+                "en": "born of nature.",
+                "be": "প্রকৃতির জন্ম।",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ."
+            }
         }
     ],
     "tej": {

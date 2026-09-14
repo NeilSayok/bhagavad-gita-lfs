@@ -14,8 +14,18 @@
         "en": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca .\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam ||18-42||",
         "ka": "ಶಮೋ ದಮಸ್ತಪಃ ಶೌಚಂ ಕ್ಷಾನ್ತಿರಾರ್ಜವಮೇವ ಚ |\nಜ್ಞಾನಂ ವಿಜ್ಞಾನಮಾಸ್ತಿಕ್ಯಂ ಬ್ರಹ್ಮಕರ್ಮ ಸ್ವಭಾವಜಮ್ ||೧೮-೪೨||"
     },
-    "transliteration": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca .\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam ||18-42||",
-    "life_application": "Serenity, self-control, austerity, purity, forgiveness, honesty, knowledge, wisdom, faith—natural duties of a scholar/teacher.",
+    "transliteration": {
+        "hi": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च |\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ||१८-४२||",
+        "en": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca .\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam ||18-42||",
+        "be": "শমো দমস্তপঃ শৌচং ক্ষান্তিরার্জবমেব চ |\nজ্ঞানং বিজ্ঞানমাস্তিক্যং ব্রহ্মকর্ম স্বভাবজম্ ||১৮-৪২||",
+        "ka": "ಶಮೋ ದಮಸ್ತಪಃ ಶೌಚಂ ಕ್ಷಾನ್ತಿರಾರ್ಜವಮೇವ ಚ |\nಜ್ಞಾನಂ ವಿಜ್ಞಾನಮಾಸ್ತಿಕ್ಯಂ ಬ್ರಹ್ಮಕರ್ಮ ಸ್ವಭಾವಜಮ್ ||೧೮-೪೨||"
+    },
+    "life_application": {
+        "hi": "शांति, आत्मसंयम, तपस्या, पवित्रता, क्षमा, ईमानदारी, ज्ञान, बुद्धिमत्ता, विश्वास - एक विद्वान/शिक्षक के स्वाभाविक कर्तव्य।",
+        "en": "Serenity, self-control, austerity, purity, forgiveness, honesty, knowledge, wisdom, faith—natural duties of a scholar/teacher.",
+        "be": "প্রশান্তি, আত্মনিয়ন্ত্রণ, তপস্যা, বিশুদ্ধতা, ক্ষমা, সততা, জ্ঞান, প্রজ্ঞা, বিশ্বাস—একজন পণ্ডিত/শিক্ষকের স্বাভাবিক কর্তব্য।",
+        "ka": "ಪ್ರಶಾಂತತೆ, ಸ್ವಯಂ ನಿಯಂತ್ರಣ, ಸಂಯಮ, ಶುದ್ಧತೆ, ಕ್ಷಮೆ, ಪ್ರಾಮಾಣಿಕತೆ, ಜ್ಞಾನ, ಬುದ್ಧಿವಂತಿಕೆ, ನಂಬಿಕೆ - ವಿದ್ವಾಂಸರ/ಶಿಕ್ಷಕರ ಸಹಜ ಕರ್ತವ್ಯಗಳು."
+    },
     "themes": [
         "Duty",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "शमः",
-            "transliteration": "śamaḥ",
-            "meaning": "serenity"
+            "transliteration": {
+                "hi": "शमः",
+                "en": "śamaḥ",
+                "be": "শমঃ",
+                "ka": "ಶಮಃ"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "serenity",
+                "be": "নির্মলতা",
+                "ka": "ಪ್ರಶಾಂತತೆ"
+            }
         },
         {
             "sanskrit": "दमः",
-            "transliteration": "damaḥ",
-            "meaning": "selfrestraint"
+            "transliteration": {
+                "hi": "दमः",
+                "en": "damaḥ",
+                "be": "দমঃ",
+                "ka": "ದಮಃ"
+            },
+            "meaning": {
+                "hi": "आत्मसंयम",
+                "en": "selfrestraint",
+                "be": "আত্মসংযম",
+                "ka": "ಸ್ವಯಂ ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "शौचम्",
-            "transliteration": "śaucam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "शौचम्",
+                "en": "śaucam",
+                "be": "শৌচম্",
+                "ka": "ಶೌಚಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "क्षान्तिः",
-            "transliteration": "kṣāntiḥ",
-            "meaning": "forgiveness"
+            "transliteration": {
+                "hi": "क्षान्तिः",
+                "en": "kṣāntiḥ",
+                "be": "ক্ষান্তিঃ",
+                "ka": "ಕ್ಷಾನ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "क्षमा",
+                "en": "forgiveness",
+                "be": "ক্ষমা",
+                "ka": "ಕ್ಷಮೆ"
+            }
         },
         {
             "sanskrit": "आर्जवम्",
-            "transliteration": "ārjavam",
-            "meaning": "uprightness"
+            "transliteration": {
+                "hi": "आर्जवम्",
+                "en": "ārjavam",
+                "be": "আর্জবম্",
+                "ka": "ಆರ್ಜವಮ್"
+            },
+            "meaning": {
+                "hi": "ईमानदारी",
+                "en": "uprightness",
+                "be": "ন্যায়পরায়ণতা",
+                "ka": "ನೇರತೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "विज्ञानम्",
-            "transliteration": "vijñānam",
-            "meaning": "realisation"
+            "transliteration": {
+                "hi": "विज्ञानम्",
+                "en": "vijñānam",
+                "be": "বিজ্ঞানম্",
+                "ka": "ವಿಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "अहसास",
+                "en": "realisation",
+                "be": "উপলব্ধি",
+                "ka": "ಸಾಕ್ಷಾತ್ಕಾರ"
+            }
         },
         {
             "sanskrit": "आस्तिक्यम्",
-            "transliteration": "āstikyam",
-            "meaning": "belief in God"
+            "transliteration": {
+                "hi": "आस्तिक्यम्",
+                "en": "āstikyam",
+                "be": "আস্তিক্যম্",
+                "ka": "ಆಸ್ತಿಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "ईश्वर में विश्वास",
+                "en": "belief in God",
+                "be": "ঈশ্বরে বিশ্বাস",
+                "ka": "ದೇವರಲ್ಲಿ ನಂಬಿಕೆ"
+            }
         },
         {
             "sanskrit": "ब्रह्मकर्म",
-            "transliteration": "brahmakarma",
-            "meaning": "the duties of Brahmanas"
+            "transliteration": {
+                "hi": "ब्रह्मकर्म",
+                "en": "brahmakarma",
+                "be": "ব্রহ্মকর্ম",
+                "ka": "ಬ್ರಹ್ಮಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मणों के कर्तव्य |",
+                "en": "the duties of Brahmanas",
+                "be": "ব্রাহ্মণদের কর্তব্য",
+                "ka": "ಬ್ರಾಹ್ಮಣರ ಕರ್ತವ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "स्वभावजम्",
-            "transliteration": "svabhāvajam",
-            "meaning": "born of nature."
+            "transliteration": {
+                "hi": "स्वभावजम्",
+                "en": "svabhāvajam",
+                "be": "স্বভাবজম্",
+                "ka": "ಸ್ವಭಾವಜಮ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति से पैदा हुआ.",
+                "en": "born of nature.",
+                "be": "প্রকৃতির জন্ম।",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ."
+            }
         }
     ],
     "tej": {

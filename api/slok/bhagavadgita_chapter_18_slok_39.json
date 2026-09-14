@@ -14,8 +14,18 @@
         "en": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ .\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam ||18-39||",
         "ka": "ಯದಗ್ರೇ ಚಾನುಬನ್ಧೇ ಚ ಸುಖಂ ಮೋಹನಮಾತ್ಮನಃ |\nನಿದ್ರಾಲಸ್ಯಪ್ರಮಾದೋತ್ಥಂ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೮-೩೯||"
     },
-    "transliteration": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ .\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam ||18-39||",
-    "life_application": "Happiness delusive to self in beginning and end, arising from sleep, indolence, heedlessness—is Tamasic.",
+    "transliteration": {
+        "hi": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः |\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ||१८-३९||",
+        "en": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ .\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam ||18-39||",
+        "be": "যদগ্রে চানুবন্ধে চ সুখং মোহনমাত্মনঃ |\nনিদ্রালস্যপ্রমাদোত্থং তত্তামসমুদাহৃতম্ ||১৮-৩৯||",
+        "ka": "ಯದಗ್ರೇ ಚಾನುಬನ್ಧೇ ಚ ಸುಖಂ ಮೋಹನಮಾತ್ಮನಃ |\nನಿದ್ರಾಲಸ್ಯಪ್ರಮಾದೋತ್ಥಂ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೮-೩೯||"
+    },
+    "life_application": {
+        "hi": "नींद, आलस्य, प्रमाद से उत्पन्न होने वाला आदि और अंत में स्वयं को भ्रमित करने वाला सुख तामस है।",
+        "en": "Happiness delusive to self in beginning and end, arising from sleep, indolence, heedlessness—is Tamasic.",
+        "be": "নিদ্রা, অলসতা, গাফিলতি থেকে উদ্ভূত সুখ আদি ও অন্তে নিজের কাছে ভ্রান্ত - তামসিক।",
+        "ka": "ಪ್ರಾರಂಭದಲ್ಲಿ ಮತ್ತು ಅಂತ್ಯದಲ್ಲಿ ಸ್ವಯಂ ಭ್ರಮೆಗೊಳಿಸುವ ಸಂತೋಷ, ನಿದ್ರೆ, ಆಲಸ್ಯ, ಅಜಾಗರೂಕತೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ - ತಾಮಸಿಕ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "अग्रे",
-            "transliteration": "agre",
-            "meaning": "at first"
+            "transliteration": {
+                "hi": "अग्रे",
+                "en": "agre",
+                "be": "অগ্রে",
+                "ka": "ಅಗ್ರೇ"
+            },
+            "meaning": {
+                "hi": "सबसे पहले",
+                "en": "at first",
+                "be": "প্রথমে",
+                "ka": "ಮೊದಲಿಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अनुबन्धे",
-            "transliteration": "anubandhe",
-            "meaning": "in the seel"
+            "transliteration": {
+                "hi": "अनुबन्धे",
+                "en": "anubandhe",
+                "be": "অনুবন্ধে",
+                "ka": "ಅನುಬನ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "सील में",
+                "en": "in the seel",
+                "be": "সিল মধ্যে",
+                "ka": "ಸೀಲ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "pleasure"
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "pleasure",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "मोहनम्",
-            "transliteration": "mohanam",
-            "meaning": "delusive"
+            "transliteration": {
+                "hi": "मोहनम्",
+                "en": "mohanam",
+                "be": "মোহনম্",
+                "ka": "ಮೋಹನಮ್"
+            },
+            "meaning": {
+                "hi": "भ्रामक",
+                "en": "delusive",
+                "be": "বিভ্রান্তিকর",
+                "ka": "ಭ್ರಮೆಯ"
+            }
         },
         {
             "sanskrit": "आत्मनः",
-            "transliteration": "ātmanaḥ",
-            "meaning": "of the self"
+            "transliteration": {
+                "hi": "आत्मनः",
+                "en": "ātmanaḥ",
+                "be": "আত্মনঃ",
+                "ka": "ಆತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "स्वयं का",
+                "en": "of the self",
+                "be": "স্ব-এর",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "निद्रालस्यप्रमादोत्थम्",
-            "transliteration": "nidrālasyapramādottham",
-            "meaning": "arising from sleep"
+            "transliteration": {
+                "hi": "निद्रालस्यप्रमादोत्थम्",
+                "en": "nidrālasyapramādottham",
+                "be": "নিদ্রালস্যপ্রমাদোত্থম্",
+                "ka": "ನಿದ್ರಾಲಸ್ಯಪ್ರಮಾದೋತ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "नींद से उत्पन्न होना",
+                "en": "arising from sleep",
+                "be": "ঘুম থেকে উদ্ভূত",
+                "ka": "ನಿದ್ರೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "तामसम्",
-            "transliteration": "tāmasam",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसम्",
+                "en": "tāmasam",
+                "be": "তামসম্",
+                "ka": "ತಾಮಸಮ್"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "उदाहृतम्",
-            "transliteration": "udāhṛtam",
-            "meaning": "is declared."
+            "transliteration": {
+                "hi": "उदाहृतम्",
+                "en": "udāhṛtam",
+                "be": "উদাহৃতম্",
+                "ka": "ಉದಾಹೃತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित किया गया है.",
+                "en": "is declared.",
+                "be": "ঘোষণা করা হয়।",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

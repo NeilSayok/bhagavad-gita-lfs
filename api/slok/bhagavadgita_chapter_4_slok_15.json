@@ -14,8 +14,18 @@
         "en": "evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ .\nkuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||4-15||",
         "ka": "ಏವಂ ಜ್ಞಾತ್ವಾ ಕೃತಂ ಕರ್ಮ ಪೂರ್ವೈರಪಿ ಮುಮುಕ್ಷುಭಿಃ |\nಕುರು ಕರ್ಮೈವ ತಸ್ಮಾತ್ತ್ವಂ ಪೂರ್ವೈಃ ಪೂರ್ವತರಂ ಕೃತಮ್ ||೪-೧೫||"
     },
-    "transliteration": "evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ .\nkuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||4-15||",
-    "life_application": "Follow the example of wise ancestors who fulfilled their worldly duties with inner detachment and devotion.",
+    "transliteration": {
+        "hi": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः |\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ||४-१५||",
+        "en": "evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ .\nkuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||4-15||",
+        "be": "এবং জ্ঞাত্বা কৃতং কর্ম পূর্বৈরপি মুমুক্ষুভিঃ |\nকুরু কর্মৈব তস্মাত্ত্বং পূর্বৈঃ পূর্বতরং কৃতম্ ||৪-১৫||",
+        "ka": "ಏವಂ ಜ್ಞಾತ್ವಾ ಕೃತಂ ಕರ್ಮ ಪೂರ್ವೈರಪಿ ಮುಮುಕ್ಷುಭಿಃ |\nಕುರು ಕರ್ಮೈವ ತಸ್ಮಾತ್ತ್ವಂ ಪೂರ್ವೈಃ ಪೂರ್ವತರಂ ಕೃತಮ್ ||೪-೧೫||"
+    },
+    "life_application": {
+        "hi": "उन बुद्धिमान पूर्वजों के उदाहरण का अनुसरण करें जिन्होंने अपने सांसारिक कर्तव्यों को आंतरिक वैराग्य और भक्ति के साथ पूरा किया।",
+        "en": "Follow the example of wise ancestors who fulfilled their worldly duties with inner detachment and devotion.",
+        "be": "জ্ঞানী পূর্বপুরুষদের উদাহরণ অনুসরণ করুন যারা অভ্যন্তরীণ বিচ্ছিন্নতা এবং নিষ্ঠার সাথে তাদের পার্থিব দায়িত্ব পালন করেছেন।",
+        "ka": "ತಮ್ಮ ಲೌಕಿಕ ಕರ್ತವ್ಯಗಳನ್ನು ಆಂತರಿಕ ನಿರ್ಲಿಪ್ತತೆ ಮತ್ತು ಭಕ್ತಿಯಿಂದ ಪೂರೈಸಿದ ಬುದ್ಧಿವಂತ ಪೂರ್ವಜರ ಉದಾಹರಣೆಯನ್ನು ಅನುಸರಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "एवं",
-            "transliteration": "evaṃ",
-            "meaning": "evaṃ"
+            "transliteration": {
+                "hi": "एवं",
+                "en": "evaṃ",
+                "be": "এবং",
+                "ka": "ಏವಂ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "evaṃ",
+                "be": "ইভান",
+                "ka": "evaṃ"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "jñātvā"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "jñātvā",
+                "ka": "ಜ್ಞಾನತ್ವ"
+            }
         },
         {
             "sanskrit": "कृतं",
-            "transliteration": "kṛtaṃ",
-            "meaning": "kṛtaṃ"
+            "transliteration": {
+                "hi": "कृतं",
+                "en": "kṛtaṃ",
+                "be": "কৃতং",
+                "ka": "ಕೃತಂ"
+            },
+            "meaning": {
+                "hi": "कृतम्",
+                "en": "kṛtaṃ",
+                "be": "কৃত্তিম",
+                "ka": "ಕೃತಂ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "पूर्वैरपि",
-            "transliteration": "pūrvairapi",
-            "meaning": "pūrvairapi"
+            "transliteration": {
+                "hi": "पूर्वैरपि",
+                "en": "pūrvairapi",
+                "be": "পূর্বৈরপি",
+                "ka": "ಪೂರ್ವೈರಪಿ"
+            },
+            "meaning": {
+                "hi": "पुरवैरापि",
+                "en": "pūrvairapi",
+                "be": "pūrvairapi",
+                "ka": "ಪೂರ್ವೈರಪಿ"
+            }
         },
         {
             "sanskrit": "मुमुक्षुभिः",
-            "transliteration": "mumukṣubhiḥ",
-            "meaning": "mumukṣubhiḥ"
+            "transliteration": {
+                "hi": "मुमुक्षुभिः",
+                "en": "mumukṣubhiḥ",
+                "be": "মুমুক্ষুভিঃ",
+                "ka": "ಮುಮುಕ್ಷುಭಿಃ"
+            },
+            "meaning": {
+                "hi": "मुमुक्षुभिः",
+                "en": "mumukṣubhiḥ",
+                "be": "মুমুকসুভিঃ",
+                "ka": "ಮುಮುಕ್ಷುಭಿಃ"
+            }
         },
         {
             "sanskrit": "कुरु",
-            "transliteration": "kuru",
-            "meaning": "kuru"
+            "transliteration": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            },
+            "meaning": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            }
         },
         {
             "sanskrit": "कर्मैव",
-            "transliteration": "karmaiva",
-            "meaning": "karmaiva"
+            "transliteration": {
+                "hi": "कर्मैव",
+                "en": "karmaiva",
+                "be": "কর্মৈব",
+                "ka": "ಕರ್ಮೈವ"
+            },
+            "meaning": {
+                "hi": "कर्मैव",
+                "en": "karmaiva",
+                "be": "কর্মইভা",
+                "ka": "ಕರ್ಮೈವ"
+            }
         },
         {
             "sanskrit": "तस्मात्त्वं",
-            "transliteration": "tasmāttvaṃ",
-            "meaning": "tasmāttvaṃ"
+            "transliteration": {
+                "hi": "तस्मात्त्वं",
+                "en": "tasmāttvaṃ",
+                "be": "তস্মাত্ত্বং",
+                "ka": "ತಸ್ಮಾತ್ತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "तस्मात्त्वम्",
+                "en": "tasmāttvaṃ",
+                "be": "tasmāttvaṃ",
+                "ka": "ತಸ್ಮಾತ್ತ್ವ"
+            }
         },
         {
             "sanskrit": "पूर्वैः",
-            "transliteration": "pūrvaiḥ",
-            "meaning": "pūrvaiḥ"
+            "transliteration": {
+                "hi": "पूर्वैः",
+                "en": "pūrvaiḥ",
+                "be": "পূর্বৈঃ",
+                "ka": "ಪೂರ್ವೈಃ"
+            },
+            "meaning": {
+                "hi": "पुरवैः",
+                "en": "pūrvaiḥ",
+                "be": "পূরভাইঃ",
+                "ka": "ಪೂರ್ವೈಃ"
+            }
         },
         {
             "sanskrit": "पूर्वतरं",
-            "transliteration": "pūrvataraṃ",
-            "meaning": "pūrvataraṃ"
+            "transliteration": {
+                "hi": "पूर्वतरं",
+                "en": "pūrvataraṃ",
+                "be": "পূর্বতরং",
+                "ka": "ಪೂರ್ವತರಂ"
+            },
+            "meaning": {
+                "hi": "पूर्वतरं",
+                "en": "pūrvataraṃ",
+                "be": "পূর্বতারাং",
+                "ka": "ಪೂರ್ವತಾರಂ"
+            }
         },
         {
             "sanskrit": "कृतम्",
-            "transliteration": "kṛtam",
-            "meaning": "kṛtam"
+            "transliteration": {
+                "hi": "कृतम्",
+                "en": "kṛtam",
+                "be": "কৃতম্",
+                "ka": "ಕೃತಮ್"
+            },
+            "meaning": {
+                "hi": "कृतम्",
+                "en": "kṛtam",
+                "be": "কৃতম",
+                "ka": "ಕೃತಂ"
+            }
         }
     ],
     "tej": {

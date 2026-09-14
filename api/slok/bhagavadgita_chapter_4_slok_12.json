@@ -14,8 +14,18 @@
         "en": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ .\nkṣipraṃ hi mānuṣe loke siddhirbhavati karmajā ||4-12||",
         "ka": "ಕಾಙ್ಕ್ಷನ್ತಃ ಕರ್ಮಣಾಂ ಸಿದ್ಧಿಂ ಯಜನ್ತ ಇಹ ದೇವತಾಃ |\nಕ್ಷಿಪ್ರಂ ಹಿ ಮಾನುಷೇ ಲೋಕೇ ಸಿದ್ಧಿರ್ಭವತಿ ಕರ್ಮಜಾ ||೪-೧೨||"
     },
-    "transliteration": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ .\nkṣipraṃ hi mānuṣe loke siddhirbhavati karmajā ||4-12||",
-    "life_application": "Recognize that short-term material rewards come quickly, but invest your deepest energy in lasting spiritual growth.",
+    "transliteration": {
+        "hi": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः |\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||",
+        "en": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ .\nkṣipraṃ hi mānuṣe loke siddhirbhavati karmajā ||4-12||",
+        "be": "কাঙ্ক্ষন্তঃ কর্মণাং সিদ্ধিং যজন্ত ইহ দেবতাঃ |\nক্ষিপ্রং হি মানুষে লোকে সিদ্ধির্ভবতি কর্মজা ||৪-১২||",
+        "ka": "ಕಾಙ್ಕ್ಷನ್ತಃ ಕರ್ಮಣಾಂ ಸಿದ್ಧಿಂ ಯಜನ್ತ ಇಹ ದೇವತಾಃ |\nಕ್ಷಿಪ್ರಂ ಹಿ ಮಾನುಷೇ ಲೋಕೇ ಸಿದ್ಧಿರ್ಭವತಿ ಕರ್ಮಜಾ ||೪-೧೨||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि अल्पकालिक भौतिक पुरस्कार जल्दी मिलते हैं, लेकिन अपनी गहरी ऊर्जा को स्थायी आध्यात्मिक विकास में निवेश करें।",
+        "en": "Recognize that short-term material rewards come quickly, but invest your deepest energy in lasting spiritual growth.",
+        "be": "স্বীকার করুন যে স্বল্পমেয়াদী উপাদান পুরষ্কারগুলি দ্রুত আসে, তবে দীর্ঘস্থায়ী আধ্যাত্মিক বৃদ্ধিতে আপনার গভীরতম শক্তি বিনিয়োগ করুন।",
+        "ka": "ಅಲ್ಪಾವಧಿಯ ವಸ್ತು ಪ್ರತಿಫಲಗಳು ತ್ವರಿತವಾಗಿ ಬರುತ್ತವೆ ಎಂದು ಗುರುತಿಸಿ, ಆದರೆ ಶಾಶ್ವತವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ನಿಮ್ಮ ಆಳವಾದ ಶಕ್ತಿಯನ್ನು ಹೂಡಿಕೆ ಮಾಡಿ."
+    },
     "themes": [
         "Karma",
         "Purpose"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "काङ्क्षन्तः",
-            "transliteration": "kāṅkṣantaḥ",
-            "meaning": "kāṅkṣantaḥ"
+            "transliteration": {
+                "hi": "काङ्क्षन्तः",
+                "en": "kāṅkṣantaḥ",
+                "be": "কাঙ্ক্ষন্তঃ",
+                "ka": "ಕಾಙ್ಕ್ಷನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "कांक्षन्तः",
+                "en": "kāṅkṣantaḥ",
+                "be": "kāṅkṣantah",
+                "ka": "ಕಾಂಕ್ಶಾಂತಃ"
+            }
         },
         {
             "sanskrit": "कर्मणां",
-            "transliteration": "karmaṇāṃ",
-            "meaning": "karmaṇāṃ"
+            "transliteration": {
+                "hi": "कर्मणां",
+                "en": "karmaṇāṃ",
+                "be": "কর্মণাং",
+                "ka": "ಕರ್ಮಣಾಂ"
+            },
+            "meaning": {
+                "hi": "कर्मणाम्",
+                "en": "karmaṇāṃ",
+                "be": "কর্মাণ",
+                "ka": "ಕರ್ಮಣ"
+            }
         },
         {
             "sanskrit": "सिद्धिं",
-            "transliteration": "siddhiṃ",
-            "meaning": "siddhiṃ"
+            "transliteration": {
+                "hi": "सिद्धिं",
+                "en": "siddhiṃ",
+                "be": "সিদ্ধিং",
+                "ka": "ಸಿದ್ಧಿಂ"
+            },
+            "meaning": {
+                "hi": "सिद्धिः",
+                "en": "siddhiṃ",
+                "be": "siddhiṃ",
+                "ka": "ಸಿದ್ಧಿಃ"
+            }
         },
         {
             "sanskrit": "यजन्त",
-            "transliteration": "yajanta",
-            "meaning": "yajanta"
+            "transliteration": {
+                "hi": "यजन्त",
+                "en": "yajanta",
+                "be": "যজন্ত",
+                "ka": "ಯಜನ್ತ"
+            },
+            "meaning": {
+                "hi": "यजंता",
+                "en": "yajanta",
+                "be": "যজন্ত",
+                "ka": "ಯಜಂತ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "iha"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "इहा",
+                "en": "iha",
+                "be": "iha",
+                "ka": "ಇಹಾ"
+            }
         },
         {
             "sanskrit": "देवताः",
-            "transliteration": "devatāḥ",
-            "meaning": "devatāḥ"
+            "transliteration": {
+                "hi": "देवताः",
+                "en": "devatāḥ",
+                "be": "দেবতাঃ",
+                "ka": "ದೇವತಾಃ"
+            },
+            "meaning": {
+                "hi": "देवताः",
+                "en": "devatāḥ",
+                "be": "দেবতাঃ",
+                "ka": "ದೇವತಾಃ"
+            }
         },
         {
             "sanskrit": "क्षिप्रं",
-            "transliteration": "kṣipraṃ",
-            "meaning": "kṣipraṃ"
+            "transliteration": {
+                "hi": "क्षिप्रं",
+                "en": "kṣipraṃ",
+                "be": "ক্ষিপ্রং",
+                "ka": "ಕ್ಷಿಪ್ರಂ"
+            },
+            "meaning": {
+                "hi": "क्षिप्रं",
+                "en": "kṣipraṃ",
+                "be": "ক্ষিপ্রশ",
+                "ka": "ಕ್ಷಿಪ್ರ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "मानुषे",
-            "transliteration": "mānuṣe",
-            "meaning": "mānuṣe"
+            "transliteration": {
+                "hi": "मानुषे",
+                "en": "mānuṣe",
+                "be": "মানুষে",
+                "ka": "ಮಾನುಷೇ"
+            },
+            "meaning": {
+                "hi": "मानुषे",
+                "en": "mānuṣe",
+                "be": "মনুষে",
+                "ka": "ಮಾನುಷೆ"
+            }
         },
         {
             "sanskrit": "लोके",
-            "transliteration": "loke",
-            "meaning": "in the world"
+            "transliteration": {
+                "hi": "लोके",
+                "en": "loke",
+                "be": "লোকে",
+                "ka": "ಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "दुनिया में",
+                "en": "in the world",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सिद्धिर्भवति",
-            "transliteration": "siddhirbhavati",
-            "meaning": "siddhirbhavati"
+            "transliteration": {
+                "hi": "सिद्धिर्भवति",
+                "en": "siddhirbhavati",
+                "be": "সিদ্ধির্ভবতি",
+                "ka": "ಸಿದ್ಧಿರ್ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "सिद्धिर्भवति",
+                "en": "siddhirbhavati",
+                "be": "সিদ্ধিরভাবতী",
+                "ka": "ಸಿದ್ಧಿರ್ಭವತಿ"
+            }
         },
         {
             "sanskrit": "कर्मजा",
-            "transliteration": "karmajā",
-            "meaning": "karmajā"
+            "transliteration": {
+                "hi": "कर्मजा",
+                "en": "karmajā",
+                "be": "কর্মজা",
+                "ka": "ಕರ್ಮಜಾ"
+            },
+            "meaning": {
+                "hi": "कर्मजा",
+                "en": "karmajā",
+                "be": "কর্মজা",
+                "ka": "ಕರ್ಮಜಾ"
+            }
         }
     ],
     "tej": {

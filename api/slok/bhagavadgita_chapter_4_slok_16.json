@@ -14,8 +14,18 @@
         "en": "kiṃ karma kimakarmeti kavayo.apyatra mohitāḥ .\ntatte karma pravakṣyāmi yajjñātvā mokṣyase.aśubhāt ||4-16||",
         "ka": "ಕಿಂ ಕರ್ಮ ಕಿಮಕರ್ಮೇತಿ ಕವಯೋಽಪ್ಯತ್ರ ಮೋಹಿತಾಃ |\nತತ್ತೇ ಕರ್ಮ ಪ್ರವಕ್ಷ್ಯಾಮಿ ಯಜ್ಜ್ಞಾತ್ವಾ ಮೋಕ್ಷ್ಯಸೇಽಶುಭಾತ್ ||೪-೧೬||"
     },
-    "transliteration": "kiṃ karma kimakarmeti kavayo.apyatra mohitāḥ .\ntatte karma pravakṣyāmi yajjñātvā mokṣyase.aśubhāt ||4-16||",
-    "life_application": "Study the subtle nature of work and motivation carefully before assuming you fully understand your obligations.",
+    "transliteration": {
+        "hi": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः |\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ||४-१६||",
+        "en": "kiṃ karma kimakarmeti kavayo.apyatra mohitāḥ .\ntatte karma pravakṣyāmi yajjñātvā mokṣyase.aśubhāt ||4-16||",
+        "be": "কিং কর্ম কিমকর্মেতি কবযোঽপ্যত্র মোহিতাঃ |\nতত্তে কর্ম প্রবক্ষ্যামি যজ্জ্ঞাত্বা মোক্ষ্যসেঽশুভাত্ ||৪-১৬||",
+        "ka": "ಕಿಂ ಕರ್ಮ ಕಿಮಕರ್ಮೇತಿ ಕವಯೋಽಪ್ಯತ್ರ ಮೋಹಿತಾಃ |\nತತ್ತೇ ಕರ್ಮ ಪ್ರವಕ್ಷ್ಯಾಮಿ ಯಜ್ಜ್ಞಾತ್ವಾ ಮೋಕ್ಷ್ಯಸೇಽಶುಭಾತ್ ||೪-೧೬||"
+    },
+    "life_application": {
+        "hi": "यह मानने से पहले कि आप अपने दायित्वों को पूरी तरह से समझते हैं, कार्य और प्रेरणा की सूक्ष्म प्रकृति का ध्यानपूर्वक अध्ययन करें।",
+        "en": "Study the subtle nature of work and motivation carefully before assuming you fully understand your obligations.",
+        "be": "আপনি আপনার বাধ্যবাধকতাগুলি সম্পূর্ণরূপে বুঝতে পেরেছেন অনুমান করার আগে কাজের এবং অনুপ্রেরণার সূক্ষ্ম প্রকৃতিটি সাবধানে অধ্যয়ন করুন।",
+        "ka": "ನಿಮ್ಮ ಜವಾಬ್ದಾರಿಗಳನ್ನು ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸುವ ಮೊದಲು ಕೆಲಸ ಮತ್ತು ಪ್ರೇರಣೆಯ ಸೂಕ್ಷ್ಮ ಸ್ವಭಾವವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಅಧ್ಯಯನ ಮಾಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Karma"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "किं",
-            "transliteration": "kiṃ",
-            "meaning": "kiṃ"
+            "transliteration": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "কিং",
+                "ka": "ಕಿಂ"
+            },
+            "meaning": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "kiṃ",
+                "ka": "kiṃ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "किमकर्मेति",
-            "transliteration": "kimakarmeti",
-            "meaning": "kimakarmeti"
+            "transliteration": {
+                "hi": "किमकर्मेति",
+                "en": "kimakarmeti",
+                "be": "কিমকর্মেতি",
+                "ka": "ಕಿಮಕರ್ಮೇತಿ"
+            },
+            "meaning": {
+                "hi": "किमाकर्मेति",
+                "en": "kimakarmeti",
+                "be": "কিমকর্মেতি",
+                "ka": "ಕಿಮಕರ್ಮೇತಿ"
+            }
         },
         {
             "sanskrit": "कवयोऽप्यत्र",
-            "transliteration": "kavayo'pyatra",
-            "meaning": "kavayo'pyatra"
+            "transliteration": {
+                "hi": "कवयोऽप्यत्र",
+                "en": "kavayo'pyatra",
+                "be": "কবযোঽপ্যত্র",
+                "ka": "ಕವಯೋಽಪ್ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "कवयोऽपयात्रा",
+                "en": "kavayo'pyatra",
+                "be": "কাভায়ো'প্যাত্র",
+                "ka": "ಕವಯೋ'ಪ್ಯಾತ್ರ"
+            }
         },
         {
             "sanskrit": "मोहिताः",
-            "transliteration": "mohitāḥ",
-            "meaning": "mohitāḥ"
+            "transliteration": {
+                "hi": "मोहिताः",
+                "en": "mohitāḥ",
+                "be": "মোহিতাঃ",
+                "ka": "ಮೋಹಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "मोहिताः",
+                "en": "mohitāḥ",
+                "be": "mohitāḥ",
+                "ka": "ಮೋಹಿತಾಃ"
+            }
         },
         {
             "sanskrit": "तत्ते",
-            "transliteration": "tatte",
-            "meaning": "tatte"
+            "transliteration": {
+                "hi": "तत्ते",
+                "en": "tatte",
+                "be": "তত্তে",
+                "ka": "ತತ್ತೇ"
+            },
+            "meaning": {
+                "hi": "tatte",
+                "en": "tatte",
+                "be": "tatte",
+                "ka": "ತಟ್ಟೆ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "प्रवक्ष्यामि",
-            "transliteration": "pravakṣyāmi",
-            "meaning": "pravakṣyāmi"
+            "transliteration": {
+                "hi": "प्रवक्ष्यामि",
+                "en": "pravakṣyāmi",
+                "be": "প্রবক্ষ্যামি",
+                "ka": "ಪ್ರವಕ್ಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "प्रवक्षयामि",
+                "en": "pravakṣyāmi",
+                "be": "প্রভাক্ষ্যামি",
+                "ka": "ಪ್ರವಕ್ಷ್ಯಾಮಿ"
+            }
         },
         {
             "sanskrit": "यज्ज्ञात्वा",
-            "transliteration": "yajjñātvā",
-            "meaning": "yajjñātvā"
+            "transliteration": {
+                "hi": "यज्ज्ञात्वा",
+                "en": "yajjñātvā",
+                "be": "যজ্জ্ঞাত্বা",
+                "ka": "ಯಜ್ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "यज्ञत्व",
+                "en": "yajjñātvā",
+                "be": "yajjñātvā",
+                "ka": "ಯಜ್ಞತ್ವ"
+            }
         },
         {
             "sanskrit": "मोक्ष्यसेऽशुभात्",
-            "transliteration": "mokṣyase'śubhāt",
-            "meaning": "mokṣyase'śubhāt"
+            "transliteration": {
+                "hi": "मोक्ष्यसेऽशुभात्",
+                "en": "mokṣyase'śubhāt",
+                "be": "মোক্ষ্যসেঽশুভাত্",
+                "ka": "ಮೋಕ್ಷ್ಯಸೇಽಶುಭಾತ್"
+            },
+            "meaning": {
+                "hi": "मोक्षसेऽशुभात्",
+                "en": "mokṣyase'śubhāt",
+                "be": "মোক্ষ্যসে'শুভাত",
+                "ka": "ಮೋಕ್ಷ್ಯಸೇ'ಶುಭಾತ್"
+            }
         }
     ],
     "tej": {

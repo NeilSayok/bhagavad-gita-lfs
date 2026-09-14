@@ -14,8 +14,18 @@
         "en": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ .\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||4-17||",
         "ka": "ಕರ್ಮಣೋ ಹ್ಯಪಿ ಬೋದ್ಧವ್ಯಂ ಬೋದ್ಧವ್ಯಂ ಚ ವಿಕರ್ಮಣಃ |\nಅಕರ್ಮಣಶ್ಚ ಬೋದ್ಧವ್ಯಂ ಗಹನಾ ಕರ್ಮಣೋ ಗತಿಃ ||೪-೧೭||"
     },
-    "transliteration": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ .\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||4-17||",
-    "life_application": "Reflect deeply on what actions to take, what to avoid, and when to remain still during complex situations.",
+    "transliteration": {
+        "hi": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः |\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ||४-१७||",
+        "en": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ .\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||4-17||",
+        "be": "কর্মণো হ্যপি বোদ্ধব্যং বোদ্ধব্যং চ বিকর্মণঃ |\nঅকর্মণশ্চ বোদ্ধব্যং গহনা কর্মণো গতিঃ ||৪-১৭||",
+        "ka": "ಕರ್ಮಣೋ ಹ್ಯಪಿ ಬೋದ್ಧವ್ಯಂ ಬೋದ್ಧವ್ಯಂ ಚ ವಿಕರ್ಮಣಃ |\nಅಕರ್ಮಣಶ್ಚ ಬೋದ್ಧವ್ಯಂ ಗಹನಾ ಕರ್ಮಣೋ ಗತಿಃ ||೪-೧೭||"
+    },
+    "life_application": {
+        "hi": "जटिल परिस्थितियों के दौरान क्या कार्रवाई करनी है, क्या नहीं करना है और कब स्थिर रहना है, इस पर गहराई से विचार करें।",
+        "en": "Reflect deeply on what actions to take, what to avoid, and when to remain still during complex situations.",
+        "be": "জটিল পরিস্থিতিতে কী পদক্ষেপ নিতে হবে, কী এড়াতে হবে এবং কখন স্থির থাকতে হবে তা গভীরভাবে চিন্তা করুন।",
+        "ka": "ಸಂಕೀರ್ಣ ಸಂದರ್ಭಗಳಲ್ಲಿ ಯಾವ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು, ಯಾವುದನ್ನು ತಪ್ಪಿಸಬೇಕು ಮತ್ತು ಯಾವಾಗ ನಿಶ್ಚಲವಾಗಿರಬೇಕು ಎಂಬುದರ ಕುರಿತು ಆಳವಾಗಿ ಪ್ರತಿಬಿಂಬಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कर्मणो",
-            "transliteration": "karmaṇo",
-            "meaning": "karmaṇo"
+            "transliteration": {
+                "hi": "कर्मणो",
+                "en": "karmaṇo",
+                "be": "কর্মণো",
+                "ka": "ಕರ್ಮಣೋ"
+            },
+            "meaning": {
+                "hi": "कर्मनो",
+                "en": "karmaṇo",
+                "be": "কর্মণ",
+                "ka": "ಕರ್ಮಣೋ"
+            }
         },
         {
             "sanskrit": "ह्यपि",
-            "transliteration": "hyapi",
-            "meaning": "hyapi"
+            "transliteration": {
+                "hi": "ह्यपि",
+                "en": "hyapi",
+                "be": "হ্যপি",
+                "ka": "ಹ್ಯಪಿ"
+            },
+            "meaning": {
+                "hi": "hyapi",
+                "en": "hyapi",
+                "be": "হাইপি",
+                "ka": "ಹೈಪಿ"
+            }
         },
         {
             "sanskrit": "बोद्धव्यं",
-            "transliteration": "boddhavyaṃ",
-            "meaning": "boddhavyaṃ"
+            "transliteration": {
+                "hi": "बोद्धव्यं",
+                "en": "boddhavyaṃ",
+                "be": "বোদ্ধব্যং",
+                "ka": "ಬೋದ್ಧವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "बोधव्यं",
+                "en": "boddhavyaṃ",
+                "be": "boddhavyaṃ",
+                "ka": "boddhavyaṃ"
+            }
         },
         {
             "sanskrit": "बोद्धव्यं",
-            "transliteration": "boddhavyaṃ",
-            "meaning": "boddhavyaṃ"
+            "transliteration": {
+                "hi": "बोद्धव्यं",
+                "en": "boddhavyaṃ",
+                "be": "বোদ্ধব্যং",
+                "ka": "ಬೋದ್ಧವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "बोधव्यं",
+                "en": "boddhavyaṃ",
+                "be": "boddhavyaṃ",
+                "ka": "boddhavyaṃ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विकर्मणः",
-            "transliteration": "vikarmaṇaḥ",
-            "meaning": "vikarmaṇaḥ"
+            "transliteration": {
+                "hi": "विकर्मणः",
+                "en": "vikarmaṇaḥ",
+                "be": "বিকর্মণঃ",
+                "ka": "ವಿಕರ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "विकर्मणः",
+                "en": "vikarmaṇaḥ",
+                "be": "vikarmaṇaḥ",
+                "ka": "ವಿಕರ್ಮಣಃ"
+            }
         },
         {
             "sanskrit": "अकर्मणश्च",
-            "transliteration": "akarmaṇaśca",
-            "meaning": "akarmaṇaśca"
+            "transliteration": {
+                "hi": "अकर्मणश्च",
+                "en": "akarmaṇaśca",
+                "be": "অকর্মণশ্চ",
+                "ka": "ಅಕರ್ಮಣಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "अकर्मणश्च",
+                "en": "akarmaṇaśca",
+                "be": "akarmaṇaśca",
+                "ka": "ಅಕರ್ಮಣಶ್ಚ"
+            }
         },
         {
             "sanskrit": "बोद्धव्यं",
-            "transliteration": "boddhavyaṃ",
-            "meaning": "boddhavyaṃ"
+            "transliteration": {
+                "hi": "बोद्धव्यं",
+                "en": "boddhavyaṃ",
+                "be": "বোদ্ধব্যং",
+                "ka": "ಬೋದ್ಧವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "बोधव्यं",
+                "en": "boddhavyaṃ",
+                "be": "boddhavyaṃ",
+                "ka": "boddhavyaṃ"
+            }
         },
         {
             "sanskrit": "गहना",
-            "transliteration": "gahanā",
-            "meaning": "gahanā"
+            "transliteration": {
+                "hi": "गहना",
+                "en": "gahanā",
+                "be": "গহনা",
+                "ka": "ಗಹನಾ"
+            },
+            "meaning": {
+                "hi": "गाहाना",
+                "en": "gahanā",
+                "be": "গহনা",
+                "ka": "ಗಹನಾ"
+            }
         },
         {
             "sanskrit": "कर्मणो",
-            "transliteration": "karmaṇo",
-            "meaning": "karmaṇo"
+            "transliteration": {
+                "hi": "कर्मणो",
+                "en": "karmaṇo",
+                "be": "কর্মণো",
+                "ka": "ಕರ್ಮಣೋ"
+            },
+            "meaning": {
+                "hi": "कर्मनो",
+                "en": "karmaṇo",
+                "be": "কর্মণ",
+                "ka": "ಕರ್ಮಣೋ"
+            }
         },
         {
             "sanskrit": "गतिः",
-            "transliteration": "gatiḥ",
-            "meaning": "gatiḥ"
+            "transliteration": {
+                "hi": "गतिः",
+                "en": "gatiḥ",
+                "be": "গতিঃ",
+                "ka": "ಗತಿಃ"
+            },
+            "meaning": {
+                "hi": "गतिः",
+                "en": "gatiḥ",
+                "be": "গতিঃ",
+                "ka": "ಗತಿಃ"
+            }
         }
     ],
     "tej": {

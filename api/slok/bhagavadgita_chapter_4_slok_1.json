@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nimaṃ vivasvate yogaṃ proktavānahamavyayam .\nvivasvānmanave prāha manurikṣvākave.abravīt ||4-1||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಇಮಂ ವಿವಸ್ವತೇ ಯೋಗಂ ಪ್ರೋಕ್ತವಾನಹಮವ್ಯಯಮ್ |\nವಿವಸ್ವಾನ್ಮನವೇ ಪ್ರಾಹ ಮನುರಿಕ್ಷ್ವಾಕವೇಽಬ್ರವೀತ್ ||೪-೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\nimaṃ vivasvate yogaṃ proktavānahamavyayam .\nvivasvānmanave prāha manurikṣvākave.abravīt ||4-1||",
-    "life_application": "Appreciate timeless wisdom traditions, learning from proven historical principles when navigating modern life challenges.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम् |\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ||४-१||",
+        "en": "śrībhagavānuvāca .\nimaṃ vivasvate yogaṃ proktavānahamavyayam .\nvivasvānmanave prāha manurikṣvākave.abravīt ||4-1||",
+        "be": "শ্রীভগবানুবাচ |\nইমং বিবস্বতে যোগং প্রোক্তবানহমব্যযম্ |\nবিবস্বান্মনবে প্রাহ মনুরিক্ষ্বাকবেঽব্রবীত্ ||৪-১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಇಮಂ ವಿವಸ್ವತೇ ಯೋಗಂ ಪ್ರೋಕ್ತವಾನಹಮವ್ಯಯಮ್ |\nವಿವಸ್ವಾನ್ಮನವೇ ಪ್ರಾಹ ಮನುರಿಕ್ಷ್ವಾಕವೇಽಬ್ರವೀತ್ ||೪-೧||"
+    },
+    "life_application": {
+        "hi": "आधुनिक जीवन की चुनौतियों से निपटते समय सिद्ध ऐतिहासिक सिद्धांतों से सीखते हुए, कालातीत ज्ञान परंपराओं की सराहना करें।",
+        "en": "Appreciate timeless wisdom traditions, learning from proven historical principles when navigating modern life challenges.",
+        "be": "আধুনিক জীবনের চ্যালেঞ্জ নেভিগেট করার সময় প্রমাণিত ঐতিহাসিক নীতি থেকে শিক্ষা গ্রহণ করে, কালজয়ী জ্ঞান ঐতিহ্যের প্রশংসা করুন।",
+        "ka": "ಆಧುನಿಕ ಜೀವನದ ಸವಾಲುಗಳನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡುವಾಗ ಸಾಬೀತಾಗಿರುವ ಐತಿಹಾಸಿಕ ತತ್ವಗಳಿಂದ ಕಲಿಯುವ, ಟೈಮ್ಲೆಸ್ ಬುದ್ಧಿವಂತಿಕೆಯ ಸಂಪ್ರದಾಯಗಳನ್ನು ಶ್ಲಾಘಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Leadership"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "इमं",
-            "transliteration": "imaṃ",
-            "meaning": "imaṃ"
+            "transliteration": {
+                "hi": "इमं",
+                "en": "imaṃ",
+                "be": "ইমং",
+                "ka": "ಇಮಂ"
+            },
+            "meaning": {
+                "hi": "इमाम",
+                "en": "imaṃ",
+                "be": "imaṃ",
+                "ka": "ಇಮಾಂ"
+            }
         },
         {
             "sanskrit": "विवस्वते",
-            "transliteration": "vivasvate",
-            "meaning": "vivasvate"
+            "transliteration": {
+                "hi": "विवस्वते",
+                "en": "vivasvate",
+                "be": "বিবস্বতে",
+                "ka": "ವಿವಸ್ವತೇ"
+            },
+            "meaning": {
+                "hi": "विवस्वते",
+                "en": "vivasvate",
+                "be": "vivasvate",
+                "ka": "ವಿವಸ್ವತೇ"
+            }
         },
         {
             "sanskrit": "योगं",
-            "transliteration": "yogaṃ",
-            "meaning": "yogaṃ"
+            "transliteration": {
+                "hi": "योगं",
+                "en": "yogaṃ",
+                "be": "যোগং",
+                "ka": "ಯೋಗಂ"
+            },
+            "meaning": {
+                "hi": "योगम्",
+                "en": "yogaṃ",
+                "be": "যোগাস",
+                "ka": "ಯೋಗಂ"
+            }
         },
         {
             "sanskrit": "प्रोक्तवानहमव्ययम्",
-            "transliteration": "proktavānahamavyayam",
-            "meaning": "proktavānahamavyayam"
+            "transliteration": {
+                "hi": "प्रोक्तवानहमव्ययम्",
+                "en": "proktavānahamavyayam",
+                "be": "প্রোক্তবানহমব্যযম্",
+                "ka": "ಪ್ರೋಕ್ತವಾನಹಮವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "प्रोक्तवानहमव्ययम्",
+                "en": "proktavānahamavyayam",
+                "be": "proktavānahamavyayam",
+                "ka": "ಪ್ರೋಕ್ತವಾನಹಮವ್ಯಯಮ್"
+            }
         },
         {
             "sanskrit": "विवस्वान्मनवे",
-            "transliteration": "vivasvānmanave",
-            "meaning": "vivasvānmanave"
+            "transliteration": {
+                "hi": "विवस्वान्मनवे",
+                "en": "vivasvānmanave",
+                "be": "বিবস্বান্মনবে",
+                "ka": "ವಿವಸ್ವಾನ್ಮನವೇ"
+            },
+            "meaning": {
+                "hi": "विवस्वान्मानवे",
+                "en": "vivasvānmanave",
+                "be": "vivasvānmanave",
+                "ka": "ವಿವಸ್ವಾನ್ಮನವೇ"
+            }
         },
         {
             "sanskrit": "प्राह",
-            "transliteration": "prāha",
-            "meaning": "prāha"
+            "transliteration": {
+                "hi": "प्राह",
+                "en": "prāha",
+                "be": "প্রাহ",
+                "ka": "ಪ್ರಾಹ"
+            },
+            "meaning": {
+                "hi": "प्राहा",
+                "en": "prāha",
+                "be": "প্রাহা",
+                "ka": "ಪ್ರಾಹ"
+            }
         },
         {
             "sanskrit": "मनुरिक्ष्वाकवेऽब्रवीत्",
-            "transliteration": "manurikṣvākave'bravīt",
-            "meaning": "manurikṣvākave'bravīt"
+            "transliteration": {
+                "hi": "मनुरिक्ष्वाकवेऽब्रवीत्",
+                "en": "manurikṣvākave'bravīt",
+                "be": "মনুরিক্ষ্বাকবেঽব্রবীত্",
+                "ka": "ಮನುರಿಕ್ಷ್ವಾಕವೇಽಬ್ರವೀತ್"
+            },
+            "meaning": {
+                "hi": "मनुरिङ्क्षवकवेऽब्रवित्",
+                "en": "manurikṣvākave'bravīt",
+                "be": "manurikṣvākave'bravīt",
+                "ka": "ಮನುರಿಕ್ಷ್ವಕವೇ'ಬ್ರವೀತ್"
+            }
         }
     ],
     "tej": {

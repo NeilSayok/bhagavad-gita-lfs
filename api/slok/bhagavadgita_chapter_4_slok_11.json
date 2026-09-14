@@ -14,8 +14,18 @@
         "en": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham .\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||4-11||",
         "ka": "ಯೇ ಯಥಾ ಮಾಂ ಪ್ರಪದ್ಯನ್ತೇ ತಾಂಸ್ತಥೈವ ಭಜಾಮ್ಯಹಮ್ |\nಮಮ ವರ್ತ್ಮಾನುವರ್ತನ್ತೇ ಮನುಷ್ಯಾಃ ಪಾರ್ಥ ಸರ್ವಶಃ ||೪-೧೧||"
     },
-    "transliteration": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham .\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||4-11||",
-    "life_application": "Respect the diverse ways people seek truth and divine connection, knowing that sincere devotion is always answered.",
+    "transliteration": {
+        "hi": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् |\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||४-११||",
+        "en": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham .\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||4-11||",
+        "be": "যে যথা মাং প্রপদ্যন্তে তাংস্তথৈব ভজাম্যহম্ |\nমম বর্ত্মানুবর্তন্তে মনুষ্যাঃ পার্থ সর্বশঃ ||৪-১১||",
+        "ka": "ಯೇ ಯಥಾ ಮಾಂ ಪ್ರಪದ್ಯನ್ತೇ ತಾಂಸ್ತಥೈವ ಭಜಾಮ್ಯಹಮ್ |\nಮಮ ವರ್ತ್ಮಾನುವರ್ತನ್ತೇ ಮನುಷ್ಯಾಃ ಪಾರ್ಥ ಸರ್ವಶಃ ||೪-೧೧||"
+    },
+    "life_application": {
+        "hi": "लोगों द्वारा सत्य और दैवीय संबंध की खोज के विविध तरीकों का सम्मान करें, यह जानते हुए कि सच्ची भक्ति का हमेशा उत्तर दिया जाता है।",
+        "en": "Respect the diverse ways people seek truth and divine connection, knowing that sincere devotion is always answered.",
+        "be": "মানুষ সত্য এবং ঐশ্বরিক সংযোগ খোঁজার বিভিন্ন উপায়কে সম্মান করুন, জেনে রাখুন যে আন্তরিক ভক্তি সর্বদা উত্তর দেওয়া হয়।",
+        "ka": "ಪ್ರಾಮಾಣಿಕ ಭಕ್ತಿಯು ಯಾವಾಗಲೂ ಉತ್ತರಿಸಲ್ಪಡುತ್ತದೆ ಎಂದು ತಿಳಿದುಕೊಂಡು ಜನರು ಸತ್ಯ ಮತ್ತು ದೈವಿಕ ಸಂಪರ್ಕವನ್ನು ಹುಡುಕುವ ವೈವಿಧ್ಯಮಯ ಮಾರ್ಗಗಳನ್ನು ಗೌರವಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "प्रपद्यन्ते",
-            "transliteration": "prapadyante",
-            "meaning": "prapadyante"
+            "transliteration": {
+                "hi": "प्रपद्यन्ते",
+                "en": "prapadyante",
+                "be": "প্রপদ্যন্তে",
+                "ka": "ಪ್ರಪದ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "प्रपद्यन्ते",
+                "en": "prapadyante",
+                "be": "প্রপাদ্যন্তে",
+                "ka": "ಪ್ರಪದ್ಯನ್ತೇ"
+            }
         },
         {
             "sanskrit": "तांस्तथैव",
-            "transliteration": "tāṃstathaiva",
-            "meaning": "tāṃstathaiva"
+            "transliteration": {
+                "hi": "तांस्तथैव",
+                "en": "tāṃstathaiva",
+                "be": "তাংস্তথৈব",
+                "ka": "ತಾಂಸ್ತಥೈವ"
+            },
+            "meaning": {
+                "hi": "तंस्तथैव",
+                "en": "tāṃstathaiva",
+                "be": "tāṃstathaiva",
+                "ka": "ತಾಂಸ್ತಥೈವ"
+            }
         },
         {
             "sanskrit": "भजाम्यहम्",
-            "transliteration": "bhajāmyaham",
-            "meaning": "bhajāmyaham"
+            "transliteration": {
+                "hi": "भजाम्यहम्",
+                "en": "bhajāmyaham",
+                "be": "ভজাম্যহম্",
+                "ka": "ಭಜಾಮ್ಯಹಮ್"
+            },
+            "meaning": {
+                "hi": "भजाम्यहम्",
+                "en": "bhajāmyaham",
+                "be": "ভজাম্যহম",
+                "ka": "ಭಜಾಮ್ಯಹಂ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "वर्त्मानुवर्तन्ते",
-            "transliteration": "vartmānuvartante",
-            "meaning": "vartmānuvartante"
+            "transliteration": {
+                "hi": "वर्त्मानुवर्तन्ते",
+                "en": "vartmānuvartante",
+                "be": "বর্ত্মানুবর্তন্তে",
+                "ka": "ವರ್ತ್ಮಾನುವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "वर्त्मनुवर्तन्ते",
+                "en": "vartmānuvartante",
+                "be": "vartmanuvartante",
+                "ka": "ವರ್ತ್ಮಾನುವರ್ತಂತೆ"
+            }
         },
         {
             "sanskrit": "मनुष्याः",
-            "transliteration": "manuṣyāḥ",
-            "meaning": "manuṣyāḥ"
+            "transliteration": {
+                "hi": "मनुष्याः",
+                "en": "manuṣyāḥ",
+                "be": "মনুষ্যাঃ",
+                "ka": "ಮನುಷ್ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "मनुष्यः",
+                "en": "manuṣyāḥ",
+                "be": "মনুষ্যঃ",
+                "ka": "ಮನುಷ್ಯಃ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "sarvaśaḥ"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "सर्वश:",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            }
         }
     ],
     "tej": {

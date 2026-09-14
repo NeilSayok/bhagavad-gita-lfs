@@ -14,8 +14,18 @@
         "en": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ .\ntasya kartāramapi māṃ viddhyakartāramavyayam ||4-13||",
         "ka": "ಚಾತುರ್ವರ್ಣ್ಯಂ ಮಯಾ ಸೃಷ್ಟಂ ಗುಣಕರ್ಮವಿಭಾಗಶಃ |\nತಸ್ಯ ಕರ್ತಾರಮಪಿ ಮಾಂ ವಿದ್ಧ್ಯಕರ್ತಾರಮವ್ಯಯಮ್ ||೪-೧೩||"
     },
-    "transliteration": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ .\ntasya kartāramapi māṃ viddhyakartāramavyayam ||4-13||",
-    "life_application": "Appreciate people based on their actual qualities and actions rather than rigid social labels or background.",
+    "transliteration": {
+        "hi": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः |\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ||४-१३||",
+        "en": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ .\ntasya kartāramapi māṃ viddhyakartāramavyayam ||4-13||",
+        "be": "চাতুর্বর্ণ্যং মযা সৃষ্টং গুণকর্মবিভাগশঃ |\nতস্য কর্তারমপি মাং বিদ্ধ্যকর্তারমব্যযম্ ||৪-১৩||",
+        "ka": "ಚಾತುರ್ವರ್ಣ್ಯಂ ಮಯಾ ಸೃಷ್ಟಂ ಗುಣಕರ್ಮವಿಭಾಗಶಃ |\nತಸ್ಯ ಕರ್ತಾರಮಪಿ ಮಾಂ ವಿದ್ಧ್ಯಕರ್ತಾರಮವ್ಯಯಮ್ ||೪-೧೩||"
+    },
+    "life_application": {
+        "hi": "कठोर सामाजिक लेबल या पृष्ठभूमि के बजाय लोगों की उनके वास्तविक गुणों और कार्यों के आधार पर सराहना करें।",
+        "en": "Appreciate people based on their actual qualities and actions rather than rigid social labels or background.",
+        "be": "কঠোর সামাজিক লেবেল বা পটভূমির পরিবর্তে তাদের প্রকৃত গুণাবলী এবং কর্মের উপর ভিত্তি করে লোকেদের প্রশংসা করুন।",
+        "ka": "ಕಠಿಣ ಸಾಮಾಜಿಕ ಲೇಬಲ್‌ಗಳು ಅಥವಾ ಹಿನ್ನೆಲೆಗಿಂತ ಹೆಚ್ಚಾಗಿ ಅವರ ನೈಜ ಗುಣಗಳು ಮತ್ತು ಕ್ರಿಯೆಗಳ ಆಧಾರದ ಮೇಲೆ ಜನರನ್ನು ಶ್ಲಾಘಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Equanimity"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "चातुर्वर्ण्यं",
-            "transliteration": "cāturvarṇyaṃ",
-            "meaning": "cāturvarṇyaṃ"
+            "transliteration": {
+                "hi": "चातुर्वर्ण्यं",
+                "en": "cāturvarṇyaṃ",
+                "be": "চাতুর্বর্ণ্যং",
+                "ka": "ಚಾತುರ್ವರ್ಣ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "चातुर्वर्ण्यम्",
+                "en": "cāturvarṇyaṃ",
+                "be": "চতুর্বর্ণ্যণ",
+                "ka": "ಚಾತುರ್ವರ್ಣ್ಯ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "mayā"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "mayā",
+                "be": "মায়া",
+                "ka": "ಮಾಯಾ"
+            }
         },
         {
             "sanskrit": "सृष्टं",
-            "transliteration": "sṛṣṭaṃ",
-            "meaning": "sṛṣṭaṃ"
+            "transliteration": {
+                "hi": "सृष्टं",
+                "en": "sṛṣṭaṃ",
+                "be": "সৃষ্টং",
+                "ka": "ಸೃಷ್ಟಂ"
+            },
+            "meaning": {
+                "hi": "सृष्टं",
+                "en": "sṛṣṭaṃ",
+                "be": "শ্রেষ্ট",
+                "ka": "ಶ್ರೀಷ್ಠಾ"
+            }
         },
         {
             "sanskrit": "गुणकर्मविभागशः",
-            "transliteration": "guṇakarmavibhāgaśaḥ",
-            "meaning": "guṇakarmavibhāgaśaḥ"
+            "transliteration": {
+                "hi": "गुणकर्मविभागशः",
+                "en": "guṇakarmavibhāgaśaḥ",
+                "be": "গুণকর্মবিভাগশঃ",
+                "ka": "ಗುಣಕರ್ಮವಿಭಾಗಶಃ"
+            },
+            "meaning": {
+                "hi": "गुणकर्मविभागशः",
+                "en": "guṇakarmavibhāgaśaḥ",
+                "be": "গুনাকর্মবিভাগঃ",
+                "ka": "ಗುಣಕರ್ಮವಿಭಾಗಶಃ"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "his"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "कर्तारमपि",
-            "transliteration": "kartāramapi",
-            "meaning": "kartāramapi"
+            "transliteration": {
+                "hi": "कर्तारमपि",
+                "en": "kartāramapi",
+                "be": "কর্তারমপি",
+                "ka": "ಕರ್ತಾರಮಪಿ"
+            },
+            "meaning": {
+                "hi": "कर्तारामपि",
+                "en": "kartāramapi",
+                "be": "কর্তারমাপি",
+                "ka": "ಕರ್ತಾರಮಪಿ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "विद्ध्यकर्तारमव्ययम्",
-            "transliteration": "viddhyakartāramavyayam",
-            "meaning": "viddhyakartāramavyayam"
+            "transliteration": {
+                "hi": "विद्ध्यकर्तारमव्ययम्",
+                "en": "viddhyakartāramavyayam",
+                "be": "বিদ্ধ্যকর্তারমব্যযম্",
+                "ka": "ವಿದ್ಧ್ಯಕರ್ತಾರಮವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "विध्यकर्तारामव्ययम्",
+                "en": "viddhyakartāramavyayam",
+                "be": "বিদ্যাকারতারামব্যয়ম",
+                "ka": "viddhyakartāramvyayam"
+            }
         }
     ],
     "tej": {

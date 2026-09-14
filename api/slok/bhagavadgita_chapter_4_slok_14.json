@@ -14,8 +14,18 @@
         "en": "na māṃ karmāṇi limpanti na me karmaphale spṛhā .\niti māṃ yo.abhijānāti karmabhirna sa badhyate ||4-14||",
         "ka": "ನ ಮಾಂ ಕರ್ಮಾಣಿ ಲಿಮ್ಪನ್ತಿ ನ ಮೇ ಕರ್ಮಫಲೇ ಸ್ಪೃಹಾ |\nಇತಿ ಮಾಂ ಯೋಽಭಿಜಾನಾತಿ ಕರ್ಮಭಿರ್ನ ಸ ಬಧ್ಯತೇ ||೪-೧೪||"
     },
-    "transliteration": "na māṃ karmāṇi limpanti na me karmaphale spṛhā .\niti māṃ yo.abhijānāti karmabhirna sa badhyate ||4-14||",
-    "life_application": "Act without selfish motives or desire for personal credit, staying untouched by the karmic entanglements of work.",
+    "transliteration": {
+        "hi": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||",
+        "en": "na māṃ karmāṇi limpanti na me karmaphale spṛhā .\niti māṃ yo.abhijānāti karmabhirna sa badhyate ||4-14||",
+        "be": "ন মাং কর্মাণি লিম্পন্তি ন মে কর্মফলে স্পৃহা |\nইতি মাং যোঽভিজানাতি কর্মভির্ন স বধ্যতে ||৪-১৪||",
+        "ka": "ನ ಮಾಂ ಕರ್ಮಾಣಿ ಲಿಮ್ಪನ್ತಿ ನ ಮೇ ಕರ್ಮಫಲೇ ಸ್ಪೃಹಾ |\nಇತಿ ಮಾಂ ಯೋಽಭಿಜಾನಾತಿ ಕರ್ಮಭಿರ್ನ ಸ ಬಧ್ಯತೇ ||೪-೧೪||"
+    },
+    "life_application": {
+        "hi": "स्वार्थी उद्देश्यों या व्यक्तिगत श्रेय की इच्छा के बिना कार्य करें, काम की कर्म उलझनों से अछूते रहें।",
+        "en": "Act without selfish motives or desire for personal credit, staying untouched by the karmic entanglements of work.",
+        "be": "স্বার্থপর উদ্দেশ্য বা ব্যক্তিগত কৃতিত্বের আকাঙ্ক্ষা ছাড়াই কাজ করুন, কাজের কার্মিক জট থেকে অস্পৃশ্য থাকুন।",
+        "ka": "ಸ್ವಾರ್ಥಿ ಉದ್ದೇಶಗಳು ಅಥವಾ ವೈಯಕ್ತಿಕ ಸಾಲದ ಬಯಕೆಯಿಲ್ಲದೆ ವರ್ತಿಸಿ, ಕೆಲಸದ ಕರ್ಮದ ತೊಡಕುಗಳಿಂದ ಅಸ್ಪೃಶ್ಯರಾಗಿರಿ."
+    },
     "themes": [
         "Detachment",
         "Karma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "karmāṇi"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণী",
+                "ka": "ಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "लिम्पन्ति",
-            "transliteration": "limpanti",
-            "meaning": "limpanti"
+            "transliteration": {
+                "hi": "लिम्पन्ति",
+                "en": "limpanti",
+                "be": "লিম্পন্তি",
+                "ka": "ಲಿಮ್ಪನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "लिम्पंती",
+                "en": "limpanti",
+                "be": "লিম্পান্টি",
+                "ka": "ಲಿಂಪಂಟಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "कर्मफले",
-            "transliteration": "karmaphale",
-            "meaning": "karmaphale"
+            "transliteration": {
+                "hi": "कर्मफले",
+                "en": "karmaphale",
+                "be": "কর্মফলে",
+                "ka": "ಕರ್ಮಫಲೇ"
+            },
+            "meaning": {
+                "hi": "कर्मफले",
+                "en": "karmaphale",
+                "be": "কর্মফল",
+                "ka": "ಕರ್ಮಫಲೆ"
+            }
         },
         {
             "sanskrit": "स्पृहा",
-            "transliteration": "spṛhā",
-            "meaning": "spṛhā"
+            "transliteration": {
+                "hi": "स्पृहा",
+                "en": "spṛhā",
+                "be": "স্পৃহা",
+                "ka": "ಸ್ಪೃಹಾ"
+            },
+            "meaning": {
+                "hi": "स्पृहा",
+                "en": "spṛhā",
+                "be": "স্প্রহা",
+                "ka": "spṛhā"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "योऽभिजानाति",
-            "transliteration": "yo'bhijānāti",
-            "meaning": "yo'bhijānāti"
+            "transliteration": {
+                "hi": "योऽभिजानाति",
+                "en": "yo'bhijānāti",
+                "be": "যোঽভিজানাতি",
+                "ka": "ಯೋಽಭಿಜಾನಾತಿ"
+            },
+            "meaning": {
+                "hi": "योऽभिजानाति",
+                "en": "yo'bhijānāti",
+                "be": "yo'bhijānāti",
+                "ka": "ಯೋಭಿಜಾನಾತಿ"
+            }
         },
         {
             "sanskrit": "कर्मभिर्न",
-            "transliteration": "karmabhirna",
-            "meaning": "karmabhirna"
+            "transliteration": {
+                "hi": "कर्मभिर्न",
+                "en": "karmabhirna",
+                "be": "কর্মভির্ন",
+                "ka": "ಕರ್ಮಭಿರ್ನ"
+            },
+            "meaning": {
+                "hi": "कर्मभिर्ण",
+                "en": "karmabhirna",
+                "be": "কর্মবিন্যা",
+                "ka": "ಕರ್ಮಭಿರ್ಣ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "बध्यते",
-            "transliteration": "badhyate",
-            "meaning": "badhyate"
+            "transliteration": {
+                "hi": "बध्यते",
+                "en": "badhyate",
+                "be": "বধ্যতে",
+                "ka": "ಬಧ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "बध्यते",
+                "en": "badhyate",
+                "be": "badhyate",
+                "ka": "ಬಧ್ಯತೇ"
+            }
         }
     ],
     "tej": {

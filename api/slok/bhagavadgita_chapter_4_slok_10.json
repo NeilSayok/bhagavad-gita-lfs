@@ -14,8 +14,18 @@
         "en": "vītarāgabhayakrodhā manmayā māmupāśritāḥ .\nbahavo jñānatapasā pūtā madbhāvamāgatāḥ ||4-10||",
         "ka": "ವೀತರಾಗಭಯಕ್ರೋಧಾ ಮನ್ಮಯಾ ಮಾಮುಪಾಶ್ರಿತಾಃ |\nಬಹವೋ ಜ್ಞಾನತಪಸಾ ಪೂತಾ ಮದ್ಭಾವಮಾಗತಾಃ ||೪-೧೦||"
     },
-    "transliteration": "vītarāgabhayakrodhā manmayā māmupāśritāḥ .\nbahavo jñānatapasā pūtā madbhāvamāgatāḥ ||4-10||",
-    "life_application": "Purify your mind of anger, fear, and craving today, allowing spiritual knowledge to refine your character.",
+    "transliteration": {
+        "hi": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः |\nबहवो ज्ञानतपसा पूता मद्भावमागताः ||४-१०||",
+        "en": "vītarāgabhayakrodhā manmayā māmupāśritāḥ .\nbahavo jñānatapasā pūtā madbhāvamāgatāḥ ||4-10||",
+        "be": "বীতরাগভযক্রোধা মন্মযা মামুপাশ্রিতাঃ |\nবহবো জ্ঞানতপসা পূতা মদ্ভাবমাগতাঃ ||৪-১০||",
+        "ka": "ವೀತರಾಗಭಯಕ್ರೋಧಾ ಮನ್ಮಯಾ ಮಾಮುಪಾಶ್ರಿತಾಃ |\nಬಹವೋ ಜ್ಞಾನತಪಸಾ ಪೂತಾ ಮದ್ಭಾವಮಾಗತಾಃ ||೪-೧೦||"
+    },
+    "life_application": {
+        "hi": "आज अपने मन को क्रोध, भय और लालसा से शुद्ध करें, आध्यात्मिक ज्ञान को अपने चरित्र को निखारने की अनुमति दें।",
+        "en": "Purify your mind of anger, fear, and craving today, allowing spiritual knowledge to refine your character.",
+        "be": "আধ্যাত্মিক জ্ঞান আপনার চরিত্রকে পরিমার্জিত করার অনুমতি দিয়ে আজই আপনার মনকে রাগ, ভয় এবং লালসা থেকে শুদ্ধ করুন।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಕೋಪ, ಭಯ ಮತ್ತು ಕಡುಬಯಕೆಗಳಿಂದ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಶುದ್ಧೀಕರಿಸಿ, ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನವು ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಪರಿಷ್ಕರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ."
+    },
     "themes": [
         "Detachment",
         "Knowledge",
@@ -24,38 +34,108 @@
     "word_meanings": [
         {
             "sanskrit": "वीतरागभयक्रोधा",
-            "transliteration": "vītarāgabhayakrodhā",
-            "meaning": "vītarāgabhayakrodhā"
+            "transliteration": {
+                "hi": "वीतरागभयक्रोधा",
+                "en": "vītarāgabhayakrodhā",
+                "be": "বীতরাগভযক্রোধা",
+                "ka": "ವೀತರಾಗಭಯಕ್ರೋಧಾ"
+            },
+            "meaning": {
+                "hi": "वीतरागभयक्रोध",
+                "en": "vītarāgabhayakrodhā",
+                "be": "ভিতরাগভয়ক্রোধা",
+                "ka": "ವಿತರಾಗಭಯಕ್ರೋಧ"
+            }
         },
         {
             "sanskrit": "मन्मया",
-            "transliteration": "manmayā",
-            "meaning": "manmayā"
+            "transliteration": {
+                "hi": "मन्मया",
+                "en": "manmayā",
+                "be": "মন্মযা",
+                "ka": "ಮನ್ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मन्मया",
+                "en": "manmayā",
+                "be": "মনমায়া",
+                "ka": "ಮನ್ಮಯ"
+            }
         },
         {
             "sanskrit": "मामुपाश्रिताः",
-            "transliteration": "māmupāśritāḥ",
-            "meaning": "māmupāśritāḥ"
+            "transliteration": {
+                "hi": "मामुपाश्रिताः",
+                "en": "māmupāśritāḥ",
+                "be": "মামুপাশ্রিতাঃ",
+                "ka": "ಮಾಮುಪಾಶ್ರಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "मामुपाश्रितः",
+                "en": "māmupāśritāḥ",
+                "be": "মামুপাশ্রিতঃ",
+                "ka": "ಮಾಮುಪಾಶ್ರಿತಾಃ"
+            }
         },
         {
             "sanskrit": "बहवो",
-            "transliteration": "bahavo",
-            "meaning": "bahavo"
+            "transliteration": {
+                "hi": "बहवो",
+                "en": "bahavo",
+                "be": "বহবো",
+                "ka": "ಬಹವೋ"
+            },
+            "meaning": {
+                "hi": "बहवो",
+                "en": "bahavo",
+                "be": "বাহাভো",
+                "ka": "ಬಹವೋ"
+            }
         },
         {
             "sanskrit": "ज्ञानतपसा",
-            "transliteration": "jñānatapasā",
-            "meaning": "jñānatapasā"
+            "transliteration": {
+                "hi": "ज्ञानतपसा",
+                "en": "jñānatapasā",
+                "be": "জ্ঞানতপসা",
+                "ka": "ಜ್ಞಾನತಪಸಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञानतपसा",
+                "en": "jñānatapasā",
+                "be": "জ্ঞানতাপসা",
+                "ka": "ಜ್ಞಾನತಪಾಸ"
+            }
         },
         {
             "sanskrit": "पूता",
-            "transliteration": "pūtā",
-            "meaning": "pūtā"
+            "transliteration": {
+                "hi": "पूता",
+                "en": "pūtā",
+                "be": "পূতা",
+                "ka": "ಪೂತಾ"
+            },
+            "meaning": {
+                "hi": "पूता",
+                "en": "pūtā",
+                "be": "পুতা",
+                "ka": "ಪೂತ"
+            }
         },
         {
             "sanskrit": "मद्भावमागताः",
-            "transliteration": "madbhāvamāgatāḥ",
-            "meaning": "madbhāvamāgatāḥ"
+            "transliteration": {
+                "hi": "मद्भावमागताः",
+                "en": "madbhāvamāgatāḥ",
+                "be": "মদ্ভাবমাগতাঃ",
+                "ka": "ಮದ್ಭಾವಮಾಗತಾಃ"
+            },
+            "meaning": {
+                "hi": "मद्भवमगतः",
+                "en": "madbhāvamāgatāḥ",
+                "be": "madbhavamāgatāḥ",
+                "ka": "ಮದ್ಭಾವಮಗತಃ"
+            }
         }
     ],
     "tej": {

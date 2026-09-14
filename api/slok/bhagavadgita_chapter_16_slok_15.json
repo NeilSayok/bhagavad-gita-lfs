@@ -14,8 +14,18 @@
         "en": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
         "ka": "ಆಢ್ಯೋಽಭಿಜನವಾನಸ್ಮಿ ಕೋಽನ್ಯೋಽಸ್ತಿ ಸದೃಶೋ ಮಯಾ |\nಯಕ್ಷ್ಯೇ ದಾಸ್ಯಾಮಿ ಮೋದಿಷ್ಯ ಇತ್ಯಜ್ಞಾನವಿಮೋಹಿತಾಃ ||೧೬-೧೫||"
     },
-    "transliteration": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
-    "life_application": "'I am rich, well-born; who else is equal to me? I will sacrifice, give, rejoice'—thus deluded by ignorance.",
+    "transliteration": {
+        "hi": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||",
+        "en": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
+        "be": "আঢ্যোঽভিজনবানস্মি কোঽন্যোঽস্তি সদৃশো মযা |\nযক্ষ্যে দাস্যামি মোদিষ্য ইত্যজ্ঞানবিমোহিতাঃ ||১৬-১৫||",
+        "ka": "ಆಢ್ಯೋಽಭಿಜನವಾನಸ್ಮಿ ಕೋಽನ್ಯೋಽಸ್ತಿ ಸದೃಶೋ ಮಯಾ |\nಯಕ್ಷ್ಯೇ ದಾಸ್ಯಾಮಿ ಮೋದಿಷ್ಯ ಇತ್ಯಜ್ಞಾನವಿಮೋಹಿತಾಃ ||೧೬-೧೫||"
+    },
+    "life_application": {
+        "hi": "'मैं अमीर हूं, अच्छा जन्मा हूं; मेरे बराबर और कौन है? मैं त्याग करूंगा, दूंगा, आनंद मनाऊंगा' - इस प्रकार अज्ञान से भ्रमित हूं।",
+        "en": "'I am rich, well-born; who else is equal to me? I will sacrifice, give, rejoice'—thus deluded by ignorance.",
+        "be": "'আমি ধনী, ভালো জন্মেছি; আমার সমান আর কে? আমি বলি দেব, দান করব, আনন্দ করব'—এইভাবে অজ্ঞতার দ্বারা প্রতারিত।",
+        "ka": "'ನಾನು ಶ್ರೀಮಂತ, ಚೆನ್ನಾಗಿ ಹುಟ್ಟಿದ್ದೇನೆ; ನನಗೆ ಯಾರು ಸಮಾನರು? ನಾನು ತ್ಯಾಗ ಮಾಡುತ್ತೇನೆ, ಕೊಡುತ್ತೇನೆ, ಸಂತೋಷಪಡುತ್ತೇನೆ'-ಹೀಗೆ ಅಜ್ಞಾನದಿಂದ ಭ್ರಮೆಗೊಂಡಿದೆ."
+    },
     "themes": [
         "Attachment",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "आढ्यः",
-            "transliteration": "āḍhyaḥ",
-            "meaning": "rich"
+            "transliteration": {
+                "hi": "आढ्यः",
+                "en": "āḍhyaḥ",
+                "be": "আঢ্যঃ",
+                "ka": "ಆಢ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अमीर",
+                "en": "rich",
+                "be": "ধনী",
+                "ka": "ಶ್ರೀಮಂತ"
+            }
         },
         {
             "sanskrit": "अभिजनवान्",
-            "transliteration": "abhijanavān",
-            "meaning": "wellborn"
+            "transliteration": {
+                "hi": "अभिजनवान्",
+                "en": "abhijanavān",
+                "be": "অভিজনবান্",
+                "ka": "ಅಭಿಜನವಾನ್"
+            },
+            "meaning": {
+                "hi": "सुजन्मा",
+                "en": "wellborn",
+                "be": "ভালজাত",
+                "ka": "ಚೆನ್ನಾಗಿ ಹುಟ್ಟಿದ"
+            }
         },
         {
             "sanskrit": "अस्मि",
-            "transliteration": "asmi",
-            "meaning": "am"
+            "transliteration": {
+                "hi": "अस्मि",
+                "en": "asmi",
+                "be": "অস্মি",
+                "ka": "ಅಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "हूँ",
+                "en": "am",
+                "be": "am",
+                "ka": "ಬೆಳಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "कः",
-            "transliteration": "kaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "कः",
+                "en": "kaḥ",
+                "be": "কঃ",
+                "ka": "ಕಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "अन्यः",
-            "transliteration": "anyaḥ",
-            "meaning": "else"
+            "transliteration": {
+                "hi": "अन्यः",
+                "en": "anyaḥ",
+                "be": "অন্যঃ",
+                "ka": "ಅನ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "अन्यथा",
+                "en": "else",
+                "be": "অন্য",
+                "ka": "ಬೇರೆ"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "सदृशः",
-            "transliteration": "sadṛśaḥ",
-            "meaning": "eal"
+            "transliteration": {
+                "hi": "सदृशः",
+                "en": "sadṛśaḥ",
+                "be": "সদৃশঃ",
+                "ka": "ಸದೃಶಃ"
+            },
+            "meaning": {
+                "hi": "मछली",
+                "en": "eal",
+                "be": "eal",
+                "ka": "ಈಲ್"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "to me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "यक्ष्ये",
-            "transliteration": "yakṣye",
-            "meaning": "will sacrifice"
+            "transliteration": {
+                "hi": "यक्ष्ये",
+                "en": "yakṣye",
+                "be": "যক্ষ্যে",
+                "ka": "ಯಕ್ಷ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "बलिदान देंगे",
+                "en": "will sacrifice",
+                "be": "ত্যাগ করবে",
+                "ka": "ತ್ಯಾಗ ಮಾಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "दास्यामि",
-            "transliteration": "dāsyāmi",
-            "meaning": "will give"
+            "transliteration": {
+                "hi": "दास्यामि",
+                "en": "dāsyāmi",
+                "be": "দাস্যামি",
+                "ka": "ದಾಸ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "दे दूँगा",
+                "en": "will give",
+                "be": "দেবে",
+                "ka": "ಕೊಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "मोदिष्ये",
-            "transliteration": "modiṣye",
-            "meaning": "will rejoice"
+            "transliteration": {
+                "hi": "मोदिष्ये",
+                "en": "modiṣye",
+                "be": "মোদিষ্যে",
+                "ka": "ಮೋದಿಷ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "आनंदित होंगे",
+                "en": "will rejoice",
+                "be": "আনন্দ করবে",
+                "ka": "ಖುಷಿ ಪಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अज्ञानविमोहिताः",
-            "transliteration": "ajñānavimohitāḥ",
-            "meaning": "deluded by ignorance."
+            "transliteration": {
+                "hi": "अज्ञानविमोहिताः",
+                "en": "ajñānavimohitāḥ",
+                "be": "অজ্ঞানবিমোহিতাঃ",
+                "ka": "ಅಜ್ಞಾನವಿಮೋಹಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "अज्ञान से भ्रमित.",
+                "en": "deluded by ignorance.",
+                "be": "অজ্ঞতা দ্বারা প্রতারিত",
+                "ka": "ಅಜ್ಞಾನದಿಂದ ಭ್ರಮೆಗೊಂಡರು."
+            }
         }
     ],
     "tej": {

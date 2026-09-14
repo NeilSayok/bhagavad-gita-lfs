@@ -14,8 +14,18 @@
         "en": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
         "ka": "ಆಶಾಪಾಶಶತೈರ್ಬದ್ಧಾಃ ಕಾಮಕ್ರೋಧಪರಾಯಣಾಃ |\nಈಹನ್ತೇ ಕಾಮಭೋಗಾರ್ಥಮನ್ಯಾಯೇನಾರ್ಥಸಞ್ಚಯಾನ್ ||೧೬-೧೨||"
     },
-    "transliteration": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
-    "life_application": "Bound by hundreds of ties of hope, given to lust and anger, they strive to amass hoards of wealth unjustly for enjoyment.",
+    "transliteration": {
+        "hi": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||",
+        "en": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
+        "be": "আশাপাশশতৈর্বদ্ধাঃ কামক্রোধপরাযণাঃ |\nঈহন্তে কামভোগার্থমন্যাযেনার্থসঞ্চযান্ ||১৬-১২||",
+        "ka": "ಆಶಾಪಾಶಶತೈರ್ಬದ್ಧಾಃ ಕಾಮಕ್ರೋಧಪರಾಯಣಾಃ |\nಈಹನ್ತೇ ಕಾಮಭೋಗಾರ್ಥಮನ್ಯಾಯೇನಾರ್ಥಸಞ್ಚಯಾನ್ ||೧೬-೧೨||"
+    },
+    "life_application": {
+        "hi": "आशा के सैकड़ों बंधनों से बंधे हुए, काम और क्रोध के कारण, वे आनंद के लिए अन्यायपूर्वक धन का संग्रह करने का प्रयास करते हैं।",
+        "en": "Bound by hundreds of ties of hope, given to lust and anger, they strive to amass hoards of wealth unjustly for enjoyment.",
+        "be": "আশার শত বন্ধনে আবদ্ধ, কাম ও ক্রোধে প্রদত্ত, তারা ভোগের জন্য অন্যায়ভাবে সম্পদের ভাণ্ডার সংগ্রহ করার চেষ্টা করে।",
+        "ka": "ನೂರಾರು ಭರವಸೆಯ ಸಂಬಂಧಗಳಿಂದ ಬಂಧಿತರಾಗಿ, ಕಾಮ ಮತ್ತು ಕ್ರೋಧಕ್ಕೆ ಬದ್ಧರಾಗಿ, ಅವರು ಸಂತೋಷಕ್ಕಾಗಿ ಅನ್ಯಾಯವಾಗಿ ಸಂಪತ್ತಿನ ಸಂಗ್ರಹವನ್ನು ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಾರೆ."
+    },
     "themes": [
         "Attachment",
         "Karma"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "आशापाशशतैः",
-            "transliteration": "āśāpāśaśataiḥ",
-            "meaning": "by a hundred ties"
+            "transliteration": {
+                "hi": "आशापाशशतैः",
+                "en": "āśāpāśaśataiḥ",
+                "be": "আশাপাশশতৈঃ",
+                "ka": "ಆಶಾಪಾಶಶತೈಃ"
+            },
+            "meaning": {
+                "hi": "सौ संबंधों से",
+                "en": "by a hundred ties",
+                "be": "একশ বন্ধন দ্বারা",
+                "ka": "ನೂರು ಸಂಬಂಧಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "बद्धाः",
-            "transliteration": "baddhāḥ",
-            "meaning": "bound"
+            "transliteration": {
+                "hi": "बद्धाः",
+                "en": "baddhāḥ",
+                "be": "বদ্ধাঃ",
+                "ka": "ಬದ್ಧಾಃ"
+            },
+            "meaning": {
+                "hi": "बाध्य",
+                "en": "bound",
+                "be": "আবদ্ধ",
+                "ka": "ಬಂಧಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "कामक्रोधपरायणाः",
-            "transliteration": "kāmakrodhaparāyaṇāḥ",
-            "meaning": "given over to lust"
+            "transliteration": {
+                "hi": "कामक्रोधपरायणाः",
+                "en": "kāmakrodhaparāyaṇāḥ",
+                "be": "কামক্রোধপরাযণাঃ",
+                "ka": "ಕಾಮಕ್ರೋಧಪರಾಯಣಾಃ"
+            },
+            "meaning": {
+                "hi": "वासना के हवाले कर दिया गया",
+                "en": "given over to lust",
+                "be": "লালসার কাছে দেওয়া",
+                "ka": "ಕಾಮಕ್ಕೆ ಕೊಟ್ಟ"
+            }
         },
         {
             "sanskrit": "ईहन्ते",
-            "transliteration": "īhante",
-            "meaning": "strive"
+            "transliteration": {
+                "hi": "ईहन्ते",
+                "en": "īhante",
+                "be": "ঈহন্তে",
+                "ka": "ಈಹನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "प्रयास करें",
+                "en": "strive",
+                "be": "প্রচেষ্টা",
+                "ka": "ಶ್ರಮಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "कामभोगार्थम्",
-            "transliteration": "kāmabhogārtham",
-            "meaning": "for sensual enjoyment"
+            "transliteration": {
+                "hi": "कामभोगार्थम्",
+                "en": "kāmabhogārtham",
+                "be": "কামভোগার্থম্",
+                "ka": "ಕಾಮಭೋಗಾರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "कामुक आनंद के लिए",
+                "en": "for sensual enjoyment",
+                "be": "কামুক উপভোগের জন্য",
+                "ka": "ಇಂದ್ರಿಯ ಆನಂದಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "अन्यायेन",
-            "transliteration": "anyāyena",
-            "meaning": "by unlawful means"
+            "transliteration": {
+                "hi": "अन्यायेन",
+                "en": "anyāyena",
+                "be": "অন্যাযেন",
+                "ka": "ಅನ್ಯಾಯೇನ"
+            },
+            "meaning": {
+                "hi": "गैरकानूनी तरीकों से",
+                "en": "by unlawful means",
+                "be": "বেআইনি উপায়ে",
+                "ka": "ಕಾನೂನುಬಾಹಿರ ವಿಧಾನಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "अर्थसञ्चयान्",
-            "transliteration": "arthasañcayān",
-            "meaning": "hoards of wealth."
+            "transliteration": {
+                "hi": "अर्थसञ्चयान्",
+                "en": "arthasañcayān",
+                "be": "অর্থসঞ্চযান্",
+                "ka": "ಅರ್ಥಸಞ್ಚಯಾನ್"
+            },
+            "meaning": {
+                "hi": "धन का भंडार.",
+                "en": "hoards of wealth.",
+                "be": "সম্পদের ভাণ্ডার",
+                "ka": "ಸಂಪತ್ತಿನ ಸಂಗ್ರಹಗಳು."
+            }
         }
     ],
     "tej": {

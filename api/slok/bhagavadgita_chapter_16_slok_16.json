@@ -14,8 +14,18 @@
         "en": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
         "ka": "ಅನೇಕಚಿತ್ತವಿಭ್ರಾನ್ತಾ ಮೋಹಜಾಲಸಮಾವೃತಾಃ |\nಪ್ರಸಕ್ತಾಃ ಕಾಮಭೋಗೇಷು ಪತನ್ತಿ ನರಕೇಽಶುಚೌ ||೧೬-೧೬||"
     },
-    "transliteration": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
-    "life_application": "Bewildered by many thoughts, entangled in net of delusion, addicted to gratification of desires, they fall into foul hell.",
+    "transliteration": {
+        "hi": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||",
+        "en": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
+        "be": "অনেকচিত্তবিভ্রান্তা মোহজালসমাবৃতাঃ |\nপ্রসক্তাঃ কামভোগেষু পতন্তি নরকেঽশুচৌ ||১৬-১৬||",
+        "ka": "ಅನೇಕಚಿತ್ತವಿಭ್ರಾನ್ತಾ ಮೋಹಜಾಲಸಮಾವೃತಾಃ |\nಪ್ರಸಕ್ತಾಃ ಕಾಮಭೋಗೇಷು ಪತನ್ತಿ ನರಕೇಽಶುಚೌ ||೧೬-೧೬||"
+    },
+    "life_application": {
+        "hi": "अनेक विचारों से मोहित, मोह जाल में फँसे हुए, कामनाओं की तृप्ति में आसक्त होकर वे घोर नरक में गिरते हैं।",
+        "en": "Bewildered by many thoughts, entangled in net of delusion, addicted to gratification of desires, they fall into foul hell.",
+        "be": "বহু চিন্তায় বিহ্বল, ভ্রান্তির জালে আবদ্ধ, কামনা-বাসনা তৃপ্তিতে আসক্ত, তারা নোংরা নরকে পতিত হয়।",
+        "ka": "ಅನೇಕ ಆಲೋಚನೆಗಳಿಂದ ದಿಗ್ಭ್ರಮೆಗೊಂಡು, ಭ್ರಮೆಯ ಜಾಲದಲ್ಲಿ ಸಿಲುಕಿ, ಆಸೆಗಳ ತೃಪ್ತಿಗೆ ವ್ಯಸನಿಯಾಗಿ, ಅವರು ಕೆಟ್ಟ ನರಕಕ್ಕೆ ಬೀಳುತ್ತಾರೆ."
+    },
     "themes": [
         "Mind",
         "Karma"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "अनेकचित्तविभ्रान्ताः",
-            "transliteration": "anekacittavibhrāntāḥ",
-            "meaning": "bewildred by many a"
+            "transliteration": {
+                "hi": "अनेकचित्तविभ्रान्ताः",
+                "en": "anekacittavibhrāntāḥ",
+                "be": "অনেকচিত্তবিভ্রান্তাঃ",
+                "ka": "ಅನೇಕಚಿತ್ತವಿಭ್ರಾನ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "बहुतों से हतप्रभ",
+                "en": "bewildred by many a",
+                "be": "অনেকের দ্বারা বিভ্রান্ত a",
+                "ka": "ಅನೇಕರಿಂದ ದಿಗ್ಭ್ರಮೆಗೊಂಡ ಎ"
+            }
         },
         {
             "sanskrit": "मोहजालसमावृताः",
-            "transliteration": "mohajālasamāvṛtāḥ",
-            "meaning": "entangled in the snare"
+            "transliteration": {
+                "hi": "मोहजालसमावृताः",
+                "en": "mohajālasamāvṛtāḥ",
+                "be": "মোহজালসমাবৃতাঃ",
+                "ka": "ಮೋಹಜಾಲಸಮಾವೃತಾಃ"
+            },
+            "meaning": {
+                "hi": "जाल में फँस गया",
+                "en": "entangled in the snare",
+                "be": "ফাঁদে আটকা পড়ে",
+                "ka": "ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡರು"
+            }
         },
         {
             "sanskrit": "प्रसक्ताः",
-            "transliteration": "prasaktāḥ",
-            "meaning": "addicted"
+            "transliteration": {
+                "hi": "प्रसक्ताः",
+                "en": "prasaktāḥ",
+                "be": "প্রসক্তাঃ",
+                "ka": "ಪ್ರಸಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "आदी",
+                "en": "addicted",
+                "be": "আসক্ত",
+                "ka": "ವ್ಯಸನಿ"
+            }
         },
         {
             "sanskrit": "कामभोगेषु",
-            "transliteration": "kāmabhogeṣu",
-            "meaning": "to the gratification of"
+            "transliteration": {
+                "hi": "कामभोगेषु",
+                "en": "kāmabhogeṣu",
+                "be": "কামভোগেষু",
+                "ka": "ಕಾಮಭೋಗೇಷು"
+            },
+            "meaning": {
+                "hi": "की संतुष्टि के लिए",
+                "en": "to the gratification of",
+                "be": "এর পরিতৃপ্তি",
+                "ka": "ತೃಪ್ತಿಗಾಗಿ"
+            }
         },
         {
             "sanskrit": "पतन्ति",
-            "transliteration": "patanti",
-            "meaning": "fall"
+            "transliteration": {
+                "hi": "पतन्ति",
+                "en": "patanti",
+                "be": "পতন্তি",
+                "ka": "ಪತನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "गिरना",
+                "en": "fall",
+                "be": "পতন",
+                "ka": "ಬೀಳುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "नरके",
-            "transliteration": "narake",
-            "meaning": "into hell"
+            "transliteration": {
+                "hi": "नरके",
+                "en": "narake",
+                "be": "নরকে",
+                "ka": "ನರಕೇ"
+            },
+            "meaning": {
+                "hi": "नरक में",
+                "en": "into hell",
+                "be": "জাহান্নামে",
+                "ka": "ನರಕಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "अशुचौ",
-            "transliteration": "aśucau",
-            "meaning": "foul."
+            "transliteration": {
+                "hi": "अशुचौ",
+                "en": "aśucau",
+                "be": "অশুচৌ",
+                "ka": "ಅಶುಚೌ"
+            },
+            "meaning": {
+                "hi": "बेईमानी.",
+                "en": "foul.",
+                "be": "ফাউল",
+                "ka": "ಫೌಲ್."
+            }
         }
     ],
     "tej": {

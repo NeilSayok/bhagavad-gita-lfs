@@ -14,8 +14,18 @@
         "en": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
         "ka": "ಚಿನ್ತಾಮಪರಿಮೇಯಾಂ ಚ ಪ್ರಲಯಾನ್ತಾಮುಪಾಶ್ರಿತಾಃ |\nಕಾಮೋಪಭೋಗಪರಮಾ ಏತಾವದಿತಿ ನಿಶ್ಚಿತಾಃ ||೧೬-೧೧||"
     },
-    "transliteration": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
-    "life_application": "Bound by endless cares ending only at death, regarding gratification of lust as supreme goal, convinced 'this is all'.",
+    "transliteration": {
+        "hi": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||",
+        "en": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
+        "be": "চিন্তামপরিমেযাং চ প্রলযান্তামুপাশ্রিতাঃ |\nকামোপভোগপরমা এতাবদিতি নিশ্চিতাঃ ||১৬-১১||",
+        "ka": "ಚಿನ್ತಾಮಪರಿಮೇಯಾಂ ಚ ಪ್ರಲಯಾನ್ತಾಮುಪಾಶ್ರಿತಾಃ |\nಕಾಮೋಪಭೋಗಪರಮಾ ಏತಾವದಿತಿ ನಿಶ್ಚಿತಾಃ ||೧೬-೧೧||"
+    },
+    "life_application": {
+        "hi": "केवल मृत्यु पर समाप्त होने वाली अंतहीन चिंताओं से बंधे हुए, वासना की संतुष्टि को सर्वोच्च लक्ष्य मानते हुए, आश्वस्त थे कि 'यही सब कुछ है'।",
+        "en": "Bound by endless cares ending only at death, regarding gratification of lust as supreme goal, convinced 'this is all'.",
+        "be": "অন্তহীন চিন্তার দ্বারা আবদ্ধ, শুধুমাত্র মৃত্যুতে শেষ হয়, লালসা পরিতৃপ্তিকে সর্বোচ্চ লক্ষ্য হিসাবে বিবেচনা করে, 'এটাই সব'।",
+        "ka": "ಕೊನೆಯಿಲ್ಲದ ಕಾಳಜಿಗಳಿಂದ ಬಂಧಿತರಾಗಿ ಸಾವಿನಲ್ಲಿ ಮಾತ್ರ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ, ಕಾಮದ ತೃಪ್ತಿಯನ್ನು ಪರಮೋಚ್ಚ ಗುರಿಯಾಗಿ ಪರಿಗಣಿಸಿ, 'ಇದೆಲ್ಲವೂ' ಎಂದು ಮನವರಿಕೆಯಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Attachment",
         "Death"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "चिन्ताम्",
-            "transliteration": "cintām",
-            "meaning": "cares"
+            "transliteration": {
+                "hi": "चिन्ताम्",
+                "en": "cintām",
+                "be": "চিন্তাম্",
+                "ka": "ಚಿನ್ತಾಮ್"
+            },
+            "meaning": {
+                "hi": "परवाह करता है",
+                "en": "cares",
+                "be": "যত্ন করে",
+                "ka": "ಕಾಳಜಿ ವಹಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "अपरिमेयाम्",
-            "transliteration": "aparimeyām",
-            "meaning": "immeasurable"
+            "transliteration": {
+                "hi": "अपरिमेयाम्",
+                "en": "aparimeyām",
+                "be": "অপরিমেযাম্",
+                "ka": "ಅಪರಿಮೇಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "अथाह",
+                "en": "immeasurable",
+                "be": "অপরিমেয়",
+                "ka": "ಅಳೆಯಲಾಗದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रलयान्तम्",
-            "transliteration": "pralayāntam",
-            "meaning": "ending only with death"
+            "transliteration": {
+                "hi": "प्रलयान्तम्",
+                "en": "pralayāntam",
+                "be": "প্রলযান্তম্",
+                "ka": "ಪ್ರಲಯಾನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "मृत्यु के साथ ही समाप्त",
+                "en": "ending only with death",
+                "be": "শুধুমাত্র মৃত্যুর সাথে শেষ",
+                "ka": "ಸಾವಿನೊಂದಿಗೆ ಮಾತ್ರ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "उपाश्रिताः",
-            "transliteration": "upāśritāḥ",
-            "meaning": "refuged in"
+            "transliteration": {
+                "hi": "उपाश्रिताः",
+                "en": "upāśritāḥ",
+                "be": "উপাশ্রিতাঃ",
+                "ka": "ಉಪಾಶ್ರಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "में शरण ली",
+                "en": "refuged in",
+                "be": "আশ্রয় নিয়েছে",
+                "ka": "ಆಶ್ರಯಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "कामोपभोगपरमाः",
-            "transliteration": "kāmopabhogaparamāḥ",
-            "meaning": "regarding gratification of lust"
+            "transliteration": {
+                "hi": "कामोपभोगपरमाः",
+                "en": "kāmopabhogaparamāḥ",
+                "be": "কামোপভোগপরমাঃ",
+                "ka": "ಕಾಮೋಪಭೋಗಪರಮಾಃ"
+            },
+            "meaning": {
+                "hi": "वासना की तृप्ति के संबंध में",
+                "en": "regarding gratification of lust",
+                "be": "লালসা পরিতৃপ্তি সম্পর্কিত",
+                "ka": "ಕಾಮವನ್ನು ತೃಪ್ತಿಪಡಿಸುವ ಬಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "एतावत्",
-            "transliteration": "etāvat",
-            "meaning": "that is all"
+            "transliteration": {
+                "hi": "एतावत्",
+                "en": "etāvat",
+                "be": "এতাবত্",
+                "ka": "ಏತಾವತ್"
+            },
+            "meaning": {
+                "hi": "बस इतना ही",
+                "en": "that is all",
+                "be": "যে সব",
+                "ka": "ಅಷ್ಟೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "निश्चिताः",
-            "transliteration": "niścitāḥ",
-            "meaning": "feeling sure."
+            "transliteration": {
+                "hi": "निश्चिताः",
+                "en": "niścitāḥ",
+                "be": "নিশ্চিতাঃ",
+                "ka": "ನಿಶ್ಚಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "निश्चित महसूस हो रहा है.",
+                "en": "feeling sure.",
+                "be": "নিশ্চিত অনুভব করছি",
+                "ka": "ಖಚಿತ ಭಾವನೆ."
+            }
         }
     ],
     "tej": {

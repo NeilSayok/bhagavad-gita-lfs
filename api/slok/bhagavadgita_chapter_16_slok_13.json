@@ -14,8 +14,18 @@
         "en": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
         "ka": "ಇದಮದ್ಯ ಮಯಾ ಲಬ್ಧಮಿಮಂ ಪ್ರಾಪ್ಸ್ಯೇ ಮನೋರಥಮ್ |\nಇದಮಸ್ತೀದಮಪಿ ಮೇ ಭವಿಷ್ಯತಿ ಪುನರ್ಧನಮ್ ||೧೬-೧೩||"
     },
-    "transliteration": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
-    "life_application": "Avoid thinking greedily about what you acquired today and what more wealth you will claim tomorrow.",
+    "transliteration": {
+        "hi": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||",
+        "en": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
+        "be": "ইদমদ্য মযা লব্ধমিমং প্রাপ্স্যে মনোরথম্ |\nইদমস্তীদমপি মে ভবিষ্যতি পুনর্ধনম্ ||১৬-১৩||",
+        "ka": "ಇದಮದ್ಯ ಮಯಾ ಲಬ್ಧಮಿಮಂ ಪ್ರಾಪ್ಸ್ಯೇ ಮನೋರಥಮ್ |\nಇದಮಸ್ತೀದಮಪಿ ಮೇ ಭವಿಷ್ಯತಿ ಪುನರ್ಧನಮ್ ||೧೬-೧೩||"
+    },
+    "life_application": {
+        "hi": "आज आपने क्या अर्जित किया और कल आप कितनी अधिक संपत्ति का दावा करेंगे, इसके बारे में लालच से सोचने से बचें।",
+        "en": "Avoid thinking greedily about what you acquired today and what more wealth you will claim tomorrow.",
+        "be": "আপনি আজ কী অর্জন করেছেন এবং আগামীকাল আপনি আরও কী সম্পদ দাবি করবেন তা নিয়ে লোভের সাথে চিন্তা করা এড়িয়ে চলুন।",
+        "ka": "ಇಂದು ನೀವು ಗಳಿಸಿದ್ದನ್ನು ಮತ್ತು ನಾಳೆ ನೀವು ಎಷ್ಟು ಹೆಚ್ಚು ಸಂಪತ್ತನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತೀರಿ ಎಂಬುದರ ಕುರಿತು ದುರಾಸೆಯಿಂದ ಯೋಚಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Attachment",
         "Mind"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अद्य",
-            "transliteration": "adya",
-            "meaning": "today"
+            "transliteration": {
+                "hi": "अद्य",
+                "en": "adya",
+                "be": "অদ্য",
+                "ka": "ಅದ್ಯ"
+            },
+            "meaning": {
+                "hi": "आज",
+                "en": "today",
+                "be": "আজ",
+                "ka": "ಇಂದು"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "लब्धम्",
-            "transliteration": "labdham",
-            "meaning": "has been gained"
+            "transliteration": {
+                "hi": "लब्धम्",
+                "en": "labdham",
+                "be": "লব্ধম্",
+                "ka": "ಲಬ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "हासिल कर लिया गया है",
+                "en": "has been gained",
+                "be": "অর্জিত হয়েছে",
+                "ka": "ಗಳಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "प्राप्स्ये",
-            "transliteration": "prāpsye",
-            "meaning": "shall obtain"
+            "transliteration": {
+                "hi": "प्राप्स्ये",
+                "en": "prāpsye",
+                "be": "প্রাপ্স্যে",
+                "ka": "ಪ್ರಾಪ್ಸ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करना होगा",
+                "en": "shall obtain",
+                "be": "প্রাপ্ত হবে",
+                "ka": "ಪಡೆಯಬೇಕು"
+            }
         },
         {
             "sanskrit": "मनोरथम्",
-            "transliteration": "manoratham",
-            "meaning": "desire"
+            "transliteration": {
+                "hi": "मनोरथम्",
+                "en": "manoratham",
+                "be": "মনোরথম্",
+                "ka": "ಮನೋರಥಮ್"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "desire",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "to me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "भविष्यति",
-            "transliteration": "bhaviṣyati",
-            "meaning": "shall be"
+            "transliteration": {
+                "hi": "भविष्यति",
+                "en": "bhaviṣyati",
+                "be": "ভবিষ্যতি",
+                "ka": "ಭವಿಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "shall be",
+                "be": "হবে",
+                "ka": "ಇರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "धनम्",
-            "transliteration": "dhanam",
-            "meaning": "wealth."
+            "transliteration": {
+                "hi": "धनम्",
+                "en": "dhanam",
+                "be": "ধনম্",
+                "ka": "ಧನಮ್"
+            },
+            "meaning": {
+                "hi": "संपत्ति।",
+                "en": "wealth.",
+                "be": "সম্পদ",
+                "ka": "ಸಂಪತ್ತು."
+            }
         }
     ],
     "tej": {

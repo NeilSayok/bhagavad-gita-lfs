@@ -14,8 +14,18 @@
         "en": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
         "ka": "ತಾನಹಂ ದ್ವಿಷತಃ ಕ್ರುರಾನ್ಸಂಸಾರೇಷು ನರಾಧಮಾನ್ |\nಕ್ಷಿಪಾಮ್ಯಜಸ್ರಮಶುಭಾನಾಸುರೀಷ್ವೇವ ಯೋನಿಷು ||೧೬-೧೯||"
     },
-    "transliteration": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
-    "life_application": "These hateful, cruel, lowest of men I hurl perpetually into demonic wombs in the cycle of birth and death.",
+    "transliteration": {
+        "hi": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||",
+        "en": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
+        "be": "তানহং দ্বিষতঃ ক্রুরান্সংসারেষু নরাধমান্ |\nক্ষিপাম্যজস্রমশুভানাসুরীষ্বেব যোনিষু ||১৬-১৯||",
+        "ka": "ತಾನಹಂ ದ್ವಿಷತಃ ಕ್ರುರಾನ್ಸಂಸಾರೇಷು ನರಾಧಮಾನ್ |\nಕ್ಷಿಪಾಮ್ಯಜಸ್ರಮಶುಭಾನಾಸುರೀಷ್ವೇವ ಯೋನಿಷು ||೧೬-೧೯||"
+    },
+    "life_application": {
+        "hi": "इन घृणित, क्रूर, निम्नतम मनुष्यों को मैं जन्म और मृत्यु के चक्र में राक्षसी योनियों में डाल देता हूँ।",
+        "en": "These hateful, cruel, lowest of men I hurl perpetually into demonic wombs in the cycle of birth and death.",
+        "be": "এই বিদ্বেষপূর্ণ, নিষ্ঠুর, সর্বনিম্ন পুরুষদের আমি জন্ম ও মৃত্যুর চক্রে চিরকাল দানবীয় গর্ভে নিক্ষেপ করি।",
+        "ka": "ಈ ದ್ವೇಷಪೂರಿತ, ಕ್ರೂರ, ಕೆಳಮಟ್ಟದ ಪುರುಷರನ್ನು ನಾನು ಜನನ ಮತ್ತು ಮರಣದ ಚಕ್ರದಲ್ಲಿ ರಾಕ್ಷಸ ಗರ್ಭಗಳಿಗೆ ಶಾಶ್ವತವಾಗಿ ಎಸೆಯುತ್ತೇನೆ."
+    },
     "themes": [
         "Karma",
         "Death"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "तान्",
-            "transliteration": "tān",
-            "meaning": "those"
+            "transliteration": {
+                "hi": "तान्",
+                "en": "tān",
+                "be": "তান্",
+                "ka": "ತಾನ್"
+            },
+            "meaning": {
+                "hi": "वो",
+                "en": "those",
+                "be": "যারা",
+                "ka": "ಆ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "द्विषतः",
-            "transliteration": "dviṣataḥ",
-            "meaning": "hating"
+            "transliteration": {
+                "hi": "द्विषतः",
+                "en": "dviṣataḥ",
+                "be": "দ্বিষতঃ",
+                "ka": "ದ್ವಿಷತಃ"
+            },
+            "meaning": {
+                "hi": "नफरत",
+                "en": "hating",
+                "be": "ঘৃণা",
+                "ka": "ದ್ವೇಷಿಸುತ್ತಿದ್ದಾನೆ"
+            }
         },
         {
             "sanskrit": "क्रूरान्",
-            "transliteration": "krūrān",
-            "meaning": "cruel"
+            "transliteration": {
+                "hi": "क्रूरान्",
+                "en": "krūrān",
+                "be": "ক্রূরান্",
+                "ka": "ಕ್ರೂರಾನ್"
+            },
+            "meaning": {
+                "hi": "क्रूर",
+                "en": "cruel",
+                "be": "নিষ্ঠুর",
+                "ka": "ಕ್ರೂರ"
+            }
         },
         {
             "sanskrit": "संसारेषु",
-            "transliteration": "saṃsāreṣu",
-            "meaning": "in the worlds"
+            "transliteration": {
+                "hi": "संसारेषु",
+                "en": "saṃsāreṣu",
+                "be": "সংসারেষু",
+                "ka": "ಸಂಸಾರೇಷು"
+            },
+            "meaning": {
+                "hi": "संसारों में",
+                "en": "in the worlds",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಲೋಕಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "नराधमान्",
-            "transliteration": "narādhamān",
-            "meaning": "worst among men"
+            "transliteration": {
+                "hi": "नराधमान्",
+                "en": "narādhamān",
+                "be": "নরাধমান্",
+                "ka": "ನರಾಧಮಾನ್"
+            },
+            "meaning": {
+                "hi": "पुरुषों में सबसे खराब",
+                "en": "worst among men",
+                "be": "পুরুষদের মধ্যে সবচেয়ে খারাপ",
+                "ka": "ಪುರುಷರಲ್ಲಿ ಕೆಟ್ಟದು"
+            }
         },
         {
             "sanskrit": "क्षिपामि",
-            "transliteration": "kṣipāmi",
-            "meaning": "hurl"
+            "transliteration": {
+                "hi": "क्षिपामि",
+                "en": "kṣipāmi",
+                "be": "ক্ষিপামি",
+                "ka": "ಕ್ಷಿಪಾಮಿ"
+            },
+            "meaning": {
+                "hi": "उछालना",
+                "en": "hurl",
+                "be": "নিক্ষেপ",
+                "ka": "ಚೆಲ್ಲು"
+            }
         },
         {
             "sanskrit": "अजस्रम्",
-            "transliteration": "ajasram",
-            "meaning": "for ever"
+            "transliteration": {
+                "hi": "अजस्रम्",
+                "en": "ajasram",
+                "be": "অজস্রম্",
+                "ka": "ಅಜಸ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "हमेशा के लिए",
+                "en": "for ever",
+                "be": "চিরকালের জন্য",
+                "ka": "ಎಂದೆಂದಿಗೂ"
+            }
         },
         {
             "sanskrit": "अशुभान्",
-            "transliteration": "aśubhān",
-            "meaning": "evildoers"
+            "transliteration": {
+                "hi": "अशुभान्",
+                "en": "aśubhān",
+                "be": "অশুভান্",
+                "ka": "ಅಶುಭಾನ್"
+            },
+            "meaning": {
+                "hi": "दुष्ट",
+                "en": "evildoers",
+                "be": "অন্যায়কারী",
+                "ka": "ದುಷ್ಟರು"
+            }
         },
         {
             "sanskrit": "आसुरीषु",
-            "transliteration": "āsurīṣu",
-            "meaning": "of demons"
+            "transliteration": {
+                "hi": "आसुरीषु",
+                "en": "āsurīṣu",
+                "be": "আসুরীষু",
+                "ka": "ಆಸುರೀಷು"
+            },
+            "meaning": {
+                "hi": "राक्षसों का",
+                "en": "of demons",
+                "be": "ভূতের",
+                "ka": "ಭೂತಗಳ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "योनिषु",
-            "transliteration": "yoniṣu",
-            "meaning": "in wombs."
+            "transliteration": {
+                "hi": "योनिषु",
+                "en": "yoniṣu",
+                "be": "যোনিষু",
+                "ka": "ಯೋನಿಷು"
+            },
+            "meaning": {
+                "hi": "गर्भ में.",
+                "en": "in wombs.",
+                "be": "গর্ভাশয়ে",
+                "ka": "ಗರ್ಭಾಶಯಗಳಲ್ಲಿ."
+            }
         }
     ],
     "tej": {

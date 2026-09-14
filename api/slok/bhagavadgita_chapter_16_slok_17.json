@@ -14,8 +14,18 @@
         "en": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
         "ka": "ಆತ್ಮಸಮ್ಭಾವಿತಾಃ ಸ್ತಬ್ಧಾ ಧನಮಾನಮದಾನ್ವಿತಾಃ |\nಯಜನ್ತೇ ನಾಮಯಜ್ಞೈಸ್ತೇ ದಮ್ಭೇನಾವಿಧಿಪೂರ್ವಕಮ್ ||೧೬-೧೭||"
     },
-    "transliteration": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
-    "life_application": "Self-conceited, stubborn, filled with pride and wealth's intoxication, they perform sacrifices in name only out of ostentation.",
+    "transliteration": {
+        "hi": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||",
+        "en": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
+        "be": "আত্মসম্ভাবিতাঃ স্তব্ধা ধনমানমদান্বিতাঃ |\nযজন্তে নামযজ্ঞৈস্তে দম্ভেনাবিধিপূর্বকম্ ||১৬-১৭||",
+        "ka": "ಆತ್ಮಸಮ್ಭಾವಿತಾಃ ಸ್ತಬ್ಧಾ ಧನಮಾನಮದಾನ್ವಿತಾಃ |\nಯಜನ್ತೇ ನಾಮಯಜ್ಞೈಸ್ತೇ ದಮ್ಭೇನಾವಿಧಿಪೂರ್ವಕಮ್ ||೧೬-೧೭||"
+    },
+    "life_application": {
+        "hi": "अहंकारी, हठी, घमंड और धन के नशे से भरे हुए, वे केवल दिखावे के लिए नाम पर यज्ञ करते हैं।",
+        "en": "Self-conceited, stubborn, filled with pride and wealth's intoxication, they perform sacrifices in name only out of ostentation.",
+        "be": "আত্ম-অহংকারী, একগুঁয়ে, অহংকার ও ধন-সম্পদের নেশায় ভরা, তারা কেবল নামেই ত্যাগ স্বীকার করে।",
+        "ka": "ಸ್ವಾಭಿಮಾನಿ, ನಿಷ್ಠುರ, ಹೆಮ್ಮೆ ಮತ್ತು ಸಂಪತ್ತಿನ ಅಮಲು ತುಂಬಿದ ಅವರು ಕೇವಲ ಆಡಂಬರದಿಂದ ಹೆಸರಿನಲ್ಲಿ ಯಜ್ಞಗಳನ್ನು ಮಾಡುತ್ತಾರೆ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "आत्मसम्भाविताः",
-            "transliteration": "ātmasambhāvitāḥ",
-            "meaning": "selfconceited"
+            "transliteration": {
+                "hi": "आत्मसम्भाविताः",
+                "en": "ātmasambhāvitāḥ",
+                "be": "আত্মসম্ভাবিতাঃ",
+                "ka": "ಆತ್ಮಸಮ್ಭಾವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "आत्ममुग्ध",
+                "en": "selfconceited",
+                "be": "আত্মঅহংকারী",
+                "ka": "ಸ್ವಾಭಿಮಾನಿ"
+            }
         },
         {
             "sanskrit": "स्तब्धाः",
-            "transliteration": "stabdhāḥ",
-            "meaning": "stubborn"
+            "transliteration": {
+                "hi": "स्तब्धाः",
+                "en": "stabdhāḥ",
+                "be": "স্তব্ধাঃ",
+                "ka": "ಸ್ತಬ್ಧಾಃ"
+            },
+            "meaning": {
+                "hi": "जिद्दी",
+                "en": "stubborn",
+                "be": "একগুঁয়ে",
+                "ka": "ಹಠಮಾರಿ"
+            }
         },
         {
             "sanskrit": "धनमानमदान्विताः",
-            "transliteration": "dhanamānamadānvitāḥ",
-            "meaning": "filled with the pride"
+            "transliteration": {
+                "hi": "धनमानमदान्विताः",
+                "en": "dhanamānamadānvitāḥ",
+                "be": "ধনমানমদান্বিতাঃ",
+                "ka": "ಧನಮಾನಮದಾನ್ವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "गर्व से भर गया",
+                "en": "filled with the pride",
+                "be": "গর্বে ভরা",
+                "ka": "ಹೆಮ್ಮೆಯಿಂದ ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "यजन्ते",
-            "transliteration": "yajante",
-            "meaning": "perform"
+            "transliteration": {
+                "hi": "यजन्ते",
+                "en": "yajante",
+                "be": "যজন্তে",
+                "ka": "ಯಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "अभिनय करना",
+                "en": "perform",
+                "be": "সঞ্চালন",
+                "ka": "ನಿರ್ವಹಿಸುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "नामयज्ञैः",
-            "transliteration": "nāmayajñaiḥ",
-            "meaning": "sacrifices in name"
+            "transliteration": {
+                "hi": "नामयज्ञैः",
+                "en": "nāmayajñaiḥ",
+                "be": "নামযজ্ঞৈঃ",
+                "ka": "ನಾಮಯಜ್ಞೈಃ"
+            },
+            "meaning": {
+                "hi": "नाम पर बलिदान",
+                "en": "sacrifices in name",
+                "be": "নামে বলিদান",
+                "ka": "ಹೆಸರಿನಲ್ಲಿ ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "दम्भेन",
-            "transliteration": "dambhena",
-            "meaning": "out of ostentation"
+            "transliteration": {
+                "hi": "दम्भेन",
+                "en": "dambhena",
+                "be": "দম্ভেন",
+                "ka": "ದಮ್ಭೇನ"
+            },
+            "meaning": {
+                "hi": "दिखावे से बाहर",
+                "en": "out of ostentation",
+                "be": "বহিঃপ্রকাশ",
+                "ka": "ಆಡಂಬರದಿಂದ"
+            }
         },
         {
             "sanskrit": "अविधिपूर्वकम्",
-            "transliteration": "avidhipūrvakam",
-            "meaning": "contrary to scriptural ordinances."
+            "transliteration": {
+                "hi": "अविधिपूर्वकम्",
+                "en": "avidhipūrvakam",
+                "be": "অবিধিপূর্বকম্",
+                "ka": "ಅವಿಧಿಪೂರ್ವಕಮ್"
+            },
+            "meaning": {
+                "hi": "शास्त्रोक्त नियमों के विपरीत.",
+                "en": "contrary to scriptural ordinances.",
+                "be": "শাস্ত্রীয় অধ্যাদেশের বিপরীত।",
+                "ka": "ಧರ್ಮಗ್ರಂಥದ ಕಟ್ಟಳೆಗಳಿಗೆ ವಿರುದ್ಧವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

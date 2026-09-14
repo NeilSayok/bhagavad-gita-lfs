@@ -14,8 +14,18 @@
         "en": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
         "ka": "ಅಸೌ ಮಯಾ ಹತಃ ಶತ್ರುರ್ಹನಿಷ್ಯೇ ಚಾಪರಾನಪಿ |\nಈಶ್ವರೋಽಹಮಹಂ ಭೋಗೀ ಸಿದ್ಧೋಽಹಂ ಬಲವಾನ್ಸುಖೀ ||೧೬-೧೪||"
     },
-    "transliteration": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
-    "life_application": "'That enemy has been slain by me, others also I shall slay; I am lord, enjoyer, successful, powerful, happy'.",
+    "transliteration": {
+        "hi": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||",
+        "en": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
+        "be": "অসৌ মযা হতঃ শত্রুর্হনিষ্যে চাপরানপি |\nঈশ্বরোঽহমহং ভোগী সিদ্ধোঽহং বলবান্সুখী ||১৬-১৪||",
+        "ka": "ಅಸೌ ಮಯಾ ಹತಃ ಶತ್ರುರ್ಹನಿಷ್ಯೇ ಚಾಪರಾನಪಿ |\nಈಶ್ವರೋಽಹಮಹಂ ಭೋಗೀ ಸಿದ್ಧೋಽಹಂ ಬಲವಾನ್ಸುಖೀ ||೧೬-೧೪||"
+    },
+    "life_application": {
+        "hi": "'वह शत्रु तो मेरे द्वारा मारा जा चुका है, अन्यों को भी मैं मार डालूँगा; मैं स्वामी हूं, भोक्ता हूं, सफल हूं, शक्तिशाली हूं, सुखी हूं।'",
+        "en": "'That enemy has been slain by me, others also I shall slay; I am lord, enjoyer, successful, powerful, happy'.",
+        "be": "'সে শত্রু আমার দ্বারা নিহত হয়েছে, অন্যদেরও আমি হত্যা করব; আমি প্রভু, ভোগকারী, সফল, শক্তিশালী, সুখী'।",
+        "ka": "'ಆ ಶತ್ರುವನ್ನು ನನ್ನಿಂದ ಕೊಲ್ಲಲಾಗಿದೆ, ಇತರರನ್ನು ಸಹ ನಾನು ಕೊಲ್ಲುತ್ತೇನೆ; ನಾನು ಅಧಿಪತಿ, ಆನಂದಿಸುವವನು, ಯಶಸ್ವಿ, ಶಕ್ತಿಶಾಲಿ, ಸಂತೋಷ'."
+    },
     "themes": [
         "Attachment",
         "Mind"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "असौ",
-            "transliteration": "asau",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "असौ",
+                "en": "asau",
+                "be": "অসৌ",
+                "ka": "ಅಸೌ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "हतः",
-            "transliteration": "hataḥ",
-            "meaning": "slain"
+            "transliteration": {
+                "hi": "हतः",
+                "en": "hataḥ",
+                "be": "হতঃ",
+                "ka": "ಹತಃ"
+            },
+            "meaning": {
+                "hi": "मारे गये",
+                "en": "slain",
+                "be": "নিহত",
+                "ka": "ಕೊಲ್ಲಲಾಯಿತು"
+            }
         },
         {
             "sanskrit": "शत्रुः",
-            "transliteration": "śatruḥ",
-            "meaning": "enemy"
+            "transliteration": {
+                "hi": "शत्रुः",
+                "en": "śatruḥ",
+                "be": "শত্রুঃ",
+                "ka": "ಶತ್ರುಃ"
+            },
+            "meaning": {
+                "hi": "शत्रु",
+                "en": "enemy",
+                "be": "শত্রু",
+                "ka": "ಶತ್ರು"
+            }
         },
         {
             "sanskrit": "हनिष्ये",
-            "transliteration": "haniṣye",
-            "meaning": "shall slay"
+            "transliteration": {
+                "hi": "हनिष्ये",
+                "en": "haniṣye",
+                "be": "হনিষ্যে",
+                "ka": "ಹನಿಷ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "वध कर दूंगा",
+                "en": "shall slay",
+                "be": "হত্যা করা হবে",
+                "ka": "ಕೊಲ್ಲುವ ಹಾಗಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपरान्",
-            "transliteration": "aparān",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अपरान्",
+                "en": "aparān",
+                "be": "অপরান্",
+                "ka": "ಅಪರಾನ್"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "ईश्वरः",
-            "transliteration": "īśvaraḥ",
-            "meaning": "Lord"
+            "transliteration": {
+                "hi": "ईश्वरः",
+                "en": "īśvaraḥ",
+                "be": "ঈশ্বরঃ",
+                "ka": "ಈಶ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "प्रभु",
+                "en": "Lord",
+                "be": "প্রভু",
+                "ka": "ಪ್ರಭು"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "भोगी",
-            "transliteration": "bhogī",
-            "meaning": "the enjoyer"
+            "transliteration": {
+                "hi": "भोगी",
+                "en": "bhogī",
+                "be": "ভোগী",
+                "ka": "ಭೋಗೀ"
+            },
+            "meaning": {
+                "hi": "भोक्ता",
+                "en": "the enjoyer",
+                "be": "উপভোগকারী",
+                "ka": "ಆನಂದಿಸುವವನು"
+            }
         },
         {
             "sanskrit": "सिद्धः",
-            "transliteration": "siddhaḥ",
-            "meaning": "perfect"
+            "transliteration": {
+                "hi": "सिद्धः",
+                "en": "siddhaḥ",
+                "be": "সিদ্ধঃ",
+                "ka": "ಸಿದ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "उत्तम",
+                "en": "perfect",
+                "be": "নিখুঁত",
+                "ka": "ಪರಿಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "भोगी",
-            "transliteration": "bhogī",
-            "meaning": "the enjoyer"
+            "transliteration": {
+                "hi": "भोगी",
+                "en": "bhogī",
+                "be": "ভোগী",
+                "ka": "ಭೋಗೀ"
+            },
+            "meaning": {
+                "hi": "भोक्ता",
+                "en": "the enjoyer",
+                "be": "উপভোগকারী",
+                "ka": "ಆನಂದಿಸುವವನು"
+            }
         },
         {
             "sanskrit": "सिद्धः",
-            "transliteration": "siddhaḥ",
-            "meaning": "perfect"
+            "transliteration": {
+                "hi": "सिद्धः",
+                "en": "siddhaḥ",
+                "be": "সিদ্ধঃ",
+                "ka": "ಸಿದ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "उत्तम",
+                "en": "perfect",
+                "be": "নিখুঁত",
+                "ka": "ಪರಿಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "बलवान्",
-            "transliteration": "balavān",
-            "meaning": "powerful"
+            "transliteration": {
+                "hi": "बलवान्",
+                "en": "balavān",
+                "be": "বলবান্",
+                "ka": "ಬಲವಾನ್"
+            },
+            "meaning": {
+                "hi": "शक्तिशाली",
+                "en": "powerful",
+                "be": "শক্তিশালী",
+                "ka": "ಶಕ್ತಿಯುತ"
+            }
         },
         {
             "sanskrit": "सुखी",
-            "transliteration": "sukhī",
-            "meaning": "happy."
+            "transliteration": {
+                "hi": "सुखी",
+                "en": "sukhī",
+                "be": "সুখী",
+                "ka": "ಸುಖೀ"
+            },
+            "meaning": {
+                "hi": "खुश।",
+                "en": "happy.",
+                "be": "খুশি",
+                "ka": "ಸಂತೋಷವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

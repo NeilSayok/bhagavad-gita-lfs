@@ -14,8 +14,18 @@
         "en": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
         "ka": "ಅಹಂಕಾರಂ ಬಲಂ ದರ್ಪಂ ಕಾಮಂ ಕ್ರೋಧಂ ಚ ಸಂಶ್ರಿತಾಃ |\nಮಾಮಾತ್ಮಪರದೇಹೇಷು ಪ್ರದ್ವಿಷನ್ತೋಽಭ್ಯಸೂಯಕಾಃ ||೧೬-೧೮||"
     },
-    "transliteration": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
-    "life_application": "Given to egotism, power, pride, lust, anger, these malicious people hate Me in their own and others' bodies.",
+    "transliteration": {
+        "hi": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||",
+        "en": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
+        "be": "অহংকারং বলং দর্পং কামং ক্রোধং চ সংশ্রিতাঃ |\nমামাত্মপরদেহেষু প্রদ্বিষন্তোঽভ্যসূযকাঃ ||১৬-১৮||",
+        "ka": "ಅಹಂಕಾರಂ ಬಲಂ ದರ್ಪಂ ಕಾಮಂ ಕ್ರೋಧಂ ಚ ಸಂಶ್ರಿತಾಃ |\nಮಾಮಾತ್ಮಪರದೇಹೇಷು ಪ್ರದ್ವಿಷನ್ತೋಽಭ್ಯಸೂಯಕಾಃ ||೧೬-೧೮||"
+    },
+    "life_application": {
+        "hi": "अहंकार, शक्ति, अभिमान, वासना, क्रोध से प्रेरित ये दुर्भावनापूर्ण लोग अपने और दूसरों के शरीर में मुझसे नफरत करते हैं।",
+        "en": "Given to egotism, power, pride, lust, anger, these malicious people hate Me in their own and others' bodies.",
+        "be": "অহংকার, শক্তি, অহংকার, লালসা, ক্রোধের কারণে এই বিদ্বেষপূর্ণ লোকেরা তাদের নিজের এবং অন্যের দেহে আমাকে ঘৃণা করে।",
+        "ka": "ಅಹಂಕಾರ, ಅಧಿಕಾರ, ಅಹಂಕಾರ, ಕಾಮ, ಕ್ರೋಧಗಳಿಂದಾಗಿ ಈ ದುರುದ್ದೇಶಪೂರಿತ ಜನರು ತಮ್ಮ ಮತ್ತು ಇತರರ ದೇಹದಲ್ಲಿ ನನ್ನನ್ನು ದ್ವೇಷಿಸುತ್ತಾರೆ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अहङ्कारम्",
-            "transliteration": "ahaṅkāram",
-            "meaning": "egoism"
+            "transliteration": {
+                "hi": "अहङ्कारम्",
+                "en": "ahaṅkāram",
+                "be": "অহঙ্কারম্",
+                "ka": "ಅಹಙ್ಕಾರಮ್"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "egoism",
+                "be": "অহংবোধ",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "बलम्",
-            "transliteration": "balam",
-            "meaning": "power"
+            "transliteration": {
+                "hi": "बलम्",
+                "en": "balam",
+                "be": "বলম্",
+                "ka": "ಬಲಮ್"
+            },
+            "meaning": {
+                "hi": "शक्ति",
+                "en": "power",
+                "be": "ক্ষমতা",
+                "ka": "ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "दर्पम्",
-            "transliteration": "darpam",
-            "meaning": "haughtiness"
+            "transliteration": {
+                "hi": "दर्पम्",
+                "en": "darpam",
+                "be": "দর্পম্",
+                "ka": "ದರ್ಪಮ್"
+            },
+            "meaning": {
+                "hi": "घमंड",
+                "en": "haughtiness",
+                "be": "অহংকার",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "कामम्",
-            "transliteration": "kāmam",
-            "meaning": "lust"
+            "transliteration": {
+                "hi": "कामम्",
+                "en": "kāmam",
+                "be": "কামম্",
+                "ka": "ಕಾಮಮ್"
+            },
+            "meaning": {
+                "hi": "वासना",
+                "en": "lust",
+                "be": "লালসা",
+                "ka": "ಕಾಮ"
+            }
         },
         {
             "sanskrit": "क्रोधम्",
-            "transliteration": "krodham",
-            "meaning": "anger"
+            "transliteration": {
+                "hi": "क्रोधम्",
+                "en": "krodham",
+                "be": "ক্রোধম্",
+                "ka": "ಕ್ರೋಧಮ್"
+            },
+            "meaning": {
+                "hi": "क्रोध",
+                "en": "anger",
+                "be": "রাগ",
+                "ka": "ಕೋಪ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "संश्रिताः",
-            "transliteration": "saṃśritāḥ",
-            "meaning": "possessed of"
+            "transliteration": {
+                "hi": "संश्रिताः",
+                "en": "saṃśritāḥ",
+                "be": "সংশ্রিতাঃ",
+                "ka": "ಸಂಶ್ರಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "के पास",
+                "en": "possessed of",
+                "be": "আবিষ্ট",
+                "ka": "ಹೊಂದಿತ್ತು"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "आत्मपरदेहेषु",
-            "transliteration": "ātmaparadeheṣu",
-            "meaning": "in their own bodies"
+            "transliteration": {
+                "hi": "आत्मपरदेहेषु",
+                "en": "ātmaparadeheṣu",
+                "be": "আত্মপরদেহেষু",
+                "ka": "ಆತ್ಮಪರದೇಹೇಷು"
+            },
+            "meaning": {
+                "hi": "उनके अपने शरीर में",
+                "en": "in their own bodies",
+                "be": "নিজেদের শরীরে",
+                "ka": "ತಮ್ಮ ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रद्विषन्तः",
-            "transliteration": "pradviṣantaḥ",
-            "meaning": "hating"
+            "transliteration": {
+                "hi": "प्रद्विषन्तः",
+                "en": "pradviṣantaḥ",
+                "be": "প্রদ্বিষন্তঃ",
+                "ka": "ಪ್ರದ್ವಿಷನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "नफरत",
+                "en": "hating",
+                "be": "ঘৃণা",
+                "ka": "ದ್ವೇಷಿಸುತ್ತಿದ್ದಾನೆ"
+            }
         },
         {
             "sanskrit": "अभ्यसूयकाः",
-            "transliteration": "abhyasūyakāḥ",
-            "meaning": "malicious people."
+            "transliteration": {
+                "hi": "अभ्यसूयकाः",
+                "en": "abhyasūyakāḥ",
+                "be": "অভ্যসূযকাঃ",
+                "ka": "ಅಭ್ಯಸೂಯಕಾಃ"
+            },
+            "meaning": {
+                "hi": "दुर्भावनापूर्ण लोग.",
+                "en": "malicious people.",
+                "be": "দূষিত মানুষ।",
+                "ka": "ದುರುದ್ದೇಶಪೂರಿತ ಜನರು."
+            }
         }
     ],
     "tej": {

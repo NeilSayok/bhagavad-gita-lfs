@@ -14,8 +14,18 @@
         "en": "sarvataḥ pāṇipādaṃ tatsarvato.akṣiśiromukham .\nsarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati ||13-14||",
         "ka": "ಸರ್ವತಃ ಪಾಣಿಪಾದಂ ತತ್ಸರ್ವತೋಽಕ್ಷಿಶಿರೋಮುಖಮ್ |\nಸರ್ವತಃ ಶ್ರುತಿಮಲ್ಲೋಕೇ ಸರ್ವಮಾವೃತ್ಯ ತಿಷ್ಠತಿ ||೧೩-೧೪||"
     },
-    "transliteration": "sarvataḥ pāṇipādaṃ tatsarvato.akṣiśiromukham .\nsarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati ||13-14||",
-    "life_application": "Understand God as shining through all sense functions yet free from senses, unattached yet supporting all, beyond modes.",
+    "transliteration": {
+        "hi": "सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् |\nसर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ||१३-१४||",
+        "en": "sarvataḥ pāṇipādaṃ tatsarvato.akṣiśiromukham .\nsarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati ||13-14||",
+        "be": "সর্বতঃ পাণিপাদং তত্সর্বতোঽক্ষিশিরোমুখম্ |\nসর্বতঃ শ্রুতিমল্লোকে সর্বমাবৃত্য তিষ্ঠতি ||১৩-১৪||",
+        "ka": "ಸರ್ವತಃ ಪಾಣಿಪಾದಂ ತತ್ಸರ್ವತೋಽಕ್ಷಿಶಿರೋಮುಖಮ್ |\nಸರ್ವತಃ ಶ್ರುತಿಮಲ್ಲೋಕೇ ಸರ್ವಮಾವೃತ್ಯ ತಿಷ್ಠತಿ ||೧೩-೧೪||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सभी इंद्रियों के माध्यम से चमकते हुए फिर भी इंद्रियों से मुक्त, अनासक्त फिर भी सभी का समर्थन करने वाले, गुणों से परे के रूप में समझें।",
+        "en": "Understand God as shining through all sense functions yet free from senses, unattached yet supporting all, beyond modes.",
+        "be": "ঈশ্বরকে সমস্ত ইন্দ্রিয় ক্রিয়াকলাপের মাধ্যমে উজ্জ্বল হিসাবে বোঝুন কিন্তু ইন্দ্রিয় থেকে মুক্ত, অসংলগ্ন অথচ সকলকে সমর্থনকারী, মোডের বাইরে।",
+        "ka": "ಭಗವಂತನು ಎಲ್ಲಾ ಇಂದ್ರಿಯ ಕಾರ್ಯಗಳ ಮೂಲಕ ಹೊಳೆಯುತ್ತಿದ್ದಾನೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಆದರೆ ಇಂದ್ರಿಯಗಳಿಂದ ಮುಕ್ತನಾಗಿರುತ್ತಾನೆ, ಅಂಟಿಕೊಂಡಿಲ್ಲ ಆದರೆ ಎಲ್ಲವನ್ನು ಬೆಂಬಲಿಸುತ್ತಾನೆ, ವಿಧಾನಗಳನ್ನು ಮೀರಿ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "पाणिपादम्",
-            "transliteration": "pāṇipādam",
-            "meaning": "with hands and feet"
+            "transliteration": {
+                "hi": "पाणिपादम्",
+                "en": "pāṇipādam",
+                "be": "পাণিপাদম্",
+                "ka": "ಪಾಣಿಪಾದಮ್"
+            },
+            "meaning": {
+                "hi": "हाथों और पैरों से",
+                "en": "with hands and feet",
+                "be": "হাত এবং পা দিয়ে",
+                "ka": "ಕೈ ಮತ್ತು ಕಾಲುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "अक्षिशिरोमुखम्",
-            "transliteration": "akṣiśiromukham",
-            "meaning": "with eyes"
+            "transliteration": {
+                "hi": "अक्षिशिरोमुखम्",
+                "en": "akṣiśiromukham",
+                "be": "অক্ষিশিরোমুখম্",
+                "ka": "ಅಕ್ಷಿಶಿರೋಮುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आँखों से",
+                "en": "with eyes",
+                "be": "চোখ দিয়ে",
+                "ka": "ಕಣ್ಣುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "श्रुतिमत्",
-            "transliteration": "śrutimat",
-            "meaning": "with ears"
+            "transliteration": {
+                "hi": "श्रुतिमत्",
+                "en": "śrutimat",
+                "be": "শ্রুতিমত্",
+                "ka": "ಶ್ರುತಿಮತ್"
+            },
+            "meaning": {
+                "hi": "कानों के साथ",
+                "en": "with ears",
+                "be": "কান দিয়ে",
+                "ka": "ಕಿವಿಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "लोके",
-            "transliteration": "loke",
-            "meaning": "in the world"
+            "transliteration": {
+                "hi": "लोके",
+                "en": "loke",
+                "be": "লোকে",
+                "ka": "ಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "दुनिया में",
+                "en": "in the world",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सर्वम्",
-            "transliteration": "sarvam",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वम्",
+                "en": "sarvam",
+                "be": "সর্বম্",
+                "ka": "ಸರ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "आवृत्य",
-            "transliteration": "āvṛtya",
-            "meaning": "having enveloped"
+            "transliteration": {
+                "hi": "आवृत्य",
+                "en": "āvṛtya",
+                "be": "আবৃত্য",
+                "ka": "ಆವೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "आच्छादित होना",
+                "en": "having enveloped",
+                "be": "enveloped থাকার",
+                "ka": "ಆವರಿಸಿರುವ"
+            }
         },
         {
             "sanskrit": "तिष्ठति",
-            "transliteration": "tiṣṭhati",
-            "meaning": "exists."
+            "transliteration": {
+                "hi": "तिष्ठति",
+                "en": "tiṣṭhati",
+                "be": "তিষ্ঠতি",
+                "ka": "ತಿಷ್ಠತಿ"
+            },
+            "meaning": {
+                "hi": "मौजूद है.",
+                "en": "exists.",
+                "be": "বিদ্যমান",
+                "ka": "ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ."
+            }
         }
     ],
     "tej": {

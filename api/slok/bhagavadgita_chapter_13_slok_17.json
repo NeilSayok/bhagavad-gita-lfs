@@ -14,8 +14,18 @@
         "en": "avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam .\nbhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca ||13-17||",
         "ka": "ಅವಿಭಕ್ತಂ ಚ ಭೂತೇಷು ವಿಭಕ್ತಮಿವ ಚ ಸ್ಥಿತಮ್ |\nಭೂತಭರ್ತೃ ಚ ತಜ್ಜ್ಞೇಯಂ ಗ್ರಸಿಷ್ಣು ಪ್ರಭವಿಷ್ಣು ಚ ||೧೩-೧೭||"
     },
-    "transliteration": "avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam .\nbhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca ||13-17||",
-    "life_application": "Contemplate God as light of all lights, beyond darkness, knowledge itself, to be known, seated in the heart of all.",
+    "transliteration": {
+        "hi": "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |\nभूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च ||१३-१७||",
+        "en": "avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam .\nbhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca ||13-17||",
+        "be": "অবিভক্তং চ ভূতেষু বিভক্তমিব চ স্থিতম্ |\nভূতভর্তৃ চ তজ্জ্ঞেযং গ্রসিষ্ণু প্রভবিষ্ণু চ ||১৩-১৭||",
+        "ka": "ಅವಿಭಕ್ತಂ ಚ ಭೂತೇಷು ವಿಭಕ್ತಮಿವ ಚ ಸ್ಥಿತಮ್ |\nಭೂತಭರ್ತೃ ಚ ತಜ್ಜ್ಞೇಯಂ ಗ್ರಸಿಷ್ಣು ಪ್ರಭವಿಷ್ಣು ಚ ||೧೩-೧೭||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सभी प्रकाशों के प्रकाश के रूप में, अंधकार से परे, स्वयं ज्ञान के रूप में, जानने योग्य, सभी के हृदय में विराजमान मानकर चिंतन करें।",
+        "en": "Contemplate God as light of all lights, beyond darkness, knowledge itself, to be known, seated in the heart of all.",
+        "be": "ঈশ্বরকে সমস্ত আলোর আলো হিসাবে বিবেচনা করুন, অন্ধকারের ঊর্ধ্বে, জ্ঞান নিজেই, পরিচিত হতে, সকলের হৃদয়ে উপবিষ্ট।",
+        "ka": "ದೇವರನ್ನು ಎಲ್ಲಾ ದೀಪಗಳ ಬೆಳಕಾಗಿ, ಕತ್ತಲೆಯನ್ನು ಮೀರಿ, ಜ್ಞಾನವೇ, ತಿಳಿದಿರುವಂತೆ, ಎಲ್ಲರ ಹೃದಯದಲ್ಲಿ ಕುಳಿತಿರುವಂತೆ ಆಲೋಚಿಸಿ."
+    },
     "themes": [
         "Self-Realization",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "अविभक्तम्",
-            "transliteration": "avibhaktam",
-            "meaning": "undivided"
+            "transliteration": {
+                "hi": "अविभक्तम्",
+                "en": "avibhaktam",
+                "be": "অবিভক্তম্",
+                "ka": "ಅವಿಭಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अविभाजित",
+                "en": "undivided",
+                "be": "অবিভক্ত",
+                "ka": "ಅವಿಭಜಿತ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूतेषु",
-            "transliteration": "bhūteṣu",
-            "meaning": "in beings"
+            "transliteration": {
+                "hi": "भूतेषु",
+                "en": "bhūteṣu",
+                "be": "ভূতেষু",
+                "ka": "ಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "प्राणियों में",
+                "en": "in beings",
+                "be": "প্রাণীদের মধ্যে",
+                "ka": "ಜೀವಿಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "विभक्तम्",
-            "transliteration": "vibhaktam",
-            "meaning": "divided"
+            "transliteration": {
+                "hi": "विभक्तम्",
+                "en": "vibhaktam",
+                "be": "বিভক্তম্",
+                "ka": "ವಿಭಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "विभाजित",
+                "en": "divided",
+                "be": "বিভক্ত",
+                "ka": "ವಿಂಗಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "as if"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "मानो",
+                "en": "as if",
+                "be": "যেন",
+                "ka": "ಎಂಬಂತೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "स्थितम्",
-            "transliteration": "sthitam",
-            "meaning": "existing"
+            "transliteration": {
+                "hi": "स्थितम्",
+                "en": "sthitam",
+                "be": "স্থিতম্",
+                "ka": "ಸ್ಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "मौजूदा",
+                "en": "existing",
+                "be": "বিদ্যমান",
+                "ka": "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ"
+            }
         },
         {
             "sanskrit": "भूतभर्तृ",
-            "transliteration": "bhūtabhartṛ",
-            "meaning": "the supporter of beings"
+            "transliteration": {
+                "hi": "भूतभर्तृ",
+                "en": "bhūtabhartṛ",
+                "be": "ভূতভর্তৃ",
+                "ka": "ಭೂತಭರ್ತೃ"
+            },
+            "meaning": {
+                "hi": "प्राणियों का समर्थक",
+                "en": "the supporter of beings",
+                "be": "প্রাণীদের সমর্থক",
+                "ka": "ಜೀವಿಗಳ ಬೆಂಬಲಿಗ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That ज्ञेयम् to be"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह ज्ञेयम् होना",
+                "en": "That ज्ञेयम् to be",
+                "be": "যে জ্ঞেয়ম্ হতে হবে",
+                "ka": "ಆ ಜ್ಞೇಯಮ್ ಎಂದು"
+            }
         },
         {
             "sanskrit": "ग्रसिष्णु",
-            "transliteration": "grasiṣṇu",
-            "meaning": "devouring"
+            "transliteration": {
+                "hi": "ग्रसिष्णु",
+                "en": "grasiṣṇu",
+                "be": "গ্রসিষ্ণু",
+                "ka": "ಗ್ರಸಿಷ್ಣು"
+            },
+            "meaning": {
+                "hi": "भक्षण",
+                "en": "devouring",
+                "be": "গ্রাসকারী",
+                "ka": "ಕಬಳಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "प्रभविष्णु",
-            "transliteration": "prabhaviṣṇu",
-            "meaning": "generating"
+            "transliteration": {
+                "hi": "प्रभविष्णु",
+                "en": "prabhaviṣṇu",
+                "be": "প্রভবিষ্ণু",
+                "ka": "ಪ್ರಭವಿಷ್ಣು"
+            },
+            "meaning": {
+                "hi": "उत्पन्न करना",
+                "en": "generating",
+                "be": "উৎপন্ন",
+                "ka": "ಉತ್ಪಾದಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

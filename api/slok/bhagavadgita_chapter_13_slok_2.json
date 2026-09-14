@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nidaṃ śarīraṃ kaunteya kṣetramityabhidhīyate .\netadyo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||13-2||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಇದಂ ಶರೀರಂ ಕೌನ್ತೇಯ ಕ್ಷೇತ್ರಮಿತ್ಯಭಿಧೀಯತೇ |\nಏತದ್ಯೋ ವೇತ್ತಿ ತಂ ಪ್ರಾಹುಃ ಕ್ಷೇತ್ರಜ್ಞ ಇತಿ ತದ್ವಿದಃ ||೧೩-೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nidaṃ śarīraṃ kaunteya kṣetramityabhidhīyate .\netadyo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||13-2||",
-    "life_application": "Know the divine presence as the supreme knower of the field in all bodies; knowledge of field and knower is true wisdom.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nइदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते |\nएतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ||१३-२||",
+        "en": "śrībhagavānuvāca .\nidaṃ śarīraṃ kaunteya kṣetramityabhidhīyate .\netadyo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||13-2||",
+        "be": "শ্রীভগবানুবাচ |\nইদং শরীরং কৌন্তেয ক্ষেত্রমিত্যভিধীযতে |\nএতদ্যো বেত্তি তং প্রাহুঃ ক্ষেত্রজ্ঞ ইতি তদ্বিদঃ ||১৩-২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಇದಂ ಶರೀರಂ ಕೌನ್ತೇಯ ಕ್ಷೇತ್ರಮಿತ್ಯಭಿಧೀಯತೇ |\nಏತದ್ಯೋ ವೇತ್ತಿ ತಂ ಪ್ರಾಹುಃ ಕ್ಷೇತ್ರಜ್ಞ ಇತಿ ತದ್ವಿದಃ ||೧೩-೨||"
+    },
+    "life_application": {
+        "hi": "समस्त शरीरों में क्षेत्र के सर्वोच्च ज्ञाता के रूप में दिव्य उपस्थिति को जानो; क्षेत्र और ज्ञाता का ज्ञान ही सच्चा ज्ञान है।",
+        "en": "Know the divine presence as the supreme knower of the field in all bodies; knowledge of field and knower is true wisdom.",
+        "be": "সমস্ত দেহে ক্ষেত্রের পরম জ্ঞাতা হিসাবে ঐশ্বরিক উপস্থিতি জানুন; ক্ষেত্র এবং জ্ঞানী জ্ঞান হল প্রকৃত জ্ঞান।",
+        "ka": "ಎಲ್ಲಾ ದೇಹಗಳಲ್ಲಿ ಕ್ಷೇತ್ರದ ಸರ್ವೋಚ್ಚ ಜ್ಞಾನಿಯಾಗಿ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ತಿಳಿಯಿರಿ; ಕ್ಷೇತ್ರದ ಜ್ಞಾನ ಮತ್ತು ಜ್ಞಾನವು ನಿಜವಾದ ಬುದ್ಧಿವಂತಿಕೆಯಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "शरीरम्",
-            "transliteration": "śarīram",
-            "meaning": "body"
+            "transliteration": {
+                "hi": "शरीरम्",
+                "en": "śarīram",
+                "be": "শরীরম্",
+                "ka": "ಶರೀರಮ್"
+            },
+            "meaning": {
+                "hi": "शरीर",
+                "en": "body",
+                "be": "শরীর",
+                "ka": "ದೇಹ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "क्षेत्रम्",
-            "transliteration": "kṣetram",
-            "meaning": "the field"
+            "transliteration": {
+                "hi": "क्षेत्रम्",
+                "en": "kṣetram",
+                "be": "ক্ষেত্রম্",
+                "ka": "ಕ್ಷೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "फील्ड",
+                "en": "the field",
+                "be": "ক্ষেত্র",
+                "ka": "ಕ್ಷೇತ್ರ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अभिधीयते",
-            "transliteration": "abhidhīyate",
-            "meaning": "is called"
+            "transliteration": {
+                "hi": "अभिधीयते",
+                "en": "abhidhīyate",
+                "be": "অভিধীযতে",
+                "ka": "ಅಭಿಧೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is called",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "him"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "उसे",
+                "en": "him",
+                "be": "তাকে",
+                "ka": "ಅವನನ್ನು"
+            }
         },
         {
             "sanskrit": "प्राहुः",
-            "transliteration": "prāhuḥ",
-            "meaning": "call"
+            "transliteration": {
+                "hi": "प्राहुः",
+                "en": "prāhuḥ",
+                "be": "প্রাহুঃ",
+                "ka": "ಪ್ರಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "बुलाओ",
+                "en": "call",
+                "be": "কল",
+                "ka": "ಕರೆ"
+            }
         },
         {
             "sanskrit": "क्षेत्रज्ञः",
-            "transliteration": "kṣetrajñaḥ",
-            "meaning": "the knower of the"
+            "transliteration": {
+                "hi": "क्षेत्रज्ञः",
+                "en": "kṣetrajñaḥ",
+                "be": "ক্ষেত্রজ্ঞঃ",
+                "ka": "ಕ್ಷೇತ್ರಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "का ज्ञाता",
+                "en": "the knower of the",
+                "be": "এর জ্ঞানী",
+                "ka": "ನ ಬಲ್ಲವರು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "तद्विदः",
-            "transliteration": "tadvidaḥ",
-            "meaning": "the knowers of that."
+            "transliteration": {
+                "hi": "तद्विदः",
+                "en": "tadvidaḥ",
+                "be": "তদ্বিদঃ",
+                "ka": "ತದ್ವಿದಃ"
+            },
+            "meaning": {
+                "hi": "उसके जानने वाले.",
+                "en": "the knowers of that.",
+                "be": "যে জানেন.",
+                "ka": "ಅದನ್ನು ತಿಳಿದವರು."
+            }
         }
     ],
     "tej": {

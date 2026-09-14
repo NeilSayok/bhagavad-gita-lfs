@@ -14,8 +14,18 @@
         "en": "adhyātmajñānanityatvaṃ tattvajñānārthadarśanam .\netajjñānamiti proktamajñānaṃ yadato.anyathā ||13-12||",
         "ka": "ಅಧ್ಯಾತ್ಮಜ್ಞಾನನಿತ್ಯತ್ವಂ ತತ್ತ್ವಜ್ಞಾನಾರ್ಥದರ್ಶನಮ್ |\nಏತಜ್ಜ್ಞಾನಮಿತಿ ಪ್ರೋಕ್ತಮಜ್ಞಾನಂ ಯದತೋಽನ್ಯಥಾ ||೧೩-೧೨||"
     },
-    "transliteration": "adhyātmajñānanityatvaṃ tattvajñānārthadarśanam .\netajjñānamiti proktamajñānaṃ yadato.anyathā ||13-12||",
-    "life_application": "Know that which ought to be known, attaining immortality: the beginningless supreme Brahman, neither being nor non-being.",
+    "transliteration": {
+        "hi": "अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् |\nएतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा ||१३-१२||",
+        "en": "adhyātmajñānanityatvaṃ tattvajñānārthadarśanam .\netajjñānamiti proktamajñānaṃ yadato.anyathā ||13-12||",
+        "be": "অধ্যাত্মজ্ঞাননিত্যত্বং তত্ত্বজ্ঞানার্থদর্শনম্ |\nএতজ্জ্ঞানমিতি প্রোক্তমজ্ঞানং যদতোঽন্যথা ||১৩-১২||",
+        "ka": "ಅಧ್ಯಾತ್ಮಜ್ಞಾನನಿತ್ಯತ್ವಂ ತತ್ತ್ವಜ್ಞಾನಾರ್ಥದರ್ಶನಮ್ |\nಏತಜ್ಜ್ಞಾನಮಿತಿ ಪ್ರೋಕ್ತಮಜ್ಞಾನಂ ಯದತೋಽನ್ಯಥಾ ||೧೩-೧೨||"
+    },
+    "life_application": {
+        "hi": "उसे जानें जिसे जानना चाहिए, अमरता प्राप्त करना: अनादि सर्वोच्च ब्रह्म, न तो अस्तित्व में और न ही गैर-अस्तित्व में।",
+        "en": "Know that which ought to be known, attaining immortality: the beginningless supreme Brahman, neither being nor non-being.",
+        "be": "যা জানা উচিত তা জানুন, অমরত্ব লাভ করুন: অনাদি পরম ব্রহ্ম, সত্তা বা অ-সত্তা নয়।",
+        "ka": "ಅಮರತ್ವವನ್ನು ಸಾಧಿಸುವ ಮೂಲಕ ತಿಳಿಯಬೇಕಾದದ್ದನ್ನು ತಿಳಿಯಿರಿ: ಆದಿಯಿಲ್ಲದ ಪರಮ ಬ್ರಹ್ಮ, ಅಸ್ತಿತ್ವವೂ ಅಲ್ಲ, ಇಲ್ಲದಿರುವುದು."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अध्यात्मज्ञाननित्यत्वम्",
-            "transliteration": "adhyātmajñānanityatvam",
-            "meaning": "constancy in Selfknowledge"
+            "transliteration": {
+                "hi": "अध्यात्मज्ञाननित्यत्वम्",
+                "en": "adhyātmajñānanityatvam",
+                "be": "অধ্যাত্মজ্ঞাননিত্যত্বম্",
+                "ka": "ಅಧ್ಯಾತ್ಮಜ್ಞಾನನಿತ್ಯತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "आत्मज्ञान में स्थिरता",
+                "en": "constancy in Selfknowledge",
+                "be": "আত্মজ্ঞানে স্থিরতা",
+                "ka": "ಸ್ವಯಂ ಜ್ಞಾನದಲ್ಲಿ ಸ್ಥಿರತೆ"
+            }
         },
         {
             "sanskrit": "तत्त्वज्ञानार्थदर्शनम्",
-            "transliteration": "tattvajñānārthadarśanam",
-            "meaning": "perception of the end"
+            "transliteration": {
+                "hi": "तत्त्वज्ञानार्थदर्शनम्",
+                "en": "tattvajñānārthadarśanam",
+                "be": "তত্ত্বজ্ঞানার্থদর্শনম্",
+                "ka": "ತತ್ತ್ವಜ್ಞಾನಾರ್ಥದರ್ಶನಮ್"
+            },
+            "meaning": {
+                "hi": "अंत की धारणा",
+                "en": "perception of the end",
+                "be": "শেষের উপলব্ধি",
+                "ka": "ಅಂತ್ಯದ ಗ್ರಹಿಕೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "प्रोक्तम्",
-            "transliteration": "proktam",
-            "meaning": "declared"
+            "transliteration": {
+                "hi": "प्रोक्तम्",
+                "en": "proktam",
+                "be": "প্রোক্তম্",
+                "ka": "ಪ್ರೋಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित",
+                "en": "declared",
+                "be": "ঘোষিত",
+                "ka": "ಘೋಷಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "अज्ञानम्",
-            "transliteration": "ajñānam",
-            "meaning": "ignorance"
+            "transliteration": {
+                "hi": "अज्ञानम्",
+                "en": "ajñānam",
+                "be": "অজ্ঞানম্",
+                "ka": "ಅಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "अज्ञान",
+                "en": "ignorance",
+                "be": "অজ্ঞতা",
+                "ka": "ಅಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "अतः",
-            "transliteration": "ataḥ",
-            "meaning": "from it"
+            "transliteration": {
+                "hi": "अतः",
+                "en": "ataḥ",
+                "be": "অতঃ",
+                "ka": "ಅತಃ"
+            },
+            "meaning": {
+                "hi": "इससे",
+                "en": "from it",
+                "be": "এটা থেকে",
+                "ka": "ಅದರಿಂದ"
+            }
         },
         {
             "sanskrit": "अन्यथा",
-            "transliteration": "anyathā",
-            "meaning": "opposed."
+            "transliteration": {
+                "hi": "अन्यथा",
+                "en": "anyathā",
+                "be": "অন্যথা",
+                "ka": "ಅನ್ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "विरोध किया.",
+                "en": "opposed.",
+                "be": "বিরোধী",
+                "ka": "ವಿರೋಧಿಸಿದರು."
+            }
         }
     ],
     "tej": {

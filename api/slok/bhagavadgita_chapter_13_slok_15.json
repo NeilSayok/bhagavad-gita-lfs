@@ -14,8 +14,18 @@
         "en": "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam .\nasaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ||13-15||",
         "ka": "ಸರ್ವೇನ್ದ್ರಿಯಗುಣಾಭಾಸಂ ಸರ್ವೇನ್ದ್ರಿಯವಿವರ್ಜಿತಮ್ |\nಅಸಕ್ತಂ ಸರ್ವಭೃಚ್ಚೈವ ನಿರ್ಗುಣಂ ಗುಣಭೋಕ್ತೃ ಚ ||೧೩-೧೫||"
     },
-    "transliteration": "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam .\nasaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ||13-15||",
-    "life_application": "See God outside and inside all beings, unmoving and moving, incomprehensible due to subtlety, far away yet near.",
+    "transliteration": {
+        "hi": "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् |\nअसक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ||१३-१५||",
+        "en": "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam .\nasaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ||13-15||",
+        "be": "সর্বেন্দ্রিযগুণাভাসং সর্বেন্দ্রিযবিবর্জিতম্ |\nঅসক্তং সর্বভৃচ্চৈব নির্গুণং গুণভোক্তৃ চ ||১৩-১৫||",
+        "ka": "ಸರ್ವೇನ್ದ್ರಿಯಗುಣಾಭಾಸಂ ಸರ್ವೇನ್ದ್ರಿಯವಿವರ್ಜಿತಮ್ |\nಅಸಕ್ತಂ ಸರ್ವಭೃಚ್ಚೈವ ನಿರ್ಗುಣಂ ಗುಣಭೋಕ್ತೃ ಚ ||೧೩-೧೫||"
+    },
+    "life_application": {
+        "hi": "सभी प्राणियों के बाहर और भीतर ईश्वर को देखें, अचल और गतिशील, सूक्ष्मता के कारण समझ से परे, दूर फिर भी निकट।",
+        "en": "See God outside and inside all beings, unmoving and moving, incomprehensible due to subtlety, far away yet near.",
+        "be": "সমস্ত প্রাণীর বাইরে এবং ভিতরে ভগবানকে দেখুন, অচল ও চলমান, সূক্ষ্মতার কারণে বোধগম্য নয়, অনেক দূরে অথচ কাছে।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ ಹೊರಗೆ ಮತ್ತು ಒಳಗೆ ದೇವರನ್ನು ನೋಡಿ, ಚಲಿಸದ ಮತ್ತು ಚಲಿಸುವ, ಸೂಕ್ಷ್ಮತೆಯಿಂದ ಗ್ರಹಿಸಲಾಗದ, ದೂರದ ಇನ್ನೂ ಹತ್ತಿರದಲ್ಲಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वेन्द्रियगुणाभासम्",
-            "transliteration": "sarvendriyaguṇābhāsam",
-            "meaning": "shining by the functions"
+            "transliteration": {
+                "hi": "सर्वेन्द्रियगुणाभासम्",
+                "en": "sarvendriyaguṇābhāsam",
+                "be": "সর্বেন্দ্রিযগুণাভাসম্",
+                "ka": "ಸರ್ವೇನ್ದ್ರಿಯಗುಣಾಭಾಸಮ್"
+            },
+            "meaning": {
+                "hi": "कार्यों से चमक रहा है",
+                "en": "shining by the functions",
+                "be": "ফাংশন দ্বারা উজ্জ্বল",
+                "ka": "ಕಾರ್ಯಗಳಿಂದ ಹೊಳೆಯುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वेन्द्रयविवर्जितम्",
-            "transliteration": "sarvendrayavivarjitam",
-            "meaning": "without the senses"
+            "transliteration": {
+                "hi": "सर्वेन्द्रयविवर्जितम्",
+                "en": "sarvendrayavivarjitam",
+                "be": "সর্বেন্দ্রযবিবর্জিতম্",
+                "ka": "ಸರ್ವೇನ್ದ್ರಯವಿವರ್ಜಿತಮ್"
+            },
+            "meaning": {
+                "hi": "इंद्रियों के बिना",
+                "en": "without the senses",
+                "be": "ইন্দ্রিয় ছাড়া",
+                "ka": "ಇಂದ್ರಿಯಗಳಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "असक्तम्",
-            "transliteration": "asaktam",
-            "meaning": "unattached"
+            "transliteration": {
+                "hi": "असक्तम्",
+                "en": "asaktam",
+                "be": "অসক্তম্",
+                "ka": "ಅಸಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अनासक्त",
+                "en": "unattached",
+                "be": "অসংলগ্ন",
+                "ka": "ಜೋಡಿಸದ"
+            }
         },
         {
             "sanskrit": "सर्वभृत्",
-            "transliteration": "sarvabhṛt",
-            "meaning": "supporting all"
+            "transliteration": {
+                "hi": "सर्वभृत्",
+                "en": "sarvabhṛt",
+                "be": "সর্বভৃত্",
+                "ka": "ಸರ್ವಭೃತ್"
+            },
+            "meaning": {
+                "hi": "सभी का समर्थन कर रहे हैं",
+                "en": "supporting all",
+                "be": "সব সমর্থন",
+                "ka": "ಎಲ್ಲಾ ಬೆಂಬಲಿಸುವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "निर्गुणम्",
-            "transliteration": "nirguṇam",
-            "meaning": "devoid of alities"
+            "transliteration": {
+                "hi": "निर्गुणम्",
+                "en": "nirguṇam",
+                "be": "নির্গুণম্",
+                "ka": "ನಿರ್ಗುಣಮ್"
+            },
+            "meaning": {
+                "hi": "सुविधाओं से रहित",
+                "en": "devoid of alities",
+                "be": "aliities বর্জিত",
+                "ka": "ಅಲಿಟಿಗಳಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "गुणभोक्तृ",
-            "transliteration": "guṇabhoktṛ",
-            "meaning": "experiencer of the alities"
+            "transliteration": {
+                "hi": "गुणभोक्तृ",
+                "en": "guṇabhoktṛ",
+                "be": "গুণভোক্তৃ",
+                "ka": "ಗುಣಭೋಕ್ತೃ"
+            },
+            "meaning": {
+                "hi": "तत्वों का अनुभवकर्ता",
+                "en": "experiencer of the alities",
+                "be": "alities এর অভিজ্ঞ",
+                "ka": "ಅಲಿಟಿಗಳ ಅನುಭವಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

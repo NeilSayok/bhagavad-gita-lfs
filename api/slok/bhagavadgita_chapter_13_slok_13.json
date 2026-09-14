@@ -14,8 +14,18 @@
         "en": "jñeyaṃ yattatpravakṣyāmi yajjñātvāmṛtamaśnute .\nanādi matparaṃ brahma na sattannāsaducyate ||13-13||",
         "ka": "ಜ್ಞೇಯಂ ಯತ್ತತ್ಪ್ರವಕ್ಷ್ಯಾಮಿ ಯಜ್ಜ್ಞಾತ್ವಾಮೃತಮಶ್ನುತೇ |\nಅನಾದಿಮತ್ಪರಂ ಬ್ರಹ್ಮ ನ ಸತ್ತನ್ನಾಸದುಚ್ಯತೇ ||೧೩-೧೩||"
     },
-    "transliteration": "jñeyaṃ yattatpravakṣyāmi yajjñātvāmṛtamaśnute .\nanādi matparaṃ brahma na sattannāsaducyate ||13-13||",
-    "life_application": "Perceive the divine presence with hands, feet, eyes, heads, mouths everywhere, existing in the world, pervading all.",
+    "transliteration": {
+        "hi": "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते |\nअनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते ||१३-१३||",
+        "en": "jñeyaṃ yattatpravakṣyāmi yajjñātvāmṛtamaśnute .\nanādi matparaṃ brahma na sattannāsaducyate ||13-13||",
+        "be": "জ্ঞেযং যত্তত্প্রবক্ষ্যামি যজ্জ্ঞাত্বামৃতমশ্নুতে |\nঅনাদিমত্পরং ব্রহ্ম ন সত্তন্নাসদুচ্যতে ||১৩-১৩||",
+        "ka": "ಜ್ಞೇಯಂ ಯತ್ತತ್ಪ್ರವಕ್ಷ್ಯಾಮಿ ಯಜ್ಜ್ಞಾತ್ವಾಮೃತಮಶ್ನುತೇ |\nಅನಾದಿಮತ್ಪರಂ ಬ್ರಹ್ಮ ನ ಸತ್ತನ್ನಾಸದುಚ್ಯತೇ ||೧೩-೧೩||"
+    },
+    "life_application": {
+        "hi": "हाथों, पैरों, आंखों, सिर, मुंह के साथ हर जगह ईश्वरीय उपस्थिति को महसूस करें, जो दुनिया में विद्यमान है, सभी में व्याप्त है।",
+        "en": "Perceive the divine presence with hands, feet, eyes, heads, mouths everywhere, existing in the world, pervading all.",
+        "be": "হাত, পা, চোখ, মাথা, মুখ সর্বত্র, জগতে বিরাজমান, সর্বত্র বিরাজমান সর্বত্র ঐশ্বরিক উপস্থিতি উপলব্ধি করুন।",
+        "ka": "ಕೈ, ಕಾಲು, ಕಣ್ಣು, ತಲೆ, ಬಾಯಿ ಎಲ್ಲೆಲ್ಲೂ ಇರುವ, ಪ್ರಪಂಚದಲ್ಲಿ ಇರುವ, ಎಲ್ಲವನ್ನು ವ್ಯಾಪಿಸಿರುವ ಪರಮಾತ್ಮನ ಉಪಸ್ಥಿತಿಯನ್ನು ಗ್ರಹಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "ज्ञेयम्",
-            "transliteration": "jñeyam",
-            "meaning": "has to be known"
+            "transliteration": {
+                "hi": "ज्ञेयम्",
+                "en": "jñeyam",
+                "be": "জ্ঞেযম্",
+                "ka": "ಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "जानना होगा",
+                "en": "has to be known",
+                "be": "জানতে হবে",
+                "ka": "ತಿಳಿಯಬೇಕಿದೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "प्रवक्ष्यामि",
-            "transliteration": "pravakṣyāmi",
-            "meaning": "will declare"
+            "transliteration": {
+                "hi": "प्रवक्ष्यामि",
+                "en": "pravakṣyāmi",
+                "be": "প্রবক্ষ্যামি",
+                "ka": "ಪ್ರವಕ್ಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "घोषित करेंगे",
+                "en": "will declare",
+                "be": "ঘোষণা করবে",
+                "ka": "ಘೋಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "knowing"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "जानना",
+                "en": "knowing",
+                "be": "জানা",
+                "ka": "ತಿಳಿಯುವುದು"
+            }
         },
         {
             "sanskrit": "अमृतम्",
-            "transliteration": "amṛtam",
-            "meaning": "immortality"
+            "transliteration": {
+                "hi": "अमृतम्",
+                "en": "amṛtam",
+                "be": "অমৃতম্",
+                "ka": "ಅಮೃತಮ್"
+            },
+            "meaning": {
+                "hi": "अमरता",
+                "en": "immortality",
+                "be": "অমরত্ব",
+                "ka": "ಅಮರತ್ವ"
+            }
         },
         {
             "sanskrit": "अश्नुते",
-            "transliteration": "aśnute",
-            "meaning": "attains to"
+            "transliteration": {
+                "hi": "अश्नुते",
+                "en": "aśnute",
+                "be": "অশ্নুতে",
+                "ka": "ಅಶ್ನುತೇ"
+            },
+            "meaning": {
+                "hi": "को प्राप्त होता है",
+                "en": "attains to",
+                "be": "অর্জন করে",
+                "ka": "ಗೆ ತಲುಪುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अनादिमत्",
-            "transliteration": "anādimat",
-            "meaning": "the beginningless"
+            "transliteration": {
+                "hi": "अनादिमत्",
+                "en": "anādimat",
+                "be": "অনাদিমত্",
+                "ka": "ಅನಾದಿಮತ್"
+            },
+            "meaning": {
+                "hi": "आरंभहीन",
+                "en": "the beginningless",
+                "be": "শুরুহীন",
+                "ka": "ಆರಂಭವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "Brahman"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण",
+                "en": "Brahman",
+                "be": "ব্রাহ্মণ",
+                "ka": "ಬ್ರಹ್ಮನ್"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "being"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "किया जा रहा है",
+                "en": "being",
+                "be": "হচ্ছে",
+                "ka": "ಇರುವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "असत्",
-            "transliteration": "asat",
-            "meaning": "nonbeing"
+            "transliteration": {
+                "hi": "असत्",
+                "en": "asat",
+                "be": "অসত্",
+                "ka": "ಅಸತ್"
+            },
+            "meaning": {
+                "hi": "न होना",
+                "en": "nonbeing",
+                "be": "noning",
+                "ka": "ಇಲ್ಲದಿರುವುದು"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

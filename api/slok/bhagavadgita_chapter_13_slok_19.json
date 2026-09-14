@@ -14,8 +14,18 @@
         "en": "iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ .\nmadbhakta etadvijñāya madbhāvāyopapadyate ||13-19||",
         "ka": "ಇತಿ ಕ್ಷೇತ್ರಂ ತಥಾ ಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಚೋಕ್ತಂ ಸಮಾಸತಃ |\nಮದ್ಭಕ್ತ ಏತದ್ವಿಜ್ಞಾಯ ಮದ್ಭಾವಾಯೋಪಪದ್ಯತೇ ||೧೩-೧೯||"
     },
-    "transliteration": "iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ .\nmadbhakta etadvijñāya madbhāvāyopapadyate ||13-19||",
-    "life_application": "Know that material nature and individual spirit are both beginningless, and all modifications and qualities spring from nature.",
+    "transliteration": {
+        "hi": "इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः |\nमद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते ||१३-१९||",
+        "en": "iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ .\nmadbhakta etadvijñāya madbhāvāyopapadyate ||13-19||",
+        "be": "ইতি ক্ষেত্রং তথা জ্ঞানং জ্ঞেযং চোক্তং সমাসতঃ |\nমদ্ভক্ত এতদ্বিজ্ঞায মদ্ভাবাযোপপদ্যতে ||১৩-১৯||",
+        "ka": "ಇತಿ ಕ್ಷೇತ್ರಂ ತಥಾ ಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಚೋಕ್ತಂ ಸಮಾಸತಃ |\nಮದ್ಭಕ್ತ ಏತದ್ವಿಜ್ಞಾಯ ಮದ್ಭಾವಾಯೋಪಪದ್ಯತೇ ||೧೩-೧೯||"
+    },
+    "life_application": {
+        "hi": "जान लें कि भौतिक प्रकृति और व्यक्तिगत आत्मा दोनों अनादि हैं, और सभी संशोधन और गुण प्रकृति से उत्पन्न होते हैं।",
+        "en": "Know that material nature and individual spirit are both beginningless, and all modifications and qualities spring from nature.",
+        "be": "জেনে রাখুন যে বস্তুগত প্রকৃতি এবং স্বতন্ত্র আত্মা উভয়ই শুরুহীন, এবং সমস্ত পরিবর্তন এবং গুণাবলী প্রকৃতি থেকে উৎপন্ন হয়।",
+        "ka": "ಭೌತಿಕ ಸ್ವಭಾವ ಮತ್ತು ವೈಯಕ್ತಿಕ ಚೈತನ್ಯ ಎರಡೂ ಆರಂಭವಿಲ್ಲದವು ಎಂದು ತಿಳಿಯಿರಿ ಮತ್ತು ಎಲ್ಲಾ ಮಾರ್ಪಾಡುಗಳು ಮತ್ತು ಗುಣಗಳು ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟುತ್ತವೆ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "क्षेत्रम्",
-            "transliteration": "kṣetram",
-            "meaning": "the field"
+            "transliteration": {
+                "hi": "क्षेत्रम्",
+                "en": "kṣetram",
+                "be": "ক্ষেত্রম্",
+                "ka": "ಕ್ಷೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "फील्ड",
+                "en": "the field",
+                "be": "ক্ষেত্র",
+                "ka": "ಕ್ಷೇತ್ರ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "as well as"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "साथ ही साथ",
+                "en": "as well as",
+                "be": "সেইসাথে",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "ज्ञेयम्",
-            "transliteration": "jñeyam",
-            "meaning": "the knowable"
+            "transliteration": {
+                "hi": "ज्ञेयम्",
+                "en": "jñeyam",
+                "be": "জ্ঞেযম্",
+                "ka": "ಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञेय",
+                "en": "the knowable",
+                "be": "জানা যায়",
+                "ka": "ತಿಳಿದಿರುವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "उक्तम्",
-            "transliteration": "uktam",
-            "meaning": "have been stated"
+            "transliteration": {
+                "hi": "उक्तम्",
+                "en": "uktam",
+                "be": "উক্তম্",
+                "ka": "ಉಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "बताया गया है",
+                "en": "have been stated",
+                "be": "বলা হয়েছে",
+                "ka": "ತಿಳಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "समासतः",
-            "transliteration": "samāsataḥ",
-            "meaning": "briefly"
+            "transliteration": {
+                "hi": "समासतः",
+                "en": "samāsataḥ",
+                "be": "সমাসতঃ",
+                "ka": "ಸಮಾಸತಃ"
+            },
+            "meaning": {
+                "hi": "संक्षेप में",
+                "en": "briefly",
+                "be": "সংক্ষেপে",
+                "ka": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मद्भक्तः",
-            "transliteration": "madbhaktaḥ",
-            "meaning": "My devotee"
+            "transliteration": {
+                "hi": "मद्भक्तः",
+                "en": "madbhaktaḥ",
+                "be": "মদ্ভক্তঃ",
+                "ka": "ಮದ್ಭಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मेरे भक्त",
+                "en": "My devotee",
+                "be": "আমার ভক্ত",
+                "ka": "ನನ್ನ ಭಕ್ತ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "विज्ञाय",
-            "transliteration": "vijñāya",
-            "meaning": "knowing"
+            "transliteration": {
+                "hi": "विज्ञाय",
+                "en": "vijñāya",
+                "be": "বিজ্ঞায",
+                "ka": "ವಿಜ್ಞಾಯ"
+            },
+            "meaning": {
+                "hi": "जानना",
+                "en": "knowing",
+                "be": "জানা",
+                "ka": "ತಿಳಿಯುವುದು"
+            }
         },
         {
             "sanskrit": "मद्भावाय",
-            "transliteration": "madbhāvāya",
-            "meaning": "to My being"
+            "transliteration": {
+                "hi": "मद्भावाय",
+                "en": "madbhāvāya",
+                "be": "মদ্ভাবায",
+                "ka": "ಮದ್ಭಾವಾಯ"
+            },
+            "meaning": {
+                "hi": "मेरे अस्तित्व के लिए",
+                "en": "to My being",
+                "be": "আমার সত্তার কাছে",
+                "ka": "ನನ್ನ ಅಸ್ತಿತ್ವಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "उपपद्यते",
-            "transliteration": "upapadyate",
-            "meaning": "enters."
+            "transliteration": {
+                "hi": "उपपद्यते",
+                "en": "upapadyate",
+                "be": "উপপদ্যতে",
+                "ka": "ಉಪಪದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रवेश करता है.",
+                "en": "enters.",
+                "be": "প্রবেশ করে",
+                "ka": "ಪ್ರವೇಶಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

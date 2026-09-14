@@ -14,8 +14,18 @@
         "en": "bahirantaśca bhūtānāmacaraṃ carameva ca .\nsūkṣmatvāttadavijñeyaṃ dūrasthaṃ cāntike ca tat ||13-16||",
         "ka": "ಬಹಿರನ್ತಶ್ಚ ಭೂತಾನಾಮಚರಂ ಚರಮೇವ ಚ |\nಸೂಕ್ಷ್ಮತ್ವಾತ್ತದವಿಜ್ಞೇಯಂ ದೂರಸ್ಥಂ ಚಾನ್ತಿಕೇ ಚ ತತ್ ||೧೩-೧೬||"
     },
-    "transliteration": "bahirantaśca bhūtānāmacaraṃ carameva ca .\nsūkṣmatvāttadavijñeyaṃ dūrasthaṃ cāntike ca tat ||13-16||",
-    "life_application": "Know the Divine as undivided yet standing as if divided in beings, the sustainer, devourer, and generator of all.",
+    "transliteration": {
+        "hi": "बहिरन्तश्च भूतानामचरं चरमेव च |\nसूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ||१३-१६||",
+        "en": "bahirantaśca bhūtānāmacaraṃ carameva ca .\nsūkṣmatvāttadavijñeyaṃ dūrasthaṃ cāntike ca tat ||13-16||",
+        "be": "বহিরন্তশ্চ ভূতানামচরং চরমেব চ |\nসূক্ষ্মত্বাত্তদবিজ্ঞেযং দূরস্থং চান্তিকে চ তত্ ||১৩-১৬||",
+        "ka": "ಬಹಿರನ್ತಶ್ಚ ಭೂತಾನಾಮಚರಂ ಚರಮೇವ ಚ |\nಸೂಕ್ಷ್ಮತ್ವಾತ್ತದವಿಜ್ಞೇಯಂ ದೂರಸ್ಥಂ ಚಾನ್ತಿಕೇ ಚ ತತ್ ||೧೩-೧೬||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को अविभाजित फिर भी ऐसे जानो जैसे कि वह प्राणियों में विभाजित हो, सबका पालनकर्ता, भक्षक और उत्पन्न करने वाला हो।",
+        "en": "Know the Divine as undivided yet standing as if divided in beings, the sustainer, devourer, and generator of all.",
+        "be": "পরমাত্মাকে অবিভক্ত হিসাবে জানুন তবুও স্থিত যেন বিভক্ত জীবে বিভক্ত, সকলের ধারক, ভক্ষণকারী এবং সৃষ্টিকর্তা।",
+        "ka": "ಪರಮಾತ್ಮನನ್ನು ಅವಿಭಜಿತ ಎಂದು ತಿಳಿಯಿರಿ, ಆದರೆ ಜೀವಿಗಳಲ್ಲಿ ವಿಭಜಿಸಿದಂತೆ ನಿಂತಿದೆ, ಎಲ್ಲರ ಪೋಷಕ, ಭಕ್ಷಕ ಮತ್ತು ಉತ್ಪಾದಕ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "बहिः",
-            "transliteration": "bahiḥ",
-            "meaning": "without"
+            "transliteration": {
+                "hi": "बहिः",
+                "en": "bahiḥ",
+                "be": "বহিঃ",
+                "ka": "ಬಹಿಃ"
+            },
+            "meaning": {
+                "hi": "बिना",
+                "en": "without",
+                "be": "ছাড়া",
+                "ka": "ಇಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अन्तः",
-            "transliteration": "antaḥ",
-            "meaning": "within"
+            "transliteration": {
+                "hi": "अन्तः",
+                "en": "antaḥ",
+                "be": "অন্তঃ",
+                "ka": "ಅನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "भीतर",
+                "en": "within",
+                "be": "ভিতরে",
+                "ka": "ಒಳಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूतानाम्",
-            "transliteration": "bhūtānām",
-            "meaning": "of beings"
+            "transliteration": {
+                "hi": "भूतानाम्",
+                "en": "bhūtānām",
+                "be": "ভূতানাম্",
+                "ka": "ಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "प्राणियों का",
+                "en": "of beings",
+                "be": "প্রাণীদের",
+                "ka": "ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "अचरम्",
-            "transliteration": "acaram",
-            "meaning": "the unmoving"
+            "transliteration": {
+                "hi": "अचरम्",
+                "en": "acaram",
+                "be": "অচরম্",
+                "ka": "ಅಚರಮ್"
+            },
+            "meaning": {
+                "hi": "अचल",
+                "en": "the unmoving",
+                "be": "অচল",
+                "ka": "ಚಲಿಸದ"
+            }
         },
         {
             "sanskrit": "चरम्",
-            "transliteration": "caram",
-            "meaning": "the moving"
+            "transliteration": {
+                "hi": "चरम्",
+                "en": "caram",
+                "be": "চরম্",
+                "ka": "ಚರಮ್"
+            },
+            "meaning": {
+                "hi": "चलती",
+                "en": "the moving",
+                "be": "চলন্ত",
+                "ka": "ಚಲಿಸುವ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सूक्ष्मत्वात्",
-            "transliteration": "sūkṣmatvāt",
-            "meaning": "because of Its subtlety"
+            "transliteration": {
+                "hi": "सूक्ष्मत्वात्",
+                "en": "sūkṣmatvāt",
+                "be": "সূক্ষ্মত্বাত্",
+                "ka": "ಸೂಕ್ಷ್ಮತ್ವಾತ್"
+            },
+            "meaning": {
+                "hi": "इसकी सूक्ष्मता के कारण",
+                "en": "because of Its subtlety",
+                "be": "এর সূক্ষ্মতার কারণে",
+                "ka": "ಅದರ ಸೂಕ್ಷ್ಮತೆಯಿಂದಾಗಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "That",
+                "be": "যে",
+                "ka": "ಅದು"
+            }
         },
         {
             "sanskrit": "अविज्ञेयम्",
-            "transliteration": "avijñeyam",
-            "meaning": "unknowable"
+            "transliteration": {
+                "hi": "अविज्ञेयम्",
+                "en": "avijñeyam",
+                "be": "অবিজ্ঞেযম্",
+                "ka": "ಅವಿಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "अज्ञात",
+                "en": "unknowable",
+                "be": "অজানা",
+                "ka": "ತಿಳಿಯಲಾಗದ"
+            }
         },
         {
             "sanskrit": "दूरस्थम्",
-            "transliteration": "dūrastham",
-            "meaning": "is far"
+            "transliteration": {
+                "hi": "दूरस्थम्",
+                "en": "dūrastham",
+                "be": "দূরস্থম্",
+                "ka": "ದೂರಸ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "दूर है",
+                "en": "is far",
+                "be": "দূরে",
+                "ka": "ದೂರವಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अन्तिके",
-            "transliteration": "antike",
-            "meaning": "near"
+            "transliteration": {
+                "hi": "अन्तिके",
+                "en": "antike",
+                "be": "অন্তিকে",
+                "ka": "ಅನ್ತಿಕೇ"
+            },
+            "meaning": {
+                "hi": "निकट",
+                "en": "near",
+                "be": "কাছাকাছি",
+                "ka": "ಹತ್ತಿರ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That."
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह।",
+                "en": "That.",
+                "be": "যে.",
+                "ka": "ಅದು."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "prakṛtiṃ puruṣaṃ caiva viddhyanādi ubhāvapi .\nvikārāṃśca guṇāṃścaiva viddhi prakṛtisambhavān ||13-20||",
         "ka": "ಪ್ರಕೃತಿಂ ಪುರುಷಂ ಚೈವ ವಿದ್ಧ್ಯನಾದೀ ಉಭಾವಪಿ |\nವಿಕಾರಾಂಶ್ಚ ಗುಣಾಂಶ್ಚೈವ ವಿದ್ಧಿ ಪ್ರಕೃತಿಸಮ್ಭವಾನ್ ||೧೩-೨೦||"
     },
-    "transliteration": "prakṛtiṃ puruṣaṃ caiva viddhyanādi ubhāvapi .\nvikārāṃśca guṇāṃścaiva viddhi prakṛtisambhavān ||13-20||",
-    "life_application": "Understand nature as the cause of body and senses, and spirit as the cause of experiencing pleasure and pain.",
+    "transliteration": {
+        "hi": "प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि |\nविकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ||१३-२०||",
+        "en": "prakṛtiṃ puruṣaṃ caiva viddhyanādi ubhāvapi .\nvikārāṃśca guṇāṃścaiva viddhi prakṛtisambhavān ||13-20||",
+        "be": "প্রকৃতিং পুরুষং চৈব বিদ্ধ্যনাদী উভাবপি |\nবিকারাংশ্চ গুণাংশ্চৈব বিদ্ধি প্রকৃতিসম্ভবান্ ||১৩-২০||",
+        "ka": "ಪ್ರಕೃತಿಂ ಪುರುಷಂ ಚೈವ ವಿದ್ಧ್ಯನಾದೀ ಉಭಾವಪಿ |\nವಿಕಾರಾಂಶ್ಚ ಗುಣಾಂಶ್ಚೈವ ವಿದ್ಧಿ ಪ್ರಕೃತಿಸಮ್ಭವಾನ್ ||೧೩-೨೦||"
+    },
+    "life_application": {
+        "hi": "प्रकृति को शरीर और इंद्रियों का कारण समझें, और आत्मा को सुख और दुख का अनुभव करने का कारण समझें।",
+        "en": "Understand nature as the cause of body and senses, and spirit as the cause of experiencing pleasure and pain.",
+        "be": "প্রকৃতিকে শরীর ও ইন্দ্রিয়ের কারণ এবং আত্মাকে আনন্দ ও বেদনার কারণ হিসেবে বুঝুন।",
+        "ka": "ದೇಹ ಮತ್ತು ಇಂದ್ರಿಯಗಳ ಕಾರಣ ಪ್ರಕೃತಿ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ಆನಂದ ಮತ್ತು ನೋವು ಅನುಭವಿಸಲು ಚೇತನ ಕಾರಣ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "प्रकृतिम्",
-            "transliteration": "prakṛtim",
-            "meaning": "matter"
+            "transliteration": {
+                "hi": "प्रकृतिम्",
+                "en": "prakṛtim",
+                "be": "প্রকৃতিম্",
+                "ka": "ಪ್ರಕೃತಿಮ್"
+            },
+            "meaning": {
+                "hi": "बात",
+                "en": "matter",
+                "be": "ব্যাপার",
+                "ka": "ವಿಷಯ"
+            }
         },
         {
             "sanskrit": "पुरुषम्",
-            "transliteration": "puruṣam",
-            "meaning": "spirit"
+            "transliteration": {
+                "hi": "पुरुषम्",
+                "en": "puruṣam",
+                "be": "পুরুষম্",
+                "ka": "ಪುರುಷಮ್"
+            },
+            "meaning": {
+                "hi": "आत्मा",
+                "en": "spirit",
+                "be": "আত্মা",
+                "ka": "ಆತ್ಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "अनादी",
-            "transliteration": "anādī",
-            "meaning": "beginningless"
+            "transliteration": {
+                "hi": "अनादी",
+                "en": "anādī",
+                "be": "অনাদী",
+                "ka": "ಅನಾದೀ"
+            },
+            "meaning": {
+                "hi": "अनादि",
+                "en": "beginningless",
+                "be": "শুরুহীন",
+                "ka": "ಆರಂಭವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "उभौ",
-            "transliteration": "ubhau",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभौ",
+                "en": "ubhau",
+                "be": "উভৌ",
+                "ka": "ಉಭೌ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "विकारान्",
-            "transliteration": "vikārān",
-            "meaning": "modifications"
+            "transliteration": {
+                "hi": "विकारान्",
+                "en": "vikārān",
+                "be": "বিকারান্",
+                "ka": "ವಿಕಾರಾನ್"
+            },
+            "meaning": {
+                "hi": "संशोधन",
+                "en": "modifications",
+                "be": "পরিবর্তন",
+                "ka": "ಮಾರ್ಪಾಡುಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "गुणान्",
-            "transliteration": "guṇān",
-            "meaning": "alities"
+            "transliteration": {
+                "hi": "गुणान्",
+                "en": "guṇān",
+                "be": "গুণান্",
+                "ka": "ಗುಣಾನ್"
+            },
+            "meaning": {
+                "hi": "सुविधाएँ",
+                "en": "alities",
+                "be": "alities",
+                "ka": "ಅಲಿಟಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रकृतिसंभवान्",
-            "transliteration": "prakṛtisaṃbhavān",
-            "meaning": "born of Prakriti."
+            "transliteration": {
+                "hi": "प्रकृतिसंभवान्",
+                "en": "prakṛtisaṃbhavān",
+                "be": "প্রকৃতিসংভবান্",
+                "ka": "ಪ್ರಕೃತಿಸಂಭವಾನ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति से उत्पन्न.",
+                "en": "born of Prakriti.",
+                "be": "প্রকৃতির জন্ম।",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "jyotiṣāmapi tajjyotistamasaḥ paramucyate .\njñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam ||13-18||",
         "ka": "ಜ್ಯೋತಿಷಾಮಪಿ ತಜ್ಜ್ಯೋತಿಸ್ತಮಸಃ ಪರಮುಚ್ಯತೇ |\nಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಜ್ಞಾನಗಮ್ಯಂ ಹೃದಿ ಸರ್ವಸ್ಯ ವಿಷ್ಠಿತಮ್ ||೧೩-೧೮||"
     },
-    "transliteration": "jyotiṣāmapi tajjyotistamasaḥ paramucyate .\njñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam ||13-18||",
-    "life_application": "Understand this brief outline of the field, knowledge, and knowable; God's devotee knowing this enters divine nature.",
+    "transliteration": {
+        "hi": "ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते |\nज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ||१३-१८||",
+        "en": "jyotiṣāmapi tajjyotistamasaḥ paramucyate .\njñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam ||13-18||",
+        "be": "জ্যোতিষামপি তজ্জ্যোতিস্তমসঃ পরমুচ্যতে |\nজ্ঞানং জ্ঞেযং জ্ঞানগম্যং হৃদি সর্বস্য বিষ্ঠিতম্ ||১৩-১৮||",
+        "ka": "ಜ್ಯೋತಿಷಾಮಪಿ ತಜ್ಜ್ಯೋತಿಸ್ತಮಸಃ ಪರಮುಚ್ಯತೇ |\nಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಜ್ಞಾನಗಮ್ಯಂ ಹೃದಿ ಸರ್ವಸ್ಯ ವಿಷ್ಠಿತಮ್ ||೧೩-೧೮||"
+    },
+    "life_application": {
+        "hi": "क्षेत्र, ज्ञान और जानने योग्य की इस संक्षिप्त रूपरेखा को समझें; भगवान का भक्त यह जानकर दिव्य प्रकृति में प्रवेश करता है।",
+        "en": "Understand this brief outline of the field, knowledge, and knowable; God's devotee knowing this enters divine nature.",
+        "be": "ক্ষেত্র, জ্ঞান, এবং জানার এই সংক্ষিপ্ত রূপরেখা বুঝতে; ভগবানের ভক্ত এই জেনে স্বর্গীয় প্রকৃতিতে প্রবেশ করে।",
+        "ka": "ಕ್ಷೇತ್ರ, ಜ್ಞಾನ ಮತ್ತು ತಿಳಿದಿರುವ ಈ ಸಂಕ್ಷಿಪ್ತ ರೂಪರೇಖೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ; ಇದನ್ನು ತಿಳಿದ ದೇವರ ಭಕ್ತನು ದೈವಿಕ ಸ್ವರೂಪವನ್ನು ಪ್ರವೇಶಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ज्योतिषाम्",
-            "transliteration": "jyotiṣām",
-            "meaning": "of lights"
+            "transliteration": {
+                "hi": "ज्योतिषाम्",
+                "en": "jyotiṣām",
+                "be": "জ্যোতিষাম্",
+                "ka": "ಜ್ಯೋತಿಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "रोशनी का",
+                "en": "of lights",
+                "be": "আলোর",
+                "ka": "ದೀಪಗಳ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "That",
+                "be": "যে",
+                "ka": "ಅದು"
+            }
         },
         {
             "sanskrit": "ज्योतिः",
-            "transliteration": "jyotiḥ",
-            "meaning": "Light"
+            "transliteration": {
+                "hi": "ज्योतिः",
+                "en": "jyotiḥ",
+                "be": "জ্যোতিঃ",
+                "ka": "ಜ್ಯೋತಿಃ"
+            },
+            "meaning": {
+                "hi": "रोशनी",
+                "en": "Light",
+                "be": "আলো",
+                "ka": "ಬೆಳಕು"
+            }
         },
         {
             "sanskrit": "तमसः",
-            "transliteration": "tamasaḥ",
-            "meaning": "from darkness"
+            "transliteration": {
+                "hi": "तमसः",
+                "en": "tamasaḥ",
+                "be": "তমসঃ",
+                "ka": "ತಮಸಃ"
+            },
+            "meaning": {
+                "hi": "अँधेरे से",
+                "en": "from darkness",
+                "be": "অন্ধকার থেকে",
+                "ka": "ಕತ್ತಲೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "beyond"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "परे",
+                "en": "beyond",
+                "be": "অতিক্রম",
+                "ka": "ಮೀರಿ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is said"
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is said",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "ज्ञेयम्",
-            "transliteration": "jñeyam",
-            "meaning": "that which is to"
+            "transliteration": {
+                "hi": "ज्ञेयम्",
+                "en": "jñeyam",
+                "be": "জ্ঞেযম্",
+                "ka": "ಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "वह जो करना है",
+                "en": "that which is to",
+                "be": "যা করতে হয়",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "ज्ञानगम्यम्",
-            "transliteration": "jñānagamyam",
-            "meaning": "attainable by knowledge"
+            "transliteration": {
+                "hi": "ज्ञानगम्यम्",
+                "en": "jñānagamyam",
+                "be": "জ্ঞানগম্যম্",
+                "ka": "ಜ್ಞಾನಗಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान द्वारा प्राप्य",
+                "en": "attainable by knowledge",
+                "be": "জ্ঞান দ্বারা অর্জনযোগ্য",
+                "ka": "ಜ್ಞಾನದಿಂದ ಸಾಧಿಸಬಹುದು"
+            }
         },
         {
             "sanskrit": "हृदि",
-            "transliteration": "hṛdi",
-            "meaning": "in the heart"
+            "transliteration": {
+                "hi": "हृदि",
+                "en": "hṛdi",
+                "be": "হৃদি",
+                "ka": "ಹೃದಿ"
+            },
+            "meaning": {
+                "hi": "दिल में",
+                "en": "in the heart",
+                "be": "হৃদয়ে",
+                "ka": "ಹೃದಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सर्वस्य",
-            "transliteration": "sarvasya",
-            "meaning": "of all"
+            "transliteration": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सबमें से",
+                "en": "of all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "विष्ठितम्",
-            "transliteration": "viṣṭhitam",
-            "meaning": "seated."
+            "transliteration": {
+                "hi": "विष्ठितम्",
+                "en": "viṣṭhitam",
+                "be": "বিষ্ঠিতম্",
+                "ka": "ವಿಷ್ಠಿತಮ್"
+            },
+            "meaning": {
+                "hi": "बैठा हुआ.",
+                "en": "seated.",
+                "be": "উপবিষ্ট",
+                "ka": "ಕುಳಿತಿದ್ದಾರೆ."
+            }
         }
     ],
     "tej": {

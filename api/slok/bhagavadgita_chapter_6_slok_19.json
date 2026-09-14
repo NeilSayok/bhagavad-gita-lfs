@@ -14,8 +14,18 @@
         "en": "yathā dīpo nivātastho neṅgate sopamā smṛtā .\nyogino yatacittasya yuñjato yogamātmanaḥ ||6-19||",
         "ka": "ಯಥಾ ದೀಪೋ ನಿವಾತಸ್ಥೋ ನೇಙ್ಗತೇ ಸೋಪಮಾ ಸ್ಮೃತಾ |\nಯೋಗಿನೋ ಯತಚಿತ್ತಸ್ಯ ಯುಞ್ಜತೋ ಯೋಗಮಾತ್ಮನಃ ||೬-೧೯||"
     },
-    "transliteration": "yathā dīpo nivātastho neṅgate sopamā smṛtā .\nyogino yatacittasya yuñjato yogamātmanaḥ ||6-19||",
-    "life_application": "Keep your mind steady like a candle flame in a windless place during your daily quiet contemplation.",
+    "transliteration": {
+        "hi": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता |\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||",
+        "en": "yathā dīpo nivātastho neṅgate sopamā smṛtā .\nyogino yatacittasya yuñjato yogamātmanaḥ ||6-19||",
+        "be": "যথা দীপো নিবাতস্থো নেঙ্গতে সোপমা স্মৃতা |\nযোগিনো যতচিত্তস্য যুঞ্জতো যোগমাত্মনঃ ||৬-১৯||",
+        "ka": "ಯಥಾ ದೀಪೋ ನಿವಾತಸ್ಥೋ ನೇಙ್ಗತೇ ಸೋಪಮಾ ಸ್ಮೃತಾ |\nಯೋಗಿನೋ ಯತಚಿತ್ತಸ್ಯ ಯುಞ್ಜತೋ ಯೋಗಮಾತ್ಮನಃ ||೬-೧೯||"
+    },
+    "life_application": {
+        "hi": "अपने दैनिक शांत चिंतन के दौरान अपने मन को मोमबत्ती की लौ की तरह हवा रहित स्थान पर स्थिर रखें।",
+        "en": "Keep your mind steady like a candle flame in a windless place during your daily quiet contemplation.",
+        "be": "আপনার প্রতিদিনের শান্ত চিন্তার সময় বাতাসহীন জায়গায় মোমবাতির শিখার মতো আপনার মনকে স্থির রাখুন।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಶಾಂತ ಚಿಂತನೆಯ ಸಮಯದಲ್ಲಿ ಗಾಳಿಯಿಲ್ಲದ ಸ್ಥಳದಲ್ಲಿ ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯಂತೆ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸ್ಥಿರವಾಗಿಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "दीपो",
-            "transliteration": "dīpo",
-            "meaning": "dīpo"
+            "transliteration": {
+                "hi": "दीपो",
+                "en": "dīpo",
+                "be": "দীপো",
+                "ka": "ದೀಪೋ"
+            },
+            "meaning": {
+                "hi": "डिपो",
+                "en": "dīpo",
+                "be": "ডিপো",
+                "ka": "ಡಿಪೋ"
+            }
         },
         {
             "sanskrit": "निवातस्थो",
-            "transliteration": "nivātastho",
-            "meaning": "nivātastho"
+            "transliteration": {
+                "hi": "निवातस्थो",
+                "en": "nivātastho",
+                "be": "নিবাতস্থো",
+                "ka": "ನಿವಾತಸ್ಥೋ"
+            },
+            "meaning": {
+                "hi": "निवातस्थो",
+                "en": "nivātastho",
+                "be": "নিভাতস্থো",
+                "ka": "ನಿವಾತಸ್ಥೋ"
+            }
         },
         {
             "sanskrit": "नेङ्गते",
-            "transliteration": "neṅgate",
-            "meaning": "neṅgate"
+            "transliteration": {
+                "hi": "नेङ्गते",
+                "en": "neṅgate",
+                "be": "নেঙ্গতে",
+                "ka": "ನೇಙ್ಗತೇ"
+            },
+            "meaning": {
+                "hi": "नकारात्मक",
+                "en": "neṅgate",
+                "be": "neṅgate",
+                "ka": "ನೆಂಗೇಟ್"
+            }
         },
         {
             "sanskrit": "सोपमा",
-            "transliteration": "sopamā",
-            "meaning": "sopamā"
+            "transliteration": {
+                "hi": "सोपमा",
+                "en": "sopamā",
+                "be": "সোপমা",
+                "ka": "ಸೋಪಮಾ"
+            },
+            "meaning": {
+                "hi": "सोपमा",
+                "en": "sopamā",
+                "be": "সোপামা",
+                "ka": "ಸೋಪಾಮ"
+            }
         },
         {
             "sanskrit": "स्मृता",
-            "transliteration": "smṛtā",
-            "meaning": "smṛtā"
+            "transliteration": {
+                "hi": "स्मृता",
+                "en": "smṛtā",
+                "be": "স্মৃতা",
+                "ka": "ಸ್ಮೃತಾ"
+            },
+            "meaning": {
+                "hi": "स्मृता",
+                "en": "smṛtā",
+                "be": "স্মৃতা",
+                "ka": "ಸ್ಮೃತಾ"
+            }
         },
         {
             "sanskrit": "योगिनो",
-            "transliteration": "yogino",
-            "meaning": "yogino"
+            "transliteration": {
+                "hi": "योगिनो",
+                "en": "yogino",
+                "be": "যোগিনো",
+                "ka": "ಯೋಗಿನೋ"
+            },
+            "meaning": {
+                "hi": "योगिनो",
+                "en": "yogino",
+                "be": "যোগিনো",
+                "ka": "ಯೋಗಿನೋ"
+            }
         },
         {
             "sanskrit": "यतचित्तस्य",
-            "transliteration": "yatacittasya",
-            "meaning": "yatacittasya"
+            "transliteration": {
+                "hi": "यतचित्तस्य",
+                "en": "yatacittasya",
+                "be": "যতচিত্তস্য",
+                "ka": "ಯತಚಿತ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "यताचित्तस्य",
+                "en": "yatacittasya",
+                "be": "ইয়াতচিত্তস্য",
+                "ka": "ಯತಚಿತ್ತಸ್ಯ"
+            }
         },
         {
             "sanskrit": "युञ्जतो",
-            "transliteration": "yuñjato",
-            "meaning": "yuñjato"
+            "transliteration": {
+                "hi": "युञ्जतो",
+                "en": "yuñjato",
+                "be": "যুঞ্জতো",
+                "ka": "ಯುಞ್ಜತೋ"
+            },
+            "meaning": {
+                "hi": "yuñjato",
+                "en": "yuñjato",
+                "be": "yuñjato",
+                "ka": "ಯುಂಜಟೋ"
+            }
         },
         {
             "sanskrit": "योगमात्मनः",
-            "transliteration": "yogamātmanaḥ",
-            "meaning": "yogamātmanaḥ"
+            "transliteration": {
+                "hi": "योगमात्मनः",
+                "en": "yogamātmanaḥ",
+                "be": "যোগমাত্মনঃ",
+                "ka": "ಯೋಗಮಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "योगमात्मनः",
+                "en": "yogamātmanaḥ",
+                "be": "যোগমাত্মানঃ",
+                "ka": "ಯೋಗಮಾತ್ಮನಃ"
+            }
         }
     ],
     "tej": {

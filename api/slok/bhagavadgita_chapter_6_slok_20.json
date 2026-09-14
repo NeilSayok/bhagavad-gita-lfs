@@ -14,8 +14,18 @@
         "en": "yatroparamate cittaṃ niruddhaṃ yogasevayā .\nyatra caivātmanātmānaṃ paśyannātmani tuṣyati ||6-20||",
         "ka": "ಯತ್ರೋಪರಮತೇ ಚಿತ್ತಂ ನಿರುದ್ಧಂ ಯೋಗಸೇವಯಾ |\nಯತ್ರ ಚೈವಾತ್ಮನಾತ್ಮಾನಂ ಪಶ್ಯನ್ನಾತ್ಮನಿ ತುಷ್ಯತಿ ||೬-೨೦||"
     },
-    "transliteration": "yatroparamate cittaṃ niruddhaṃ yogasevayā .\nyatra caivātmanātmānaṃ paśyannātmani tuṣyati ||6-20||",
-    "life_application": "Experience the quiet joy of a quieted mind where thought ceases and you behold your true inner self.",
+    "transliteration": {
+        "hi": "यत्रोपरमते चित्तं निरुद्धं योगसेवया |\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ||६-२०||",
+        "en": "yatroparamate cittaṃ niruddhaṃ yogasevayā .\nyatra caivātmanātmānaṃ paśyannātmani tuṣyati ||6-20||",
+        "be": "যত্রোপরমতে চিত্তং নিরুদ্ধং যোগসেবযা |\nযত্র চৈবাত্মনাত্মানং পশ্যন্নাত্মনি তুষ্যতি ||৬-২০||",
+        "ka": "ಯತ್ರೋಪರಮತೇ ಚಿತ್ತಂ ನಿರುದ್ಧಂ ಯೋಗಸೇವಯಾ |\nಯತ್ರ ಚೈವಾತ್ಮನಾತ್ಮಾನಂ ಪಶ್ಯನ್ನಾತ್ಮನಿ ತುಷ್ಯತಿ ||೬-೨೦||"
+    },
+    "life_application": {
+        "hi": "शांत मन के शांत आनंद का अनुभव करें जहां विचार समाप्त हो जाते हैं और आप अपने सच्चे आंतरिक स्व को देख पाते हैं।",
+        "en": "Experience the quiet joy of a quieted mind where thought ceases and you behold your true inner self.",
+        "be": "একটি শান্ত মনের শান্ত আনন্দের অভিজ্ঞতা নিন যেখানে চিন্তাভাবনা বন্ধ হয়ে যায় এবং আপনি আপনার প্রকৃত অভ্যন্তরীণ আত্মকে দেখতে পান।",
+        "ka": "ಆಲೋಚನೆಯು ನಿಲ್ಲುವ ಶಾಂತ ಮನಸ್ಸಿನ ಶಾಂತ ಸಂತೋಷವನ್ನು ಅನುಭವಿಸಿ ಮತ್ತು ನಿಮ್ಮ ನಿಜವಾದ ಆಂತರಿಕತೆಯನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ."
+    },
     "themes": [
         "Self-Realization",
         "Mindfulness"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "यत्रोपरमते",
-            "transliteration": "yatroparamate",
-            "meaning": "yatroparamate"
+            "transliteration": {
+                "hi": "यत्रोपरमते",
+                "en": "yatroparamate",
+                "be": "যত্রোপরমতে",
+                "ka": "ಯತ್ರೋಪರಮತೇ"
+            },
+            "meaning": {
+                "hi": "yatroparamate",
+                "en": "yatroparamate",
+                "be": "yatroparmate",
+                "ka": "ಯಾತ್ರೋಪರಮಾತೇ"
+            }
         },
         {
             "sanskrit": "चित्तं",
-            "transliteration": "cittaṃ",
-            "meaning": "cittaṃ"
+            "transliteration": {
+                "hi": "चित्तं",
+                "en": "cittaṃ",
+                "be": "চিত্তং",
+                "ka": "ಚಿತ್ತಂ"
+            },
+            "meaning": {
+                "hi": "चित्तं",
+                "en": "cittaṃ",
+                "be": "cittaṃ",
+                "ka": "ಸಿಟ್ಟಂ"
+            }
         },
         {
             "sanskrit": "निरुद्धं",
-            "transliteration": "niruddhaṃ",
-            "meaning": "niruddhaṃ"
+            "transliteration": {
+                "hi": "निरुद्धं",
+                "en": "niruddhaṃ",
+                "be": "নিরুদ্ধং",
+                "ka": "ನಿರುದ್ಧಂ"
+            },
+            "meaning": {
+                "hi": "निरुद्धम्",
+                "en": "niruddhaṃ",
+                "be": "niruddhaṃ",
+                "ka": "ನಿರುದ್ಧಂ"
+            }
         },
         {
             "sanskrit": "योगसेवया",
-            "transliteration": "yogasevayā",
-            "meaning": "yogasevayā"
+            "transliteration": {
+                "hi": "योगसेवया",
+                "en": "yogasevayā",
+                "be": "যোগসেবযা",
+                "ka": "ಯೋಗಸೇವಯಾ"
+            },
+            "meaning": {
+                "hi": "योगसेवा",
+                "en": "yogasevayā",
+                "be": "যোগসেবায়",
+                "ka": "ಯೋಗಸೇವಾಯಾ"
+            }
         },
         {
             "sanskrit": "यत्र",
-            "transliteration": "yatra",
-            "meaning": "yatra"
+            "transliteration": {
+                "hi": "यत्र",
+                "en": "yatra",
+                "be": "যত্র",
+                "ka": "ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "यात्रा",
+                "en": "yatra",
+                "be": "যাত্রা",
+                "ka": "ಯಾತ್ರೆ"
+            }
         },
         {
             "sanskrit": "चैवात्मनात्मानं",
-            "transliteration": "caivātmanātmānaṃ",
-            "meaning": "caivātmanātmānaṃ"
+            "transliteration": {
+                "hi": "चैवात्मनात्मानं",
+                "en": "caivātmanātmānaṃ",
+                "be": "চৈবাত্মনাত্মানং",
+                "ka": "ಚೈವಾತ್ಮನಾತ್ಮಾನಂ"
+            },
+            "meaning": {
+                "hi": "चैवात्मनात्मनम्",
+                "en": "caivātmanātmānaṃ",
+                "be": "caivātmanātmānaṃ",
+                "ka": "ಚೈವಾತ್ಮನಾತ್ಮನಂ"
+            }
         },
         {
             "sanskrit": "पश्यन्नात्मनि",
-            "transliteration": "paśyannātmani",
-            "meaning": "paśyannātmani"
+            "transliteration": {
+                "hi": "पश्यन्नात्मनि",
+                "en": "paśyannātmani",
+                "be": "পশ্যন্নাত্মনি",
+                "ka": "ಪಶ್ಯನ್ನಾತ್ಮನಿ"
+            },
+            "meaning": {
+                "hi": "पश्यन्नात्मणि",
+                "en": "paśyannātmani",
+                "be": "পশ্যন্নাত্মনি",
+                "ka": "ಪಶ್ಯನ್ನಾತ್ಮನಿ"
+            }
         },
         {
             "sanskrit": "तुष्यति",
-            "transliteration": "tuṣyati",
-            "meaning": "tuṣyati"
+            "transliteration": {
+                "hi": "तुष्यति",
+                "en": "tuṣyati",
+                "be": "তুষ্যতি",
+                "ka": "ತುಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "तुष्यति",
+                "en": "tuṣyati",
+                "be": "tuṣyati",
+                "ka": "ತುಷ್ಯತಿ"
+            }
         }
     ],
     "tej": {

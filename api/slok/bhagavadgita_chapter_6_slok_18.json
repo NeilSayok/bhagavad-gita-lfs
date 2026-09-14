@@ -14,8 +14,18 @@
         "en": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate .\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā ||6-18||",
         "ka": "ಯದಾ ವಿನಿಯತಂ ಚಿತ್ತಮಾತ್ಮನ್ಯೇವಾವತಿಷ್ಠತೇ |\nನಿಃಸ್ಪೃಹಃ ಸರ್ವಕಾಮೇಭ್ಯೋ ಯುಕ್ತ ಇತ್ಯುಚ್ಯತೇ ತದಾ ||೬-೧೮||"
     },
-    "transliteration": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate .\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā ||6-18||",
-    "life_application": "Rest established in self-awareness when your disciplined mind becomes free from craving for all sensory desires.",
+    "transliteration": {
+        "hi": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते |\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ||६-१८||",
+        "en": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate .\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā ||6-18||",
+        "be": "যদা বিনিযতং চিত্তমাত্মন্যেবাবতিষ্ঠতে |\nনিঃস্পৃহঃ সর্বকামেভ্যো যুক্ত ইত্যুচ্যতে তদা ||৬-১৮||",
+        "ka": "ಯದಾ ವಿನಿಯತಂ ಚಿತ್ತಮಾತ್ಮನ್ಯೇವಾವತಿಷ್ಠತೇ |\nನಿಃಸ್ಪೃಹಃ ಸರ್ವಕಾಮೇಭ್ಯೋ ಯುಕ್ತ ಇತ್ಯುಚ್ಯತೇ ತದಾ ||೬-೧೮||"
+    },
+    "life_application": {
+        "hi": "जब आपका अनुशासित मन सभी संवेदी इच्छाओं की लालसा से मुक्त हो जाए तो आत्म-जागरूकता में आराम स्थापित करें।",
+        "en": "Rest established in self-awareness when your disciplined mind becomes free from craving for all sensory desires.",
+        "be": "আত্ম-সচেতনতায় বিশ্রাম নিন যখন আপনার সুশৃঙ্খল মন সমস্ত সংবেদনশীল আকাঙ্ক্ষার লালসা থেকে মুক্ত হয়ে যায়।",
+        "ka": "ನಿಮ್ಮ ಶಿಸ್ತುಬದ್ಧ ಮನಸ್ಸು ಎಲ್ಲಾ ಸಂವೇದನಾ ಬಯಕೆಗಳಿಂದ ಮುಕ್ತವಾದಾಗ ಸ್ವಯಂ-ಅರಿವಿನಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ವಿಶ್ರಾಂತಿ."
+    },
     "themes": [
         "Mind",
         "Detachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "विनियतं",
-            "transliteration": "viniyataṃ",
-            "meaning": "viniyataṃ"
+            "transliteration": {
+                "hi": "विनियतं",
+                "en": "viniyataṃ",
+                "be": "বিনিযতং",
+                "ka": "ವಿನಿಯತಂ"
+            },
+            "meaning": {
+                "hi": "विनियतम्",
+                "en": "viniyataṃ",
+                "be": "viniyataṃ",
+                "ka": "ವಿನಿಯತಾಂ"
+            }
         },
         {
             "sanskrit": "चित्तमात्मन्येवावतिष्ठते",
-            "transliteration": "cittamātmanyevāvatiṣṭhate",
-            "meaning": "cittamātmanyevāvatiṣṭhate"
+            "transliteration": {
+                "hi": "चित्तमात्मन्येवावतिष्ठते",
+                "en": "cittamātmanyevāvatiṣṭhate",
+                "be": "চিত্তমাত্মন্যেবাবতিষ্ঠতে",
+                "ka": "ಚಿತ್ತಮಾತ್ಮನ್ಯೇವಾವತಿಷ್ಠತೇ"
+            },
+            "meaning": {
+                "hi": "चित्तमात्मन्येवतिष्ठते",
+                "en": "cittamātmanyevāvatiṣṭhate",
+                "be": "চিত্তমাত্মন্যেভাবতীষ্টহতে",
+                "ka": "ಚಿತ್ತಮಾತ್ಮನ್ಯೇವಾವತಿಷ್ಠತೇ"
+            }
         },
         {
             "sanskrit": "निःस्पृहः",
-            "transliteration": "niḥspṛhaḥ",
-            "meaning": "niḥspṛhaḥ"
+            "transliteration": {
+                "hi": "निःस्पृहः",
+                "en": "niḥspṛhaḥ",
+                "be": "নিঃস্পৃহঃ",
+                "ka": "ನಿಃಸ್ಪೃಹಃ"
+            },
+            "meaning": {
+                "hi": "निश्स्पृहाः",
+                "en": "niḥspṛhaḥ",
+                "be": "নিঃস্পৃহঃ",
+                "ka": "ನಿಃಸ್ಪೃಹಃ"
+            }
         },
         {
             "sanskrit": "सर्वकामेभ्यो",
-            "transliteration": "sarvakāmebhyo",
-            "meaning": "sarvakāmebhyo"
+            "transliteration": {
+                "hi": "सर्वकामेभ्यो",
+                "en": "sarvakāmebhyo",
+                "be": "সর্বকামেভ্যো",
+                "ka": "ಸರ್ವಕಾಮೇಭ್ಯೋ"
+            },
+            "meaning": {
+                "hi": "सर्वकामेभ्यो",
+                "en": "sarvakāmebhyo",
+                "be": "সর্বকামেভ্য",
+                "ka": "ಸರ್ವಕಾಮೇಭ್ಯೋ"
+            }
         },
         {
             "sanskrit": "युक्त",
-            "transliteration": "yukta",
-            "meaning": "yukta"
+            "transliteration": {
+                "hi": "युक्त",
+                "en": "yukta",
+                "be": "যুক্ত",
+                "ka": "ಯುಕ್ತ"
+            },
+            "meaning": {
+                "hi": "युक्ता",
+                "en": "yukta",
+                "be": "যুক্তা",
+                "ka": "ಯುಕ್ತ"
+            }
         },
         {
             "sanskrit": "इत्युच्यते",
-            "transliteration": "ityucyate",
-            "meaning": "ityucyate"
+            "transliteration": {
+                "hi": "इत्युच्यते",
+                "en": "ityucyate",
+                "be": "ইত্যুচ্যতে",
+                "ka": "ಇತ್ಯುಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "इतुच्यते",
+                "en": "ityucyate",
+                "be": "ityucyate",
+                "ka": "ಇತ್ಯುಸಿಯೇಟ್"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         }
     ],
     "tej": {

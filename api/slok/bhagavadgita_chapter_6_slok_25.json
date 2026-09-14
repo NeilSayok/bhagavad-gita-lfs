@@ -14,8 +14,18 @@
         "en": "śanaiḥ śanairuparamed buddhyā dhṛtigṛhītayā .\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet ||6-25||",
         "ka": "ಶನೈಃ ಶನೈರುಪರಮೇದ್ ಬುದ್ಧ್ಯಾ ಧೃತಿಗೃಹೀತಯಾ |\nಆತ್ಮಸಂಸ್ಥಂ ಮನಃ ಕೃತ್ವಾ ನ ಕಿಞ್ಚಿದಪಿ ಚಿನ್ತಯೇತ್ ||೬-೨೫||"
     },
-    "transliteration": "śanaiḥ śanairuparamed buddhyā dhṛtigṛhītayā .\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet ||6-25||",
-    "life_application": "Gain inner quiet step by step using a patient intellect, fixing your mind on the Self without thinking of anything else.",
+    "transliteration": {
+        "hi": "शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया |\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ||६-२५||",
+        "en": "śanaiḥ śanairuparamed buddhyā dhṛtigṛhītayā .\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet ||6-25||",
+        "be": "শনৈঃ শনৈরুপরমেদ্ বুদ্ধ্যা ধৃতিগৃহীতযা |\nআত্মসংস্থং মনঃ কৃত্বা ন কিঞ্চিদপি চিন্তযেত্ ||৬-২৫||",
+        "ka": "ಶನೈಃ ಶನೈರುಪರಮೇದ್ ಬುದ್ಧ್ಯಾ ಧೃತಿಗೃಹೀತಯಾ |\nಆತ್ಮಸಂಸ್ಥಂ ಮನಃ ಕೃತ್ವಾ ನ ಕಿಞ್ಚಿದಪಿ ಚಿನ್ತಯೇತ್ ||೬-೨೫||"
+    },
+    "life_application": {
+        "hi": "धैर्यवान बुद्धि का उपयोग करते हुए, बिना किसी और चीज के बारे में सोचे अपने मन को स्वयं पर केंद्रित करते हुए, धीरे-धीरे आंतरिक शांति प्राप्त करें।",
+        "en": "Gain inner quiet step by step using a patient intellect, fixing your mind on the Self without thinking of anything else.",
+        "be": "ধৈর্যশীল বুদ্ধি ব্যবহার করে ধাপে ধাপে অভ্যন্তরীণ শান্ত অর্জন করুন, অন্য কিছু না ভেবে নিজের উপর আপনার মন স্থির করুন।",
+        "ka": "ತಾಳ್ಮೆಯ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಹಂತ ಹಂತವಾಗಿ ಆಂತರಿಕ ಸ್ತಬ್ಧತೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ, ಬೇರೇನನ್ನೂ ಯೋಚಿಸದೆ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಆತ್ಮದ ಮೇಲೆ ಇರಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "शनैः",
-            "transliteration": "śanaiḥ",
-            "meaning": "śanaiḥ"
+            "transliteration": {
+                "hi": "शनैः",
+                "en": "śanaiḥ",
+                "be": "শনৈঃ",
+                "ka": "ಶನೈಃ"
+            },
+            "meaning": {
+                "hi": "शनैः",
+                "en": "śanaiḥ",
+                "be": "শনাইঃ",
+                "ka": "ಶನೈಃ"
+            }
         },
         {
             "sanskrit": "शनैरुपरमेद्",
-            "transliteration": "śanairuparamed",
-            "meaning": "śanairuparamed"
+            "transliteration": {
+                "hi": "शनैरुपरमेद्",
+                "en": "śanairuparamed",
+                "be": "শনৈরুপরমেদ্",
+                "ka": "ಶನೈರುಪರಮೇದ್"
+            },
+            "meaning": {
+                "hi": "शनैरुपरमेड",
+                "en": "śanairuparamed",
+                "be": "শনাইরুপম",
+                "ka": "ಶನೈರುಪರಾಮೇದ್"
+            }
         },
         {
             "sanskrit": "बुद्ध्या",
-            "transliteration": "buddhyā",
-            "meaning": "by intellect"
+            "transliteration": {
+                "hi": "बुद्ध्या",
+                "en": "buddhyā",
+                "be": "বুদ্ধ্যা",
+                "ka": "ಬುದ್ಧ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि से",
+                "en": "by intellect",
+                "be": "বুদ্ধি দ্বারা",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "धृतिगृहीतया",
-            "transliteration": "dhṛtigṛhītayā",
-            "meaning": "dhṛtigṛhītayā"
+            "transliteration": {
+                "hi": "धृतिगृहीतया",
+                "en": "dhṛtigṛhītayā",
+                "be": "ধৃতিগৃহীতযা",
+                "ka": "ಧೃತಿಗೃಹೀತಯಾ"
+            },
+            "meaning": {
+                "hi": "धृतिगृहितया",
+                "en": "dhṛtigṛhītayā",
+                "be": "ধৃতিঘৃতায়া",
+                "ka": "ಧೃತಿಗೃತಾಯ"
+            }
         },
         {
             "sanskrit": "आत्मसंस्थं",
-            "transliteration": "ātmasaṃsthaṃ",
-            "meaning": "ātmasaṃsthaṃ"
+            "transliteration": {
+                "hi": "आत्मसंस्थं",
+                "en": "ātmasaṃsthaṃ",
+                "be": "আত্মসংস্থং",
+                "ka": "ಆತ್ಮಸಂಸ್ಥಂ"
+            },
+            "meaning": {
+                "hi": "आत्मसंस्थम्",
+                "en": "ātmasaṃsthaṃ",
+                "be": "আত্মসংস্থা",
+                "ka": "ಆತ್ಮಸಂಸ್ಥಾನ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "कृत्वा",
-            "transliteration": "kṛtvā",
-            "meaning": "kṛtvā"
+            "transliteration": {
+                "hi": "कृत्वा",
+                "en": "kṛtvā",
+                "be": "কৃত্বা",
+                "ka": "ಕೃತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "कृत्वा",
+                "en": "kṛtvā",
+                "be": "kṛtvā",
+                "ka": "ಕೃತ್ವಾ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "किञ्चिदपि",
-            "transliteration": "kiñcidapi",
-            "meaning": "kiñcidapi"
+            "transliteration": {
+                "hi": "किञ्चिदपि",
+                "en": "kiñcidapi",
+                "be": "কিঞ্চিদপি",
+                "ka": "ಕಿಞ್ಚಿದಪಿ"
+            },
+            "meaning": {
+                "hi": "किन्सिडैपी",
+                "en": "kiñcidapi",
+                "be": "kiñcidapi",
+                "ka": "ಕಿಂಚಿದಪಿ"
+            }
         },
         {
             "sanskrit": "चिन्तयेत्",
-            "transliteration": "cintayet",
-            "meaning": "cintayet"
+            "transliteration": {
+                "hi": "चिन्तयेत्",
+                "en": "cintayet",
+                "be": "চিন্তযেত্",
+                "ka": "ಚಿನ್ತಯೇತ್"
+            },
+            "meaning": {
+                "hi": "cintayet",
+                "en": "cintayet",
+                "be": "cintayet",
+                "ka": "ಸಿಂಟಾಯೆಟ್"
+            }
         }
     ],
     "tej": {

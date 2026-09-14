@@ -14,8 +14,18 @@
         "en": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ .\nyasminsthito na duḥkhena guruṇāpi vicālyate ||6-22||",
         "ka": "ಯಂ ಲಬ್ಧ್ವಾ ಚಾಪರಂ ಲಾಭಂ ಮನ್ಯತೇ ನಾಧಿಕಂ ತತಃ |\nಯಸ್ಮಿನ್ಸ್ಥಿತೋ ನ ದುಃಖೇನ ಗುರುಣಾಪಿ ವಿಚಾಲ್ಯತೇ ||೬-೨೨||"
     },
-    "transliteration": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ .\nyasminsthito na duḥkhena guruṇāpi vicālyate ||6-22||",
-    "life_application": "Grasp that spiritual fulfillment is the greatest treasure, which no heavy sorrow or trial can ever disturb.",
+    "transliteration": {
+        "hi": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः |\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ||६-२२||",
+        "en": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ .\nyasminsthito na duḥkhena guruṇāpi vicālyate ||6-22||",
+        "be": "যং লব্ধ্বা চাপরং লাভং মন্যতে নাধিকং ততঃ |\nযস্মিন্স্থিতো ন দুঃখেন গুরুণাপি বিচাল্যতে ||৬-২২||",
+        "ka": "ಯಂ ಲಬ್ಧ್ವಾ ಚಾಪರಂ ಲಾಭಂ ಮನ್ಯತೇ ನಾಧಿಕಂ ತತಃ |\nಯಸ್ಮಿನ್ಸ್ಥಿತೋ ನ ದುಃಖೇನ ಗುರುಣಾಪಿ ವಿಚಾಲ್ಯತೇ ||೬-೨೨||"
+    },
+    "life_application": {
+        "hi": "समझें कि आध्यात्मिक संतुष्टि सबसे बड़ा खजाना है, जिसे कोई भी भारी दुःख या परीक्षण कभी परेशान नहीं कर सकता।",
+        "en": "Grasp that spiritual fulfillment is the greatest treasure, which no heavy sorrow or trial can ever disturb.",
+        "be": "উপলব্ধি করুন যে আধ্যাত্মিক পরিপূর্ণতা হল সর্বশ্রেষ্ঠ ধন, যা কোন ভারী দুঃখ বা পরীক্ষা কখনও বিরক্ত করতে পারে না।",
+        "ka": "ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಯು ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂಪತ್ತು ಎಂದು ಗ್ರಹಿಸಿ, ಯಾವುದೇ ಭಾರೀ ದುಃಖ ಅಥವಾ ಪ್ರಯೋಗವು ಎಂದಿಗೂ ತೊಂದರೆಗೊಳಗಾಗುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Self-Realization",
         "Fear"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यं",
-            "transliteration": "yaṃ",
-            "meaning": "yaṃ"
+            "transliteration": {
+                "hi": "यं",
+                "en": "yaṃ",
+                "be": "যং",
+                "ka": "ಯಂ"
+            },
+            "meaning": {
+                "hi": "हाँ",
+                "en": "yaṃ",
+                "be": "yaṃ",
+                "ka": "ಯಾಂ"
+            }
         },
         {
             "sanskrit": "लब्ध्वा",
-            "transliteration": "labdhvā",
-            "meaning": "labdhvā"
+            "transliteration": {
+                "hi": "लब्ध्वा",
+                "en": "labdhvā",
+                "be": "লব্ধ্বা",
+                "ka": "ಲಬ್ಧ್ವಾ"
+            },
+            "meaning": {
+                "hi": "लब्धवा",
+                "en": "labdhvā",
+                "be": "labdhvā",
+                "ka": "ಲಬ್ಧ್ವಾ"
+            }
         },
         {
             "sanskrit": "चापरं",
-            "transliteration": "cāparaṃ",
-            "meaning": "cāparaṃ"
+            "transliteration": {
+                "hi": "चापरं",
+                "en": "cāparaṃ",
+                "be": "চাপরং",
+                "ka": "ಚಾಪರಂ"
+            },
+            "meaning": {
+                "hi": "कपाराँ",
+                "en": "cāparaṃ",
+                "be": "ক্যাপার",
+                "ka": "ಕ್ಯಾಪರಾಂ"
+            }
         },
         {
             "sanskrit": "लाभं",
-            "transliteration": "lābhaṃ",
-            "meaning": "lābhaṃ"
+            "transliteration": {
+                "hi": "लाभं",
+                "en": "lābhaṃ",
+                "be": "লাভং",
+                "ka": "ಲಾಭಂ"
+            },
+            "meaning": {
+                "hi": "लाभम्",
+                "en": "lābhaṃ",
+                "be": "lābhaṃ",
+                "ka": "ಲಾಭ"
+            }
         },
         {
             "sanskrit": "मन्यते",
-            "transliteration": "manyate",
-            "meaning": "manyate"
+            "transliteration": {
+                "hi": "मन्यते",
+                "en": "manyate",
+                "be": "মন্যতে",
+                "ka": "ಮನ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "मन्यते",
+                "en": "manyate",
+                "be": "অনেক",
+                "ka": "ಅನೇಕತೆ"
+            }
         },
         {
             "sanskrit": "नाधिकं",
-            "transliteration": "nādhikaṃ",
-            "meaning": "nādhikaṃ"
+            "transliteration": {
+                "hi": "नाधिकं",
+                "en": "nādhikaṃ",
+                "be": "নাধিকং",
+                "ka": "ನಾಧಿಕಂ"
+            },
+            "meaning": {
+                "hi": "नाधिकं",
+                "en": "nādhikaṃ",
+                "be": "nadhikaṃ",
+                "ka": "nādhikaṃ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "यस्मिन्स्थितो",
-            "transliteration": "yasminsthito",
-            "meaning": "yasminsthito"
+            "transliteration": {
+                "hi": "यस्मिन्स्थितो",
+                "en": "yasminsthito",
+                "be": "যস্মিন্স্থিতো",
+                "ka": "ಯಸ್ಮಿನ್ಸ್ಥಿತೋ"
+            },
+            "meaning": {
+                "hi": "yasminsthito",
+                "en": "yasminsthito",
+                "be": "ইয়াসমিনস্থিতো",
+                "ka": "ಯಾಸ್ಮಿಂಸ್ಥಿತೋ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "दुःखेन",
-            "transliteration": "duḥkhena",
-            "meaning": "duḥkhena"
+            "transliteration": {
+                "hi": "दुःखेन",
+                "en": "duḥkhena",
+                "be": "দুঃখেন",
+                "ka": "ದುಃಖೇನ"
+            },
+            "meaning": {
+                "hi": "दुखेना",
+                "en": "duḥkhena",
+                "be": "দুখেনা",
+                "ka": "ದುಃಖೇನಾ"
+            }
         },
         {
             "sanskrit": "गुरुणापि",
-            "transliteration": "guruṇāpi",
-            "meaning": "guruṇāpi"
+            "transliteration": {
+                "hi": "गुरुणापि",
+                "en": "guruṇāpi",
+                "be": "গুরুণাপি",
+                "ka": "ಗುರುಣಾಪಿ"
+            },
+            "meaning": {
+                "hi": "गुरुनापि",
+                "en": "guruṇāpi",
+                "be": "গুরুনাপি",
+                "ka": "ಗುರುಣಾಪಿ"
+            }
         },
         {
             "sanskrit": "विचाल्यते",
-            "transliteration": "vicālyate",
-            "meaning": "vicālyate"
+            "transliteration": {
+                "hi": "विचाल्यते",
+                "en": "vicālyate",
+                "be": "বিচাল্যতে",
+                "ka": "ವಿಚಾಲ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "विकाल्यते",
+                "en": "vicālyate",
+                "be": "vacālyate",
+                "ka": "vicālyate"
+            }
         }
     ],
     "tej": {

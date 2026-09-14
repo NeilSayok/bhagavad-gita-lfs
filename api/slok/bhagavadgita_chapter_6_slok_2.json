@@ -14,8 +14,18 @@
         "en": "yaṃ saṃnyāsamiti prāhuryogaṃ taṃ viddhi pāṇḍava .\nna hyasaṃnyastasaṅkalpo yogī bhavati kaścana ||6-2||",
         "ka": "ಯಂ ಸಂನ್ಯಾಸಮಿತಿ ಪ್ರಾಹುರ್ಯೋಗಂ ತಂ ವಿದ್ಧಿ ಪಾಣ್ಡವ |\nನ ಹ್ಯಸಂನ್ಯಸ್ತಸಙ್ಕಲ್ಪೋ ಯೋಗೀ ಭವತಿ ಕಶ್ಚನ ||೬-೨||"
     },
-    "transliteration": "yaṃ saṃnyāsamiti prāhuryogaṃ taṃ viddhi pāṇḍava .\nna hyasaṃnyastasaṅkalpo yogī bhavati kaścana ||6-2||",
-    "life_application": "Understand that true spiritual practice requires giving up selfish planning and obsessive personal motives.",
+    "transliteration": {
+        "hi": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव |\nन ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ||६-२||",
+        "en": "yaṃ saṃnyāsamiti prāhuryogaṃ taṃ viddhi pāṇḍava .\nna hyasaṃnyastasaṅkalpo yogī bhavati kaścana ||6-2||",
+        "be": "যং সংন্যাসমিতি প্রাহুর্যোগং তং বিদ্ধি পাণ্ডব |\nন হ্যসংন্যস্তসঙ্কল্পো যোগী ভবতি কশ্চন ||৬-২||",
+        "ka": "ಯಂ ಸಂನ್ಯಾಸಮಿತಿ ಪ್ರಾಹುರ್ಯೋಗಂ ತಂ ವಿದ್ಧಿ ಪಾಣ್ಡವ |\nನ ಹ್ಯಸಂನ್ಯಸ್ತಸಙ್ಕಲ್ಪೋ ಯೋಗೀ ಭವತಿ ಕಶ್ಚನ ||೬-೨||"
+    },
+    "life_application": {
+        "hi": "समझें कि सच्चे आध्यात्मिक अभ्यास के लिए स्वार्थी योजना और जुनूनी व्यक्तिगत उद्देश्यों को छोड़ना आवश्यक है।",
+        "en": "Understand that true spiritual practice requires giving up selfish planning and obsessive personal motives.",
+        "be": "বুঝুন যে সত্যিকারের আধ্যাত্মিক অনুশীলনের জন্য স্বার্থপর পরিকল্পনা এবং আবেশী ব্যক্তিগত উদ্দেশ্য ত্যাগ করা প্রয়োজন।",
+        "ka": "ನಿಜವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸವು ಸ್ವಾರ್ಥಿ ಯೋಜನೆ ಮತ್ತು ಗೀಳಿನ ವೈಯಕ್ತಿಕ ಉದ್ದೇಶಗಳನ್ನು ತ್ಯಜಿಸುವ ಅಗತ್ಯವಿದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Detachment",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यं",
-            "transliteration": "yaṃ",
-            "meaning": "yaṃ"
+            "transliteration": {
+                "hi": "यं",
+                "en": "yaṃ",
+                "be": "যং",
+                "ka": "ಯಂ"
+            },
+            "meaning": {
+                "hi": "हाँ",
+                "en": "yaṃ",
+                "be": "yaṃ",
+                "ka": "ಯಾಂ"
+            }
         },
         {
             "sanskrit": "संन्यासमिति",
-            "transliteration": "saṃnyāsamiti",
-            "meaning": "saṃnyāsamiti"
+            "transliteration": {
+                "hi": "संन्यासमिति",
+                "en": "saṃnyāsamiti",
+                "be": "সংন্যাসমিতি",
+                "ka": "ಸಂನ್ಯಾಸಮಿತಿ"
+            },
+            "meaning": {
+                "hi": "संन्याससमिति",
+                "en": "saṃnyāsamiti",
+                "be": "সন্ন্যাসসমিতি",
+                "ka": "ಸಂನ್ಯಾಸಮಿತಿ"
+            }
         },
         {
             "sanskrit": "प्राहुर्योगं",
-            "transliteration": "prāhuryogaṃ",
-            "meaning": "prāhuryogaṃ"
+            "transliteration": {
+                "hi": "प्राहुर्योगं",
+                "en": "prāhuryogaṃ",
+                "be": "প্রাহুর্যোগং",
+                "ka": "ಪ್ರಾಹುರ್ಯೋಗಂ"
+            },
+            "meaning": {
+                "hi": "प्राहुर्योगम्",
+                "en": "prāhuryogaṃ",
+                "be": "প্রাহুরযোগ",
+                "ka": "prāhuryogaṃ"
+            }
         },
         {
             "sanskrit": "तं",
-            "transliteration": "taṃ",
-            "meaning": "taṃ"
+            "transliteration": {
+                "hi": "तं",
+                "en": "taṃ",
+                "be": "তং",
+                "ka": "ತಂ"
+            },
+            "meaning": {
+                "hi": "टैं",
+                "en": "taṃ",
+                "be": "taṃ",
+                "ka": "taṃ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "viddhi"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "पाण्डव",
-            "transliteration": "pāṇḍava",
-            "meaning": "pāṇḍava"
+            "transliteration": {
+                "hi": "पाण्डव",
+                "en": "pāṇḍava",
+                "be": "পাণ্ডব",
+                "ka": "ಪಾಣ್ಡವ"
+            },
+            "meaning": {
+                "hi": "पांडव",
+                "en": "pāṇḍava",
+                "be": "পাণ্ডব",
+                "ka": "ಪಾಂಡವ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "ह्यसंन्यस्तसङ्कल्पो",
-            "transliteration": "hyasaṃnyastasaṅkalpo",
-            "meaning": "hyasaṃnyastasaṅkalpo"
+            "transliteration": {
+                "hi": "ह्यसंन्यस्तसङ्कल्पो",
+                "en": "hyasaṃnyastasaṅkalpo",
+                "be": "হ্যসংন্যস্তসঙ্কল্পো",
+                "ka": "ಹ್ಯಸಂನ್ಯಸ್ತಸಙ್ಕಲ್ಪೋ"
+            },
+            "meaning": {
+                "hi": "ह्यसंन्यास्तसंकल्पो",
+                "en": "hyasaṃnyastasaṅkalpo",
+                "be": "হ্যস্যসংন্যস্তসংকল্প",
+                "ka": "ಹ್ಯಸನ್ಯಸ್ತಸಂಕಲ್ಪೋ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "bhavati"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            }
         },
         {
             "sanskrit": "कश्चन",
-            "transliteration": "kaścana",
-            "meaning": "kaścana"
+            "transliteration": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কশ্চন",
+                "ka": "ಕಶ್ಚನ"
+            },
+            "meaning": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কাশ্কান",
+                "ka": "ಕಶ್ಚನ"
+            }
         }
     ],
     "tej": {

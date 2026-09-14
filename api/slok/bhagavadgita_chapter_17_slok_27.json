@@ -14,8 +14,18 @@
         "en": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
         "ka": "ಯಜ್ಞೇ ತಪಸಿ ದಾನೇ ಚ ಸ್ಥಿತಿಃ ಸದಿತಿ ಚೋಚ್ಯತೇ |\nಕರ್ಮ ಚೈವ ತದರ್ಥೀಯಂ ಸದಿತ್ಯೇವಾಭಿಧೀಯತೇ ||೧೭-೨೭||"
     },
-    "transliteration": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
-    "life_application": "Steadfastness in sacrifice, austerity, gift is called 'Sat'; action for sake of That is also called 'Sat'.",
+    "transliteration": {
+        "hi": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते |\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||",
+        "en": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
+        "be": "যজ্ঞে তপসি দানে চ স্থিতিঃ সদিতি চোচ্যতে |\nকর্ম চৈব তদর্থীযং সদিত্যেবাভিধীযতে ||১৭-২৭||",
+        "ka": "ಯಜ್ಞೇ ತಪಸಿ ದಾನೇ ಚ ಸ್ಥಿತಿಃ ಸದಿತಿ ಚೋಚ್ಯತೇ |\nಕರ್ಮ ಚೈವ ತದರ್ಥೀಯಂ ಸದಿತ್ಯೇವಾಭಿಧೀಯತೇ ||೧೭-೨೭||"
+    },
+    "life_application": {
+        "hi": "त्याग, तपस्या, दान में दृढ़ता को 'सत्' कहा जाता है; उसके लिए की जाने वाली क्रिया को 'सत्' भी कहा जाता है।",
+        "en": "Steadfastness in sacrifice, austerity, gift is called 'Sat'; action for sake of That is also called 'Sat'.",
+        "be": "ত্যাগ, তপস্যা, দানে অবিচলতাকে 'শনি' বলে; এর জন্য কর্মকে 'শনি'ও বলা হয়।",
+        "ka": "ತ್ಯಾಗ, ತಪಸ್ಸು, ದಾನಗಳಲ್ಲಿ ದೃಢತೆಯನ್ನು ‘ಸತ್’ ಎನ್ನುತ್ತಾರೆ; ಅದಕ್ಕಾಗಿ ಮಾಡುವ ಕ್ರಿಯೆಯನ್ನು 'ಸತ್' ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+    },
     "themes": [
         "Duty",
         "Dharma"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "यज्ञे",
-            "transliteration": "yajñe",
-            "meaning": "in sacrifice"
+            "transliteration": {
+                "hi": "यज्ञे",
+                "en": "yajñe",
+                "be": "যজ্ঞে",
+                "ka": "ಯಜ್ಞೇ"
+            },
+            "meaning": {
+                "hi": "बलिदान में",
+                "en": "in sacrifice",
+                "be": "বলিদানে",
+                "ka": "ತ್ಯಾಗದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तपसि",
-            "transliteration": "tapasi",
-            "meaning": "in austerity"
+            "transliteration": {
+                "hi": "तपसि",
+                "en": "tapasi",
+                "be": "তপসি",
+                "ka": "ತಪಸಿ"
+            },
+            "meaning": {
+                "hi": "तपस्या में",
+                "en": "in austerity",
+                "be": "কঠোরতার মধ্যে",
+                "ka": "ಸಂಯಮದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "दाने",
-            "transliteration": "dāne",
-            "meaning": "in gift"
+            "transliteration": {
+                "hi": "दाने",
+                "en": "dāne",
+                "be": "দানে",
+                "ka": "ದಾನೇ"
+            },
+            "meaning": {
+                "hi": "उपहार में",
+                "en": "in gift",
+                "be": "উপহারে",
+                "ka": "ಉಡುಗೊರೆಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "स्थितिः",
-            "transliteration": "sthitiḥ",
-            "meaning": "steadiness"
+            "transliteration": {
+                "hi": "स्थितिः",
+                "en": "sthitiḥ",
+                "be": "স্থিতিঃ",
+                "ka": "ಸ್ಥಿತಿಃ"
+            },
+            "meaning": {
+                "hi": "स्थिरता",
+                "en": "steadiness",
+                "be": "স্থিরতা",
+                "ka": "ಸ್ಥಿರತೆ"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "Sat"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "शनि",
+                "en": "Sat",
+                "be": "শনি",
+                "ka": "ಶನಿ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called"
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is called",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तदर्थीयम्",
-            "transliteration": "tadarthīyam",
-            "meaning": "in connection with these"
+            "transliteration": {
+                "hi": "तदर्थीयम्",
+                "en": "tadarthīyam",
+                "be": "তদর্থীযম্",
+                "ka": "ತದರ್ಥೀಯಮ್"
+            },
+            "meaning": {
+                "hi": "इनके संबंध में",
+                "en": "in connection with these",
+                "be": "এগুলোর সাথে সম্পর্কিত",
+                "ka": "ಇವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "Sat"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "शनि",
+                "en": "Sat",
+                "be": "শনি",
+                "ka": "ಶನಿ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अभिधीयते",
-            "transliteration": "abhidhīyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "अभिधीयते",
+                "en": "abhidhīyate",
+                "be": "অভিধীযতে",
+                "ka": "ಅಭಿಧೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

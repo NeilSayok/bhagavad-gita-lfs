@@ -14,8 +14,18 @@
         "en": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
         "ka": "ಅಶ್ರದ್ಧಯಾ ಹುತಂ ದತ್ತಂ ತಪಸ್ತಪ್ತಂ ಕೃತಂ ಚ ಯತ್ |\nಅಸದಿತ್ಯುಚ್ಯತೇ ಪಾರ್ಥ ನ ಚ ತತ್ಪ್ರೇತ್ಯ ನೋ ಇಹ ||೧೭-೨೮||"
     },
-    "transliteration": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
-    "life_application": "Whatever is offered, given, or done without faith is called 'Asat'; it is of no value here or hereafter.",
+    "transliteration": {
+        "hi": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||",
+        "en": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
+        "be": "অশ্রদ্ধযা হুতং দত্তং তপস্তপ্তং কৃতং চ যত্ |\nঅসদিত্যুচ্যতে পার্থ ন চ তত্প্রেত্য নো ইহ ||১৭-২৮||",
+        "ka": "ಅಶ್ರದ್ಧಯಾ ಹುತಂ ದತ್ತಂ ತಪಸ್ತಪ್ತಂ ಕೃತಂ ಚ ಯತ್ |\nಅಸದಿತ್ಯುಚ್ಯತೇ ಪಾರ್ಥ ನ ಚ ತತ್ಪ್ರೇತ್ಯ ನೋ ಇಹ ||೧೭-೨೮||"
+    },
+    "life_application": {
+        "hi": "Whatever is offered, given, or done without faith is called 'Asat'; इसका यहां या इसके बाद कोई मूल्य नहीं है।",
+        "en": "Whatever is offered, given, or done without faith is called 'Asat'; it is of no value here or hereafter.",
+        "be": "বিশ্বাস ছাড়া যা কিছু দেওয়া, দেওয়া বা করা হয় তাকে 'আসত' বলে; এখানে বা পরকালে এর কোনো মূল্য নেই।",
+        "ka": "ನಂಬಿಕೆಯಿಲ್ಲದೆ ಏನನ್ನು ಅರ್ಪಿಸಿದರೂ, ಕೊಟ್ಟರೂ ಅಥವಾ ಮಾಡಿದರೂ ಅದನ್ನು 'ಅಸತ್' ಎನ್ನುತ್ತಾರೆ; ಇದು ಇಲ್ಲಿ ಅಥವಾ ಮುಂದೆ ಯಾವುದೇ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿಲ್ಲ."
+    },
     "themes": [
         "Devotion",
         "Karma"
@@ -23,93 +33,273 @@
     "word_meanings": [
         {
             "sanskrit": "अश्रद्धया",
-            "transliteration": "aśraddhayā",
-            "meaning": "without faith"
+            "transliteration": {
+                "hi": "अश्रद्धया",
+                "en": "aśraddhayā",
+                "be": "অশ্রদ্ধযা",
+                "ka": "ಅಶ್ರದ್ಧಯಾ"
+            },
+            "meaning": {
+                "hi": "बिना विश्वास के",
+                "en": "without faith",
+                "be": "বিশ্বাস ছাড়া",
+                "ka": "ನಂಬಿಕೆ ಇಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "हुतम्",
-            "transliteration": "hutam",
-            "meaning": "is sacrificed"
+            "transliteration": {
+                "hi": "हुतम्",
+                "en": "hutam",
+                "be": "হুতম্",
+                "ka": "ಹುತಮ್"
+            },
+            "meaning": {
+                "hi": "बलि दी जाती है",
+                "en": "is sacrificed",
+                "be": "বলি দেওয়া হয়",
+                "ka": "ಬಲಿಯಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "दत्तम्",
-            "transliteration": "dattam",
-            "meaning": "given"
+            "transliteration": {
+                "hi": "दत्तम्",
+                "en": "dattam",
+                "be": "দত্তম্",
+                "ka": "ದತ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "दिया गया",
+                "en": "given",
+                "be": "দেওয়া",
+                "ka": "ನೀಡಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "तप्तम्",
-            "transliteration": "taptam",
-            "meaning": "is practised"
+            "transliteration": {
+                "hi": "तप्तम्",
+                "en": "taptam",
+                "be": "তপ্তম্",
+                "ka": "ತಪ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अभ्यास किया जाता है",
+                "en": "is practised",
+                "be": "অনুশীলন করা হয়",
+                "ka": "ಅಭ್ಯಾಸ ಮಾಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "कृतम्",
-            "transliteration": "kṛtam",
-            "meaning": "performed"
+            "transliteration": {
+                "hi": "कृतम्",
+                "en": "kṛtam",
+                "be": "কৃতম্",
+                "ka": "ಕೃತಮ್"
+            },
+            "meaning": {
+                "hi": "प्रदर्शन किया",
+                "en": "performed",
+                "be": "সঞ্চালিত",
+                "ka": "ನಿರ್ವಹಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "whatever"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो भी हो",
+                "en": "whatever",
+                "be": "যাই হোক",
+                "ka": "ಏನೇ ಇರಲಿ"
+            }
         },
         {
             "sanskrit": "असत्",
-            "transliteration": "asat",
-            "meaning": "Asat"
+            "transliteration": {
+                "hi": "असत्",
+                "en": "asat",
+                "be": "অসত্",
+                "ka": "ಅಸತ್"
+            },
+            "meaning": {
+                "hi": "असत",
+                "en": "Asat",
+                "be": "আসাত",
+                "ka": "ಅಸತ್"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called"
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is called",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "प्रेत्य",
-            "transliteration": "pretya",
-            "meaning": "hereafter"
+            "transliteration": {
+                "hi": "प्रेत्य",
+                "en": "pretya",
+                "be": "প্রেত্য",
+                "ka": "ಪ್ರೇತ್ಯ"
+            },
+            "meaning": {
+                "hi": "इसके बाद",
+                "en": "hereafter",
+                "be": "অতঃপর",
+                "ka": "ಮುಂದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here."
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ।",
+                "en": "here.",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ."
+            }
         }
     ],
     "tej": {

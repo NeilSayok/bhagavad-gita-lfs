@@ -14,8 +14,18 @@
         "en": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
         "ka": "ಸತ್ತ್ವಾನುರೂಪಾ ಸರ್ವಸ್ಯ ಶ್ರದ್ಧಾ ಭವತಿ ಭಾರತ |\nಶ್ರದ್ಧಾಮಯೋಽಯಂ ಪುರುಷೋ ಯೋ ಯಚ್ಛ್ರದ್ಧಃ ಸ ಏವ ಸಃ ||೧೭-೩||"
     },
-    "transliteration": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
-    "life_application": "Faith of each accords with his nature; a person consists of his faith; whatever his faith is, that indeed he is.",
+    "transliteration": {
+        "hi": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत |\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ||१७-३||",
+        "en": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
+        "be": "সত্ত্বানুরূপা সর্বস্য শ্রদ্ধা ভবতি ভারত |\nশ্রদ্ধামযোঽযং পুরুষো যো যচ্ছ্রদ্ধঃ স এব সঃ ||১৭-৩||",
+        "ka": "ಸತ್ತ್ವಾನುರೂಪಾ ಸರ್ವಸ್ಯ ಶ್ರದ್ಧಾ ಭವತಿ ಭಾರತ |\nಶ್ರದ್ಧಾಮಯೋಽಯಂ ಪುರುಷೋ ಯೋ ಯಚ್ಛ್ರದ್ಧಃ ಸ ಏವ ಸಃ ||೧೭-೩||"
+    },
+    "life_application": {
+        "hi": "प्रत्येक का विश्वास उसके स्वभाव के अनुरूप है; एक व्यक्ति अपने विश्वास से बनता है; उसका विश्वास जो भी हो, वह वास्तव में वही है।",
+        "en": "Faith of each accords with his nature; a person consists of his faith; whatever his faith is, that indeed he is.",
+        "be": "প্রত্যেকের বিশ্বাস তার প্রকৃতির সাথে মিলিত হয়; একজন ব্যক্তি তার বিশ্বাস নিয়ে গঠিত; তার বিশ্বাস যাই হোক না কেন, প্রকৃতপক্ষে সে সেই।",
+        "ka": "ಪ್ರತಿಯೊಬ್ಬರ ನಂಬಿಕೆಯು ಅವನ ಸ್ವಭಾವಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತದೆ; ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ತನ್ನ ನಂಬಿಕೆಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ; ಅವನ ನಂಬಿಕೆ ಏನೇ ಇರಲಿ, ಅವನು ನಿಜವಾಗಿಯೂ ಇದ್ದಾನೆ."
+    },
     "themes": [
         "Mindfulness",
         "Purpose"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "सत्त्वानुरूपा",
-            "transliteration": "sattvānurūpā",
-            "meaning": "in accordance with his"
+            "transliteration": {
+                "hi": "सत्त्वानुरूपा",
+                "en": "sattvānurūpā",
+                "be": "সত্ত্বানুরূপা",
+                "ka": "ಸತ್ತ್ವಾನುರೂಪಾ"
+            },
+            "meaning": {
+                "hi": "उसके अनुरूप",
+                "en": "in accordance with his",
+                "be": "তার অনুযায়ী",
+                "ka": "ಅವನ ಪ್ರಕಾರ"
+            }
         },
         {
             "sanskrit": "सर्वस्य",
-            "transliteration": "sarvasya",
-            "meaning": "of each"
+            "transliteration": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्रत्येक का",
+                "en": "of each",
+                "be": "প্রতিটি",
+                "ka": "ಪ್ರತಿಯೊಂದರ"
+            }
         },
         {
             "sanskrit": "श्रद्धा",
-            "transliteration": "śraddhā",
-            "meaning": "faith"
+            "transliteration": {
+                "hi": "श्रद्धा",
+                "en": "śraddhā",
+                "be": "শ্রদ্ধা",
+                "ka": "ಶ್ರದ್ಧಾ"
+            },
+            "meaning": {
+                "hi": "आस्था",
+                "en": "faith",
+                "be": "বিশ্বাস",
+                "ka": "ನಂಬಿಕೆ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "श्रद्धामयः",
-            "transliteration": "śraddhāmayaḥ",
-            "meaning": "consists of faith"
+            "transliteration": {
+                "hi": "श्रद्धामयः",
+                "en": "śraddhāmayaḥ",
+                "be": "শ্রদ্ধামযঃ",
+                "ka": "ಶ್ರದ್ಧಾಮಯಃ"
+            },
+            "meaning": {
+                "hi": "विश्वास से युक्त है",
+                "en": "consists of faith",
+                "be": "বিশ্বাস নিয়ে গঠিত",
+                "ka": "ನಂಬಿಕೆಯನ್ನು ಒಳಗೊಂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "यच्छ्रद्धः",
-            "transliteration": "yacchraddhaḥ",
-            "meaning": "in which his faith"
+            "transliteration": {
+                "hi": "यच्छ्रद्धः",
+                "en": "yacchraddhaḥ",
+                "be": "যচ্ছ্রদ্ধঃ",
+                "ka": "ಯಚ್ಛ್ರದ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "जिसमें उसकी आस्था है",
+                "en": "in which his faith",
+                "be": "যার উপর তার বিশ্বাস",
+                "ka": "ಅದರಲ್ಲಿ ಅವರ ನಂಬಿಕೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "that ."
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह ।",
+                "en": "that .",
+                "be": "যে",
+                "ka": "ಎಂದು ."
+            }
         }
     ],
     "tej": {

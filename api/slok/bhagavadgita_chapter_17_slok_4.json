@@ -14,8 +14,18 @@
         "en": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
         "ka": "ಯಜನ್ತೇ ಸಾತ್ತ್ವಿಕಾ ದೇವಾನ್ಯಕ್ಷರಕ್ಷಾಂಸಿ ರಾಜಸಾಃ |\nಪ್ರೇತಾನ್ಭೂತಗಣಾಂಶ್ಚಾನ್ಯೇ ಯಜನ್ತೇ ತಾಮಸಾ ಜನಾಃ ||೧೭-೪||"
     },
-    "transliteration": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
-    "life_application": "Sattvic people worship celestial beings; Rajasic worship demigods and demons; Tamasic worship spirits and ghosts.",
+    "transliteration": {
+        "hi": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||",
+        "en": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
+        "be": "যজন্তে সাত্ত্বিকা দেবান্যক্ষরক্ষাংসি রাজসাঃ |\nপ্রেতান্ভূতগণাংশ্চান্যে যজন্তে তামসা জনাঃ ||১৭-৪||",
+        "ka": "ಯಜನ್ತೇ ಸಾತ್ತ್ವಿಕಾ ದೇವಾನ್ಯಕ್ಷರಕ್ಷಾಂಸಿ ರಾಜಸಾಃ |\nಪ್ರೇತಾನ್ಭೂತಗಣಾಂಶ್ಚಾನ್ಯೇ ಯಜನ್ತೇ ತಾಮಸಾ ಜನಾಃ ||೧೭-೪||"
+    },
+    "life_application": {
+        "hi": "सात्विक लोग दिव्य प्राणियों की पूजा करते हैं; राजसिक देवताओं और राक्षसों की पूजा करते हैं; तामसी आत्माओं और भूतों की पूजा करते हैं।",
+        "en": "Sattvic people worship celestial beings; Rajasic worship demigods and demons; Tamasic worship spirits and ghosts.",
+        "be": "সাত্ত্বিক লোকেরা স্বর্গীয় প্রাণীর পূজা করে; রাজসিক দেবদেবী ও অসুরদের পূজা করে; তামসিক পূজা আত্মা ও ভূত।",
+        "ka": "ಸಾತ್ವಿಕ ಜನರು ಆಕಾಶ ಜೀವಿಗಳನ್ನು ಪೂಜಿಸುತ್ತಾರೆ; ರಾಜಸಿಕ ಆರಾಧನೆ ದೇವತೆಗಳು ಮತ್ತು ರಾಕ್ಷಸರು; ತಾಮಸಿಕ ಆರಾಧನಾ ಶಕ್ತಿಗಳು ಮತ್ತು ಪ್ರೇತಗಳು."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यजन्ते",
-            "transliteration": "yajante",
-            "meaning": "worship"
+            "transliteration": {
+                "hi": "यजन्ते",
+                "en": "yajante",
+                "be": "যজন্তে",
+                "ka": "ಯಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "पूजा",
+                "en": "worship",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ"
+            }
         },
         {
             "sanskrit": "सात्त्विकाः",
-            "transliteration": "sāttvikāḥ",
-            "meaning": "the Sattvic or pure"
+            "transliteration": {
+                "hi": "सात्त्विकाः",
+                "en": "sāttvikāḥ",
+                "be": "সাত্ত্বিকাঃ",
+                "ka": "ಸಾತ್ತ್ವಿಕಾಃ"
+            },
+            "meaning": {
+                "hi": "सात्विक या शुद्ध",
+                "en": "the Sattvic or pure",
+                "be": "সাত্ত্বিক বা বিশুদ্ধ",
+                "ka": "ಸಾತ್ವಿಕ ಅಥವಾ ಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "देवान्",
-            "transliteration": "devān",
-            "meaning": "the gods"
+            "transliteration": {
+                "hi": "देवान्",
+                "en": "devān",
+                "be": "দেবান্",
+                "ka": "ದೇವಾನ್"
+            },
+            "meaning": {
+                "hi": "देवताओं",
+                "en": "the gods",
+                "be": "দেবতা",
+                "ka": "ದೇವರುಗಳು"
+            }
         },
         {
             "sanskrit": "यक्षरक्षांसि",
-            "transliteration": "yakṣarakṣāṃsi",
-            "meaning": "the Yakshas and the"
+            "transliteration": {
+                "hi": "यक्षरक्षांसि",
+                "en": "yakṣarakṣāṃsi",
+                "be": "যক্ষরক্ষাংসি",
+                "ka": "ಯಕ್ಷರಕ್ಷಾಂಸಿ"
+            },
+            "meaning": {
+                "hi": "यक्ष और",
+                "en": "the Yakshas and the",
+                "be": "যক্ষ এবং",
+                "ka": "ಯಕ್ಷರು ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "राजसाः",
-            "transliteration": "rājasāḥ",
-            "meaning": "the Rajasic or the"
+            "transliteration": {
+                "hi": "राजसाः",
+                "en": "rājasāḥ",
+                "be": "রাজসাঃ",
+                "ka": "ರಾಜಸಾಃ"
+            },
+            "meaning": {
+                "hi": "राजसिक या",
+                "en": "the Rajasic or the",
+                "be": "রাজসিক বা",
+                "ka": "ರಾಜಸಿಕ್ ಅಥವಾ ದಿ"
+            }
         },
         {
             "sanskrit": "प्रेतान्",
-            "transliteration": "pretān",
-            "meaning": "ghosts"
+            "transliteration": {
+                "hi": "प्रेतान्",
+                "en": "pretān",
+                "be": "প্রেতান্",
+                "ka": "ಪ್ರೇತಾನ್"
+            },
+            "meaning": {
+                "hi": "भूत",
+                "en": "ghosts",
+                "be": "ভূত",
+                "ka": "ಪ್ರೇತಗಳು"
+            }
         },
         {
             "sanskrit": "भूतगणान्",
-            "transliteration": "bhūtagaṇān",
-            "meaning": "the hosts of Bhutas"
+            "transliteration": {
+                "hi": "भूतगणान्",
+                "en": "bhūtagaṇān",
+                "be": "ভূতগণান্",
+                "ka": "ಭೂತಗಣಾನ್"
+            },
+            "meaning": {
+                "hi": "भूतों के यजमान",
+                "en": "the hosts of Bhutas",
+                "be": "ভূটাদের স্বাগতিক",
+                "ka": "ಭೂತಗಳ ಆತಿಥೇಯರು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अन्ये",
-            "transliteration": "anye",
-            "meaning": "the others"
+            "transliteration": {
+                "hi": "अन्ये",
+                "en": "anye",
+                "be": "অন্যে",
+                "ka": "ಅನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "the others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "यजन्ते",
-            "transliteration": "yajante",
-            "meaning": "worship"
+            "transliteration": {
+                "hi": "यजन्ते",
+                "en": "yajante",
+                "be": "যজন্তে",
+                "ka": "ಯಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "पूजा",
+                "en": "worship",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ"
+            }
         },
         {
             "sanskrit": "तामसाः",
-            "transliteration": "tāmasāḥ",
-            "meaning": "the Tamasic"
+            "transliteration": {
+                "hi": "तामसाः",
+                "en": "tāmasāḥ",
+                "be": "তামসাঃ",
+                "ka": "ತಾಮಸಾಃ"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "the Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "जनाः",
-            "transliteration": "janāḥ",
-            "meaning": "people."
+            "transliteration": {
+                "hi": "जनाः",
+                "en": "janāḥ",
+                "be": "জনাঃ",
+                "ka": "ಜನಾಃ"
+            },
+            "meaning": {
+                "hi": "लोग।",
+                "en": "people.",
+                "be": "মানুষ",
+                "ka": "ಜನರು."
+            }
         }
     ],
     "tej": {

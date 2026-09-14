@@ -14,8 +14,18 @@
         "en": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
         "ka": "ಅಶಾಸ್ತ್ರವಿಹಿತಂ ಘೋರಂ ತಪ್ಯನ್ತೇ ಯೇ ತಪೋ ಜನಾಃ |\nದಮ್ಭಾಹಂಕಾರಸಂಯುಕ್ತಾಃ ಕಾಮರಾಗಬಲಾನ್ವಿತಾಃ ||೧೭-೫||"
     },
-    "transliteration": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
-    "life_application": "Those who practice severe non-scriptural austerities out of hypocrisy, egotism, desire, and attachment...",
+    "transliteration": {
+        "hi": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः |\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||",
+        "en": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
+        "be": "অশাস্ত্রবিহিতং ঘোরং তপ্যন্তে যে তপো জনাঃ |\nদম্ভাহংকারসংযুক্তাঃ কামরাগবলান্বিতাঃ ||১৭-৫||",
+        "ka": "ಅಶಾಸ್ತ್ರವಿಹಿತಂ ಘೋರಂ ತಪ್ಯನ್ತೇ ಯೇ ತಪೋ ಜನಾಃ |\nದಮ್ಭಾಹಂಕಾರಸಂಯುಕ್ತಾಃ ಕಾಮರಾಗಬಲಾನ್ವಿತಾಃ ||೧೭-೫||"
+    },
+    "life_application": {
+        "hi": "जो लोग पाखंड, अहंकार, इच्छा और आसक्ति के कारण गंभीर गैर-शास्त्रीय तपस्या का अभ्यास करते हैं...",
+        "en": "Those who practice severe non-scriptural austerities out of hypocrisy, egotism, desire, and attachment...",
+        "be": "যারা কপটতা, অহংকার, আকাঙ্ক্ষা এবং আসক্তি থেকে কঠোর অশাস্ত্রীয় তপস্যা অনুশীলন করে...",
+        "ka": "ಬೂಟಾಟಿಕೆ, ಅಹಂಕಾರ, ಆಸೆ ಮತ್ತು ಬಾಂಧವ್ಯದಿಂದ ಶಾಸ್ತ್ರಬದ್ಧವಲ್ಲದ ತೀವ್ರವಾದ ತಪಸ್ಸನ್ನು ಆಚರಿಸುವವರು..."
+    },
     "themes": [
         "Attachment",
         "Duty"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अशास्त्रविहितम्",
-            "transliteration": "aśāstravihitam",
-            "meaning": "not enjoined by the"
+            "transliteration": {
+                "hi": "अशास्त्रविहितम्",
+                "en": "aśāstravihitam",
+                "be": "অশাস্ত্রবিহিতম্",
+                "ka": "ಅಶಾಸ್ತ್ರವಿಹಿತಮ್"
+            },
+            "meaning": {
+                "hi": "द्वारा आदेशित नहीं है",
+                "en": "not enjoined by the",
+                "be": "দ্বারা আদেশ করা হয়নি",
+                "ka": "ಮೂಲಕ ವಿಧಿಸಲಾಗಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "घोरम्",
-            "transliteration": "ghoram",
-            "meaning": "terrific"
+            "transliteration": {
+                "hi": "घोरम्",
+                "en": "ghoram",
+                "be": "ঘোরম্",
+                "ka": "ಘೋರಮ್"
+            },
+            "meaning": {
+                "hi": "बहुत बढ़िया",
+                "en": "terrific",
+                "be": "ভয়ঙ্কর",
+                "ka": "ಸೊಗಸಾದ"
+            }
         },
         {
             "sanskrit": "तप्यन्ते",
-            "transliteration": "tapyante",
-            "meaning": "practise"
+            "transliteration": {
+                "hi": "तप्यन्ते",
+                "en": "tapyante",
+                "be": "তপ্যন্তে",
+                "ka": "ತಪ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "अभ्यास",
+                "en": "practise",
+                "be": "অনুশীলন",
+                "ka": "ಅಭ್ಯಾಸ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "जनाः",
-            "transliteration": "janāḥ",
-            "meaning": "men"
+            "transliteration": {
+                "hi": "जनाः",
+                "en": "janāḥ",
+                "be": "জনাঃ",
+                "ka": "ಜನಾಃ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "men",
+                "be": "পুরুষদের",
+                "ka": "ಪುರುಷರು"
+            }
         },
         {
             "sanskrit": "दम्भाहङ्कारसंयुक्ताः",
-            "transliteration": "dambhāhaṅkārasaṃyuktāḥ",
-            "meaning": "given to hypocrisy and"
+            "transliteration": {
+                "hi": "दम्भाहङ्कारसंयुक्ताः",
+                "en": "dambhāhaṅkārasaṃyuktāḥ",
+                "be": "দম্ভাহঙ্কারসংযুক্তাঃ",
+                "ka": "ದಮ್ಭಾಹಙ್ಕಾರಸಂಯುಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "पाखंड को दिया गया और",
+                "en": "given to hypocrisy and",
+                "be": "ভন্ডামী দেওয়া এবং",
+                "ka": "ಬೂಟಾಟಿಕೆಗೆ ನೀಡಲಾಗಿದೆ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कामरागबलान्विताः",
-            "transliteration": "kāmarāgabalānvitāḥ",
-            "meaning": "by the force of"
+            "transliteration": {
+                "hi": "कामरागबलान्विताः",
+                "en": "kāmarāgabalānvitāḥ",
+                "be": "কামরাগবলান্বিতাঃ",
+                "ka": "ಕಾಮರಾಗಬಲಾನ್ವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "के बल से",
+                "en": "by the force of",
+                "be": "এর বল দ্বারা",
+                "ka": "ಬಲದಿಂದ"
+            }
         }
     ],
     "tej": {

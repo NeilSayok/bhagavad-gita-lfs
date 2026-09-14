@@ -14,8 +14,18 @@
         "en": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
         "ka": "ಆಯುಃಸತ್ತ್ವಬಲಾರೋಗ್ಯಸುಖಪ್ರೀತಿವಿವರ್ಧನಾಃ |\nರಸ್ಯಾಃ ಸ್ನಿಗ್ಧಾಃ ಸ್ಥಿರಾ ಹೃದ್ಯಾ ಆಹಾರಾಃ ಸಾತ್ತ್ವಿಕಪ್ರಿಯಾಃ ||೧೭-೮||"
     },
-    "transliteration": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
-    "life_application": "Foods increasing life, purity, strength, health, joy, cheerfulness, succulent, fatty, wholesome, pleasing—liked by Sattvic.",
+    "transliteration": {
+        "hi": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः |\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||",
+        "en": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
+        "be": "আযুঃসত্ত্ববলারোগ্যসুখপ্রীতিবিবর্ধনাঃ |\nরস্যাঃ স্নিগ্ধাঃ স্থিরা হৃদ্যা আহারাঃ সাত্ত্বিকপ্রিযাঃ ||১৭-৮||",
+        "ka": "ಆಯುಃಸತ್ತ್ವಬಲಾರೋಗ್ಯಸುಖಪ್ರೀತಿವಿವರ್ಧನಾಃ |\nರಸ್ಯಾಃ ಸ್ನಿಗ್ಧಾಃ ಸ್ಥಿರಾ ಹೃದ್ಯಾ ಆಹಾರಾಃ ಸಾತ್ತ್ವಿಕಪ್ರಿಯಾಃ ||೧೭-೮||"
+    },
+    "life_application": {
+        "hi": "आयु, पवित्रता, शक्ति, स्वास्थ्य, आनंद, प्रसन्नता, रसीला, वसायुक्त, पौष्टिक, सुखदायक-सात्त्विक को पसंद आने वाले आहार-विहार।",
+        "en": "Foods increasing life, purity, strength, health, joy, cheerfulness, succulent, fatty, wholesome, pleasing—liked by Sattvic.",
+        "be": "জীবন বৃদ্ধিকারী খাদ্য, পবিত্রতা, শক্তি, স্বাস্থ্য, আনন্দ, প্রফুল্লতা, রসালো, চর্বিযুক্ত, স্বাস্থ্যকর, আনন্দদায়ক—সাত্ত্বিকের পছন্দ।",
+        "ka": "ಆಯುಷ್ಯ, ಶುದ್ಧತೆ, ಶಕ್ತಿ, ಆರೋಗ್ಯ, ಸಂತೋಷ, ಲವಲವಿಕೆ, ರಸಭರಿತ, ಕೊಬ್ಬಿನ, ಆರೋಗ್ಯಕರ, ಸಂತೋಷವನ್ನು ಹೆಚ್ಚಿಸುವ ಆಹಾರಗಳು ಸಾತ್ವಿಕನಿಗೆ ಇಷ್ಟವಾಗುತ್ತವೆ."
+    },
     "themes": [
         "Mindfulness",
         "Duty"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः",
-            "transliteration": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ",
-            "meaning": "those which increase Ayus"
+            "transliteration": {
+                "hi": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः",
+                "en": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ",
+                "be": "আযুঃসত্ত্ববলারোগ্যসুখপ্রীতিবিবর্ধনাঃ",
+                "ka": "ಆಯುಃಸತ್ತ್ವಬಲಾರೋಗ್ಯಸುಖಪ್ರೀತಿವಿವರ್ಧನಾಃ"
+            },
+            "meaning": {
+                "hi": "जो आयु को बढ़ाते हैं",
+                "en": "those which increase Ayus",
+                "be": "যেগুলো আয়ুস বাড়ায়",
+                "ka": "ಆಯುಸ್ಸನ್ನು ಹೆಚ್ಚಿಸುವಂತಹವುಗಳು"
+            }
         },
         {
             "sanskrit": "रस्याः",
-            "transliteration": "rasyāḥ",
-            "meaning": "savoury"
+            "transliteration": {
+                "hi": "रस्याः",
+                "en": "rasyāḥ",
+                "be": "রস্যাঃ",
+                "ka": "ರಸ್ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "स्वादिष्ट",
+                "en": "savoury",
+                "be": "সুস্বাদু",
+                "ka": "ಖಾರದ"
+            }
         },
         {
             "sanskrit": "स्निग्धाः",
-            "transliteration": "snigdhāḥ",
-            "meaning": "oleaginous"
+            "transliteration": {
+                "hi": "स्निग्धाः",
+                "en": "snigdhāḥ",
+                "be": "স্নিগ্ধাঃ",
+                "ka": "ಸ್ನಿಗ್ಧಾಃ"
+            },
+            "meaning": {
+                "hi": "तैलीय",
+                "en": "oleaginous",
+                "be": "অলিজিনাস",
+                "ka": "ಓಲೆಜಿನಸ್"
+            }
         },
         {
             "sanskrit": "स्थिराः",
-            "transliteration": "sthirāḥ",
-            "meaning": "substantial"
+            "transliteration": {
+                "hi": "स्थिराः",
+                "en": "sthirāḥ",
+                "be": "স্থিরাঃ",
+                "ka": "ಸ್ಥಿರಾಃ"
+            },
+            "meaning": {
+                "hi": "पर्याप्त",
+                "en": "substantial",
+                "be": "যথেষ্ট",
+                "ka": "ಗಣನೀಯ"
+            }
         },
         {
             "sanskrit": "हृद्याः",
-            "transliteration": "hṛdyāḥ",
-            "meaning": "agreeable"
+            "transliteration": {
+                "hi": "हृद्याः",
+                "en": "hṛdyāḥ",
+                "be": "হৃদ্যাঃ",
+                "ka": "ಹೃದ್ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "सहमत",
+                "en": "agreeable",
+                "be": "সম্মত",
+                "ka": "ಒಪ್ಪುವ"
+            }
         },
         {
             "sanskrit": "आहाराः",
-            "transliteration": "āhārāḥ",
-            "meaning": "the foods"
+            "transliteration": {
+                "hi": "आहाराः",
+                "en": "āhārāḥ",
+                "be": "আহারাঃ",
+                "ka": "ಆಹಾರಾಃ"
+            },
+            "meaning": {
+                "hi": "खाद्य पदार्थ",
+                "en": "the foods",
+                "be": "খাবার",
+                "ka": "ಆಹಾರಗಳು"
+            }
         },
         {
             "sanskrit": "सात्त्विकप्रियाः",
-            "transliteration": "sāttvikapriyāḥ",
-            "meaning": "are dear to Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकप्रियाः",
+                "en": "sāttvikapriyāḥ",
+                "be": "সাত্ত্বিকপ্রিযাঃ",
+                "ka": "ಸಾತ್ತ್ವಿಕಪ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "सात्विक को प्रिय हैं",
+                "en": "are dear to Sattvic",
+                "be": "সাত্ত্বিক প্রিয়",
+                "ka": "ಸಾತ್ವಿಕರಿಗೆ ಪ್ರಿಯವಾಗಿವೆ"
+            }
         },
         {
             "sanskrit": "जैसा अन्न",
-            "transliteration": "jaisā anna",
-            "meaning": "वैसा मन As is"
+            "transliteration": {
+                "hi": "जैसा अन्न",
+                "en": "jaisā anna",
+                "be": "জৈসা অন্ন",
+                "ka": "ಜೈಸಾ ಅನ್ನ"
+            },
+            "meaning": {
+                "hi": "आदर्श मन जैसा है",
+                "en": "वैसा मन As is",
+                "be": "वैसा मन যেমন আছে",
+                "ka": "ವೈಸಾ ಮನ್ ಇದ್ದಂತೆ"
+            }
         }
     ],
     "tej": {

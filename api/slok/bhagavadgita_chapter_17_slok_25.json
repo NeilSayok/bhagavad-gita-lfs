@@ -14,8 +14,18 @@
         "en": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
         "ka": "ತದಿತ್ಯನಭಿಸನ್ಧಾಯ ಫಲಂ ಯಜ್ಞತಪಃಕ್ರಿಯಾಃ |\nದಾನಕ್ರಿಯಾಶ್ಚ ವಿವಿಧಾಃ ಕ್ರಿಯನ್ತೇ ಮೋಕ್ಷಕಾಙ್ಕ್ಷಿಭಿಃ ||೧೭-೨೫||"
     },
-    "transliteration": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
-    "life_application": "Uttering 'Tat' without seeking fruit, acts of sacrifice, austerity, and gift are performed by seekers of liberation.",
+    "transliteration": {
+        "hi": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः |\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||",
+        "en": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
+        "be": "তদিত্যনভিসন্ধায ফলং যজ্ঞতপঃক্রিযাঃ |\nদানক্রিযাশ্চ বিবিধাঃ ক্রিযন্তে মোক্ষকাঙ্ক্ষিভিঃ ||১৭-২৫||",
+        "ka": "ತದಿತ್ಯನಭಿಸನ್ಧಾಯ ಫಲಂ ಯಜ್ಞತಪಃಕ್ರಿಯಾಃ |\nದಾನಕ್ರಿಯಾಶ್ಚ ವಿವಿಧಾಃ ಕ್ರಿಯನ್ತೇ ಮೋಕ್ಷಕಾಙ್ಕ್ಷಿಭಿಃ ||೧೭-೨೫||"
+    },
+    "life_application": {
+        "hi": "फल की इच्छा किए बिना 'तत्' का उच्चारण करते हुए, मुक्ति के साधकों द्वारा त्याग, तपस्या और दान के कार्य किए जाते हैं।",
+        "en": "Uttering 'Tat' without seeking fruit, acts of sacrifice, austerity, and gift are performed by seekers of liberation.",
+        "be": "ফল না চেয়ে 'তাত' উচ্চারণ, ত্যাগ, তপস্যা এবং দান মুক্তিকামীদের দ্বারা করা হয়।",
+        "ka": "ಫಲವನ್ನು ಅಪೇಕ್ಷಿಸದೆ 'ತತ್' ಅನ್ನು ಉಚ್ಚರಿಸುವುದು, ತ್ಯಾಗ, ತಪಸ್ಸು ಮತ್ತು ದಾನವನ್ನು ಮುಕ್ತಿಯನ್ನು ಹುಡುಕುವವರು ಮಾಡುತ್ತಾರೆ."
+    },
     "themes": [
         "Detachment",
         "Karma"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "That",
+                "be": "যে",
+                "ka": "ಅದು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अनभिसन्धाय",
-            "transliteration": "anabhisandhāya",
-            "meaning": "without aiming at"
+            "transliteration": {
+                "hi": "अनभिसन्धाय",
+                "en": "anabhisandhāya",
+                "be": "অনভিসন্ধায",
+                "ka": "ಅನಭಿಸನ್ಧಾಯ"
+            },
+            "meaning": {
+                "hi": "बिना लक्ष्य किये",
+                "en": "without aiming at",
+                "be": "লক্ষ্য ছাড়াই",
+                "ka": "ಗುರಿಯಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "यज्ञतपःक्रियाः",
-            "transliteration": "yajñatapaḥkriyāḥ",
-            "meaning": "acts of sacrifice and"
+            "transliteration": {
+                "hi": "यज्ञतपःक्रियाः",
+                "en": "yajñatapaḥkriyāḥ",
+                "be": "যজ্ঞতপঃক্রিযাঃ",
+                "ka": "ಯಜ್ಞತಪಃಕ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "बलिदान के कार्य और",
+                "en": "acts of sacrifice and",
+                "be": "ত্যাগের কাজ এবং",
+                "ka": "ತ್ಯಾಗದ ಕಾರ್ಯಗಳು ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "दानक्रियाः",
-            "transliteration": "dānakriyāḥ",
-            "meaning": "acts of gits"
+            "transliteration": {
+                "hi": "दानक्रियाः",
+                "en": "dānakriyāḥ",
+                "be": "দানক্রিযাঃ",
+                "ka": "ದಾನಕ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "गिट्स के कार्य",
+                "en": "acts of gits",
+                "be": "gits এর কাজ",
+                "ka": "gits ಕ್ರಿಯೆಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विविधाः",
-            "transliteration": "vividhāḥ",
-            "meaning": "various"
+            "transliteration": {
+                "hi": "विविधाः",
+                "en": "vividhāḥ",
+                "be": "বিবিধাঃ",
+                "ka": "ವಿವಿಧಾಃ"
+            },
+            "meaning": {
+                "hi": "विविध",
+                "en": "various",
+                "be": "বিভিন্ন",
+                "ka": "ವಿವಿಧ"
+            }
         },
         {
             "sanskrit": "क्रियन्ते",
-            "transliteration": "kriyante",
-            "meaning": "are performed"
+            "transliteration": {
+                "hi": "क्रियन्ते",
+                "en": "kriyante",
+                "be": "ক্রিযন্তে",
+                "ka": "ಕ್ರಿಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "निष्पादित किये जाते हैं",
+                "en": "are performed",
+                "be": "সঞ্চালিত হয়",
+                "ka": "ನಿರ್ವಹಿಸಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "मोक्षकाङ्क्षिभिः",
-            "transliteration": "mokṣakāṅkṣibhiḥ",
-            "meaning": "by the seekers of"
+            "transliteration": {
+                "hi": "मोक्षकाङ्क्षिभिः",
+                "en": "mokṣakāṅkṣibhiḥ",
+                "be": "মোক্ষকাঙ্ক্ষিভিঃ",
+                "ka": "ಮೋಕ್ಷಕಾಙ್ಕ್ಷಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "के साधकों द्वारा",
+                "en": "by the seekers of",
+                "be": "এর সন্ধানকারীদের দ্বারা",
+                "ka": "ಅನ್ವೇಷಕರಿಂದ"
+            }
         }
     ],
     "tej": {

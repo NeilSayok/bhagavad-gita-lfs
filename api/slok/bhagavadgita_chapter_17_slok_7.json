@@ -14,8 +14,18 @@
         "en": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
         "ka": "ಆಹಾರಸ್ತ್ವಪಿ ಸರ್ವಸ್ಯ ತ್ರಿವಿಧೋ ಭವತಿ ಪ್ರಿಯಃ |\nಯಜ್ಞಸ್ತಪಸ್ತಥಾ ದಾನಂ ತೇಷಾಂ ಭೇದಮಿಮಂ ಶೃಣು ||೧೭-೭||"
     },
-    "transliteration": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
-    "life_application": "Food liked by each is threefold, so also sacrifice, austerity, and charity; hear their distinctions.",
+    "transliteration": {
+        "hi": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः |\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||",
+        "en": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
+        "be": "আহারস্ত্বপি সর্বস্য ত্রিবিধো ভবতি প্রিযঃ |\nযজ্ঞস্তপস্তথা দানং তেষাং ভেদমিমং শৃণু ||১৭-৭||",
+        "ka": "ಆಹಾರಸ್ತ್ವಪಿ ಸರ್ವಸ್ಯ ತ್ರಿವಿಧೋ ಭವತಿ ಪ್ರಿಯಃ |\nಯಜ್ಞಸ್ತಪಸ್ತಥಾ ದಾನಂ ತೇಷಾಂ ಭೇದಮಿಮಂ ಶೃಣು ||೧೭-೭||"
+    },
+    "life_application": {
+        "hi": "प्रत्येक को पसंद किया जाने वाला भोजन तीन गुना है, इसलिए त्याग, तपस्या और दान भी; उनके भेद सुनो।",
+        "en": "Food liked by each is threefold, so also sacrifice, austerity, and charity; hear their distinctions.",
+        "be": "প্রত্যেকের পছন্দের খাদ্য ত্রিগুণ, তাই ত্যাগ, তপস্যা এবং দানও; তাদের পার্থক্য শুনুন।",
+        "ka": "ಪ್ರತಿಯೊಬ್ಬರೂ ಇಷ್ಟಪಡುವ ಆಹಾರವು ಮೂರು ಪಟ್ಟು, ಹಾಗೆಯೇ ತ್ಯಾಗ, ತಪಸ್ಸು ಮತ್ತು ದಾನ; ಅವರ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "आहारः",
-            "transliteration": "āhāraḥ",
-            "meaning": "food"
+            "transliteration": {
+                "hi": "आहारः",
+                "en": "āhāraḥ",
+                "be": "আহারঃ",
+                "ka": "ಆಹಾರಃ"
+            },
+            "meaning": {
+                "hi": "खाना",
+                "en": "food",
+                "be": "খাদ্য",
+                "ka": "ಆಹಾರ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सर्वस्य",
-            "transliteration": "sarvasya",
-            "meaning": "of all"
+            "transliteration": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सबमें से",
+                "en": "of all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "त्रिविधः",
-            "transliteration": "trividhaḥ",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधः",
+                "en": "trividhaḥ",
+                "be": "ত্রিবিধঃ",
+                "ka": "ತ್ರಿವಿಧಃ"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear"
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय",
+                "en": "dear",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ"
+            }
         },
         {
             "sanskrit": "यज्ञः",
-            "transliteration": "yajñaḥ",
-            "meaning": "sacrifice"
+            "transliteration": {
+                "hi": "यज्ञः",
+                "en": "yajñaḥ",
+                "be": "যজ্ঞঃ",
+                "ka": "ಯಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "बलिदान",
+                "en": "sacrifice",
+                "be": "বলিদান",
+                "ka": "ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "almsgiving"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "भिक्षा देना",
+                "en": "almsgiving",
+                "be": "দান",
+                "ka": "ಭಿಕ್ಷೆ"
+            }
         },
         {
             "sanskrit": "तेषाम्",
-            "transliteration": "teṣām",
-            "meaning": "their"
+            "transliteration": {
+                "hi": "तेषाम्",
+                "en": "teṣām",
+                "be": "তেষাম্",
+                "ka": "ತೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनके",
+                "en": "their",
+                "be": "তাদের",
+                "ka": "ಅವರ"
+            }
         },
         {
             "sanskrit": "भेदम्",
-            "transliteration": "bhedam",
-            "meaning": "distinction"
+            "transliteration": {
+                "hi": "भेदम्",
+                "en": "bhedam",
+                "be": "ভেদম্",
+                "ka": "ಭೇದಮ್"
+            },
+            "meaning": {
+                "hi": "भेद",
+                "en": "distinction",
+                "be": "পার্থক্য",
+                "ka": "ವ್ಯತ್ಯಾಸ"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear."
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो।",
+                "en": "hear.",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು."
+            }
         }
     ],
     "tej": {

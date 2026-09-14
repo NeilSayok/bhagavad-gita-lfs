@@ -14,8 +14,18 @@
         "en": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
         "ka": "ಸದ್ಭಾವೇ ಸಾಧುಭಾವೇ ಚ ಸದಿತ್ಯೇತತ್ಪ್ರಯುಜ್ಯತೇ |\nಪ್ರಶಸ್ತೇ ಕರ್ಮಣಿ ತಥಾ ಸಚ್ಛಬ್ದಃ ಪಾರ್ಥ ಯುಜ್ಯತೇ ||೧೭-೨೬||"
     },
-    "transliteration": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
-    "life_application": "'Sat' is used in sense of reality and goodness; so also 'Sat' is applied to auspicious action.",
+    "transliteration": {
+        "hi": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते |\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||",
+        "en": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
+        "be": "সদ্ভাবে সাধুভাবে চ সদিত্যেতত্প্রযুজ্যতে |\nপ্রশস্তে কর্মণি তথা সচ্ছব্দঃ পার্থ যুজ্যতে ||১৭-২৬||",
+        "ka": "ಸದ್ಭಾವೇ ಸಾಧುಭಾವೇ ಚ ಸದಿತ್ಯೇತತ್ಪ್ರಯುಜ್ಯತೇ |\nಪ್ರಶಸ್ತೇ ಕರ್ಮಣಿ ತಥಾ ಸಚ್ಛಬ್ದಃ ಪಾರ್ಥ ಯುಜ್ಯತೇ ||೧೭-೨೬||"
+    },
+    "life_application": {
+        "hi": "'सत्' का प्रयोग वास्तविकता और अच्छाई के अर्थ में किया जाता है; इसी प्रकार शुभ कार्य में भी 'सत्' का प्रयोग किया जाता है।",
+        "en": "'Sat' is used in sense of reality and goodness; so also 'Sat' is applied to auspicious action.",
+        "be": "'সত' বাস্তবতা ও মঙ্গল অর্থে ব্যবহৃত হয়; তাই শুভ কর্মের ক্ষেত্রেও 'শনি' প্রয়োগ করা হয়।",
+        "ka": "'ಸತ್' ಅನ್ನು ವಾಸ್ತವ ಮತ್ತು ಒಳ್ಳೆಯತನದ ಅರ್ಥದಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ; ಆದ್ದರಿಂದ 'ಸತ್' ಅನ್ನು ಮಂಗಳಕರ ಕ್ರಿಯೆಗೆ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Dharma",
         "Knowledge"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "सद्भावे",
-            "transliteration": "sadbhāve",
-            "meaning": "in the sense of"
+            "transliteration": {
+                "hi": "सद्भावे",
+                "en": "sadbhāve",
+                "be": "সদ্ভাবে",
+                "ka": "ಸದ್ಭಾವೇ"
+            },
+            "meaning": {
+                "hi": "के अर्थ में",
+                "en": "in the sense of",
+                "be": "অর্থে",
+                "ka": "ಎಂಬ ಅರ್ಥದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "साधुभावे",
-            "transliteration": "sādhubhāve",
-            "meaning": "in the sense of"
+            "transliteration": {
+                "hi": "साधुभावे",
+                "en": "sādhubhāve",
+                "be": "সাধুভাবে",
+                "ka": "ಸಾಧುಭಾವೇ"
+            },
+            "meaning": {
+                "hi": "के अर्थ में",
+                "en": "in the sense of",
+                "be": "অর্থে",
+                "ka": "ಎಂಬ ಅರ್ಥದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "Sat"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "शनि",
+                "en": "Sat",
+                "be": "শনি",
+                "ka": "ಶನಿ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "प्रयुज्यते",
-            "transliteration": "prayujyate",
-            "meaning": "is used"
+            "transliteration": {
+                "hi": "प्रयुज्यते",
+                "en": "prayujyate",
+                "be": "প্রযুজ্যতে",
+                "ka": "ಪ್ರಯುಜ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रयोग किया जाता है",
+                "en": "is used",
+                "be": "ব্যবহার করা হয়",
+                "ka": "ಬಳಸಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "प्रशस्ते",
-            "transliteration": "praśaste",
-            "meaning": "auspicious"
+            "transliteration": {
+                "hi": "प्रशस्ते",
+                "en": "praśaste",
+                "be": "প্রশস্তে",
+                "ka": "ಪ್ರಶಸ್ತೇ"
+            },
+            "meaning": {
+                "hi": "शुभ",
+                "en": "auspicious",
+                "be": "শুভ",
+                "ka": "ಮಂಗಳಕರ"
+            }
         },
         {
             "sanskrit": "कर्मणि",
-            "transliteration": "karmaṇi",
-            "meaning": "an act"
+            "transliteration": {
+                "hi": "कर्मणि",
+                "en": "karmaṇi",
+                "be": "কর্মণি",
+                "ka": "ಕರ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "एक कृत्य",
+                "en": "an act",
+                "be": "একটি কাজ",
+                "ka": "ಒಂದು ಕಾಯಿದೆ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "तो भी",
+                "en": "so also",
+                "be": "তাই এছাড়াও",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "सत्",
-            "transliteration": "sat",
-            "meaning": "Sat"
+            "transliteration": {
+                "hi": "सत्",
+                "en": "sat",
+                "be": "সত্",
+                "ka": "ಸತ್"
+            },
+            "meaning": {
+                "hi": "शनि",
+                "en": "Sat",
+                "be": "শনি",
+                "ka": "ಶನಿ"
+            }
         },
         {
             "sanskrit": "शब्दः",
-            "transliteration": "śabdaḥ",
-            "meaning": "word"
+            "transliteration": {
+                "hi": "शब्दः",
+                "en": "śabdaḥ",
+                "be": "শব্দঃ",
+                "ka": "ಶಬ್ದಃ"
+            },
+            "meaning": {
+                "hi": "शब्द",
+                "en": "word",
+                "be": "শব্দ",
+                "ka": "ಪದ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "युज्यते",
-            "transliteration": "yujyate",
-            "meaning": "is used."
+            "transliteration": {
+                "hi": "युज्यते",
+                "en": "yujyate",
+                "be": "যুজ্যতে",
+                "ka": "ಯುಜ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रयोग किया जाता है।",
+                "en": "is used.",
+                "be": "ব্যবহার করা হয়",
+                "ka": "ಬಳಸಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

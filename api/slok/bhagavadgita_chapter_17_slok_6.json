@@ -14,8 +14,18 @@
         "en": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
         "ka": "ಕರ್ಷಯನ್ತಃ ಶರೀರಸ್ಥಂ ಭೂತಗ್ರಾಮಮಚೇತಸಃ |\nಮಾಂ ಚೈವಾನ್ತಃಶರೀರಸ್ಥಂ ತಾನ್ವಿದ್ಧ್ಯಾಸುರನಿಶ್ಚಯಾನ್ ||೧೭-೬||"
     },
-    "transliteration": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
-    "life_application": "Senselessly torturing elements in the body and God dwelling within—know them to be of demonic resolves.",
+    "transliteration": {
+        "hi": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः |\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||",
+        "en": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
+        "be": "কর্ষযন্তঃ শরীরস্থং ভূতগ্রামমচেতসঃ |\nমাং চৈবান্তঃশরীরস্থং তান্বিদ্ধ্যাসুরনিশ্চযান্ ||১৭-৬||",
+        "ka": "ಕರ್ಷಯನ್ತಃ ಶರೀರಸ್ಥಂ ಭೂತಗ್ರಾಮಮಚೇತಸಃ |\nಮಾಂ ಚೈವಾನ್ತಃಶರೀರಸ್ಥಂ ತಾನ್ವಿದ್ಧ್ಯಾಸುರನಿಶ್ಚಯಾನ್ ||೧೭-೬||"
+    },
+    "life_application": {
+        "hi": "शरीर के तत्वों और भीतर निवास करने वाले ईश्वर को मूर्खतापूर्वक कष्ट देना-उन्हें राक्षसी संकल्पों वाला जानो।",
+        "en": "Senselessly torturing elements in the body and God dwelling within—know them to be of demonic resolves.",
+        "be": "শরীরের মধ্যে নির্বোধভাবে অত্যাচারকারী উপাদান এবং ভিতরে ঈশ্বর বাস করেন - তাদের শয়তানী সংকল্পের হতে জানুন।",
+        "ka": "ದೇಹದಲ್ಲಿರುವ ಅಂಶಗಳನ್ನು ಪ್ರಜ್ಞಾಶೂನ್ಯವಾಗಿ ಹಿಂಸಿಸುವುದು ಮತ್ತು ಒಳಗೆ ವಾಸಿಸುವ ದೇವರು-ಅವು ರಾಕ್ಷಸ ಸಂಕಲ್ಪಗಳೆಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Duty",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कर्षयन्तः",
-            "transliteration": "karṣayantaḥ",
-            "meaning": "torturing"
+            "transliteration": {
+                "hi": "कर्षयन्तः",
+                "en": "karṣayantaḥ",
+                "be": "কর্ষযন্তঃ",
+                "ka": "ಕರ್ಷಯನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "यातना देना",
+                "en": "torturing",
+                "be": "নির্যাতন",
+                "ka": "ಚಿತ್ರಹಿಂಸೆ ನೀಡುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "शरीरस्थम्",
-            "transliteration": "śarīrastham",
-            "meaning": "dwelling in the body"
+            "transliteration": {
+                "hi": "शरीरस्थम्",
+                "en": "śarīrastham",
+                "be": "শরীরস্থম্",
+                "ka": "ಶರೀರಸ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "शरीर में निवास करना",
+                "en": "dwelling in the body",
+                "be": "শরীরে বাস করা",
+                "ka": "ದೇಹದಲ್ಲಿ ವಾಸ"
+            }
         },
         {
             "sanskrit": "भूतग्रामम्",
-            "transliteration": "bhūtagrāmam",
-            "meaning": "all the elements"
+            "transliteration": {
+                "hi": "भूतग्रामम्",
+                "en": "bhūtagrāmam",
+                "be": "ভূতগ্রামম্",
+                "ka": "ಭೂತಗ್ರಾಮಮ್"
+            },
+            "meaning": {
+                "hi": "सभी तत्व",
+                "en": "all the elements",
+                "be": "সমস্ত উপাদান",
+                "ka": "ಎಲ್ಲಾ ಅಂಶಗಳು"
+            }
         },
         {
             "sanskrit": "अचेतसः",
-            "transliteration": "acetasaḥ",
-            "meaning": "senseless"
+            "transliteration": {
+                "hi": "अचेतसः",
+                "en": "acetasaḥ",
+                "be": "অচেতসঃ",
+                "ka": "ಅಚೇತಸಃ"
+            },
+            "meaning": {
+                "hi": "संवेदनहीन",
+                "en": "senseless",
+                "be": "অনুভূতিহীন",
+                "ka": "ಅರ್ಥಹೀನ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अन्तःशरीरस्थम्",
-            "transliteration": "antaḥśarīrastham",
-            "meaning": "who dwells in the"
+            "transliteration": {
+                "hi": "अन्तःशरीरस्थम्",
+                "en": "antaḥśarīrastham",
+                "be": "অন্তঃশরীরস্থম্",
+                "ka": "ಅನ್ತಃಶರೀರಸ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "जो में रहता है",
+                "en": "who dwells in the",
+                "be": "যারা বাস করে",
+                "ka": "ಯಾರು ವಾಸಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "तान्",
-            "transliteration": "tān",
-            "meaning": "them"
+            "transliteration": {
+                "hi": "तान्",
+                "en": "tān",
+                "be": "তান্",
+                "ka": "ತಾನ್"
+            },
+            "meaning": {
+                "hi": "उन्हें",
+                "en": "them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "आसुरनिश्चयान्",
-            "transliteration": "āsuraniścayān",
-            "meaning": "to be of demoniac"
+            "transliteration": {
+                "hi": "आसुरनिश्चयान्",
+                "en": "āsuraniścayān",
+                "be": "আসুরনিশ্চযান্",
+                "ka": "ಆಸುರನಿಶ್ಚಯಾನ್"
+            },
+            "meaning": {
+                "hi": "राक्षसी होना",
+                "en": "to be of demoniac",
+                "be": "to be of demoniac",
+                "ka": "ರಾಕ್ಷಸನಾಗಿರಬೇಕು"
+            }
         }
     ],
     "tej": {

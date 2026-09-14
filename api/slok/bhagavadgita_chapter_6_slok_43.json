@@ -14,8 +14,18 @@
         "en": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam .\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana ||6-43||",
         "ka": "ತತ್ರ ತಂ ಬುದ್ಧಿಸಂಯೋಗಂ ಲಭತೇ ಪೌರ್ವದೇಹಿಕಮ್ |\nಯತತೇ ಚ ತತೋ ಭೂಯಃ ಸಂಸಿದ್ಧೌ ಕುರುನನ್ದನ ||೬-೪೩||"
     },
-    "transliteration": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam .\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana ||6-43||",
-    "life_application": "Reawaken your accumulated wisdom from past efforts, striving with renewed energy toward complete spiritual fulfillment.",
+    "transliteration": {
+        "hi": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन ||६-४३||",
+        "en": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam .\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana ||6-43||",
+        "be": "তত্র তং বুদ্ধিসংযোগং লভতে পৌর্বদেহিকম্ |\nযততে চ ততো ভূযঃ সংসিদ্ধৌ কুরুনন্দন ||৬-৪৩||",
+        "ka": "ತತ್ರ ತಂ ಬುದ್ಧಿಸಂಯೋಗಂ ಲಭತೇ ಪೌರ್ವದೇಹಿಕಮ್ |\nಯತತೇ ಚ ತತೋ ಭೂಯಃ ಸಂಸಿದ್ಧೌ ಕುರುನನ್ದನ ||೬-೪೩||"
+    },
+    "life_application": {
+        "hi": "पिछले प्रयासों से अपने संचित ज्ञान को पुनः जागृत करें, पूर्ण आध्यात्मिक पूर्ति की ओर नई ऊर्जा के साथ प्रयास करें।",
+        "en": "Reawaken your accumulated wisdom from past efforts, striving with renewed energy toward complete spiritual fulfillment.",
+        "be": "সম্পূর্ণ আধ্যাত্মিক পরিপূর্ণতার দিকে নতুন শক্তির সাথে সংগ্রাম করে, অতীতের প্রচেষ্টা থেকে আপনার সঞ্চিত জ্ঞানকে পুনরায় জাগিয়ে তুলুন।",
+        "ka": "ಹಿಂದಿನ ಪ್ರಯತ್ನಗಳಿಂದ ನಿಮ್ಮ ಸಂಗ್ರಹವಾದ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸಿ, ಸಂಪೂರ್ಣ ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಗೆ ನವೀಕೃತ ಶಕ್ತಿಯೊಂದಿಗೆ ಶ್ರಮಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "tatra"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "टाट्रा",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            }
         },
         {
             "sanskrit": "तं",
-            "transliteration": "taṃ",
-            "meaning": "taṃ"
+            "transliteration": {
+                "hi": "तं",
+                "en": "taṃ",
+                "be": "তং",
+                "ka": "ತಂ"
+            },
+            "meaning": {
+                "hi": "टैं",
+                "en": "taṃ",
+                "be": "taṃ",
+                "ka": "taṃ"
+            }
         },
         {
             "sanskrit": "बुद्धिसंयोगं",
-            "transliteration": "buddhisaṃyogaṃ",
-            "meaning": "buddhisaṃyogaṃ"
+            "transliteration": {
+                "hi": "बुद्धिसंयोगं",
+                "en": "buddhisaṃyogaṃ",
+                "be": "বুদ্ধিসংযোগং",
+                "ka": "ಬುದ್ಧಿಸಂಯೋಗಂ"
+            },
+            "meaning": {
+                "hi": "बुद्धिसंयोगम्",
+                "en": "buddhisaṃyogaṃ",
+                "be": "বুদ্ধসংযোগ",
+                "ka": "ಬುದ್ಧಿಸಂಯೋಗಂ"
+            }
         },
         {
             "sanskrit": "लभते",
-            "transliteration": "labhate",
-            "meaning": "labhate"
+            "transliteration": {
+                "hi": "लभते",
+                "en": "labhate",
+                "be": "লভতে",
+                "ka": "ಲಭತೇ"
+            },
+            "meaning": {
+                "hi": "labhate",
+                "en": "labhate",
+                "be": "ল্যাবতে",
+                "ka": "ಲಭತೆ"
+            }
         },
         {
             "sanskrit": "पौर्वदेहिकम्",
-            "transliteration": "paurvadehikam",
-            "meaning": "paurvadehikam"
+            "transliteration": {
+                "hi": "पौर्वदेहिकम्",
+                "en": "paurvadehikam",
+                "be": "পৌর্বদেহিকম্",
+                "ka": "ಪೌರ್ವದೇಹಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "पौरवदेहिकम्",
+                "en": "paurvadehikam",
+                "be": "paurvadehikam",
+                "ka": "ಪೌರ್ವದೇಹಿಕಮ್"
+            }
         },
         {
             "sanskrit": "यतते",
-            "transliteration": "yatate",
-            "meaning": "yatate"
+            "transliteration": {
+                "hi": "यतते",
+                "en": "yatate",
+                "be": "যততে",
+                "ka": "ಯತತೇ"
+            },
+            "meaning": {
+                "hi": "yatate",
+                "en": "yatate",
+                "be": "ইয়াতে",
+                "ka": "ಯಾತತೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ततो",
-            "transliteration": "tato",
-            "meaning": "tato"
+            "transliteration": {
+                "hi": "ततो",
+                "en": "tato",
+                "be": "ততো",
+                "ka": "ತತೋ"
+            },
+            "meaning": {
+                "hi": "tato",
+                "en": "tato",
+                "be": "tato",
+                "ka": "ಟಾಟೊ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "bhūyaḥ"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূয়াঃ",
+                "ka": "ಭೂಯಃ"
+            }
         },
         {
             "sanskrit": "संसिद्धौ",
-            "transliteration": "saṃsiddhau",
-            "meaning": "saṃsiddhau"
+            "transliteration": {
+                "hi": "संसिद्धौ",
+                "en": "saṃsiddhau",
+                "be": "সংসিদ্ধৌ",
+                "ka": "ಸಂಸಿದ್ಧೌ"
+            },
+            "meaning": {
+                "hi": "सङ्सिद्धौ",
+                "en": "saṃsiddhau",
+                "be": "সসিদ্ধউ",
+                "ka": "ಸಂಸಿದ್ಧೌ"
+            }
         },
         {
             "sanskrit": "कुरुनन्दन",
-            "transliteration": "kurunandana",
-            "meaning": "kurunandana"
+            "transliteration": {
+                "hi": "कुरुनन्दन",
+                "en": "kurunandana",
+                "be": "কুরুনন্দন",
+                "ka": "ಕುರುನನ್ದನ"
+            },
+            "meaning": {
+                "hi": "कुरुनंदन",
+                "en": "kurunandana",
+                "be": "কুরুনন্দনা",
+                "ka": "ಕುರುನಂದನ"
+            }
         }
     ],
     "tej": {

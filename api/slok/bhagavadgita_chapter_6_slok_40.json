@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\npārtha naiveha nāmutra vināśastasya vidyate .\nna hi kalyāṇakṛtkaścid durgatiṃ tāta gacchati ||6-40||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪಾರ್ಥ ನೈವೇಹ ನಾಮುತ್ರ ವಿನಾಶಸ್ತಸ್ಯ ವಿದ್ಯತೇ |\nನ ಹಿ ಕಲ್ಯಾಣಕೃತ್ಕಶ್ಚಿದ್ ದುರ್ಗತಿಂ ತಾತ ಗಚ್ಛತಿ ||೬-೪೦||"
     },
-    "transliteration": "śrībhagavānuvāca .\npārtha naiveha nāmutra vināśastasya vidyate .\nna hi kalyāṇakṛtkaścid durgatiṃ tāta gacchati ||6-40||",
-    "life_application": "Rest assured that no good effort is ever lost, and one who strives for righteousness never meets a tragic end.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |\nन हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ||६-४०||",
+        "en": "śrībhagavānuvāca .\npārtha naiveha nāmutra vināśastasya vidyate .\nna hi kalyāṇakṛtkaścid durgatiṃ tāta gacchati ||6-40||",
+        "be": "শ্রীভগবানুবাচ |\nপার্থ নৈবেহ নামুত্র বিনাশস্তস্য বিদ্যতে |\nন হি কল্যাণকৃত্কশ্চিদ্ দুর্গতিং তাত গচ্ছতি ||৬-৪০||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪಾರ್ಥ ನೈವೇಹ ನಾಮುತ್ರ ವಿನಾಶಸ್ತಸ್ಯ ವಿದ್ಯತೇ |\nನ ಹಿ ಕಲ್ಯಾಣಕೃತ್ಕಶ್ಚಿದ್ ದುರ್ಗತಿಂ ತಾತ ಗಚ್ಛತಿ ||೬-೪೦||"
+    },
+    "life_application": {
+        "hi": "निश्चिंत रहें कि कोई भी अच्छा प्रयास कभी खोया नहीं जाता है, और जो धार्मिकता के लिए प्रयास करता है उसका कभी भी दुखद अंत नहीं होता है।",
+        "en": "Rest assured that no good effort is ever lost, and one who strives for righteousness never meets a tragic end.",
+        "be": "নিশ্চিন্ত থাকুন যে কোন ভাল প্রচেষ্টা কখনও হারায় না, এবং যে ধার্মিকতার জন্য চেষ্টা করে তার কখনও দুঃখজনক পরিণতি হয় না।",
+        "ka": "ಯಾವುದೇ ಉತ್ತಮ ಪ್ರಯತ್ನವು ಎಂದಿಗೂ ಕಳೆದುಹೋಗುವುದಿಲ್ಲ ಮತ್ತು ಸದಾಚಾರಕ್ಕಾಗಿ ಶ್ರಮಿಸುವವನು ಎಂದಿಗೂ ದುರಂತ ಅಂತ್ಯವನ್ನು ಎದುರಿಸುವುದಿಲ್ಲ ಎಂದು ಖಚಿತವಾಗಿರಿ."
+    },
     "themes": [
         "Karma",
         "Purpose"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "नैवेह",
-            "transliteration": "naiveha",
-            "meaning": "naiveha"
+            "transliteration": {
+                "hi": "नैवेह",
+                "en": "naiveha",
+                "be": "নৈবেহ",
+                "ka": "ನೈವೇಹ"
+            },
+            "meaning": {
+                "hi": "नैवेहा",
+                "en": "naiveha",
+                "be": "naiveha",
+                "ka": "ನೈವೇಹ"
+            }
         },
         {
             "sanskrit": "नामुत्र",
-            "transliteration": "nāmutra",
-            "meaning": "nāmutra"
+            "transliteration": {
+                "hi": "नामुत्र",
+                "en": "nāmutra",
+                "be": "নামুত্র",
+                "ka": "ನಾಮುತ್ರ"
+            },
+            "meaning": {
+                "hi": "नमुत्र",
+                "en": "nāmutra",
+                "be": "নামুত্র",
+                "ka": "ನಾಮತ್ರ"
+            }
         },
         {
             "sanskrit": "विनाशस्तस्य",
-            "transliteration": "vināśastasya",
-            "meaning": "vināśastasya"
+            "transliteration": {
+                "hi": "विनाशस्तस्य",
+                "en": "vināśastasya",
+                "be": "বিনাশস্তস্য",
+                "ka": "ವಿನಾಶಸ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "विनाशस्तस्य",
+                "en": "vināśastasya",
+                "be": "বিনাশস্তস্য",
+                "ka": "ವಿನಾಶಸ್ತಸ್ಯ"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "vidyate"
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যাতে",
+                "ka": "ವಿದ್ಯೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "कल्याणकृत्कश्चिद्",
-            "transliteration": "kalyāṇakṛtkaścid",
-            "meaning": "kalyāṇakṛtkaścid"
+            "transliteration": {
+                "hi": "कल्याणकृत्कश्चिद्",
+                "en": "kalyāṇakṛtkaścid",
+                "be": "কল্যাণকৃত্কশ্চিদ্",
+                "ka": "ಕಲ್ಯಾಣಕೃತ್ಕಶ್ಚಿದ್"
+            },
+            "meaning": {
+                "hi": "कल्याणकृतकश्चिद",
+                "en": "kalyāṇakṛtkaścid",
+                "be": "কল্যাণকৃতকশ্চিদ",
+                "ka": "ಕಲ್ಯಾಣಕೃತ್ಕಶ್ಚಿದ್"
+            }
         },
         {
             "sanskrit": "दुर्गतिं",
-            "transliteration": "durgatiṃ",
-            "meaning": "durgatiṃ"
+            "transliteration": {
+                "hi": "दुर्गतिं",
+                "en": "durgatiṃ",
+                "be": "দুর্গতিং",
+                "ka": "ದುರ್ಗತಿಂ"
+            },
+            "meaning": {
+                "hi": "दुर्गतिं",
+                "en": "durgatiṃ",
+                "be": "দুর্গতি",
+                "ka": "ದುರ್ಗತಿಂ"
+            }
         },
         {
             "sanskrit": "तात",
-            "transliteration": "tāta",
-            "meaning": "tāta"
+            "transliteration": {
+                "hi": "तात",
+                "en": "tāta",
+                "be": "তাত",
+                "ka": "ತಾತ"
+            },
+            "meaning": {
+                "hi": "टाटा",
+                "en": "tāta",
+                "be": "তাতা",
+                "ka": "tāta"
+            }
         },
         {
             "sanskrit": "गच्छति",
-            "transliteration": "gacchati",
-            "meaning": "gacchati"
+            "transliteration": {
+                "hi": "गच्छति",
+                "en": "gacchati",
+                "be": "গচ্ছতি",
+                "ka": "ಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "गच्छति",
+                "en": "gacchati",
+                "be": "গচ্ছটি",
+                "ka": "ಗಚ್ಚತಿ"
+            }
         }
     ],
     "tej": {

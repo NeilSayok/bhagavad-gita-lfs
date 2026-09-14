@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nasaṃśayaṃ mahābāho mano durnigrahaṃ calam .\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||6-35||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಸಂಶಯಂ ಮಹಾಬಾಹೋ ಮನೋ ದುರ್ನಿಗ್ರಹಂ ಚಲಮ್ |\nಅಭ್ಯಾಸೇನ ತು ಕೌನ್ತೇಯ ವೈರಾಗ್ಯೇಣ ಚ ಗೃಹ್ಯತೇ ||೬-೩೫||"
     },
-    "transliteration": "śrībhagavānuvāca .\nasaṃśayaṃ mahābāho mano durnigrahaṃ calam .\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||6-35||",
-    "life_application": "Master your restless mind through steady practice and mental detachment, refusing to give up when progress feels slow.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nअसंशयं महाबाहो मनो दुर्निग्रहं चलम् |\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ||६-३५||",
+        "en": "śrībhagavānuvāca .\nasaṃśayaṃ mahābāho mano durnigrahaṃ calam .\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||6-35||",
+        "be": "শ্রীভগবানুবাচ |\nঅসংশযং মহাবাহো মনো দুর্নিগ্রহং চলম্ |\nঅভ্যাসেন তু কৌন্তেয বৈরাগ্যেণ চ গৃহ্যতে ||৬-৩৫||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಸಂಶಯಂ ಮಹಾಬಾಹೋ ಮನೋ ದುರ್ನಿಗ್ರಹಂ ಚಲಮ್ |\nಅಭ್ಯಾಸೇನ ತು ಕೌನ್ತೇಯ ವೈರಾಗ್ಯೇಣ ಚ ಗೃಹ್ಯತೇ ||೬-೩೫||"
+    },
+    "life_application": {
+        "hi": "स्थिर अभ्यास और मानसिक वैराग्य के माध्यम से अपने बेचैन दिमाग पर काबू पाएं, जब प्रगति धीमी लगे तो हार मानने से इनकार कर दें।",
+        "en": "Master your restless mind through steady practice and mental detachment, refusing to give up when progress feels slow.",
+        "be": "স্থির অনুশীলন এবং মানসিক বিচ্ছিন্নতার মাধ্যমে আপনার অস্থির মনকে আয়ত্ত করুন, যখন অগ্রগতি ধীর মনে হয় তখন হাল ছেড়ে দিতে অস্বীকার করুন।",
+        "ka": "ಸ್ಥಿರ ಅಭ್ಯಾಸ ಮತ್ತು ಮಾನಸಿಕ ಬೇರ್ಪಡುವಿಕೆ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರಕ್ಷುಬ್ಧ ಮನಸ್ಸನ್ನು ಕರಗತ ಮಾಡಿಕೊಳ್ಳಿ, ಪ್ರಗತಿ ನಿಧಾನವಾದಾಗ ಬಿಟ್ಟುಕೊಡಲು ನಿರಾಕರಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Detachment"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "असंशयं",
-            "transliteration": "asaṃśayaṃ",
-            "meaning": "asaṃśayaṃ"
+            "transliteration": {
+                "hi": "असंशयं",
+                "en": "asaṃśayaṃ",
+                "be": "অসংশযং",
+                "ka": "ಅಸಂಶಯಂ"
+            },
+            "meaning": {
+                "hi": "असंशयम्",
+                "en": "asaṃśayaṃ",
+                "be": "asaṃśayaṃ",
+                "ka": "ಅಸಂಶಯಃ"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "mahābāho"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            }
         },
         {
             "sanskrit": "मनो",
-            "transliteration": "mano",
-            "meaning": "mano"
+            "transliteration": {
+                "hi": "मनो",
+                "en": "mano",
+                "be": "মনো",
+                "ka": "ಮನೋ"
+            },
+            "meaning": {
+                "hi": "मनो",
+                "en": "mano",
+                "be": "মানো",
+                "ka": "ಮನೋ"
+            }
         },
         {
             "sanskrit": "दुर्निग्रहं",
-            "transliteration": "durnigrahaṃ",
-            "meaning": "durnigrahaṃ"
+            "transliteration": {
+                "hi": "दुर्निग्रहं",
+                "en": "durnigrahaṃ",
+                "be": "দুর্নিগ্রহং",
+                "ka": "ದುರ್ನಿಗ್ರಹಂ"
+            },
+            "meaning": {
+                "hi": "दुर्निग्रहं",
+                "en": "durnigrahaṃ",
+                "be": "দুর্নিগ্রহ",
+                "ka": "ದುರ್ನಿಗ್ರಹ"
+            }
         },
         {
             "sanskrit": "चलम्",
-            "transliteration": "calam",
-            "meaning": "calam"
+            "transliteration": {
+                "hi": "चलम्",
+                "en": "calam",
+                "be": "চলম্",
+                "ka": "ಚಲಮ್"
+            },
+            "meaning": {
+                "hi": "शांत",
+                "en": "calam",
+                "be": "ক্যালাম",
+                "ka": "ಕಾಲಮ್"
+            }
         },
         {
             "sanskrit": "अभ्यासेन",
-            "transliteration": "abhyāsena",
-            "meaning": "abhyāsena"
+            "transliteration": {
+                "hi": "अभ्यासेन",
+                "en": "abhyāsena",
+                "be": "অভ্যাসেন",
+                "ka": "ಅಭ್ಯಾಸೇನ"
+            },
+            "meaning": {
+                "hi": "अभ्याससेन",
+                "en": "abhyāsena",
+                "be": "অভ্যাসেন",
+                "ka": "ಅಭ್ಯಾಸೇನ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "वैराग्येण",
-            "transliteration": "vairāgyeṇa",
-            "meaning": "vairāgyeṇa"
+            "transliteration": {
+                "hi": "वैराग्येण",
+                "en": "vairāgyeṇa",
+                "be": "বৈরাগ্যেণ",
+                "ka": "ವೈರಾಗ್ಯೇಣ"
+            },
+            "meaning": {
+                "hi": "वैराग्येण",
+                "en": "vairāgyeṇa",
+                "be": "বৈরাগ্যেণ",
+                "ka": "ವೈರಾಜ್ಞೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "गृह्यते",
-            "transliteration": "gṛhyate",
-            "meaning": "gṛhyate"
+            "transliteration": {
+                "hi": "गृह्यते",
+                "en": "gṛhyate",
+                "be": "গৃহ্যতে",
+                "ka": "ಗೃಹ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "गृह्यते",
+                "en": "gṛhyate",
+                "be": "গৃহ্যতে",
+                "ka": "ಗೃಹ್ಯತೇ"
+            }
         }
     ],
     "tej": {

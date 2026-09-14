@@ -14,8 +14,18 @@
         "en": "yadā hi nendriyārtheṣu na karmasvanuṣajjate .\nsarvasaṅkalpasaṃnyāsī yogārūḍhastadocyate ||6-4||",
         "ka": "ಯದಾ ಹಿ ನೇನ್ದ್ರಿಯಾರ್ಥೇಷು ನ ಕರ್ಮಸ್ವನುಷಜ್ಜತೇ |\nಸರ್ವಸಙ್ಕಲ್ಪಸಂನ್ಯಾಸೀ ಯೋಗಾರೂಢಸ್ತದೋಚ್ಯತೇ ||೬-೪||"
     },
-    "transliteration": "yadā hi nendriyārtheṣu na karmasvanuṣajjate .\nsarvasaṅkalpasaṃnyāsī yogārūḍhastadocyate ||6-4||",
-    "life_application": "Free your mind from attachment to sensory enjoyment and selfish projects to become truly established in meditation.",
+    "transliteration": {
+        "hi": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते |\nसर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ||६-४||",
+        "en": "yadā hi nendriyārtheṣu na karmasvanuṣajjate .\nsarvasaṅkalpasaṃnyāsī yogārūḍhastadocyate ||6-4||",
+        "be": "যদা হি নেন্দ্রিযার্থেষু ন কর্মস্বনুষজ্জতে |\nসর্বসঙ্কল্পসংন্যাসী যোগারূঢস্তদোচ্যতে ||৬-৪||",
+        "ka": "ಯದಾ ಹಿ ನೇನ್ದ್ರಿಯಾರ್ಥೇಷು ನ ಕರ್ಮಸ್ವನುಷಜ್ಜತೇ |\nಸರ್ವಸಙ್ಕಲ್ಪಸಂನ್ಯಾಸೀ ಯೋಗಾರೂಢಸ್ತದೋಚ್ಯತೇ ||೬-೪||"
+    },
+    "life_application": {
+        "hi": "वास्तव में ध्यान में स्थापित होने के लिए अपने मन को संवेदी आनंद और स्वार्थी परियोजनाओं के प्रति लगाव से मुक्त करें।",
+        "en": "Free your mind from attachment to sensory enjoyment and selfish projects to become truly established in meditation.",
+        "be": "সত্যিকার অর্থে ধ্যানে প্রতিষ্ঠিত হওয়ার জন্য আপনার মনকে সংবেদনশীল উপভোগ এবং স্বার্থপর প্রকল্পের সংযুক্তি থেকে মুক্ত করুন।",
+        "ka": "ಧ್ಯಾನದಲ್ಲಿ ನಿಜವಾಗಿಯೂ ಸ್ಥಾಪಿತವಾಗಲು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಇಂದ್ರಿಯ ಆನಂದ ಮತ್ತು ಸ್ವಾರ್ಥಿ ಯೋಜನೆಗಳಿಗೆ ಬಾಂಧವ್ಯದಿಂದ ಮುಕ್ತಗೊಳಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Mindfulness"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "नेन्द्रियार्थेषु",
-            "transliteration": "nendriyārtheṣu",
-            "meaning": "nendriyārtheṣu"
+            "transliteration": {
+                "hi": "नेन्द्रियार्थेषु",
+                "en": "nendriyārtheṣu",
+                "be": "নেন্দ্রিযার্থেষু",
+                "ka": "ನೇನ್ದ್ರಿಯಾರ್ಥೇಷು"
+            },
+            "meaning": {
+                "hi": "नेन्द्रियार्थेषु",
+                "en": "nendriyārtheṣu",
+                "be": "নেন্দ্রিয়ার্থেসু",
+                "ka": "ನೇಂದ್ರಿಯಾರ್ಥೆಸು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्मस्वनुषज्जते",
-            "transliteration": "karmasvanuṣajjate",
-            "meaning": "karmasvanuṣajjate"
+            "transliteration": {
+                "hi": "कर्मस्वनुषज्जते",
+                "en": "karmasvanuṣajjate",
+                "be": "কর্মস্বনুষজ্জতে",
+                "ka": "ಕರ್ಮಸ್ವನುಷಜ್ಜತೇ"
+            },
+            "meaning": {
+                "hi": "कर्मस्वानुशज्जते",
+                "en": "karmasvanuṣajjate",
+                "be": "কর্মবনুষজতে",
+                "ka": "ಕರ್ಮಸ್ವಾನುಷಜ್ಜತೇ"
+            }
         },
         {
             "sanskrit": "सर्वसङ्कल्पसंन्यासी",
-            "transliteration": "sarvasaṅkalpasaṃnyāsī",
-            "meaning": "sarvasaṅkalpasaṃnyāsī"
+            "transliteration": {
+                "hi": "सर्वसङ्कल्पसंन्यासी",
+                "en": "sarvasaṅkalpasaṃnyāsī",
+                "be": "সর্বসঙ্কল্পসংন্যাসী",
+                "ka": "ಸರ್ವಸಙ್ಕಲ್ಪಸಂನ್ಯಾಸೀ"
+            },
+            "meaning": {
+                "hi": "सर्वसंकल्पसंन्यासी",
+                "en": "sarvasaṅkalpasaṃnyāsī",
+                "be": "সর্বসংকল্পসংন্যাসী",
+                "ka": "ಸರ್ವಸಂಕಲ್ಪಸಂನ್ಯಾಸಿ"
+            }
         },
         {
             "sanskrit": "योगारूढस्तदोच्यते",
-            "transliteration": "yogārūḍhastadocyate",
-            "meaning": "yogārūḍhastadocyate"
+            "transliteration": {
+                "hi": "योगारूढस्तदोच्यते",
+                "en": "yogārūḍhastadocyate",
+                "be": "যোগারূঢস্তদোচ্যতে",
+                "ka": "ಯೋಗಾರೂಢಸ್ತದೋಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "योगारूढ़हस्तदोच्यते",
+                "en": "yogārūḍhastadocyate",
+                "be": "যোগারুদহস্তোচ্যতে",
+                "ka": "ಯೋಗಾರೂಢ್ಹಸ್ತದೋಚ್ಯತೇ"
+            }
         }
     ],
     "tej": {

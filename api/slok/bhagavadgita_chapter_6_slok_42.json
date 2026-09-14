@@ -14,8 +14,18 @@
         "en": "athavā yogināmeva kule bhavati dhīmatām .\netaddhi durlabhataraṃ loke janma yadīdṛśam ||6-42||",
         "ka": "ಅಥವಾ ಯೋಗಿನಾಮೇವ ಕುಲೇ ಭವತಿ ಧೀಮತಾಮ್ |\nಏತದ್ಧಿ ದುರ್ಲಭತರಂ ಲೋಕೇ ಜನ್ಮ ಯದೀದೃಶಮ್ ||೬-೪೨||"
     },
-    "transliteration": "athavā yogināmeva kule bhavati dhīmatām .\netaddhi durlabhataraṃ loke janma yadīdṛśam ||6-42||",
-    "life_application": "Value being born into a family of wise spiritual practitioners as a rare and precious opportunity for growth.",
+    "transliteration": {
+        "hi": "अथवा योगिनामेव कुले भवति धीमताम् |\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ||६-४२||",
+        "en": "athavā yogināmeva kule bhavati dhīmatām .\netaddhi durlabhataraṃ loke janma yadīdṛśam ||6-42||",
+        "be": "অথবা যোগিনামেব কুলে ভবতি ধীমতাম্ |\nএতদ্ধি দুর্লভতরং লোকে জন্ম যদীদৃশম্ ||৬-৪২||",
+        "ka": "ಅಥವಾ ಯೋಗಿನಾಮೇವ ಕುಲೇ ಭವತಿ ಧೀಮತಾಮ್ |\nಏತದ್ಧಿ ದುರ್ಲಭತರಂ ಲೋಕೇ ಜನ್ಮ ಯದೀದೃಶಮ್ ||೬-೪೨||"
+    },
+    "life_application": {
+        "hi": "बुद्धिमान आध्यात्मिक अभ्यासियों के परिवार में जन्म लेने को विकास के लिए एक दुर्लभ और अनमोल अवसर के रूप में महत्व दें।",
+        "en": "Value being born into a family of wise spiritual practitioners as a rare and precious opportunity for growth.",
+        "be": "জ্ঞানী আধ্যাত্মিক অনুশীলনকারীদের একটি পরিবারে জন্ম নেওয়াকে বৃদ্ধির একটি বিরল এবং মূল্যবান সুযোগ হিসাবে মূল্য দিন।",
+        "ka": "ಮೌಲ್ಯವು ಬೆಳವಣಿಗೆಗೆ ಅಪರೂಪದ ಮತ್ತು ಅಮೂಲ್ಯವಾದ ಅವಕಾಶವಾಗಿ ಬುದ್ಧಿವಂತ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧಕರ ಕುಟುಂಬದಲ್ಲಿ ಹುಟ್ಟಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अथवा",
-            "transliteration": "athavā",
-            "meaning": "athavā"
+            "transliteration": {
+                "hi": "अथवा",
+                "en": "athavā",
+                "be": "অথবা",
+                "ka": "ಅಥವಾ"
+            },
+            "meaning": {
+                "hi": "अथवा",
+                "en": "athavā",
+                "be": "অথবা",
+                "ka": "ಅಥಾವ"
+            }
         },
         {
             "sanskrit": "योगिनामेव",
-            "transliteration": "yogināmeva",
-            "meaning": "yogināmeva"
+            "transliteration": {
+                "hi": "योगिनामेव",
+                "en": "yogināmeva",
+                "be": "যোগিনামেব",
+                "ka": "ಯೋಗಿನಾಮೇವ"
+            },
+            "meaning": {
+                "hi": "योगिनामेव",
+                "en": "yogināmeva",
+                "be": "যোগিনামেভা",
+                "ka": "ಯೋಗಿನಮೇವ"
+            }
         },
         {
             "sanskrit": "कुले",
-            "transliteration": "kule",
-            "meaning": "kule"
+            "transliteration": {
+                "hi": "कुले",
+                "en": "kule",
+                "be": "কুলে",
+                "ka": "ಕುಲೇ"
+            },
+            "meaning": {
+                "hi": "कुले",
+                "en": "kule",
+                "be": "কুলে",
+                "ka": "ಕುಲೆ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "bhavati"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            }
         },
         {
             "sanskrit": "धीमताम्",
-            "transliteration": "dhīmatām",
-            "meaning": "dhīmatām"
+            "transliteration": {
+                "hi": "धीमताम्",
+                "en": "dhīmatām",
+                "be": "ধীমতাম্",
+                "ka": "ಧೀಮತಾಮ್"
+            },
+            "meaning": {
+                "hi": "धीमताम्",
+                "en": "dhīmatām",
+                "be": "ধীমতম",
+                "ka": "ಧೀಮತಮ್"
+            }
         },
         {
             "sanskrit": "एतद्धि",
-            "transliteration": "etaddhi",
-            "meaning": "etaddhi"
+            "transliteration": {
+                "hi": "एतद्धि",
+                "en": "etaddhi",
+                "be": "এতদ্ধি",
+                "ka": "ಏತದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "एतदधि",
+                "en": "etaddhi",
+                "be": "etaddhi",
+                "ka": "ಏತದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "दुर्लभतरं",
-            "transliteration": "durlabhataraṃ",
-            "meaning": "durlabhataraṃ"
+            "transliteration": {
+                "hi": "दुर्लभतरं",
+                "en": "durlabhataraṃ",
+                "be": "দুর্লভতরং",
+                "ka": "ದುರ್ಲಭತರಂ"
+            },
+            "meaning": {
+                "hi": "दुर्लभत्रं",
+                "en": "durlabhataraṃ",
+                "be": "দুর্লভতরং",
+                "ka": "ದುರ್ಲಭಟರಂ"
+            }
         },
         {
             "sanskrit": "लोके",
-            "transliteration": "loke",
-            "meaning": "in the world"
+            "transliteration": {
+                "hi": "लोके",
+                "en": "loke",
+                "be": "লোকে",
+                "ka": "ಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "दुनिया में",
+                "en": "in the world",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "जन्म",
-            "transliteration": "janma",
-            "meaning": "janma"
+            "transliteration": {
+                "hi": "जन्म",
+                "en": "janma",
+                "be": "জন্ম",
+                "ka": "ಜನ್ಮ"
+            },
+            "meaning": {
+                "hi": "जन्म",
+                "en": "janma",
+                "be": "janma",
+                "ka": "ಜನ್ಮ"
+            }
         },
         {
             "sanskrit": "यदीदृशम्",
-            "transliteration": "yadīdṛśam",
-            "meaning": "yadīdṛśam"
+            "transliteration": {
+                "hi": "यदीदृशम्",
+                "en": "yadīdṛśam",
+                "be": "যদীদৃশম্",
+                "ka": "ಯದೀದೃಶಮ್"
+            },
+            "meaning": {
+                "hi": "यदिदृशम्",
+                "en": "yadīdṛśam",
+                "be": "ইয়াদিদৃশম",
+                "ka": "ಯಾದೃಶಮ್"
+            }
         }
     ],
     "tej": {

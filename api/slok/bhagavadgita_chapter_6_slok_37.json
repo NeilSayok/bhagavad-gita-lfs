@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nayatiḥ śraddhayopeto yogāccalitamānasaḥ .\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||6-37||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಅಯತಿಃ ಶ್ರದ್ಧಯೋಪೇತೋ ಯೋಗಾಚ್ಚಲಿತಮಾನಸಃ |\nಅಪ್ರಾಪ್ಯ ಯೋಗಸಂಸಿದ್ಧಿಂ ಕಾಂ ಗತಿಂ ಕೃಷ್ಣ ಗಚ್ಛತಿ ||೬-೩೭||"
     },
-    "transliteration": "arjuna uvāca .\nayatiḥ śraddhayopeto yogāccalitamānasaḥ .\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||6-37||",
-    "life_application": "Ask with trust about the fate of an earnest seeker who strays from practice due to an un-mastered mind.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nअयतिः श्रद्धयोपेतो योगाच्चलितमानसः |\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ||६-३७||",
+        "en": "arjuna uvāca .\nayatiḥ śraddhayopeto yogāccalitamānasaḥ .\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||6-37||",
+        "be": "অর্জুন উবাচ |\nঅযতিঃ শ্রদ্ধযোপেতো যোগাচ্চলিতমানসঃ |\nঅপ্রাপ্য যোগসংসিদ্ধিং কাং গতিং কৃষ্ণ গচ্ছতি ||৬-৩৭||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಅಯತಿಃ ಶ್ರದ್ಧಯೋಪೇತೋ ಯೋಗಾಚ್ಚಲಿತಮಾನಸಃ |\nಅಪ್ರಾಪ್ಯ ಯೋಗಸಂಸಿದ್ಧಿಂ ಕಾಂ ಗತಿಂ ಕೃಷ್ಣ ಗಚ್ಛತಿ ||೬-೩೭||"
+    },
+    "life_application": {
+        "hi": "उस निष्ठावान साधक के भाग्य के बारे में विश्वास के साथ पूछें जो अकुशल मन के कारण अभ्यास से भटक जाता है।",
+        "en": "Ask with trust about the fate of an earnest seeker who strays from practice due to an un-mastered mind.",
+        "be": "একজন আন্তরিক অন্বেষণকারীর ভাগ্য সম্পর্কে বিশ্বাসের সাথে জিজ্ঞাসা করুন যে একটি অ-নিপুণ মনের কারণে অনুশীলন থেকে বিচ্যুত হয়।",
+        "ka": "ಪಾಂಡಿತ್ಯವಿಲ್ಲದ ಮನಸ್ಸಿನಿಂದ ಅಭ್ಯಾಸದಿಂದ ದೂರ ಸರಿಯುವ ಶ್ರದ್ಧೆಯಿಂದ ಹುಡುಕುವವರ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ವಿಶ್ವಾಸದಿಂದ ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "अयतिः",
-            "transliteration": "ayatiḥ",
-            "meaning": "ayatiḥ"
+            "transliteration": {
+                "hi": "अयतिः",
+                "en": "ayatiḥ",
+                "be": "অযতিঃ",
+                "ka": "ಅಯತಿಃ"
+            },
+            "meaning": {
+                "hi": "अयातिः",
+                "en": "ayatiḥ",
+                "be": "আয়াতঃ",
+                "ka": "ಆಯತಿಃ"
+            }
         },
         {
             "sanskrit": "श्रद्धयोपेतो",
-            "transliteration": "śraddhayopeto",
-            "meaning": "śraddhayopeto"
+            "transliteration": {
+                "hi": "श्रद्धयोपेतो",
+                "en": "śraddhayopeto",
+                "be": "শ্রদ্ধযোপেতো",
+                "ka": "ಶ್ರದ್ಧಯೋಪೇತೋ"
+            },
+            "meaning": {
+                "hi": "श्रद्धायोपेतो",
+                "en": "śraddhayopeto",
+                "be": "শ্রদ্ধায়োপেতো",
+                "ka": "ಶ್ರದ್ಧಯೋಪೇತೋ"
+            }
         },
         {
             "sanskrit": "योगाच्चलितमानसः",
-            "transliteration": "yogāccalitamānasaḥ",
-            "meaning": "yogāccalitamānasaḥ"
+            "transliteration": {
+                "hi": "योगाच्चलितमानसः",
+                "en": "yogāccalitamānasaḥ",
+                "be": "যোগাচ্চলিতমানসঃ",
+                "ka": "ಯೋಗಾಚ್ಚಲಿತಮಾನಸಃ"
+            },
+            "meaning": {
+                "hi": "योगाच्चिलितमानसः",
+                "en": "yogāccalitamānasaḥ",
+                "be": "যোগাচলিতমানাসঃ",
+                "ka": "ಯೋಗಾಚ್ಚಲಿತಮಾನಸಃ"
+            }
         },
         {
             "sanskrit": "अप्राप्य",
-            "transliteration": "aprāpya",
-            "meaning": "aprāpya"
+            "transliteration": {
+                "hi": "अप्राप्य",
+                "en": "aprāpya",
+                "be": "অপ্রাপ্য",
+                "ka": "ಅಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "अप्राप्य",
+                "en": "aprāpya",
+                "be": "aprāpya",
+                "ka": "ಅಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "योगसंसिद्धिं",
-            "transliteration": "yogasaṃsiddhiṃ",
-            "meaning": "yogasaṃsiddhiṃ"
+            "transliteration": {
+                "hi": "योगसंसिद्धिं",
+                "en": "yogasaṃsiddhiṃ",
+                "be": "যোগসংসিদ্ধিং",
+                "ka": "ಯೋಗಸಂಸಿದ್ಧಿಂ"
+            },
+            "meaning": {
+                "hi": "योगसंसिद्धिः",
+                "en": "yogasaṃsiddhiṃ",
+                "be": "যোগসংসিদ্ধি",
+                "ka": "ಯೋಗಸಂಸಿದ್ಧಿಃ"
+            }
         },
         {
             "sanskrit": "कां",
-            "transliteration": "kāṃ",
-            "meaning": "kāṃ"
+            "transliteration": {
+                "hi": "कां",
+                "en": "kāṃ",
+                "be": "কাং",
+                "ka": "ಕಾಂ"
+            },
+            "meaning": {
+                "hi": "कां",
+                "en": "kāṃ",
+                "be": "kāṃ",
+                "ka": "kāṃ"
+            }
         },
         {
             "sanskrit": "गतिं",
-            "transliteration": "gatiṃ",
-            "meaning": "gatiṃ"
+            "transliteration": {
+                "hi": "गतिं",
+                "en": "gatiṃ",
+                "be": "গতিং",
+                "ka": "ಗತಿಂ"
+            },
+            "meaning": {
+                "hi": "गतिम्",
+                "en": "gatiṃ",
+                "be": "gatiṃ",
+                "ka": "ಗತಿಂ"
+            }
         },
         {
             "sanskrit": "कृष्ण",
-            "transliteration": "kṛṣṇa",
-            "meaning": "kṛṣṇa"
+            "transliteration": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            }
         },
         {
             "sanskrit": "गच्छति",
-            "transliteration": "gacchati",
-            "meaning": "gacchati"
+            "transliteration": {
+                "hi": "गच्छति",
+                "en": "gacchati",
+                "be": "গচ্ছতি",
+                "ka": "ಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "गच्छति",
+                "en": "gacchati",
+                "be": "গচ্ছটি",
+                "ka": "ಗಚ್ಚತಿ"
+            }
         }
     ],
     "tej": {

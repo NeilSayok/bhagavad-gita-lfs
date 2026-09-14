@@ -14,8 +14,18 @@
         "en": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ .\nvaśyātmanā tu yatatā śakyo.avāptumupāyataḥ ||6-36||",
         "ka": "ಅಸಂಯತಾತ್ಮನಾ ಯೋಗೋ ದುಷ್ಪ್ರಾಪ ಇತಿ ಮೇ ಮತಿಃ |\nವಶ್ಯಾತ್ಮನಾ ತು ಯತತಾ ಶಕ್ಯೋಽವಾಪ್ತುಮುಪಾಯತಃ ||೬-೩೬||"
     },
-    "transliteration": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ .\nvaśyātmanā tu yatatā śakyo.avāptumupāyataḥ ||6-36||",
-    "life_application": "Understand that self-mastery is hard for the undisciplined, but achievable for one who strives using proper methods.",
+    "transliteration": {
+        "hi": "असंयतात्मना योगो दुष्प्राप इति मे मतिः |\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ||६-३६||",
+        "en": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ .\nvaśyātmanā tu yatatā śakyo.avāptumupāyataḥ ||6-36||",
+        "be": "অসংযতাত্মনা যোগো দুষ্প্রাপ ইতি মে মতিঃ |\nবশ্যাত্মনা তু যততা শক্যোঽবাপ্তুমুপাযতঃ ||৬-৩৬||",
+        "ka": "ಅಸಂಯತಾತ್ಮನಾ ಯೋಗೋ ದುಷ್ಪ್ರಾಪ ಇತಿ ಮೇ ಮತಿಃ |\nವಶ್ಯಾತ್ಮನಾ ತು ಯತತಾ ಶಕ್ಯೋಽವಾಪ್ತುಮುಪಾಯತಃ ||೬-೩೬||"
+    },
+    "life_application": {
+        "hi": "समझें कि अनुशासनहीन लोगों के लिए आत्म-निपुणता कठिन है, लेकिन उचित तरीकों का उपयोग करके प्रयास करने वाले के लिए इसे प्राप्त किया जा सकता है।",
+        "en": "Understand that self-mastery is hard for the undisciplined, but achievable for one who strives using proper methods.",
+        "be": "বুঝুন যে স্ব-নিয়ন্ত্রণ শৃঙ্খলাহীনদের জন্য কঠিন, তবে যিনি সঠিক পদ্ধতি ব্যবহার করে চেষ্টা করেন তার পক্ষে অর্জনযোগ্য।",
+        "ka": "ಅಶಿಸ್ತಿನವರಿಗೆ ಸ್ವಯಂ ಪಾಂಡಿತ್ಯವು ಕಷ್ಟಕರವಾಗಿದೆ, ಆದರೆ ಸರಿಯಾದ ವಿಧಾನಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಶ್ರಮಿಸುವವರಿಗೆ ಸಾಧಿಸಬಹುದು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mind",
         "Purpose"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "असंयतात्मना",
-            "transliteration": "asaṃyatātmanā",
-            "meaning": "asaṃyatātmanā"
+            "transliteration": {
+                "hi": "असंयतात्मना",
+                "en": "asaṃyatātmanā",
+                "be": "অসংযতাত্মনা",
+                "ka": "ಅಸಂಯತಾತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "असंयतात्मना",
+                "en": "asaṃyatātmanā",
+                "be": "asaṃyatatmanā",
+                "ka": "ಅಸ್ಯತಾತ್ಮನಾ"
+            }
         },
         {
             "sanskrit": "योगो",
-            "transliteration": "yogo",
-            "meaning": "yogo"
+            "transliteration": {
+                "hi": "योगो",
+                "en": "yogo",
+                "be": "যোগো",
+                "ka": "ಯೋಗೋ"
+            },
+            "meaning": {
+                "hi": "योगो",
+                "en": "yogo",
+                "be": "যোগো",
+                "ka": "ಯೋಗ"
+            }
         },
         {
             "sanskrit": "दुष्प्राप",
-            "transliteration": "duṣprāpa",
-            "meaning": "duṣprāpa"
+            "transliteration": {
+                "hi": "दुष्प्राप",
+                "en": "duṣprāpa",
+                "be": "দুষ্প্রাপ",
+                "ka": "ದುಷ್ಪ್ರಾಪ"
+            },
+            "meaning": {
+                "hi": "दुष्प्राप",
+                "en": "duṣprāpa",
+                "be": "দুষপ্রাপ",
+                "ka": "ದುಷ್ಪ್ರಪ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "मतिः",
-            "transliteration": "matiḥ",
-            "meaning": "matiḥ"
+            "transliteration": {
+                "hi": "मतिः",
+                "en": "matiḥ",
+                "be": "মতিঃ",
+                "ka": "ಮತಿಃ"
+            },
+            "meaning": {
+                "hi": "मतिः",
+                "en": "matiḥ",
+                "be": "matiḥ",
+                "ka": "ಮತಿಃ"
+            }
         },
         {
             "sanskrit": "वश्यात्मना",
-            "transliteration": "vaśyātmanā",
-            "meaning": "vaśyātmanā"
+            "transliteration": {
+                "hi": "वश्यात्मना",
+                "en": "vaśyātmanā",
+                "be": "বশ্যাত্মনা",
+                "ka": "ವಶ್ಯಾತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "वश्यात्मना",
+                "en": "vaśyātmanā",
+                "be": "vashyātmanā",
+                "ka": "ವಶ್ಯಾತ್ಮನಾ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "यतता",
-            "transliteration": "yatatā",
-            "meaning": "yatatā"
+            "transliteration": {
+                "hi": "यतता",
+                "en": "yatatā",
+                "be": "যততা",
+                "ka": "ಯತತಾ"
+            },
+            "meaning": {
+                "hi": "यताता",
+                "en": "yatatā",
+                "be": "yatatā",
+                "ka": "ಯಾತತಾ"
+            }
         },
         {
             "sanskrit": "शक्योऽवाप्तुमुपायतः",
-            "transliteration": "śakyo'vāptumupāyataḥ",
-            "meaning": "śakyo'vāptumupāyataḥ"
+            "transliteration": {
+                "hi": "शक्योऽवाप्तुमुपायतः",
+                "en": "śakyo'vāptumupāyataḥ",
+                "be": "শক্যোঽবাপ্তুমুপাযতঃ",
+                "ka": "ಶಕ್ಯೋಽವಾಪ್ತುಮುಪಾಯತಃ"
+            },
+            "meaning": {
+                "hi": "शक्योऽवाप्तुमुपायतः",
+                "en": "śakyo'vāptumupāyataḥ",
+                "be": "শাক্যোভ্যাপতুমুপায়তঃ",
+                "ka": "ಶಾಕ್ಯೋ'ವಾಪ್ತುಮುಪಾಯತಃ"
+            }
         }
     ],
     "tej": {

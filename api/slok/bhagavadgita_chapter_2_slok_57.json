@@ -14,8 +14,18 @@
         "en": "yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham .\nnābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||2-57||",
         "ka": "ಯಃ ಸರ್ವತ್ರಾನಭಿಸ್ನೇಹಸ್ತತ್ತತ್ಪ್ರಾಪ್ಯ ಶುಭಾಶುಭಮ್ |\nನಾಭಿನನ್ದತಿ ನ ದ್ವೇಷ್ಟಿ ತಸ್ಯ ಪ್ರಜ್ಞಾ ಪ್ರತಿಷ್ಠಿತಾ ||೨-೫೭||"
     },
-    "transliteration": "yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham .\nnābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||2-57||",
-    "life_application": "Greet both favorable news and difficult news today without dramatic emotional swings or bitter resentment.",
+    "transliteration": {
+        "hi": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||२-५७||",
+        "en": "yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham .\nnābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||2-57||",
+        "be": "যঃ সর্বত্রানভিস্নেহস্তত্তত্প্রাপ্য শুভাশুভম্ |\nনাভিনন্দতি ন দ্বেষ্টি তস্য প্রজ্ঞা প্রতিষ্ঠিতা ||২-৫৭||",
+        "ka": "ಯಃ ಸರ್ವತ್ರಾನಭಿಸ್ನೇಹಸ್ತತ್ತತ್ಪ್ರಾಪ್ಯ ಶುಭಾಶುಭಮ್ |\nನಾಭಿನನ್ದತಿ ನ ದ್ವೇಷ್ಟಿ ತಸ್ಯ ಪ್ರಜ್ಞಾ ಪ್ರತಿಷ್ಠಿತಾ ||೨-೫೭||"
+    },
+    "life_application": {
+        "hi": "आज नाटकीय भावनात्मक उतार-चढ़ाव या कड़वी नाराजगी के बिना अनुकूल समाचार और कठिन समाचार दोनों का स्वागत करें।",
+        "en": "Greet both favorable news and difficult news today without dramatic emotional swings or bitter resentment.",
+        "be": "নাটকীয় সংবেদনশীল দোল বা তিক্ত বিরক্তি ছাড়াই আজ অনুকূল সংবাদ এবং কঠিন সংবাদ উভয়কেই শুভেচ্ছা জানান।",
+        "ka": "ನಾಟಕೀಯ ಭಾವನಾತ್ಮಕ ಬದಲಾವಣೆಗಳು ಅಥವಾ ಕಹಿ ಅಸಮಾಧಾನವಿಲ್ಲದೆ ಇಂದು ಅನುಕೂಲಕರ ಸುದ್ದಿ ಮತ್ತು ಕಷ್ಟಕರ ಸುದ್ದಿ ಎರಡನ್ನೂ ಸ್ವಾಗತಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "he who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "वह जो",
+                "en": "he who",
+                "be": "তিনি যিনি",
+                "ka": "ಅವನು ಯಾರು"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "अनभिस्नेहः",
-            "transliteration": "anabhisnehaḥ",
-            "meaning": "without attachment"
+            "transliteration": {
+                "hi": "अनभिस्नेहः",
+                "en": "anabhisnehaḥ",
+                "be": "অনভিস্নেহঃ",
+                "ka": "ಅನಭಿಸ್ನೇಹಃ"
+            },
+            "meaning": {
+                "hi": "बिना लगाव के",
+                "en": "without attachment",
+                "be": "সংযুক্তি ছাড়া",
+                "ka": "ಬಾಂಧವ್ಯವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "प्राप्य",
-            "transliteration": "prāpya",
-            "meaning": "having obtained"
+            "transliteration": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्त कर लिया है",
+                "en": "having obtained",
+                "be": "পেয়েছিলাম",
+                "ka": "ಪಡೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "शुभाशुभम्",
-            "transliteration": "śubhāśubham",
-            "meaning": "good and evil"
+            "transliteration": {
+                "hi": "शुभाशुभम्",
+                "en": "śubhāśubham",
+                "be": "শুভাশুভম্",
+                "ka": "ಶುಭಾಶುಭಮ್"
+            },
+            "meaning": {
+                "hi": "अच्छाई और बुराई",
+                "en": "good and evil",
+                "be": "ভাল এবং মন্দ",
+                "ka": "ಒಳ್ಳೆಯದು ಮತ್ತು ಕೆಟ್ಟದು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अभिनन्दति",
-            "transliteration": "abhinandati",
-            "meaning": "rejoices"
+            "transliteration": {
+                "hi": "अभिनन्दति",
+                "en": "abhinandati",
+                "be": "অভিনন্দতি",
+                "ka": "ಅಭಿನನ್ದತಿ"
+            },
+            "meaning": {
+                "hi": "आनंदित",
+                "en": "rejoices",
+                "be": "আনন্দিত",
+                "ka": "ಸಂತೋಷಪಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "द्वेष्टि",
-            "transliteration": "dveṣṭi",
-            "meaning": "hates"
+            "transliteration": {
+                "hi": "द्वेष्टि",
+                "en": "dveṣṭi",
+                "be": "দ্বেষ্টি",
+                "ka": "ದ್ವೇಷ್ಟಿ"
+            },
+            "meaning": {
+                "hi": "नफरत करता है",
+                "en": "hates",
+                "be": "ঘৃণা করে",
+                "ka": "ದ್ವೇಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "of him"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "of him",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "प्रज्ञा",
-            "transliteration": "prajñā",
-            "meaning": "wisdom"
+            "transliteration": {
+                "hi": "प्रज्ञा",
+                "en": "prajñā",
+                "be": "প্রজ্ঞা",
+                "ka": "ಪ್ರಜ್ಞಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "wisdom",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ"
+            }
         },
         {
             "sanskrit": "प्रतिष्ठिता",
-            "transliteration": "pratiṣṭhitā",
-            "meaning": "is fixed."
+            "transliteration": {
+                "hi": "प्रतिष्ठिता",
+                "en": "pratiṣṭhitā",
+                "be": "প্রতিষ্ঠিতা",
+                "ka": "ಪ್ರತಿಷ್ಠಿತಾ"
+            },
+            "meaning": {
+                "hi": "तय है.",
+                "en": "is fixed.",
+                "be": "স্থির করা হয়।",
+                "ka": "ನಿಗದಿಪಡಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

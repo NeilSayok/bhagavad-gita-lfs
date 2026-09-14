@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nprajahāti yadā kāmānsarvānpārtha manogatān .\nātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate ||2-55||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪ್ರಜಹಾತಿ ಯದಾ ಕಾಮಾನ್ಸರ್ವಾನ್ಪಾರ್ಥ ಮನೋಗತಾನ್ |\nಆತ್ಮನ್ಯೇವಾತ್ಮನಾ ತುಷ್ಟಃ ಸ್ಥಿತಪ್ರಜ್ಞಸ್ತದೋಚ್ಯತೇ ||೨-೫೫||"
     },
-    "transliteration": "śrībhagavānuvāca .\nprajahāti yadā kāmānsarvānpārtha manogatān .\nātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate ||2-55||",
-    "life_application": "Find satisfaction in your own inner presence today rather than relying on external approval or novel pleasures.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nप्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ||२-५५||",
+        "en": "śrībhagavānuvāca .\nprajahāti yadā kāmānsarvānpārtha manogatān .\nātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate ||2-55||",
+        "be": "শ্রীভগবানুবাচ |\nপ্রজহাতি যদা কামান্সর্বান্পার্থ মনোগতান্ |\nআত্মন্যেবাত্মনা তুষ্টঃ স্থিতপ্রজ্ঞস্তদোচ্যতে ||২-৫৫||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪ್ರಜಹಾತಿ ಯದಾ ಕಾಮಾನ್ಸರ್ವಾನ್ಪಾರ್ಥ ಮನೋಗತಾನ್ |\nಆತ್ಮನ್ಯೇವಾತ್ಮನಾ ತುಷ್ಟಃ ಸ್ಥಿತಪ್ರಜ್ಞಸ್ತದೋಚ್ಯತೇ ||೨-೫೫||"
+    },
+    "life_application": {
+        "hi": "बाहरी अनुमोदन या नवीन सुखों पर निर्भर रहने के बजाय आज अपनी आंतरिक उपस्थिति में संतुष्टि खोजें।",
+        "en": "Find satisfaction in your own inner presence today rather than relying on external approval or novel pleasures.",
+        "be": "বাহ্যিক অনুমোদন বা অভিনব আনন্দের উপর নির্ভর না করে আজ আপনার নিজের ভিতরের উপস্থিতিতে সন্তুষ্টি খুঁজুন।",
+        "ka": "ಬಾಹ್ಯ ಅನುಮೋದನೆ ಅಥವಾ ಹೊಸ ಸಂತೋಷಗಳನ್ನು ಅವಲಂಬಿಸುವುದಕ್ಕಿಂತ ಇಂದು ನಿಮ್ಮ ಸ್ವಂತ ಆಂತರಿಕ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ತೃಪ್ತಿಯನ್ನು ಕಂಡುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Self-Realization",
         "Detachment"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "प्रजहाति",
-            "transliteration": "prajahāti",
-            "meaning": "casts off"
+            "transliteration": {
+                "hi": "प्रजहाति",
+                "en": "prajahāti",
+                "be": "প্রজহাতি",
+                "ka": "ಪ್ರಜಹಾತಿ"
+            },
+            "meaning": {
+                "hi": "त्याग देता है",
+                "en": "casts off",
+                "be": "বন্ধ নিক্ষেপ",
+                "ka": "ಹೊರಹಾಕುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "कामान्",
-            "transliteration": "kāmān",
-            "meaning": "desires"
+            "transliteration": {
+                "hi": "कामान्",
+                "en": "kāmān",
+                "be": "কামান্",
+                "ka": "ಕಾಮಾನ್"
+            },
+            "meaning": {
+                "hi": "इच्छाएँ",
+                "en": "desires",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "सर्वान्",
-            "transliteration": "sarvān",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वान्",
+                "en": "sarvān",
+                "be": "সর্বান্",
+                "ka": "ಸರ್ವಾನ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "मनोगतान्",
-            "transliteration": "manogatān",
-            "meaning": "of the mind"
+            "transliteration": {
+                "hi": "मनोगतान्",
+                "en": "manogatān",
+                "be": "মনোগতান্",
+                "ka": "ಮನೋಗತಾನ್"
+            },
+            "meaning": {
+                "hi": "मन का",
+                "en": "of the mind",
+                "be": "মনের",
+                "ka": "ಮನಸ್ಸಿನ"
+            }
         },
         {
             "sanskrit": "आत्मनि",
-            "transliteration": "ātmani",
-            "meaning": "in the Self"
+            "transliteration": {
+                "hi": "आत्मनि",
+                "en": "ātmani",
+                "be": "আত্মনি",
+                "ka": "ಆತ್ಮನಿ"
+            },
+            "meaning": {
+                "hi": "स्वयं में",
+                "en": "in the Self",
+                "be": "স্বয়ং",
+                "ka": "ಆತ್ಮದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "आत्मना",
-            "transliteration": "ātmanā",
-            "meaning": "by the Self"
+            "transliteration": {
+                "hi": "आत्मना",
+                "en": "ātmanā",
+                "be": "আত্মনা",
+                "ka": "ಆತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "स्वयं द्वारा",
+                "en": "by the Self",
+                "be": "স্বয়ং দ্বারা",
+                "ka": "ಸ್ವಯಂ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "तुष्टः",
-            "transliteration": "tuṣṭaḥ",
-            "meaning": "satisfied"
+            "transliteration": {
+                "hi": "तुष्टः",
+                "en": "tuṣṭaḥ",
+                "be": "তুষ্টঃ",
+                "ka": "ತುಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "संतुष्ट",
+                "en": "satisfied",
+                "be": "সন্তুষ্ট",
+                "ka": "ತೃಪ್ತಿಯಾಯಿತು"
+            }
         },
         {
             "sanskrit": "स्थितप्रज्ञः",
-            "transliteration": "sthitaprajñaḥ",
-            "meaning": "of steady wisdom"
+            "transliteration": {
+                "hi": "स्थितप्रज्ञः",
+                "en": "sthitaprajñaḥ",
+                "be": "স্থিতপ্রজ্ঞঃ",
+                "ka": "ಸ್ಥಿತಪ್ರಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "स्थिर बुद्धि का",
+                "en": "of steady wisdom",
+                "be": "স্থির জ্ঞানের",
+                "ka": "ಸ್ಥಿರ ಬುದ್ಧಿವಂತಿಕೆಯ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

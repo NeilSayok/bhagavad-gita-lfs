@@ -14,8 +14,18 @@
         "en": "yadā te mohakalilaṃ buddhirvyatitariṣyati .\ntadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||2-52||",
         "ka": "ಯದಾ ತೇ ಮೋಹಕಲಿಲಂ ಬುದ್ಧಿರ್ವ್ಯತಿತರಿಷ್ಯತಿ |\nತದಾ ಗನ್ತಾಸಿ ನಿರ್ವೇದಂ ಶ್ರೋತವ್ಯಸ್ಯ ಶ್ರುತಸ್ಯ ಚ ||೨-೫೨||"
     },
-    "transliteration": "yadā te mohakalilaṃ buddhirvyatitariṣyati .\ntadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||2-52||",
-    "life_application": "Filter out noise and hearsay once your mind becomes clear about what truly matters in your life.",
+    "transliteration": {
+        "hi": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति |\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||२-५२||",
+        "en": "yadā te mohakalilaṃ buddhirvyatitariṣyati .\ntadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||2-52||",
+        "be": "যদা তে মোহকলিলং বুদ্ধির্ব্যতিতরিষ্যতি |\nতদা গন্তাসি নির্বেদং শ্রোতব্যস্য শ্রুতস্য চ ||২-৫২||",
+        "ka": "ಯದಾ ತೇ ಮೋಹಕಲಿಲಂ ಬುದ್ಧಿರ್ವ್ಯತಿತರಿಷ್ಯತಿ |\nತದಾ ಗನ್ತಾಸಿ ನಿರ್ವೇದಂ ಶ್ರೋತವ್ಯಸ್ಯ ಶ್ರುತಸ್ಯ ಚ ||೨-೫೨||"
+    },
+    "life_application": {
+        "hi": "एक बार जब आपका मन स्पष्ट हो जाए कि आपके जीवन में वास्तव में क्या मायने रखता है, तो शोर और अफवाहों को दूर करें।",
+        "en": "Filter out noise and hearsay once your mind becomes clear about what truly matters in your life.",
+        "be": "আপনার জীবনে সত্যিকার অর্থে কী গুরুত্বপূর্ণ তা সম্পর্কে আপনার মন পরিষ্কার হয়ে গেলে গোলমাল এবং শ্রবণগুলি ফিল্টার করুন।",
+        "ka": "ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ನಿಜವಾಗಿಯೂ ಮುಖ್ಯವಾದುದರ ಬಗ್ಗೆ ನಿಮ್ಮ ಮನಸ್ಸು ಸ್ಪಷ್ಟವಾದಾಗ ಶಬ್ದ ಮತ್ತು ಕಿವಿಮಾತುಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "मोहकलिलम्",
-            "transliteration": "mohakalilam",
-            "meaning": "mire of delusion"
+            "transliteration": {
+                "hi": "मोहकलिलम्",
+                "en": "mohakalilam",
+                "be": "মোহকলিলম্",
+                "ka": "ಮೋಹಕಲಿಲಮ್"
+            },
+            "meaning": {
+                "hi": "भ्रम का कीचड़",
+                "en": "mire of delusion",
+                "be": "ভ্রম",
+                "ka": "ಭ್ರಮೆಯ ಕೆಸರು"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "व्यतितरिष्यति",
-            "transliteration": "vyatitariṣyati",
-            "meaning": "crosses beyond"
+            "transliteration": {
+                "hi": "व्यतितरिष्यति",
+                "en": "vyatitariṣyati",
+                "be": "ব্যতিতরিষ্যতি",
+                "ka": "ವ್ಯತಿತರಿಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "परे पार करता है",
+                "en": "crosses beyond",
+                "be": "অতিক্রম করে",
+                "ka": "ಮೀರಿ ದಾಟುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "गन्तासि",
-            "transliteration": "gantāsi",
-            "meaning": "thou shalt attain"
+            "transliteration": {
+                "hi": "गन्तासि",
+                "en": "gantāsi",
+                "be": "গন্তাসি",
+                "ka": "ಗನ್ತಾಸಿ"
+            },
+            "meaning": {
+                "hi": "तुम्हें प्राप्त होगा",
+                "en": "thou shalt attain",
+                "be": "আপনি অর্জন করতে হবে",
+                "ka": "ನೀವು ಸಾಧಿಸುವಿರಿ"
+            }
         },
         {
             "sanskrit": "निर्वेदम्",
-            "transliteration": "nirvedam",
-            "meaning": "to indifference"
+            "transliteration": {
+                "hi": "निर्वेदम्",
+                "en": "nirvedam",
+                "be": "নির্বেদম্",
+                "ka": "ನಿರ್ವೇದಮ್"
+            },
+            "meaning": {
+                "hi": "उदासीनता के लिए",
+                "en": "to indifference",
+                "be": "উদাসীনতা",
+                "ka": "ಉದಾಸೀನತೆಗೆ"
+            }
         },
         {
             "sanskrit": "श्रोतव्यस्य",
-            "transliteration": "śrotavyasya",
-            "meaning": "of what has to"
+            "transliteration": {
+                "hi": "श्रोतव्यस्य",
+                "en": "śrotavyasya",
+                "be": "শ্রোতব্যস্য",
+                "ka": "ಶ್ರೋತವ್ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "क्या करना है",
+                "en": "of what has to",
+                "be": "কি আছে",
+                "ka": "ಏನು ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "श्रुतस्य",
-            "transliteration": "śrutasya",
-            "meaning": "what has been heard"
+            "transliteration": {
+                "hi": "श्रुतस्य",
+                "en": "śrutasya",
+                "be": "শ্রুতস্য",
+                "ka": "ಶ್ರುತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "क्या सुना है",
+                "en": "what has been heard",
+                "be": "যা শোনা গেছে",
+                "ka": "ಏನು ಕೇಳಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

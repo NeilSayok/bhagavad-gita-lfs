@@ -14,8 +14,18 @@
         "en": "śrutivipratipannā te yadā sthāsyati niścalā .\nsamādhāvacalā buddhistadā yogamavāpsyasi ||2-53||",
         "ka": "ಶ್ರುತಿವಿಪ್ರತಿಪನ್ನಾ ತೇ ಯದಾ ಸ್ಥಾಸ್ಯತಿ ನಿಶ್ಚಲಾ |\nಸಮಾಧಾವಚಲಾ ಬುದ್ಧಿಸ್ತದಾ ಯೋಗಮವಾಪ್ಸ್ಯಸಿ ||೨-೫೩||"
     },
-    "transliteration": "śrutivipratipannā te yadā sthāsyati niścalā .\nsamādhāvacalā buddhistadā yogamavāpsyasi ||2-53||",
-    "life_application": "Anchor your attention within when conflicting opinions swirl around you, finding calm in unwavering inner silence.",
+    "transliteration": {
+        "hi": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला |\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि ||२-५३||",
+        "en": "śrutivipratipannā te yadā sthāsyati niścalā .\nsamādhāvacalā buddhistadā yogamavāpsyasi ||2-53||",
+        "be": "শ্রুতিবিপ্রতিপন্না তে যদা স্থাস্যতি নিশ্চলা |\nসমাধাবচলা বুদ্ধিস্তদা যোগমবাপ্স্যসি ||২-৫৩||",
+        "ka": "ಶ್ರುತಿವಿಪ್ರತಿಪನ್ನಾ ತೇ ಯದಾ ಸ್ಥಾಸ್ಯತಿ ನಿಶ್ಚಲಾ |\nಸಮಾಧಾವಚಲಾ ಬುದ್ಧಿಸ್ತದಾ ಯೋಗಮವಾಪ್ಸ್ಯಸಿ ||೨-೫೩||"
+    },
+    "life_application": {
+        "hi": "जब परस्पर विरोधी राय आपके चारों ओर घूम रही हो, तो अपना ध्यान अंदर की ओर केंद्रित करें, अटूट आंतरिक मौन में शांति पाएं।",
+        "en": "Anchor your attention within when conflicting opinions swirl around you, finding calm in unwavering inner silence.",
+        "be": "যখন আপনার চারপাশে পরস্পরবিরোধী মতামত ঘোরাফেরা করে, তখন অটল অভ্যন্তরীণ নীরবতায় শান্ত হন।",
+        "ka": "ಸಂಘರ್ಷದ ಅಭಿಪ್ರಾಯಗಳು ನಿಮ್ಮ ಸುತ್ತಲೂ ಸುತ್ತುತ್ತಿರುವಾಗ ನಿಮ್ಮ ಗಮನವನ್ನು ಕೇಂದ್ರೀಕರಿಸಿ, ಅಚಲವಾದ ಆಂತರಿಕ ಮೌನದಲ್ಲಿ ಶಾಂತತೆಯನ್ನು ಕಂಡುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "श्रुतिविप्रतिपन्ना",
-            "transliteration": "śrutivipratipannā",
-            "meaning": "perplexed by what hast"
+            "transliteration": {
+                "hi": "श्रुतिविप्रतिपन्ना",
+                "en": "śrutivipratipannā",
+                "be": "শ্রুতিবিপ্রতিপন্না",
+                "ka": "ಶ್ರುತಿವಿಪ್ರತಿಪನ್ನಾ"
+            },
+            "meaning": {
+                "hi": "किस बात से परेशान हूं",
+                "en": "perplexed by what hast",
+                "be": "কি তাড়াহুড়ো করে বিভ্রান্ত",
+                "ka": "ಏನಾಗಿದೆ ಎಂದು ಗೊಂದಲಕ್ಕೊಳಗಾಗುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "स्थास्यति",
-            "transliteration": "sthāsyati",
-            "meaning": "shall stand"
+            "transliteration": {
+                "hi": "स्थास्यति",
+                "en": "sthāsyati",
+                "be": "স্থাস্যতি",
+                "ka": "ಸ್ಥಾಸ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "खड़ा रहेगा",
+                "en": "shall stand",
+                "be": "দাঁড়ানো হবে",
+                "ka": "ನಿಲ್ಲಬೇಕು"
+            }
         },
         {
             "sanskrit": "निश्चला",
-            "transliteration": "niścalā",
-            "meaning": "immovable"
+            "transliteration": {
+                "hi": "निश्चला",
+                "en": "niścalā",
+                "be": "নিশ্চলা",
+                "ka": "ನಿಶ್ಚಲಾ"
+            },
+            "meaning": {
+                "hi": "अचल",
+                "en": "immovable",
+                "be": "স্থাবর",
+                "ka": "ಅಚಲ"
+            }
         },
         {
             "sanskrit": "समाधौ",
-            "transliteration": "samādhau",
-            "meaning": "in the Self"
+            "transliteration": {
+                "hi": "समाधौ",
+                "en": "samādhau",
+                "be": "সমাধৌ",
+                "ka": "ಸಮಾಧೌ"
+            },
+            "meaning": {
+                "hi": "स्वयं में",
+                "en": "in the Self",
+                "be": "স্বয়ং",
+                "ka": "ಆತ್ಮದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अचला",
-            "transliteration": "acalā",
-            "meaning": "steady"
+            "transliteration": {
+                "hi": "अचला",
+                "en": "acalā",
+                "be": "অচলা",
+                "ka": "ಅಚಲಾ"
+            },
+            "meaning": {
+                "hi": "स्थिर",
+                "en": "steady",
+                "be": "স্থির",
+                "ka": "ಸ್ಥಿರ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "योगम्",
-            "transliteration": "yogam",
-            "meaning": "Selfrealisation"
+            "transliteration": {
+                "hi": "योगम्",
+                "en": "yogam",
+                "be": "যোগম্",
+                "ka": "ಯೋಗಮ್"
+            },
+            "meaning": {
+                "hi": "आत्मबोध",
+                "en": "Selfrealisation",
+                "be": "আত্মপ্রকাশ",
+                "ka": "ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರ"
+            }
         },
         {
             "sanskrit": "अवाप्स्यसि",
-            "transliteration": "avāpsyasi",
-            "meaning": "shalt attain."
+            "transliteration": {
+                "hi": "अवाप्स्यसि",
+                "en": "avāpsyasi",
+                "be": "অবাপ্স্যসি",
+                "ka": "ಅವಾಪ್ಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "हासिल करना होगा.",
+                "en": "shalt attain.",
+                "be": "অর্জন করা উচিত",
+                "ka": "ಸಾಧಿಸುವರು."
+            }
         }
     ],
     "tej": {

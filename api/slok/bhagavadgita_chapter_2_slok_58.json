@@ -14,8 +14,18 @@
         "en": "yadā saṃharate cāyaṃ kūrmo.aṅgānīva sarvaśaḥ .\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā ||2-58||",
         "ka": "ಯದಾ ಸಂಹರತೇ ಚಾಯಂ ಕೂರ್ಮೋಽಙ್ಗಾನೀವ ಸರ್ವಶಃ |\nಇನ್ದ್ರಿಯಾಣೀನ್ದ್ರಿಯಾರ್ಥೇಭ್ಯಸ್ತಸ್ಯ ಪ್ರಜ್ಞಾ ಪ್ರತಿಷ್ಠಿತಾ ||೨-೫೮||"
     },
-    "transliteration": "yadā saṃharate cāyaṃ kūrmo.aṅgānīva sarvaśaḥ .\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā ||2-58||",
-    "life_application": "Practice pulling your attention away from digital devices and sensory distractions whenever you need to restore focus.",
+    "transliteration": {
+        "hi": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः |\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-५८||",
+        "en": "yadā saṃharate cāyaṃ kūrmo.aṅgānīva sarvaśaḥ .\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā ||2-58||",
+        "be": "যদা সংহরতে চাযং কূর্মোঽঙ্গানীব সর্বশঃ |\nইন্দ্রিযাণীন্দ্রিযার্থেভ্যস্তস্য প্রজ্ঞা প্রতিষ্ঠিতা ||২-৫৮||",
+        "ka": "ಯದಾ ಸಂಹರತೇ ಚಾಯಂ ಕೂರ್ಮೋಽಙ್ಗಾನೀವ ಸರ್ವಶಃ |\nಇನ್ದ್ರಿಯಾಣೀನ್ದ್ರಿಯಾರ್ಥೇಭ್ಯಸ್ತಸ್ಯ ಪ್ರಜ್ಞಾ ಪ್ರತಿಷ್ಠಿತಾ ||೨-೫೮||"
+    },
+    "life_application": {
+        "hi": "जब भी आपको फोकस बहाल करने की आवश्यकता हो तो अपना ध्यान डिजिटल उपकरणों और संवेदी विकर्षणों से हटाने का अभ्यास करें।",
+        "en": "Practice pulling your attention away from digital devices and sensory distractions whenever you need to restore focus.",
+        "be": "যখনই আপনার ফোকাস পুনরুদ্ধার করতে হবে তখনই ডিজিটাল ডিভাইস এবং সংবেদনশীল বিভ্রান্তি থেকে আপনার মনোযোগ টানার অভ্যাস করুন।",
+        "ka": "ನೀವು ಗಮನವನ್ನು ಮರುಸ್ಥಾಪಿಸಬೇಕಾದಾಗ ಡಿಜಿಟಲ್ ಸಾಧನಗಳು ಮತ್ತು ಸಂವೇದನಾ ಗೊಂದಲಗಳಿಂದ ನಿಮ್ಮ ಗಮನವನ್ನು ಸೆಳೆಯುವುದನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यदा",
-            "transliteration": "yadā",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यदा",
+                "en": "yadā",
+                "be": "যদা",
+                "ka": "ಯದಾ"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "संहरते",
-            "transliteration": "saṃharate",
-            "meaning": "withdraws"
+            "transliteration": {
+                "hi": "संहरते",
+                "en": "saṃharate",
+                "be": "সংহরতে",
+                "ka": "ಸಂಹರತೇ"
+            },
+            "meaning": {
+                "hi": "वापस ले लेता है",
+                "en": "withdraws",
+                "be": "প্রত্যাহার করে",
+                "ka": "ಹಿಂತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "कूर्मः",
-            "transliteration": "kūrmaḥ",
-            "meaning": "tortoise"
+            "transliteration": {
+                "hi": "कूर्मः",
+                "en": "kūrmaḥ",
+                "be": "কূর্মঃ",
+                "ka": "ಕೂರ್ಮಃ"
+            },
+            "meaning": {
+                "hi": "कछुआ",
+                "en": "tortoise",
+                "be": "কাছিম",
+                "ka": "ಆಮೆ"
+            }
         },
         {
             "sanskrit": "अङ्गानि",
-            "transliteration": "aṅgāni",
-            "meaning": "limbs"
+            "transliteration": {
+                "hi": "अङ्गानि",
+                "en": "aṅgāni",
+                "be": "অঙ্গানি",
+                "ka": "ಅಙ್ಗಾನಿ"
+            },
+            "meaning": {
+                "hi": "अंग",
+                "en": "limbs",
+                "be": "অঙ্গপ্রত্যঙ্গ",
+                "ka": "ಅಂಗಗಳು"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणि",
-            "transliteration": "indriyāṇi",
-            "meaning": "the senses"
+            "transliteration": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "ইন্দ্রিযাণি",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "the senses",
+                "be": "ইন্দ্রিয়",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "इन्द्रियार्थेभ्यः",
-            "transliteration": "indriyārthebhyaḥ",
-            "meaning": "from the senseobjects"
+            "transliteration": {
+                "hi": "इन्द्रियार्थेभ्यः",
+                "en": "indriyārthebhyaḥ",
+                "be": "ইন্দ্রিযার্থেভ্যঃ",
+                "ka": "ಇನ್ದ್ರಿಯಾರ್ಥೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "इंद्रियविषयों से",
+                "en": "from the senseobjects",
+                "be": "ইন্দ্রিয় বস্তু থেকে",
+                "ka": "ಇಂದ್ರಿಯ ವಸ್ತುಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "of him"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "of him",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "प्रज्ञा",
-            "transliteration": "prajñā",
-            "meaning": "wisdom प्रतिष्ठिता is steadied."
+            "transliteration": {
+                "hi": "प्रज्ञा",
+                "en": "prajñā",
+                "be": "প্রজ্ঞা",
+                "ka": "ಪ್ರಜ್ಞಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि प्रतिष्ठिता स्थिर है.",
+                "en": "wisdom प्रतिष्ठिता is steadied.",
+                "be": "প্রজ্ঞা স্থির হয়।",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ ಪ್ರತಿಷ್ಠಿತ ಸ್ಥಿರವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

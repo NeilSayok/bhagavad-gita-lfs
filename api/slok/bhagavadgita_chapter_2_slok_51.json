@@ -14,8 +14,18 @@
         "en": "karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ .\njanmabandhavinirmuktāḥ padaṃ gacchantyanāmayam ||2-51||",
         "ka": "ಕರ್ಮಜಂ ಬುದ್ಧಿಯುಕ್ತಾ ಹಿ ಫಲಂ ತ್ಯಕ್ತ್ವಾ ಮನೀಷಿಣಃ |\nಜನ್ಮಬನ್ಧವಿನಿರ್ಮುಕ್ತಾಃ ಪದಂ ಗಚ್ಛನ್ತ್ಯನಾಮಯಮ್ ||೨-೫೧||"
     },
-    "transliteration": "karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ .\njanmabandhavinirmuktāḥ padaṃ gacchantyanāmayam ||2-51||",
-    "life_application": "Release your grip on outcome expectations to experience immediate freedom from stress and chronic worry.",
+    "transliteration": {
+        "hi": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः |\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ||२-५१||",
+        "en": "karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ .\njanmabandhavinirmuktāḥ padaṃ gacchantyanāmayam ||2-51||",
+        "be": "কর্মজং বুদ্ধিযুক্তা হি ফলং ত্যক্ত্বা মনীষিণঃ |\nজন্মবন্ধবিনির্মুক্তাঃ পদং গচ্ছন্ত্যনামযম্ ||২-৫১||",
+        "ka": "ಕರ್ಮಜಂ ಬುದ್ಧಿಯುಕ್ತಾ ಹಿ ಫಲಂ ತ್ಯಕ್ತ್ವಾ ಮನೀಷಿಣಃ |\nಜನ್ಮಬನ್ಧವಿನಿರ್ಮುಕ್ತಾಃ ಪದಂ ಗಚ್ಛನ್ತ್ಯನಾಮಯಮ್ ||೨-೫೧||"
+    },
+    "life_application": {
+        "hi": "तनाव और पुरानी चिंता से तत्काल मुक्ति का अनुभव करने के लिए परिणाम अपेक्षाओं पर अपनी पकड़ छोड़ें।",
+        "en": "Release your grip on outcome expectations to experience immediate freedom from stress and chronic worry.",
+        "be": "স্ট্রেস এবং দীর্ঘস্থায়ী উদ্বেগ থেকে অবিলম্বে মুক্তির অভিজ্ঞতা পেতে ফলাফলের প্রত্যাশার উপর আপনার দখল ছেড়ে দিন।",
+        "ka": "ಒತ್ತಡ ಮತ್ತು ದೀರ್ಘಕಾಲದ ಚಿಂತೆಯಿಂದ ತಕ್ಷಣದ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಅನುಭವಿಸಲು ಫಲಿತಾಂಶದ ನಿರೀಕ್ಷೆಗಳ ಮೇಲೆ ನಿಮ್ಮ ಹಿಡಿತವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ."
+    },
     "themes": [
         "Karma",
         "Detachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "कर्मजम्",
-            "transliteration": "karmajam",
-            "meaning": "actionborn"
+            "transliteration": {
+                "hi": "कर्मजम्",
+                "en": "karmajam",
+                "be": "কর্মজম্",
+                "ka": "ಕರ್ಮಜಮ್"
+            },
+            "meaning": {
+                "hi": "क्रियाजन्य",
+                "en": "actionborn",
+                "be": "কর্মজাত",
+                "ka": "ಕ್ರಿಯಾಶೀಲ"
+            }
         },
         {
             "sanskrit": "बुद्धियुक्ताः",
-            "transliteration": "buddhiyuktāḥ",
-            "meaning": "possessed of knowledsge"
+            "transliteration": {
+                "hi": "बुद्धियुक्ताः",
+                "en": "buddhiyuktāḥ",
+                "be": "বুদ্ধিযুক্তাঃ",
+                "ka": "ಬುದ್ಧಿಯುಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "ज्ञान से युक्त",
+                "en": "possessed of knowledsge",
+                "be": "জ্ঞানের অধিকারী",
+                "ka": "ಜ್ಞಾನವನ್ನು ಹೊಂದಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "the fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "the fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "मनीषिणः",
-            "transliteration": "manīṣiṇaḥ",
-            "meaning": "the wise"
+            "transliteration": {
+                "hi": "मनीषिणः",
+                "en": "manīṣiṇaḥ",
+                "be": "মনীষিণঃ",
+                "ka": "ಮನೀಷಿಣಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धिमान",
+                "en": "the wise",
+                "be": "জ্ঞানী",
+                "ka": "ಬುದ್ಧಿವಂತ"
+            }
         },
         {
             "sanskrit": "जन्मबन्धविनिर्मुक्ताः",
-            "transliteration": "janmabandhavinirmuktāḥ",
-            "meaning": "freed from the fetters"
+            "transliteration": {
+                "hi": "जन्मबन्धविनिर्मुक्ताः",
+                "en": "janmabandhavinirmuktāḥ",
+                "be": "জন্মবন্ধবিনির্মুক্তাঃ",
+                "ka": "ಜನ್ಮಬನ್ಧವಿನಿರ್ಮುಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "बंधनों से मुक्त हो गए",
+                "en": "freed from the fetters",
+                "be": "শৃঙ্খল থেকে মুক্তি",
+                "ka": "ಸಂಕೋಲೆಗಳಿಂದ ಮುಕ್ತರಾದರು"
+            }
         },
         {
             "sanskrit": "पदम्",
-            "transliteration": "padam",
-            "meaning": "the abode"
+            "transliteration": {
+                "hi": "पदम्",
+                "en": "padam",
+                "be": "পদম্",
+                "ka": "ಪದಮ್"
+            },
+            "meaning": {
+                "hi": "निवास",
+                "en": "the abode",
+                "be": "বাসস্থান",
+                "ka": "ವಾಸಸ್ಥಾನ"
+            }
         },
         {
             "sanskrit": "गच्छन्ति",
-            "transliteration": "gacchanti",
-            "meaning": "go"
+            "transliteration": {
+                "hi": "गच्छन्ति",
+                "en": "gacchanti",
+                "be": "গচ্ছন্তি",
+                "ka": "ಗಚ್ಛನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जाओ",
+                "en": "go",
+                "be": "যাও",
+                "ka": "ಹೋಗು"
+            }
         },
         {
             "sanskrit": "अनामयम्",
-            "transliteration": "anāmayam",
-            "meaning": "beyond evil."
+            "transliteration": {
+                "hi": "अनामयम्",
+                "en": "anāmayam",
+                "be": "অনামযম্",
+                "ka": "ಅನಾಮಯಮ್"
+            },
+            "meaning": {
+                "hi": "बुराई से परे.",
+                "en": "beyond evil.",
+                "be": "মন্দের বাইরে",
+                "ka": "ಕೆಟ್ಟದ್ದನ್ನು ಮೀರಿ."
+            }
         }
     ],
     "tej": {

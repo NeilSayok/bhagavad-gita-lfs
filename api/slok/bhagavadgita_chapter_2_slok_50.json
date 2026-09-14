@@ -14,8 +14,18 @@
         "en": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte .\ntasmādyogāya yujyasva yogaḥ karmasu kauśalam ||2-50||",
         "ka": "ಬುದ್ಧಿಯುಕ್ತೋ ಜಹಾತೀಹ ಉಭೇ ಸುಕೃತದುಷ್ಕೃತೇ |\nತಸ್ಮಾದ್ಯೋಗಾಯ ಯುಜ್ಯಸ್ವ ಯೋಗಃ ಕರ್ಮಸು ಕೌಶಲಮ್ ||೨-೫೦||"
     },
-    "transliteration": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte .\ntasmādyogāya yujyasva yogaḥ karmasu kauśalam ||2-50||",
-    "life_application": "Strive for excellence in your work while keeping your mind calm, realizing that true skill is action without ego.",
+    "transliteration": {
+        "hi": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ||२-५०||",
+        "en": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte .\ntasmādyogāya yujyasva yogaḥ karmasu kauśalam ||2-50||",
+        "be": "বুদ্ধিযুক্তো জহাতীহ উভে সুকৃতদুষ্কৃতে |\nতস্মাদ্যোগায যুজ্যস্ব যোগঃ কর্মসু কৌশলম্ ||২-৫০||",
+        "ka": "ಬುದ್ಧಿಯುಕ್ತೋ ಜಹಾತೀಹ ಉಭೇ ಸುಕೃತದುಷ್ಕೃತೇ |\nತಸ್ಮಾದ್ಯೋಗಾಯ ಯುಜ್ಯಸ್ವ ಯೋಗಃ ಕರ್ಮಸು ಕೌಶಲಮ್ ||೨-೫೦||"
+    },
+    "life_application": {
+        "hi": "अपने मन को शांत रखते हुए अपने काम में उत्कृष्टता के लिए प्रयास करें, यह महसूस करें कि अहंकार के बिना कार्य करना ही सच्चा कौशल है।",
+        "en": "Strive for excellence in your work while keeping your mind calm, realizing that true skill is action without ego.",
+        "be": "আপনার মনকে শান্ত রেখে আপনার কাজের শ্রেষ্ঠত্বের জন্য চেষ্টা করুন, এই উপলব্ধি করুন যে সত্যিকারের দক্ষতা হল অহং ছাড়া কাজ।",
+        "ka": "ಅಹಂಕಾರವಿಲ್ಲದ ಕ್ರಿಯೆಯೇ ನಿಜವಾದ ಕೌಶಲ್ಯ ಎಂದು ಅರಿತುಕೊಂಡು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಶಾಂತವಾಗಿಟ್ಟುಕೊಂಡು ನಿಮ್ಮ ಕೆಲಸದಲ್ಲಿ ಶ್ರೇಷ್ಠತೆಗಾಗಿ ಶ್ರಮಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "बुद्धियुक्तः",
-            "transliteration": "buddhiyuktaḥ",
-            "meaning": "endowed with wisdom"
+            "transliteration": {
+                "hi": "बुद्धियुक्तः",
+                "en": "buddhiyuktaḥ",
+                "be": "বুদ্ধিযুক্তঃ",
+                "ka": "ಬುದ್ಧಿಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि से संपन्न",
+                "en": "endowed with wisdom",
+                "be": "প্রজ্ঞা দ্বারা সমৃদ্ধ",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಕೂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "जहाति",
-            "transliteration": "jahāti",
-            "meaning": "casts off"
+            "transliteration": {
+                "hi": "जहाति",
+                "en": "jahāti",
+                "be": "জহাতি",
+                "ka": "ಜಹಾತಿ"
+            },
+            "meaning": {
+                "hi": "त्याग देता है",
+                "en": "casts off",
+                "be": "বন্ধ নিক্ষেপ",
+                "ka": "ಹೊರಹಾಕುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "in this life"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "इस जीवन में",
+                "en": "in this life",
+                "be": "এই জীবনে",
+                "ka": "ಈ ಜೀವನದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "उभे",
-            "transliteration": "ubhe",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभे",
+                "en": "ubhe",
+                "be": "উভে",
+                "ka": "ಉಭೇ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "सुकृतदुष्कृते",
-            "transliteration": "sukṛtaduṣkṛte",
-            "meaning": "good and evil deeds"
+            "transliteration": {
+                "hi": "सुकृतदुष्कृते",
+                "en": "sukṛtaduṣkṛte",
+                "be": "সুকৃতদুষ্কৃতে",
+                "ka": "ಸುಕೃತದುಷ್ಕೃತೇ"
+            },
+            "meaning": {
+                "hi": "अच्छे और बुरे कर्म",
+                "en": "good and evil deeds",
+                "be": "ভাল এবং মন্দ কাজ",
+                "ka": "ಒಳ್ಳೆಯ ಮತ್ತು ಕೆಟ್ಟ ಕಾರ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "योगाय",
-            "transliteration": "yogāya",
-            "meaning": "to Yoga"
+            "transliteration": {
+                "hi": "योगाय",
+                "en": "yogāya",
+                "be": "যোগায",
+                "ka": "ಯೋಗಾಯ"
+            },
+            "meaning": {
+                "hi": "योग के लिए",
+                "en": "to Yoga",
+                "be": "যোগব্যায়াম করতে",
+                "ka": "ಯೋಗಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "युज्यस्व",
-            "transliteration": "yujyasva",
-            "meaning": "devote thyself"
+            "transliteration": {
+                "hi": "युज्यस्व",
+                "en": "yujyasva",
+                "be": "যুজ্যস্ব",
+                "ka": "ಯುಜ್ಯಸ್ವ"
+            },
+            "meaning": {
+                "hi": "अपने आप को समर्पित करो",
+                "en": "devote thyself",
+                "be": "নিজেকে উৎসর্গ কর",
+                "ka": "ನಿನ್ನನ್ನು ಅರ್ಪಿಸು"
+            }
         },
         {
             "sanskrit": "योगः",
-            "transliteration": "yogaḥ",
-            "meaning": "Yoga"
+            "transliteration": {
+                "hi": "योगः",
+                "en": "yogaḥ",
+                "be": "যোগঃ",
+                "ka": "ಯೋಗಃ"
+            },
+            "meaning": {
+                "hi": "योग",
+                "en": "Yoga",
+                "be": "যোগব্যায়াম",
+                "ka": "ಯೋಗ"
+            }
         },
         {
             "sanskrit": "कर्मसु",
-            "transliteration": "karmasu",
-            "meaning": "in actions"
+            "transliteration": {
+                "hi": "कर्मसु",
+                "en": "karmasu",
+                "be": "কর্মসু",
+                "ka": "ಕರ್ಮಸು"
+            },
+            "meaning": {
+                "hi": "कार्यों में",
+                "en": "in actions",
+                "be": "কর্মে",
+                "ka": "ಕ್ರಿಯೆಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कौशलम्",
-            "transliteration": "kauśalam",
-            "meaning": "skill."
+            "transliteration": {
+                "hi": "कौशलम्",
+                "en": "kauśalam",
+                "be": "কৌশলম্",
+                "ka": "ಕೌಶಲಮ್"
+            },
+            "meaning": {
+                "hi": "कौशल।",
+                "en": "skill.",
+                "be": "দক্ষতা",
+                "ka": "ಕೌಶಲ್ಯ."
+            }
         }
     ],
     "tej": {

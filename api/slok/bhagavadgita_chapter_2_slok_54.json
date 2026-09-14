@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nsthitaprajñasya kā bhāṣā samādhisthasya keśava .\nsthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim ||2-54||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸ್ಥಿತಪ್ರಜ್ಞಸ್ಯ ಕಾ ಭಾಷಾ ಸಮಾಧಿಸ್ಥಸ್ಯ ಕೇಶವ |\nಸ್ಥಿತಧೀಃ ಕಿಂ ಪ್ರಭಾಷೇತ ಕಿಮಾಸೀತ ವ್ರಜೇತ ಕಿಮ್ ||೨-೫೪||"
     },
-    "transliteration": "arjuna uvāca .\nsthitaprajñasya kā bhāṣā samādhisthasya keśava .\nsthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim ||2-54||",
-    "life_application": "Observe how genuinely wise people behave under pressure, taking inspiration from their poise and speech.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nस्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव |\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ||२-५४||",
+        "en": "arjuna uvāca .\nsthitaprajñasya kā bhāṣā samādhisthasya keśava .\nsthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim ||2-54||",
+        "be": "অর্জুন উবাচ |\nস্থিতপ্রজ্ঞস্য কা ভাষা সমাধিস্থস্য কেশব |\nস্থিতধীঃ কিং প্রভাষেত কিমাসীত ব্রজেত কিম্ ||২-৫৪||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸ್ಥಿತಪ್ರಜ್ಞಸ್ಯ ಕಾ ಭಾಷಾ ಸಮಾಧಿಸ್ಥಸ್ಯ ಕೇಶವ |\nಸ್ಥಿತಧೀಃ ಕಿಂ ಪ್ರಭಾಷೇತ ಕಿಮಾಸೀತ ವ್ರಜೇತ ಕಿಮ್ ||೨-೫೪||"
+    },
+    "life_application": {
+        "hi": "देखिये कि वास्तव में बुद्धिमान लोग दबाव में कैसे व्यवहार करते हैं, उनकी शिष्टता और वाणी से प्रेरणा लेते हुए।",
+        "en": "Observe how genuinely wise people behave under pressure, taking inspiration from their poise and speech.",
+        "be": "তাদের ভদ্রতা এবং বক্তৃতা থেকে অনুপ্রেরণা নিয়ে চাপের মধ্যে প্রকৃত জ্ঞানী লোকেরা কীভাবে আচরণ করে তা পর্যবেক্ষণ করুন।",
+        "ka": "ಪ್ರಾಮಾಣಿಕವಾಗಿ ಬುದ್ಧಿವಂತ ಜನರು ಒತ್ತಡದಲ್ಲಿ ಹೇಗೆ ವರ್ತಿಸುತ್ತಾರೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ, ಅವರ ಸಮತೋಲನ ಮತ್ತು ಭಾಷಣದಿಂದ ಸ್ಫೂರ್ತಿ ಪಡೆಯಿರಿ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "स्थितप्रज्ञस्य",
-            "transliteration": "sthitaprajñasya",
-            "meaning": "of the steady wisdom"
+            "transliteration": {
+                "hi": "स्थितप्रज्ञस्य",
+                "en": "sthitaprajñasya",
+                "be": "স্থিতপ্রজ্ঞস্য",
+                "ka": "ಸ್ಥಿತಪ್ರಜ್ಞಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "स्थिर बुद्धि का",
+                "en": "of the steady wisdom",
+                "be": "স্থির জ্ঞানের",
+                "ka": "ಸ್ಥಿರ ಬುದ್ಧಿವಂತಿಕೆಯ"
+            }
         },
         {
             "sanskrit": "का",
-            "transliteration": "kā",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "का",
+                "en": "kā",
+                "be": "কা",
+                "ka": "ಕಾ"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "भाषा",
-            "transliteration": "bhāṣā",
-            "meaning": "description"
+            "transliteration": {
+                "hi": "भाषा",
+                "en": "bhāṣā",
+                "be": "ভাষা",
+                "ka": "ಭಾಷಾ"
+            },
+            "meaning": {
+                "hi": "विवरण",
+                "en": "description",
+                "be": "বর্ণনা",
+                "ka": "ವಿವರಣೆ"
+            }
         },
         {
             "sanskrit": "समाधिस्थस्य",
-            "transliteration": "samādhisthasya",
-            "meaning": "of the merged in"
+            "transliteration": {
+                "hi": "समाधिस्थस्य",
+                "en": "samādhisthasya",
+                "be": "সমাধিস্থস্য",
+                "ka": "ಸಮಾಧಿಸ್ಥಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "में विलीन हो गया",
+                "en": "of the merged in",
+                "be": "একত্রিত করা",
+                "ka": "ವಿಲೀನಗೊಂಡವು"
+            }
         },
         {
             "sanskrit": "केशव",
-            "transliteration": "keśava",
-            "meaning": "O Kesava"
+            "transliteration": {
+                "hi": "केशव",
+                "en": "keśava",
+                "be": "কেশব",
+                "ka": "ಕೇಶವ"
+            },
+            "meaning": {
+                "hi": "हे केशव!",
+                "en": "O Kesava",
+                "be": "হে কেশব",
+                "ka": "ಓ ಕೇಶವ"
+            }
         },
         {
             "sanskrit": "स्थितधीः",
-            "transliteration": "sthitadhīḥ",
-            "meaning": "the sage of steady"
+            "transliteration": {
+                "hi": "स्थितधीः",
+                "en": "sthitadhīḥ",
+                "be": "স্থিতধীঃ",
+                "ka": "ಸ್ಥಿತಧೀಃ"
+            },
+            "meaning": {
+                "hi": "स्थिर का ऋषि",
+                "en": "the sage of steady",
+                "be": "স্থির ঋষি",
+                "ka": "ಸ್ಥಿರವಾದ ಋಷಿ"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "प्रभाषेत",
-            "transliteration": "prabhāṣeta",
-            "meaning": "speaks"
+            "transliteration": {
+                "hi": "प्रभाषेत",
+                "en": "prabhāṣeta",
+                "be": "প্রভাষেত",
+                "ka": "ಪ್ರಭಾಷೇತ"
+            },
+            "meaning": {
+                "hi": "बोलता है",
+                "en": "speaks",
+                "be": "কথা বলে",
+                "ka": "ಮಾತನಾಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "आसीत",
-            "transliteration": "āsīta",
-            "meaning": "sits"
+            "transliteration": {
+                "hi": "आसीत",
+                "en": "āsīta",
+                "be": "আসীত",
+                "ka": "ಆಸೀತ"
+            },
+            "meaning": {
+                "hi": "बैठता है",
+                "en": "sits",
+                "be": "বসে",
+                "ka": "ಕುಳಿತುಕೊಳ್ಳುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "व्रजेत",
-            "transliteration": "vrajeta",
-            "meaning": "walks"
+            "transliteration": {
+                "hi": "व्रजेत",
+                "en": "vrajeta",
+                "be": "ব্রজেত",
+                "ka": "ವ್ರಜೇತ"
+            },
+            "meaning": {
+                "hi": "चलता है",
+                "en": "walks",
+                "be": "হাঁটা",
+                "ka": "ನಡೆಯುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what ."
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या ।",
+                "en": "what .",
+                "be": "কি",
+                "ka": "ಏನು ."
+            }
         }
     ],
     "tej": {

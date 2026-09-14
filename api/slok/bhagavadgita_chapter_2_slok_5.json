@@ -14,8 +14,18 @@
         "en": "gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke .\nhatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān ||2-5||",
         "ka": "ಗುರೂನಹತ್ವಾ ಹಿ ಮಹಾನುಭಾವಾನ್\nಶ್ರೇಯೋ ಭೋಕ್ತುಂ ಭೈಕ್ಷ್ಯಮಪೀಹ ಲೋಕೇ |\nಹತ್ವಾರ್ಥಕಾಮಾಂಸ್ತು ಗುರೂನಿಹೈವ\nಭುಞ್ಜೀಯ ಭೋಗಾನ್ ರುಧಿರಪ್ರದಿಗ್ಧಾನ್ ||೨-೫||"
     },
-    "transliteration": "gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke .\nhatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān ||2-5||",
-    "life_application": "Notice when your mind invents extreme excuses to avoid confronting a painful duty in your daily life.",
+    "transliteration": {
+        "hi": "गुरूनहत्वा हि महानुभावान्\nश्रेयो भोक्तुं भैक्ष्यमपीह लोके |\nहत्वार्थकामांस्तु गुरूनिहैव\nभुञ्जीय भोगान् रुधिरप्रदिग्धान् ||२-५||",
+        "en": "gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke .\nhatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān ||2-5||",
+        "be": "গুরূনহত্বা হি মহানুভাবান্\nশ্রেযো ভোক্তুং ভৈক্ষ্যমপীহ লোকে |\nহত্বার্থকামাংস্তু গুরূনিহৈব\nভুঞ্জীয ভোগান্ রুধিরপ্রদিগ্ধান্ ||২-৫||",
+        "ka": "ಗುರೂನಹತ್ವಾ ಹಿ ಮಹಾನುಭಾವಾನ್\nಶ್ರೇಯೋ ಭೋಕ್ತುಂ ಭೈಕ್ಷ್ಯಮಪೀಹ ಲೋಕೇ |\nಹತ್ವಾರ್ಥಕಾಮಾಂಸ್ತು ಗುರೂನಿಹೈವ\nಭುಞ್ಜೀಯ ಭೋಗಾನ್ ರುಧಿರಪ್ರದಿಗ್ಧಾನ್ ||೨-೫||"
+    },
+    "life_application": {
+        "hi": "ध्यान दें जब आपका दिमाग अपने दैनिक जीवन में एक दर्दनाक कर्तव्य का सामना करने से बचने के लिए अत्यधिक बहाने खोजता है।",
+        "en": "Notice when your mind invents extreme excuses to avoid confronting a painful duty in your daily life.",
+        "be": "লক্ষ্য করুন যখন আপনার মন আপনার দৈনন্দিন জীবনে একটি বেদনাদায়ক দায়িত্বের মুখোমুখি হওয়া এড়াতে চরম অজুহাত আবিষ্কার করে।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ನೋವಿನ ಕರ್ತವ್ಯವನ್ನು ಎದುರಿಸುವುದನ್ನು ತಪ್ಪಿಸಲು ನಿಮ್ಮ ಮನಸ್ಸು ತೀವ್ರವಾದ ಮನ್ನಿಸುವಾಗ ಗಮನಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "गुरून्",
-            "transliteration": "gurūn",
-            "meaning": "the Gurus"
+            "transliteration": {
+                "hi": "गुरून्",
+                "en": "gurūn",
+                "be": "গুরূন্",
+                "ka": "ಗುರೂನ್"
+            },
+            "meaning": {
+                "hi": "गुरुओं",
+                "en": "the Gurus",
+                "be": "গুরুদের",
+                "ka": "ಗುರುಗಳು"
+            }
         },
         {
             "sanskrit": "अहत्वा",
-            "transliteration": "ahatvā",
-            "meaning": "instead of slaying"
+            "transliteration": {
+                "hi": "अहत्वा",
+                "en": "ahatvā",
+                "be": "অহত্বা",
+                "ka": "ಅಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "मारने के बजाय",
+                "en": "instead of slaying",
+                "be": "হত্যার পরিবর্তে",
+                "ka": "ಕೊಲ್ಲುವ ಬದಲು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "महानुभावान्",
-            "transliteration": "mahānubhāvān",
-            "meaning": "most noble"
+            "transliteration": {
+                "hi": "महानुभावान्",
+                "en": "mahānubhāvān",
+                "be": "মহানুভাবান্",
+                "ka": "ಮಹಾನುಭಾವಾನ್"
+            },
+            "meaning": {
+                "hi": "सबसे महान",
+                "en": "most noble",
+                "be": "সবচেয়ে মহৎ",
+                "ka": "ಅತ್ಯಂತ ಉದಾತ್ತ"
+            }
         },
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "better"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "बेहतर",
+                "en": "better",
+                "be": "ভাল",
+                "ka": "ಉತ್ತಮ"
+            }
         },
         {
             "sanskrit": "भोक्तुम्",
-            "transliteration": "bhoktum",
-            "meaning": "to eat"
+            "transliteration": {
+                "hi": "भोक्तुम्",
+                "en": "bhoktum",
+                "be": "ভোক্তুম্",
+                "ka": "ಭೋಕ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "खाने के लिए",
+                "en": "to eat",
+                "be": "খাওয়া",
+                "ka": "ತಿನ್ನಲು"
+            }
         },
         {
             "sanskrit": "भैक्ष्यम्",
-            "transliteration": "bhaikṣyam",
-            "meaning": "alms"
+            "transliteration": {
+                "hi": "भैक्ष्यम्",
+                "en": "bhaikṣyam",
+                "be": "ভৈক্ষ্যম্",
+                "ka": "ಭೈಕ್ಷ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "भिक्षा",
+                "en": "alms",
+                "be": "ভিক্ষা",
+                "ka": "ಭಿಕ್ಷೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "लोके",
-            "transliteration": "loke",
-            "meaning": "in the world"
+            "transliteration": {
+                "hi": "लोके",
+                "en": "loke",
+                "be": "লোকে",
+                "ka": "ಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "दुनिया में",
+                "en": "in the world",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "हत्वा",
-            "transliteration": "hatvā",
-            "meaning": "having slain"
+            "transliteration": {
+                "hi": "हत्वा",
+                "en": "hatvā",
+                "be": "হত্বা",
+                "ka": "ಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "मारा जा रहा है",
+                "en": "having slain",
+                "be": "নিহত হচ্ছে",
+                "ka": "ಕೊಂದಿದೆ"
+            }
         },
         {
             "sanskrit": "अर्थकामान्",
-            "transliteration": "arthakāmān",
-            "meaning": "desirous of wealth"
+            "transliteration": {
+                "hi": "अर्थकामान्",
+                "en": "arthakāmān",
+                "be": "অর্থকামান্",
+                "ka": "ಅರ್ಥಕಾಮಾನ್"
+            },
+            "meaning": {
+                "hi": "धन की इच्छा रखने वाला",
+                "en": "desirous of wealth",
+                "be": "সম্পদের আকাঙ্ক্ষিত",
+                "ka": "ಸಂಪತ್ತಿನ ಅಪೇಕ್ಷೆ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "गुरून्",
-            "transliteration": "gurūn",
-            "meaning": "Gurus"
+            "transliteration": {
+                "hi": "गुरून्",
+                "en": "gurūn",
+                "be": "গুরূন্",
+                "ka": "ಗುರೂನ್"
+            },
+            "meaning": {
+                "hi": "गुरुओं",
+                "en": "Gurus",
+                "be": "গুরুরা",
+                "ka": "ಗುರುಗಳು"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "भुञ्जीय",
-            "transliteration": "bhuñjīya",
-            "meaning": "enjoy"
+            "transliteration": {
+                "hi": "भुञ्जीय",
+                "en": "bhuñjīya",
+                "be": "ভুঞ্জীয",
+                "ka": "ಭುಞ್ಜೀಯ"
+            },
+            "meaning": {
+                "hi": "आनंद लें",
+                "en": "enjoy",
+                "be": "উপভোগ",
+                "ka": "ಆನಂದಿಸಿ"
+            }
         },
         {
             "sanskrit": "भोगान्",
-            "transliteration": "bhogān",
-            "meaning": "enjoyments"
+            "transliteration": {
+                "hi": "भोगान्",
+                "en": "bhogān",
+                "be": "ভোগান্",
+                "ka": "ಭೋಗಾನ್"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "enjoyments",
+                "be": "উপভোগ",
+                "ka": "ಸಂತೋಷಗಳು"
+            }
         },
         {
             "sanskrit": "रुधिरप्रदिग्धान्",
-            "transliteration": "rudhirapradigdhān",
-            "meaning": "stained with blood."
+            "transliteration": {
+                "hi": "रुधिरप्रदिग्धान्",
+                "en": "rudhirapradigdhān",
+                "be": "রুধিরপ্রদিগ্ধান্",
+                "ka": "ರುಧಿರಪ್ರದಿಗ್ಧಾನ್"
+            },
+            "meaning": {
+                "hi": "खून से सना हुआ.",
+                "en": "stained with blood.",
+                "be": "রক্তে রঞ্জিত।",
+                "ka": "ರಕ್ತದ ಕಲೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ .\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate ||2-56||",
         "ka": "ದುಃಖೇಷ್ವನುದ್ವಿಗ್ನಮನಾಃ ಸುಖೇಷು ವಿಗತಸ್ಪೃಹಃ |\nವೀತರಾಗಭಯಕ್ರೋಧಃ ಸ್ಥಿತಧೀರ್ಮುನಿರುಚ್ಯತೇ ||೨-೫೬||"
     },
-    "transliteration": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ .\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate ||2-56||",
-    "life_application": "Notice when anger, fear, or craving begins to surge, and gently bring your mind back to calm neutral ground.",
+    "transliteration": {
+        "hi": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः |\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||२-५६||",
+        "en": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ .\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate ||2-56||",
+        "be": "দুঃখেষ্বনুদ্বিগ্নমনাঃ সুখেষু বিগতস্পৃহঃ |\nবীতরাগভযক্রোধঃ স্থিতধীর্মুনিরুচ্যতে ||২-৫৬||",
+        "ka": "ದುಃಖೇಷ್ವನುದ್ವಿಗ್ನಮನಾಃ ಸುಖೇಷು ವಿಗತಸ್ಪೃಹಃ |\nವೀತರಾಗಭಯಕ್ರೋಧಃ ಸ್ಥಿತಧೀರ್ಮುನಿರುಚ್ಯತೇ ||೨-೫೬||"
+    },
+    "life_application": {
+        "hi": "ध्यान दें कि क्रोध, भय या लालसा कब बढ़ने लगती है, और धीरे से अपने मन को शांत तटस्थ भूमि पर वापस लाएँ।",
+        "en": "Notice when anger, fear, or craving begins to surge, and gently bring your mind back to calm neutral ground.",
+        "be": "লক্ষ্য করুন যখন রাগ, ভয়, বা লোভ বাড়তে শুরু করে এবং আস্তে আস্তে আপনার মনকে শান্ত নিরপেক্ষ মাটিতে ফিরিয়ে আনুন।",
+        "ka": "ಕೋಪ, ಭಯ ಅಥವಾ ಕಡುಬಯಕೆ ಉಲ್ಬಣಗೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಗಮನಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಶಾಂತವಾಗಿ ತಟಸ್ಥ ನೆಲಕ್ಕೆ ಹಿಂತಿರುಗಿ."
+    },
     "themes": [
         "Equanimity",
         "Fear"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "दुःखेषु",
-            "transliteration": "duḥkheṣu",
-            "meaning": "in adversity"
+            "transliteration": {
+                "hi": "दुःखेषु",
+                "en": "duḥkheṣu",
+                "be": "দুঃখেষু",
+                "ka": "ದುಃಖೇಷು"
+            },
+            "meaning": {
+                "hi": "विपत्ति में",
+                "en": "in adversity",
+                "be": "প্রতিকূলতার মধ্যে",
+                "ka": "ಪ್ರತಿಕೂಲ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अनुद्विग्नमनाः",
-            "transliteration": "anudvignamanāḥ",
-            "meaning": "of unshaken mind"
+            "transliteration": {
+                "hi": "अनुद्विग्नमनाः",
+                "en": "anudvignamanāḥ",
+                "be": "অনুদ্বিগ্নমনাঃ",
+                "ka": "ಅನುದ್ವಿಗ್ನಮನಾಃ"
+            },
+            "meaning": {
+                "hi": "अविचल मन का",
+                "en": "of unshaken mind",
+                "be": "অচল মনের",
+                "ka": "ಚಂಚಲ ಮನಸ್ಸಿನ"
+            }
         },
         {
             "sanskrit": "सुखेषु",
-            "transliteration": "sukheṣu",
-            "meaning": "in pleasure"
+            "transliteration": {
+                "hi": "सुखेषु",
+                "en": "sukheṣu",
+                "be": "সুখেষু",
+                "ka": "ಸುಖೇಷು"
+            },
+            "meaning": {
+                "hi": "आनंद में",
+                "en": "in pleasure",
+                "be": "আনন্দে",
+                "ka": "ಸಂತೋಷದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "विगतस्पृहः",
-            "transliteration": "vigataspṛhaḥ",
-            "meaning": "withut hankering"
+            "transliteration": {
+                "hi": "विगतस्पृहः",
+                "en": "vigataspṛhaḥ",
+                "be": "বিগতস্পৃহঃ",
+                "ka": "ವಿಗತಸ್ಪೃಹಃ"
+            },
+            "meaning": {
+                "hi": "बिना लालसा के",
+                "en": "withut hankering",
+                "be": "উন্মাদনা ছাড়া",
+                "ka": "ಹಂಬಲವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "वीतरागभयक्रोधः",
-            "transliteration": "vītarāgabhayakrodhaḥ",
-            "meaning": "free from attachment"
+            "transliteration": {
+                "hi": "वीतरागभयक्रोधः",
+                "en": "vītarāgabhayakrodhaḥ",
+                "be": "বীতরাগভযক্রোধঃ",
+                "ka": "ವೀತರಾಗಭಯಕ್ರೋಧಃ"
+            },
+            "meaning": {
+                "hi": "आसक्ति से मुक्त",
+                "en": "free from attachment",
+                "be": "সংযুক্তি থেকে মুক্ত",
+                "ka": "ಬಾಂಧವ್ಯದಿಂದ ಮುಕ್ತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "स्थितधीः",
-            "transliteration": "sthitadhīḥ",
-            "meaning": "of steady wisdom"
+            "transliteration": {
+                "hi": "स्थितधीः",
+                "en": "sthitadhīḥ",
+                "be": "স্থিতধীঃ",
+                "ka": "ಸ್ಥಿತಧೀಃ"
+            },
+            "meaning": {
+                "hi": "स्थिर बुद्धि का",
+                "en": "of steady wisdom",
+                "be": "স্থির জ্ঞানের",
+                "ka": "ಸ್ಥಿರ ಬುದ್ಧಿವಂತಿಕೆಯ"
+            }
         },
         {
             "sanskrit": "मुनिः",
-            "transliteration": "muniḥ",
-            "meaning": "sage"
+            "transliteration": {
+                "hi": "मुनिः",
+                "en": "muniḥ",
+                "be": "মুনিঃ",
+                "ka": "ಮುನಿಃ"
+            },
+            "meaning": {
+                "hi": "ऋषि",
+                "en": "sage",
+                "be": "ঋষি",
+                "ka": "ಋಷಿ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಭಯಂ ಸತ್ತ್ವಸಂಶುದ್ಧಿರ್ಜ್ಞಾನಯೋಗವ್ಯವಸ್ಥಿತಿಃ |\nದಾನಂ ದಮಶ್ಚ ಯಜ್ಞಶ್ಚ ಸ್ವಾಧ್ಯಾಯಸ್ತಪ ಆರ್ಜವಮ್ ||೧೬-೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
-    "life_application": "Cultivate fearlessness, purity of heart, steadfastness in knowledge, charity, self-control, sacrifice, study, austerity, honesty.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||",
+        "en": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
+        "be": "শ্রীভগবানুবাচ |\nঅভযং সত্ত্বসংশুদ্ধির্জ্ঞানযোগব্যবস্থিতিঃ |\nদানং দমশ্চ যজ্ঞশ্চ স্বাধ্যাযস্তপ আর্জবম্ ||১৬-১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಭಯಂ ಸತ್ತ್ವಸಂಶುದ್ಧಿರ್ಜ್ಞಾನಯೋಗವ್ಯವಸ್ಥಿತಿಃ |\nದಾನಂ ದಮಶ್ಚ ಯಜ್ಞಶ್ಚ ಸ್ವಾಧ್ಯಾಯಸ್ತಪ ಆರ್ಜವಮ್ ||೧೬-೧||"
+    },
+    "life_application": {
+        "hi": "निर्भयता, हृदय की पवित्रता, ज्ञान में दृढ़ता, दान, संयम, त्याग, अध्ययन, तपस्या, ईमानदारी का विकास करें।",
+        "en": "Cultivate fearlessness, purity of heart, steadfastness in knowledge, charity, self-control, sacrifice, study, austerity, honesty.",
+        "be": "নির্ভীকতা, হৃদয়ের পবিত্রতা, জ্ঞানে অবিচলতা, দান, আত্মনিয়ন্ত্রণ, ত্যাগ, অধ্যয়ন, তপস্যা, সততা গড়ে তুলুন।",
+        "ka": "ನಿರ್ಭಯತೆ, ಹೃದಯ ಶುದ್ಧತೆ, ಜ್ಞಾನದಲ್ಲಿ ದೃಢತೆ, ದಾನ, ಸ್ವಯಂ ನಿಯಂತ್ರಣ, ತ್ಯಾಗ, ಅಧ್ಯಯನ, ತಪಸ್ಸು, ಪ್ರಾಮಾಣಿಕತೆಗಳನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Mindfulness",
@@ -24,58 +34,168 @@
     "word_meanings": [
         {
             "sanskrit": "अभयम्",
-            "transliteration": "abhayam",
-            "meaning": "fearlessness"
+            "transliteration": {
+                "hi": "अभयम्",
+                "en": "abhayam",
+                "be": "অভযম্",
+                "ka": "ಅಭಯಮ್"
+            },
+            "meaning": {
+                "hi": "निडरता",
+                "en": "fearlessness",
+                "be": "নির্ভীকতা",
+                "ka": "ನಿರ್ಭಯತೆ"
+            }
         },
         {
             "sanskrit": "सत्त्वसंशुद्धिः",
-            "transliteration": "sattvasaṃśuddhiḥ",
-            "meaning": "purity of heart"
+            "transliteration": {
+                "hi": "सत्त्वसंशुद्धिः",
+                "en": "sattvasaṃśuddhiḥ",
+                "be": "সত্ত্বসংশুদ্ধিঃ",
+                "ka": "ಸತ್ತ್ವಸಂಶುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "हृदय की पवित्रता",
+                "en": "purity of heart",
+                "be": "হৃদয়ের বিশুদ্ধতা",
+                "ka": "ಹೃದಯದ ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानयोगव्यवस्थितिः",
-            "transliteration": "jñānayogavyavasthitiḥ",
-            "meaning": "steadfastness in knowledge and"
+            "transliteration": {
+                "hi": "ज्ञानयोगव्यवस्थितिः",
+                "en": "jñānayogavyavasthitiḥ",
+                "be": "জ্ঞানযোগব্যবস্থিতিঃ",
+                "ka": "ಜ್ಞಾನಯೋಗವ್ಯವಸ್ಥಿತಿಃ"
+            },
+            "meaning": {
+                "hi": "ज्ञान में दृढ़ता और",
+                "en": "steadfastness in knowledge and",
+                "be": "জ্ঞানে অবিচলতা এবং",
+                "ka": "ಜ್ಞಾನದಲ್ಲಿ ಸ್ಥಿರತೆ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "दानम्",
-            "transliteration": "dānam",
-            "meaning": "atmsgiving"
+            "transliteration": {
+                "hi": "दानम्",
+                "en": "dānam",
+                "be": "দানম্",
+                "ka": "ದಾನಮ್"
+            },
+            "meaning": {
+                "hi": "एटीएम देना",
+                "en": "atmsgiving",
+                "be": "atmsgiving",
+                "ka": "atms ಗಿವಿಂಗ್"
+            }
         },
         {
             "sanskrit": "दमः",
-            "transliteration": "damaḥ",
-            "meaning": "control of the senses"
+            "transliteration": {
+                "hi": "दमः",
+                "en": "damaḥ",
+                "be": "দমঃ",
+                "ka": "ದಮಃ"
+            },
+            "meaning": {
+                "hi": "इंद्रियों पर नियंत्रण",
+                "en": "control of the senses",
+                "be": "ইন্দ্রিয় নিয়ন্ত্রণ",
+                "ka": "ಇಂದ್ರಿಯಗಳ ನಿಯಂತ್ರಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यज्ञः",
-            "transliteration": "yajñaḥ",
-            "meaning": "sacrifice"
+            "transliteration": {
+                "hi": "यज्ञः",
+                "en": "yajñaḥ",
+                "be": "যজ্ঞঃ",
+                "ka": "ಯಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "बलिदान",
+                "en": "sacrifice",
+                "be": "বলিদান",
+                "ka": "ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "स्वाध्यायः",
-            "transliteration": "svādhyāyaḥ",
-            "meaning": "study of Sastras"
+            "transliteration": {
+                "hi": "स्वाध्यायः",
+                "en": "svādhyāyaḥ",
+                "be": "স্বাধ্যাযঃ",
+                "ka": "ಸ್ವಾಧ್ಯಾಯಃ"
+            },
+            "meaning": {
+                "hi": "शास्त्रों का अध्ययन",
+                "en": "study of Sastras",
+                "be": "শাস্ত্র অধ্যয়ন",
+                "ka": "ಶಾಸ್ತ್ರಗಳ ಅಧ್ಯಯನ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "आर्जवम्",
-            "transliteration": "ārjavam",
-            "meaning": "straightforwardness."
+            "transliteration": {
+                "hi": "आर्जवम्",
+                "en": "ārjavam",
+                "be": "আর্জবম্",
+                "ka": "ಆರ್ಜವಮ್"
+            },
+            "meaning": {
+                "hi": "सीधापन.",
+                "en": "straightforwardness.",
+                "be": "সরলতা",
+                "ka": "ನೇರತೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
         "ka": "ಮಮೈವಾಂಶೋ ಜೀವಲೋಕೇ ಜೀವಭೂತಃ ಸನಾತನಃ |\nಮನಃಷಷ್ಠಾನೀನ್ದ್ರಿಯಾಣಿ ಪ್ರಕೃತಿಸ್ಥಾನಿ ಕರ್ಷತಿ ||೧೫-೭||"
     },
-    "transliteration": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
-    "life_application": "An eternal fragment of God becomes the individual soul, drawing to itself the five senses and mind from nature.",
+    "transliteration": {
+        "hi": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ||१५-७||",
+        "en": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
+        "be": "মমৈবাংশো জীবলোকে জীবভূতঃ সনাতনঃ |\nমনঃষষ্ঠানীন্দ্রিযাণি প্রকৃতিস্থানি কর্ষতি ||১৫-৭||",
+        "ka": "ಮಮೈವಾಂಶೋ ಜೀವಲೋಕೇ ಜೀವಭೂತಃ ಸನಾತನಃ |\nಮನಃಷಷ್ಠಾನೀನ್ದ್ರಿಯಾಣಿ ಪ್ರಕೃತಿಸ್ಥಾನಿ ಕರ್ಷತಿ ||೧೫-೭||"
+    },
+    "life_application": {
+        "hi": "ईश्वर का एक शाश्वत अंश व्यक्तिगत आत्मा बन जाता है, जो प्रकृति से पांच इंद्रियों और मन को अपनी ओर खींचता है।",
+        "en": "An eternal fragment of God becomes the individual soul, drawing to itself the five senses and mind from nature.",
+        "be": "ঈশ্বরের একটি চিরন্তন খণ্ড স্বতন্ত্র আত্মা হয়ে ওঠে, প্রকৃতি থেকে পাঁচটি ইন্দ্রিয় এবং মনকে নিজের কাছে আঁকতে থাকে।",
+        "ka": "ಭಗವಂತನ ಶಾಶ್ವತವಾದ ಒಂದು ಭಾಗವು ವೈಯಕ್ತಿಕ ಆತ್ಮವಾಗುತ್ತದೆ, ಪ್ರಕೃತಿಯಿಂದ ಐದು ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮನಸ್ಸನ್ನು ತನ್ನತ್ತ ಸೆಳೆಯುತ್ತದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अंशः",
-            "transliteration": "aṃśaḥ",
-            "meaning": "portion"
+            "transliteration": {
+                "hi": "अंशः",
+                "en": "aṃśaḥ",
+                "be": "অংশঃ",
+                "ka": "ಅಂಶಃ"
+            },
+            "meaning": {
+                "hi": "भाग",
+                "en": "portion",
+                "be": "অংশ",
+                "ka": "ಭಾಗ"
+            }
         },
         {
             "sanskrit": "जीवलोके",
-            "transliteration": "jīvaloke",
-            "meaning": "in the world of"
+            "transliteration": {
+                "hi": "जीवलोके",
+                "en": "jīvaloke",
+                "be": "জীবলোকে",
+                "ka": "ಜೀವಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "की दुनिया में",
+                "en": "in the world of",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಪ್ರಪಂಚದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "जीवभूतः",
-            "transliteration": "jīvabhūtaḥ",
-            "meaning": "having become a soul"
+            "transliteration": {
+                "hi": "जीवभूतः",
+                "en": "jīvabhūtaḥ",
+                "be": "জীবভূতঃ",
+                "ka": "ಜೀವಭೂತಃ"
+            },
+            "meaning": {
+                "hi": "आत्मा बन कर",
+                "en": "having become a soul",
+                "be": "একটি আত্মা হয়ে উঠছে",
+                "ka": "ಆತ್ಮವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "सनातनः",
-            "transliteration": "sanātanaḥ",
-            "meaning": "eternal"
+            "transliteration": {
+                "hi": "सनातनः",
+                "en": "sanātanaḥ",
+                "be": "সনাতনঃ",
+                "ka": "ಸನಾತನಃ"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "मनःषष्ठानि",
-            "transliteration": "manaḥṣaṣṭhāni",
-            "meaning": "with mind as the"
+            "transliteration": {
+                "hi": "मनःषष्ठानि",
+                "en": "manaḥṣaṣṭhāni",
+                "be": "মনঃষষ্ঠানি",
+                "ka": "ಮನಃಷಷ್ಠಾನಿ"
+            },
+            "meaning": {
+                "hi": "मन के साथ",
+                "en": "with mind as the",
+                "be": "হিসাবে মনের সাথে",
+                "ka": "ಮನಸ್ಸಿನೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणि",
-            "transliteration": "indriyāṇi",
-            "meaning": "the Indriyas"
+            "transliteration": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "ইন্দ্রিযাণি",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "the Indriyas",
+                "be": "ইন্দ্রিয়রা",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "प्रकृतिस्थानि",
-            "transliteration": "prakṛtisthāni",
-            "meaning": "abiding in Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिस्थानि",
+                "en": "prakṛtisthāni",
+                "be": "প্রকৃতিস্থানি",
+                "ka": "ಪ್ರಕೃತಿಸ್ಥಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्रकृति में स्थिर रहना",
+                "en": "abiding in Prakriti",
+                "be": "প্রকৃতিতে আবদ্ধ",
+                "ka": "ಪ್ರಕೃತಿಯಲ್ಲಿ ನೆಲೆಸಿದೆ"
+            }
         },
         {
             "sanskrit": "कर्षति",
-            "transliteration": "karṣati",
-            "meaning": "draws ."
+            "transliteration": {
+                "hi": "कर्षति",
+                "en": "karṣati",
+                "be": "কর্ষতি",
+                "ka": "ಕರ್ಷತಿ"
+            },
+            "meaning": {
+                "hi": "खींचता है.",
+                "en": "draws .",
+                "be": "আঁকা",
+                "ka": "ಸೆಳೆಯುತ್ತದೆ."
+            }
         },
         {
             "sanskrit": "स एष",
-            "transliteration": "sa eṣa",
-            "meaning": "इह प्रविष्टः आनखाग्रेभ्यः तत्"
+            "transliteration": {
+                "hi": "स एष",
+                "en": "sa eṣa",
+                "be": "স এষ",
+                "ka": "ಸ ಏಷ"
+            },
+            "meaning": {
+                "hi": "इह प्रविष्टः अनखाग्रेभ्यः तत्",
+                "en": "इह प्रविष्टः आनखाग्रेभ्यः तत्",
+                "be": "इह प्रविष्टः आनखाग्रेभ्यः तत्",
+                "ka": "ಇಹ ಪ್ರವಿಷ್ಟಃ ಅನಖಾಗ್ರೇಭ್ಯಃ ತತ್ ॥"
+            }
         }
     ],
     "tej": {

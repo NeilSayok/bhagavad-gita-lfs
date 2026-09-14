@@ -14,8 +14,18 @@
         "en": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
         "ka": "ಶ್ರೋತ್ರಂ ಚಕ್ಷುಃ ಸ್ಪರ್ಶನಂ ಚ ರಸನಂ ಘ್ರಾಣಮೇವ ಚ |\nಅಧಿಷ್ಠಾಯ ಮನಶ್ಚಾಯಂ ವಿಷಯಾನುಪಸೇವತೇ ||೧೫-೯||"
     },
-    "transliteration": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
-    "life_application": "Presiding over hearing, sight, touch, taste, smell, and mind, the embodied soul experiences sense objects.",
+    "transliteration": {
+        "hi": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||",
+        "en": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
+        "be": "শ্রোত্রং চক্ষুঃ স্পর্শনং চ রসনং ঘ্রাণমেব চ |\nঅধিষ্ঠায মনশ্চাযং বিষযানুপসেবতে ||১৫-৯||",
+        "ka": "ಶ್ರೋತ್ರಂ ಚಕ್ಷುಃ ಸ್ಪರ್ಶನಂ ಚ ರಸನಂ ಘ್ರಾಣಮೇವ ಚ |\nಅಧಿಷ್ಠಾಯ ಮನಶ್ಚಾಯಂ ವಿಷಯಾನುಪಸೇವತೇ ||೧೫-೯||"
+    },
+    "life_application": {
+        "hi": "श्रवण, दृष्टि, स्पर्श, स्वाद, गंध और मन पर शासन करते हुए, देहधारी आत्मा इंद्रिय विषयों का अनुभव करती है।",
+        "en": "Presiding over hearing, sight, touch, taste, smell, and mind, the embodied soul experiences sense objects.",
+        "be": "শ্রবণ, দৃষ্টি, স্পর্শ, স্বাদ, গন্ধ এবং মনের উপর সভাপতিত্ব করে, মূর্ত আত্মা ইন্দ্রিয় বস্তু অনুভব করে।",
+        "ka": "ಶ್ರವಣ, ದೃಷ್ಟಿ, ಸ್ಪರ್ಶ, ರುಚಿ, ವಾಸನೆ ಮತ್ತು ಮನಸ್ಸಿನ ಮೇಲೆ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿ, ಸಾಕಾರಗೊಂಡ ಆತ್ಮವು ಇಂದ್ರಿಯ ವಸ್ತುಗಳನ್ನು ಅನುಭವಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "श्रोत्रम्",
-            "transliteration": "śrotram",
-            "meaning": "the ear"
+            "transliteration": {
+                "hi": "श्रोत्रम्",
+                "en": "śrotram",
+                "be": "শ্রোত্রম্",
+                "ka": "ಶ್ರೋತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "कान",
+                "en": "the ear",
+                "be": "কান",
+                "ka": "ಕಿವಿ"
+            }
         },
         {
             "sanskrit": "चक्षुः",
-            "transliteration": "cakṣuḥ",
-            "meaning": "the eye"
+            "transliteration": {
+                "hi": "चक्षुः",
+                "en": "cakṣuḥ",
+                "be": "চক্ষুঃ",
+                "ka": "ಚಕ್ಷುಃ"
+            },
+            "meaning": {
+                "hi": "आंख",
+                "en": "the eye",
+                "be": "চোখ",
+                "ka": "ಕಣ್ಣು"
+            }
         },
         {
             "sanskrit": "स्पर्शनम्",
-            "transliteration": "sparśanam",
-            "meaning": "the touch"
+            "transliteration": {
+                "hi": "स्पर्शनम्",
+                "en": "sparśanam",
+                "be": "স্পর্শনম্",
+                "ka": "ಸ್ಪರ್ಶನಮ್"
+            },
+            "meaning": {
+                "hi": "स्पर्श",
+                "en": "the touch",
+                "be": "স্পর্শ",
+                "ka": "ಸ್ಪರ್ಶ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "रसनम्",
-            "transliteration": "rasanam",
-            "meaning": "the taste"
+            "transliteration": {
+                "hi": "रसनम्",
+                "en": "rasanam",
+                "be": "রসনম্",
+                "ka": "ರಸನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वाद",
+                "en": "the taste",
+                "be": "স্বাদ",
+                "ka": "ರುಚಿ"
+            }
         },
         {
             "sanskrit": "घ्राणम्",
-            "transliteration": "ghrāṇam",
-            "meaning": "the smell"
+            "transliteration": {
+                "hi": "घ्राणम्",
+                "en": "ghrāṇam",
+                "be": "ঘ্রাণম্",
+                "ka": "ಘ್ರಾಣಮ್"
+            },
+            "meaning": {
+                "hi": "गंध",
+                "en": "the smell",
+                "be": "গন্ধ",
+                "ka": "ವಾಸನೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अधिष्ठाय",
-            "transliteration": "adhiṣṭhāya",
-            "meaning": "presiding over"
+            "transliteration": {
+                "hi": "अधिष्ठाय",
+                "en": "adhiṣṭhāya",
+                "be": "অধিষ্ঠায",
+                "ka": "ಅಧಿಷ್ಠಾಯ"
+            },
+            "meaning": {
+                "hi": "अध्यक्षता कर रहे हैं",
+                "en": "presiding over",
+                "be": "সভাপতিত্ব করছেন",
+                "ka": "ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿದ್ದರು"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "the mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "the mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "विषयान्",
-            "transliteration": "viṣayān",
-            "meaning": "objects of the senses"
+            "transliteration": {
+                "hi": "विषयान्",
+                "en": "viṣayān",
+                "be": "বিষযান্",
+                "ka": "ವಿಷಯಾನ್"
+            },
+            "meaning": {
+                "hi": "इंद्रियों की वस्तुएं",
+                "en": "objects of the senses",
+                "be": "ইন্দ্রিয়ের বস্তু",
+                "ka": "ಇಂದ್ರಿಯಗಳ ವಸ್ತುಗಳು"
+            }
         },
         {
             "sanskrit": "उपसेवते",
-            "transliteration": "upasevate",
-            "meaning": "enjoys."
+            "transliteration": {
+                "hi": "उपसेवते",
+                "en": "upasevate",
+                "be": "উপসেবতে",
+                "ka": "ಉಪಸೇವತೇ"
+            },
+            "meaning": {
+                "hi": "आनंद लेता है.",
+                "en": "enjoys.",
+                "be": "উপভোগ করে",
+                "ka": "ಆನಂದಿಸುತ್ತಾನೆ."
+            }
         },
         {
             "sanskrit": "आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः।।",
-            "transliteration": "ātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ||",
-            "meaning": "The Self"
+            "transliteration": {
+                "hi": "आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः।।",
+                "en": "ātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ||",
+                "be": "আত্মেন্দ্রিযমনোযুক্তং ভোক্তেত্যাহুর্মনীষিণঃ।।",
+                "ka": "ಆತ್ಮೇನ್ದ್ರಿಯಮನೋಯುಕ್ತಂ ಭೋಕ್ತೇತ್ಯಾಹುರ್ಮನೀಷಿಣಃ।।"
+            },
+            "meaning": {
+                "hi": "स्व",
+                "en": "The Self",
+                "be": "স্বয়ং",
+                "ka": "ಸ್ವಯಂ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
         "ka": "ಅಧಶ್ಚೋರ್ಧ್ವಂ ಪ್ರಸೃತಾಸ್ತಸ್ಯ ಶಾಖಾ\nಗುಣಪ್ರವೃದ್ಧಾ ವಿಷಯಪ್ರವಾಲಾಃ |\nಅಧಶ್ಚ ಮೂಲಾನ್ಯನುಸನ್ತತಾನಿ\nಕರ್ಮಾನುಬನ್ಧೀನಿ ಮನುಷ್ಯಲೋಕೇ ||೧೫-೨||"
     },
-    "transliteration": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
-    "life_application": "Its branches spread below and above, nourished by modes, sense objects as buds, roots binding to action in human world.",
+    "transliteration": {
+        "hi": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ||१५-२||",
+        "en": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
+        "be": "অধশ্চোর্ধ্বং প্রসৃতাস্তস্য শাখা\nগুণপ্রবৃদ্ধা বিষযপ্রবালাঃ |\nঅধশ্চ মূলান্যনুসন্ততানি\nকর্মানুবন্ধীনি মনুষ্যলোকে ||১৫-২||",
+        "ka": "ಅಧಶ್ಚೋರ್ಧ್ವಂ ಪ್ರಸೃತಾಸ್ತಸ್ಯ ಶಾಖಾ\nಗುಣಪ್ರವೃದ್ಧಾ ವಿಷಯಪ್ರವಾಲಾಃ |\nಅಧಶ್ಚ ಮೂಲಾನ್ಯನುಸನ್ತತಾನಿ\nಕರ್ಮಾನುಬನ್ಧೀನಿ ಮನುಷ್ಯಲೋಕೇ ||೧೫-೨||"
+    },
+    "life_application": {
+        "hi": "इसकी शाखाएँ नीचे और ऊपर फैली हुई हैं, जो गुणों द्वारा पोषित हैं, कलियों के रूप में इंद्रिय वस्तुएं, मानव जगत में क्रिया के लिए बाध्य जड़ें हैं।",
+        "en": "Its branches spread below and above, nourished by modes, sense objects as buds, roots binding to action in human world.",
+        "be": "এর শাখাগুলি নীচে এবং উপরে ছড়িয়ে পড়ে, মোড দ্বারা পুষ্ট, বস্তুকে কুঁড়ি হিসাবে উপলব্ধি করে, মানব জগতে ক্রিয়া করার জন্য শিকড়গুলি আবদ্ধ।",
+        "ka": "ಅದರ ಶಾಖೆಗಳು ಕೆಳಗೆ ಮತ್ತು ಮೇಲೆ ಹರಡುತ್ತವೆ, ವಿಧಾನಗಳಿಂದ ಪೋಷಿಸಲ್ಪಡುತ್ತವೆ, ವಸ್ತುವನ್ನು ಮೊಗ್ಗುಗಳಾಗಿ ಗ್ರಹಿಸುತ್ತವೆ, ಬೇರುಗಳು ಮಾನವ ಜಗತ್ತಿನಲ್ಲಿ ಕ್ರಿಯೆಗೆ ಬಂಧಿಸುತ್ತವೆ."
+    },
     "themes": [
         "Attachment",
         "Karma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अधः",
-            "transliteration": "adhaḥ",
-            "meaning": "below"
+            "transliteration": {
+                "hi": "अधः",
+                "en": "adhaḥ",
+                "be": "অধঃ",
+                "ka": "ಅಧಃ"
+            },
+            "meaning": {
+                "hi": "नीचे",
+                "en": "below",
+                "be": "নীচে",
+                "ka": "ಕೆಳಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ऊर्ध्वम्",
-            "transliteration": "ūrdhvam",
-            "meaning": "above"
+            "transliteration": {
+                "hi": "ऊर्ध्वम्",
+                "en": "ūrdhvam",
+                "be": "ঊর্ধ্বম্",
+                "ka": "ಊರ್ಧ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "ऊपर",
+                "en": "above",
+                "be": "উপরে",
+                "ka": "ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "प्रसृताः",
-            "transliteration": "prasṛtāḥ",
-            "meaning": "spread"
+            "transliteration": {
+                "hi": "प्रसृताः",
+                "en": "prasṛtāḥ",
+                "be": "প্রসৃতাঃ",
+                "ka": "ಪ್ರಸೃತಾಃ"
+            },
+            "meaning": {
+                "hi": "फैलाव",
+                "en": "spread",
+                "be": "ছড়িয়ে",
+                "ka": "ಹರಡುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "its"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इसका",
+                "en": "its",
+                "be": "এর",
+                "ka": "ಅದರ"
+            }
         },
         {
             "sanskrit": "शाखाः",
-            "transliteration": "śākhāḥ",
-            "meaning": "branches"
+            "transliteration": {
+                "hi": "शाखाः",
+                "en": "śākhāḥ",
+                "be": "শাখাঃ",
+                "ka": "ಶಾಖಾಃ"
+            },
+            "meaning": {
+                "hi": "शाखाएँ",
+                "en": "branches",
+                "be": "শাখা",
+                "ka": "ಶಾಖೆಗಳು"
+            }
         },
         {
             "sanskrit": "गुणप्रवृद्धाः",
-            "transliteration": "guṇapravṛddhāḥ",
-            "meaning": "nourished by the Gunas"
+            "transliteration": {
+                "hi": "गुणप्रवृद्धाः",
+                "en": "guṇapravṛddhāḥ",
+                "be": "গুণপ্রবৃদ্ধাঃ",
+                "ka": "ಗುಣಪ್ರವೃದ್ಧಾಃ"
+            },
+            "meaning": {
+                "hi": "गुणों द्वारा पोषित",
+                "en": "nourished by the Gunas",
+                "be": "গুণ দ্বারা পুষ্ট",
+                "ka": "ಗುಣಗಳಿಂದ ಪೋಷಿಸಲ್ಪಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "विषयप्रवालाः",
-            "transliteration": "viṣayapravālāḥ",
-            "meaning": "senseobjects its buds"
+            "transliteration": {
+                "hi": "विषयप्रवालाः",
+                "en": "viṣayapravālāḥ",
+                "be": "বিষযপ্রবালাঃ",
+                "ka": "ವಿಷಯಪ್ರವಾಲಾಃ"
+            },
+            "meaning": {
+                "hi": "सेंसऑब्जेक्ट्स अपनी कलियों को प्रदर्शित करता है",
+                "en": "senseobjects its buds",
+                "be": "ইন্দ্রিয় বস্তু তার কুঁড়ি",
+                "ka": "ಅದರ ಮೊಗ್ಗುಗಳನ್ನು ಗ್ರಹಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अधः",
-            "transliteration": "adhaḥ",
-            "meaning": "below"
+            "transliteration": {
+                "hi": "अधः",
+                "en": "adhaḥ",
+                "be": "অধঃ",
+                "ka": "ಅಧಃ"
+            },
+            "meaning": {
+                "hi": "नीचे",
+                "en": "below",
+                "be": "নীচে",
+                "ka": "ಕೆಳಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मूलानि",
-            "transliteration": "mūlāni",
-            "meaning": "the roots"
+            "transliteration": {
+                "hi": "मूलानि",
+                "en": "mūlāni",
+                "be": "মূলানি",
+                "ka": "ಮೂಲಾನಿ"
+            },
+            "meaning": {
+                "hi": "जड़ें",
+                "en": "the roots",
+                "be": "শিকড়",
+                "ka": "ಬೇರುಗಳು"
+            }
         },
         {
             "sanskrit": "अनुसन्ततानि",
-            "transliteration": "anusantatāni",
-            "meaning": "are stretched forth"
+            "transliteration": {
+                "hi": "अनुसन्ततानि",
+                "en": "anusantatāni",
+                "be": "অনুসন্ততানি",
+                "ka": "ಅನುಸನ್ತತಾನಿ"
+            },
+            "meaning": {
+                "hi": "आगे की ओर फैले हुए हैं",
+                "en": "are stretched forth",
+                "be": "প্রসারিত হয়",
+                "ka": "ಮುಂದಕ್ಕೆ ವಿಸ್ತರಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "कर्मानुबन्धीनि",
-            "transliteration": "karmānubandhīni",
-            "meaning": "originating action"
+            "transliteration": {
+                "hi": "कर्मानुबन्धीनि",
+                "en": "karmānubandhīni",
+                "be": "কর্মানুবন্ধীনি",
+                "ka": "ಕರ್ಮಾನುಬನ್ಧೀನಿ"
+            },
+            "meaning": {
+                "hi": "उद्गम क्रिया",
+                "en": "originating action",
+                "be": "মূল কর্ম",
+                "ka": "ಹುಟ್ಟುವ ಕ್ರಿಯೆ"
+            }
         },
         {
             "sanskrit": "मनुष्यलोके",
-            "transliteration": "manuṣyaloke",
-            "meaning": "in the world of"
+            "transliteration": {
+                "hi": "मनुष्यलोके",
+                "en": "manuṣyaloke",
+                "be": "মনুষ্যলোকে",
+                "ka": "ಮನುಷ್ಯಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "की दुनिया में",
+                "en": "in the world of",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಪ್ರಪಂಚದಲ್ಲಿ"
+            }
         }
     ],
     "tej": {

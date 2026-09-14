@@ -14,8 +14,18 @@
         "en": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
         "ka": "ತತಃ ಪದಂ ತತ್ಪರಿಮಾರ್ಗಿತವ್ಯಂ\nಯಸ್ಮಿನ್ಗತಾ ನ ನಿವರ್ತನ್ತಿ ಭೂಯಃ |\nತಮೇವ ಚಾದ್ಯಂ ಪುರುಷಂ ಪ್ರಪದ್ಯೇ |\nಯತಃ ಪ್ರವೃತ್ತಿಃ ಪ್ರಸೃತಾ ಪುರಾಣೀ ||೧೫-೪||"
     },
-    "transliteration": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
-    "life_application": "Seek that goal from which none return, surrendering to the primeval person from whom ancient activity streamed.",
+    "transliteration": {
+        "hi": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये |\nयतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||",
+        "en": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
+        "be": "ততঃ পদং তত্পরিমার্গিতব্যং\nযস্মিন্গতা ন নিবর্তন্তি ভূযঃ |\nতমেব চাদ্যং পুরুষং প্রপদ্যে |\nযতঃ প্রবৃত্তিঃ প্রসৃতা পুরাণী ||১৫-৪||",
+        "ka": "ತತಃ ಪದಂ ತತ್ಪರಿಮಾರ್ಗಿತವ್ಯಂ\nಯಸ್ಮಿನ್ಗತಾ ನ ನಿವರ್ತನ್ತಿ ಭೂಯಃ |\nತಮೇವ ಚಾದ್ಯಂ ಪುರುಷಂ ಪ್ರಪದ್ಯೇ |\nಯತಃ ಪ್ರವೃತ್ತಿಃ ಪ್ರಸೃತಾ ಪುರಾಣೀ ||೧೫-೪||"
+    },
+    "life_application": {
+        "hi": "उस लक्ष्य की तलाश करें जहां से कोई भी वापस नहीं लौटता है, उस आदिम व्यक्ति के सामने समर्पण करें जिससे प्राचीन गतिविधि प्रवाहित होती है।",
+        "en": "Seek that goal from which none return, surrendering to the primeval person from whom ancient activity streamed.",
+        "be": "সেই লক্ষ্যটি সন্ধান করুন যেখান থেকে কেউ ফিরে আসে না, সেই আদিম ব্যক্তির কাছে আত্মসমর্পণ করে যা থেকে প্রাচীন কার্যকলাপ প্রবাহিত হয়েছিল।",
+        "ka": "ಯಾರೊಬ್ಬರೂ ಹಿಂತಿರುಗದ ಗುರಿಯನ್ನು ಹುಡುಕುವುದು, ಪ್ರಾಚೀನ ಚಟುವಟಿಕೆಯು ಸ್ಟ್ರೀಮ್ ಮಾಡಿದ ಪ್ರಾಚೀನ ವ್ಯಕ್ತಿಗೆ ಶರಣಾಗುವುದು."
+    },
     "themes": [
         "Purpose",
         "Devotion"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "पदम्",
-            "transliteration": "padam",
-            "meaning": "goal"
+            "transliteration": {
+                "hi": "पदम्",
+                "en": "padam",
+                "be": "পদম্",
+                "ka": "ಪದಮ್"
+            },
+            "meaning": {
+                "hi": "लक्ष्य",
+                "en": "goal",
+                "be": "লক্ষ্য",
+                "ka": "ಗುರಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "That",
+                "be": "যে",
+                "ka": "ಅದು"
+            }
         },
         {
             "sanskrit": "परिमार्गितव्यम्",
-            "transliteration": "parimārgitavyam",
-            "meaning": "should be sought for"
+            "transliteration": {
+                "hi": "परिमार्गितव्यम्",
+                "en": "parimārgitavyam",
+                "be": "পরিমার্গিতব্যম্",
+                "ka": "ಪರಿಮಾರ್ಗಿತವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "की तलाश की जानी चाहिए",
+                "en": "should be sought for",
+                "be": "জন্য চাওয়া উচিত",
+                "ka": "ಹುಡುಕಬೇಕು"
+            }
         },
         {
             "sanskrit": "यस्मिन्",
-            "transliteration": "yasmin",
-            "meaning": "whither"
+            "transliteration": {
+                "hi": "यस्मिन्",
+                "en": "yasmin",
+                "be": "যস্মিন্",
+                "ka": "ಯಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "किधर",
+                "en": "whither",
+                "be": "যেখানে",
+                "ka": "ಎಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "गताः",
-            "transliteration": "gatāḥ",
-            "meaning": "gone"
+            "transliteration": {
+                "hi": "गताः",
+                "en": "gatāḥ",
+                "be": "গতাঃ",
+                "ka": "ಗತಾಃ"
+            },
+            "meaning": {
+                "hi": "चला गया",
+                "en": "gone",
+                "be": "চলে গেছে",
+                "ka": "ಹೋಗಿದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "निवर्तन्ति",
-            "transliteration": "nivartanti",
-            "meaning": "return"
+            "transliteration": {
+                "hi": "निवर्तन्ति",
+                "en": "nivartanti",
+                "be": "নিবর্তন্তি",
+                "ka": "ನಿವರ್ತನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "वापसी",
+                "en": "return",
+                "be": "ফিরে",
+                "ka": "ಹಿಂತಿರುಗಿ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "आद्यम्",
-            "transliteration": "ādyam",
-            "meaning": "primeval"
+            "transliteration": {
+                "hi": "आद्यम्",
+                "en": "ādyam",
+                "be": "আদ্যম্",
+                "ka": "ಆದ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "आदिम",
+                "en": "primeval",
+                "be": "আদিম",
+                "ka": "ಪ್ರಾಚೀನ"
+            }
         },
         {
             "sanskrit": "पुरुषम्",
-            "transliteration": "puruṣam",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषम्",
+                "en": "puruṣam",
+                "be": "পুরুষম্",
+                "ka": "ಪುರುಷಮ್"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "प्रपद्ये",
-            "transliteration": "prapadye",
-            "meaning": "I seek refuge"
+            "transliteration": {
+                "hi": "प्रपद्ये",
+                "en": "prapadye",
+                "be": "প্রপদ্যে",
+                "ka": "ಪ್ರಪದ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "मैं शरण चाहता हूँ",
+                "en": "I seek refuge",
+                "be": "আমি আশ্রয় চাই",
+                "ka": "ನಾನು ಆಶ್ರಯ ಪಡೆಯುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "यतः",
-            "transliteration": "yataḥ",
-            "meaning": "whence"
+            "transliteration": {
+                "hi": "यतः",
+                "en": "yataḥ",
+                "be": "যতঃ",
+                "ka": "ಯತಃ"
+            },
+            "meaning": {
+                "hi": "कहाँ से",
+                "en": "whence",
+                "be": "কোথা থেকে",
+                "ka": "ಎಲ್ಲಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रवृत्तिः",
-            "transliteration": "pravṛttiḥ",
-            "meaning": "activity or energy"
+            "transliteration": {
+                "hi": "प्रवृत्तिः",
+                "en": "pravṛttiḥ",
+                "be": "প্রবৃত্তিঃ",
+                "ka": "ಪ್ರವೃತ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "गतिविधि या ऊर्जा",
+                "en": "activity or energy",
+                "be": "কার্যকলাপ বা শক্তি",
+                "ka": "ಚಟುವಟಿಕೆ ಅಥವಾ ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "प्रसृता",
-            "transliteration": "prasṛtā",
-            "meaning": "streamed forth"
+            "transliteration": {
+                "hi": "प्रसृता",
+                "en": "prasṛtā",
+                "be": "প্রসৃতা",
+                "ka": "ಪ್ರಸೃತಾ"
+            },
+            "meaning": {
+                "hi": "आगे प्रवाहित किया गया",
+                "en": "streamed forth",
+                "be": "প্রবাহিত",
+                "ka": "ಮುಂದೆ ಹರಿಯಿತು"
+            }
         },
         {
             "sanskrit": "पुराणी",
-            "transliteration": "purāṇī",
-            "meaning": "ancient."
+            "transliteration": {
+                "hi": "पुराणी",
+                "en": "purāṇī",
+                "be": "পুরাণী",
+                "ka": "ಪುರಾಣೀ"
+            },
+            "meaning": {
+                "hi": "प्राचीन।",
+                "en": "ancient.",
+                "be": "প্রাচীন",
+                "ka": "ಪ್ರಾಚೀನ."
+            }
         }
     ],
     "tej": {

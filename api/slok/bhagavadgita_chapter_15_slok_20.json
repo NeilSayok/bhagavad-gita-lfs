@@ -14,8 +14,18 @@
         "en": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
         "ka": "ಇತಿ ಗುಹ್ಯತಮಂ ಶಾಸ್ತ್ರಮಿದಮುಕ್ತಂ ಮಯಾನಘ |\nಏತದ್ಬುದ್ಧ್ವಾ ಬುದ್ಧಿಮಾನ್ಸ್ಯಾತ್ಕೃತಕೃತ್ಯಶ್ಚ ಭಾರತ ||೧೫-೨೦||"
     },
-    "transliteration": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
-    "life_application": "Thus has this most secret science been declared; knowing this, one becomes wise and completes all duty.",
+    "transliteration": {
+        "hi": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||",
+        "en": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
+        "be": "ইতি গুহ্যতমং শাস্ত্রমিদমুক্তং মযানঘ |\nএতদ্বুদ্ধ্বা বুদ্ধিমান্স্যাত্কৃতকৃত্যশ্চ ভারত ||১৫-২০||",
+        "ka": "ಇತಿ ಗುಹ್ಯತಮಂ ಶಾಸ್ತ್ರಮಿದಮುಕ್ತಂ ಮಯಾನಘ |\nಏತದ್ಬುದ್ಧ್ವಾ ಬುದ್ಧಿಮಾನ್ಸ್ಯಾತ್ಕೃತಕೃತ್ಯಶ್ಚ ಭಾರತ ||೧೫-೨೦||"
+    },
+    "life_application": {
+        "hi": "इस प्रकार यह अत्यंत गुप्त विज्ञान घोषित किया गया है; ऐसा जानकर मनुष्य बुद्धिमान हो जाता है और सभी कर्तव्य पूर्ण कर लेता है।",
+        "en": "Thus has this most secret science been declared; knowing this, one becomes wise and completes all duty.",
+        "be": "এইভাবে এই সবচেয়ে গোপন বিজ্ঞান ঘোষণা করা হয়েছে; একথা জেনে জ্ঞানী হয় এবং সমস্ত কর্তব্য সম্পন্ন করে।",
+        "ka": "ಹೀಗೆ ಈ ಅತ್ಯಂತ ರಹಸ್ಯ ವಿಜ್ಞಾನವನ್ನು ಘೋಷಿಸಲಾಗಿದೆ; ಇದನ್ನು ತಿಳಿದುಕೊಂಡು, ಒಬ್ಬನು ಬುದ್ಧಿವಂತನಾಗುತ್ತಾನೆ ಮತ್ತು ಎಲ್ಲಾ ಕರ್ತವ್ಯಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "गुह्यतमम्",
-            "transliteration": "guhyatamam",
-            "meaning": "most secret"
+            "transliteration": {
+                "hi": "गुह्यतमम्",
+                "en": "guhyatamam",
+                "be": "গুহ্যতমম্",
+                "ka": "ಗುಹ್ಯತಮಮ್"
+            },
+            "meaning": {
+                "hi": "सबसे गुप्त",
+                "en": "most secret",
+                "be": "সবচেয়ে গোপন",
+                "ka": "ಅತ್ಯಂತ ರಹಸ್ಯ"
+            }
         },
         {
             "sanskrit": "शास्त्रम्",
-            "transliteration": "śāstram",
-            "meaning": "science"
+            "transliteration": {
+                "hi": "शास्त्रम्",
+                "en": "śāstram",
+                "be": "শাস্ত্রম্",
+                "ka": "ಶಾಸ್ತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "विज्ञान",
+                "en": "science",
+                "be": "বিজ্ঞান",
+                "ka": "ವಿಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "उक्तम्",
-            "transliteration": "uktam",
-            "meaning": "has been taught"
+            "transliteration": {
+                "hi": "उक्तम्",
+                "en": "uktam",
+                "be": "উক্তম্",
+                "ka": "ಉಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "सिखाया गया है",
+                "en": "has been taught",
+                "be": "শেখানো হয়েছে",
+                "ka": "ಕಲಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by Me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by Me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "अनघ",
-            "transliteration": "anagha",
-            "meaning": "O sinless one"
+            "transliteration": {
+                "hi": "अनघ",
+                "en": "anagha",
+                "be": "অনঘ",
+                "ka": "ಅನಘ"
+            },
+            "meaning": {
+                "hi": "हे पापरहित!",
+                "en": "O sinless one",
+                "be": "হে পাপহীন",
+                "ka": "ಓ ಪಾಪರಹಿತನೇ"
+            }
         },
         {
             "sanskrit": "एतत् बुद्ध्वा",
-            "transliteration": "etat buddhvā",
-            "meaning": "knowing this"
+            "transliteration": {
+                "hi": "एतत् बुद्ध्वा",
+                "en": "etat buddhvā",
+                "be": "এতত্ বুদ্ধ্বা",
+                "ka": "ಏತತ್ ಬುದ್ಧ್ವಾ"
+            },
+            "meaning": {
+                "hi": "यह जानना",
+                "en": "knowing this",
+                "be": "এটা জেনে",
+                "ka": "ಇದನ್ನು ತಿಳಿದುಕೊಳ್ಳುವುದು"
+            }
         },
         {
             "sanskrit": "बुद्धिमान्",
-            "transliteration": "buddhimān",
-            "meaning": "wise"
+            "transliteration": {
+                "hi": "बुद्धिमान्",
+                "en": "buddhimān",
+                "be": "বুদ্ধিমান্",
+                "ka": "ಬುದ್ಧಿಮಾನ್"
+            },
+            "meaning": {
+                "hi": "बुद्धिमान",
+                "en": "wise",
+                "be": "জ্ঞানী",
+                "ka": "ಬುದ್ಧಿವಂತ"
+            }
         },
         {
             "sanskrit": "स्यात्",
-            "transliteration": "syāt",
-            "meaning": "will become"
+            "transliteration": {
+                "hi": "स्यात्",
+                "en": "syāt",
+                "be": "স্যাত্",
+                "ka": "ಸ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "बन जायेगा",
+                "en": "will become",
+                "be": "হয়ে যাবে",
+                "ka": "ಆಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "कृतकृत्यः",
-            "transliteration": "kṛtakṛtyaḥ",
-            "meaning": "accomplished all the duties"
+            "transliteration": {
+                "hi": "कृतकृत्यः",
+                "en": "kṛtakṛtyaḥ",
+                "be": "কৃতকৃত্যঃ",
+                "ka": "ಕೃತಕೃತ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "सभी कर्तव्य पूरे किये",
+                "en": "accomplished all the duties",
+                "be": "সমস্ত কর্তব্য সম্পন্ন",
+                "ka": "ಎಲ್ಲಾ ಕರ್ತವ್ಯಗಳನ್ನು ಪೂರೈಸಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata."
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata.",
+                "be": "হে ভরত।",
+                "ka": "ಓ ಭರತ."
+            }
         }
     ],
     "tej": {

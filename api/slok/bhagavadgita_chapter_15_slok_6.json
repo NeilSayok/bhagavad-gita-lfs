@@ -14,8 +14,18 @@
         "en": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
         "ka": "ನ ತದ್ಭಾಸಯತೇ ಸೂರ್ಯೋ ನ ಶಶಾಙ್ಕೋ ನ ಪಾವಕಃ |\nಯದ್ಗತ್ವಾ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೧೫-೬||"
     },
-    "transliteration": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
-    "life_application": "That supreme abode is not illuminated by sun, moon, or fire; reaching it, seekers never return to mortal darkness.",
+    "transliteration": {
+        "hi": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||",
+        "en": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
+        "be": "ন তদ্ভাসযতে সূর্যো ন শশাঙ্কো ন পাবকঃ |\nযদ্গত্বা ন নিবর্তন্তে তদ্ধাম পরমং মম ||১৫-৬||",
+        "ka": "ನ ತದ್ಭಾಸಯತೇ ಸೂರ್ಯೋ ನ ಶಶಾಙ್ಕೋ ನ ಪಾವಕಃ |\nಯದ್ಗತ್ವಾ ನ ನಿವರ್ತನ್ತೇ ತದ್ಧಾಮ ಪರಮಂ ಮಮ ||೧೫-೬||"
+    },
+    "life_application": {
+        "hi": "वह परमधाम सूर्य, चन्द्रमा अथवा अग्नि से प्रकाशित नहीं होता; उस तक पहुँचने पर, साधक कभी नश्वर अंधकार में नहीं लौटते।",
+        "en": "That supreme abode is not illuminated by sun, moon, or fire; reaching it, seekers never return to mortal darkness.",
+        "be": "সেই পরম আবাস সূর্য, চন্দ্র বা আগুন দ্বারা আলোকিত হয় না; এটি পৌঁছানোর, সন্ধানকারীরা কখনও নশ্বর অন্ধকারে ফিরে আসে না।",
+        "ka": "ಆ ಪರಮ ನಿವಾಸವು ಸೂರ್ಯ, ಚಂದ್ರ ಅಥವಾ ಬೆಂಕಿಯಿಂದ ಪ್ರಕಾಶಿಸಲ್ಪಟ್ಟಿಲ್ಲ; ಅದನ್ನು ತಲುಪಿದಾಗ, ಅನ್ವೇಷಕರು ಎಂದಿಗೂ ಮಾರಣಾಂತಿಕ ಕತ್ತಲೆಗೆ ಹಿಂತಿರುಗುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Self-Realization",
         "Purpose"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "भासयते",
-            "transliteration": "bhāsayate",
-            "meaning": "illumines"
+            "transliteration": {
+                "hi": "भासयते",
+                "en": "bhāsayate",
+                "be": "ভাসযতে",
+                "ka": "ಭಾಸಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रकाशित करता है",
+                "en": "illumines",
+                "be": "আলোকিত করে",
+                "ka": "ಪ್ರಕಾಶಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "सूर्यः",
-            "transliteration": "sūryaḥ",
-            "meaning": "the sun"
+            "transliteration": {
+                "hi": "सूर्यः",
+                "en": "sūryaḥ",
+                "be": "সূর্যঃ",
+                "ka": "ಸೂರ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "सूरज",
+                "en": "the sun",
+                "be": "সূর্য",
+                "ka": "ಸೂರ್ಯ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "शशाङ्कः",
-            "transliteration": "śaśāṅkaḥ",
-            "meaning": "the moon"
+            "transliteration": {
+                "hi": "शशाङ्कः",
+                "en": "śaśāṅkaḥ",
+                "be": "শশাঙ্কঃ",
+                "ka": "ಶಶಾಙ್ಕಃ"
+            },
+            "meaning": {
+                "hi": "चांद",
+                "en": "the moon",
+                "be": "চাঁদ",
+                "ka": "ಚಂದ್ರ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पावकः",
-            "transliteration": "pāvakaḥ",
-            "meaning": "fire"
+            "transliteration": {
+                "hi": "पावकः",
+                "en": "pāvakaḥ",
+                "be": "পাবকঃ",
+                "ka": "ಪಾವಕಃ"
+            },
+            "meaning": {
+                "hi": "आग",
+                "en": "fire",
+                "be": "আগুন",
+                "ka": "ಬೆಂಕಿ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "to which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "किसको",
+                "en": "to which",
+                "be": "যা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "गत्वा",
-            "transliteration": "gatvā",
-            "meaning": "having gone"
+            "transliteration": {
+                "hi": "गत्वा",
+                "en": "gatvā",
+                "be": "গত্বা",
+                "ka": "ಗತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "चला गया",
+                "en": "having gone",
+                "be": "চলে গেছে",
+                "ka": "ಹೋಗಿದ್ದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "निवर्तन्ते",
-            "transliteration": "nivartante",
-            "meaning": "return"
+            "transliteration": {
+                "hi": "निवर्तन्ते",
+                "en": "nivartante",
+                "be": "নিবর্তন্তে",
+                "ka": "ನಿವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "वापसी",
+                "en": "return",
+                "be": "ফিরে",
+                "ka": "ಹಿಂತಿರುಗಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "धाम",
-            "transliteration": "dhāma",
-            "meaning": "Abode"
+            "transliteration": {
+                "hi": "धाम",
+                "en": "dhāma",
+                "be": "ধাম",
+                "ka": "ಧಾಮ"
+            },
+            "meaning": {
+                "hi": "निवास",
+                "en": "Abode",
+                "be": "বাসস্থান",
+                "ka": "ವಾಸಸ್ಥಾನ"
+            }
         },
         {
             "sanskrit": "परमम्",
-            "transliteration": "paramam",
-            "meaning": "Supreme"
+            "transliteration": {
+                "hi": "परमम्",
+                "en": "paramam",
+                "be": "পরমম্",
+                "ka": "ಪರಮಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "Supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My."
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा।",
+                "en": "My.",
+                "be": "আমার",
+                "ka": "ನನ್ನ."
+            }
         },
         {
             "sanskrit": "यत् धाम",
-            "transliteration": "yat dhāma",
-            "meaning": "वैष्णवं पदं गत्वा प्राप्य"
+            "transliteration": {
+                "hi": "यत् धाम",
+                "en": "yat dhāma",
+                "be": "যত্ ধাম",
+                "ka": "ಯತ್ ಧಾಮ"
+            },
+            "meaning": {
+                "hi": "वैष्णवं पदं गत्वा प्राप्य",
+                "en": "वैष्णवं पदं गत्वा प्राप्य",
+                "be": "वैष्णव पदं गत्वा प्राप्य",
+                "ka": "ವೈಷ್ಣವಂ ಪದಂ ಗತ್ವಾ ಪ್ರಾಪ್ಯ"
+            }
         }
     ],
     "tej": {

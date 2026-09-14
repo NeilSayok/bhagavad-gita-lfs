@@ -14,8 +14,18 @@
         "en": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
         "ka": "ಶರೀರಂ ಯದವಾಪ್ನೋತಿ ಯಚ್ಚಾಪ್ಯುತ್ಕ್ರಾಮತೀಶ್ವರಃ |\nಗೃಹೀತ್ವೈತಾನಿ ಸಂಯಾತಿ ವಾಯುರ್ಗನ್ಧಾನಿವಾಶಯಾತ್ ||೧೫-೮||"
     },
-    "transliteration": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
-    "life_application": "When the soul obtains a body or leaves it, it carries senses and mind along, as wind carries scents from flowers.",
+    "transliteration": {
+        "hi": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||",
+        "en": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
+        "be": "শরীরং যদবাপ্নোতি যচ্চাপ্যুত্ক্রামতীশ্বরঃ |\nগৃহীত্বৈতানি সংযাতি বাযুর্গন্ধানিবাশযাত্ ||১৫-৮||",
+        "ka": "ಶರೀರಂ ಯದವಾಪ್ನೋತಿ ಯಚ್ಚಾಪ್ಯುತ್ಕ್ರಾಮತೀಶ್ವರಃ |\nಗೃಹೀತ್ವೈತಾನಿ ಸಂಯಾತಿ ವಾಯುರ್ಗನ್ಧಾನಿವಾಶಯಾತ್ ||೧೫-೮||"
+    },
+    "life_application": {
+        "hi": "जब आत्मा शरीर प्राप्त करती है या उसे छोड़ती है, तो वह इंद्रियों और मन को साथ ले जाती है, जैसे हवा फूलों से सुगंध ले जाती है।",
+        "en": "When the soul obtains a body or leaves it, it carries senses and mind along, as wind carries scents from flowers.",
+        "be": "আত্মা যখন একটি শরীর প্রাপ্ত করে বা এটি ছেড়ে যায়, তখন এটি ইন্দ্রিয় এবং মনকে বহন করে, যেমন বাতাস ফুলের গন্ধ বহন করে।",
+        "ka": "ಆತ್ಮವು ದೇಹವನ್ನು ಪಡೆದಾಗ ಅಥವಾ ಅದನ್ನು ತೊರೆದಾಗ, ಗಾಳಿಯು ಹೂವುಗಳಿಂದ ಪರಿಮಳವನ್ನು ಸಾಗಿಸುವಂತೆ ಅದು ಇಂದ್ರಿಯಗಳನ್ನು ಮತ್ತು ಮನಸ್ಸನ್ನು ಒಯ್ಯುತ್ತದೆ."
+    },
     "themes": [
         "Death",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "शरीरम्",
-            "transliteration": "śarīram",
-            "meaning": "a body"
+            "transliteration": {
+                "hi": "शरीरम्",
+                "en": "śarīram",
+                "be": "শরীরম্",
+                "ka": "ಶರೀರಮ್"
+            },
+            "meaning": {
+                "hi": "एक शरीर",
+                "en": "a body",
+                "be": "একটি শরীর",
+                "ka": "ಒಂದು ದೇಹ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "अवाप्नोति",
-            "transliteration": "avāpnoti",
-            "meaning": "obtains"
+            "transliteration": {
+                "hi": "अवाप्नोति",
+                "en": "avāpnoti",
+                "be": "অবাপ্নোতি",
+                "ka": "ಅವಾಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है",
+                "en": "obtains",
+                "be": "পায়",
+                "ka": "ಪಡೆಯುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "when"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "कब",
+                "en": "when",
+                "be": "যখন",
+                "ka": "ಯಾವಾಗ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "उत्क्रामति",
-            "transliteration": "utkrāmati",
-            "meaning": "leaves"
+            "transliteration": {
+                "hi": "उत्क्रामति",
+                "en": "utkrāmati",
+                "be": "উত্ক্রামতি",
+                "ka": "ಉತ್ಕ್ರಾಮತಿ"
+            },
+            "meaning": {
+                "hi": "पत्तियां",
+                "en": "leaves",
+                "be": "পাতা",
+                "ka": "ಎಲೆಗಳು"
+            }
         },
         {
             "sanskrit": "ईश्वरः",
-            "transliteration": "īśvaraḥ",
-            "meaning": "the Lord"
+            "transliteration": {
+                "hi": "ईश्वरः",
+                "en": "īśvaraḥ",
+                "be": "ঈশ্বরঃ",
+                "ka": "ಈಶ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "प्रभु",
+                "en": "the Lord",
+                "be": "প্রভু",
+                "ka": "ಲಾರ್ಡ್"
+            }
         },
         {
             "sanskrit": "गृहीत्वा",
-            "transliteration": "gṛhītvā",
-            "meaning": "taking"
+            "transliteration": {
+                "hi": "गृहीत्वा",
+                "en": "gṛhītvā",
+                "be": "গৃহীত্বা",
+                "ka": "ಗೃಹೀತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ले रहा हूँ",
+                "en": "taking",
+                "be": "গ্রহণ",
+                "ka": "ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "एतानि",
-            "transliteration": "etāni",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतानि",
+                "en": "etāni",
+                "be": "এতানি",
+                "ka": "ಏತಾನಿ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "संयाति",
-            "transliteration": "saṃyāti",
-            "meaning": "goes"
+            "transliteration": {
+                "hi": "संयाति",
+                "en": "saṃyāti",
+                "be": "সংযাতি",
+                "ka": "ಸಂಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "जाता है",
+                "en": "goes",
+                "be": "যায়",
+                "ka": "ಹೋಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "वायुः",
-            "transliteration": "vāyuḥ",
-            "meaning": "the wind"
+            "transliteration": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "বাযুঃ",
+                "ka": "ವಾಯುಃ"
+            },
+            "meaning": {
+                "hi": "हवा",
+                "en": "the wind",
+                "be": "বাতাস",
+                "ka": "ಗಾಳಿ"
+            }
         },
         {
             "sanskrit": "गन्धान्",
-            "transliteration": "gandhān",
-            "meaning": "the scents"
+            "transliteration": {
+                "hi": "गन्धान्",
+                "en": "gandhān",
+                "be": "গন্ধান্",
+                "ka": "ಗನ್ಧಾನ್"
+            },
+            "meaning": {
+                "hi": "सुगंध",
+                "en": "the scents",
+                "be": "সুগন্ধি",
+                "ka": "ಪರಿಮಳಗಳು"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "आशयात्",
-            "transliteration": "āśayāt",
-            "meaning": "from seats ."
+            "transliteration": {
+                "hi": "आशयात्",
+                "en": "āśayāt",
+                "be": "আশযাত্",
+                "ka": "ಆಶಯಾತ್"
+            },
+            "meaning": {
+                "hi": "सीटों से.",
+                "en": "from seats .",
+                "be": "আসন থেকে",
+                "ka": "ಆಸನಗಳಿಂದ."
+            }
         }
     ],
     "tej": {

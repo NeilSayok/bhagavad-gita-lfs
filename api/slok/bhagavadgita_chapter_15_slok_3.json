@@ -14,8 +14,18 @@
         "en": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
         "ka": "ನ ರೂಪಮಸ್ಯೇಹ ತಥೋಪಲಭ್ಯತೇ\nನಾನ್ತೋ ನ ಚಾದಿರ್ನ ಚ ಸಮ್ಪ್ರತಿಷ್ಠಾ |\nಅಶ್ವತ್ಥಮೇನಂ ಸುವಿರೂಢಮೂಲಂ\nಅಸಙ್ಗಶಸ್ತ್ರೇಣ ದೃಢೇನ ಛಿತ್ತ್ವಾ ||೧೫-೩||"
     },
-    "transliteration": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
-    "life_application": "Cut down this firm-rooted tree of attachment using the strong axe of detachment, seeking the primal source.",
+    "transliteration": {
+        "hi": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा ||१५-३||",
+        "en": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
+        "be": "ন রূপমস্যেহ তথোপলভ্যতে\nনান্তো ন চাদির্ন চ সম্প্রতিষ্ঠা |\nঅশ্বত্থমেনং সুবিরূঢমূলং\nঅসঙ্গশস্ত্রেণ দৃঢেন ছিত্ত্বা ||১৫-৩||",
+        "ka": "ನ ರೂಪಮಸ್ಯೇಹ ತಥೋಪಲಭ್ಯತೇ\nನಾನ್ತೋ ನ ಚಾದಿರ್ನ ಚ ಸಮ್ಪ್ರತಿಷ್ಠಾ |\nಅಶ್ವತ್ಥಮೇನಂ ಸುವಿರೂಢಮೂಲಂ\nಅಸಙ್ಗಶಸ್ತ್ರೇಣ ದೃಢೇನ ಛಿತ್ತ್ವಾ ||೧೫-೩||"
+    },
+    "life_application": {
+        "hi": "मूल स्रोत की तलाश करते हुए, विरक्ति की मजबूत कुल्हाड़ी का उपयोग करके आसक्ति के इस दृढ़ जड़ वाले वृक्ष को काट डालो।",
+        "en": "Cut down this firm-rooted tree of attachment using the strong axe of detachment, seeking the primal source.",
+        "be": "আদি উৎসের সন্ধানে বিচ্ছিন্নতার শক্তিশালী কুঠার ব্যবহার করে সংযুক্তির এই দৃঢ়-মূলযুক্ত গাছটিকে কেটে ফেলুন।",
+        "ka": "ಬೇರ್ಪಡುವಿಕೆಯ ಬಲವಾದ ಕೊಡಲಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಈ ದೃಢವಾದ ಬೇರೂರಿರುವ ಬಾಂಧವ್ಯದ ಮರವನ್ನು ಕತ್ತರಿಸಿ, ಮೂಲ ಮೂಲವನ್ನು ಹುಡುಕುವುದು."
+    },
     "themes": [
         "Detachment",
         "Purpose"
@@ -23,103 +33,303 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "its"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इसका",
+                "en": "its",
+                "be": "এর",
+                "ka": "ಅದರ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "as such"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as such",
+                "be": "যেমন",
+                "ka": "ಅದರಂತೆ"
+            }
         },
         {
             "sanskrit": "उपलभ्यते",
-            "transliteration": "upalabhyate",
-            "meaning": "is perceived"
+            "transliteration": {
+                "hi": "उपलभ्यते",
+                "en": "upalabhyate",
+                "be": "উপলভ্যতে",
+                "ka": "ಉಪಲಭ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "माना जाता है",
+                "en": "is perceived",
+                "be": "অনুভূত হয়",
+                "ka": "ಗ್ರಹಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अन्तः",
-            "transliteration": "antaḥ",
-            "meaning": "end"
+            "transliteration": {
+                "hi": "अन्तः",
+                "en": "antaḥ",
+                "be": "অন্তঃ",
+                "ka": "ಅನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "अंत",
+                "en": "end",
+                "be": "শেষ",
+                "ka": "ಅಂತ್ಯ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "आदिः",
-            "transliteration": "ādiḥ",
-            "meaning": "origin"
+            "transliteration": {
+                "hi": "आदिः",
+                "en": "ādiḥ",
+                "be": "আদিঃ",
+                "ka": "ಆದಿಃ"
+            },
+            "meaning": {
+                "hi": "उत्पत्ति",
+                "en": "origin",
+                "be": "মূল",
+                "ka": "ಮೂಲ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "संप्रतिष्ठा",
-            "transliteration": "saṃpratiṣṭhā",
-            "meaning": "foundation or resting place"
+            "transliteration": {
+                "hi": "संप्रतिष्ठा",
+                "en": "saṃpratiṣṭhā",
+                "be": "সংপ্রতিষ্ঠা",
+                "ka": "ಸಂಪ್ರತಿಷ್ಠಾ"
+            },
+            "meaning": {
+                "hi": "नींव या विश्राम स्थल",
+                "en": "foundation or resting place",
+                "be": "ভিত্তি বা বিশ্রামের স্থান",
+                "ka": "ಅಡಿಪಾಯ ಅಥವಾ ವಿಶ್ರಾಂತಿ ಸ್ಥಳ"
+            }
         },
         {
             "sanskrit": "अश्वत्थम्",
-            "transliteration": "aśvattham",
-            "meaning": "Asvattha"
+            "transliteration": {
+                "hi": "अश्वत्थम्",
+                "en": "aśvattham",
+                "be": "অশ্বত্থম্",
+                "ka": "ಅಶ್ವತ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "अश्वत्थ",
+                "en": "Asvattha",
+                "be": "অশ্বত্থ",
+                "ka": "ಅಶ್ವತ್ಥ"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "सुविरूढमूलम्",
-            "transliteration": "suvirūḍhamūlam",
-            "meaning": "firmrooted"
+            "transliteration": {
+                "hi": "सुविरूढमूलम्",
+                "en": "suvirūḍhamūlam",
+                "be": "সুবিরূঢমূলম্",
+                "ka": "ಸುವಿರೂಢಮೂಲಮ್"
+            },
+            "meaning": {
+                "hi": "दृढ़",
+                "en": "firmrooted",
+                "be": "দৃঢ়মূল",
+                "ka": "ದೃಢವಾಗಿ ಬೇರೂರಿದೆ"
+            }
         },
         {
             "sanskrit": "असङ्गशस्त्रेण",
-            "transliteration": "asaṅgaśastreṇa",
-            "meaning": "with the axe of"
+            "transliteration": {
+                "hi": "असङ्गशस्त्रेण",
+                "en": "asaṅgaśastreṇa",
+                "be": "অসঙ্গশস্ত্রেণ",
+                "ka": "ಅಸಙ್ಗಶಸ್ತ್ರೇಣ"
+            },
+            "meaning": {
+                "hi": "की कुल्हाड़ी से",
+                "en": "with the axe of",
+                "be": "কুঠার দিয়ে",
+                "ka": "ನ ಕೊಡಲಿಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "दृढेन",
-            "transliteration": "dṛḍhena",
-            "meaning": "strong"
+            "transliteration": {
+                "hi": "दृढेन",
+                "en": "dṛḍhena",
+                "be": "দৃঢেন",
+                "ka": "ದೃಢೇನ"
+            },
+            "meaning": {
+                "hi": "मजबूत",
+                "en": "strong",
+                "be": "শক্তিশালী",
+                "ka": "ಬಲವಾದ"
+            }
         },
         {
             "sanskrit": "छित्त्वा",
-            "transliteration": "chittvā",
-            "meaning": "having cut asunder."
+            "transliteration": {
+                "hi": "छित्त्वा",
+                "en": "chittvā",
+                "be": "ছিত্ত্বা",
+                "ka": "ಛಿತ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "टुकड़े-टुकड़े कर देना।",
+                "en": "having cut asunder.",
+                "be": "বিচ্ছিন্ন করা",
+                "ka": "ಕತ್ತರಿಸಿದ ನಂತರ."
+            }
         }
     ],
     "tej": {

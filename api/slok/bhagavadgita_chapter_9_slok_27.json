@@ -14,8 +14,18 @@
         "en": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat .\nyattapasyasi kaunteya tatkuruṣva madarpaṇam ||9-27||",
         "ka": "ಯತ್ಕರೋಷಿ ಯದಶ್ನಾಸಿ ಯಜ್ಜುಹೋಷಿ ದದಾಸಿ ಯತ್ |\nಯತ್ತಪಸ್ಯಸಿ ಕೌನ್ತೇಯ ತತ್ಕುರುಷ್ವ ಮದರ್ಪಣಮ್ ||೯-೨೭||"
     },
-    "transliteration": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat .\nyattapasyasi kaunteya tatkuruṣva madarpaṇam ||9-27||",
-    "life_application": "Whatever you do, eat, offer in sacrifice, give away, or practice as austerity—do it as an offering to God.",
+    "transliteration": {
+        "hi": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् |\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ||९-२७||",
+        "en": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat .\nyattapasyasi kaunteya tatkuruṣva madarpaṇam ||9-27||",
+        "be": "যত্করোষি যদশ্নাসি যজ্জুহোষি দদাসি যত্ |\nযত্তপস্যসি কৌন্তেয তত্কুরুষ্ব মদর্পণম্ ||৯-২৭||",
+        "ka": "ಯತ್ಕರೋಷಿ ಯದಶ್ನಾಸಿ ಯಜ್ಜುಹೋಷಿ ದದಾಸಿ ಯತ್ |\nಯತ್ತಪಸ್ಯಸಿ ಕೌನ್ತೇಯ ತತ್ಕುರುಷ್ವ ಮದರ್ಪಣಮ್ ||೯-೨೭||"
+    },
+    "life_application": {
+        "hi": "आप जो कुछ भी करते हैं, खाते हैं, यज्ञ करते हैं, त्याग करते हैं, या तपस्या करते हैं - उसे भगवान को अर्पण करने के रूप में करें।",
+        "en": "Whatever you do, eat, offer in sacrifice, give away, or practice as austerity—do it as an offering to God.",
+        "be": "আপনি যা কিছু করেন, খান, বলিদান করেন, দান করেন বা তপস্যা হিসাবে অনুশীলন করেন - ঈশ্বরের উদ্দেশ্যে নৈবেদ্য হিসাবে করুন।",
+        "ka": "ನೀವು ಏನು ಮಾಡಿದರೂ, ತಿನ್ನುತ್ತಾರೆ, ಯಜ್ಞದಲ್ಲಿ ಅರ್ಪಿಸುತ್ತಾರೆ, ಕೊಡುತ್ತಾರೆ ಅಥವಾ ತಪಸ್ಸಿನಂತೆ ಆಚರಿಸುತ್ತಾರೆ - ಅದನ್ನು ದೇವರಿಗೆ ನೈವೇದ್ಯವಾಗಿ ಮಾಡಿ."
+    },
     "themes": [
         "Devotion",
         "Karma",
@@ -24,48 +34,138 @@
     "word_meanings": [
         {
             "sanskrit": "यत्करोषि",
-            "transliteration": "yatkaroṣi",
-            "meaning": "yatkaroṣi"
+            "transliteration": {
+                "hi": "यत्करोषि",
+                "en": "yatkaroṣi",
+                "be": "যত্করোষি",
+                "ka": "ಯತ್ಕರೋಷಿ"
+            },
+            "meaning": {
+                "hi": "यत्कारोषि",
+                "en": "yatkaroṣi",
+                "be": "yatkaroṣi",
+                "ka": "ಯತ್ಕರೋಷಿ"
+            }
         },
         {
             "sanskrit": "यदश्नासि",
-            "transliteration": "yadaśnāsi",
-            "meaning": "yadaśnāsi"
+            "transliteration": {
+                "hi": "यदश्नासि",
+                "en": "yadaśnāsi",
+                "be": "যদশ্নাসি",
+                "ka": "ಯದಶ್ನಾಸಿ"
+            },
+            "meaning": {
+                "hi": "यदश्नासि",
+                "en": "yadaśnāsi",
+                "be": "যদশনাসি",
+                "ka": "ಯಾದಶ್ನಾಸಿ"
+            }
         },
         {
             "sanskrit": "यज्जुहोषि",
-            "transliteration": "yajjuhoṣi",
-            "meaning": "yajjuhoṣi"
+            "transliteration": {
+                "hi": "यज्जुहोषि",
+                "en": "yajjuhoṣi",
+                "be": "যজ্জুহোষি",
+                "ka": "ಯಜ್ಜುಹೋಷಿ"
+            },
+            "meaning": {
+                "hi": "यज्जुहोशी",
+                "en": "yajjuhoṣi",
+                "be": "yajjuhoṣi",
+                "ka": "ಯಜ್ಜುಹೋಶಿ"
+            }
         },
         {
             "sanskrit": "ददासि",
-            "transliteration": "dadāsi",
-            "meaning": "dadāsi"
+            "transliteration": {
+                "hi": "ददासि",
+                "en": "dadāsi",
+                "be": "দদাসি",
+                "ka": "ದದಾಸಿ"
+            },
+            "meaning": {
+                "hi": "दादासी",
+                "en": "dadāsi",
+                "be": "দাদাসি",
+                "ka": "ದಾದಾಸಿ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "yat"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "यट",
+                "en": "yat",
+                "be": "ইয়াত",
+                "ka": "ಯಾತ್"
+            }
         },
         {
             "sanskrit": "यत्तपस्यसि",
-            "transliteration": "yattapasyasi",
-            "meaning": "yattapasyasi"
+            "transliteration": {
+                "hi": "यत्तपस्यसि",
+                "en": "yattapasyasi",
+                "be": "যত্তপস্যসি",
+                "ka": "ಯತ್ತಪಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "यत्तपस्यासि",
+                "en": "yattapasyasi",
+                "be": "যত্তপস্যাসি",
+                "ka": "ಯತ್ತಪಶ್ಯಸಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "तत्कुरुष्व",
-            "transliteration": "tatkuruṣva",
-            "meaning": "tatkuruṣva"
+            "transliteration": {
+                "hi": "तत्कुरुष्व",
+                "en": "tatkuruṣva",
+                "be": "তত্কুরুষ্ব",
+                "ka": "ತತ್ಕುರುಷ್ವ"
+            },
+            "meaning": {
+                "hi": "तत्कुरुश्व",
+                "en": "tatkuruṣva",
+                "be": "tatkuruṣva",
+                "ka": "ತತ್ಕುರುಷ್ವ"
+            }
         },
         {
             "sanskrit": "मदर्पणम्",
-            "transliteration": "madarpaṇam",
-            "meaning": "madarpaṇam"
+            "transliteration": {
+                "hi": "मदर्पणम्",
+                "en": "madarpaṇam",
+                "be": "মদর্পণম্",
+                "ka": "ಮದರ್ಪಣಮ್"
+            },
+            "meaning": {
+                "hi": "मदारपणम",
+                "en": "madarpaṇam",
+                "be": "madarpanam",
+                "ka": "ಮದರ್ಪಣಮ್"
+            }
         }
     ],
     "tej": {

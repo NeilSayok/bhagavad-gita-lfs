@@ -14,8 +14,18 @@
         "en": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati .\ntadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ||9-26||",
         "ka": "ಪತ್ರಂ ಪುಷ್ಪಂ ಫಲಂ ತೋಯಂ ಯೋ ಮೇ ಭಕ್ತ್ಯಾ ಪ್ರಯಚ್ಛತಿ |\nತದಹಂ ಭಕ್ತ್ಯುಪಹೃತಮಶ್ನಾಮಿ ಪ್ರಯತಾತ್ಮನಃ ||೯-೨೬||"
     },
-    "transliteration": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati .\ntadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ||9-26||",
-    "life_application": "Offer a leaf, a flower, a fruit, or water with love and devotion, which God gladly accepts from a pure heart.",
+    "transliteration": {
+        "hi": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति |\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ||९-२६||",
+        "en": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati .\ntadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ||9-26||",
+        "be": "পত্রং পুষ্পং ফলং তোযং যো মে ভক্ত্যা প্রযচ্ছতি |\nতদহং ভক্ত্যুপহৃতমশ্নামি প্রযতাত্মনঃ ||৯-২৬||",
+        "ka": "ಪತ್ರಂ ಪುಷ್ಪಂ ಫಲಂ ತೋಯಂ ಯೋ ಮೇ ಭಕ್ತ್ಯಾ ಪ್ರಯಚ್ಛತಿ |\nತದಹಂ ಭಕ್ತ್ಯುಪಹೃತಮಶ್ನಾಮಿ ಪ್ರಯತಾತ್ಮನಃ ||೯-೨೬||"
+    },
+    "life_application": {
+        "hi": "प्रेम और भक्तिपूर्वक एक पत्ता, एक फूल, एक फल या जल अर्पित करें, जिसे भगवान सच्चे हृदय से सहर्ष स्वीकार करते हैं।",
+        "en": "Offer a leaf, a flower, a fruit, or water with love and devotion, which God gladly accepts from a pure heart.",
+        "be": "প্রেম এবং ভক্তি সহ একটি পাতা, একটি ফুল, একটি ফল, বা জল অর্পণ করুন, যা ঈশ্বর সানন্দে শুদ্ধ হৃদয় থেকে গ্রহণ করেন।",
+        "ka": "ಪ್ರೀತಿ ಮತ್ತು ಭಕ್ತಿಯಿಂದ ಎಲೆ, ಹೂವು, ಹಣ್ಣು ಅಥವಾ ನೀರನ್ನು ಅರ್ಪಿಸಿ, ಅದನ್ನು ದೇವರು ಶುದ್ಧ ಹೃದಯದಿಂದ ಸಂತೋಷದಿಂದ ಸ್ವೀಕರಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "पत्रं",
-            "transliteration": "patraṃ",
-            "meaning": "patraṃ"
+            "transliteration": {
+                "hi": "पत्रं",
+                "en": "patraṃ",
+                "be": "পত্রং",
+                "ka": "ಪತ್ರಂ"
+            },
+            "meaning": {
+                "hi": "पत्रां",
+                "en": "patraṃ",
+                "be": "patraṃ",
+                "ka": "ಪತ್ರ"
+            }
         },
         {
             "sanskrit": "पुष्पं",
-            "transliteration": "puṣpaṃ",
-            "meaning": "puṣpaṃ"
+            "transliteration": {
+                "hi": "पुष्पं",
+                "en": "puṣpaṃ",
+                "be": "পুষ্পং",
+                "ka": "ಪುಷ್ಪಂ"
+            },
+            "meaning": {
+                "hi": "पुष्पम्",
+                "en": "puṣpaṃ",
+                "be": "পুস্পশ",
+                "ka": "ಪುಷ್ಪಾಂ"
+            }
         },
         {
             "sanskrit": "फलं",
-            "transliteration": "phalaṃ",
-            "meaning": "phalaṃ"
+            "transliteration": {
+                "hi": "फलं",
+                "en": "phalaṃ",
+                "be": "ফলং",
+                "ka": "ಫಲಂ"
+            },
+            "meaning": {
+                "hi": "फलां",
+                "en": "phalaṃ",
+                "be": "phalaṃ",
+                "ka": "ಫಲಂ"
+            }
         },
         {
             "sanskrit": "तोयं",
-            "transliteration": "toyaṃ",
-            "meaning": "toyaṃ"
+            "transliteration": {
+                "hi": "तोयं",
+                "en": "toyaṃ",
+                "be": "তোযং",
+                "ka": "ತೋಯಂ"
+            },
+            "meaning": {
+                "hi": "टोयाम",
+                "en": "toyaṃ",
+                "be": "toyaṃ",
+                "ka": "toyaṃ"
+            }
         },
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "bhaktyā"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্য",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            }
         },
         {
             "sanskrit": "प्रयच्छति",
-            "transliteration": "prayacchati",
-            "meaning": "prayacchati"
+            "transliteration": {
+                "hi": "प्रयच्छति",
+                "en": "prayacchati",
+                "be": "প্রযচ্ছতি",
+                "ka": "ಪ್ರಯಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "प्रयाच्चति",
+                "en": "prayacchati",
+                "be": "প্রার্থনাচ্ছতি",
+                "ka": "ಪ್ರಯಚ್ಛತಿ"
+            }
         },
         {
             "sanskrit": "तदहं",
-            "transliteration": "tadahaṃ",
-            "meaning": "tadahaṃ"
+            "transliteration": {
+                "hi": "तदहं",
+                "en": "tadahaṃ",
+                "be": "তদহং",
+                "ka": "ತದಹಂ"
+            },
+            "meaning": {
+                "hi": "तदहं",
+                "en": "tadahaṃ",
+                "be": "তাদাহণ",
+                "ka": "tadahaṃ"
+            }
         },
         {
             "sanskrit": "भक्त्युपहृतमश्नामि",
-            "transliteration": "bhaktyupahṛtamaśnāmi",
-            "meaning": "bhaktyupahṛtamaśnāmi"
+            "transliteration": {
+                "hi": "भक्त्युपहृतमश्नामि",
+                "en": "bhaktyupahṛtamaśnāmi",
+                "be": "ভক্ত্যুপহৃতমশ্নামি",
+                "ka": "ಭಕ್ತ್ಯುಪಹೃತಮಶ್ನಾಮಿ"
+            },
+            "meaning": {
+                "hi": "भक्त्युपहृतमश्नामि",
+                "en": "bhaktyupahṛtamaśnāmi",
+                "be": "ভক্ত্যুপহৃত্মস্নামি",
+                "ka": "ಭಕ್ತ್ಯುಪಹೃತಮಶ್ನಾಮಿ"
+            }
         },
         {
             "sanskrit": "प्रयतात्मनः",
-            "transliteration": "prayatātmanaḥ",
-            "meaning": "prayatātmanaḥ"
+            "transliteration": {
+                "hi": "प्रयतात्मनः",
+                "en": "prayatātmanaḥ",
+                "be": "প্রযতাত্মনঃ",
+                "ka": "ಪ್ರಯತಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "प्रयत्नात्मनः",
+                "en": "prayatātmanaḥ",
+                "be": "প্রার্থনাাত্মনাঃ",
+                "ka": "ಪ್ರಯತ್ನಾತ್ಮನಃ"
+            }
         }
     ],
     "tej": {

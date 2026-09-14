@@ -14,8 +14,18 @@
         "en": "ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca .\nna tu māmabhijānanti tattvenātaścyavanti te ||9-24||",
         "ka": "ಅಹಂ ಹಿ ಸರ್ವಯಜ್ಞಾನಾಂ ಭೋಕ್ತಾ ಚ ಪ್ರಭುರೇವ ಚ |\nನ ತು ಮಾಮಭಿಜಾನನ್ತಿ ತತ್ತ್ವೇನಾತಶ್ಚ್ಯವನ್ತಿ ತೇ ||೯-೨೪||"
     },
-    "transliteration": "ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca .\nna tu māmabhijānanti tattvenātaścyavanti te ||9-24||",
-    "life_application": "Remember that God is the sole enjoyer and Lord of all sacrifices; failing to recognize this leads to falling back.",
+    "transliteration": {
+        "hi": "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च |\nन तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ||९-२४||",
+        "en": "ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca .\nna tu māmabhijānanti tattvenātaścyavanti te ||9-24||",
+        "be": "অহং হি সর্বযজ্ঞানাং ভোক্তা চ প্রভুরেব চ |\nন তু মামভিজানন্তি তত্ত্বেনাতশ্চ্যবন্তি তে ||৯-২৪||",
+        "ka": "ಅಹಂ ಹಿ ಸರ್ವಯಜ್ಞಾನಾಂ ಭೋಕ್ತಾ ಚ ಪ್ರಭುರೇವ ಚ |\nನ ತು ಮಾಮಭಿಜಾನನ್ತಿ ತತ್ತ್ವೇನಾತಶ್ಚ್ಯವನ್ತಿ ತೇ ||೯-೨೪||"
+    },
+    "life_application": {
+        "hi": "याद रखें कि ईश्वर ही एकमात्र भोक्ता है और सभी बलिदानों का स्वामी है; इसे पहचानने में असफल होने से पीछे गिरना पड़ता है।",
+        "en": "Remember that God is the sole enjoyer and Lord of all sacrifices; failing to recognize this leads to falling back.",
+        "be": "মনে রাখবেন যে ঈশ্বরই একমাত্র ভোগকারী এবং সমস্ত ত্যাগের প্রভু; এটি চিনতে ব্যর্থ হলে পিছিয়ে পড়ে।",
+        "ka": "ದೇವರು ಎಲ್ಲಾ ತ್ಯಾಗಗಳ ಏಕೈಕ ಆನಂದಿಸುವ ಮತ್ತು ಲಾರ್ಡ್ ಎಂದು ನೆನಪಿಡಿ; ಇದನ್ನು ಗುರುತಿಸಲು ವಿಫಲವಾದರೆ ಹಿಂದೆ ಬೀಳಲು ಕಾರಣವಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अहं",
-            "transliteration": "ahaṃ",
-            "meaning": "ahaṃ"
+            "transliteration": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "অহং",
+                "ka": "ಅಹಂ"
+            },
+            "meaning": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "ahaṃ",
+                "ka": "ahaṃ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "सर्वयज्ञानां",
-            "transliteration": "sarvayajñānāṃ",
-            "meaning": "sarvayajñānāṃ"
+            "transliteration": {
+                "hi": "सर्वयज्ञानां",
+                "en": "sarvayajñānāṃ",
+                "be": "সর্বযজ্ঞানাং",
+                "ka": "ಸರ್ವಯಜ್ಞಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "सर्वयज्ञनाम्",
+                "en": "sarvayajñānāṃ",
+                "be": "sarvayajnānāṃ",
+                "ka": "ಸರ್ವಯಜ್ಞಾನಂ"
+            }
         },
         {
             "sanskrit": "भोक्ता",
-            "transliteration": "bhoktā",
-            "meaning": "bhoktā"
+            "transliteration": {
+                "hi": "भोक्ता",
+                "en": "bhoktā",
+                "be": "ভোক্তা",
+                "ka": "ಭೋಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "भोक्ता",
+                "en": "bhoktā",
+                "be": "ভোক্তা",
+                "ka": "ಭೋಕ್ತಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "प्रभुरेव",
-            "transliteration": "prabhureva",
-            "meaning": "prabhureva"
+            "transliteration": {
+                "hi": "प्रभुरेव",
+                "en": "prabhureva",
+                "be": "প্রভুরেব",
+                "ka": "ಪ್ರಭುರೇವ"
+            },
+            "meaning": {
+                "hi": "प्रभुरेवा",
+                "en": "prabhureva",
+                "be": "প্রভুরেভা",
+                "ka": "ಪ್ರಭುರೇವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मामभिजानन्ति",
-            "transliteration": "māmabhijānanti",
-            "meaning": "māmabhijānanti"
+            "transliteration": {
+                "hi": "मामभिजानन्ति",
+                "en": "māmabhijānanti",
+                "be": "মামভিজানন্তি",
+                "ka": "ಮಾಮಭಿಜಾನನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "मामभिजानन्ति",
+                "en": "māmabhijānanti",
+                "be": "মামাভিজানতি",
+                "ka": "ಮಾಮಾಭಿಜಾನಂತಿ"
+            }
         },
         {
             "sanskrit": "तत्त्वेनातश्च्यवन्ति",
-            "transliteration": "tattvenātaścyavanti",
-            "meaning": "tattvenātaścyavanti"
+            "transliteration": {
+                "hi": "तत्त्वेनातश्च्यवन्ति",
+                "en": "tattvenātaścyavanti",
+                "be": "তত্ত্বেনাতশ্চ্যবন্তি",
+                "ka": "ತತ್ತ್ವೇನಾತಶ್ಚ್ಯವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "तत्त्वेनातश्च्यवन्ति",
+                "en": "tattvenātaścyavanti",
+                "be": "tattvenātaścyvanti",
+                "ka": "ತತ್ತ್ವೇನಾತಶ್ಚ್ಯವನ್ತಿ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         }
     ],
     "tej": {

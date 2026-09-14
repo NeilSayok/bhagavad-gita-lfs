@@ -14,8 +14,18 @@
         "en": "yānti devavratā devānpitṝnyānti pitṛvratāḥ .\nbhūtāni yānti bhūtejyā yānti madyājino.api mām ||9-25||",
         "ka": "ಯಾನ್ತಿ ದೇವವ್ರತಾ ದೇವಾನ್ಪಿತೄನ್ಯಾನ್ತಿ ಪಿತೃವ್ರತಾಃ |\nಭೂತಾನಿ ಯಾನ್ತಿ ಭೂತೇಜ್ಯಾ ಯಾನ್ತಿ ಮದ್ಯಾಜಿನೋಽಪಿ ಮಾಮ್ ||೯-೨೫||"
     },
-    "transliteration": "yānti devavratā devānpitṝnyānti pitṛvratāḥ .\nbhūtāni yānti bhūtejyā yānti madyājino.api mām ||9-25||",
-    "life_application": "Know that worshippers of gods go to gods, ancestor worshippers to ancestors, but God's devotees come directly to God.",
+    "transliteration": {
+        "hi": "यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः |\nभूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ||९-२५||",
+        "en": "yānti devavratā devānpitṝnyānti pitṛvratāḥ .\nbhūtāni yānti bhūtejyā yānti madyājino.api mām ||9-25||",
+        "be": "যান্তি দেবব্রতা দেবান্পিতৄন্যান্তি পিতৃব্রতাঃ |\nভূতানি যান্তি ভূতেজ্যা যান্তি মদ্যাজিনোঽপি মাম্ ||৯-২৫||",
+        "ka": "ಯಾನ್ತಿ ದೇವವ್ರತಾ ದೇವಾನ್ಪಿತೄನ್ಯಾನ್ತಿ ಪಿತೃವ್ರತಾಃ |\nಭೂತಾನಿ ಯಾನ್ತಿ ಭೂತೇಜ್ಯಾ ಯಾನ್ತಿ ಮದ್ಯಾಜಿನೋಽಪಿ ಮಾಮ್ ||೯-೨೫||"
+    },
+    "life_application": {
+        "hi": "जान लें कि देवताओं को पूजने वाले देवताओं के पास जाते हैं, पितरों को पूजने वाले पितरों के पास, लेकिन भगवान के भक्त सीधे भगवान के पास आते हैं।",
+        "en": "Know that worshippers of gods go to gods, ancestor worshippers to ancestors, but God's devotees come directly to God.",
+        "be": "জেনে রাখুন যে দেবতাদের উপাসকরা দেবতার কাছে যায়, পূর্বপুরুষের উপাসক পূর্বপুরুষের কাছে, কিন্তু ঈশ্বরের ভক্তরা সরাসরি ঈশ্বরের কাছে আসেন।",
+        "ka": "ದೇವರನ್ನು ಆರಾಧಿಸುವವರು ದೇವರ ಬಳಿಗೆ ಹೋಗುತ್ತಾರೆ ಎಂದು ತಿಳಿಯಿರಿ, ಪೂರ್ವಜರನ್ನು ಆರಾಧಿಸುವವರು ಪೂರ್ವಜರ ಬಳಿಗೆ ಹೋಗುತ್ತಾರೆ, ಆದರೆ ದೇವರ ಭಕ್ತರು ನೇರವಾಗಿ ದೇವರ ಬಳಿಗೆ ಬರುತ್ತಾರೆ."
+    },
     "themes": [
         "Purpose",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "देवव्रता",
-            "transliteration": "devavratā",
-            "meaning": "devavratā"
+            "transliteration": {
+                "hi": "देवव्रता",
+                "en": "devavratā",
+                "be": "দেবব্রতা",
+                "ka": "ದೇವವ್ರತಾ"
+            },
+            "meaning": {
+                "hi": "देवव्रत",
+                "en": "devavratā",
+                "be": "devavratā",
+                "ka": "ದೇವವ್ರತ"
+            }
         },
         {
             "sanskrit": "देवान्पितॄन्यान्ति",
-            "transliteration": "devānpitṝnyānti",
-            "meaning": "devānpitṝnyānti"
+            "transliteration": {
+                "hi": "देवान्पितॄन्यान्ति",
+                "en": "devānpitṝnyānti",
+                "be": "দেবান্পিতৄন্যান্তি",
+                "ka": "ದೇವಾನ್ಪಿತೄನ್ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "देवान्पित्न्यान्ति",
+                "en": "devānpitṝnyānti",
+                "be": "devānpitṝnyanti",
+                "ka": "ದೇವನ್ಪಿತ್ನ್ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "पितृव्रताः",
-            "transliteration": "pitṛvratāḥ",
-            "meaning": "pitṛvratāḥ"
+            "transliteration": {
+                "hi": "पितृव्रताः",
+                "en": "pitṛvratāḥ",
+                "be": "পিতৃব্রতাঃ",
+                "ka": "ಪಿತೃವ್ರತಾಃ"
+            },
+            "meaning": {
+                "hi": "पितृव्रत:",
+                "en": "pitṛvratāḥ",
+                "be": "pitṛvratāḥ",
+                "ka": "ಪಿತೃವ್ರತಃ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "bhūtāni"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "भूटानी",
+                "en": "bhūtāni",
+                "be": "ভুটানি",
+                "ka": "ಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "भूतेज्या",
-            "transliteration": "bhūtejyā",
-            "meaning": "bhūtejyā"
+            "transliteration": {
+                "hi": "भूतेज्या",
+                "en": "bhūtejyā",
+                "be": "ভূতেজ্যা",
+                "ka": "ಭೂತೇಜ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भूतेज्या",
+                "en": "bhūtejyā",
+                "be": "ভূতেজ্যা",
+                "ka": "ಭೂತೇಜ್ಯ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "मद्याजिनोऽपि",
-            "transliteration": "madyājino'pi",
-            "meaning": "madyājino'pi"
+            "transliteration": {
+                "hi": "मद्याजिनोऽपि",
+                "en": "madyājino'pi",
+                "be": "মদ্যাজিনোঽপি",
+                "ka": "ಮದ್ಯಾಜಿನೋಽಪಿ"
+            },
+            "meaning": {
+                "hi": "मद्याजिनोऽपि",
+                "en": "madyājino'pi",
+                "be": "মাদিয়াজিনো'পি",
+                "ka": "ಮದ್ಯಾಜಿನೋ'ಪಿ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "mām"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैम",
+                "en": "mām",
+                "be": "ম্যাম",
+                "ka": "ಅಮ್ಮ"
+            }
         }
     ],
     "tej": {

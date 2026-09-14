@@ -14,8 +14,18 @@
         "en": "ye.apyanyadevatābhaktā yajante śraddhayānvitāḥ .\nte.api māmeva kaunteya yajantyavidhipūrvakam ||9-23||",
         "ka": "ಯೇಽಪ್ಯನ್ಯದೇವತಾ ಭಕ್ತಾ ಯಜನ್ತೇ ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ |\nತೇಽಪಿ ಮಾಮೇವ ಕೌನ್ತೇಯ ಯಜನ್ತ್ಯವಿಧಿಪೂರ್ವಕಮ್ ||೯-೨೩||"
     },
-    "transliteration": "ye.apyanyadevatābhaktā yajante śraddhayānvitāḥ .\nte.api māmeva kaunteya yajantyavidhipūrvakam ||9-23||",
-    "life_application": "Understand that even those who worship other deities with faith are indirectly worshipping the one divine source.",
+    "transliteration": {
+        "hi": "येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः |\nतेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ||९-२३||",
+        "en": "ye.apyanyadevatābhaktā yajante śraddhayānvitāḥ .\nte.api māmeva kaunteya yajantyavidhipūrvakam ||9-23||",
+        "be": "যেঽপ্যন্যদেবতা ভক্তা যজন্তে শ্রদ্ধযান্বিতাঃ |\nতেঽপি মামেব কৌন্তেয যজন্ত্যবিধিপূর্বকম্ ||৯-২৩||",
+        "ka": "ಯೇಽಪ್ಯನ್ಯದೇವತಾ ಭಕ್ತಾ ಯಜನ್ತೇ ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ |\nತೇಽಪಿ ಮಾಮೇವ ಕೌನ್ತೇಯ ಯಜನ್ತ್ಯವಿಧಿಪೂರ್ವಕಮ್ ||೯-೨೩||"
+    },
+    "life_application": {
+        "hi": "समझें कि जो लोग विश्वास के साथ अन्य देवताओं की पूजा करते हैं वे भी अप्रत्यक्ष रूप से एक ईश्वरीय स्रोत की पूजा कर रहे हैं।",
+        "en": "Understand that even those who worship other deities with faith are indirectly worshipping the one divine source.",
+        "be": "বুঝুন, যারা বিশ্বাসের সাথে অন্যান্য দেবতাদের পূজা করে তারাও পরোক্ষভাবে এক ঐশ্বরিক উৎসের পূজা করে।",
+        "ka": "ಇತರ ದೇವತೆಗಳನ್ನು ನಂಬಿಕೆಯಿಂದ ಪೂಜಿಸುವವರೂ ಸಹ ಪರೋಕ್ಷವಾಗಿ ಒಂದು ದೈವಿಕ ಮೂಲವನ್ನು ಪೂಜಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "येऽप्यन्यदेवता",
-            "transliteration": "ye'pyanyadevatā",
-            "meaning": "ye'pyanyadevatā"
+            "transliteration": {
+                "hi": "येऽप्यन्यदेवता",
+                "en": "ye'pyanyadevatā",
+                "be": "যেঽপ্যন্যদেবতা",
+                "ka": "ಯೇಽಪ್ಯನ್ಯದೇವತಾ"
+            },
+            "meaning": {
+                "hi": "येऽपन्यादेवता",
+                "en": "ye'pyanyadevatā",
+                "be": "ye'pyanyadevata",
+                "ka": "ಯೇ'ಪ್ಯನ್ಯಾದೇವತಾ"
+            }
         },
         {
             "sanskrit": "भक्ता",
-            "transliteration": "bhaktā",
-            "meaning": "bhaktā"
+            "transliteration": {
+                "hi": "भक्ता",
+                "en": "bhaktā",
+                "be": "ভক্তা",
+                "ka": "ಭಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "भक्त",
+                "en": "bhaktā",
+                "be": "ভক্ত",
+                "ka": "ಭಕ್ತ"
+            }
         },
         {
             "sanskrit": "यजन्ते",
-            "transliteration": "yajante",
-            "meaning": "yajante"
+            "transliteration": {
+                "hi": "यजन्ते",
+                "en": "yajante",
+                "be": "যজন্তে",
+                "ka": "ಯಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "यजंते",
+                "en": "yajante",
+                "be": "যজন্তে",
+                "ka": "ಯಜಂತೇ"
+            }
         },
         {
             "sanskrit": "श्रद्धयान्विताः",
-            "transliteration": "śraddhayānvitāḥ",
-            "meaning": "śraddhayānvitāḥ"
+            "transliteration": {
+                "hi": "श्रद्धयान्विताः",
+                "en": "śraddhayānvitāḥ",
+                "be": "শ্রদ্ধযান্বিতাঃ",
+                "ka": "ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "श्रद्धायान्विताः",
+                "en": "śraddhayānvitāḥ",
+                "be": "শ্রদ্ধায়ণবিতাঃ",
+                "ka": "ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ"
+            }
         },
         {
             "sanskrit": "तेऽपि",
-            "transliteration": "te'pi",
-            "meaning": "te'pi"
+            "transliteration": {
+                "hi": "तेऽपि",
+                "en": "te'pi",
+                "be": "তেঽপি",
+                "ka": "ತೇಽಪಿ"
+            },
+            "meaning": {
+                "hi": "te'pi",
+                "en": "te'pi",
+                "be": "te'pi",
+                "ka": "te'pi"
+            }
         },
         {
             "sanskrit": "मामेव",
-            "transliteration": "māmeva",
-            "meaning": "māmeva"
+            "transliteration": {
+                "hi": "मामेव",
+                "en": "māmeva",
+                "be": "মামেব",
+                "ka": "ಮಾಮೇವ"
+            },
+            "meaning": {
+                "hi": "मामेवा",
+                "en": "māmeva",
+                "be": "মামেভা",
+                "ka": "ಮಾಮೇವ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "यजन्त्यविधिपूर्वकम्",
-            "transliteration": "yajantyavidhipūrvakam",
-            "meaning": "yajantyavidhipūrvakam"
+            "transliteration": {
+                "hi": "यजन्त्यविधिपूर्वकम्",
+                "en": "yajantyavidhipūrvakam",
+                "be": "যজন্ত্যবিধিপূর্বকম্",
+                "ka": "ಯಜನ್ತ್ಯವಿಧಿಪೂರ್ವಕಮ್"
+            },
+            "meaning": {
+                "hi": "यजन्त्यविधिपूर्वकम्",
+                "en": "yajantyavidhipūrvakam",
+                "be": "যজন্ত্যবিধিপুর্বকম",
+                "ka": "ಯಜನ್ತ್ಯವಿಧಿಪೂರ್ವಕಮ್"
+            }
         }
     ],
     "tej": {

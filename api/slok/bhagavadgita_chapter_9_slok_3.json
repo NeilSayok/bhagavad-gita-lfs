@@ -14,8 +14,18 @@
         "en": "aśraddadhānāḥ puruṣā dharmasyāsya parantapa .\naprāpya māṃ nivartante mṛtyusaṃsāravartmani ||9-3||",
         "ka": "ಅಶ್ರದ್ದಧಾನಾಃ ಪುರುಷಾ ಧರ್ಮಸ್ಯಾಸ್ಯ ಪರನ್ತಪ |\nಅಪ್ರಾಪ್ಯ ಮಾಂ ನಿವರ್ತನ್ತೇ ಮೃತ್ಯುಸಂಸಾರವರ್ತ್ಮನಿ ||೯-೩||"
     },
-    "transliteration": "aśraddadhānāḥ puruṣā dharmasyāsya parantapa .\naprāpya māṃ nivartante mṛtyusaṃsāravartmani ||9-3||",
-    "life_application": "Cultivate faith in spiritual truth, lest lacking faith you fail to reach God and remain trapped in mortality.",
+    "transliteration": {
+        "hi": "अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप |\nअप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ||९-३||",
+        "en": "aśraddadhānāḥ puruṣā dharmasyāsya parantapa .\naprāpya māṃ nivartante mṛtyusaṃsāravartmani ||9-3||",
+        "be": "অশ্রদ্দধানাঃ পুরুষা ধর্মস্যাস্য পরন্তপ |\nঅপ্রাপ্য মাং নিবর্তন্তে মৃত্যুসংসারবর্ত্মনি ||৯-৩||",
+        "ka": "ಅಶ್ರದ್ದಧಾನಾಃ ಪುರುಷಾ ಧರ್ಮಸ್ಯಾಸ್ಯ ಪರನ್ತಪ |\nಅಪ್ರಾಪ್ಯ ಮಾಂ ನಿವರ್ತನ್ತೇ ಮೃತ್ಯುಸಂಸಾರವರ್ತ್ಮನಿ ||೯-೩||"
+    },
+    "life_application": {
+        "hi": "आध्यात्मिक सत्य में विश्वास पैदा करें, ऐसा न हो कि विश्वास की कमी के कारण आप ईश्वर तक पहुँचने में असफल हो जाएँ और नश्वरता में फँसे रहें।",
+        "en": "Cultivate faith in spiritual truth, lest lacking faith you fail to reach God and remain trapped in mortality.",
+        "be": "আধ্যাত্মিক সত্যে বিশ্বাস গড়ে তুলুন, পাছে বিশ্বাসের অভাবে আপনি ঈশ্বরের কাছে পৌঁছাতে ব্যর্থ হবেন এবং মরণশীলতায় আটকে থাকবেন।",
+        "ka": "ಆಧ್ಯಾತ್ಮಿಕ ಸತ್ಯದಲ್ಲಿ ನಂಬಿಕೆಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ, ನಂಬಿಕೆಯ ಕೊರತೆಯಿಂದಾಗಿ ನೀವು ದೇವರನ್ನು ತಲುಪಲು ವಿಫಲರಾಗುತ್ತೀರಿ ಮತ್ತು ಮರಣದಲ್ಲಿ ಸಿಕ್ಕಿಬೀಳುತ್ತೀರಿ."
+    },
     "themes": [
         "Devotion",
         "Fear"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अश्रद्दधानाः",
-            "transliteration": "aśraddadhānāḥ",
-            "meaning": "aśraddadhānāḥ"
+            "transliteration": {
+                "hi": "अश्रद्दधानाः",
+                "en": "aśraddadhānāḥ",
+                "be": "অশ্রদ্দধানাঃ",
+                "ka": "ಅಶ್ರದ್ದಧಾನಾಃ"
+            },
+            "meaning": {
+                "hi": "अश्रद्धधानाः",
+                "en": "aśraddadhānāḥ",
+                "be": "আশ্রাদ্ধধনঃ",
+                "ka": "ಅಶ್ರದ್ದಧನಃ"
+            }
         },
         {
             "sanskrit": "पुरुषा",
-            "transliteration": "puruṣā",
-            "meaning": "puruṣā"
+            "transliteration": {
+                "hi": "पुरुषा",
+                "en": "puruṣā",
+                "be": "পুরুষা",
+                "ka": "ಪುರುಷಾ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "puruṣā",
+                "be": "পুরুষশা",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "धर्मस्यास्य",
-            "transliteration": "dharmasyāsya",
-            "meaning": "dharmasyāsya"
+            "transliteration": {
+                "hi": "धर्मस्यास्य",
+                "en": "dharmasyāsya",
+                "be": "ধর্মস্যাস্য",
+                "ka": "ಧರ್ಮಸ್ಯಾಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "धर्मस्यस्य",
+                "en": "dharmasyāsya",
+                "be": "ধর্মস্য",
+                "ka": "ಧರ್ಮಸ್ಯಾಸ್ಯ"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "parantapa"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "परंतपा",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರಂತಪ"
+            }
         },
         {
             "sanskrit": "अप्राप्य",
-            "transliteration": "aprāpya",
-            "meaning": "aprāpya"
+            "transliteration": {
+                "hi": "अप्राप्य",
+                "en": "aprāpya",
+                "be": "অপ্রাপ্য",
+                "ka": "ಅಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "अप्राप्य",
+                "en": "aprāpya",
+                "be": "aprāpya",
+                "ka": "ಅಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "निवर्तन्ते",
-            "transliteration": "nivartante",
-            "meaning": "nivartante"
+            "transliteration": {
+                "hi": "निवर्तन्ते",
+                "en": "nivartante",
+                "be": "নিবর্তন্তে",
+                "ka": "ನಿವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "निवर्तन्ते",
+                "en": "nivartante",
+                "be": "নিবর্তন্তে",
+                "ka": "ನಿವರ್ತಂತೆ"
+            }
         },
         {
             "sanskrit": "मृत्युसंसारवर्त्मनि",
-            "transliteration": "mṛtyusaṃsāravartmani",
-            "meaning": "mṛtyusaṃsāravartmani"
+            "transliteration": {
+                "hi": "मृत्युसंसारवर्त्मनि",
+                "en": "mṛtyusaṃsāravartmani",
+                "be": "মৃত্যুসংসারবর্ত্মনি",
+                "ka": "ಮೃತ್ಯುಸಂಸಾರವರ್ತ್ಮನಿ"
+            },
+            "meaning": {
+                "hi": "मृत्युसंसारवर्त्मनि",
+                "en": "mṛtyusaṃsāravartmani",
+                "be": "মৃত্যুসংসারবর্তমণি",
+                "ka": "ಮೃತ್ಯುಸಂಸಾರವರ್ತ್ಮನಿ"
+            }
         }
     ],
     "tej": {

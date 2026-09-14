@@ -14,8 +14,18 @@
         "en": "samo.ahaṃ sarvabhūteṣu na me dveṣyo.asti na priyaḥ .\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ||9-29||",
         "ka": "ಸಮೋಽಹಂ ಸರ್ವಭೂತೇಷು ನ ಮೇ ದ್ವೇಷ್ಯೋಽಸ್ತಿ ನ ಪ್ರಿಯಃ |\nಯೇ ಭಜನ್ತಿ ತು ಮಾಂ ಭಕ್ತ್ಯಾ ಮಯಿ ತೇ ತೇಷು ಚಾಪ್ಯಹಮ್ ||೯-೨೯||"
     },
-    "transliteration": "samo.ahaṃ sarvabhūteṣu na me dveṣyo.asti na priyaḥ .\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ||9-29||",
-    "life_application": "Realize God is equal to all beings, hating none and favoring none; yet those who worship with love abide in God.",
+    "transliteration": {
+        "hi": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः |\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||",
+        "en": "samo.ahaṃ sarvabhūteṣu na me dveṣyo.asti na priyaḥ .\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ||9-29||",
+        "be": "সমোঽহং সর্বভূতেষু ন মে দ্বেষ্যোঽস্তি ন প্রিযঃ |\nযে ভজন্তি তু মাং ভক্ত্যা মযি তে তেষু চাপ্যহম্ ||৯-২৯||",
+        "ka": "ಸಮೋಽಹಂ ಸರ್ವಭೂತೇಷು ನ ಮೇ ದ್ವೇಷ್ಯೋಽಸ್ತಿ ನ ಪ್ರಿಯಃ |\nಯೇ ಭಜನ್ತಿ ತು ಮಾಂ ಭಕ್ತ್ಯಾ ಮಯಿ ತೇ ತೇಷು ಚಾಪ್ಯಹಮ್ ||೯-೨೯||"
+    },
+    "life_application": {
+        "hi": "यह जान लें कि ईश्वर सभी प्राणियों के लिए समान है, वह किसी से नफरत नहीं करता और किसी का पक्ष नहीं लेता; तौभी जो प्रेम से भजन करते हैं, वे परमेश्वर में बने रहते हैं।",
+        "en": "Realize God is equal to all beings, hating none and favoring none; yet those who worship with love abide in God.",
+        "be": "উপলব্ধি করুন ঈশ্বর সকল প্রাণীর জন্য সমান, কাউকে ঘৃণা করেন না এবং কাউকেই অনুগ্রহ করেন না; তবুও যারা প্রেমের সাথে উপাসনা করে তারা ঈশ্বরে থাকে।",
+        "ka": "ಭಗವಂತನು ಎಲ್ಲ ಜೀವಿಗಳಿಗೂ ಸಮಾನನೆಂದು ಅರಿತುಕೊಳ್ಳಿ, ಯಾರನ್ನೂ ದ್ವೇಷಿಸುವುದಿಲ್ಲ ಮತ್ತು ಯಾವುದನ್ನೂ ಮೆಚ್ಚಿಸುವುದಿಲ್ಲ; ಆದರೂ ಪ್ರೀತಿಯಿಂದ ಆರಾಧಿಸುವವರು ದೇವರಲ್ಲಿ ನೆಲೆಸುತ್ತಾರೆ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "समोऽहं",
-            "transliteration": "samo'haṃ",
-            "meaning": "samo'haṃ"
+            "transliteration": {
+                "hi": "समोऽहं",
+                "en": "samo'haṃ",
+                "be": "সমোঽহং",
+                "ka": "ಸಮೋಽಹಂ"
+            },
+            "meaning": {
+                "hi": "samo'haṃ",
+                "en": "samo'haṃ",
+                "be": "samo'haṃ",
+                "ka": "samo'haṃ"
+            }
         },
         {
             "sanskrit": "सर्वभूतेषु",
-            "transliteration": "sarvabhūteṣu",
-            "meaning": "sarvabhūteṣu"
+            "transliteration": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "द्वेष्योऽस्ति",
-            "transliteration": "dveṣyo'sti",
-            "meaning": "dveṣyo'sti"
+            "transliteration": {
+                "hi": "द्वेष्योऽस्ति",
+                "en": "dveṣyo'sti",
+                "be": "দ্বেষ্যোঽস্তি",
+                "ka": "ದ್ವೇಷ್ಯೋಽಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "द्वेष्योऽस्ति",
+                "en": "dveṣyo'sti",
+                "be": "dveṣyo'sti",
+                "ka": "ದ್ವೇಶ್ಯೋ'ಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "priyaḥ"
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रियाः",
+                "en": "priyaḥ",
+                "be": "প্রিয়ঃ",
+                "ka": "ಪ್ರಿಯಾಃ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "भजन्ति",
-            "transliteration": "bhajanti",
-            "meaning": "bhajanti"
+            "transliteration": {
+                "hi": "भजन्ति",
+                "en": "bhajanti",
+                "be": "ভজন্তি",
+                "ka": "ಭಜನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "भजन्ति",
+                "en": "bhajanti",
+                "be": "ভজন্তী",
+                "ka": "ಭಜಂತಿ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "bhaktyā"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্য",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "mayi"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "माई",
+                "en": "mayi",
+                "be": "mayi",
+                "ka": "ಮಯಿ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "तेषु",
-            "transliteration": "teṣu",
-            "meaning": "teṣu"
+            "transliteration": {
+                "hi": "तेषु",
+                "en": "teṣu",
+                "be": "তেষু",
+                "ka": "ತೇಷು"
+            },
+            "meaning": {
+                "hi": "तेशु",
+                "en": "teṣu",
+                "be": "টেসু",
+                "ka": "ತೇಶು"
+            }
         },
         {
             "sanskrit": "चाप्यहम्",
-            "transliteration": "cāpyaham",
-            "meaning": "cāpyaham"
+            "transliteration": {
+                "hi": "चाप्यहम्",
+                "en": "cāpyaham",
+                "be": "চাপ্যহম্",
+                "ka": "ಚಾಪ್ಯಹಮ್"
+            },
+            "meaning": {
+                "hi": "कप्यहम",
+                "en": "cāpyaham",
+                "be": "capyaham",
+                "ka": "ಕ್ಯಾಪ್ಯಹಂ"
+            }
         }
     ],
     "tej": {

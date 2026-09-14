@@ -14,8 +14,18 @@
         "en": "ananyāścintayanto māṃ ye janāḥ paryupāsate .\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ||9-22||",
         "ka": "ಅನನ್ಯಾಶ್ಚಿನ್ತಯನ್ತೋ ಮಾಂ ಯೇ ಜನಾಃ ಪರ್ಯುಪಾಸತೇ |\nತೇಷಾಂ ನಿತ್ಯಾಭಿಯುಕ್ತಾನಾಂ ಯೋಗಕ್ಷೇಮಂ ವಹಾಮ್ಯಹಮ್ ||೯-೨೨||"
     },
-    "transliteration": "ananyāścintayanto māṃ ye janāḥ paryupāsate .\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ||9-22||",
-    "life_application": "Think of God constantly with undivided devotion; for those ever-united, God carries what they lack and preserves what they have.",
+    "transliteration": {
+        "hi": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते |\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ||९-२२||",
+        "en": "ananyāścintayanto māṃ ye janāḥ paryupāsate .\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ||9-22||",
+        "be": "অনন্যাশ্চিন্তযন্তো মাং যে জনাঃ পর্যুপাসতে |\nতেষাং নিত্যাভিযুক্তানাং যোগক্ষেমং বহাম্যহম্ ||৯-২২||",
+        "ka": "ಅನನ್ಯಾಶ್ಚಿನ್ತಯನ್ತೋ ಮಾಂ ಯೇ ಜನಾಃ ಪರ್ಯುಪಾಸತೇ |\nತೇಷಾಂ ನಿತ್ಯಾಭಿಯುಕ್ತಾನಾಂ ಯೋಗಕ್ಷೇಮಂ ವಹಾಮ್ಯಹಮ್ ||೯-೨೨||"
+    },
+    "life_application": {
+        "hi": "अनन्य भक्ति से निरंतर ईश्वर का चिंतन करो; उन लोगों के लिए जो हमेशा एकजुट रहते हैं, भगवान उनकी जो कमी है उसे पूरा करते हैं और जो उनके पास है उसे सुरक्षित रखते हैं।",
+        "en": "Think of God constantly with undivided devotion; for those ever-united, God carries what they lack and preserves what they have.",
+        "be": "অবিভক্ত ভক্তি সহকারে সর্বদা ভগবানের কথা ভাবুন; যারা চির একত্রিত তাদের জন্য, ঈশ্বর তাদের যা অভাব তা বহন করেন এবং তাদের যা আছে তা সংরক্ষণ করেন।",
+        "ka": "ಅವಿಭಜಿತ ಭಕ್ತಿಯಿಂದ ನಿರಂತರವಾಗಿ ದೇವರ ಬಗ್ಗೆ ಯೋಚಿಸಿ; ಸದಾ ಒಂದಾಗಿರುವವರಿಗೆ, ದೇವರು ಅವರ ಕೊರತೆಯನ್ನು ಒಯ್ಯುತ್ತಾನೆ ಮತ್ತು ಅವರಲ್ಲಿರುವದನ್ನು ಸಂರಕ್ಷಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अनन्याश्चिन्तयन्तो",
-            "transliteration": "ananyāścintayanto",
-            "meaning": "ananyāścintayanto"
+            "transliteration": {
+                "hi": "अनन्याश्चिन्तयन्तो",
+                "en": "ananyāścintayanto",
+                "be": "অনন্যাশ্চিন্তযন্তো",
+                "ka": "ಅನನ್ಯಾಶ್ಚಿನ್ತಯನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "अनन्याश्चिन्तयन्तो",
+                "en": "ananyāścintayanto",
+                "be": "ananyāścintayanto",
+                "ka": "ಅನನ್ಯಶ್ಚಿಂತಾಯಂತೋ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "जनाः",
-            "transliteration": "janāḥ",
-            "meaning": "janāḥ"
+            "transliteration": {
+                "hi": "जनाः",
+                "en": "janāḥ",
+                "be": "জনাঃ",
+                "ka": "ಜನಾಃ"
+            },
+            "meaning": {
+                "hi": "जनाः",
+                "en": "janāḥ",
+                "be": "জানাঃ",
+                "ka": "ಜನಾಃ"
+            }
         },
         {
             "sanskrit": "पर्युपासते",
-            "transliteration": "paryupāsate",
-            "meaning": "paryupāsate"
+            "transliteration": {
+                "hi": "पर्युपासते",
+                "en": "paryupāsate",
+                "be": "পর্যুপাসতে",
+                "ka": "ಪರ್ಯುಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "पर्युपासते",
+                "en": "paryupāsate",
+                "be": "paryupāsate",
+                "ka": "ಪರ್ಯುಪಾಸತೇ"
+            }
         },
         {
             "sanskrit": "तेषां",
-            "transliteration": "teṣāṃ",
-            "meaning": "teṣāṃ"
+            "transliteration": {
+                "hi": "तेषां",
+                "en": "teṣāṃ",
+                "be": "তেষাং",
+                "ka": "ತೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "तेषां",
+                "en": "teṣāṃ",
+                "be": "তেষাণ",
+                "ka": "ತೇಶಾಶ"
+            }
         },
         {
             "sanskrit": "नित्याभियुक्तानां",
-            "transliteration": "nityābhiyuktānāṃ",
-            "meaning": "nityābhiyuktānāṃ"
+            "transliteration": {
+                "hi": "नित्याभियुक्तानां",
+                "en": "nityābhiyuktānāṃ",
+                "be": "নিত্যাভিযুক্তানাং",
+                "ka": "ನಿತ್ಯಾಭಿಯುಕ್ತಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "नित्याभियुक्तानां",
+                "en": "nityābhiyuktānāṃ",
+                "be": "nityābhiyuktānāṃ",
+                "ka": "ನಿತ್ಯಾಭಿಯುಕ್ತಾನಂ"
+            }
         },
         {
             "sanskrit": "योगक्षेमं",
-            "transliteration": "yogakṣemaṃ",
-            "meaning": "yogakṣemaṃ"
+            "transliteration": {
+                "hi": "योगक्षेमं",
+                "en": "yogakṣemaṃ",
+                "be": "যোগক্ষেমং",
+                "ka": "ಯೋಗಕ್ಷೇಮಂ"
+            },
+            "meaning": {
+                "hi": "योगक्षेमं",
+                "en": "yogakṣemaṃ",
+                "be": "যোগক্ষেমাংস",
+                "ka": "ಯೋಗಕ್ಷೇಮ"
+            }
         },
         {
             "sanskrit": "वहाम्यहम्",
-            "transliteration": "vahāmyaham",
-            "meaning": "vahāmyaham"
+            "transliteration": {
+                "hi": "वहाम्यहम्",
+                "en": "vahāmyaham",
+                "be": "বহাম্যহম্",
+                "ka": "ವಹಾಮ್ಯಹಮ್"
+            },
+            "meaning": {
+                "hi": "वहाम्यहम्",
+                "en": "vahāmyaham",
+                "be": "vahāmyaham",
+                "ka": "ವಹಾಮ್ಯಹಂ"
+            }
         }
     ],
     "tej": {

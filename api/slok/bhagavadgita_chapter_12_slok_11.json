@@ -14,8 +14,18 @@
         "en": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
         "ka": "ಅಥೈತದಪ್ಯಶಕ್ತೋಽಸಿ ಕರ್ತುಂ ಮದ್ಯೋಗಮಾಶ್ರಿತಃ |\nಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಂ ತತಃ ಕುರು ಯತಾತ್ಮವಾನ್ ||೧೨-೧೧||"
     },
-    "transliteration": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
-    "life_application": "If even divine service feels difficult, take refuge in devotion and surrender the fruits of all your actions with self-control.",
+    "transliteration": {
+        "hi": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||",
+        "en": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
+        "be": "অথৈতদপ্যশক্তোঽসি কর্তুং মদ্যোগমাশ্রিতঃ |\nসর্বকর্মফলত্যাগং ততঃ কুরু যতাত্মবান্ ||১২-১১||",
+        "ka": "ಅಥೈತದಪ್ಯಶಕ್ತೋಽಸಿ ಕರ್ತುಂ ಮದ್ಯೋಗಮಾಶ್ರಿತಃ |\nಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಂ ತತಃ ಕುರು ಯತಾತ್ಮವಾನ್ ||೧೨-೧೧||"
+    },
+    "life_application": {
+        "hi": "यदि ईश्वरीय सेवा भी कठिन लगे तो भक्ति का आश्रय लें और संयमपूर्वक अपने सभी कर्मों का फल समर्पित कर दें।",
+        "en": "If even divine service feels difficult, take refuge in devotion and surrender the fruits of all your actions with self-control.",
+        "be": "যদি ঐশ্বরিক সেবাও কঠিন মনে হয়, তবে ভক্তির আশ্রয় নিন এবং আপনার সমস্ত কর্মের ফল আত্মনিয়ন্ত্রণে সমর্পণ করুন।",
+        "ka": "ದೈವಿಕ ಸೇವೆಯು ಸಹ ಕಷ್ಟಕರವೆಂದು ಭಾವಿಸಿದರೆ, ಭಕ್ತಿಯನ್ನು ಆಶ್ರಯಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳ ಫಲವನ್ನು ಸ್ವಯಂ ನಿಯಂತ್ರಣದಿಂದ ಒಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Detachment"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अशक्तः",
-            "transliteration": "aśaktaḥ",
-            "meaning": "unable"
+            "transliteration": {
+                "hi": "अशक्तः",
+                "en": "aśaktaḥ",
+                "be": "অশক্তঃ",
+                "ka": "ಅಶಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "असमर्थ",
+                "en": "unable",
+                "be": "অক্ষম",
+                "ka": "ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "कर्तुम्",
-            "transliteration": "kartum",
-            "meaning": "to do"
+            "transliteration": {
+                "hi": "कर्तुम्",
+                "en": "kartum",
+                "be": "কর্তুম্",
+                "ka": "ಕರ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "करना",
+                "en": "to do",
+                "be": "করতে",
+                "ka": "ಮಾಡಲು"
+            }
         },
         {
             "sanskrit": "मद्योगम्",
-            "transliteration": "madyogam",
-            "meaning": "My Yoga"
+            "transliteration": {
+                "hi": "मद्योगम्",
+                "en": "madyogam",
+                "be": "মদ্যোগম্",
+                "ka": "ಮದ್ಯೋಗಮ್"
+            },
+            "meaning": {
+                "hi": "मेरा योग",
+                "en": "My Yoga",
+                "be": "আমার যোগব্যায়াম",
+                "ka": "ನನ್ನ ಯೋಗ"
+            }
         },
         {
             "sanskrit": "आश्रितः",
-            "transliteration": "āśritaḥ",
-            "meaning": "resorting to"
+            "transliteration": {
+                "hi": "आश्रितः",
+                "en": "āśritaḥ",
+                "be": "আশ্রিতঃ",
+                "ka": "ಆಶ್ರಿತಃ"
+            },
+            "meaning": {
+                "hi": "का सहारा ले रहे हैं",
+                "en": "resorting to",
+                "be": "অবলম্বন",
+                "ka": "ಆಶ್ರಯಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वकर्मफलत्यागम्",
-            "transliteration": "sarvakarmaphalatyāgam",
-            "meaning": "the renunciation of the"
+            "transliteration": {
+                "hi": "सर्वकर्मफलत्यागम्",
+                "en": "sarvakarmaphalatyāgam",
+                "be": "সর্বকর্মফলত্যাগম্",
+                "ka": "ಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಮ್"
+            },
+            "meaning": {
+                "hi": "का त्याग",
+                "en": "the renunciation of the",
+                "be": "এর ত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "कुरु",
-            "transliteration": "kuru",
-            "meaning": "do"
+            "transliteration": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            },
+            "meaning": {
+                "hi": "करो",
+                "en": "do",
+                "be": "করতে",
+                "ka": "ಮಾಡು"
+            }
         },
         {
             "sanskrit": "यतात्मवान्",
-            "transliteration": "yatātmavān",
-            "meaning": "selfcontrolled."
+            "transliteration": {
+                "hi": "यतात्मवान्",
+                "en": "yatātmavān",
+                "be": "যতাত্মবান্",
+                "ka": "ಯತಾತ್ಮವಾನ್"
+            },
+            "meaning": {
+                "hi": "स्वनियंत्रित.",
+                "en": "selfcontrolled.",
+                "be": "আত্মনিয়ন্ত্রিত",
+                "ka": "ಸ್ವಯಂ ನಿಯಂತ್ರಿತ."
+            }
         }
     ],
     "tej": {

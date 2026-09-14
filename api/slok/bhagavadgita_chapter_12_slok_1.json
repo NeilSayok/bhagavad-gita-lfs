@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಏವಂ ಸತತಯುಕ್ತಾ ಯೇ ಭಕ್ತಾಸ್ತ್ವಾಂ ಪರ್ಯುಪಾಸತೇ |\nಯೇ ಚಾಪ್ಯಕ್ಷರಮವ್ಯಕ್ತಂ ತೇಷಾಂ ಕೇ ಯೋಗವಿತ್ತಮಾಃ ||೧೨-೧||"
     },
-    "transliteration": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
-    "life_application": "Inquire whether those who worship God in a personal form or those who contemplate the unmanifest are more versed in yoga.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||",
+        "en": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
+        "be": "অর্জুন উবাচ |\nএবং সততযুক্তা যে ভক্তাস্ত্বাং পর্যুপাসতে |\nযে চাপ্যক্ষরমব্যক্তং তেষাং কে যোগবিত্তমাঃ ||১২-১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಏವಂ ಸತತಯುಕ್ತಾ ಯೇ ಭಕ್ತಾಸ್ತ್ವಾಂ ಪರ್ಯುಪಾಸತೇ |\nಯೇ ಚಾಪ್ಯಕ್ಷರಮವ್ಯಕ್ತಂ ತೇಷಾಂ ಕೇ ಯೋಗವಿತ್ತಮಾಃ ||೧೨-೧||"
+    },
+    "life_application": {
+        "hi": "पूछो कि क्या वे लोग योग में अधिक पारंगत हैं जो सगुण रूप में ईश्वर की पूजा करते हैं या जो अव्यक्त का चिंतन करते हैं वे योग में अधिक पारंगत हैं।",
+        "en": "Inquire whether those who worship God in a personal form or those who contemplate the unmanifest are more versed in yoga.",
+        "be": "যাঁরা ব্যক্তিগত রূপে ভগবানের উপাসনা করেন বা যাঁরা অব্যক্ত চিন্তা করেন তাঁরা যোগব্যায়ামে বেশি পারদর্শী কিনা তা অনুসন্ধান করুন।",
+        "ka": "ದೇವರನ್ನು ವೈಯಕ್ತಿಕ ರೂಪದಲ್ಲಿ ಪೂಜಿಸುವವರು ಅಥವಾ ಅವ್ಯಕ್ತವನ್ನು ಆಲೋಚಿಸುವವರು ಯೋಗದಲ್ಲಿ ಹೆಚ್ಚು ಪಾರಂಗತರಾಗಿದ್ದಾರೆಯೇ ಎಂದು ವಿಚಾರಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "सततयुक्ताः",
-            "transliteration": "satatayuktāḥ",
-            "meaning": "ever steadfast"
+            "transliteration": {
+                "hi": "सततयुक्ताः",
+                "en": "satatayuktāḥ",
+                "be": "সততযুক্তাঃ",
+                "ka": "ಸತತಯುಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "सदैव स्थिर",
+                "en": "ever steadfast",
+                "be": "সর্বদা অবিচল",
+                "ka": "ಎಂದೆಂದಿಗೂ ಅಚಲ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "भक्ताः",
-            "transliteration": "bhaktāḥ",
-            "meaning": "devotees"
+            "transliteration": {
+                "hi": "भक्ताः",
+                "en": "bhaktāḥ",
+                "be": "ভক্তাঃ",
+                "ka": "ಭಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "भक्त",
+                "en": "devotees",
+                "be": "ভক্ত",
+                "ka": "ಭಕ್ತರು"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "पर्युपासते",
-            "transliteration": "paryupāsate",
-            "meaning": "worship"
+            "transliteration": {
+                "hi": "पर्युपासते",
+                "en": "paryupāsate",
+                "be": "পর্যুপাসতে",
+                "ka": "ಪರ್ಯುಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "पूजा",
+                "en": "worship",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अक्षरम्",
-            "transliteration": "akṣaram",
-            "meaning": "the imperishable"
+            "transliteration": {
+                "hi": "अक्षरम्",
+                "en": "akṣaram",
+                "be": "অক্ষরম্",
+                "ka": "ಅಕ್ಷರಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "the imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "अव्यक्तम्",
-            "transliteration": "avyaktam",
-            "meaning": "the unmanifested"
+            "transliteration": {
+                "hi": "अव्यक्तम्",
+                "en": "avyaktam",
+                "be": "অব্যক্তম্",
+                "ka": "ಅವ್ಯಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अव्यक्त",
+                "en": "the unmanifested",
+                "be": "অপ্রকাশিত",
+                "ka": "ಅವ್ಯಕ್ತ"
+            }
         },
         {
             "sanskrit": "तेषाम्",
-            "transliteration": "teṣām",
-            "meaning": "of them"
+            "transliteration": {
+                "hi": "तेषाम्",
+                "en": "teṣām",
+                "be": "তেষাম্",
+                "ka": "ತೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनमें से",
+                "en": "of them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "के",
-            "transliteration": "ke",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "के",
+                "en": "ke",
+                "be": "কে",
+                "ka": "ಕೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "योगवित्तमाः",
-            "transliteration": "yogavittamāḥ",
-            "meaning": "better versed in Yoga."
+            "transliteration": {
+                "hi": "योगवित्तमाः",
+                "en": "yogavittamāḥ",
+                "be": "যোগবিত্তমাঃ",
+                "ka": "ಯೋಗವಿತ್ತಮಾಃ"
+            },
+            "meaning": {
+                "hi": "योग में बेहतर पारंगत.",
+                "en": "better versed in Yoga.",
+                "be": "যোগব্যায়ামে ভালো পারদর্শী।",
+                "ka": "ಯೋಗದಲ್ಲಿ ಉತ್ತಮ ಪಾರಂಗತರಾಗಿದ್ದಾರೆ."
+            }
         }
     ],
     "tej": {

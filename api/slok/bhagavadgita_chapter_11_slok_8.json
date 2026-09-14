@@ -14,8 +14,18 @@
         "en": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā .\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram ||11-8||",
         "ka": "ನ ತು ಮಾಂ ಶಕ್ಯಸೇ ದ್ರಷ್ಟುಮನೇನೈವ ಸ್ವಚಕ್ಷುಷಾ |\nದಿವ್ಯಂ ದದಾಮಿ ತೇ ಚಕ್ಷುಃ ಪಶ್ಯ ಮೇ ಯೋಗಮೈಶ್ವರಮ್ ||೧೧-೮||"
     },
-    "transliteration": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā .\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram ||11-8||",
-    "life_application": "Receive divine vision through grace, recognizing that physical eyes alone cannot behold the ultimate spiritual reality.",
+    "transliteration": {
+        "hi": "न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा |\nदिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम् ||११-८||",
+        "en": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā .\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram ||11-8||",
+        "be": "ন তু মাং শক্যসে দ্রষ্টুমনেনৈব স্বচক্ষুষা |\nদিব্যং দদামি তে চক্ষুঃ পশ্য মে যোগমৈশ্বরম্ ||১১-৮||",
+        "ka": "ನ ತು ಮಾಂ ಶಕ್ಯಸೇ ದ್ರಷ್ಟುಮನೇನೈವ ಸ್ವಚಕ್ಷುಷಾ |\nದಿವ್ಯಂ ದದಾಮಿ ತೇ ಚಕ್ಷುಃ ಪಶ್ಯ ಮೇ ಯೋಗಮೈಶ್ವರಮ್ ||೧೧-೮||"
+    },
+    "life_application": {
+        "hi": "अनुग्रह के माध्यम से दिव्य दृष्टि प्राप्त करें, यह पहचानते हुए कि केवल भौतिक आँखें ही परम आध्यात्मिक वास्तविकता को नहीं देख सकती हैं।",
+        "en": "Receive divine vision through grace, recognizing that physical eyes alone cannot behold the ultimate spiritual reality.",
+        "be": "করুণার মাধ্যমে ঐশ্বরিক দৃষ্টি প্রাপ্ত করুন, স্বীকার করুন যে শুধুমাত্র শারীরিক চোখ চূড়ান্ত আধ্যাত্মিক বাস্তবতা দেখতে পারে না।",
+        "ka": "ಕೃಪೆಯ ಮೂಲಕ ದೈವಿಕ ದೃಷ್ಟಿಯನ್ನು ಸ್ವೀಕರಿಸಿ, ಭೌತಿಕ ಕಣ್ಣುಗಳು ಮಾತ್ರ ಅಂತಿಮ ಆಧ್ಯಾತ್ಮಿಕ ವಾಸ್ತವವನ್ನು ವೀಕ್ಷಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "शक्यसे",
-            "transliteration": "śakyase",
-            "meaning": "canst"
+            "transliteration": {
+                "hi": "शक्यसे",
+                "en": "śakyase",
+                "be": "শক্যসে",
+                "ka": "ಶಕ್ಯಸೇ"
+            },
+            "meaning": {
+                "hi": "कर सकते हैं",
+                "en": "canst",
+                "be": "canst",
+                "ka": "ಮಾಡಬಹುದು"
+            }
         },
         {
             "sanskrit": "द्रष्टुम्",
-            "transliteration": "draṣṭum",
-            "meaning": "to see"
+            "transliteration": {
+                "hi": "द्रष्टुम्",
+                "en": "draṣṭum",
+                "be": "দ্রষ্টুম্",
+                "ka": "ದ್ರಷ್ಟುಮ್"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "to see",
+                "be": "দেখতে",
+                "ka": "ನೋಡಲು"
+            }
         },
         {
             "sanskrit": "अनेन",
-            "transliteration": "anena",
-            "meaning": "with this"
+            "transliteration": {
+                "hi": "अनेन",
+                "en": "anena",
+                "be": "অনেন",
+                "ka": "ಅನೇನ"
+            },
+            "meaning": {
+                "hi": "इस के साथ",
+                "en": "with this",
+                "be": "এই সঙ্গে",
+                "ka": "ಇದರೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "स्वचक्षुषा",
-            "transliteration": "svacakṣuṣā",
-            "meaning": "with own eyes"
+            "transliteration": {
+                "hi": "स्वचक्षुषा",
+                "en": "svacakṣuṣā",
+                "be": "স্বচক্ষুষা",
+                "ka": "ಸ್ವಚಕ್ಷುಷಾ"
+            },
+            "meaning": {
+                "hi": "अपनी आँखों से",
+                "en": "with own eyes",
+                "be": "নিজের চোখ দিয়ে",
+                "ka": "ಸ್ವಂತ ಕಣ್ಣುಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "दिव्यम्",
-            "transliteration": "divyam",
-            "meaning": "divine"
+            "transliteration": {
+                "hi": "दिव्यम्",
+                "en": "divyam",
+                "be": "দিব্যম্",
+                "ka": "ದಿವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "ददामि",
-            "transliteration": "dadāmi",
-            "meaning": "give"
+            "transliteration": {
+                "hi": "ददामि",
+                "en": "dadāmi",
+                "be": "দদামি",
+                "ka": "ದದಾಮಿ"
+            },
+            "meaning": {
+                "hi": "देना",
+                "en": "give",
+                "be": "দিতে",
+                "ka": "ಕೊಡು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "thee",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "चक्षुः",
-            "transliteration": "cakṣuḥ",
-            "meaning": "the eye"
+            "transliteration": {
+                "hi": "चक्षुः",
+                "en": "cakṣuḥ",
+                "be": "চক্ষুঃ",
+                "ka": "ಚಕ್ಷುಃ"
+            },
+            "meaning": {
+                "hi": "आंख",
+                "en": "the eye",
+                "be": "চোখ",
+                "ka": "ಕಣ್ಣು"
+            }
         },
         {
             "sanskrit": "पश्य",
-            "transliteration": "paśya",
-            "meaning": "behold"
+            "transliteration": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্য",
+                "ka": "ಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखो",
+                "en": "behold",
+                "be": "দেখ",
+                "ka": "ಇಗೋ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "योगम्",
-            "transliteration": "yogam",
-            "meaning": "Yoga"
+            "transliteration": {
+                "hi": "योगम्",
+                "en": "yogam",
+                "be": "যোগম্",
+                "ka": "ಯೋಗಮ್"
+            },
+            "meaning": {
+                "hi": "योग",
+                "en": "Yoga",
+                "be": "যোগব্যায়াম",
+                "ka": "ಯೋಗ"
+            }
         },
         {
             "sanskrit": "ऐश्वरम्",
-            "transliteration": "aiśvaram",
-            "meaning": "lordly."
+            "transliteration": {
+                "hi": "ऐश्वरम्",
+                "en": "aiśvaram",
+                "be": "ঐশ্বরম্",
+                "ka": "ಐಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "प्रभु।",
+                "en": "lordly.",
+                "be": "প্রভু",
+                "ka": "ಪ್ರಭುವಾಗಿ."
+            }
         }
     ],
     "tej": {

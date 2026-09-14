@@ -14,8 +14,18 @@
         "en": "bhaktyā tvananyayā śakya ahamevaṃvidho.arjuna .\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||11-54||",
         "ka": "ಭಕ್ತ್ಯಾ ತ್ವನನ್ಯಯಾ ಶಕ್ಯ ಅಹಮೇವಂವಿಧೋಽರ್ಜುನ |\nಜ್ಞಾತುಂ ದ್ರಷ್ಟುಂ ಚ ತತ್ತ್ವೇನ ಪ್ರವೇಷ್ಟುಂ ಚ ಪರನ್ತಪ ||೧೧-೫೪||"
     },
-    "transliteration": "bhaktyā tvananyayā śakya ahamevaṃvidho.arjuna .\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||11-54||",
-    "life_application": "Know that through unswerving devotion alone can God be truly known, directly experienced, and entered into.",
+    "transliteration": {
+        "hi": "भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |\nज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप ||११-५४||",
+        "en": "bhaktyā tvananyayā śakya ahamevaṃvidho.arjuna .\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||11-54||",
+        "be": "ভক্ত্যা ত্বনন্যযা শক্য অহমেবংবিধোঽর্জুন |\nজ্ঞাতুং দ্রষ্টুং চ তত্ত্বেন প্রবেষ্টুং চ পরন্তপ ||১১-৫৪||",
+        "ka": "ಭಕ್ತ್ಯಾ ತ್ವನನ್ಯಯಾ ಶಕ್ಯ ಅಹಮೇವಂವಿಧೋಽರ್ಜುನ |\nಜ್ಞಾತುಂ ದ್ರಷ್ಟುಂ ಚ ತತ್ತ್ವೇನ ಪ್ರವೇಷ್ಟುಂ ಚ ಪರನ್ತಪ ||೧೧-೫೪||"
+    },
+    "life_application": {
+        "hi": "जान लें कि केवल अटल भक्ति के माध्यम से ही ईश्वर को वास्तव में जाना जा सकता है, प्रत्यक्ष रूप से अनुभव किया जा सकता है और उसमें प्रवेश किया जा सकता है।",
+        "en": "Know that through unswerving devotion alone can God be truly known, directly experienced, and entered into.",
+        "be": "জেনে রাখুন যে কেবল অটল ভক্তির মাধ্যমেই ঈশ্বরকে সত্যিকারভাবে জানা, প্রত্যক্ষভাবে অনুভব করা এবং প্রবেশ করা যায়।",
+        "ka": "ಅಚಲವಾದ ಭಕ್ತಿಯಿಂದ ಮಾತ್ರ ದೇವರನ್ನು ನಿಜವಾಗಿ ತಿಳಿಯಬಹುದು, ನೇರವಾಗಿ ಅನುಭವಿಸಬಹುದು ಮತ್ತು ಪ್ರವೇಶಿಸಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "by devotion"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्ति से",
+                "en": "by devotion",
+                "be": "ভক্তি দ্বারা",
+                "ka": "ಭಕ್ತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अनन्यया",
-            "transliteration": "ananyayā",
-            "meaning": "singleminded"
+            "transliteration": {
+                "hi": "अनन्यया",
+                "en": "ananyayā",
+                "be": "অনন্যযা",
+                "ka": "ಅನನ್ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "एकचित्त",
+                "en": "singleminded",
+                "be": "একাকী",
+                "ka": "ಏಕಮನಸ್ಕ"
+            }
         },
         {
             "sanskrit": "शक्यः",
-            "transliteration": "śakyaḥ",
-            "meaning": "possible"
+            "transliteration": {
+                "hi": "शक्यः",
+                "en": "śakyaḥ",
+                "be": "শক্যঃ",
+                "ka": "ಶಕ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "संभव",
+                "en": "possible",
+                "be": "সম্ভব",
+                "ka": "ಸಾಧ್ಯ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "एवंविधः",
-            "transliteration": "evaṃvidhaḥ",
-            "meaning": "of this form"
+            "transliteration": {
+                "hi": "एवंविधः",
+                "en": "evaṃvidhaḥ",
+                "be": "এবংবিধঃ",
+                "ka": "ಏವಂವಿಧಃ"
+            },
+            "meaning": {
+                "hi": "इस रूप का",
+                "en": "of this form",
+                "be": "এই ফর্মের",
+                "ka": "ಈ ರೂಪದ"
+            }
         },
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "ज्ञातुम्",
-            "transliteration": "jñātum",
-            "meaning": "to know"
+            "transliteration": {
+                "hi": "ज्ञातुम्",
+                "en": "jñātum",
+                "be": "জ্ঞাতুম্",
+                "ka": "ಜ್ಞಾತುಮ್"
+            },
+            "meaning": {
+                "hi": "जानना",
+                "en": "to know",
+                "be": "জানতে",
+                "ka": "ತಿಳಿಯಲು"
+            }
         },
         {
             "sanskrit": "दृष्टुम्",
-            "transliteration": "dṛṣṭum",
-            "meaning": "to see"
+            "transliteration": {
+                "hi": "दृष्टुम्",
+                "en": "dṛṣṭum",
+                "be": "দৃষ্টুম্",
+                "ka": "ದೃಷ್ಟುಮ್"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "to see",
+                "be": "দেখতে",
+                "ka": "ನೋಡಲು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्त्वेन",
-            "transliteration": "tattvena",
-            "meaning": "in reality"
+            "transliteration": {
+                "hi": "तत्त्वेन",
+                "en": "tattvena",
+                "be": "তত্ত্বেন",
+                "ka": "ತತ್ತ್ವೇನ"
+            },
+            "meaning": {
+                "hi": "हकीकत में",
+                "en": "in reality",
+                "be": "বাস্তবে",
+                "ka": "ವಾಸ್ತವದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रवेष्टुम्",
-            "transliteration": "praveṣṭum",
-            "meaning": "to enter into"
+            "transliteration": {
+                "hi": "प्रवेष्टुम्",
+                "en": "praveṣṭum",
+                "be": "প্রবেষ্টুম্",
+                "ka": "ಪ್ರವೇಷ್ಟುಮ್"
+            },
+            "meaning": {
+                "hi": "में प्रवेश करना",
+                "en": "to enter into",
+                "be": "প্রবেশ করতে",
+                "ka": "ಪ್ರವೇಶಿಸಲು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "परंतप",
-            "transliteration": "paraṃtapa",
-            "meaning": "O Parantapa ."
+            "transliteration": {
+                "hi": "परंतप",
+                "en": "paraṃtapa",
+                "be": "পরংতপ",
+                "ka": "ಪರಂತಪ"
+            },
+            "meaning": {
+                "hi": "हे परंतप!",
+                "en": "O Parantapa .",
+                "be": "হে পরন্তপা।",
+                "ka": "ಓ ಪರಂತಪಾ."
+            }
         }
     ],
     "tej": {

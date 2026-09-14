@@ -14,8 +14,18 @@
         "en": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
         "ka": "ಅಭ್ಯಾಸೇಽಪ್ಯಸಮರ್ಥೋಽಸಿ ಮತ್ಕರ್ಮಪರಮೋ ಭವ |\nಮದರ್ಥಮಪಿ ಕರ್ಮಾಣಿ ಕುರ್ವನ್ಸಿದ್ಧಿಮವಾಪ್ಸ್ಯಸಿ ||೧೨-೧೦||"
     },
-    "transliteration": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
-    "life_application": "If you lack strength for regular practice, perform work for the sake of God, attaining perfection through divine service.",
+    "transliteration": {
+        "hi": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||",
+        "en": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
+        "be": "অভ্যাসেঽপ্যসমর্থোঽসি মত্কর্মপরমো ভব |\nমদর্থমপি কর্মাণি কুর্বন্সিদ্ধিমবাপ্স্যসি ||১২-১০||",
+        "ka": "ಅಭ್ಯಾಸೇಽಪ್ಯಸಮರ್ಥೋಽಸಿ ಮತ್ಕರ್ಮಪರಮೋ ಭವ |\nಮದರ್ಥಮಪಿ ಕರ್ಮಾಣಿ ಕುರ್ವನ್ಸಿದ್ಧಿಮವಾಪ್ಸ್ಯಸಿ ||೧೨-೧೦||"
+    },
+    "life_application": {
+        "hi": "यदि आपके पास नियमित अभ्यास के लिए शक्ति की कमी है, तो ईश्वरीय सेवा के माध्यम से पूर्णता प्राप्त करते हुए, ईश्वर के लिए कार्य करें।",
+        "en": "If you lack strength for regular practice, perform work for the sake of God, attaining perfection through divine service.",
+        "be": "যদি নিয়মিত অনুশীলনের জন্য আপনার শক্তির অভাব হয় তবে ঈশ্বরের জন্য কাজ করুন, দৈব সেবার মাধ্যমে পরিপূর্ণতা অর্জন করুন।",
+        "ka": "ನಿಯಮಿತ ಅಭ್ಯಾಸಕ್ಕಾಗಿ ನಿಮಗೆ ಶಕ್ತಿಯ ಕೊರತೆಯಿದ್ದರೆ, ದೇವರ ಸಲುವಾಗಿ ಕೆಲಸವನ್ನು ಮಾಡಿ, ದೈವಿಕ ಸೇವೆಯ ಮೂಲಕ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಸಾಧಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Karma",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "अभ्यासे",
-            "transliteration": "abhyāse",
-            "meaning": "in practice"
+            "transliteration": {
+                "hi": "अभ्यासे",
+                "en": "abhyāse",
+                "be": "অভ্যাসে",
+                "ka": "ಅಭ್ಯಾಸೇ"
+            },
+            "meaning": {
+                "hi": "व्यवहार में",
+                "en": "in practice",
+                "be": "অনুশীলনে",
+                "ka": "ಆಚರಣೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "असमर्थः",
-            "transliteration": "asamarthaḥ",
-            "meaning": "not capable"
+            "transliteration": {
+                "hi": "असमर्थः",
+                "en": "asamarthaḥ",
+                "be": "অসমর্থঃ",
+                "ka": "ಅಸಮರ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "सक्षम नहीं",
+                "en": "not capable",
+                "be": "সক্ষম নয়",
+                "ka": "ಸಾಮರ್ಥ್ಯವಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "मत्कर्मपरमः",
-            "transliteration": "matkarmaparamaḥ",
-            "meaning": "intent on doing actions"
+            "transliteration": {
+                "hi": "मत्कर्मपरमः",
+                "en": "matkarmaparamaḥ",
+                "be": "মত্কর্মপরমঃ",
+                "ka": "ಮತ್ಕರ್ಮಪರಮಃ"
+            },
+            "meaning": {
+                "hi": "कार्य करने का इरादा",
+                "en": "intent on doing actions",
+                "be": "কর্ম করার অভিপ্রায়",
+                "ka": "ಕ್ರಿಯೆಗಳನ್ನು ಮಾಡುವ ಉದ್ದೇಶ"
+            }
         },
         {
             "sanskrit": "भव",
-            "transliteration": "bhava",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "भव",
+                "en": "bhava",
+                "be": "ভব",
+                "ka": "ಭವ"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "मदर्थम्",
-            "transliteration": "madartham",
-            "meaning": "for My sake"
+            "transliteration": {
+                "hi": "मदर्थम्",
+                "en": "madartham",
+                "be": "মদর্থম্",
+                "ka": "ಮದರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "मेरी खातिर",
+                "en": "for My sake",
+                "be": "আমার জন্য",
+                "ka": "ನನ್ನ ಸಲುವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "actions"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "actions",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮಗಳು"
+            }
         },
         {
             "sanskrit": "कुर्वन्",
-            "transliteration": "kurvan",
-            "meaning": "by doing"
+            "transliteration": {
+                "hi": "कुर्वन्",
+                "en": "kurvan",
+                "be": "কুর্বন্",
+                "ka": "ಕುರ್ವನ್"
+            },
+            "meaning": {
+                "hi": "करके",
+                "en": "by doing",
+                "be": "করে",
+                "ka": "ಮಾಡುವ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "सिद्धिम्",
-            "transliteration": "siddhim",
-            "meaning": "perfection"
+            "transliteration": {
+                "hi": "सिद्धिम्",
+                "en": "siddhim",
+                "be": "সিদ্ধিম্",
+                "ka": "ಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता",
+                "en": "perfection",
+                "be": "পরিপূর্ণতা",
+                "ka": "ಪರಿಪೂರ್ಣತೆ"
+            }
         },
         {
             "sanskrit": "अवाप्स्यसि",
-            "transliteration": "avāpsyasi",
-            "meaning": "thou shalt attain."
+            "transliteration": {
+                "hi": "अवाप्स्यसि",
+                "en": "avāpsyasi",
+                "be": "অবাপ্স্যসি",
+                "ka": "ಅವಾಪ್ಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "तुम्हें प्राप्त होगा.",
+                "en": "thou shalt attain.",
+                "be": "আপনি অর্জন করতে হবে.",
+                "ka": "ನೀವು ಸಾಧಿಸುವಿರಿ."
+            }
         }
     ],
     "tej": {

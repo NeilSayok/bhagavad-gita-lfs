@@ -14,8 +14,18 @@
         "en": "paśyādityānvasūnrudrānaśvinau marutastathā .\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata ||11-6||",
         "ka": "ಪಶ್ಯಾದಿತ್ಯಾನ್ವಸೂನ್ರುದ್ರಾನಶ್ವಿನೌ ಮರುತಸ್ತಥಾ |\nಬಹೂನ್ಯದೃಷ್ಟಪೂರ್ವಾಣಿ ಪಶ್ಯಾಶ್ಚರ್ಯಾಣಿ ಭಾರತ ||೧೧-೬||"
     },
-    "transliteration": "paśyādityānvasūnrudrānaśvinau marutastathā .\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata ||11-6||",
-    "life_application": "Contemplate the cosmic forces of nature and celestial beings, marveling at the infinite wonders of creation.",
+    "transliteration": {
+        "hi": "पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा |\nबहून्यदृष्टपूर्वाणि पश्याश्चर्याणि भारत ||११-६||",
+        "en": "paśyādityānvasūnrudrānaśvinau marutastathā .\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata ||11-6||",
+        "be": "পশ্যাদিত্যান্বসূন্রুদ্রানশ্বিনৌ মরুতস্তথা |\nবহূন্যদৃষ্টপূর্বাণি পশ্যাশ্চর্যাণি ভারত ||১১-৬||",
+        "ka": "ಪಶ್ಯಾದಿತ್ಯಾನ್ವಸೂನ್ರುದ್ರಾನಶ್ವಿನೌ ಮರುತಸ್ತಥಾ |\nಬಹೂನ್ಯದೃಷ್ಟಪೂರ್ವಾಣಿ ಪಶ್ಯಾಶ್ಚರ್ಯಾಣಿ ಭಾರತ ||೧೧-೬||"
+    },
+    "life_application": {
+        "hi": "सृष्टि के अनंत आश्चर्यों पर आश्चर्य करते हुए, प्रकृति और खगोलीय प्राणियों की ब्रह्मांडीय शक्तियों पर विचार करें।",
+        "en": "Contemplate the cosmic forces of nature and celestial beings, marveling at the infinite wonders of creation.",
+        "be": "সৃষ্টির অসীম বিস্ময় দেখে বিস্মিত হয়ে প্রকৃতির মহাজাগতিক শক্তি এবং স্বর্গীয় প্রাণীর কথা চিন্তা করুন।",
+        "ka": "ಪ್ರಕೃತಿ ಮತ್ತು ಆಕಾಶ ಜೀವಿಗಳ ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳನ್ನು ಆಲೋಚಿಸಿ, ಸೃಷ್ಟಿಯ ಅನಂತ ಅದ್ಭುತಗಳನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "पश्य",
-            "transliteration": "paśya",
-            "meaning": "behold"
+            "transliteration": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্য",
+                "ka": "ಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखो",
+                "en": "behold",
+                "be": "দেখ",
+                "ka": "ಇಗೋ"
+            }
         },
         {
             "sanskrit": "आदित्यान्",
-            "transliteration": "ādityān",
-            "meaning": "the Adityas"
+            "transliteration": {
+                "hi": "आदित्यान्",
+                "en": "ādityān",
+                "be": "আদিত্যান্",
+                "ka": "ಆದಿತ್ಯಾನ್"
+            },
+            "meaning": {
+                "hi": "आदित्य",
+                "en": "the Adityas",
+                "be": "আদিত্যরা",
+                "ka": "ಆದಿತ್ಯರು"
+            }
         },
         {
             "sanskrit": "वसून्",
-            "transliteration": "vasūn",
-            "meaning": "the Vasus"
+            "transliteration": {
+                "hi": "वसून्",
+                "en": "vasūn",
+                "be": "বসূন্",
+                "ka": "ವಸೂನ್"
+            },
+            "meaning": {
+                "hi": "वसुस",
+                "en": "the Vasus",
+                "be": "ভাসাস",
+                "ka": "ವಾಸುಸ್"
+            }
         },
         {
             "sanskrit": "रुद्रान्",
-            "transliteration": "rudrān",
-            "meaning": "the Rudras"
+            "transliteration": {
+                "hi": "रुद्रान्",
+                "en": "rudrān",
+                "be": "রুদ্রান্",
+                "ka": "ರುದ್ರಾನ್"
+            },
+            "meaning": {
+                "hi": "रुद्र",
+                "en": "the Rudras",
+                "be": "রুদ্র",
+                "ka": "ರುದ್ರರು"
+            }
         },
         {
             "sanskrit": "अश्िवनौ",
-            "transliteration": "aśivanau",
-            "meaning": "the Asvins"
+            "transliteration": {
+                "hi": "अश्िवनौ",
+                "en": "aśivanau",
+                "be": "অশ্িবনৌ",
+                "ka": "ಅಶ್ಿವನೌ"
+            },
+            "meaning": {
+                "hi": "असविंस",
+                "en": "the Asvins",
+                "be": "আসভিন",
+                "ka": "ಆಸ್ವಿನ್ಸ್"
+            }
         },
         {
             "sanskrit": "मरुतः",
-            "transliteration": "marutaḥ",
-            "meaning": "the Maruts"
+            "transliteration": {
+                "hi": "मरुतः",
+                "en": "marutaḥ",
+                "be": "মরুতঃ",
+                "ka": "ಮರುತಃ"
+            },
+            "meaning": {
+                "hi": "मरुत",
+                "en": "the Maruts",
+                "be": "Maruts",
+                "ka": "ಮಾರುತಗಳು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "बहूनि",
-            "transliteration": "bahūni",
-            "meaning": "many"
+            "transliteration": {
+                "hi": "बहूनि",
+                "en": "bahūni",
+                "be": "বহূনি",
+                "ka": "ಬಹೂನಿ"
+            },
+            "meaning": {
+                "hi": "अनेक",
+                "en": "many",
+                "be": "অনেক",
+                "ka": "ಅನೇಕ"
+            }
         },
         {
             "sanskrit": "अदृष्टपूर्वाणि",
-            "transliteration": "adṛṣṭapūrvāṇi",
-            "meaning": "never seen before"
+            "transliteration": {
+                "hi": "अदृष्टपूर्वाणि",
+                "en": "adṛṣṭapūrvāṇi",
+                "be": "অদৃষ্টপূর্বাণি",
+                "ka": "ಅದೃಷ್ಟಪೂರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "पहले कभी नहीं देखा",
+                "en": "never seen before",
+                "be": "আগে কখনো দেখিনি",
+                "ka": "ಹಿಂದೆಂದೂ ನೋಡಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पश्य",
-            "transliteration": "paśya",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্য",
+                "ka": "ಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "आश्चर्याणि",
-            "transliteration": "āścaryāṇi",
-            "meaning": "wonders"
+            "transliteration": {
+                "hi": "आश्चर्याणि",
+                "en": "āścaryāṇi",
+                "be": "আশ্চর্যাণি",
+                "ka": "ಆಶ್ಚರ್ಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "आश्चर्य",
+                "en": "wonders",
+                "be": "বিস্ময়",
+                "ka": "ಅದ್ಭುತಗಳು"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata."
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata.",
+                "be": "হে ভরত।",
+                "ka": "ಓ ಭರತ."
+            }
         }
     ],
     "tej": {

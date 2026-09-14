@@ -14,8 +14,18 @@
         "en": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1-32||",
         "ka": "ನ ಕಾಙ್ಕ್ಷೇ ವಿಜಯಂ ಕೃಷ್ಣ ನ ಚ ರಾಜ್ಯಂ ಸುಖಾನಿ ಚ |\nಕಿಂ ನೋ ರಾಜ್ಯೇನ ಗೋವಿನ್ದ ಕಿಂ ಭೋಗೈರ್ಜೀವಿತೇನ ವಾ ||೧-೩೨||"
     },
-    "transliteration": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1-32||",
-    "life_application": "Question whether worldly success is worth pursuing if it requires sacrificing your core values or harming others.",
+    "transliteration": {
+        "hi": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||",
+        "en": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||1-32||",
+        "be": "ন কাঙ্ক্ষে বিজযং কৃষ্ণ ন চ রাজ্যং সুখানি চ |\nকিং নো রাজ্যেন গোবিন্দ কিং ভোগৈর্জীবিতেন বা ||১-৩২||",
+        "ka": "ನ ಕಾಙ್ಕ್ಷೇ ವಿಜಯಂ ಕೃಷ್ಣ ನ ಚ ರಾಜ್ಯಂ ಸುಖಾನಿ ಚ |\nಕಿಂ ನೋ ರಾಜ್ಯೇನ ಗೋವಿನ್ದ ಕಿಂ ಭೋಗೈರ್ಜೀವಿತೇನ ವಾ ||೧-೩೨||"
+    },
+    "life_application": {
+        "hi": "प्रश्न करें कि क्या सांसारिक सफलता हासिल करने लायक है यदि इसके लिए अपने मूल मूल्यों का त्याग करना या दूसरों को नुकसान पहुंचाना आवश्यक है।",
+        "en": "Question whether worldly success is worth pursuing if it requires sacrificing your core values or harming others.",
+        "be": "প্রশ্ন করুন যে পার্থিব সাফল্য অনুসরণ করা মূল্যবান কিনা যদি এর জন্য আপনার মূল মূল্যবোধকে বলিদান বা অন্যদের ক্ষতি করার প্রয়োজন হয়।",
+        "ka": "ಲೌಕಿಕ ಯಶಸ್ಸಿಗೆ ನಿಮ್ಮ ಮೂಲ ಮೌಲ್ಯಗಳನ್ನು ತ್ಯಾಗ ಮಾಡುವ ಅಥವಾ ಇತರರಿಗೆ ಹಾನಿ ಮಾಡುವ ಅಗತ್ಯವಿದ್ದರೆ ಅದನ್ನು ಅನುಸರಿಸಲು ಯೋಗ್ಯವಾಗಿದೆಯೇ ಎಂದು ಪ್ರಶ್ನಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Purpose"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "काङ्क्षे",
-            "transliteration": "kāṅkṣe",
-            "meaning": "I desire"
+            "transliteration": {
+                "hi": "काङ्क्षे",
+                "en": "kāṅkṣe",
+                "be": "কাঙ্ক্ষে",
+                "ka": "ಕಾಙ್ಕ್ಷೇ"
+            },
+            "meaning": {
+                "hi": "मेरी इच्छा है",
+                "en": "I desire",
+                "be": "আমি ইচ্ছা",
+                "ka": "ನಾನು ಬಯಸುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "विजयम्",
-            "transliteration": "vijayam",
-            "meaning": "victory"
+            "transliteration": {
+                "hi": "विजयम्",
+                "en": "vijayam",
+                "be": "বিজযম্",
+                "ka": "ವಿಜಯಮ್"
+            },
+            "meaning": {
+                "hi": "जीत",
+                "en": "victory",
+                "be": "বিজয়",
+                "ka": "ಗೆಲುವು"
+            }
         },
         {
             "sanskrit": "कृष्ण",
-            "transliteration": "kṛṣṇa",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "nor"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "न ही",
+                "en": "nor",
+                "be": "বা",
+                "ka": "ಅಥವಾ ಇಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "राज्यम्",
-            "transliteration": "rājyam",
-            "meaning": "kingdom"
+            "transliteration": {
+                "hi": "राज्यम्",
+                "en": "rājyam",
+                "be": "রাজ্যম্",
+                "ka": "ರಾಜ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "साम्राज्य",
+                "en": "kingdom",
+                "be": "রাজ্য",
+                "ka": "ಸಾಮ್ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "सुखानि",
-            "transliteration": "sukhāni",
-            "meaning": "pleasures"
+            "transliteration": {
+                "hi": "सुखानि",
+                "en": "sukhāni",
+                "be": "সুখানি",
+                "ka": "ಸುಖಾನಿ"
+            },
+            "meaning": {
+                "hi": "सुख",
+                "en": "pleasures",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what use"
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या उपयोग",
+                "en": "what use",
+                "be": "কি ব্যবহার",
+                "ka": "ಏನು ಬಳಕೆ"
+            }
         },
         {
             "sanskrit": "नः",
-            "transliteration": "naḥ",
-            "meaning": "to us"
+            "transliteration": {
+                "hi": "नः",
+                "en": "naḥ",
+                "be": "নঃ",
+                "ka": "ನಃ"
+            },
+            "meaning": {
+                "hi": "हमारे लिए",
+                "en": "to us",
+                "be": "আমাদের কাছে",
+                "ka": "ನಮಗೆ"
+            }
         },
         {
             "sanskrit": "राज्येन",
-            "transliteration": "rājyena",
-            "meaning": "with kingdom"
+            "transliteration": {
+                "hi": "राज्येन",
+                "en": "rājyena",
+                "be": "রাজ্যেন",
+                "ka": "ರಾಜ್ಯೇನ"
+            },
+            "meaning": {
+                "hi": "राज्य के साथ",
+                "en": "with kingdom",
+                "be": "রাজ্যের সাথে",
+                "ka": "ಸಾಮ್ರಾಜ್ಯದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "गोविन्द",
-            "transliteration": "govinda",
-            "meaning": "O Govinda"
+            "transliteration": {
+                "hi": "गोविन्द",
+                "en": "govinda",
+                "be": "গোবিন্দ",
+                "ka": "ಗೋವಿನ್ದ"
+            },
+            "meaning": {
+                "hi": "हे गोविंदा!",
+                "en": "O Govinda",
+                "be": "হে গোবিন্দ",
+                "ka": "ಓ ಗೋವಿಂದಾ"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "भोगैः",
-            "transliteration": "bhogaiḥ",
-            "meaning": "with enjoyments"
+            "transliteration": {
+                "hi": "भोगैः",
+                "en": "bhogaiḥ",
+                "be": "ভোগৈঃ",
+                "ka": "ಭೋಗೈಃ"
+            },
+            "meaning": {
+                "hi": "आनंद के साथ",
+                "en": "with enjoyments",
+                "be": "উপভোগের সাথে",
+                "ka": "ಸಂತೋಷಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "जीवितेन",
-            "transliteration": "jīvitena",
-            "meaning": "with life"
+            "transliteration": {
+                "hi": "जीवितेन",
+                "en": "jīvitena",
+                "be": "জীবিতেন",
+                "ka": "ಜೀವಿತೇನ"
+            },
+            "meaning": {
+                "hi": "जीवन के साथ",
+                "en": "with life",
+                "be": "জীবনের সাথে",
+                "ka": "ಜೀವನದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         }
     ],
     "tej": {

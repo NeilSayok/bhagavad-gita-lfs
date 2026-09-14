@@ -14,8 +14,18 @@
         "en": "nimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||",
         "ka": "ನಿಮಿತ್ತಾನಿ ಚ ಪಶ್ಯಾಮಿ ವಿಪರೀತಾನಿ ಕೇಶವ |\nನ ಚ ಶ್ರೇಯೋಽನುಪಶ್ಯಾಮಿ ಹತ್ವಾ ಸ್ವಜನಮಾಹವೇ ||೧-೩೧||"
     },
-    "transliteration": "nimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||",
-    "life_application": "Distinguish between genuine ethical warnings and rationalizations born of fear when facing tough choices.",
+    "transliteration": {
+        "hi": "निमित्तानि च पश्यामि विपरीतानि केशव |\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||",
+        "en": "nimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||",
+        "be": "নিমিত্তানি চ পশ্যামি বিপরীতানি কেশব |\nন চ শ্রেযোঽনুপশ্যামি হত্বা স্বজনমাহবে ||১-৩১||",
+        "ka": "ನಿಮಿತ್ತಾನಿ ಚ ಪಶ್ಯಾಮಿ ವಿಪರೀತಾನಿ ಕೇಶವ |\nನ ಚ ಶ್ರೇಯೋಽನುಪಶ್ಯಾಮಿ ಹತ್ವಾ ಸ್ವಜನಮಾಹವೇ ||೧-೩೧||"
+    },
+    "life_application": {
+        "hi": "कठिन विकल्पों का सामना करते समय वास्तविक नैतिक चेतावनियों और भय से उत्पन्न तर्कसंगतताओं के बीच अंतर करें।",
+        "en": "Distinguish between genuine ethical warnings and rationalizations born of fear when facing tough choices.",
+        "be": "কঠিন পছন্দের মুখোমুখি হওয়ার সময় প্রকৃত নৈতিক সতর্কতা এবং ভয় থেকে উদ্ভূত যুক্তিযুক্তকরণের মধ্যে পার্থক্য করুন।",
+        "ka": "ಕಠಿಣ ಆಯ್ಕೆಗಳನ್ನು ಎದುರಿಸುವಾಗ ಭಯದಿಂದ ಹುಟ್ಟಿದ ನಿಜವಾದ ನೈತಿಕ ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ತರ್ಕಬದ್ಧತೆಗಳ ನಡುವೆ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Dharma",
         "Fear"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "निमित्तानि",
-            "transliteration": "nimittāni",
-            "meaning": "omens"
+            "transliteration": {
+                "hi": "निमित्तानि",
+                "en": "nimittāni",
+                "be": "নিমিত্তানি",
+                "ka": "ನಿಮಿತ್ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "शकुन",
+                "en": "omens",
+                "be": "লক্ষণ",
+                "ka": "ಶಕುನಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "I see"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "मैं देखता हूँ",
+                "en": "I see",
+                "be": "আমি দেখছি",
+                "ka": "ನಾನು ನೋಡುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "विपरीतानि",
-            "transliteration": "viparītāni",
-            "meaning": "adverse"
+            "transliteration": {
+                "hi": "विपरीतानि",
+                "en": "viparītāni",
+                "be": "বিপরীতানি",
+                "ka": "ವಿಪರೀತಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्रतिकूल",
+                "en": "adverse",
+                "be": "প্রতিকূল",
+                "ka": "ಪ್ರತಿಕೂಲ"
+            }
         },
         {
             "sanskrit": "केशव",
-            "transliteration": "keśava",
-            "meaning": "O Keshava"
+            "transliteration": {
+                "hi": "केशव",
+                "en": "keśava",
+                "be": "কেশব",
+                "ka": "ಕೇಶವ"
+            },
+            "meaning": {
+                "hi": "हे केशव!",
+                "en": "O Keshava",
+                "be": "হে কেশব",
+                "ka": "ಓ ಕೇಶವ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "good"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "अच्छा",
+                "en": "good",
+                "be": "ভাল",
+                "ka": "ಒಳ್ಳೆಯದು"
+            }
         },
         {
             "sanskrit": "अनुपश्यामि",
-            "transliteration": "anupaśyāmi",
-            "meaning": "do I see"
+            "transliteration": {
+                "hi": "अनुपश्यामि",
+                "en": "anupaśyāmi",
+                "be": "অনুপশ্যামি",
+                "ka": "ಅನುಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "क्या मैं देखता हूँ?",
+                "en": "do I see",
+                "be": "আমি কি দেখতে",
+                "ka": "ನಾನು ನೋಡುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "हत्वा",
-            "transliteration": "hatvā",
-            "meaning": "by killing"
+            "transliteration": {
+                "hi": "हत्वा",
+                "en": "hatvā",
+                "be": "হত্বা",
+                "ka": "ಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "हत्या करके",
+                "en": "by killing",
+                "be": "হত্যা করে",
+                "ka": "ಕೊಲ್ಲುವ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "स्वजनम्",
-            "transliteration": "svajanam",
-            "meaning": "own kinsmen"
+            "transliteration": {
+                "hi": "स्वजनम्",
+                "en": "svajanam",
+                "be": "স্বজনম্",
+                "ka": "ಸ್ವಜನಮ್"
+            },
+            "meaning": {
+                "hi": "अपने ही रिश्तेदार",
+                "en": "own kinsmen",
+                "be": "নিজের আত্মীয়স্বজন",
+                "ka": "ಸ್ವಂತ ಬಂಧುಗಳು"
+            }
         },
         {
             "sanskrit": "आहवे",
-            "transliteration": "āhave",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "आहवे",
+                "en": "āhave",
+                "be": "আহবে",
+                "ka": "ಆಹವೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         }
     ],
     "tej": {

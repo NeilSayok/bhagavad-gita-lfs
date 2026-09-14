@@ -14,8 +14,18 @@
         "en": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||",
         "ka": "ತಸ್ಮಾನ್ನಾರ್ಹಾ ವಯಂ ಹನ್ತುಂ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ಸ್ವಬಾನ್ಧವಾನ್ |\nಸ್ವಜನಂ ಹಿ ಕಥಂ ಹತ್ವಾ ಸುಖಿನಃ ಸ್ಯಾಮ ಮಾಧವ ||೧-೩೭||"
     },
-    "transliteration": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||",
-    "life_application": "Seek peaceful resolution over conflict whenever possible, realizing that victory built on destruction brings no joy.",
+    "transliteration": {
+        "hi": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||",
+        "en": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||",
+        "be": "তস্মান্নার্হা বযং হন্তুং ধার্তরাষ্ট্রান্স্ববান্ধবান্ |\nস্বজনং হি কথং হত্বা সুখিনঃ স্যাম মাধব ||১-৩৭||",
+        "ka": "ತಸ್ಮಾನ್ನಾರ್ಹಾ ವಯಂ ಹನ್ತುಂ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ಸ್ವಬಾನ್ಧವಾನ್ |\nಸ್ವಜನಂ ಹಿ ಕಥಂ ಹತ್ವಾ ಸುಖಿನಃ ಸ್ಯಾಮ ಮಾಧವ ||೧-೩೭||"
+    },
+    "life_application": {
+        "hi": "जब भी संभव हो संघर्ष पर शांतिपूर्ण समाधान की तलाश करें, यह महसूस करते हुए कि विनाश पर बनी जीत कोई खुशी नहीं लाती है।",
+        "en": "Seek peaceful resolution over conflict whenever possible, realizing that victory built on destruction brings no joy.",
+        "be": "যখনই সম্ভব সংঘাতের শান্তিপূর্ণ সমাধান সন্ধান করুন, এই উপলব্ধি যে ধ্বংসের উপর নির্মিত বিজয় কোন আনন্দ নিয়ে আসে না।",
+        "ka": "ಸಾಧ್ಯವಾದಾಗಲೆಲ್ಲಾ ಸಂಘರ್ಷದ ಮೇಲೆ ಶಾಂತಿಯುತ ಪರಿಹಾರವನ್ನು ಹುಡುಕುವುದು, ವಿನಾಶದ ಮೇಲೆ ನಿರ್ಮಿಸಲಾದ ವಿಜಯವು ಯಾವುದೇ ಸಂತೋಷವನ್ನು ತರುವುದಿಲ್ಲ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Equanimity",
         "Dharma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अर्हाः",
-            "transliteration": "arhāḥ",
-            "meaning": "proper"
+            "transliteration": {
+                "hi": "अर्हाः",
+                "en": "arhāḥ",
+                "be": "অর্হাঃ",
+                "ka": "ಅರ್ಹಾಃ"
+            },
+            "meaning": {
+                "hi": "उचित",
+                "en": "proper",
+                "be": "যথাযথ",
+                "ka": "ಸರಿಯಾದ"
+            }
         },
         {
             "sanskrit": "वयम्",
-            "transliteration": "vayam",
-            "meaning": "we"
+            "transliteration": {
+                "hi": "वयम्",
+                "en": "vayam",
+                "be": "বযম্",
+                "ka": "ವಯಮ್"
+            },
+            "meaning": {
+                "hi": "हम",
+                "en": "we",
+                "be": "আমরা",
+                "ka": "ನಾವು"
+            }
         },
         {
             "sanskrit": "हन्तुम्",
-            "transliteration": "hantum",
-            "meaning": "to kill"
+            "transliteration": {
+                "hi": "हन्तुम्",
+                "en": "hantum",
+                "be": "হন্তুম্",
+                "ka": "ಹನ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "मारना",
+                "en": "to kill",
+                "be": "হত্যা করতে",
+                "ka": "ಕೊಲ್ಲಲು"
+            }
         },
         {
             "sanskrit": "धार्तराष्ट्रान्",
-            "transliteration": "dhārtarāṣṭrān",
-            "meaning": "sons of Dhritarashtra"
+            "transliteration": {
+                "hi": "धार्तराष्ट्रान्",
+                "en": "dhārtarāṣṭrān",
+                "be": "ধার্তরাষ্ট্রান্",
+                "ka": "ಧಾರ್ತರಾಷ್ಟ್ರಾನ್"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र के पुत्र",
+                "en": "sons of Dhritarashtra",
+                "be": "ধৃতরাষ্ট্রের পুত্র",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "स्वबान्धवान्",
-            "transliteration": "svabāndhavān",
-            "meaning": "our own kinsmen"
+            "transliteration": {
+                "hi": "स्वबान्धवान्",
+                "en": "svabāndhavān",
+                "be": "স্ববান্ধবান্",
+                "ka": "ಸ್ವಬಾನ್ಧವಾನ್"
+            },
+            "meaning": {
+                "hi": "हमारे अपने रिश्तेदार",
+                "en": "our own kinsmen",
+                "be": "আমাদের আত্মীয়স্বজন",
+                "ka": "ನಮ್ಮ ಸ್ವಂತ ಬಂಧುಗಳು"
+            }
         },
         {
             "sanskrit": "स्वजनम्",
-            "transliteration": "svajanam",
-            "meaning": "own relatives"
+            "transliteration": {
+                "hi": "स्वजनम्",
+                "en": "svajanam",
+                "be": "স্বজনম্",
+                "ka": "ಸ್ವಜನಮ್"
+            },
+            "meaning": {
+                "hi": "अपने रिश्तेदार",
+                "en": "own relatives",
+                "be": "নিজের আত্মীয়স্বজন",
+                "ka": "ಸ್ವಂತ ಸಂಬಂಧಿಕರು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "कथम्",
-            "transliteration": "katham",
-            "meaning": "how"
+            "transliteration": {
+                "hi": "कथम्",
+                "en": "katham",
+                "be": "কথম্",
+                "ka": "ಕಥಮ್"
+            },
+            "meaning": {
+                "hi": "कैसे",
+                "en": "how",
+                "be": "কিভাবে",
+                "ka": "ಹೇಗೆ"
+            }
         },
         {
             "sanskrit": "हत्वा",
-            "transliteration": "hatvā",
-            "meaning": "killing"
+            "transliteration": {
+                "hi": "हत्वा",
+                "en": "hatvā",
+                "be": "হত্বা",
+                "ka": "ಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "हत्या",
+                "en": "killing",
+                "be": "হত্যা",
+                "ka": "ಕೊಲ್ಲುವುದು"
+            }
         },
         {
             "sanskrit": "सुखिनः",
-            "transliteration": "sukhinaḥ",
-            "meaning": "happy"
+            "transliteration": {
+                "hi": "सुखिनः",
+                "en": "sukhinaḥ",
+                "be": "সুখিনঃ",
+                "ka": "ಸುಖಿನಃ"
+            },
+            "meaning": {
+                "hi": "खुश",
+                "en": "happy",
+                "be": "খুশি",
+                "ka": "ಸಂತೋಷವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "स्याम",
-            "transliteration": "syāma",
-            "meaning": "may we be"
+            "transliteration": {
+                "hi": "स्याम",
+                "en": "syāma",
+                "be": "স্যাম",
+                "ka": "ಸ್ಯಾಮ"
+            },
+            "meaning": {
+                "hi": "क्या हम हो सकते हैं?",
+                "en": "may we be",
+                "be": "আমরা হতে পারে",
+                "ka": "ನಾವು ಇರಬಹುದು"
+            }
         },
         {
             "sanskrit": "माधव",
-            "transliteration": "mādhava",
-            "meaning": "O Madhava"
+            "transliteration": {
+                "hi": "माधव",
+                "en": "mādhava",
+                "be": "মাধব",
+                "ka": "ಮಾಧವ"
+            },
+            "meaning": {
+                "hi": "हे माधव!",
+                "en": "O Madhava",
+                "be": "হে মাধব",
+                "ka": "ಓ ಮಾಧವ"
+            }
         }
     ],
     "tej": {

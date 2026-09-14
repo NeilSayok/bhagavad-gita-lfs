@@ -14,8 +14,18 @@
         "en": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||1-36||",
         "ka": "ನಿಹತ್ಯ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ನಃ ಕಾ ಪ್ರೀತಿಃ ಸ್ಯಾಜ್ಜನಾರ್ದನ |\nಪಾಪಮೇವಾಶ್ರಯೇದಸ್ಮಾನ್ಹತ್ವೈತಾನಾತತಾಯಿನಃ ||೧-೩೬||"
     },
-    "transliteration": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||1-36||",
-    "life_application": "Consider the long-term spiritual and emotional consequences of retaliation before reacting to those who wrong you.",
+    "transliteration": {
+        "hi": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन |\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||",
+        "en": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||1-36||",
+        "be": "নিহত্য ধার্তরাষ্ট্রান্নঃ কা প্রীতিঃ স্যাজ্জনার্দন |\nপাপমেবাশ্রযেদস্মান্হত্বৈতানাততাযিনঃ ||১-৩৬||",
+        "ka": "ನಿಹತ್ಯ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ನಃ ಕಾ ಪ್ರೀತಿಃ ಸ್ಯಾಜ್ಜನಾರ್ದನ |\nಪಾಪಮೇವಾಶ್ರಯೇದಸ್ಮಾನ್ಹತ್ವೈತಾನಾತತಾಯಿನಃ ||೧-೩೬||"
+    },
+    "life_application": {
+        "hi": "जो लोग आपके साथ गलत करते हैं उन पर प्रतिक्रिया करने से पहले प्रतिशोध के दीर्घकालिक आध्यात्मिक और भावनात्मक परिणामों पर विचार करें।",
+        "en": "Consider the long-term spiritual and emotional consequences of retaliation before reacting to those who wrong you.",
+        "be": "যারা আপনাকে অন্যায় করে তাদের প্রতি প্রতিক্রিয়া জানানোর আগে প্রতিশোধের দীর্ঘমেয়াদী আধ্যাত্মিক এবং মানসিক পরিণতি বিবেচনা করুন।",
+        "ka": "ನಿಮಗೆ ತಪ್ಪು ಮಾಡುವವರಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುವ ಮೊದಲು ಪ್ರತೀಕಾರದ ದೀರ್ಘಾವಧಿಯ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಪರಿಣಾಮಗಳನ್ನು ಪರಿಗಣಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Dharma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "निहत्य",
-            "transliteration": "nihatya",
-            "meaning": "having slain"
+            "transliteration": {
+                "hi": "निहत्य",
+                "en": "nihatya",
+                "be": "নিহত্য",
+                "ka": "ನಿಹತ್ಯ"
+            },
+            "meaning": {
+                "hi": "मारा जा रहा है",
+                "en": "having slain",
+                "be": "নিহত হচ্ছে",
+                "ka": "ಕೊಂದಿದೆ"
+            }
         },
         {
             "sanskrit": "धार्तराष्ट्रान्",
-            "transliteration": "dhārtarāṣṭrān",
-            "meaning": "sons of Dhritarashtra"
+            "transliteration": {
+                "hi": "धार्तराष्ट्रान्",
+                "en": "dhārtarāṣṭrān",
+                "be": "ধার্তরাষ্ট্রান্",
+                "ka": "ಧಾರ್ತರಾಷ್ಟ್ರಾನ್"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र के पुत्र",
+                "en": "sons of Dhritarashtra",
+                "be": "ধৃতরাষ্ট্রের পুত্র",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "नः",
-            "transliteration": "naḥ",
-            "meaning": "to us"
+            "transliteration": {
+                "hi": "नः",
+                "en": "naḥ",
+                "be": "নঃ",
+                "ka": "ನಃ"
+            },
+            "meaning": {
+                "hi": "हमारे लिए",
+                "en": "to us",
+                "be": "আমাদের কাছে",
+                "ka": "ನಮಗೆ"
+            }
         },
         {
             "sanskrit": "का",
-            "transliteration": "kā",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "का",
+                "en": "kā",
+                "be": "কা",
+                "ka": "ಕಾ"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "प्रीतिः",
-            "transliteration": "prītiḥ",
-            "meaning": "pleasure"
+            "transliteration": {
+                "hi": "प्रीतिः",
+                "en": "prītiḥ",
+                "be": "প্রীতিঃ",
+                "ka": "ಪ್ರೀತಿಃ"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "pleasure",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "स्यात्",
-            "transliteration": "syāt",
-            "meaning": "would be"
+            "transliteration": {
+                "hi": "स्यात्",
+                "en": "syāt",
+                "be": "স্যাত্",
+                "ka": "ಸ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "would be",
+                "be": "হবে",
+                "ka": "ಆಗಿರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "जनार्दन",
-            "transliteration": "janārdana",
-            "meaning": "O Janardana"
+            "transliteration": {
+                "hi": "जनार्दन",
+                "en": "janārdana",
+                "be": "জনার্দন",
+                "ka": "ಜನಾರ್ದನ"
+            },
+            "meaning": {
+                "hi": "हे जनार्दन!",
+                "en": "O Janardana",
+                "be": "হে জনার্দন",
+                "ka": "ಓ ಜನಾರ್ದನ"
+            }
         },
         {
             "sanskrit": "पापम्",
-            "transliteration": "pāpam",
-            "meaning": "sin"
+            "transliteration": {
+                "hi": "पापम्",
+                "en": "pāpam",
+                "be": "পাপম্",
+                "ka": "ಪಾಪಮ್"
+            },
+            "meaning": {
+                "hi": "पाप",
+                "en": "sin",
+                "be": "পাপ",
+                "ka": "ಪಾಪ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "आश्रयेत्",
-            "transliteration": "āśrayet",
-            "meaning": "would cling"
+            "transliteration": {
+                "hi": "आश्रयेत्",
+                "en": "āśrayet",
+                "be": "আশ্রযেত্",
+                "ka": "ಆಶ್ರಯೇತ್"
+            },
+            "meaning": {
+                "hi": "चिपक जाएगा",
+                "en": "would cling",
+                "be": "আঁকড়ে থাকবে",
+                "ka": "ಅಂಟಿಕೊಳ್ಳುತ್ತಿದ್ದರು"
+            }
         },
         {
             "sanskrit": "अस्मान्",
-            "transliteration": "asmān",
-            "meaning": "to us"
+            "transliteration": {
+                "hi": "अस्मान्",
+                "en": "asmān",
+                "be": "অস্মান্",
+                "ka": "ಅಸ್ಮಾನ್"
+            },
+            "meaning": {
+                "hi": "हमारे लिए",
+                "en": "to us",
+                "be": "আমাদের কাছে",
+                "ka": "ನಮಗೆ"
+            }
         },
         {
             "sanskrit": "हत्वा",
-            "transliteration": "hatvā",
-            "meaning": "slaying"
+            "transliteration": {
+                "hi": "हत्वा",
+                "en": "hatvā",
+                "be": "হত্বা",
+                "ka": "ಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "हत्या करना",
+                "en": "slaying",
+                "be": "হত্যা",
+                "ka": "ಕೊಲ್ಲುವುದು"
+            }
         },
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "आततायिनः",
-            "transliteration": "ātatāyinaḥ",
-            "meaning": "aggressors"
+            "transliteration": {
+                "hi": "आततायिनः",
+                "en": "ātatāyinaḥ",
+                "be": "আততাযিনঃ",
+                "ka": "ಆತತಾಯಿನಃ"
+            },
+            "meaning": {
+                "hi": "आक्रामक",
+                "en": "aggressors",
+                "be": "আগ্রাসী",
+                "ka": "ಆಕ್ರಮಣಕಾರರು"
+            }
         }
     ],
     "tej": {

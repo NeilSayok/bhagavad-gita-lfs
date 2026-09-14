@@ -14,8 +14,18 @@
         "en": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||1-30||",
         "ka": "ಗಾಣ್ಡೀವಂ ಸ್ರಂಸತೇ ಹಸ್ತಾತ್ತ್ವಕ್ಚೈವ ಪರಿದಹ್ಯತೇ |\nನ ಚ ಶಕ್ನೋಮ್ಯವಸ್ಥಾತುಂ ಭ್ರಮತೀವ ಚ ಮೇ ಮನಃ ||೧-೩೦||"
     },
-    "transliteration": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||1-30||",
-    "life_application": "Give yourself permission to pause when emotional turmoil threatens to sweep away your self-control.",
+    "transliteration": {
+        "hi": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||",
+        "en": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||1-30||",
+        "be": "গাণ্ডীবং স্রংসতে হস্তাত্ত্বক্চৈব পরিদহ্যতে |\nন চ শক্নোম্যবস্থাতুং ভ্রমতীব চ মে মনঃ ||১-৩০||",
+        "ka": "ಗಾಣ್ಡೀವಂ ಸ್ರಂಸತೇ ಹಸ್ತಾತ್ತ್ವಕ್ಚೈವ ಪರಿದಹ್ಯತೇ |\nನ ಚ ಶಕ್ನೋಮ್ಯವಸ್ಥಾತುಂ ಭ್ರಮತೀವ ಚ ಮೇ ಮನಃ ||೧-೩೦||"
+    },
+    "life_application": {
+        "hi": "जब भावनात्मक उथल-पुथल आपके आत्म-नियंत्रण को खत्म करने का खतरा पैदा कर दे तो खुद को रुकने की अनुमति दें।",
+        "en": "Give yourself permission to pause when emotional turmoil threatens to sweep away your self-control.",
+        "be": "মানসিক অশান্তি যখন আপনার আত্ম-নিয়ন্ত্রণকে দূরে সরিয়ে দেওয়ার হুমকি দেয় তখন নিজেকে বিরতি দেওয়ার অনুমতি দিন।",
+        "ka": "ಭಾವನಾತ್ಮಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯು ನಿಮ್ಮ ಸ್ವಯಂ ನಿಯಂತ್ರಣವನ್ನು ಅಳಿಸಿಹಾಕಲು ಬೆದರಿಕೆ ಹಾಕಿದಾಗ ವಿರಾಮಗೊಳಿಸಲು ನಿಮಗೆ ಅನುಮತಿ ನೀಡಿ."
+    },
     "themes": [
         "Mind",
         "Fear"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "गाण्डीवम्",
-            "transliteration": "gāṇḍīvam",
-            "meaning": "Gandiva bow"
+            "transliteration": {
+                "hi": "गाण्डीवम्",
+                "en": "gāṇḍīvam",
+                "be": "গাণ্ডীবম্",
+                "ka": "ಗಾಣ್ಡೀವಮ್"
+            },
+            "meaning": {
+                "hi": "गांडीव धनुष",
+                "en": "Gandiva bow",
+                "be": "গাণ্ডীব নম",
+                "ka": "ಗಾಂಡೀವ ಬಿಲ್ಲು"
+            }
         },
         {
             "sanskrit": "स्रंसते",
-            "transliteration": "sraṁsate",
-            "meaning": "slips"
+            "transliteration": {
+                "hi": "स्रंसते",
+                "en": "sraṁsate",
+                "be": "স্রংসতে",
+                "ka": "ಸ್ರಂಸತೇ"
+            },
+            "meaning": {
+                "hi": "फिसल जाता है",
+                "en": "slips",
+                "be": "স্লিপ",
+                "ka": "ಜಾರಿಕೊಳ್ಳುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "हस्तात्",
-            "transliteration": "hastāt",
-            "meaning": "from hand"
+            "transliteration": {
+                "hi": "हस्तात्",
+                "en": "hastāt",
+                "be": "হস্তাত্",
+                "ka": "ಹಸ್ತಾತ್"
+            },
+            "meaning": {
+                "hi": "हाथ से",
+                "en": "from hand",
+                "be": "হাত থেকে",
+                "ka": "ಕೈಯಿಂದ"
+            }
         },
         {
             "sanskrit": "त्वक्",
-            "transliteration": "tvak",
-            "meaning": "skin"
+            "transliteration": {
+                "hi": "त्वक्",
+                "en": "tvak",
+                "be": "ত্বক্",
+                "ka": "ತ್ವಕ್"
+            },
+            "meaning": {
+                "hi": "त्वचा",
+                "en": "skin",
+                "be": "চামড়া",
+                "ka": "ಚರ್ಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "परिदह्यते",
-            "transliteration": "paridahyate",
-            "meaning": "burns"
+            "transliteration": {
+                "hi": "परिदह्यते",
+                "en": "paridahyate",
+                "be": "পরিদহ্যতে",
+                "ka": "ಪರಿದಹ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "जलता है",
+                "en": "burns",
+                "be": "পোড়া",
+                "ka": "ಸುಡುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शक्नोमि",
-            "transliteration": "śaknomi",
-            "meaning": "I am able"
+            "transliteration": {
+                "hi": "शक्नोमि",
+                "en": "śaknomi",
+                "be": "শক্নোমি",
+                "ka": "ಶಕ್ನೋಮಿ"
+            },
+            "meaning": {
+                "hi": "मैं सक्षम हूं",
+                "en": "I am able",
+                "be": "আমি সক্ষম",
+                "ka": "ನಾನು ಸಮರ್ಥನಾಗಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "अवस्थातुम्",
-            "transliteration": "avasthātum",
-            "meaning": "to stand"
+            "transliteration": {
+                "hi": "अवस्थातुम्",
+                "en": "avasthātum",
+                "be": "অবস্থাতুম্",
+                "ka": "ಅವಸ್ಥಾತುಮ್"
+            },
+            "meaning": {
+                "hi": "खड़ा होना",
+                "en": "to stand",
+                "be": "দাঁড়ানো",
+                "ka": "ನಿಲ್ಲಲು"
+            }
         },
         {
             "sanskrit": "भ्रमति",
-            "transliteration": "bhramati",
-            "meaning": "reels"
+            "transliteration": {
+                "hi": "भ्रमति",
+                "en": "bhramati",
+                "be": "ভ্রমতি",
+                "ka": "ಭ್ರಮತಿ"
+            },
+            "meaning": {
+                "hi": "रीलों",
+                "en": "reels",
+                "be": "রিল",
+                "ka": "ಸುರುಳಿಗಳು"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "as if"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "मानो",
+                "en": "as if",
+                "be": "যেন",
+                "ka": "ಎಂಬಂತೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||",
         "ka": "ಯೇಷಾಮರ್ಥೇ ಕಾಙ್ಕ್ಷಿತಂ ನೋ ರಾಜ್ಯಂ ಭೋಗಾಃ ಸುಖಾನಿ ಚ |\nತ ಇಮೇಽವಸ್ಥಿತಾ ಯುದ್ಧೇ ಪ್ರಾಣಾಂಸ್ತ್ಯಕ್ತ್ವಾ ಧನಾನಿ ಚ ||೧-೩೩||"
     },
-    "transliteration": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||",
-    "life_application": "Reflect on whether your ambitions truly serve the well-being of the people you care about most.",
+    "transliteration": {
+        "hi": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||",
+        "en": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||",
+        "be": "যেষামর্থে কাঙ্ক্ষিতং নো রাজ্যং ভোগাঃ সুখানি চ |\nত ইমেঽবস্থিতা যুদ্ধে প্রাণাংস্ত্যক্ত্বা ধনানি চ ||১-৩৩||",
+        "ka": "ಯೇಷಾಮರ್ಥೇ ಕಾಙ್ಕ್ಷಿತಂ ನೋ ರಾಜ್ಯಂ ಭೋಗಾಃ ಸುಖಾನಿ ಚ |\nತ ಇಮೇಽವಸ್ಥಿತಾ ಯುದ್ಧೇ ಪ್ರಾಣಾಂಸ್ತ್ಯಕ್ತ್ವಾ ಧನಾನಿ ಚ ||೧-೩೩||"
+    },
+    "life_application": {
+        "hi": "इस पर विचार करें कि क्या आपकी महत्वाकांक्षाएं वास्तव में उन लोगों की भलाई के लिए हैं जिनकी आप सबसे अधिक परवाह करते हैं।",
+        "en": "Reflect on whether your ambitions truly serve the well-being of the people you care about most.",
+        "be": "আপনার উচ্চাকাঙ্ক্ষাগুলি সত্যিকার অর্থে আপনার সবচেয়ে বেশি যত্নশীল লোকদের মঙ্গল করে কিনা তা প্রতিফলিত করুন।",
+        "ka": "ನಿಮ್ಮ ಮಹತ್ವಾಕಾಂಕ್ಷೆಗಳು ನೀವು ಹೆಚ್ಚು ಕಾಳಜಿವಹಿಸುವ ಜನರ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ನಿಜವಾಗಿಯೂ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತವೆಯೇ ಎಂಬುದನ್ನು ಪ್ರತಿಬಿಂಬಿಸಿ."
+    },
     "themes": [
         "Attachment",
         "Purpose"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "येषाम्",
-            "transliteration": "yeṣām",
-            "meaning": "for whose"
+            "transliteration": {
+                "hi": "येषाम्",
+                "en": "yeṣām",
+                "be": "যেষাম্",
+                "ka": "ಯೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "किसके लिए",
+                "en": "for whose",
+                "be": "কার জন্য",
+                "ka": "ಯಾರಿಗಾಗಿ"
+            }
         },
         {
             "sanskrit": "अर्थे",
-            "transliteration": "arthe",
-            "meaning": "sake"
+            "transliteration": {
+                "hi": "अर्थे",
+                "en": "arthe",
+                "be": "অর্থে",
+                "ka": "ಅರ್ಥೇ"
+            },
+            "meaning": {
+                "hi": "खातिर",
+                "en": "sake",
+                "be": "খাতির",
+                "ka": "ಸಲುವಾಗಿ"
+            }
         },
         {
             "sanskrit": "काङ्क्षितम्",
-            "transliteration": "kāṅkṣitam",
-            "meaning": "desired"
+            "transliteration": {
+                "hi": "काङ्क्षितम्",
+                "en": "kāṅkṣitam",
+                "be": "কাঙ্ক্ষিতম্",
+                "ka": "ಕಾಙ್ಕ್ಷಿತಮ್"
+            },
+            "meaning": {
+                "hi": "वांछित",
+                "en": "desired",
+                "be": "কাঙ্ক্ষিত",
+                "ka": "ಬಯಸಿದ"
+            }
         },
         {
             "sanskrit": "नः",
-            "transliteration": "naḥ",
-            "meaning": "by us"
+            "transliteration": {
+                "hi": "नः",
+                "en": "naḥ",
+                "be": "নঃ",
+                "ka": "ನಃ"
+            },
+            "meaning": {
+                "hi": "हमारे द्वारा",
+                "en": "by us",
+                "be": "আমাদের দ্বারা",
+                "ka": "ನಮ್ಮಿಂದ"
+            }
         },
         {
             "sanskrit": "राज्यम्",
-            "transliteration": "rājyam",
-            "meaning": "kingdom"
+            "transliteration": {
+                "hi": "राज्यम्",
+                "en": "rājyam",
+                "be": "রাজ্যম্",
+                "ka": "ರಾಜ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "साम्राज्य",
+                "en": "kingdom",
+                "be": "রাজ্য",
+                "ka": "ಸಾಮ್ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "भोगाः",
-            "transliteration": "bhogāḥ",
-            "meaning": "enjoyments"
+            "transliteration": {
+                "hi": "भोगाः",
+                "en": "bhogāḥ",
+                "be": "ভোগাঃ",
+                "ka": "ಭೋಗಾಃ"
+            },
+            "meaning": {
+                "hi": "आनंद",
+                "en": "enjoyments",
+                "be": "উপভোগ",
+                "ka": "ಸಂತೋಷಗಳು"
+            }
         },
         {
             "sanskrit": "सुखानि",
-            "transliteration": "sukhāni",
-            "meaning": "pleasures"
+            "transliteration": {
+                "hi": "सुखानि",
+                "en": "sukhāni",
+                "be": "সুখানি",
+                "ka": "ಸುಖಾನಿ"
+            },
+            "meaning": {
+                "hi": "सुख",
+                "en": "pleasures",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "इमे",
-            "transliteration": "ime",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इमे",
+                "en": "ime",
+                "be": "ইমে",
+                "ka": "ಇಮೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "अवस्थिताः",
-            "transliteration": "avasthitāḥ",
-            "meaning": "stand"
+            "transliteration": {
+                "hi": "अवस्थिताः",
+                "en": "avasthitāḥ",
+                "be": "অবস্থিতাঃ",
+                "ka": "ಅವಸ್ಥಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "खड़ा होना",
+                "en": "stand",
+                "be": "দাঁড়ানো",
+                "ka": "ನಿಲ್ಲು"
+            }
         },
         {
             "sanskrit": "युद्धे",
-            "transliteration": "yuddhe",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "युद्धे",
+                "en": "yuddhe",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्राणान्",
-            "transliteration": "prāṇān",
-            "meaning": "lives"
+            "transliteration": {
+                "hi": "प्राणान्",
+                "en": "prāṇān",
+                "be": "প্রাণান্",
+                "ka": "ಪ್ರಾಣಾನ್"
+            },
+            "meaning": {
+                "hi": "रहता है",
+                "en": "lives",
+                "be": "জীবন",
+                "ka": "ಜೀವಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "abandoning"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्यागना",
+                "en": "abandoning",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "धनानि",
-            "transliteration": "dhanāni",
-            "meaning": "wealth"
+            "transliteration": {
+                "hi": "धनानि",
+                "en": "dhanāni",
+                "be": "ধনানি",
+                "ka": "ಧನಾನಿ"
+            },
+            "meaning": {
+                "hi": "धन",
+                "en": "wealth",
+                "be": "সম্পদ",
+                "ka": "ಸಂಪತ್ತು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         }
     ],
     "tej": {

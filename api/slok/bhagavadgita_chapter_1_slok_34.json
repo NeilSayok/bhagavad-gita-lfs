@@ -14,8 +14,18 @@
         "en": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||1-34||",
         "ka": "ಆಚಾರ್ಯಾಃ ಪಿತರಃ ಪುತ್ರಾಸ್ತಥೈವ ಚ ಪಿತಾಮಹಾಃ |\nಮಾತುಲಾಃ ಶ್ವಶುರಾಃ ಪೌತ್ರಾಃ ಶ್ಯಾಲಾಃ ಸಮ್ಬನ್ಧಿನಸ್ತಥಾ ||೧-೩೪||"
     },
-    "transliteration": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||1-34||",
-    "life_application": "Consider how your choices affect your family and community before taking actions driven by personal ambition.",
+    "transliteration": {
+        "hi": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः |\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||",
+        "en": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||1-34||",
+        "be": "আচার্যাঃ পিতরঃ পুত্রাস্তথৈব চ পিতামহাঃ |\nমাতুলাঃ শ্বশুরাঃ পৌত্রাঃ শ্যালাঃ সম্বন্ধিনস্তথা ||১-৩৪||",
+        "ka": "ಆಚಾರ್ಯಾಃ ಪಿತರಃ ಪುತ್ರಾಸ್ತಥೈವ ಚ ಪಿತಾಮಹಾಃ |\nಮಾತುಲಾಃ ಶ್ವಶುರಾಃ ಪೌತ್ರಾಃ ಶ್ಯಾಲಾಃ ಸಮ್ಬನ್ಧಿನಸ್ತಥಾ ||೧-೩೪||"
+    },
+    "life_application": {
+        "hi": "व्यक्तिगत महत्वाकांक्षा से प्रेरित कार्य करने से पहले विचार करें कि आपकी पसंद आपके परिवार और समुदाय को कैसे प्रभावित करती है।",
+        "en": "Consider how your choices affect your family and community before taking actions driven by personal ambition.",
+        "be": "ব্যক্তিগত উচ্চাকাঙ্ক্ষা দ্বারা চালিত পদক্ষেপ নেওয়ার আগে আপনার পছন্দগুলি কীভাবে আপনার পরিবার এবং সম্প্রদায়কে প্রভাবিত করে তা বিবেচনা করুন।",
+        "ka": "ವೈಯಕ್ತಿಕ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯಿಂದ ಪ್ರೇರಿತವಾದ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ನಿಮ್ಮ ಆಯ್ಕೆಗಳು ನಿಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಸಮುದಾಯದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂಬುದನ್ನು ಪರಿಗಣಿಸಿ."
+    },
     "themes": [
         "Attachment",
         "Duty"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "आचार्याः",
-            "transliteration": "ācāryāḥ",
-            "meaning": "teachers"
+            "transliteration": {
+                "hi": "आचार्याः",
+                "en": "ācāryāḥ",
+                "be": "আচার্যাঃ",
+                "ka": "ಆಚಾರ್ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "शिक्षक",
+                "en": "teachers",
+                "be": "শিক্ষক",
+                "ka": "ಶಿಕ್ಷಕರು"
+            }
         },
         {
             "sanskrit": "पितरः",
-            "transliteration": "pitaraḥ",
-            "meaning": "fathers"
+            "transliteration": {
+                "hi": "पितरः",
+                "en": "pitaraḥ",
+                "be": "পিতরঃ",
+                "ka": "ಪಿತರಃ"
+            },
+            "meaning": {
+                "hi": "पिता",
+                "en": "fathers",
+                "be": "পিতাদের",
+                "ka": "ತಂದೆಯರು"
+            }
         },
         {
             "sanskrit": "पुत्राः",
-            "transliteration": "putrāḥ",
-            "meaning": "sons"
+            "transliteration": {
+                "hi": "पुत्राः",
+                "en": "putrāḥ",
+                "be": "পুত্রাঃ",
+                "ka": "ಪುತ್ರಾಃ"
+            },
+            "meaning": {
+                "hi": "बेटे",
+                "en": "sons",
+                "be": "ছেলেদের",
+                "ka": "ಪುತ್ರರು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "as well as"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "साथ ही साथ",
+                "en": "as well as",
+                "be": "সেইসাথে",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पितामहाः",
-            "transliteration": "pitāmahāḥ",
-            "meaning": "grandfathers"
+            "transliteration": {
+                "hi": "पितामहाः",
+                "en": "pitāmahāḥ",
+                "be": "পিতামহাঃ",
+                "ka": "ಪಿತಾಮಹಾಃ"
+            },
+            "meaning": {
+                "hi": "दादा",
+                "en": "grandfathers",
+                "be": "দাদা",
+                "ka": "ಅಜ್ಜಂದಿರು"
+            }
         },
         {
             "sanskrit": "मातुलाः",
-            "transliteration": "mātulāḥ",
-            "meaning": "maternal uncles"
+            "transliteration": {
+                "hi": "मातुलाः",
+                "en": "mātulāḥ",
+                "be": "মাতুলাঃ",
+                "ka": "ಮಾತುಲಾಃ"
+            },
+            "meaning": {
+                "hi": "मामा",
+                "en": "maternal uncles",
+                "be": "মামারা",
+                "ka": "ತಾಯಿಯ ಚಿಕ್ಕಪ್ಪ"
+            }
         },
         {
             "sanskrit": "श्वशुराः",
-            "transliteration": "śvaśurāḥ",
-            "meaning": "fathers-in-law"
+            "transliteration": {
+                "hi": "श्वशुराः",
+                "en": "śvaśurāḥ",
+                "be": "শ্বশুরাঃ",
+                "ka": "ಶ್ವಶುರಾಃ"
+            },
+            "meaning": {
+                "hi": "ससुर",
+                "en": "fathers-in-law",
+                "be": "শ্বশুর",
+                "ka": "ಮಾವಂದಿರು"
+            }
         },
         {
             "sanskrit": "पौत्राः",
-            "transliteration": "pautrāḥ",
-            "meaning": "grandsons"
+            "transliteration": {
+                "hi": "पौत्राः",
+                "en": "pautrāḥ",
+                "be": "পৌত্রাঃ",
+                "ka": "ಪೌತ್ರಾಃ"
+            },
+            "meaning": {
+                "hi": "पोते",
+                "en": "grandsons",
+                "be": "নাতি",
+                "ka": "ಮೊಮ್ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "स्यालाः",
-            "transliteration": "syālāḥ",
-            "meaning": "brothers-in-law"
+            "transliteration": {
+                "hi": "स्यालाः",
+                "en": "syālāḥ",
+                "be": "স্যালাঃ",
+                "ka": "ಸ್ಯಾಲಾಃ"
+            },
+            "meaning": {
+                "hi": "जीजाजी",
+                "en": "brothers-in-law",
+                "be": "শ্যালক",
+                "ka": "ಅಣ್ಣ-ತಮ್ಮಂದಿರು"
+            }
         },
         {
             "sanskrit": "सम्बन्धिनः",
-            "transliteration": "sambandhinaḥ",
-            "meaning": "relatives"
+            "transliteration": {
+                "hi": "सम्बन्धिनः",
+                "en": "sambandhinaḥ",
+                "be": "সম্বন্ধিনঃ",
+                "ka": "ಸಮ್ಬನ್ಧಿನಃ"
+            },
+            "meaning": {
+                "hi": "रिश्तेदार",
+                "en": "relatives",
+                "be": "আত্মীয়",
+                "ka": "ಸಂಬಂಧಿಕರು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "as well"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "as well",
+                "be": "পাশাপাশি",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         }
     ],
     "tej": {

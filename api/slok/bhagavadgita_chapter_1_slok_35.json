@@ -14,8 +14,18 @@
         "en": "etānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||1-35||",
         "ka": "ಏತಾನ್ನ ಹನ್ತುಮಿಚ್ಛಾಮಿ ಘ್ನತೋಽಪಿ ಮಧುಸೂದನ |\nಅಪಿ ತ್ರೈಲೋಕ್ಯರಾಜ್ಯಸ್ಯ ಹೇತೋಃ ಕಿಂ ನು ಮಹೀಕೃತೇ ||೧-೩೫||"
     },
-    "transliteration": "etānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||1-35||",
-    "life_application": "Refuse to compromise your ethical principles for material gain, no matter how great the reward seems.",
+    "transliteration": {
+        "hi": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||",
+        "en": "etānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||1-35||",
+        "be": "এতান্ন হন্তুমিচ্ছামি ঘ্নতোঽপি মধুসূদন |\nঅপি ত্রৈলোক্যরাজ্যস্য হেতোঃ কিং নু মহীকৃতে ||১-৩৫||",
+        "ka": "ಏತಾನ್ನ ಹನ್ತುಮಿಚ್ಛಾಮಿ ಘ್ನತೋಽಪಿ ಮಧುಸೂದನ |\nಅಪಿ ತ್ರೈಲೋಕ್ಯರಾಜ್ಯಸ್ಯ ಹೇತೋಃ ಕಿಂ ನು ಮಹೀಕೃತೇ ||೧-೩೫||"
+    },
+    "life_application": {
+        "hi": "भौतिक लाभ के लिए अपने नैतिक सिद्धांतों से समझौता करने से इंकार करें, चाहे इनाम कितना भी बड़ा क्यों न लगे।",
+        "en": "Refuse to compromise your ethical principles for material gain, no matter how great the reward seems.",
+        "be": "বস্তুগত লাভের জন্য আপনার নৈতিক নীতির সাথে আপস করতে অস্বীকার করুন, পুরস্কার যতই বড় মনে হোক না কেন।",
+        "ka": "ವಸ್ತು ಲಾಭಕ್ಕಾಗಿ ನಿಮ್ಮ ನೈತಿಕ ತತ್ವಗಳನ್ನು ರಾಜಿ ಮಾಡಿಕೊಳ್ಳಲು ನಿರಾಕರಿಸಿ, ಪ್ರತಿಫಲವು ಎಷ್ಟೇ ದೊಡ್ಡದಾಗಿ ತೋರುತ್ತದೆಯಾದರೂ."
+    },
     "themes": [
         "Detachment",
         "Dharma"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हन्तुम्",
-            "transliteration": "hantum",
-            "meaning": "to kill"
+            "transliteration": {
+                "hi": "हन्तुम्",
+                "en": "hantum",
+                "be": "হন্তুম্",
+                "ka": "ಹನ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "मारना",
+                "en": "to kill",
+                "be": "হত্যা করতে",
+                "ka": "ಕೊಲ್ಲಲು"
+            }
         },
         {
             "sanskrit": "इच्छामि",
-            "transliteration": "icchāmi",
-            "meaning": "I wish"
+            "transliteration": {
+                "hi": "इच्छामि",
+                "en": "icchāmi",
+                "be": "ইচ্ছামি",
+                "ka": "ಇಚ್ಛಾಮಿ"
+            },
+            "meaning": {
+                "hi": "मेरी इच्छा है",
+                "en": "I wish",
+                "be": "আমার ইচ্ছা",
+                "ka": "ನಾನು ಬಯಸುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "घ्नतः",
-            "transliteration": "ghnataḥ",
-            "meaning": "killing"
+            "transliteration": {
+                "hi": "घ्नतः",
+                "en": "ghnataḥ",
+                "be": "ঘ্নতঃ",
+                "ka": "ಘ್ನತಃ"
+            },
+            "meaning": {
+                "hi": "हत्या",
+                "en": "killing",
+                "be": "হত্যা",
+                "ka": "ಕೊಲ್ಲುವುದು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even though"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "फिर भी",
+                "en": "even though",
+                "be": "যদিও",
+                "ka": "ಆದರೂ ಸಹ"
+            }
         },
         {
             "sanskrit": "मधुसूदन",
-            "transliteration": "madhusūdana",
-            "meaning": "O Madhusudana"
+            "transliteration": {
+                "hi": "मधुसूदन",
+                "en": "madhusūdana",
+                "be": "মধুসূদন",
+                "ka": "ಮಧುಸೂದನ"
+            },
+            "meaning": {
+                "hi": "हे मधुसूदन!",
+                "en": "O Madhusudana",
+                "be": "হে মধুসূদনা",
+                "ka": "ಓ ಮಧುಸೂದನ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "त्रैलोक्यराज्यस्य",
-            "transliteration": "trailokyarājyasya",
-            "meaning": "for three worlds kingdom"
+            "transliteration": {
+                "hi": "त्रैलोक्यराज्यस्य",
+                "en": "trailokyarājyasya",
+                "be": "ত্রৈলোক্যরাজ্যস্য",
+                "ka": "ತ್ರೈಲೋಕ್ಯರಾಜ್ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "तीन लोक साम्राज्य के लिए",
+                "en": "for three worlds kingdom",
+                "be": "তিন বিশ্বের রাজ্যের জন্য",
+                "ka": "ಮೂರು ಲೋಕಗಳ ಸಾಮ್ರಾಜ್ಯಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "हेतोः",
-            "transliteration": "hetoḥ",
-            "meaning": "sake"
+            "transliteration": {
+                "hi": "हेतोः",
+                "en": "hetoḥ",
+                "be": "হেতোঃ",
+                "ka": "ಹೇತೋಃ"
+            },
+            "meaning": {
+                "hi": "खातिर",
+                "en": "sake",
+                "be": "খাতির",
+                "ka": "ಸಲುವಾಗಿ"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "नु",
-            "transliteration": "nu",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "नु",
+                "en": "nu",
+                "be": "নু",
+                "ka": "ನು"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "महीकृते",
-            "transliteration": "mahīkṛte",
-            "meaning": "for sake of earth"
+            "transliteration": {
+                "hi": "महीकृते",
+                "en": "mahīkṛte",
+                "be": "মহীকৃতে",
+                "ka": "ಮಹೀಕೃತೇ"
+            },
+            "meaning": {
+                "hi": "धरती की खातिर",
+                "en": "for sake of earth",
+                "be": "পৃথিবীর স্বার্থে",
+                "ka": "ಭೂಮಿಯ ಸಲುವಾಗಿ"
+            }
         }
     ],
     "tej": {

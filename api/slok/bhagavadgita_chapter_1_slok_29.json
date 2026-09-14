@@ -14,8 +14,18 @@
         "en": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ||1-29||",
         "ka": "ಸೀದನ್ತಿ ಮಮ ಗಾತ್ರಾಣಿ ಮುಖಂ ಚ ಪರಿಶುಷ್ಯತಿ |\nವೇಪಥುಶ್ಚ ಶರೀರೇ ಮೇ ರೋಮಹರ್ಷಶ್ಚ ಜಾಯತೇ ||೧-೨೯||"
     },
-    "transliteration": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ||1-29||",
-    "life_application": "When overwhelm strikes your body and mind, pause before making decisions you might later regret.",
+    "transliteration": {
+        "hi": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति |\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||",
+        "en": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ||1-29||",
+        "be": "সীদন্তি মম গাত্রাণি মুখং চ পরিশুষ্যতি |\nবেপথুশ্চ শরীরে মে রোমহর্ষশ্চ জাযতে ||১-২৯||",
+        "ka": "ಸೀದನ್ತಿ ಮಮ ಗಾತ್ರಾಣಿ ಮುಖಂ ಚ ಪರಿಶುಷ್ಯತಿ |\nವೇಪಥುಶ್ಚ ಶರೀರೇ ಮೇ ರೋಮಹರ್ಷಶ್ಚ ಜಾಯತೇ ||೧-೨೯||"
+    },
+    "life_application": {
+        "hi": "जब आपके शरीर और दिमाग पर दबाव पड़ने लगे, तो ऐसे निर्णय लेने से पहले रुकें, जिनके लिए आपको बाद में पछताना पड़ सकता है।",
+        "en": "When overwhelm strikes your body and mind, pause before making decisions you might later regret.",
+        "be": "যখন আপনার শরীর এবং মনকে অভিভূত করে, তখন সিদ্ধান্ত নেওয়ার আগে বিরতি দিন আপনি পরে অনুশোচনা করতে পারেন।",
+        "ka": "ನಿಮ್ಮ ದೇಹ ಮತ್ತು ಮನಸ್ಸನ್ನು ಅತಿಯಾಗಿ ಹೊಡೆದಾಗ, ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ವಿರಾಮಗೊಳಿಸಿ ನಂತರ ನೀವು ವಿಷಾದಿಸಬಹುದು."
+    },
     "themes": [
         "Fear",
         "Equanimity"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "सीदन्ति",
-            "transliteration": "sīdanti",
-            "meaning": "fail"
+            "transliteration": {
+                "hi": "सीदन्ति",
+                "en": "sīdanti",
+                "be": "সীদন্তি",
+                "ka": "ಸೀದನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "विफल",
+                "en": "fail",
+                "be": "ব্যর্থ",
+                "ka": "ವಿಫಲರಾಗುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "गात्राणि",
-            "transliteration": "gātrāṇi",
-            "meaning": "limbs"
+            "transliteration": {
+                "hi": "गात्राणि",
+                "en": "gātrāṇi",
+                "be": "গাত্রাণি",
+                "ka": "ಗಾತ್ರಾಣಿ"
+            },
+            "meaning": {
+                "hi": "अंग",
+                "en": "limbs",
+                "be": "অঙ্গপ্রত্যঙ্গ",
+                "ka": "ಅಂಗಗಳು"
+            }
         },
         {
             "sanskrit": "मुखम्",
-            "transliteration": "mukham",
-            "meaning": "mouth"
+            "transliteration": {
+                "hi": "मुखम्",
+                "en": "mukham",
+                "be": "মুখম্",
+                "ka": "ಮುಖಮ್"
+            },
+            "meaning": {
+                "hi": "मुँह",
+                "en": "mouth",
+                "be": "মুখ",
+                "ka": "ಬಾಯಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "परिशुष्यति",
-            "transliteration": "pariśuṣyati",
-            "meaning": "dries up"
+            "transliteration": {
+                "hi": "परिशुष्यति",
+                "en": "pariśuṣyati",
+                "be": "পরিশুষ্যতি",
+                "ka": "ಪರಿಶುಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "सूख जाता है",
+                "en": "dries up",
+                "be": "শুকিয়ে যায়",
+                "ka": "ಒಣಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "वेपथुः",
-            "transliteration": "vepathuḥ",
-            "meaning": "trembling"
+            "transliteration": {
+                "hi": "वेपथुः",
+                "en": "vepathuḥ",
+                "be": "বেপথুঃ",
+                "ka": "ವೇಪಥುಃ"
+            },
+            "meaning": {
+                "hi": "हिलता हुआ",
+                "en": "trembling",
+                "be": "কম্পন",
+                "ka": "ನಡುಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शरीरे",
-            "transliteration": "śarīre",
-            "meaning": "in body"
+            "transliteration": {
+                "hi": "शरीरे",
+                "en": "śarīre",
+                "be": "শরীরে",
+                "ka": "ಶರೀರೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in body",
+                "be": "শরীরে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "रोमहर्षः",
-            "transliteration": "romaharṣaḥ",
-            "meaning": "horripilation"
+            "transliteration": {
+                "hi": "रोमहर्षः",
+                "en": "romaharṣaḥ",
+                "be": "রোমহর্ষঃ",
+                "ka": "ರೋಮಹರ್ಷಃ"
+            },
+            "meaning": {
+                "hi": "भयावहता",
+                "en": "horripilation",
+                "be": "ভয়ঙ্করতা",
+                "ka": "ಗಾಬರಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "जायते",
-            "transliteration": "jāyate",
-            "meaning": "occurs"
+            "transliteration": {
+                "hi": "जायते",
+                "en": "jāyate",
+                "be": "জাযতে",
+                "ka": "ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "होता है",
+                "en": "occurs",
+                "be": "ঘটে",
+                "ka": "ಸಂಭವಿಸುತ್ತದೆ"
+            }
         }
     ],
     "tej": {

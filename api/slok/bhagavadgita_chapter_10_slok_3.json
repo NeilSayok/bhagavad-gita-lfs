@@ -14,8 +14,18 @@
         "en": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||",
         "ka": "ಯೋ ಮಾಮಜಮನಾದಿಂ ಚ ವೇತ್ತಿ ಲೋಕಮಹೇಶ್ವರಮ್ |\nಅಸಮ್ಮೂಢಃ ಸ ಮರ್ತ್ಯೇಷು ಸರ್ವಪಾಪೈಃ ಪ್ರಮುಚ್ಯತೇ ||೧೦-೩||"
     },
-    "transliteration": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||",
-    "life_application": "Know God as unborn, beginningless, and great Lord of the worlds, freeing yourself from all delusion and sin.",
+    "transliteration": {
+        "hi": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |\nअसम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ||१०-३||",
+        "en": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||",
+        "be": "যো মামজমনাদিং চ বেত্তি লোকমহেশ্বরম্ |\nঅসম্মূঢঃ স মর্ত্যেষু সর্বপাপৈঃ প্রমুচ্যতে ||১০-৩||",
+        "ka": "ಯೋ ಮಾಮಜಮನಾದಿಂ ಚ ವೇತ್ತಿ ಲೋಕಮಹೇಶ್ವರಮ್ |\nಅಸಮ್ಮೂಢಃ ಸ ಮರ್ತ್ಯೇಷು ಸರ್ವಪಾಪೈಃ ಪ್ರಮುಚ್ಯತೇ ||೧೦-೩||"
+    },
+    "life_application": {
+        "hi": "भगवान को अजन्मा, अनादि और दुनिया के महान भगवान के रूप में जानें, अपने आप को सभी भ्रम और पाप से मुक्त करें।",
+        "en": "Know God as unborn, beginningless, and great Lord of the worlds, freeing yourself from all delusion and sin.",
+        "be": "সমস্ত বিভ্রম ও পাপ থেকে নিজেকে মুক্ত করে ঈশ্বরকে অজাত, অনাদি, এবং বিশ্বজগতের মহান প্রভু হিসাবে জানুন।",
+        "ka": "ಎಲ್ಲಾ ಭ್ರಮೆ ಮತ್ತು ಪಾಪಗಳಿಂದ ನಿಮ್ಮನ್ನು ಮುಕ್ತಗೊಳಿಸುತ್ತಾ, ದೇವರನ್ನು ಹುಟ್ಟಿಲ್ಲದ, ಆರಂಭವಿಲ್ಲದ ಮತ್ತು ಪ್ರಪಂಚದ ಶ್ರೇಷ್ಠ ಭಗವಂತ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "मामजमनादिं",
-            "transliteration": "māmajamanādiṃ",
-            "meaning": "māmajamanādiṃ"
+            "transliteration": {
+                "hi": "मामजमनादिं",
+                "en": "māmajamanādiṃ",
+                "be": "মামজমনাদিং",
+                "ka": "ಮಾಮಜಮನಾದಿಂ"
+            },
+            "meaning": {
+                "hi": "मामजमनादिम्",
+                "en": "māmajamanādiṃ",
+                "be": "mamajamanādiṃ",
+                "ka": "ಮಾಮಾಜಮಾನದಿಂ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "vetti"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "वेट्टी",
+                "en": "vetti",
+                "be": "ভেটি",
+                "ka": "ವೆಟ್ಟಿ"
+            }
         },
         {
             "sanskrit": "लोकमहेश्वरम्",
-            "transliteration": "lokamaheśvaram",
-            "meaning": "lokamaheśvaram"
+            "transliteration": {
+                "hi": "लोकमहेश्वरम्",
+                "en": "lokamaheśvaram",
+                "be": "লোকমহেশ্বরম্",
+                "ka": "ಲೋಕಮಹೇಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "लोकमहेश्वरम्",
+                "en": "lokamaheśvaram",
+                "be": "লোকমহেশ্বরম",
+                "ka": "ಲೋಕಮಹೇಶ್ವರಂ"
+            }
         },
         {
             "sanskrit": "असम्मूढः",
-            "transliteration": "asammūḍhaḥ",
-            "meaning": "asammūḍhaḥ"
+            "transliteration": {
+                "hi": "असम्मूढः",
+                "en": "asammūḍhaḥ",
+                "be": "অসম্মূঢঃ",
+                "ka": "ಅಸಮ್ಮೂಢಃ"
+            },
+            "meaning": {
+                "hi": "असम्मुद्धः",
+                "en": "asammūḍhaḥ",
+                "be": "অসম্মুধহঃ",
+                "ka": "ಅಸಮ್ಮುಢಃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "मर्त्येषु",
-            "transliteration": "martyeṣu",
-            "meaning": "martyeṣu"
+            "transliteration": {
+                "hi": "मर्त्येषु",
+                "en": "martyeṣu",
+                "be": "মর্ত্যেষু",
+                "ka": "ಮರ್ತ್ಯೇಷು"
+            },
+            "meaning": {
+                "hi": "मार्तेशु",
+                "en": "martyeṣu",
+                "be": "martyeṣu",
+                "ka": "ಮರ್ತ್ಯೆಷು"
+            }
         },
         {
             "sanskrit": "सर्वपापैः",
-            "transliteration": "sarvapāpaiḥ",
-            "meaning": "sarvapāpaiḥ"
+            "transliteration": {
+                "hi": "सर्वपापैः",
+                "en": "sarvapāpaiḥ",
+                "be": "সর্বপাপৈঃ",
+                "ka": "ಸರ್ವಪಾಪೈಃ"
+            },
+            "meaning": {
+                "hi": "सर्वपापैः",
+                "en": "sarvapāpaiḥ",
+                "be": "সর্বপাপাইঃ",
+                "ka": "ಸರ್ವಪಾಪೈಃ"
+            }
         },
         {
             "sanskrit": "प्रमुच्यते",
-            "transliteration": "pramucyate",
-            "meaning": "pramucyate"
+            "transliteration": {
+                "hi": "प्रमुच्यते",
+                "en": "pramucyate",
+                "be": "প্রমুচ্যতে",
+                "ka": "ಪ್ರಮುಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रमुच्यते",
+                "en": "pramucyate",
+                "be": "pramucyate",
+                "ka": "ಪ್ರಮುಚ್ಯತೇ"
+            }
         }
     ],
     "tej": {

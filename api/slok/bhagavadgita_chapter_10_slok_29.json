@@ -14,8 +14,18 @@
         "en": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||",
         "ka": "ಅನನ್ತಶ್ಚಾಸ್ಮಿ ನಾಗಾನಾಂ ವರುಣೋ ಯಾದಸಾಮಹಮ್ |\nಪಿತೄಣಾಮರ್ಯಮಾ ಚಾಸ್ಮಿ ಯಮಃ ಸಂಯಮತಾಮಹಮ್ ||೧೦-೨೯||"
     },
-    "transliteration": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||",
-    "life_application": "Recognize God as Ananta among Nagas, Varuna among water-deities, Aryaman among ancestors, and Yama among law-enforcers.",
+    "transliteration": {
+        "hi": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् |\nपितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||",
+        "en": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||",
+        "be": "অনন্তশ্চাস্মি নাগানাং বরুণো যাদসামহম্ |\nপিতৄণামর্যমা চাস্মি যমঃ সংযমতামহম্ ||১০-২৯||",
+        "ka": "ಅನನ್ತಶ್ಚಾಸ್ಮಿ ನಾಗಾನಾಂ ವರುಣೋ ಯಾದಸಾಮಹಮ್ |\nಪಿತೄಣಾಮರ್ಯಮಾ ಚಾಸ್ಮಿ ಯಮಃ ಸಂಯಮತಾಮಹಮ್ ||೧೦-೨೯||"
+    },
+    "life_application": {
+        "hi": "भगवान को नागों में अनंत, जल-देवताओं में वरुण, पितरों में अर्यमन और कानून लागू करने वालों में यम के रूप में पहचानें।",
+        "en": "Recognize God as Ananta among Nagas, Varuna among water-deities, Aryaman among ancestors, and Yama among law-enforcers.",
+        "be": "নাগদের মধ্যে ঈশ্বরকে অনন্ত, জল-দেবতাদের মধ্যে বরুণ, পূর্বপুরুষদের মধ্যে আর্যমান এবং আইন-শৃঙ্খলা রক্ষাকারীদের মধ্যে যমকে স্বীকৃতি দিন।",
+        "ka": "ದೇವರನ್ನು ನಾಗಗಳಲ್ಲಿ ಅನಂತ, ಜಲದೇವತೆಗಳಲ್ಲಿ ವರುಣ, ಪೂರ್ವಜರಲ್ಲಿ ಆರ್ಯಮನ್ ಮತ್ತು ಕಾನೂನು ಪರಿಪಾಲಕರಲ್ಲಿ ಯಮ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Duty"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अनन्तश्चास्मि",
-            "transliteration": "anantaścāsmi",
-            "meaning": "anantaścāsmi"
+            "transliteration": {
+                "hi": "अनन्तश्चास्मि",
+                "en": "anantaścāsmi",
+                "be": "অনন্তশ্চাস্মি",
+                "ka": "ಅನನ್ತಶ್ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "अनन्तश्चस्मि",
+                "en": "anantaścāsmi",
+                "be": "অনন্তস্কাসমি",
+                "ka": "ಅನಂತಶ್ಚಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "नागानां",
-            "transliteration": "nāgānāṃ",
-            "meaning": "nāgānāṃ"
+            "transliteration": {
+                "hi": "नागानां",
+                "en": "nāgānāṃ",
+                "be": "নাগানাং",
+                "ka": "ನಾಗಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "नागानाँ",
+                "en": "nāgānāṃ",
+                "be": "নাগনাং",
+                "ka": "ನಾಗನಂ"
+            }
         },
         {
             "sanskrit": "वरुणो",
-            "transliteration": "varuṇo",
-            "meaning": "varuṇo"
+            "transliteration": {
+                "hi": "वरुणो",
+                "en": "varuṇo",
+                "be": "বরুণো",
+                "ka": "ವರುಣೋ"
+            },
+            "meaning": {
+                "hi": "वरुणो",
+                "en": "varuṇo",
+                "be": "ভারুণো",
+                "ka": "ವರುಣೋ"
+            }
         },
         {
             "sanskrit": "यादसामहम्",
-            "transliteration": "yādasāmaham",
-            "meaning": "yādasāmaham"
+            "transliteration": {
+                "hi": "यादसामहम्",
+                "en": "yādasāmaham",
+                "be": "যাদসামহম্",
+                "ka": "ಯಾದಸಾಮಹಮ್"
+            },
+            "meaning": {
+                "hi": "यादसामहम्",
+                "en": "yādasāmaham",
+                "be": "ইয়াদাসামহম",
+                "ka": "ಯಾದಸಾಮಹಂ"
+            }
         },
         {
             "sanskrit": "पितॄणामर्यमा",
-            "transliteration": "pitṝṇāmaryamā",
-            "meaning": "pitṝṇāmaryamā"
+            "transliteration": {
+                "hi": "पितॄणामर्यमा",
+                "en": "pitṝṇāmaryamā",
+                "be": "পিতৄণামর্যমা",
+                "ka": "ಪಿತೄಣಾಮರ್ಯಮಾ"
+            },
+            "meaning": {
+                "hi": "पित्णामार्यमा",
+                "en": "pitṝṇāmaryamā",
+                "be": "পিতৃনামার্যমা",
+                "ka": "ಪಿತ್ನಾಮಾರ್ಯಮಾ"
+            }
         },
         {
             "sanskrit": "चास्मि",
-            "transliteration": "cāsmi",
-            "meaning": "cāsmi"
+            "transliteration": {
+                "hi": "चास्मि",
+                "en": "cāsmi",
+                "be": "চাস্মি",
+                "ka": "ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "कास्मि",
+                "en": "cāsmi",
+                "be": "casmi",
+                "ka": "ಕ್ಯಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "यमः",
-            "transliteration": "yamaḥ",
-            "meaning": "yamaḥ"
+            "transliteration": {
+                "hi": "यमः",
+                "en": "yamaḥ",
+                "be": "যমঃ",
+                "ka": "ಯಮಃ"
+            },
+            "meaning": {
+                "hi": "यमः",
+                "en": "yamaḥ",
+                "be": "যমঃ",
+                "ka": "ಯಮಃ"
+            }
         },
         {
             "sanskrit": "संयमतामहम्",
-            "transliteration": "saṃyamatāmaham",
-            "meaning": "saṃyamatāmaham"
+            "transliteration": {
+                "hi": "संयमतामहम्",
+                "en": "saṃyamatāmaham",
+                "be": "সংযমতামহম্",
+                "ka": "ಸಂಯಮತಾಮಹಮ್"
+            },
+            "meaning": {
+                "hi": "संयममहम्",
+                "en": "saṃyamatāmaham",
+                "be": "সংযমতামহম",
+                "ka": "ಸಂಯಮಾತಾಮಹಮ್"
+            }
         }
     ],
     "tej": {

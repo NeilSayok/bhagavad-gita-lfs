@@ -14,8 +14,18 @@
         "en": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||",
         "ka": "ಮೃತ್ಯುಃ ಸರ್ವಹರಶ್ಚಾಹಮುದ್ಭವಶ್ಚ ಭವಿಷ್ಯತಾಮ್ |\nಕೀರ್ತಿಃ ಶ್ರೀರ್ವಾಕ್ಚ ನಾರೀಣಾಂ ಸ್ಮೃತಿರ್ಮೇಧಾ ಧೃತಿಃ ಕ್ಷಮಾ ||೧೦-೩೪||"
     },
-    "transliteration": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||",
-    "life_application": "Recognize God as all-devouring death, the origin of future things, and feminine virtues of fame, fortune, speech, memory, intellect, courage, forgiveness.",
+    "transliteration": {
+        "hi": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् |\nकीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ||१०-३४||",
+        "en": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||",
+        "be": "মৃত্যুঃ সর্বহরশ্চাহমুদ্ভবশ্চ ভবিষ্যতাম্ |\nকীর্তিঃ শ্রীর্বাক্চ নারীণাং স্মৃতির্মেধা ধৃতিঃ ক্ষমা ||১০-৩৪||",
+        "ka": "ಮೃತ್ಯುಃ ಸರ್ವಹರಶ್ಚಾಹಮುದ್ಭವಶ್ಚ ಭವಿಷ್ಯತಾಮ್ |\nಕೀರ್ತಿಃ ಶ್ರೀರ್ವಾಕ್ಚ ನಾರೀಣಾಂ ಸ್ಮೃತಿರ್ಮೇಧಾ ಧೃತಿಃ ಕ್ಷಮಾ ||೧೦-೩೪||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सर्वभक्षी मृत्यु, भविष्य की चीजों की उत्पत्ति, और प्रसिद्धि, भाग्य, वाणी, स्मृति, बुद्धि, साहस, क्षमा जैसे स्त्री गुणों के रूप में पहचानें।",
+        "en": "Recognize God as all-devouring death, the origin of future things, and feminine virtues of fame, fortune, speech, memory, intellect, courage, forgiveness.",
+        "be": "ঈশ্বরকে সর্বগ্রাসী মৃত্যু, ভবিষ্যৎ জিনিসের উৎপত্তি এবং খ্যাতি, ভাগ্য, বক্তৃতা, স্মৃতি, বুদ্ধি, সাহস, ক্ষমার নারীসুলভ গুণাবলী হিসাবে স্বীকৃতি দিন।",
+        "ka": "ಭಗವಂತನನ್ನು ಎಲ್ಲಾ-ತಿನ್ನುವ ಮರಣ, ಭವಿಷ್ಯದ ವಸ್ತುಗಳ ಮೂಲ ಮತ್ತು ಖ್ಯಾತಿ, ಅದೃಷ್ಟ, ಮಾತು, ಸ್ಮರಣೆ, ​​ಬುದ್ಧಿಶಕ್ತಿ, ಧೈರ್ಯ, ಕ್ಷಮೆಯ ಸ್ತ್ರೀಲಿಂಗ ಗುಣಗಳನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Death",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "मृत्युः",
-            "transliteration": "mṛtyuḥ",
-            "meaning": "death"
+            "transliteration": {
+                "hi": "मृत्युः",
+                "en": "mṛtyuḥ",
+                "be": "মৃত্যুঃ",
+                "ka": "ಮೃತ್ಯುಃ"
+            },
+            "meaning": {
+                "hi": "मौत",
+                "en": "death",
+                "be": "মৃত্যু",
+                "ka": "ಸಾವು"
+            }
         },
         {
             "sanskrit": "सर्वहरश्चाहमुद्भवश्च",
-            "transliteration": "sarvaharaścāhamudbhavaśca",
-            "meaning": "sarvaharaścāhamudbhavaśca"
+            "transliteration": {
+                "hi": "सर्वहरश्चाहमुद्भवश्च",
+                "en": "sarvaharaścāhamudbhavaśca",
+                "be": "সর্বহরশ্চাহমুদ্ভবশ্চ",
+                "ka": "ಸರ್ವಹರಶ್ಚಾಹಮುದ್ಭವಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "सर्वहरश्चमुद्भवश्च",
+                "en": "sarvaharaścāhamudbhavaśca",
+                "be": "sarvaharaschāhamudbhavasch",
+                "ka": "ಸರ್ವಹರಾಶ್ಚಾಹಮುದ್ಭವಶ್ಚ"
+            }
         },
         {
             "sanskrit": "भविष्यताम्",
-            "transliteration": "bhaviṣyatām",
-            "meaning": "bhaviṣyatām"
+            "transliteration": {
+                "hi": "भविष्यताम्",
+                "en": "bhaviṣyatām",
+                "be": "ভবিষ্যতাম্",
+                "ka": "ಭವಿಷ್ಯತಾಮ್"
+            },
+            "meaning": {
+                "hi": "भविष्यतम",
+                "en": "bhaviṣyatām",
+                "be": "ভবিষ্যতম",
+                "ka": "ಭವಿಷ್ಯತಾಂ"
+            }
         },
         {
             "sanskrit": "कीर्तिः",
-            "transliteration": "kīrtiḥ",
-            "meaning": "kīrtiḥ"
+            "transliteration": {
+                "hi": "कीर्तिः",
+                "en": "kīrtiḥ",
+                "be": "কীর্তিঃ",
+                "ka": "ಕೀರ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "कीर्तिः",
+                "en": "kīrtiḥ",
+                "be": "কীর্তিঃ",
+                "ka": "ಕೀರ್ತಿಃ"
+            }
         },
         {
             "sanskrit": "श्रीर्वाक्च",
-            "transliteration": "śrīrvākca",
-            "meaning": "śrīrvākca"
+            "transliteration": {
+                "hi": "श्रीर्वाक्च",
+                "en": "śrīrvākca",
+                "be": "শ্রীর্বাক্চ",
+                "ka": "ಶ್ರೀರ್ವಾಕ್ಚ"
+            },
+            "meaning": {
+                "hi": "श्रीर्वक्क",
+                "en": "śrīrvākca",
+                "be": "শ্রীর্ভাক্কা",
+                "ka": "ಶ್ರೀರ್ವಾಕ್ಕಾ"
+            }
         },
         {
             "sanskrit": "नारीणां",
-            "transliteration": "nārīṇāṃ",
-            "meaning": "nārīṇāṃ"
+            "transliteration": {
+                "hi": "नारीणां",
+                "en": "nārīṇāṃ",
+                "be": "নারীণাং",
+                "ka": "ನಾರೀಣಾಂ"
+            },
+            "meaning": {
+                "hi": "नारायणां",
+                "en": "nārīṇāṃ",
+                "be": "narīṇāṃ",
+                "ka": "ನಾರಿನಂ"
+            }
         },
         {
             "sanskrit": "स्मृतिर्मेधा",
-            "transliteration": "smṛtirmedhā",
-            "meaning": "smṛtirmedhā"
+            "transliteration": {
+                "hi": "स्मृतिर्मेधा",
+                "en": "smṛtirmedhā",
+                "be": "স্মৃতির্মেধা",
+                "ka": "ಸ್ಮೃತಿರ್ಮೇಧಾ"
+            },
+            "meaning": {
+                "hi": "स्मृतिमेधा",
+                "en": "smṛtirmedhā",
+                "be": "স্মৃতিরমেধা",
+                "ka": "ಸ್ಮೃತಿಮೇಧ"
+            }
         },
         {
             "sanskrit": "धृतिः",
-            "transliteration": "dhṛtiḥ",
-            "meaning": "dhṛtiḥ"
+            "transliteration": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            }
         },
         {
             "sanskrit": "क्षमा",
-            "transliteration": "kṣamā",
-            "meaning": "kṣamā"
+            "transliteration": {
+                "hi": "क्षमा",
+                "en": "kṣamā",
+                "be": "ক্ষমা",
+                "ka": "ಕ್ಷಮಾ"
+            },
+            "meaning": {
+                "hi": "क्षमा",
+                "en": "kṣamā",
+                "be": "kṣamā",
+                "ka": "ಕ್ಷಮಾ"
+            }
         }
     ],
     "tej": {

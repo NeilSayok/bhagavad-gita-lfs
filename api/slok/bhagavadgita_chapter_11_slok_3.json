@@ -14,8 +14,18 @@
         "en": "evametadyathāttha tvamātmānaṃ parameśvara .\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama ||11-3||",
         "ka": "ಏವಮೇತದ್ಯಥಾತ್ಥ ತ್ವಮಾತ್ಮಾನಂ ಪರಮೇಶ್ವರ |\nದ್ರಷ್ಟುಮಿಚ್ಛಾಮಿ ತೇ ರೂಪಮೈಶ್ವರಂ ಪುರುಷೋತ್ತಮ ||೧೧-೩||"
     },
-    "transliteration": "evametadyathāttha tvamātmānaṃ parameśvara .\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama ||11-3||",
-    "life_application": "Desire to experience divine truth directly, longing to behold the sovereign majesty of the supreme spirit.",
+    "transliteration": {
+        "hi": "एवमेतद्यथात्थ त्वमात्मानं परमेश्वर |\nद्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम ||११-३||",
+        "en": "evametadyathāttha tvamātmānaṃ parameśvara .\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama ||11-3||",
+        "be": "এবমেতদ্যথাত্থ ত্বমাত্মানং পরমেশ্বর |\nদ্রষ্টুমিচ্ছামি তে রূপমৈশ্বরং পুরুষোত্তম ||১১-৩||",
+        "ka": "ಏವಮೇತದ್ಯಥಾತ್ಥ ತ್ವಮಾತ್ಮಾನಂ ಪರಮೇಶ್ವರ |\nದ್ರಷ್ಟುಮಿಚ್ಛಾಮಿ ತೇ ರೂಪಮೈಶ್ವರಂ ಪುರುಷೋತ್ತಮ ||೧೧-೩||"
+    },
+    "life_application": {
+        "hi": "दिव्य सत्य को सीधे अनुभव करने की इच्छा, सर्वोच्च आत्मा की सर्वोच्च महिमा को देखने की लालसा।",
+        "en": "Desire to experience divine truth directly, longing to behold the sovereign majesty of the supreme spirit.",
+        "be": "স্বর্গীয় সত্যকে সরাসরি অনুভব করার আকাঙ্ক্ষা, পরম আত্মার সার্বভৌম মহিমা দেখার আকাঙ্ক্ষা।",
+        "ka": "ದೈವಿಕ ಸತ್ಯವನ್ನು ನೇರವಾಗಿ ಅನುಭವಿಸುವ ಬಯಕೆ, ಪರಮ ಚೇತನದ ಸಾರ್ವಭೌಮ ಮಹಿಮೆಯನ್ನು ನೋಡಲು ಹಂಬಲಿಸುವುದು."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "आत्थ",
-            "transliteration": "āttha",
-            "meaning": "hast declared"
+            "transliteration": {
+                "hi": "आत्थ",
+                "en": "āttha",
+                "be": "আত্থ",
+                "ka": "ಆತ್ಥ"
+            },
+            "meaning": {
+                "hi": "घोषित कर दिया है",
+                "en": "hast declared",
+                "be": "ঘোষণা করেছে",
+                "ka": "ಘೋಷಿಸಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "Thyself"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "Thyself",
+                "be": "নিজেকে",
+                "ka": "ನೀವೇ"
+            }
         },
         {
             "sanskrit": "परमेश्वर",
-            "transliteration": "parameśvara",
-            "meaning": "O Supreme Lord"
+            "transliteration": {
+                "hi": "परमेश्वर",
+                "en": "parameśvara",
+                "be": "পরমেশ্বর",
+                "ka": "ಪರಮೇಶ್ವರ"
+            },
+            "meaning": {
+                "hi": "हे परमेश्वर!",
+                "en": "O Supreme Lord",
+                "be": "হে পরমেশ্বর",
+                "ka": "ಓ ಪರಮಾತ್ಮನೇ"
+            }
         },
         {
             "sanskrit": "द्रष्टुम्",
-            "transliteration": "draṣṭum",
-            "meaning": "to see"
+            "transliteration": {
+                "hi": "द्रष्टुम्",
+                "en": "draṣṭum",
+                "be": "দ্রষ্টুম্",
+                "ka": "ದ್ರಷ್ಟುಮ್"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "to see",
+                "be": "দেখতে",
+                "ka": "ನೋಡಲು"
+            }
         },
         {
             "sanskrit": "इच्छामि",
-            "transliteration": "icchāmi",
-            "meaning": "desire"
+            "transliteration": {
+                "hi": "इच्छामि",
+                "en": "icchāmi",
+                "be": "ইচ্ছামি",
+                "ka": "ಇಚ್ಛಾಮಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "desire",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "ऐश्वरम्",
-            "transliteration": "aiśvaram",
-            "meaning": "sovereign"
+            "transliteration": {
+                "hi": "ऐश्वरम्",
+                "en": "aiśvaram",
+                "be": "ঐশ্বরম্",
+                "ka": "ಐಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "संप्रभु",
+                "en": "sovereign",
+                "be": "সার্বভৌম",
+                "ka": "ಸಾರ್ವಭೌಮ"
+            }
         },
         {
             "sanskrit": "पुरुषोत्तम",
-            "transliteration": "puruṣottama",
-            "meaning": "O Supreme Purusha."
+            "transliteration": {
+                "hi": "पुरुषोत्तम",
+                "en": "puruṣottama",
+                "be": "পুরুষোত্তম",
+                "ka": "ಪುರುಷೋತ್ತಮ"
+            },
+            "meaning": {
+                "hi": "हे परमपुरुष!",
+                "en": "O Supreme Purusha.",
+                "be": "হে পরম পুরুষ।",
+                "ka": "ಓ ಪರಮ ಪುರುಷ."
+            }
         }
     ],
     "tej": {

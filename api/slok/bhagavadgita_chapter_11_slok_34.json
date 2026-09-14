@@ -14,8 +14,18 @@
         "en": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyānapi yodhavīrān .\nmayā hatāṃstvaṃ jahi mavyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||11-34||",
         "ka": "ದ್ರೋಣಂ ಚ ಭೀಷ್ಮಂ ಚ ಜಯದ್ರಥಂ ಚ\nಕರ್ಣಂ ತಥಾನ್ಯಾನಪಿ ಯೋಧವೀರಾನ್ |\nಮಯಾ ಹತಾಂಸ್ತ್ವಂ ಜಹಿ ಮಾ ವ್ಯಥಿಷ್ಠಾ\nಯುಧ್ಯಸ್ವ ಜೇತಾಸಿ ರಣೇ ಸಪತ್ನಾನ್ ||೧೧-೩೪||"
     },
-    "transliteration": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyānapi yodhavīrān .\nmayā hatāṃstvaṃ jahi mavyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||11-34||",
-    "life_application": "Conquer your fears and fight your battles bravely, for the obstacles before you are already overcome by divine law.",
+    "transliteration": {
+        "hi": "द्रोणं च भीष्मं च जयद्रथं च\nकर्णं तथान्यानपि योधवीरान् |\nमया हतांस्त्वं जहि मा व्यथिष्ठा\nयुध्यस्व जेतासि रणे सपत्नान् ||११-३४||",
+        "en": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyānapi yodhavīrān .\nmayā hatāṃstvaṃ jahi mavyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||11-34||",
+        "be": "দ্রোণং চ ভীষ্মং চ জযদ্রথং চ\nকর্ণং তথান্যানপি যোধবীরান্ |\nমযা হতাংস্ত্বং জহি মা ব্যথিষ্ঠা\nযুধ্যস্ব জেতাসি রণে সপত্নান্ ||১১-৩৪||",
+        "ka": "ದ್ರೋಣಂ ಚ ಭೀಷ್ಮಂ ಚ ಜಯದ್ರಥಂ ಚ\nಕರ್ಣಂ ತಥಾನ್ಯಾನಪಿ ಯೋಧವೀರಾನ್ |\nಮಯಾ ಹತಾಂಸ್ತ್ವಂ ಜಹಿ ಮಾ ವ್ಯಥಿಷ್ಠಾ\nಯುಧ್ಯಸ್ವ ಜೇತಾಸಿ ರಣೇ ಸಪತ್ನಾನ್ ||೧೧-೩೪||"
+    },
+    "life_application": {
+        "hi": "अपने डर पर विजय प्राप्त करें और अपनी लड़ाई बहादुरी से लड़ें, क्योंकि आपके सामने आने वाली बाधाएं ईश्वरीय कानून द्वारा पहले ही दूर हो चुकी हैं।",
+        "en": "Conquer your fears and fight your battles bravely, for the obstacles before you are already overcome by divine law.",
+        "be": "আপনার ভয়কে জয় করুন এবং আপনার যুদ্ধগুলি সাহসের সাথে লড়ুন, কারণ আপনি ইতিমধ্যেই ঐশ্বরিক আইন দ্বারা অতিক্রম করার আগে বাধাগুলি অতিক্রম করুন।",
+        "ka": "ನಿಮ್ಮ ಭಯವನ್ನು ಜಯಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಯುದ್ಧಗಳನ್ನು ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿ, ನಿಮ್ಮ ಮುಂದೆ ಇರುವ ಅಡೆತಡೆಗಳು ಈಗಾಗಲೇ ದೈವಿಕ ಕಾನೂನಿನಿಂದ ಹೊರಬರುತ್ತವೆ."
+    },
     "themes": [
         "Fear",
         "Duty",
@@ -24,108 +34,318 @@
     "word_meanings": [
         {
             "sanskrit": "द्रोणम्",
-            "transliteration": "droṇam",
-            "meaning": "Drona"
+            "transliteration": {
+                "hi": "द्रोणम्",
+                "en": "droṇam",
+                "be": "দ্রোণম্",
+                "ka": "ದ್ರೋಣಮ್"
+            },
+            "meaning": {
+                "hi": "द्रोण",
+                "en": "Drona",
+                "be": "দ্রোণ",
+                "ka": "ದ್ರೋಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भीष्मम्",
-            "transliteration": "bhīṣmam",
-            "meaning": "Bhishma"
+            "transliteration": {
+                "hi": "भीष्मम्",
+                "en": "bhīṣmam",
+                "be": "ভীষ্মম্",
+                "ka": "ಭೀಷ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "भीष्म",
+                "en": "Bhishma",
+                "be": "ভীষ্ম",
+                "ka": "ಭೀಷ್ಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "जयद्रथम्",
-            "transliteration": "jayadratham",
-            "meaning": "Jayadratha"
+            "transliteration": {
+                "hi": "जयद्रथम्",
+                "en": "jayadratham",
+                "be": "জযদ্রথম্",
+                "ka": "ಜಯದ್ರಥಮ್"
+            },
+            "meaning": {
+                "hi": "जयद्रथ",
+                "en": "Jayadratha",
+                "be": "জয়দ্রথ",
+                "ka": "ಜಯದ್ರಥ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्णम्",
-            "transliteration": "karṇam",
-            "meaning": "Karna"
+            "transliteration": {
+                "hi": "कर्णम्",
+                "en": "karṇam",
+                "be": "কর্ণম্",
+                "ka": "ಕರ್ಣಮ್"
+            },
+            "meaning": {
+                "hi": "कर्ण",
+                "en": "Karna",
+                "be": "কর্ণ",
+                "ka": "ಕರ್ಣ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अन्यान्",
-            "transliteration": "anyān",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अन्यान्",
+                "en": "anyān",
+                "be": "অন্যান্",
+                "ka": "ಅನ್ಯಾನ್"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "योधवीरान्",
-            "transliteration": "yodhavīrān",
-            "meaning": "brave warriors"
+            "transliteration": {
+                "hi": "योधवीरान्",
+                "en": "yodhavīrān",
+                "be": "যোধবীরান্",
+                "ka": "ಯೋಧವೀರಾನ್"
+            },
+            "meaning": {
+                "hi": "वीर योद्धा",
+                "en": "brave warriors",
+                "be": "সাহসী যোদ্ধা",
+                "ka": "ಕೆಚ್ಚೆದೆಯ ಯೋಧರು"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by Me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by Me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "हतान्",
-            "transliteration": "hatān",
-            "meaning": "slain"
+            "transliteration": {
+                "hi": "हतान्",
+                "en": "hatān",
+                "be": "হতান্",
+                "ka": "ಹತಾನ್"
+            },
+            "meaning": {
+                "hi": "मारे गये",
+                "en": "slain",
+                "be": "নিহত",
+                "ka": "ಕೊಲ್ಲಲಾಯಿತು"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "जहि",
-            "transliteration": "jahi",
-            "meaning": "do kill"
+            "transliteration": {
+                "hi": "जहि",
+                "en": "jahi",
+                "be": "জহি",
+                "ka": "ಜಹಿ"
+            },
+            "meaning": {
+                "hi": "मार डालो",
+                "en": "do kill",
+                "be": "হত্যা করো",
+                "ka": "ಕೊಲ್ಲು"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "व्यथिष्ठाः",
-            "transliteration": "vyathiṣṭhāḥ",
-            "meaning": "be distressed with fear"
+            "transliteration": {
+                "hi": "व्यथिष्ठाः",
+                "en": "vyathiṣṭhāḥ",
+                "be": "ব্যথিষ্ঠাঃ",
+                "ka": "ವ್ಯಥಿಷ್ಠಾಃ"
+            },
+            "meaning": {
+                "hi": "भय से व्यथित होना",
+                "en": "be distressed with fear",
+                "be": "ভয়ে বিপর্যস্ত হও",
+                "ka": "ಭಯದಿಂದ ಸಂಕಟಪಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "युध्यस्व",
-            "transliteration": "yudhyasva",
-            "meaning": "fight"
+            "transliteration": {
+                "hi": "युध्यस्व",
+                "en": "yudhyasva",
+                "be": "যুধ্যস্ব",
+                "ka": "ಯುಧ್ಯಸ್ವ"
+            },
+            "meaning": {
+                "hi": "लड़ो",
+                "en": "fight",
+                "be": "যুদ্ধ",
+                "ka": "ಹೋರಾಟ"
+            }
         },
         {
             "sanskrit": "जेतासि",
-            "transliteration": "jetāsi",
-            "meaning": "shall coner"
+            "transliteration": {
+                "hi": "जेतासि",
+                "en": "jetāsi",
+                "be": "জেতাসি",
+                "ka": "ಜೇತಾಸಿ"
+            },
+            "meaning": {
+                "hi": "शंकु होगा",
+                "en": "shall coner",
+                "be": "coner হবে",
+                "ka": "ಕೋನರ್ ಹಾಗಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "रणे",
-            "transliteration": "raṇe",
-            "meaning": "in the battle"
+            "transliteration": {
+                "hi": "रणे",
+                "en": "raṇe",
+                "be": "রণে",
+                "ka": "ರಣೇ"
+            },
+            "meaning": {
+                "hi": "लड़ाई में",
+                "en": "in the battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सपत्नान्",
-            "transliteration": "sapatnān",
-            "meaning": "the enemies."
+            "transliteration": {
+                "hi": "सपत्नान्",
+                "en": "sapatnān",
+                "be": "সপত্নান্",
+                "ka": "ಸಪತ್ನಾನ್"
+            },
+            "meaning": {
+                "hi": "दुश्मन.",
+                "en": "the enemies.",
+                "be": "শত্রুদের",
+                "ka": "ಶತ್ರುಗಳು."
+            }
         }
     ],
     "tej": {

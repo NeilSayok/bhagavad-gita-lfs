@@ -14,8 +14,18 @@
         "en": "vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni .\nkecidvilagnā daśanāntareṣu sandṛśyante cūrṇitairuttamāṅgaiḥ ||11-27||",
         "ka": "ವಕ್ತ್ರಾಣಿ ತೇ ತ್ವರಮಾಣಾ ವಿಶನ್ತಿ\nದಂಷ್ಟ್ರಾಕರಾಲಾನಿ ಭಯಾನಕಾನಿ |\nಕೇಚಿದ್ವಿಲಗ್ನಾ ದಶನಾನ್ತರೇಷು\nಸನ್ದೃಶ್ಯನ್ತೇ ಚೂರ್ಣಿತೈರುತ್ತಮಾಙ್ಗೈಃ ||೧೧-೨೭||"
     },
-    "transliteration": "vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni .\nkecidvilagnā daśanāntareṣu sandṛśyante cūrṇitairuttamāṅgaiḥ ||11-27||",
-    "life_application": "See the powerful heroes caught between terrifying teeth, their heads crushed as physical life comes to an end.",
+    "transliteration": {
+        "hi": "वक्त्राणि ते त्वरमाणा विशन्ति\nदंष्ट्राकरालानि भयानकानि |\nकेचिद्विलग्ना दशनान्तरेषु\nसन्दृश्यन्ते चूर्णितैरुत्तमाङ्गैः ||११-२७||",
+        "en": "vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni .\nkecidvilagnā daśanāntareṣu sandṛśyante cūrṇitairuttamāṅgaiḥ ||11-27||",
+        "be": "বক্ত্রাণি তে ত্বরমাণা বিশন্তি\nদংষ্ট্রাকরালানি ভযানকানি |\nকেচিদ্বিলগ্না দশনান্তরেষু\nসন্দৃশ্যন্তে চূর্ণিতৈরুত্তমাঙ্গৈঃ ||১১-২৭||",
+        "ka": "ವಕ್ತ್ರಾಣಿ ತೇ ತ್ವರಮಾಣಾ ವಿಶನ್ತಿ\nದಂಷ್ಟ್ರಾಕರಾಲಾನಿ ಭಯಾನಕಾನಿ |\nಕೇಚಿದ್ವಿಲಗ್ನಾ ದಶನಾನ್ತರೇಷು\nಸನ್ದೃಶ್ಯನ್ತೇ ಚೂರ್ಣಿತೈರುತ್ತಮಾಙ್ಗೈಃ ||೧೧-೨೭||"
+    },
+    "life_application": {
+        "hi": "भयानक दांतों के बीच फंसे शक्तिशाली नायकों को देखें, भौतिक जीवन समाप्त होने पर उनके सिर कुचले जाते हैं।",
+        "en": "See the powerful heroes caught between terrifying teeth, their heads crushed as physical life comes to an end.",
+        "be": "ভয়ঙ্কর দাঁতের মধ্যে ধরা শক্তিশালী নায়কদের দেখুন, শারীরিক জীবন শেষ হওয়ার সাথে সাথে তাদের মাথা চূর্ণ হয়ে গেছে।",
+        "ka": "ಭಯಾನಕ ಹಲ್ಲುಗಳ ನಡುವೆ ಸಿಕ್ಕಿಬಿದ್ದ ಪ್ರಬಲ ವೀರರನ್ನು ನೋಡಿ, ಭೌತಿಕ ಜೀವನವು ಅಂತ್ಯಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ ಅವರ ತಲೆಗಳು ಪುಡಿಪುಡಿಯಾಗುತ್ತವೆ."
+    },
     "themes": [
         "Death",
         "Fear"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "वक्त्राणि",
-            "transliteration": "vaktrāṇi",
-            "meaning": "mouths"
+            "transliteration": {
+                "hi": "वक्त्राणि",
+                "en": "vaktrāṇi",
+                "be": "বক্ত্রাণি",
+                "ka": "ವಕ್ತ್ರಾಣಿ"
+            },
+            "meaning": {
+                "hi": "मुँह",
+                "en": "mouths",
+                "be": "মুখ",
+                "ka": "ಬಾಯಿಗಳು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "त्वरमाणाः",
-            "transliteration": "tvaramāṇāḥ",
-            "meaning": "hurrying"
+            "transliteration": {
+                "hi": "त्वरमाणाः",
+                "en": "tvaramāṇāḥ",
+                "be": "ত্বরমাণাঃ",
+                "ka": "ತ್ವರಮಾಣಾಃ"
+            },
+            "meaning": {
+                "hi": "जल्दी करना",
+                "en": "hurrying",
+                "be": "তাড়াতাড়ি",
+                "ka": "ಅವಸರ ಮಾಡುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "विशन्ति",
-            "transliteration": "viśanti",
-            "meaning": "enter"
+            "transliteration": {
+                "hi": "विशन्ति",
+                "en": "viśanti",
+                "be": "বিশন্তি",
+                "ka": "ವಿಶನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "दर्ज करें",
+                "en": "enter",
+                "be": "প্রবেশ করা",
+                "ka": "ನಮೂದಿಸಿ"
+            }
         },
         {
             "sanskrit": "दंष्ट्राकरालानि",
-            "transliteration": "daṃṣṭrākarālāni",
-            "meaning": "terribletoothed"
+            "transliteration": {
+                "hi": "दंष्ट्राकरालानि",
+                "en": "daṃṣṭrākarālāni",
+                "be": "দংষ্ট্রাকরালানি",
+                "ka": "ದಂಷ್ಟ್ರಾಕರಾಲಾನಿ"
+            },
+            "meaning": {
+                "hi": "भयानकदांतेदार",
+                "en": "terribletoothed",
+                "be": "ভয়ানক দাঁতযুক্ত",
+                "ka": "ಭಯಾನಕ ಹಲ್ಲಿನ"
+            }
         },
         {
             "sanskrit": "भयानकानि",
-            "transliteration": "bhayānakāni",
-            "meaning": "fearful to behold"
+            "transliteration": {
+                "hi": "भयानकानि",
+                "en": "bhayānakāni",
+                "be": "ভযানকানি",
+                "ka": "ಭಯಾನಕಾನಿ"
+            },
+            "meaning": {
+                "hi": "देखने में डर लग रहा है",
+                "en": "fearful to behold",
+                "be": "দেখতে ভয় পায়",
+                "ka": "ನೋಡಲು ಭಯವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "केचित्",
-            "transliteration": "kecit",
-            "meaning": "some"
+            "transliteration": {
+                "hi": "केचित्",
+                "en": "kecit",
+                "be": "কেচিত্",
+                "ka": "ಕೇಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कुछ",
+                "en": "some",
+                "be": "কিছু",
+                "ka": "ಕೆಲವು"
+            }
         },
         {
             "sanskrit": "विलग्नाः",
-            "transliteration": "vilagnāḥ",
-            "meaning": "sticking"
+            "transliteration": {
+                "hi": "विलग्नाः",
+                "en": "vilagnāḥ",
+                "be": "বিলগ্নাঃ",
+                "ka": "ವಿಲಗ್ನಾಃ"
+            },
+            "meaning": {
+                "hi": "चिपकना",
+                "en": "sticking",
+                "be": "স্টিকিং",
+                "ka": "ಅಂಟಿಕೊಳ್ಳುವುದು"
+            }
         },
         {
             "sanskrit": "दशनान्तरेषु",
-            "transliteration": "daśanāntareṣu",
-            "meaning": "in the gaps between"
+            "transliteration": {
+                "hi": "दशनान्तरेषु",
+                "en": "daśanāntareṣu",
+                "be": "দশনান্তরেষু",
+                "ka": "ದಶನಾನ್ತರೇಷು"
+            },
+            "meaning": {
+                "hi": "बीच के अंतराल में",
+                "en": "in the gaps between",
+                "be": "মধ্যে ফাঁক মধ্যে",
+                "ka": "ನಡುವಿನ ಅಂತರದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "संदृश्यन्ते",
-            "transliteration": "saṃdṛśyante",
-            "meaning": "are found"
+            "transliteration": {
+                "hi": "संदृश्यन्ते",
+                "en": "saṃdṛśyante",
+                "be": "সংদৃশ্যন্তে",
+                "ka": "ಸಂದೃಶ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "पाए जाते हैं",
+                "en": "are found",
+                "be": "পাওয়া যায়",
+                "ka": "ಕಂಡುಬರುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "चूर्णितैः",
-            "transliteration": "cūrṇitaiḥ",
-            "meaning": "crushed to powder"
+            "transliteration": {
+                "hi": "चूर्णितैः",
+                "en": "cūrṇitaiḥ",
+                "be": "চূর্ণিতৈঃ",
+                "ka": "ಚೂರ್ಣಿತೈಃ"
+            },
+            "meaning": {
+                "hi": "कुचलकर चूर्ण बना लिया जाए",
+                "en": "crushed to powder",
+                "be": "গুঁড়ো করা",
+                "ka": "ಪುಡಿಯಾಗಿ ಪುಡಿಮಾಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "उत्तमाङ्गैः",
-            "transliteration": "uttamāṅgaiḥ",
-            "meaning": "with heads."
+            "transliteration": {
+                "hi": "उत्तमाङ्गैः",
+                "en": "uttamāṅgaiḥ",
+                "be": "উত্তমাঙ্গৈঃ",
+                "ka": "ಉತ್ತಮಾಙ್ಗೈಃ"
+            },
+            "meaning": {
+                "hi": "सिरों के साथ.",
+                "en": "with heads.",
+                "be": "মাথা দিয়ে",
+                "ka": "ತಲೆಗಳೊಂದಿಗೆ."
+            }
         }
     ],
     "tej": {

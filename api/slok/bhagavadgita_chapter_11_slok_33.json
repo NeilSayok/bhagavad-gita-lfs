@@ -14,8 +14,18 @@
         "en": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham .\nmayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||11-33||",
         "ka": "ತಸ್ಮಾತ್ತ್ವಮುತ್ತಿಷ್ಠ ಯಶೋ ಲಭಸ್ವ\nಜಿತ್ವಾ ಶತ್ರೂನ್ ಭುಙ್ಕ್ಷ್ವ ರಾಜ್ಯಂ ಸಮೃದ್ಧಮ್ |\nಮಯೈವೈತೇ ನಿಹತಾಃ ಪೂರ್ವಮೇವ\nನಿಮಿತ್ತಮಾತ್ರಂ ಭವ ಸವ್ಯಸಾಚಿನ್ ||೧೧-೩೩||"
     },
-    "transliteration": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham .\nmayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||11-33||",
-    "life_application": "Stand up and act as an instrument of divine purpose, knowing that destiny has already ordained the outcome.",
+    "transliteration": {
+        "hi": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् |\nमयैवैते निहताः पूर्वमेव\nनिमित्तमात्रं भव सव्यसाचिन् ||११-३३||",
+        "en": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham .\nmayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||11-33||",
+        "be": "তস্মাত্ত্বমুত্তিষ্ঠ যশো লভস্ব\nজিত্বা শত্রূন্ ভুঙ্ক্ষ্ব রাজ্যং সমৃদ্ধম্ |\nমযৈবৈতে নিহতাঃ পূর্বমেব\nনিমিত্তমাত্রং ভব সব্যসাচিন্ ||১১-৩৩||",
+        "ka": "ತಸ್ಮಾತ್ತ್ವಮುತ್ತಿಷ್ಠ ಯಶೋ ಲಭಸ್ವ\nಜಿತ್ವಾ ಶತ್ರೂನ್ ಭುಙ್ಕ್ಷ್ವ ರಾಜ್ಯಂ ಸಮೃದ್ಧಮ್ |\nಮಯೈವೈತೇ ನಿಹತಾಃ ಪೂರ್ವಮೇವ\nನಿಮಿತ್ತಮಾತ್ರಂ ಭವ ಸವ್ಯಸಾಚಿನ್ ||೧೧-೩೩||"
+    },
+    "life_application": {
+        "hi": "खड़े हो जाओ और दिव्य उद्देश्य के साधन के रूप में कार्य करो, यह जानते हुए कि नियति ने पहले ही परिणाम निर्धारित कर दिया है।",
+        "en": "Stand up and act as an instrument of divine purpose, knowing that destiny has already ordained the outcome.",
+        "be": "উঠে দাঁড়ান এবং ঐশ্বরিক উদ্দেশ্যের একটি উপকরণ হিসাবে কাজ করুন, জেনে নিন যে ভাগ্য ইতিমধ্যেই ফলাফল নির্ধারণ করেছে।",
+        "ka": "ಎದ್ದುನಿಂತು ದೈವಿಕ ಉದ್ದೇಶದ ಸಾಧನವಾಗಿ ವರ್ತಿಸಿ, ಅದೃಷ್ಟವು ಈಗಾಗಲೇ ಫಲಿತಾಂಶವನ್ನು ನಿಗದಿಪಡಿಸಿದೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Purpose",
@@ -24,98 +34,288 @@
     "word_meanings": [
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "उत्तिष्ठ",
-            "transliteration": "uttiṣṭha",
-            "meaning": "stand up"
+            "transliteration": {
+                "hi": "उत्तिष्ठ",
+                "en": "uttiṣṭha",
+                "be": "উত্তিষ্ঠ",
+                "ka": "ಉತ್ತಿಷ್ಠ"
+            },
+            "meaning": {
+                "hi": "खड़े हो जाओ",
+                "en": "stand up",
+                "be": "দাঁড়ানো",
+                "ka": "ಎದ್ದುನಿಂತು"
+            }
         },
         {
             "sanskrit": "यशः",
-            "transliteration": "yaśaḥ",
-            "meaning": "fame"
+            "transliteration": {
+                "hi": "यशः",
+                "en": "yaśaḥ",
+                "be": "যশঃ",
+                "ka": "ಯಶಃ"
+            },
+            "meaning": {
+                "hi": "प्रसिद्धि",
+                "en": "fame",
+                "be": "খ্যাতি",
+                "ka": "ಖ್ಯಾತಿ"
+            }
         },
         {
             "sanskrit": "लभस्व",
-            "transliteration": "labhasva",
-            "meaning": "obtain"
+            "transliteration": {
+                "hi": "लभस्व",
+                "en": "labhasva",
+                "be": "লভস্ব",
+                "ka": "ಲಭಸ್ವ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करें",
+                "en": "obtain",
+                "be": "প্রাপ্ত",
+                "ka": "ಪಡೆಯಲು"
+            }
         },
         {
             "sanskrit": "जित्वा",
-            "transliteration": "jitvā",
-            "meaning": "having conered"
+            "transliteration": {
+                "hi": "जित्वा",
+                "en": "jitvā",
+                "be": "জিত্বা",
+                "ka": "ಜಿತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "शंकुधारी होना",
+                "en": "having conered",
+                "be": "conered হচ্ছে",
+                "ka": "conered ಹೊಂದಿರುವ"
+            }
         },
         {
             "sanskrit": "शत्रून्",
-            "transliteration": "śatrūn",
-            "meaning": "enemies"
+            "transliteration": {
+                "hi": "शत्रून्",
+                "en": "śatrūn",
+                "be": "শত্রূন্",
+                "ka": "ಶತ್ರೂನ್"
+            },
+            "meaning": {
+                "hi": "शत्रु",
+                "en": "enemies",
+                "be": "শত্রুদের",
+                "ka": "ಶತ್ರುಗಳು"
+            }
         },
         {
             "sanskrit": "भुङ्क्ष्व",
-            "transliteration": "bhuṅkṣva",
-            "meaning": "enjoy"
+            "transliteration": {
+                "hi": "भुङ्क्ष्व",
+                "en": "bhuṅkṣva",
+                "be": "ভুঙ্ক্ষ্ব",
+                "ka": "ಭುಙ್ಕ್ಷ್ವ"
+            },
+            "meaning": {
+                "hi": "आनंद लें",
+                "en": "enjoy",
+                "be": "উপভোগ",
+                "ka": "ಆನಂದಿಸಿ"
+            }
         },
         {
             "sanskrit": "राज्यम्",
-            "transliteration": "rājyam",
-            "meaning": "the kingdom"
+            "transliteration": {
+                "hi": "राज्यम्",
+                "en": "rājyam",
+                "be": "রাজ্যম্",
+                "ka": "ರಾಜ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "the kingdom",
+                "be": "রাজ্য",
+                "ka": "ಸಾಮ್ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "समृद्धम्",
-            "transliteration": "samṛddham",
-            "meaning": "the unrivalled"
+            "transliteration": {
+                "hi": "समृद्धम्",
+                "en": "samṛddham",
+                "be": "সমৃদ্ধম্",
+                "ka": "ಸಮೃದ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "बेजोड़",
+                "en": "the unrivalled",
+                "be": "অপ্রতিদ্বন্দ্বী",
+                "ka": "ಅಪ್ರತಿಮ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by Me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by Me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "एते",
-            "transliteration": "ete",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एते",
+                "en": "ete",
+                "be": "এতে",
+                "ka": "ಏತೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "निहताः",
-            "transliteration": "nihatāḥ",
-            "meaning": "have been slain"
+            "transliteration": {
+                "hi": "निहताः",
+                "en": "nihatāḥ",
+                "be": "নিহতাঃ",
+                "ka": "ನಿಹತಾಃ"
+            },
+            "meaning": {
+                "hi": "मारे गए हैं",
+                "en": "have been slain",
+                "be": "নিহত হয়েছে",
+                "ka": "ಹತ್ಯೆ ಮಾಡಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "पूर्वम्",
-            "transliteration": "pūrvam",
-            "meaning": "before"
+            "transliteration": {
+                "hi": "पूर्वम्",
+                "en": "pūrvam",
+                "be": "পূর্বম্",
+                "ka": "ಪೂರ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "पहले",
+                "en": "before",
+                "be": "আগে",
+                "ka": "ಮೊದಲು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "निमित्तमात्रम्",
-            "transliteration": "nimittamātram",
-            "meaning": "a mere instrument"
+            "transliteration": {
+                "hi": "निमित्तमात्रम्",
+                "en": "nimittamātram",
+                "be": "নিমিত্তমাত্রম্",
+                "ka": "ನಿಮಿತ್ತಮಾತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "एक मात्र साधन",
+                "en": "a mere instrument",
+                "be": "একটি নিছক যন্ত্র",
+                "ka": "ಕೇವಲ ವಾದ್ಯ"
+            }
         },
         {
             "sanskrit": "भव",
-            "transliteration": "bhava",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "भव",
+                "en": "bhava",
+                "be": "ভব",
+                "ka": "ಭವ"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सव्यसाचिन्",
-            "transliteration": "savyasācin",
-            "meaning": "O ambidexterous one."
+            "transliteration": {
+                "hi": "सव्यसाचिन्",
+                "en": "savyasācin",
+                "be": "সব্যসাচিন্",
+                "ka": "ಸವ್ಯಸಾಚಿನ್"
+            },
+            "meaning": {
+                "hi": "हे उभयलिंगी!",
+                "en": "O ambidexterous one.",
+                "be": "হে দুঃসাহসী এক।",
+                "ka": "ಓ ದ್ವಂದ್ವಾರ್ಥಿ."
+            }
         }
     ],
     "tej": {

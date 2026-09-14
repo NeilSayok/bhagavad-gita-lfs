@@ -14,8 +14,18 @@
         "en": "yathā nadīnāṃ bahavo.ambuvegāḥ samudramevābhimukhā dravanti .\ntathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti ||11-28||",
         "ka": "ಯಥಾ ನದೀನಾಂ ಬಹವೋಽಮ್ಬುವೇಗಾಃ\nಸಮುದ್ರಮೇವಾಭಿಮುಖಾ ದ್ರವನ್ತಿ |\nತಥಾ ತವಾಮೀ ನರಲೋಕವೀರಾ\nವಿಶನ್ತಿ ವಕ್ತ್ರಾಣ್ಯಭಿವಿಜ್ವಲನ್ತಿ ||೧೧-೨೮||"
     },
-    "transliteration": "yathā nadīnāṃ bahavo.ambuvegāḥ samudramevābhimukhā dravanti .\ntathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti ||11-28||",
-    "life_application": "Observe how human beings rush toward their inevitable mortal end, like rivers flowing swiftly into the sea.",
+    "transliteration": {
+        "hi": "यथा नदीनां बहवोऽम्बुवेगाः\nसमुद्रमेवाभिमुखा द्रवन्ति |\nतथा तवामी नरलोकवीरा\nविशन्ति वक्त्राण्यभिविज्वलन्ति ||११-२८||",
+        "en": "yathā nadīnāṃ bahavo.ambuvegāḥ samudramevābhimukhā dravanti .\ntathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti ||11-28||",
+        "be": "যথা নদীনাং বহবোঽম্বুবেগাঃ\nসমুদ্রমেবাভিমুখা দ্রবন্তি |\nতথা তবামী নরলোকবীরা\nবিশন্তি বক্ত্রাণ্যভিবিজ্বলন্তি ||১১-২৮||",
+        "ka": "ಯಥಾ ನದೀನಾಂ ಬಹವೋಽಮ್ಬುವೇಗಾಃ\nಸಮುದ್ರಮೇವಾಭಿಮುಖಾ ದ್ರವನ್ತಿ |\nತಥಾ ತವಾಮೀ ನರಲೋಕವೀರಾ\nವಿಶನ್ತಿ ವಕ್ತ್ರಾಣ್ಯಭಿವಿಜ್ವಲನ್ತಿ ||೧೧-೨೮||"
+    },
+    "life_application": {
+        "hi": "देखिये कि कैसे मनुष्य अपने अपरिहार्य नश्वर अंत की ओर तेजी से भागते हैं, जैसे नदियाँ तेजी से समुद्र में बहती हैं।",
+        "en": "Observe how human beings rush toward their inevitable mortal end, like rivers flowing swiftly into the sea.",
+        "be": "পর্যবেক্ষণ করুন কিভাবে মানুষ তাদের অনিবার্য নশ্বর শেষের দিকে ধাবিত হয়, যেমন নদীগুলি সমুদ্রে দ্রুত প্রবাহিত হয়।",
+        "ka": "ಸಮುದ್ರಕ್ಕೆ ವೇಗವಾಗಿ ಹರಿಯುವ ನದಿಗಳಂತೆ ಮಾನವರು ತಮ್ಮ ಅನಿವಾರ್ಯ ಮಾರಣಾಂತಿಕ ಅಂತ್ಯದ ಕಡೆಗೆ ಹೇಗೆ ಧಾವಿಸುತ್ತಾರೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ."
+    },
     "themes": [
         "Death",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "नदीनाम्",
-            "transliteration": "nadīnām",
-            "meaning": "of rivers"
+            "transliteration": {
+                "hi": "नदीनाम्",
+                "en": "nadīnām",
+                "be": "নদীনাম্",
+                "ka": "ನದೀನಾಮ್"
+            },
+            "meaning": {
+                "hi": "नदियों का",
+                "en": "of rivers",
+                "be": "নদীর",
+                "ka": "ನದಿಗಳ"
+            }
         },
         {
             "sanskrit": "बहवः",
-            "transliteration": "bahavaḥ",
-            "meaning": "many"
+            "transliteration": {
+                "hi": "बहवः",
+                "en": "bahavaḥ",
+                "be": "বহবঃ",
+                "ka": "ಬಹವಃ"
+            },
+            "meaning": {
+                "hi": "अनेक",
+                "en": "many",
+                "be": "অনেক",
+                "ka": "ಅನೇಕ"
+            }
         },
         {
             "sanskrit": "अम्बुवेगाः",
-            "transliteration": "ambuvegāḥ",
-            "meaning": "watercurrents"
+            "transliteration": {
+                "hi": "अम्बुवेगाः",
+                "en": "ambuvegāḥ",
+                "be": "অম্বুবেগাঃ",
+                "ka": "ಅಮ್ಬುವೇಗಾಃ"
+            },
+            "meaning": {
+                "hi": "जलधाराएँ",
+                "en": "watercurrents",
+                "be": "জলস্রোত",
+                "ka": "ಜಲಪ್ರವಾಹಗಳು"
+            }
         },
         {
             "sanskrit": "समुद्रम्",
-            "transliteration": "samudram",
-            "meaning": "to the ocean"
+            "transliteration": {
+                "hi": "समुद्रम्",
+                "en": "samudram",
+                "be": "সমুদ্রম্",
+                "ka": "ಸಮುದ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "सागर की ओर",
+                "en": "to the ocean",
+                "be": "সমুদ্রের কাছে",
+                "ka": "ಸಾಗರಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "अभिमुखाः",
-            "transliteration": "abhimukhāḥ",
-            "meaning": "towards"
+            "transliteration": {
+                "hi": "अभिमुखाः",
+                "en": "abhimukhāḥ",
+                "be": "অভিমুখাঃ",
+                "ka": "ಅಭಿಮುಖಾಃ"
+            },
+            "meaning": {
+                "hi": "की ओर",
+                "en": "towards",
+                "be": "দিকে",
+                "ka": "ಕಡೆಗೆ"
+            }
         },
         {
             "sanskrit": "द्रवन्ति",
-            "transliteration": "dravanti",
-            "meaning": "flow"
+            "transliteration": {
+                "hi": "द्रवन्ति",
+                "en": "dravanti",
+                "be": "দ্রবন্তি",
+                "ka": "ದ್ರವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "प्रवाह",
+                "en": "flow",
+                "be": "প্রবাহ",
+                "ka": "ಹರಿವು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "अमी",
-            "transliteration": "amī",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "अमी",
+                "en": "amī",
+                "be": "অমী",
+                "ka": "ಅಮೀ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "नरलोकवीराः",
-            "transliteration": "naralokavīrāḥ",
-            "meaning": "heroes in the world"
+            "transliteration": {
+                "hi": "नरलोकवीराः",
+                "en": "naralokavīrāḥ",
+                "be": "নরলোকবীরাঃ",
+                "ka": "ನರಲೋಕವೀರಾಃ"
+            },
+            "meaning": {
+                "hi": "दुनिया में नायक",
+                "en": "heroes in the world",
+                "be": "বিশ্বের নায়ক",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ ವೀರರು"
+            }
         },
         {
             "sanskrit": "विशन्ति",
-            "transliteration": "viśanti",
-            "meaning": "enter"
+            "transliteration": {
+                "hi": "विशन्ति",
+                "en": "viśanti",
+                "be": "বিশন্তি",
+                "ka": "ವಿಶನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "दर्ज करें",
+                "en": "enter",
+                "be": "প্রবেশ করা",
+                "ka": "ನಮೂದಿಸಿ"
+            }
         },
         {
             "sanskrit": "वक्त्राणि",
-            "transliteration": "vaktrāṇi",
-            "meaning": "mouths"
+            "transliteration": {
+                "hi": "वक्त्राणि",
+                "en": "vaktrāṇi",
+                "be": "বক্ত্রাণি",
+                "ka": "ವಕ್ತ್ರಾಣಿ"
+            },
+            "meaning": {
+                "hi": "मुँह",
+                "en": "mouths",
+                "be": "মুখ",
+                "ka": "ಬಾಯಿಗಳು"
+            }
         },
         {
             "sanskrit": "अभिविज्वलन्ति",
-            "transliteration": "abhivijvalanti",
-            "meaning": "flaming."
+            "transliteration": {
+                "hi": "अभिविज्वलन्ति",
+                "en": "abhivijvalanti",
+                "be": "অভিবিজ্বলন্তি",
+                "ka": "ಅಭಿವಿಜ್ವಲನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "ज्वलंत.",
+                "en": "flaming.",
+                "be": "জ্বলন্ত",
+                "ka": "ಉರಿಯುತ್ತಿರುವ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nkālo.asmi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ .\nṛte.api tvāṃ na bhaviṣyanti sarve ye.avasthitāḥ pratyanīkeṣu yodhāḥ ||11-32||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕಾಲೋಽಸ್ಮಿ ಲೋಕಕ್ಷಯಕೃತ್ಪ್ರವೃದ್ಧೋ\nಲೋಕಾನ್ಸಮಾಹರ್ತುಮಿಹ ಪ್ರವೃತ್ತಃ |\nಋತೇಽಪಿ ತ್ವಾಂ ನ ಭವಿಷ್ಯನ್ತಿ ಸರ್ವೇ\nಯೇಽವಸ್ಥಿತಾಃ ಪ್ರತ್ಯನೀಕೇಷು ಯೋಧಾಃ ||೧೧-೩೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nkālo.asmi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ .\nṛte.api tvāṃ na bhaviṣyanti sarve ye.avasthitāḥ pratyanīkeṣu yodhāḥ ||11-32||",
-    "life_application": "Understand that time is the mighty destroyer of worlds, pursuing its inevitable work regardless of human wishes.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः |\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ||११-३२||",
+        "en": "śrībhagavānuvāca .\nkālo.asmi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ .\nṛte.api tvāṃ na bhaviṣyanti sarve ye.avasthitāḥ pratyanīkeṣu yodhāḥ ||11-32||",
+        "be": "শ্রীভগবানুবাচ |\nকালোঽস্মি লোকক্ষযকৃত্প্রবৃদ্ধো\nলোকান্সমাহর্তুমিহ প্রবৃত্তঃ |\nঋতেঽপি ত্বাং ন ভবিষ্যন্তি সর্বে\nযেঽবস্থিতাঃ প্রত্যনীকেষু যোধাঃ ||১১-৩২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕಾಲೋಽಸ್ಮಿ ಲೋಕಕ್ಷಯಕೃತ್ಪ್ರವೃದ್ಧೋ\nಲೋಕಾನ್ಸಮಾಹರ್ತುಮಿಹ ಪ್ರವೃತ್ತಃ |\nಋತೇಽಪಿ ತ್ವಾಂ ನ ಭವಿಷ್ಯನ್ತಿ ಸರ್ವೇ\nಯೇಽವಸ್ಥಿತಾಃ ಪ್ರತ್ಯನೀಕೇಷು ಯೋಧಾಃ ||೧೧-೩೨||"
+    },
+    "life_application": {
+        "hi": "समझें कि समय दुनिया का शक्तिशाली विनाशक है, जो मानवीय इच्छाओं की परवाह किए बिना अपना अपरिहार्य कार्य करता है।",
+        "en": "Understand that time is the mighty destroyer of worlds, pursuing its inevitable work regardless of human wishes.",
+        "be": "বুঝুন যে সময় হল বিশ্বের শক্তিশালী ধ্বংসকারী, মানুষের ইচ্ছা নির্বিশেষে তার অনিবার্য কাজ অনুসরণ করে।",
+        "ka": "ಸಮಯವು ಪ್ರಪಂಚದ ಪ್ರಬಲ ವಿಧ್ವಂಸಕ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಮಾನವ ಇಚ್ಛೆಯನ್ನು ಲೆಕ್ಕಿಸದೆ ಅದರ ಅನಿವಾರ್ಯ ಕೆಲಸವನ್ನು ಅನುಸರಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Death",
         "Knowledge"
@@ -23,93 +33,273 @@
     "word_meanings": [
         {
             "sanskrit": "कालः",
-            "transliteration": "kālaḥ",
-            "meaning": "time"
+            "transliteration": {
+                "hi": "कालः",
+                "en": "kālaḥ",
+                "be": "কালঃ",
+                "ka": "ಕಾಲಃ"
+            },
+            "meaning": {
+                "hi": "समय",
+                "en": "time",
+                "be": "সময়",
+                "ka": "ಸಮಯ"
+            }
         },
         {
             "sanskrit": "अस्मि",
-            "transliteration": "asmi",
-            "meaning": "am"
+            "transliteration": {
+                "hi": "अस्मि",
+                "en": "asmi",
+                "be": "অস্মি",
+                "ka": "ಅಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "हूँ",
+                "en": "am",
+                "be": "am",
+                "ka": "ಬೆಳಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "लोकक्षयकृत्",
-            "transliteration": "lokakṣayakṛt",
-            "meaning": "worlddestroying"
+            "transliteration": {
+                "hi": "लोकक्षयकृत्",
+                "en": "lokakṣayakṛt",
+                "be": "লোকক্ষযকৃত্",
+                "ka": "ಲೋಕಕ್ಷಯಕೃತ್"
+            },
+            "meaning": {
+                "hi": "दुनिया को नष्ट करने वाला",
+                "en": "worlddestroying",
+                "be": "পৃথিবী ধ্বংসকারী",
+                "ka": "ಜಗತ್ತನ್ನು ನಾಶಮಾಡುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "प्रवृद्धः",
-            "transliteration": "pravṛddhaḥ",
-            "meaning": "fullgrown"
+            "transliteration": {
+                "hi": "प्रवृद्धः",
+                "en": "pravṛddhaḥ",
+                "be": "প্রবৃদ্ধঃ",
+                "ka": "ಪ್ರವೃದ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "पूर्ण विकसित",
+                "en": "fullgrown",
+                "be": "পূর্ণ বয়স্ক",
+                "ka": "ಪೂರ್ಣ ಬೆಳೆದ"
+            }
         },
         {
             "sanskrit": "लोकान्",
-            "transliteration": "lokān",
-            "meaning": "the worlds"
+            "transliteration": {
+                "hi": "लोकान्",
+                "en": "lokān",
+                "be": "লোকান্",
+                "ka": "ಲೋಕಾನ್"
+            },
+            "meaning": {
+                "hi": "संसार",
+                "en": "the worlds",
+                "be": "বিশ্বের",
+                "ka": "ಪ್ರಪಂಚಗಳು"
+            }
         },
         {
             "sanskrit": "समाहर्तुम्",
-            "transliteration": "samāhartum",
-            "meaning": "to destroy"
+            "transliteration": {
+                "hi": "समाहर्तुम्",
+                "en": "samāhartum",
+                "be": "সমাহর্তুম্",
+                "ka": "ಸಮಾಹರ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "नष्ट करना",
+                "en": "to destroy",
+                "be": "ধ্বংস করতে",
+                "ka": "ನಾಶಮಾಡಲು"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रवृत्तः",
-            "transliteration": "pravṛttaḥ",
-            "meaning": "engaged"
+            "transliteration": {
+                "hi": "प्रवृत्तः",
+                "en": "pravṛttaḥ",
+                "be": "প্রবৃত্তঃ",
+                "ka": "ಪ್ರವೃತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "लगे हुए हैं",
+                "en": "engaged",
+                "be": "নিযুক্ত",
+                "ka": "ತೊಡಗಿಸಿಕೊಂಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "ऋते",
-            "transliteration": "ṛte",
-            "meaning": "without"
+            "transliteration": {
+                "hi": "ऋते",
+                "en": "ṛte",
+                "be": "ঋতে",
+                "ka": "ಋತೇ"
+            },
+            "meaning": {
+                "hi": "बिना",
+                "en": "without",
+                "be": "ছাড়া",
+                "ka": "ಇಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "thee",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "भविष्यन्ति",
-            "transliteration": "bhaviṣyanti",
-            "meaning": "shall live"
+            "transliteration": {
+                "hi": "भविष्यन्ति",
+                "en": "bhaviṣyanti",
+                "be": "ভবিষ্যন্তি",
+                "ka": "ಭವಿಷ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जीवित रहेगा",
+                "en": "shall live",
+                "be": "বাস করবে",
+                "ka": "ಬದುಕಬೇಕು"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "अवस्थिताः",
-            "transliteration": "avasthitāḥ",
-            "meaning": "arrayed"
+            "transliteration": {
+                "hi": "अवस्थिताः",
+                "en": "avasthitāḥ",
+                "be": "অবস্থিতাঃ",
+                "ka": "ಅವಸ್ಥಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "सारणीबद्ध",
+                "en": "arrayed",
+                "be": "বিন্যাসিত",
+                "ka": "ಜೋಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "प्रत्यनीकेषु",
-            "transliteration": "pratyanīkeṣu",
-            "meaning": "in hostile armies"
+            "transliteration": {
+                "hi": "प्रत्यनीकेषु",
+                "en": "pratyanīkeṣu",
+                "be": "প্রত্যনীকেষু",
+                "ka": "ಪ್ರತ್ಯನೀಕೇಷು"
+            },
+            "meaning": {
+                "hi": "शत्रु सेनाओं में",
+                "en": "in hostile armies",
+                "be": "শত্রু সেনাবাহিনীতে",
+                "ka": "ಪ್ರತಿಕೂಲ ಸೇನೆಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "योधाः",
-            "transliteration": "yodhāḥ",
-            "meaning": "warriors."
+            "transliteration": {
+                "hi": "योधाः",
+                "en": "yodhāḥ",
+                "be": "যোধাঃ",
+                "ka": "ಯೋಧಾಃ"
+            },
+            "meaning": {
+                "hi": "योद्धा.",
+                "en": "warriors.",
+                "be": "যোদ্ধা",
+                "ka": "ಯೋಧರು."
+            }
         }
     ],
     "tej": {

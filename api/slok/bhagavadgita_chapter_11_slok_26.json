@@ -14,8 +14,18 @@
         "en": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ .\nbhīṣmo droṇaḥ sūtaputrastathāsau sahāsmadīyairapi yodhamukhyaiḥ ||11-26||",
         "ka": "ಅಮೀ ಚ ತ್ವಾಂ ಧೃತರಾಷ್ಟ್ರಸ್ಯ ಪುತ್ರಾಃ\nಸರ್ವೇ ಸಹೈವಾವನಿಪಾಲಸಙ್ಘೈಃ |\nಭೀಷ್ಮೋ ದ್ರೋಣಃ ಸೂತಪುತ್ರಸ್ತಥಾಸೌ\nಸಹಾಸ್ಮದೀಯೈರಪಿ ಯೋಧಮುಖ್ಯೈಃ ||೧೧-೨೬||"
     },
-    "transliteration": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ .\nbhīṣmo droṇaḥ sūtaputrastathāsau sahāsmadīyairapi yodhamukhyaiḥ ||11-26||",
-    "life_application": "Watch all the great warriors and kings rushing irresistibly into the flaming mouths of cosmic time.",
+    "transliteration": {
+        "hi": "अमी च त्वां धृतराष्ट्रस्य पुत्राः\nसर्वे सहैवावनिपालसङ्घैः |\nभीष्मो द्रोणः सूतपुत्रस्तथासौ\nसहास्मदीयैरपि योधमुख्यैः ||११-२६||",
+        "en": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ .\nbhīṣmo droṇaḥ sūtaputrastathāsau sahāsmadīyairapi yodhamukhyaiḥ ||11-26||",
+        "be": "অমী চ ত্বাং ধৃতরাষ্ট্রস্য পুত্রাঃ\nসর্বে সহৈবাবনিপালসঙ্ঘৈঃ |\nভীষ্মো দ্রোণঃ সূতপুত্রস্তথাসৌ\nসহাস্মদীযৈরপি যোধমুখ্যৈঃ ||১১-২৬||",
+        "ka": "ಅಮೀ ಚ ತ್ವಾಂ ಧೃತರಾಷ್ಟ್ರಸ್ಯ ಪುತ್ರಾಃ\nಸರ್ವೇ ಸಹೈವಾವನಿಪಾಲಸಙ್ಘೈಃ |\nಭೀಷ್ಮೋ ದ್ರೋಣಃ ಸೂತಪುತ್ರಸ್ತಥಾಸೌ\nಸಹಾಸ್ಮದೀಯೈರಪಿ ಯೋಧಮುಖ್ಯೈಃ ||೧೧-೨೬||"
+    },
+    "life_application": {
+        "hi": "सभी महान योद्धाओं और राजाओं को ब्रह्मांडीय समय के धधकते मुहाने में अथक रूप से भागते हुए देखें।",
+        "en": "Watch all the great warriors and kings rushing irresistibly into the flaming mouths of cosmic time.",
+        "be": "মহাজাগতিক সময়ের জ্বলন্ত মুখের মধ্যে সমস্ত মহান যোদ্ধা এবং রাজাদের অপ্রতিরোধ্যভাবে ছুটে আসা দেখুন।",
+        "ka": "ಎಲ್ಲಾ ಮಹಾನ್ ಯೋಧರು ಮತ್ತು ರಾಜರು ಕಾಸ್ಮಿಕ್ ಸಮಯದ ಜ್ವಲಂತ ಬಾಯಿಗೆ ತಡೆಯಲಾಗದಂತೆ ನುಗ್ಗುತ್ತಿರುವುದನ್ನು ವೀಕ್ಷಿಸಿ."
+    },
     "themes": [
         "Death",
         "Mindfulness"
@@ -23,93 +33,273 @@
     "word_meanings": [
         {
             "sanskrit": "अमी",
-            "transliteration": "amī",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "अमी",
+                "en": "amī",
+                "be": "অমী",
+                "ka": "ಅಮೀ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "धृतराष्ट्रस्य",
-            "transliteration": "dhṛtarāṣṭrasya",
-            "meaning": "of Dhritarashtra"
+            "transliteration": {
+                "hi": "धृतराष्ट्रस्य",
+                "en": "dhṛtarāṣṭrasya",
+                "be": "ধৃতরাষ্ট্রস্য",
+                "ka": "ಧೃತರಾಷ್ಟ್ರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र का",
+                "en": "of Dhritarashtra",
+                "be": "ধৃতরাষ্ট্রের",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ"
+            }
         },
         {
             "sanskrit": "पुत्राः",
-            "transliteration": "putrāḥ",
-            "meaning": "sons"
+            "transliteration": {
+                "hi": "पुत्राः",
+                "en": "putrāḥ",
+                "be": "পুত্রাঃ",
+                "ka": "ಪುತ್ರಾಃ"
+            },
+            "meaning": {
+                "hi": "बेटे",
+                "en": "sons",
+                "be": "ছেলেদের",
+                "ka": "ಪುತ್ರರು"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "सह",
-            "transliteration": "saha",
-            "meaning": "with"
+            "transliteration": {
+                "hi": "सह",
+                "en": "saha",
+                "be": "সহ",
+                "ka": "ಸಹ"
+            },
+            "meaning": {
+                "hi": "के साथ",
+                "en": "with",
+                "be": "সঙ্গে",
+                "ka": "ಜೊತೆಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अवनिपालसङ्घैः",
-            "transliteration": "avanipālasaṅghaiḥ",
-            "meaning": "hosts of kings"
+            "transliteration": {
+                "hi": "अवनिपालसङ्घैः",
+                "en": "avanipālasaṅghaiḥ",
+                "be": "অবনিপালসঙ্ঘৈঃ",
+                "ka": "ಅವನಿಪಾಲಸಙ್ಘೈಃ"
+            },
+            "meaning": {
+                "hi": "राजाओं के यजमान",
+                "en": "hosts of kings",
+                "be": "রাজাদের হোস্ট",
+                "ka": "ರಾಜರ ಆತಿಥೇಯರು"
+            }
         },
         {
             "sanskrit": "भीष्मः",
-            "transliteration": "bhīṣmaḥ",
-            "meaning": "Bhishma"
+            "transliteration": {
+                "hi": "भीष्मः",
+                "en": "bhīṣmaḥ",
+                "be": "ভীষ্মঃ",
+                "ka": "ಭೀಷ್ಮಃ"
+            },
+            "meaning": {
+                "hi": "भीष्म",
+                "en": "Bhishma",
+                "be": "ভীষ্ম",
+                "ka": "ಭೀಷ್ಮ"
+            }
         },
         {
             "sanskrit": "द्रोणः",
-            "transliteration": "droṇaḥ",
-            "meaning": "Drona"
+            "transliteration": {
+                "hi": "द्रोणः",
+                "en": "droṇaḥ",
+                "be": "দ্রোণঃ",
+                "ka": "ದ್ರೋಣಃ"
+            },
+            "meaning": {
+                "hi": "द्रोण",
+                "en": "Drona",
+                "be": "দ্রোণ",
+                "ka": "ದ್ರೋಣ"
+            }
         },
         {
             "sanskrit": "सूतपुत्रः",
-            "transliteration": "sūtaputraḥ",
-            "meaning": "Karana"
+            "transliteration": {
+                "hi": "सूतपुत्रः",
+                "en": "sūtaputraḥ",
+                "be": "সূতপুত্রঃ",
+                "ka": "ಸೂತಪುತ್ರಃ"
+            },
+            "meaning": {
+                "hi": "कैराना",
+                "en": "Karana",
+                "be": "করনা",
+                "ka": "ಕರಣ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "असौ",
-            "transliteration": "asau",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "असौ",
+                "en": "asau",
+                "be": "অসৌ",
+                "ka": "ಅಸೌ"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "सह",
-            "transliteration": "saha",
-            "meaning": "with"
+            "transliteration": {
+                "hi": "सह",
+                "en": "saha",
+                "be": "সহ",
+                "ka": "ಸಹ"
+            },
+            "meaning": {
+                "hi": "के साथ",
+                "en": "with",
+                "be": "সঙ্গে",
+                "ka": "ಜೊತೆಗೆ"
+            }
         },
         {
             "sanskrit": "अस्मदीयैः",
-            "transliteration": "asmadīyaiḥ",
-            "meaning": "with of ours"
+            "transliteration": {
+                "hi": "अस्मदीयैः",
+                "en": "asmadīyaiḥ",
+                "be": "অস্মদীযৈঃ",
+                "ka": "ಅಸ್ಮದೀಯೈಃ"
+            },
+            "meaning": {
+                "hi": "हमारे साथ",
+                "en": "with of ours",
+                "be": "আমাদের সাথে",
+                "ka": "ನಮ್ಮ ಜೊತೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "योधमुख्यैः",
-            "transliteration": "yodhamukhyaiḥ",
-            "meaning": "warrior chiefs."
+            "transliteration": {
+                "hi": "योधमुख्यैः",
+                "en": "yodhamukhyaiḥ",
+                "be": "যোধমুখ্যৈঃ",
+                "ka": "ಯೋಧಮುಖ್ಯೈಃ"
+            },
+            "meaning": {
+                "hi": "योद्धा प्रमुख.",
+                "en": "warrior chiefs.",
+                "be": "যোদ্ধা প্রধানদের",
+                "ka": "ಯೋಧರ ಮುಖ್ಯಸ್ಥರು."
+            }
         }
     ],
     "tej": {

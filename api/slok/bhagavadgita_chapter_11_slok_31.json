@@ -14,8 +14,18 @@
         "en": "ākhyāhi me ko bhavānugrarūpo namo.astu te devavara prasīda .\nvijñātumicchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim ||11-31||",
         "ka": "ಆಖ್ಯಾಹಿ ಮೇ ಕೋ ಭವಾನುಗ್ರರೂಪೋ\nನಮೋಽಸ್ತು ತೇ ದೇವವರ ಪ್ರಸೀದ |\nವಿಜ್ಞಾತುಮಿಚ್ಛಾಮಿ ಭವನ್ತಮಾದ್ಯಂ\nನ ಹಿ ಪ್ರಜಾನಾಮಿ ತವ ಪ್ರವೃತ್ತಿಮ್ ||೧೧-೩೧||"
     },
-    "transliteration": "ākhyāhi me ko bhavānugrarūpo namo.astu te devavara prasīda .\nvijñātumicchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim ||11-31||",
-    "life_application": "Ask with reverence who this fierce form is, seeking to understand the divine purpose behind cosmic destruction.",
+    "transliteration": {
+        "hi": "आख्याहि मे को भवानुग्ररूपो\nनमोऽस्तु ते देववर प्रसीद |\nविज्ञातुमिच्छामि भवन्तमाद्यं\nन हि प्रजानामि तव प्रवृत्तिम् ||११-३१||",
+        "en": "ākhyāhi me ko bhavānugrarūpo namo.astu te devavara prasīda .\nvijñātumicchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim ||11-31||",
+        "be": "আখ্যাহি মে কো ভবানুগ্ররূপো\nনমোঽস্তু তে দেববর প্রসীদ |\nবিজ্ঞাতুমিচ্ছামি ভবন্তমাদ্যং\nন হি প্রজানামি তব প্রবৃত্তিম্ ||১১-৩১||",
+        "ka": "ಆಖ್ಯಾಹಿ ಮೇ ಕೋ ಭವಾನುಗ್ರರೂಪೋ\nನಮೋಽಸ್ತು ತೇ ದೇವವರ ಪ್ರಸೀದ |\nವಿಜ್ಞಾತುಮಿಚ್ಛಾಮಿ ಭವನ್ತಮಾದ್ಯಂ\nನ ಹಿ ಪ್ರಜಾನಾಮಿ ತವ ಪ್ರವೃತ್ತಿಮ್ ||೧೧-೩೧||"
+    },
+    "life_application": {
+        "hi": "ब्रह्मांडीय विनाश के पीछे के दैवीय उद्देश्य को समझने के लिए श्रद्धापूर्वक पूछें कि यह उग्र रूप कौन है।",
+        "en": "Ask with reverence who this fierce form is, seeking to understand the divine purpose behind cosmic destruction.",
+        "be": "মহাজাগতিক ধ্বংসের পিছনে ঐশ্বরিক উদ্দেশ্য বুঝতে চাওয়া এই ভয়ঙ্কর রূপটি কে শ্রদ্ধার সাথে জিজ্ঞাসা করুন।",
+        "ka": "ಕಾಸ್ಮಿಕ್ ವಿನಾಶದ ಹಿಂದಿನ ದೈವಿಕ ಉದ್ದೇಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಯಸುವ ಈ ಉಗ್ರ ರೂಪ ಯಾರೆಂದು ಗೌರವದಿಂದ ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "आख्याहि",
-            "transliteration": "ākhyāhi",
-            "meaning": "tell"
+            "transliteration": {
+                "hi": "आख्याहि",
+                "en": "ākhyāhi",
+                "be": "আখ্যাহি",
+                "ka": "ಆಖ್ಯಾಹಿ"
+            },
+            "meaning": {
+                "hi": "बताओ",
+                "en": "tell",
+                "be": "বল",
+                "ka": "ಹೇಳು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "कः",
-            "transliteration": "kaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "कः",
+                "en": "kaḥ",
+                "be": "কঃ",
+                "ka": "ಕಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "भवान्",
-            "transliteration": "bhavān",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "भवान्",
+                "en": "bhavān",
+                "be": "ভবান্",
+                "ka": "ಭವಾನ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "उग्ररूपः",
-            "transliteration": "ugrarūpaḥ",
-            "meaning": "fierce in form"
+            "transliteration": {
+                "hi": "उग्ररूपः",
+                "en": "ugrarūpaḥ",
+                "be": "উগ্ররূপঃ",
+                "ka": "ಉಗ್ರರೂಪಃ"
+            },
+            "meaning": {
+                "hi": "उग्र रूप में",
+                "en": "fierce in form",
+                "be": "ফর্মে হিংস্র",
+                "ka": "ರೂಪದಲ್ಲಿ ಉಗ್ರ"
+            }
         },
         {
             "sanskrit": "नमः",
-            "transliteration": "namaḥ",
-            "meaning": "salutation"
+            "transliteration": {
+                "hi": "नमः",
+                "en": "namaḥ",
+                "be": "নমঃ",
+                "ka": "ನಮಃ"
+            },
+            "meaning": {
+                "hi": "नमस्कार",
+                "en": "salutation",
+                "be": "অভিবাদন",
+                "ka": "ನಮಸ್ಕಾರ"
+            }
         },
         {
             "sanskrit": "अस्तु",
-            "transliteration": "astu",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "अस्तु",
+                "en": "astu",
+                "be": "অস্তু",
+                "ka": "ಅಸ್ತು"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to Thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हें",
+                "en": "to Thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "देववर",
-            "transliteration": "devavara",
-            "meaning": "O God Supreme"
+            "transliteration": {
+                "hi": "देववर",
+                "en": "devavara",
+                "be": "দেববর",
+                "ka": "ದೇವವರ"
+            },
+            "meaning": {
+                "hi": "हे परमपिता परमेश्वर!",
+                "en": "O God Supreme",
+                "be": "হে পরমেশ্বর",
+                "ka": "ಓ ಪರಮಾತ್ಮನೇ"
+            }
         },
         {
             "sanskrit": "प्रसीद",
-            "transliteration": "prasīda",
-            "meaning": "have mercy"
+            "transliteration": {
+                "hi": "प्रसीद",
+                "en": "prasīda",
+                "be": "প্রসীদ",
+                "ka": "ಪ್ರಸೀದ"
+            },
+            "meaning": {
+                "hi": "दया करो",
+                "en": "have mercy",
+                "be": "করুণা কর",
+                "ka": "ಕರುಣಿಸು"
+            }
         },
         {
             "sanskrit": "विज्ञातुम्",
-            "transliteration": "vijñātum",
-            "meaning": "to know"
+            "transliteration": {
+                "hi": "विज्ञातुम्",
+                "en": "vijñātum",
+                "be": "বিজ্ঞাতুম্",
+                "ka": "ವಿಜ್ಞಾತುಮ್"
+            },
+            "meaning": {
+                "hi": "जानना",
+                "en": "to know",
+                "be": "জানতে",
+                "ka": "ತಿಳಿಯಲು"
+            }
         },
         {
             "sanskrit": "इच्छामि",
-            "transliteration": "icchāmi",
-            "meaning": "wish"
+            "transliteration": {
+                "hi": "इच्छामि",
+                "en": "icchāmi",
+                "be": "ইচ্ছামি",
+                "ka": "ಇಚ್ಛಾಮಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "wish",
+                "be": "ইচ্ছা",
+                "ka": "ಹಾರೈಕೆ"
+            }
         },
         {
             "sanskrit": "भवन्तम्",
-            "transliteration": "bhavantam",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "भवन्तम्",
+                "en": "bhavantam",
+                "be": "ভবন্তম্",
+                "ka": "ಭವನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "आद्यम्",
-            "transliteration": "ādyam",
-            "meaning": "the original Being"
+            "transliteration": {
+                "hi": "आद्यम्",
+                "en": "ādyam",
+                "be": "আদ্যম্",
+                "ka": "ಆದ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "मूल अस्तित्व",
+                "en": "the original Being",
+                "be": "মূল সত্তা",
+                "ka": "ಮೂಲ ಜೀವಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "प्रजानामि",
-            "transliteration": "prajānāmi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "प्रजानामि",
+                "en": "prajānāmi",
+                "be": "প্রজানামি",
+                "ka": "ಪ್ರಜಾನಾಮಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "प्रवृत्तिम्",
-            "transliteration": "pravṛttim",
-            "meaning": "doing.No"
+            "transliteration": {
+                "hi": "प्रवृत्तिम्",
+                "en": "pravṛttim",
+                "be": "প্রবৃত্তিম্",
+                "ka": "ಪ್ರವೃತ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "कर रहा हूँ.नहीं",
+                "en": "doing.No",
+                "be": "করছেন। না",
+                "ka": "ಮಾಡುತ್ತಿರುವುದು.ಇಲ್ಲ"
+            }
         }
     ],
     "tej": {

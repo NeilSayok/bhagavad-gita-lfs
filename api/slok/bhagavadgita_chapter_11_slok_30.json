@@ -14,8 +14,18 @@
         "en": "lelihyase grasamānaḥ samantāl- lokānsamagrānvadanairjvaladbhiḥ .\ntejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo ||11-30||",
         "ka": "ಲೇಲಿಹ್ಯಸೇ ಗ್ರಸಮಾನಃ ಸಮನ್ತಾಲ್-\nಲೋಕಾನ್ಸಮಗ್ರಾನ್ವದನೈರ್ಜ್ವಲದ್ಭಿಃ |\nತೇಜೋಭಿರಾಪೂರ್ಯ ಜಗತ್ಸಮಗ್ರಂ\nಭಾಸಸ್ತವೋಗ್ರಾಃ ಪ್ರತಪನ್ತಿ ವಿಷ್ಣೋ ||೧೧-೩೦||"
     },
-    "transliteration": "lelihyase grasamānaḥ samantāl- lokānsamagrānvadanairjvaladbhiḥ .\ntejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo ||11-30||",
-    "life_application": "Behold time devouring all worlds from every side, filling the entire universe with radiant and fierce light.",
+    "transliteration": {
+        "hi": "लेलिह्यसे ग्रसमानः समन्ताल्-\nलोकान्समग्रान्वदनैर्ज्वलद्भिः |\nतेजोभिरापूर्य जगत्समग्रं\nभासस्तवोग्राः प्रतपन्ति विष्णो ||११-३०||",
+        "en": "lelihyase grasamānaḥ samantāl- lokānsamagrānvadanairjvaladbhiḥ .\ntejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo ||11-30||",
+        "be": "লেলিহ্যসে গ্রসমানঃ সমন্তাল্-\nলোকান্সমগ্রান্বদনৈর্জ্বলদ্ভিঃ |\nতেজোভিরাপূর্য জগত্সমগ্রং\nভাসস্তবোগ্রাঃ প্রতপন্তি বিষ্ণো ||১১-৩০||",
+        "ka": "ಲೇಲಿಹ್ಯಸೇ ಗ್ರಸಮಾನಃ ಸಮನ್ತಾಲ್-\nಲೋಕಾನ್ಸಮಗ್ರಾನ್ವದನೈರ್ಜ್ವಲದ್ಭಿಃ |\nತೇಜೋಭಿರಾಪೂರ್ಯ ಜಗತ್ಸಮಗ್ರಂ\nಭಾಸಸ್ತವೋಗ್ರಾಃ ಪ್ರತಪನ್ತಿ ವಿಷ್ಣೋ ||೧೧-೩೦||"
+    },
+    "life_application": {
+        "hi": "देखिये, समय सभी लोकों को हर तरफ से निगल रहा है, और पूरे ब्रह्माण्ड को दीप्तिमान और प्रचंड प्रकाश से भर रहा है।",
+        "en": "Behold time devouring all worlds from every side, filling the entire universe with radiant and fierce light.",
+        "be": "দেখো সময় চারদিক থেকে সমস্ত বিশ্বকে গ্রাস করছে, পুরো মহাবিশ্বকে দীপ্তিময় এবং প্রচণ্ড আলোয় ভরিয়ে দিচ্ছে।",
+        "ka": "ಪ್ರತಿ ಕಡೆಯಿಂದ ಎಲ್ಲಾ ಪ್ರಪಂಚಗಳನ್ನು ಕಬಳಿಸುವ ಸಮಯವನ್ನು ನೋಡಿ, ಇಡೀ ವಿಶ್ವವನ್ನು ವಿಕಿರಣ ಮತ್ತು ಉಗ್ರ ಬೆಳಕಿನಿಂದ ತುಂಬುತ್ತದೆ."
+    },
     "themes": [
         "Death",
         "Mindfulness"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "लेलिह्यसे",
-            "transliteration": "lelihyase",
-            "meaning": "lickest"
+            "transliteration": {
+                "hi": "लेलिह्यसे",
+                "en": "lelihyase",
+                "be": "লেলিহ্যসে",
+                "ka": "ಲೇಲಿಹ್ಯಸೇ"
+            },
+            "meaning": {
+                "hi": "सबसे चाटना",
+                "en": "lickest",
+                "be": "lickest",
+                "ka": "ನಕ್ಕ"
+            }
         },
         {
             "sanskrit": "ग्रसमानः",
-            "transliteration": "grasamānaḥ",
-            "meaning": "devouring"
+            "transliteration": {
+                "hi": "ग्रसमानः",
+                "en": "grasamānaḥ",
+                "be": "গ্রসমানঃ",
+                "ka": "ಗ್ರಸಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "भक्षण",
+                "en": "devouring",
+                "be": "গ্রাসকারী",
+                "ka": "ಕಬಳಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "समन्तात्",
-            "transliteration": "samantāt",
-            "meaning": "on every side"
+            "transliteration": {
+                "hi": "समन्तात्",
+                "en": "samantāt",
+                "be": "সমন্তাত্",
+                "ka": "ಸಮನ್ತಾತ್"
+            },
+            "meaning": {
+                "hi": "हर तरफ",
+                "en": "on every side",
+                "be": "প্রতিটি দিকে",
+                "ka": "ಪ್ರತಿ ಬದಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "लोकान्",
-            "transliteration": "lokān",
-            "meaning": "the worlds"
+            "transliteration": {
+                "hi": "लोकान्",
+                "en": "lokān",
+                "be": "লোকান্",
+                "ka": "ಲೋಕಾನ್"
+            },
+            "meaning": {
+                "hi": "संसार",
+                "en": "the worlds",
+                "be": "বিশ্বের",
+                "ka": "ಪ್ರಪಂಚಗಳು"
+            }
         },
         {
             "sanskrit": "समग्रान्",
-            "transliteration": "samagrān",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "समग्रान्",
+                "en": "samagrān",
+                "be": "সমগ্রান্",
+                "ka": "ಸಮಗ್ರಾನ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "वदनैः",
-            "transliteration": "vadanaiḥ",
-            "meaning": "with mouths"
+            "transliteration": {
+                "hi": "वदनैः",
+                "en": "vadanaiḥ",
+                "be": "বদনৈঃ",
+                "ka": "ವದನೈಃ"
+            },
+            "meaning": {
+                "hi": "मुँह के साथ",
+                "en": "with mouths",
+                "be": "মুখ দিয়ে",
+                "ka": "ಬಾಯಿಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "ज्वलद्भिः",
-            "transliteration": "jvaladbhiḥ",
-            "meaning": "flaming"
+            "transliteration": {
+                "hi": "ज्वलद्भिः",
+                "en": "jvaladbhiḥ",
+                "be": "জ্বলদ্ভিঃ",
+                "ka": "ಜ್ವಲದ್ಭಿಃ"
+            },
+            "meaning": {
+                "hi": "ज्वलंत",
+                "en": "flaming",
+                "be": "জ্বলন্ত",
+                "ka": "ಉರಿಯುತ್ತಿರುವ"
+            }
         },
         {
             "sanskrit": "तेजोभिः",
-            "transliteration": "tejobhiḥ",
-            "meaning": "with radiance"
+            "transliteration": {
+                "hi": "तेजोभिः",
+                "en": "tejobhiḥ",
+                "be": "তেজোভিঃ",
+                "ka": "ತೇಜೋಭಿಃ"
+            },
+            "meaning": {
+                "hi": "चमक के साथ",
+                "en": "with radiance",
+                "be": "তেজ সহ",
+                "ka": "ಕಾಂತಿಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "आपूर्य",
-            "transliteration": "āpūrya",
-            "meaning": "filling"
+            "transliteration": {
+                "hi": "आपूर्य",
+                "en": "āpūrya",
+                "be": "আপূর্য",
+                "ka": "ಆಪೂರ್ಯ"
+            },
+            "meaning": {
+                "hi": "भरना",
+                "en": "filling",
+                "be": "ভরাট",
+                "ka": "ತುಂಬುವುದು"
+            }
         },
         {
             "sanskrit": "जगत्",
-            "transliteration": "jagat",
-            "meaning": "the world"
+            "transliteration": {
+                "hi": "जगत्",
+                "en": "jagat",
+                "be": "জগত্",
+                "ka": "ಜಗತ್"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "the world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "समग्रम्",
-            "transliteration": "samagram",
-            "meaning": "the whole"
+            "transliteration": {
+                "hi": "समग्रम्",
+                "en": "samagram",
+                "be": "সমগ্রম্",
+                "ka": "ಸಮಗ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "संपूर्ण",
+                "en": "the whole",
+                "be": "সমগ্র",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "भासः",
-            "transliteration": "bhāsaḥ",
-            "meaning": "rays"
+            "transliteration": {
+                "hi": "भासः",
+                "en": "bhāsaḥ",
+                "be": "ভাসঃ",
+                "ka": "ಭಾಸಃ"
+            },
+            "meaning": {
+                "hi": "किरणें",
+                "en": "rays",
+                "be": "রশ্মি",
+                "ka": "ಕಿರಣಗಳು"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "उग्राः",
-            "transliteration": "ugrāḥ",
-            "meaning": "fierce"
+            "transliteration": {
+                "hi": "उग्राः",
+                "en": "ugrāḥ",
+                "be": "উগ্রাঃ",
+                "ka": "ಉಗ್ರಾಃ"
+            },
+            "meaning": {
+                "hi": "भयंकर",
+                "en": "fierce",
+                "be": "উগ্র",
+                "ka": "ಉಗ್ರವಾದ"
+            }
         },
         {
             "sanskrit": "प्रतपन्ति",
-            "transliteration": "pratapanti",
-            "meaning": "are burning"
+            "transliteration": {
+                "hi": "प्रतपन्ति",
+                "en": "pratapanti",
+                "be": "প্রতপন্তি",
+                "ka": "ಪ್ರತಪನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जल रहे हैं",
+                "en": "are burning",
+                "be": "জ্বলছে",
+                "ka": "ಉರಿಯುತ್ತಿವೆ"
+            }
         },
         {
             "sanskrit": "विष्णो",
-            "transliteration": "viṣṇo",
-            "meaning": "O Vishnu"
+            "transliteration": {
+                "hi": "विष्णो",
+                "en": "viṣṇo",
+                "be": "বিষ্ণো",
+                "ka": "ವಿಷ್ಣೋ"
+            },
+            "meaning": {
+                "hi": "हे विष्णु!",
+                "en": "O Vishnu",
+                "be": "হে বিষ্ণু",
+                "ka": "ಓ ವಿಷ್ಣು"
+            }
         }
     ],
     "tej": {

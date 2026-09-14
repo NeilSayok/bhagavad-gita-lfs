@@ -14,8 +14,18 @@
         "en": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye .\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||18-30||",
         "ka": "ಪ್ರವೃತ್ತಿಂ ಚ ನಿವೃತ್ತಿಂ ಚ ಕಾರ್ಯಾಕಾರ್ಯೇ ಭಯಾಭಯೇ |\nಬನ್ಧಂ ಮೋಕ್ಷಂ ಚ ಯಾ ವೇತ್ತಿ ಬುದ್ಧಿಃ ಸಾ ಪಾರ್ಥ ಸಾತ್ತ್ವಿಕೀ ||೧೮-೩೦||"
     },
-    "transliteration": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye .\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||18-30||",
-    "life_application": "Intellect which knows action and renunciation, duty and non-duty, fear and fearlessness, bondage and liberation—is Sattvic.",
+    "transliteration": {
+        "hi": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये |\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||१८-३०||",
+        "en": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye .\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||18-30||",
+        "be": "প্রবৃত্তিং চ নিবৃত্তিং চ কার্যাকার্যে ভযাভযে |\nবন্ধং মোক্ষং চ যা বেত্তি বুদ্ধিঃ সা পার্থ সাত্ত্বিকী ||১৮-৩০||",
+        "ka": "ಪ್ರವೃತ್ತಿಂ ಚ ನಿವೃತ್ತಿಂ ಚ ಕಾರ್ಯಾಕಾರ್ಯೇ ಭಯಾಭಯೇ |\nಬನ್ಧಂ ಮೋಕ್ಷಂ ಚ ಯಾ ವೇತ್ತಿ ಬುದ್ಧಿಃ ಸಾ ಪಾರ್ಥ ಸಾತ್ತ್ವಿಕೀ ||೧೮-೩೦||"
+    },
+    "life_application": {
+        "hi": "जो बुद्धि कर्म और त्याग, कर्तव्य और अकर्तव्य, भय और अभय, बंधन और मुक्ति को जानती है वह सात्विक है।",
+        "en": "Intellect which knows action and renunciation, duty and non-duty, fear and fearlessness, bondage and liberation—is Sattvic.",
+        "be": "যে বুদ্ধি কর্ম ও ত্যাগ, কর্তব্য ও অ-কর্তব্য, ভয় ও নির্ভীকতা, বন্ধন ও মুক্তি জানে—সেই সাত্ত্বিক।",
+        "ka": "ಕ್ರಿಯೆ ಮತ್ತು ತ್ಯಜಿಸುವಿಕೆ, ಕರ್ತವ್ಯ ಮತ್ತು ಕರ್ತವ್ಯರಹಿತತೆ, ಭಯ ಮತ್ತು ನಿರ್ಭಯತೆ, ಬಂಧನ ಮತ್ತು ಮುಕ್ತಿಯನ್ನು ತಿಳಿದಿರುವ ಬುದ್ಧಿಯು ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Dharma",
@@ -24,78 +34,228 @@
     "word_meanings": [
         {
             "sanskrit": "प्रवृत्तिम्",
-            "transliteration": "pravṛttim",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "प्रवृत्तिम्",
+                "en": "pravṛttim",
+                "be": "প্রবৃত্তিম্",
+                "ka": "ಪ್ರವೃತ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "निवृत्तिम्",
-            "transliteration": "nivṛttim",
-            "meaning": "the path of renunciation"
+            "transliteration": {
+                "hi": "निवृत्तिम्",
+                "en": "nivṛttim",
+                "be": "নিবৃত্তিম্",
+                "ka": "ನಿವೃತ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "त्याग का मार्ग",
+                "en": "the path of renunciation",
+                "be": "ত্যাগের পথ",
+                "ka": "ತ್ಯಜಿಸುವ ಮಾರ್ಗ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कार्याकार्ये",
-            "transliteration": "kāryākārye",
-            "meaning": "what ought to be"
+            "transliteration": {
+                "hi": "कार्याकार्ये",
+                "en": "kāryākārye",
+                "be": "কার্যাকার্যে",
+                "ka": "ಕಾರ್ಯಾಕಾರ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "क्या होना चाहिए",
+                "en": "what ought to be",
+                "be": "কি হওয়া উচিত",
+                "ka": "ಏನಾಗಿರಬೇಕು"
+            }
         },
         {
             "sanskrit": "भयाभये",
-            "transliteration": "bhayābhaye",
-            "meaning": "fear and fearlessness"
+            "transliteration": {
+                "hi": "भयाभये",
+                "en": "bhayābhaye",
+                "be": "ভযাভযে",
+                "ka": "ಭಯಾಭಯೇ"
+            },
+            "meaning": {
+                "hi": "भय और निडरता",
+                "en": "fear and fearlessness",
+                "be": "ভয় এবং নির্ভীকতা",
+                "ka": "ಭಯ ಮತ್ತು ನಿರ್ಭಯತೆ"
+            }
         },
         {
             "sanskrit": "बन्धम्",
-            "transliteration": "bandham",
-            "meaning": "bondage"
+            "transliteration": {
+                "hi": "बन्धम्",
+                "en": "bandham",
+                "be": "বন্ধম্",
+                "ka": "ಬನ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "बंधन",
+                "en": "bondage",
+                "be": "বন্ধন",
+                "ka": "ಬಂಧನ"
+            }
         },
         {
             "sanskrit": "मोक्षम्",
-            "transliteration": "mokṣam",
-            "meaning": "liberation"
+            "transliteration": {
+                "hi": "मोक्षम्",
+                "en": "mokṣam",
+                "be": "মোক্ষম্",
+                "ka": "ಮೋಕ್ಷಮ್"
+            },
+            "meaning": {
+                "hi": "मुक्ति",
+                "en": "liberation",
+                "be": "মুক্তি",
+                "ka": "ವಿಮೋಚನೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "या",
-            "transliteration": "yā",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "या",
+                "en": "yā",
+                "be": "যা",
+                "ka": "ಯಾ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "सात्त्विकी",
-            "transliteration": "sāttvikī",
-            "meaning": "Sattvic."
+            "transliteration": {
+                "hi": "सात्त्विकी",
+                "en": "sāttvikī",
+                "be": "সাত্ত্বিকী",
+                "ka": "ಸಾತ್ತ್ವಿಕೀ"
+            },
+            "meaning": {
+                "hi": "सात्विक.",
+                "en": "Sattvic.",
+                "be": "সাত্ত্বিক।",
+                "ka": "ಸಾತ್ವಿಕ."
+            }
         }
     ],
     "tej": {

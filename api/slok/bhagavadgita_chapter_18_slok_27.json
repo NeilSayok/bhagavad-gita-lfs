@@ -14,8 +14,18 @@
         "en": "rāgī karmaphalaprepsurlubdho hiṃsātmako.aśuciḥ .\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||18-27||",
         "ka": "ರಾಗೀ ಕರ್ಮಫಲಪ್ರೇಪ್ಸುರ್ಲುಬ್ಧೋ ಹಿಂಸಾತ್ಮಕೋಽಶುಚಿಃ |\nಹರ್ಷಶೋಕಾನ್ವಿತಃ ಕರ್ತಾ ರಾಜಸಃ ಪರಿಕೀರ್ತಿತಃ ||೧೮-೨೭||"
     },
-    "transliteration": "rāgī karmaphalaprepsurlubdho hiṃsātmako.aśuciḥ .\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||18-27||",
-    "life_application": "Doer passionate, desiring action fruits, greedy, harmful, impure, subject to joy and sorrow—is Rajasic.",
+    "transliteration": {
+        "hi": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः |\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||१८-२७||",
+        "en": "rāgī karmaphalaprepsurlubdho hiṃsātmako.aśuciḥ .\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||18-27||",
+        "be": "রাগী কর্মফলপ্রেপ্সুর্লুব্ধো হিংসাত্মকোঽশুচিঃ |\nহর্ষশোকান্বিতঃ কর্তা রাজসঃ পরিকীর্তিতঃ ||১৮-২৭||",
+        "ka": "ರಾಗೀ ಕರ್ಮಫಲಪ್ರೇಪ್ಸುರ್ಲುಬ್ಧೋ ಹಿಂಸಾತ್ಮಕೋಽಶುಚಿಃ |\nಹರ್ಷಶೋಕಾನ್ವಿತಃ ಕರ್ತಾ ರಾಜಸಃ ಪರಿಕೀರ್ತಿತಃ ||೧೮-೨೭||"
+    },
+    "life_application": {
+        "hi": "कर्ता भावुक, कर्म फल की इच्छा रखने वाला, लालची, हानिकारक, अशुद्ध, सुख और दुःख के अधीन - राजसिक है।",
+        "en": "Doer passionate, desiring action fruits, greedy, harmful, impure, subject to joy and sorrow—is Rajasic.",
+        "be": "কর্তা কামুক, কর্ম ফল কামনাকারী, লোভী, ক্ষতিকর, অপবিত্র, আনন্দ ও দুঃখের অধীন—রাজসিক।",
+        "ka": "ಮಾಡುವವನು ಭಾವೋದ್ರಿಕ್ತ, ಕ್ರಿಯಾ ಫಲಗಳನ್ನು ಅಪೇಕ್ಷಿಸುವ, ದುರಾಸೆಯ, ಹಾನಿಕಾರಕ, ಅಶುದ್ಧ, ಸಂತೋಷ ಮತ್ತು ದುಃಖಕ್ಕೆ ಒಳಗಾಗುತ್ತಾನೆ-ರಾಜಸಿಕ್."
+    },
     "themes": [
         "Attachment",
         "Karma"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "रागी",
-            "transliteration": "rāgī",
-            "meaning": "passionate"
+            "transliteration": {
+                "hi": "रागी",
+                "en": "rāgī",
+                "be": "রাগী",
+                "ka": "ರಾಗೀ"
+            },
+            "meaning": {
+                "hi": "भावुक",
+                "en": "passionate",
+                "be": "অনুরাগী",
+                "ka": "ಭಾವೋದ್ರಿಕ್ತ"
+            }
         },
         {
             "sanskrit": "कर्मफलप्रेप्सुः",
-            "transliteration": "karmaphalaprepsuḥ",
-            "meaning": "desirous of the fruit"
+            "transliteration": {
+                "hi": "कर्मफलप्रेप्सुः",
+                "en": "karmaphalaprepsuḥ",
+                "be": "কর্মফলপ্রেপ্সুঃ",
+                "ka": "ಕರ್ಮಫಲಪ್ರೇಪ್ಸುಃ"
+            },
+            "meaning": {
+                "hi": "फल की इच्छा रखने वाला",
+                "en": "desirous of the fruit",
+                "be": "ফল আকাঙ্ক্ষিত",
+                "ka": "ಹಣ್ಣಿನ ಅಪೇಕ್ಷೆ"
+            }
         },
         {
             "sanskrit": "लुब्धः",
-            "transliteration": "lubdhaḥ",
-            "meaning": "greedy"
+            "transliteration": {
+                "hi": "लुब्धः",
+                "en": "lubdhaḥ",
+                "be": "লুব্ধঃ",
+                "ka": "ಲುಬ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "लालची",
+                "en": "greedy",
+                "be": "লোভী",
+                "ka": "ದುರಾಸೆಯ"
+            }
         },
         {
             "sanskrit": "हिंसात्मकः",
-            "transliteration": "hiṃsātmakaḥ",
-            "meaning": "cruel"
+            "transliteration": {
+                "hi": "हिंसात्मकः",
+                "en": "hiṃsātmakaḥ",
+                "be": "হিংসাত্মকঃ",
+                "ka": "ಹಿಂಸಾತ್ಮಕಃ"
+            },
+            "meaning": {
+                "hi": "क्रूर",
+                "en": "cruel",
+                "be": "নিষ্ঠুর",
+                "ka": "ಕ್ರೂರ"
+            }
         },
         {
             "sanskrit": "अशुचिः",
-            "transliteration": "aśuciḥ",
-            "meaning": "impure"
+            "transliteration": {
+                "hi": "अशुचिः",
+                "en": "aśuciḥ",
+                "be": "অশুচিঃ",
+                "ka": "ಅಶುಚಿಃ"
+            },
+            "meaning": {
+                "hi": "अशुद्ध",
+                "en": "impure",
+                "be": "অপবিত্র",
+                "ka": "ಅಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "हर्षशोकान्वितः",
-            "transliteration": "harṣaśokānvitaḥ",
-            "meaning": "moved by joy and"
+            "transliteration": {
+                "hi": "हर्षशोकान्वितः",
+                "en": "harṣaśokānvitaḥ",
+                "be": "হর্ষশোকান্বিতঃ",
+                "ka": "ಹರ್ಷಶೋಕಾನ್ವಿತಃ"
+            },
+            "meaning": {
+                "hi": "खुशी से प्रेरित और",
+                "en": "moved by joy and",
+                "be": "আনন্দ দ্বারা সরানো এবং",
+                "ka": "ಸಂತೋಷದಿಂದ ಚಲಿಸಿತು ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "agent"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "एजेंट",
+                "en": "agent",
+                "be": "এজেন্ট",
+                "ka": "ಏಜೆಂಟ್"
+            }
         },
         {
             "sanskrit": "राजसः",
-            "transliteration": "rājasaḥ",
-            "meaning": "Rajasic"
+            "transliteration": {
+                "hi": "राजसः",
+                "en": "rājasaḥ",
+                "be": "রাজসঃ",
+                "ka": "ರಾಜಸಃ"
+            },
+            "meaning": {
+                "hi": "राजसिक",
+                "en": "Rajasic",
+                "be": "রাজসিক",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         },
         {
             "sanskrit": "परिकीर्तितः",
-            "transliteration": "parikīrtitaḥ",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "परिकीर्तितः",
+                "en": "parikīrtitaḥ",
+                "be": "পরিকীর্তিতঃ",
+                "ka": "ಪರಿಕೀರ್ತಿತಃ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

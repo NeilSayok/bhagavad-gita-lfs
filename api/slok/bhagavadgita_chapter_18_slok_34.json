@@ -14,8 +14,18 @@
         "en": "yayā tu dharmakāmārthāndhṛtyā dhārayate.arjuna .\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||18-34||",
         "ka": "ಯಯಾ ತು ಧರ್ಮಕಾಮಾರ್ಥಾನ್ಧೃತ್ಯಾ ಧಾರಯತೇಽರ್ಜುನ |\nಪ್ರಸಙ್ಗೇನ ಫಲಾಕಾಙ್ಕ್ಷೀ ಧೃತಿಃ ಸಾ ಪಾರ್ಥ ರಾಜಸೀ ||೧೮-೩೪||"
     },
-    "transliteration": "yayā tu dharmakāmārthāndhṛtyā dhārayate.arjuna .\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||18-34||",
-    "life_application": "Fortitude by which one holds fast to duty, pleasure, wealth through attachment, desiring fruits—is Rajasic.",
+    "transliteration": {
+        "hi": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन |\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ||१८-३४||",
+        "en": "yayā tu dharmakāmārthāndhṛtyā dhārayate.arjuna .\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||18-34||",
+        "be": "যযা তু ধর্মকামার্থান্ধৃত্যা ধারযতেঽর্জুন |\nপ্রসঙ্গেন ফলাকাঙ্ক্ষী ধৃতিঃ সা পার্থ রাজসী ||১৮-৩৪||",
+        "ka": "ಯಯಾ ತು ಧರ್ಮಕಾಮಾರ್ಥಾನ್ಧೃತ್ಯಾ ಧಾರಯತೇಽರ್ಜುನ |\nಪ್ರಸಙ್ಗೇನ ಫಲಾಕಾಙ್ಕ್ಷೀ ಧೃತಿಃ ಸಾ ಪಾರ್ಥ ರಾಜಸೀ ||೧೮-೩೪||"
+    },
+    "life_application": {
+        "hi": "जिस धैर्य के द्वारा मनुष्य आसक्ति के द्वारा कर्तव्य, सुख, धन को, फल की इच्छा करके दृढ़ता से पकड़ता है, वह राजस है।",
+        "en": "Fortitude by which one holds fast to duty, pleasure, wealth through attachment, desiring fruits—is Rajasic.",
+        "be": "যে দৃঢ়তা দ্বারা ব্যক্তি কর্তব্য, আনন্দ, ধন-সম্পদে আসক্তি, ফল কামনা করে দৃঢ়ভাবে ধারণ করে- তা হল রাজসিক।",
+        "ka": "ಕರ್ತವ್ಯ, ಆನಂದ, ಬಾಂಧವ್ಯದ ಮೂಲಕ ಸಂಪತ್ತು, ಫಲಗಳನ್ನು ಅಪೇಕ್ಷಿಸುವ ದೃಢತೆ - ರಾಜಸಿಕ."
+    },
     "themes": [
         "Attachment",
         "Duty"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यया",
-            "transliteration": "yayā",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यया",
+                "en": "yayā",
+                "be": "যযা",
+                "ka": "ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "धर्मकामार्थान्",
-            "transliteration": "dharmakāmārthān",
-            "meaning": "Dharma"
+            "transliteration": {
+                "hi": "धर्मकामार्थान्",
+                "en": "dharmakāmārthān",
+                "be": "ধর্মকামার্থান্",
+                "ka": "ಧರ್ಮಕಾಮಾರ್ಥಾನ್"
+            },
+            "meaning": {
+                "hi": "धर्म",
+                "en": "Dharma",
+                "be": "ধর্ম",
+                "ka": "ಧರ್ಮ"
+            }
         },
         {
             "sanskrit": "धृत्या",
-            "transliteration": "dhṛtyā",
-            "meaning": "by firmness"
+            "transliteration": {
+                "hi": "धृत्या",
+                "en": "dhṛtyā",
+                "be": "ধৃত্যা",
+                "ka": "ಧೃತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता से",
+                "en": "by firmness",
+                "be": "দৃঢ়তা দ্বারা",
+                "ka": "ದೃಢತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "धारयते",
-            "transliteration": "dhārayate",
-            "meaning": "holds"
+            "transliteration": {
+                "hi": "धारयते",
+                "en": "dhārayate",
+                "be": "ধারযতে",
+                "ka": "ಧಾರಯತೇ"
+            },
+            "meaning": {
+                "hi": "धारण करता है",
+                "en": "holds",
+                "be": "ধারণ করে",
+                "ka": "ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "प्रसङ्गेन",
-            "transliteration": "prasaṅgena",
-            "meaning": "on account of attachment"
+            "transliteration": {
+                "hi": "प्रसङ्गेन",
+                "en": "prasaṅgena",
+                "be": "প্রসঙ্গেন",
+                "ka": "ಪ್ರಸಙ್ಗೇನ"
+            },
+            "meaning": {
+                "hi": "लगाव के कारण",
+                "en": "on account of attachment",
+                "be": "সংযুক্তির কারণে",
+                "ka": "ಲಗತ್ತಿನ ಖಾತೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "फलाकाङ्क्षी",
-            "transliteration": "phalākāṅkṣī",
-            "meaning": "desirous of the fruit"
+            "transliteration": {
+                "hi": "फलाकाङ्क्षी",
+                "en": "phalākāṅkṣī",
+                "be": "ফলাকাঙ্ক্ষী",
+                "ka": "ಫಲಾಕಾಙ್ಕ್ಷೀ"
+            },
+            "meaning": {
+                "hi": "फल की इच्छा रखने वाला",
+                "en": "desirous of the fruit",
+                "be": "ফল আকাঙ্ক্ষিত",
+                "ka": "ಹಣ್ಣಿನ ಅಪೇಕ್ಷೆ"
+            }
         },
         {
             "sanskrit": "धृतिः",
-            "transliteration": "dhṛtiḥ",
-            "meaning": "firmness"
+            "transliteration": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता",
+                "en": "firmness",
+                "be": "দৃঢ়তা",
+                "ka": "ದೃಢತೆ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "राजसी",
-            "transliteration": "rājasī",
-            "meaning": "Rajasic ."
+            "transliteration": {
+                "hi": "राजसी",
+                "en": "rājasī",
+                "be": "রাজসী",
+                "ka": "ರಾಜಸೀ"
+            },
+            "meaning": {
+                "hi": "राजसिक.",
+                "en": "Rajasic .",
+                "be": "রাজসিক।",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko.alasaḥ .\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate ||18-28||",
         "ka": "ಅಯುಕ್ತಃ ಪ್ರಾಕೃತಃ ಸ್ತಬ್ಧಃ ಶಠೋ ನೈಷ್ಕೃತಿಕೋಽಲಸಃ |\nವಿಷಾದೀ ದೀರ್ಘಸೂತ್ರೀ ಚ ಕರ್ತಾ ತಾಮಸ ಉಚ್ಯತೇ ||೧೮-೨೮||"
     },
-    "transliteration": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko.alasaḥ .\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate ||18-28||",
-    "life_application": "Overcome tendencies toward stubbornness, laziness, deceit, and procrastination by developing steady personal discipline today.",
+    "transliteration": {
+        "hi": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः |\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते ||१८-२८||",
+        "en": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko.alasaḥ .\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate ||18-28||",
+        "be": "অযুক্তঃ প্রাকৃতঃ স্তব্ধঃ শঠো নৈষ্কৃতিকোঽলসঃ |\nবিষাদী দীর্ঘসূত্রী চ কর্তা তামস উচ্যতে ||১৮-২৮||",
+        "ka": "ಅಯುಕ್ತಃ ಪ್ರಾಕೃತಃ ಸ್ತಬ್ಧಃ ಶಠೋ ನೈಷ್ಕೃತಿಕೋಽಲಸಃ |\nವಿಷಾದೀ ದೀರ್ಘಸೂತ್ರೀ ಚ ಕರ್ತಾ ತಾಮಸ ಉಚ್ಯತೇ ||೧೮-೨೮||"
+    },
+    "life_application": {
+        "hi": "आज स्थिर व्यक्तिगत अनुशासन विकसित करके जिद, आलस्य, छल और विलंब की प्रवृत्ति पर काबू पाएं।",
+        "en": "Overcome tendencies toward stubbornness, laziness, deceit, and procrastination by developing steady personal discipline today.",
+        "be": "আজ স্থির ব্যক্তিগত শৃঙ্খলা বিকাশের মাধ্যমে একগুঁয়েমি, অলসতা, প্রতারণা এবং বিলম্বের প্রতি প্রবণতাকে কাটিয়ে উঠুন।",
+        "ka": "ಇಂದು ಸ್ಥಿರವಾದ ವೈಯಕ್ತಿಕ ಶಿಸ್ತನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವ ಮೂಲಕ ಮೊಂಡುತನ, ಸೋಮಾರಿತನ, ವಂಚನೆ ಮತ್ತು ಆಲಸ್ಯದ ಪ್ರವೃತ್ತಿಯನ್ನು ಜಯಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Karma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अयुक्तः",
-            "transliteration": "ayuktaḥ",
-            "meaning": "unsteady"
+            "transliteration": {
+                "hi": "अयुक्तः",
+                "en": "ayuktaḥ",
+                "be": "অযুক্তঃ",
+                "ka": "ಅಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "अस्थिर",
+                "en": "unsteady",
+                "be": "অস্থির",
+                "ka": "ಅಸ್ಥಿರ"
+            }
         },
         {
             "sanskrit": "प्राकृतः",
-            "transliteration": "prākṛtaḥ",
-            "meaning": "vulgar"
+            "transliteration": {
+                "hi": "प्राकृतः",
+                "en": "prākṛtaḥ",
+                "be": "প্রাকৃতঃ",
+                "ka": "ಪ್ರಾಕೃತಃ"
+            },
+            "meaning": {
+                "hi": "अश्लील",
+                "en": "vulgar",
+                "be": "অশ্লীল",
+                "ka": "ಅಸಭ್ಯ"
+            }
         },
         {
             "sanskrit": "स्तब्धः",
-            "transliteration": "stabdhaḥ",
-            "meaning": "unbending"
+            "transliteration": {
+                "hi": "स्तब्धः",
+                "en": "stabdhaḥ",
+                "be": "স্তব্ধঃ",
+                "ka": "ಸ್ತಬ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "खड़ा हुआ",
+                "en": "unbending",
+                "be": "unbending",
+                "ka": "ಬಾಗದ"
+            }
         },
         {
             "sanskrit": "शठः",
-            "transliteration": "śaṭhaḥ",
-            "meaning": "cheating"
+            "transliteration": {
+                "hi": "शठः",
+                "en": "śaṭhaḥ",
+                "be": "শঠঃ",
+                "ka": "ಶಠಃ"
+            },
+            "meaning": {
+                "hi": "धोखा",
+                "en": "cheating",
+                "be": "প্রতারণা",
+                "ka": "ವಂಚನೆ"
+            }
         },
         {
             "sanskrit": "नैष्कृतिकः",
-            "transliteration": "naiṣkṛtikaḥ",
-            "meaning": "malicious"
+            "transliteration": {
+                "hi": "नैष्कृतिकः",
+                "en": "naiṣkṛtikaḥ",
+                "be": "নৈষ্কৃতিকঃ",
+                "ka": "ನೈಷ್ಕೃತಿಕಃ"
+            },
+            "meaning": {
+                "hi": "दुर्भावनापूर्ण",
+                "en": "malicious",
+                "be": "দূষিত",
+                "ka": "ದುರುದ್ದೇಶಪೂರಿತ"
+            }
         },
         {
             "sanskrit": "अलसः",
-            "transliteration": "alasaḥ",
-            "meaning": "lazy"
+            "transliteration": {
+                "hi": "अलसः",
+                "en": "alasaḥ",
+                "be": "অলসঃ",
+                "ka": "ಅಲಸಃ"
+            },
+            "meaning": {
+                "hi": "आलसी",
+                "en": "lazy",
+                "be": "অলস",
+                "ka": "ಸೋಮಾರಿಯಾದ"
+            }
         },
         {
             "sanskrit": "विषादी",
-            "transliteration": "viṣādī",
-            "meaning": "desponding"
+            "transliteration": {
+                "hi": "विषादी",
+                "en": "viṣādī",
+                "be": "বিষাদী",
+                "ka": "ವಿಷಾದೀ"
+            },
+            "meaning": {
+                "hi": "निराशाजनक",
+                "en": "desponding",
+                "be": "হতাশ",
+                "ka": "ಹತಾಶೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "दीर्घसूत्री",
-            "transliteration": "dīrghasūtrī",
-            "meaning": "procrastinating"
+            "transliteration": {
+                "hi": "दीर्घसूत्री",
+                "en": "dīrghasūtrī",
+                "be": "দীর্ঘসূত্রী",
+                "ka": "ದೀರ್ಘಸೂತ್ರೀ"
+            },
+            "meaning": {
+                "hi": "टालमटोल करना",
+                "en": "procrastinating",
+                "be": "বিলম্বিত",
+                "ka": "ಮುಂದೂಡುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "agent"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "एजेंट",
+                "en": "agent",
+                "be": "এজেন্ট",
+                "ka": "ಏಜೆಂಟ್"
+            }
         },
         {
             "sanskrit": "तामसः",
-            "transliteration": "tāmasaḥ",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसः",
+                "en": "tāmasaḥ",
+                "be": "তামসঃ",
+                "ka": "ತಾಮಸಃ"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is said."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है कि।",
+                "en": "is said.",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

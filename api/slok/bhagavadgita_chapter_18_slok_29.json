@@ -14,8 +14,18 @@
         "en": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu .\nprocyamānamaśeṣeṇa pṛthaktvena dhanañjaya ||18-29||",
         "ka": "ಬುದ್ಧೇರ್ಭೇದಂ ಧೃತೇಶ್ಚೈವ ಗುಣತಸ್ತ್ರಿವಿಧಂ ಶೃಣು |\nಪ್ರೋಚ್ಯಮಾನಮಶೇಷೇಣ ಪೃಥಕ್ತ್ವೇನ ಧನಞ್ಜಯ ||೧೮-೨೯||"
     },
-    "transliteration": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu .\nprocyamānamaśeṣeṇa pṛthaktvena dhanañjaya ||18-29||",
-    "life_application": "Hear threefold division of intellect and fortitude according to gunas, fully and individually.",
+    "transliteration": {
+        "hi": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु |\nप्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||१८-२९||",
+        "en": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu .\nprocyamānamaśeṣeṇa pṛthaktvena dhanañjaya ||18-29||",
+        "be": "বুদ্ধের্ভেদং ধৃতেশ্চৈব গুণতস্ত্রিবিধং শৃণু |\nপ্রোচ্যমানমশেষেণ পৃথক্ত্বেন ধনঞ্জয ||১৮-২৯||",
+        "ka": "ಬುದ್ಧೇರ್ಭೇದಂ ಧೃತೇಶ್ಚೈವ ಗುಣತಸ್ತ್ರಿವಿಧಂ ಶೃಣು |\nಪ್ರೋಚ್ಯಮಾನಮಶೇಷೇಣ ಪೃಥಕ್ತ್ವೇನ ಧನಞ್ಜಯ ||೧೮-೨೯||"
+    },
+    "life_application": {
+        "hi": "गुणों के अनुसार बुद्धि और धैर्य का त्रिगुणात्मक विभाजन सुनो, पूर्णतः तथा व्यक्तिगत रूप से।",
+        "en": "Hear threefold division of intellect and fortitude according to gunas, fully and individually.",
+        "be": "সম্পূর্ণরূপে এবং স্বতন্ত্রভাবে, গুণ অনুসারে বুদ্ধি ও দৃঢ়তার ত্রিগুণ বিভাজন শুনুন।",
+        "ka": "ಗುಣಗಳ ಪ್ರಕಾರ ಬುದ್ಧಿ ಮತ್ತು ಸ್ಥೈರ್ಯದ ಮೂರು ಪಟ್ಟು ವಿಭಾಗವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಮತ್ತು ಪ್ರತ್ಯೇಕವಾಗಿ ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "बुद्धेः",
-            "transliteration": "buddheḥ",
-            "meaning": "of intellect"
+            "transliteration": {
+                "hi": "बुद्धेः",
+                "en": "buddheḥ",
+                "be": "বুদ্ধেঃ",
+                "ka": "ಬುದ್ಧೇಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि का",
+                "en": "of intellect",
+                "be": "বুদ্ধির",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿಯ"
+            }
         },
         {
             "sanskrit": "भेदम्",
-            "transliteration": "bhedam",
-            "meaning": "division"
+            "transliteration": {
+                "hi": "भेदम्",
+                "en": "bhedam",
+                "be": "ভেদম্",
+                "ka": "ಭೇದಮ್"
+            },
+            "meaning": {
+                "hi": "प्रभाग",
+                "en": "division",
+                "be": "বিভাগ",
+                "ka": "ವಿಭಾಗ"
+            }
         },
         {
             "sanskrit": "धृतेः",
-            "transliteration": "dhṛteḥ",
-            "meaning": "of firmness"
+            "transliteration": {
+                "hi": "धृतेः",
+                "en": "dhṛteḥ",
+                "be": "ধৃতেঃ",
+                "ka": "ಧೃತೇಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता का",
+                "en": "of firmness",
+                "be": "দৃঢ়তা",
+                "ka": "ದೃಢತೆಯ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "गुणतः",
-            "transliteration": "guṇataḥ",
-            "meaning": "according to alities"
+            "transliteration": {
+                "hi": "गुणतः",
+                "en": "guṇataḥ",
+                "be": "গুণতঃ",
+                "ka": "ಗುಣತಃ"
+            },
+            "meaning": {
+                "hi": "दैहिक गुणों के अनुसार",
+                "en": "according to alities",
+                "be": "alities অনুযায়ী",
+                "ka": "ಅಲಿಟಿಗಳ ಪ್ರಕಾರ"
+            }
         },
         {
             "sanskrit": "त्रिविधम्",
-            "transliteration": "trividham",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधम्",
+                "en": "trividham",
+                "be": "ত্রিবিধম্",
+                "ka": "ತ್ರಿವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear"
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो",
+                "en": "hear",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು"
+            }
         },
         {
             "sanskrit": "प्रोच्यमानम्",
-            "transliteration": "procyamānam",
-            "meaning": "as I declare"
+            "transliteration": {
+                "hi": "प्रोच्यमानम्",
+                "en": "procyamānam",
+                "be": "প্রোচ্যমানম্",
+                "ka": "ಪ್ರೋಚ್ಯಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "जैसा कि मैं घोषणा करता हूं",
+                "en": "as I declare",
+                "be": "যেমন আমি ঘোষণা করছি",
+                "ka": "ನಾನು ಘೋಷಿಸಿದಂತೆ"
+            }
         },
         {
             "sanskrit": "अशेषेण",
-            "transliteration": "aśeṣeṇa",
-            "meaning": "fully"
+            "transliteration": {
+                "hi": "अशेषेण",
+                "en": "aśeṣeṇa",
+                "be": "অশেষেণ",
+                "ka": "ಅಶೇಷೇಣ"
+            },
+            "meaning": {
+                "hi": "पूरी तरह से",
+                "en": "fully",
+                "be": "সম্পূর্ণরূপে",
+                "ka": "ಸಂಪೂರ್ಣವಾಗಿ"
+            }
         },
         {
             "sanskrit": "पृथक्त्वेन",
-            "transliteration": "pṛthaktvena",
-            "meaning": "distinctly"
+            "transliteration": {
+                "hi": "पृथक्त्वेन",
+                "en": "pṛthaktvena",
+                "be": "পৃথক্ত্বেন",
+                "ka": "ಪೃಥಕ್ತ್ವೇನ"
+            },
+            "meaning": {
+                "hi": "स्पष्ट रूप से",
+                "en": "distinctly",
+                "be": "স্পষ্টভাবে",
+                "ka": "ಸ್ಪಷ್ಟವಾಗಿ"
+            }
         },
         {
             "sanskrit": "धनञ्जय",
-            "transliteration": "dhanañjaya",
-            "meaning": "O Dhananjaya."
+            "transliteration": {
+                "hi": "धनञ्जय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয",
+                "ka": "ಧನಞ್ಜಯ"
+            },
+            "meaning": {
+                "hi": "हे धनंजय!",
+                "en": "O Dhananjaya.",
+                "be": "হে ধনঞ্জয়।",
+                "ka": "ಓ ಧನಂಜಯ."
+            }
         }
     ],
     "tej": {

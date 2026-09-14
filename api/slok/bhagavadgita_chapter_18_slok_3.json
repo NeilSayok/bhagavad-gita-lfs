@@ -14,8 +14,18 @@
         "en": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ .\nyajñadānatapaḥkarma na tyājyamiti cāpare ||18-3||",
         "ka": "ತ್ಯಾಜ್ಯಂ ದೋಷವದಿತ್ಯೇಕೇ ಕರ್ಮ ಪ್ರಾಹುರ್ಮನೀಷಿಣಃ |\nಯಜ್ಞದಾನತಪಃಕರ್ಮ ನ ತ್ಯಾಜ್ಯಮಿತಿ ಚಾಪರೇ ||೧೮-೩||"
     },
-    "transliteration": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ .\nyajñadānatapaḥkarma na tyājyamiti cāpare ||18-3||",
-    "life_application": "Some philosophers say action should be abandoned as evil; others say acts of sacrifice, gift, austerity should not be abandoned.",
+    "transliteration": {
+        "hi": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः |\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे ||१८-३||",
+        "en": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ .\nyajñadānatapaḥkarma na tyājyamiti cāpare ||18-3||",
+        "be": "ত্যাজ্যং দোষবদিত্যেকে কর্ম প্রাহুর্মনীষিণঃ |\nযজ্ঞদানতপঃকর্ম ন ত্যাজ্যমিতি চাপরে ||১৮-৩||",
+        "ka": "ತ್ಯಾಜ್ಯಂ ದೋಷವದಿತ್ಯೇಕೇ ಕರ್ಮ ಪ್ರಾಹುರ್ಮನೀಷಿಣಃ |\nಯಜ್ಞದಾನತಪಃಕರ್ಮ ನ ತ್ಯಾಜ್ಯಮಿತಿ ಚಾಪರೇ ||೧೮-೩||"
+    },
+    "life_application": {
+        "hi": "कुछ दार्शनिकों का कहना है कि कर्म को बुरा मानकर छोड़ देना चाहिए; दूसरों का कहना है कि बलिदान, उपहार, तपस्या के कार्यों को नहीं छोड़ा जाना चाहिए।",
+        "en": "Some philosophers say action should be abandoned as evil; others say acts of sacrifice, gift, austerity should not be abandoned.",
+        "be": "কিছু দার্শনিক বলেন কর্মকে মন্দ বলে পরিত্যাগ করা উচিত; অন্যরা বলে ত্যাগ, দান, তপস্যা ত্যাগ করা উচিত নয়।",
+        "ka": "ಕೆಲವು ತತ್ವಜ್ಞಾನಿಗಳು ಕ್ರಿಯೆಯನ್ನು ದುಷ್ಟ ಎಂದು ತ್ಯಜಿಸಬೇಕು ಎಂದು ಹೇಳುತ್ತಾರೆ; ಇತರರು ತ್ಯಾಗ, ಉಡುಗೊರೆ, ಸಂಯಮವನ್ನು ಬಿಡಬಾರದು ಎಂದು ಹೇಳುತ್ತಾರೆ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "त्याज्यम्",
-            "transliteration": "tyājyam",
-            "meaning": "should be abandoned"
+            "transliteration": {
+                "hi": "त्याज्यम्",
+                "en": "tyājyam",
+                "be": "ত্যাজ্যম্",
+                "ka": "ತ್ಯಾಜ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "छोड़ देना चाहिए",
+                "en": "should be abandoned",
+                "be": "পরিত্যাগ করা উচিত",
+                "ka": "ಕೈಬಿಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "दोषवत्",
-            "transliteration": "doṣavat",
-            "meaning": "as an evil"
+            "transliteration": {
+                "hi": "दोषवत्",
+                "en": "doṣavat",
+                "be": "দোষবত্",
+                "ka": "ದೋಷವತ್"
+            },
+            "meaning": {
+                "hi": "एक बुराई के रूप में",
+                "en": "as an evil",
+                "be": "একটি মন্দ হিসাবে",
+                "ka": "ದುಷ್ಟನಾಗಿ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एके",
-            "transliteration": "eke",
-            "meaning": "some"
+            "transliteration": {
+                "hi": "एके",
+                "en": "eke",
+                "be": "একে",
+                "ka": "ಏಕೇ"
+            },
+            "meaning": {
+                "hi": "कुछ",
+                "en": "some",
+                "be": "কিছু",
+                "ka": "ಕೆಲವು"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "प्राहुः",
-            "transliteration": "prāhuḥ",
-            "meaning": "declare"
+            "transliteration": {
+                "hi": "प्राहुः",
+                "en": "prāhuḥ",
+                "be": "প্রাহুঃ",
+                "ka": "ಪ್ರಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "घोषित करें",
+                "en": "declare",
+                "be": "ঘোষণা",
+                "ka": "ಘೋಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "मनीषिणः",
-            "transliteration": "manīṣiṇaḥ",
-            "meaning": "philosophers"
+            "transliteration": {
+                "hi": "मनीषिणः",
+                "en": "manīṣiṇaḥ",
+                "be": "মনীষিণঃ",
+                "ka": "ಮನೀಷಿಣಃ"
+            },
+            "meaning": {
+                "hi": "दार्शनिक",
+                "en": "philosophers",
+                "be": "দার্শনিক",
+                "ka": "ತತ್ವಜ್ಞಾನಿಗಳು"
+            }
         },
         {
             "sanskrit": "यज्ञदानतपःकर्म",
-            "transliteration": "yajñadānatapaḥkarma",
-            "meaning": "acts of sacrifice"
+            "transliteration": {
+                "hi": "यज्ञदानतपःकर्म",
+                "en": "yajñadānatapaḥkarma",
+                "be": "যজ্ঞদানতপঃকর্ম",
+                "ka": "ಯಜ್ಞದಾನತಪಃಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "बलिदान के कार्य",
+                "en": "acts of sacrifice",
+                "be": "বলিদানের কাজ",
+                "ka": "ತ್ಯಾಗದ ಕಾರ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्याज्यम्",
-            "transliteration": "tyājyam",
-            "meaning": "should be relinished"
+            "transliteration": {
+                "hi": "त्याज्यम्",
+                "en": "tyājyam",
+                "be": "ত্যাজ্যম্",
+                "ka": "ತ್ಯಾಜ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "पुनः त्यागना चाहिए",
+                "en": "should be relinished",
+                "be": "পরিত্যাগ করা উচিত",
+                "ka": "ಮರುಳಾಗಬೇಕು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपरे",
-            "transliteration": "apare",
-            "meaning": "others."
+            "transliteration": {
+                "hi": "अपरे",
+                "en": "apare",
+                "be": "অপরে",
+                "ka": "ಅಪರೇ"
+            },
+            "meaning": {
+                "hi": "अन्य.",
+                "en": "others.",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು."
+            }
         }
     ],
     "tej": {

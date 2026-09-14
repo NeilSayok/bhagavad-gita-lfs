@@ -14,8 +14,18 @@
         "en": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca .\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||18-35||",
         "ka": "ಯಯಾ ಸ್ವಪ್ನಂ ಭಯಂ ಶೋಕಂ ವಿಷಾದಂ ಮದಮೇವ ಚ |\nನ ವಿಮುಞ್ಚತಿ ದುರ್ಮೇಧಾ ಧೃತಿಃ ಸಾ ಪಾರ್ಥ ತಾಮಸೀ ||೧೮-೩೫||"
     },
-    "transliteration": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca .\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||18-35||",
-    "life_application": "Fortitude by which a foolish person does not give up sleep, fear, grief, despondency, arrogance—is Tamasic.",
+    "transliteration": {
+        "hi": "यया स्वप्नं भयं शोकं विषादं मदमेव च |\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ||१८-३५||",
+        "en": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca .\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||18-35||",
+        "be": "যযা স্বপ্নং ভযং শোকং বিষাদং মদমেব চ |\nন বিমুঞ্চতি দুর্মেধা ধৃতিঃ সা পার্থ তামসী ||১৮-৩৫||",
+        "ka": "ಯಯಾ ಸ್ವಪ್ನಂ ಭಯಂ ಶೋಕಂ ವಿಷಾದಂ ಮದಮೇವ ಚ |\nನ ವಿಮುಞ್ಚತಿ ದುರ್ಮೇಧಾ ಧೃತಿಃ ಸಾ ಪಾರ್ಥ ತಾಮಸೀ ||೧೮-೩೫||"
+    },
+    "life_application": {
+        "hi": "जिस धैर्य के द्वारा मूर्ख व्यक्ति निद्रा, भय, शोक, निराशा और अहंकार को नहीं त्यागता वह तामस है।",
+        "en": "Fortitude by which a foolish person does not give up sleep, fear, grief, despondency, arrogance—is Tamasic.",
+        "be": "যে দৃঢ়তা দ্বারা মূর্খ ব্যক্তি নিদ্রা, ভয়, শোক, হতাশা, অহংকার ত্যাগ করে না—তামসিক।",
+        "ka": "ಮೂರ್ಖನು ನಿದ್ರೆ, ಭಯ, ದುಃಖ, ಹತಾಶೆ, ಅಹಂಕಾರವನ್ನು ಬಿಡದ ದೃಢತೆ ತಾಮಸಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Mind",
         "Fear"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "यया",
-            "transliteration": "yayā",
-            "meaning": "by which"
+            "transliteration": {
+                "hi": "यया",
+                "en": "yayā",
+                "be": "যযা",
+                "ka": "ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "जिससे",
+                "en": "by which",
+                "be": "যার দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "स्वप्नम्",
-            "transliteration": "svapnam",
-            "meaning": "sleep"
+            "transliteration": {
+                "hi": "स्वप्नम्",
+                "en": "svapnam",
+                "be": "স্বপ্নম্",
+                "ka": "ಸ್ವಪ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "नींद",
+                "en": "sleep",
+                "be": "ঘুম",
+                "ka": "ನಿದ್ರೆ"
+            }
         },
         {
             "sanskrit": "भयम्",
-            "transliteration": "bhayam",
-            "meaning": "fear"
+            "transliteration": {
+                "hi": "भयम्",
+                "en": "bhayam",
+                "be": "ভযম্",
+                "ka": "ಭಯಮ್"
+            },
+            "meaning": {
+                "hi": "डर",
+                "en": "fear",
+                "be": "ভয়",
+                "ka": "ಭಯ"
+            }
         },
         {
             "sanskrit": "शोकम्",
-            "transliteration": "śokam",
-            "meaning": "grief"
+            "transliteration": {
+                "hi": "शोकम्",
+                "en": "śokam",
+                "be": "শোকম্",
+                "ka": "ಶೋಕಮ್"
+            },
+            "meaning": {
+                "hi": "दु:ख",
+                "en": "grief",
+                "be": "দুঃখ",
+                "ka": "ದುಃಖ"
+            }
         },
         {
             "sanskrit": "विषादम्",
-            "transliteration": "viṣādam",
-            "meaning": "despair"
+            "transliteration": {
+                "hi": "विषादम्",
+                "en": "viṣādam",
+                "be": "বিষাদম্",
+                "ka": "ವಿಷಾದಮ್"
+            },
+            "meaning": {
+                "hi": "निराशा",
+                "en": "despair",
+                "be": "হতাশা",
+                "ka": "ಹತಾಶೆ"
+            }
         },
         {
             "sanskrit": "मदम्",
-            "transliteration": "madam",
-            "meaning": "conceit"
+            "transliteration": {
+                "hi": "मदम्",
+                "en": "madam",
+                "be": "মদম্",
+                "ka": "ಮದಮ್"
+            },
+            "meaning": {
+                "hi": "दंभ",
+                "en": "conceit",
+                "be": "অহংকার",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विमुञ्चति",
-            "transliteration": "vimuñcati",
-            "meaning": "abandons"
+            "transliteration": {
+                "hi": "विमुञ्चति",
+                "en": "vimuñcati",
+                "be": "বিমুঞ্চতি",
+                "ka": "ವಿಮುಞ್ಚತಿ"
+            },
+            "meaning": {
+                "hi": "छोड़ देता है",
+                "en": "abandons",
+                "be": "পরিত্যাগ করে",
+                "ka": "ತ್ಯಜಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "दुर्मेधाः",
-            "transliteration": "durmedhāḥ",
-            "meaning": "a stupid man"
+            "transliteration": {
+                "hi": "दुर्मेधाः",
+                "en": "durmedhāḥ",
+                "be": "দুর্মেধাঃ",
+                "ka": "ದುರ್ಮೇಧಾಃ"
+            },
+            "meaning": {
+                "hi": "एक मूर्ख आदमी",
+                "en": "a stupid man",
+                "be": "একটি বোকা মানুষ",
+                "ka": "ಒಬ್ಬ ಮೂರ್ಖ ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "धृतिः",
-            "transliteration": "dhṛtiḥ",
-            "meaning": "firmness"
+            "transliteration": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता",
+                "en": "firmness",
+                "be": "দৃঢ়তা",
+                "ka": "ದೃಢತೆ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "तामसी",
-            "transliteration": "tāmasī",
-            "meaning": "Tamasic ."
+            "transliteration": {
+                "hi": "तामसी",
+                "en": "tāmasī",
+                "be": "তামসী",
+                "ka": "ತಾಮಸೀ"
+            },
+            "meaning": {
+                "hi": "तामसिक.",
+                "en": "Tamasic .",
+                "be": "তামসিক।",
+                "ka": "ತಾಮಸಿಕ."
+            }
         }
     ],
     "tej": {

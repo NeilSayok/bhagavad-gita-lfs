@@ -14,8 +14,18 @@
         "en": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca .\nayathāvatprajānāti buddhiḥ sā pārtha rājasī ||18-31||",
         "ka": "ಯಯಾ ಧರ್ಮಮಧರ್ಮಂ ಚ ಕಾರ್ಯಂ ಚಾಕಾರ್ಯಮೇವ ಚ |\nಅಯಥಾವತ್ಪ್ರಜಾನಾತಿ ಬುದ್ಧಿಃ ಸಾ ಪಾರ್ಥ ರಾಜಸೀ ||೧೮-೩೧||"
     },
-    "transliteration": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca .\nayathāvatprajānāti buddhiḥ sā pārtha rājasī ||18-31||",
-    "life_application": "Refine your intellect so you can distinguish correctly between righteous duty and unrighteous action today.",
+    "transliteration": {
+        "hi": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च |\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||",
+        "en": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca .\nayathāvatprajānāti buddhiḥ sā pārtha rājasī ||18-31||",
+        "be": "যযা ধর্মমধর্মং চ কার্যং চাকার্যমেব চ |\nঅযথাবত্প্রজানাতি বুদ্ধিঃ সা পার্থ রাজসী ||১৮-৩১||",
+        "ka": "ಯಯಾ ಧರ್ಮಮಧರ್ಮಂ ಚ ಕಾರ್ಯಂ ಚಾಕಾರ್ಯಮೇವ ಚ |\nಅಯಥಾವತ್ಪ್ರಜಾನಾತಿ ಬುದ್ಧಿಃ ಸಾ ಪಾರ್ಥ ರಾಜಸೀ ||೧೮-೩೧||"
+    },
+    "life_application": {
+        "hi": "अपनी बुद्धि को परिष्कृत करें ताकि आप आज धर्मी कर्तव्य और अधर्मी कार्य के बीच सही ढंग से अंतर कर सकें।",
+        "en": "Refine your intellect so you can distinguish correctly between righteous duty and unrighteous action today.",
+        "be": "আপনার বুদ্ধিকে পরিমার্জিত করুন যাতে আপনি আজ ন্যায়পরায়ণ কর্তব্য এবং অন্যায় কর্মের মধ্যে সঠিকভাবে পার্থক্য করতে পারেন।",
+        "ka": "ನಿಮ್ಮ ಬುದ್ಧಿಯನ್ನು ಪರಿಷ್ಕರಿಸಿ ಇದರಿಂದ ನೀವು ಇಂದು ನ್ಯಾಯದ ಕರ್ತವ್ಯ ಮತ್ತು ಅನ್ಯಾಯದ ಕ್ರಿಯೆಯ ನಡುವೆ ಸರಿಯಾಗಿ ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಕೊಳ್ಳಬಹುದು."
+    },
     "themes": [
         "Knowledge",
         "Dharma"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "यया",
-            "transliteration": "yayā",
-            "meaning": "by which"
+            "transliteration": {
+                "hi": "यया",
+                "en": "yayā",
+                "be": "যযা",
+                "ka": "ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "जिससे",
+                "en": "by which",
+                "be": "যার দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "धर्मम्",
-            "transliteration": "dharmam",
-            "meaning": "Dharma"
+            "transliteration": {
+                "hi": "धर्मम्",
+                "en": "dharmam",
+                "be": "ধর্মম্",
+                "ka": "ಧರ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "धर्म",
+                "en": "Dharma",
+                "be": "ধর্ম",
+                "ka": "ಧರ್ಮ"
+            }
         },
         {
             "sanskrit": "अधर्मम्",
-            "transliteration": "adharmam",
-            "meaning": "Adharma"
+            "transliteration": {
+                "hi": "अधर्मम्",
+                "en": "adharmam",
+                "be": "অধর্মম্",
+                "ka": "ಅಧರ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "अधर्म",
+                "en": "Adharma",
+                "be": "অধর্ম",
+                "ka": "ಅಧರ್ಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कार्यम्",
-            "transliteration": "kāryam",
-            "meaning": "what ought to be"
+            "transliteration": {
+                "hi": "कार्यम्",
+                "en": "kāryam",
+                "be": "কার্যম্",
+                "ka": "ಕಾರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "क्या होना चाहिए",
+                "en": "what ought to be",
+                "be": "কি হওয়া উচিত",
+                "ka": "ಏನಾಗಿರಬೇಕು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अकार्यम्",
-            "transliteration": "akāryam",
-            "meaning": "what ought not to"
+            "transliteration": {
+                "hi": "अकार्यम्",
+                "en": "akāryam",
+                "be": "অকার্যম্",
+                "ka": "ಅಕಾರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "क्या नहीं करना चाहिए",
+                "en": "what ought not to",
+                "be": "কি করা উচিত নয়",
+                "ka": "ಏನು ಮಾಡಬಾರದು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अयथावत्",
-            "transliteration": "ayathāvat",
-            "meaning": "wrongly"
+            "transliteration": {
+                "hi": "अयथावत्",
+                "en": "ayathāvat",
+                "be": "অযথাবত্",
+                "ka": "ಅಯಥಾವತ್"
+            },
+            "meaning": {
+                "hi": "गलत तरीके से",
+                "en": "wrongly",
+                "be": "ভুলভাবে",
+                "ka": "ತಪ್ಪಾಗಿ"
+            }
         },
         {
             "sanskrit": "प्रजानाति",
-            "transliteration": "prajānāti",
-            "meaning": "understands"
+            "transliteration": {
+                "hi": "प्रजानाति",
+                "en": "prajānāti",
+                "be": "প্রজানাতি",
+                "ka": "ಪ್ರಜಾನಾತಿ"
+            },
+            "meaning": {
+                "hi": "समझता है",
+                "en": "understands",
+                "be": "বোঝে",
+                "ka": "ಅರ್ಥವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "राजसी",
-            "transliteration": "rājasī",
-            "meaning": "Rajasic ."
+            "transliteration": {
+                "hi": "राजसी",
+                "en": "rājasī",
+                "be": "রাজসী",
+                "ka": "ರಾಜಸೀ"
+            },
+            "meaning": {
+                "hi": "राजसिक.",
+                "en": "Rajasic .",
+                "be": "রাজসিক।",
+                "ka": "ರಾಜಸಿಕ್"
+            }
         }
     ],
     "tej": {

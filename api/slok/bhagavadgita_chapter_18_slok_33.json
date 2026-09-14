@@ -14,8 +14,18 @@
         "en": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ .\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||18-33||",
         "ka": "ಧೃತ್ಯಾ ಯಯಾ ಧಾರಯತೇ ಮನಃಪ್ರಾಣೇನ್ದ್ರಿಯಕ್ರಿಯಾಃ |\nಯೋಗೇನಾವ್ಯಭಿಚಾರಿಣ್ಯಾ ಧೃತಿಃ ಸಾ ಪಾರ್ಥ ಸಾತ್ತ್ವಿಕೀ ||೧೮-೩೩||"
     },
-    "transliteration": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ .\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||18-33||",
-    "life_application": "Fortitude by which functions of mind, breath, and senses are held through unswerving yoga—is Sattvic.",
+    "transliteration": {
+        "hi": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः |\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ||१८-३३||",
+        "en": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ .\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||18-33||",
+        "be": "ধৃত্যা যযা ধারযতে মনঃপ্রাণেন্দ্রিযক্রিযাঃ |\nযোগেনাব্যভিচারিণ্যা ধৃতিঃ সা পার্থ সাত্ত্বিকী ||১৮-৩৩||",
+        "ka": "ಧೃತ್ಯಾ ಯಯಾ ಧಾರಯತೇ ಮನಃಪ್ರಾಣೇನ್ದ್ರಿಯಕ್ರಿಯಾಃ |\nಯೋಗೇನಾವ್ಯಭಿಚಾರಿಣ್ಯಾ ಧೃತಿಃ ಸಾ ಪಾರ್ಥ ಸಾತ್ತ್ವಿಕೀ ||೧೮-೩೩||"
+    },
+    "life_application": {
+        "hi": "दृढ़ता जिसके द्वारा मन, श्वास और इंद्रियों के कार्यों को अटल योग के माध्यम से नियंत्रित किया जाता है - सात्विक है।",
+        "en": "Fortitude by which functions of mind, breath, and senses are held through unswerving yoga—is Sattvic.",
+        "be": "অটল যোগের মাধ্যমে মন, শ্বাস এবং ইন্দ্রিয়ের কাজগুলি যে দৃঢ়তার দ্বারা সংঘটিত হয় তা হল সাত্ত্বিক।",
+        "ka": "ಅಚಲವಾದ ಯೋಗದ ಮೂಲಕ ಮನಸ್ಸು, ಉಸಿರು ಮತ್ತು ಇಂದ್ರಿಯಗಳ ಕಾರ್ಯಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸ್ಥೈರ್ಯವು ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "धृत्या",
-            "transliteration": "dhṛtyā",
-            "meaning": "by firmness"
+            "transliteration": {
+                "hi": "धृत्या",
+                "en": "dhṛtyā",
+                "be": "ধৃত্যা",
+                "ka": "ಧೃತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता से",
+                "en": "by firmness",
+                "be": "দৃঢ়তা দ্বারা",
+                "ka": "ದೃಢತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "यया",
-            "transliteration": "yayā",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यया",
+                "en": "yayā",
+                "be": "যযা",
+                "ka": "ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "धारयते",
-            "transliteration": "dhārayate",
-            "meaning": "holds"
+            "transliteration": {
+                "hi": "धारयते",
+                "en": "dhārayate",
+                "be": "ধারযতে",
+                "ka": "ಧಾರಯತೇ"
+            },
+            "meaning": {
+                "hi": "धारण करता है",
+                "en": "holds",
+                "be": "ধারণ করে",
+                "ka": "ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "मनःप्राणेन्द्रियक्रियाः",
-            "transliteration": "manaḥprāṇendriyakriyāḥ",
-            "meaning": "the functions of the"
+            "transliteration": {
+                "hi": "मनःप्राणेन्द्रियक्रियाः",
+                "en": "manaḥprāṇendriyakriyāḥ",
+                "be": "মনঃপ্রাণেন্দ্রিযক্রিযাঃ",
+                "ka": "ಮನಃಪ್ರಾಣೇನ್ದ್ರಿಯಕ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "के कार्य",
+                "en": "the functions of the",
+                "be": "এর কার্যাবলী",
+                "ka": "ನ ಕಾರ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "योगेन",
-            "transliteration": "yogena",
-            "meaning": "by Yoga"
+            "transliteration": {
+                "hi": "योगेन",
+                "en": "yogena",
+                "be": "যোগেন",
+                "ka": "ಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "योग द्वारा",
+                "en": "by Yoga",
+                "be": "যোগ দ্বারা",
+                "ka": "ಯೋಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "अव्यभिचारिण्या",
-            "transliteration": "avyabhicāriṇyā",
-            "meaning": "unswerving"
+            "transliteration": {
+                "hi": "अव्यभिचारिण्या",
+                "en": "avyabhicāriṇyā",
+                "be": "অব্যভিচারিণ্যা",
+                "ka": "ಅವ್ಯಭಿಚಾರಿಣ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "अटल",
+                "en": "unswerving",
+                "be": "অস্থির",
+                "ka": "ಅಚಲ"
+            }
         },
         {
             "sanskrit": "धृतिः",
-            "transliteration": "dhṛtiḥ",
-            "meaning": "firmness"
+            "transliteration": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता",
+                "en": "firmness",
+                "be": "দৃঢ়তা",
+                "ka": "ದೃಢತೆ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "सात्त्विकी",
-            "transliteration": "sāttvikī",
-            "meaning": "Sattvic ."
+            "transliteration": {
+                "hi": "सात्त्विकी",
+                "en": "sāttvikī",
+                "be": "সাত্ত্বিকী",
+                "ka": "ಸಾತ್ತ್ವಿಕೀ"
+            },
+            "meaning": {
+                "hi": "सात्विक.",
+                "en": "Sattvic .",
+                "be": "সাত্ত্বিক।",
+                "ka": "ಸಾತ್ವಿಕ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "adharmaṃ dharmamiti yā manyate tamasāvṛtā .\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī ||18-32||",
         "ka": "ಅಧರ್ಮಂ ಧರ್ಮಮಿತಿ ಯಾ ಮನ್ಯತೇ ತಮಸಾವೃತಾ |\nಸರ್ವಾರ್ಥಾನ್ವಿಪರೀತಾಂಶ್ಚ ಬುದ್ಧಿಃ ಸಾ ಪಾರ್ಥ ತಾಮಸೀ ||೧೮-೩೨||"
     },
-    "transliteration": "adharmaṃ dharmamiti yā manyate tamasāvṛtā .\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī ||18-32||",
-    "life_application": "Intellect enveloped in darkness, taking adharma to be dharma, reversing all values—is Tamasic.",
+    "transliteration": {
+        "hi": "अधर्मं धर्ममिति या मन्यते तमसावृता |\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||१८-३२||",
+        "en": "adharmaṃ dharmamiti yā manyate tamasāvṛtā .\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī ||18-32||",
+        "be": "অধর্মং ধর্মমিতি যা মন্যতে তমসাবৃতা |\nসর্বার্থান্বিপরীতাংশ্চ বুদ্ধিঃ সা পার্থ তামসী ||১৮-৩২||",
+        "ka": "ಅಧರ್ಮಂ ಧರ್ಮಮಿತಿ ಯಾ ಮನ್ಯತೇ ತಮಸಾವೃತಾ |\nಸರ್ವಾರ್ಥಾನ್ವಿಪರೀತಾಂಶ್ಚ ಬುದ್ಧಿಃ ಸಾ ಪಾರ್ಥ ತಾಮಸೀ ||೧೮-೩೨||"
+    },
+    "life_application": {
+        "hi": "अंधकार में लिपटी बुद्धि, अधर्म को धर्म मान लेना, सभी मूल्यों को उलट देना-तामसिक है।",
+        "en": "Intellect enveloped in darkness, taking adharma to be dharma, reversing all values—is Tamasic.",
+        "be": "অন্ধকারে ঢেকে থাকা বুদ্ধি, অধর্মকে ধর্ম হিসাবে গ্রহণ করা, সমস্ত মূল্যবোধকে উল্টানো - তামসিক।",
+        "ka": "ಬುದ್ಧಿಯು ಕತ್ತಲೆಯಲ್ಲಿ ಆವೃತವಾಗಿದೆ, ಅಧರ್ಮವನ್ನು ಧರ್ಮವೆಂದು ತೆಗೆದುಕೊಳ್ಳುವುದು, ಎಲ್ಲಾ ಮೌಲ್ಯಗಳನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸುವುದು-ತಾಮಸಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Dharma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अधर्मम्",
-            "transliteration": "adharmam",
-            "meaning": "Adharma"
+            "transliteration": {
+                "hi": "अधर्मम्",
+                "en": "adharmam",
+                "be": "অধর্মম্",
+                "ka": "ಅಧರ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "अधर्म",
+                "en": "Adharma",
+                "be": "অধর্ম",
+                "ka": "ಅಧರ್ಮ"
+            }
         },
         {
             "sanskrit": "धर्मम्",
-            "transliteration": "dharmam",
-            "meaning": "Dharma"
+            "transliteration": {
+                "hi": "धर्मम्",
+                "en": "dharmam",
+                "be": "ধর্মম্",
+                "ka": "ಧರ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "धर्म",
+                "en": "Dharma",
+                "be": "ধর্ম",
+                "ka": "ಧರ್ಮ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "या",
-            "transliteration": "yā",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "या",
+                "en": "yā",
+                "be": "যা",
+                "ka": "ಯಾ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "मन्यते",
-            "transliteration": "manyate",
-            "meaning": "thinks"
+            "transliteration": {
+                "hi": "मन्यते",
+                "en": "manyate",
+                "be": "মন্যতে",
+                "ka": "ಮನ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "सोचता है",
+                "en": "thinks",
+                "be": "মনে করে",
+                "ka": "ಯೋಚಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "तमसा",
-            "transliteration": "tamasā",
-            "meaning": "by darkness"
+            "transliteration": {
+                "hi": "तमसा",
+                "en": "tamasā",
+                "be": "তমসা",
+                "ka": "ತಮಸಾ"
+            },
+            "meaning": {
+                "hi": "अंधेरे से",
+                "en": "by darkness",
+                "be": "অন্ধকার দ্বারা",
+                "ka": "ಕತ್ತಲೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "आवृता",
-            "transliteration": "āvṛtā",
-            "meaning": "enveloped"
+            "transliteration": {
+                "hi": "आवृता",
+                "en": "āvṛtā",
+                "be": "আবৃতা",
+                "ka": "ಆವೃತಾ"
+            },
+            "meaning": {
+                "hi": "आच्छादित",
+                "en": "enveloped",
+                "be": "enveloped",
+                "ka": "ಆವರಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वार्थान्",
-            "transliteration": "sarvārthān",
-            "meaning": "all things"
+            "transliteration": {
+                "hi": "सर्वार्थान्",
+                "en": "sarvārthān",
+                "be": "সর্বার্থান্",
+                "ka": "ಸರ್ವಾರ್ಥಾನ್"
+            },
+            "meaning": {
+                "hi": "सभी चीजें",
+                "en": "all things",
+                "be": "সব জিনিস",
+                "ka": "ಎಲ್ಲಾ ವಿಷಯಗಳು"
+            }
         },
         {
             "sanskrit": "विपरीतान्",
-            "transliteration": "viparītān",
-            "meaning": "perverted"
+            "transliteration": {
+                "hi": "विपरीतान्",
+                "en": "viparītān",
+                "be": "বিপরীতান্",
+                "ka": "ವಿಪರೀತಾನ್"
+            },
+            "meaning": {
+                "hi": "विकृत",
+                "en": "perverted",
+                "be": "বিকৃত",
+                "ka": "ವಿಕೃತ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "तामसी",
-            "transliteration": "tāmasī",
-            "meaning": "Tamasic ."
+            "transliteration": {
+                "hi": "तामसी",
+                "en": "tāmasī",
+                "be": "তামসী",
+                "ka": "ತಾಮಸೀ"
+            },
+            "meaning": {
+                "hi": "तामसिक.",
+                "en": "Tamasic .",
+                "be": "তামসিক।",
+                "ka": "ತಾಮಸಿಕ."
+            }
         }
     ],
     "tej": {

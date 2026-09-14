@@ -14,8 +14,18 @@
         "en": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||",
         "ka": "ನಾನ್ತೋಽಸ್ತಿ ಮಮ ದಿವ್ಯಾನಾಂ ವಿಭೂತೀನಾಂ ಪರನ್ತಪ |\nಏಷ ತೂದ್ದೇಶತಃ ಪ್ರೋಕ್ತೋ ವಿಭೂತೇರ್ವಿಸ್ತರೋ ಮಯಾ ||೧೦-೪೦||"
     },
-    "transliteration": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||",
-    "life_application": "Understand that there is no end to divine manifestations; what has been declared is merely a brief illustration.",
+    "transliteration": {
+        "hi": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |\nएष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||",
+        "en": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||",
+        "be": "নান্তোঽস্তি মম দিব্যানাং বিভূতীনাং পরন্তপ |\nএষ তূদ্দেশতঃ প্রোক্তো বিভূতের্বিস্তরো মযা ||১০-৪০||",
+        "ka": "ನಾನ್ತೋಽಸ್ತಿ ಮಮ ದಿವ್ಯಾನಾಂ ವಿಭೂತೀನಾಂ ಪರನ್ತಪ |\nಏಷ ತೂದ್ದೇಶತಃ ಪ್ರೋಕ್ತೋ ವಿಭೂತೇರ್ವಿಸ್ತರೋ ಮಯಾ ||೧೦-೪೦||"
+    },
+    "life_application": {
+        "hi": "समझें कि दिव्य अभिव्यक्तियों का कोई अंत नहीं है; जो घोषित किया गया है वह केवल एक संक्षिप्त चित्रण है।",
+        "en": "Understand that there is no end to divine manifestations; what has been declared is merely a brief illustration.",
+        "be": "বুঝুন যে ঐশ্বরিক প্রকাশের কোন শেষ নেই; যা ঘোষণা করা হয়েছে তা একটি সংক্ষিপ্ত চিত্র মাত্র।",
+        "ka": "ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಗಳಿಗೆ ಅಂತ್ಯವಿಲ್ಲ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ; ಏನನ್ನು ಘೋಷಿಸಲಾಗಿದೆ ಎಂಬುದು ಕೇವಲ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆಯಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "नान्तोऽस्ति",
-            "transliteration": "nānto'sti",
-            "meaning": "nānto'sti"
+            "transliteration": {
+                "hi": "नान्तोऽस्ति",
+                "en": "nānto'sti",
+                "be": "নান্তোঽস্তি",
+                "ka": "ನಾನ್ತೋಽಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नान्तो'स्ति",
+                "en": "nānto'sti",
+                "be": "nānto'sti",
+                "ka": "ನಾಂಟೋ'ಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "दिव्यानां",
-            "transliteration": "divyānāṃ",
-            "meaning": "divyānāṃ"
+            "transliteration": {
+                "hi": "दिव्यानां",
+                "en": "divyānāṃ",
+                "be": "দিব্যানাং",
+                "ka": "ದಿವ್ಯಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "दिव्यानां",
+                "en": "divyānāṃ",
+                "be": "divyānāṃ",
+                "ka": "ದಿವ್ಯಾನಂ"
+            }
         },
         {
             "sanskrit": "विभूतीनां",
-            "transliteration": "vibhūtīnāṃ",
-            "meaning": "vibhūtīnāṃ"
+            "transliteration": {
+                "hi": "विभूतीनां",
+                "en": "vibhūtīnāṃ",
+                "be": "বিভূতীনাং",
+                "ka": "ವಿಭೂತೀನಾಂ"
+            },
+            "meaning": {
+                "hi": "विभूतिनाम्",
+                "en": "vibhūtīnāṃ",
+                "be": "বিভূতিনাম",
+                "ka": "ವಿಭೂತಿನಾಂ"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "parantapa"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "परंतपा",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರಂತಪ"
+            }
         },
         {
             "sanskrit": "एष",
-            "transliteration": "eṣa",
-            "meaning": "eṣa"
+            "transliteration": {
+                "hi": "एष",
+                "en": "eṣa",
+                "be": "এষ",
+                "ka": "ಏಷ"
+            },
+            "meaning": {
+                "hi": "ईशा",
+                "en": "eṣa",
+                "be": "eṣa",
+                "ka": "esha"
+            }
         },
         {
             "sanskrit": "तूद्देशतः",
-            "transliteration": "tūddeśataḥ",
-            "meaning": "tūddeśataḥ"
+            "transliteration": {
+                "hi": "तूद्देशतः",
+                "en": "tūddeśataḥ",
+                "be": "তূদ্দেশতঃ",
+                "ka": "ತೂದ್ದೇಶತಃ"
+            },
+            "meaning": {
+                "hi": "तुद्देशतः",
+                "en": "tūddeśataḥ",
+                "be": "tūddeśataḥ",
+                "ka": "ತುದ್ದೇಸತಃ"
+            }
         },
         {
             "sanskrit": "प्रोक्तो",
-            "transliteration": "prokto",
-            "meaning": "prokto"
+            "transliteration": {
+                "hi": "प्रोक्तो",
+                "en": "prokto",
+                "be": "প্রোক্তো",
+                "ka": "ಪ್ರೋಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "प्रोक्टो",
+                "en": "prokto",
+                "be": "prokto",
+                "ka": "ಪ್ರೋಕ್ಟೊ"
+            }
         },
         {
             "sanskrit": "विभूतेर्विस्तरो",
-            "transliteration": "vibhūtervistaro",
-            "meaning": "vibhūtervistaro"
+            "transliteration": {
+                "hi": "विभूतेर्विस्तरो",
+                "en": "vibhūtervistaro",
+                "be": "বিভূতের্বিস্তরো",
+                "ka": "ವಿಭೂತೇರ್ವಿಸ್ತರೋ"
+            },
+            "meaning": {
+                "hi": "विभूतेरविस्तारो",
+                "en": "vibhūtervistaro",
+                "be": "vibhūtervistaro",
+                "ka": "ವಿಭೂತರ್ವಿಸ್ತರೋ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "mayā"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "mayā",
+                "be": "মায়া",
+                "ka": "ಮಾಯಾ"
+            }
         }
     ],
     "tej": {

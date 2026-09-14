@@ -14,8 +14,18 @@
         "en": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||",
         "ka": "ಮಹರ್ಷಯಃ ಸಪ್ತ ಪೂರ್ವೇ ಚತ್ವಾರೋ ಮನವಸ್ತಥಾ |\nಮದ್ಭಾವಾ ಮಾನಸಾ ಜಾತಾ ಯೇಷಾಂ ಲೋಕ ಇಮಾಃ ಪ್ರಜಾಃ ||೧೦-೬||"
     },
-    "transliteration": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||",
-    "life_application": "Know that the ancient progenitors and patriarchs of humanity were born from divine mind and power.",
+    "transliteration": {
+        "hi": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा |\nमद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||",
+        "en": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||",
+        "be": "মহর্ষযঃ সপ্ত পূর্বে চত্বারো মনবস্তথা |\nমদ্ভাবা মানসা জাতা যেষাং লোক ইমাঃ প্রজাঃ ||১০-৬||",
+        "ka": "ಮಹರ್ಷಯಃ ಸಪ್ತ ಪೂರ್ವೇ ಚತ್ವಾರೋ ಮನವಸ್ತಥಾ |\nಮದ್ಭಾವಾ ಮಾನಸಾ ಜಾತಾ ಯೇಷಾಂ ಲೋಕ ಇಮಾಃ ಪ್ರಜಾಃ ||೧೦-೬||"
+    },
+    "life_application": {
+        "hi": "जान लें कि मानवता के प्राचीन पूर्वज और पितामह दिव्य मन और शक्ति से पैदा हुए थे।",
+        "en": "Know that the ancient progenitors and patriarchs of humanity were born from divine mind and power.",
+        "be": "জেনে রাখুন যে মানবতার প্রাচীন পূর্বপুরুষ এবং পিতৃপুরুষরা ঐশ্বরিক মন এবং শক্তি থেকে জন্মগ্রহণ করেছিলেন।",
+        "ka": "ಮಾನವೀಯತೆಯ ಪುರಾತನ ಪೂರ್ವಜರು ಮತ್ತು ಪಿತಾಮಹರು ದೈವಿಕ ಮನಸ್ಸು ಮತ್ತು ಶಕ್ತಿಯಿಂದ ಜನಿಸಿದರು ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "महर्षयः",
-            "transliteration": "maharṣayaḥ",
-            "meaning": "maharṣayaḥ"
+            "transliteration": {
+                "hi": "महर्षयः",
+                "en": "maharṣayaḥ",
+                "be": "মহর্ষযঃ",
+                "ka": "ಮಹರ್ಷಯಃ"
+            },
+            "meaning": {
+                "hi": "महर्षियः",
+                "en": "maharṣayaḥ",
+                "be": "মহর্ষায়ঃ",
+                "ka": "ಮಹರ್ಷಯಃ"
+            }
         },
         {
             "sanskrit": "सप्त",
-            "transliteration": "sapta",
-            "meaning": "sapta"
+            "transliteration": {
+                "hi": "सप्त",
+                "en": "sapta",
+                "be": "সপ্ত",
+                "ka": "ಸಪ್ತ"
+            },
+            "meaning": {
+                "hi": "सप्ता",
+                "en": "sapta",
+                "be": "সাপ্তা",
+                "ka": "ಸಪ್ತ"
+            }
         },
         {
             "sanskrit": "पूर्वे",
-            "transliteration": "pūrve",
-            "meaning": "pūrve"
+            "transliteration": {
+                "hi": "पूर्वे",
+                "en": "pūrve",
+                "be": "পূর্বে",
+                "ka": "ಪೂರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "पुरवे",
+                "en": "pūrve",
+                "be": "pūrve",
+                "ka": "ಪುರ್ವೆ"
+            }
         },
         {
             "sanskrit": "चत्वारो",
-            "transliteration": "catvāro",
-            "meaning": "catvāro"
+            "transliteration": {
+                "hi": "चत्वारो",
+                "en": "catvāro",
+                "be": "চত্বারো",
+                "ka": "ಚತ್ವಾರೋ"
+            },
+            "meaning": {
+                "hi": "कैटवारो",
+                "en": "catvāro",
+                "be": "catvāro",
+                "ka": "catvaro"
+            }
         },
         {
             "sanskrit": "मनवस्तथा",
-            "transliteration": "manavastathā",
-            "meaning": "manavastathā"
+            "transliteration": {
+                "hi": "मनवस्तथा",
+                "en": "manavastathā",
+                "be": "মনবস্তথা",
+                "ka": "ಮನವಸ್ತಥಾ"
+            },
+            "meaning": {
+                "hi": "मानवस्तथा",
+                "en": "manavastathā",
+                "be": "মানবস্তথা",
+                "ka": "ಮಾನವಸ್ತಥಾ"
+            }
         },
         {
             "sanskrit": "मद्भावा",
-            "transliteration": "madbhāvā",
-            "meaning": "madbhāvā"
+            "transliteration": {
+                "hi": "मद्भावा",
+                "en": "madbhāvā",
+                "be": "মদ্ভাবা",
+                "ka": "ಮದ್ಭಾವಾ"
+            },
+            "meaning": {
+                "hi": "मद्भाव",
+                "en": "madbhāvā",
+                "be": "madbhāvā",
+                "ka": "ಮದ್ಭಾವ"
+            }
         },
         {
             "sanskrit": "मानसा",
-            "transliteration": "mānasā",
-            "meaning": "mānasā"
+            "transliteration": {
+                "hi": "मानसा",
+                "en": "mānasā",
+                "be": "মানসা",
+                "ka": "ಮಾನಸಾ"
+            },
+            "meaning": {
+                "hi": "मनसा",
+                "en": "mānasā",
+                "be": "মনসা",
+                "ka": "ಮಾನಸ"
+            }
         },
         {
             "sanskrit": "जाता",
-            "transliteration": "jātā",
-            "meaning": "jātā"
+            "transliteration": {
+                "hi": "जाता",
+                "en": "jātā",
+                "be": "জাতা",
+                "ka": "ಜಾತಾ"
+            },
+            "meaning": {
+                "hi": "जटा",
+                "en": "jātā",
+                "be": "jātā",
+                "ka": "ಜಾತಾ"
+            }
         },
         {
             "sanskrit": "येषां",
-            "transliteration": "yeṣāṃ",
-            "meaning": "yeṣāṃ"
+            "transliteration": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "যেষাং",
+                "ka": "ಯೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "yeṣāṃ",
+                "ka": "ಯೆಶಾಸ್"
+            }
         },
         {
             "sanskrit": "लोक",
-            "transliteration": "loka",
-            "meaning": "world"
+            "transliteration": {
+                "hi": "लोक",
+                "en": "loka",
+                "be": "লোক",
+                "ka": "ಲೋಕ"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "इमाः",
-            "transliteration": "imāḥ",
-            "meaning": "imāḥ"
+            "transliteration": {
+                "hi": "इमाः",
+                "en": "imāḥ",
+                "be": "ইমাঃ",
+                "ka": "ಇಮಾಃ"
+            },
+            "meaning": {
+                "hi": "इमाः",
+                "en": "imāḥ",
+                "be": "ইমাম",
+                "ka": "imāḥ"
+            }
         },
         {
             "sanskrit": "प्रजाः",
-            "transliteration": "prajāḥ",
-            "meaning": "prajāḥ"
+            "transliteration": {
+                "hi": "प्रजाः",
+                "en": "prajāḥ",
+                "be": "প্রজাঃ",
+                "ka": "ಪ್ರಜಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रजाः",
+                "en": "prajāḥ",
+                "be": "প্রজাঃ",
+                "ka": "ಪ್ರಜಾಃ"
+            }
         }
     ],
     "tej": {

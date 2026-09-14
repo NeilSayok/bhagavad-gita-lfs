@@ -14,8 +14,18 @@
         "en": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||",
         "ka": "ಯದ್ಯದ್ವಿಭೂತಿಮತ್ಸತ್ತ್ವಂ ಶ್ರೀಮದೂರ್ಜಿತಮೇವ ವಾ |\nತತ್ತದೇವಾವಗಚ್ಛ ತ್ವಂ ಮಮ ತೇಜೋಂಽಶಸಮ್ಭವಮ್ ||೧೦-೪೧||"
     },
-    "transliteration": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||",
-    "life_application": "Whatever is glorious, beautiful, or mighty—know that to spring from a fragment of divine splendor.",
+    "transliteration": {
+        "hi": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||१०-४१||",
+        "en": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||",
+        "be": "যদ্যদ্বিভূতিমত্সত্ত্বং শ্রীমদূর্জিতমেব বা |\nতত্তদেবাবগচ্ছ ত্বং মম তেজোংঽশসম্ভবম্ ||১০-৪১||",
+        "ka": "ಯದ್ಯದ್ವಿಭೂತಿಮತ್ಸತ್ತ್ವಂ ಶ್ರೀಮದೂರ್ಜಿತಮೇವ ವಾ |\nತತ್ತದೇವಾವಗಚ್ಛ ತ್ವಂ ಮಮ ತೇಜೋಂಽಶಸಮ್ಭವಮ್ ||೧೦-೪೧||"
+    },
+    "life_application": {
+        "hi": "जो कुछ भी गौरवशाली, सुंदर या शक्तिशाली है, उसे दिव्य वैभव के एक टुकड़े से उत्पन्न होने वाला जान लें।",
+        "en": "Whatever is glorious, beautiful, or mighty—know that to spring from a fragment of divine splendor.",
+        "be": "মহিমান্বিত, সুন্দর বা পরাক্রমশালী যাই হোক না কেন - জেনে রাখুন যে ঐশ্বরিক জাঁকজমকের একটি টুকরো থেকে উৎপন্ন হয়।",
+        "ka": "ವೈಭವೋಪೇತವೋ, ಸುಂದರವೋ ಅಥವಾ ಪರಾಕ್ರಮವೋ-ದೈವಿಕ ತೇಜಸ್ಸಿನ ತುಣುಕಿನಿಂದ ಹುಟ್ಟುವುದು ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "यद्यद्विभूतिमत्सत्त्वं",
-            "transliteration": "yadyadvibhūtimatsattvaṃ",
-            "meaning": "yadyadvibhūtimatsattvaṃ"
+            "transliteration": {
+                "hi": "यद्यद्विभूतिमत्सत्त्वं",
+                "en": "yadyadvibhūtimatsattvaṃ",
+                "be": "যদ্যদ্বিভূতিমত্সত্ত্বং",
+                "ka": "ಯದ್ಯದ್ವಿಭೂತಿಮತ್ಸತ್ತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "यद्यद्विभूतिमत्सत्त्वम्",
+                "en": "yadyadvibhūtimatsattvaṃ",
+                "be": "যদ্যদ্বিভূতিমাতসত্ত্ব",
+                "ka": "ಯದ್ಯದ್ವಿಭೂತಿಮತ್ಸತ್ತ್ವಃ"
+            }
         },
         {
             "sanskrit": "श्रीमदूर्जितमेव",
-            "transliteration": "śrīmadūrjitameva",
-            "meaning": "śrīmadūrjitameva"
+            "transliteration": {
+                "hi": "श्रीमदूर्जितमेव",
+                "en": "śrīmadūrjitameva",
+                "be": "শ্রীমদূর্জিতমেব",
+                "ka": "ಶ್ರೀಮದೂರ್ಜಿತಮೇವ"
+            },
+            "meaning": {
+                "hi": "श्रीमदुर्जितमेव",
+                "en": "śrīmadūrjitameva",
+                "be": "শ্রীমদুরজিতমেব",
+                "ka": "ಶ್ರೀಮದುರ್ಜಿತಮೇವ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "तत्तदेवावगच्छ",
-            "transliteration": "tattadevāvagaccha",
-            "meaning": "tattadevāvagaccha"
+            "transliteration": {
+                "hi": "तत्तदेवावगच्छ",
+                "en": "tattadevāvagaccha",
+                "be": "তত্তদেবাবগচ্ছ",
+                "ka": "ತತ್ತದೇವಾವಗಚ್ಛ"
+            },
+            "meaning": {
+                "hi": "तत्तदेववगच्छ",
+                "en": "tattadevāvagaccha",
+                "be": "tattadevāvagaccha",
+                "ka": "ತತ್ತದೇವವಾಗಚ್ಚ"
+            }
         },
         {
             "sanskrit": "त्वं",
-            "transliteration": "tvaṃ",
-            "meaning": "tvaṃ"
+            "transliteration": {
+                "hi": "त्वं",
+                "en": "tvaṃ",
+                "be": "ত্বং",
+                "ka": "ತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "त्वा",
+                "en": "tvaṃ",
+                "be": "tvaṃ",
+                "ka": "tvaṃ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "तेजोंऽशसम्भवम्",
-            "transliteration": "tejoṃ'śasambhavam",
-            "meaning": "tejoṃ'śasambhavam"
+            "transliteration": {
+                "hi": "तेजोंऽशसम्भवम्",
+                "en": "tejoṃ'śasambhavam",
+                "be": "তেজোংঽশসম্ভবম্",
+                "ka": "ತೇಜೋಂಽಶಸಮ್ಭವಮ್"
+            },
+            "meaning": {
+                "hi": "तेजोऽससम्भवम्",
+                "en": "tejoṃ'śasambhavam",
+                "be": "তেজোশসম্ভম",
+                "ka": "ತೇಜೋಂಶಸಂಭವಮ್"
+            }
         }
     ],
     "tej": {

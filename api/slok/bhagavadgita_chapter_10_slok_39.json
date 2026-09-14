@@ -14,8 +14,18 @@
         "en": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||",
         "ka": "ಯಚ್ಚಾಪಿ ಸರ್ವಭೂತಾನಾಂ ಬೀಜಂ ತದಹಮರ್ಜುನ |\nನ ತದಸ್ತಿ ವಿನಾ ಯತ್ಸ್ಯಾನ್ಮಯಾ ಭೂತಂ ಚರಾಚರಮ್ ||೧೦-೩೯||"
     },
-    "transliteration": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||",
-    "life_application": "Know God as the seed of all beings; no moving or unmoving creature can exist without the divine presence.",
+    "transliteration": {
+        "hi": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन |\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||१०-३९||",
+        "en": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||",
+        "be": "যচ্চাপি সর্বভূতানাং বীজং তদহমর্জুন |\nন তদস্তি বিনা যত্স্যান্মযা ভূতং চরাচরম্ ||১০-৩৯||",
+        "ka": "ಯಚ್ಚಾಪಿ ಸರ್ವಭೂತಾನಾಂ ಬೀಜಂ ತದಹಮರ್ಜುನ |\nನ ತದಸ್ತಿ ವಿನಾ ಯತ್ಸ್ಯಾನ್ಮಯಾ ಭೂತಂ ಚರಾಚರಮ್ ||೧೦-೩೯||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सभी प्राणियों के बीज के रूप में जानो; कोई भी गतिशील या स्थिर प्राणी ईश्वरीय उपस्थिति के बिना अस्तित्व में नहीं रह सकता।",
+        "en": "Know God as the seed of all beings; no moving or unmoving creature can exist without the divine presence.",
+        "be": "ঈশ্বরকে সমস্ত প্রাণীর বীজ হিসাবে জান; ঐশ্বরিক উপস্থিতি ছাড়া কোনো চলমান বা অচল প্রাণী থাকতে পারে না।",
+        "ka": "ದೇವರನ್ನು ಎಲ್ಲಾ ಜೀವಿಗಳ ಬೀಜವೆಂದು ತಿಳಿಯಿರಿ; ಯಾವುದೇ ಚಲಿಸುವ ಅಥವಾ ಚಲಿಸದ ಜೀವಿಗಳು ದೈವಿಕ ಉಪಸ್ಥಿತಿಯಿಲ್ಲದೆ ಅಸ್ತಿತ್ವದಲ್ಲಿರಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "यच्चापि",
-            "transliteration": "yaccāpi",
-            "meaning": "yaccāpi"
+            "transliteration": {
+                "hi": "यच्चापि",
+                "en": "yaccāpi",
+                "be": "যচ্চাপি",
+                "ka": "ಯಚ್ಚಾಪಿ"
+            },
+            "meaning": {
+                "hi": "yaccāpi",
+                "en": "yaccāpi",
+                "be": "ইয়াক্কাপি",
+                "ka": "ಯಾಕಾಪಿ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानां",
-            "transliteration": "sarvabhūtānāṃ",
-            "meaning": "sarvabhūtānāṃ"
+            "transliteration": {
+                "hi": "सर्वभूतानां",
+                "en": "sarvabhūtānāṃ",
+                "be": "সর্বভূতানাং",
+                "ka": "ಸರ್ವಭೂತಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतानां",
+                "en": "sarvabhūtānāṃ",
+                "be": "sarvabhūtānāṃ",
+                "ka": "ಸರ್ವಭೂತಾನಂ"
+            }
         },
         {
             "sanskrit": "बीजं",
-            "transliteration": "bījaṃ",
-            "meaning": "bījaṃ"
+            "transliteration": {
+                "hi": "बीजं",
+                "en": "bījaṃ",
+                "be": "বীজং",
+                "ka": "ಬೀಜಂ"
+            },
+            "meaning": {
+                "hi": "बीजां",
+                "en": "bījaṃ",
+                "be": "বিজং",
+                "ka": "ಬೀಜ"
+            }
         },
         {
             "sanskrit": "तदहमर्जुन",
-            "transliteration": "tadahamarjuna",
-            "meaning": "tadahamarjuna"
+            "transliteration": {
+                "hi": "तदहमर्जुन",
+                "en": "tadahamarjuna",
+                "be": "তদহমর্জুন",
+                "ka": "ತದಹಮರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "tadahamarjun",
+                "en": "tadahamarjuna",
+                "be": "তদহমার্জুন",
+                "ka": "ತದಾಹಮಾರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तदस्ति",
-            "transliteration": "tadasti",
-            "meaning": "tadasti"
+            "transliteration": {
+                "hi": "तदस्ति",
+                "en": "tadasti",
+                "be": "তদস্তি",
+                "ka": "ತದಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "तदस्ति",
+                "en": "tadasti",
+                "be": "তদস্তি",
+                "ka": "ತದಸ್ತಿ"
+            }
         },
         {
             "sanskrit": "विना",
-            "transliteration": "vinā",
-            "meaning": "vinā"
+            "transliteration": {
+                "hi": "विना",
+                "en": "vinā",
+                "be": "বিনা",
+                "ka": "ವಿನಾ"
+            },
+            "meaning": {
+                "hi": "वीणा",
+                "en": "vinā",
+                "be": "ভিনা",
+                "ka": "ವಿನ"
+            }
         },
         {
             "sanskrit": "यत्स्यान्मया",
-            "transliteration": "yatsyānmayā",
-            "meaning": "yatsyānmayā"
+            "transliteration": {
+                "hi": "यत्स्यान्मया",
+                "en": "yatsyānmayā",
+                "be": "যত্স্যান্মযা",
+                "ka": "ಯತ್ಸ್ಯಾನ್ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "यत्स्यन्मय",
+                "en": "yatsyānmayā",
+                "be": "yatsyānmayā",
+                "ka": "ಯತ್ಸ್ಯಾನ್ಮಯಾ"
+            }
         },
         {
             "sanskrit": "भूतं",
-            "transliteration": "bhūtaṃ",
-            "meaning": "bhūtaṃ"
+            "transliteration": {
+                "hi": "भूतं",
+                "en": "bhūtaṃ",
+                "be": "ভূতং",
+                "ka": "ಭೂತಂ"
+            },
+            "meaning": {
+                "hi": "भूतं",
+                "en": "bhūtaṃ",
+                "be": "bhūtaṃ",
+                "ka": "ಭೂತಂ"
+            }
         },
         {
             "sanskrit": "चराचरम्",
-            "transliteration": "carācaram",
-            "meaning": "carācaram"
+            "transliteration": {
+                "hi": "चराचरम्",
+                "en": "carācaram",
+                "be": "চরাচরম্",
+                "ka": "ಚರಾಚರಮ್"
+            },
+            "meaning": {
+                "hi": "कैराकारम",
+                "en": "carācaram",
+                "be": "carācaram",
+                "ka": "ಕಾರಕಾರಮ್"
+            }
         }
     ],
     "tej": {

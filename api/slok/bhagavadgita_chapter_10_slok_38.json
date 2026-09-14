@@ -14,8 +14,18 @@
         "en": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||",
         "ka": "ದಣ್ಡೋ ದಮಯತಾಮಸ್ಮಿ ನೀತಿರಸ್ಮಿ ಜಿಗೀಷತಾಮ್ |\nಮೌನಂ ಚೈವಾಸ್ಮಿ ಗುಹ್ಯಾನಾಂ ಜ್ಞಾನಂ ಜ್ಞಾನವತಾಮಹಮ್ ||೧೦-೩೮||"
     },
-    "transliteration": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||",
-    "life_application": "See God as the rod of punishers, statesmanship of victors, silence of secrets, and wisdom of the wise.",
+    "transliteration": {
+        "hi": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||",
+        "en": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||",
+        "be": "দণ্ডো দমযতামস্মি নীতিরস্মি জিগীষতাম্ |\nমৌনং চৈবাস্মি গুহ্যানাং জ্ঞানং জ্ঞানবতামহম্ ||১০-৩৮||",
+        "ka": "ದಣ್ಡೋ ದಮಯತಾಮಸ್ಮಿ ನೀತಿರಸ್ಮಿ ಜಿಗೀಷತಾಮ್ |\nಮೌನಂ ಚೈವಾಸ್ಮಿ ಗುಹ್ಯಾನಾಂ ಜ್ಞಾನಂ ಜ್ಞಾನವತಾಮಹಮ್ ||೧೦-೩೮||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को दंड देने वालों की छड़ी, विजेताओं की राजनीति, रहस्यों की चुप्पी और बुद्धिमानों की बुद्धि के रूप में देखें।",
+        "en": "See God as the rod of punishers, statesmanship of victors, silence of secrets, and wisdom of the wise.",
+        "be": "ঈশ্বরকে শাস্তিদাতাদের লাঠি, বিজয়ীদের রাষ্ট্রনীতি, গোপনীয়তার নীরবতা এবং জ্ঞানীদের প্রজ্ঞা হিসাবে দেখুন।",
+        "ka": "ದೇವರನ್ನು ಶಿಕ್ಷಕರ ದಂಡವಾಗಿ, ವಿಜಯಶಾಲಿಗಳ ರಾಜನೀತಿ, ರಹಸ್ಯಗಳ ಮೌನ ಮತ್ತು ಬುದ್ಧಿವಂತರ ಬುದ್ಧಿವಂತಿಕೆಯಾಗಿ ನೋಡಿ."
+    },
     "themes": [
         "Leadership",
         "Knowledge"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "दण्डो",
-            "transliteration": "daṇḍo",
-            "meaning": "daṇḍo"
+            "transliteration": {
+                "hi": "दण्डो",
+                "en": "daṇḍo",
+                "be": "দণ্ডো",
+                "ka": "ದಣ್ಡೋ"
+            },
+            "meaning": {
+                "hi": "दांडो",
+                "en": "daṇḍo",
+                "be": "ডান্ডো",
+                "ka": "daṇḍo"
+            }
         },
         {
             "sanskrit": "दमयतामस्मि",
-            "transliteration": "damayatāmasmi",
-            "meaning": "damayatāmasmi"
+            "transliteration": {
+                "hi": "दमयतामस्मि",
+                "en": "damayatāmasmi",
+                "be": "দমযতামস্মি",
+                "ka": "ದಮಯತಾಮಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "दमायतामस्मि",
+                "en": "damayatāmasmi",
+                "be": "দময়তামাস্মি",
+                "ka": "ದಮಯತಮಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "नीतिरस्मि",
-            "transliteration": "nītirasmi",
-            "meaning": "nītirasmi"
+            "transliteration": {
+                "hi": "नीतिरस्मि",
+                "en": "nītirasmi",
+                "be": "নীতিরস্মি",
+                "ka": "ನೀತಿರಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "नितिरस्मी",
+                "en": "nītirasmi",
+                "be": "নীতিরস্মি",
+                "ka": "ನೀತಿರಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "जिगीषताम्",
-            "transliteration": "jigīṣatām",
-            "meaning": "jigīṣatām"
+            "transliteration": {
+                "hi": "जिगीषताम्",
+                "en": "jigīṣatām",
+                "be": "জিগীষতাম্",
+                "ka": "ಜಿಗೀಷತಾಮ್"
+            },
+            "meaning": {
+                "hi": "जिगीशातम",
+                "en": "jigīṣatām",
+                "be": "জিগিষত্ম",
+                "ka": "ಜಿಗೀಶತಾಂ"
+            }
         },
         {
             "sanskrit": "मौनं",
-            "transliteration": "maunaṃ",
-            "meaning": "maunaṃ"
+            "transliteration": {
+                "hi": "मौनं",
+                "en": "maunaṃ",
+                "be": "মৌনং",
+                "ka": "ಮೌನಂ"
+            },
+            "meaning": {
+                "hi": "मौनं",
+                "en": "maunaṃ",
+                "be": "maunaṃ",
+                "ka": "ಮೌನಂ"
+            }
         },
         {
             "sanskrit": "चैवास्मि",
-            "transliteration": "caivāsmi",
-            "meaning": "caivāsmi"
+            "transliteration": {
+                "hi": "चैवास्मि",
+                "en": "caivāsmi",
+                "be": "চৈবাস্মি",
+                "ka": "ಚೈವಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "कैवस्मि",
+                "en": "caivāsmi",
+                "be": "caivāsmi",
+                "ka": "ಚೈವಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "गुह्यानां",
-            "transliteration": "guhyānāṃ",
-            "meaning": "guhyānāṃ"
+            "transliteration": {
+                "hi": "गुह्यानां",
+                "en": "guhyānāṃ",
+                "be": "গুহ্যানাং",
+                "ka": "ಗುಹ್ಯಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "गुह्याणं",
+                "en": "guhyānāṃ",
+                "be": "guhyānāṃ",
+                "ka": "ಗುಹ್ಯನಂ"
+            }
         },
         {
             "sanskrit": "ज्ञानं",
-            "transliteration": "jñānaṃ",
-            "meaning": "jñānaṃ"
+            "transliteration": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "জ্ঞানং",
+                "ka": "ಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "jñānaṃ",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "ज्ञानवतामहम्",
-            "transliteration": "jñānavatāmaham",
-            "meaning": "jñānavatāmaham"
+            "transliteration": {
+                "hi": "ज्ञानवतामहम्",
+                "en": "jñānavatāmaham",
+                "be": "জ্ঞানবতামহম্",
+                "ka": "ಜ್ಞಾನವತಾಮಹಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञानवतमहम्",
+                "en": "jñānavatāmaham",
+                "be": "জ্ঞানাবতামহম",
+                "ka": "ಜ್ಞಾನವತಾಮಹಮ್"
+            }
         }
     ],
     "tej": {

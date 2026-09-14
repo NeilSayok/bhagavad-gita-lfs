@@ -14,8 +14,18 @@
         "en": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||",
         "ka": "ಅಹಿಂಸಾ ಸಮತಾ ತುಷ್ಟಿಸ್ತಪೋ ದಾನಂ ಯಶೋಽಯಶಃ |\nಭವನ್ತಿ ಭಾವಾ ಭೂತಾನಾಂ ಮತ್ತ ಏವ ಪೃಥಗ್ವಿಧಾಃ ||೧೦-೫||"
     },
-    "transliteration": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||",
-    "life_application": "Recognize non-violence, equanimity, contentment, austerity, charity, fame, and disrepute as states created by God.",
+    "transliteration": {
+        "hi": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |\nभवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||",
+        "en": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||",
+        "be": "অহিংসা সমতা তুষ্টিস্তপো দানং যশোঽযশঃ |\nভবন্তি ভাবা ভূতানাং মত্ত এব পৃথগ্বিধাঃ ||১০-৫||",
+        "ka": "ಅಹಿಂಸಾ ಸಮತಾ ತುಷ್ಟಿಸ್ತಪೋ ದಾನಂ ಯಶೋಽಯಶಃ |\nಭವನ್ತಿ ಭಾವಾ ಭೂತಾನಾಂ ಮತ್ತ ಏವ ಪೃಥಗ್ವಿಧಾಃ ||೧೦-೫||"
+    },
+    "life_application": {
+        "hi": "अहिंसा, समता, संतोष, तपस्या, दान, यश और अपयश को ईश्वर द्वारा निर्मित अवस्थाओं के रूप में पहचानो।",
+        "en": "Recognize non-violence, equanimity, contentment, austerity, charity, fame, and disrepute as states created by God.",
+        "be": "অহিংসা, সমতা, তৃপ্তি, কঠোরতা, দাতব্য, খ্যাতি, এবং ঈশ্বরের দ্বারা সৃষ্ট রাষ্ট্র হিসাবে অনাদরকে স্বীকৃতি দিন।",
+        "ka": "ಅಹಿಂಸೆ, ಸಮಚಿತ್ತತೆ, ಸಂತೃಪ್ತಿ, ತಪಸ್ಸು, ದಾನ, ಕೀರ್ತಿ ಮತ್ತು ಅಪಕೀರ್ತಿ ಇವುಗಳನ್ನು ಭಗವಂತನಿಂದ ರಚಿಸಲ್ಪಟ್ಟ ರಾಜ್ಯಗಳೆಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अहिंसा",
-            "transliteration": "ahiṃsā",
-            "meaning": "ahiṃsā"
+            "transliteration": {
+                "hi": "अहिंसा",
+                "en": "ahiṃsā",
+                "be": "অহিংসা",
+                "ka": "ಅಹಿಂಸಾ"
+            },
+            "meaning": {
+                "hi": "अहिंसा",
+                "en": "ahiṃsā",
+                "be": "অহিংস",
+                "ka": "ahiṃsā"
+            }
         },
         {
             "sanskrit": "समता",
-            "transliteration": "samatā",
-            "meaning": "samatā"
+            "transliteration": {
+                "hi": "समता",
+                "en": "samatā",
+                "be": "সমতা",
+                "ka": "ಸಮತಾ"
+            },
+            "meaning": {
+                "hi": "समता",
+                "en": "samatā",
+                "be": "সমতা",
+                "ka": "ಸಮತಾ"
+            }
         },
         {
             "sanskrit": "तुष्टिस्तपो",
-            "transliteration": "tuṣṭistapo",
-            "meaning": "tuṣṭistapo"
+            "transliteration": {
+                "hi": "तुष्टिस्तपो",
+                "en": "tuṣṭistapo",
+                "be": "তুষ্টিস্তপো",
+                "ka": "ತುಷ್ಟಿಸ್ತಪೋ"
+            },
+            "meaning": {
+                "hi": "तुस्तिस्टापो",
+                "en": "tuṣṭistapo",
+                "be": "তুষ্টস্তপো",
+                "ka": "ತುಷ್ಟಿಸ್ತಪೋ"
+            }
         },
         {
             "sanskrit": "दानं",
-            "transliteration": "dānaṃ",
-            "meaning": "dānaṃ"
+            "transliteration": {
+                "hi": "दानं",
+                "en": "dānaṃ",
+                "be": "দানং",
+                "ka": "ದಾನಂ"
+            },
+            "meaning": {
+                "hi": "दानं",
+                "en": "dānaṃ",
+                "be": "দানান",
+                "ka": "ದಾನ"
+            }
         },
         {
             "sanskrit": "यशोऽयशः",
-            "transliteration": "yaśo'yaśaḥ",
-            "meaning": "yaśo'yaśaḥ"
+            "transliteration": {
+                "hi": "यशोऽयशः",
+                "en": "yaśo'yaśaḥ",
+                "be": "যশোঽযশঃ",
+                "ka": "ಯಶೋಽಯಶಃ"
+            },
+            "meaning": {
+                "hi": "यशोऽयशः",
+                "en": "yaśo'yaśaḥ",
+                "be": "যশো'য়াশাঃ",
+                "ka": "yaśo'yaśaḥ"
+            }
         },
         {
             "sanskrit": "भवन्ति",
-            "transliteration": "bhavanti",
-            "meaning": "bhavanti"
+            "transliteration": {
+                "hi": "भवन्ति",
+                "en": "bhavanti",
+                "be": "ভবন্তি",
+                "ka": "ಭವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "भवन्ति",
+                "en": "bhavanti",
+                "be": "ভাবন্তী",
+                "ka": "ಭವನ್ತಿ"
+            }
         },
         {
             "sanskrit": "भावा",
-            "transliteration": "bhāvā",
-            "meaning": "bhāvā"
+            "transliteration": {
+                "hi": "भावा",
+                "en": "bhāvā",
+                "be": "ভাবা",
+                "ka": "ಭಾವಾ"
+            },
+            "meaning": {
+                "hi": "भाव",
+                "en": "bhāvā",
+                "be": "ভব",
+                "ka": "ಭಾವ"
+            }
         },
         {
             "sanskrit": "भूतानां",
-            "transliteration": "bhūtānāṃ",
-            "meaning": "bhūtānāṃ"
+            "transliteration": {
+                "hi": "भूतानां",
+                "en": "bhūtānāṃ",
+                "be": "ভূতানাং",
+                "ka": "ಭೂತಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "भूतानां",
+                "en": "bhūtānāṃ",
+                "be": "ভুটানা",
+                "ka": "ಭೂತಾನಂ"
+            }
         },
         {
             "sanskrit": "मत्त",
-            "transliteration": "matta",
-            "meaning": "matta"
+            "transliteration": {
+                "hi": "मत्त",
+                "en": "matta",
+                "be": "মত্ত",
+                "ka": "ಮತ್ತ"
+            },
+            "meaning": {
+                "hi": "मट्टा",
+                "en": "matta",
+                "be": "matta",
+                "ka": "ಮಟ್ಟಾ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "पृथग्विधाः",
-            "transliteration": "pṛthagvidhāḥ",
-            "meaning": "pṛthagvidhāḥ"
+            "transliteration": {
+                "hi": "पृथग्विधाः",
+                "en": "pṛthagvidhāḥ",
+                "be": "পৃথগ্বিধাঃ",
+                "ka": "ಪೃಥಗ್ವಿಧಾಃ"
+            },
+            "meaning": {
+                "hi": "पृथग्विधः",
+                "en": "pṛthagvidhāḥ",
+                "be": "prthagvidhāḥ",
+                "ka": "ಪೃಥಗ್ವಿಧಾಃ"
+            }
         }
     ],
     "tej": {

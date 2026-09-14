@@ -14,8 +14,18 @@
         "en": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
         "ka": "ಯೋ ಮಾಮೇವಮಸಮ್ಮೂಢೋ ಜಾನಾತಿ ಪುರುಷೋತ್ತಮಮ್ |\nಸ ಸರ್ವವಿದ್ಭಜತಿ ಮಾಂ ಸರ್ವಭಾವೇನ ಭಾರತ ||೧೫-೧೯||"
     },
-    "transliteration": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
-    "life_application": "He who, undeluded, knows God thus as Supreme Person knows all, worshipping God with his whole being.",
+    "transliteration": {
+        "hi": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||",
+        "en": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
+        "be": "যো মামেবমসম্মূঢো জানাতি পুরুষোত্তমম্ |\nস সর্ববিদ্ভজতি মাং সর্বভাবেন ভারত ||১৫-১৯||",
+        "ka": "ಯೋ ಮಾಮೇವಮಸಮ್ಮೂಢೋ ಜಾನಾತಿ ಪುರುಷೋತ್ತಮಮ್ |\nಸ ಸರ್ವವಿದ್ಭಜತಿ ಮಾಂ ಸರ್ವಭಾವೇನ ಭಾರತ ||೧೫-೧೯||"
+    },
+    "life_application": {
+        "hi": "वह, जो भ्रमित न होकर, ईश्वर को इस प्रकार जानता है जैसे कि सर्वोच्च व्यक्ति, वह सब कुछ जानता है, अपने पूरे अस्तित्व के साथ ईश्वर की पूजा करता है।",
+        "en": "He who, undeluded, knows God thus as Supreme Person knows all, worshipping God with his whole being.",
+        "be": "যিনি বিভ্রান্ত হয়ে পরমেশ্বর ভগবানকে এইভাবে জানেন যে তিনি সমস্ত কিছু জানেন, তিনি তাঁর সমস্ত সত্তা দিয়ে ভগবানের আরাধনা করেন।",
+        "ka": "ಭ್ರಮೆಯಿಲ್ಲದೆ, ಪರಮಾತ್ಮನನ್ನು ಹೀಗೆ ತಿಳಿದಿರುವವನು ಎಲ್ಲವನ್ನೂ ತಿಳಿದಿರುತ್ತಾನೆ, ತನ್ನ ಸಂಪೂರ್ಣ ಅಸ್ತಿತ್ವದಿಂದ ದೇವರನ್ನು ಆರಾಧಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "असम्मूढः",
-            "transliteration": "asammūḍhaḥ",
-            "meaning": "undeluded"
+            "transliteration": {
+                "hi": "असम्मूढः",
+                "en": "asammūḍhaḥ",
+                "be": "অসম্মূঢঃ",
+                "ka": "ಅಸಮ್ಮೂಢಃ"
+            },
+            "meaning": {
+                "hi": "बहक गया",
+                "en": "undeluded",
+                "be": "undeluded",
+                "ka": "ಭ್ರಮೆಯಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "जानाति",
-            "transliteration": "jānāti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "जानाति",
+                "en": "jānāti",
+                "be": "জানাতি",
+                "ka": "ಜಾನಾತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "पुरुषोत्तमम्",
-            "transliteration": "puruṣottamam",
-            "meaning": "the Supreme Purusha"
+            "transliteration": {
+                "hi": "पुरुषोत्तमम्",
+                "en": "puruṣottamam",
+                "be": "পুরুষোত্তমম্",
+                "ka": "ಪುರುಷೋತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "परम पुरुष",
+                "en": "the Supreme Purusha",
+                "be": "পরম পুরুষ",
+                "ka": "ಪರಮ ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "सर्ववित्",
-            "transliteration": "sarvavit",
-            "meaning": "allknowing"
+            "transliteration": {
+                "hi": "सर्ववित्",
+                "en": "sarvavit",
+                "be": "সর্ববিত্",
+                "ka": "ಸರ್ವವಿತ್"
+            },
+            "meaning": {
+                "hi": "सर्वज्ञ",
+                "en": "allknowing",
+                "be": "সব জানা",
+                "ka": "ಎಲ್ಲಾ ತಿಳಿದಿರುವ"
+            }
         },
         {
             "sanskrit": "भजति",
-            "transliteration": "bhajati",
-            "meaning": "worships"
+            "transliteration": {
+                "hi": "भजति",
+                "en": "bhajati",
+                "be": "ভজতি",
+                "ka": "ಭಜತಿ"
+            },
+            "meaning": {
+                "hi": "पूजा करता है",
+                "en": "worships",
+                "be": "উপাসনা করে",
+                "ka": "ಪೂಜೆ ಮಾಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "सर्वभावेन",
-            "transliteration": "sarvabhāvena",
-            "meaning": "with his whole being"
+            "transliteration": {
+                "hi": "सर्वभावेन",
+                "en": "sarvabhāvena",
+                "be": "সর্বভাবেন",
+                "ka": "ಸರ್ವಭಾವೇನ"
+            },
+            "meaning": {
+                "hi": "अपने पूरे अस्तित्व के साथ",
+                "en": "with his whole being",
+                "be": "তার সমগ্র সত্তা দিয়ে",
+                "ka": "ಅವನ ಸಂಪೂರ್ಣ ಅಸ್ತಿತ್ವದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata."
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata.",
+                "be": "হে ভরত।",
+                "ka": "ಓ ಭರತ."
+            }
         }
     ],
     "tej": {

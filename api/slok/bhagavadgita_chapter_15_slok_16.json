@@ -14,8 +14,18 @@
         "en": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
         "ka": "ದ್ವಾವಿಮೌ ಪುರುಷೌ ಲೋಕೇ ಕ್ಷರಶ್ಚಾಕ್ಷರ ಏವ ಚ |\nಕ್ಷರಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ಕೂಟಸ್ಥೋಽಕ್ಷರ ಉಚ್ಯತೇ ||೧೫-೧೬||"
     },
-    "transliteration": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
-    "life_application": "Two beings exist in the world: perishable physical creation and imperishable soul; all beings are perishable, soul unchangeable.",
+    "transliteration": {
+        "hi": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ||१५-१६||",
+        "en": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
+        "be": "দ্বাবিমৌ পুরুষৌ লোকে ক্ষরশ্চাক্ষর এব চ |\nক্ষরঃ সর্বাণি ভূতানি কূটস্থোঽক্ষর উচ্যতে ||১৫-১৬||",
+        "ka": "ದ್ವಾವಿಮೌ ಪುರುಷೌ ಲೋಕೇ ಕ್ಷರಶ್ಚಾಕ್ಷರ ಏವ ಚ |\nಕ್ಷರಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ಕೂಟಸ್ಥೋಽಕ್ಷರ ಉಚ್ಯತೇ ||೧೫-೧೬||"
+    },
+    "life_application": {
+        "hi": "संसार में दो सत्ताएँ विद्यमान हैं: नाशवान भौतिक सृष्टि और अविनाशी आत्मा; सभी प्राणी नाशवान हैं, आत्मा अपरिवर्तनीय है।",
+        "en": "Two beings exist in the world: perishable physical creation and imperishable soul; all beings are perishable, soul unchangeable.",
+        "be": "পৃথিবীতে দুটি প্রাণীর অস্তিত্ব রয়েছে: ধ্বংসশীল দৈহিক সৃষ্টি এবং অবিনশ্বর আত্মা; সমস্ত প্রাণী ধ্বংসশীল, আত্মা অপরিবর্তনীয়।",
+        "ka": "ಜಗತ್ತಿನಲ್ಲಿ ಎರಡು ಜೀವಿಗಳು ಅಸ್ತಿತ್ವದಲ್ಲಿವೆ: ನಾಶವಾಗುವ ಭೌತಿಕ ಸೃಷ್ಟಿ ಮತ್ತು ನಾಶವಾಗದ ಆತ್ಮ; ಎಲ್ಲಾ ಜೀವಿಗಳು ನಾಶವಾಗುತ್ತವೆ, ಆತ್ಮವು ಬದಲಾಗುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "द्वौ",
-            "transliteration": "dvau",
-            "meaning": "two"
+            "transliteration": {
+                "hi": "द्वौ",
+                "en": "dvau",
+                "be": "দ্বৌ",
+                "ka": "ದ್ವೌ"
+            },
+            "meaning": {
+                "hi": "दो",
+                "en": "two",
+                "be": "দুই",
+                "ka": "ಎರಡು"
+            }
         },
         {
             "sanskrit": "इमौ",
-            "transliteration": "imau",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इमौ",
+                "en": "imau",
+                "be": "ইমৌ",
+                "ka": "ಇಮೌ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "पुरुषौ",
-            "transliteration": "puruṣau",
-            "meaning": "Purushas"
+            "transliteration": {
+                "hi": "पुरुषौ",
+                "en": "puruṣau",
+                "be": "পুরুষৌ",
+                "ka": "ಪುರುಷೌ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purushas",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷರು"
+            }
         },
         {
             "sanskrit": "लोके",
-            "transliteration": "loke",
-            "meaning": "in the world"
+            "transliteration": {
+                "hi": "लोके",
+                "en": "loke",
+                "be": "লোকে",
+                "ka": "ಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "दुनिया में",
+                "en": "in the world",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "क्षरः",
-            "transliteration": "kṣaraḥ",
-            "meaning": "the perishable"
+            "transliteration": {
+                "hi": "क्षरः",
+                "en": "kṣaraḥ",
+                "be": "ক্ষরঃ",
+                "ka": "ಕ್ಷರಃ"
+            },
+            "meaning": {
+                "hi": "नाशवान",
+                "en": "the perishable",
+                "be": "পচনশীল",
+                "ka": "ನಾಶವಾಗುವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अक्षरः",
-            "transliteration": "akṣaraḥ",
-            "meaning": "the imperishable"
+            "transliteration": {
+                "hi": "अक्षरः",
+                "en": "akṣaraḥ",
+                "be": "অক্ষরঃ",
+                "ka": "ಅಕ್ಷರಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "the imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "क्षरः",
-            "transliteration": "kṣaraḥ",
-            "meaning": "the perishable"
+            "transliteration": {
+                "hi": "क्षरः",
+                "en": "kṣaraḥ",
+                "be": "ক্ষরঃ",
+                "ka": "ಕ್ಷರಃ"
+            },
+            "meaning": {
+                "hi": "नाशवान",
+                "en": "the perishable",
+                "be": "পচনশীল",
+                "ka": "ನಾಶವಾಗುವ"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "beings"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्राणी",
+                "en": "beings",
+                "be": "প্রাণী",
+                "ka": "ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "कूटस्थः",
-            "transliteration": "kūṭasthaḥ",
-            "meaning": "the immutable"
+            "transliteration": {
+                "hi": "कूटस्थः",
+                "en": "kūṭasthaḥ",
+                "be": "কূটস্থঃ",
+                "ka": "ಕೂಟಸ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "अपरिवर्तनीय",
+                "en": "the immutable",
+                "be": "অপরিবর্তনীয়",
+                "ka": "ಬದಲಾಗದ"
+            }
         },
         {
             "sanskrit": "अक्षरः",
-            "transliteration": "akṣaraḥ",
-            "meaning": "the imperishable"
+            "transliteration": {
+                "hi": "अक्षरः",
+                "en": "akṣaraḥ",
+                "be": "অক্ষরঃ",
+                "ka": "ಅಕ್ಷರಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "the imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

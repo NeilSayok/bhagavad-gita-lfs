@@ -14,8 +14,18 @@
         "en": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
         "ka": "ಯತನ್ತೋ ಯೋಗಿನಶ್ಚೈನಂ ಪಶ್ಯನ್ತ್ಯಾತ್ಮನ್ಯವಸ್ಥಿತಮ್ |\nಯತನ್ತೋಽಪ್ಯಕೃತಾತ್ಮಾನೋ ನೈನಂ ಪಶ್ಯನ್ತ್ಯಚೇತಸಃ ||೧೫-೧೧||"
     },
-    "transliteration": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
-    "life_application": "Striving practitioners behold the soul seated in Self; the unrefined and undisciplined see It not, though striving.",
+    "transliteration": {
+        "hi": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||",
+        "en": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
+        "be": "যতন্তো যোগিনশ্চৈনং পশ্যন্ত্যাত্মন্যবস্থিতম্ |\nযতন্তোঽপ্যকৃতাত্মানো নৈনং পশ্যন্ত্যচেতসঃ ||১৫-১১||",
+        "ka": "ಯತನ್ತೋ ಯೋಗಿನಶ್ಚೈನಂ ಪಶ್ಯನ್ತ್ಯಾತ್ಮನ್ಯವಸ್ಥಿತಮ್ |\nಯತನ್ತೋಽಪ್ಯಕೃತಾತ್ಮಾನೋ ನೈನಂ ಪಶ್ಯನ್ತ್ಯಚೇತಸಃ ||೧೫-೧೧||"
+    },
+    "life_application": {
+        "hi": "प्रयासरत अभ्यासी स्वयं में विराजमान आत्मा को देखते हैं; अपरिष्कृत और अनुशासनहीन लोग प्रयास करते हुए भी इसे नहीं देख पाते हैं।",
+        "en": "Striving practitioners behold the soul seated in Self; the unrefined and undisciplined see It not, though striving.",
+        "be": "প্রয়াসী অনুশীলনকারীরা আত্মার মধ্যে বসে থাকা আত্মাকে দেখেন; অপরিশোধিত এবং শৃঙ্খলাহীনরা এটি দেখতে পায় না, যদিও চেষ্টা করে।",
+        "ka": "ಪ್ರಯತ್ನಶೀಲ ಸಾಧಕರು ಆತ್ಮದಲ್ಲಿ ಕುಳಿತಿರುವ ಆತ್ಮವನ್ನು ನೋಡುತ್ತಾರೆ; ಸಂಸ್ಕರಿಸದ ಮತ್ತು ಅಶಿಸ್ತಿನವರು ಅದನ್ನು ನೋಡುವುದಿಲ್ಲ, ಆದರೂ ಶ್ರಮಿಸುತ್ತಿದ್ದಾರೆ."
+    },
     "themes": [
         "Self-Realization",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "यतन्तः",
-            "transliteration": "yatantaḥ",
-            "meaning": "striving"
+            "transliteration": {
+                "hi": "यतन्तः",
+                "en": "yatantaḥ",
+                "be": "যতন্তঃ",
+                "ka": "ಯತನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "प्रयत्नशील",
+                "en": "striving",
+                "be": "প্রচেষ্টা",
+                "ka": "ಶ್ರಮಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "योगिनः",
-            "transliteration": "yoginaḥ",
-            "meaning": "the Yogins"
+            "transliteration": {
+                "hi": "योगिनः",
+                "en": "yoginaḥ",
+                "be": "যোগিনঃ",
+                "ka": "ಯೋಗಿನಃ"
+            },
+            "meaning": {
+                "hi": "योगिन",
+                "en": "the Yogins",
+                "be": "যোগিনস",
+                "ka": "ಯೋಗಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "पश्यन्ति",
-            "transliteration": "paśyanti",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यन्ति",
+                "en": "paśyanti",
+                "be": "পশ্যন্তি",
+                "ka": "ಪಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "आत्मनि",
-            "transliteration": "ātmani",
-            "meaning": "in the Self"
+            "transliteration": {
+                "hi": "आत्मनि",
+                "en": "ātmani",
+                "be": "আত্মনি",
+                "ka": "ಆತ್ಮನಿ"
+            },
+            "meaning": {
+                "hi": "स्वयं में",
+                "en": "in the Self",
+                "be": "স্বয়ং",
+                "ka": "ಆತ್ಮದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अवस्थितम्",
-            "transliteration": "avasthitam",
-            "meaning": "dwelling"
+            "transliteration": {
+                "hi": "अवस्थितम्",
+                "en": "avasthitam",
+                "be": "অবস্থিতম্",
+                "ka": "ಅವಸ್ಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "आवास",
+                "en": "dwelling",
+                "be": "বাসস্থান",
+                "ka": "ವಾಸ"
+            }
         },
         {
             "sanskrit": "यतन्तः",
-            "transliteration": "yatantaḥ",
-            "meaning": "striving"
+            "transliteration": {
+                "hi": "यतन्तः",
+                "en": "yatantaḥ",
+                "be": "যতন্তঃ",
+                "ka": "ಯತನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "प्रयत्नशील",
+                "en": "striving",
+                "be": "প্রচেষ্টা",
+                "ka": "ಶ್ರಮಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अकृतात्मानः",
-            "transliteration": "akṛtātmānaḥ",
-            "meaning": "the unrefined"
+            "transliteration": {
+                "hi": "अकृतात्मानः",
+                "en": "akṛtātmānaḥ",
+                "be": "অকৃতাত্মানঃ",
+                "ka": "ಅಕೃತಾತ್ಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "अपरिष्कृत",
+                "en": "the unrefined",
+                "be": "অপরিশোধিত",
+                "ka": "ಸಂಸ್ಕರಿಸದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "पश्यन्ति",
-            "transliteration": "paśyanti",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यन्ति",
+                "en": "paśyanti",
+                "be": "পশ্যন্তি",
+                "ka": "ಪಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "अचेतसः",
-            "transliteration": "acetasaḥ",
-            "meaning": "unintelligent."
+            "transliteration": {
+                "hi": "अचेतसः",
+                "en": "acetasaḥ",
+                "be": "অচেতসঃ",
+                "ka": "ಅಚೇತಸಃ"
+            },
+            "meaning": {
+                "hi": "नासमझ.",
+                "en": "unintelligent.",
+                "be": "বুদ্ধিহীন",
+                "ka": "ಬುದ್ಧಿಹೀನ."
+            }
         }
     ],
     "tej": {

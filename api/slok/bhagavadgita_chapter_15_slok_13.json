@@ -14,8 +14,18 @@
         "en": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
         "ka": "ಗಾಮಾವಿಶ್ಯ ಚ ಭೂತಾನಿ ಧಾರಯಾಮ್ಯಹಮೋಜಸಾ |\nಪುಷ್ಣಾಮಿ ಚೌಷಧೀಃ ಸರ್ವಾಃ ಸೋಮೋ ಭೂತ್ವಾ ರಸಾತ್ಮಕಃ ||೧೫-೧೩||"
     },
-    "transliteration": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
-    "life_application": "Entering earth, God sustains all beings by divine energy, and becoming sapful moon, nourishes all plants.",
+    "transliteration": {
+        "hi": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||",
+        "en": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
+        "be": "গামাবিশ্য চ ভূতানি ধারযাম্যহমোজসা |\nপুষ্ণামি চৌষধীঃ সর্বাঃ সোমো ভূত্বা রসাত্মকঃ ||১৫-১৩||",
+        "ka": "ಗಾಮಾವಿಶ್ಯ ಚ ಭೂತಾನಿ ಧಾರಯಾಮ್ಯಹಮೋಜಸಾ |\nಪುಷ್ಣಾಮಿ ಚೌಷಧೀಃ ಸರ್ವಾಃ ಸೋಮೋ ಭೂತ್ವಾ ರಸಾತ್ಮಕಃ ||೧೫-೧೩||"
+    },
+    "life_application": {
+        "hi": "भगवान पृथ्वी में प्रवेश करके दिव्य शक्ति से सभी प्राणियों का पालन-पोषण करते हैं और रसपूर्ण चंद्रमा बनकर सभी पौधों का पोषण करते हैं।",
+        "en": "Entering earth, God sustains all beings by divine energy, and becoming sapful moon, nourishes all plants.",
+        "be": "পৃথিবীতে প্রবেশ করে, ঈশ্বর ঐশ্বরিক শক্তি দ্বারা সমস্ত প্রাণীকে টিকিয়ে রাখেন, এবং রৌদ্রময় চাঁদ হয়ে সমস্ত উদ্ভিদকে পুষ্ট করেন।",
+        "ka": "ಭೂಮಿಯನ್ನು ಪ್ರವೇಶಿಸಿ, ದೇವರು ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ದೈವಿಕ ಶಕ್ತಿಯಿಂದ ಪೋಷಿಸುತ್ತಾನೆ ಮತ್ತು ಸಪ್ಫುಲ್ ಚಂದ್ರನಾಗುತ್ತಾನೆ, ಎಲ್ಲಾ ಸಸ್ಯಗಳನ್ನು ಪೋಷಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "गाम",
-            "transliteration": "gāma",
-            "meaning": "the earth"
+            "transliteration": {
+                "hi": "गाम",
+                "en": "gāma",
+                "be": "গাম",
+                "ka": "ಗಾಮ"
+            },
+            "meaning": {
+                "hi": "पृथ्वी",
+                "en": "the earth",
+                "be": "পৃথিবী",
+                "ka": "ಭೂಮಿ"
+            }
         },
         {
             "sanskrit": "आविश्य",
-            "transliteration": "āviśya",
-            "meaning": "permeating"
+            "transliteration": {
+                "hi": "आविश्य",
+                "en": "āviśya",
+                "be": "আবিশ্য",
+                "ka": "ಆವಿಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "व्याप्त",
+                "en": "permeating",
+                "be": "ব্যাপ্ত",
+                "ka": "ವ್ಯಾಪಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "all beings"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "सभी प्राणी",
+                "en": "all beings",
+                "be": "সমস্ত প্রাণী",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "धारयामि",
-            "transliteration": "dhārayāmi",
-            "meaning": "support"
+            "transliteration": {
+                "hi": "धारयामि",
+                "en": "dhārayāmi",
+                "be": "ধারযামি",
+                "ka": "ಧಾರಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "समर्थन",
+                "en": "support",
+                "be": "সমর্থন",
+                "ka": "ಬೆಂಬಲ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "ओजसा",
-            "transliteration": "ojasā",
-            "meaning": "by energy"
+            "transliteration": {
+                "hi": "ओजसा",
+                "en": "ojasā",
+                "be": "ওজসা",
+                "ka": "ಓಜಸಾ"
+            },
+            "meaning": {
+                "hi": "ऊर्जा द्वारा",
+                "en": "by energy",
+                "be": "শক্তি দ্বারা",
+                "ka": "ಶಕ್ತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "पुष्णामि",
-            "transliteration": "puṣṇāmi",
-            "meaning": "nourish"
+            "transliteration": {
+                "hi": "पुष्णामि",
+                "en": "puṣṇāmi",
+                "be": "পুষ্ণামি",
+                "ka": "ಪುಷ್ಣಾಮಿ"
+            },
+            "meaning": {
+                "hi": "पोषण",
+                "en": "nourish",
+                "be": "পুষ্ট করা",
+                "ka": "ಪೋಷಿಸು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "औषधीः",
-            "transliteration": "auṣadhīḥ",
-            "meaning": "the herbs"
+            "transliteration": {
+                "hi": "औषधीः",
+                "en": "auṣadhīḥ",
+                "be": "ঔষধীঃ",
+                "ka": "ಔಷಧೀಃ"
+            },
+            "meaning": {
+                "hi": "जड़ी-बूटियाँ",
+                "en": "the herbs",
+                "be": "ঔষধি",
+                "ka": "ಗಿಡಮೂಲಿಕೆಗಳು"
+            }
         },
         {
             "sanskrit": "सर्वाः",
-            "transliteration": "sarvāḥ",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वाः",
+                "en": "sarvāḥ",
+                "be": "সর্বাঃ",
+                "ka": "ಸರ್ವಾಃ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "सोमः",
-            "transliteration": "somaḥ",
-            "meaning": "moon"
+            "transliteration": {
+                "hi": "सोमः",
+                "en": "somaḥ",
+                "be": "সোমঃ",
+                "ka": "ಸೋಮಃ"
+            },
+            "meaning": {
+                "hi": "चांद",
+                "en": "moon",
+                "be": "চাঁদ",
+                "ka": "ಚಂದ್ರ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "having become रसात्मकः watery."
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "रसात्मकः पानीदार हो जाना।",
+                "en": "having become रसात्मकः watery.",
+                "be": "रसात्मकः জলময় হয়ে উঠছে।",
+                "ka": "ರಸಾತ್ಮಕಃ ಜಲಮಯವಾದ."
+            }
         }
     ],
     "tej": {

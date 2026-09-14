@@ -14,8 +14,18 @@
         "en": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
         "ka": "ಸರ್ವಸ್ಯ ಚಾಹಂ ಹೃದಿ ಸನ್ನಿವಿಷ್ಟೋ\nಮತ್ತಃ ಸ್ಮೃತಿರ್ಜ್ಞಾನಮಪೋಹನಞ್ಚ |\nವೇದೈಶ್ಚ ಸರ್ವೈರಹಮೇವ ವೇದ್ಯೋ\nವೇದಾನ್ತಕೃದ್ವೇದವಿದೇವ ಚಾಹಮ್ ||೧೫-೧೫||"
     },
-    "transliteration": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
-    "life_application": "Seated in the heart of all, from God comes memory, knowledge, and their loss; God is to be known by all scriptures.",
+    "transliteration": {
+        "hi": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनञ्च |\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ||१५-१५||",
+        "en": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
+        "be": "সর্বস্য চাহং হৃদি সন্নিবিষ্টো\nমত্তঃ স্মৃতির্জ্ঞানমপোহনঞ্চ |\nবেদৈশ্চ সর্বৈরহমেব বেদ্যো\nবেদান্তকৃদ্বেদবিদেব চাহম্ ||১৫-১৫||",
+        "ka": "ಸರ್ವಸ್ಯ ಚಾಹಂ ಹೃದಿ ಸನ್ನಿವಿಷ್ಟೋ\nಮತ್ತಃ ಸ್ಮೃತಿರ್ಜ್ಞಾನಮಪೋಹನಞ್ಚ |\nವೇದೈಶ್ಚ ಸರ್ವೈರಹಮೇವ ವೇದ್ಯೋ\nವೇದಾನ್ತಕೃದ್ವೇದವಿದೇವ ಚಾಹಮ್ ||೧೫-೧೫||"
+    },
+    "life_application": {
+        "hi": "सभी के हृदय में विराजमान ईश्वर से स्मृति, ज्ञान और उनकी हानि आती है; ईश्वर को सभी शास्त्रों से जाना जा सकता है।",
+        "en": "Seated in the heart of all, from God comes memory, knowledge, and their loss; God is to be known by all scriptures.",
+        "be": "সকলের হৃদয়ে উপবিষ্ট, ঈশ্বরের কাছ থেকে স্মৃতি, জ্ঞান এবং তাদের ক্ষতি আসে; সকল ধর্মগ্রন্থ দ্বারা ঈশ্বরকে জানাতে হয়।",
+        "ka": "ಎಲ್ಲರ ಹೃದಯದಲ್ಲಿ ಕುಳಿತು, ದೇವರಿಂದ ಸ್ಮರಣೆ, ​​ಜ್ಞಾನ ಮತ್ತು ಅವರ ನಷ್ಟವು ಬರುತ್ತದೆ; ದೇವರನ್ನು ಎಲ್ಲಾ ಶಾಸ್ತ್ರಗಳಿಂದಲೂ ತಿಳಿಯಬೇಕು."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization",
@@ -24,108 +34,318 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वस्य",
-            "transliteration": "sarvasya",
-            "meaning": "of all"
+            "transliteration": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सबमें से",
+                "en": "of all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "हृदि",
-            "transliteration": "hṛdi",
-            "meaning": "in the heart"
+            "transliteration": {
+                "hi": "हृदि",
+                "en": "hṛdi",
+                "be": "হৃদি",
+                "ka": "ಹೃದಿ"
+            },
+            "meaning": {
+                "hi": "दिल में",
+                "en": "in the heart",
+                "be": "হৃদয়ে",
+                "ka": "ಹೃದಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सन्निविष्टः",
-            "transliteration": "sanniviṣṭaḥ",
-            "meaning": "seated"
+            "transliteration": {
+                "hi": "सन्निविष्टः",
+                "en": "sanniviṣṭaḥ",
+                "be": "সন্নিবিষ্টঃ",
+                "ka": "ಸನ್ನಿವಿಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "बैठा हुआ",
+                "en": "seated",
+                "be": "উপবিষ্ট",
+                "ka": "ಕುಳಿತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "मत्तः",
-            "transliteration": "mattaḥ",
-            "meaning": "from Me"
+            "transliteration": {
+                "hi": "मत्तः",
+                "en": "mattaḥ",
+                "be": "মত্তঃ",
+                "ka": "ಮತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मुझसे",
+                "en": "from Me",
+                "be": "আমার কাছ থেকে",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "स्मृतिः",
-            "transliteration": "smṛtiḥ",
-            "meaning": "memory"
+            "transliteration": {
+                "hi": "स्मृतिः",
+                "en": "smṛtiḥ",
+                "be": "স্মৃতিঃ",
+                "ka": "ಸ್ಮೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "स्मृति",
+                "en": "memory",
+                "be": "স্মৃতি",
+                "ka": "ಸ್ಮರಣೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "अपोहनम्",
-            "transliteration": "apohanam",
-            "meaning": "absence"
+            "transliteration": {
+                "hi": "अपोहनम्",
+                "en": "apohanam",
+                "be": "অপোহনম্",
+                "ka": "ಅಪೋಹನಮ್"
+            },
+            "meaning": {
+                "hi": "अनुपस्थिति",
+                "en": "absence",
+                "be": "অনুপস্থিতি",
+                "ka": "ಅನುಪಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "वेदैः",
-            "transliteration": "vedaiḥ",
-            "meaning": "by the Vedas"
+            "transliteration": {
+                "hi": "वेदैः",
+                "en": "vedaiḥ",
+                "be": "বেদৈঃ",
+                "ka": "ವೇದೈಃ"
+            },
+            "meaning": {
+                "hi": "वेदों द्वारा",
+                "en": "by the Vedas",
+                "be": "বেদ দ্বারা",
+                "ka": "ವೇದಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वैः",
-            "transliteration": "sarvaiḥ",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वैः",
+                "en": "sarvaiḥ",
+                "be": "সর্বৈঃ",
+                "ka": "ಸರ್ವೈಃ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "वेद्यः",
-            "transliteration": "vedyaḥ",
-            "meaning": "to be known"
+            "transliteration": {
+                "hi": "वेद्यः",
+                "en": "vedyaḥ",
+                "be": "বেদ্যঃ",
+                "ka": "ವೇದ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "ज्ञात होना",
+                "en": "to be known",
+                "be": "পরিচিত হতে",
+                "ka": "ತಿಳಿಯಬೇಕಿದೆ"
+            }
         },
         {
             "sanskrit": "वेदान्तकृत्",
-            "transliteration": "vedāntakṛt",
-            "meaning": "the author of the"
+            "transliteration": {
+                "hi": "वेदान्तकृत्",
+                "en": "vedāntakṛt",
+                "be": "বেদান্তকৃত্",
+                "ka": "ವೇದಾನ್ತಕೃತ್"
+            },
+            "meaning": {
+                "hi": "के लेखक",
+                "en": "the author of the",
+                "be": "এর লেখক",
+                "ka": "ನ ಲೇಖಕ"
+            }
         },
         {
             "sanskrit": "वेदवित्",
-            "transliteration": "vedavit",
-            "meaning": "the knower of Vedas"
+            "transliteration": {
+                "hi": "वेदवित्",
+                "en": "vedavit",
+                "be": "বেদবিত্",
+                "ka": "ವೇದವಿತ್"
+            },
+            "meaning": {
+                "hi": "वेदों का ज्ञाता",
+                "en": "the knower of Vedas",
+                "be": "বেদের জ্ঞানী",
+                "ka": "ವೇದಗಳನ್ನು ತಿಳಿದವರು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I."
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं.",
+                "en": "I.",
+                "be": "আমি",
+                "ka": "I."
+            }
         }
     ],
     "tej": {

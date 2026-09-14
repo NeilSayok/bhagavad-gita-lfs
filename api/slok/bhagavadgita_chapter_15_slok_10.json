@@ -14,8 +14,18 @@
         "en": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
         "ka": "ಉತ್ಕ್ರಾಮನ್ತಂ ಸ್ಥಿತಂ ವಾಪಿ ಭುಞ್ಜಾನಂ ವಾ ಗುಣಾನ್ವಿತಮ್ |\nವಿಮೂಢಾ ನಾನುಪಶ್ಯನ್ತಿ ಪಶ್ಯನ್ತಿ ಜ್ಞಾನಚಕ್ಷುಷಃ ||೧೫-೧೦||"
     },
-    "transliteration": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
-    "life_application": "The deluded do not see the soul departing, staying, or experiencing quality; those with eye of wisdom see.",
+    "transliteration": {
+        "hi": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||",
+        "en": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
+        "be": "উত্ক্রামন্তং স্থিতং বাপি ভুঞ্জানং বা গুণান্বিতম্ |\nবিমূঢা নানুপশ্যন্তি পশ্যন্তি জ্ঞানচক্ষুষঃ ||১৫-১০||",
+        "ka": "ಉತ್ಕ್ರಾಮನ್ತಂ ಸ್ಥಿತಂ ವಾಪಿ ಭುಞ್ಜಾನಂ ವಾ ಗುಣಾನ್ವಿತಮ್ |\nವಿಮೂಢಾ ನಾನುಪಶ್ಯನ್ತಿ ಪಶ್ಯನ್ತಿ ಜ್ಞಾನಚಕ್ಷುಷಃ ||೧೫-೧೦||"
+    },
+    "life_application": {
+        "hi": "भ्रमित लोग आत्मा को प्रस्थान करते, ठहरते या गुणवत्ता का अनुभव करते हुए नहीं देखते हैं; जिनके पास ज्ञान की आँख है वे देखते हैं।",
+        "en": "The deluded do not see the soul departing, staying, or experiencing quality; those with eye of wisdom see.",
+        "be": "প্রতারিতরা আত্মাকে প্রস্থান, অবস্থান, বা গুণ অনুভব করতে দেখে না; যাদের জ্ঞানের চোখ আছে তারা দেখে।",
+        "ka": "ಭ್ರಮೆಗೊಳಗಾದವರು ಆತ್ಮವು ನಿರ್ಗಮಿಸುವುದನ್ನು, ಉಳಿಯುವುದನ್ನು ಅಥವಾ ಗುಣಮಟ್ಟವನ್ನು ಅನುಭವಿಸುವುದನ್ನು ನೋಡುವುದಿಲ್ಲ; ಬುದ್ಧಿವಂತಿಕೆಯ ಕಣ್ಣು ಹೊಂದಿರುವವರು ನೋಡುತ್ತಾರೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "उत्क्रामन्तम्",
-            "transliteration": "utkrāmantam",
-            "meaning": "departing"
+            "transliteration": {
+                "hi": "उत्क्रामन्तम्",
+                "en": "utkrāmantam",
+                "be": "উত্ক্রামন্তম্",
+                "ka": "ಉತ್ಕ್ರಾಮನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "प्रस्थान",
+                "en": "departing",
+                "be": "প্রস্থান",
+                "ka": "ನಿರ್ಗಮಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "स्थितम्",
-            "transliteration": "sthitam",
-            "meaning": "staying"
+            "transliteration": {
+                "hi": "स्थितम्",
+                "en": "sthitam",
+                "be": "স্থিতম্",
+                "ka": "ಸ್ಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "रहना",
+                "en": "staying",
+                "be": "থাকা",
+                "ka": "ಉಳಿಯುವುದು"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "भुञ्जानम्",
-            "transliteration": "bhuñjānam",
-            "meaning": "enjoying"
+            "transliteration": {
+                "hi": "भुञ्जानम्",
+                "en": "bhuñjānam",
+                "be": "ভুঞ্জানম্",
+                "ka": "ಭುಞ್ಜಾನಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद ले रहे हैं",
+                "en": "enjoying",
+                "be": "উপভোগ করা",
+                "ka": "ಆನಂದಿಸುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "गुणान्वितम्",
-            "transliteration": "guṇānvitam",
-            "meaning": "united with the Gunas"
+            "transliteration": {
+                "hi": "गुणान्वितम्",
+                "en": "guṇānvitam",
+                "be": "গুণান্বিতম্",
+                "ka": "ಗುಣಾನ್ವಿತಮ್"
+            },
+            "meaning": {
+                "hi": "गुणों के साथ एकजुट",
+                "en": "united with the Gunas",
+                "be": "গুণের সাথে একত্রিত হয়",
+                "ka": "ಗುಣಗಳೊಂದಿಗೆ ಐಕ್ಯವಾಯಿತು"
+            }
         },
         {
             "sanskrit": "विमूढाः",
-            "transliteration": "vimūḍhāḥ",
-            "meaning": "the deluded"
+            "transliteration": {
+                "hi": "विमूढाः",
+                "en": "vimūḍhāḥ",
+                "be": "বিমূঢাঃ",
+                "ka": "ವಿಮೂಢಾಃ"
+            },
+            "meaning": {
+                "hi": "भ्रमित",
+                "en": "the deluded",
+                "be": "বিভ্রান্ত",
+                "ka": "ಭ್ರಮೆಗೊಳಗಾದವರು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अनुपश्यन्ति",
-            "transliteration": "anupaśyanti",
-            "meaning": "do see"
+            "transliteration": {
+                "hi": "अनुपश्यन्ति",
+                "en": "anupaśyanti",
+                "be": "অনুপশ্যন্তি",
+                "ka": "ಅನುಪಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "अवश्य देखें",
+                "en": "do see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "पश्यन्ति",
-            "transliteration": "paśyanti",
-            "meaning": "behold"
+            "transliteration": {
+                "hi": "पश्यन्ति",
+                "en": "paśyanti",
+                "be": "পশ্যন্তি",
+                "ka": "ಪಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "देखो",
+                "en": "behold",
+                "be": "দেখ",
+                "ka": "ಇಗೋ"
+            }
         },
         {
             "sanskrit": "ज्ञानचक्षुषः",
-            "transliteration": "jñānacakṣuṣaḥ",
-            "meaning": "those who possess the"
+            "transliteration": {
+                "hi": "ज्ञानचक्षुषः",
+                "en": "jñānacakṣuṣaḥ",
+                "be": "জ্ঞানচক্ষুষঃ",
+                "ka": "ಜ್ಞಾನಚಕ್ಷುಷಃ"
+            },
+            "meaning": {
+                "hi": "जिनके पास है",
+                "en": "those who possess the",
+                "be": "যারা অধিকারী",
+                "ka": "ಹೊಂದಿರುವವರು"
+            }
         }
     ],
     "tej": {

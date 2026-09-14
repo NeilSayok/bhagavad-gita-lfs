@@ -14,8 +14,18 @@
         "en": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
         "ka": "ಯದಾದಿತ್ಯಗತಂ ತೇಜೋ ಜಗದ್ಭಾಸಯತೇಽಖಿಲಮ್ |\nಯಚ್ಚನ್ದ್ರಮಸಿ ಯಚ್ಚಾಗ್ನೌ ತತ್ತೇಜೋ ವಿದ್ಧಿ ಮಾಮಕಮ್ ||೧೫-೧೨||"
     },
-    "transliteration": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
-    "life_application": "Know that radiance in the sun illuminating the world, in moon and fire, to be divine splendor.",
+    "transliteration": {
+        "hi": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||",
+        "en": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
+        "be": "যদাদিত্যগতং তেজো জগদ্ভাসযতেঽখিলম্ |\nযচ্চন্দ্রমসি যচ্চাগ্নৌ তত্তেজো বিদ্ধি মামকম্ ||১৫-১২||",
+        "ka": "ಯದಾದಿತ್ಯಗತಂ ತೇಜೋ ಜಗದ್ಭಾಸಯತೇಽಖಿಲಮ್ |\nಯಚ್ಚನ್ದ್ರಮಸಿ ಯಚ್ಚಾಗ್ನೌ ತತ್ತೇಜೋ ವಿದ್ಧಿ ಮಾಮಕಮ್ ||೧೫-೧೨||"
+    },
+    "life_application": {
+        "hi": "संसार को प्रकाशित करने वाले सूर्य में जो तेज है, चंद्रमा और अग्नि में जो तेज है, उसे दिव्य तेज जानो।",
+        "en": "Know that radiance in the sun illuminating the world, in moon and fire, to be divine splendor.",
+        "be": "জানুন যে সূর্যের তেজ জগৎকে আলোকিত করে, চন্দ্র ও অগ্নিতে, দৈব মহিমা।",
+        "ka": "ಜಗತ್ತನ್ನು ಬೆಳಗಿಸುವ ಸೂರ್ಯನಲ್ಲಿ, ಚಂದ್ರ ಮತ್ತು ಬೆಂಕಿಯಲ್ಲಿ, ದೈವಿಕ ತೇಜಸ್ಸಿಗೆ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "आदित्यगतम्",
-            "transliteration": "ādityagatam",
-            "meaning": "residing in the sun"
+            "transliteration": {
+                "hi": "आदित्यगतम्",
+                "en": "ādityagatam",
+                "be": "আদিত্যগতম্",
+                "ka": "ಆದಿತ್ಯಗತಮ್"
+            },
+            "meaning": {
+                "hi": "धूप में रहना",
+                "en": "residing in the sun",
+                "be": "সূর্যের মধ্যে বসবাস",
+                "ka": "ಸೂರ್ಯನಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "तेजः",
-            "transliteration": "tejaḥ",
-            "meaning": "light"
+            "transliteration": {
+                "hi": "तेजः",
+                "en": "tejaḥ",
+                "be": "তেজঃ",
+                "ka": "ತೇಜಃ"
+            },
+            "meaning": {
+                "hi": "रोशनी",
+                "en": "light",
+                "be": "আলো",
+                "ka": "ಬೆಳಕು"
+            }
         },
         {
             "sanskrit": "जगत्",
-            "transliteration": "jagat",
-            "meaning": "the world"
+            "transliteration": {
+                "hi": "जगत्",
+                "en": "jagat",
+                "be": "জগত্",
+                "ka": "ಜಗತ್"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "the world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "भासयते",
-            "transliteration": "bhāsayate",
-            "meaning": "illumines"
+            "transliteration": {
+                "hi": "भासयते",
+                "en": "bhāsayate",
+                "be": "ভাসযতে",
+                "ka": "ಭಾಸಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रकाशित करता है",
+                "en": "illumines",
+                "be": "আলোকিত করে",
+                "ka": "ಪ್ರಕಾಶಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अखिलम्",
-            "transliteration": "akhilam",
-            "meaning": "whole"
+            "transliteration": {
+                "hi": "अखिलम्",
+                "en": "akhilam",
+                "be": "অখিলম্",
+                "ka": "ಅಖಿಲಮ್"
+            },
+            "meaning": {
+                "hi": "संपूर्ण",
+                "en": "whole",
+                "be": "সম্পূর্ণ",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "चन्द्रमसि",
-            "transliteration": "candramasi",
-            "meaning": "in the moon"
+            "transliteration": {
+                "hi": "चन्द्रमसि",
+                "en": "candramasi",
+                "be": "চন্দ্রমসি",
+                "ka": "ಚನ್ದ್ರಮಸಿ"
+            },
+            "meaning": {
+                "hi": "चाँद में",
+                "en": "in the moon",
+                "be": "চাঁদে",
+                "ka": "ಚಂದ್ರನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अग्नौ",
-            "transliteration": "agnau",
-            "meaning": "in the fire"
+            "transliteration": {
+                "hi": "अग्नौ",
+                "en": "agnau",
+                "be": "অগ্নৌ",
+                "ka": "ಅಗ್ನೌ"
+            },
+            "meaning": {
+                "hi": "आग में",
+                "en": "in the fire",
+                "be": "আগুনে",
+                "ka": "ಬೆಂಕಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "तेजः",
-            "transliteration": "tejaḥ",
-            "meaning": "light"
+            "transliteration": {
+                "hi": "तेजः",
+                "en": "tejaḥ",
+                "be": "তেজঃ",
+                "ka": "ತೇಜಃ"
+            },
+            "meaning": {
+                "hi": "रोशनी",
+                "en": "light",
+                "be": "আলো",
+                "ka": "ಬೆಳಕು"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "मामकम्",
-            "transliteration": "māmakam",
-            "meaning": "Mine."
+            "transliteration": {
+                "hi": "मामकम्",
+                "en": "māmakam",
+                "be": "মামকম্",
+                "ka": "ಮಾಮಕಮ್"
+            },
+            "meaning": {
+                "hi": "मेरा।",
+                "en": "Mine.",
+                "be": "আমার",
+                "ka": "ನನ್ನದು."
+            }
         }
     ],
     "tej": {

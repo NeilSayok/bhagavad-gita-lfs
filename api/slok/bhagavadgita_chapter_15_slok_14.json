@@ -14,8 +14,18 @@
         "en": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
         "ka": "ಅಹಂ ವೈಶ್ವಾನರೋ ಭೂತ್ವಾ ಪ್ರಾಣಿನಾಂ ದೇಹಮಾಶ್ರಿತಃ |\nಪ್ರಾಣಾಪಾನಸಮಾಯುಕ್ತಃ ಪಚಾಮ್ಯನ್ನಂ ಚತುರ್ವಿಧಮ್ ||೧೫-೧೪||"
     },
-    "transliteration": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
-    "life_application": "Becoming the digestive fire in living bodies, united with breath, God digests four kinds of food.",
+    "transliteration": {
+        "hi": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||",
+        "en": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
+        "be": "অহং বৈশ্বানরো ভূত্বা প্রাণিনাং দেহমাশ্রিতঃ |\nপ্রাণাপানসমাযুক্তঃ পচাম্যন্নং চতুর্বিধম্ ||১৫-১৪||",
+        "ka": "ಅಹಂ ವೈಶ್ವಾನರೋ ಭೂತ್ವಾ ಪ್ರಾಣಿನಾಂ ದೇಹಮಾಶ್ರಿತಃ |\nಪ್ರಾಣಾಪಾನಸಮಾಯುಕ್ತಃ ಪಚಾಮ್ಯನ್ನಂ ಚತುರ್ವಿಧಮ್ ||೧೫-೧೪||"
+    },
+    "life_application": {
+        "hi": "जीवित शरीरों में पाचन अग्नि बनकर, सांस के साथ एकजुट होकर, भगवान चार प्रकार के भोजन को पचाते हैं।",
+        "en": "Becoming the digestive fire in living bodies, united with breath, God digests four kinds of food.",
+        "be": "জীবদেহে পরিপাক অগ্নি হয়ে, নিঃশ্বাসে একত্রিত হয়ে ভগবান চার প্রকার খাদ্য হজম করেন।",
+        "ka": "ಜೀವಂತ ದೇಹಗಳಲ್ಲಿ ಜೀರ್ಣಕಾರಿ ಬೆಂಕಿಯಾಗಿ, ಉಸಿರಿನೊಂದಿಗೆ ಐಕ್ಯವಾಗಿ, ದೇವರು ನಾಲ್ಕು ರೀತಿಯ ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "वैश्वानरः",
-            "transliteration": "vaiśvānaraḥ",
-            "meaning": "Vaisvanara"
+            "transliteration": {
+                "hi": "वैश्वानरः",
+                "en": "vaiśvānaraḥ",
+                "be": "বৈশ্বানরঃ",
+                "ka": "ವೈಶ್ವಾನರಃ"
+            },
+            "meaning": {
+                "hi": "वैश्वानर",
+                "en": "Vaisvanara",
+                "be": "বৈশ্বনরা",
+                "ka": "ವೈಶ್ವಾನರ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "having become"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बन रहा है",
+                "en": "having become",
+                "be": "হয়ে গেছে",
+                "ka": "ಆಯಿತು"
+            }
         },
         {
             "sanskrit": "प्राणिनाम्",
-            "transliteration": "prāṇinām",
-            "meaning": "of living beings"
+            "transliteration": {
+                "hi": "प्राणिनाम्",
+                "en": "prāṇinām",
+                "be": "প্রাণিনাম্",
+                "ka": "ಪ್ರಾಣಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "जीवित प्राणियों का",
+                "en": "of living beings",
+                "be": "জীবিত প্রাণীদের",
+                "ka": "ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "देहम्",
-            "transliteration": "deham",
-            "meaning": "the body"
+            "transliteration": {
+                "hi": "देहम्",
+                "en": "deham",
+                "be": "দেহম্",
+                "ka": "ದೇಹಮ್"
+            },
+            "meaning": {
+                "hi": "शरीर",
+                "en": "the body",
+                "be": "শরীর",
+                "ka": "ದೇಹ"
+            }
         },
         {
             "sanskrit": "आश्रितः",
-            "transliteration": "āśritaḥ",
-            "meaning": "abiding"
+            "transliteration": {
+                "hi": "आश्रितः",
+                "en": "āśritaḥ",
+                "be": "আশ্রিতঃ",
+                "ka": "ಆಶ್ರಿತಃ"
+            },
+            "meaning": {
+                "hi": "स्थायी",
+                "en": "abiding",
+                "be": "স্থায়ী",
+                "ka": "ಬದ್ಧವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "प्राणापानसमायुक्तः",
-            "transliteration": "prāṇāpānasamāyuktaḥ",
-            "meaning": "associated with Prana and"
+            "transliteration": {
+                "hi": "प्राणापानसमायुक्तः",
+                "en": "prāṇāpānasamāyuktaḥ",
+                "be": "প্রাণাপানসমাযুক্তঃ",
+                "ka": "ಪ್ರಾಣಾಪಾನಸಮಾಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "प्राण और से संबंधित",
+                "en": "associated with Prana and",
+                "be": "প্রাণের সাথে যুক্ত এবং",
+                "ka": "ಪ್ರಾಣ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पचामि",
-            "transliteration": "pacāmi",
-            "meaning": "digest"
+            "transliteration": {
+                "hi": "पचामि",
+                "en": "pacāmi",
+                "be": "পচামি",
+                "ka": "ಪಚಾಮಿ"
+            },
+            "meaning": {
+                "hi": "पचाना",
+                "en": "digest",
+                "be": "হজম",
+                "ka": "ಜೀರ್ಣಿಸಿಕೊಳ್ಳಿ"
+            }
         },
         {
             "sanskrit": "अन्नम्",
-            "transliteration": "annam",
-            "meaning": "food"
+            "transliteration": {
+                "hi": "अन्नम्",
+                "en": "annam",
+                "be": "অন্নম্",
+                "ka": "ಅನ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "खाना",
+                "en": "food",
+                "be": "খাদ্য",
+                "ka": "ಆಹಾರ"
+            }
         },
         {
             "sanskrit": "चतुर्विधम्",
-            "transliteration": "caturvidham",
-            "meaning": "fourfold."
+            "transliteration": {
+                "hi": "चतुर्विधम्",
+                "en": "caturvidham",
+                "be": "চতুর্বিধম্",
+                "ka": "ಚತುರ್ವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "चौगुना.",
+                "en": "fourfold.",
+                "be": "চারগুণ",
+                "ka": "ನಾಲ್ಕು ಪಟ್ಟು."
+            }
         }
     ],
     "tej": {

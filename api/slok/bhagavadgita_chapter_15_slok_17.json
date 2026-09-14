@@ -14,8 +14,18 @@
         "en": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
         "ka": "ಉತ್ತಮಃ ಪುರುಷಸ್ತ್ವನ್ಯಃ ಪರಮಾತ್ಮೇತ್ಯುಧಾಹೃತಃ |\nಯೋ ಲೋಕತ್ರಯಮಾವಿಶ್ಯ ಬಿಭರ್ತ್ಯವ್ಯಯ ಈಶ್ವರಃ ||೧೫-೧೭||"
     },
-    "transliteration": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
-    "life_application": "Supreme Person is distinct, declared as Supreme Self, imperishable Lord who pervades three worlds and sustains them.",
+    "transliteration": {
+        "hi": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||",
+        "en": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
+        "be": "উত্তমঃ পুরুষস্ত্বন্যঃ পরমাত্মেত্যুধাহৃতঃ |\nযো লোকত্রযমাবিশ্য বিভর্ত্যব্যয ঈশ্বরঃ ||১৫-১৭||",
+        "ka": "ಉತ್ತಮಃ ಪುರುಷಸ್ತ್ವನ್ಯಃ ಪರಮಾತ್ಮೇತ್ಯುಧಾಹೃತಃ |\nಯೋ ಲೋಕತ್ರಯಮಾವಿಶ್ಯ ಬಿಭರ್ತ್ಯವ್ಯಯ ಈಶ್ವರಃ ||೧೫-೧೭||"
+    },
+    "life_application": {
+        "hi": "सर्वोच्च व्यक्ति विशिष्ट है, जिसे सर्वोच्च आत्मा, अविनाशी भगवान के रूप में घोषित किया गया है जो तीनों लोकों में व्याप्त है और उनका भरण-पोषण करता है।",
+        "en": "Supreme Person is distinct, declared as Supreme Self, imperishable Lord who pervades three worlds and sustains them.",
+        "be": "পরম পুরুষ স্বতন্ত্র, পরম স্বয়ং, অবিনশ্বর ভগবান হিসাবে ঘোষিত যিনি তিনটি জগতে বিরাজ করেন এবং তাদের টিকিয়ে রাখেন।",
+        "ka": "ಪರಮಪುರುಷನು ವಿಭಿನ್ನ, ಪರಮಾತ್ಮನೆಂದು ಘೋಷಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ, ಮೂರು ಲೋಕಗಳನ್ನು ವ್ಯಾಪಿಸಿರುವ ಮತ್ತು ಅವುಗಳನ್ನು ಪೋಷಿಸುವ ಅವಿನಾಶಿ ಭಗವಂತ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "उत्तमः",
-            "transliteration": "uttamaḥ",
-            "meaning": "the Supreme"
+            "transliteration": {
+                "hi": "उत्तमः",
+                "en": "uttamaḥ",
+                "be": "উত্তমঃ",
+                "ka": "ಉತ್ತಮಃ"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "the Supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "अन्यः",
-            "transliteration": "anyaḥ",
-            "meaning": "another"
+            "transliteration": {
+                "hi": "अन्यः",
+                "en": "anyaḥ",
+                "be": "অন্যঃ",
+                "ka": "ಅನ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "दूसरा",
+                "en": "another",
+                "be": "অন্য",
+                "ka": "ಇನ್ನೊಂದು"
+            }
         },
         {
             "sanskrit": "परमात्मा",
-            "transliteration": "paramātmā",
-            "meaning": "the highest"
+            "transliteration": {
+                "hi": "परमात्मा",
+                "en": "paramātmā",
+                "be": "পরমাত্মা",
+                "ka": "ಪರಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "उच्चतम",
+                "en": "the highest",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯಧಿಕ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उदाहृतः",
-            "transliteration": "udāhṛtaḥ",
-            "meaning": "called"
+            "transliteration": {
+                "hi": "उदाहृतः",
+                "en": "udāhṛtaḥ",
+                "be": "উদাহৃতঃ",
+                "ka": "ಉದಾಹೃತಃ"
+            },
+            "meaning": {
+                "hi": "बुलाया",
+                "en": "called",
+                "be": "ডাকা",
+                "ka": "ಎಂದು ಕರೆದರು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "लोकत्रयम्",
-            "transliteration": "lokatrayam",
-            "meaning": "the three worlds"
+            "transliteration": {
+                "hi": "लोकत्रयम्",
+                "en": "lokatrayam",
+                "be": "লোকত্রযম্",
+                "ka": "ಲೋಕತ್ರಯಮ್"
+            },
+            "meaning": {
+                "hi": "तीन लोक",
+                "en": "the three worlds",
+                "be": "তিনটি বিশ্ব",
+                "ka": "ಮೂರು ಲೋಕಗಳು"
+            }
         },
         {
             "sanskrit": "आविश्य",
-            "transliteration": "āviśya",
-            "meaning": "pervading"
+            "transliteration": {
+                "hi": "आविश्य",
+                "en": "āviśya",
+                "be": "আবিশ্য",
+                "ka": "ಆವಿಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "व्याप्त",
+                "en": "pervading",
+                "be": "পরিব্যাপ্ত",
+                "ka": "ವ್ಯಾಪಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "बिभर्ति",
-            "transliteration": "bibharti",
-            "meaning": "sustains"
+            "transliteration": {
+                "hi": "बिभर्ति",
+                "en": "bibharti",
+                "be": "বিভর্তি",
+                "ka": "ಬಿಭರ್ತಿ"
+            },
+            "meaning": {
+                "hi": "बनाए",
+                "en": "sustains",
+                "be": "বজায় রাখে",
+                "ka": "ಸಮರ್ಥಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अव्ययः",
-            "transliteration": "avyayaḥ",
-            "meaning": "the indestructible"
+            "transliteration": {
+                "hi": "अव्ययः",
+                "en": "avyayaḥ",
+                "be": "অব্যযঃ",
+                "ka": "ಅವ್ಯಯಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "the indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ"
+            }
         },
         {
             "sanskrit": "ईश्वरः",
-            "transliteration": "īśvaraḥ",
-            "meaning": "Lord."
+            "transliteration": {
+                "hi": "ईश्वरः",
+                "en": "īśvaraḥ",
+                "be": "ঈশ্বরঃ",
+                "ka": "ಈಶ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "भगवान।",
+                "en": "Lord.",
+                "be": "প্রভু",
+                "ka": "ಪ್ರಭು."
+            }
         }
     ],
     "tej": {

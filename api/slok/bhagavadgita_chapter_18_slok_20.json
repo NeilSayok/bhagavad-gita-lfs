@@ -14,8 +14,18 @@
         "en": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate .\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam ||18-20||",
         "ka": "ಸರ್ವಭೂತೇಷು ಯೇನೈಕಂ ಭಾವಮವ್ಯಯಮೀಕ್ಷತೇ |\nಅವಿಭಕ್ತಂ ವಿಭಕ್ತೇಷು ತಜ್ಜ್ಞಾನಂ ವಿದ್ಧಿ ಸಾತ್ತ್ವಿಕಮ್ ||೧೮-೨೦||"
     },
-    "transliteration": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate .\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam ||18-20||",
-    "life_application": "Knowledge by which one sees one imperishable reality in all beings, undivided in the divided—is Sattvic.",
+    "transliteration": {
+        "hi": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते |\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||१८-२०||",
+        "en": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate .\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam ||18-20||",
+        "be": "সর্বভূতেষু যেনৈকং ভাবমব্যযমীক্ষতে |\nঅবিভক্তং বিভক্তেষু তজ্জ্ঞানং বিদ্ধি সাত্ত্বিকম্ ||১৮-২০||",
+        "ka": "ಸರ್ವಭೂತೇಷು ಯೇನೈಕಂ ಭಾವಮವ್ಯಯಮೀಕ್ಷತೇ |\nಅವಿಭಕ್ತಂ ವಿಭಕ್ತೇಷು ತಜ್ಜ್ಞಾನಂ ವಿದ್ಧಿ ಸಾತ್ತ್ವಿಕಮ್ ||೧೮-೨೦||"
+    },
+    "life_application": {
+        "hi": "वह ज्ञान जिसके द्वारा व्यक्ति सभी प्राणियों में, विभाजित में भी अविभाजित, एक अविनाशी वास्तविकता को देखता है - सात्विक है।",
+        "en": "Knowledge by which one sees one imperishable reality in all beings, undivided in the divided—is Sattvic.",
+        "be": "যে জ্ঞানের দ্বারা সকল জীবের মধ্যে এক অবিনশ্বর বাস্তবতাকে, বিভক্তের মধ্যে অবিভক্ত দেখতে পায়—তাই সাত্ত্বিক।",
+        "ka": "ವಿಭಜಿತವಾಗಿ ಅವಿಭಜಿತವಾದ ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಒಂದು ನಾಶವಾಗದ ವಾಸ್ತವವನ್ನು ನೋಡುವ ಜ್ಞಾನವು ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वभूतेषु",
-            "transliteration": "sarvabhūteṣu",
-            "meaning": "in all beings"
+            "transliteration": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "सभी प्राणियों में",
+                "en": "in all beings",
+                "be": "সমস্ত প্রাণীর মধ্যে",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "येन",
-            "transliteration": "yena",
-            "meaning": "by which"
+            "transliteration": {
+                "hi": "येन",
+                "en": "yena",
+                "be": "যেন",
+                "ka": "ಯೇನ"
+            },
+            "meaning": {
+                "hi": "जिससे",
+                "en": "by which",
+                "be": "যার দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "एकम्",
-            "transliteration": "ekam",
-            "meaning": "one"
+            "transliteration": {
+                "hi": "एकम्",
+                "en": "ekam",
+                "be": "একম্",
+                "ka": "ಏಕಮ್"
+            },
+            "meaning": {
+                "hi": "एक",
+                "en": "one",
+                "be": "এক",
+                "ka": "ಒಂದು"
+            }
         },
         {
             "sanskrit": "भावम्",
-            "transliteration": "bhāvam",
-            "meaning": "reality"
+            "transliteration": {
+                "hi": "भावम्",
+                "en": "bhāvam",
+                "be": "ভাবম্",
+                "ka": "ಭಾವಮ್"
+            },
+            "meaning": {
+                "hi": "हकीकत",
+                "en": "reality",
+                "be": "বাস্তবতা",
+                "ka": "ವಾಸ್ತವ"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "indestructible"
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ"
+            }
         },
         {
             "sanskrit": "ईक्षते",
-            "transliteration": "īkṣate",
-            "meaning": "sees"
+            "transliteration": {
+                "hi": "ईक्षते",
+                "en": "īkṣate",
+                "be": "ঈক্ষতে",
+                "ka": "ಈಕ್ಷತೇ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "sees",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "अविभक्तम्",
-            "transliteration": "avibhaktam",
-            "meaning": "inseparable"
+            "transliteration": {
+                "hi": "अविभक्तम्",
+                "en": "avibhaktam",
+                "be": "অবিভক্তম্",
+                "ka": "ಅವಿಭಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अविभाज्य",
+                "en": "inseparable",
+                "be": "অবিচ্ছেদ্য",
+                "ka": "ಬೇರ್ಪಡಿಸಲಾಗದ"
+            }
         },
         {
             "sanskrit": "विभक्तेषु",
-            "transliteration": "vibhakteṣu",
-            "meaning": "in the separated"
+            "transliteration": {
+                "hi": "विभक्तेषु",
+                "en": "vibhakteṣu",
+                "be": "বিভক্তেষু",
+                "ka": "ವಿಭಕ್ತೇಷು"
+            },
+            "meaning": {
+                "hi": "अलग में",
+                "en": "in the separated",
+                "be": "বিচ্ছিন্ন মধ্যে",
+                "ka": "ಬೇರ್ಪಟ್ಟವರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "सात्त्विकम्",
-            "transliteration": "sāttvikam",
-            "meaning": "Sattvic ."
+            "transliteration": {
+                "hi": "सात्त्विकम्",
+                "en": "sāttvikam",
+                "be": "সাত্ত্বিকম্",
+                "ka": "ಸಾತ್ತ್ವಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "सात्विक.",
+                "en": "Sattvic .",
+                "be": "সাত্ত্বিক।",
+                "ka": "ಸಾತ್ವಿಕ."
+            }
         }
     ],
     "tej": {

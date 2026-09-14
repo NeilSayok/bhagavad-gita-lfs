@@ -14,8 +14,18 @@
         "en": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā .\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ ||18-18||",
         "ka": "ಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಪರಿಜ್ಞಾತಾ ತ್ರಿವಿಧಾ ಕರ್ಮಚೋದನಾ |\nಕರಣಂ ಕರ್ಮ ಕರ್ತೇತಿ ತ್ರಿವಿಧಃ ಕರ್ಮಸಂಗ್ರಹಃ ||೧೮-೧೮||"
     },
-    "transliteration": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā .\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ ||18-18||",
-    "life_application": "Knowledge, knowable, knower are threefold incentive to action; instrument, action, agent are threefold constituent of action.",
+    "transliteration": {
+        "hi": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||१८-१८||",
+        "en": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā .\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ ||18-18||",
+        "be": "জ্ঞানং জ্ঞেযং পরিজ্ঞাতা ত্রিবিধা কর্মচোদনা |\nকরণং কর্ম কর্তেতি ত্রিবিধঃ কর্মসংগ্রহঃ ||১৮-১৮||",
+        "ka": "ಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಪರಿಜ್ಞಾತಾ ತ್ರಿವಿಧಾ ಕರ್ಮಚೋದನಾ |\nಕರಣಂ ಕರ್ಮ ಕರ್ತೇತಿ ತ್ರಿವಿಧಃ ಕರ್ಮಸಂಗ್ರಹಃ ||೧೮-೧೮||"
+    },
+    "life_application": {
+        "hi": "ज्ञान, ज्ञेय, ज्ञाता क्रिया के लिए तीन प्रकार के प्रोत्साहन हैं; क्रिया के साधन, क्रिया, कर्ता ये तीन घटक हैं।",
+        "en": "Knowledge, knowable, knower are threefold incentive to action; instrument, action, agent are threefold constituent of action.",
+        "be": "জ্ঞান, জ্ঞাত, জ্ঞাতা কর্মের ত্রিগুণ উদ্দীপক; যন্ত্র, কর্ম, এজেন্ট কর্মের ত্রিগুণ উপাদান।",
+        "ka": "ಜ್ಞಾನ, ತಿಳಿಯಬಹುದಾದ, ತಿಳಿವಳಿಕೆಯು ಕ್ರಿಯೆಗೆ ಮೂರು ಪಟ್ಟು ಪ್ರೋತ್ಸಾಹ; ಉಪಕರಣ, ಕ್ರಿಯೆ, ಏಜೆಂಟ್ ಕ್ರಿಯೆಯ ಮೂರು ಅಂಶಗಳಾಗಿವೆ."
+    },
     "themes": [
         "Knowledge",
         "Karma"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "ज्ञेयम्",
-            "transliteration": "jñeyam",
-            "meaning": "the knowable"
+            "transliteration": {
+                "hi": "ज्ञेयम्",
+                "en": "jñeyam",
+                "be": "জ্ঞেযম্",
+                "ka": "ಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञेय",
+                "en": "the knowable",
+                "be": "জানা যায়",
+                "ka": "ತಿಳಿದಿರುವ"
+            }
         },
         {
             "sanskrit": "परिज्ञाता",
-            "transliteration": "parijñātā",
-            "meaning": "the knower"
+            "transliteration": {
+                "hi": "परिज्ञाता",
+                "en": "parijñātā",
+                "be": "পরিজ্ঞাতা",
+                "ka": "ಪರಿಜ್ಞಾತಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञाता",
+                "en": "the knower",
+                "be": "জ্ঞানী",
+                "ka": "ತಿಳಿದವನು"
+            }
         },
         {
             "sanskrit": "त्रिविधा",
-            "transliteration": "trividhā",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधा",
+                "en": "trividhā",
+                "be": "ত্রিবিধা",
+                "ka": "ತ್ರಿವಿಧಾ"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "कर्मचोदना",
-            "transliteration": "karmacodanā",
-            "meaning": "impulse to action"
+            "transliteration": {
+                "hi": "कर्मचोदना",
+                "en": "karmacodanā",
+                "be": "কর্মচোদনা",
+                "ka": "ಕರ್ಮಚೋದನಾ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई के लिए आवेग",
+                "en": "impulse to action",
+                "be": "কর্মের প্ররোচনা",
+                "ka": "ಕ್ರಿಯೆಗೆ ಪ್ರಚೋದನೆ"
+            }
         },
         {
             "sanskrit": "करणम्",
-            "transliteration": "karaṇam",
-            "meaning": "the organ"
+            "transliteration": {
+                "hi": "करणम्",
+                "en": "karaṇam",
+                "be": "করণম্",
+                "ka": "ಕರಣಮ್"
+            },
+            "meaning": {
+                "hi": "अंग",
+                "en": "the organ",
+                "be": "অঙ্গ",
+                "ka": "ಅಂಗ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "the action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "the action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಿಯೆ"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "the agent"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "एजेंट",
+                "en": "the agent",
+                "be": "এজেন্ট",
+                "ka": "ಏಜೆಂಟ್"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "त्रिविधः",
-            "transliteration": "trividhaḥ",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधः",
+                "en": "trividhaḥ",
+                "be": "ত্রিবিধঃ",
+                "ka": "ತ್ರಿವಿಧಃ"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "कर्मसंग्रहः",
-            "transliteration": "karmasaṃgrahaḥ",
-            "meaning": "the basis of action."
+            "transliteration": {
+                "hi": "कर्मसंग्रहः",
+                "en": "karmasaṃgrahaḥ",
+                "be": "কর্মসংগ্রহঃ",
+                "ka": "ಕರ್ಮಸಂಗ್ರಹಃ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई का आधार.",
+                "en": "the basis of action.",
+                "be": "কর্মের ভিত্তি।",
+                "ka": "ಕ್ರಿಯೆಯ ಆಧಾರ."
+            }
         }
     ],
     "tej": {

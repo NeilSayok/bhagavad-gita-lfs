@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ .\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ ||18-2||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕಾಮ್ಯಾನಾಂ ಕರ್ಮಣಾಂ ನ್ಯಾಸಂ ಸಂನ್ಯಾಸಂ ಕವಯೋ ವಿದುಃ |\nಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಂ ಪ್ರಾಹುಸ್ತ್ಯಾಗಂ ವಿಚಕ್ಷಣಾಃ ||೧೮-೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ .\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ ||18-2||",
-    "life_application": "Renunciation of desire-driven actions sages call sannyasa; relinquishment of fruits of all actions wise call tyaga.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः |\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||१८-२||",
+        "en": "śrībhagavānuvāca .\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ .\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ ||18-2||",
+        "be": "শ্রীভগবানুবাচ |\nকাম্যানাং কর্মণাं ন্যাসং সংন্যাসং কবযো বিদুঃ |\nসর্বकर्मফলত্যাগং প্রাহুস্ত্যাগং বিচক্ষণাঃ ||১৮-২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕಾಮ್ಯಾನಾಂ ಕರ್ಮಣಾಂ ನ್ಯಾಸಂ ಸಂನ್ಯಾಸಂ ಕವಯೋ ವಿದುಃ |\nಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಂ ಪ್ರಾಹುಸ್ತ್ಯಾಗಂ ವಿಚಕ್ಷಣಾಃ ||೧೮-೨||"
+    },
+    "life_application": {
+        "hi": "इच्छा-प्रेरित कर्मों के त्याग को ऋषि लोग संन्यास कहते हैं; सभी कर्मों के फल का त्याग करना ही त्याग कहलाता है।",
+        "en": "Renunciation of desire-driven actions sages call sannyasa; relinquishment of fruits of all actions wise call tyaga.",
+        "be": "ইচ্ছা-চালিত কর্মের ত্যাগকে ঋষিরা সন্ন্যাস বলেছেন; সমস্ত কর্মের ফল ত্যাগ করাকে ত্যাগ বলে।",
+        "ka": "ಆಸೆ-ಚಾಲಿತ ಕ್ರಿಯೆಗಳ ಪರಿತ್ಯಾಗವನ್ನು ಋಷಿಗಳು ಸನ್ಯಾಸ ಎಂದು ಕರೆಯುತ್ತಾರೆ; ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳ ಫಲವನ್ನು ತ್ಯಾಗ ಎಂದು ಕರೆಯುತ್ತಾರೆ."
+    },
     "themes": [
         "Detachment",
         "Karma"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "काम्यानाम्",
-            "transliteration": "kāmyānām",
-            "meaning": "desireful"
+            "transliteration": {
+                "hi": "काम्यानाम्",
+                "en": "kāmyānām",
+                "be": "কাম্যানাম্",
+                "ka": "ಕಾಮ್ಯಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "इच्छाधारी",
+                "en": "desireful",
+                "be": "ইচ্ছাপূর্ণ",
+                "ka": "ಅಪೇಕ್ಷೆಯುಳ್ಳ"
+            }
         },
         {
             "sanskrit": "कर्मणाम्",
-            "transliteration": "karmaṇām",
-            "meaning": "of actions"
+            "transliteration": {
+                "hi": "कर्मणाम्",
+                "en": "karmaṇām",
+                "be": "কর্মণাম্",
+                "ka": "ಕರ್ಮಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "क्रियाओं का",
+                "en": "of actions",
+                "be": "কর্মের",
+                "ka": "ಕ್ರಿಯೆಗಳ"
+            }
         },
         {
             "sanskrit": "न्यासम्",
-            "transliteration": "nyāsam",
-            "meaning": "the renunciation"
+            "transliteration": {
+                "hi": "न्यासम्",
+                "en": "nyāsam",
+                "be": "ন্যাসম্",
+                "ka": "ನ್ಯಾಸಮ್"
+            },
+            "meaning": {
+                "hi": "त्याग",
+                "en": "the renunciation",
+                "be": "ত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "संन्यासम्",
-            "transliteration": "saṃnyāsam",
-            "meaning": "Sannyasa"
+            "transliteration": {
+                "hi": "संन्यासम्",
+                "en": "saṃnyāsam",
+                "be": "সংন্যাসম্",
+                "ka": "ಸಂನ್ಯಾಸಮ್"
+            },
+            "meaning": {
+                "hi": "संन्यास",
+                "en": "Sannyasa",
+                "be": "সন্ন্যাস",
+                "ka": "ಸಂನ್ಯಾಸ"
+            }
         },
         {
             "sanskrit": "कवयः",
-            "transliteration": "kavayaḥ",
-            "meaning": "the sages"
+            "transliteration": {
+                "hi": "कवयः",
+                "en": "kavayaḥ",
+                "be": "কবযঃ",
+                "ka": "ಕವಯಃ"
+            },
+            "meaning": {
+                "hi": "ऋषियों",
+                "en": "the sages",
+                "be": "ঋষিরা",
+                "ka": "ಋಷಿಗಳು"
+            }
         },
         {
             "sanskrit": "विदुः",
-            "transliteration": "viduḥ",
-            "meaning": "understand"
+            "transliteration": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            },
+            "meaning": {
+                "hi": "समझे",
+                "en": "understand",
+                "be": "বুঝতে",
+                "ka": "ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ"
+            }
         },
         {
             "sanskrit": "सर्वकर्मफलत्यागम्",
-            "transliteration": "sarvakarmaphalatyāgam",
-            "meaning": "the abandonment of the"
+            "transliteration": {
+                "hi": "सर्वकर्मफलत्यागम्",
+                "en": "sarvakarmaphalatyāgam",
+                "be": "সর্বকর্মফলত্যাগম্",
+                "ka": "ಸರ್ವಕರ್ಮಫಲತ್ಯಾಗಮ್"
+            },
+            "meaning": {
+                "hi": "का परित्याग",
+                "en": "the abandonment of the",
+                "be": "এর পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "प्राहुः",
-            "transliteration": "prāhuḥ",
-            "meaning": "declare"
+            "transliteration": {
+                "hi": "प्राहुः",
+                "en": "prāhuḥ",
+                "be": "প্রাহুঃ",
+                "ka": "ಪ್ರಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "घोषित करें",
+                "en": "declare",
+                "be": "ঘোষণা",
+                "ka": "ಘೋಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "त्यागम्",
-            "transliteration": "tyāgam",
-            "meaning": "abandonment"
+            "transliteration": {
+                "hi": "त्यागम्",
+                "en": "tyāgam",
+                "be": "ত্যাগম্",
+                "ka": "ತ್ಯಾಗಮ್"
+            },
+            "meaning": {
+                "hi": "परित्याग",
+                "en": "abandonment",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "विचक्षणाः",
-            "transliteration": "vicakṣaṇāḥ",
-            "meaning": "the wise."
+            "transliteration": {
+                "hi": "विचक्षणाः",
+                "en": "vicakṣaṇāḥ",
+                "be": "বিচক্ষণাঃ",
+                "ka": "ವಿಚಕ್ಷಣಾಃ"
+            },
+            "meaning": {
+                "hi": "समझदार।",
+                "en": "the wise.",
+                "be": "জ্ঞানী",
+                "ka": "ಬುದ್ಧಿವಂತ."
+            }
         }
     ],
     "tej": {

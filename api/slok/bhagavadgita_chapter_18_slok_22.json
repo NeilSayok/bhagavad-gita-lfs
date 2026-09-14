@@ -14,8 +14,18 @@
         "en": "yattu kṛtsnavadekasminkārye saktamahaitukam .\natattvārthavadalpaṃ ca tattāmasamudāhṛtam ||18-22||",
         "ka": "ಯತ್ತು ಕೃತ್ಸ್ನವದೇಕಸ್ಮಿನ್ಕಾರ್ಯೇ ಸಕ್ತಮಹೈತುಕಮ್ |\nಅತತ್ತ್ವಾರ್ಥವದಲ್ಪಂ ಚ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೮-೨೨||"
     },
-    "transliteration": "yattu kṛtsnavadekasminkārye saktamahaitukam .\natattvārthavadalpaṃ ca tattāmasamudāhṛtam ||18-22||",
-    "life_application": "Knowledge which clings to a single effect as if it were whole, without reason, base, narrow—is Tamasic.",
+    "transliteration": {
+        "hi": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् |\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||१८-२२||",
+        "en": "yattu kṛtsnavadekasminkārye saktamahaitukam .\natattvārthavadalpaṃ ca tattāmasamudāhṛtam ||18-22||",
+        "be": "যত্তু কৃত্স্নবদেকস্মিন্কার্যে সক্তমহৈতুকম্ |\nঅতত্ত্বার্থবদল্পং চ তত্তামসমুদাহৃতম্ ||১৮-২২||",
+        "ka": "ಯತ್ತು ಕೃತ್ಸ್ನವದೇಕಸ್ಮಿನ್ಕಾರ್ಯೇ ಸಕ್ತಮಹೈತುಕಮ್ |\nಅತತ್ತ್ವಾರ್ಥವದಲ್ಪಂ ಚ ತತ್ತಾಮಸಮುದಾಹೃತಮ್ ||೧೮-೨೨||"
+    },
+    "life_application": {
+        "hi": "जो ज्ञान एक ही प्रभाव से चिपक जाता है मानो वह संपूर्ण, अकारण, आधारहीन, संकीर्ण हो - तामसिक है।",
+        "en": "Knowledge which clings to a single effect as if it were whole, without reason, base, narrow—is Tamasic.",
+        "be": "যে জ্ঞান একক প্রভাবে আঁকড়ে থাকে যেন তা সম্পূর্ণ, কারণ ছাড়া, ভিত্তি, সংকীর্ণ—তামসিক।",
+        "ka": "ಸಂಪೂರ್ಣ, ಕಾರಣವಿಲ್ಲದೆ, ಆಧಾರ, ಸಂಕುಚಿತ ಎಂಬಂತೆ ಒಂದೇ ಪರಿಣಾಮಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುವ ಜ್ಞಾನವು ತಾಮಸಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "कृत्स्नवत्",
-            "transliteration": "kṛtsnavat",
-            "meaning": "as if it were"
+            "transliteration": {
+                "hi": "कृत्स्नवत्",
+                "en": "kṛtsnavat",
+                "be": "কৃত্স্নবত্",
+                "ka": "ಕೃತ್ಸ್ನವತ್"
+            },
+            "meaning": {
+                "hi": "जैसे कि यह था",
+                "en": "as if it were",
+                "be": "যেন এটা ছিল",
+                "ka": "ಇದ್ದಂತೆ"
+            }
         },
         {
             "sanskrit": "एकस्मिन्",
-            "transliteration": "ekasmin",
-            "meaning": "one single"
+            "transliteration": {
+                "hi": "एकस्मिन्",
+                "en": "ekasmin",
+                "be": "একস্মিন্",
+                "ka": "ಏಕಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "एक एकल",
+                "en": "one single",
+                "be": "একক",
+                "ka": "ಒಂದು ಸಿಂಗಲ್"
+            }
         },
         {
             "sanskrit": "कार्ये",
-            "transliteration": "kārye",
-            "meaning": "to effect"
+            "transliteration": {
+                "hi": "कार्ये",
+                "en": "kārye",
+                "be": "কার্যে",
+                "ka": "ಕಾರ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "प्रभाव डालना",
+                "en": "to effect",
+                "be": "প্রভাব ফেলতে",
+                "ka": "ಪರಿಣಾಮ ಬೀರಲು"
+            }
         },
         {
             "sanskrit": "सक्तम्",
-            "transliteration": "saktam",
-            "meaning": "attached"
+            "transliteration": {
+                "hi": "सक्तम्",
+                "en": "saktam",
+                "be": "সক্তম্",
+                "ka": "ಸಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "संलग्न",
+                "en": "attached",
+                "be": "সংযুক্ত",
+                "ka": "ಲಗತ್ತಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अहैतुकम्",
-            "transliteration": "ahaitukam",
-            "meaning": "without reason"
+            "transliteration": {
+                "hi": "अहैतुकम्",
+                "en": "ahaitukam",
+                "be": "অহৈতুকম্",
+                "ka": "ಅಹೈತುಕಮ್"
+            },
+            "meaning": {
+                "hi": "बिना कारण",
+                "en": "without reason",
+                "be": "কারণ ছাড়া",
+                "ka": "ಕಾರಣವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अतत्त्वार्थवत्",
-            "transliteration": "atattvārthavat",
-            "meaning": "without foundation in Truth"
+            "transliteration": {
+                "hi": "अतत्त्वार्थवत्",
+                "en": "atattvārthavat",
+                "be": "অতত্ত্বার্থবত্",
+                "ka": "ಅತತ್ತ್ವಾರ್ಥವತ್"
+            },
+            "meaning": {
+                "hi": "सत्य में आधार के बिना",
+                "en": "without foundation in Truth",
+                "be": "সত্যের ভিত্তি ছাড়াই",
+                "ka": "ಸತ್ಯದಲ್ಲಿ ಅಡಿಪಾಯವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अल्पम्",
-            "transliteration": "alpam",
-            "meaning": "trivial"
+            "transliteration": {
+                "hi": "अल्पम्",
+                "en": "alpam",
+                "be": "অল্পম্",
+                "ka": "ಅಲ್ಪಮ್"
+            },
+            "meaning": {
+                "hi": "तुच्छ",
+                "en": "trivial",
+                "be": "তুচ্ছ",
+                "ka": "ಕ್ಷುಲ್ಲಕ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "तामसम्",
-            "transliteration": "tāmasam",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसम्",
+                "en": "tāmasam",
+                "be": "তামসম্",
+                "ka": "ತಾಮಸಮ್"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "उदाहृतम्",
-            "transliteration": "udāhṛtam",
-            "meaning": "is declared."
+            "transliteration": {
+                "hi": "उदाहृतम्",
+                "en": "udāhṛtam",
+                "be": "উদাহৃতম্",
+                "ka": "ಉದಾಹೃತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित किया गया है.",
+                "en": "is declared.",
+                "be": "ঘোষণা করা হয়।",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

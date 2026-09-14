@@ -14,8 +14,18 @@
         "en": "muktasaṅgo.anahaṃvādī dhṛtyutsāhasamanvitaḥ .\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate ||18-26||",
         "ka": "ಮುಕ್ತಸಙ್ಗೋಽನಹಂವಾದೀ ಧೃತ್ಯುತ್ಸಾಹಸಮನ್ವಿತಃ |\nಸಿದ್ಧ್ಯಸಿದ್ಧ್ಯೋರ್ನಿರ್ವಿಕಾರಃ ಕರ್ತಾ ಸಾತ್ತ್ವಿಕ ಉಚ್ಯತೇ ||೧೮-೨೬||"
     },
-    "transliteration": "muktasaṅgo.anahaṃvādī dhṛtyutsāhasamanvitaḥ .\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate ||18-26||",
-    "life_application": "Doer free from attachment, non-egoistic, endowed with fortitude/enthusiasm, unchanged in success/failure—is Sattvic.",
+    "transliteration": {
+        "hi": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः |\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||१८-२६||",
+        "en": "muktasaṅgo.anahaṃvādī dhṛtyutsāhasamanvitaḥ .\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate ||18-26||",
+        "be": "মুক্তসঙ্গোঽনহংবাদী ধৃত্যুত্সাহসমন্বিতঃ |\nসিদ্ধ্যসিদ্ধ্যোর্নির্বিকারঃ কর্তা সাত্ত্বিক উচ্যতে ||১৮-২৬||",
+        "ka": "ಮುಕ್ತಸಙ್ಗೋಽನಹಂವಾದೀ ಧೃತ್ಯುತ್ಸಾಹಸಮನ್ವಿತಃ |\nಸಿದ್ಧ್ಯಸಿದ್ಧ್ಯೋರ್ನಿರ್ವಿಕಾರಃ ಕರ್ತಾ ಸಾತ್ತ್ವಿಕ ಉಚ್ಯತೇ ||೧೮-೨೬||"
+    },
+    "life_application": {
+        "hi": "कर्ता आसक्ति से मुक्त, अहंकार-रहित, धैर्य/उत्साह से संपन्न, सफलता/असफलता में अपरिवर्तित रहता है - सात्विक है।",
+        "en": "Doer free from attachment, non-egoistic, endowed with fortitude/enthusiasm, unchanged in success/failure—is Sattvic.",
+        "be": "সংযুক্তি মুক্ত, অহংবোধহীন, দৃঢ়তা/উদ্দীপনা সমৃদ্ধ, সাফল্য/ব্যর্থতায় অপরিবর্তিত—সাত্ত্বিক।",
+        "ka": "ಬಾಂಧವ್ಯದಿಂದ ಮುಕ್ತನಾದ, ​​ಅಹಂಕಾರವಿಲ್ಲದ, ಸ್ಥೈರ್ಯ/ಉತ್ಸಾಹದಿಂದ ಕೂಡಿದ, ಯಶಸ್ಸು/ವೈಫಲ್ಯದಲ್ಲಿ ಬದಲಾಗದ-ಸಾತ್ವಿಕ."
+    },
     "themes": [
         "Equanimity",
         "Duty",
@@ -24,43 +34,123 @@
     "word_meanings": [
         {
             "sanskrit": "मुक्तसङ्गः",
-            "transliteration": "muktasaṅgaḥ",
-            "meaning": "who is free from"
+            "transliteration": {
+                "hi": "मुक्तसङ्गः",
+                "en": "muktasaṅgaḥ",
+                "be": "মুক্তসঙ্গঃ",
+                "ka": "ಮುಕ್ತಸಙ್ಗಃ"
+            },
+            "meaning": {
+                "hi": "जो मुक्त है",
+                "en": "who is free from",
+                "be": "যারা থেকে মুক্ত",
+                "ka": "ಯಾರು ಮುಕ್ತರಾಗಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "अनहंवादी",
-            "transliteration": "anahaṃvādī",
-            "meaning": "nonegoistic"
+            "transliteration": {
+                "hi": "अनहंवादी",
+                "en": "anahaṃvādī",
+                "be": "অনহংবাদী",
+                "ka": "ಅನಹಂವಾದೀ"
+            },
+            "meaning": {
+                "hi": "निरहंकार",
+                "en": "nonegoistic",
+                "be": "অহংকারী",
+                "ka": "ಸ್ವಾರ್ಥವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "धृत्युत्साहसमन्वितः",
-            "transliteration": "dhṛtyutsāhasamanvitaḥ",
-            "meaning": "endowed with firmness and"
+            "transliteration": {
+                "hi": "धृत्युत्साहसमन्वितः",
+                "en": "dhṛtyutsāhasamanvitaḥ",
+                "be": "ধৃত্যুত্সাহসমন্বিতঃ",
+                "ka": "ಧೃತ್ಯುತ್ಸಾಹಸಮನ್ವಿತಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता से संपन्न और",
+                "en": "endowed with firmness and",
+                "be": "দৃঢ়তা এবং",
+                "ka": "ದೃಢತೆಯನ್ನು ಹೊಂದಿದೆ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सिद्ध्यसिद्ध्योः",
-            "transliteration": "siddhyasiddhyoḥ",
-            "meaning": "in success or failure"
+            "transliteration": {
+                "hi": "सिद्ध्यसिद्ध्योः",
+                "en": "siddhyasiddhyoḥ",
+                "be": "সিদ্ধ্যসিদ্ধ্যোঃ",
+                "ka": "ಸಿದ್ಧ್ಯಸಿದ್ಧ್ಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सफलता या विफलता में",
+                "en": "in success or failure",
+                "be": "সাফল্য বা ব্যর্থতায়",
+                "ka": "ಯಶಸ್ಸು ಅಥವಾ ವೈಫಲ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "निर्विकारः",
-            "transliteration": "nirvikāraḥ",
-            "meaning": "unaffected"
+            "transliteration": {
+                "hi": "निर्विकारः",
+                "en": "nirvikāraḥ",
+                "be": "নির্বিকারঃ",
+                "ka": "ನಿರ್ವಿಕಾರಃ"
+            },
+            "meaning": {
+                "hi": "अप्रभावित",
+                "en": "unaffected",
+                "be": "অপ্রভাবিত",
+                "ka": "ಬಾಧಿಸುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "an agent"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "एक एजेंट",
+                "en": "an agent",
+                "be": "একজন এজেন্ট",
+                "ka": "ಒಬ್ಬ ಏಜೆಂಟ್"
+            }
         },
         {
             "sanskrit": "सात्त्विकः",
-            "transliteration": "sāttvikaḥ",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकः",
+                "en": "sāttvikaḥ",
+                "be": "সাত্ত্বিকঃ",
+                "ka": "ಸಾತ್ತ್ವಿಕಃ"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "jñānaṃ karma ca kartāca tridhaiva guṇabhedataḥ .\nprocyate guṇasaṅkhyāne yathāvacchṛṇu tānyapi ||18-19||",
         "ka": "ಜ್ಞಾನಂ ಕರ್ಮ ಚ ಕರ್ತಾಚ ತ್ರಿಧೈವ ಗುಣಭೇದತಃ |\nಪ್ರೋಚ್ಯತೇ ಗುಣಸಙ್ಖ್ಯಾನೇ ಯಥಾವಚ್ಛೃಣು ತಾನ್ಯಪಿ ||೧೮-೧೯||"
     },
-    "transliteration": "jñānaṃ karma ca kartāca tridhaiva guṇabhedataḥ .\nprocyate guṇasaṅkhyāne yathāvacchṛṇu tānyapi ||18-19||",
-    "life_application": "Knowledge, action, and agent are declared threefold according to gunas; hear of them as they are.",
+    "transliteration": {
+        "hi": "ज्ञानं कर्म च कर्ताच त्रिधैव गुणभेदतः |\nप्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि ||१८-१९||",
+        "en": "jñānaṃ karma ca kartāca tridhaiva guṇabhedataḥ .\nprocyate guṇasaṅkhyāne yathāvacchṛṇu tānyapi ||18-19||",
+        "be": "জ্ঞানং কর্ম চ কর্তাচ ত্রিধৈব গুণভেদতঃ |\nপ্রোচ্যতে গুণসঙ্খ্যানে যথাবচ্ছৃণু তান্যপি ||১৮-১৯||",
+        "ka": "ಜ್ಞಾನಂ ಕರ್ಮ ಚ ಕರ್ತಾಚ ತ್ರಿಧೈವ ಗುಣಭೇದತಃ |\nಪ್ರೋಚ್ಯತೇ ಗುಣಸಙ್ಖ್ಯಾನೇ ಯಥಾವಚ್ಛೃಣು ತಾನ್ಯಪಿ ||೧೮-೧೯||"
+    },
+    "life_application": {
+        "hi": "गुणों के अनुसार ज्ञान, कर्म और कर्ता ये तीन प्रकार बताये गये हैं; वे जैसे हैं वैसे ही उनके बारे में सुनें।",
+        "en": "Knowledge, action, and agent are declared threefold according to gunas; hear of them as they are.",
+        "be": "গুণ অনুসারে জ্ঞান, কর্ম এবং কারক তিনগুণ ঘোষিত হয়; তাদের কথা শুনুন।",
+        "ka": "ಜ್ಞಾನ, ಕ್ರಿಯೆ ಮತ್ತು ಏಜೆಂಟ್ ಗುಣಗಳ ಪ್ರಕಾರ ಮೂರು ಪಟ್ಟು ಘೋಷಿಸಲಾಗಿದೆ; ಅವರಿರುವಂತೆ ಕೇಳು."
+    },
     "themes": [
         "Knowledge",
         "Karma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "actor"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "अभिनेता",
+                "en": "actor",
+                "be": "অভিনেতা",
+                "ka": "ನಟ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "त्रिधा",
-            "transliteration": "tridhā",
-            "meaning": "of three kinds"
+            "transliteration": {
+                "hi": "त्रिधा",
+                "en": "tridhā",
+                "be": "ত্রিধা",
+                "ka": "ತ್ರಿಧಾ"
+            },
+            "meaning": {
+                "hi": "तीन प्रकार का",
+                "en": "of three kinds",
+                "be": "তিন ধরনের",
+                "ka": "ಮೂರು ರೀತಿಯ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "गुणभेदतः",
-            "transliteration": "guṇabhedataḥ",
-            "meaning": "according to the distinction"
+            "transliteration": {
+                "hi": "गुणभेदतः",
+                "en": "guṇabhedataḥ",
+                "be": "গুণভেদতঃ",
+                "ka": "ಗುಣಭೇದತಃ"
+            },
+            "meaning": {
+                "hi": "भेद के अनुसार",
+                "en": "according to the distinction",
+                "be": "পার্থক্য অনুযায়ী",
+                "ka": "ವ್ಯತ್ಯಾಸದ ಪ್ರಕಾರ"
+            }
         },
         {
             "sanskrit": "प्रोच्यते",
-            "transliteration": "procyate",
-            "meaning": "are declared"
+            "transliteration": {
+                "hi": "प्रोच्यते",
+                "en": "procyate",
+                "be": "প্রোচ্যতে",
+                "ka": "ಪ್ರೋಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "घोषित हैं",
+                "en": "are declared",
+                "be": "ঘোষণা করা হয়",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "गुणसंख्याने",
-            "transliteration": "guṇasaṃkhyāne",
-            "meaning": "in the science of"
+            "transliteration": {
+                "hi": "गुणसंख्याने",
+                "en": "guṇasaṃkhyāne",
+                "be": "গুণসংখ্যানে",
+                "ka": "ಗುಣಸಂಖ್ಯಾನೇ"
+            },
+            "meaning": {
+                "hi": "के विज्ञान में",
+                "en": "in the science of",
+                "be": "বিজ্ঞানে",
+                "ka": "ವಿಜ್ಞಾನದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "यथावत्",
-            "transliteration": "yathāvat",
-            "meaning": "duly"
+            "transliteration": {
+                "hi": "यथावत्",
+                "en": "yathāvat",
+                "be": "যথাবত্",
+                "ka": "ಯಥಾವತ್"
+            },
+            "meaning": {
+                "hi": "विधिवत",
+                "en": "duly",
+                "be": "যথাযথভাবে",
+                "ka": "ಕ್ರಮಬದ್ಧವಾಗಿ"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear"
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो",
+                "en": "hear",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು"
+            }
         },
         {
             "sanskrit": "तानि",
-            "transliteration": "tāni",
-            "meaning": "them"
+            "transliteration": {
+                "hi": "तानि",
+                "en": "tāni",
+                "be": "তানি",
+                "ka": "ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "उन्हें",
+                "en": "them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also."
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी।",
+                "en": "also.",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ."
+            }
         }
     ],
     "tej": {

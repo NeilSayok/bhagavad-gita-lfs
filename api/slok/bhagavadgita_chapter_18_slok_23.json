@@ -14,8 +14,18 @@
         "en": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam .\naphalaprepsunā karma yattatsāttvikamucyate ||18-23||",
         "ka": "ನಿಯತಂ ಸಙ್ಗರಹಿತಮರಾಗದ್ವೇಷತಃ ಕೃತಮ್ |\nಅಫಲಪ್ರೇಪ್ಸುನಾ ಕರ್ಮ ಯತ್ತತ್ಸಾತ್ತ್ವಿಕಮುಚ್ಯತೇ ||೧೮-೨೩||"
     },
-    "transliteration": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam .\naphalaprepsunā karma yattatsāttvikamucyate ||18-23||",
-    "life_application": "Obligatory action done without attachment, love or hatred, by one seeking no fruit—is Sattvic.",
+    "transliteration": {
+        "hi": "नियतं सङ्गरहितमरागद्वेषतः कृतम् |\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ||१८-२३||",
+        "en": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam .\naphalaprepsunā karma yattatsāttvikamucyate ||18-23||",
+        "be": "নিযতং সঙ্গরহিতমরাগদ্বেষতঃ কৃতম্ |\nঅফলপ্রেপ্সুনা কর্ম যত্তত্সাত্ত্বিকমুচ্যতে ||১৮-২৩||",
+        "ka": "ನಿಯತಂ ಸಙ್ಗರಹಿತಮರಾಗದ್ವೇಷತಃ ಕೃತಮ್ |\nಅಫಲಪ್ರೇಪ್ಸುನಾ ಕರ್ಮ ಯತ್ತತ್ಸಾತ್ತ್ವಿಕಮುಚ್ಯತೇ ||೧೮-೨೩||"
+    },
+    "life_application": {
+        "hi": "आसक्ति, प्रेम या घृणा के बिना, बिना किसी फल की इच्छा के किया गया अनिवार्य कर्म सात्विक है।",
+        "en": "Obligatory action done without attachment, love or hatred, by one seeking no fruit—is Sattvic.",
+        "be": "কোন ফল না চাওয়ার দ্বারা আসক্তি, প্রেম বা ঘৃণা ছাড়াই করা বাধ্যতামূলক কর্ম-ই সাত্ত্বিক।",
+        "ka": "ಬಾಂಧವ್ಯ, ಪ್ರೀತಿ ಅಥವಾ ದ್ವೇಷವಿಲ್ಲದೆ, ಯಾವುದೇ ಫಲವನ್ನು ಬಯಸದೆ ಮಾಡುವ ಕಡ್ಡಾಯ ಕ್ರಿಯೆಯು ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Karma",
         "Detachment",
@@ -24,53 +34,153 @@
     "word_meanings": [
         {
             "sanskrit": "नियतम्",
-            "transliteration": "niyatam",
-            "meaning": "ordained"
+            "transliteration": {
+                "hi": "नियतम्",
+                "en": "niyatam",
+                "be": "নিযতম্",
+                "ka": "ನಿಯತಮ್"
+            },
+            "meaning": {
+                "hi": "ठहराया",
+                "en": "ordained",
+                "be": "নিযুক্ত",
+                "ka": "ದೀಕ್ಷೆ ನೀಡಿದರು"
+            }
         },
         {
             "sanskrit": "सङ्गरहितम्",
-            "transliteration": "saṅgarahitam",
-            "meaning": "free from attachment"
+            "transliteration": {
+                "hi": "सङ्गरहितम्",
+                "en": "saṅgarahitam",
+                "be": "সঙ্গরহিতম্",
+                "ka": "ಸಙ್ಗರಹಿತಮ್"
+            },
+            "meaning": {
+                "hi": "आसक्ति से मुक्त",
+                "en": "free from attachment",
+                "be": "সংযুক্তি থেকে মুক্ত",
+                "ka": "ಬಾಂಧವ್ಯದಿಂದ ಮುಕ್ತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अरागद्वेषतः",
-            "transliteration": "arāgadveṣataḥ",
-            "meaning": "without love or hatred"
+            "transliteration": {
+                "hi": "अरागद्वेषतः",
+                "en": "arāgadveṣataḥ",
+                "be": "অরাগদ্বেষতঃ",
+                "ka": "ಅರಾಗದ್ವೇಷತಃ"
+            },
+            "meaning": {
+                "hi": "बिना प्यार या नफरत के",
+                "en": "without love or hatred",
+                "be": "প্রেম বা ঘৃণা ছাড়া",
+                "ka": "ಪ್ರೀತಿ ಅಥವಾ ದ್ವೇಷವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "कृतम्",
-            "transliteration": "kṛtam",
-            "meaning": "done"
+            "transliteration": {
+                "hi": "कृतम्",
+                "en": "kṛtam",
+                "be": "কৃতম্",
+                "ka": "ಕೃತಮ್"
+            },
+            "meaning": {
+                "hi": "हो गया",
+                "en": "done",
+                "be": "সম্পন্ন",
+                "ka": "ಮಾಡಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अफलप्रेप्सुना",
-            "transliteration": "aphalaprepsunā",
-            "meaning": "by one not desirous"
+            "transliteration": {
+                "hi": "अफलप्रेप्सुना",
+                "en": "aphalaprepsunā",
+                "be": "অফলপ্রেপ্সুনা",
+                "ka": "ಅಫಲಪ್ರೇಪ್ಸುನಾ"
+            },
+            "meaning": {
+                "hi": "किसी ऐसे व्यक्ति द्वारा जो इच्छुक न हो",
+                "en": "by one not desirous",
+                "be": "একজনের দ্বারা কাঙ্ক্ষিত নয়",
+                "ka": "ಅಪೇಕ್ಷಿಸದ ಒಬ್ಬರಿಂದ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सात्त्विकम्",
-            "transliteration": "sāttvikam",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकम्",
+                "en": "sāttvikam",
+                "be": "সাত্ত্বিকম্",
+                "ka": "ಸಾತ್ತ್ವಿಕಮ್"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "ुच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is declared."
+            "transliteration": {
+                "hi": "ुच्यते",
+                "en": "ucyate",
+                "be": "ুচ্যতে",
+                "ka": "ುಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "घोषित किया गया है.",
+                "en": "is declared.",
+                "be": "ঘোষণা করা হয়।",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

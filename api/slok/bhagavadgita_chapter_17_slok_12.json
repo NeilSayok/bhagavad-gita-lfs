@@ -14,8 +14,18 @@
         "en": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
         "ka": "ಅಭಿಸನ್ಧಾಯ ತು ಫಲಂ ದಮ್ಭಾರ್ಥಮಪಿ ಚೈವ ಯತ್ |\nಇಜ್ಯತೇ ಭರತಶ್ರೇಷ್ಠ ತಂ ಯಜ್ಞಂ ವಿದ್ಧಿ ರಾಜಸಮ್ ||೧೭-೧೨||"
     },
-    "transliteration": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
-    "life_application": "Sacrifice offered seeking fruit or out of ostentation—know that to be Rajasic sacrifice.",
+    "transliteration": {
+        "hi": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||",
+        "en": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
+        "be": "অভিসন্ধায তু ফলং দম্ভার্থমপি চৈব যত্ |\nইজ্যতে ভরতশ্রেষ্ঠ তং যজ্ঞং বিদ্ধি রাজসম্ ||১৭-১২||",
+        "ka": "ಅಭಿಸನ್ಧಾಯ ತು ಫಲಂ ದಮ್ಭಾರ್ಥಮಪಿ ಚೈವ ಯತ್ |\nಇಜ್ಯತೇ ಭರತಶ್ರೇಷ್ಠ ತಂ ಯಜ್ಞಂ ವಿದ್ಧಿ ರಾಜಸಮ್ ||೧೭-೧೨||"
+    },
+    "life_application": {
+        "hi": "जो यज्ञ फल की इच्छा से या दिखावे के लिए किया जाता है, उसे राजसिक यज्ञ समझो।",
+        "en": "Sacrifice offered seeking fruit or out of ostentation—know that to be Rajasic sacrifice.",
+        "be": "যজ্ঞ ফল চাওয়ার জন্য বা দৃষ্টান্তের জন্য দেওয়া হয়-জানুন রাজসিক বলি।",
+        "ka": "ಫಲವನ್ನು ಬಯಸಿ ಅಥವಾ ಆಡಂಬರದಿಂದ ಅರ್ಪಿಸಿದ ತ್ಯಾಗ-ಅದು ರಾಜಸಿಕ ತ್ಯಾಗ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Karma",
         "Attachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अभिसंधाय",
-            "transliteration": "abhisaṃdhāya",
-            "meaning": "seeking for"
+            "transliteration": {
+                "hi": "अभिसंधाय",
+                "en": "abhisaṃdhāya",
+                "be": "অভিসংধায",
+                "ka": "ಅಭಿಸಂಧಾಯ"
+            },
+            "meaning": {
+                "hi": "की तलाश है",
+                "en": "seeking for",
+                "be": "জন্য খুঁজছেন",
+                "ka": "ಹುಡುಕುತ್ತಿರುವ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "दम्भार्थम्",
-            "transliteration": "dambhārtham",
-            "meaning": "for ostentation"
+            "transliteration": {
+                "hi": "दम्भार्थम्",
+                "en": "dambhārtham",
+                "be": "দম্ভার্থম্",
+                "ka": "ದಮ್ಭಾರ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "दिखावे के लिए",
+                "en": "for ostentation",
+                "be": "দৃষ্টান্তের জন্য",
+                "ka": "ಆಡಂಬರಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "इज्यते",
-            "transliteration": "ijyate",
-            "meaning": "is offered"
+            "transliteration": {
+                "hi": "इज्यते",
+                "en": "ijyate",
+                "be": "ইজ্যতে",
+                "ka": "ಇಜ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "की पेशकश की जाती है",
+                "en": "is offered",
+                "be": "দেওয়া হয়",
+                "ka": "ನೀಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "भरतश्रेष्ठ",
-            "transliteration": "bharataśreṣṭha",
-            "meaning": "O best of the"
+            "transliteration": {
+                "hi": "भरतश्रेष्ठ",
+                "en": "bharataśreṣṭha",
+                "be": "ভরতশ্রেষ্ঠ",
+                "ka": "ಭರತಶ್ರೇಷ್ಠ"
+            },
+            "meaning": {
+                "hi": "हे श्रेष्ठ!",
+                "en": "O best of the",
+                "be": "হে সেরা",
+                "ka": "ಓ ಅತ್ಯುತ್ತಮ"
+            }
         },
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "यज्ञम्",
-            "transliteration": "yajñam",
-            "meaning": "sacrifice"
+            "transliteration": {
+                "hi": "यज्ञम्",
+                "en": "yajñam",
+                "be": "যজ্ঞম্",
+                "ka": "ಯಜ್ಞಮ್"
+            },
+            "meaning": {
+                "hi": "बलिदान",
+                "en": "sacrifice",
+                "be": "বলিদান",
+                "ka": "ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "राजसम्",
-            "transliteration": "rājasam",
-            "meaning": "Rajasic."
+            "transliteration": {
+                "hi": "राजसम्",
+                "en": "rājasam",
+                "be": "রাজসম্",
+                "ka": "ರಾಜಸಮ್"
+            },
+            "meaning": {
+                "hi": "राजसिक.",
+                "en": "Rajasic.",
+                "be": "রাজসিক।",
+                "ka": "ರಾಜಸಿಕ್."
+            }
         }
     ],
     "tej": {

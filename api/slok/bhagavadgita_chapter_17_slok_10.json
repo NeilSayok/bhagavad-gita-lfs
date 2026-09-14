@@ -14,8 +14,18 @@
         "en": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
         "ka": "ಯಾತಯಾಮಂ ಗತರಸಂ ಪೂತಿ ಪರ್ಯುಷಿತಂ ಚ ಯತ್ |\nಉಚ್ಛಿಷ್ಟಮಪಿ ಚಾಮೇಧ್ಯಂ ಭೋಜನಂ ತಾಮಸಪ್ರಿಯಮ್ ||೧೭-೧೦||"
     },
-    "transliteration": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
-    "life_application": "Avoid eating stale, tasteless, or impure food, choosing wholesome meals that nourish body and mind.",
+    "transliteration": {
+        "hi": "यातयामं गतरसं पूति पर्युषितं च यत् |\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||",
+        "en": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
+        "be": "যাতযামং গতরসং পূতি পর্যুষিতং চ যত্ |\nউচ্ছিষ্টমপি চামেধ্যং ভোজনং তামসপ্রিযম্ ||১৭-১০||",
+        "ka": "ಯಾತಯಾಮಂ ಗತರಸಂ ಪೂತಿ ಪರ್ಯುಷಿತಂ ಚ ಯತ್ |\nಉಚ್ಛಿಷ್ಟಮಪಿ ಚಾಮೇಧ್ಯಂ ಭೋಜನಂ ತಾಮಸಪ್ರಿಯಮ್ ||೧೭-೧೦||"
+    },
+    "life_application": {
+        "hi": "बासी, बेस्वाद या अशुद्ध भोजन खाने से बचें, शरीर और दिमाग को पोषण देने वाला पौष्टिक भोजन चुनें।",
+        "en": "Avoid eating stale, tasteless, or impure food, choosing wholesome meals that nourish body and mind.",
+        "be": "বাসি, স্বাদহীন বা অপরিষ্কার খাবার খাওয়া থেকে বিরত থাকুন, স্বাস্থ্যকর খাবার বেছে নিন যা শরীর ও মনকে পুষ্ট করে।",
+        "ka": "ಹಳಸಿದ, ರುಚಿಯಿಲ್ಲದ ಅಥವಾ ಅಶುದ್ಧ ಆಹಾರವನ್ನು ಸೇವಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ, ದೇಹ ಮತ್ತು ಮನಸ್ಸನ್ನು ಪೋಷಿಸುವ ಆರೋಗ್ಯಕರ ಊಟವನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यातयामम्",
-            "transliteration": "yātayāmam",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "यातयामम्",
+                "en": "yātayāmam",
+                "be": "যাতযামম্",
+                "ka": "ಯಾತಯಾಮಮ್"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "गतरसम्",
-            "transliteration": "gatarasam",
-            "meaning": "tasteless"
+            "transliteration": {
+                "hi": "गतरसम्",
+                "en": "gatarasam",
+                "be": "গতরসম্",
+                "ka": "ಗತರಸಮ್"
+            },
+            "meaning": {
+                "hi": "बेस्वाद",
+                "en": "tasteless",
+                "be": "স্বাদহীন",
+                "ka": "ರುಚಿಯಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "पूति",
-            "transliteration": "pūti",
-            "meaning": "putrid"
+            "transliteration": {
+                "hi": "पूति",
+                "en": "pūti",
+                "be": "পূতি",
+                "ka": "ಪೂತಿ"
+            },
+            "meaning": {
+                "hi": "सड़ा हुआ",
+                "en": "putrid",
+                "be": "পচা",
+                "ka": "ಕೊಳೆತ"
+            }
         },
         {
             "sanskrit": "पर्युषितम्",
-            "transliteration": "paryuṣitam",
-            "meaning": "rotten"
+            "transliteration": {
+                "hi": "पर्युषितम्",
+                "en": "paryuṣitam",
+                "be": "পর্যুষিতম্",
+                "ka": "ಪರ್ಯುಷಿತಮ್"
+            },
+            "meaning": {
+                "hi": "सड़ा हुआ",
+                "en": "rotten",
+                "be": "পচা",
+                "ka": "ಕೊಳೆತ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "उच्छिष्टम्",
-            "transliteration": "ucchiṣṭam",
-            "meaning": "refuse"
+            "transliteration": {
+                "hi": "उच्छिष्टम्",
+                "en": "ucchiṣṭam",
+                "be": "উচ্ছিষ্টম্",
+                "ka": "ಉಚ್ಛಿಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "मना करो",
+                "en": "refuse",
+                "be": "প্রত্যাখ্যান",
+                "ka": "ನಿರಾಕರಿಸು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अमेध्यम्",
-            "transliteration": "amedhyam",
-            "meaning": "impure"
+            "transliteration": {
+                "hi": "अमेध्यम्",
+                "en": "amedhyam",
+                "be": "অমেধ্যম্",
+                "ka": "ಅಮೇಧ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "अशुद्ध",
+                "en": "impure",
+                "be": "অপবিত্র",
+                "ka": "ಅಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "भोजनम्",
-            "transliteration": "bhojanam",
-            "meaning": "food"
+            "transliteration": {
+                "hi": "भोजनम्",
+                "en": "bhojanam",
+                "be": "ভোজনম্",
+                "ka": "ಭೋಜನಮ್"
+            },
+            "meaning": {
+                "hi": "खाना",
+                "en": "food",
+                "be": "খাদ্য",
+                "ka": "ಆಹಾರ"
+            }
         },
         {
             "sanskrit": "तामसप्रियम्",
-            "transliteration": "tāmasapriyam",
-            "meaning": "liked by the Tamasic."
+            "transliteration": {
+                "hi": "तामसप्रियम्",
+                "en": "tāmasapriyam",
+                "be": "তামসপ্রিযম্",
+                "ka": "ತಾಮಸಪ್ರಿಯಮ್"
+            },
+            "meaning": {
+                "hi": "तामसिक को पसंद है.",
+                "en": "liked by the Tamasic.",
+                "be": "তামাসিকদের পছন্দ।",
+                "ka": "ತಾಮಸಿಗೆ ಇಷ್ಟವಾಯಿತು."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
         "ka": "ಏತಾಂ ದೃಷ್ಟಿಮವಷ್ಟಭ್ಯ ನಷ್ಟಾತ್ಮಾನೋಽಲ್ಪಬುದ್ಧಯಃ |\nಪ್ರಭವನ್ತ್ಯುಗ್ರಕರ್ಮಾಣಃ ಕ್ಷಯಾಯ ಜಗತೋಽಹಿತಾಃ ||೧೬-೯||"
     },
-    "transliteration": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
-    "life_application": "Holding material views, ruined in intellect, of small understanding, fierce deeds, they rise as enemies for destruction.",
+    "transliteration": {
+        "hi": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||",
+        "en": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
+        "be": "এতাং দৃষ্টিমবষ্টভ্য নষ্টাত্মানোঽল্পবুদ্ধযঃ |\nপ্রভবন্ত্যুগ্রকর্মাণঃ ক্ষযায জগতোঽহিতাঃ ||১৬-৯||",
+        "ka": "ಏತಾಂ ದೃಷ್ಟಿಮವಷ್ಟಭ್ಯ ನಷ್ಟಾತ್ಮಾನೋಽಲ್ಪಬುದ್ಧಯಃ |\nಪ್ರಭವನ್ತ್ಯುಗ್ರಕರ್ಮಾಣಃ ಕ್ಷಯಾಯ ಜಗತೋಽಹಿತಾಃ ||೧೬-೯||"
+    },
+    "life_application": {
+        "hi": "भौतिक दृष्टिकोण रखने वाले, बुद्धि से नष्ट, अल्प समझ वाले, उग्र कर्म करने वाले, विनाश के शत्रु बनकर खड़े हो जाते हैं।",
+        "en": "Holding material views, ruined in intellect, of small understanding, fierce deeds, they rise as enemies for destruction.",
+        "be": "বস্তুগত দৃষ্টিভঙ্গি ধারণ করে, বুদ্ধিতে বিধ্বস্ত, ক্ষুদ্র বোধ, উগ্র কাজ, তারা ধ্বংসের শত্রু হয়ে ওঠে।",
+        "ka": "ಭೌತಿಕ ದೃಷ್ಟಿಕೋನಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಂಡು, ಬುದ್ಧಿಯಲ್ಲಿ ಹಾಳಾದ, ಸಣ್ಣ ತಿಳುವಳಿಕೆ, ಉಗ್ರ ಕಾರ್ಯಗಳು, ಅವರು ನಾಶಕ್ಕೆ ಶತ್ರುಗಳಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ."
+    },
     "themes": [
         "Mind",
         "Karma"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "एताम्",
-            "transliteration": "etām",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एताम्",
+                "en": "etām",
+                "be": "এতাম্",
+                "ka": "ಏತಾಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "दृष्टिम्",
-            "transliteration": "dṛṣṭim",
-            "meaning": "view"
+            "transliteration": {
+                "hi": "दृष्टिम्",
+                "en": "dṛṣṭim",
+                "be": "দৃষ্টিম্",
+                "ka": "ದೃಷ್ಟಿಮ್"
+            },
+            "meaning": {
+                "hi": "देखें",
+                "en": "view",
+                "be": "দেখুন",
+                "ka": "ವೀಕ್ಷಿಸಿ"
+            }
         },
         {
             "sanskrit": "अवष्टभ्य",
-            "transliteration": "avaṣṭabhya",
-            "meaning": "holding"
+            "transliteration": {
+                "hi": "अवष्टभ्य",
+                "en": "avaṣṭabhya",
+                "be": "অবষ্টভ্য",
+                "ka": "ಅವಷ್ಟಭ್ಯ"
+            },
+            "meaning": {
+                "hi": "धारण करना",
+                "en": "holding",
+                "be": "ধরে রাখা",
+                "ka": "ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದು"
+            }
         },
         {
             "sanskrit": "नष्टात्मानः",
-            "transliteration": "naṣṭātmānaḥ",
-            "meaning": "ruined souls"
+            "transliteration": {
+                "hi": "नष्टात्मानः",
+                "en": "naṣṭātmānaḥ",
+                "be": "নষ্টাত্মানঃ",
+                "ka": "ನಷ್ಟಾತ್ಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "बर्बाद आत्माएँ",
+                "en": "ruined souls",
+                "be": "ধ্বংস আত্মা",
+                "ka": "ಹಾಳಾದ ಆತ್ಮಗಳು"
+            }
         },
         {
             "sanskrit": "अल्पबुद्धयः",
-            "transliteration": "alpabuddhayaḥ",
-            "meaning": "of small intellect"
+            "transliteration": {
+                "hi": "अल्पबुद्धयः",
+                "en": "alpabuddhayaḥ",
+                "be": "অল্পবুদ্ধযঃ",
+                "ka": "ಅಲ್ಪಬುದ್ಧಯಃ"
+            },
+            "meaning": {
+                "hi": "छोटी बुद्धि का",
+                "en": "of small intellect",
+                "be": "ক্ষুদ্র বুদ্ধির",
+                "ka": "ಸಣ್ಣ ಬುದ್ಧಿಯ"
+            }
         },
         {
             "sanskrit": "प्रभवन्ति",
-            "transliteration": "prabhavanti",
-            "meaning": "come forth"
+            "transliteration": {
+                "hi": "प्रभवन्ति",
+                "en": "prabhavanti",
+                "be": "প্রভবন্তি",
+                "ka": "ಪ್ರಭವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "सामने आओ",
+                "en": "come forth",
+                "be": "এগিয়ে আসা",
+                "ka": "ಮುಂದೆ ಬನ್ನಿ"
+            }
         },
         {
             "sanskrit": "उग्रकर्माणः",
-            "transliteration": "ugrakarmāṇaḥ",
-            "meaning": "of fierce deeds"
+            "transliteration": {
+                "hi": "उग्रकर्माणः",
+                "en": "ugrakarmāṇaḥ",
+                "be": "উগ্রকর্মাণঃ",
+                "ka": "ಉಗ್ರಕರ್ಮಾಣಃ"
+            },
+            "meaning": {
+                "hi": "भयंकर कर्मों का",
+                "en": "of fierce deeds",
+                "be": "উগ্র কর্মের",
+                "ka": "ಉಗ್ರ ಕಾರ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "क्षयाय",
-            "transliteration": "kṣayāya",
-            "meaning": "for the destruction"
+            "transliteration": {
+                "hi": "क्षयाय",
+                "en": "kṣayāya",
+                "be": "ক্ষযায",
+                "ka": "ಕ್ಷಯಾಯ"
+            },
+            "meaning": {
+                "hi": "विनाश के लिए",
+                "en": "for the destruction",
+                "be": "ধ্বংসের জন্য",
+                "ka": "ವಿನಾಶಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "जगतः",
-            "transliteration": "jagataḥ",
-            "meaning": "of the world"
+            "transliteration": {
+                "hi": "जगतः",
+                "en": "jagataḥ",
+                "be": "জগতঃ",
+                "ka": "ಜಗತಃ"
+            },
+            "meaning": {
+                "hi": "दुनिया का",
+                "en": "of the world",
+                "be": "বিশ্বের",
+                "ka": "ಪ್ರಪಂಚದ"
+            }
         },
         {
             "sanskrit": "अहिताः",
-            "transliteration": "ahitāḥ",
-            "meaning": "enemies."
+            "transliteration": {
+                "hi": "अहिताः",
+                "en": "ahitāḥ",
+                "be": "অহিতাঃ",
+                "ka": "ಅಹಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "शत्रु.",
+                "en": "enemies.",
+                "be": "শত্রুদের",
+                "ka": "ಶತ್ರುಗಳು."
+            }
         }
     ],
     "tej": {

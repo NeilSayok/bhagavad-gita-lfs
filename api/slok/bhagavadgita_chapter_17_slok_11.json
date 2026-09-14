@@ -14,8 +14,18 @@
         "en": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
         "ka": "ಅಫಲಾಙ್ಕ್ಷಿಭಿರ್ಯಜ್ಞೋ ವಿಧಿದೃಷ್ಟೋ ಯ ಇಜ್ಯತೇ |\nಯಷ್ಟವ್ಯಮೇವೇತಿ ಮನಃ ಸಮಾಧಾಯ ಸ ಸಾತ್ತ್ವಿಕಃ ||೧೭-೧೧||"
     },
-    "transliteration": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
-    "life_application": "Sacrifice offered according to scriptural rules by those desiring no fruit, believing 'it ought to be done'—is Sattvic.",
+    "transliteration": {
+        "hi": "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||",
+        "en": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
+        "be": "অফলাঙ্ক্ষিভির্যজ্ঞো বিধিদৃষ্টো য ইজ্যতে |\nযষ্টব্যমেবেতি মনঃ সমাধায স সাত্ত্বিকঃ ||১৭-১১||",
+        "ka": "ಅಫಲಾಙ್ಕ್ಷಿಭಿರ್ಯಜ್ಞೋ ವಿಧಿದೃಷ್ಟೋ ಯ ಇಜ್ಯತೇ |\nಯಷ್ಟವ್ಯಮೇವೇತಿ ಮನಃ ಸಮಾಧಾಯ ಸ ಸಾತ್ತ್ವಿಕಃ ||೧೭-೧೧||"
+    },
+    "life_application": {
+        "hi": "फल की इच्छा न रखने वाले लोगों द्वारा 'यह किया जाना चाहिए' यह मानकर शास्त्रोक्त नियमों के अनुसार किया गया बलिदान सात्विक है।",
+        "en": "Sacrifice offered according to scriptural rules by those desiring no fruit, believing 'it ought to be done'—is Sattvic.",
+        "be": "'যা করা উচিত' বলে বিশ্বাস করে কোন ফল কামনা না করে শাস্ত্রীয় নিয়মানুযায়ী যজ্ঞ করা হয়—সাত্ত্বিক।",
+        "ka": "ಯಾವುದೇ ಫಲವನ್ನು ಬಯಸದೆ, 'ಅದನ್ನು ಮಾಡಲೇಬೇಕು' ಎಂದು ನಂಬುವವರು ಧರ್ಮಗ್ರಂಥದ ನಿಯಮಗಳ ಪ್ರಕಾರ ಅರ್ಪಿಸುವ ತ್ಯಾಗವು ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Karma",
         "Detachment",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "अफलाकाङ्क्षिभिः",
-            "transliteration": "aphalākāṅkṣibhiḥ",
-            "meaning": "by men desiring no"
+            "transliteration": {
+                "hi": "अफलाकाङ्क्षिभिः",
+                "en": "aphalākāṅkṣibhiḥ",
+                "be": "অফলাকাঙ্ক্ষিভিঃ",
+                "ka": "ಅಫಲಾಕಾಙ್ಕ್ಷಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "न चाहने वाले पुरुषों द्वारा",
+                "en": "by men desiring no",
+                "be": "পুরুষদের দ্বারা কোন ইচ্ছা",
+                "ka": "ಇಲ್ಲ ಬಯಸುವ ಪುರುಷರಿಂದ"
+            }
         },
         {
             "sanskrit": "यज्ञः",
-            "transliteration": "yajñaḥ",
-            "meaning": "sacrifice"
+            "transliteration": {
+                "hi": "यज्ञः",
+                "en": "yajñaḥ",
+                "be": "যজ্ঞঃ",
+                "ka": "ಯಜ್ಞಃ"
+            },
+            "meaning": {
+                "hi": "बलिदान",
+                "en": "sacrifice",
+                "be": "বলিদান",
+                "ka": "ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "विधिदृष्टः",
-            "transliteration": "vidhidṛṣṭaḥ",
-            "meaning": "as enjoined by the"
+            "transliteration": {
+                "hi": "विधिदृष्टः",
+                "en": "vidhidṛṣṭaḥ",
+                "be": "বিধিদৃষ্টঃ",
+                "ka": "ವಿಧಿದೃಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "जैसा कि आदेश दिया गया है",
+                "en": "as enjoined by the",
+                "be": "দ্বারা আদেশ হিসাবে",
+                "ka": "ಮೂಲಕ ಆದೇಶಿಸಿದಂತೆ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "इज्यते",
-            "transliteration": "ijyate",
-            "meaning": "is offered"
+            "transliteration": {
+                "hi": "इज्यते",
+                "en": "ijyate",
+                "be": "ইজ্যতে",
+                "ka": "ಇಜ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "की पेशकश की जाती है",
+                "en": "is offered",
+                "be": "দেওয়া হয়",
+                "ka": "ನೀಡಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "यष्टव्यम्",
-            "transliteration": "yaṣṭavyam",
-            "meaning": "ought to be offered"
+            "transliteration": {
+                "hi": "यष्टव्यम्",
+                "en": "yaṣṭavyam",
+                "be": "যষ্টব্যম্",
+                "ka": "ಯಷ್ಟವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "की पेशकश की जानी चाहिए",
+                "en": "ought to be offered",
+                "be": "দেওয়া উচিত",
+                "ka": "ನೀಡಬೇಕಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "the mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "the mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "समाधाय",
-            "transliteration": "samādhāya",
-            "meaning": "having fixed"
+            "transliteration": {
+                "hi": "समाधाय",
+                "en": "samādhāya",
+                "be": "সমাধায",
+                "ka": "ಸಮಾಧಾಯ"
+            },
+            "meaning": {
+                "hi": "ठीक किया जा रहा है",
+                "en": "having fixed",
+                "be": "সংশোধন করা হচ্ছে",
+                "ka": "ಸರಿಪಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सात्त्विकः",
-            "transliteration": "sāttvikaḥ",
-            "meaning": "Sattvic or pure."
+            "transliteration": {
+                "hi": "सात्त्विकः",
+                "en": "sāttvikaḥ",
+                "be": "সাত্ত্বিকঃ",
+                "ka": "ಸಾತ್ತ್ವಿಕಃ"
+            },
+            "meaning": {
+                "hi": "सात्विक या शुद्ध.",
+                "en": "Sattvic or pure.",
+                "be": "সাত্ত্বিক বা বিশুদ্ধ।",
+                "ka": "ಸಾತ್ವಿಕ ಅಥವಾ ಶುದ್ಧ."
+            }
         }
     ],
     "tej": {

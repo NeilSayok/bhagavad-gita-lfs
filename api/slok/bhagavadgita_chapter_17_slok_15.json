@@ -14,8 +14,18 @@
         "en": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
         "ka": "ಅನುದ್ವೇಗಕರಂ ವಾಕ್ಯಂ ಸತ್ಯಂ ಪ್ರಿಯಹಿತಂ ಚ ಯತ್ |\nಸ್ವಾಧ್ಯಾಯಾಭ್ಯಸನಂ ಚೈವ ವಾಙ್ಮಯಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೫||"
     },
-    "transliteration": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
-    "life_application": "Words causing no excitement, truthful, pleasant, beneficial, and regular scriptural study—called vocal austerity.",
+    "transliteration": {
+        "hi": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
+        "en": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
+        "be": "অনুদ্বেগকরং বাক্যং সত্যং প্রিযহিতং চ যত্ |\nস্বাধ্যাযাভ্যসনং চৈব বাঙ্মযং তপ উচ্যতে ||১৭-১৫||",
+        "ka": "ಅನುದ್ವೇಗಕರಂ ವಾಕ್ಯಂ ಸತ್ಯಂ ಪ್ರಿಯಹಿತಂ ಚ ಯತ್ |\nಸ್ವಾಧ್ಯಾಯಾಭ್ಯಸನಂ ಚೈವ ವಾಙ್ಮಯಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೫||"
+    },
+    "life_application": {
+        "hi": "उत्तेजना उत्पन्न न करने वाले, सत्य, सुखदायक, हितकारी तथा नियमित शास्त्र अध्ययन वाले शब्द - वाचिक तप कहलाते हैं।",
+        "en": "Words causing no excitement, truthful, pleasant, beneficial, and regular scriptural study—called vocal austerity.",
+        "be": "কোন উত্তেজনা সৃষ্টিকারী শব্দ, সত্যবাদী, আনন্দদায়ক, উপকারী, এবং নিয়মিত শাস্ত্রীয় অধ্যয়ন - যাকে কণ্ঠ্য তপস্যা বলা হয়।",
+        "ka": "ಯಾವುದೇ ಉತ್ಸಾಹವನ್ನು ಉಂಟುಮಾಡದ ಪದಗಳು, ಸತ್ಯವಾದ, ಆಹ್ಲಾದಕರ, ಪ್ರಯೋಜನಕಾರಿ ಮತ್ತು ನಿಯಮಿತವಾದ ಶಾಸ್ತ್ರಗ್ರಂಥದ ಅಧ್ಯಯನವನ್ನು ಗಾಯನ ಕಠಿಣತೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+    },
     "themes": [
         "Duty",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "अनुद्वेगकरम्",
-            "transliteration": "anudvegakaram",
-            "meaning": "causing no excitement"
+            "transliteration": {
+                "hi": "अनुद्वेगकरम्",
+                "en": "anudvegakaram",
+                "be": "অনুদ্বেগকরম্",
+                "ka": "ಅನುದ್ವೇಗಕರಮ್"
+            },
+            "meaning": {
+                "hi": "कोई उत्तेजना पैदा नहीं कर रहा",
+                "en": "causing no excitement",
+                "be": "কোন উত্তেজনা সৃষ্টি করে না",
+                "ka": "ಯಾವುದೇ ಉತ್ಸಾಹವನ್ನು ಉಂಟುಮಾಡುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "वाक्यम्",
-            "transliteration": "vākyam",
-            "meaning": "speech"
+            "transliteration": {
+                "hi": "वाक्यम्",
+                "en": "vākyam",
+                "be": "বাক্যম্",
+                "ka": "ವಾಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "भाषण",
+                "en": "speech",
+                "be": "বক্তৃতা",
+                "ka": "ಭಾಷಣ"
+            }
         },
         {
             "sanskrit": "सत्यम्",
-            "transliteration": "satyam",
-            "meaning": "truthful"
+            "transliteration": {
+                "hi": "सत्यम्",
+                "en": "satyam",
+                "be": "সত্যম্",
+                "ka": "ಸತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "सच्चा",
+                "en": "truthful",
+                "be": "সত্যবাদী",
+                "ka": "ಸತ್ಯವಂತ"
+            }
         },
         {
             "sanskrit": "प्रियहितम्",
-            "transliteration": "priyahitam",
-            "meaning": "pleasant and beneficial"
+            "transliteration": {
+                "hi": "प्रियहितम्",
+                "en": "priyahitam",
+                "be": "প্রিযহিতম্",
+                "ka": "ಪ್ರಿಯಹಿತಮ್"
+            },
+            "meaning": {
+                "hi": "सुखद एवं लाभकारी",
+                "en": "pleasant and beneficial",
+                "be": "আনন্দদায়ক এবং উপকারী",
+                "ka": "ಆಹ್ಲಾದಕರ ಮತ್ತು ಪ್ರಯೋಜನಕಾರಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "स्वाध्यायाभ्यसनम्",
-            "transliteration": "svādhyāyābhyasanam",
-            "meaning": "the practice of the"
+            "transliteration": {
+                "hi": "स्वाध्यायाभ्यसनम्",
+                "en": "svādhyāyābhyasanam",
+                "be": "স্বাধ্যাযাভ্যসনম্",
+                "ka": "ಸ್ವಾಧ್ಯಾಯಾಭ್ಯಸನಮ್"
+            },
+            "meaning": {
+                "hi": "का अभ्यास",
+                "en": "the practice of the",
+                "be": "এর অনুশীলন",
+                "ka": "ನ ಅಭ್ಯಾಸ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "वाङ्मयम्",
-            "transliteration": "vāṅmayam",
-            "meaning": "of speech"
+            "transliteration": {
+                "hi": "वाङ्मयम्",
+                "en": "vāṅmayam",
+                "be": "বাঙ্মযম্",
+                "ka": "ವಾಙ್ಮಯಮ್"
+            },
+            "meaning": {
+                "hi": "भाषण का",
+                "en": "of speech",
+                "be": "বক্তৃতা",
+                "ka": "ಭಾಷಣದ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         },
         {
             "sanskrit": "सत्यं ब्रूयात्",
-            "transliteration": "satyaṃ brūyāt",
-            "meaning": "प्रियं ब्रूयात् न ब्रूयात्"
+            "transliteration": {
+                "hi": "सत्यं ब्रूयात्",
+                "en": "satyaṃ brūyāt",
+                "be": "সত্যং ব্রূযাত্",
+                "ka": "ಸತ್ಯಂ ಬ್ರೂಯಾತ್"
+            },
+            "meaning": {
+                "hi": "प्रियं ब्रुयात् न ब्रुयात्",
+                "en": "प्रियं ब्रूयात् न ब्रूयात्",
+                "be": "প্রিয়াং ব্রূয়াত্ ন ব্রুয়াত্",
+                "ka": "ಪ್ರಿಯಂ ಬ್ರೂಯಾತ್ ನ ಬ್ರೂಯಾತ್"
+            }
         }
     ],
     "tej": {

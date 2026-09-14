@@ -14,8 +14,18 @@
         "en": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
         "ka": "ವಿಧಿಹೀನಮಸೃಷ್ಟಾನ್ನಂ ಮನ್ತ್ರಹೀನಮದಕ್ಷಿಣಮ್ |\nಶ್ರದ್ಧಾವಿರಹಿತಂ ಯಜ್ಞಂ ತಾಮಸಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೩||"
     },
-    "transliteration": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
-    "life_application": "Sacrifice contrary to rules, without food distribution, without chants, without gift, devoid of faith—is Tamasic.",
+    "transliteration": {
+        "hi": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||",
+        "en": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
+        "be": "বিধিহীনমসৃষ্টান্নং মন্ত্রহীনমদক্ষিণম্ |\nশ্রদ্ধাবিরহিতং যজ্ঞং তামসং পরিচক্ষতে ||১৭-১৩||",
+        "ka": "ವಿಧಿಹೀನಮಸೃಷ್ಟಾನ್ನಂ ಮನ್ತ್ರಹೀನಮದಕ್ಷಿಣಮ್ |\nಶ್ರದ್ಧಾವಿರಹಿತಂ ಯಜ್ಞಂ ತಾಮಸಂ ಪರಿಚಕ್ಷತೇ ||೧೭-೧೩||"
+    },
+    "life_application": {
+        "hi": "नियमों के विपरीत, भोजन वितरण के बिना, मंत्रों के बिना, दान के बिना, विश्वास से रहित त्याग तामसिक है।",
+        "en": "Sacrifice contrary to rules, without food distribution, without chants, without gift, devoid of faith—is Tamasic.",
+        "be": "নিয়মের পরিপন্থী, অন্নবণ্টন ব্যতীত, জপ ছাড়া, দান ছাড়া, বিশ্বাস বর্জিত যজ্ঞ- তামসিক।",
+        "ka": "ನಿಯಮಗಳಿಗೆ ವ್ಯತಿರಿಕ್ತವಾದ ತ್ಯಾಗ, ಆಹಾರ ವಿತರಣೆಯಿಲ್ಲದೆ, ಮಂತ್ರಗಳಿಲ್ಲದೆ, ಉಡುಗೊರೆಯಿಲ್ಲದ, ನಂಬಿಕೆಯಿಲ್ಲದ - ತಾಮಸಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Karma",
         "Duty"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "विधिहीनम्",
-            "transliteration": "vidhihīnam",
-            "meaning": "without keeping to ordinance"
+            "transliteration": {
+                "hi": "विधिहीनम्",
+                "en": "vidhihīnam",
+                "be": "বিধিহীনম্",
+                "ka": "ವಿಧಿಹೀನಮ್"
+            },
+            "meaning": {
+                "hi": "अध्यादेश का पालन किये बिना",
+                "en": "without keeping to ordinance",
+                "be": "অধ্যাদেশ না রেখে",
+                "ka": "ಕಟ್ಟಳೆಯನ್ನು ಪಾಲಿಸದೆ"
+            }
         },
         {
             "sanskrit": "असृष्टान्नम्",
-            "transliteration": "asṛṣṭānnam",
-            "meaning": "in which no food"
+            "transliteration": {
+                "hi": "असृष्टान्नम्",
+                "en": "asṛṣṭānnam",
+                "be": "অসৃষ্টান্নম্",
+                "ka": "ಅಸೃಷ್ಟಾನ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "जिसमें खाना नहीं है",
+                "en": "in which no food",
+                "be": "যেখানে খাবার নেই",
+                "ka": "ಇದರಲ್ಲಿ ಆಹಾರವಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मन्त्रहीनम्",
-            "transliteration": "mantrahīnam",
-            "meaning": "which is devoid of"
+            "transliteration": {
+                "hi": "मन्त्रहीनम्",
+                "en": "mantrahīnam",
+                "be": "মন্ত্রহীনম্",
+                "ka": "ಮನ್ತ್ರಹೀನಮ್"
+            },
+            "meaning": {
+                "hi": "जो रहित है",
+                "en": "which is devoid of",
+                "be": "যা বর্জিত",
+                "ka": "ಇದು ರಹಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अदक्षिणम्",
-            "transliteration": "adakṣiṇam",
-            "meaning": "which is devoid of"
+            "transliteration": {
+                "hi": "अदक्षिणम्",
+                "en": "adakṣiṇam",
+                "be": "অদক্ষিণম্",
+                "ka": "ಅದಕ್ಷಿಣಮ್"
+            },
+            "meaning": {
+                "hi": "जो रहित है",
+                "en": "which is devoid of",
+                "be": "যা বর্জিত",
+                "ka": "ಇದು ರಹಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "श्रद्धाविरहितम्",
-            "transliteration": "śraddhāvirahitam",
-            "meaning": "which is devoid of"
+            "transliteration": {
+                "hi": "श्रद्धाविरहितम्",
+                "en": "śraddhāvirahitam",
+                "be": "শ্রদ্ধাবিরহিতম্",
+                "ka": "ಶ್ರದ್ಧಾವಿರಹಿತಮ್"
+            },
+            "meaning": {
+                "hi": "जो रहित है",
+                "en": "which is devoid of",
+                "be": "যা বর্জিত",
+                "ka": "ಇದು ರಹಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "यज्ञम्",
-            "transliteration": "yajñam",
-            "meaning": "sacrifice"
+            "transliteration": {
+                "hi": "यज्ञम्",
+                "en": "yajñam",
+                "be": "যজ্ঞম্",
+                "ka": "ಯಜ್ಞಮ್"
+            },
+            "meaning": {
+                "hi": "बलिदान",
+                "en": "sacrifice",
+                "be": "বলিদান",
+                "ka": "ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "तामसम्",
-            "transliteration": "tāmasam",
-            "meaning": "Tamasic"
+            "transliteration": {
+                "hi": "तामसम्",
+                "en": "tāmasam",
+                "be": "তামসম্",
+                "ka": "ತಾಮಸಮ್"
+            },
+            "meaning": {
+                "hi": "तामसिक",
+                "en": "Tamasic",
+                "be": "তামসিক",
+                "ka": "ತಾಮಸಿಕ"
+            }
         },
         {
             "sanskrit": "परिचक्षते",
-            "transliteration": "paricakṣate",
-            "meaning": "declare."
+            "transliteration": {
+                "hi": "परिचक्षते",
+                "en": "paricakṣate",
+                "be": "পরিচক্ষতে",
+                "ka": "ಪರಿಚಕ್ಷತೇ"
+            },
+            "meaning": {
+                "hi": "घोषित करें.",
+                "en": "declare.",
+                "be": "ঘোষণা",
+                "ka": "ಘೋಷಿಸುತ್ತಾರೆ."
+            }
         }
     ],
     "tej": {

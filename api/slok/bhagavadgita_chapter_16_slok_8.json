@@ -14,8 +14,18 @@
         "en": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
         "ka": "ಅಸತ್ಯಮಪ್ರತಿಷ್ಠಂ ತೇ ಜಗದಾಹುರನೀಶ್ವರಮ್ |\nಅಪರಸ್ಪರಸಮ್ಭೂತಂ ಕಿಮನ್ಯತ್ಕಾಮಹೈತುಕಮ್ ||೧೬-೮||"
     },
-    "transliteration": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
-    "life_application": "They say world is without truth, without moral basis, without God, brought about by mutual union caused by lust.",
+    "transliteration": {
+        "hi": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||",
+        "en": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
+        "be": "অসত্যমপ্রতিষ্ঠং তে জগদাহুরনীশ্বরম্ |\nঅপরস্পরসম্ভূতং কিমন্যত্কামহৈতুকম্ ||১৬-৮||",
+        "ka": "ಅಸತ್ಯಮಪ್ರತಿಷ್ಠಂ ತೇ ಜಗದಾಹುರನೀಶ್ವರಮ್ |\nಅಪರಸ್ಪರಸಮ್ಭೂತಂ ಕಿಮನ್ಯತ್ಕಾಮಹೈತುಕಮ್ ||೧೬-೮||"
+    },
+    "life_application": {
+        "hi": "वे कहते हैं कि संसार सत्य के बिना, नैतिक आधार के बिना, ईश्वर के बिना, वासना के कारण आपसी मेल से बना है।",
+        "en": "They say world is without truth, without moral basis, without God, brought about by mutual union caused by lust.",
+        "be": "তারা বলে যে বিশ্ব সত্যহীন, নৈতিক ভিত্তিহীন, ঈশ্বর ছাড়া, লালসা দ্বারা সৃষ্ট পারস্পরিক মিলনের দ্বারা সৃষ্ট।",
+        "ka": "ಜಗತ್ತು ಸತ್ಯವಿಲ್ಲದೆ, ನೈತಿಕ ಆಧಾರಗಳಿಲ್ಲದೆ, ದೇವರಿಲ್ಲದೆ, ಕಾಮದಿಂದ ಉಂಟಾದ ಪರಸ್ಪರ ಒಕ್ಕೂಟದಿಂದ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಅವರು ಹೇಳುತ್ತಾರೆ."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "असत्यम्",
-            "transliteration": "asatyam",
-            "meaning": "without truth"
+            "transliteration": {
+                "hi": "असत्यम्",
+                "en": "asatyam",
+                "be": "অসত্যম্",
+                "ka": "ಅಸತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "सत्य के बिना",
+                "en": "without truth",
+                "be": "সত্য ছাড়া",
+                "ka": "ಸತ್ಯವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अप्रतिष्ठम्",
-            "transliteration": "apratiṣṭham",
-            "meaning": "without basis"
+            "transliteration": {
+                "hi": "अप्रतिष्ठम्",
+                "en": "apratiṣṭham",
+                "be": "অপ্রতিষ্ঠম্",
+                "ka": "ಅಪ್ರತಿಷ್ಠಮ್"
+            },
+            "meaning": {
+                "hi": "बिना आधार के",
+                "en": "without basis",
+                "be": "ভিত্তি ছাড়া",
+                "ka": "ಆಧಾರವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "जगत्",
-            "transliteration": "jagat",
-            "meaning": "the world"
+            "transliteration": {
+                "hi": "जगत्",
+                "en": "jagat",
+                "be": "জগত্",
+                "ka": "ಜಗತ್"
+            },
+            "meaning": {
+                "hi": "दुनिया",
+                "en": "the world",
+                "be": "বিশ্ব",
+                "ka": "ಜಗತ್ತು"
+            }
         },
         {
             "sanskrit": "आहुः",
-            "transliteration": "āhuḥ",
-            "meaning": "say"
+            "transliteration": {
+                "hi": "आहुः",
+                "en": "āhuḥ",
+                "be": "আহুঃ",
+                "ka": "ಆಹುಃ"
+            },
+            "meaning": {
+                "hi": "कहो",
+                "en": "say",
+                "be": "বল",
+                "ka": "ಹೇಳುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "अनीश्वरम्",
-            "transliteration": "anīśvaram",
-            "meaning": "without a God"
+            "transliteration": {
+                "hi": "अनीश्वरम्",
+                "en": "anīśvaram",
+                "be": "অনীশ্বরম্",
+                "ka": "ಅನೀಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "बिना ईश्वर के",
+                "en": "without a God",
+                "be": "ঈশ্বর ছাড়া",
+                "ka": "ದೇವರಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अपरस्परसम्भूतम्",
-            "transliteration": "aparasparasambhūtam",
-            "meaning": "brought about by mutual"
+            "transliteration": {
+                "hi": "अपरस्परसम्भूतम्",
+                "en": "aparasparasambhūtam",
+                "be": "অপরস্পরসম্ভূতম্",
+                "ka": "ಅಪರಸ್ಪರಸಮ್ಭೂತಮ್"
+            },
+            "meaning": {
+                "hi": "आपसी द्वारा लाया गया",
+                "en": "brought about by mutual",
+                "be": "পারস্পরিক দ্বারা সম্পাদিত",
+                "ka": "ಪರಸ್ಪರ ತಂದರು"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "अन्यत",
-            "transliteration": "anyata",
-            "meaning": "else"
+            "transliteration": {
+                "hi": "अन्यत",
+                "en": "anyata",
+                "be": "অন্যত",
+                "ka": "ಅನ್ಯತ"
+            },
+            "meaning": {
+                "hi": "अन्यथा",
+                "en": "else",
+                "be": "অন্য",
+                "ka": "ಬೇರೆ"
+            }
         },
         {
             "sanskrit": "कामहैतुकम्",
-            "transliteration": "kāmahaitukam",
-            "meaning": "with lust for its"
+            "transliteration": {
+                "hi": "कामहैतुकम्",
+                "en": "kāmahaitukam",
+                "be": "কামহৈতুকম্",
+                "ka": "ಕಾಮಹೈತುಕಮ್"
+            },
+            "meaning": {
+                "hi": "इसके लिए वासना के साथ",
+                "en": "with lust for its",
+                "be": "তার জন্য লালসা সঙ্গে",
+                "ka": "ಅದರ ಕಾಮದಿಂದ"
+            }
         }
     ],
     "tej": {

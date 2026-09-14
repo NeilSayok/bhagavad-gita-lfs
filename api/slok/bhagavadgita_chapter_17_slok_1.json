@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಯೇ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ಯಜನ್ತೇ ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ |\nತೇಷಾಂ ನಿಷ್ಠಾ ತು ಕಾ ಕೃಷ್ಣ ಸತ್ತ್ವಮಾಹೋ ರಜಸ್ತಮಃ ||೧೭-೧||"
     },
-    "transliteration": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
-    "life_application": "Arjuna asks: What is the state of those who perform sacrifice with faith but setting aside scriptural rules? Sattva, Rajas, or Tamas?",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः |\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||",
+        "en": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
+        "be": "অর্জুন উবাচ |\nযে শাস্ত্রবিধিমুত্সৃজ্য যজন্তে শ্রদ্ধযান্বিতাঃ |\nতেষাং নিষ্ঠা তু কা কৃষ্ণ সত্ত্বমাহো রজস্তমঃ ||১৭-১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಯೇ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ಯಜನ್ತೇ ಶ್ರದ್ಧಯಾನ್ವಿತಾಃ |\nತೇಷಾಂ ನಿಷ್ಠಾ ತು ಕಾ ಕೃಷ್ಣ ಸತ್ತ್ವಮಾಹೋ ರಜಸ್ತಮಃ ||೧೭-೧||"
+    },
+    "life_application": {
+        "hi": "अर्जुन पूछते हैं: जो लोग शास्त्रीय नियमों को ताक पर रखकर श्रद्धापूर्वक यज्ञ करते हैं उनकी क्या स्थिति होती है? सत्त्व, रजस, या तमस?",
+        "en": "Arjuna asks: What is the state of those who perform sacrifice with faith but setting aside scriptural rules? Sattva, Rajas, or Tamas?",
+        "be": "অর্জুন প্রশ্ন করেন: যারা ধর্মের বিধি-বিধান বাদ দিয়ে বিশ্বাসের সাথে যজ্ঞ করে তাদের অবস্থা কী? সত্ত্ব, রজস, নাকি তমস?",
+        "ka": "ಅರ್ಜುನ ಕೇಳುತ್ತಾನೆ: ಧರ್ಮಶಾಸ್ತ್ರದ ನಿಯಮಗಳನ್ನು ಬದಿಗಿಟ್ಟು ನಂಬಿಕೆಯಿಂದ ತ್ಯಾಗ ಮಾಡುವವರ ಸ್ಥಿತಿ ಏನು? ಸತ್ವ, ರಜಸ್ ಅಥವಾ ತಮಸ್?"
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "शास्त्रविधिम्",
-            "transliteration": "śāstravidhim",
-            "meaning": "the ordinances of the"
+            "transliteration": {
+                "hi": "शास्त्रविधिम्",
+                "en": "śāstravidhim",
+                "be": "শাস্ত্রবিধিম্",
+                "ka": "ಶಾಸ್ತ್ರವಿಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "के अध्यादेश",
+                "en": "the ordinances of the",
+                "be": "এর অধ্যাদেশ",
+                "ka": "ನ ಸುಗ್ರೀವಾಜ್ಞೆಗಳು"
+            }
         },
         {
             "sanskrit": "उत्सृज्य",
-            "transliteration": "utsṛjya",
-            "meaning": "setting aside"
+            "transliteration": {
+                "hi": "उत्सृज्य",
+                "en": "utsṛjya",
+                "be": "উত্সৃজ্য",
+                "ka": "ಉತ್ಸೃಜ್ಯ"
+            },
+            "meaning": {
+                "hi": "अलग रखना",
+                "en": "setting aside",
+                "be": "আলাদা করা",
+                "ka": "ಪಕ್ಕಕ್ಕೆ ಇಡುವುದು"
+            }
         },
         {
             "sanskrit": "यजन्ते",
-            "transliteration": "yajante",
-            "meaning": "perform sacrifice"
+            "transliteration": {
+                "hi": "यजन्ते",
+                "en": "yajante",
+                "be": "যজন্তে",
+                "ka": "ಯಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "यज्ञ करना",
+                "en": "perform sacrifice",
+                "be": "উৎসর্গ করা",
+                "ka": "ತ್ಯಾಗ ಮಾಡು"
+            }
         },
         {
             "sanskrit": "श्रद्धया",
-            "transliteration": "śraddhayā",
-            "meaning": "with faith"
+            "transliteration": {
+                "hi": "श्रद्धया",
+                "en": "śraddhayā",
+                "be": "শ্রদ্ধযা",
+                "ka": "ಶ್ರದ್ಧಯಾ"
+            },
+            "meaning": {
+                "hi": "विश्वास के साथ",
+                "en": "with faith",
+                "be": "বিশ্বাসের সাথে",
+                "ka": "ನಂಬಿಕೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अन्विताः",
-            "transliteration": "anvitāḥ",
-            "meaning": "endowed"
+            "transliteration": {
+                "hi": "अन्विताः",
+                "en": "anvitāḥ",
+                "be": "অন্বিতাঃ",
+                "ka": "ಅನ್ವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "संपन्न",
+                "en": "endowed",
+                "be": "সমৃদ্ধ",
+                "ka": "ದತ್ತಿ"
+            }
         },
         {
             "sanskrit": "तेषाम्",
-            "transliteration": "teṣām",
-            "meaning": "their"
+            "transliteration": {
+                "hi": "तेषाम्",
+                "en": "teṣām",
+                "be": "তেষাম্",
+                "ka": "ತೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनके",
+                "en": "their",
+                "be": "তাদের",
+                "ka": "ಅವರ"
+            }
         },
         {
             "sanskrit": "निष्ठा",
-            "transliteration": "niṣṭhā",
-            "meaning": "condition"
+            "transliteration": {
+                "hi": "निष्ठा",
+                "en": "niṣṭhā",
+                "be": "নিষ্ঠা",
+                "ka": "ನಿಷ್ಠಾ"
+            },
+            "meaning": {
+                "hi": "शर्त",
+                "en": "condition",
+                "be": "অবস্থা",
+                "ka": "ಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "का",
-            "transliteration": "kā",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "का",
+                "en": "kā",
+                "be": "কা",
+                "ka": "ಕಾ"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "कृष्ण",
-            "transliteration": "kṛṣṇa",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "Sattva"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सत्त्व",
+                "en": "Sattva",
+                "be": "সত্ত্বা",
+                "ka": "ಸತ್ವ"
+            }
         },
         {
             "sanskrit": "आहो",
-            "transliteration": "āho",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "आहो",
+                "en": "āho",
+                "be": "আহো",
+                "ka": "ಆಹೋ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "रजः",
-            "transliteration": "rajaḥ",
-            "meaning": "Rajas"
+            "transliteration": {
+                "hi": "रजः",
+                "en": "rajaḥ",
+                "be": "রজঃ",
+                "ka": "ರಜಃ"
+            },
+            "meaning": {
+                "hi": "राजस",
+                "en": "Rajas",
+                "be": "রাজস",
+                "ka": "ರಾಜಾಸ್"
+            }
         },
         {
             "sanskrit": "तमः",
-            "transliteration": "tamaḥ",
-            "meaning": "Tamas."
+            "transliteration": {
+                "hi": "तमः",
+                "en": "tamaḥ",
+                "be": "তমঃ",
+                "ka": "ತಮಃ"
+            },
+            "meaning": {
+                "hi": "तमस्.",
+                "en": "Tamas.",
+                "be": "তমস।",
+                "ka": "ತಮಸ್."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
         "ka": "ದೇವದ್ವಿಜಗುರುಪ್ರಾಜ್ಞಪೂಜನಂ ಶೌಚಮಾರ್ಜವಮ್ |\nಬ್ರಹ್ಮಚರ್ಯಮಹಿಂಸಾ ಚ ಶಾರೀರಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೪||"
     },
-    "transliteration": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
-    "life_application": "Practice physical austerity by respecting elders, maintaining cleanliness, and observing non-violence in your daily actions.",
+    "transliteration": {
+        "hi": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् |\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||",
+        "en": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
+        "be": "দেবদ্বিজগুরুপ্রাজ্ঞপূজনং শৌচমার্জবম্ |\nব্রহ্মচর্যমহিংসা চ শারীরং তপ উচ্যতে ||১৭-১৪||",
+        "ka": "ದೇವದ್ವಿಜಗುರುಪ್ರಾಜ್ಞಪೂಜನಂ ಶೌಚಮಾರ್ಜವಮ್ |\nಬ್ರಹ್ಮಚರ್ಯಮಹಿಂಸಾ ಚ ಶಾರೀರಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೪||"
+    },
+    "life_application": {
+        "hi": "बड़ों का सम्मान करके, स्वच्छता बनाए रखकर और अपने दैनिक कार्यों में अहिंसा का पालन करके शारीरिक तपस्या का अभ्यास करें।",
+        "en": "Practice physical austerity by respecting elders, maintaining cleanliness, and observing non-violence in your daily actions.",
+        "be": "গুরুজনদের সম্মান করে, পরিচ্ছন্নতা বজায় রেখে এবং আপনার দৈনন্দিন কাজে অহিংসা পালন করে শারীরিক তপস্যা অনুশীলন করুন।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಕಾರ್ಯಗಳಲ್ಲಿ ಹಿರಿಯರನ್ನು ಗೌರವಿಸುವ ಮೂಲಕ, ಶುಚಿತ್ವವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಮತ್ತು ಅಹಿಂಸೆಯನ್ನು ಪಾಲಿಸುವ ಮೂಲಕ ದೈಹಿಕ ಕಠಿಣತೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+    },
     "themes": [
         "Duty",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "देवद्विजगुरुप्राज्ञपूजनम्",
-            "transliteration": "devadvijaguruprājñapūjanam",
-            "meaning": "worship of the gods"
+            "transliteration": {
+                "hi": "देवद्विजगुरुप्राज्ञपूजनम्",
+                "en": "devadvijaguruprājñapūjanam",
+                "be": "দেবদ্বিজগুরুপ্রাজ্ঞপূজনম্",
+                "ka": "ದೇವದ್ವಿಜಗುರುಪ್ರಾಜ್ಞಪೂಜನಮ್"
+            },
+            "meaning": {
+                "hi": "देवताओं की पूजा",
+                "en": "worship of the gods",
+                "be": "দেবতাদের পূজা",
+                "ka": "ದೇವತೆಗಳ ಪೂಜೆ"
+            }
         },
         {
             "sanskrit": "शौचम्",
-            "transliteration": "śaucam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "शौचम्",
+                "en": "śaucam",
+                "be": "শৌচম্",
+                "ka": "ಶೌಚಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "आर्जवम्",
-            "transliteration": "ārjavam",
-            "meaning": "straightforwardness"
+            "transliteration": {
+                "hi": "आर्जवम्",
+                "en": "ārjavam",
+                "be": "আর্জবম্",
+                "ka": "ಆರ್ಜವಮ್"
+            },
+            "meaning": {
+                "hi": "सीधापन",
+                "en": "straightforwardness",
+                "be": "সরলতা",
+                "ka": "ನೇರತೆ"
+            }
         },
         {
             "sanskrit": "ब्रह्मचर्यम्",
-            "transliteration": "brahmacaryam",
-            "meaning": "celibacy"
+            "transliteration": {
+                "hi": "ब्रह्मचर्यम्",
+                "en": "brahmacaryam",
+                "be": "ব্রহ্মচর্যম্",
+                "ka": "ಬ್ರಹ್ಮಚರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्मचर्य",
+                "en": "celibacy",
+                "be": "ব্রহ্মচর্য",
+                "ka": "ಬ್ರಹ್ಮಚರ್ಯ"
+            }
         },
         {
             "sanskrit": "अहिंसा",
-            "transliteration": "ahiṃsā",
-            "meaning": "noninjury"
+            "transliteration": {
+                "hi": "अहिंसा",
+                "en": "ahiṃsā",
+                "be": "অহিংসা",
+                "ka": "ಅಹಿಂಸಾ"
+            },
+            "meaning": {
+                "hi": "गैर चोट",
+                "en": "noninjury",
+                "be": "অ আঘাত",
+                "ka": "ಗಾಯವಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शारीरम्",
-            "transliteration": "śārīram",
-            "meaning": "of the body"
+            "transliteration": {
+                "hi": "शारीरम्",
+                "en": "śārīram",
+                "be": "শারীরম্",
+                "ka": "ಶಾರೀರಮ್"
+            },
+            "meaning": {
+                "hi": "शरीर का",
+                "en": "of the body",
+                "be": "শরীরের",
+                "ka": "ದೇಹದ"
+            }
         },
         {
             "sanskrit": "तपः",
-            "transliteration": "tapaḥ",
-            "meaning": "austerity"
+            "transliteration": {
+                "hi": "तपः",
+                "en": "tapaḥ",
+                "be": "তপঃ",
+                "ka": "ತಪಃ"
+            },
+            "meaning": {
+                "hi": "तपस्या",
+                "en": "austerity",
+                "be": "কঠোরতা",
+                "ka": "ಸಂಯಮ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

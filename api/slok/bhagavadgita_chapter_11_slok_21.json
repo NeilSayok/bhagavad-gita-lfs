@@ -14,8 +14,18 @@
         "en": "amī hi tvāṃ surasaṅghā viśanti kecidbhītāḥ prāñjalayo gṛṇanti .\nsvastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||11-21||",
         "ka": "ಅಮೀ ಹಿ ತ್ವಾಂ ಸುರಸಙ್ಘಾ ವಿಶನ್ತಿ\nಕೇಚಿದ್ಭೀತಾಃ ಪ್ರಾಞ್ಜಲಯೋ ಗೃಣನ್ತಿ |\nಸ್ವಸ್ತೀತ್ಯುಕ್ತ್ವಾ ಮಹರ್ಷಿಸಿದ್ಧಸಙ್ಘಾಃ\nಸ್ತುವನ್ತಿ ತ್ವಾಂ ಸ್ತುತಿಭಿಃ ಪುಷ್ಕಲಾಭಿಃ ||೧೧-೨೧||"
     },
-    "transliteration": "amī hi tvāṃ surasaṅghā viśanti kecidbhītāḥ prāñjalayo gṛṇanti .\nsvastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||11-21||",
-    "life_application": "Observe celestial hosts entering the divine presence, offering praises with folded hands while singing hymns of peace.",
+    "transliteration": {
+        "hi": "अमी हि त्वां सुरसङ्घा विशन्ति\nकेचिद्भीताः प्राञ्जलयो गृणन्ति |\nस्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः\nस्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः ||११-२१||",
+        "en": "amī hi tvāṃ surasaṅghā viśanti kecidbhītāḥ prāñjalayo gṛṇanti .\nsvastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||11-21||",
+        "be": "অমী হি ত্বাং সুরসঙ্ঘা বিশন্তি\nকেচিদ্ভীতাঃ প্রাঞ্জলযো গৃণন্তি |\nস্বস্তীত্যুক্ত্বা মহর্ষিসিদ্ধসঙ্ঘাঃ\nস্তুবন্তি ত্বাং স্তুতিভিঃ পুষ্কলাভিঃ ||১১-২১||",
+        "ka": "ಅಮೀ ಹಿ ತ್ವಾಂ ಸುರಸಙ್ಘಾ ವಿಶನ್ತಿ\nಕೇಚಿದ್ಭೀತಾಃ ಪ್ರಾಞ್ಜಲಯೋ ಗೃಣನ್ತಿ |\nಸ್ವಸ್ತೀತ್ಯುಕ್ತ್ವಾ ಮಹರ್ಷಿಸಿದ್ಧಸಙ್ಘಾಃ\nಸ್ತುವನ್ತಿ ತ್ವಾಂ ಸ್ತುತಿಭಿಃ ಪುಷ್ಕಲಾಭಿಃ ||೧೧-೨೧||"
+    },
+    "life_application": {
+        "hi": "दिव्य यजमानों को दिव्य उपस्थिति में प्रवेश करते हुए, शांति के भजन गाते हुए हाथ जोड़कर स्तुति करते हुए देखें।",
+        "en": "Observe celestial hosts entering the divine presence, offering praises with folded hands while singing hymns of peace.",
+        "be": "স্বর্গীয় হোস্টদের ঐশ্বরিক উপস্থিতিতে প্রবেশ করা পর্যবেক্ষণ করুন, শান্তির স্তব গাওয়ার সময় হাত জোড় করে প্রশংসা করুন।",
+        "ka": "ಸ್ವರ್ಗೀಯ ಆತಿಥೇಯರು ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಪ್ರವೇಶಿಸುವುದನ್ನು ಗಮನಿಸಿ, ಶಾಂತಿಯ ಸ್ತೋತ್ರಗಳನ್ನು ಹಾಡುತ್ತಿರುವಾಗ ಕೈಗಳನ್ನು ಮುಚ್ಚಿ ಸ್ತುತಿಸುತ್ತಿದ್ದಾರೆ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "अमी",
-            "transliteration": "amī",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "अमी",
+                "en": "amī",
+                "be": "অমী",
+                "ka": "ಅಮೀ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "सुरसङ्घाः",
-            "transliteration": "surasaṅghāḥ",
-            "meaning": "hosts of gods"
+            "transliteration": {
+                "hi": "सुरसङ्घाः",
+                "en": "surasaṅghāḥ",
+                "be": "সুরসঙ্ঘাঃ",
+                "ka": "ಸುರಸಙ್ಘಾಃ"
+            },
+            "meaning": {
+                "hi": "देवताओं के यजमान",
+                "en": "hosts of gods",
+                "be": "দেবতাদের হোস্ট",
+                "ka": "ದೇವತೆಗಳ ಆತಿಥೇಯರು"
+            }
         },
         {
             "sanskrit": "विशन्ति",
-            "transliteration": "viśanti",
-            "meaning": "enter"
+            "transliteration": {
+                "hi": "विशन्ति",
+                "en": "viśanti",
+                "be": "বিশন্তি",
+                "ka": "ವಿಶನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "दर्ज करें",
+                "en": "enter",
+                "be": "প্রবেশ করা",
+                "ka": "ನಮೂದಿಸಿ"
+            }
         },
         {
             "sanskrit": "केचित्",
-            "transliteration": "kecit",
-            "meaning": "some"
+            "transliteration": {
+                "hi": "केचित्",
+                "en": "kecit",
+                "be": "কেচিত্",
+                "ka": "ಕೇಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कुछ",
+                "en": "some",
+                "be": "কিছু",
+                "ka": "ಕೆಲವು"
+            }
         },
         {
             "sanskrit": "भीताः",
-            "transliteration": "bhītāḥ",
-            "meaning": "in fear"
+            "transliteration": {
+                "hi": "भीताः",
+                "en": "bhītāḥ",
+                "be": "ভীতাঃ",
+                "ka": "ಭೀತಾಃ"
+            },
+            "meaning": {
+                "hi": "डर में",
+                "en": "in fear",
+                "be": "ভয়ে",
+                "ka": "ಭಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्राञ्जलयः",
-            "transliteration": "prāñjalayaḥ",
-            "meaning": "with joined palms"
+            "transliteration": {
+                "hi": "प्राञ्जलयः",
+                "en": "prāñjalayaḥ",
+                "be": "প্রাঞ্জলযঃ",
+                "ka": "ಪ್ರಾಞ್ಜಲಯಃ"
+            },
+            "meaning": {
+                "hi": "जुड़ी हुई हथेलियों के साथ",
+                "en": "with joined palms",
+                "be": "যোগ করা হাতের তালু দিয়ে",
+                "ka": "ಸೇರಿಕೊಂಡ ಅಂಗೈಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "गृणन्ति",
-            "transliteration": "gṛṇanti",
-            "meaning": "extol"
+            "transliteration": {
+                "hi": "गृणन्ति",
+                "en": "gṛṇanti",
+                "be": "গৃণন্তি",
+                "ka": "ಗೃಣನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "प्रशंसा",
+                "en": "extol",
+                "be": "প্রশংসা",
+                "ka": "ಹೊಗಳುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "स्वस्ति",
-            "transliteration": "svasti",
-            "meaning": "may it be well"
+            "transliteration": {
+                "hi": "स्वस्ति",
+                "en": "svasti",
+                "be": "স্বস্তি",
+                "ka": "ಸ್ವಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "सब ठीक हो जाये",
+                "en": "may it be well",
+                "be": "এটা ভাল হতে পারে",
+                "ka": "ಅದು ಚೆನ್ನಾಗಿರಲಿ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उक्त्वा",
-            "transliteration": "uktvā",
-            "meaning": "having said"
+            "transliteration": {
+                "hi": "उक्त्वा",
+                "en": "uktvā",
+                "be": "উক্ত্বা",
+                "ka": "ಉಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "कहा जा रहा है",
+                "en": "having said",
+                "be": "বলেছেন",
+                "ka": "ಹೇಳಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "महर्षिसिद्धसङ्घाः",
-            "transliteration": "maharṣisiddhasaṅghāḥ",
-            "meaning": "bands of great Rishis"
+            "transliteration": {
+                "hi": "महर्षिसिद्धसङ्घाः",
+                "en": "maharṣisiddhasaṅghāḥ",
+                "be": "মহর্ষিসিদ্ধসঙ্ঘাঃ",
+                "ka": "ಮಹರ್ಷಿಸಿದ್ಧಸಙ್ಘಾಃ"
+            },
+            "meaning": {
+                "hi": "महान ऋषियों की टोली",
+                "en": "bands of great Rishis",
+                "be": "মহান ঋষিদের দল",
+                "ka": "ಮಹಾನ್ ಋಷಿಗಳ ತಂಡಗಳು"
+            }
         },
         {
             "sanskrit": "स्तुवन्ति",
-            "transliteration": "stuvanti",
-            "meaning": "paise"
+            "transliteration": {
+                "hi": "स्तुवन्ति",
+                "en": "stuvanti",
+                "be": "স্তুবন্তি",
+                "ka": "ಸ್ತುವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "पैसे",
+                "en": "paise",
+                "be": "পয়সা",
+                "ka": "ಪೈಸೆ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "स्तुतिभिः",
-            "transliteration": "stutibhiḥ",
-            "meaning": "with hymns"
+            "transliteration": {
+                "hi": "स्तुतिभिः",
+                "en": "stutibhiḥ",
+                "be": "স্তুতিভিঃ",
+                "ka": "ಸ್ತುತಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "भजनों के साथ",
+                "en": "with hymns",
+                "be": "গানের সাথে",
+                "ka": "ಸ್ತೋತ್ರಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "पुष्कलाभिः",
-            "transliteration": "puṣkalābhiḥ",
-            "meaning": "complete."
+            "transliteration": {
+                "hi": "पुष्कलाभिः",
+                "en": "puṣkalābhiḥ",
+                "be": "পুষ্কলাভিঃ",
+                "ka": "ಪುಷ್ಕಲಾಭಿಃ"
+            },
+            "meaning": {
+                "hi": "पूरा।",
+                "en": "complete.",
+                "be": "সম্পূর্ণ",
+                "ka": "ಸಂಪೂರ್ಣ."
+            }
         }
     ],
     "tej": {

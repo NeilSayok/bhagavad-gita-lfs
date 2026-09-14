@@ -14,8 +14,18 @@
         "en": "daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni .\ndiśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa ||11-25||",
         "ka": "ದಂಷ್ಟ್ರಾಕರಾಲಾನಿ ಚ ತೇ ಮುಖಾನಿ\nದೃಷ್ಟ್ವೈವ ಕಾಲಾನಲಸನ್ನಿಭಾನಿ |\nದಿಶೋ ನ ಜಾನೇ ನ ಲಭೇ ಚ ಶರ್ಮ\nಪ್ರಸೀದ ದೇವೇಶ ಜಗನ್ನಿವಾಸ ||೧೧-೨೫||"
     },
-    "transliteration": "daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni .\ndiśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa ||11-25||",
-    "life_application": "Look upon the fierce aspect of time devouring all creations, seeking refuge in divine mercy and grace.",
+    "transliteration": {
+        "hi": "दंष्ट्राकरालानि च ते मुखानि\nदृष्ट्वैव कालानलसन्निभानि |\nदिशो न जाने न लभे च शर्म\nप्रसीद देवेश जगन्निवास ||११-२५||",
+        "en": "daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni .\ndiśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa ||11-25||",
+        "be": "দংষ্ট্রাকরালানি চ তে মুখানি\nদৃষ্ট্বৈব কালানলসন্নিভানি |\nদিশো ন জানে ন লভে চ শর্ম\nপ্রসীদ দেবেশ জগন্নিবাস ||১১-২৫||",
+        "ka": "ದಂಷ್ಟ್ರಾಕರಾಲಾನಿ ಚ ತೇ ಮುಖಾನಿ\nದೃಷ್ಟ್ವೈವ ಕಾಲಾನಲಸನ್ನಿಭಾನಿ |\nದಿಶೋ ನ ಜಾನೇ ನ ಲಭೇ ಚ ಶರ್ಮ\nಪ್ರಸೀದ ದೇವೇಶ ಜಗನ್ನಿವಾಸ ||೧೧-೨೫||"
+    },
+    "life_application": {
+        "hi": "समय के उस भयंकर पहलू को देखें जो सभी रचनाओं को निगल रहा है, ईश्वरीय दया और अनुग्रह की शरण ले रहा है।",
+        "en": "Look upon the fierce aspect of time devouring all creations, seeking refuge in divine mercy and grace.",
+        "be": "ঐশ্বরিক করুণা ও করুণার আশ্রয় প্রার্থনা করে সমস্ত সৃষ্টিকে গ্রাস করে নেওয়া সময়ের উগ্র দিকটি দেখুন।",
+        "ka": "ದೈವಿಕ ಕರುಣೆ ಮತ್ತು ಕೃಪೆಯಲ್ಲಿ ಆಶ್ರಯ ಪಡೆಯಲು, ಎಲ್ಲಾ ಸೃಷ್ಟಿಗಳನ್ನು ಕಬಳಿಸುವ ಸಮಯದ ಉಗ್ರ ಅಂಶವನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Fear",
         "Devotion"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "दंष्ट्राकरालानि",
-            "transliteration": "daṃṣṭrākarālāni",
-            "meaning": "fearful with teeth"
+            "transliteration": {
+                "hi": "दंष्ट्राकरालानि",
+                "en": "daṃṣṭrākarālāni",
+                "be": "দংষ্ট্রাকরালানি",
+                "ka": "ದಂಷ್ಟ್ರಾಕರಾಲಾನಿ"
+            },
+            "meaning": {
+                "hi": "दांतों से डरपोक",
+                "en": "fearful with teeth",
+                "be": "দাঁত দিয়ে ভয় পায়",
+                "ka": "ಹಲ್ಲುಗಳಿಂದ ಭಯಪಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "मुखानि",
-            "transliteration": "mukhāni",
-            "meaning": "mouths"
+            "transliteration": {
+                "hi": "मुखानि",
+                "en": "mukhāni",
+                "be": "মুখানি",
+                "ka": "ಮುಖಾನಿ"
+            },
+            "meaning": {
+                "hi": "मुँह",
+                "en": "mouths",
+                "be": "মুখ",
+                "ka": "ಬಾಯಿಗಳು"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "कालानलसन्निभानि",
-            "transliteration": "kālānalasannibhāni",
-            "meaning": "blazing like Pralayafires"
+            "transliteration": {
+                "hi": "कालानलसन्निभानि",
+                "en": "kālānalasannibhāni",
+                "be": "কালানলসন্নিভানি",
+                "ka": "ಕಾಲಾನಲಸನ್ನಿಭಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्रलय अग्नि की तरह धधकती हुई",
+                "en": "blazing like Pralayafires",
+                "be": "প্রলয়ফায়ারের মতো জ্বলছে",
+                "ka": "ಪ್ರಳಯ ಬೆಂಕಿಯಂತೆ ಜ್ವಲಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "दिशः",
-            "transliteration": "diśaḥ",
-            "meaning": "the four arters"
+            "transliteration": {
+                "hi": "दिशः",
+                "en": "diśaḥ",
+                "be": "দিশঃ",
+                "ka": "ದಿಶಃ"
+            },
+            "meaning": {
+                "hi": "चार धमनियाँ",
+                "en": "the four arters",
+                "be": "চারটি ধমনী",
+                "ka": "ನಾಲ್ಕು ಅಪಧಮನಿಗಳು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "जाने",
-            "transliteration": "jāne",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "जाने",
+                "en": "jāne",
+                "be": "জানে",
+                "ka": "ಜಾನೇ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "लभे",
-            "transliteration": "labhe",
-            "meaning": "do obtain"
+            "transliteration": {
+                "hi": "लभे",
+                "en": "labhe",
+                "be": "লভে",
+                "ka": "ಲಭೇ"
+            },
+            "meaning": {
+                "hi": "अवश्य प्राप्त करें",
+                "en": "do obtain",
+                "be": "প্রাপ্ত করা",
+                "ka": "ಪಡೆಯಿರಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शर्म",
-            "transliteration": "śarma",
-            "meaning": "peace"
+            "transliteration": {
+                "hi": "शर्म",
+                "en": "śarma",
+                "be": "শর্ম",
+                "ka": "ಶರ್ಮ"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "peace",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "प्रसीद",
-            "transliteration": "prasīda",
-            "meaning": "have mercy"
+            "transliteration": {
+                "hi": "प्रसीद",
+                "en": "prasīda",
+                "be": "প্রসীদ",
+                "ka": "ಪ್ರಸೀದ"
+            },
+            "meaning": {
+                "hi": "दया करो",
+                "en": "have mercy",
+                "be": "করুণা কর",
+                "ka": "ಕರುಣಿಸು"
+            }
         },
         {
             "sanskrit": "देवेश",
-            "transliteration": "deveśa",
-            "meaning": "O Lord of the"
+            "transliteration": {
+                "hi": "देवेश",
+                "en": "deveśa",
+                "be": "দেবেশ",
+                "ka": "ದೇವೇಶ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O Lord of the",
+                "be": "হে প্রভু",
+                "ka": "ಓ ಲಾರ್ಡ್ ಆಫ್ ದಿ"
+            }
         },
         {
             "sanskrit": "जगन्निवास",
-            "transliteration": "jagannivāsa",
-            "meaning": "O abode of the"
+            "transliteration": {
+                "hi": "जगन्निवास",
+                "en": "jagannivāsa",
+                "be": "জগন্নিবাস",
+                "ka": "ಜಗನ್ನಿವಾಸ"
+            },
+            "meaning": {
+                "hi": "हे निवास स्थान",
+                "en": "O abode of the",
+                "be": "হে বাসস্থান",
+                "ka": "ಓ ನಿವಾಸ"
+            }
         }
     ],
     "tej": {

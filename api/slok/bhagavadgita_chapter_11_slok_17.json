@@ -14,8 +14,18 @@
         "en": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam .\npaśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam ||11-17||",
         "ka": "ಕಿರೀಟಿನಂ ಗದಿನಂ ಚಕ್ರಿಣಂ ಚ\nತೇಜೋರಾಶಿಂ ಸರ್ವತೋ ದೀಪ್ತಿಮನ್ತಮ್ |\nಪಶ್ಯಾಮಿ ತ್ವಾಂ ದುರ್ನಿರೀಕ್ಷ್ಯಂ ಸಮನ್ತಾದ್\nದೀಪ್ತಾನಲಾರ್ಕದ್ಯುತಿಮಪ್ರಮೇಯಮ್ ||೧೧-೧೭||"
     },
-    "transliteration": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam .\npaśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam ||11-17||",
-    "life_application": "Gaze upon the radiant crown, mace, and discus, a mass of glory blazing like burning fire and sun.",
+    "transliteration": {
+        "hi": "किरीटिनं गदिनं चक्रिणं च\nतेजोराशिं सर्वतो दीप्तिमन्तम् |\nपश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्\nदीप्तानलार्कद्युतिमप्रमेयम् ||११-१७||",
+        "en": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam .\npaśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam ||11-17||",
+        "be": "কিরীটিনং গদিনং চক্রিণং চ\nতেজোরাশিং সর্বতো দীপ্তিমন্তম্ |\nপশ্যামি ত্বাং দুর্নিরীক্ষ্যং সমন্তাদ্\nদীপ্তানলার্কদ্যুতিমপ্রমেযম্ ||১১-১৭||",
+        "ka": "ಕಿರೀಟಿನಂ ಗದಿನಂ ಚಕ್ರಿಣಂ ಚ\nತೇಜೋರಾಶಿಂ ಸರ್ವತೋ ದೀಪ್ತಿಮನ್ತಮ್ |\nಪಶ್ಯಾಮಿ ತ್ವಾಂ ದುರ್ನಿರೀಕ್ಷ್ಯಂ ಸಮನ್ತಾದ್\nದೀಪ್ತಾನಲಾರ್ಕದ್ಯುತಿಮಪ್ರಮೇಯಮ್ ||೧೧-೧೭||"
+    },
+    "life_application": {
+        "hi": "दीप्तिमान मुकुट, गदा और चक्र पर दृष्टि डालें, जो तेज अग्नि और सूर्य के समान चमक रहा है।",
+        "en": "Gaze upon the radiant crown, mace, and discus, a mass of glory blazing like burning fire and sun.",
+        "be": "উজ্জ্বল মুকুট, গদা এবং চাকতির দিকে তাকাও, জ্বলন্ত আগুন এবং সূর্যের মতো জ্বলন্ত গৌরবের ভর।",
+        "ka": "ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿ ಮತ್ತು ಸೂರ್ಯನಂತೆ ಪ್ರಜ್ವಲಿಸುತ್ತಿರುವ ವೈಭವದ ಸಮೂಹವಾದ ವಿಕಿರಣ ಕಿರೀಟ, ಗದೆ ಮತ್ತು ಡಿಸ್ಕಸ್ ಅನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "किरीटिनम्",
-            "transliteration": "kirīṭinam",
-            "meaning": "one with diadem"
+            "transliteration": {
+                "hi": "किरीटिनम्",
+                "en": "kirīṭinam",
+                "be": "কিরীটিনম্",
+                "ka": "ಕಿರೀಟಿನಮ್"
+            },
+            "meaning": {
+                "hi": "एक हीरे के साथ",
+                "en": "one with diadem",
+                "be": "একটি ডায়ডেম সহ",
+                "ka": "ವಜ್ರದೊಂದಿಗೆ ಒಂದು"
+            }
         },
         {
             "sanskrit": "गदिनम्",
-            "transliteration": "gadinam",
-            "meaning": "with club"
+            "transliteration": {
+                "hi": "गदिनम्",
+                "en": "gadinam",
+                "be": "গদিনম্",
+                "ka": "ಗದಿನಮ್"
+            },
+            "meaning": {
+                "hi": "क्लब के साथ",
+                "en": "with club",
+                "be": "ক্লাবের সাথে",
+                "ka": "ಕ್ಲಬ್ನೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "चक्रिणम्",
-            "transliteration": "cakriṇam",
-            "meaning": "with discus"
+            "transliteration": {
+                "hi": "चक्रिणम्",
+                "en": "cakriṇam",
+                "be": "চক্রিণম্",
+                "ka": "ಚಕ್ರಿಣಮ್"
+            },
+            "meaning": {
+                "hi": "डिस्कस के साथ",
+                "en": "with discus",
+                "be": "ডিসকাস সহ",
+                "ka": "ಡಿಸ್ಕಸ್ನೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तेजोराशिम्",
-            "transliteration": "tejorāśim",
-            "meaning": "a mass of radiance"
+            "transliteration": {
+                "hi": "तेजोराशिम्",
+                "en": "tejorāśim",
+                "be": "তেজোরাশিম্",
+                "ka": "ತೇಜೋರಾಶಿಮ್"
+            },
+            "meaning": {
+                "hi": "चमक का एक समूह",
+                "en": "a mass of radiance",
+                "be": "একটি ভর দীপ্তি",
+                "ka": "ಕಾಂತಿ ಸಮೂಹ"
+            }
         },
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "दीप्तिमन्तम्",
-            "transliteration": "dīptimantam",
-            "meaning": "shining"
+            "transliteration": {
+                "hi": "दीप्तिमन्तम्",
+                "en": "dīptimantam",
+                "be": "দীপ্তিমন্তম্",
+                "ka": "ದೀಪ್ತಿಮನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "चमक रहा है",
+                "en": "shining",
+                "be": "চকচকে",
+                "ka": "ಹೊಳೆಯುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "दुर्निरीक्ष्यम्",
-            "transliteration": "durnirīkṣyam",
-            "meaning": "very hard to look"
+            "transliteration": {
+                "hi": "दुर्निरीक्ष्यम्",
+                "en": "durnirīkṣyam",
+                "be": "দুর্নিরীক্ষ্যম্",
+                "ka": "ದುರ್ನಿರೀಕ್ಷ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "देखना बहुत कठिन है",
+                "en": "very hard to look",
+                "be": "দেখতে খুব কঠিন",
+                "ka": "ನೋಡಲು ತುಂಬಾ ಕಷ್ಟ"
+            }
         },
         {
             "sanskrit": "समन्तात्",
-            "transliteration": "samantāt",
-            "meaning": "all round"
+            "transliteration": {
+                "hi": "समन्तात्",
+                "en": "samantāt",
+                "be": "সমন্তাত্",
+                "ka": "ಸಮನ್ತಾತ್"
+            },
+            "meaning": {
+                "hi": "सर्वांगीण",
+                "en": "all round",
+                "be": "সব বৃত্তাকার",
+                "ka": "ಎಲ್ಲಾ ಸುತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "दीप्तानलार्कद्युतिम्",
-            "transliteration": "dīptānalārkadyutim",
-            "meaning": "blazing like burning fire"
+            "transliteration": {
+                "hi": "दीप्तानलार्कद्युतिम्",
+                "en": "dīptānalārkadyutim",
+                "be": "দীপ্তানলার্কদ্যুতিম্",
+                "ka": "ದೀಪ್ತಾನಲಾರ್ಕದ್ಯುತಿಮ್"
+            },
+            "meaning": {
+                "hi": "जलती आग की तरह धधकते हुए",
+                "en": "blazing like burning fire",
+                "be": "জ্বলন্ত আগুনের মতো জ্বলছে",
+                "ka": "ಉರಿಯುವ ಬೆಂಕಿಯಂತೆ ಉರಿಯುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "अप्रमेयम्",
-            "transliteration": "aprameyam",
-            "meaning": "immeasurable."
+            "transliteration": {
+                "hi": "अप्रमेयम्",
+                "en": "aprameyam",
+                "be": "অপ্রমেযম্",
+                "ka": "ಅಪ್ರಮೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "अथाह.",
+                "en": "immeasurable.",
+                "be": "অপরিমেয়",
+                "ka": "ಅಳೆಯಲಾಗದ."
+            }
         }
     ],
     "tej": {

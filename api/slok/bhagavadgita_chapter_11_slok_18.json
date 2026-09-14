@@ -14,8 +14,18 @@
         "en": "tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam .\ntvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me ||11-18||",
         "ka": "ತ್ವಮಕ್ಷರಂ ಪರಮಂ ವೇದಿತವ್ಯಂ\nತ್ವಮಸ್ಯ ವಿಶ್ವಸ್ಯ ಪರಂ ನಿಧಾನಮ್ |\nತ್ವಮವ್ಯಯಃ ಶಾಶ್ವತಧರ್ಮಗೋಪ್ತಾ\nಸನಾತನಸ್ತ್ವಂ ಪುರುಷೋ ಮತೋ ಮೇ ||೧೧-೧೮||"
     },
-    "transliteration": "tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam .\ntvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me ||11-18||",
-    "life_application": "Acknowledge God as the imperishable supreme truth to be known, the ultimate refuge, and eternal guardian of righteousness.",
+    "transliteration": {
+        "hi": "त्वमक्षरं परमं वेदितव्यं\nत्वमस्य विश्वस्य परं निधानम् |\nत्वमव्ययः शाश्वतधर्मगोप्ता\nसनातनस्त्वं पुरुषो मतो मे ||११-१८||",
+        "en": "tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam .\ntvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me ||11-18||",
+        "be": "ত্বমক্ষরং পরমং বেদিতব্যং\nত্বমস্য বিশ্বস্য পরং নিধানম্ |\nত্বমব্যযঃ শাশ্বতধর্মগোপ্তা\nসনাতনস্ত্বং পুরুষো মতো মে ||১১-১৮||",
+        "ka": "ತ್ವಮಕ್ಷರಂ ಪರಮಂ ವೇದಿತವ್ಯಂ\nತ್ವಮಸ್ಯ ವಿಶ್ವಸ್ಯ ಪರಂ ನಿಧಾನಮ್ |\nತ್ವಮವ್ಯಯಃ ಶಾಶ್ವತಧರ್ಮಗೋಪ್ತಾ\nಸನಾತನಸ್ತ್ವಂ ಪುರುಷೋ ಮತೋ ಮೇ ||೧೧-೧೮||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को जानने योग्य अविनाशी सर्वोच्च सत्य, परम आश्रय और धार्मिकता के शाश्वत संरक्षक के रूप में स्वीकार करें।",
+        "en": "Acknowledge God as the imperishable supreme truth to be known, the ultimate refuge, and eternal guardian of righteousness.",
+        "be": "ঈশ্বরকে অবিনশ্বর পরম সত্য, চূড়ান্ত আশ্রয় এবং ধার্মিকতার শাশ্বত অভিভাবক হিসাবে স্বীকার করুন।",
+        "ka": "ದೇವರನ್ನು ತಿಳಿಯಬೇಕಾದ ನಶ್ವರ ಪರಮ ಸತ್ಯ, ಪರಮ ಆಶ್ರಯ ಮತ್ತು ಸದಾಚಾರದ ಶಾಶ್ವತ ರಕ್ಷಕ ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Dharma",
@@ -24,88 +34,258 @@
     "word_meanings": [
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अक्षरम्",
-            "transliteration": "akṣaram",
-            "meaning": "imperishable"
+            "transliteration": {
+                "hi": "अक्षरम्",
+                "en": "akṣaram",
+                "be": "অক্ষরম্",
+                "ka": "ಅಕ್ಷರಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "परमम्",
-            "transliteration": "paramam",
-            "meaning": "the Supreme Being"
+            "transliteration": {
+                "hi": "परमम्",
+                "en": "paramam",
+                "be": "পরমম্",
+                "ka": "ಪರಮಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च प्राणी",
+                "en": "the Supreme Being",
+                "be": "পরম সত্তা",
+                "ka": "ಪರಮಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "वेदितव्यम्",
-            "transliteration": "veditavyam",
-            "meaning": "worthy to be known"
+            "transliteration": {
+                "hi": "वेदितव्यम्",
+                "en": "veditavyam",
+                "be": "বেদিতব্যম্",
+                "ka": "ವೇದಿತವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "जानने योग्य",
+                "en": "worthy to be known",
+                "be": "পরিচিত হওয়ার যোগ্য",
+                "ka": "ತಿಳಿದುಕೊಳ್ಳಲು ಯೋಗ್ಯವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "विश्वस्य",
-            "transliteration": "viśvasya",
-            "meaning": "of universe"
+            "transliteration": {
+                "hi": "विश्वस्य",
+                "en": "viśvasya",
+                "be": "বিশ্বস্য",
+                "ka": "ವಿಶ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "ब्रह्माण्ड का",
+                "en": "of universe",
+                "be": "মহাবিশ্বের",
+                "ka": "ಬ್ರಹ್ಮಾಂಡದ"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "the great"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "महान",
+                "en": "the great",
+                "be": "মহান",
+                "ka": "ಶ್ರೇಷ್ಠ"
+            }
         },
         {
             "sanskrit": "निधानम्",
-            "transliteration": "nidhānam",
-            "meaning": "treasurehouse"
+            "transliteration": {
+                "hi": "निधानम्",
+                "en": "nidhānam",
+                "be": "নিধানম্",
+                "ka": "ನಿಧಾನಮ್"
+            },
+            "meaning": {
+                "hi": "खज़ाना",
+                "en": "treasurehouse",
+                "be": "কোষাগার",
+                "ka": "ನಿಧಿ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अव्ययः",
-            "transliteration": "avyayaḥ",
-            "meaning": "imperishable"
+            "transliteration": {
+                "hi": "अव्ययः",
+                "en": "avyayaḥ",
+                "be": "অব্যযঃ",
+                "ka": "ಅವ್ಯಯಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "imperishable",
+                "be": "অবিনশ্বর",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "शाश्वतधर्मगोप्ता",
-            "transliteration": "śāśvatadharmagoptā",
-            "meaning": "Protector of the Eternal"
+            "transliteration": {
+                "hi": "शाश्वतधर्मगोप्ता",
+                "en": "śāśvatadharmagoptā",
+                "be": "শাশ্বতধর্মগোপ্তা",
+                "ka": "ಶಾಶ್ವತಧರ್ಮಗೋಪ್ತಾ"
+            },
+            "meaning": {
+                "hi": "शाश्वत का रक्षक",
+                "en": "Protector of the Eternal",
+                "be": "অনন্তের রক্ষাকর্তা",
+                "ka": "ಶಾಶ್ವತ ರಕ್ಷಕ"
+            }
         },
         {
             "sanskrit": "सनातनः",
-            "transliteration": "sanātanaḥ",
-            "meaning": "ancient"
+            "transliteration": {
+                "hi": "सनातनः",
+                "en": "sanātanaḥ",
+                "be": "সনাতনঃ",
+                "ka": "ಸನಾತನಃ"
+            },
+            "meaning": {
+                "hi": "प्राचीन",
+                "en": "ancient",
+                "be": "প্রাচীন",
+                "ka": "ಪ್ರಾಚೀನ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "Thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "Thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "मतः",
-            "transliteration": "mataḥ",
-            "meaning": "thought"
+            "transliteration": {
+                "hi": "मतः",
+                "en": "mataḥ",
+                "be": "মতঃ",
+                "ka": "ಮತಃ"
+            },
+            "meaning": {
+                "hi": "सोचा",
+                "en": "thought",
+                "be": "চিন্তা",
+                "ka": "ಯೋಚಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of me."
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा.",
+                "en": "of me.",
+                "be": "আমার",
+                "ka": "ನನ್ನದು."
+            }
         }
     ],
     "tej": {

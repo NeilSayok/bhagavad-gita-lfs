@@ -14,8 +14,18 @@
         "en": "dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ .\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman ||11-20||",
         "ka": "ದ್ಯಾವಾಪೃಥಿವ್ಯೋರಿದಮನ್ತರಂ ಹಿ\nವ್ಯಾಪ್ತಂ ತ್ವಯೈಕೇನ ದಿಶಶ್ಚ ಸರ್ವಾಃ |\nದೃಷ್ಟ್ವಾದ್ಭುತಂ ರೂಪಮುಗ್ರಂ ತವೇದಂ\nಲೋಕತ್ರಯಂ ಪ್ರವ್ಯಥಿತಂ ಮಹಾತ್ಮನ್ ||೧೧-೨೦||"
     },
-    "transliteration": "dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ .\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman ||11-20||",
-    "life_application": "Recognize that space between heaven and earth is pervaded by divine presence, filling all quarters with awe.",
+    "transliteration": {
+        "hi": "द्यावापृथिव्योरिदमन्तरं हि\nव्याप्तं त्वयैकेन दिशश्च सर्वाः |\nदृष्ट्वाद्भुतं रूपमुग्रं तवेदं\nलोकत्रयं प्रव्यथितं महात्मन् ||११-२०||",
+        "en": "dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ .\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman ||11-20||",
+        "be": "দ্যাবাপৃথিব্যোরিদমন্তরং হি\nব্যাপ্তং ত্বযৈকেন দিশশ্চ সর্বাঃ |\nদৃষ্ট্বাদ্ভুতং রূপমুগ্রং তবেদং\nলোকত্রযং প্রব্যথিতং মহাত্মন্ ||১১-২০||",
+        "ka": "ದ್ಯಾವಾಪೃಥಿವ್ಯೋರಿದಮನ್ತರಂ ಹಿ\nವ್ಯಾಪ್ತಂ ತ್ವಯೈಕೇನ ದಿಶಶ್ಚ ಸರ್ವಾಃ |\nದೃಷ್ಟ್ವಾದ್ಭುತಂ ರೂಪಮುಗ್ರಂ ತವೇದಂ\nಲೋಕತ್ರಯಂ ಪ್ರವ್ಯಥಿತಂ ಮಹಾತ್ಮನ್ ||೧೧-೨೦||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि स्वर्ग और पृथ्वी के बीच का स्थान दिव्य उपस्थिति से व्याप्त है, जो सभी पक्षों को विस्मय से भर देता है।",
+        "en": "Recognize that space between heaven and earth is pervaded by divine presence, filling all quarters with awe.",
+        "be": "স্বর্গ এবং পৃথিবীর মধ্যে স্থান স্বর্গীয় উপস্থিতি দ্বারা পরিব্যাপ্ত যে স্বীকৃতি, সমস্ত ত্রৈমাসিক বিস্ময়ে ভরাট.",
+        "ka": "ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ನಡುವಿನ ಅಂತರವು ದೈವಿಕ ಉಪಸ್ಥಿತಿಯಿಂದ ವ್ಯಾಪಿಸಲ್ಪಟ್ಟಿದೆ ಎಂದು ಗುರುತಿಸಿ, ಎಲ್ಲಾ ಭಾಗಗಳನ್ನು ವಿಸ್ಮಯದಿಂದ ತುಂಬುತ್ತದೆ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "द्यावापृथिव्योः",
-            "transliteration": "dyāvāpṛthivyoḥ",
-            "meaning": "of heaven and earth"
+            "transliteration": {
+                "hi": "द्यावापृथिव्योः",
+                "en": "dyāvāpṛthivyoḥ",
+                "be": "দ্যাবাপৃথিব্যোঃ",
+                "ka": "ದ್ಯಾವಾಪೃಥಿವ್ಯೋಃ"
+            },
+            "meaning": {
+                "hi": "स्वर्ग और पृथ्वी का",
+                "en": "of heaven and earth",
+                "be": "স্বর্গ এবং পৃথিবীর",
+                "ka": "ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अन्तरम्",
-            "transliteration": "antaram",
-            "meaning": "interspace"
+            "transliteration": {
+                "hi": "अन्तरम्",
+                "en": "antaram",
+                "be": "অন্তরম্",
+                "ka": "ಅನ್ತರಮ್"
+            },
+            "meaning": {
+                "hi": "अंतर्अंतरिक्ष",
+                "en": "interspace",
+                "be": "ইন্টারস্পেস",
+                "ka": "ಅಂತರಾಳ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "व्याप्तम्",
-            "transliteration": "vyāptam",
-            "meaning": "is filled"
+            "transliteration": {
+                "hi": "व्याप्तम्",
+                "en": "vyāptam",
+                "be": "ব্যাপ্তম্",
+                "ka": "ವ್ಯಾಪ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "भरा हुआ है",
+                "en": "is filled",
+                "be": "ভরা হয়",
+                "ka": "ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "त्वया",
-            "transliteration": "tvayā",
-            "meaning": "by Thee"
+            "transliteration": {
+                "hi": "त्वया",
+                "en": "tvayā",
+                "be": "ত্বযা",
+                "ka": "ತ್ವಯಾ"
+            },
+            "meaning": {
+                "hi": "आपके द्वारा",
+                "en": "by Thee",
+                "be": "তোমার দ্বারা",
+                "ka": "ನಿನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "एकेन",
-            "transliteration": "ekena",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "एकेन",
+                "en": "ekena",
+                "be": "একেন",
+                "ka": "ಏಕೇನ"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "दिशः",
-            "transliteration": "diśaḥ",
-            "meaning": "arters"
+            "transliteration": {
+                "hi": "दिशः",
+                "en": "diśaḥ",
+                "be": "দিশঃ",
+                "ka": "ದಿಶಃ"
+            },
+            "meaning": {
+                "hi": "arters",
+                "en": "arters",
+                "be": "ধমনী",
+                "ka": "ಅಪಧಮನಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वाः",
-            "transliteration": "sarvāḥ",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वाः",
+                "en": "sarvāḥ",
+                "be": "সর্বাঃ",
+                "ka": "ಸರ್ವಾಃ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "अद्भुतम्",
-            "transliteration": "adbhutam",
-            "meaning": "wonderful"
+            "transliteration": {
+                "hi": "अद्भुतम्",
+                "en": "adbhutam",
+                "be": "অদ্ভুতম্",
+                "ka": "ಅದ್ಭುತಮ್"
+            },
+            "meaning": {
+                "hi": "अद्भुत",
+                "en": "wonderful",
+                "be": "বিস্ময়কর",
+                "ka": "ಅದ್ಭುತ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "उग्रम्",
-            "transliteration": "ugram",
-            "meaning": "terrible"
+            "transliteration": {
+                "hi": "उग्रम्",
+                "en": "ugram",
+                "be": "উগ্রম্",
+                "ka": "ಉಗ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "भयानक",
+                "en": "terrible",
+                "be": "ভয়ানক",
+                "ka": "ಭಯಾನಕ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "लोकत्रयम्",
-            "transliteration": "lokatrayam",
-            "meaning": "the three worlds"
+            "transliteration": {
+                "hi": "लोकत्रयम्",
+                "en": "lokatrayam",
+                "be": "লোকত্রযম্",
+                "ka": "ಲೋಕತ್ರಯಮ್"
+            },
+            "meaning": {
+                "hi": "तीन लोक",
+                "en": "the three worlds",
+                "be": "তিনটি বিশ্ব",
+                "ka": "ಮೂರು ಲೋಕಗಳು"
+            }
         },
         {
             "sanskrit": "प्रव्यथितम्",
-            "transliteration": "pravyathitam",
-            "meaning": "are trembling with fear"
+            "transliteration": {
+                "hi": "प्रव्यथितम्",
+                "en": "pravyathitam",
+                "be": "প্রব্যথিতম্",
+                "ka": "ಪ್ರವ್ಯಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "डर से कांप रहे हैं",
+                "en": "are trembling with fear",
+                "be": "ভয়ে কাঁপছে",
+                "ka": "ಭಯದಿಂದ ನಡುಗುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "महात्मन्",
-            "transliteration": "mahātman",
-            "meaning": "O greatsouled Being."
+            "transliteration": {
+                "hi": "महात्मन्",
+                "en": "mahātman",
+                "be": "মহাত্মন্",
+                "ka": "ಮಹಾತ್ಮನ್"
+            },
+            "meaning": {
+                "hi": "हे महान आत्मा!",
+                "en": "O greatsouled Being.",
+                "be": "হে মহাপ্রাণ সত্তা।",
+                "ka": "ಓ ಮಹಾಪ್ರಾಣ."
+            }
         }
     ],
     "tej": {

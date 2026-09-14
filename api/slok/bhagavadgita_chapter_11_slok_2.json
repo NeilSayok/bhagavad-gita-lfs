@@ -14,8 +14,18 @@
         "en": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā .\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam ||11-2||",
         "ka": "ಭವಾಪ್ಯಯೌ ಹಿ ಭೂತಾನಾಂ ಶ್ರುತೌ ವಿಸ್ತರಶೋ ಮಯಾ |\nತ್ವತ್ತಃ ಕಮಲಪತ್ರಾಕ್ಷ ಮಾಹಾತ್ಮ್ಯಮಪಿ ಚಾವ್ಯಯಮ್ ||೧೧-೨||"
     },
-    "transliteration": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā .\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam ||11-2||",
-    "life_application": "Reflect on the cosmic origin and dissolution of all living beings, contemplating the imperishable majesty of God.",
+    "transliteration": {
+        "hi": "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया |\nत्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||",
+        "en": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā .\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam ||11-2||",
+        "be": "ভবাপ্যযৌ হি ভূতানাং শ্রুতৌ বিস্তরশো মযা |\nত্বত্তঃ কমলপত্রাক্ষ মাহাত্ম্যমপি চাব্যযম্ ||১১-২||",
+        "ka": "ಭವಾಪ್ಯಯೌ ಹಿ ಭೂತಾನಾಂ ಶ್ರುತೌ ವಿಸ್ತರಶೋ ಮಯಾ |\nತ್ವತ್ತಃ ಕಮಲಪತ್ರಾಕ್ಷ ಮಾಹಾತ್ಮ್ಯಮಪಿ ಚಾವ್ಯಯಮ್ ||೧೧-೨||"
+    },
+    "life_application": {
+        "hi": "ईश्वर की अविनाशी महिमा का चिंतन करते हुए, सभी जीवित प्राणियों की ब्रह्मांडीय उत्पत्ति और विलय पर विचार करें।",
+        "en": "Reflect on the cosmic origin and dissolution of all living beings, contemplating the imperishable majesty of God.",
+        "be": "ঈশ্বরের অবিনশ্বর মহিমাকে চিন্তা করে সমস্ত জীবের মহাজাগতিক উৎপত্তি এবং বিলুপ্তির প্রতিফলন করুন।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ ಕಾಸ್ಮಿಕ್ ಮೂಲ ಮತ್ತು ವಿಸರ್ಜನೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸಿ, ದೇವರ ನಾಶವಾಗದ ಮಹಿಮೆಯನ್ನು ಆಲೋಚಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "भवाप्ययौ",
-            "transliteration": "bhavāpyayau",
-            "meaning": "the origin and the"
+            "transliteration": {
+                "hi": "भवाप्ययौ",
+                "en": "bhavāpyayau",
+                "be": "ভবাপ্যযৌ",
+                "ka": "ಭವಾಪ್ಯಯೌ"
+            },
+            "meaning": {
+                "hi": "मूल और",
+                "en": "the origin and the",
+                "be": "মূল এবং",
+                "ka": "ಮೂಲ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "भूतानाम्",
-            "transliteration": "bhūtānām",
-            "meaning": "of beings"
+            "transliteration": {
+                "hi": "भूतानाम्",
+                "en": "bhūtānām",
+                "be": "ভূতানাম্",
+                "ka": "ಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "प्राणियों का",
+                "en": "of beings",
+                "be": "প্রাণীদের",
+                "ka": "ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "श्रुतौ",
-            "transliteration": "śrutau",
-            "meaning": "hav been heard"
+            "transliteration": {
+                "hi": "श्रुतौ",
+                "en": "śrutau",
+                "be": "শ্রুতৌ",
+                "ka": "ಶ್ರುತೌ"
+            },
+            "meaning": {
+                "hi": "सुना गया है",
+                "en": "hav been heard",
+                "be": "শোনা হয়েছে",
+                "ka": "ಕೇಳಿ ಬಂದಿದೆ"
+            }
         },
         {
             "sanskrit": "विस्तरशः",
-            "transliteration": "vistaraśaḥ",
-            "meaning": "in detail"
+            "transliteration": {
+                "hi": "विस्तरशः",
+                "en": "vistaraśaḥ",
+                "be": "বিস্তরশঃ",
+                "ka": "ವಿಸ್ತರಶಃ"
+            },
+            "meaning": {
+                "hi": "विस्तार से",
+                "en": "in detail",
+                "be": "বিস্তারিতভাবে",
+                "ka": "ವಿವರವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "त्वत्तः",
-            "transliteration": "tvattaḥ",
-            "meaning": "from Thee"
+            "transliteration": {
+                "hi": "त्वत्तः",
+                "en": "tvattaḥ",
+                "be": "ত্বত্তঃ",
+                "ka": "ತ್ವತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "तुमसे",
+                "en": "from Thee",
+                "be": "তোমার কাছ থেকে",
+                "ka": "ನಿನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "कमलपत्राक्ष",
-            "transliteration": "kamalapatrākṣa",
-            "meaning": "O lotuseyed"
+            "transliteration": {
+                "hi": "कमलपत्राक्ष",
+                "en": "kamalapatrākṣa",
+                "be": "কমলপত্রাক্ষ",
+                "ka": "ಕಮಲಪತ್ರಾಕ್ಷ"
+            },
+            "meaning": {
+                "hi": "हे कमलनयन!",
+                "en": "O lotuseyed",
+                "be": "হে পদ্মবিশিষ্ট",
+                "ka": "ಓ ಕಮಲದ"
+            }
         },
         {
             "sanskrit": "माहात्म्यम्",
-            "transliteration": "māhātmyam",
-            "meaning": "greatness"
+            "transliteration": {
+                "hi": "माहात्म्यम्",
+                "en": "māhātmyam",
+                "be": "মাহাত্ম্যম্",
+                "ka": "ಮಾಹಾತ್ಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "महानता",
+                "en": "greatness",
+                "be": "মহানতা",
+                "ka": "ಹಿರಿಮೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "inexhaustible."
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अक्षय.",
+                "en": "inexhaustible.",
+                "be": "অক্ষয়",
+                "ka": "ಅಕ್ಷಯ."
+            }
         }
     ],
     "tej": {

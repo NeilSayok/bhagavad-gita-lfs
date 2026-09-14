@@ -14,8 +14,18 @@
         "en": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram .\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||11-24||",
         "ka": "ನಭಃಸ್ಪೃಶಂ ದೀಪ್ತಮನೇಕವರ್ಣಂ\nವ್ಯಾತ್ತಾನನಂ ದೀಪ್ತವಿಶಾಲನೇತ್ರಮ್ |\nದೃಷ್ಟ್ವಾ ಹಿ ತ್ವಾಂ ಪ್ರವ್ಯಥಿತಾನ್ತರಾತ್ಮಾ\nಧೃತಿಂ ನ ವಿನ್ದಾಮಿ ಶಮಂ ಚ ವಿಷ್ಣೋ ||೧೧-೨೪||"
     },
-    "transliteration": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram .\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||11-24||",
-    "life_application": "When overwhelmed by cosmic terrifying visions, seek inner calm and ask for divine reassurance and peace.",
+    "transliteration": {
+        "hi": "नभःस्पृशं दीप्तमनेकवर्णं\nव्यात्ताननं दीप्तविशालनेत्रम् |\nदृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा\nधृतिं न विन्दामि शमं च विष्णो ||११-२४||",
+        "en": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram .\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||11-24||",
+        "be": "নভঃস্পৃশং দীপ্তমনেকবর্ণং\nব্যাত্তাননং দীপ্তবিশালনেত্রম্ |\nদৃষ্ট্বা হি ত্বাং প্রব্যথিতান্তরাত্মা\nধৃতিং ন বিন্দামি শমং চ বিষ্ণো ||১১-২৪||",
+        "ka": "ನಭಃಸ್ಪೃಶಂ ದೀಪ್ತಮನೇಕವರ್ಣಂ\nವ್ಯಾತ್ತಾನನಂ ದೀಪ್ತವಿಶಾಲನೇತ್ರಮ್ |\nದೃಷ್ಟ್ವಾ ಹಿ ತ್ವಾಂ ಪ್ರವ್ಯಥಿತಾನ್ತರಾತ್ಮಾ\nಧೃತಿಂ ನ ವಿನ್ದಾಮಿ ಶಮಂ ಚ ವಿಷ್ಣೋ ||೧೧-೨೪||"
+    },
+    "life_application": {
+        "hi": "जब ब्रह्मांडीय भयानक दृश्यों से अभिभूत हों, तो आंतरिक शांति की तलाश करें और दैवीय आश्वासन और शांति मांगें।",
+        "en": "When overwhelmed by cosmic terrifying visions, seek inner calm and ask for divine reassurance and peace.",
+        "be": "মহাজাগতিক ভয়ঙ্কর দর্শন দ্বারা অভিভূত হলে, অভ্যন্তরীণ প্রশান্তি সন্ধান করুন এবং ঐশ্বরিক আশ্বাস এবং শান্তির জন্য জিজ্ঞাসা করুন।",
+        "ka": "ಕಾಸ್ಮಿಕ್ ಭಯಾನಕ ದರ್ಶನಗಳಿಂದ ಮುಳುಗಿದಾಗ, ಆಂತರಿಕ ಶಾಂತತೆಯನ್ನು ಹುಡುಕುವುದು ಮತ್ತು ದೈವಿಕ ಭರವಸೆ ಮತ್ತು ಶಾಂತಿಗಾಗಿ ಕೇಳಿ."
+    },
     "themes": [
         "Fear",
         "Equanimity"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "नभःस्पृशम्",
-            "transliteration": "nabhaḥspṛśam",
-            "meaning": "touching the sky"
+            "transliteration": {
+                "hi": "नभःस्पृशम्",
+                "en": "nabhaḥspṛśam",
+                "be": "নভঃস্পৃশম্",
+                "ka": "ನಭಃಸ್ಪೃಶಮ್"
+            },
+            "meaning": {
+                "hi": "आसमान को छूना",
+                "en": "touching the sky",
+                "be": "আকাশ স্পর্শ",
+                "ka": "ಆಕಾಶವನ್ನು ಮುಟ್ಟುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "दीप्तम्",
-            "transliteration": "dīptam",
-            "meaning": "shining"
+            "transliteration": {
+                "hi": "दीप्तम्",
+                "en": "dīptam",
+                "be": "দীপ্তম্",
+                "ka": "ದೀಪ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "चमक रहा है",
+                "en": "shining",
+                "be": "চকচকে",
+                "ka": "ಹೊಳೆಯುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "अनेकवर्णम्",
-            "transliteration": "anekavarṇam",
-            "meaning": "in many colours"
+            "transliteration": {
+                "hi": "अनेकवर्णम्",
+                "en": "anekavarṇam",
+                "be": "অনেকবর্ণম্",
+                "ka": "ಅನೇಕವರ್ಣಮ್"
+            },
+            "meaning": {
+                "hi": "कई रंगों में",
+                "en": "in many colours",
+                "be": "অনেক রঙে",
+                "ka": "ಅನೇಕ ಬಣ್ಣಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "व्यात्ताननम्",
-            "transliteration": "vyāttānanam",
-            "meaning": "with mouths wide open"
+            "transliteration": {
+                "hi": "व्यात्ताननम्",
+                "en": "vyāttānanam",
+                "be": "ব্যাত্তাননম্",
+                "ka": "ವ್ಯಾತ್ತಾನನಮ್"
+            },
+            "meaning": {
+                "hi": "खुले मुंह के साथ",
+                "en": "with mouths wide open",
+                "be": "মুখ খোলা রেখে",
+                "ka": "ತೆರೆದ ಬಾಯಿಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "दीप्तविशालनेत्रम्",
-            "transliteration": "dīptaviśālanetram",
-            "meaning": "with larve fiery eyes"
+            "transliteration": {
+                "hi": "दीप्तविशालनेत्रम्",
+                "en": "dīptaviśālanetram",
+                "be": "দীপ্তবিশালনেত্রম্",
+                "ka": "ದೀಪ್ತವಿಶಾಲನೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "लार्वा की उग्र आँखों से",
+                "en": "with larve fiery eyes",
+                "be": "লার্ভ জ্বলন্ত চোখ দিয়ে",
+                "ka": "ಲಾರ್ವ್ ಉರಿಯುತ್ತಿರುವ ಕಣ್ಣುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "प्रव्यथितान्तरात्मा",
-            "transliteration": "pravyathitāntarātmā",
-            "meaning": "terrified at heart"
+            "transliteration": {
+                "hi": "प्रव्यथितान्तरात्मा",
+                "en": "pravyathitāntarātmā",
+                "be": "প্রব্যথিতান্তরাত্মা",
+                "ka": "ಪ್ರವ್ಯಥಿತಾನ್ತರಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "दिल से डरा हुआ",
+                "en": "terrified at heart",
+                "be": "অন্তরে আতঙ্কিত",
+                "ka": "ಹೃದಯದಲ್ಲಿ ಭಯಭೀತನಾದ"
+            }
         },
         {
             "sanskrit": "धृतिम्",
-            "transliteration": "dhṛtim",
-            "meaning": "courage"
+            "transliteration": {
+                "hi": "धृतिम्",
+                "en": "dhṛtim",
+                "be": "ধৃতিম্",
+                "ka": "ಧೃತಿಮ್"
+            },
+            "meaning": {
+                "hi": "साहस",
+                "en": "courage",
+                "be": "সাহস",
+                "ka": "ಧೈರ್ಯ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विन्दामि",
-            "transliteration": "vindāmi",
-            "meaning": "find"
+            "transliteration": {
+                "hi": "विन्दामि",
+                "en": "vindāmi",
+                "be": "বিন্দামি",
+                "ka": "ವಿನ್ದಾಮಿ"
+            },
+            "meaning": {
+                "hi": "ढूँढ़ो",
+                "en": "find",
+                "be": "খুঁজুন",
+                "ka": "ಕಂಡುಹಿಡಿಯಿರಿ"
+            }
         },
         {
             "sanskrit": "शमम्",
-            "transliteration": "śamam",
-            "meaning": "peace"
+            "transliteration": {
+                "hi": "शमम्",
+                "en": "śamam",
+                "be": "শমম্",
+                "ka": "ಶಮಮ್"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "peace",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विष्णो",
-            "transliteration": "viṣṇo",
-            "meaning": "O Vishnu."
+            "transliteration": {
+                "hi": "विष्णो",
+                "en": "viṣṇo",
+                "be": "বিষ্ণো",
+                "ka": "ವಿಷ್ಣೋ"
+            },
+            "meaning": {
+                "hi": "हे विष्णु!",
+                "en": "O Vishnu.",
+                "be": "হে বিষ্ণু।",
+                "ka": "ಓ ವಿಷ್ಣು."
+            }
         }
     ],
     "tej": {

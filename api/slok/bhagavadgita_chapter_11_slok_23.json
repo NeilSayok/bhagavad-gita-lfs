@@ -14,8 +14,18 @@
         "en": "rūpaṃ mahatte bahuvaktranetraṃ mahābāho bahubāhūrupādam .\nbahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathāham ||11-23||",
         "ka": "ರೂಪಂ ಮಹತ್ತೇ ಬಹುವಕ್ತ್ರನೇತ್ರಂ\nಮಹಾಬಾಹೋ ಬಹುಬಾಹೂರುಪಾದಮ್ |\nಬಹೂದರಂ ಬಹುದಂಷ್ಟ್ರಾಕರಾಲಂ\nದೃಷ್ಟ್ವಾ ಲೋಕಾಃ ಪ್ರವ್ಯಥಿತಾಸ್ತಥಾಹಮ್ ||೧೧-೨೩||"
     },
-    "transliteration": "rūpaṃ mahatte bahuvaktranetraṃ mahābāho bahubāhūrupādam .\nbahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathāham ||11-23||",
-    "life_application": "Understand how beholding the vast and terrifying aspect of cosmic reality evokes deep awe and tremble.",
+    "transliteration": {
+        "hi": "रूपं महत्ते बहुवक्त्रनेत्रं\nमहाबाहो बहुबाहूरुपादम् |\nबहूदरं बहुदंष्ट्राकरालं\nदृष्ट्वा लोकाः प्रव्यथितास्तथाहम् ||११-२३||",
+        "en": "rūpaṃ mahatte bahuvaktranetraṃ mahābāho bahubāhūrupādam .\nbahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathāham ||11-23||",
+        "be": "রূপং মহত্তে বহুবক্ত্রনেত্রং\nমহাবাহো বহুবাহূরুপাদম্ |\nবহূদরং বহুদংষ্ট্রাকরালং\nদৃষ্ট্বা লোকাঃ প্রব্যথিতাস্তথাহম্ ||১১-২৩||",
+        "ka": "ರೂಪಂ ಮಹತ್ತೇ ಬಹುವಕ್ತ್ರನೇತ್ರಂ\nಮಹಾಬಾಹೋ ಬಹುಬಾಹೂರುಪಾದಮ್ |\nಬಹೂದರಂ ಬಹುದಂಷ್ಟ್ರಾಕರಾಲಂ\nದೃಷ್ಟ್ವಾ ಲೋಕಾಃ ಪ್ರವ್ಯಥಿತಾಸ್ತಥಾಹಮ್ ||೧೧-೨೩||"
+    },
+    "life_application": {
+        "hi": "समझें कि ब्रह्मांडीय वास्तविकता के विशाल और भयानक पहलू को देखने से कितना गहरा विस्मय और कंपकंपी पैदा होती है।",
+        "en": "Understand how beholding the vast and terrifying aspect of cosmic reality evokes deep awe and tremble.",
+        "be": "মহাজাগতিক বাস্তবতার বিশাল এবং ভয়ঙ্কর দিকটি কীভাবে দেখছেন তা গভীর বিস্ময় এবং কাঁপতে পারে তা বুঝুন।",
+        "ka": "ಕಾಸ್ಮಿಕ್ ರಿಯಾಲಿಟಿನ ವಿಶಾಲವಾದ ಮತ್ತು ಭಯಾನಕ ಅಂಶವನ್ನು ನೋಡುವುದು ಹೇಗೆ ಆಳವಾದ ವಿಸ್ಮಯ ಮತ್ತು ನಡುಕವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Fear",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "महत्",
-            "transliteration": "mahat",
-            "meaning": "immeasurable"
+            "transliteration": {
+                "hi": "महत्",
+                "en": "mahat",
+                "be": "মহত্",
+                "ka": "ಮಹತ್"
+            },
+            "meaning": {
+                "hi": "अथाह",
+                "en": "immeasurable",
+                "be": "অপরিমেয়",
+                "ka": "ಅಳೆಯಲಾಗದ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "बहुवक्त्रनेत्रम्",
-            "transliteration": "bahuvaktranetram",
-            "meaning": "with many mouths and"
+            "transliteration": {
+                "hi": "बहुवक्त्रनेत्रम्",
+                "en": "bahuvaktranetram",
+                "be": "বহুবক্ত্রনেত্রম্",
+                "ka": "ಬಹುವಕ್ತ್ರನೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "अनेक मुख वाले और",
+                "en": "with many mouths and",
+                "be": "অনেক মুখ দিয়ে এবং",
+                "ka": "ಅನೇಕ ಬಾಯಿಗಳೊಂದಿಗೆ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "O,mightyarmed"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "हे पराक्रमी!",
+                "en": "O,mightyarmed",
+                "be": "হে, পরাক্রমশালী",
+                "ka": "ಓ, ಪರಾಕ್ರಮಿ"
+            }
         },
         {
             "sanskrit": "बहुबाहूरुपादम्",
-            "transliteration": "bahubāhūrupādam",
-            "meaning": "with many arms"
+            "transliteration": {
+                "hi": "बहुबाहूरुपादम्",
+                "en": "bahubāhūrupādam",
+                "be": "বহুবাহূরুপাদম্",
+                "ka": "ಬಹುಬಾಹೂರುಪಾದಮ್"
+            },
+            "meaning": {
+                "hi": "अनेक भुजाओं वाला",
+                "en": "with many arms",
+                "be": "অনেক অস্ত্র দিয়ে",
+                "ka": "ಅನೇಕ ತೋಳುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "बहूदरम्",
-            "transliteration": "bahūdaram",
-            "meaning": "with many stomachs. बहुदंष्ट्राकरालम्"
+            "transliteration": {
+                "hi": "बहूदरम्",
+                "en": "bahūdaram",
+                "be": "বহূদরম্",
+                "ka": "ಬಹೂದರಮ್"
+            },
+            "meaning": {
+                "hi": "कई पेटों के साथ. बहुदंस्त्रकरालम्",
+                "en": "with many stomachs. बहुदंष्ट्राकरालम्",
+                "be": "অনেক পেট সহ। बहुदंष्ट्राकरालम्",
+                "ka": "ಅನೇಕ ಹೊಟ್ಟೆಗಳೊಂದಿಗೆ. ಬಹುದಂಷ್ಟ್ರಾಕರಾಳಮ್"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "लोकाः",
-            "transliteration": "lokāḥ",
-            "meaning": "the worlds"
+            "transliteration": {
+                "hi": "लोकाः",
+                "en": "lokāḥ",
+                "be": "লোকাঃ",
+                "ka": "ಲೋಕಾಃ"
+            },
+            "meaning": {
+                "hi": "संसार",
+                "en": "the worlds",
+                "be": "বিশ্বের",
+                "ka": "ಪ್ರಪಂಚಗಳು"
+            }
         },
         {
             "sanskrit": "प्रव्यथिताः",
-            "transliteration": "pravyathitāḥ",
-            "meaning": "are terrified"
+            "transliteration": {
+                "hi": "प्रव्यथिताः",
+                "en": "pravyathitāḥ",
+                "be": "প্রব্যথিতাঃ",
+                "ka": "ಪ್ರವ್ಯಥಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "भयभीत हैं",
+                "en": "are terrified",
+                "be": "আতঙ্কিত",
+                "ka": "ಭಯಭೀತರಾಗಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I."
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं.",
+                "en": "I.",
+                "be": "আমি",
+                "ka": "I."
+            }
         }
     ],
     "tej": {

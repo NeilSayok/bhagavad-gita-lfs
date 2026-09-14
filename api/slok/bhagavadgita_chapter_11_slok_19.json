@@ -14,8 +14,18 @@
         "en": "anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .\npaśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||",
         "ka": "ಅನಾದಿಮಧ್ಯಾನ್ತಮನನ್ತವೀರ್ಯ-\nಮನನ್ತಬಾಹುಂ ಶಶಿಸೂರ್ಯನೇತ್ರಮ್ |\nಪಶ್ಯಾಮಿ ತ್ವಾಂ ದೀಪ್ತಹುತಾಶವಕ್ತ್ರಂ\nಸ್ವತೇಜಸಾ ವಿಶ್ವಮಿದಂ ತಪನ್ತಮ್ ||೧೧-೧೯||"
     },
-    "transliteration": "anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .\npaśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||",
-    "life_application": "Perceive the infinite power without beginning, middle, or end, with sun and moon as eyes and blazing fire.",
+    "transliteration": {
+        "hi": "अनादिमध्यान्तमनन्तवीर्य-\nमनन्तबाहुं शशिसूर्यनेत्रम् |\nपश्यामि त्वां दीप्तहुताशवक्त्रं\nस्वतेजसा विश्वमिदं तपन्तम् ||११-१९||",
+        "en": "anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .\npaśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||",
+        "be": "অনাদিমধ্যান্তমনন্তবীর্য-\nমনন্তবাহুং শশিসূর্যনেত্রম্ |\nপশ্যামি ত্বাং দীপ্তহুতাশবক্ত্রং\nস্বতেজসা বিশ্বমিদং তপন্তম্ ||১১-১৯||",
+        "ka": "ಅನಾದಿಮಧ್ಯಾನ್ತಮನನ್ತವೀರ್ಯ-\nಮನನ್ತಬಾಹುಂ ಶಶಿಸೂರ್ಯನೇತ್ರಮ್ |\nಪಶ್ಯಾಮಿ ತ್ವಾಂ ದೀಪ್ತಹುತಾಶವಕ್ತ್ರಂ\nಸ್ವತೇಜಸಾ ವಿಶ್ವಮಿದಂ ತಪನ್ತಮ್ ||೧೧-೧೯||"
+    },
+    "life_application": {
+        "hi": "सूर्य और चन्द्रमा की आँखों और धधकती अग्नि के साथ, आदि, मध्य या अंत से रहित अनंत शक्ति को समझो।",
+        "en": "Perceive the infinite power without beginning, middle, or end, with sun and moon as eyes and blazing fire.",
+        "be": "সূর্য ও চন্দ্র চোখ এবং জ্বলন্ত আগুনের সাথে শুরু, মধ্য বা শেষ ছাড়াই অসীম শক্তিকে উপলব্ধি করুন।",
+        "ka": "ಸೂರ್ಯ ಮತ್ತು ಚಂದ್ರರನ್ನು ಕಣ್ಣುಗಳಾಗಿ ಮತ್ತು ಜ್ವಲಿಸುವ ಬೆಂಕಿಯೊಂದಿಗೆ ಆದಿ, ಮಧ್ಯ ಅಥವಾ ಅಂತ್ಯವಿಲ್ಲದೆ ಅನಂತ ಶಕ್ತಿಯನ್ನು ಗ್ರಹಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अनादिमध्यान्तम्",
-            "transliteration": "anādimadhyāntam",
-            "meaning": "without beginning"
+            "transliteration": {
+                "hi": "अनादिमध्यान्तम्",
+                "en": "anādimadhyāntam",
+                "be": "অনাদিমধ্যান্তম্",
+                "ka": "ಅನಾದಿಮಧ್ಯಾನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "बिना शुरुआत के",
+                "en": "without beginning",
+                "be": "শুরু ছাড়া",
+                "ka": "ಆರಂಭವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "अनन्तवीर्यम्",
-            "transliteration": "anantavīryam",
-            "meaning": "infinite in power"
+            "transliteration": {
+                "hi": "अनन्तवीर्यम्",
+                "en": "anantavīryam",
+                "be": "অনন্তবীর্যম্",
+                "ka": "ಅನನ್ತವೀರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "शक्ति में अनंत",
+                "en": "infinite in power",
+                "be": "ক্ষমতা অসীম",
+                "ka": "ಶಕ್ತಿಯಲ್ಲಿ ಅನಂತ"
+            }
         },
         {
             "sanskrit": "अनन्तबाहुम्",
-            "transliteration": "anantabāhum",
-            "meaning": "of endless arms"
+            "transliteration": {
+                "hi": "अनन्तबाहुम्",
+                "en": "anantabāhum",
+                "be": "অনন্তবাহুম্",
+                "ka": "ಅನನ್ತಬಾಹುಮ್"
+            },
+            "meaning": {
+                "hi": "अनंत भुजाओं का",
+                "en": "of endless arms",
+                "be": "অফুরন্ত অস্ত্র",
+                "ka": "ಅಂತ್ಯವಿಲ್ಲದ ತೋಳುಗಳ"
+            }
         },
         {
             "sanskrit": "शशिसूर्यनेत्रम्",
-            "transliteration": "śaśisūryanetram",
-            "meaning": "Thy eyes as the"
+            "transliteration": {
+                "hi": "शशिसूर्यनेत्रम्",
+                "en": "śaśisūryanetram",
+                "be": "শশিসূর্যনেত্রম্",
+                "ka": "ಶಶಿಸೂರ್ಯನೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "तेरी आँखें जैसे",
+                "en": "Thy eyes as the",
+                "be": "যেমন তোমার চোখ",
+                "ka": "ಹಾಗೆ ನಿನ್ನ ಕಣ್ಣುಗಳು"
+            }
         },
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "दीप्तहुताशवक्त्रम्",
-            "transliteration": "dīptahutāśavaktram",
-            "meaning": "Thy mouth as the"
+            "transliteration": {
+                "hi": "दीप्तहुताशवक्त्रम्",
+                "en": "dīptahutāśavaktram",
+                "be": "দীপ্তহুতাশবক্ত্রম্",
+                "ka": "ದೀಪ್ತಹುತಾಶವಕ್ತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "तेरा मुँह जैसा",
+                "en": "Thy mouth as the",
+                "be": "আপনার মুখ হিসাবে",
+                "ka": "ಹಾಗೆ ನಿನ್ನ ಬಾಯಿ"
+            }
         },
         {
             "sanskrit": "स्वतेजसा",
-            "transliteration": "svatejasā",
-            "meaning": "with Thy radiance"
+            "transliteration": {
+                "hi": "स्वतेजसा",
+                "en": "svatejasā",
+                "be": "স্বতেজসা",
+                "ka": "ಸ್ವತೇಜಸಾ"
+            },
+            "meaning": {
+                "hi": "तेरी चमक के साथ",
+                "en": "with Thy radiance",
+                "be": "তোমার দীপ্তি দিয়ে",
+                "ka": "ನಿನ್ನ ಪ್ರಕಾಶದಿಂದ"
+            }
         },
         {
             "sanskrit": "विश्वम्",
-            "transliteration": "viśvam",
-            "meaning": "the universe"
+            "transliteration": {
+                "hi": "विश्वम्",
+                "en": "viśvam",
+                "be": "বিশ্বম্",
+                "ka": "ವಿಶ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्माण्ड",
+                "en": "the universe",
+                "be": "মহাবিশ্ব",
+                "ka": "ಬ್ರಹ್ಮಾಂಡ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "तपन्तम्",
-            "transliteration": "tapantam",
-            "meaning": "heating."
+            "transliteration": {
+                "hi": "तपन्तम्",
+                "en": "tapantam",
+                "be": "তপন্তম্",
+                "ka": "ತಪನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "गरम करना।",
+                "en": "heating.",
+                "be": "গরম করা",
+                "ka": "ಬಿಸಿಮಾಡುವುದು."
+            }
         }
     ],
     "tej": {

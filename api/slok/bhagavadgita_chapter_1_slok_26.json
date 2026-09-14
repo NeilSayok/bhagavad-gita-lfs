@@ -14,8 +14,18 @@
         "en": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||",
         "ka": "ತತ್ರಾಪಶ್ಯತ್ಸ್ಥಿತಾನ್ಪಾರ್ಥಃ ಪಿತೄನಥ ಪಿತಾಮಹಾನ್ |\nಆಚಾರ್ಯಾನ್ಮಾತುಲಾನ್ಭ್ರಾತೄನ್ಪುತ್ರಾನ್ಪೌತ್ರಾನ್ಸಖೀಂಸ್ತಥಾ ||೧-೨೬||"
     },
-    "transliteration": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||",
-    "life_application": "Notice how personal relationships and personal ties can complicate your sense of duty during difficult dilemmas.",
+    "transliteration": {
+        "hi": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||",
+        "en": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||",
+        "be": "তত্রাপশ্যত্স্থিতান্পার্থঃ পিতৄনথ পিতামহান্ |\nআচার্যান্মাতুলান্ভ্রাতৄন্পুত্রান্পৌত্রান্সখীংস্তথা ||১-২৬||",
+        "ka": "ತತ್ರಾಪಶ್ಯತ್ಸ್ಥಿತಾನ್ಪಾರ್ಥಃ ಪಿತೄನಥ ಪಿತಾಮಹಾನ್ |\nಆಚಾರ್ಯಾನ್ಮಾತುಲಾನ್ಭ್ರಾತೄನ್ಪುತ್ರಾನ್ಪೌತ್ರಾನ್ಸಖೀಂಸ್ತಥಾ ||೧-೨೬||"
+    },
+    "life_application": {
+        "hi": "ध्यान दें कि कठिन दुविधाओं के दौरान व्यक्तिगत रिश्ते और व्यक्तिगत संबंध आपके कर्तव्य की भावना को कैसे जटिल बना सकते हैं।",
+        "en": "Notice how personal relationships and personal ties can complicate your sense of duty during difficult dilemmas.",
+        "be": "লক্ষ্য করুন কিভাবে ব্যক্তিগত সম্পর্ক এবং ব্যক্তিগত বন্ধন কঠিন সমস্যায় আপনার দায়িত্ববোধকে জটিল করে তুলতে পারে।",
+        "ka": "ವೈಯಕ್ತಿಕ ಸಂಬಂಧಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಸಂಬಂಧಗಳು ಕಷ್ಟಕರವಾದ ಇಕ್ಕಟ್ಟುಗಳ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಕರ್ತವ್ಯ ಪ್ರಜ್ಞೆಯನ್ನು ಹೇಗೆ ಸಂಕೀರ್ಣಗೊಳಿಸಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸಿ."
+    },
     "themes": [
         "Attachment",
         "Duty"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "there"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "there",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपश्यत्",
-            "transliteration": "apaśyat",
-            "meaning": "saw"
+            "transliteration": {
+                "hi": "अपश्यत्",
+                "en": "apaśyat",
+                "be": "অপশ্যত্",
+                "ka": "ಅಪಶ್ಯತ್"
+            },
+            "meaning": {
+                "hi": "देखा",
+                "en": "saw",
+                "be": "দেখেছি",
+                "ka": "ಕಂಡಿತು"
+            }
         },
         {
             "sanskrit": "स्थितान्",
-            "transliteration": "sthitān",
-            "meaning": "standing"
+            "transliteration": {
+                "hi": "स्थितान्",
+                "en": "sthitān",
+                "be": "স্থিতান্",
+                "ka": "ಸ್ಥಿತಾನ್"
+            },
+            "meaning": {
+                "hi": "खड़ा है",
+                "en": "standing",
+                "be": "দাঁড়ানো",
+                "ka": "ನಿಂತಿರುವ"
+            }
         },
         {
             "sanskrit": "पार्थः",
-            "transliteration": "pārthaḥ",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "पार्थः",
+                "en": "pārthaḥ",
+                "be": "পার্থঃ",
+                "ka": "ಪಾರ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "पितॄन्",
-            "transliteration": "pitṝn",
-            "meaning": "paternal uncles"
+            "transliteration": {
+                "hi": "पितॄन्",
+                "en": "pitṝn",
+                "be": "পিতৄন্",
+                "ka": "ಪಿತೄನ್"
+            },
+            "meaning": {
+                "hi": "चाचा",
+                "en": "paternal uncles",
+                "be": "মামারা",
+                "ka": "ತಂದೆಯ ಚಿಕ್ಕಪ್ಪಂದಿರು"
+            }
         },
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "पितामहान्",
-            "transliteration": "pitāmahān",
-            "meaning": "grandfathers"
+            "transliteration": {
+                "hi": "पितामहान्",
+                "en": "pitāmahān",
+                "be": "পিতামহান্",
+                "ka": "ಪಿತಾಮಹಾನ್"
+            },
+            "meaning": {
+                "hi": "दादा",
+                "en": "grandfathers",
+                "be": "দাদা",
+                "ka": "ಅಜ್ಜಂದಿರು"
+            }
         },
         {
             "sanskrit": "आचार्यान्",
-            "transliteration": "ācāryān",
-            "meaning": "teachers"
+            "transliteration": {
+                "hi": "आचार्यान्",
+                "en": "ācāryān",
+                "be": "আচার্যান্",
+                "ka": "ಆಚಾರ್ಯಾನ್"
+            },
+            "meaning": {
+                "hi": "शिक्षक",
+                "en": "teachers",
+                "be": "শিক্ষক",
+                "ka": "ಶಿಕ್ಷಕರು"
+            }
         },
         {
             "sanskrit": "मातुलान्",
-            "transliteration": "mātulān",
-            "meaning": "maternal uncles"
+            "transliteration": {
+                "hi": "मातुलान्",
+                "en": "mātulān",
+                "be": "মাতুলান্",
+                "ka": "ಮಾತುಲಾನ್"
+            },
+            "meaning": {
+                "hi": "मामा",
+                "en": "maternal uncles",
+                "be": "মামারা",
+                "ka": "ತಾಯಿಯ ಚಿಕ್ಕಪ್ಪ"
+            }
         },
         {
             "sanskrit": "भ्रातॄन्",
-            "transliteration": "bhrātṝn",
-            "meaning": "brothers"
+            "transliteration": {
+                "hi": "भ्रातॄन्",
+                "en": "bhrātṝn",
+                "be": "ভ্রাতৄন্",
+                "ka": "ಭ್ರಾತೄನ್"
+            },
+            "meaning": {
+                "hi": "भाइयों",
+                "en": "brothers",
+                "be": "ভাইদের",
+                "ka": "ಸಹೋದರರು"
+            }
         },
         {
             "sanskrit": "पुत्रान्",
-            "transliteration": "putrān",
-            "meaning": "sons"
+            "transliteration": {
+                "hi": "पुत्रान्",
+                "en": "putrān",
+                "be": "পুত্রান্",
+                "ka": "ಪುತ್ರಾನ್"
+            },
+            "meaning": {
+                "hi": "बेटे",
+                "en": "sons",
+                "be": "ছেলেদের",
+                "ka": "ಪುತ್ರರು"
+            }
         },
         {
             "sanskrit": "पौत्रान्",
-            "transliteration": "pautrān",
-            "meaning": "grandsons"
+            "transliteration": {
+                "hi": "पौत्रान्",
+                "en": "pautrān",
+                "be": "পৌত্রান্",
+                "ka": "ಪೌತ್ರಾನ್"
+            },
+            "meaning": {
+                "hi": "पोते",
+                "en": "grandsons",
+                "be": "নাতি",
+                "ka": "ಮೊಮ್ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "सखीन्",
-            "transliteration": "sakhīn",
-            "meaning": "friends"
+            "transliteration": {
+                "hi": "सखीन्",
+                "en": "sakhīn",
+                "be": "সখীন্",
+                "ka": "ಸಖೀನ್"
+            },
+            "meaning": {
+                "hi": "दोस्तों",
+                "en": "friends",
+                "be": "বন্ধুরা",
+                "ka": "ಸ್ನೇಹಿತರು"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "as well as"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "साथ ही साथ",
+                "en": "as well as",
+                "be": "সেইসাথে",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         }
     ],
     "tej": {

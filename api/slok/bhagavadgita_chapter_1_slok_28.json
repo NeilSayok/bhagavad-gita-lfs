@@ -14,8 +14,18 @@
         "en": "kṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||",
         "ka": "ಕೃಪಯಾ ಪರಯಾವಿಷ್ಟೋ ವಿಷೀದನ್ನಿದಮಬ್ರವೀತ್ |\nಅರ್ಜುನ ಉವಾಚ |\nದೃಷ್ಟ್ವೇಮಂ ಸ್ವಜನಂ ಕೃಷ್ಣ ಯುಯುತ್ಸುಂ ಸಮುಪಸ್ಥಿತಮ್ ||೧-೨೮||"
     },
-    "transliteration": "kṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||",
-    "life_application": "Recognize physical signs of stress or anxiety in your body, and take time to restore inner balance.",
+    "transliteration": {
+        "hi": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् |\nअर्जुन उवाच |\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||",
+        "en": "kṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||",
+        "be": "কৃপযা পরযাবিষ্টো বিষীদন্নিদমব্রবীত্ |\nঅর্জুন উবাচ |\nদৃষ্ট্বেমং স্বজনং কৃষ্ণ যুযুত্সুং সমুপস্থিতম্ ||১-২৮||",
+        "ka": "ಕೃಪಯಾ ಪರಯಾವಿಷ್ಟೋ ವಿಷೀದನ್ನಿದಮಬ್ರವೀತ್ |\nಅರ್ಜುನ ಉವಾಚ |\nದೃಷ್ಟ್ವೇಮಂ ಸ್ವಜನಂ ಕೃಷ್ಣ ಯುಯುತ್ಸುಂ ಸಮುಪಸ್ಥಿತಮ್ ||೧-೨೮||"
+    },
+    "life_application": {
+        "hi": "अपने शरीर में तनाव या चिंता के शारीरिक लक्षणों को पहचानें और आंतरिक संतुलन बहाल करने के लिए समय निकालें।",
+        "en": "Recognize physical signs of stress or anxiety in your body, and take time to restore inner balance.",
+        "be": "আপনার শরীরের মানসিক চাপ বা উদ্বেগের শারীরিক লক্ষণগুলি চিনুন এবং অভ্যন্তরীণ ভারসাম্য পুনরুদ্ধার করতে সময় নিন।",
+        "ka": "ನಿಮ್ಮ ದೇಹದಲ್ಲಿ ಒತ್ತಡ ಅಥವಾ ಆತಂಕದ ದೈಹಿಕ ಚಿಹ್ನೆಗಳನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಆಂತರಿಕ ಸಮತೋಲನವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Fear",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "कृपया",
-            "transliteration": "kṛpayā",
-            "meaning": "with compassion"
+            "transliteration": {
+                "hi": "कृपया",
+                "en": "kṛpayā",
+                "be": "কৃপযা",
+                "ka": "ಕೃಪಯಾ"
+            },
+            "meaning": {
+                "hi": "करुणा के साथ",
+                "en": "with compassion",
+                "be": "সহানুভূতি সহ",
+                "ka": "ಸಹಾನುಭೂತಿಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "परया",
-            "transliteration": "parayā",
-            "meaning": "deep"
+            "transliteration": {
+                "hi": "परया",
+                "en": "parayā",
+                "be": "পরযা",
+                "ka": "ಪರಯಾ"
+            },
+            "meaning": {
+                "hi": "गहरा",
+                "en": "deep",
+                "be": "গভীর",
+                "ka": "ಆಳವಾದ"
+            }
         },
         {
             "sanskrit": "आविष्टः",
-            "transliteration": "āviṣṭaḥ",
-            "meaning": "overcome"
+            "transliteration": {
+                "hi": "आविष्टः",
+                "en": "āviṣṭaḥ",
+                "be": "আবিষ্টঃ",
+                "ka": "ಆವಿಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "काबू पाना",
+                "en": "overcome",
+                "be": "পরাস্ত",
+                "ka": "ಜಯಿಸಲು"
+            }
         },
         {
             "sanskrit": "विषीदन्",
-            "transliteration": "viṣīdan",
-            "meaning": "grieving"
+            "transliteration": {
+                "hi": "विषीदन्",
+                "en": "viṣīdan",
+                "be": "বিষীদন্",
+                "ka": "ವಿಷೀದನ್"
+            },
+            "meaning": {
+                "hi": "शोक मनाना",
+                "en": "grieving",
+                "be": "দুঃখজনক",
+                "ka": "ದುಃಖಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अब्रवीत्",
-            "transliteration": "abravīt",
-            "meaning": "spoke"
+            "transliteration": {
+                "hi": "अब्रवीत्",
+                "en": "abravīt",
+                "be": "অব্রবীত্",
+                "ka": "ಅಬ್ರವೀತ್"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoke",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "अर्जुनः उवाच",
-            "transliteration": "arjunaḥ uvāca",
-            "meaning": "Arjuna said"
+            "transliteration": {
+                "hi": "अर्जुनः उवाच",
+                "en": "arjunaḥ uvāca",
+                "be": "অর্জুনঃ উবাচ",
+                "ka": "ಅರ್ಜುನಃ ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "अर्जुन ने कहा",
+                "en": "Arjuna said",
+                "be": "বললেন অর্জুন",
+                "ka": "ಅರ್ಜುನ ಹೇಳಿದರು"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "seeing"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "seeing",
+                "be": "দেখা",
+                "ka": "ನೋಡುತ್ತಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "स्वजनम्",
-            "transliteration": "svajanam",
-            "meaning": "own kinsmen"
+            "transliteration": {
+                "hi": "स्वजनम्",
+                "en": "svajanam",
+                "be": "স্বজনম্",
+                "ka": "ಸ್ವಜನಮ್"
+            },
+            "meaning": {
+                "hi": "अपने ही रिश्तेदार",
+                "en": "own kinsmen",
+                "be": "নিজের আত্মীয়স্বজন",
+                "ka": "ಸ್ವಂತ ಬಂಧುಗಳು"
+            }
         },
         {
             "sanskrit": "कृष्ण",
-            "transliteration": "kṛṣṇa",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "युयुत्सुम्",
-            "transliteration": "yuyutsuṁ",
-            "meaning": "eager for battle"
+            "transliteration": {
+                "hi": "युयुत्सुम्",
+                "en": "yuyutsuṁ",
+                "be": "যুযুত্সুম্",
+                "ka": "ಯುಯುತ್ಸುಮ್"
+            },
+            "meaning": {
+                "hi": "युद्ध के लिए उत्सुक",
+                "en": "eager for battle",
+                "be": "যুদ্ধের জন্য আগ্রহী",
+                "ka": "ಯುದ್ಧಕ್ಕೆ ಉತ್ಸುಕನಾಗಿದ್ದಾನೆ"
+            }
         },
         {
             "sanskrit": "समुपस्थितम्",
-            "transliteration": "samupasthitam",
-            "meaning": "present here"
+            "transliteration": {
+                "hi": "समुपस्थितम्",
+                "en": "samupasthitam",
+                "be": "সমুপস্থিতম্",
+                "ka": "ಸಮುಪಸ್ಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "यहां मौजूद हैं",
+                "en": "present here",
+                "be": "এখানে উপস্থিত",
+                "ka": "ಇಲ್ಲಿ ಪ್ರಸ್ತುತ"
+            }
         }
     ],
     "tej": {

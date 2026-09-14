@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ||1-24||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತೋ ಹೃಷೀಕೇಶೋ ಗುಡಾಕೇಶೇನ ಭಾರತ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ಸ್ಥಾಪಯಿತ್ವಾ ರಥೋತ್ತಮಮ್ ||೧-೨೪||"
     },
-    "transliteration": "sañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ||1-24||",
-    "life_application": "Seek a neutral mental vantage point from which you can observe emotional storms without being swept away.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत |\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||",
+        "en": "sañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ||1-24||",
+        "be": "সঞ্জয উবাচ |\nএবমুক্তো হৃষীকেশো গুডাকেশেন ভারত |\nসেনযোরুভযোর্মধ্যে স্থাপযিত্বা রথোত্তমম্ ||১-২৪||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತೋ ಹೃಷೀಕೇಶೋ ಗುಡಾಕೇಶೇನ ಭಾರತ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ಸ್ಥಾಪಯಿತ್ವಾ ರಥೋತ್ತಮಮ್ ||೧-೨೪||"
+    },
+    "life_application": {
+        "hi": "एक तटस्थ मानसिक सुविधाजनक बिंदु की तलाश करें जहां से आप भावनात्मक तूफानों को बिना बहे देख सकें।",
+        "en": "Seek a neutral mental vantage point from which you can observe emotional storms without being swept away.",
+        "be": "একটি নিরপেক্ষ মানসিক সুবিধার বিন্দু সন্ধান করুন যেখান থেকে আপনি প্রবাহিত না হয়ে মানসিক ঝড় পর্যবেক্ষণ করতে পারেন।",
+        "ka": "ಭಾವನಾತ್ಮಕ ಬಿರುಗಾಳಿಗಳನ್ನು ಗುಡಿಸದೆಯೇ ನೀವು ವೀಕ್ಷಿಸಬಹುದಾದ ತಟಸ್ಥ ಮಾನಸಿಕ ಅನುಕೂಲತೆಯ ಬಿಂದುವನ್ನು ಹುಡುಕಿ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सञ्जयः उवाच",
-            "transliteration": "sañjayaḥ uvāca",
-            "meaning": "Sanjaya said"
+            "transliteration": {
+                "hi": "सञ्जयः उवाच",
+                "en": "sañjayaḥ uvāca",
+                "be": "সঞ্জযঃ উবাচ",
+                "ka": "ಸಞ್ಜಯಃ ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "संजय ने कहा",
+                "en": "Sanjaya said",
+                "be": "সঞ্জয় বলল",
+                "ka": "ಸಂಜಯ ಹೇಳಿದರು"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उक्तः",
-            "transliteration": "uktaḥ",
-            "meaning": "addressed"
+            "transliteration": {
+                "hi": "उक्तः",
+                "en": "uktaḥ",
+                "be": "উক্তঃ",
+                "ka": "ಉಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "संबोधित",
+                "en": "addressed",
+                "be": "সম্বোধন",
+                "ka": "ಸಂಬೋಧಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "हृषीकेशः",
-            "transliteration": "hṛṣīkeśaḥ",
-            "meaning": "Krishna"
+            "transliteration": {
+                "hi": "हृषीकेशः",
+                "en": "hṛṣīkeśaḥ",
+                "be": "হৃষীকেশঃ",
+                "ka": "ಹೃಷೀಕೇಶಃ"
+            },
+            "meaning": {
+                "hi": "कृष्ण",
+                "en": "Krishna",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            }
         },
         {
             "sanskrit": "गुडाकेशेन",
-            "transliteration": "guḍākeśena",
-            "meaning": "by Arjuna"
+            "transliteration": {
+                "hi": "गुडाकेशेन",
+                "en": "guḍākeśena",
+                "be": "গুডাকেশেন",
+                "ka": "ಗುಡಾಕೇಶೇನ"
+            },
+            "meaning": {
+                "hi": "अर्जुन द्वारा",
+                "en": "by Arjuna",
+                "be": "অর্জুনের দ্বারা",
+                "ka": "ಅರ್ಜುನನಿಂದ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Dhritarashtra"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे धृतराष्ट्र!",
+                "en": "O Dhritarashtra",
+                "be": "হে ধৃতরাষ্ট্র",
+                "ka": "ಓ ಧೃತರಾಷ್ಟ್ರ"
+            }
         },
         {
             "sanskrit": "सेनयोः",
-            "transliteration": "senayoḥ",
-            "meaning": "of armies"
+            "transliteration": {
+                "hi": "सेनयोः",
+                "en": "senayoḥ",
+                "be": "সেনযোঃ",
+                "ka": "ಸೇನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सेनाओं का",
+                "en": "of armies",
+                "be": "সেনাবাহিনীর",
+                "ka": "ಸೇನೆಗಳ"
+            }
         },
         {
             "sanskrit": "उभयोः",
-            "transliteration": "ubhayoḥ",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभयोः",
+                "en": "ubhayoḥ",
+                "be": "উভযোঃ",
+                "ka": "ಉಭಯೋಃ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "मध्ये",
-            "transliteration": "madhye",
-            "meaning": "in middle"
+            "transliteration": {
+                "hi": "मध्ये",
+                "en": "madhye",
+                "be": "মধ্যে",
+                "ka": "ಮಧ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "बीच में",
+                "en": "in middle",
+                "be": "মাঝখানে",
+                "ka": "ಮಧ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "स्थापयित्वा",
-            "transliteration": "sthāpayitvā",
-            "meaning": "having stationed"
+            "transliteration": {
+                "hi": "स्थापयित्वा",
+                "en": "sthāpayitvā",
+                "be": "স্থাপযিত্বা",
+                "ka": "ಸ್ಥಾಪಯಿತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "तैनात होना",
+                "en": "having stationed",
+                "be": "স্থাপন করা হয়েছে",
+                "ka": "ಠಿಕಾಣಿ ಹೂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "रथोत्तमम्",
-            "transliteration": "rathottamam",
-            "meaning": "excellent chariot"
+            "transliteration": {
+                "hi": "रथोत्तमम्",
+                "en": "rathottamam",
+                "be": "রথোত্তমম্",
+                "ka": "ರಥೋತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "उत्कृष्ट रथ",
+                "en": "excellent chariot",
+                "be": "চমৎকার রথ",
+                "ka": "ಅತ್ಯುತ್ತಮ ರಥ"
+            }
         }
     ],
     "tej": {

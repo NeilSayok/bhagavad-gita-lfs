@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nದೃಷ್ಟ್ವಾ ತು ಪಾಣ್ಡವಾನೀಕಂ ವ್ಯೂಢಂ ದುರ್ಯೋಧನಸ್ತದಾ |\nಆಚಾರ್ಯಮುಪಸಂಗಮ್ಯ ರಾಜಾ ವಚನಮಬ್ರವೀತ್ ||೧-೨||"
     },
-    "transliteration": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||",
-    "life_application": "When facing a challenging situation today, approach your mentors with respect and address difficulties with calm composure.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||",
+        "en": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||",
+        "be": "সঞ্জয উবাচ |\nদৃষ্ট্বা তু পাণ্ডবানীকং ব্যূঢং দুর্যোধনস্তদা |\nআচার্যমুপসংগম্য রাজা বচনমব্রবীত্ ||১-২||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nದೃಷ್ಟ್ವಾ ತು ಪಾಣ್ಡವಾನೀಕಂ ವ್ಯೂಢಂ ದುರ್ಯೋಧನಸ್ತದಾ |\nಆಚಾರ್ಯಮುಪಸಂಗಮ್ಯ ರಾಜಾ ವಚನಮಬ್ರವೀತ್ ||೧-೨||"
+    },
+    "life_application": {
+        "hi": "आज किसी चुनौतीपूर्ण स्थिति का सामना करते समय, अपने आकाओं से सम्मान के साथ संपर्क करें और शांत धैर्य के साथ कठिनाइयों का समाधान करें।",
+        "en": "When facing a challenging situation today, approach your mentors with respect and address difficulties with calm composure.",
+        "be": "আজ যখন একটি চ্যালেঞ্জিং পরিস্থিতির সম্মুখীন হচ্ছেন, তখন সম্মানের সাথে আপনার পরামর্শদাতাদের সাথে যোগাযোগ করুন এবং শান্ত সহনশীলতার সাথে সমস্যার সমাধান করুন।",
+        "ka": "ಇಂದು ಸವಾಲಿನ ಪರಿಸ್ಥಿತಿಯನ್ನು ಎದುರಿಸುತ್ತಿರುವಾಗ, ನಿಮ್ಮ ಮಾರ್ಗದರ್ಶಕರನ್ನು ಗೌರವದಿಂದ ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ತೊಂದರೆಗಳನ್ನು ಶಾಂತವಾಗಿ ಸಂಯಮದಿಂದ ಪರಿಹರಿಸಿ."
+    },
     "themes": [
         "Leadership",
         "Duty"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सञ्जयः उवाच",
-            "transliteration": "sañjayaḥ uvāca",
-            "meaning": "Sanjaya said"
+            "transliteration": {
+                "hi": "सञ्जयः उवाच",
+                "en": "sañjayaḥ uvāca",
+                "be": "সঞ্জযঃ উবাচ",
+                "ka": "ಸಞ್ಜಯಃ ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "संजय ने कहा",
+                "en": "Sanjaya said",
+                "be": "সঞ্জয় বলল",
+                "ka": "ಸಂಜಯ ಹೇಳಿದರು"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "पाण्डवानीकम्",
-            "transliteration": "pāṇḍavānīkam",
-            "meaning": "the Pandava army"
+            "transliteration": {
+                "hi": "पाण्डवानीकम्",
+                "en": "pāṇḍavānīkam",
+                "be": "পাণ্ডবানীকম্",
+                "ka": "ಪಾಣ್ಡವಾನೀಕಮ್"
+            },
+            "meaning": {
+                "hi": "पांडव सेना",
+                "en": "the Pandava army",
+                "be": "পান্ডব বাহিনী",
+                "ka": "ಪಾಂಡವರ ಸೇನೆ"
+            }
         },
         {
             "sanskrit": "व्यूढम्",
-            "transliteration": "vyūḍham",
-            "meaning": "arrayed in battle formation"
+            "transliteration": {
+                "hi": "व्यूढम्",
+                "en": "vyūḍham",
+                "be": "ব্যূঢম্",
+                "ka": "ವ್ಯೂಢಮ್"
+            },
+            "meaning": {
+                "hi": "युद्ध संरचना में सज्जित",
+                "en": "arrayed in battle formation",
+                "be": "যুদ্ধ গঠনে সজ্জিত",
+                "ka": "ಯುದ್ಧ ರಚನೆಯಲ್ಲಿ ಸಜ್ಜಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "दुर्योधनः",
-            "transliteration": "duryodhanaḥ",
-            "meaning": "King Duryodhana"
+            "transliteration": {
+                "hi": "दुर्योधनः",
+                "en": "duryodhanaḥ",
+                "be": "দুর্যোধনঃ",
+                "ka": "ದುರ್ಯೋಧನಃ"
+            },
+            "meaning": {
+                "hi": "राजा दुर्योधन",
+                "en": "King Duryodhana",
+                "be": "রাজা দুর্যোধন",
+                "ka": "ರಾಜ ದುರ್ಯೋಧನ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "आचार्यम्",
-            "transliteration": "ācāryam",
-            "meaning": "the teacher Drona"
+            "transliteration": {
+                "hi": "आचार्यम्",
+                "en": "ācāryam",
+                "be": "আচার্যম্",
+                "ka": "ಆಚಾರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "शिक्षक द्रोण",
+                "en": "the teacher Drona",
+                "be": "শিক্ষক দ্রোণ",
+                "ka": "ಶಿಕ್ಷಕ ದ್ರೋಣ"
+            }
         },
         {
             "sanskrit": "उपसङ्गम्य",
-            "transliteration": "upasaṅgamya",
-            "meaning": "approaching"
+            "transliteration": {
+                "hi": "उपसङ्गम्य",
+                "en": "upasaṅgamya",
+                "be": "উপসঙ্গম্য",
+                "ka": "ಉಪಸಙ್ಗಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "निकट आ रहा हूँ",
+                "en": "approaching",
+                "be": "সমীপবর্তী",
+                "ka": "ಸಮೀಪಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "राजा",
-            "transliteration": "rājā",
-            "meaning": "the king"
+            "transliteration": {
+                "hi": "राजा",
+                "en": "rājā",
+                "be": "রাজা",
+                "ka": "ರಾಜಾ"
+            },
+            "meaning": {
+                "hi": "राजा",
+                "en": "the king",
+                "be": "রাজা",
+                "ka": "ರಾಜ"
+            }
         },
         {
             "sanskrit": "वचनम्",
-            "transliteration": "vacanam",
-            "meaning": "words"
+            "transliteration": {
+                "hi": "वचनम्",
+                "en": "vacanam",
+                "be": "বচনম্",
+                "ka": "ವಚನಮ್"
+            },
+            "meaning": {
+                "hi": "शब्द",
+                "en": "words",
+                "be": "শব্দ",
+                "ka": "ಪದಗಳು"
+            }
         },
         {
             "sanskrit": "अब्रवीत्",
-            "transliteration": "abravīt",
-            "meaning": "spoke"
+            "transliteration": {
+                "hi": "अब्रवीत्",
+                "en": "abravīt",
+                "be": "অব্রবীত্",
+                "ka": "ಅಬ್ರವೀತ್"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoke",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||1-27||",
         "ka": "ಶ್ವಶುರಾನ್ಸುಹೃದಶ್ಚೈವ ಸೇನಯೋರುಭಯೋರಪಿ |\nತಾನ್ಸಮೀಕ್ಷ್ಯ ಸ ಕೌನ್ತೇಯಃ ಸರ್ವಾನ್ಬನ್ಧೂನವಸ್ಥಿತಾನ್ ||೧-೨೭||"
     },
-    "transliteration": "śvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||1-27||",
-    "life_application": "Acknowledge feelings of grief or empathy when they arise, but do not let them paralyze your judgment.",
+    "transliteration": {
+        "hi": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||१-२७||",
+        "en": "śvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||1-27||",
+        "be": "শ্বশুরান্সুহৃদশ্চৈব সেনযোরুভযোরপি |\nতান্সমীক্ষ্য স কৌন্তেযঃ সর্বান্বন্ধূনবস্থিতান্ ||১-২৭||",
+        "ka": "ಶ್ವಶುರಾನ್ಸುಹೃದಶ್ಚೈವ ಸೇನಯೋರುಭಯೋರಪಿ |\nತಾನ್ಸಮೀಕ್ಷ್ಯ ಸ ಕೌನ್ತೇಯಃ ಸರ್ವಾನ್ಬನ್ಧೂನವಸ್ಥಿತಾನ್ ||೧-೨೭||"
+    },
+    "life_application": {
+        "hi": "दुःख या सहानुभूति की भावनाएँ उत्पन्न होने पर उन्हें स्वीकार करें, लेकिन उन्हें अपने निर्णय को बाधित न करने दें।",
+        "en": "Acknowledge feelings of grief or empathy when they arise, but do not let them paralyze your judgment.",
+        "be": "দুঃখ বা সহানুভূতির অনুভূতিগুলি যখন তারা উদিত হয় তখন স্বীকার করুন, কিন্তু তাদের আপনার বিচারকে পক্ষাঘাতগ্রস্ত করতে দেবেন না।",
+        "ka": "ದುಃಖ ಅಥವಾ ಸಹಾನುಭೂತಿಯ ಭಾವನೆಗಳು ಉದ್ಭವಿಸಿದಾಗ ಅವುಗಳನ್ನು ಅಂಗೀಕರಿಸಿ, ಆದರೆ ನಿಮ್ಮ ತೀರ್ಪನ್ನು ಪಾರ್ಶ್ವವಾಯುವಿಗೆ ಬಿಡಬೇಡಿ."
+    },
     "themes": [
         "Attachment",
         "Equanimity"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "श्वशुरान्",
-            "transliteration": "śvaśurān",
-            "meaning": "fathers-in-law"
+            "transliteration": {
+                "hi": "श्वशुरान्",
+                "en": "śvaśurān",
+                "be": "শ্বশুরান্",
+                "ka": "ಶ್ವಶುರಾನ್"
+            },
+            "meaning": {
+                "hi": "ससुर",
+                "en": "fathers-in-law",
+                "be": "শ্বশুর",
+                "ka": "ಮಾವಂದಿರು"
+            }
         },
         {
             "sanskrit": "सुहृदः",
-            "transliteration": "suhṛdaḥ",
-            "meaning": "well-wishers"
+            "transliteration": {
+                "hi": "सुहृदः",
+                "en": "suhṛdaḥ",
+                "be": "সুহৃদঃ",
+                "ka": "ಸುಹೃದಃ"
+            },
+            "meaning": {
+                "hi": "शुभचिंतक",
+                "en": "well-wishers",
+                "be": "শুভাকাঙ্খী",
+                "ka": "ಹಿತೈಷಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सेनयोः",
-            "transliteration": "senayoḥ",
-            "meaning": "in armies"
+            "transliteration": {
+                "hi": "सेनयोः",
+                "en": "senayoḥ",
+                "be": "সেনযোঃ",
+                "ka": "ಸೇನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सेनाओं में",
+                "en": "in armies",
+                "be": "সেনাবাহিনীতে",
+                "ka": "ಸೈನ್ಯಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "उभयोः",
-            "transliteration": "ubhayoḥ",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभयोः",
+                "en": "ubhayoḥ",
+                "be": "উভযোঃ",
+                "ka": "ಉಭಯೋಃ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तान्",
-            "transliteration": "tān",
-            "meaning": "them"
+            "transliteration": {
+                "hi": "तान्",
+                "en": "tān",
+                "be": "তান্",
+                "ka": "ತಾನ್"
+            },
+            "meaning": {
+                "hi": "उन्हें",
+                "en": "them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "समीक्ष्य",
-            "transliteration": "samīkṣya",
-            "meaning": "seeing"
+            "transliteration": {
+                "hi": "समीक्ष्य",
+                "en": "samīkṣya",
+                "be": "সমীক্ষ্য",
+                "ka": "ಸಮೀಕ್ಷ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "seeing",
+                "be": "দেখা",
+                "ka": "ನೋಡುತ್ತಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "कौन्तेयः",
-            "transliteration": "kaunteyaḥ",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "कौन्तेयः",
+                "en": "kaunteyaḥ",
+                "be": "কৌন্তেযঃ",
+                "ka": "ಕೌನ್ತೇಯಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "सर्वान्",
-            "transliteration": "sarvān",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वान्",
+                "en": "sarvān",
+                "be": "সর্বান্",
+                "ka": "ಸರ್ವಾನ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "बन्धून्",
-            "transliteration": "bandhūn",
-            "meaning": "kinsmen"
+            "transliteration": {
+                "hi": "बन्धून्",
+                "en": "bandhūn",
+                "be": "বন্ধূন্",
+                "ka": "ಬನ್ಧೂನ್"
+            },
+            "meaning": {
+                "hi": "रिश्तेदार",
+                "en": "kinsmen",
+                "be": "আত্মীয়স্বজন",
+                "ka": "ಬಂಧುಗಳು"
+            }
         },
         {
             "sanskrit": "अवस्थितान्",
-            "transliteration": "avasthitān",
-            "meaning": "standing"
+            "transliteration": {
+                "hi": "अवस्थितान्",
+                "en": "avasthitān",
+                "be": "অবস্থিতান্",
+                "ka": "ಅವಸ್ಥಿತಾನ್"
+            },
+            "meaning": {
+                "hi": "खड़ा है",
+                "en": "standing",
+                "be": "দাঁড়ানো",
+                "ka": "ನಿಂತಿರುವ"
+            }
         }
     ],
     "tej": {

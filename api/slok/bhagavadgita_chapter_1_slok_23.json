@@ -14,8 +14,18 @@
         "en": "yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||",
         "ka": "ಯೋತ್ಸ್ಯಮಾನಾನವೇಕ್ಷೇಽಹಂ ಯ ಏತೇಽತ್ರ ಸಮಾಗತಾಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಸ್ಯ ದುರ್ಬುದ್ಧೇರ್ಯುದ್ಧೇ ಪ್ರಿಯಚಿಕೀರ್ಷವಃ ||೧-೨೩||"
     },
-    "transliteration": "yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||",
-    "life_application": "Identify the underlying motives behind conflicts around you so you can respond with wisdom rather than anger.",
+    "transliteration": {
+        "hi": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||",
+        "en": "yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||",
+        "be": "যোত্স্যমানানবেক্ষেঽহং য এতেঽত্র সমাগতাঃ |\nধার্তরাষ্ট্রস্য দুর্বুদ্ধের্যুদ্ধে প্রিযচিকীর্ষবঃ ||১-২৩||",
+        "ka": "ಯೋತ್ಸ್ಯಮಾನಾನವೇಕ್ಷೇಽಹಂ ಯ ಏತೇಽತ್ರ ಸಮಾಗತಾಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಸ್ಯ ದುರ್ಬುದ್ಧೇರ್ಯುದ್ಧೇ ಪ್ರಿಯಚಿಕೀರ್ಷವಃ ||೧-೨೩||"
+    },
+    "life_application": {
+        "hi": "अपने आस-पास के झगड़ों के पीछे के अंतर्निहित उद्देश्यों को पहचानें ताकि आप गुस्से के बजाय समझदारी से जवाब दे सकें।",
+        "en": "Identify the underlying motives behind conflicts around you so you can respond with wisdom rather than anger.",
+        "be": "আপনার চারপাশে দ্বন্দ্বের পিছনে অন্তর্নিহিত উদ্দেশ্যগুলি সনাক্ত করুন যাতে আপনি রাগের পরিবর্তে জ্ঞানের সাথে প্রতিক্রিয়া জানাতে পারেন।",
+        "ka": "ನಿಮ್ಮ ಸುತ್ತಲಿನ ಘರ್ಷಣೆಗಳ ಹಿಂದಿನ ಮೂಲ ಉದ್ದೇಶಗಳನ್ನು ಗುರುತಿಸಿ ಇದರಿಂದ ನೀವು ಕೋಪಕ್ಕಿಂತ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಪ್ರತಿಕ್ರಿಯಿಸಬಹುದು."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "योत्स्यमानान्",
-            "transliteration": "yotsyamānān",
-            "meaning": "who are going to fight"
+            "transliteration": {
+                "hi": "योत्स्यमानान्",
+                "en": "yotsyamānān",
+                "be": "যোত্স্যমানান্",
+                "ka": "ಯೋತ್ಸ್ಯಮಾನಾನ್"
+            },
+            "meaning": {
+                "hi": "जो लड़ने जा रहे हैं",
+                "en": "who are going to fight",
+                "be": "যারা যুদ্ধ করতে যাচ্ছে",
+                "ka": "ಯಾರು ಹೋರಾಡಲು ಹೋಗುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "अवेक्षे",
-            "transliteration": "avekṣe",
-            "meaning": "I look upon"
+            "transliteration": {
+                "hi": "अवेक्षे",
+                "en": "avekṣe",
+                "be": "অবেক্ষে",
+                "ka": "ಅವೇಕ್ಷೇ"
+            },
+            "meaning": {
+                "hi": "मैं देखता हूं",
+                "en": "I look upon",
+                "be": "আমি তাকাই",
+                "ka": "ನಾನು ನೋಡುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "एते",
-            "transliteration": "ete",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एते",
+                "en": "ete",
+                "be": "এতে",
+                "ka": "ಏತೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "अत्र",
-            "transliteration": "atra",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "अत्र",
+                "en": "atra",
+                "be": "অত্র",
+                "ka": "ಅತ್ರ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "समागताः",
-            "transliteration": "samāgatāḥ",
-            "meaning": "assembled"
+            "transliteration": {
+                "hi": "समागताः",
+                "en": "samāgatāḥ",
+                "be": "সমাগতাঃ",
+                "ka": "ಸಮಾಗತಾಃ"
+            },
+            "meaning": {
+                "hi": "इकट्ठे",
+                "en": "assembled",
+                "be": "একত্রিত",
+                "ka": "ಜೋಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "धार्तराष्ट्रस्य",
-            "transliteration": "dhārtarāṣṭrasya",
-            "meaning": "of Dhritarashtra's son"
+            "transliteration": {
+                "hi": "धार्तराष्ट्रस्य",
+                "en": "dhārtarāṣṭrasya",
+                "be": "ধার্তরাষ্ট্রস্য",
+                "ka": "ಧಾರ್ತರಾಷ್ಟ್ರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र के पुत्र का",
+                "en": "of Dhritarashtra's son",
+                "be": "ধৃতরাষ্ট্রের পুত্র",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ ಮಗನ"
+            }
         },
         {
             "sanskrit": "दुर्बुद्धेः",
-            "transliteration": "durbuddheḥ",
-            "meaning": "evil-minded"
+            "transliteration": {
+                "hi": "दुर्बुद्धेः",
+                "en": "durbuddheḥ",
+                "be": "দুর্বুদ্ধেঃ",
+                "ka": "ದುರ್ಬುದ್ಧೇಃ"
+            },
+            "meaning": {
+                "hi": "दुष्टबुद्धि",
+                "en": "evil-minded",
+                "be": "খারাপ মন",
+                "ka": "ದುಷ್ಟ ಮನಸ್ಸಿನ"
+            }
         },
         {
             "sanskrit": "युद्धे",
-            "transliteration": "yuddhe",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "युद्धे",
+                "en": "yuddhe",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रियचिकीर्षवः",
-            "transliteration": "priyacikīrṣavaḥ",
-            "meaning": "wishing to please"
+            "transliteration": {
+                "hi": "प्रियचिकीर्षवः",
+                "en": "priyacikīrṣavaḥ",
+                "be": "প্রিযচিকীর্ষবঃ",
+                "ka": "ಪ್ರಿಯಚಿಕೀರ್ಷವಃ"
+            },
+            "meaning": {
+                "hi": "खुश करने की इच्छा",
+                "en": "wishing to please",
+                "be": "খুশি করতে ইচ্ছুক",
+                "ka": "ದಯವಿಟ್ಟು ಬಯಸುವ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ||1-25||",
         "ka": "ಭೀಷ್ಮದ್ರೋಣಪ್ರಮುಖತಃ ಸರ್ವೇಷಾಂ ಚ ಮಹೀಕ್ಷಿತಾಮ್ |\nಉವಾಚ ಪಾರ್ಥ ಪಶ್ಯೈತಾನ್ಸಮವೇತಾನ್ಕುರೂನಿತಿ ||೧-೨೫||"
     },
-    "transliteration": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ||1-25||",
-    "life_application": "Confront reality openly, acknowledging uncomfortable truths even when they evoke personal sorrow or hesitation.",
+    "transliteration": {
+        "hi": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् |\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||१-२५||",
+        "en": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ||1-25||",
+        "be": "ভীষ্মদ্রোণপ্রমুখতঃ সর্বেষাং চ মহীক্ষিতাম্ |\nউবাচ পার্থ পশ্যৈতান্সমবেতান্কুরূনিতি ||১-২৫||",
+        "ka": "ಭೀಷ್ಮದ್ರೋಣಪ್ರಮುಖತಃ ಸರ್ವೇಷಾಂ ಚ ಮಹೀಕ್ಷಿತಾಮ್ |\nಉವಾಚ ಪಾರ್ಥ ಪಶ್ಯೈತಾನ್ಸಮವೇತಾನ್ಕುರೂನಿತಿ ||೧-೨೫||"
+    },
+    "life_application": {
+        "hi": "वास्तविकता का खुलकर सामना करें, असुविधाजनक सच्चाइयों को स्वीकार करें, भले ही वे व्यक्तिगत दुःख या झिझक पैदा करें।",
+        "en": "Confront reality openly, acknowledging uncomfortable truths even when they evoke personal sorrow or hesitation.",
+        "be": "খোলাখুলিভাবে বাস্তবতার মোকাবিলা করুন, অস্বস্তিকর সত্য স্বীকার করে এমনকি যখন তারা ব্যক্তিগত দুঃখ বা দ্বিধা জাগিয়ে তোলে।",
+        "ka": "ವಾಸ್ತವವನ್ನು ಬಹಿರಂಗವಾಗಿ ಎದುರಿಸಿ, ಅವರು ವೈಯಕ್ತಿಕ ದುಃಖ ಅಥವಾ ಹಿಂಜರಿಕೆಯನ್ನು ಉಂಟುಮಾಡಿದಾಗಲೂ ಅಹಿತಕರ ಸತ್ಯಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ."
+    },
     "themes": [
         "Mindfulness",
         "Attachment"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "भीष्मद्रोणप्रमुखतः",
-            "transliteration": "bhīṣmadroṇapramukhataḥ",
-            "meaning": "facing Bhishma and Drona"
+            "transliteration": {
+                "hi": "भीष्मद्रोणप्रमुखतः",
+                "en": "bhīṣmadroṇapramukhataḥ",
+                "be": "ভীষ্মদ্রোণপ্রমুখতঃ",
+                "ka": "ಭೀಷ್ಮದ್ರೋಣಪ್ರಮುಖತಃ"
+            },
+            "meaning": {
+                "hi": "भीष्म और द्रोण का सामना",
+                "en": "facing Bhishma and Drona",
+                "be": "ভীষ্ম ও দ্রোণের মুখোমুখি",
+                "ka": "ಭೀಷ್ಮ ಮತ್ತು ದ್ರೋಣರನ್ನು ಎದುರಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वेषाम्",
-            "transliteration": "sarveṣām",
-            "meaning": "of all"
+            "transliteration": {
+                "hi": "सर्वेषाम्",
+                "en": "sarveṣām",
+                "be": "সর্বেষাম্",
+                "ka": "ಸರ್ವೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "सबमें से",
+                "en": "of all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "महीक्षिताम्",
-            "transliteration": "mahīkṣitām",
-            "meaning": "rulers of earth"
+            "transliteration": {
+                "hi": "महीक्षिताम्",
+                "en": "mahīkṣitām",
+                "be": "মহীক্ষিতাম্",
+                "ka": "ಮಹೀಕ್ಷಿತಾಮ್"
+            },
+            "meaning": {
+                "hi": "पृथ्वी के शासक",
+                "en": "rulers of earth",
+                "be": "পৃথিবীর শাসক",
+                "ka": "ಭೂಮಿಯ ಆಡಳಿತಗಾರರು"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "पश्य",
-            "transliteration": "paśya",
-            "meaning": "behold"
+            "transliteration": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্য",
+                "ka": "ಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखो",
+                "en": "behold",
+                "be": "দেখ",
+                "ka": "ಇಗೋ"
+            }
         },
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "समवेतान्",
-            "transliteration": "samavetān",
-            "meaning": "assembled"
+            "transliteration": {
+                "hi": "समवेतान्",
+                "en": "samavetān",
+                "be": "সমবেতান্",
+                "ka": "ಸಮವೇತಾನ್"
+            },
+            "meaning": {
+                "hi": "इकट्ठे",
+                "en": "assembled",
+                "be": "একত্রিত",
+                "ka": "ಜೋಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "कुरुन्",
-            "transliteration": "kurun",
-            "meaning": "Kurus"
+            "transliteration": {
+                "hi": "कुरुन्",
+                "en": "kurun",
+                "be": "কুরুন্",
+                "ka": "ಕುರುನ್"
+            },
+            "meaning": {
+                "hi": "कुरु",
+                "en": "Kurus",
+                "be": "কুরুস",
+                "ka": "ಕುರುಗಳು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         }
     ],
     "tej": {

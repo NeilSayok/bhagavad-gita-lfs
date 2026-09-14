@@ -14,8 +14,18 @@
         "en": "yāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ||1-22||",
         "ka": "ಯಾವದೇತಾನ್ನಿರೀಕ್ಷೇಽಹಂ ಯೋದ್ಧುಕಾಮಾನವಸ್ಥಿತಾನ್ |\nಕೈರ್ಮಯಾ ಸಹ ಯೋದ್ಧವ್ಯಮಸ್ಮಿನ್ ರಣಸಮುದ್ಯಮೇ ||೧-೨೨||"
     },
-    "transliteration": "yāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ||1-22||",
-    "life_application": "Examine your challenges directly and assess the situation thoroughly before acting under pressure.",
+    "transliteration": {
+        "hi": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||",
+        "en": "yāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ||1-22||",
+        "be": "যাবদেতান্নিরীক্ষেঽহং যোদ্ধুকামানবস্থিতান্ |\nকৈর্মযা সহ যোদ্ধব্যমস্মিন্ রণসমুদ্যমে ||১-২২||",
+        "ka": "ಯಾವದೇತಾನ್ನಿರೀಕ್ಷೇಽಹಂ ಯೋದ್ಧುಕಾಮಾನವಸ್ಥಿತಾನ್ |\nಕೈರ್ಮಯಾ ಸಹ ಯೋದ್ಧವ್ಯಮಸ್ಮಿನ್ ರಣಸಮುದ್ಯಮೇ ||೧-೨೨||"
+    },
+    "life_application": {
+        "hi": "दबाव में कार्य करने से पहले अपनी चुनौतियों का सीधे परीक्षण करें और स्थिति का अच्छी तरह आकलन करें।",
+        "en": "Examine your challenges directly and assess the situation thoroughly before acting under pressure.",
+        "be": "আপনার চ্যালেঞ্জগুলি সরাসরি পরীক্ষা করুন এবং চাপের মধ্যে কাজ করার আগে পরিস্থিতিটি পুঙ্খানুপুঙ্খভাবে মূল্যায়ন করুন।",
+        "ka": "ನಿಮ್ಮ ಸವಾಲುಗಳನ್ನು ನೇರವಾಗಿ ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಒತ್ತಡದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಮೊದಲು ಪರಿಸ್ಥಿತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿರ್ಣಯಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Duty"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यावत्",
-            "transliteration": "yāvat",
-            "meaning": "while"
+            "transliteration": {
+                "hi": "यावत्",
+                "en": "yāvat",
+                "be": "যাবত্",
+                "ka": "ಯಾವತ್"
+            },
+            "meaning": {
+                "hi": "जबकि",
+                "en": "while",
+                "be": "যখন",
+                "ka": "ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एतान्",
-            "transliteration": "etān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतान्",
+                "en": "etān",
+                "be": "এতান্",
+                "ka": "ಏತಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "निरीक्षे",
-            "transliteration": "nirīkṣe",
-            "meaning": "I observe"
+            "transliteration": {
+                "hi": "निरीक्षे",
+                "en": "nirīkṣe",
+                "be": "নিরীক্ষে",
+                "ka": "ನಿರೀಕ್ಷೇ"
+            },
+            "meaning": {
+                "hi": "मैं निरीक्षण करता हूँ",
+                "en": "I observe",
+                "be": "আমি পর্যবেক্ষণ করি",
+                "ka": "ನಾನು ಗಮನಿಸುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "योद्धुकामान्",
-            "transliteration": "yoddhukāmān",
-            "meaning": "desiring to fight"
+            "transliteration": {
+                "hi": "योद्धुकामान्",
+                "en": "yoddhukāmān",
+                "be": "যোদ্ধুকামান্",
+                "ka": "ಯೋದ್ಧುಕಾಮಾನ್"
+            },
+            "meaning": {
+                "hi": "लड़ने की इच्छा",
+                "en": "desiring to fight",
+                "be": "যুদ্ধ করতে ইচ্ছুক",
+                "ka": "ಹೋರಾಡಲು ಅಪೇಕ್ಷಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अवस्थितान्",
-            "transliteration": "avasthitān",
-            "meaning": "standing"
+            "transliteration": {
+                "hi": "अवस्थितान्",
+                "en": "avasthitān",
+                "be": "অবস্থিতান্",
+                "ka": "ಅವಸ್ಥಿತಾನ್"
+            },
+            "meaning": {
+                "hi": "खड़ा है",
+                "en": "standing",
+                "be": "দাঁড়ানো",
+                "ka": "ನಿಂತಿರುವ"
+            }
         },
         {
             "sanskrit": "कैः",
-            "transliteration": "kaiḥ",
-            "meaning": "with whom"
+            "transliteration": {
+                "hi": "कैः",
+                "en": "kaiḥ",
+                "be": "কৈঃ",
+                "ka": "ಕೈಃ"
+            },
+            "meaning": {
+                "hi": "किसके साथ",
+                "en": "with whom",
+                "be": "কার সাথে",
+                "ka": "ಯಾರೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "सह",
-            "transliteration": "saha",
-            "meaning": "together"
+            "transliteration": {
+                "hi": "सह",
+                "en": "saha",
+                "be": "সহ",
+                "ka": "ಸಹ"
+            },
+            "meaning": {
+                "hi": "एक साथ",
+                "en": "together",
+                "be": "একসাথে",
+                "ka": "ಒಟ್ಟಿಗೆ"
+            }
         },
         {
             "sanskrit": "योद्धव्यम्",
-            "transliteration": "yoddhavyam",
-            "meaning": "must be fought"
+            "transliteration": {
+                "hi": "योद्धव्यम्",
+                "en": "yoddhavyam",
+                "be": "যোদ্ধব্যম্",
+                "ka": "ಯೋದ್ಧವ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "लड़ना चाहिए",
+                "en": "must be fought",
+                "be": "যুদ্ধ করতে হবে",
+                "ka": "ಹೋರಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "अस्मिन्",
-            "transliteration": "asmin",
-            "meaning": "in this"
+            "transliteration": {
+                "hi": "अस्मिन्",
+                "en": "asmin",
+                "be": "অস্মিন্",
+                "ka": "ಅಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "इसमें",
+                "en": "in this",
+                "be": "এই",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "रणसमुद्यमे",
-            "transliteration": "raṇasamudyame",
-            "meaning": "battle endeavor"
+            "transliteration": {
+                "hi": "रणसमुद्यमे",
+                "en": "raṇasamudyame",
+                "be": "রণসমুদ্যমে",
+                "ka": "ರಣಸಮುದ್ಯಮೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध प्रयास",
+                "en": "battle endeavor",
+                "be": "যুদ্ধ প্রচেষ্টা",
+                "ka": "ಯುದ್ಧದ ಪ್ರಯತ್ನ"
+            }
         }
     ],
     "tej": {

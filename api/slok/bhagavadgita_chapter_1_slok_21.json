@@ -14,8 +14,18 @@
         "en": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ||1-21||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ರಥಂ ಸ್ಥಾಪಯ ಮೇಽಚ್ಯುತ ||೧-೨೧||"
     },
-    "transliteration": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ||1-21||",
-    "life_application": "Position yourself to view conflicting perspectives clearly before making critical decisions about your next steps.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||",
+        "en": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ||1-21||",
+        "be": "অর্জুন উবাচ |\nসেনযোরুভযোর্মধ্যে রথং স্থাপয মেঽচ্যুত ||১-২১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ರಥಂ ಸ್ಥಾಪಯ ಮೇಽಚ್ಯುತ ||೧-೨೧||"
+    },
+    "life_application": {
+        "hi": "अपने अगले कदमों के बारे में महत्वपूर्ण निर्णय लेने से पहले स्वयं को परस्पर विरोधी दृष्टिकोणों को स्पष्ट रूप से देखने की स्थिति में रखें।",
+        "en": "Position yourself to view conflicting perspectives clearly before making critical decisions about your next steps.",
+        "be": "আপনার পরবর্তী পদক্ষেপগুলি সম্পর্কে সমালোচনামূলক সিদ্ধান্ত নেওয়ার আগে স্পষ্টভাবে বিরোধপূর্ণ দৃষ্টিভঙ্গি দেখতে নিজেকে অবস্থান করুন।",
+        "ka": "ನಿಮ್ಮ ಮುಂದಿನ ಹಂತಗಳ ಬಗ್ಗೆ ನಿರ್ಣಾಯಕ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು ಸಂಘರ್ಷದ ದೃಷ್ಟಿಕೋನಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ವೀಕ್ಷಿಸಲು ನಿಮ್ಮನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Equanimity"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "हृषीकेशम्",
-            "transliteration": "hṛṣīkeśam",
-            "meaning": "to Krishna"
+            "transliteration": {
+                "hi": "हृषीकेशम्",
+                "en": "hṛṣīkeśam",
+                "be": "হৃষীকেশম্",
+                "ka": "ಹೃಷೀಕೇಶಮ್"
+            },
+            "meaning": {
+                "hi": "कृष्ण को",
+                "en": "to Krishna",
+                "be": "কৃষ্ণের কাছে",
+                "ka": "ಕೃಷ್ಣನಿಗೆ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "वाक्यम्",
-            "transliteration": "vākyam",
-            "meaning": "words"
+            "transliteration": {
+                "hi": "वाक्यम्",
+                "en": "vākyam",
+                "be": "বাক্যম্",
+                "ka": "ವಾಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "शब्द",
+                "en": "words",
+                "be": "শব্দ",
+                "ka": "ಪದಗಳು"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "आह",
-            "transliteration": "āha",
-            "meaning": "spoke"
+            "transliteration": {
+                "hi": "आह",
+                "en": "āha",
+                "be": "আহ",
+                "ka": "ಆಹ"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoke",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "महीपते",
-            "transliteration": "mahīpate",
-            "meaning": "O king"
+            "transliteration": {
+                "hi": "महीपते",
+                "en": "mahīpate",
+                "be": "মহীপতে",
+                "ka": "ಮಹೀಪತೇ"
+            },
+            "meaning": {
+                "hi": "हे राजा!",
+                "en": "O king",
+                "be": "হে রাজা",
+                "ka": "ಓ ರಾಜನೇ"
+            }
         },
         {
             "sanskrit": "सेनयोः",
-            "transliteration": "senayoḥ",
-            "meaning": "armies"
+            "transliteration": {
+                "hi": "सेनयोः",
+                "en": "senayoḥ",
+                "be": "সেনযোঃ",
+                "ka": "ಸೇನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सेनाएँ",
+                "en": "armies",
+                "be": "সেনাবাহিনী",
+                "ka": "ಸೇನೆಗಳು"
+            }
         },
         {
             "sanskrit": "उभयोः",
-            "transliteration": "ubhayoḥ",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभयोः",
+                "en": "ubhayoḥ",
+                "be": "উভযোঃ",
+                "ka": "ಉಭಯೋಃ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "मध्ये",
-            "transliteration": "madhye",
-            "meaning": "in the middle"
+            "transliteration": {
+                "hi": "मध्ये",
+                "en": "madhye",
+                "be": "মধ্যে",
+                "ka": "ಮಧ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "बीच में",
+                "en": "in the middle",
+                "be": "মাঝখানে",
+                "ka": "ಮಧ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "रथम्",
-            "transliteration": "ratham",
-            "meaning": "chariot"
+            "transliteration": {
+                "hi": "रथम्",
+                "en": "ratham",
+                "be": "রথম্",
+                "ka": "ರಥಮ್"
+            },
+            "meaning": {
+                "hi": "रथ",
+                "en": "chariot",
+                "be": "রথ",
+                "ka": "ರಥ"
+            }
         },
         {
             "sanskrit": "स्थापय",
-            "transliteration": "sthāpaya",
-            "meaning": "station"
+            "transliteration": {
+                "hi": "स्थापय",
+                "en": "sthāpaya",
+                "be": "স্থাপয",
+                "ka": "ಸ್ಥಾಪಯ"
+            },
+            "meaning": {
+                "hi": "स्टेशन",
+                "en": "station",
+                "be": "স্টেশন",
+                "ka": "ನಿಲ್ದಾಣ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "अच्युत",
-            "transliteration": "acyuta",
-            "meaning": "O Achyuta"
+            "transliteration": {
+                "hi": "अच्युत",
+                "en": "acyuta",
+                "be": "অচ্যুত",
+                "ka": "ಅಚ್ಯುತ"
+            },
+            "meaning": {
+                "hi": "हे अच्युत!",
+                "en": "O Achyuta",
+                "be": "হে অচ্যুতা",
+                "ka": "ಓ ಅಚ್ಯುತ"
+            }
         }
     ],
     "tej": {

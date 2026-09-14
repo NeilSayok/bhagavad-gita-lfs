@@ -14,8 +14,18 @@
         "en": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||",
         "ka": "ರುದ್ರಾಣಾಂ ಶಙ್ಕರಶ್ಚಾಸ್ಮಿ ವಿತ್ತೇಶೋ ಯಕ್ಷರಕ್ಷಸಾಮ್ |\nವಸೂನಾಂ ಪಾವಕಶ್ಚಾಸ್ಮಿ ಮೇರುಃ ಶಿಖರಿಣಾಮಹಮ್ ||೧೦-೨೩||"
     },
-    "transliteration": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||",
-    "life_application": "Recognize God as Shiva among Rudras, Kubera among wealth-keepers, Agni among elements, and Meru among mountains.",
+    "transliteration": {
+        "hi": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |\nवसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||",
+        "en": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||",
+        "be": "রুদ্রাণাং শঙ্করশ্চাস্মি বিত্তেশো যক্ষরক্ষসাম্ |\nবসূনাং পাবকশ্চাস্মি মেরুঃ শিখরিণামহম্ ||১০-২৩||",
+        "ka": "ರುದ್ರಾಣಾಂ ಶಙ್ಕರಶ್ಚಾಸ್ಮಿ ವಿತ್ತೇಶೋ ಯಕ್ಷರಕ್ಷಸಾಮ್ |\nವಸೂನಾಂ ಪಾವಕಶ್ಚಾಸ್ಮಿ ಮೇರುಃ ಶಿಖರಿಣಾಮಹಮ್ ||೧೦-೨೩||"
+    },
+    "life_application": {
+        "hi": "भगवान को रुद्रों में शिव, धन के रखवालों में कुबेर, तत्वों में अग्नि और पर्वतों में मेरु के रूप में पहचानो।",
+        "en": "Recognize God as Shiva among Rudras, Kubera among wealth-keepers, Agni among elements, and Meru among mountains.",
+        "be": "ঈশ্বরকে রুদ্রদের মধ্যে শিব, সম্পদ রক্ষাকারীদের মধ্যে কুবের, উপাদানগুলির মধ্যে অগ্নি এবং পর্বতের মধ্যে মেরুকে চিনুন।",
+        "ka": "ದೇವರನ್ನು ರುದ್ರರಲ್ಲಿ ಶಿವನೆಂದು, ಸಂಪತ್ತು-ಪಾಲಕರಲ್ಲಿ ಕುಬೇರನೆಂದು, ಅಂಶಗಳಲ್ಲಿ ಅಗ್ನಿ ಮತ್ತು ಪರ್ವತಗಳಲ್ಲಿ ಮೇರು ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "रुद्राणां",
-            "transliteration": "rudrāṇāṃ",
-            "meaning": "rudrāṇāṃ"
+            "transliteration": {
+                "hi": "रुद्राणां",
+                "en": "rudrāṇāṃ",
+                "be": "রুদ্রাণাং",
+                "ka": "ರುದ್ರಾಣಾಂ"
+            },
+            "meaning": {
+                "hi": "रुद्रानाम",
+                "en": "rudrāṇāṃ",
+                "be": "রুদ্রাণাণ",
+                "ka": "ರುದ್ರಾಣ"
+            }
         },
         {
             "sanskrit": "शङ्करश्चास्मि",
-            "transliteration": "śaṅkaraścāsmi",
-            "meaning": "śaṅkaraścāsmi"
+            "transliteration": {
+                "hi": "शङ्करश्चास्मि",
+                "en": "śaṅkaraścāsmi",
+                "be": "শঙ্করশ্চাস্মি",
+                "ka": "ಶಙ್ಕರಶ್ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "शंकरश्चस्मि",
+                "en": "śaṅkaraścāsmi",
+                "be": "শংকরশ্কাস্মি",
+                "ka": "ಶಂಕಾರಶ್ಚಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "वित्तेशो",
-            "transliteration": "vitteśo",
-            "meaning": "vitteśo"
+            "transliteration": {
+                "hi": "वित्तेशो",
+                "en": "vitteśo",
+                "be": "বিত্তেশো",
+                "ka": "ವಿತ್ತೇಶೋ"
+            },
+            "meaning": {
+                "hi": "विटेशो",
+                "en": "vitteśo",
+                "be": "vitteśo",
+                "ka": "vitteśo"
+            }
         },
         {
             "sanskrit": "यक्षरक्षसाम्",
-            "transliteration": "yakṣarakṣasām",
-            "meaning": "yakṣarakṣasām"
+            "transliteration": {
+                "hi": "यक्षरक्षसाम्",
+                "en": "yakṣarakṣasām",
+                "be": "যক্ষরক্ষসাম্",
+                "ka": "ಯಕ್ಷರಕ್ಷಸಾಮ್"
+            },
+            "meaning": {
+                "hi": "यक्षारक्षसम्",
+                "en": "yakṣarakṣasām",
+                "be": "যক্ষরক্ষসাম",
+                "ka": "ಯಕ್ಷರಾಕ್ಷಸಂ"
+            }
         },
         {
             "sanskrit": "वसूनां",
-            "transliteration": "vasūnāṃ",
-            "meaning": "vasūnāṃ"
+            "transliteration": {
+                "hi": "वसूनां",
+                "en": "vasūnāṃ",
+                "be": "বসূনাং",
+                "ka": "ವಸೂನಾಂ"
+            },
+            "meaning": {
+                "hi": "वसुनाँ",
+                "en": "vasūnāṃ",
+                "be": "vasūnāṃ",
+                "ka": "ವಸುನಾಂ"
+            }
         },
         {
             "sanskrit": "पावकश्चास्मि",
-            "transliteration": "pāvakaścāsmi",
-            "meaning": "pāvakaścāsmi"
+            "transliteration": {
+                "hi": "पावकश्चास्मि",
+                "en": "pāvakaścāsmi",
+                "be": "পাবকশ্চাস্মি",
+                "ka": "ಪಾವಕಶ್ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "पावकश्चस्मि",
+                "en": "pāvakaścāsmi",
+                "be": "pāvakaścāsāsmi",
+                "ka": "ಪಾವಕಶ್ಚಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "मेरुः",
-            "transliteration": "meruḥ",
-            "meaning": "meruḥ"
+            "transliteration": {
+                "hi": "मेरुः",
+                "en": "meruḥ",
+                "be": "মেরুঃ",
+                "ka": "ಮೇರುಃ"
+            },
+            "meaning": {
+                "hi": "मेरुः",
+                "en": "meruḥ",
+                "be": "meruḥ",
+                "ka": "ಮೇರುಃ"
+            }
         },
         {
             "sanskrit": "शिखरिणामहम्",
-            "transliteration": "śikhariṇāmaham",
-            "meaning": "śikhariṇāmaham"
+            "transliteration": {
+                "hi": "शिखरिणामहम्",
+                "en": "śikhariṇāmaham",
+                "be": "শিখরিণামহম্",
+                "ka": "ಶಿಖರಿಣಾಮಹಮ್"
+            },
+            "meaning": {
+                "hi": "शिखरिनामहम्",
+                "en": "śikhariṇāmaham",
+                "be": "শিখরিনামহম",
+                "ka": "ಶಿಖರಿಣಾಮಹಂ"
+            }
         }
     ],
     "tej": {

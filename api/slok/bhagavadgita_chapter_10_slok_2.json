@@ -14,8 +14,18 @@
         "en": "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .\nahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",
         "ka": "ನ ಮೇ ವಿದುಃ ಸುರಗಣಾಃ ಪ್ರಭವಂ ನ ಮಹರ್ಷಯಃ |\nಅಹಮಾದಿರ್ಹಿ ದೇವಾನಾಂ ಮಹರ್ಷೀಣಾಂ ಚ ಸರ್ವಶಃ ||೧೦-೨||"
     },
-    "transliteration": "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .\nahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",
-    "life_application": "Recognize God as the primeval origin of all gods and great sages, beyond their full comprehension.",
+    "transliteration": {
+        "hi": "न मे विदुः सुरगणाः प्रभवं न महर्षयः |\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||",
+        "en": "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .\nahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",
+        "be": "ন মে বিদুঃ সুরগণাঃ প্রভবং ন মহর্ষযঃ |\nঅহমাদির্হি দেবানাং মহর্ষীণাং চ সর্বশঃ ||১০-২||",
+        "ka": "ನ ಮೇ ವಿದುಃ ಸುರಗಣಾಃ ಪ್ರಭವಂ ನ ಮಹರ್ಷಯಃ |\nಅಹಮಾದಿರ್ಹಿ ದೇವಾನಾಂ ಮಹರ್ಷೀಣಾಂ ಚ ಸರ್ವಶಃ ||೧೦-೨||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सभी देवताओं और महान संतों के आदि मूल के रूप में पहचानें, जो उनकी पूरी समझ से परे है।",
+        "en": "Recognize God as the primeval origin of all gods and great sages, beyond their full comprehension.",
+        "be": "ঈশ্বরকে সমস্ত দেবতা এবং মহান ঋষিদের আদিম উত্স হিসাবে স্বীকৃতি দিন, তাদের সম্পূর্ণ বোঝার বাইরে।",
+        "ka": "ದೇವರನ್ನು ಎಲ್ಲಾ ದೇವರುಗಳು ಮತ್ತು ಮಹಾನ್ ಋಷಿಗಳ ಮೂಲ ಮೂಲವೆಂದು ಗುರುತಿಸಿ, ಅವರ ಸಂಪೂರ್ಣ ಗ್ರಹಿಕೆಯನ್ನು ಮೀರಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "विदुः",
-            "transliteration": "viduḥ",
-            "meaning": "viduḥ"
+            "transliteration": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            },
+            "meaning": {
+                "hi": "विदुः",
+                "en": "viduḥ",
+                "be": "বিদুঃ",
+                "ka": "ವಿದುಃ"
+            }
         },
         {
             "sanskrit": "सुरगणाः",
-            "transliteration": "suragaṇāḥ",
-            "meaning": "suragaṇāḥ"
+            "transliteration": {
+                "hi": "सुरगणाः",
+                "en": "suragaṇāḥ",
+                "be": "সুরগণাঃ",
+                "ka": "ಸುರಗಣಾಃ"
+            },
+            "meaning": {
+                "hi": "सुरगनाः",
+                "en": "suragaṇāḥ",
+                "be": "suragṇāḥ",
+                "ka": "ಸುರಗಣಃ"
+            }
         },
         {
             "sanskrit": "प्रभवं",
-            "transliteration": "prabhavaṃ",
-            "meaning": "prabhavaṃ"
+            "transliteration": {
+                "hi": "प्रभवं",
+                "en": "prabhavaṃ",
+                "be": "প্রভবং",
+                "ka": "ಪ್ರಭವಂ"
+            },
+            "meaning": {
+                "hi": "प्रभावं",
+                "en": "prabhavaṃ",
+                "be": "প্রভাবং",
+                "ka": "ಪ್ರಭಾವ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "महर्षयः",
-            "transliteration": "maharṣayaḥ",
-            "meaning": "maharṣayaḥ"
+            "transliteration": {
+                "hi": "महर्षयः",
+                "en": "maharṣayaḥ",
+                "be": "মহর্ষযঃ",
+                "ka": "ಮಹರ್ಷಯಃ"
+            },
+            "meaning": {
+                "hi": "महर्षियः",
+                "en": "maharṣayaḥ",
+                "be": "মহর্ষায়ঃ",
+                "ka": "ಮಹರ್ಷಯಃ"
+            }
         },
         {
             "sanskrit": "अहमादिर्हि",
-            "transliteration": "ahamādirhi",
-            "meaning": "ahamādirhi"
+            "transliteration": {
+                "hi": "अहमादिर्हि",
+                "en": "ahamādirhi",
+                "be": "অহমাদির্হি",
+                "ka": "ಅಹಮಾದಿರ್ಹಿ"
+            },
+            "meaning": {
+                "hi": "अहमदिरि",
+                "en": "ahamādirhi",
+                "be": "আহমাদিরহি",
+                "ka": "ಅಹಮದಿರ್ಹಿ"
+            }
         },
         {
             "sanskrit": "देवानां",
-            "transliteration": "devānāṃ",
-            "meaning": "devānāṃ"
+            "transliteration": {
+                "hi": "देवानां",
+                "en": "devānāṃ",
+                "be": "দেবানাং",
+                "ka": "ದೇವಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "देवानां",
+                "en": "devānāṃ",
+                "be": "devānāṃ",
+                "ka": "ದೇವನಂ"
+            }
         },
         {
             "sanskrit": "महर्षीणां",
-            "transliteration": "maharṣīṇāṃ",
-            "meaning": "maharṣīṇāṃ"
+            "transliteration": {
+                "hi": "महर्षीणां",
+                "en": "maharṣīṇāṃ",
+                "be": "মহর্ষীণাং",
+                "ka": "ಮಹರ್ಷೀಣಾಂ"
+            },
+            "meaning": {
+                "hi": "महर्षिणाम्",
+                "en": "maharṣīṇāṃ",
+                "be": "maharṣīṇāṃ",
+                "ka": "ಮಹರ್ಷಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "sarvaśaḥ"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "सर्वश:",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            }
         }
     ],
     "tej": {

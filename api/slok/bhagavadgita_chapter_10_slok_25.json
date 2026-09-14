@@ -14,8 +14,18 @@
         "en": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||",
         "ka": "ಮಹರ್ಷೀಣಾಂ ಭೃಗುರಹಂ ಗಿರಾಮಸ್ಮ್ಯೇಕಮಕ್ಷರಮ್ |\nಯಜ್ಞಾನಾಂ ಜಪಯಜ್ಞೋಽಸ್ಮಿ ಸ್ಥಾವರಾಣಾಂ ಹಿಮಾಲಯಃ ||೧೦-೨೫||"
     },
-    "transliteration": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||",
-    "life_application": "See God as Bhrigu among great sages, Om among words, silent repetition (japa) among sacrifices, and Himalayas among mountains.",
+    "transliteration": {
+        "hi": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||१०-२५||",
+        "en": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||",
+        "be": "মহর্ষীণাং ভৃগুরহং গিরামস্ম্যেকমক্ষরম্ |\nযজ্ঞানাং জপযজ্ঞোঽস্মি স্থাবরাণাং হিমালযঃ ||১০-২৫||",
+        "ka": "ಮಹರ್ಷೀಣಾಂ ಭೃಗುರಹಂ ಗಿರಾಮಸ್ಮ್ಯೇಕಮಕ್ಷರಮ್ |\nಯಜ್ಞಾನಾಂ ಜಪಯಜ್ಞೋಽಸ್ಮಿ ಸ್ಥಾವರಾಣಾಂ ಹಿಮಾಲಯಃ ||೧೦-೨೫||"
+    },
+    "life_application": {
+        "hi": "भगवान को महान ऋषियों में भृगु, शब्दों में ओम, यज्ञों में मौन जप (जप) और पर्वतों में हिमालय के रूप में देखें।",
+        "en": "See God as Bhrigu among great sages, Om among words, silent repetition (japa) among sacrifices, and Himalayas among mountains.",
+        "be": "মহান ঋষিদের মধ্যে ভৃগু, শব্দের মধ্যে ওম, যজ্ঞের মধ্যে নীরব পুনরাবৃত্তি (জপ) এবং পাহাড়ের মধ্যে হিমালয়কে দেখুন।",
+        "ka": "ಭಗವಂತನನ್ನು ಮಹಾನ್ ಋಷಿಗಳಲ್ಲಿ ಭೃಗು, ಪದಗಳಲ್ಲಿ ಓಂ, ತ್ಯಾಗಗಳಲ್ಲಿ ಮೌನ ಪುನರಾವರ್ತನೆ (ಜಪ) ಮತ್ತು ಪರ್ವತಗಳಲ್ಲಿ ಹಿಮಾಲಯವನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "महर्षीणां",
-            "transliteration": "maharṣīṇāṃ",
-            "meaning": "maharṣīṇāṃ"
+            "transliteration": {
+                "hi": "महर्षीणां",
+                "en": "maharṣīṇāṃ",
+                "be": "মহর্ষীণাং",
+                "ka": "ಮಹರ್ಷೀಣಾಂ"
+            },
+            "meaning": {
+                "hi": "महर्षिणाम्",
+                "en": "maharṣīṇāṃ",
+                "be": "maharṣīṇāṃ",
+                "ka": "ಮಹರ್ಷಿಗಳು"
+            }
         },
         {
             "sanskrit": "भृगुरहं",
-            "transliteration": "bhṛgurahaṃ",
-            "meaning": "bhṛgurahaṃ"
+            "transliteration": {
+                "hi": "भृगुरहं",
+                "en": "bhṛgurahaṃ",
+                "be": "ভৃগুরহং",
+                "ka": "ಭೃಗುರಹಂ"
+            },
+            "meaning": {
+                "hi": "भृगुरहम्",
+                "en": "bhṛgurahaṃ",
+                "be": "bhṛgurahaṃ",
+                "ka": "ಭೃಗುರಹಂ"
+            }
         },
         {
             "sanskrit": "गिरामस्म्येकमक्षरम्",
-            "transliteration": "girāmasmyekamakṣaram",
-            "meaning": "girāmasmyekamakṣaram"
+            "transliteration": {
+                "hi": "गिरामस्म्येकमक्षरम्",
+                "en": "girāmasmyekamakṣaram",
+                "be": "গিরামস্ম্যেকমক্ষরম্",
+                "ka": "ಗಿರಾಮಸ್ಮ್ಯೇಕಮಕ್ಷರಮ್"
+            },
+            "meaning": {
+                "hi": "गिरामस्म्येकमक्षरम्",
+                "en": "girāmasmyekamakṣaram",
+                "be": "girāmasmyekamakṣaram",
+                "ka": "ಗಿರಾಮಸ್ಮ್ಯೇಕಮಾಕ್ಷರಂ"
+            }
         },
         {
             "sanskrit": "यज्ञानां",
-            "transliteration": "yajñānāṃ",
-            "meaning": "yajñānāṃ"
+            "transliteration": {
+                "hi": "यज्ञानां",
+                "en": "yajñānāṃ",
+                "be": "যজ্ঞানাং",
+                "ka": "ಯಜ್ಞಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "यज्ञानां",
+                "en": "yajñānāṃ",
+                "be": "যজ্ঞনাম",
+                "ka": "ಯಜ್ಞಾನಂ"
+            }
         },
         {
             "sanskrit": "जपयज्ञोऽस्मि",
-            "transliteration": "japayajño'smi",
-            "meaning": "japayajño'smi"
+            "transliteration": {
+                "hi": "जपयज्ञोऽस्मि",
+                "en": "japayajño'smi",
+                "be": "জপযজ্ঞোঽস্মি",
+                "ka": "ಜಪಯಜ್ಞೋಽಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "जपयज्ञोऽस्मि",
+                "en": "japayajño'smi",
+                "be": "japayajño'smi",
+                "ka": "ಜಪಯಜ್ಞೋ'ಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "स्थावराणां",
-            "transliteration": "sthāvarāṇāṃ",
-            "meaning": "sthāvarāṇāṃ"
+            "transliteration": {
+                "hi": "स्थावराणां",
+                "en": "sthāvarāṇāṃ",
+                "be": "স্থাবরাণাং",
+                "ka": "ಸ್ಥಾವರಾಣಾಂ"
+            },
+            "meaning": {
+                "hi": "स्थावरानाम्",
+                "en": "sthāvarāṇāṃ",
+                "be": "স্থাবরণাণ",
+                "ka": "ಸ್ಥಾವರಣ"
+            }
         },
         {
             "sanskrit": "हिमालयः",
-            "transliteration": "himālayaḥ",
-            "meaning": "himālayaḥ"
+            "transliteration": {
+                "hi": "हिमालयः",
+                "en": "himālayaḥ",
+                "be": "হিমালযঃ",
+                "ka": "ಹಿಮಾಲಯಃ"
+            },
+            "meaning": {
+                "hi": "हिमालयः",
+                "en": "himālayaḥ",
+                "be": "হিমালয়ঃ",
+                "ka": "ಹಿಮಾಲಯಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||",
         "ka": "ಆದಿತ್ಯಾನಾಮಹಂ ವಿಷ್ಣುರ್ಜ್ಯೋತಿಷಾಂ ರವಿರಂಶುಮಾನ್ |\nಮರೀಚಿರ್ಮರುತಾಮಸ್ಮಿ ನಕ್ಷತ್ರಾಣಾಮಹಂ ಶಶೀ ||೧೦-೨೧||"
     },
-    "transliteration": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||",
-    "life_application": "See God as Vishnu among light-givers, the sun among luminaries, Marichi among winds, and the moon among stars.",
+    "transliteration": {
+        "hi": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||१०-२१||",
+        "en": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||",
+        "be": "আদিত্যানামহং বিষ্ণুর্জ্যোতিষাং রবিরংশুমান্ |\nমরীচির্মরুতামস্মি নক্ষত্রাণামহং শশী ||১০-২১||",
+        "ka": "ಆದಿತ್ಯಾನಾಮಹಂ ವಿಷ್ಣುರ್ಜ್ಯೋತಿಷಾಂ ರವಿರಂಶುಮಾನ್ |\nಮರೀಚಿರ್ಮರುತಾಮಸ್ಮಿ ನಕ್ಷತ್ರಾಣಾಮಹಂ ಶಶೀ ||೧೦-೨೧||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को प्रकाश देने वालों में विष्णु, प्रकाश देने वालों में सूर्य, हवाओं में मरीचि और तारों में चंद्रमा के रूप में देखें।",
+        "en": "See God as Vishnu among light-givers, the sun among luminaries, Marichi among winds, and the moon among stars.",
+        "be": "ভগবানকে আলোকদাতাদের মধ্যে বিষ্ণু, আলোকদের মধ্যে সূর্য, বাতাসের মধ্যে মারিচি এবং তারার মধ্যে চন্দ্রকে দেখুন।",
+        "ka": "ಭಗವಂತನನ್ನು ಬೆಳಕು ನೀಡುವವರಲ್ಲಿ ವಿಷ್ಣುವಿನಂತೆ, ಜ್ಯೋತಿರ್ಗಳಲ್ಲಿ ಸೂರ್ಯನಂತೆ, ಗಾಳಿಯಲ್ಲಿ ಮರೀಚಿಯಾಗಿ ಮತ್ತು ನಕ್ಷತ್ರಗಳಲ್ಲಿ ಚಂದ್ರನಾಗಿ ನೋಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "आदित्यानामहं",
-            "transliteration": "ādityānāmahaṃ",
-            "meaning": "ādityānāmahaṃ"
+            "transliteration": {
+                "hi": "आदित्यानामहं",
+                "en": "ādityānāmahaṃ",
+                "be": "আদিত্যানামহং",
+                "ka": "ಆದಿತ್ಯಾನಾಮಹಂ"
+            },
+            "meaning": {
+                "hi": "आदित्यानामहं",
+                "en": "ādityānāmahaṃ",
+                "be": "আদিত্যনামহাম",
+                "ka": "ಆದಿತ್ಯನಾಮಹಂ"
+            }
         },
         {
             "sanskrit": "विष्णुर्ज्योतिषां",
-            "transliteration": "viṣṇurjyotiṣāṃ",
-            "meaning": "viṣṇurjyotiṣāṃ"
+            "transliteration": {
+                "hi": "विष्णुर्ज्योतिषां",
+                "en": "viṣṇurjyotiṣāṃ",
+                "be": "বিষ্ণুর্জ্যোতিষাং",
+                "ka": "ವಿಷ್ಣುರ್ಜ್ಯೋತಿಷಾಂ"
+            },
+            "meaning": {
+                "hi": "विष्णुर्ज्योतिषाम्",
+                "en": "viṣṇurjyotiṣāṃ",
+                "be": "বিষ্ণুরজ্যোতিষ্যাণ",
+                "ka": "ವಿಷ್ಣುರ್ಜ್ಯೋತಿಷಂ"
+            }
         },
         {
             "sanskrit": "रविरंशुमान्",
-            "transliteration": "raviraṃśumān",
-            "meaning": "raviraṃśumān"
+            "transliteration": {
+                "hi": "रविरंशुमान्",
+                "en": "raviraṃśumān",
+                "be": "রবিরংশুমান্",
+                "ka": "ರವಿರಂಶುಮಾನ್"
+            },
+            "meaning": {
+                "hi": "रविरंशुमान",
+                "en": "raviraṃśumān",
+                "be": "রাবিরাসুমান",
+                "ka": "ರವಿರಶುಮಾನ್"
+            }
         },
         {
             "sanskrit": "मरीचिर्मरुतामस्मि",
-            "transliteration": "marīcirmarutāmasmi",
-            "meaning": "marīcirmarutāmasmi"
+            "transliteration": {
+                "hi": "मरीचिर्मरुतामस्मि",
+                "en": "marīcirmarutāmasmi",
+                "be": "মরীচির্মরুতামস্মি",
+                "ka": "ಮರೀಚಿರ್ಮರುತಾಮಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "मरीचिर्मरुतमस्मि",
+                "en": "marīcirmarutāmasmi",
+                "be": "marīcirmarutāmasmi",
+                "ka": "ಮರಿಸಿರ್ಮರುತಮಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "नक्षत्राणामहं",
-            "transliteration": "nakṣatrāṇāmahaṃ",
-            "meaning": "nakṣatrāṇāmahaṃ"
+            "transliteration": {
+                "hi": "नक्षत्राणामहं",
+                "en": "nakṣatrāṇāmahaṃ",
+                "be": "নক্ষত্রাণামহং",
+                "ka": "ನಕ್ಷತ್ರಾಣಾಮಹಂ"
+            },
+            "meaning": {
+                "hi": "नक्षत्राणामहं",
+                "en": "nakṣatrāṇāmahaṃ",
+                "be": "নক্ষত্রানামহাঁ",
+                "ka": "ನಕ್ಷತ್ರಾಣಮಹಂ"
+            }
         },
         {
             "sanskrit": "शशी",
-            "transliteration": "śaśī",
-            "meaning": "śaśī"
+            "transliteration": {
+                "hi": "शशी",
+                "en": "śaśī",
+                "be": "শশী",
+                "ka": "ಶಶೀ"
+            },
+            "meaning": {
+                "hi": "शशि",
+                "en": "śaśī",
+                "be": "শশী",
+                "ka": "ಶಶಿ"
+            }
         }
     ],
     "tej": {

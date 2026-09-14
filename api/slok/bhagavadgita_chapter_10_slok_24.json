@@ -14,8 +14,18 @@
         "en": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||",
         "ka": "ಪುರೋಧಸಾಂ ಚ ಮುಖ್ಯಂ ಮಾಂ ವಿದ್ಧಿ ಪಾರ್ಥ ಬೃಹಸ್ಪತಿಮ್ |\nಸೇನಾನೀನಾಮಹಂ ಸ್ಕನ್ದಃ ಸರಸಾಮಸ್ಮಿ ಸಾಗರಃ ||೧೦-೨೪||"
     },
-    "transliteration": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||",
-    "life_application": "Know God as Brihaspati among priests, Skanda among generals, and the vast ocean among bodies of water.",
+    "transliteration": {
+        "hi": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |\nसेनानीनामहं स्कन्दः सरसामस्मि सागरः ||१०-२४||",
+        "en": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||",
+        "be": "পুরোধসাং চ মুখ্যং মাং বিদ্ধি পার্থ বৃহস্পতিম্ |\nসেনানীনামহং স্কন্দঃ সরসামস্মি সাগরঃ ||১০-২৪||",
+        "ka": "ಪುರೋಧಸಾಂ ಚ ಮುಖ್ಯಂ ಮಾಂ ವಿದ್ಧಿ ಪಾರ್ಥ ಬೃಹಸ್ಪತಿಮ್ |\nಸೇನಾನೀನಾಮಹಂ ಸ್ಕನ್ದಃ ಸರಸಾಮಸ್ಮಿ ಸಾಗರಃ ||೧೦-೨೪||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को पुरोहितों में बृहस्पति, सेनापतियों में स्कंद और जलाशयों में विशाल महासागर के रूप में जानो।",
+        "en": "Know God as Brihaspati among priests, Skanda among generals, and the vast ocean among bodies of water.",
+        "be": "ভগবানকে পুরোহিতদের মধ্যে বৃহস্পতি, সেনাপতিদের মধ্যে স্কন্দ এবং জলের মধ্যে বিশাল সমুদ্র হিসাবে জানুন।",
+        "ka": "ಭಗವಂತನನ್ನು ಪುರೋಹಿತರಲ್ಲಿ ಬೃಹಸ್ಪತಿ ಎಂದೂ, ಸೇನಾಧಿಪತಿಗಳಲ್ಲಿ ಸ್ಕಂದ ಎಂದೂ, ಜಲರಾಶಿಗಳಲ್ಲಿ ವಿಶಾಲವಾದ ಸಾಗರ ಎಂದೂ ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Leadership"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "पुरोधसां",
-            "transliteration": "purodhasāṃ",
-            "meaning": "purodhasāṃ"
+            "transliteration": {
+                "hi": "पुरोधसां",
+                "en": "purodhasāṃ",
+                "be": "পুরোধসাং",
+                "ka": "ಪುರೋಧಸಾಂ"
+            },
+            "meaning": {
+                "hi": "पुरोधासन",
+                "en": "purodhasāṃ",
+                "be": "পুরোধসন",
+                "ka": "ಪುರೋಧಸಂ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मुख्यं",
-            "transliteration": "mukhyaṃ",
-            "meaning": "mukhyaṃ"
+            "transliteration": {
+                "hi": "मुख्यं",
+                "en": "mukhyaṃ",
+                "be": "মুখ্যং",
+                "ka": "ಮುಖ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "मुख्यम्",
+                "en": "mukhyaṃ",
+                "be": "মুখ্য",
+                "ka": "mukhyaṃ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "viddhi"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "बृहस्पतिम्",
-            "transliteration": "bṛhaspatim",
-            "meaning": "bṛhaspatim"
+            "transliteration": {
+                "hi": "बृहस्पतिम्",
+                "en": "bṛhaspatim",
+                "be": "বৃহস্পতিম্",
+                "ka": "ಬೃಹಸ್ಪತಿಮ್"
+            },
+            "meaning": {
+                "hi": "बृहस्पतिम्",
+                "en": "bṛhaspatim",
+                "be": "bṛhaspatim",
+                "ka": "ಬೃಹಸ್ಪತಿಮ್"
+            }
         },
         {
             "sanskrit": "सेनानीनामहं",
-            "transliteration": "senānīnāmahaṃ",
-            "meaning": "senānīnāmahaṃ"
+            "transliteration": {
+                "hi": "सेनानीनामहं",
+                "en": "senānīnāmahaṃ",
+                "be": "সেনানীনামহং",
+                "ka": "ಸೇನಾನೀನಾಮಹಂ"
+            },
+            "meaning": {
+                "hi": "सेनानिनामहं",
+                "en": "senānīnāmahaṃ",
+                "be": "সেনানীনামহাম",
+                "ka": "ಸೇನಾನಿಮಹಂ"
+            }
         },
         {
             "sanskrit": "स्कन्दः",
-            "transliteration": "skandaḥ",
-            "meaning": "skandaḥ"
+            "transliteration": {
+                "hi": "स्कन्दः",
+                "en": "skandaḥ",
+                "be": "স্কন্দঃ",
+                "ka": "ಸ್ಕನ್ದಃ"
+            },
+            "meaning": {
+                "hi": "स्कंदः",
+                "en": "skandaḥ",
+                "be": "স্কন্দঃ",
+                "ka": "ಸ್ಕಂದಃ"
+            }
         },
         {
             "sanskrit": "सरसामस्मि",
-            "transliteration": "sarasāmasmi",
-            "meaning": "sarasāmasmi"
+            "transliteration": {
+                "hi": "सरसामस्मि",
+                "en": "sarasāmasmi",
+                "be": "সরসামস্মি",
+                "ka": "ಸರಸಾಮಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "सरसामास्मि",
+                "en": "sarasāmasmi",
+                "be": "সরসামাস্মি",
+                "ka": "ಸರಸ್ಮಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "सागरः",
-            "transliteration": "sāgaraḥ",
-            "meaning": "sāgaraḥ"
+            "transliteration": {
+                "hi": "सागरः",
+                "en": "sāgaraḥ",
+                "be": "সাগরঃ",
+                "ka": "ಸಾಗರಃ"
+            },
+            "meaning": {
+                "hi": "सागरः",
+                "en": "sāgaraḥ",
+                "be": "সাগরঃ",
+                "ka": "ಸಾಗರಃ"
+            }
         }
     ],
     "tej": {

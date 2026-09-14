@@ -14,8 +14,18 @@
         "en": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||",
         "ka": "ವೇದಾನಾಂ ಸಾಮವೇದೋಽಸ್ಮಿ ದೇವಾನಾಮಸ್ಮಿ ವಾಸವಃ |\nಇನ್ದ್ರಿಯಾಣಾಂ ಮನಶ್ಚಾಸ್ಮಿ ಭೂತಾನಾಮಸ್ಮಿ ಚೇತನಾ ||೧೦-೨೨||"
     },
-    "transliteration": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||",
-    "life_application": "Perceive God as the Sama Veda among scriptures, Indra among gods, mind among senses, and consciousness in beings.",
+    "transliteration": {
+        "hi": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः |\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||",
+        "en": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||",
+        "be": "বেদানাং সামবেদোঽস্মি দেবানামস্মি বাসবঃ |\nইন্দ্রিযাণাং মনশ্চাস্মি ভূতানামস্মি চেতনা ||১০-২২||",
+        "ka": "ವೇದಾನಾಂ ಸಾಮವೇದೋಽಸ್ಮಿ ದೇವಾನಾಮಸ್ಮಿ ವಾಸವಃ |\nಇನ್ದ್ರಿಯಾಣಾಂ ಮನಶ್ಚಾಸ್ಮಿ ಭೂತಾನಾಮಸ್ಮಿ ಚೇತನಾ ||೧೦-೨೨||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को शास्त्रों में सामवेद के रूप में, देवताओं में इंद्र के रूप में, इंद्रियों में मन के रूप में और प्राणियों में चेतना के रूप में समझें।",
+        "en": "Perceive God as the Sama Veda among scriptures, Indra among gods, mind among senses, and consciousness in beings.",
+        "be": "শাস্ত্রের মধ্যে ঈশ্বরকে সাম বেদ, দেবতাদের মধ্যে ইন্দ্র, ইন্দ্রিয়ের মধ্যে মন এবং প্রাণীদের মধ্যে চেতনাকে উপলব্ধি করুন।",
+        "ka": "ಧರ್ಮಗ್ರಂಥಗಳಲ್ಲಿ ದೇವರನ್ನು ಸಾಮವೇದ, ದೇವರುಗಳಲ್ಲಿ ಇಂದ್ರ, ಇಂದ್ರಿಯಗಳಲ್ಲಿ ಮನಸ್ಸು ಮತ್ತು ಜೀವಿಗಳಲ್ಲಿ ಪ್ರಜ್ಞೆ ಎಂದು ಗ್ರಹಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Knowledge"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "वेदानां",
-            "transliteration": "vedānāṃ",
-            "meaning": "vedānāṃ"
+            "transliteration": {
+                "hi": "वेदानां",
+                "en": "vedānāṃ",
+                "be": "বেদানাং",
+                "ka": "ವೇದಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "वेदानां",
+                "en": "vedānāṃ",
+                "be": "vedānāṃ",
+                "ka": "ವೇದನಾಂ"
+            }
         },
         {
             "sanskrit": "सामवेदोऽस्मि",
-            "transliteration": "sāmavedo'smi",
-            "meaning": "sāmavedo'smi"
+            "transliteration": {
+                "hi": "सामवेदोऽस्मि",
+                "en": "sāmavedo'smi",
+                "be": "সামবেদোঽস্মি",
+                "ka": "ಸಾಮವೇದೋಽಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "सामवेदोऽस्मि",
+                "en": "sāmavedo'smi",
+                "be": "samavedo'smi",
+                "ka": "ಸಾಮವೇದೋ'ಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "देवानामस्मि",
-            "transliteration": "devānāmasmi",
-            "meaning": "devānāmasmi"
+            "transliteration": {
+                "hi": "देवानामस्मि",
+                "en": "devānāmasmi",
+                "be": "দেবানামস্মি",
+                "ka": "ದೇವಾನಾಮಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "देवानामस्मि",
+                "en": "devānāmasmi",
+                "be": "devānāmasmi",
+                "ka": "ದೇವನಾಮಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "वासवः",
-            "transliteration": "vāsavaḥ",
-            "meaning": "vāsavaḥ"
+            "transliteration": {
+                "hi": "वासवः",
+                "en": "vāsavaḥ",
+                "be": "বাসবঃ",
+                "ka": "ವಾಸವಃ"
+            },
+            "meaning": {
+                "hi": "वासवः",
+                "en": "vāsavaḥ",
+                "be": "vāsavaḥ",
+                "ka": "ವಾಸವಃ"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणां",
-            "transliteration": "indriyāṇāṃ",
-            "meaning": "indriyāṇāṃ"
+            "transliteration": {
+                "hi": "इन्द्रियाणां",
+                "en": "indriyāṇāṃ",
+                "be": "ইন্দ্রিযাণাং",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಾಂ"
+            },
+            "meaning": {
+                "hi": "इंद्रियाणां",
+                "en": "indriyāṇāṃ",
+                "be": "indriyāṇāṃ",
+                "ka": "ಇಂದ್ರಿಯಾನಂ"
+            }
         },
         {
             "sanskrit": "मनश्चास्मि",
-            "transliteration": "manaścāsmi",
-            "meaning": "manaścāsmi"
+            "transliteration": {
+                "hi": "मनश्चास्मि",
+                "en": "manaścāsmi",
+                "be": "মনশ্চাস্মি",
+                "ka": "ಮನಶ್ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "मनश्चास्मि",
+                "en": "manaścāsmi",
+                "be": "মনস্কাস্মি",
+                "ka": "ಮನಶ್ಚಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "भूतानामस्मि",
-            "transliteration": "bhūtānāmasmi",
-            "meaning": "bhūtānāmasmi"
+            "transliteration": {
+                "hi": "भूतानामस्मि",
+                "en": "bhūtānāmasmi",
+                "be": "ভূতানামস্মি",
+                "ka": "ಭೂತಾನಾಮಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "भूतानामस्मि",
+                "en": "bhūtānāmasmi",
+                "be": "bhūtānāmasmi",
+                "ka": "ಭೂತಾನಮಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "चेतना",
-            "transliteration": "cetanā",
-            "meaning": "cetanā"
+            "transliteration": {
+                "hi": "चेतना",
+                "en": "cetanā",
+                "be": "চেতনা",
+                "ka": "ಚೇತನಾ"
+            },
+            "meaning": {
+                "hi": "सीताना",
+                "en": "cetanā",
+                "be": "cetanā",
+                "ka": "cetanā"
+            }
         }
     ],
     "tej": {

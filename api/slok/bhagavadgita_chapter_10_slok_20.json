@@ -14,8 +14,18 @@
         "en": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||",
         "ka": "ಅಹಮಾತ್ಮಾ ಗುಡಾಕೇಶ ಸರ್ವಭೂತಾಶಯಸ್ಥಿತಃ |\nಅಹಮಾದಿಶ್ಚ ಮಧ್ಯಂ ಚ ಭೂತಾನಾಮನ್ತ ಏವ ಚ ||೧೦-೨೦||"
     },
-    "transliteration": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||",
-    "life_application": "Know God as the Self seated in the heart of all beings, the beginning, middle, and end of all existence.",
+    "transliteration": {
+        "hi": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः |\nअहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||",
+        "en": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||",
+        "be": "অহমাত্মা গুডাকেশ সর্বভূতাশযস্থিতঃ |\nঅহমাদিশ্চ মধ্যং চ ভূতানামন্ত এব চ ||১০-২০||",
+        "ka": "ಅಹಮಾತ್ಮಾ ಗುಡಾಕೇಶ ಸರ್ವಭೂತಾಶಯಸ್ಥಿತಃ |\nಅಹಮಾದಿಶ್ಚ ಮಧ್ಯಂ ಚ ಭೂತಾನಾಮನ್ತ ಏವ ಚ ||೧೦-೨೦||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को समस्त प्राणियों के हृदय में, समस्त अस्तित्व के आदि, मध्य और अंत में विराजमान आत्मा के रूप में जानो।",
+        "en": "Know God as the Self seated in the heart of all beings, the beginning, middle, and end of all existence.",
+        "be": "সমস্ত অস্তিত্বের আদি, মধ্য এবং শেষ সমস্ত প্রাণীর হৃদয়ে বিরাজমান স্বয়ং ঈশ্বরকে জানুন।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ ಹೃದಯದಲ್ಲಿ, ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದ ಆದಿ, ಮಧ್ಯ ಮತ್ತು ಅಂತ್ಯದಲ್ಲಿ ಕುಳಿತಿರುವ ಸ್ವಯಂ ಎಂದು ದೇವರನ್ನು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Self-Realization",
         "Devotion"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अहमात्मा",
-            "transliteration": "ahamātmā",
-            "meaning": "ahamātmā"
+            "transliteration": {
+                "hi": "अहमात्मा",
+                "en": "ahamātmā",
+                "be": "অহমাত্মা",
+                "ka": "ಅಹಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "अहमात्मा",
+                "en": "ahamātmā",
+                "be": "অহমাত্মা",
+                "ka": "ಅಹಮಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "गुडाकेश",
-            "transliteration": "guḍākeśa",
-            "meaning": "guḍākeśa"
+            "transliteration": {
+                "hi": "गुडाकेश",
+                "en": "guḍākeśa",
+                "be": "গুডাকেশ",
+                "ka": "ಗುಡಾಕೇಶ"
+            },
+            "meaning": {
+                "hi": "गुडाकेश",
+                "en": "guḍākeśa",
+                "be": "গুদাকেশ",
+                "ka": "ಗುಡಾಕೇಶ"
+            }
         },
         {
             "sanskrit": "सर्वभूताशयस्थितः",
-            "transliteration": "sarvabhūtāśayasthitaḥ",
-            "meaning": "sarvabhūtāśayasthitaḥ"
+            "transliteration": {
+                "hi": "सर्वभूताशयस्थितः",
+                "en": "sarvabhūtāśayasthitaḥ",
+                "be": "সর্বভূতাশযস্থিতঃ",
+                "ka": "ಸರ್ವಭೂತಾಶಯಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतशयस्थितः",
+                "en": "sarvabhūtāśayasthitaḥ",
+                "be": "সর্বভূতাশয়স্থিতঃ",
+                "ka": "ಸರ್ವಭೂತಶಯಸ್ಥಿತಃ"
+            }
         },
         {
             "sanskrit": "अहमादिश्च",
-            "transliteration": "ahamādiśca",
-            "meaning": "ahamādiśca"
+            "transliteration": {
+                "hi": "अहमादिश्च",
+                "en": "ahamādiśca",
+                "be": "অহমাদিশ্চ",
+                "ka": "ಅಹಮಾದಿಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "अहमदिश्का",
+                "en": "ahamādiśca",
+                "be": "আহমাদিস্ক",
+                "ka": "ಅಹಮದಿಶ್ಚ"
+            }
         },
         {
             "sanskrit": "मध्यं",
-            "transliteration": "madhyaṃ",
-            "meaning": "madhyaṃ"
+            "transliteration": {
+                "hi": "मध्यं",
+                "en": "madhyaṃ",
+                "be": "মধ্যং",
+                "ka": "ಮಧ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "मध्यं",
+                "en": "madhyaṃ",
+                "be": "মধ্য",
+                "ka": "ಮಧ್ಯಂ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूतानामन्त",
-            "transliteration": "bhūtānāmanta",
-            "meaning": "bhūtānāmanta"
+            "transliteration": {
+                "hi": "भूतानामन्त",
+                "en": "bhūtānāmanta",
+                "be": "ভূতানামন্ত",
+                "ka": "ಭೂತಾನಾಮನ್ತ"
+            },
+            "meaning": {
+                "hi": "भूतानामन्ता",
+                "en": "bhūtānāmanta",
+                "be": "ভূতানামন্ত",
+                "ka": "ಭೂತಾನಮಂತ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||",
         "ka": "ಅಶ್ವತ್ಥಃ ಸರ್ವವೃಕ್ಷಾಣಾಂ ದೇವರ್ಷೀಣಾಂ ಚ ನಾರದಃ |\nಗನ್ಧರ್ವಾಣಾಂ ಚಿತ್ರರಥಃ ಸಿದ್ಧಾನಾಂ ಕಪಿಲೋ ಮುನಿಃ ||೧೦-೨೬||"
     },
-    "transliteration": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||",
-    "life_application": "Perceive God as the banyan tree among trees, Narada among divine sages, Chitraratha among singers, Kapila among perfected souls.",
+    "transliteration": {
+        "hi": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः |\nगन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||",
+        "en": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||",
+        "be": "অশ্বত্থঃ সর্ববৃক্ষাণাং দেবর্ষীণাং চ নারদঃ |\nগন্ধর্বাণাং চিত্ররথঃ সিদ্ধানাং কপিলো মুনিঃ ||১০-২৬||",
+        "ka": "ಅಶ್ವತ್ಥಃ ಸರ್ವವೃಕ್ಷಾಣಾಂ ದೇವರ್ಷೀಣಾಂ ಚ ನಾರದಃ |\nಗನ್ಧರ್ವಾಣಾಂ ಚಿತ್ರರಥಃ ಸಿದ್ಧಾನಾಂ ಕಪಿಲೋ ಮುನಿಃ ||೧೦-೨೬||"
+    },
+    "life_application": {
+        "hi": "भगवान को वृक्षों में वटवृक्ष के रूप में, दिव्य ऋषियों में नारद को, गायकों में चित्ररथ को, सिद्ध आत्माओं में कपिल को समझें।",
+        "en": "Perceive God as the banyan tree among trees, Narada among divine sages, Chitraratha among singers, Kapila among perfected souls.",
+        "be": "ভগবানকে বৃক্ষের মধ্যে বটবৃক্ষ, ঋষিদের মধ্যে নারদ, গায়কদের মধ্যে চিত্ররথ, সিদ্ধ আত্মার মধ্যে কপিলাকে উপলব্ধি করুন।",
+        "ka": "ದೇವರನ್ನು ಮರಗಳ ನಡುವೆ ಆಲದ ಮರವಾಗಿ, ದಿವ್ಯ ಋಷಿಗಳಲ್ಲಿ ನಾರದ, ಗಾಯಕರಲ್ಲಿ ಚಿತ್ರರಥ, ಪರಿಪೂರ್ಣ ಆತ್ಮಗಳಲ್ಲಿ ಕಪಿಲನನ್ನು ಗ್ರಹಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "अश्वत्थः",
-            "transliteration": "aśvatthaḥ",
-            "meaning": "aśvatthaḥ"
+            "transliteration": {
+                "hi": "अश्वत्थः",
+                "en": "aśvatthaḥ",
+                "be": "অশ্বত্থঃ",
+                "ka": "ಅಶ್ವತ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "अश्वत्थ:",
+                "en": "aśvatthaḥ",
+                "be": "অশ্বত্থঃ",
+                "ka": "ಅಶ್ವತ್ಥಃ"
+            }
         },
         {
             "sanskrit": "सर्ववृक्षाणां",
-            "transliteration": "sarvavṛkṣāṇāṃ",
-            "meaning": "sarvavṛkṣāṇāṃ"
+            "transliteration": {
+                "hi": "सर्ववृक्षाणां",
+                "en": "sarvavṛkṣāṇāṃ",
+                "be": "সর্ববৃক্ষাণাং",
+                "ka": "ಸರ್ವವೃಕ್ಷಾಣಾಂ"
+            },
+            "meaning": {
+                "hi": "सर्ववृक्षाणाम्",
+                "en": "sarvavṛkṣāṇāṃ",
+                "be": "sarvavṛkṣāṇāṃ",
+                "ka": "ಸರ್ವವೃಕ್ಷಣಂ"
+            }
         },
         {
             "sanskrit": "देवर्षीणां",
-            "transliteration": "devarṣīṇāṃ",
-            "meaning": "devarṣīṇāṃ"
+            "transliteration": {
+                "hi": "देवर्षीणां",
+                "en": "devarṣīṇāṃ",
+                "be": "দেবর্ষীণাং",
+                "ka": "ದೇವರ್ಷೀಣಾಂ"
+            },
+            "meaning": {
+                "hi": "देवर्षिणाम्",
+                "en": "devarṣīṇāṃ",
+                "be": "devarṣīṇāṃ",
+                "ka": "ದೇವರ್ಷಿಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "नारदः",
-            "transliteration": "nāradaḥ",
-            "meaning": "nāradaḥ"
+            "transliteration": {
+                "hi": "नारदः",
+                "en": "nāradaḥ",
+                "be": "নারদঃ",
+                "ka": "ನಾರದಃ"
+            },
+            "meaning": {
+                "hi": "नारदः",
+                "en": "nāradaḥ",
+                "be": "নারদঃ",
+                "ka": "ನಾರದಃ"
+            }
         },
         {
             "sanskrit": "गन्धर्वाणां",
-            "transliteration": "gandharvāṇāṃ",
-            "meaning": "gandharvāṇāṃ"
+            "transliteration": {
+                "hi": "गन्धर्वाणां",
+                "en": "gandharvāṇāṃ",
+                "be": "গন্ধর্বাণাং",
+                "ka": "ಗನ್ಧರ್ವಾಣಾಂ"
+            },
+            "meaning": {
+                "hi": "गंधर्वानाम्",
+                "en": "gandharvāṇāṃ",
+                "be": "গন্ধর্বনাণ",
+                "ka": "ಗಂಧರ್ವಾಣ"
+            }
         },
         {
             "sanskrit": "चित्ररथः",
-            "transliteration": "citrarathaḥ",
-            "meaning": "citrarathaḥ"
+            "transliteration": {
+                "hi": "चित्ररथः",
+                "en": "citrarathaḥ",
+                "be": "চিত্ররথঃ",
+                "ka": "ಚಿತ್ರರಥಃ"
+            },
+            "meaning": {
+                "hi": "चित्ररथ:",
+                "en": "citrarathaḥ",
+                "be": "সিত্ররথঃ",
+                "ka": "ಸಿತ್ರರಥಃ"
+            }
         },
         {
             "sanskrit": "सिद्धानां",
-            "transliteration": "siddhānāṃ",
-            "meaning": "siddhānāṃ"
+            "transliteration": {
+                "hi": "सिद्धानां",
+                "en": "siddhānāṃ",
+                "be": "সিদ্ধানাং",
+                "ka": "ಸಿದ್ಧಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "सिद्धानां",
+                "en": "siddhānāṃ",
+                "be": "siddhānān",
+                "ka": "ಸಿದ್ಧನಂ"
+            }
         },
         {
             "sanskrit": "कपिलो",
-            "transliteration": "kapilo",
-            "meaning": "kapilo"
+            "transliteration": {
+                "hi": "कपिलो",
+                "en": "kapilo",
+                "be": "কপিলো",
+                "ka": "ಕಪಿಲೋ"
+            },
+            "meaning": {
+                "hi": "कपिलो",
+                "en": "kapilo",
+                "be": "কাপিলো",
+                "ka": "ಕಪಿಲೋ"
+            }
         },
         {
             "sanskrit": "मुनिः",
-            "transliteration": "muniḥ",
-            "meaning": "muniḥ"
+            "transliteration": {
+                "hi": "मुनिः",
+                "en": "muniḥ",
+                "be": "মুনিঃ",
+                "ka": "ಮುನಿಃ"
+            },
+            "meaning": {
+                "hi": "मुनिः",
+                "en": "muniḥ",
+                "be": "মুনিঃ",
+                "ka": "ಮುನಿಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nkāma eṣa krodha eṣa rajoguṇasamudbhavaḥ .\nmahāśano mahāpāpmā viddhyenamiha vairiṇam ||3-37||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕಾಮ ಏಷ ಕ್ರೋಧ ಏಷ ರಜೋಗುಣಸಮುದ್ಭವಃ |\nಮಹಾಶನೋ ಮಹಾಪಾಪ್ಮಾ ವಿದ್ಧ್ಯೇನಮಿಹ ವೈರಿಣಮ್ ||೩-೩೭||"
     },
-    "transliteration": "śrībhagavānuvāca .\nkāma eṣa krodha eṣa rajoguṇasamudbhavaḥ .\nmahāśano mahāpāpmā viddhyenamiha vairiṇam ||3-37||",
-    "life_application": "Recognize insatiable desire and knee-jerk anger as internal obstacles that plunder your peace of mind and self-control.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nकाम एष क्रोध एष रजोगुणसमुद्भवः |\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||३-३७||",
+        "en": "śrībhagavānuvāca .\nkāma eṣa krodha eṣa rajoguṇasamudbhavaḥ .\nmahāśano mahāpāpmā viddhyenamiha vairiṇam ||3-37||",
+        "be": "শ্রীভগবানুবাচ |\nকাম এষ ক্রোধ এষ রজোগুণসমুদ্ভবঃ |\nমহাশনো মহাপাপ্মা বিদ্ধ্যেনমিহ বৈরিণম্ ||৩-৩৭||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕಾಮ ಏಷ ಕ್ರೋಧ ಏಷ ರಜೋಗುಣಸಮುದ್ಭವಃ |\nಮಹಾಶನೋ ಮಹಾಪಾಪ್ಮಾ ವಿದ್ಧ್ಯೇನಮಿಹ ವೈರಿಣಮ್ ||೩-೩೭||"
+    },
+    "life_application": {
+        "hi": "अतृप्त इच्छा और अचानक क्रोध को आंतरिक बाधाओं के रूप में पहचानें जो आपके मन की शांति और आत्म-नियंत्रण को लूटती हैं।",
+        "en": "Recognize insatiable desire and knee-jerk anger as internal obstacles that plunder your peace of mind and self-control.",
+        "be": "অতৃপ্ত ইচ্ছা এবং হাঁটু-ঝাঁকানো রাগকে অভ্যন্তরীণ বাধা হিসাবে স্বীকৃতি দিন যা আপনার মনের শান্তি এবং আত্ম-নিয়ন্ত্রণ লুণ্ঠন করে।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸಿನ ಶಾಂತಿ ಮತ್ತು ಸ್ವಯಂ ನಿಯಂತ್ರಣವನ್ನು ಲೂಟಿ ಮಾಡುವ ಆಂತರಿಕ ಅಡೆತಡೆಗಳು ಎಂದು ತೃಪ್ತಿಪಡಿಸಲಾಗದ ಬಯಕೆ ಮತ್ತು ಮೊಣಕಾಲಿನ ಕೋಪವನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "काम",
-            "transliteration": "kāma",
-            "meaning": "kāma"
+            "transliteration": {
+                "hi": "काम",
+                "en": "kāma",
+                "be": "কাম",
+                "ka": "ಕಾಮ"
+            },
+            "meaning": {
+                "hi": "काम",
+                "en": "kāma",
+                "be": "কামা",
+                "ka": "ಕಾಮ"
+            }
         },
         {
             "sanskrit": "एष",
-            "transliteration": "eṣa",
-            "meaning": "eṣa"
+            "transliteration": {
+                "hi": "एष",
+                "en": "eṣa",
+                "be": "এষ",
+                "ka": "ಏಷ"
+            },
+            "meaning": {
+                "hi": "ईशा",
+                "en": "eṣa",
+                "be": "eṣa",
+                "ka": "esha"
+            }
         },
         {
             "sanskrit": "क्रोध",
-            "transliteration": "krodha",
-            "meaning": "krodha"
+            "transliteration": {
+                "hi": "क्रोध",
+                "en": "krodha",
+                "be": "ক্রোধ",
+                "ka": "ಕ್ರೋಧ"
+            },
+            "meaning": {
+                "hi": "क्रोध",
+                "en": "krodha",
+                "be": "ক্রোধ",
+                "ka": "ಕ್ರೋಧ"
+            }
         },
         {
             "sanskrit": "एष",
-            "transliteration": "eṣa",
-            "meaning": "eṣa"
+            "transliteration": {
+                "hi": "एष",
+                "en": "eṣa",
+                "be": "এষ",
+                "ka": "ಏಷ"
+            },
+            "meaning": {
+                "hi": "ईशा",
+                "en": "eṣa",
+                "be": "eṣa",
+                "ka": "esha"
+            }
         },
         {
             "sanskrit": "रजोगुणसमुद्भवः",
-            "transliteration": "rajoguṇasamudbhavaḥ",
-            "meaning": "rajoguṇasamudbhavaḥ"
+            "transliteration": {
+                "hi": "रजोगुणसमुद्भवः",
+                "en": "rajoguṇasamudbhavaḥ",
+                "be": "রজোগুণসমুদ্ভবঃ",
+                "ka": "ರಜೋಗುಣಸಮುದ್ಭವಃ"
+            },
+            "meaning": {
+                "hi": "रजोगुणसमुद्भवः",
+                "en": "rajoguṇasamudbhavaḥ",
+                "be": "রাজোগুণসমুদ্ভবঃ",
+                "ka": "ರಾಜೋಗುಣಸಮುದ್ಭವಃ"
+            }
         },
         {
             "sanskrit": "महाशनो",
-            "transliteration": "mahāśano",
-            "meaning": "mahāśano"
+            "transliteration": {
+                "hi": "महाशनो",
+                "en": "mahāśano",
+                "be": "মহাশনো",
+                "ka": "ಮಹಾಶನೋ"
+            },
+            "meaning": {
+                "hi": "महाशानो",
+                "en": "mahāśano",
+                "be": "মহাশনো",
+                "ka": "ಮಹಾಶನೋ"
+            }
         },
         {
             "sanskrit": "महापाप्मा",
-            "transliteration": "mahāpāpmā",
-            "meaning": "mahāpāpmā"
+            "transliteration": {
+                "hi": "महापाप्मा",
+                "en": "mahāpāpmā",
+                "be": "মহাপাপ্মা",
+                "ka": "ಮಹಾಪಾಪ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "महापापमा",
+                "en": "mahāpāpmā",
+                "be": "মহাপাপমা",
+                "ka": "ಮಹಾಪಾಪ್ಮಾ"
+            }
         },
         {
             "sanskrit": "विद्ध्येनमिह",
-            "transliteration": "viddhyenamiha",
-            "meaning": "viddhyenamiha"
+            "transliteration": {
+                "hi": "विद्ध्येनमिह",
+                "en": "viddhyenamiha",
+                "be": "বিদ্ধ্যেনমিহ",
+                "ka": "ವಿದ್ಧ್ಯೇನಮಿಹ"
+            },
+            "meaning": {
+                "hi": "विद्ध्येनमिहा",
+                "en": "viddhyenamiha",
+                "be": "বিদ্যানমিহা",
+                "ka": "ವಿಧ್ಯೇನಮಿಹ"
+            }
         },
         {
             "sanskrit": "वैरिणम्",
-            "transliteration": "vairiṇam",
-            "meaning": "vairiṇam"
+            "transliteration": {
+                "hi": "वैरिणम्",
+                "en": "vairiṇam",
+                "be": "বৈরিণম্",
+                "ka": "ವೈರಿಣಮ್"
+            },
+            "meaning": {
+                "hi": "वैरिणम",
+                "en": "vairiṇam",
+                "be": "বৈরিনম",
+                "ka": "ವೈರಿಣಂ"
+            }
         }
     ],
     "tej": {

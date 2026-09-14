@@ -14,8 +14,18 @@
         "en": "dhūmenāvriyate vahniryathādarśo malena ca .\nyatholbenāvṛto garbhastathā tenedamāvṛtam ||3-38||",
         "ka": "ಧೂಮೇನಾವ್ರಿಯತೇ ವಹ್ನಿರ್ಯಥಾದರ್ಶೋ ಮಲೇನ ಚ |\nಯಥೋಲ್ಬೇನಾವೃತೋ ಗರ್ಭಸ್ತಥಾ ತೇನೇದಮಾವೃತಮ್ ||೩-೩೮||"
     },
-    "transliteration": "dhūmenāvriyate vahniryathādarśo malena ca .\nyatholbenāvṛto garbhastathā tenedamāvṛtam ||3-38||",
-    "life_application": "Clear away accumulated cravings and distractions so your innate wisdom and clarity can shine through clearly.",
+    "transliteration": {
+        "hi": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ||३-३८||",
+        "en": "dhūmenāvriyate vahniryathādarśo malena ca .\nyatholbenāvṛto garbhastathā tenedamāvṛtam ||3-38||",
+        "be": "ধূমেনাব্রিযতে বহ্নির্যথাদর্শো মলেন চ |\nযথোল্বেনাবৃতো গর্ভস্তথা তেনেদমাবৃতম্ ||৩-৩৮||",
+        "ka": "ಧೂಮೇನಾವ್ರಿಯತೇ ವಹ್ನಿರ್ಯಥಾದರ್ಶೋ ಮಲೇನ ಚ |\nಯಥೋಲ್ಬೇನಾವೃತೋ ಗರ್ಭಸ್ತಥಾ ತೇನೇದಮಾವೃತಮ್ ||೩-೩೮||"
+    },
+    "life_application": {
+        "hi": "संचित लालसाओं और विकर्षणों को दूर करें ताकि आपकी सहज बुद्धि और स्पष्टता स्पष्ट रूप से चमक सके।",
+        "en": "Clear away accumulated cravings and distractions so your innate wisdom and clarity can shine through clearly.",
+        "be": "জমে থাকা আকাঙ্ক্ষা এবং বিক্ষিপ্ততা দূর করুন যাতে আপনার সহজাত প্রজ্ঞা এবং স্বচ্ছতা স্পষ্টভাবে উজ্জ্বল হতে পারে।",
+        "ka": "ಸಂಗ್ರಹವಾದ ಕಡುಬಯಕೆಗಳು ಮತ್ತು ಗೊಂದಲಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ ಇದರಿಂದ ನಿಮ್ಮ ಸಹಜ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಸ್ಪಷ್ಟತೆ ಸ್ಪಷ್ಟವಾಗಿ ಹೊಳೆಯುತ್ತದೆ."
+    },
     "themes": [
         "Mindfulness",
         "Knowledge"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "धूमेनाव्रियते",
-            "transliteration": "dhūmenāvriyate",
-            "meaning": "dhūmenāvriyate"
+            "transliteration": {
+                "hi": "धूमेनाव्रियते",
+                "en": "dhūmenāvriyate",
+                "be": "ধূমেনাব্রিযতে",
+                "ka": "ಧೂಮೇನಾವ್ರಿಯತೇ"
+            },
+            "meaning": {
+                "hi": "धूमेनाव्रीयते",
+                "en": "dhūmenāvriyate",
+                "be": "dhūmenāvriyate",
+                "ka": "ಧೂಮೇನಾವ್ರಿಯತೇ"
+            }
         },
         {
             "sanskrit": "वह्निर्यथादर्शो",
-            "transliteration": "vahniryathādarśo",
-            "meaning": "vahniryathādarśo"
+            "transliteration": {
+                "hi": "वह्निर्यथादर्शो",
+                "en": "vahniryathādarśo",
+                "be": "বহ্নির্যথাদর্শো",
+                "ka": "ವಹ್ನಿರ್ಯಥಾದರ್ಶೋ"
+            },
+            "meaning": {
+                "hi": "वह्निर्यथादर्शो",
+                "en": "vahniryathādarśo",
+                "be": "বহ্নির্যথাদর্শো",
+                "ka": "ವಹ್ನಿರ್ಯಥಾದರ್ಶೋ"
+            }
         },
         {
             "sanskrit": "मलेन",
-            "transliteration": "malena",
-            "meaning": "malena"
+            "transliteration": {
+                "hi": "मलेन",
+                "en": "malena",
+                "be": "মলেন",
+                "ka": "ಮಲೇನ"
+            },
+            "meaning": {
+                "hi": "मैलेना",
+                "en": "malena",
+                "be": "ম্যালেনা",
+                "ka": "ಮಲೆನಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यथोल्बेनावृतो",
-            "transliteration": "yatholbenāvṛto",
-            "meaning": "yatholbenāvṛto"
+            "transliteration": {
+                "hi": "यथोल्बेनावृतो",
+                "en": "yatholbenāvṛto",
+                "be": "যথোল্বেনাবৃতো",
+                "ka": "ಯಥೋಲ್ಬೇನಾವೃತೋ"
+            },
+            "meaning": {
+                "hi": "यथोलबेनावृतो",
+                "en": "yatholbenāvṛto",
+                "be": "yatholbenāvṛto",
+                "ka": "ಯಾಥೋಲ್ಬೇನಾವೃತೋ"
+            }
         },
         {
             "sanskrit": "गर्भस्तथा",
-            "transliteration": "garbhastathā",
-            "meaning": "garbhastathā"
+            "transliteration": {
+                "hi": "गर्भस्तथा",
+                "en": "garbhastathā",
+                "be": "গর্ভস্তথা",
+                "ka": "ಗರ್ಭಸ್ತಥಾ"
+            },
+            "meaning": {
+                "hi": "गर्भस्थ",
+                "en": "garbhastathā",
+                "be": "গর্ভস্তথা",
+                "ka": "ಗರ್ಭಸ್ತಥಾ"
+            }
         },
         {
             "sanskrit": "तेनेदमावृतम्",
-            "transliteration": "tenedamāvṛtam",
-            "meaning": "tenedamāvṛtam"
+            "transliteration": {
+                "hi": "तेनेदमावृतम्",
+                "en": "tenedamāvṛtam",
+                "be": "তেনেদমাবৃতম্",
+                "ka": "ತೇನೇದಮಾವೃತಮ್"
+            },
+            "meaning": {
+                "hi": "तेनेदमावृतम्",
+                "en": "tenedamāvṛtam",
+                "be": "tenedamāvṛtam",
+                "ka": "ತೇನೆದಮಾವೃತಮ್"
+            }
         }
     ],
     "tej": {

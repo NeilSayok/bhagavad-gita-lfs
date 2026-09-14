@@ -14,8 +14,18 @@
         "en": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā .\nnirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ ||3-30||",
         "ka": "ಮಯಿ ಸರ್ವಾಣಿ ಕರ್ಮಾಣಿ ಸಂನ್ಯಸ್ಯಾಧ್ಯಾತ್ಮಚೇತಸಾ |\nನಿರಾಶೀರ್ನಿರ್ಮಮೋ ಭೂತ್ವಾ ಯುಧ್ಯಸ್ವ ವಿಗತಜ್ವರಃ ||೩-೩೦||"
     },
-    "transliteration": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā .\nnirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ ||3-30||",
-    "life_application": "Dedicate all your daily tasks to a higher divine purpose, working calmly without anxiety, possessiveness, or self-importance.",
+    "transliteration": {
+        "hi": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||३-३०||",
+        "en": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā .\nnirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ ||3-30||",
+        "be": "মযি সর্বাণি কর্মাণি সংন্যস্যাধ্যাত্মচেতসা |\nনিরাশীর্নির্মমো ভূত্বা যুধ্যস্ব বিগতজ্বরঃ ||৩-৩০||",
+        "ka": "ಮಯಿ ಸರ್ವಾಣಿ ಕರ್ಮಾಣಿ ಸಂನ್ಯಸ್ಯಾಧ್ಯಾತ್ಮಚೇತಸಾ |\nನಿರಾಶೀರ್ನಿರ್ಮಮೋ ಭೂತ್ವಾ ಯುಧ್ಯಸ್ವ ವಿಗತಜ್ವರಃ ||೩-೩೦||"
+    },
+    "life_application": {
+        "hi": "चिंता, स्वामित्व या आत्म-महत्व के बिना शांति से काम करते हुए, अपने सभी दैनिक कार्यों को एक उच्च दिव्य उद्देश्य के लिए समर्पित करें।",
+        "en": "Dedicate all your daily tasks to a higher divine purpose, working calmly without anxiety, possessiveness, or self-importance.",
+        "be": "আপনার সমস্ত দৈনন্দিন কাজগুলিকে উচ্চতর ঐশ্বরিক উদ্দেশ্যের জন্য উত্সর্গ করুন, উদ্বেগ, অধিকার বা আত্ম-গুরুত্ব ছাড়াই শান্তভাবে কাজ করুন।",
+        "ka": "ನಿಮ್ಮ ಎಲ್ಲಾ ದೈನಂದಿನ ಕಾರ್ಯಗಳನ್ನು ಉನ್ನತ ದೈವಿಕ ಉದ್ದೇಶಕ್ಕಾಗಿ ಸಮರ್ಪಿಸಿ, ಆತಂಕ, ಸ್ವಾಮ್ಯಶೀಲತೆ ಅಥವಾ ಸ್ವಯಂ ಪ್ರಾಮುಖ್ಯತೆ ಇಲ್ಲದೆ ಶಾಂತವಾಗಿ ಕೆಲಸ ಮಾಡಿ."
+    },
     "themes": [
         "Devotion",
         "Detachment",
@@ -24,43 +34,123 @@
     "word_meanings": [
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "mayi"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "माई",
+                "en": "mayi",
+                "be": "mayi",
+                "ka": "ಮಯಿ"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "sarvāṇi"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सरवाणी",
+                "en": "sarvāṇi",
+                "be": "sarvāṇi",
+                "ka": "ಸರ್ವಾಣಿ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "karmāṇi"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণী",
+                "ka": "ಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "संन्यस्याध्यात्मचेतसा",
-            "transliteration": "saṃnyasyādhyātmacetasā",
-            "meaning": "saṃnyasyādhyātmacetasā"
+            "transliteration": {
+                "hi": "संन्यस्याध्यात्मचेतसा",
+                "en": "saṃnyasyādhyātmacetasā",
+                "be": "সংন্যস্যাধ্যাত্মচেতসা",
+                "ka": "ಸಂನ್ಯಸ್ಯಾಧ್ಯಾತ್ಮಚೇತಸಾ"
+            },
+            "meaning": {
+                "hi": "संन्यास्याध्यात्मचेतसा",
+                "en": "saṃnyasyādhyātmacetasā",
+                "be": "সন্ন্যাস্যাধ্যাত্মচেতাসা",
+                "ka": "ಸಂನ್ಯಾಸ್ಯಾಧ್ಯಾತ್ಮಚೇತಸಾ"
+            }
         },
         {
             "sanskrit": "निराशीर्निर्ममो",
-            "transliteration": "nirāśīrnirmamo",
-            "meaning": "nirāśīrnirmamo"
+            "transliteration": {
+                "hi": "निराशीर्निर्ममो",
+                "en": "nirāśīrnirmamo",
+                "be": "নিরাশীর্নির্মমো",
+                "ka": "ನಿರಾಶೀರ್ನಿರ್ಮಮೋ"
+            },
+            "meaning": {
+                "hi": "निराशिरनिर्ममो",
+                "en": "nirāśīrnirmamo",
+                "be": "নিরাশিনির্মামো",
+                "ka": "ನಿರಾಶಿರ್ನಿರ್ಮಮೋ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "bhūtvā"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "भूतवा",
+                "en": "bhūtvā",
+                "be": "bhūtvā",
+                "ka": "ಭೂತ್ವ"
+            }
         },
         {
             "sanskrit": "युध्यस्व",
-            "transliteration": "yudhyasva",
-            "meaning": "yudhyasva"
+            "transliteration": {
+                "hi": "युध्यस्व",
+                "en": "yudhyasva",
+                "be": "যুধ্যস্ব",
+                "ka": "ಯುಧ್ಯಸ್ವ"
+            },
+            "meaning": {
+                "hi": "युध्यश्व",
+                "en": "yudhyasva",
+                "be": "যুধ্যাস্ব",
+                "ka": "ಯುಧ್ಯಸ್ವ"
+            }
         },
         {
             "sanskrit": "विगतज्वरः",
-            "transliteration": "vigatajvaraḥ",
-            "meaning": "vigatajvaraḥ"
+            "transliteration": {
+                "hi": "विगतज्वरः",
+                "en": "vigatajvaraḥ",
+                "be": "বিগতজ্বরঃ",
+                "ka": "ವಿಗತಜ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "विगतज्वरः",
+                "en": "vigatajvaraḥ",
+                "be": "vigatajvara:",
+                "ka": "ವಿಗತಜ್ವರಃ"
+            }
         }
     ],
     "tej": {

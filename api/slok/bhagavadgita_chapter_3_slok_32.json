@@ -14,8 +14,18 @@
         "en": "ye tvetadabhyasūyanto nānutiṣṭhanti me matam .\nsarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ ||3-32||",
         "ka": "ಯೇ ತ್ವೇತದಭ್ಯಸೂಯನ್ತೋ ನಾನುತಿಷ್ಠನ್ತಿ ಮೇ ಮತಮ್ |\nಸರ್ವಜ್ಞಾನವಿಮೂಢಾಂಸ್ತಾನ್ವಿದ್ಧಿ ನಷ್ಟಾನಚೇತಸಃ ||೩-೩೨||"
     },
-    "transliteration": "ye tvetadabhyasūyanto nānutiṣṭhanti me matam .\nsarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ ||3-32||",
-    "life_application": "Beware of mocking or ignoring wise guidance, as persistent cynicism destroys your capacity for personal growth.",
+    "transliteration": {
+        "hi": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् |\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ||३-३२||",
+        "en": "ye tvetadabhyasūyanto nānutiṣṭhanti me matam .\nsarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ ||3-32||",
+        "be": "যে ত্বেতদভ্যসূযন্তো নানুতিষ্ঠন্তি মে মতম্ |\nসর্বজ্ঞানবিমূঢাংস্তান্বিদ্ধি নষ্টানচেতসঃ ||৩-৩২||",
+        "ka": "ಯೇ ತ್ವೇತದಭ್ಯಸೂಯನ್ತೋ ನಾನುತಿಷ್ಠನ್ತಿ ಮೇ ಮತಮ್ |\nಸರ್ವಜ್ಞಾನವಿಮೂಢಾಂಸ್ತಾನ್ವಿದ್ಧಿ ನಷ್ಟಾನಚೇತಸಃ ||೩-೩೨||"
+    },
+    "life_application": {
+        "hi": "बुद्धिमान मार्गदर्शन का मज़ाक उड़ाने या उसे नज़रअंदाज़ करने से सावधान रहें, क्योंकि लगातार संदेहवाद व्यक्तिगत विकास के लिए आपकी क्षमता को नष्ट कर देता है।",
+        "en": "Beware of mocking or ignoring wise guidance, as persistent cynicism destroys your capacity for personal growth.",
+        "be": "বিজ্ঞ নির্দেশনাকে উপহাস করা বা উপেক্ষা করা থেকে সাবধান থাকুন, কারণ ক্রমাগত নিন্দাবাদ আপনার ব্যক্তিগত বৃদ্ধির ক্ষমতাকে নষ্ট করে দেয়।",
+        "ka": "ನಿರಂತರ ಸಿನಿಕತನವು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಬೆಳವಣಿಗೆಯ ಸಾಮರ್ಥ್ಯವನ್ನು ನಾಶಪಡಿಸುವುದರಿಂದ ಬುದ್ಧಿವಂತ ಮಾರ್ಗದರ್ಶನವನ್ನು ಅಪಹಾಸ್ಯ ಮಾಡುವ ಅಥವಾ ನಿರ್ಲಕ್ಷಿಸುವ ಬಗ್ಗೆ ಎಚ್ಚರದಿಂದಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "त्वेतदभ्यसूयन्तो",
-            "transliteration": "tvetadabhyasūyanto",
-            "meaning": "tvetadabhyasūyanto"
+            "transliteration": {
+                "hi": "त्वेतदभ्यसूयन्तो",
+                "en": "tvetadabhyasūyanto",
+                "be": "ত্বেতদভ্যসূযন্তো",
+                "ka": "ತ್ವೇತದಭ್ಯಸೂಯನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "त्वेतादाभ्यसुयन्तो",
+                "en": "tvetadabhyasūyanto",
+                "be": "tvetadabhyasūyanto",
+                "ka": "ತ್ವೇತದಭ್ಯಸೂಯನ್ತೋ"
+            }
         },
         {
             "sanskrit": "नानुतिष्ठन्ति",
-            "transliteration": "nānutiṣṭhanti",
-            "meaning": "nānutiṣṭhanti"
+            "transliteration": {
+                "hi": "नानुतिष्ठन्ति",
+                "en": "nānutiṣṭhanti",
+                "be": "নানুতিষ্ঠন্তি",
+                "ka": "ನಾನುತಿಷ್ಠನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नानुतिष्ठन्ति",
+                "en": "nānutiṣṭhanti",
+                "be": "nānutiṣṭhanti",
+                "ka": "ನಾನುತಿಷ್ಠಂತಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "मतम्",
-            "transliteration": "matam",
-            "meaning": "matam"
+            "transliteration": {
+                "hi": "मतम्",
+                "en": "matam",
+                "be": "মতম্",
+                "ka": "ಮತಮ್"
+            },
+            "meaning": {
+                "hi": "मातम",
+                "en": "matam",
+                "be": "মাতাম",
+                "ka": "ಮತಮ್"
+            }
         },
         {
             "sanskrit": "सर्वज्ञानविमूढांस्तान्विद्धि",
-            "transliteration": "sarvajñānavimūḍhāṃstānviddhi",
-            "meaning": "sarvajñānavimūḍhāṃstānviddhi"
+            "transliteration": {
+                "hi": "सर्वज्ञानविमूढांस्तान्विद्धि",
+                "en": "sarvajñānavimūḍhāṃstānviddhi",
+                "be": "সর্বজ্ঞানবিমূঢাংস্তান্বিদ্ধি",
+                "ka": "ಸರ್ವಜ್ಞಾನವಿಮೂಢಾಂಸ್ತಾನ್ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "सर्वज्ञानविमूढस्थानविद्धि",
+                "en": "sarvajñānavimūḍhāṃstānviddhi",
+                "be": "সর্বজ্ঞানবিমুঢ়াস্তানবিধি",
+                "ka": "ಸರ್ವಜ್ಞಾನವಿಮೂಢಸ್ಥಾನವಿದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "नष्टानचेतसः",
-            "transliteration": "naṣṭānacetasaḥ",
-            "meaning": "naṣṭānacetasaḥ"
+            "transliteration": {
+                "hi": "नष्टानचेतसः",
+                "en": "naṣṭānacetasaḥ",
+                "be": "নষ্টানচেতসঃ",
+                "ka": "ನಷ್ಟಾನಚೇತಸಃ"
+            },
+            "meaning": {
+                "hi": "नष्टानसेटसः",
+                "en": "naṣṭānacetasaḥ",
+                "be": "নাষ্টনাচেতসাঃ",
+                "ka": "ನಷ್ಠಾನಚೇತಸಃ"
+            }
         }
     ],
     "tej": {

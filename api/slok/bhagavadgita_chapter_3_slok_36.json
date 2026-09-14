@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\natha kena prayukto.ayaṃ pāpaṃ carati pūruṣaḥ .\nanicchannapi vārṣṇeya balādiva niyojitaḥ ||3-36||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಅಥ ಕೇನ ಪ್ರಯುಕ್ತೋಽಯಂ ಪಾಪಂ ಚರತಿ ಪೂರುಷಃ |\nಅನಿಚ್ಛನ್ನಪಿ ವಾರ್ಷ್ಣೇಯ ಬಲಾದಿವ ನಿಯೋಜಿತಃ ||೩-೩೬||"
     },
-    "transliteration": "arjuna uvāca .\natha kena prayukto.ayaṃ pāpaṃ carati pūruṣaḥ .\nanicchannapi vārṣṇeya balādiva niyojitaḥ ||3-36||",
-    "life_application": "Investigate why you sometimes act against your best intentions, identifying the hidden internal urges that drive mistakes.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः |\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ||३-३६||",
+        "en": "arjuna uvāca .\natha kena prayukto.ayaṃ pāpaṃ carati pūruṣaḥ .\nanicchannapi vārṣṇeya balādiva niyojitaḥ ||3-36||",
+        "be": "অর্জুন উবাচ |\nঅথ কেন প্রযুক্তোঽযং পাপং চরতি পূরুষঃ |\nঅনিচ্ছন্নপি বার্ষ্ণেয বলাদিব নিযোজিতঃ ||৩-৩৬||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಅಥ ಕೇನ ಪ್ರಯುಕ್ತೋಽಯಂ ಪಾಪಂ ಚರತಿ ಪೂರುಷಃ |\nಅನಿಚ್ಛನ್ನಪಿ ವಾರ್ಷ್ಣೇಯ ಬಲಾದಿವ ನಿಯೋಜಿತಃ ||೩-೩೬||"
+    },
+    "life_application": {
+        "hi": "जाँच करें कि आप कभी-कभी अपने सर्वोत्तम इरादों के विरुद्ध कार्य क्यों करते हैं, गलतियों को प्रेरित करने वाले छिपे हुए आंतरिक आग्रहों की पहचान करें।",
+        "en": "Investigate why you sometimes act against your best intentions, identifying the hidden internal urges that drive mistakes.",
+        "be": "আপনি কেন কখনও কখনও আপনার সর্বোত্তম উদ্দেশ্যের বিরুদ্ধে কাজ করেন তা তদন্ত করুন, লুকানো অভ্যন্তরীণ তাগিদগুলিকে চিহ্নিত করে যা ভুল করে।",
+        "ka": "ನೀವು ಕೆಲವೊಮ್ಮೆ ನಿಮ್ಮ ಉತ್ತಮ ಉದ್ದೇಶಗಳಿಗೆ ವಿರುದ್ಧವಾಗಿ ಏಕೆ ವರ್ತಿಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ತನಿಖೆ ಮಾಡಿ, ತಪ್ಪುಗಳನ್ನು ಪ್ರೇರೇಪಿಸುವ ಗುಪ್ತ ಆಂತರಿಕ ಪ್ರಚೋದನೆಗಳನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "now"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "अभी",
+                "en": "now",
+                "be": "এখন",
+                "ka": "ಈಗ"
+            }
         },
         {
             "sanskrit": "केन",
-            "transliteration": "kena",
-            "meaning": "kena"
+            "transliteration": {
+                "hi": "केन",
+                "en": "kena",
+                "be": "কেন",
+                "ka": "ಕೇನ"
+            },
+            "meaning": {
+                "hi": "केना",
+                "en": "kena",
+                "be": "কেনা",
+                "ka": "ಕೆನ"
+            }
         },
         {
             "sanskrit": "प्रयुक्तोऽयं",
-            "transliteration": "prayukto'yaṃ",
-            "meaning": "prayukto'yaṃ"
+            "transliteration": {
+                "hi": "प्रयुक्तोऽयं",
+                "en": "prayukto'yaṃ",
+                "be": "প্রযুক্তোঽযং",
+                "ka": "ಪ್ರಯುಕ್ತೋಽಯಂ"
+            },
+            "meaning": {
+                "hi": "प्रयुक्तोऽयं",
+                "en": "prayukto'yaṃ",
+                "be": "প্রার্থনাকৃত",
+                "ka": "ಪ್ರಯುಕ್ತೋ'ಯಂ"
+            }
         },
         {
             "sanskrit": "पापं",
-            "transliteration": "pāpaṃ",
-            "meaning": "pāpaṃ"
+            "transliteration": {
+                "hi": "पापं",
+                "en": "pāpaṃ",
+                "be": "পাপং",
+                "ka": "ಪಾಪಂ"
+            },
+            "meaning": {
+                "hi": "पापा",
+                "en": "pāpaṃ",
+                "be": "pāpaṃ",
+                "ka": "ಪಾಪಾಂ"
+            }
         },
         {
             "sanskrit": "चरति",
-            "transliteration": "carati",
-            "meaning": "carati"
+            "transliteration": {
+                "hi": "चरति",
+                "en": "carati",
+                "be": "চরতি",
+                "ka": "ಚರತಿ"
+            },
+            "meaning": {
+                "hi": "कैराटी",
+                "en": "carati",
+                "be": "ক্যারাটি",
+                "ka": "ಕಾರತಿ"
+            }
         },
         {
             "sanskrit": "पूरुषः",
-            "transliteration": "pūruṣaḥ",
-            "meaning": "pūruṣaḥ"
+            "transliteration": {
+                "hi": "पूरुषः",
+                "en": "pūruṣaḥ",
+                "be": "পূরুষঃ",
+                "ka": "ಪೂರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुषः",
+                "en": "pūruṣaḥ",
+                "be": "পুরূষঃ",
+                "ka": "ಪುರುಷಃ"
+            }
         },
         {
             "sanskrit": "अनिच्छन्नपि",
-            "transliteration": "anicchannapi",
-            "meaning": "anicchannapi"
+            "transliteration": {
+                "hi": "अनिच्छन्नपि",
+                "en": "anicchannapi",
+                "be": "অনিচ্ছন্নপি",
+                "ka": "ಅನಿಚ್ಛನ್ನಪಿ"
+            },
+            "meaning": {
+                "hi": "anicchannapi",
+                "en": "anicchannapi",
+                "be": "anicchannapi",
+                "ka": "ಅನಿಚ್ಛನ್ನಪಿ"
+            }
         },
         {
             "sanskrit": "वार्ष्णेय",
-            "transliteration": "vārṣṇeya",
-            "meaning": "vārṣṇeya"
+            "transliteration": {
+                "hi": "वार्ष्णेय",
+                "en": "vārṣṇeya",
+                "be": "বার্ষ্ণেয",
+                "ka": "ವಾರ್ಷ್ಣೇಯ"
+            },
+            "meaning": {
+                "hi": "वार्ष्णेय",
+                "en": "vārṣṇeya",
+                "be": "vārṣṇeya",
+                "ka": "ವಾರ್ಷ್ಣೇಯ"
+            }
         },
         {
             "sanskrit": "बलादिव",
-            "transliteration": "balādiva",
-            "meaning": "balādiva"
+            "transliteration": {
+                "hi": "बलादिव",
+                "en": "balādiva",
+                "be": "বলাদিব",
+                "ka": "ಬಲಾದಿವ"
+            },
+            "meaning": {
+                "hi": "बालादिवा",
+                "en": "balādiva",
+                "be": "balādiva",
+                "ka": "ಬಲದಿವ"
+            }
         },
         {
             "sanskrit": "नियोजितः",
-            "transliteration": "niyojitaḥ",
-            "meaning": "niyojitaḥ"
+            "transliteration": {
+                "hi": "नियोजितः",
+                "en": "niyojitaḥ",
+                "be": "নিযোজিতঃ",
+                "ka": "ನಿಯೋಜಿತಃ"
+            },
+            "meaning": {
+                "hi": "नियोजितः",
+                "en": "niyojitaḥ",
+                "be": "নিয়োজিতঃ",
+                "ka": "ನಿಯೋಜಿತಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "ye me matamidaṃ nityamanutiṣṭhanti mānavāḥ .\nśraddhāvanto.anasūyanto mucyante te.api karmabhiḥ ||3-31||",
         "ka": "ಯೇ ಮೇ ಮತಮಿದಂ ನಿತ್ಯಮನುತಿಷ್ಠನ್ತಿ ಮಾನವಾಃ |\nಶ್ರದ್ಧಾವನ್ತೋಽನಸೂಯನ್ತೋ ಮುಚ್ಯನ್ತೇ ತೇಽಪಿ ಕರ್ಮಭಿಃ ||೩-೩೧||"
     },
-    "transliteration": "ye me matamidaṃ nityamanutiṣṭhanti mānavāḥ .\nśraddhāvanto.anasūyanto mucyante te.api karmabhiḥ ||3-31||",
-    "life_application": "Put constructive spiritual principles into daily practice with trust, freeing your mind from chronic doubt and cynicism.",
+    "transliteration": {
+        "hi": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः |\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ||३-३१||",
+        "en": "ye me matamidaṃ nityamanutiṣṭhanti mānavāḥ .\nśraddhāvanto.anasūyanto mucyante te.api karmabhiḥ ||3-31||",
+        "be": "যে মে মতমিদং নিত্যমনুতিষ্ঠন্তি মানবাঃ |\nশ্রদ্ধাবন্তোঽনসূযন্তো মুচ্যন্তে তেঽপি কর্মভিঃ ||৩-৩১||",
+        "ka": "ಯೇ ಮೇ ಮತಮಿದಂ ನಿತ್ಯಮನುತಿಷ್ಠನ್ತಿ ಮಾನವಾಃ |\nಶ್ರದ್ಧಾವನ್ತೋಽನಸೂಯನ್ತೋ ಮುಚ್ಯನ್ತೇ ತೇಽಪಿ ಕರ್ಮಭಿಃ ||೩-೩೧||"
+    },
+    "life_application": {
+        "hi": "अपने मन को दीर्घकालिक संदेह और संशय से मुक्त करते हुए, रचनात्मक आध्यात्मिक सिद्धांतों को विश्वास के साथ दैनिक अभ्यास में डालें।",
+        "en": "Put constructive spiritual principles into daily practice with trust, freeing your mind from chronic doubt and cynicism.",
+        "be": "আস্থার সাথে প্রতিদিনের অনুশীলনে গঠনমূলক আধ্যাত্মিক নীতিগুলি রাখুন, আপনার মনকে দীর্ঘস্থায়ী সন্দেহ এবং নিন্দা থেকে মুক্ত করুন।",
+        "ka": "ರಚನಾತ್ಮಕ ಆಧ್ಯಾತ್ಮಿಕ ತತ್ವಗಳನ್ನು ನಂಬಿಕೆಯೊಂದಿಗೆ ದೈನಂದಿನ ಅಭ್ಯಾಸದಲ್ಲಿ ಇರಿಸಿ, ದೀರ್ಘಕಾಲದ ಅನುಮಾನ ಮತ್ತು ಸಿನಿಕತನದಿಂದ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಮುಕ್ತಗೊಳಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mind"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "मतमिदं",
-            "transliteration": "matamidaṃ",
-            "meaning": "matamidaṃ"
+            "transliteration": {
+                "hi": "मतमिदं",
+                "en": "matamidaṃ",
+                "be": "মতমিদং",
+                "ka": "ಮತಮಿದಂ"
+            },
+            "meaning": {
+                "hi": "मतमिदम",
+                "en": "matamidaṃ",
+                "be": "matamidaṃ",
+                "ka": "ಮಾತಮಿಡಂ"
+            }
         },
         {
             "sanskrit": "नित्यमनुतिष्ठन्ति",
-            "transliteration": "nityamanutiṣṭhanti",
-            "meaning": "nityamanutiṣṭhanti"
+            "transliteration": {
+                "hi": "नित्यमनुतिष्ठन्ति",
+                "en": "nityamanutiṣṭhanti",
+                "be": "নিত্যমনুতিষ্ঠন্তি",
+                "ka": "ನಿತ್ಯಮನುತಿಷ್ಠನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नित्यमनुतिष्ठन्ति",
+                "en": "nityamanutiṣṭhanti",
+                "be": "নিত্যমানুতিষষ্ঠন্তি",
+                "ka": "ನಿತ್ಯಮನುತಿಷ್ಠನ್ತಿ"
+            }
         },
         {
             "sanskrit": "मानवाः",
-            "transliteration": "mānavāḥ",
-            "meaning": "mānavāḥ"
+            "transliteration": {
+                "hi": "मानवाः",
+                "en": "mānavāḥ",
+                "be": "মানবাঃ",
+                "ka": "ಮಾನವಾಃ"
+            },
+            "meaning": {
+                "hi": "मनावः",
+                "en": "mānavāḥ",
+                "be": "মানভাঃ",
+                "ka": "ಮಾನವಃ"
+            }
         },
         {
             "sanskrit": "श्रद्धावन्तोऽनसूयन्तो",
-            "transliteration": "śraddhāvanto'nasūyanto",
-            "meaning": "śraddhāvanto'nasūyanto"
+            "transliteration": {
+                "hi": "श्रद्धावन्तोऽनसूयन्तो",
+                "en": "śraddhāvanto'nasūyanto",
+                "be": "শ্রদ্ধাবন্তোঽনসূযন্তো",
+                "ka": "ಶ್ರದ್ಧಾವನ್ತೋಽನಸೂಯನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "श्रद्धावंतोऽनसूयन्तो",
+                "en": "śraddhāvanto'nasūyanto",
+                "be": "শ্রদ্ধাবন্তো'নসূয়ন্তো",
+                "ka": "ಶ್ರದ್ಧಾವಂತೋ ⁇ ನಸೂಯನ್ತೋ"
+            }
         },
         {
             "sanskrit": "मुच्यन्ते",
-            "transliteration": "mucyante",
-            "meaning": "mucyante"
+            "transliteration": {
+                "hi": "मुच्यन्ते",
+                "en": "mucyante",
+                "be": "মুচ্যন্তে",
+                "ka": "ಮುಚ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "mucyante",
+                "en": "mucyante",
+                "be": "mucyante",
+                "ka": "ಮ್ಯೂಸಿಯಂಟ್"
+            }
         },
         {
             "sanskrit": "तेऽपि",
-            "transliteration": "te'pi",
-            "meaning": "te'pi"
+            "transliteration": {
+                "hi": "तेऽपि",
+                "en": "te'pi",
+                "be": "তেঽপি",
+                "ka": "ತೇಽಪಿ"
+            },
+            "meaning": {
+                "hi": "te'pi",
+                "en": "te'pi",
+                "be": "te'pi",
+                "ka": "te'pi"
+            }
         },
         {
             "sanskrit": "कर्मभिः",
-            "transliteration": "karmabhiḥ",
-            "meaning": "karmabhiḥ"
+            "transliteration": {
+                "hi": "कर्मभिः",
+                "en": "karmabhiḥ",
+                "be": "কর্মভিঃ",
+                "ka": "ಕರ್ಮಭಿಃ"
+            },
+            "meaning": {
+                "hi": "कर्मभिः",
+                "en": "karmabhiḥ",
+                "be": "কর্মভিঃ",
+                "ka": "ಕರ್ಮಭಿಃ"
+            }
         }
     ],
     "tej": {

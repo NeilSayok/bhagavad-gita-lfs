@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\ntaṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam .\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ ||2-1||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nತಂ ತಥಾ ಕೃಪಯಾವಿಷ್ಟಮಶ್ರುಪೂರ್ಣಾಕುಲೇಕ್ಷಣಮ್ |\nವಿಷೀದನ್ತಮಿದಂ ವಾಕ್ಯಮುವಾಚ ಮಧುಸೂದನಃ ||೨-೧||"
     },
-    "transliteration": "sañjaya uvāca .\ntaṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam .\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ ||2-1||",
-    "life_application": "When compassion threatens to slide into paralyzing despair, regain your composure and look toward your true duty.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् |\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ||२-१||",
+        "en": "sañjaya uvāca .\ntaṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam .\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ ||2-1||",
+        "be": "সঞ্জয উবাচ |\nতং তথা কৃপযাবিষ্টমশ্রুপূর্ণাকুলেক্ষণম্ |\nবিষীদন্তমিদং বাক্যমুবাচ মধুসূদনঃ ||২-১||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nತಂ ತಥಾ ಕೃಪಯಾವಿಷ್ಟಮಶ್ರುಪೂರ್ಣಾಕುಲೇಕ್ಷಣಮ್ |\nವಿಷೀದನ್ತಮಿದಂ ವಾಕ್ಯಮುವಾಚ ಮಧುಸೂದನಃ ||೨-೧||"
+    },
+    "life_application": {
+        "hi": "जब करुणा आपको पंगु बना देने वाली निराशा की ओर ले जाने की धमकी देती है, तो अपना संयम पुनः प्राप्त करें और अपने सच्चे कर्तव्य की ओर देखें।",
+        "en": "When compassion threatens to slide into paralyzing despair, regain your composure and look toward your true duty.",
+        "be": "যখন সমবেদনা পক্ষাঘাতগ্রস্ত হতাশার দিকে ধাবিত হওয়ার হুমকি দেয়, তখন আপনার সংযম ফিরে পান এবং আপনার সত্যিকারের কর্তব্যের দিকে তাকান।",
+        "ka": "ಸಹಾನುಭೂತಿಯು ಪಾರ್ಶ್ವವಾಯು ಹತಾಶೆಗೆ ಜಾರುವಂತೆ ಬೆದರಿಕೆ ಹಾಕಿದಾಗ, ನಿಮ್ಮ ಹಿಡಿತವನ್ನು ಮರಳಿ ಪಡೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ನಿಜವಾದ ಕರ್ತವ್ಯದ ಕಡೆಗೆ ನೋಡಿ."
+    },
     "themes": [
         "Equanimity",
         "Mind",
@@ -24,53 +34,153 @@
     "word_meanings": [
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "to him"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "उसे",
+                "en": "to him",
+                "be": "তার কাছে",
+                "ka": "ಅವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "कृपया",
-            "transliteration": "kṛpayā",
-            "meaning": "with pity"
+            "transliteration": {
+                "hi": "कृपया",
+                "en": "kṛpayā",
+                "be": "কৃপযা",
+                "ka": "ಕೃಪಯಾ"
+            },
+            "meaning": {
+                "hi": "दया के साथ",
+                "en": "with pity",
+                "be": "করুণার সাথে",
+                "ka": "ಕರುಣೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "आविष्टम्",
-            "transliteration": "āviṣṭam",
-            "meaning": "overcome"
+            "transliteration": {
+                "hi": "आविष्टम्",
+                "en": "āviṣṭam",
+                "be": "আবিষ্টম্",
+                "ka": "ಆವಿಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "काबू पाना",
+                "en": "overcome",
+                "be": "পরাস্ত",
+                "ka": "ಜಯಿಸಲು"
+            }
         },
         {
             "sanskrit": "अश्रुपूर्णाकुलेक्षणम्",
-            "transliteration": "aśrupūrṇākulekṣaṇam",
-            "meaning": "with eyes filled with"
+            "transliteration": {
+                "hi": "अश्रुपूर्णाकुलेक्षणम्",
+                "en": "aśrupūrṇākulekṣaṇam",
+                "be": "অশ্রুপূর্ণাকুলেক্ষণম্",
+                "ka": "ಅಶ್ರುಪೂರ್ಣಾಕುಲೇಕ್ಷಣಮ್"
+            },
+            "meaning": {
+                "hi": "भरी आँखों से",
+                "en": "with eyes filled with",
+                "be": "ভরা চোখ দিয়ে",
+                "ka": "ತುಂಬಿದ ಕಣ್ಣುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "विषीदन्तम्",
-            "transliteration": "viṣīdantam",
-            "meaning": "despondent"
+            "transliteration": {
+                "hi": "विषीदन्तम्",
+                "en": "viṣīdantam",
+                "be": "বিষীদন্তম্",
+                "ka": "ವಿಷೀದನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "निराश",
+                "en": "despondent",
+                "be": "হতাশ",
+                "ka": "ಹತಾಶ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "वाक्यम्",
-            "transliteration": "vākyam",
-            "meaning": "speech"
+            "transliteration": {
+                "hi": "वाक्यम्",
+                "en": "vākyam",
+                "be": "বাক্যম্",
+                "ka": "ವಾಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "भाषण",
+                "en": "speech",
+                "be": "বক্তৃতা",
+                "ka": "ಭಾಷಣ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "spoke"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoke",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "मघुसूदनः",
-            "transliteration": "maghusūdanaḥ",
-            "meaning": "Madhusudana."
+            "transliteration": {
+                "hi": "मघुसूदनः",
+                "en": "maghusūdanaḥ",
+                "be": "মঘুসূদনঃ",
+                "ka": "ಮಘುಸೂದನಃ"
+            },
+            "meaning": {
+                "hi": "मधुसूदन.",
+                "en": "Madhusudana.",
+                "be": "মধুসূদনা।",
+                "ka": "ಮಧುಸೂದನ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ .\nna caiva na bhaviṣyāmaḥ sarve vayamataḥ param ||2-12||",
         "ka": "ನ ತ್ವೇವಾಹಂ ಜಾತು ನಾಸಂ ನ ತ್ವಂ ನೇಮೇ ಜನಾಧಿಪಾಃ |\nನ ಚೈವ ನ ಭವಿಷ್ಯಾಮಃ ಸರ್ವೇ ವಯಮತಃ ಪರಮ್ ||೨-೧೨||"
     },
-    "transliteration": "na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ .\nna caiva na bhaviṣyāmaḥ sarve vayamataḥ param ||2-12||",
-    "life_application": "Remember that your fundamental essence is eternal, reducing your fear of change, loss, or physical mortality.",
+    "transliteration": {
+        "hi": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः |\nन चैव न भविष्यामः सर्वे वयमतः परम् ||२-१२||",
+        "en": "na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ .\nna caiva na bhaviṣyāmaḥ sarve vayamataḥ param ||2-12||",
+        "be": "ন ত্বেবাহং জাতু নাসং ন ত্বং নেমে জনাধিপাঃ |\nন চৈব ন ভবিষ্যামঃ সর্বে বযমতঃ পরম্ ||২-১২||",
+        "ka": "ನ ತ್ವೇವಾಹಂ ಜಾತು ನಾಸಂ ನ ತ್ವಂ ನೇಮೇ ಜನಾಧಿಪಾಃ |\nನ ಚೈವ ನ ಭವಿಷ್ಯಾಮಃ ಸರ್ವೇ ವಯಮತಃ ಪರಮ್ ||೨-೧೨||"
+    },
+    "life_application": {
+        "hi": "याद रखें कि आपका मूल सार शाश्वत है, जो परिवर्तन, हानि या शारीरिक मृत्यु के आपके डर को कम करता है।",
+        "en": "Remember that your fundamental essence is eternal, reducing your fear of change, loss, or physical mortality.",
+        "be": "মনে রাখবেন যে আপনার মৌলিক সারাংশ চিরন্তন, আপনার পরিবর্তন, ক্ষতি বা শারীরিক মৃত্যুর ভয় হ্রাস করে।",
+        "ka": "ನಿಮ್ಮ ಮೂಲಭೂತ ಸಾರವು ಶಾಶ್ವತವಾಗಿದೆ ಎಂದು ನೆನಪಿಡಿ, ಬದಲಾವಣೆ, ನಷ್ಟ ಅಥವಾ ದೈಹಿಕ ಮರಣದ ಭಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Death",
@@ -24,108 +34,318 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "जातु",
-            "transliteration": "jātu",
-            "meaning": "at any time"
+            "transliteration": {
+                "hi": "जातु",
+                "en": "jātu",
+                "be": "জাতু",
+                "ka": "ಜಾತು"
+            },
+            "meaning": {
+                "hi": "किसी भी समय",
+                "en": "at any time",
+                "be": "যে কোন সময়ে",
+                "ka": "ಯಾವುದೇ ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "आसम्",
-            "transliteration": "āsam",
-            "meaning": "was"
+            "transliteration": {
+                "hi": "आसम्",
+                "en": "āsam",
+                "be": "আসম্",
+                "ka": "ಆಸಮ್"
+            },
+            "meaning": {
+                "hi": "था",
+                "en": "was",
+                "be": "ছিল",
+                "ka": "ಆಗಿತ್ತು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "इमे",
-            "transliteration": "ime",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इमे",
+                "en": "ime",
+                "be": "ইমে",
+                "ka": "ಇಮೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "जनाधिपाः",
-            "transliteration": "janādhipāḥ",
-            "meaning": "rulers of men"
+            "transliteration": {
+                "hi": "जनाधिपाः",
+                "en": "janādhipāḥ",
+                "be": "জনাধিপাঃ",
+                "ka": "ಜನಾಧಿಪಾಃ"
+            },
+            "meaning": {
+                "hi": "मनुष्यों के शासक",
+                "en": "rulers of men",
+                "be": "পুরুষদের শাসক",
+                "ka": "ಪುರುಷರ ಆಡಳಿತಗಾರರು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "भविष्यामः",
-            "transliteration": "bhaviṣyāmaḥ",
-            "meaning": "shall be"
+            "transliteration": {
+                "hi": "भविष्यामः",
+                "en": "bhaviṣyāmaḥ",
+                "be": "ভবিষ্যামঃ",
+                "ka": "ಭವಿಷ್ಯಾಮಃ"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "shall be",
+                "be": "হবে",
+                "ka": "ಇರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "वयम्",
-            "transliteration": "vayam",
-            "meaning": "we"
+            "transliteration": {
+                "hi": "वयम्",
+                "en": "vayam",
+                "be": "বযম্",
+                "ka": "ವಯಮ್"
+            },
+            "meaning": {
+                "hi": "हम",
+                "en": "we",
+                "be": "আমরা",
+                "ka": "ನಾವು"
+            }
         },
         {
             "sanskrit": "अतः",
-            "transliteration": "ataḥ",
-            "meaning": "from this time"
+            "transliteration": {
+                "hi": "अतः",
+                "en": "ataḥ",
+                "be": "অতঃ",
+                "ka": "ಅತಃ"
+            },
+            "meaning": {
+                "hi": "इस समय से",
+                "en": "from this time",
+                "be": "এই সময় থেকে",
+                "ka": "ಈ ಸಮಯದಿಂದ"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "after."
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "बाद में।",
+                "en": "after.",
+                "be": "পরে",
+                "ka": "ನಂತರ."
+            }
         }
     ],
     "tej": {

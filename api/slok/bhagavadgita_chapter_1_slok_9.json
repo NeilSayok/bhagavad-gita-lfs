@@ -14,8 +14,18 @@
         "en": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||1-9||",
         "ka": "ಅನ್ಯೇ ಚ ಬಹವಃ ಶೂರಾ ಮದರ್ಥೇ ತ್ಯಕ್ತಜೀವಿತಾಃ |\nನಾನಾಶಸ್ತ್ರಪ್ರಹರಣಾಃ ಸರ್ವೇ ಯುದ್ಧವಿಶಾರದಾಃ ||೧-೯||"
     },
-    "transliteration": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||1-9||",
-    "life_application": "Appreciate the sacrifices made by others on your behalf, and honor their commitment with genuine gratitude.",
+    "transliteration": {
+        "hi": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः |\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||",
+        "en": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||1-9||",
+        "be": "অন্যে চ বহবঃ শূরা মদর্থে ত্যক্তজীবিতাঃ |\nনানাশস্ত্রপ্রহরণাঃ সর্বে যুদ্ধবিশারদাঃ ||১-৯||",
+        "ka": "ಅನ್ಯೇ ಚ ಬಹವಃ ಶೂರಾ ಮದರ್ಥೇ ತ್ಯಕ್ತಜೀವಿತಾಃ |\nನಾನಾಶಸ್ತ್ರಪ್ರಹರಣಾಃ ಸರ್ವೇ ಯುದ್ಧವಿಶಾರದಾಃ ||೧-೯||"
+    },
+    "life_application": {
+        "hi": "अपनी ओर से दूसरों द्वारा किए गए बलिदान की सराहना करें और सच्ची कृतज्ञता के साथ उनकी प्रतिबद्धता का सम्मान करें।",
+        "en": "Appreciate the sacrifices made by others on your behalf, and honor their commitment with genuine gratitude.",
+        "be": "আপনার পক্ষে অন্যদের দ্বারা করা ত্যাগের প্রশংসা করুন এবং তাদের প্রতিশ্রুতিকে সত্যিকারের কৃতজ্ঞতার সাথে সম্মান করুন।",
+        "ka": "ನಿಮ್ಮ ಪರವಾಗಿ ಇತರರು ಮಾಡಿದ ತ್ಯಾಗವನ್ನು ಶ್ಲಾಘಿಸಿ ಮತ್ತು ಅವರ ಬದ್ಧತೆಯನ್ನು ನಿಜವಾದ ಕೃತಜ್ಞತೆಯಿಂದ ಗೌರವಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Devotion"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अन्ये",
-            "transliteration": "anye",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अन्ये",
+                "en": "anye",
+                "be": "অন্যে",
+                "ka": "ಅನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "बहवः",
-            "transliteration": "bahavaḥ",
-            "meaning": "many"
+            "transliteration": {
+                "hi": "बहवः",
+                "en": "bahavaḥ",
+                "be": "বহবঃ",
+                "ka": "ಬಹವಃ"
+            },
+            "meaning": {
+                "hi": "अनेक",
+                "en": "many",
+                "be": "অনেক",
+                "ka": "ಅನೇಕ"
+            }
         },
         {
             "sanskrit": "शूराः",
-            "transliteration": "śūrāḥ",
-            "meaning": "heroes"
+            "transliteration": {
+                "hi": "शूराः",
+                "en": "śūrāḥ",
+                "be": "শূরাঃ",
+                "ka": "ಶೂರಾಃ"
+            },
+            "meaning": {
+                "hi": "नायकों",
+                "en": "heroes",
+                "be": "নায়কদের",
+                "ka": "ವೀರರು"
+            }
         },
         {
             "sanskrit": "मदर्थे",
-            "transliteration": "madarthe",
-            "meaning": "for my sake"
+            "transliteration": {
+                "hi": "मदर्थे",
+                "en": "madarthe",
+                "be": "মদর্থে",
+                "ka": "ಮದರ್ಥೇ"
+            },
+            "meaning": {
+                "hi": "मेरी खातिर",
+                "en": "for my sake",
+                "be": "আমার জন্য",
+                "ka": "ನನ್ನ ಸಲುವಾಗಿ"
+            }
         },
         {
             "sanskrit": "त्यक्तजीविताः",
-            "transliteration": "tyaktajīvitāḥ",
-            "meaning": "prepared to risk life"
+            "transliteration": {
+                "hi": "त्यक्तजीविताः",
+                "en": "tyaktajīvitāḥ",
+                "be": "ত্যক্তজীবিতাঃ",
+                "ka": "ತ್ಯಕ್ತಜೀವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "जान जोखिम में डालने को तैयार",
+                "en": "prepared to risk life",
+                "be": "জীবনের ঝুঁকি নিতে প্রস্তুত",
+                "ka": "ಪ್ರಾಣವನ್ನು ಪಣಕ್ಕಿಡಲು ಸಿದ್ಧ"
+            }
         },
         {
             "sanskrit": "नानाशास्त्रप्रहरणाः",
-            "transliteration": "nānāśāstrapraharaṇāḥ",
-            "meaning": "armed with various weapons"
+            "transliteration": {
+                "hi": "नानाशास्त्रप्रहरणाः",
+                "en": "nānāśāstrapraharaṇāḥ",
+                "be": "নানাশাস্ত্রপ্রহরণাঃ",
+                "ka": "ನಾನಾಶಾಸ್ತ್ರಪ್ರಹರಣಾಃ"
+            },
+            "meaning": {
+                "hi": "विभिन्न हथियारों से लैस",
+                "en": "armed with various weapons",
+                "be": "বিভিন্ন অস্ত্রে সজ্জিত",
+                "ka": "ವಿವಿಧ ಆಯುಧಗಳಿಂದ ಶಸ್ತ್ರಸಜ್ಜಿತ"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "युद्धविशारदाः",
-            "transliteration": "yuddhaviśāradāḥ",
-            "meaning": "skilled in war"
+            "transliteration": {
+                "hi": "युद्धविशारदाः",
+                "en": "yuddhaviśāradāḥ",
+                "be": "যুদ্ধবিশারদাঃ",
+                "ka": "ಯುದ್ಧವಿಶಾರದಾಃ"
+            },
+            "meaning": {
+                "hi": "युद्ध में कुशल",
+                "en": "skilled in war",
+                "be": "যুদ্ধে দক্ষ",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ ನುರಿತ"
+            }
         }
     ],
     "tej": {

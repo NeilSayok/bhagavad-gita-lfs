@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\naśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase .\ngatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ ||2-11||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಶೋಚ್ಯಾನನ್ವಶೋಚಸ್ತ್ವಂ ಪ್ರಜ್ಞಾವಾದಾಂಶ್ಚ ಭಾಷಸೇ |\nಗತಾಸೂನಗತಾಸೂಂಶ್ಚ ನಾನುಶೋಚನ್ತಿ ಪಣ್ಡಿತಾಃ ||೨-೧೧||"
     },
-    "transliteration": "śrībhagavānuvāca .\naśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase .\ngatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ ||2-11||",
-    "life_application": "Notice where your grief is rooted in misunderstanding, and let deeper perspective soothe your emotional distress.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ||२-११||",
+        "en": "śrībhagavānuvāca .\naśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase .\ngatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ ||2-11||",
+        "be": "শ্রীভগবানুবাচ |\nঅশোচ্যানন্বশোচস্ত্বং প্রজ্ঞাবাদাংশ্চ ভাষসে |\nগতাসূনগতাসূংশ্চ নানুশোচন্তি পণ্ডিতাঃ ||২-১১||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಶೋಚ್ಯಾನನ್ವಶೋಚಸ್ತ್ವಂ ಪ್ರಜ್ಞಾವಾದಾಂಶ್ಚ ಭಾಷಸೇ |\nಗತಾಸೂನಗತಾಸೂಂಶ್ಚ ನಾನುಶೋಚನ್ತಿ ಪಣ್ಡಿತಾಃ ||೨-೧೧||"
+    },
+    "life_application": {
+        "hi": "ध्यान दें कि आपका दुःख कहाँ गलतफहमी में निहित है, और गहरे परिप्रेक्ष्य को अपने भावनात्मक संकट को शांत करने दें।",
+        "en": "Notice where your grief is rooted in misunderstanding, and let deeper perspective soothe your emotional distress.",
+        "be": "আপনার দুঃখের মূল কোথায় ভুল বোঝাবুঝি রয়েছে তা লক্ষ্য করুন এবং গভীর দৃষ্টিভঙ্গি আপনার মানসিক কষ্টকে প্রশমিত করুন।",
+        "ka": "ನಿಮ್ಮ ದುಃಖವು ತಪ್ಪು ತಿಳುವಳಿಕೆಯಲ್ಲಿ ಬೇರೂರಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ ಮತ್ತು ಆಳವಾದ ದೃಷ್ಟಿಕೋನವು ನಿಮ್ಮ ಭಾವನಾತ್ಮಕ ಯಾತನೆಯನ್ನು ಶಮನಗೊಳಿಸಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Death",
@@ -24,58 +34,168 @@
     "word_meanings": [
         {
             "sanskrit": "अशोच्यान्",
-            "transliteration": "aśocyān",
-            "meaning": "those who should not"
+            "transliteration": {
+                "hi": "अशोच्यान्",
+                "en": "aśocyān",
+                "be": "অশোচ্যান্",
+                "ka": "ಅಶೋಚ್ಯಾನ್"
+            },
+            "meaning": {
+                "hi": "जिन्हें नहीं करना चाहिए",
+                "en": "those who should not",
+                "be": "যাদের উচিত নয়",
+                "ka": "ಮಾಡಬಾರದವರು"
+            }
         },
         {
             "sanskrit": "अन्वशोचः",
-            "transliteration": "anvaśocaḥ",
-            "meaning": "hast grieved"
+            "transliteration": {
+                "hi": "अन्वशोचः",
+                "en": "anvaśocaḥ",
+                "be": "অন্বশোচঃ",
+                "ka": "ಅನ್ವಶೋಚಃ"
+            },
+            "meaning": {
+                "hi": "दुःख हुआ है",
+                "en": "hast grieved",
+                "be": "দুঃখিত হয়েছে",
+                "ka": "ದುಃಖಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "प्रज्ञावादान्",
-            "transliteration": "prajñāvādān",
-            "meaning": "words of wisdom"
+            "transliteration": {
+                "hi": "प्रज्ञावादान्",
+                "en": "prajñāvādān",
+                "be": "প্রজ্ঞাবাদান্",
+                "ka": "ಪ್ರಜ್ಞಾವಾದಾನ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान के शब्द",
+                "en": "words of wisdom",
+                "be": "জ্ঞানের শব্দ",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆಯ ಮಾತುಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भाषसे",
-            "transliteration": "bhāṣase",
-            "meaning": "speakest"
+            "transliteration": {
+                "hi": "भाषसे",
+                "en": "bhāṣase",
+                "be": "ভাষসে",
+                "ka": "ಭಾಷಸೇ"
+            },
+            "meaning": {
+                "hi": "बोलनेवाला",
+                "en": "speakest",
+                "be": "বক্তা",
+                "ka": "ಮಾತನಾಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "गतासून्",
-            "transliteration": "gatāsūn",
-            "meaning": "the dead"
+            "transliteration": {
+                "hi": "गतासून्",
+                "en": "gatāsūn",
+                "be": "গতাসূন্",
+                "ka": "ಗತಾಸೂನ್"
+            },
+            "meaning": {
+                "hi": "मृत",
+                "en": "the dead",
+                "be": "মৃত",
+                "ka": "ಸತ್ತವರು"
+            }
         },
         {
             "sanskrit": "अगतासून्",
-            "transliteration": "agatāsūn",
-            "meaning": "the living"
+            "transliteration": {
+                "hi": "अगतासून्",
+                "en": "agatāsūn",
+                "be": "অগতাসূন্",
+                "ka": "ಅಗತಾಸೂನ್"
+            },
+            "meaning": {
+                "hi": "जीवित",
+                "en": "the living",
+                "be": "জীবিত",
+                "ka": "ದೇಶ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "न अनुशोचन्ति",
-            "transliteration": "na anuśocanti",
-            "meaning": "grieve not"
+            "transliteration": {
+                "hi": "न अनुशोचन्ति",
+                "en": "na anuśocanti",
+                "be": "ন অনুশোচন্তি",
+                "ka": "ನ ಅನುಶೋಚನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "शोक मत करो",
+                "en": "grieve not",
+                "be": "দুঃখ না",
+                "ka": "ದುಃಖಿಸಬೇಡ"
+            }
         },
         {
             "sanskrit": "पण्डिताः",
-            "transliteration": "paṇḍitāḥ",
-            "meaning": "the wise."
+            "transliteration": {
+                "hi": "पण्डिताः",
+                "en": "paṇḍitāḥ",
+                "be": "পণ্ডিতাঃ",
+                "ka": "ಪಣ್ಡಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "समझदार।",
+                "en": "the wise.",
+                "be": "জ্ঞানী",
+                "ka": "ಬುದ್ಧಿವಂತ."
+            }
         }
     ],
     "tej": {

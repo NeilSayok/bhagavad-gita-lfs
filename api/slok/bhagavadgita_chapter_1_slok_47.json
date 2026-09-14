@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾರ್ಜುನಃ ಸಙ್ಖ್ಯೇ ರಥೋಪಸ್ಥ ಉಪಾವಿಶತ್ |\nವಿಸೃಜ್ಯ ಸಶರಂ ಚಾಪಂ ಶೋಕಸಂವಿಗ್ನಮಾನಸಃ ||೧-೪೭||"
     },
-    "transliteration": "sañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||",
-    "life_application": "When doubt and sorrow overwhelm you, sit quietly and seek higher wisdom before attempting to move forward.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |\nविसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||",
+        "en": "sañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||",
+        "be": "সঞ্জয উবাচ |\nএবমুক্ত্বার্জুনঃ সঙ্খ্যে রথোপস্থ উপাবিশত্ |\nবিসৃজ্য সশরং চাপং শোকসংবিগ্নমানসঃ ||১-৪৭||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾರ್ಜುನಃ ಸಙ್ಖ್ಯೇ ರಥೋಪಸ್ಥ ಉಪಾವಿಶತ್ |\nವಿಸೃಜ್ಯ ಸಶರಂ ಚಾಪಂ ಶೋಕಸಂವಿಗ್ನಮಾನಸಃ ||೧-೪೭||"
+    },
+    "life_application": {
+        "hi": "जब संदेह और दुःख आप पर हावी हो जाए, तो चुपचाप बैठें और आगे बढ़ने का प्रयास करने से पहले उच्च ज्ञान की तलाश करें।",
+        "en": "When doubt and sorrow overwhelm you, sit quietly and seek higher wisdom before attempting to move forward.",
+        "be": "যখন সন্দেহ এবং দুঃখ আপনাকে আবিষ্ট করে, তখন চুপচাপ বসে থাকুন এবং এগিয়ে যাওয়ার চেষ্টা করার আগে উচ্চতর জ্ঞানের সন্ধান করুন।",
+        "ka": "ಸಂದೇಹ ಮತ್ತು ದುಃಖವು ನಿಮ್ಮನ್ನು ಆವರಿಸಿದಾಗ, ಶಾಂತವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಿ ಮತ್ತು ಮುಂದುವರಿಯಲು ಪ್ರಯತ್ನಿಸುವ ಮೊದಲು ಉನ್ನತ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಹುಡುಕಿ."
+    },
     "themes": [
         "Equanimity",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सञ्जयः उवाच",
-            "transliteration": "sañjayaḥ uvāca",
-            "meaning": "Sanjaya said"
+            "transliteration": {
+                "hi": "सञ्जयः उवाच",
+                "en": "sañjayaḥ uvāca",
+                "be": "সঞ্জযঃ উবাচ",
+                "ka": "ಸಞ್ಜಯಃ ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "संजय ने कहा",
+                "en": "Sanjaya said",
+                "be": "সঞ্জয় বলল",
+                "ka": "ಸಂಜಯ ಹೇಳಿದರು"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उक्त्वा",
-            "transliteration": "uktvā",
-            "meaning": "speaking"
+            "transliteration": {
+                "hi": "उक्त्वा",
+                "en": "uktvā",
+                "be": "উক্ত্বা",
+                "ka": "ಉಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बोल रहा हूँ",
+                "en": "speaking",
+                "be": "কথা বলা",
+                "ka": "ಮಾತನಾಡುವ"
+            }
         },
         {
             "sanskrit": "अर्जुनः",
-            "transliteration": "arjunaḥ",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "अर्जुनः",
+                "en": "arjunaḥ",
+                "be": "অর্জুনঃ",
+                "ka": "ಅರ್ಜುನಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "सङ्ख्ये",
-            "transliteration": "saṅkhye",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "सङ्ख्ये",
+                "en": "saṅkhye",
+                "be": "সঙ্খ্যে",
+                "ka": "ಸಙ್ಖ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "रथोपस्थे",
-            "transliteration": "rathopasthe",
-            "meaning": "on seat of chariot"
+            "transliteration": {
+                "hi": "रथोपस्थे",
+                "en": "rathopasthe",
+                "be": "রথোপস্থে",
+                "ka": "ರಥೋಪಸ್ಥೇ"
+            },
+            "meaning": {
+                "hi": "रथ की सीट पर",
+                "en": "on seat of chariot",
+                "be": "রথের আসনে",
+                "ka": "ರಥದ ಆಸನದ ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "उपाविशत्",
-            "transliteration": "upāviśat",
-            "meaning": "sat down"
+            "transliteration": {
+                "hi": "उपाविशत्",
+                "en": "upāviśat",
+                "be": "উপাবিশত্",
+                "ka": "ಉಪಾವಿಶತ್"
+            },
+            "meaning": {
+                "hi": "बैठ गया",
+                "en": "sat down",
+                "be": "বসে",
+                "ka": "ಕುಳಿತರು"
+            }
         },
         {
             "sanskrit": "विसृज्य",
-            "transliteration": "visṛjya",
-            "meaning": "casting aside"
+            "transliteration": {
+                "hi": "विसृज्य",
+                "en": "visṛjya",
+                "be": "বিসৃজ্য",
+                "ka": "ವಿಸೃಜ್ಯ"
+            },
+            "meaning": {
+                "hi": "एक तरफ फेंकना",
+                "en": "casting aside",
+                "be": "একপাশে ঢালাই",
+                "ka": "ಪಕ್ಕಕ್ಕೆ ಎಸೆಯುವುದು"
+            }
         },
         {
             "sanskrit": "सशरम्",
-            "transliteration": "saśaram",
-            "meaning": "along with arrows"
+            "transliteration": {
+                "hi": "सशरम्",
+                "en": "saśaram",
+                "be": "সশরম্",
+                "ka": "ಸಶರಮ್"
+            },
+            "meaning": {
+                "hi": "तीरों के साथ",
+                "en": "along with arrows",
+                "be": "তীর সহ",
+                "ka": "ಬಾಣಗಳ ಜೊತೆಗೆ"
+            }
         },
         {
             "sanskrit": "चापम्",
-            "transliteration": "cāpam",
-            "meaning": "bow"
+            "transliteration": {
+                "hi": "चापम्",
+                "en": "cāpam",
+                "be": "চাপম্",
+                "ka": "ಚಾಪಮ್"
+            },
+            "meaning": {
+                "hi": "झुकना",
+                "en": "bow",
+                "be": "নম",
+                "ka": "ಬಿಲ್ಲು"
+            }
         },
         {
             "sanskrit": "शोकसंविग्नमानसः",
-            "transliteration": "śokasaṁvignamānasaḥ",
-            "meaning": "mind distressed with grief"
+            "transliteration": {
+                "hi": "शोकसंविग्नमानसः",
+                "en": "śokasaṁvignamānasaḥ",
+                "be": "শোকসংবিগ্নমানসঃ",
+                "ka": "ಶೋಕಸಂವಿಗ್ನಮಾನಸಃ"
+            },
+            "meaning": {
+                "hi": "दुःख से व्यथित मन",
+                "en": "mind distressed with grief",
+                "be": "দুঃখে মন খারাপ",
+                "ka": "ದುಃಖದಿಂದ ಮನಸ್ಸು ನಲುಗಿತು"
+            }
         }
     ],
     "tej": {

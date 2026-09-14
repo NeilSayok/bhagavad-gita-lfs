@@ -14,8 +14,18 @@
         "en": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||1-6||",
         "ka": "ಯುಧಾಮನ್ಯುಶ್ಚ ವಿಕ್ರಾನ್ತ ಉತ್ತಮೌಜಾಶ್ಚ ವೀರ್ಯವಾನ್ |\nಸೌಭದ್ರೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವ ಏವ ಮಹಾರಥಾಃ ||೧-೬||"
     },
-    "transliteration": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||1-6||",
-    "life_application": "Focus on collective group strength rather than relying solely on individual talent when tackling complex responsibilities.",
+    "transliteration": {
+        "hi": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||",
+        "en": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||1-6||",
+        "be": "যুধামন্যুশ্চ বিক্রান্ত উত্তমৌজাশ্চ বীর্যবান্ |\nসৌভদ্রো দ্রৌপদেযাশ্চ সর্ব এব মহারথাঃ ||১-৬||",
+        "ka": "ಯುಧಾಮನ್ಯುಶ್ಚ ವಿಕ್ರಾನ್ತ ಉತ್ತಮೌಜಾಶ್ಚ ವೀರ್ಯವಾನ್ |\nಸೌಭದ್ರೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವ ಏವ ಮಹಾರಥಾಃ ||೧-೬||"
+    },
+    "life_application": {
+        "hi": "जटिल जिम्मेदारियों से निपटते समय केवल व्यक्तिगत प्रतिभा पर निर्भर रहने के बजाय सामूहिक समूह की ताकत पर ध्यान दें।",
+        "en": "Focus on collective group strength rather than relying solely on individual talent when tackling complex responsibilities.",
+        "be": "জটিল দায়িত্বগুলি মোকাবেলা করার সময় শুধুমাত্র ব্যক্তিগত প্রতিভার উপর নির্ভর না করে সমষ্টিগত গোষ্ঠী শক্তির দিকে মনোনিবেশ করুন।",
+        "ka": "ಸಂಕೀರ್ಣ ಜವಾಬ್ದಾರಿಗಳನ್ನು ನಿಭಾಯಿಸುವಾಗ ಕೇವಲ ವೈಯಕ್ತಿಕ ಪ್ರತಿಭೆಯನ್ನು ಅವಲಂಬಿಸದೆ ಸಾಮೂಹಿಕ ಗುಂಪಿನ ಬಲದ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "युधामन्युः",
-            "transliteration": "yudhāmanyuḥ",
-            "meaning": "Yudhamanyu"
+            "transliteration": {
+                "hi": "युधामन्युः",
+                "en": "yudhāmanyuḥ",
+                "be": "যুধামন্যুঃ",
+                "ka": "ಯುಧಾಮನ್ಯುಃ"
+            },
+            "meaning": {
+                "hi": "युधामन्यु",
+                "en": "Yudhamanyu",
+                "be": "যুধামন্যু",
+                "ka": "ಯುದ್ಧಮನ್ಯು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विक्रान्तः",
-            "transliteration": "vikrāntaḥ",
-            "meaning": "courageous"
+            "transliteration": {
+                "hi": "विक्रान्तः",
+                "en": "vikrāntaḥ",
+                "be": "বিক্রান্তঃ",
+                "ka": "ವಿಕ್ರಾನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "साहसी",
+                "en": "courageous",
+                "be": "সাহসী",
+                "ka": "ಧೈರ್ಯಶಾಲಿ"
+            }
         },
         {
             "sanskrit": "उत्तमौजाः",
-            "transliteration": "uttamaujāḥ",
-            "meaning": "Uttamauja"
+            "transliteration": {
+                "hi": "उत्तमौजाः",
+                "en": "uttamaujāḥ",
+                "be": "উত্তমৌজাঃ",
+                "ka": "ಉತ್ತಮೌಜಾಃ"
+            },
+            "meaning": {
+                "hi": "उत्तमौजा",
+                "en": "Uttamauja",
+                "be": "উত্তমৌজা",
+                "ka": "ಉತ್ತಮೌಜ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "वीर्यवान्",
-            "transliteration": "vīryavān",
-            "meaning": "brave"
+            "transliteration": {
+                "hi": "वीर्यवान्",
+                "en": "vīryavān",
+                "be": "বীর্যবান্",
+                "ka": "ವೀರ್ಯವಾನ್"
+            },
+            "meaning": {
+                "hi": "बहादुर",
+                "en": "brave",
+                "be": "সাহসী",
+                "ka": "ಕೆಚ್ಚೆದೆಯ"
+            }
         },
         {
             "sanskrit": "सौभद्रः",
-            "transliteration": "saubhadraḥ",
-            "meaning": "son of Subhadra (Abhimanyu)"
+            "transliteration": {
+                "hi": "सौभद्रः",
+                "en": "saubhadraḥ",
+                "be": "সৌভদ্রঃ",
+                "ka": "ಸೌಭದ್ರಃ"
+            },
+            "meaning": {
+                "hi": "सुभद्रा (अभिमन्यु) के पुत्र",
+                "en": "son of Subhadra (Abhimanyu)",
+                "be": "সুভদ্রার পুত্র (অভিমন্যু)",
+                "ka": "ಸುಭದ್ರೆಯ ಮಗ (ಅಭಿಮನ್ಯು)"
+            }
         },
         {
             "sanskrit": "द्रौपदेयाः",
-            "transliteration": "draupadeyāḥ",
-            "meaning": "sons of Draupadi"
+            "transliteration": {
+                "hi": "द्रौपदेयाः",
+                "en": "draupadeyāḥ",
+                "be": "দ্রৌপদেযাঃ",
+                "ka": "ದ್ರೌಪದೇಯಾಃ"
+            },
+            "meaning": {
+                "hi": "द्रौपदी के पुत्र",
+                "en": "sons of Draupadi",
+                "be": "দ্রৌপদীর ছেলেরা",
+                "ka": "ದ್ರೌಪದಿಯ ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्व",
-            "transliteration": "sarva",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्व",
+                "en": "sarva",
+                "be": "সর্ব",
+                "ka": "ಸರ್ವ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "महारथाः",
-            "transliteration": "mahārathāḥ",
-            "meaning": "great chariot warriors"
+            "transliteration": {
+                "hi": "महारथाः",
+                "en": "mahārathāḥ",
+                "be": "মহারথাঃ",
+                "ka": "ಮಹಾರಥಾಃ"
+            },
+            "meaning": {
+                "hi": "महान रथ योद्धा",
+                "en": "great chariot warriors",
+                "be": "মহান রথ যোদ্ধা",
+                "ka": "ಮಹಾನ್ ರಥ ಯೋಧರು"
+            }
         }
     ],
     "tej": {

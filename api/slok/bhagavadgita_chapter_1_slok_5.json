@@ -14,8 +14,18 @@
         "en": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ||1-5||",
         "ka": "ಧೃಷ್ಟಕೇತುಶ್ಚೇಕಿತಾನಃ ಕಾಶಿರಾಜಶ್ಚ ವೀರ್ಯವಾನ್ |\nಪುರುಜಿತ್ಕುನ್ತಿಭೋಜಶ್ಚ ಶೈಬ್ಯಶ್ಚ ನರಪುಂಗವಃ ||೧-೫||"
     },
-    "transliteration": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ||1-5||",
-    "life_application": "Assess your team and surroundings with thorough attention, appreciating the distinct contributions each person brings.",
+    "transliteration": {
+        "hi": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् |\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||",
+        "en": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ||1-5||",
+        "be": "ধৃষ্টকেতুশ্চেকিতানঃ কাশিরাজশ্চ বীর্যবান্ |\nপুরুজিত্কুন্তিভোজশ্চ শৈব্যশ্চ নরপুংগবঃ ||১-৫||",
+        "ka": "ಧೃಷ್ಟಕೇತುಶ್ಚೇಕಿತಾನಃ ಕಾಶಿರಾಜಶ್ಚ ವೀರ್ಯವಾನ್ |\nಪುರುಜಿತ್ಕುನ್ತಿಭೋಜಶ್ಚ ಶೈಬ್ಯಶ್ಚ ನರಪುಂಗವಃ ||೧-೫||"
+    },
+    "life_application": {
+        "hi": "अपनी टीम और परिवेश का सावधानीपूर्वक मूल्यांकन करें, प्रत्येक व्यक्ति के विशिष्ट योगदान की सराहना करें।",
+        "en": "Assess your team and surroundings with thorough attention, appreciating the distinct contributions each person brings.",
+        "be": "আপনার দল এবং পারিপার্শ্বিকতাকে পুঙ্খানুপুঙ্খ মনোযোগের সাথে মূল্যায়ন করুন, প্রতিটি ব্যক্তির আলাদা অবদানের প্রশংসা করে।",
+        "ka": "ನಿಮ್ಮ ತಂಡ ಮತ್ತು ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳನ್ನು ಸಂಪೂರ್ಣ ಗಮನದಿಂದ ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ, ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯು ತರುವ ವಿಭಿನ್ನ ಕೊಡುಗೆಗಳನ್ನು ಶ್ಲಾಘಿಸಿ."
+    },
     "themes": [
         "Leadership",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "धृष्टकेतुः",
-            "transliteration": "dhṛṣṭaketuḥ",
-            "meaning": "Dhrishtaketu"
+            "transliteration": {
+                "hi": "धृष्टकेतुः",
+                "en": "dhṛṣṭaketuḥ",
+                "be": "ধৃষ্টকেতুঃ",
+                "ka": "ಧೃಷ್ಟಕೇತುಃ"
+            },
+            "meaning": {
+                "hi": "धृष्टकेतु",
+                "en": "Dhrishtaketu",
+                "be": "ধৃষ্টকেতু",
+                "ka": "ದೃಷ್ಟಕೇತು"
+            }
         },
         {
             "sanskrit": "चेकितानः",
-            "transliteration": "cekitānaḥ",
-            "meaning": "Chekitana"
+            "transliteration": {
+                "hi": "चेकितानः",
+                "en": "cekitānaḥ",
+                "be": "চেকিতানঃ",
+                "ka": "ಚೇಕಿತಾನಃ"
+            },
+            "meaning": {
+                "hi": "चेकिताना",
+                "en": "Chekitana",
+                "be": "চেকিটানা",
+                "ka": "ಚೆಕಿತಾನ"
+            }
         },
         {
             "sanskrit": "काशिराजः",
-            "transliteration": "kāśirājaḥ",
-            "meaning": "king of Kashi"
+            "transliteration": {
+                "hi": "काशिराजः",
+                "en": "kāśirājaḥ",
+                "be": "কাশিরাজঃ",
+                "ka": "ಕಾಶಿರಾಜಃ"
+            },
+            "meaning": {
+                "hi": "काशी के राजा",
+                "en": "king of Kashi",
+                "be": "কাশীর রাজা",
+                "ka": "ಕಾಶಿಯ ರಾಜ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "वीर्यवान्",
-            "transliteration": "vīryavān",
-            "meaning": "valiant"
+            "transliteration": {
+                "hi": "वीर्यवान्",
+                "en": "vīryavān",
+                "be": "বীর্যবান্",
+                "ka": "ವೀರ್ಯವಾನ್"
+            },
+            "meaning": {
+                "hi": "बहादुर",
+                "en": "valiant",
+                "be": "সাহসী",
+                "ka": "ಧೀರ"
+            }
         },
         {
             "sanskrit": "पुरुजित्",
-            "transliteration": "purujit",
-            "meaning": "Purujit"
+            "transliteration": {
+                "hi": "पुरुजित्",
+                "en": "purujit",
+                "be": "পুরুজিত্",
+                "ka": "ಪುರುಜಿತ್"
+            },
+            "meaning": {
+                "hi": "पुरुजीत",
+                "en": "Purujit",
+                "be": "পুরুজিৎ",
+                "ka": "ಪುರುಜಿತ್"
+            }
         },
         {
             "sanskrit": "कुन्तिभोजः",
-            "transliteration": "kuntibhojaḥ",
-            "meaning": "Kuntibhoja"
+            "transliteration": {
+                "hi": "कुन्तिभोजः",
+                "en": "kuntibhojaḥ",
+                "be": "কুন্তিভোজঃ",
+                "ka": "ಕುನ್ತಿಭೋಜಃ"
+            },
+            "meaning": {
+                "hi": "कुंतीभोज",
+                "en": "Kuntibhoja",
+                "be": "কুন্তিভোজ",
+                "ka": "ಕುಂತಿಭೋಜ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शैब्यः",
-            "transliteration": "śaibyaḥ",
-            "meaning": "Shaibya"
+            "transliteration": {
+                "hi": "शैब्यः",
+                "en": "śaibyaḥ",
+                "be": "শৈব্যঃ",
+                "ka": "ಶೈಬ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "शैब्या",
+                "en": "Shaibya",
+                "be": "শৈব্য",
+                "ka": "ಶೈಬ್ಯಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "नरपुङ्गवः",
-            "transliteration": "narapuṅgavaḥ",
-            "meaning": "chief among men"
+            "transliteration": {
+                "hi": "नरपुङ्गवः",
+                "en": "narapuṅgavaḥ",
+                "be": "নরপুঙ্গবঃ",
+                "ka": "ನರಪುಙ್ಗವಃ"
+            },
+            "meaning": {
+                "hi": "पुरुषों में प्रमुख",
+                "en": "chief among men",
+                "be": "পুরুষদের মধ্যে প্রধান",
+                "ka": "ಪುರುಷರಲ್ಲಿ ಮುಖ್ಯ"
+            }
         }
     ],
     "tej": {

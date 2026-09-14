@@ -14,8 +14,18 @@
         "en": "tamuvāca hṛṣīkeśaḥ prahasanniva bhārata .\nsenayorubhayormadhye viṣīdantamidaṃ vacaḥ ||2-10||",
         "ka": "ತಮುವಾಚ ಹೃಷೀಕೇಶಃ ಪ್ರಹಸನ್ನಿವ ಭಾರತ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ವಿಷೀದನ್ತಮಿದಂ ವಚಃ ||೨-೧೦||"
     },
-    "transliteration": "tamuvāca hṛṣīkeśaḥ prahasanniva bhārata .\nsenayorubhayormadhye viṣīdantamidaṃ vacaḥ ||2-10||",
-    "life_application": "Respond to panicked or sorrowful friends with gentle calmness rather than mirroring their emotional turmoil.",
+    "transliteration": {
+        "hi": "तमुवाच हृषीकेशः प्रहसन्निव भारत |\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ||२-१०||",
+        "en": "tamuvāca hṛṣīkeśaḥ prahasanniva bhārata .\nsenayorubhayormadhye viṣīdantamidaṃ vacaḥ ||2-10||",
+        "be": "তমুবাচ হৃষীকেশঃ প্রহসন্নিব ভারত |\nসেনযোরুভযোর্মধ্যে বিষীদন্তমিদং বচঃ ||২-১০||",
+        "ka": "ತಮುವಾಚ ಹೃಷೀಕೇಶಃ ಪ್ರಹಸನ್ನಿವ ಭಾರತ |\nಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ ವಿಷೀದನ್ತಮಿದಂ ವಚಃ ||೨-೧೦||"
+    },
+    "life_application": {
+        "hi": "घबराए हुए या दुखी दोस्तों को उनकी भावनात्मक उथल-पुथल को प्रतिबिंबित करने के बजाय सौम्य शांति से जवाब दें।",
+        "en": "Respond to panicked or sorrowful friends with gentle calmness rather than mirroring their emotional turmoil.",
+        "be": "আতঙ্কিত বা দুঃখী বন্ধুদের তাদের মানসিক অস্থিরতার প্রতিফলন না করে মৃদু শান্ততার সাথে সাড়া দিন।",
+        "ka": "ಭಯಭೀತರಾದ ಅಥವಾ ದುಃಖಿತ ಸ್ನೇಹಿತರಿಗೆ ಅವರ ಭಾವನಾತ್ಮಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಬದಲು ಶಾಂತ ಶಾಂತತೆಯಿಂದ ಪ್ರತಿಕ್ರಿಯಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "to him"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "उसे",
+                "en": "to him",
+                "be": "তার কাছে",
+                "ka": "ಅವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "spoke"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoke",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "हृषीकेशः",
-            "transliteration": "hṛṣīkeśaḥ",
-            "meaning": "Hrishikesha"
+            "transliteration": {
+                "hi": "हृषीकेशः",
+                "en": "hṛṣīkeśaḥ",
+                "be": "হৃষীকেশঃ",
+                "ka": "ಹೃಷೀಕೇಶಃ"
+            },
+            "meaning": {
+                "hi": "हृषिकेश",
+                "en": "Hrishikesha",
+                "be": "হৃষীকেশা",
+                "ka": "ಹೃಷಿಕೇಶ"
+            }
         },
         {
             "sanskrit": "प्रहसन्",
-            "transliteration": "prahasan",
-            "meaning": "smiling"
+            "transliteration": {
+                "hi": "प्रहसन्",
+                "en": "prahasan",
+                "be": "প্রহসন্",
+                "ka": "ಪ್ರಹಸನ್"
+            },
+            "meaning": {
+                "hi": "मुस्कुराते हुए",
+                "en": "smiling",
+                "be": "হাসছে",
+                "ka": "ನಗುತ್ತಾ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "as it were"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसा कि यह था",
+                "en": "as it were",
+                "be": "যেমন ছিল",
+                "ka": "ಇದ್ದಂತೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata",
+                "be": "হে ভরত",
+                "ka": "ಓ ಭರತ"
+            }
         },
         {
             "sanskrit": "सेनयोः",
-            "transliteration": "senayoḥ",
-            "meaning": "of the armies"
+            "transliteration": {
+                "hi": "सेनयोः",
+                "en": "senayoḥ",
+                "be": "সেনযোঃ",
+                "ka": "ಸೇನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सेनाओं का",
+                "en": "of the armies",
+                "be": "সেনাবাহিনীর",
+                "ka": "ಸೇನೆಗಳ"
+            }
         },
         {
             "sanskrit": "उभयोः",
-            "transliteration": "ubhayoḥ",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभयोः",
+                "en": "ubhayoḥ",
+                "be": "উভযোঃ",
+                "ka": "ಉಭಯೋಃ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "मध्ये",
-            "transliteration": "madhye",
-            "meaning": "in the middle"
+            "transliteration": {
+                "hi": "मध्ये",
+                "en": "madhye",
+                "be": "মধ্যে",
+                "ka": "ಮಧ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "बीच में",
+                "en": "in the middle",
+                "be": "মাঝখানে",
+                "ka": "ಮಧ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "विषीदन्तम्",
-            "transliteration": "viṣīdantam",
-            "meaning": "despondent"
+            "transliteration": {
+                "hi": "विषीदन्तम्",
+                "en": "viṣīdantam",
+                "be": "বিষীদন্তম্",
+                "ka": "ವಿಷೀದನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "निराश",
+                "en": "despondent",
+                "be": "হতাশ",
+                "ka": "ಹತಾಶ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "वचः",
-            "transliteration": "vacaḥ",
-            "meaning": "word."
+            "transliteration": {
+                "hi": "वचः",
+                "en": "vacaḥ",
+                "be": "বচঃ",
+                "ka": "ವಚಃ"
+            },
+            "meaning": {
+                "hi": "शब्द।",
+                "en": "word.",
+                "be": "শব্দ",
+                "ka": "ಪದ."
+            }
         }
     ],
     "tej": {

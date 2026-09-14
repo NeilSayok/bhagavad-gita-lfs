@@ -14,8 +14,18 @@
         "en": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||1-8||",
         "ka": "ಭವಾನ್ಭೀಷ್ಮಶ್ಚ ಕರ್ಣಶ್ಚ ಕೃಪಶ್ಚ ಸಮಿತಿಞ್ಜಯಃ |\nಅಶ್ವತ್ಥಾಮಾ ವಿಕರ್ಣಶ್ಚ ಸೌಮದತ್ತಿಸ್ತಥೈವ ಚ ||೧-೮||"
     },
-    "transliteration": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||1-8||",
-    "life_application": "Value the experienced and reliable people in your life, seeking their guidance during moments of uncertainty.",
+    "transliteration": {
+        "hi": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः |\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||",
+        "en": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||1-8||",
+        "be": "ভবান্ভীষ্মশ্চ কর্ণশ্চ কৃপশ্চ সমিতিঞ্জযঃ |\nঅশ্বত্থামা বিকর্ণশ্চ সৌমদত্তিস্তথৈব চ ||১-৮||",
+        "ka": "ಭವಾನ್ಭೀಷ್ಮಶ್ಚ ಕರ್ಣಶ್ಚ ಕೃಪಶ್ಚ ಸಮಿತಿಞ್ಜಯಃ |\nಅಶ್ವತ್ಥಾಮಾ ವಿಕರ್ಣಶ್ಚ ಸೌಮದತ್ತಿಸ್ತಥೈವ ಚ ||೧-೮||"
+    },
+    "life_application": {
+        "hi": "अपने जीवन में अनुभवी और विश्वसनीय लोगों को महत्व दें, अनिश्चितता के क्षणों में उनका मार्गदर्शन लें।",
+        "en": "Value the experienced and reliable people in your life, seeking their guidance during moments of uncertainty.",
+        "be": "আপনার জীবনে অভিজ্ঞ এবং নির্ভরযোগ্য ব্যক্তিদের মূল্য দিন, অনিশ্চয়তার মুহুর্তে তাদের নির্দেশনা খুঁজছেন।",
+        "ka": "ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ಅನುಭವಿ ಮತ್ತು ವಿಶ್ವಾಸಾರ್ಹ ಜನರನ್ನು ಗೌರವಿಸಿ, ಅನಿಶ್ಚಿತತೆಯ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ಮಾರ್ಗದರ್ಶನವನ್ನು ಹುಡುಕುವುದು."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "भवान्",
-            "transliteration": "bhavān",
-            "meaning": "yourself (Drona)"
+            "transliteration": {
+                "hi": "भवान्",
+                "en": "bhavān",
+                "be": "ভবান্",
+                "ka": "ಭವಾನ್"
+            },
+            "meaning": {
+                "hi": "आप (द्रोण)",
+                "en": "yourself (Drona)",
+                "be": "নিজেকে (দ্রোণ)",
+                "ka": "ನೀವೇ (ದ್ರೋಣ)"
+            }
         },
         {
             "sanskrit": "भीष्मः",
-            "transliteration": "bhīṣmaḥ",
-            "meaning": "Bhishma"
+            "transliteration": {
+                "hi": "भीष्मः",
+                "en": "bhīṣmaḥ",
+                "be": "ভীষ্মঃ",
+                "ka": "ಭೀಷ್ಮಃ"
+            },
+            "meaning": {
+                "hi": "भीष्म",
+                "en": "Bhishma",
+                "be": "ভীষ্ম",
+                "ka": "ಭೀಷ್ಮ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कर्णः",
-            "transliteration": "karṇaḥ",
-            "meaning": "Karna"
+            "transliteration": {
+                "hi": "कर्णः",
+                "en": "karṇaḥ",
+                "be": "কর্ণঃ",
+                "ka": "ಕರ್ಣಃ"
+            },
+            "meaning": {
+                "hi": "कर्ण",
+                "en": "Karna",
+                "be": "কর্ণ",
+                "ka": "ಕರ್ಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "कृपः",
-            "transliteration": "kṛpaḥ",
-            "meaning": "Kripa"
+            "transliteration": {
+                "hi": "कृपः",
+                "en": "kṛpaḥ",
+                "be": "কৃপঃ",
+                "ka": "ಕೃಪಃ"
+            },
+            "meaning": {
+                "hi": "कृपा",
+                "en": "Kripa",
+                "be": "কৃপা",
+                "ka": "ಕೃಪಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "समितिंजयः",
-            "transliteration": "samitiṁjayaḥ",
-            "meaning": "victorious in battle"
+            "transliteration": {
+                "hi": "समितिंजयः",
+                "en": "samitiṁjayaḥ",
+                "be": "সমিতিংজযঃ",
+                "ka": "ಸಮಿತಿಂಜಯಃ"
+            },
+            "meaning": {
+                "hi": "युद्ध में विजयी",
+                "en": "victorious in battle",
+                "be": "যুদ্ধে বিজয়ী",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ ವಿಜಯಿ"
+            }
         },
         {
             "sanskrit": "अश्वत्थामा",
-            "transliteration": "aśvatthāmā",
-            "meaning": "Ashvatthama"
+            "transliteration": {
+                "hi": "अश्वत्थामा",
+                "en": "aśvatthāmā",
+                "be": "অশ্বত্থামা",
+                "ka": "ಅಶ್ವತ್ಥಾಮಾ"
+            },
+            "meaning": {
+                "hi": "अश्वत्थामा",
+                "en": "Ashvatthama",
+                "be": "অশ্বত্থামা",
+                "ka": "ಅಶ್ವತ್ಥಾಮ"
+            }
         },
         {
             "sanskrit": "विकर्णः",
-            "transliteration": "vikarṇaḥ",
-            "meaning": "Vikarna"
+            "transliteration": {
+                "hi": "विकर्णः",
+                "en": "vikarṇaḥ",
+                "be": "বিকর্ণঃ",
+                "ka": "ವಿಕರ್ಣಃ"
+            },
+            "meaning": {
+                "hi": "विकर्ण",
+                "en": "Vikarna",
+                "be": "বিকর্ণ",
+                "ka": "ವಿಕರ್ಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सौमदत्तिः",
-            "transliteration": "saumadattiḥ",
-            "meaning": "son of Somadatta"
+            "transliteration": {
+                "hi": "सौमदत्तिः",
+                "en": "saumadattiḥ",
+                "be": "সৌমদত্তিঃ",
+                "ka": "ಸೌಮದತ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "सोमदत्त का पुत्र",
+                "en": "son of Somadatta",
+                "be": "সোমদত্তের পুত্র",
+                "ka": "ಸೋಮದತ್ತನ ಮಗ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "as well as"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "साथ ही साथ",
+                "en": "as well as",
+                "be": "সেইসাথে",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         }
     ],
     "tej": {

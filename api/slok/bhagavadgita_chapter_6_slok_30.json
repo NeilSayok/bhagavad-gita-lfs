@@ -14,8 +14,18 @@
         "en": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati .\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||6-30||",
         "ka": "ಯೋ ಮಾಂ ಪಶ್ಯತಿ ಸರ್ವತ್ರ ಸರ್ವಂ ಚ ಮಯಿ ಪಶ್ಯತಿ |\nತಸ್ಯಾಹಂ ನ ಪ್ರಣಶ್ಯಾಮಿ ಸ ಚ ಮೇ ನ ಪ್ರಣಶ್ಯತಿ ||೬-೩೦||"
     },
-    "transliteration": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati .\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||6-30||",
-    "life_application": "Realize that one who sees God everywhere and sees everything in God is never separated from divine love.",
+    "transliteration": {
+        "hi": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति |\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति ||६-३०||",
+        "en": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati .\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||6-30||",
+        "be": "যো মাং পশ্যতি সর্বত্র সর্বং চ মযি পশ্যতি |\nতস্যাহং ন প্রণশ্যামি স চ মে ন প্রণশ্যতি ||৬-৩০||",
+        "ka": "ಯೋ ಮಾಂ ಪಶ್ಯತಿ ಸರ್ವತ್ರ ಸರ್ವಂ ಚ ಮಯಿ ಪಶ್ಯತಿ |\nತಸ್ಯಾಹಂ ನ ಪ್ರಣಶ್ಯಾಮಿ ಸ ಚ ಮೇ ನ ಪ್ರಣಶ್ಯತಿ ||೬-೩೦||"
+    },
+    "life_application": {
+        "hi": "यह जान लें कि जो हर जगह ईश्वर को देखता है और ईश्वर में ही सब कुछ देखता है वह कभी भी ईश्वरीय प्रेम से अलग नहीं होता है।",
+        "en": "Realize that one who sees God everywhere and sees everything in God is never separated from divine love.",
+        "be": "উপলব্ধি করুন যে যিনি সর্বত্র ভগবানকে দেখেন এবং ঈশ্বরের মধ্যে সবকিছু দেখেন তিনি কখনই ঐশ্বরিক প্রেম থেকে বিচ্ছিন্ন হন না।",
+        "ka": "ಎಲ್ಲೆಲ್ಲೂ ದೇವರನ್ನು ಕಾಣುವವನು ಮತ್ತು ದೇವರಲ್ಲಿ ಎಲ್ಲವನ್ನೂ ನೋಡುವವನು ಎಂದಿಗೂ ದೈವಿಕ ಪ್ರೀತಿಯಿಂದ ಬೇರ್ಪಟ್ಟಿಲ್ಲ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "paśyati"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "sarvatra"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            }
         },
         {
             "sanskrit": "सर्वं",
-            "transliteration": "sarvaṃ",
-            "meaning": "sarvaṃ"
+            "transliteration": {
+                "hi": "सर्वं",
+                "en": "sarvaṃ",
+                "be": "সর্বং",
+                "ka": "ಸರ್ವಂ"
+            },
+            "meaning": {
+                "hi": "सर्वं",
+                "en": "sarvaṃ",
+                "be": "sarvaṃ",
+                "ka": "sarvaṃ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "mayi"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "माई",
+                "en": "mayi",
+                "be": "mayi",
+                "ka": "ಮಯಿ"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "paśyati"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            }
         },
         {
             "sanskrit": "तस्याहं",
-            "transliteration": "tasyāhaṃ",
-            "meaning": "tasyāhaṃ"
+            "transliteration": {
+                "hi": "तस्याहं",
+                "en": "tasyāhaṃ",
+                "be": "তস্যাহং",
+                "ka": "ತಸ್ಯಾಹಂ"
+            },
+            "meaning": {
+                "hi": "तस्याहं",
+                "en": "tasyāhaṃ",
+                "be": "tasyahaṃ",
+                "ka": "ತಸ್ಯಾಹಂ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "प्रणश्यामि",
-            "transliteration": "praṇaśyāmi",
-            "meaning": "praṇaśyāmi"
+            "transliteration": {
+                "hi": "प्रणश्यामि",
+                "en": "praṇaśyāmi",
+                "be": "প্রণশ্যামি",
+                "ka": "ಪ್ರಣಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "प्रणश्यामि",
+                "en": "praṇaśyāmi",
+                "be": "প্রণাশ্যামি",
+                "ka": "ಪ್ರಾಣಶ್ಯಾಮಿ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "प्रणश्यति",
-            "transliteration": "praṇaśyati",
-            "meaning": "praṇaśyati"
+            "transliteration": {
+                "hi": "प्रणश्यति",
+                "en": "praṇaśyati",
+                "be": "প্রণশ্যতি",
+                "ka": "ಪ್ರಣಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "प्रणश्यति",
+                "en": "praṇaśyati",
+                "be": "প্রণাশ্যতি",
+                "ka": "ಪ್ರಣಶ್ಯತಿ"
+            }
         }
     ],
     "tej": {

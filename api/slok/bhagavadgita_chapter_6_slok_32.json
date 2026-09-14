@@ -14,8 +14,18 @@
         "en": "ātmaupamyena sarvatra samaṃ paśyati yo.arjuna .\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||6-32||",
         "ka": "ಆತ್ಮೌಪಮ್ಯೇನ ಸರ್ವತ್ರ ಸಮಂ ಪಶ್ಯತಿ ಯೋಽರ್ಜುನ |\nಸುಖಂ ವಾ ಯದಿ ವಾ ದುಃಖಂ ಸ ಯೋಗೀ ಪರಮೋ ಮತಃ ||೬-೩೨||"
     },
-    "transliteration": "ātmaupamyena sarvatra samaṃ paśyati yo.arjuna .\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||6-32||",
-    "life_application": "Treat the joy and sorrow of others as your own, reaching the highest standard of spiritual empathy.",
+    "transliteration": {
+        "hi": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन |\nसुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||",
+        "en": "ātmaupamyena sarvatra samaṃ paśyati yo.arjuna .\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||6-32||",
+        "be": "আত্মৌপম্যেন সর্বত্র সমং পশ্যতি যোঽর্জুন |\nসুখং বা যদি বা দুঃখং স যোগী পরমো মতঃ ||৬-৩২||",
+        "ka": "ಆತ್ಮೌಪಮ್ಯೇನ ಸರ್ವತ್ರ ಸಮಂ ಪಶ್ಯತಿ ಯೋಽರ್ಜುನ |\nಸುಖಂ ವಾ ಯದಿ ವಾ ದುಃಖಂ ಸ ಯೋಗೀ ಪರಮೋ ಮತಃ ||೬-೩೨||"
+    },
+    "life_application": {
+        "hi": "आध्यात्मिक सहानुभूति के उच्चतम स्तर तक पहुँचते हुए, दूसरों के सुख और दुःख को अपना मानें।",
+        "en": "Treat the joy and sorrow of others as your own, reaching the highest standard of spiritual empathy.",
+        "be": "আধ্যাত্মিক সহানুভূতির সর্বোচ্চ মানের পৌঁছে অন্যের আনন্দ ও দুঃখকে নিজের মতো করে বিবেচনা করুন।",
+        "ka": "ಇತರರ ಸಂತೋಷ ಮತ್ತು ದುಃಖವನ್ನು ನಿಮ್ಮದೇ ಎಂದು ಪರಿಗಣಿಸಿ, ಆಧ್ಯಾತ್ಮಿಕ ಪರಾನುಭೂತಿಯ ಉನ್ನತ ಮಟ್ಟವನ್ನು ತಲುಪಿ."
+    },
     "themes": [
         "Equanimity",
         "Duty"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "आत्मौपम्येन",
-            "transliteration": "ātmaupamyena",
-            "meaning": "ātmaupamyena"
+            "transliteration": {
+                "hi": "आत्मौपम्येन",
+                "en": "ātmaupamyena",
+                "be": "আত্মৌপম্যেন",
+                "ka": "ಆತ್ಮೌಪಮ್ಯೇನ"
+            },
+            "meaning": {
+                "hi": "आत्मौपम्येन",
+                "en": "ātmaupamyena",
+                "be": "ātmaupamyena",
+                "ka": "ಆತ್ಮೌಪಮ್ಯೇನ"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "sarvatra"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            }
         },
         {
             "sanskrit": "समं",
-            "transliteration": "samaṃ",
-            "meaning": "samaṃ"
+            "transliteration": {
+                "hi": "समं",
+                "en": "samaṃ",
+                "be": "সমং",
+                "ka": "ಸಮಂ"
+            },
+            "meaning": {
+                "hi": "समं",
+                "en": "samaṃ",
+                "be": "সমাং",
+                "ka": "ಸಮಂ"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "paśyati"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            }
         },
         {
             "sanskrit": "योऽर्जुन",
-            "transliteration": "yo'rjuna",
-            "meaning": "yo'rjuna"
+            "transliteration": {
+                "hi": "योऽर्जुन",
+                "en": "yo'rjuna",
+                "be": "যোঽর্জুন",
+                "ka": "ಯೋಽರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "योअर्जुन",
+                "en": "yo'rjuna",
+                "be": "yo'rjuna",
+                "ka": "ಯೋರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "सुखं",
-            "transliteration": "sukhaṃ",
-            "meaning": "sukhaṃ"
+            "transliteration": {
+                "hi": "सुखं",
+                "en": "sukhaṃ",
+                "be": "সুখং",
+                "ka": "ಸುಖಂ"
+            },
+            "meaning": {
+                "hi": "सुखं",
+                "en": "sukhaṃ",
+                "be": "সুখ",
+                "ka": "ಸುಖಂ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "दुःखं",
-            "transliteration": "duḥkhaṃ",
-            "meaning": "duḥkhaṃ"
+            "transliteration": {
+                "hi": "दुःखं",
+                "en": "duḥkhaṃ",
+                "be": "দুঃখং",
+                "ka": "ದುಃಖಂ"
+            },
+            "meaning": {
+                "hi": "दु:खां",
+                "en": "duḥkhaṃ",
+                "be": "দুখখ",
+                "ka": "ದುಃಖ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "परमो",
-            "transliteration": "paramo",
-            "meaning": "paramo"
+            "transliteration": {
+                "hi": "परमो",
+                "en": "paramo",
+                "be": "পরমো",
+                "ka": "ಪರಮೋ"
+            },
+            "meaning": {
+                "hi": "पैरामो",
+                "en": "paramo",
+                "be": "প্যারামো",
+                "ka": "ಪರಮೋ"
+            }
         },
         {
             "sanskrit": "मतः",
-            "transliteration": "mataḥ",
-            "meaning": "mataḥ"
+            "transliteration": {
+                "hi": "मतः",
+                "en": "mataḥ",
+                "be": "মতঃ",
+                "ka": "ಮತಃ"
+            },
+            "meaning": {
+                "hi": "मतः",
+                "en": "mataḥ",
+                "be": "mataḥ",
+                "ka": "ಮತಃ"
+            }
         }
     ],
     "tej": {

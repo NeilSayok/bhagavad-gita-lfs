@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nyo.ayaṃ yogastvayā proktaḥ sāmyena madhusūdana .\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām ||6-33||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಯೋಽಯಂ ಯೋಗಸ್ತ್ವಯಾ ಪ್ರೋಕ್ತಃ ಸಾಮ್ಯೇನ ಮಧುಸೂದನ |\nಏತಸ್ಯಾಹಂ ನ ಪಶ್ಯಾಮಿ ಚಞ್ಚಲತ್ವಾತ್ಸ್ಥಿತಿಂ ಸ್ಥಿರಾಮ್ ||೬-೩೩||"
     },
-    "transliteration": "arjuna uvāca .\nyo.ayaṃ yogastvayā proktaḥ sāmyena madhusūdana .\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām ||6-33||",
-    "life_application": "Acknowledge how difficult it is to keep a restless mind steady when trying to maintain continuous equanimity.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nयोऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन |\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||",
+        "en": "arjuna uvāca .\nyo.ayaṃ yogastvayā proktaḥ sāmyena madhusūdana .\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām ||6-33||",
+        "be": "অর্জুন উবাচ |\nযোঽযং যোগস্ত্বযা প্রোক্তঃ সাম্যেন মধুসূদন |\nএতস্যাহং ন পশ্যামি চঞ্চলত্বাত্স্থিতিং স্থিরাম্ ||৬-৩৩||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಯೋಽಯಂ ಯೋಗಸ್ತ್ವಯಾ ಪ್ರೋಕ್ತಃ ಸಾಮ್ಯೇನ ಮಧುಸೂದನ |\nಏತಸ್ಯಾಹಂ ನ ಪಶ್ಯಾಮಿ ಚಞ್ಚಲತ್ವಾತ್ಸ್ಥಿತಿಂ ಸ್ಥಿರಾಮ್ ||೬-೩೩||"
+    },
+    "life_application": {
+        "hi": "स्वीकार करें कि निरंतर समभाव बनाए रखने का प्रयास करते समय बेचैन मन को स्थिर रखना कितना कठिन है।",
+        "en": "Acknowledge how difficult it is to keep a restless mind steady when trying to maintain continuous equanimity.",
+        "be": "ক্রমাগত সমতা বজায় রাখার চেষ্টা করার সময় একটি অস্থির মনকে স্থির রাখা কতটা কঠিন তা স্বীকার করুন।",
+        "ka": "ನಿರಂತರ ಸಮಚಿತ್ತವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುವಾಗ ಪ್ರಕ್ಷುಬ್ಧ ಮನಸ್ಸನ್ನು ಸ್ಥಿರವಾಗಿರಿಸಿಕೊಳ್ಳುವುದು ಎಷ್ಟು ಕಷ್ಟ ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mind",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "योऽयं",
-            "transliteration": "yo'yaṃ",
-            "meaning": "yo'yaṃ"
+            "transliteration": {
+                "hi": "योऽयं",
+                "en": "yo'yaṃ",
+                "be": "যোঽযং",
+                "ka": "ಯೋಽಯಂ"
+            },
+            "meaning": {
+                "hi": "यो'यं",
+                "en": "yo'yaṃ",
+                "be": "yo'yaṃ",
+                "ka": "yo'yaṃ"
+            }
         },
         {
             "sanskrit": "योगस्त्वया",
-            "transliteration": "yogastvayā",
-            "meaning": "yogastvayā"
+            "transliteration": {
+                "hi": "योगस्त्वया",
+                "en": "yogastvayā",
+                "be": "যোগস্ত্বযা",
+                "ka": "ಯೋಗಸ್ತ್ವಯಾ"
+            },
+            "meaning": {
+                "hi": "योगस्त्वय",
+                "en": "yogastvayā",
+                "be": "যোগস্তব্য",
+                "ka": "ಯೋಗಸ್ತ್ವಯಾ"
+            }
         },
         {
             "sanskrit": "प्रोक्तः",
-            "transliteration": "proktaḥ",
-            "meaning": "proktaḥ"
+            "transliteration": {
+                "hi": "प्रोक्तः",
+                "en": "proktaḥ",
+                "be": "প্রোক্তঃ",
+                "ka": "ಪ್ರೋಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "प्रोक्तः",
+                "en": "proktaḥ",
+                "be": "proktaḥ",
+                "ka": "ಪ್ರೋಕ್ತಃ"
+            }
         },
         {
             "sanskrit": "साम्येन",
-            "transliteration": "sāmyena",
-            "meaning": "sāmyena"
+            "transliteration": {
+                "hi": "साम्येन",
+                "en": "sāmyena",
+                "be": "সাম্যেন",
+                "ka": "ಸಾಮ್ಯೇನ"
+            },
+            "meaning": {
+                "hi": "साम्येना",
+                "en": "sāmyena",
+                "be": "সাম্যেন",
+                "ka": "ಸಮಯೇನ"
+            }
         },
         {
             "sanskrit": "मधुसूदन",
-            "transliteration": "madhusūdana",
-            "meaning": "madhusūdana"
+            "transliteration": {
+                "hi": "मधुसूदन",
+                "en": "madhusūdana",
+                "be": "মধুসূদন",
+                "ka": "ಮಧುಸೂದನ"
+            },
+            "meaning": {
+                "hi": "मधुसूदन",
+                "en": "madhusūdana",
+                "be": "মধুসূদন",
+                "ka": "ಮಧುಸೂದನ"
+            }
         },
         {
             "sanskrit": "एतस्याहं",
-            "transliteration": "etasyāhaṃ",
-            "meaning": "etasyāhaṃ"
+            "transliteration": {
+                "hi": "एतस्याहं",
+                "en": "etasyāhaṃ",
+                "be": "এতস্যাহং",
+                "ka": "ಏತಸ್ಯಾಹಂ"
+            },
+            "meaning": {
+                "hi": "एतस्याहं",
+                "en": "etasyāhaṃ",
+                "be": "etasyāhaṃ",
+                "ka": "etasyahaṃ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "paśyāmi"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            }
         },
         {
             "sanskrit": "चञ्चलत्वात्स्थितिं",
-            "transliteration": "cañcalatvātsthitiṃ",
-            "meaning": "cañcalatvātsthitiṃ"
+            "transliteration": {
+                "hi": "चञ्चलत्वात्स्थितिं",
+                "en": "cañcalatvātsthitiṃ",
+                "be": "চঞ্চলত্বাত্স্থিতিং",
+                "ka": "ಚಞ್ಚಲತ್ವಾತ್ಸ್ಥಿತಿಂ"
+            },
+            "meaning": {
+                "hi": "चञ्चलत्वस्थितम्",
+                "en": "cañcalatvātsthitiṃ",
+                "be": "cañcalatvātsthitiṃ",
+                "ka": "ಕ್ಯಾಂಚಲತ್ವ ಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "स्थिराम्",
-            "transliteration": "sthirām",
-            "meaning": "sthirām"
+            "transliteration": {
+                "hi": "स्थिराम्",
+                "en": "sthirām",
+                "be": "স্থিরাম্",
+                "ka": "ಸ್ಥಿರಾಮ್"
+            },
+            "meaning": {
+                "hi": "स्थिरम्",
+                "en": "sthirām",
+                "be": "স্থিরাম",
+                "ka": "ಸ್ಥಿರಮ್"
+            }
         }
     ],
     "tej": {

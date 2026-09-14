@@ -14,8 +14,18 @@
         "en": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ .\nsarvathā vartamāno.api sa yogī mayi vartate ||6-31||",
         "ka": "ಸರ್ವಭೂತಸ್ಥಿತಂ ಯೋ ಮಾಂ ಭಜತ್ಯೇಕತ್ವಮಾಸ್ಥಿತಃ |\nಸರ್ವಥಾ ವರ್ತಮಾನೋಽಪಿ ಸ ಯೋಗೀ ಮಯಿ ವರ್ತತೇ ||೬-೩೧||"
     },
-    "transliteration": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ .\nsarvathā vartamāno.api sa yogī mayi vartate ||6-31||",
-    "life_application": "Worship the divine presence dwelling in all beings, living in spiritual unity no matter your daily circumstances.",
+    "transliteration": {
+        "hi": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः |\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||",
+        "en": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ .\nsarvathā vartamāno.api sa yogī mayi vartate ||6-31||",
+        "be": "সর্বভূতস্থিতং যো মাং ভজত্যেকত্বমাস্থিতঃ |\nসর্বথা বর্তমানোঽপি স যোগী মযি বর্ততে ||৬-৩১||",
+        "ka": "ಸರ್ವಭೂತಸ್ಥಿತಂ ಯೋ ಮಾಂ ಭಜತ್ಯೇಕತ್ವಮಾಸ್ಥಿತಃ |\nಸರ್ವಥಾ ವರ್ತಮಾನೋಽಪಿ ಸ ಯೋಗೀ ಮಯಿ ವರ್ತತೇ ||೬-೩೧||"
+    },
+    "life_application": {
+        "hi": "सभी प्राणियों में निवास करने वाली दिव्य उपस्थिति की पूजा करें, आध्यात्मिक एकता में रहें, चाहे आपकी दैनिक परिस्थितियाँ कुछ भी हों।",
+        "en": "Worship the divine presence dwelling in all beings, living in spiritual unity no matter your daily circumstances.",
+        "be": "সমস্ত প্রাণীর মধ্যে থাকা ঐশ্বরিক উপস্থিতির উপাসনা করুন, আপনার দৈনন্দিন পরিস্থিতি যাই হোক না কেন আধ্যাত্মিক ঐক্যে বাস করুন।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ವಾಸಿಸುವ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಪೂಜಿಸಿ, ನಿಮ್ಮ ದೈನಂದಿನ ಪರಿಸ್ಥಿತಿಗಳ ಹೊರತಾಗಿಯೂ ಆಧ್ಯಾತ್ಮಿಕ ಏಕತೆಯಲ್ಲಿ ಜೀವಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Duty"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वभूतस्थितं",
-            "transliteration": "sarvabhūtasthitaṃ",
-            "meaning": "sarvabhūtasthitaṃ"
+            "transliteration": {
+                "hi": "सर्वभूतस्थितं",
+                "en": "sarvabhūtasthitaṃ",
+                "be": "সর্বভূতস্থিতং",
+                "ka": "ಸರ್ವಭೂತಸ್ಥಿತಂ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतस्थितम्",
+                "en": "sarvabhūtasthitaṃ",
+                "be": "সর্বভূতস্থিতং",
+                "ka": "ಸರ್ವಭೂತಸ್ಥಿತಃ"
+            }
         },
         {
             "sanskrit": "यो",
-            "transliteration": "yo",
-            "meaning": "yo"
+            "transliteration": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "যো",
+                "ka": "ಯೋ"
+            },
+            "meaning": {
+                "hi": "यो",
+                "en": "yo",
+                "be": "yo",
+                "ka": "ಯೋ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "भजत्येकत्वमास्थितः",
-            "transliteration": "bhajatyekatvamāsthitaḥ",
-            "meaning": "bhajatyekatvamāsthitaḥ"
+            "transliteration": {
+                "hi": "भजत्येकत्वमास्थितः",
+                "en": "bhajatyekatvamāsthitaḥ",
+                "be": "ভজত্যেকত্বমাস্থিতঃ",
+                "ka": "ಭಜತ್ಯೇಕತ್ವಮಾಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "भजत्येकत्वमस्थितः",
+                "en": "bhajatyekatvamāsthitaḥ",
+                "be": "bhajatyektvamāsthitah",
+                "ka": "ಭಜತ್ಯೇಕತ್ವಮಸ್ಥಿತಃ"
+            }
         },
         {
             "sanskrit": "सर्वथा",
-            "transliteration": "sarvathā",
-            "meaning": "sarvathā"
+            "transliteration": {
+                "hi": "सर्वथा",
+                "en": "sarvathā",
+                "be": "সর্বথা",
+                "ka": "ಸರ್ವಥಾ"
+            },
+            "meaning": {
+                "hi": "सर्वथा",
+                "en": "sarvathā",
+                "be": "sarvathā",
+                "ka": "ಸರ್ವಥಾ"
+            }
         },
         {
             "sanskrit": "वर्तमानोऽपि",
-            "transliteration": "vartamāno'pi",
-            "meaning": "vartamāno'pi"
+            "transliteration": {
+                "hi": "वर्तमानोऽपि",
+                "en": "vartamāno'pi",
+                "be": "বর্তমানোঽপি",
+                "ka": "ವರ್ತಮಾನೋಽಪಿ"
+            },
+            "meaning": {
+                "hi": "वार्तामानोऽपि",
+                "en": "vartamāno'pi",
+                "be": "vartamāno'pi",
+                "ka": "vartamano'pi"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "योगी",
-            "transliteration": "yogī",
-            "meaning": "yogi"
+            "transliteration": {
+                "hi": "योगी",
+                "en": "yogī",
+                "be": "যোগী",
+                "ka": "ಯೋಗೀ"
+            },
+            "meaning": {
+                "hi": "योगी",
+                "en": "yogi",
+                "be": "যোগী",
+                "ka": "ಯೋಗಿ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "mayi"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "माई",
+                "en": "mayi",
+                "be": "mayi",
+                "ka": "ಮಯಿ"
+            }
         },
         {
             "sanskrit": "वर्तते",
-            "transliteration": "vartate",
-            "meaning": "vartate"
+            "transliteration": {
+                "hi": "वर्तते",
+                "en": "vartate",
+                "be": "বর্ততে",
+                "ka": "ವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "vartate",
+                "en": "vartate",
+                "be": "vartate",
+                "ka": "ವರ್ಟೇಟ್"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam .\nupaiti śāntarajasaṃ brahmabhūtamakalmaṣam ||6-27||",
         "ka": "ಪ್ರಶಾನ್ತಮನಸಂ ಹ್ಯೇನಂ ಯೋಗಿನಂ ಸುಖಮುತ್ತಮಮ್ |\nಉಪೈತಿ ಶಾನ್ತರಜಸಂ ಬ್ರಹ್ಮಭೂತಮಕಲ್ಮಷಮ್ ||೬-೨೭||"
     },
-    "transliteration": "praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam .\nupaiti śāntarajasaṃ brahmabhūtamakalmaṣam ||6-27||",
-    "life_application": "Experience supreme peace as your mind grows tranquil, your passions settle, and your heart rests in purity.",
+    "transliteration": {
+        "hi": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् |\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ||६-२७||",
+        "en": "praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam .\nupaiti śāntarajasaṃ brahmabhūtamakalmaṣam ||6-27||",
+        "be": "প্রশান্তমনসং হ্যেনং যোগিনং সুখমুত্তমম্ |\nউপৈতি শান্তরজসং ব্রহ্মভূতমকল্মষম্ ||৬-২৭||",
+        "ka": "ಪ್ರಶಾನ್ತಮನಸಂ ಹ್ಯೇನಂ ಯೋಗಿನಂ ಸುಖಮುತ್ತಮಮ್ |\nಉಪೈತಿ ಶಾನ್ತರಜಸಂ ಬ್ರಹ್ಮಭೂತಮಕಲ್ಮಷಮ್ ||೬-೨೭||"
+    },
+    "life_application": {
+        "hi": "जैसे ही आपका मन शांत हो जाता है, आपकी भावनाएं शांत हो जाती हैं और आपका दिल पवित्रता में आ जाता है, तो परम शांति का अनुभव करें।",
+        "en": "Experience supreme peace as your mind grows tranquil, your passions settle, and your heart rests in purity.",
+        "be": "পরম শান্তি অনুভব করুন যখন আপনার মন প্রশান্ত হয়, আপনার আবেগ স্থির হয় এবং আপনার হৃদয় বিশুদ্ধ হয়।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸು ಪ್ರಶಾಂತವಾಗಿ ಬೆಳೆಯುವುದರಿಂದ, ನಿಮ್ಮ ಭಾವೋದ್ರೇಕಗಳು ನೆಲೆಗೊಳ್ಳುವುದರಿಂದ ಮತ್ತು ನಿಮ್ಮ ಹೃದಯವು ಪರಿಶುದ್ಧವಾಗಿ ನೆಲೆಸಿದಾಗ ಸರ್ವೋಚ್ಚ ಶಾಂತಿಯನ್ನು ಅನುಭವಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "प्रशान्तमनसं",
-            "transliteration": "praśāntamanasaṃ",
-            "meaning": "praśāntamanasaṃ"
+            "transliteration": {
+                "hi": "प्रशान्तमनसं",
+                "en": "praśāntamanasaṃ",
+                "be": "প্রশান্তমনসং",
+                "ka": "ಪ್ರಶಾನ್ತಮನಸಂ"
+            },
+            "meaning": {
+                "hi": "प्रशांतमनसाम्",
+                "en": "praśāntamanasaṃ",
+                "be": "প্রশান্তমানসন",
+                "ka": "ಪ್ರಶಾಂತಮಾನಸಂ"
+            }
         },
         {
             "sanskrit": "ह्येनं",
-            "transliteration": "hyenaṃ",
-            "meaning": "hyenaṃ"
+            "transliteration": {
+                "hi": "ह्येनं",
+                "en": "hyenaṃ",
+                "be": "হ্যেনং",
+                "ka": "ಹ್ಯೇನಂ"
+            },
+            "meaning": {
+                "hi": "लकड़बग्घा",
+                "en": "hyenaṃ",
+                "be": "hyenaṃ",
+                "ka": "ಹೈನಾಂ"
+            }
         },
         {
             "sanskrit": "योगिनं",
-            "transliteration": "yoginaṃ",
-            "meaning": "yoginaṃ"
+            "transliteration": {
+                "hi": "योगिनं",
+                "en": "yoginaṃ",
+                "be": "যোগিনং",
+                "ka": "ಯೋಗಿನಂ"
+            },
+            "meaning": {
+                "hi": "योगिनम्",
+                "en": "yoginaṃ",
+                "be": "যোগিনাম",
+                "ka": "ಯೋಗಿನಾಂ"
+            }
         },
         {
             "sanskrit": "सुखमुत्तमम्",
-            "transliteration": "sukhamuttamam",
-            "meaning": "sukhamuttamam"
+            "transliteration": {
+                "hi": "सुखमुत्तमम्",
+                "en": "sukhamuttamam",
+                "be": "সুখমুত্তমম্",
+                "ka": "ಸುಖಮುತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "सुखमुत्तमम्",
+                "en": "sukhamuttamam",
+                "be": "সুখমুত্তম",
+                "ka": "ಸುಖಮುತ್ತಮಮ್"
+            }
         },
         {
             "sanskrit": "उपैति",
-            "transliteration": "upaiti",
-            "meaning": "upaiti"
+            "transliteration": {
+                "hi": "उपैति",
+                "en": "upaiti",
+                "be": "উপৈতি",
+                "ka": "ಉಪೈತಿ"
+            },
+            "meaning": {
+                "hi": "उपैती",
+                "en": "upaiti",
+                "be": "উপাইটি",
+                "ka": "ಉಪೈತಿ"
+            }
         },
         {
             "sanskrit": "शान्तरजसं",
-            "transliteration": "śāntarajasaṃ",
-            "meaning": "śāntarajasaṃ"
+            "transliteration": {
+                "hi": "शान्तरजसं",
+                "en": "śāntarajasaṃ",
+                "be": "শান্তরজসং",
+                "ka": "ಶಾನ್ತರಜಸಂ"
+            },
+            "meaning": {
+                "hi": "शांतराजसं",
+                "en": "śāntarajasaṃ",
+                "be": "শানতরাজসং",
+                "ka": "ಶಾಂತರಾಜಸಂ"
+            }
         },
         {
             "sanskrit": "ब्रह्मभूतमकल्मषम्",
-            "transliteration": "brahmabhūtamakalmaṣam",
-            "meaning": "brahmabhūtamakalmaṣam"
+            "transliteration": {
+                "hi": "ब्रह्मभूतमकल्मषम्",
+                "en": "brahmabhūtamakalmaṣam",
+                "be": "ব্রহ্মভূতমকল্মষম্",
+                "ka": "ಬ್ರಹ್ಮಭೂತಮಕಲ್ಮಷಮ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्मभूतमकलमशम्",
+                "en": "brahmabhūtamakalmaṣam",
+                "be": "ব্রহ্মভূতমকলমঃ",
+                "ka": "ಬ್ರಹ್ಮಭೂತಮಕಲ್ಮಷಮ್"
+            }
         }
     ],
     "tej": {

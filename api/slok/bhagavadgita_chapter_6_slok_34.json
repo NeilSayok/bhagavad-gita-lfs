@@ -14,8 +14,18 @@
         "en": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham .\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram ||6-34||",
         "ka": "ಚಞ್ಚಲಂ ಹಿ ಮನಃ ಕೃಷ್ಣ ಪ್ರಮಾಥಿ ಬಲವದ್ ದೃಢಮ್ |\nತಸ್ಯಾಹಂ ನಿಗ್ರಹಂ ಮನ್ಯೇ ವಾಯೋರಿವ ಸುದುಷ್ಕರಮ್ ||೬-೩೪||"
     },
-    "transliteration": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham .\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram ||6-34||",
-    "life_application": "Recognize that the mind is turbulent, powerful, and stubborn, requiring patient effort to harness like the wind.",
+    "transliteration": {
+        "hi": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् |\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ||६-३४||",
+        "en": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham .\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram ||6-34||",
+        "be": "চঞ্চলং হি মনঃ কৃষ্ণ প্রমাথি বলবদ্ দৃঢম্ |\nতস্যাহং নিগ্রহং মন্যে বাযোরিব সুদুষ্করম্ ||৬-৩৪||",
+        "ka": "ಚಞ್ಚಲಂ ಹಿ ಮನಃ ಕೃಷ್ಣ ಪ್ರಮಾಥಿ ಬಲವದ್ ದೃಢಮ್ |\nತಸ್ಯಾಹಂ ನಿಗ್ರಹಂ ಮನ್ಯೇ ವಾಯೋರಿವ ಸುದುಷ್ಕರಮ್ ||೬-೩೪||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि मन अशांत, शक्तिशाली और जिद्दी है, जिसे हवा की तरह संभालने के लिए धैर्यपूर्वक प्रयास की आवश्यकता होती है।",
+        "en": "Recognize that the mind is turbulent, powerful, and stubborn, requiring patient effort to harness like the wind.",
+        "be": "স্বীকার করুন যে মনটি অশান্ত, শক্তিশালী এবং একগুঁয়ে, বাতাসের মতো ব্যবহার করার জন্য রোগীর প্রচেষ্টা প্রয়োজন।",
+        "ka": "ಮನಸ್ಸು ಪ್ರಕ್ಷುಬ್ಧ, ಶಕ್ತಿಯುತ ಮತ್ತು ಹಠಮಾರಿ ಎಂದು ಗುರುತಿಸಿ, ಗಾಳಿಯಂತೆ ಬಳಸಿಕೊಳ್ಳಲು ತಾಳ್ಮೆಯ ಪ್ರಯತ್ನದ ಅಗತ್ಯವಿದೆ."
+    },
     "themes": [
         "Mind",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "चञ्चलं",
-            "transliteration": "cañcalaṃ",
-            "meaning": "cañcalaṃ"
+            "transliteration": {
+                "hi": "चञ्चलं",
+                "en": "cañcalaṃ",
+                "be": "চঞ্চলং",
+                "ka": "ಚಞ್ಚಲಂ"
+            },
+            "meaning": {
+                "hi": "कैंचलं",
+                "en": "cañcalaṃ",
+                "be": "cañcalaṃ",
+                "ka": "ಕ್ಯಾನ್ಕಾಲಂ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "कृष्ण",
-            "transliteration": "kṛṣṇa",
-            "meaning": "kṛṣṇa"
+            "transliteration": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            }
         },
         {
             "sanskrit": "प्रमाथि",
-            "transliteration": "pramāthi",
-            "meaning": "pramāthi"
+            "transliteration": {
+                "hi": "प्रमाथि",
+                "en": "pramāthi",
+                "be": "প্রমাথি",
+                "ka": "ಪ್ರಮಾಥಿ"
+            },
+            "meaning": {
+                "hi": "प्रमाथी",
+                "en": "pramāthi",
+                "be": "প্রমাথি",
+                "ka": "ಪ್ರಮತಿ"
+            }
         },
         {
             "sanskrit": "बलवद्",
-            "transliteration": "balavad",
-            "meaning": "balavad"
+            "transliteration": {
+                "hi": "बलवद्",
+                "en": "balavad",
+                "be": "বলবদ্",
+                "ka": "ಬಲವದ್"
+            },
+            "meaning": {
+                "hi": "बलावद",
+                "en": "balavad",
+                "be": "বলবাদ",
+                "ka": "ಬಲವಾಡ"
+            }
         },
         {
             "sanskrit": "दृढम्",
-            "transliteration": "dṛḍham",
-            "meaning": "dṛḍham"
+            "transliteration": {
+                "hi": "दृढम्",
+                "en": "dṛḍham",
+                "be": "দৃঢম্",
+                "ka": "ದೃಢಮ್"
+            },
+            "meaning": {
+                "hi": "दृढम्",
+                "en": "dṛḍham",
+                "be": "দরহাম",
+                "ka": "ದೃಷ್ಟಂ"
+            }
         },
         {
             "sanskrit": "तस्याहं",
-            "transliteration": "tasyāhaṃ",
-            "meaning": "tasyāhaṃ"
+            "transliteration": {
+                "hi": "तस्याहं",
+                "en": "tasyāhaṃ",
+                "be": "তস্যাহং",
+                "ka": "ತಸ್ಯಾಹಂ"
+            },
+            "meaning": {
+                "hi": "तस्याहं",
+                "en": "tasyāhaṃ",
+                "be": "tasyahaṃ",
+                "ka": "ತಸ್ಯಾಹಂ"
+            }
         },
         {
             "sanskrit": "निग्रहं",
-            "transliteration": "nigrahaṃ",
-            "meaning": "nigrahaṃ"
+            "transliteration": {
+                "hi": "निग्रहं",
+                "en": "nigrahaṃ",
+                "be": "নিগ্রহং",
+                "ka": "ನಿಗ್ರಹಂ"
+            },
+            "meaning": {
+                "hi": "निग्रहं",
+                "en": "nigrahaṃ",
+                "be": "নিগ্রহ",
+                "ka": "ನಿಗ್ರಹಂ"
+            }
         },
         {
             "sanskrit": "मन्ये",
-            "transliteration": "manye",
-            "meaning": "manye"
+            "transliteration": {
+                "hi": "मन्ये",
+                "en": "manye",
+                "be": "মন্যে",
+                "ka": "ಮನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "कई",
+                "en": "manye",
+                "be": "অনেক",
+                "ka": "ಅನೇಕ"
+            }
         },
         {
             "sanskrit": "वायोरिव",
-            "transliteration": "vāyoriva",
-            "meaning": "vāyoriva"
+            "transliteration": {
+                "hi": "वायोरिव",
+                "en": "vāyoriva",
+                "be": "বাযোরিব",
+                "ka": "ವಾಯೋರಿವ"
+            },
+            "meaning": {
+                "hi": "vayoriva",
+                "en": "vāyoriva",
+                "be": "vāyoriva",
+                "ka": "ವಯೋರಿವ"
+            }
         },
         {
             "sanskrit": "सुदुष्करम्",
-            "transliteration": "suduṣkaram",
-            "meaning": "suduṣkaram"
+            "transliteration": {
+                "hi": "सुदुष्करम्",
+                "en": "suduṣkaram",
+                "be": "সুদুষ্করম্",
+                "ka": "ಸುದುಷ್ಕರಮ್"
+            },
+            "meaning": {
+                "hi": "सुदुष्करम्",
+                "en": "suduṣkaram",
+                "be": "সুদুষ্করম",
+                "ka": "ಸುದುಷ್ಕರಂ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye .\nyatatāmapi siddhānāṃ kaścinmāṃ vetti tattvataḥ ||7-3||",
         "ka": "ಮನುಷ್ಯಾಣಾಂ ಸಹಸ್ರೇಷು ಕಶ್ಚಿದ್ಯತತಿ ಸಿದ್ಧಯೇ |\nಯತತಾಮಪಿ ಸಿದ್ಧಾನಾಂ ಕಶ್ಚಿನ್ಮಾಂ ವೇತ್ತಿ ತತ್ತ್ವತಃ ||೭-೩||"
     },
-    "transliteration": "manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye .\nyatatāmapi siddhānāṃ kaścinmāṃ vetti tattvataḥ ||7-3||",
-    "life_application": "Persevere in your spiritual pursuit, realizing that among thousands of people, only a few strive for ultimate truth.",
+    "transliteration": {
+        "hi": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये |\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ||७-३||",
+        "en": "manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye .\nyatatāmapi siddhānāṃ kaścinmāṃ vetti tattvataḥ ||7-3||",
+        "be": "মনুষ্যাণাং সহস্রেষু কশ্চিদ্যততি সিদ্ধযে |\nযততামপি সিদ্ধানাং কশ্চিন্মাং বেত্তি তত্ত্বতঃ ||৭-৩||",
+        "ka": "ಮನುಷ್ಯಾಣಾಂ ಸಹಸ್ರೇಷು ಕಶ್ಚಿದ್ಯತತಿ ಸಿದ್ಧಯೇ |\nಯತತಾಮಪಿ ಸಿದ್ಧಾನಾಂ ಕಶ್ಚಿನ್ಮಾಂ ವೇತ್ತಿ ತತ್ತ್ವತಃ ||೭-೩||"
+    },
+    "life_application": {
+        "hi": "अपनी आध्यात्मिक खोज में लगे रहें, यह समझते हुए कि हजारों लोगों में से केवल कुछ ही लोग अंतिम सत्य के लिए प्रयास करते हैं।",
+        "en": "Persevere in your spiritual pursuit, realizing that among thousands of people, only a few strive for ultimate truth.",
+        "be": "আপনার আধ্যাত্মিক সাধনায় অধ্যবসায় করুন, এই উপলব্ধি করুন যে হাজার হাজার লোকের মধ্যে, মাত্র কয়েকজন চূড়ান্ত সত্যের জন্য চেষ্টা করে।",
+        "ka": "ಸಾವಿರಾರು ಜನರ ನಡುವೆ ಕೆಲವರು ಮಾತ್ರ ಅಂತಿಮ ಸತ್ಯಕ್ಕಾಗಿ ಶ್ರಮಿಸುತ್ತಾರೆ ಎಂಬುದನ್ನು ಅರಿತುಕೊಂಡು ನಿಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಅನ್ವೇಷಣೆಯಲ್ಲಿ ದೃಢವಾಗಿರಿ."
+    },
     "themes": [
         "Purpose",
         "Knowledge"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "मनुष्याणां",
-            "transliteration": "manuṣyāṇāṃ",
-            "meaning": "manuṣyāṇāṃ"
+            "transliteration": {
+                "hi": "मनुष्याणां",
+                "en": "manuṣyāṇāṃ",
+                "be": "মনুষ্যাণাং",
+                "ka": "ಮನುಷ್ಯಾಣಾಂ"
+            },
+            "meaning": {
+                "hi": "मनुष्याणाम्",
+                "en": "manuṣyāṇāṃ",
+                "be": "manuṣyāṇāṃ",
+                "ka": "ಮನುಷ್ಯಾಣ"
+            }
         },
         {
             "sanskrit": "सहस्रेषु",
-            "transliteration": "sahasreṣu",
-            "meaning": "sahasreṣu"
+            "transliteration": {
+                "hi": "सहस्रेषु",
+                "en": "sahasreṣu",
+                "be": "সহস্রেষু",
+                "ka": "ಸಹಸ್ರೇಷು"
+            },
+            "meaning": {
+                "hi": "सहस्रेषु",
+                "en": "sahasreṣu",
+                "be": "সহস্রেষু",
+                "ka": "ಸಹಸ್ರೇಷು"
+            }
         },
         {
             "sanskrit": "कश्चिद्यतति",
-            "transliteration": "kaścidyatati",
-            "meaning": "kaścidyatati"
+            "transliteration": {
+                "hi": "कश्चिद्यतति",
+                "en": "kaścidyatati",
+                "be": "কশ্চিদ্যততি",
+                "ka": "ಕಶ್ಚಿದ್ಯತತಿ"
+            },
+            "meaning": {
+                "hi": "कश्चिद्यति",
+                "en": "kaścidyatati",
+                "be": "kaścidyatati",
+                "ka": "ಕಶ್ಚಿದಯತಿ"
+            }
         },
         {
             "sanskrit": "सिद्धये",
-            "transliteration": "siddhaye",
-            "meaning": "siddhaye"
+            "transliteration": {
+                "hi": "सिद्धये",
+                "en": "siddhaye",
+                "be": "সিদ্ধযে",
+                "ka": "ಸಿದ್ಧಯೇ"
+            },
+            "meaning": {
+                "hi": "सिद्धये",
+                "en": "siddhaye",
+                "be": "siddhaye",
+                "ka": "ಸಿದ್ಧಯೇ"
+            }
         },
         {
             "sanskrit": "यततामपि",
-            "transliteration": "yatatāmapi",
-            "meaning": "yatatāmapi"
+            "transliteration": {
+                "hi": "यततामपि",
+                "en": "yatatāmapi",
+                "be": "যততামপি",
+                "ka": "ಯತತಾಮಪಿ"
+            },
+            "meaning": {
+                "hi": "यतातमपि",
+                "en": "yatatāmapi",
+                "be": "yatatāmapi",
+                "ka": "ಯತತಮಪಿ"
+            }
         },
         {
             "sanskrit": "सिद्धानां",
-            "transliteration": "siddhānāṃ",
-            "meaning": "siddhānāṃ"
+            "transliteration": {
+                "hi": "सिद्धानां",
+                "en": "siddhānāṃ",
+                "be": "সিদ্ধানাং",
+                "ka": "ಸಿದ್ಧಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "सिद्धानां",
+                "en": "siddhānāṃ",
+                "be": "siddhānān",
+                "ka": "ಸಿದ್ಧನಂ"
+            }
         },
         {
             "sanskrit": "कश्चिन्मां",
-            "transliteration": "kaścinmāṃ",
-            "meaning": "kaścinmāṃ"
+            "transliteration": {
+                "hi": "कश्चिन्मां",
+                "en": "kaścinmāṃ",
+                "be": "কশ্চিন্মাং",
+                "ka": "ಕಶ್ಚಿನ್ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "कश्चिन्म",
+                "en": "kaścinmāṃ",
+                "be": "কাশ্ছিনমাণ",
+                "ka": "ಕಶ್ಚಿನ್ಮಾಂ"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "vetti"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "वेट्टी",
+                "en": "vetti",
+                "be": "ভেটি",
+                "ka": "ವೆಟ್ಟಿ"
+            }
         },
         {
             "sanskrit": "तत्त्वतः",
-            "transliteration": "tattvataḥ",
-            "meaning": "tattvataḥ"
+            "transliteration": {
+                "hi": "तत्त्वतः",
+                "en": "tattvataḥ",
+                "be": "তত্ত্বতঃ",
+                "ka": "ತತ್ತ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "तत्त्वतः",
+                "en": "tattvataḥ",
+                "be": "তত্ত্বঃ",
+                "ka": "ತತ್ತ್ವತಃ"
+            }
         }
     ],
     "tej": {

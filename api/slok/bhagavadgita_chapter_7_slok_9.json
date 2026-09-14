@@ -14,8 +14,18 @@
         "en": "puṇyo gandhaḥ pṛthivyāṃ ca tejaścāsmi vibhāvasau .\njīvanaṃ sarvabhūteṣu tapaścāsmi tapasviṣu ||7-9||",
         "ka": "ಪುಣ್ಯೋ ಗನ್ಧಃ ಪೃಥಿವ್ಯಾಂ ಚ ತೇಜಶ್ಚಾಸ್ಮಿ ವಿಭಾವಸೌ |\nಜೀವನಂ ಸರ್ವಭೂತೇಷು ತಪಶ್ಚಾಸ್ಮಿ ತಪಸ್ವಿಷು ||೭-೯||"
     },
-    "transliteration": "puṇyo gandhaḥ pṛthivyāṃ ca tejaścāsmi vibhāvasau .\njīvanaṃ sarvabhūteṣu tapaścāsmi tapasviṣu ||7-9||",
-    "life_application": "Sense God as the sweet fragrance in earth, brilliance in fire, life in all beings, and austerity in spiritual seekers.",
+    "transliteration": {
+        "hi": "पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ |\nजीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ||७-९||",
+        "en": "puṇyo gandhaḥ pṛthivyāṃ ca tejaścāsmi vibhāvasau .\njīvanaṃ sarvabhūteṣu tapaścāsmi tapasviṣu ||7-9||",
+        "be": "পুণ্যো গন্ধঃ পৃথিব্যাং চ তেজশ্চাস্মি বিভাবসৌ |\nজীবনং সর্বভূতেষু তপশ্চাস্মি তপস্বিষু ||৭-৯||",
+        "ka": "ಪುಣ್ಯೋ ಗನ್ಧಃ ಪೃಥಿವ್ಯಾಂ ಚ ತೇಜಶ್ಚಾಸ್ಮಿ ವಿಭಾವಸೌ |\nಜೀವನಂ ಸರ್ವಭೂತೇಷು ತಪಶ್ಚಾಸ್ಮಿ ತಪಸ್ವಿಷು ||೭-೯||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को पृथ्वी में मधुर सुगंध, अग्नि में तेज, सभी प्राणियों में जीवन और आध्यात्मिक साधकों में तपस्या के रूप में महसूस करें।",
+        "en": "Sense God as the sweet fragrance in earth, brilliance in fire, life in all beings, and austerity in spiritual seekers.",
+        "be": "ঈশ্বরকে পৃথিবীতে মিষ্টি সুগন্ধ, আগুনের তেজ, সমস্ত প্রাণীর মধ্যে জীবন এবং আধ্যাত্মিক অন্বেষণকারীদের মধ্যে তপস্যা হিসাবে অনুভব করুন।",
+        "ka": "ಭಗವಂತನನ್ನು ಭೂಮಿಯಲ್ಲಿ ಸುವಾಸನೆ, ಬೆಂಕಿಯಲ್ಲಿ ತೇಜಸ್ಸು, ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅನ್ವೇಷಕರಲ್ಲಿ ತಪಸ್ಸಿನಂತೆ ಗ್ರಹಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "पुण्यो",
-            "transliteration": "puṇyo",
-            "meaning": "puṇyo"
+            "transliteration": {
+                "hi": "पुण्यो",
+                "en": "puṇyo",
+                "be": "পুণ্যো",
+                "ka": "ಪುಣ್ಯೋ"
+            },
+            "meaning": {
+                "hi": "पुन्यो",
+                "en": "puṇyo",
+                "be": "puṇyo",
+                "ka": "ಪುಣ್ಯೊ"
+            }
         },
         {
             "sanskrit": "गन्धः",
-            "transliteration": "gandhaḥ",
-            "meaning": "gandhaḥ"
+            "transliteration": {
+                "hi": "गन्धः",
+                "en": "gandhaḥ",
+                "be": "গন্ধঃ",
+                "ka": "ಗನ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "गंधः",
+                "en": "gandhaḥ",
+                "be": "গন্ধঃ",
+                "ka": "ಗಂಧಃ"
+            }
         },
         {
             "sanskrit": "पृथिव्यां",
-            "transliteration": "pṛthivyāṃ",
-            "meaning": "pṛthivyāṃ"
+            "transliteration": {
+                "hi": "पृथिव्यां",
+                "en": "pṛthivyāṃ",
+                "be": "পৃথিব্যাং",
+                "ka": "ಪೃಥಿವ್ಯಾಂ"
+            },
+            "meaning": {
+                "hi": "पृथिव्यां",
+                "en": "pṛthivyāṃ",
+                "be": "prthivyāṃ",
+                "ka": "ಪೃಥಿವ್ಯಂ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तेजश्चास्मि",
-            "transliteration": "tejaścāsmi",
-            "meaning": "tejaścāsmi"
+            "transliteration": {
+                "hi": "तेजश्चास्मि",
+                "en": "tejaścāsmi",
+                "be": "তেজশ্চাস্মি",
+                "ka": "ತೇಜಶ್ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "तेजश्चस्मि",
+                "en": "tejaścāsmi",
+                "be": "তেজস্কাসমি",
+                "ka": "ತೇಜಶ್ಚಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "विभावसौ",
-            "transliteration": "vibhāvasau",
-            "meaning": "vibhāvasau"
+            "transliteration": {
+                "hi": "विभावसौ",
+                "en": "vibhāvasau",
+                "be": "বিভাবসৌ",
+                "ka": "ವಿಭಾವಸೌ"
+            },
+            "meaning": {
+                "hi": "विभावसौ",
+                "en": "vibhāvasau",
+                "be": "vibhavasau",
+                "ka": "ವಿಭಾವಸೌ"
+            }
         },
         {
             "sanskrit": "जीवनं",
-            "transliteration": "jīvanaṃ",
-            "meaning": "jīvanaṃ"
+            "transliteration": {
+                "hi": "जीवनं",
+                "en": "jīvanaṃ",
+                "be": "জীবনং",
+                "ka": "ಜೀವನಂ"
+            },
+            "meaning": {
+                "hi": "जीवनम्",
+                "en": "jīvanaṃ",
+                "be": "জীবনং",
+                "ka": "ಜೀವನಂ"
+            }
         },
         {
             "sanskrit": "सर्वभूतेषु",
-            "transliteration": "sarvabhūteṣu",
-            "meaning": "sarvabhūteṣu"
+            "transliteration": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "सर्वभूतेषु",
+                "en": "sarvabhūteṣu",
+                "be": "সর্বভূতেষু",
+                "ka": "ಸರ್ವಭೂತೇಷು"
+            }
         },
         {
             "sanskrit": "तपश्चास्मि",
-            "transliteration": "tapaścāsmi",
-            "meaning": "tapaścāsmi"
+            "transliteration": {
+                "hi": "तपश्चास्मि",
+                "en": "tapaścāsmi",
+                "be": "তপশ্চাস্মি",
+                "ka": "ತಪಶ್ಚಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "तपश्चस्मि",
+                "en": "tapaścāsmi",
+                "be": "তপশ্চাস্মি",
+                "ka": "ತಪಶ್ಚಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "तपस्विषु",
-            "transliteration": "tapasviṣu",
-            "meaning": "tapasviṣu"
+            "transliteration": {
+                "hi": "तपस्विषु",
+                "en": "tapasviṣu",
+                "be": "তপস্বিষু",
+                "ka": "ತಪಸ್ವಿಷು"
+            },
+            "meaning": {
+                "hi": "तपविषु",
+                "en": "tapasviṣu",
+                "be": "তপস্বীষু",
+                "ka": "ತಪಸ್ವಿಷು"
+            }
         }
     ],
     "tej": {

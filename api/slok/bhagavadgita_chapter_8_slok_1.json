@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕಿಂ ತದ್ ಬ್ರಹ್ಮ ಕಿಮಧ್ಯಾತ್ಮಂ ಕಿಂ ಕರ್ಮ ಪುರುಷೋತ್ತಮ |\nಅಧಿಭೂತಂ ಚ ಕಿಂ ಪ್ರೋಕ್ತಮಧಿದೈವಂ ಕಿಮುಚ್ಯತೇ ||೮-೧||"
     },
-    "transliteration": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||",
-    "life_application": "Inquire earnestly about Brahman, the Self, action, material realm, divine realm, and the Lord of sacrifice.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nकिं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम |\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ||८-१||",
+        "en": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||",
+        "be": "অর্জুন উবাচ |\nকিং তদ্ ব্রহ্ম কিমধ্যাত্মং কিং কর্ম পুরুষোত্তম |\nঅধিভূতং চ কিং প্রোক্তমধিদৈবং কিমুচ্যতে ||৮-১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕಿಂ ತದ್ ಬ್ರಹ್ಮ ಕಿಮಧ್ಯಾತ್ಮಂ ಕಿಂ ಕರ್ಮ ಪುರುಷೋತ್ತಮ |\nಅಧಿಭೂತಂ ಚ ಕಿಂ ಪ್ರೋಕ್ತಮಧಿದೈವಂ ಕಿಮುಚ್ಯತೇ ||೮-೧||"
+    },
+    "life_application": {
+        "hi": "ब्रह्म, आत्मा, कर्म, भौतिक क्षेत्र, दिव्य क्षेत्र और यज्ञ के भगवान के बारे में ईमानदारी से पूछताछ करें।",
+        "en": "Inquire earnestly about Brahman, the Self, action, material realm, divine realm, and the Lord of sacrifice.",
+        "be": "ব্রহ্ম, আত্মা, কর্ম, জড় জগতে, ঐশ্বরিক রাজ্য এবং ত্যাগের প্রভু সম্পর্কে আন্তরিকভাবে অনুসন্ধান করুন।",
+        "ka": "ಬ್ರಹ್ಮ, ಆತ್ಮ, ಕ್ರಿಯೆ, ಭೌತಿಕ ಕ್ಷೇತ್ರ, ದೈವಿಕ ಕ್ಷೇತ್ರ ಮತ್ತು ತ್ಯಾಗದ ಭಗವಂತನ ಬಗ್ಗೆ ಶ್ರದ್ಧೆಯಿಂದ ವಿಚಾರಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Purpose"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "उवाच",
-            "transliteration": "uvāca",
-            "meaning": "said"
+            "transliteration": {
+                "hi": "उवाच",
+                "en": "uvāca",
+                "be": "উবাচ",
+                "ka": "ಉವಾಚ"
+            },
+            "meaning": {
+                "hi": "कहा",
+                "en": "said",
+                "be": "বলেছেন",
+                "ka": "ಎಂದರು"
+            }
         },
         {
             "sanskrit": "किं",
-            "transliteration": "kiṃ",
-            "meaning": "kiṃ"
+            "transliteration": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "কিং",
+                "ka": "ಕಿಂ"
+            },
+            "meaning": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "kiṃ",
+                "ka": "kiṃ"
+            }
         },
         {
             "sanskrit": "तद्",
-            "transliteration": "tad",
-            "meaning": "tad"
+            "transliteration": {
+                "hi": "तद्",
+                "en": "tad",
+                "be": "তদ্",
+                "ka": "ತದ್"
+            },
+            "meaning": {
+                "hi": "बालक",
+                "en": "tad",
+                "be": "tad",
+                "ka": "ಸ್ವಲ್ಪ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "किमध्यात्मं",
-            "transliteration": "kimadhyātmaṃ",
-            "meaning": "kimadhyātmaṃ"
+            "transliteration": {
+                "hi": "किमध्यात्मं",
+                "en": "kimadhyātmaṃ",
+                "be": "কিমধ্যাত্মং",
+                "ka": "ಕಿಮಧ್ಯಾತ್ಮಂ"
+            },
+            "meaning": {
+                "hi": "किमध्यात्मन्",
+                "en": "kimadhyātmaṃ",
+                "be": "কিমাধ্যাত্মম",
+                "ka": "ಕಿಮಧ್ಯಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "किं",
-            "transliteration": "kiṃ",
-            "meaning": "kiṃ"
+            "transliteration": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "কিং",
+                "ka": "ಕಿಂ"
+            },
+            "meaning": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "kiṃ",
+                "ka": "kiṃ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "पुरुषोत्तम",
-            "transliteration": "puruṣottama",
-            "meaning": "puruṣottama"
+            "transliteration": {
+                "hi": "पुरुषोत्तम",
+                "en": "puruṣottama",
+                "be": "পুরুষোত্তম",
+                "ka": "ಪುರುಷೋತ್ತಮ"
+            },
+            "meaning": {
+                "hi": "पुरूषोत्तम",
+                "en": "puruṣottama",
+                "be": "পুরুষোত্তম",
+                "ka": "ಪುರುಷೋತ್ತಮ"
+            }
         },
         {
             "sanskrit": "अधिभूतं",
-            "transliteration": "adhibhūtaṃ",
-            "meaning": "adhibhūtaṃ"
+            "transliteration": {
+                "hi": "अधिभूतं",
+                "en": "adhibhūtaṃ",
+                "be": "অধিভূতং",
+                "ka": "ಅಧಿಭೂತಂ"
+            },
+            "meaning": {
+                "hi": "अधिभूतम्",
+                "en": "adhibhūtaṃ",
+                "be": "অধিভূতং",
+                "ka": "ಅಧಿಭೂತಂ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "किं",
-            "transliteration": "kiṃ",
-            "meaning": "kiṃ"
+            "transliteration": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "কিং",
+                "ka": "ಕಿಂ"
+            },
+            "meaning": {
+                "hi": "किं",
+                "en": "kiṃ",
+                "be": "kiṃ",
+                "ka": "kiṃ"
+            }
         },
         {
             "sanskrit": "प्रोक्तमधिदैवं",
-            "transliteration": "proktamadhidaivaṃ",
-            "meaning": "proktamadhidaivaṃ"
+            "transliteration": {
+                "hi": "प्रोक्तमधिदैवं",
+                "en": "proktamadhidaivaṃ",
+                "be": "প্রোক্তমধিদৈবং",
+                "ka": "ಪ್ರೋಕ್ತಮಧಿದೈವಂ"
+            },
+            "meaning": {
+                "hi": "प्रोक्तमाधिदैवम्",
+                "en": "proktamadhidaivaṃ",
+                "be": "প্রোক্তমাধিদাইবং",
+                "ka": "ಪ್ರೋಕ್ತಮಾಧಿದೈವಃ"
+            }
         },
         {
             "sanskrit": "किमुच्यते",
-            "transliteration": "kimucyate",
-            "meaning": "kimucyate"
+            "transliteration": {
+                "hi": "किमुच्यते",
+                "en": "kimucyate",
+                "be": "কিমুচ্যতে",
+                "ka": "ಕಿಮುಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "किमुच्यते",
+                "en": "kimucyate",
+                "be": "kimucyate",
+                "ka": "ಕಿಮುಸಿಯೇಟ್"
+            }
         }
     ],
     "tej": {

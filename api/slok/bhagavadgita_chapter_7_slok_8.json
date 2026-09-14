@@ -14,8 +14,18 @@
         "en": "raso.ahamapsu kaunteya prabhāsmi śaśisūryayoḥ .\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||7-8||",
         "ka": "ರಸೋಽಹಮಪ್ಸು ಕೌನ್ತೇಯ ಪ್ರಭಾಸ್ಮಿ ಶಶಿಸೂರ್ಯಯೋಃ |\nಪ್ರಣವಃ ಸರ್ವವೇದೇಷು ಶಬ್ದಃ ಖೇ ಪೌರುಷಂ ನೃಷು ||೭-೮||"
     },
-    "transliteration": "raso.ahamapsu kaunteya prabhāsmi śaśisūryayoḥ .\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||7-8||",
-    "life_application": "Perceive the divine presence as the taste in water, light in sun and moon, sacred sound in air, and manhood in men.",
+    "transliteration": {
+        "hi": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः |\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ||७-८||",
+        "en": "raso.ahamapsu kaunteya prabhāsmi śaśisūryayoḥ .\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||7-8||",
+        "be": "রসোঽহমপ্সু কৌন্তেয প্রভাস্মি শশিসূর্যযোঃ |\nপ্রণবঃ সর্ববেদেষু শব্দঃ খে পৌরুষং নৃষু ||৭-৮||",
+        "ka": "ರಸೋಽಹಮಪ್ಸು ಕೌನ್ತೇಯ ಪ್ರಭಾಸ್ಮಿ ಶಶಿಸೂರ್ಯಯೋಃ |\nಪ್ರಣವಃ ಸರ್ವವೇದೇಷು ಶಬ್ದಃ ಖೇ ಪೌರುಷಂ ನೃಷು ||೭-೮||"
+    },
+    "life_application": {
+        "hi": "जल में स्वाद, सूर्य और चंद्रमा में प्रकाश, हवा में पवित्र ध्वनि और पुरुषों में पुरुषत्व के रूप में दिव्य उपस्थिति को समझें।",
+        "en": "Perceive the divine presence as the taste in water, light in sun and moon, sacred sound in air, and manhood in men.",
+        "be": "জলের স্বাদ, সূর্য ও চন্দ্রের আলো, বায়ুতে পবিত্র শব্দ এবং পুরুষদের মধ্যে পুরুষত্ব হিসাবে ঐশ্বরিক উপস্থিতি উপলব্ধি করুন।",
+        "ka": "ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ನೀರಿನಲ್ಲಿ ರುಚಿ, ಸೂರ್ಯ ಮತ್ತು ಚಂದ್ರನಲ್ಲಿ ಬೆಳಕು, ಗಾಳಿಯಲ್ಲಿ ಪವಿತ್ರ ಶಬ್ದ ಮತ್ತು ಪುರುಷರಲ್ಲಿ ಪುರುಷತ್ವವನ್ನು ಗ್ರಹಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "रसोऽहमप्सु",
-            "transliteration": "raso'hamapsu",
-            "meaning": "raso'hamapsu"
+            "transliteration": {
+                "hi": "रसोऽहमप्सु",
+                "en": "raso'hamapsu",
+                "be": "রসোঽহমপ্সু",
+                "ka": "ರಸೋಽಹಮಪ್ಸು"
+            },
+            "meaning": {
+                "hi": "रसोऽहमप्सु",
+                "en": "raso'hamapsu",
+                "be": "raso'hamapsu",
+                "ka": "ರಸೋ'ಹಮಾಪ್ಸು"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "प्रभास्मि",
-            "transliteration": "prabhāsmi",
-            "meaning": "prabhāsmi"
+            "transliteration": {
+                "hi": "प्रभास्मि",
+                "en": "prabhāsmi",
+                "be": "প্রভাস্মি",
+                "ka": "ಪ್ರಭಾಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "प्रभास्मि",
+                "en": "prabhāsmi",
+                "be": "প্রভাস্মি",
+                "ka": "ಪ್ರಭಾಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "शशिसूर्ययोः",
-            "transliteration": "śaśisūryayoḥ",
-            "meaning": "śaśisūryayoḥ"
+            "transliteration": {
+                "hi": "शशिसूर्ययोः",
+                "en": "śaśisūryayoḥ",
+                "be": "শশিসূর্যযোঃ",
+                "ka": "ಶಶಿಸೂರ್ಯಯೋಃ"
+            },
+            "meaning": {
+                "hi": "शशिसूर्ययोः",
+                "en": "śaśisūryayoḥ",
+                "be": "শশিশুর্যয়োঃ",
+                "ka": "ಶಶಿಸೂರ್ಯಯೋಃ"
+            }
         },
         {
             "sanskrit": "प्रणवः",
-            "transliteration": "praṇavaḥ",
-            "meaning": "praṇavaḥ"
+            "transliteration": {
+                "hi": "प्रणवः",
+                "en": "praṇavaḥ",
+                "be": "প্রণবঃ",
+                "ka": "ಪ್ರಣವಃ"
+            },
+            "meaning": {
+                "hi": "प्रणवः",
+                "en": "praṇavaḥ",
+                "be": "প্রণাবঃ",
+                "ka": "ಪ್ರಣವಃ"
+            }
         },
         {
             "sanskrit": "सर्ववेदेषु",
-            "transliteration": "sarvavedeṣu",
-            "meaning": "sarvavedeṣu"
+            "transliteration": {
+                "hi": "सर्ववेदेषु",
+                "en": "sarvavedeṣu",
+                "be": "সর্ববেদেষু",
+                "ka": "ಸರ್ವವೇದೇಷು"
+            },
+            "meaning": {
+                "hi": "सर्ववेदेषु",
+                "en": "sarvavedeṣu",
+                "be": "সর্বভেদেষু",
+                "ka": "ಸರ್ವವೇದೇಷು"
+            }
         },
         {
             "sanskrit": "शब्दः",
-            "transliteration": "śabdaḥ",
-            "meaning": "śabdaḥ"
+            "transliteration": {
+                "hi": "शब्दः",
+                "en": "śabdaḥ",
+                "be": "শব্দঃ",
+                "ka": "ಶಬ್ದಃ"
+            },
+            "meaning": {
+                "hi": "शब्दः",
+                "en": "śabdaḥ",
+                "be": "শব্দঃ",
+                "ka": "ಶಬ್ದಃ"
+            }
         },
         {
             "sanskrit": "खे",
-            "transliteration": "khe",
-            "meaning": "khe"
+            "transliteration": {
+                "hi": "खे",
+                "en": "khe",
+                "be": "খে",
+                "ka": "ಖೇ"
+            },
+            "meaning": {
+                "hi": "खे",
+                "en": "khe",
+                "be": "khe",
+                "ka": "ಖೆ"
+            }
         },
         {
             "sanskrit": "पौरुषं",
-            "transliteration": "pauruṣaṃ",
-            "meaning": "pauruṣaṃ"
+            "transliteration": {
+                "hi": "पौरुषं",
+                "en": "pauruṣaṃ",
+                "be": "পৌরুষং",
+                "ka": "ಪೌರುಷಂ"
+            },
+            "meaning": {
+                "hi": "पौरुषम्",
+                "en": "pauruṣaṃ",
+                "be": "pauruṣaṃ",
+                "ka": "ಪೌರುಷ"
+            }
         },
         {
             "sanskrit": "नृषु",
-            "transliteration": "nṛṣu",
-            "meaning": "nṛṣu"
+            "transliteration": {
+                "hi": "नृषु",
+                "en": "nṛṣu",
+                "be": "নৃষু",
+                "ka": "ನೃಷು"
+            },
+            "meaning": {
+                "hi": "नृशु",
+                "en": "nṛṣu",
+                "be": "nṛṣu",
+                "ka": "ನೃಸು"
+            }
         }
     ],
     "tej": {

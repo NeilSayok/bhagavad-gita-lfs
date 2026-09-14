@@ -14,8 +14,18 @@
         "en": "jarāmaraṇamokṣāya māmāśritya yatanti ye .\nte brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam ||7-29||",
         "ka": "ಜರಾಮರಣಮೋಕ್ಷಾಯ ಮಾಮಾಶ್ರಿತ್ಯ ಯತನ್ತಿ ಯೇ |\nತೇ ಬ್ರಹ್ಮ ತದ್ವಿದುಃ ಕೃತ್ಸ್ನಮಧ್ಯಾತ್ಮಂ ಕರ್ಮ ಚಾಖಿಲಮ್ ||೭-೨೯||"
     },
-    "transliteration": "jarāmaraṇamokṣāya māmāśritya yatanti ye .\nte brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam ||7-29||",
-    "life_application": "Strive for liberation from old age and death by taking refuge in God, knowing complete spiritual wisdom and action.",
+    "transliteration": {
+        "hi": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ||७-२९||",
+        "en": "jarāmaraṇamokṣāya māmāśritya yatanti ye .\nte brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam ||7-29||",
+        "be": "জরামরণমোক্ষায মামাশ্রিত্য যতন্তি যে |\nতে ব্রহ্ম তদ্বিদুঃ কৃত্স্নমধ্যাত্মং কর্ম চাখিলম্ ||৭-২৯||",
+        "ka": "ಜರಾಮರಣಮೋಕ್ಷಾಯ ಮಾಮಾಶ್ರಿತ್ಯ ಯತನ್ತಿ ಯೇ |\nತೇ ಬ್ರಹ್ಮ ತದ್ವಿದುಃ ಕೃತ್ಸ್ನಮಧ್ಯಾತ್ಮಂ ಕರ್ಮ ಚಾಖಿಲಮ್ ||೭-೨೯||"
+    },
+    "life_application": {
+        "hi": "पूर्ण आध्यात्मिक ज्ञान व कर्म को जानकर ईश्वर की शरण में जाकर बुढ़ापे व मृत्यु से मुक्ति के लिए प्रयत्न करें।",
+        "en": "Strive for liberation from old age and death by taking refuge in God, knowing complete spiritual wisdom and action.",
+        "be": "পূর্ণ আধ্যাত্মিক জ্ঞান ও কর্ম জেনে ঈশ্বরের শরণাপন্ন হয়ে বার্ধক্য ও মৃত্যু থেকে মুক্তির জন্য সংগ্রাম করুন।",
+        "ka": "ಸಂಪೂರ್ಣ ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಕ್ರಿಯೆಯನ್ನು ತಿಳಿದುಕೊಳ್ಳುವ ಮೂಲಕ ದೇವರಲ್ಲಿ ಆಶ್ರಯ ಪಡೆಯುವ ಮೂಲಕ ವೃದ್ಧಾಪ್ಯ ಮತ್ತು ಮರಣದಿಂದ ವಿಮೋಚನೆಗಾಗಿ ಶ್ರಮಿಸಿ."
+    },
     "themes": [
         "Self-Realization",
         "Death"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "जरामरणमोक्षाय",
-            "transliteration": "jarāmaraṇamokṣāya",
-            "meaning": "jarāmaraṇamokṣāya"
+            "transliteration": {
+                "hi": "जरामरणमोक्षाय",
+                "en": "jarāmaraṇamokṣāya",
+                "be": "জরামরণমোক্ষায",
+                "ka": "ಜರಾಮರಣಮೋಕ್ಷಾಯ"
+            },
+            "meaning": {
+                "hi": "जरामरणमोक्षाय",
+                "en": "jarāmaraṇamokṣāya",
+                "be": "জরামরণমোক্ষ্যা",
+                "ka": "ಜರಾಮರಣಮೋಕ್ಷಾಯ"
+            }
         },
         {
             "sanskrit": "मामाश्रित्य",
-            "transliteration": "māmāśritya",
-            "meaning": "māmāśritya"
+            "transliteration": {
+                "hi": "मामाश्रित्य",
+                "en": "māmāśritya",
+                "be": "মামাশ্রিত্য",
+                "ka": "ಮಾಮಾಶ್ರಿತ್ಯ"
+            },
+            "meaning": {
+                "hi": "मामाश्रित्य",
+                "en": "māmāśritya",
+                "be": "মামাশ্রিত্য",
+                "ka": "ಮಾಮಾಶ್ರಿತ್ಯ"
+            }
         },
         {
             "sanskrit": "यतन्ति",
-            "transliteration": "yatanti",
-            "meaning": "yatanti"
+            "transliteration": {
+                "hi": "यतन्ति",
+                "en": "yatanti",
+                "be": "যতন্তি",
+                "ka": "ಯತನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यतंती",
+                "en": "yatanti",
+                "be": "যটন্তি",
+                "ka": "ಯಾತನ್ತಿ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "तद्विदुः",
-            "transliteration": "tadviduḥ",
-            "meaning": "tadviduḥ"
+            "transliteration": {
+                "hi": "तद्विदुः",
+                "en": "tadviduḥ",
+                "be": "তদ্বিদুঃ",
+                "ka": "ತದ್ವಿದುಃ"
+            },
+            "meaning": {
+                "hi": "तद्विदुः",
+                "en": "tadviduḥ",
+                "be": "tadviduḥ",
+                "ka": "ತದ್ವಿದುಃ"
+            }
         },
         {
             "sanskrit": "कृत्स्नमध्यात्मं",
-            "transliteration": "kṛtsnamadhyātmaṃ",
-            "meaning": "kṛtsnamadhyātmaṃ"
+            "transliteration": {
+                "hi": "कृत्स्नमध्यात्मं",
+                "en": "kṛtsnamadhyātmaṃ",
+                "be": "কৃত্স্নমধ্যাত্মং",
+                "ka": "ಕೃತ್ಸ್ನಮಧ್ಯಾತ್ಮಂ"
+            },
+            "meaning": {
+                "hi": "कृत्स्नामध्यात्मन",
+                "en": "kṛtsnamadhyātmaṃ",
+                "be": "কৃতস্নামধ্যাত্মম",
+                "ka": "ಕೃಷ್ಣಮಧ್ಯಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "चाखिलम्",
-            "transliteration": "cākhilam",
-            "meaning": "cākhilam"
+            "transliteration": {
+                "hi": "चाखिलम्",
+                "en": "cākhilam",
+                "be": "চাখিলম্",
+                "ka": "ಚಾಖಿಲಮ್"
+            },
+            "meaning": {
+                "hi": "चखिलम",
+                "en": "cākhilam",
+                "be": "চাখিলাম",
+                "ka": "ಕಾಖಿಲಂ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "etadyonīni bhūtāni sarvāṇītyupadhāraya .\nahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā ||7-6||",
         "ka": "ಏತದ್ಯೋನೀನಿ ಭೂತಾನಿ ಸರ್ವಾಣೀತ್ಯುಪಧಾರಯ |\nಅಹಂ ಕೃತ್ಸ್ನಸ್ಯ ಜಗತಃ ಪ್ರಭವಃ ಪ್ರಲಯಸ್ತಥಾ ||೭-೬||"
     },
-    "transliteration": "etadyonīni bhūtāni sarvāṇītyupadhāraya .\nahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā ||7-6||",
-    "life_application": "Realize that all living beings originate from divine energy, which is the source and dissolution of the entire universe.",
+    "transliteration": {
+        "hi": "एतद्योनीनि भूतानि सर्वाणीत्युपधारय |\nअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ||७-६||",
+        "en": "etadyonīni bhūtāni sarvāṇītyupadhāraya .\nahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā ||7-6||",
+        "be": "এতদ্যোনীনি ভূতানি সর্বাণীত্যুপধারয |\nঅহং কৃত্স্নস্য জগতঃ প্রভবঃ প্রলযস্তথা ||৭-৬||",
+        "ka": "ಏತದ್ಯೋನೀನಿ ಭೂತಾನಿ ಸರ್ವಾಣೀತ್ಯುಪಧಾರಯ |\nಅಹಂ ಕೃತ್ಸ್ನಸ್ಯ ಜಗತಃ ಪ್ರಭವಃ ಪ್ರಲಯಸ್ತಥಾ ||೭-೬||"
+    },
+    "life_application": {
+        "hi": "यह समझें कि सभी जीवित प्राणियों की उत्पत्ति दिव्य ऊर्जा से हुई है, जो संपूर्ण ब्रह्मांड का स्रोत और विलय है।",
+        "en": "Realize that all living beings originate from divine energy, which is the source and dissolution of the entire universe.",
+        "be": "উপলব্ধি করুন যে সমস্ত জীবের উৎপত্তি ঐশ্বরিক শক্তি থেকে, যা সমগ্র মহাবিশ্বের উৎস এবং বিলুপ্তি।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳು ದೈವಿಕ ಶಕ್ತಿಯಿಂದ ಹುಟ್ಟಿಕೊಂಡಿವೆ ಎಂದು ಅರಿತುಕೊಳ್ಳಿ, ಇದು ಇಡೀ ಬ್ರಹ್ಮಾಂಡದ ಮೂಲ ಮತ್ತು ವಿಸರ್ಜನೆಯಾಗಿದೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "एतद्योनीनि",
-            "transliteration": "etadyonīni",
-            "meaning": "etadyonīni"
+            "transliteration": {
+                "hi": "एतद्योनीनि",
+                "en": "etadyonīni",
+                "be": "এতদ্যোনীনি",
+                "ka": "ಏತದ್ಯೋನೀನಿ"
+            },
+            "meaning": {
+                "hi": "एतदयोनिनी",
+                "en": "etadyonīni",
+                "be": "etadyonīni",
+                "ka": "ಎಟಡಿಯೋನಿ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "bhūtāni"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "भूटानी",
+                "en": "bhūtāni",
+                "be": "ভুটানি",
+                "ka": "ಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "सर्वाणीत्युपधारय",
-            "transliteration": "sarvāṇītyupadhāraya",
-            "meaning": "sarvāṇītyupadhāraya"
+            "transliteration": {
+                "hi": "सर्वाणीत्युपधारय",
+                "en": "sarvāṇītyupadhāraya",
+                "be": "সর্বাণীত্যুপধারয",
+                "ka": "ಸರ್ವಾಣೀತ್ಯುಪಧಾರಯ"
+            },
+            "meaning": {
+                "hi": "सर्वाणित्युपधारय",
+                "en": "sarvāṇītyupadhāraya",
+                "be": "সর্বাণিত্যুপাধ্যায়",
+                "ka": "ಸರ್ವಾನಿತ್ಯುಪಧಾರಾಯ"
+            }
         },
         {
             "sanskrit": "अहं",
-            "transliteration": "ahaṃ",
-            "meaning": "ahaṃ"
+            "transliteration": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "অহং",
+                "ka": "ಅಹಂ"
+            },
+            "meaning": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "ahaṃ",
+                "ka": "ahaṃ"
+            }
         },
         {
             "sanskrit": "कृत्स्नस्य",
-            "transliteration": "kṛtsnasya",
-            "meaning": "kṛtsnasya"
+            "transliteration": {
+                "hi": "कृत्स्नस्य",
+                "en": "kṛtsnasya",
+                "be": "কৃত্স্নস্য",
+                "ka": "ಕೃತ್ಸ್ನಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "कृत्स्नस्य",
+                "en": "kṛtsnasya",
+                "be": "কৃতস্নাস্য",
+                "ka": "ಕೃಷ್ಣಸ್ಯ"
+            }
         },
         {
             "sanskrit": "जगतः",
-            "transliteration": "jagataḥ",
-            "meaning": "jagataḥ"
+            "transliteration": {
+                "hi": "जगतः",
+                "en": "jagataḥ",
+                "be": "জগতঃ",
+                "ka": "ಜಗತಃ"
+            },
+            "meaning": {
+                "hi": "जगतः",
+                "en": "jagataḥ",
+                "be": "জগতঃ",
+                "ka": "ಜಗತಃ"
+            }
         },
         {
             "sanskrit": "प्रभवः",
-            "transliteration": "prabhavaḥ",
-            "meaning": "prabhavaḥ"
+            "transliteration": {
+                "hi": "प्रभवः",
+                "en": "prabhavaḥ",
+                "be": "প্রভবঃ",
+                "ka": "ಪ್ರಭವಃ"
+            },
+            "meaning": {
+                "hi": "प्रभाव:",
+                "en": "prabhavaḥ",
+                "be": "প্রভাবঃ",
+                "ka": "ಪ್ರಭಾವಃ"
+            }
         },
         {
             "sanskrit": "प्रलयस्तथा",
-            "transliteration": "pralayastathā",
-            "meaning": "pralayastathā"
+            "transliteration": {
+                "hi": "प्रलयस्तथा",
+                "en": "pralayastathā",
+                "be": "প্রলযস্তথা",
+                "ka": "ಪ್ರಲಯಸ್ತಥಾ"
+            },
+            "meaning": {
+                "hi": "प्रलयस्तथा",
+                "en": "pralayastathā",
+                "be": "প্রলয়স্তথা",
+                "ka": "ಪ್ರಲಯಸ್ತಥಾ"
+            }
         }
     ],
     "tej": {

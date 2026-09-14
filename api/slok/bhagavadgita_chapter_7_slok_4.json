@@ -14,8 +14,18 @@
         "en": "bhūmirāpo.analo vāyuḥ khaṃ mano buddhireva ca .\nahaṃkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā ||7-4||",
         "ka": "ಭೂಮಿರಾಪೋಽನಲೋ ವಾಯುಃ ಖಂ ಮನೋ ಬುದ್ಧಿರೇವ ಚ |\nಅಹಂಕಾರ ಇತೀಯಂ ಮೇ ಭಿನ್ನಾ ಪ್ರಕೃತಿರಷ್ಟಧಾ ||೭-೪||"
     },
-    "transliteration": "bhūmirāpo.analo vāyuḥ khaṃ mano buddhireva ca .\nahaṃkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā ||7-4||",
-    "life_application": "Recognize the eightfold elements of physical nature—earth, water, fire, air, ether, mind, intellect, and ego.",
+    "transliteration": {
+        "hi": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च |\nअहंकार इतीयं मे भिन्ना प्रकृतिरष्टधा ||७-४||",
+        "en": "bhūmirāpo.analo vāyuḥ khaṃ mano buddhireva ca .\nahaṃkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā ||7-4||",
+        "be": "ভূমিরাপোঽনলো বাযুঃ খং মনো বুদ্ধিরেব চ |\nঅহংকার ইতীযং মে ভিন্না প্রকৃতিরষ্টধা ||৭-৪||",
+        "ka": "ಭೂಮಿರಾಪೋಽನಲೋ ವಾಯುಃ ಖಂ ಮನೋ ಬುದ್ಧಿರೇವ ಚ |\nಅಹಂಕಾರ ಇತೀಯಂ ಮೇ ಭಿನ್ನಾ ಪ್ರಕೃತಿರಷ್ಟಧಾ ||೭-೪||"
+    },
+    "life_application": {
+        "hi": "भौतिक प्रकृति के आठ तत्वों-पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार को पहचानें।",
+        "en": "Recognize the eightfold elements of physical nature—earth, water, fire, air, ether, mind, intellect, and ego.",
+        "be": "দৈহিক প্রকৃতির আটগুণ উপাদান চিনুন - পৃথিবী, জল, আগুন, বায়ু, ইথার, মন, বুদ্ধি এবং অহং।",
+        "ka": "ಭೌತಿಕ ಪ್ರಕೃತಿಯ ಎಂಟು ಪಟ್ಟು ಅಂಶಗಳನ್ನು ಗುರುತಿಸಿ - ಭೂಮಿ, ನೀರು, ಬೆಂಕಿ, ಗಾಳಿ, ಈಥರ್, ಮನಸ್ಸು, ಬುದ್ಧಿ ಮತ್ತು ಅಹಂಕಾರ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "भूमिरापोऽनलो",
-            "transliteration": "bhūmirāpo'nalo",
-            "meaning": "bhūmirāpo'nalo"
+            "transliteration": {
+                "hi": "भूमिरापोऽनलो",
+                "en": "bhūmirāpo'nalo",
+                "be": "ভূমিরাপোঽনলো",
+                "ka": "ಭೂಮಿರಾಪೋಽನಲೋ"
+            },
+            "meaning": {
+                "hi": "भूमिरापो'नालो",
+                "en": "bhūmirāpo'nalo",
+                "be": "bhūmirāpo'nalo",
+                "ka": "ಭೂಮಿಪೋನಲೋ"
+            }
         },
         {
             "sanskrit": "वायुः",
-            "transliteration": "vāyuḥ",
-            "meaning": "vāyuḥ"
+            "transliteration": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "বাযুঃ",
+                "ka": "ವಾಯುಃ"
+            },
+            "meaning": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "vāyuḥ",
+                "ka": "vāyuḥ"
+            }
         },
         {
             "sanskrit": "खं",
-            "transliteration": "khaṃ",
-            "meaning": "khaṃ"
+            "transliteration": {
+                "hi": "खं",
+                "en": "khaṃ",
+                "be": "খং",
+                "ka": "ಖಂ"
+            },
+            "meaning": {
+                "hi": "खाँ",
+                "en": "khaṃ",
+                "be": "khaṃ",
+                "ka": "ಖಾಂ"
+            }
         },
         {
             "sanskrit": "मनो",
-            "transliteration": "mano",
-            "meaning": "mano"
+            "transliteration": {
+                "hi": "मनो",
+                "en": "mano",
+                "be": "মনো",
+                "ka": "ಮನೋ"
+            },
+            "meaning": {
+                "hi": "मनो",
+                "en": "mano",
+                "be": "মানো",
+                "ka": "ಮನೋ"
+            }
         },
         {
             "sanskrit": "बुद्धिरेव",
-            "transliteration": "buddhireva",
-            "meaning": "buddhireva"
+            "transliteration": {
+                "hi": "बुद्धिरेव",
+                "en": "buddhireva",
+                "be": "বুদ্ধিরেব",
+                "ka": "ಬುದ್ಧಿರೇವ"
+            },
+            "meaning": {
+                "hi": "बुद्धिरेवा",
+                "en": "buddhireva",
+                "be": "বুদ্ধরেভা",
+                "ka": "ಬುದ್ಧಿರೇವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अहंकार",
-            "transliteration": "ahaṃkāra",
-            "meaning": "ahaṃkāra"
+            "transliteration": {
+                "hi": "अहंकार",
+                "en": "ahaṃkāra",
+                "be": "অহংকার",
+                "ka": "ಅಹಂಕಾರ"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "ahaṃkāra",
+                "be": "অহঙ্কার",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "इतीयं",
-            "transliteration": "itīyaṃ",
-            "meaning": "itīyaṃ"
+            "transliteration": {
+                "hi": "इतीयं",
+                "en": "itīyaṃ",
+                "be": "ইতীযং",
+                "ka": "ಇತೀಯಂ"
+            },
+            "meaning": {
+                "hi": "इतियायं",
+                "en": "itīyaṃ",
+                "be": "itīyaṃ",
+                "ka": "ITiyaṃ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "भिन्ना",
-            "transliteration": "bhinnā",
-            "meaning": "bhinnā"
+            "transliteration": {
+                "hi": "भिन्ना",
+                "en": "bhinnā",
+                "be": "ভিন্না",
+                "ka": "ಭಿನ್ನಾ"
+            },
+            "meaning": {
+                "hi": "भिन्ना",
+                "en": "bhinnā",
+                "be": "ভিন্না",
+                "ka": "ಭಿನ್ನಾ"
+            }
         },
         {
             "sanskrit": "प्रकृतिरष्टधा",
-            "transliteration": "prakṛtiraṣṭadhā",
-            "meaning": "prakṛtiraṣṭadhā"
+            "transliteration": {
+                "hi": "प्रकृतिरष्टधा",
+                "en": "prakṛtiraṣṭadhā",
+                "be": "প্রকৃতিরষ্টধা",
+                "ka": "ಪ್ರಕೃತಿರಷ್ಟಧಾ"
+            },
+            "meaning": {
+                "hi": "प्रकृतिरष्टधा",
+                "en": "prakṛtiraṣṭadhā",
+                "be": "প্রকৃতিরষ্টধা",
+                "ka": "ಪ್ರಕೃತಿರಷ್ಟಧಾ"
+            }
         }
     ],
     "tej": {

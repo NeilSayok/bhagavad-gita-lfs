@@ -14,8 +14,18 @@
         "en": "upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ .\nparamātmeti cāpyukto dehe.asminpuruṣaḥ paraḥ ||13-23||",
         "ka": "ಉಪದ್ರಷ್ಟಾನುಮನ್ತಾ ಚ ಭರ್ತಾ ಭೋಕ್ತಾ ಮಹೇಶ್ವರಃ |\nಪರಮಾತ್ಮೇತಿ ಚಾಪ್ಯುಕ್ತೋ ದೇಹೇಽಸ್ಮಿನ್ಪುರುಷಃ ಪರಃ ||೧೩-೨೩||"
     },
-    "transliteration": "upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ .\nparamātmeti cāpyukto dehe.asminpuruṣaḥ paraḥ ||13-23||",
-    "life_application": "He who thus knows the spirit and material nature with its modes is not born again, no matter how he lives.",
+    "transliteration": {
+        "hi": "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः |\nपरमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ||१३-२३||",
+        "en": "upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ .\nparamātmeti cāpyukto dehe.asminpuruṣaḥ paraḥ ||13-23||",
+        "be": "উপদ্রষ্টানুমন্তা চ ভর্তা ভোক্তা মহেশ্বরঃ |\nপরমাত্মেতি চাপ্যুক্তো দেহেঽস্মিন্পুরুষঃ পরঃ ||১৩-২৩||",
+        "ka": "ಉಪದ್ರಷ್ಟಾನುಮನ್ತಾ ಚ ಭರ್ತಾ ಭೋಕ್ತಾ ಮಹೇಶ್ವರಃ |\nಪರಮಾತ್ಮೇತಿ ಚಾಪ್ಯುಕ್ತೋ ದೇಹೇಽಸ್ಮಿನ್ಪುರುಷಃ ಪರಃ ||೧೩-೨೩||"
+    },
+    "life_application": {
+        "hi": "जो इस प्रकार आत्मा और भौतिक प्रकृति को उसके गुणों सहित जानता है, उसका पुनर्जन्म नहीं होता, चाहे वह कैसा भी जीवन जिए।",
+        "en": "He who thus knows the spirit and material nature with its modes is not born again, no matter how he lives.",
+        "be": "যে এইভাবে আত্মা ও জড় প্রকৃতিকে তার পদ্ধতির সাথে জানে, সে যেভাবেই বেঁচে থাকুক না কেন, তার আর জন্ম হয় না।",
+        "ka": "ಚೈತನ್ಯ ಮತ್ತು ಭೌತಿಕ ಸ್ವಭಾವವನ್ನು ಅದರ ವಿಧಾನಗಳೊಂದಿಗೆ ತಿಳಿದಿರುವವನು ಅವನು ಹೇಗೆ ಬದುಕಿದರೂ ಮತ್ತೆ ಹುಟ್ಟುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "उपद्रष्टा",
-            "transliteration": "upadraṣṭā",
-            "meaning": "the spectator"
+            "transliteration": {
+                "hi": "उपद्रष्टा",
+                "en": "upadraṣṭā",
+                "be": "উপদ্রষ্টা",
+                "ka": "ಉಪದ್ರಷ್ಟಾ"
+            },
+            "meaning": {
+                "hi": "दर्शक",
+                "en": "the spectator",
+                "be": "দর্শক",
+                "ka": "ವೀಕ್ಷಕ"
+            }
         },
         {
             "sanskrit": "अनुमन्ता",
-            "transliteration": "anumantā",
-            "meaning": "the permitter"
+            "transliteration": {
+                "hi": "अनुमन्ता",
+                "en": "anumantā",
+                "be": "অনুমন্তা",
+                "ka": "ಅನುಮನ್ತಾ"
+            },
+            "meaning": {
+                "hi": "अनुमति देनेवाला",
+                "en": "the permitter",
+                "be": "অনুমতিদাতা",
+                "ka": "ಅನುಮತಿ ನೀಡುವವನು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भर्ता",
-            "transliteration": "bhartā",
-            "meaning": "the supporter"
+            "transliteration": {
+                "hi": "भर्ता",
+                "en": "bhartā",
+                "be": "ভর্তা",
+                "ka": "ಭರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "समर्थक",
+                "en": "the supporter",
+                "be": "সমর্থক",
+                "ka": "ಬೆಂಬಲಿಗ"
+            }
         },
         {
             "sanskrit": "भोक्ता",
-            "transliteration": "bhoktā",
-            "meaning": "the enjoyer"
+            "transliteration": {
+                "hi": "भोक्ता",
+                "en": "bhoktā",
+                "be": "ভোক্তা",
+                "ka": "ಭೋಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "भोक्ता",
+                "en": "the enjoyer",
+                "be": "উপভোগকারী",
+                "ka": "ಆನಂದಿಸುವವನು"
+            }
         },
         {
             "sanskrit": "महेश्वरः",
-            "transliteration": "maheśvaraḥ",
-            "meaning": "the great Lord"
+            "transliteration": {
+                "hi": "महेश्वरः",
+                "en": "maheśvaraḥ",
+                "be": "মহেশ্বরঃ",
+                "ka": "ಮಹೇಶ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "महान भगवान",
+                "en": "the great Lord",
+                "be": "মহান প্রভু",
+                "ka": "ಮಹಾನ್ ಲಾರ್ಡ್"
+            }
         },
         {
             "sanskrit": "परमात्मा",
-            "transliteration": "paramātmā",
-            "meaning": "the Supreme Self"
+            "transliteration": {
+                "hi": "परमात्मा",
+                "en": "paramātmā",
+                "be": "পরমাত্মা",
+                "ka": "ಪರಮಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च स्व",
+                "en": "the Supreme Self",
+                "be": "সর্বোচ্চ স্বয়ং",
+                "ka": "ಸರ್ವೋಚ್ಚ ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "उक्तः",
-            "transliteration": "uktaḥ",
-            "meaning": "is called"
+            "transliteration": {
+                "hi": "उक्तः",
+                "en": "uktaḥ",
+                "be": "উক্তঃ",
+                "ka": "ಉಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is called",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अस्मिन्",
-            "transliteration": "asmin",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अस्मिन्",
+                "en": "asmin",
+                "be": "অস্মিন্",
+                "ka": "ಅಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "परः",
-            "transliteration": "paraḥ",
-            "meaning": "Supreme."
+            "transliteration": {
+                "hi": "परः",
+                "en": "paraḥ",
+                "be": "পরঃ",
+                "ka": "ಪರಃ"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च.",
+                "en": "Supreme.",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ."
+            }
         }
     ],
     "tej": {

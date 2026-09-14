@@ -14,8 +14,18 @@
         "en": "yāvatsañjāyate kiñcitsattvaṃ sthāvarajaṅgamam .\nkṣetrakṣetrajñasaṃyogāttadviddhi bharatarṣabha ||13-27||",
         "ka": "ಯಾವತ್ಸಞ್ಜಾಯತೇ ಕಿಞ್ಚಿತ್ಸತ್ತ್ವಂ ಸ್ಥಾವರಜಙ್ಗಮಮ್ |\nಕ್ಷೇತ್ರಕ್ಷೇತ್ರಜ್ಞಸಂಯೋಗಾತ್ತದ್ವಿದ್ಧಿ ಭರತರ್ಷಭ ||೧೩-೨೭||"
     },
-    "transliteration": "yāvatsañjāyate kiñcitsattvaṃ sthāvarajaṅgamam .\nkṣetrakṣetrajñasaṃyogāttadviddhi bharatarṣabha ||13-27||",
-    "life_application": "He sees truly who sees the supreme Lord dwelling equally in all beings, imperishable within the perishable.",
+    "transliteration": {
+        "hi": "यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् |\nक्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ||१३-२७||",
+        "en": "yāvatsañjāyate kiñcitsattvaṃ sthāvarajaṅgamam .\nkṣetrakṣetrajñasaṃyogāttadviddhi bharatarṣabha ||13-27||",
+        "be": "যাবত্সঞ্জাযতে কিঞ্চিত্সত্ত্বং স্থাবরজঙ্গমম্ |\nক্ষেত্রক্ষেত্রজ্ঞসংযোগাত্তদ্বিদ্ধি ভরতর্ষভ ||১৩-২৭||",
+        "ka": "ಯಾವತ್ಸಞ್ಜಾಯತೇ ಕಿಞ್ಚಿತ್ಸತ್ತ್ವಂ ಸ್ಥಾವರಜಙ್ಗಮಮ್ |\nಕ್ಷೇತ್ರಕ್ಷೇತ್ರಜ್ಞಸಂಯೋಗಾತ್ತದ್ವಿದ್ಧಿ ಭರತರ್ಷಭ ||೧೩-೨೭||"
+    },
+    "life_application": {
+        "hi": "वह वास्तव में देखता है जो परम भगवान को सभी प्राणियों में समान रूप से निवास करता हुआ देखता है, नाशवान के भीतर अविनाशी।",
+        "en": "He sees truly who sees the supreme Lord dwelling equally in all beings, imperishable within the perishable.",
+        "be": "তিনি সত্যই দেখেন যিনি পরম ভগবানকে সমস্ত প্রাণীর মধ্যে সমানভাবে বিরাজ করতে দেখেন, ধ্বংসের মধ্যে অবিনশ্বর।",
+        "ka": "ಸರ್ವೋತ್ಕೃಷ್ಟ ಭಗವಂತನು ಸರ್ವ ಜೀವಿಗಳಲ್ಲಿ ಸಮಾನವಾಗಿ ನೆಲೆಸಿರುವುದನ್ನು, ನಾಶವಾಗುವದರಲ್ಲಿ ನಾಶವಾಗದಂತೆ ನೋಡುವವನನ್ನು ಅವನು ನಿಜವಾಗಿಯೂ ನೋಡುತ್ತಾನೆ."
+    },
     "themes": [
         "Equanimity",
         "Self-Realization"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "यावत्",
-            "transliteration": "yāvat",
-            "meaning": "whatever"
+            "transliteration": {
+                "hi": "यावत्",
+                "en": "yāvat",
+                "be": "যাবত্",
+                "ka": "ಯಾವತ್"
+            },
+            "meaning": {
+                "hi": "जो भी हो",
+                "en": "whatever",
+                "be": "যাই হোক",
+                "ka": "ಏನೇ ಇರಲಿ"
+            }
         },
         {
             "sanskrit": "सञ्जायते",
-            "transliteration": "sañjāyate",
-            "meaning": "is born"
+            "transliteration": {
+                "hi": "सञ्जायते",
+                "en": "sañjāyate",
+                "be": "সঞ্জাযতে",
+                "ka": "ಸಞ್ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा होता है",
+                "en": "is born",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "किञ्चित्",
-            "transliteration": "kiñcit",
-            "meaning": "any"
+            "transliteration": {
+                "hi": "किञ्चित्",
+                "en": "kiñcit",
+                "be": "কিঞ্চিত্",
+                "ka": "ಕಿಞ್ಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कोई भी",
+                "en": "any",
+                "be": "যেকোনো",
+                "ka": "ಯಾವುದೇ"
+            }
         },
         {
             "sanskrit": "सत्त्वम्",
-            "transliteration": "sattvam",
-            "meaning": "being"
+            "transliteration": {
+                "hi": "सत्त्वम्",
+                "en": "sattvam",
+                "be": "সত্ত্বম্",
+                "ka": "ಸತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "किया जा रहा है",
+                "en": "being",
+                "be": "হচ্ছে",
+                "ka": "ಇರುವುದು"
+            }
         },
         {
             "sanskrit": "स्थावरजङ्गमम्",
-            "transliteration": "sthāvarajaṅgamam",
-            "meaning": "the unmoving and the"
+            "transliteration": {
+                "hi": "स्थावरजङ्गमम्",
+                "en": "sthāvarajaṅgamam",
+                "be": "স্থাবরজঙ্গমম্",
+                "ka": "ಸ್ಥಾವರಜಙ್ಗಮಮ್"
+            },
+            "meaning": {
+                "hi": "अचल और",
+                "en": "the unmoving and the",
+                "be": "অচল এবং",
+                "ka": "ಚಲಿಸದ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "क्षेत्रक्षेत्रज्ञसंयोगात्",
-            "transliteration": "kṣetrakṣetrajñasaṃyogāt",
-            "meaning": "from the union between"
+            "transliteration": {
+                "hi": "क्षेत्रक्षेत्रज्ञसंयोगात्",
+                "en": "kṣetrakṣetrajñasaṃyogāt",
+                "be": "ক্ষেত্রক্ষেত্রজ্ঞসংযোগাত্",
+                "ka": "ಕ್ಷೇತ್ರಕ್ಷೇತ್ರಜ್ಞಸಂಯೋಗಾತ್"
+            },
+            "meaning": {
+                "hi": "के बीच मिलन से",
+                "en": "from the union between",
+                "be": "মধ্যে ইউনিয়ন থেকে",
+                "ka": "ನಡುವಿನ ಒಕ್ಕೂಟದಿಂದ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "भरतर्षभ",
-            "transliteration": "bharatarṣabha",
-            "meaning": "O best of the"
+            "transliteration": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভরতর্ষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            },
+            "meaning": {
+                "hi": "हे श्रेष्ठ!",
+                "en": "O best of the",
+                "be": "হে সেরা",
+                "ka": "ಓ ಅತ್ಯುತ್ತಮ"
+            }
         }
     ],
     "tej": {

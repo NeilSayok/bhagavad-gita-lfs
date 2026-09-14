@@ -14,8 +14,18 @@
         "en": "dhyānenātmani paśyanti kecidātmānamātmanā .\nanye sāṅkhyena yogena karmayogena cāpare ||13-25||",
         "ka": "ಧ್ಯಾನೇನಾತ್ಮನಿ ಪಶ್ಯನ್ತಿ ಕೇಚಿದಾತ್ಮಾನಮಾತ್ಮನಾ |\nಅನ್ಯೇ ಸಾಙ್ಖ್ಯೇನ ಯೋಗೇನ ಕರ್ಮಯೋಗೇನ ಚಾಪರೇ ||೧೩-೨೫||"
     },
-    "transliteration": "dhyānenātmani paśyanti kecidātmānamātmanā .\nanye sāṅkhyena yogena karmayogena cāpare ||13-25||",
-    "life_application": "Others, not knowing thus, worship by hearing from others; they too cross beyond death by devoted listening.",
+    "transliteration": {
+        "hi": "ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना |\nअन्ये साङ्ख्येन योगेन कर्मयोगेन चापरे ||१३-२५||",
+        "en": "dhyānenātmani paśyanti kecidātmānamātmanā .\nanye sāṅkhyena yogena karmayogena cāpare ||13-25||",
+        "be": "ধ্যানেনাত্মনি পশ্যন্তি কেচিদাত্মানমাত্মনা |\nঅন্যে সাঙ্খ্যেন যোগেন কর্মযোগেন চাপরে ||১৩-২৫||",
+        "ka": "ಧ್ಯಾನೇನಾತ್ಮನಿ ಪಶ್ಯನ್ತಿ ಕೇಚಿದಾತ್ಮಾನಮಾತ್ಮನಾ |\nಅನ್ಯೇ ಸಾಙ್ಖ್ಯೇನ ಯೋಗೇನ ಕರ್ಮಯೋಗೇನ ಚಾಪರೇ ||೧೩-೨೫||"
+    },
+    "life_application": {
+        "hi": "दूसरे, इस प्रकार न जानते हुए, दूसरों से सुनकर पूजा करते हैं; वे भी भक्तिपूर्वक सुनने से मृत्यु से पार हो जाते हैं।",
+        "en": "Others, not knowing thus, worship by hearing from others; they too cross beyond death by devoted listening.",
+        "be": "অন্যরা, এইভাবে না জেনে, অন্যের কাছ থেকে শুনে পূজা করে; তারাও একনিষ্ঠ শ্রবণে মৃত্যুকে অতিক্রম করে।",
+        "ka": "ಇತರರು, ಹೀಗೆ ತಿಳಿಯದೆ, ಇತರರಿಂದ ಕೇಳಿ ಪೂಜಿಸುತ್ತಾರೆ; ಅವರೂ ಶ್ರದ್ಧಾಪೂರ್ವಕವಾಗಿ ಕೇಳುವ ಮೂಲಕ ಮರಣವನ್ನು ದಾಟುತ್ತಾರೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "ध्यानेन",
-            "transliteration": "dhyānena",
-            "meaning": "by meditation"
+            "transliteration": {
+                "hi": "ध्यानेन",
+                "en": "dhyānena",
+                "be": "ধ্যানেন",
+                "ka": "ಧ್ಯಾನೇನ"
+            },
+            "meaning": {
+                "hi": "ध्यान द्वारा",
+                "en": "by meditation",
+                "be": "ধ্যান দ্বারা",
+                "ka": "ಧ್ಯಾನದಿಂದ"
+            }
         },
         {
             "sanskrit": "आत्मनि",
-            "transliteration": "ātmani",
-            "meaning": "in the self"
+            "transliteration": {
+                "hi": "आत्मनि",
+                "en": "ātmani",
+                "be": "আত্মনি",
+                "ka": "ಆತ್ಮನಿ"
+            },
+            "meaning": {
+                "hi": "स्वयं में",
+                "en": "in the self",
+                "be": "নিজের মধ্যে",
+                "ka": "ಸ್ವಯಂ ರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "पश्यन्ति",
-            "transliteration": "paśyanti",
-            "meaning": "behold"
+            "transliteration": {
+                "hi": "पश्यन्ति",
+                "en": "paśyanti",
+                "be": "পশ্যন্তি",
+                "ka": "ಪಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "देखो",
+                "en": "behold",
+                "be": "দেখ",
+                "ka": "ಇಗೋ"
+            }
         },
         {
             "sanskrit": "केचित्",
-            "transliteration": "kecit",
-            "meaning": "some"
+            "transliteration": {
+                "hi": "केचित्",
+                "en": "kecit",
+                "be": "কেচিত্",
+                "ka": "ಕೇಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कुछ",
+                "en": "some",
+                "be": "কিছু",
+                "ka": "ಕೆಲವು"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "the Self"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "the Self",
+                "be": "স্বয়ং",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "आत्मना",
-            "transliteration": "ātmanā",
-            "meaning": "by the self"
+            "transliteration": {
+                "hi": "आत्मना",
+                "en": "ātmanā",
+                "be": "আত্মনা",
+                "ka": "ಆತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "स्वयं के द्वारा",
+                "en": "by the self",
+                "be": "নিজের দ্বারা",
+                "ka": "ಸ್ವಯಂ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "अन्ये",
-            "transliteration": "anye",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अन्ये",
+                "en": "anye",
+                "be": "অন্যে",
+                "ka": "ಅನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "सांख्येन योगेन",
-            "transliteration": "sāṃkhyena yogena",
-            "meaning": "by the Yoga of"
+            "transliteration": {
+                "hi": "सांख्येन योगेन",
+                "en": "sāṃkhyena yogena",
+                "be": "সাংখ্যেন যোগেন",
+                "ka": "ಸಾಂಖ್ಯೇನ ಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "के योग से",
+                "en": "by the Yoga of",
+                "be": "যোগ দ্বারা",
+                "ka": "ಯೋಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "कर्मयोगेन",
-            "transliteration": "karmayogena",
-            "meaning": "by Karma Yoga"
+            "transliteration": {
+                "hi": "कर्मयोगेन",
+                "en": "karmayogena",
+                "be": "কর্মযোগেন",
+                "ka": "ಕರ್ಮಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "कर्म योग द्वारा",
+                "en": "by Karma Yoga",
+                "be": "কর্ম যোগ দ্বারা",
+                "ka": "ಕರ್ಮ ಯೋಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपरे",
-            "transliteration": "apare",
-            "meaning": "others."
+            "transliteration": {
+                "hi": "अपरे",
+                "en": "apare",
+                "be": "অপরে",
+                "ka": "ಅಪರೇ"
+            },
+            "meaning": {
+                "hi": "अन्य.",
+                "en": "others.",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು."
+            }
         }
     ],
     "tej": {

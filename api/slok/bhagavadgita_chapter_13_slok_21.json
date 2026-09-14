@@ -14,8 +14,18 @@
         "en": "kāryakāraṇakartṛtve hetuḥ prakṛtirucyate .\npuruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate ||13-21||",
         "ka": "ಕಾರ್ಯಕಾರಣಕರ್ತೃತ್ವೇ ಹೇತುಃ ಪ್ರಕೃತಿರುಚ್ಯತೇ |\nಪುರುಷಃ ಸುಖದುಃಖಾನಾಂ ಭೋಕ್ತೃತ್ವೇ ಹೇತುರುಚ್ಯತೇ ||೧೩-೨೧||"
     },
-    "transliteration": "kāryakāraṇakartṛtve hetuḥ prakṛtirucyate .\npuruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate ||13-21||",
-    "life_application": "Recognize how the spirit seated in nature experiences qualities born of nature, causing birth in good or evil wombs.",
+    "transliteration": {
+        "hi": "कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते |\nपुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ||१३-२१||",
+        "en": "kāryakāraṇakartṛtve hetuḥ prakṛtirucyate .\npuruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate ||13-21||",
+        "be": "কার্যকারণকর্তৃত্বে হেতুঃ প্রকৃতিরুচ্যতে |\nপুরুষঃ সুখদুঃখানাং ভোক্তৃত্বে হেতুরুচ্যতে ||১৩-২১||",
+        "ka": "ಕಾರ್ಯಕಾರಣಕರ್ತೃತ್ವೇ ಹೇತುಃ ಪ್ರಕೃತಿರುಚ್ಯತೇ |\nಪುರುಷಃ ಸುಖದುಃಖಾನಾಂ ಭೋಕ್ತೃತ್ವೇ ಹೇತುರುಚ್ಯತೇ ||೧೩-೨೧||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि प्रकृति में बैठी आत्मा प्रकृति से उत्पन्न गुणों का अनुभव कैसे करती है, जिससे अच्छे या बुरे गर्भ में जन्म होता है।",
+        "en": "Recognize how the spirit seated in nature experiences qualities born of nature, causing birth in good or evil wombs.",
+        "be": "প্রকৃতিতে উপবিষ্ট আত্মা কীভাবে প্রকৃতির জন্মগত গুণাবলী অনুভব করে, ভাল বা মন্দ গর্ভে জন্ম দেয় তা স্বীকার করুন।",
+        "ka": "ಪ್ರಕೃತಿಯಲ್ಲಿ ಕುಳಿತಿರುವ ಚೈತನ್ಯವು ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ ಗುಣಗಳನ್ನು ಹೇಗೆ ಅನುಭವಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ, ಒಳ್ಳೆಯ ಅಥವಾ ಕೆಟ್ಟ ಗರ್ಭದಲ್ಲಿ ಜನ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कार्यकारणकर्तृत्वे",
-            "transliteration": "kāryakāraṇakartṛtve",
-            "meaning": "in the production of"
+            "transliteration": {
+                "hi": "कार्यकारणकर्तृत्वे",
+                "en": "kāryakāraṇakartṛtve",
+                "be": "কার্যকারণকর্তৃত্বে",
+                "ka": "ಕಾರ್ಯಕಾರಣಕರ್ತೃತ್ವೇ"
+            },
+            "meaning": {
+                "hi": "के उत्पादन में",
+                "en": "in the production of",
+                "be": "এর উৎপাদনে",
+                "ka": "ಉತ್ಪಾದನೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "हेतुः",
-            "transliteration": "hetuḥ",
-            "meaning": "the cause"
+            "transliteration": {
+                "hi": "हेतुः",
+                "en": "hetuḥ",
+                "be": "হেতুঃ",
+                "ka": "ಹೇತುಃ"
+            },
+            "meaning": {
+                "hi": "कारण",
+                "en": "the cause",
+                "be": "কারণ",
+                "ka": "ಕಾರಣ"
+            }
         },
         {
             "sanskrit": "प्रकृतिः",
-            "transliteration": "prakṛtiḥ",
-            "meaning": "Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिः",
+                "en": "prakṛtiḥ",
+                "be": "প্রকৃতিঃ",
+                "ka": "ಪ್ರಕೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "Prakriti",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is said"
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "is said",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "सुखदुःखानाम्",
-            "transliteration": "sukhaduḥkhānām",
-            "meaning": "of pleasure and pain"
+            "transliteration": {
+                "hi": "सुखदुःखानाम्",
+                "en": "sukhaduḥkhānām",
+                "be": "সুখদুঃখানাম্",
+                "ka": "ಸುಖದುಃಖಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सुख और दुःख का",
+                "en": "of pleasure and pain",
+                "be": "আনন্দ এবং বেদনার",
+                "ka": "ಸಂತೋಷ ಮತ್ತು ನೋವಿನಿಂದ"
+            }
         },
         {
             "sanskrit": "भोक्तृत्वे",
-            "transliteration": "bhoktṛtve",
-            "meaning": "in the experience"
+            "transliteration": {
+                "hi": "भोक्तृत्वे",
+                "en": "bhoktṛtve",
+                "be": "ভোক্তৃত্বে",
+                "ka": "ಭೋಕ್ತೃತ್ವೇ"
+            },
+            "meaning": {
+                "hi": "अनुभव में",
+                "en": "in the experience",
+                "be": "অভিজ্ঞতার মধ্যে",
+                "ka": "ಅನುಭವದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "हेतुः",
-            "transliteration": "hetuḥ",
-            "meaning": "the cause"
+            "transliteration": {
+                "hi": "हेतुः",
+                "en": "hetuḥ",
+                "be": "হেতুঃ",
+                "ka": "ಹೇತುಃ"
+            },
+            "meaning": {
+                "hi": "कारण",
+                "en": "the cause",
+                "be": "কারণ",
+                "ka": "ಕಾರಣ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is said ."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है कि ।",
+                "en": "is said .",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ ."
+            }
         },
         {
             "sanskrit": "कारण",
-            "transliteration": "kāraṇa",
-            "meaning": ") which means cause"
+            "transliteration": {
+                "hi": "कारण",
+                "en": "kāraṇa",
+                "be": "কারণ",
+                "ka": "ಕಾರಣ"
+            },
+            "meaning": {
+                "hi": ") जिसका अर्थ है कारण",
+                "en": ") which means cause",
+                "be": ") যার অর্থ কারণ",
+                "ka": ") ಅಂದರೆ ಕಾರಣ"
+            }
         },
         {
             "sanskrit": "करण",
-            "transliteration": "karaṇa",
-            "meaning": ") which means instrument"
+            "transliteration": {
+                "hi": "करण",
+                "en": "karaṇa",
+                "be": "করণ",
+                "ka": "ಕರಣ"
+            },
+            "meaning": {
+                "hi": ") जिसका अर्थ है यंत्र",
+                "en": ") which means instrument",
+                "be": ") যার অর্থ যন্ত্র",
+                "ka": ") ಅಂದರೆ ವಾದ್ಯ"
+            }
         }
     ],
     "tej": {

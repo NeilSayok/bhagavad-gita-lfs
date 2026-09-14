@@ -14,8 +14,18 @@
         "en": "puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijānguṇān .\nkāraṇaṃ guṇasaṅgo.asya sadasadyonijanmasu ||13-22||",
         "ka": "ಪುರುಷಃ ಪ್ರಕೃತಿಸ್ಥೋ ಹಿ ಭುಙ್ಕ್ತೇ ಪ್ರಕೃತಿಜಾನ್ಗುಣಾನ್ |\nಕಾರಣಂ ಗುಣಸಙ್ಗೋಽಸ್ಯ ಸದಸದ್ಯೋನಿಜನ್ಮಸು ||೧೩-೨೨||"
     },
-    "transliteration": "puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijānguṇān .\nkāraṇaṃ guṇasaṅgo.asya sadasadyonijanmasu ||13-22||",
-    "life_application": "Realize the supreme spirit in the body as spectator, permitter, supporter, enjoyer, great Lord, and supreme Self.",
+    "transliteration": {
+        "hi": "पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् |\nकारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ||१३-२२||",
+        "en": "puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijānguṇān .\nkāraṇaṃ guṇasaṅgo.asya sadasadyonijanmasu ||13-22||",
+        "be": "পুরুষঃ প্রকৃতিস্থো হি ভুঙ্ক্তে প্রকৃতিজান্গুণান্ |\nকারণং গুণসঙ্গোঽস্য সদসদ্যোনিজন্মসু ||১৩-২২||",
+        "ka": "ಪುರುಷಃ ಪ್ರಕೃತಿಸ್ಥೋ ಹಿ ಭುಙ್ಕ್ತೇ ಪ್ರಕೃತಿಜಾನ್ಗುಣಾನ್ |\nಕಾರಣಂ ಗುಣಸಙ್ಗೋಽಸ್ಯ ಸದಸದ್ಯೋನಿಜನ್ಮಸು ||೧೩-೨೨||"
+    },
+    "life_application": {
+        "hi": "शरीर में सर्वोच्च आत्मा को दर्शक, अनुमतिकर्ता, समर्थक, भोक्ता, महान भगवान और सर्वोच्च स्व के रूप में महसूस करें।",
+        "en": "Realize the supreme spirit in the body as spectator, permitter, supporter, enjoyer, great Lord, and supreme Self.",
+        "be": "দর্শক, অনুমতিদাতা, সমর্থক, ভোগকারী, মহান ভগবান এবং পরম আত্মারূপে দেহের মধ্যে পরম আত্মাকে উপলব্ধি করুন।",
+        "ka": "ವೀಕ್ಷಕ, ಅನುಮತಿ ನೀಡುವವರು, ಬೆಂಬಲಿಗರು, ಆನಂದಿಸುವವರು, ಮಹಾನ್ ಭಗವಂತ ಮತ್ತು ಸರ್ವೋಚ್ಚ ಸ್ವಯಂ ದೇಹದಲ್ಲಿರುವ ಪರಮ ಚೇತನವನ್ನು ಅರಿತುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Self-Realization",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "प्रकृतिस्थः",
-            "transliteration": "prakṛtisthaḥ",
-            "meaning": "seated in Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिस्थः",
+                "en": "prakṛtisthaḥ",
+                "be": "প্রকৃতিস্থঃ",
+                "ka": "ಪ್ರಕೃತಿಸ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति में विराजमान",
+                "en": "seated in Prakriti",
+                "be": "প্রকৃতিতে উপবিষ্ট",
+                "ka": "ಪ್ರಕೃತಿಯಲ್ಲಿ ಕುಳಿತ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "भुङक्ते",
-            "transliteration": "bhuṅakte",
-            "meaning": "enjoys"
+            "transliteration": {
+                "hi": "भुङक्ते",
+                "en": "bhuṅakte",
+                "be": "ভুঙক্তে",
+                "ka": "ಭುಙಕ್ತೇ"
+            },
+            "meaning": {
+                "hi": "आनंद लेता है",
+                "en": "enjoys",
+                "be": "উপভোগ করে",
+                "ka": "ಆನಂದಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "प्रकृतिजान्",
-            "transliteration": "prakṛtijān",
-            "meaning": "born of Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिजान्",
+                "en": "prakṛtijān",
+                "be": "প্রকৃতিজান্",
+                "ka": "ಪ್ರಕೃತಿಜಾನ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति से उत्पन्न",
+                "en": "born of Prakriti",
+                "be": "প্রকৃতির জন্ম",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ"
+            }
         },
         {
             "sanskrit": "गुणान्",
-            "transliteration": "guṇān",
-            "meaning": "alities"
+            "transliteration": {
+                "hi": "गुणान्",
+                "en": "guṇān",
+                "be": "গুণান্",
+                "ka": "ಗುಣಾನ್"
+            },
+            "meaning": {
+                "hi": "सुविधाएँ",
+                "en": "alities",
+                "be": "alities",
+                "ka": "ಅಲಿಟಿಗಳು"
+            }
         },
         {
             "sanskrit": "कारणम्",
-            "transliteration": "kāraṇam",
-            "meaning": "the cause"
+            "transliteration": {
+                "hi": "कारणम्",
+                "en": "kāraṇam",
+                "be": "কারণম্",
+                "ka": "ಕಾರಣಮ್"
+            },
+            "meaning": {
+                "hi": "कारण",
+                "en": "the cause",
+                "be": "কারণ",
+                "ka": "ಕಾರಣ"
+            }
         },
         {
             "sanskrit": "गुणसङ्गः",
-            "transliteration": "guṇasaṅgaḥ",
-            "meaning": "attachment to the Gunas"
+            "transliteration": {
+                "hi": "गुणसङ्गः",
+                "en": "guṇasaṅgaḥ",
+                "be": "গুণসঙ্গঃ",
+                "ka": "ಗುಣಸಙ್ಗಃ"
+            },
+            "meaning": {
+                "hi": "गुणों से लगाव",
+                "en": "attachment to the Gunas",
+                "be": "গুণের সাথে সংযুক্তি",
+                "ka": "ಗುಣಗಳಿಗೆ ಬಾಂಧವ್ಯ"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "of his"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "of his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "सदसद्योनिजन्मसु",
-            "transliteration": "sadasadyonijanmasu",
-            "meaning": "of birth in good"
+            "transliteration": {
+                "hi": "सदसद्योनिजन्मसु",
+                "en": "sadasadyonijanmasu",
+                "be": "সদসদ্যোনিজন্মসু",
+                "ka": "ಸದಸದ್ಯೋನಿಜನ್ಮಸು"
+            },
+            "meaning": {
+                "hi": "अच्छे में जन्म का",
+                "en": "of birth in good",
+                "be": "ভাল জন্মের",
+                "ka": "ಒಳ್ಳೆಯ ಜನ್ಮದಲ್ಲಿ"
+            }
         }
     ],
     "tej": {

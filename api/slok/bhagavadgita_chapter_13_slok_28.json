@@ -14,8 +14,18 @@
         "en": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram .\nvinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati ||13-28||",
         "ka": "ಸಮಂ ಸರ್ವೇಷು ಭೂತೇಷು ತಿಷ್ಠನ್ತಂ ಪರಮೇಶ್ವರಮ್ |\nವಿನಶ್ಯತ್ಸ್ವವಿನಶ್ಯನ್ತಂ ಯಃ ಪಶ್ಯತಿ ಸ ಪಶ್ಯತಿ ||೧೩-೨೮||"
     },
-    "transliteration": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram .\nvinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati ||13-28||",
-    "life_application": "Seeing the same Lord present everywhere equally, he does not injure the Self by the self, reaching the supreme goal.",
+    "transliteration": {
+        "hi": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् |\nविनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ||१३-२८||",
+        "en": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram .\nvinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati ||13-28||",
+        "be": "সমং সর্বেষু ভূতেষু তিষ্ঠন্তং পরমেশ্বরম্ |\nবিনশ্যত্স্ববিনশ্যন্তং যঃ পশ্যতি স পশ্যতি ||১৩-২৮||",
+        "ka": "ಸಮಂ ಸರ್ವೇಷು ಭೂತೇಷು ತಿಷ್ಠನ್ತಂ ಪರಮೇಶ್ವರಮ್ |\nವಿನಶ್ಯತ್ಸ್ವವಿನಶ್ಯನ್ತಂ ಯಃ ಪಶ್ಯತಿ ಸ ಪಶ್ಯತಿ ||೧೩-೨೮||"
+    },
+    "life_application": {
+        "hi": "एक ही ईश्वर को सर्वत्र समान रूप से विद्यमान देखकर, वह सर्वोच्च लक्ष्य तक पहुँचकर, स्वयं को चोट नहीं पहुँचाता है।",
+        "en": "Seeing the same Lord present everywhere equally, he does not injure the Self by the self, reaching the supreme goal.",
+        "be": "একই ভগবানকে সর্বত্র সমানভাবে বিরাজমান দেখে, তিনি পরম লক্ষ্যে পৌঁছতে নিজের দ্বারা আত্মাকে আঘাত করেন না।",
+        "ka": "ಒಂದೇ ಭಗವಂತನು ಎಲ್ಲೆಲ್ಲೂ ಸಮನಾಗಿ ಇರುವುದನ್ನು ನೋಡುತ್ತಾ, ಅವನು ತನ್ನಿಂದ ಆತ್ಮವನ್ನು ಹಾನಿಗೊಳಿಸುವುದಿಲ್ಲ, ಪರಮ ಗುರಿಯನ್ನು ತಲುಪುತ್ತಾನೆ."
+    },
     "themes": [
         "Equanimity",
         "Dharma"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "समम्",
-            "transliteration": "samam",
-            "meaning": "eally"
+            "transliteration": {
+                "hi": "समम्",
+                "en": "samam",
+                "be": "সমম্",
+                "ka": "ಸಮಮ್"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "eally",
+                "be": "eally",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "सर्वेषु",
-            "transliteration": "sarveṣu",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वेषु",
+                "en": "sarveṣu",
+                "be": "সর্বেষু",
+                "ka": "ಸರ್ವೇಷು"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "भूतेषु",
-            "transliteration": "bhūteṣu",
-            "meaning": "in beings"
+            "transliteration": {
+                "hi": "भूतेषु",
+                "en": "bhūteṣu",
+                "be": "ভূতেষু",
+                "ka": "ಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "प्राणियों में",
+                "en": "in beings",
+                "be": "প্রাণীদের মধ্যে",
+                "ka": "ಜೀವಿಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तिष्ठन्तम्",
-            "transliteration": "tiṣṭhantam",
-            "meaning": "existing"
+            "transliteration": {
+                "hi": "तिष्ठन्तम्",
+                "en": "tiṣṭhantam",
+                "be": "তিষ্ঠন্তম্",
+                "ka": "ತಿಷ್ಠನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "मौजूदा",
+                "en": "existing",
+                "be": "বিদ্যমান",
+                "ka": "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ"
+            }
         },
         {
             "sanskrit": "परमेश्वरम्",
-            "transliteration": "parameśvaram",
-            "meaning": "the Supreme Lord"
+            "transliteration": {
+                "hi": "परमेश्वरम्",
+                "en": "parameśvaram",
+                "be": "পরমেশ্বরম্",
+                "ka": "ಪರಮೇಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च भगवान",
+                "en": "the Supreme Lord",
+                "be": "সর্বোচ্চ প্রভু",
+                "ka": "ಪರಮ ಪ್ರಭು"
+            }
         },
         {
             "sanskrit": "विनश्यस्तु",
-            "transliteration": "vinaśyastu",
-            "meaning": "among the perishing"
+            "transliteration": {
+                "hi": "विनश्यस्तु",
+                "en": "vinaśyastu",
+                "be": "বিনশ্যস্তু",
+                "ka": "ವಿನಶ್ಯಸ್ತು"
+            },
+            "meaning": {
+                "hi": "नष्ट हो रहे लोगों के बीच",
+                "en": "among the perishing",
+                "be": "ধ্বংসপ্রাপ্তদের মধ্যে",
+                "ka": "ನಾಶವಾಗುತ್ತಿರುವವರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अविनश्यन्तम्",
-            "transliteration": "avinaśyantam",
-            "meaning": "the unperishing"
+            "transliteration": {
+                "hi": "अविनश्यन्तम्",
+                "en": "avinaśyantam",
+                "be": "অবিনশ্যন্তম্",
+                "ka": "ಅವಿನಶ್ಯನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "नाशवान",
+                "en": "the unperishing",
+                "be": "অক্ষয়",
+                "ka": "ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "sees"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "sees",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "sees."
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है.",
+                "en": "sees.",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ."
+            }
         }
     ],
     "tej": {

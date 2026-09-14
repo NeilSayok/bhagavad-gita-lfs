@@ -14,8 +14,18 @@
         "en": "ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha .\nsarvathā vartamāno.api na sa bhūyo.abhijāyate ||13-24||",
         "ka": "ಯ ಏವಂ ವೇತ್ತಿ ಪುರುಷಂ ಪ್ರಕೃತಿಂ ಚ ಗುಣೈಃ ಸಹ |\nಸರ್ವಥಾ ವರ್ತಮಾನೋಽಪಿ ನ ಸ ಭೂಯೋಽಭಿಜಾಯತೇ ||೧೩-೨೪||"
     },
-    "transliteration": "ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha .\nsarvathā vartamāno.api na sa bhūyo.abhijāyate ||13-24||",
-    "life_application": "Some perceive the Self by meditation, others by knowledge, and others by the yoga of selfless action.",
+    "transliteration": {
+        "hi": "य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह |\nसर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ||१३-२४||",
+        "en": "ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha .\nsarvathā vartamāno.api na sa bhūyo.abhijāyate ||13-24||",
+        "be": "য এবং বেত্তি পুরুষং প্রকৃতিং চ গুণৈঃ সহ |\nসর্বথা বর্তমানোঽপি ন স ভূযোঽভিজাযতে ||১৩-২৪||",
+        "ka": "ಯ ಏವಂ ವೇತ್ತಿ ಪುರುಷಂ ಪ್ರಕೃತಿಂ ಚ ಗುಣೈಃ ಸಹ |\nಸರ್ವಥಾ ವರ್ತಮಾನೋಽಪಿ ನ ಸ ಭೂಯೋಽಭಿಜಾಯತೇ ||೧೩-೨೪||"
+    },
+    "life_application": {
+        "hi": "कुछ लोग ध्यान के द्वारा, कुछ लोग ज्ञान के द्वारा, और कुछ लोग निष्काम कर्म के योग के द्वारा आत्मा का अनुभव करते हैं।",
+        "en": "Some perceive the Self by meditation, others by knowledge, and others by the yoga of selfless action.",
+        "be": "কেউ কেউ ধ্যানের মাধ্যমে আত্মকে উপলব্ধি করেন, কেউ কেউ জ্ঞানের মাধ্যমে এবং কেউ কেউ নিঃস্বার্থ কর্মের যোগ দ্বারা।",
+        "ka": "ಕೆಲವರು ಧ್ಯಾನದಿಂದ ಆತ್ಮವನ್ನು ಗ್ರಹಿಸುತ್ತಾರೆ, ಇತರರು ಜ್ಞಾನದಿಂದ ಮತ್ತು ಇತರರು ನಿಸ್ವಾರ್ಥ ಕ್ರಿಯೆಯ ಯೋಗದಿಂದ."
+    },
     "themes": [
         "Self-Realization",
         "Karma",
@@ -24,78 +34,228 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "पुरुषम्",
-            "transliteration": "puruṣam",
-            "meaning": "Purusha"
+            "transliteration": {
+                "hi": "पुरुषम्",
+                "en": "puruṣam",
+                "be": "পুরুষম্",
+                "ka": "ಪುರುಷಮ್"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "प्रकृतिम्",
-            "transliteration": "prakṛtim",
-            "meaning": "Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिम्",
+                "en": "prakṛtim",
+                "be": "প্রকৃতিম্",
+                "ka": "ಪ್ರಕೃತಿಮ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "Prakriti",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "गुणैः",
-            "transliteration": "guṇaiḥ",
-            "meaning": "alities"
+            "transliteration": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুণৈঃ",
+                "ka": "ಗುಣೈಃ"
+            },
+            "meaning": {
+                "hi": "सुविधाएँ",
+                "en": "alities",
+                "be": "alities",
+                "ka": "ಅಲಿಟಿಗಳು"
+            }
         },
         {
             "sanskrit": "सह",
-            "transliteration": "saha",
-            "meaning": "with"
+            "transliteration": {
+                "hi": "सह",
+                "en": "saha",
+                "be": "সহ",
+                "ka": "ಸಹ"
+            },
+            "meaning": {
+                "hi": "के साथ",
+                "en": "with",
+                "be": "সঙ্গে",
+                "ka": "ಜೊತೆಗೆ"
+            }
         },
         {
             "sanskrit": "सर्वथा",
-            "transliteration": "sarvathā",
-            "meaning": "in all ways"
+            "transliteration": {
+                "hi": "सर्वथा",
+                "en": "sarvathā",
+                "be": "সর্বথা",
+                "ka": "ಸರ್ವಥಾ"
+            },
+            "meaning": {
+                "hi": "हर तरह से",
+                "en": "in all ways",
+                "be": "সব উপায়ে",
+                "ka": "ಎಲ್ಲಾ ರೀತಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "वर्तमानः",
-            "transliteration": "vartamānaḥ",
-            "meaning": "living"
+            "transliteration": {
+                "hi": "वर्तमानः",
+                "en": "vartamānaḥ",
+                "be": "বর্তমানঃ",
+                "ka": "ವರ್ತಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "जीवित",
+                "en": "living",
+                "be": "জীবিত",
+                "ka": "ದೇಶ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "अभिजायते",
-            "transliteration": "abhijāyate",
-            "meaning": "is born."
+            "transliteration": {
+                "hi": "अभिजायते",
+                "en": "abhijāyate",
+                "be": "অভিজাযতে",
+                "ka": "ಅಭಿಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा है।",
+                "en": "is born.",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದೆ."
+            }
         }
     ],
     "tej": {

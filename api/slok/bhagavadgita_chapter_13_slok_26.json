@@ -14,8 +14,18 @@
         "en": "anye tvevamajānantaḥ śrutvānyebhya upāsate .\nte.api cātitarantyeva mṛtyuṃ śrutiparāyaṇāḥ ||13-26||",
         "ka": "ಅನ್ಯೇ ತ್ವೇವಮಜಾನನ್ತಃ ಶ್ರುತ್ವಾನ್ಯೇಭ್ಯ ಉಪಾಸತೇ |\nತೇಽಪಿ ಚಾತಿತರನ್ತ್ಯೇವ ಮೃತ್ಯುಂ ಶ್ರುತಿಪರಾಯಣಾಃ ||೧೩-೨೬||"
     },
-    "transliteration": "anye tvevamajānantaḥ śrutvānyebhya upāsate .\nte.api cātitarantyeva mṛtyuṃ śrutiparāyaṇāḥ ||13-26||",
-    "life_application": "Know that whatever creature is born, unmoving or moving, arises from the union of field and knower of field.",
+    "transliteration": {
+        "hi": "अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते |\nतेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ||१३-२६||",
+        "en": "anye tvevamajānantaḥ śrutvānyebhya upāsate .\nte.api cātitarantyeva mṛtyuṃ śrutiparāyaṇāḥ ||13-26||",
+        "be": "অন্যে ত্বেবমজানন্তঃ শ্রুত্বান্যেভ্য উপাসতে |\nতেঽপি চাতিতরন্ত্যেব মৃত্যুং শ্রুতিপরাযণাঃ ||১৩-২৬||",
+        "ka": "ಅನ್ಯೇ ತ್ವೇವಮಜಾನನ್ತಃ ಶ್ರುತ್ವಾನ್ಯೇಭ್ಯ ಉಪಾಸತೇ |\nತೇಽಪಿ ಚಾತಿತರನ್ತ್ಯೇವ ಮೃತ್ಯುಂ ಶ್ರುತಿಪರಾಯಣಾಃ ||೧೩-೨೬||"
+    },
+    "life_application": {
+        "hi": "यह जान लो कि जो भी प्राणी अचल या जंगम रूप में पैदा होता है, वह क्षेत्र और क्षेत्र के ज्ञाता के संयोग से उत्पन्न होता है।",
+        "en": "Know that whatever creature is born, unmoving or moving, arises from the union of field and knower of field.",
+        "be": "জেনে রাখুন যে প্রাণীর জন্ম, অচল বা গতিশীল, ক্ষেত্র এবং ক্ষেত্রজ্ঞের মিলন থেকে উদ্ভূত হয়।",
+        "ka": "ಯಾವ ಜೀವಿಯು ಹುಟ್ಟಿದೆಯೋ, ಅದು ಚಲಿಸದೆ ಅಥವಾ ಚಲಿಸುತ್ತದೆ, ಅದು ಕ್ಷೇತ್ರ ಮತ್ತು ಕ್ಷೇತ್ರವನ್ನು ತಿಳಿದಿರುವವರ ಒಕ್ಕೂಟದಿಂದ ಉದ್ಭವಿಸುತ್ತದೆ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अन्ये",
-            "transliteration": "anye",
-            "meaning": "others"
+            "transliteration": {
+                "hi": "अन्ये",
+                "en": "anye",
+                "be": "অন্যে",
+                "ka": "ಅನ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "others",
+                "be": "অন্যদের",
+                "ka": "ಇತರರು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अजानन्तः",
-            "transliteration": "ajānantaḥ",
-            "meaning": "not knowing"
+            "transliteration": {
+                "hi": "अजानन्तः",
+                "en": "ajānantaḥ",
+                "be": "অজানন্তঃ",
+                "ka": "ಅಜಾನನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "पता नहीं",
+                "en": "not knowing",
+                "be": "না জানা",
+                "ka": "ತಿಳಿಯುತ್ತಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "श्रुत्वा",
-            "transliteration": "śrutvā",
-            "meaning": "having heard"
+            "transliteration": {
+                "hi": "श्रुत्वा",
+                "en": "śrutvā",
+                "be": "শ্রুত্বা",
+                "ka": "ಶ್ರುತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "सुना है",
+                "en": "having heard",
+                "be": "শুনেছি",
+                "ka": "ಕೇಳಿದ"
+            }
         },
         {
             "sanskrit": "अन्येभ्यः",
-            "transliteration": "anyebhyaḥ",
-            "meaning": "from others"
+            "transliteration": {
+                "hi": "अन्येभ्यः",
+                "en": "anyebhyaḥ",
+                "be": "অন্যেভ্যঃ",
+                "ka": "ಅನ್ಯೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "दूसरों से",
+                "en": "from others",
+                "be": "অন্যদের থেকে",
+                "ka": "ಇತರರಿಂದ"
+            }
         },
         {
             "sanskrit": "उपासते",
-            "transliteration": "upāsate",
-            "meaning": "worship"
+            "transliteration": {
+                "hi": "उपासते",
+                "en": "upāsate",
+                "be": "উপাসতে",
+                "ka": "ಉಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "पूजा",
+                "en": "worship",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अतितरन्ति",
-            "transliteration": "atitaranti",
-            "meaning": "cross beyond"
+            "transliteration": {
+                "hi": "अतितरन्ति",
+                "en": "atitaranti",
+                "be": "অতিতরন্তি",
+                "ka": "ಅತಿತರನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "परे पार",
+                "en": "cross beyond",
+                "be": "অতিক্রম",
+                "ka": "ಮೀರಿ ದಾಟು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "मृत्युम्",
-            "transliteration": "mṛtyum",
-            "meaning": "death"
+            "transliteration": {
+                "hi": "मृत्युम्",
+                "en": "mṛtyum",
+                "be": "মৃত্যুম্",
+                "ka": "ಮೃತ್ಯುಮ್"
+            },
+            "meaning": {
+                "hi": "मौत",
+                "en": "death",
+                "be": "মৃত্যু",
+                "ka": "ಸಾವು"
+            }
         },
         {
             "sanskrit": "श्रुतिपरायणाः",
-            "transliteration": "śrutiparāyaṇāḥ",
-            "meaning": "regarding what they have"
+            "transliteration": {
+                "hi": "श्रुतिपरायणाः",
+                "en": "śrutiparāyaṇāḥ",
+                "be": "শ্রুতিপরাযণাঃ",
+                "ka": "ಶ್ರುತಿಪರಾಯಣಾಃ"
+            },
+            "meaning": {
+                "hi": "उनके पास क्या है इसके बारे में",
+                "en": "regarding what they have",
+                "be": "তাদের যা আছে সে সম্পর্কে",
+                "ka": "ಅವರು ಹೊಂದಿರುವ ಬಗ್ಗೆ"
+            }
         }
     ],
     "tej": {

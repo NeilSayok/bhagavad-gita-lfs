@@ -14,8 +14,18 @@
         "en": "kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata .\nkṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama ||13-3||",
         "ka": "ಕ್ಷೇತ್ರಜ್ಞಂ ಚಾಪಿ ಮಾಂ ವಿದ್ಧಿ ಸರ್ವಕ್ಷೇತ್ರೇಷು ಭಾರತ |\nಕ್ಷೇತ್ರಕ್ಷೇತ್ರಜ್ಞಯೋರ್ಜ್ಞಾನಂ ಯತ್ತಜ್ಜ್ಞಾನಂ ಮತಂ ಮಮ ||೧೩-೩||"
     },
-    "transliteration": "kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata .\nkṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama ||13-3||",
-    "life_application": "Hear what the field is, its nature, modifications, origin, and who the knower of the field is and his powers.",
+    "transliteration": {
+        "hi": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत |\nक्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ||१३-३||",
+        "en": "kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata .\nkṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama ||13-3||",
+        "be": "ক্ষেত্রজ্ঞং চাপি মাং বিদ্ধি সর্বক্ষেত্রেষু ভারত |\nক্ষেত্রক্ষেত্রজ্ঞযোর্জ্ঞানং যত্তজ্জ্ঞানং মতং মম ||১৩-৩||",
+        "ka": "ಕ್ಷೇತ್ರಜ್ಞಂ ಚಾಪಿ ಮಾಂ ವಿದ್ಧಿ ಸರ್ವಕ್ಷೇತ್ರೇಷು ಭಾರತ |\nಕ್ಷೇತ್ರಕ್ಷೇತ್ರಜ್ಞಯೋರ್ಜ್ಞಾನಂ ಯತ್ತಜ್ಜ್ಞಾನಂ ಮತಂ ಮಮ ||೧೩-೩||"
+    },
+    "life_application": {
+        "hi": "क्षेत्र क्या है, उसकी प्रकृति, परिवर्तन, उत्पत्ति और क्षेत्र का ज्ञाता कौन है तथा उसकी शक्तियाँ क्या हैं, यह सुनो।",
+        "en": "Hear what the field is, its nature, modifications, origin, and who the knower of the field is and his powers.",
+        "be": "ক্ষেত্রটি কী, এর প্রকৃতি, পরিবর্তন, উত্স এবং ক্ষেত্রটির জ্ঞানী কে এবং তার ক্ষমতাগুলি শুনুন।",
+        "ka": "ಕ್ಷೇತ್ರ ಯಾವುದು, ಅದರ ಸ್ವರೂಪ, ಮಾರ್ಪಾಡುಗಳು, ಮೂಲ ಮತ್ತು ಕ್ಷೇತ್ರದ ಬಲ್ಲವರು ಮತ್ತು ಅವರ ಶಕ್ತಿಗಳನ್ನು ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "क्षेत्रज्ञम्",
-            "transliteration": "kṣetrajñam",
-            "meaning": "the knower of the"
+            "transliteration": {
+                "hi": "क्षेत्रज्ञम्",
+                "en": "kṣetrajñam",
+                "be": "ক্ষেত্রজ্ঞম্",
+                "ka": "ಕ್ಷೇತ್ರಜ್ಞಮ್"
+            },
+            "meaning": {
+                "hi": "का ज्ञाता",
+                "en": "the knower of the",
+                "be": "এর জ্ঞানী",
+                "ka": "ನ ಬಲ್ಲವರು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वक्षेत्रेषु",
-            "transliteration": "sarvakṣetreṣu",
-            "meaning": "in all fields"
+            "transliteration": {
+                "hi": "सर्वक्षेत्रेषु",
+                "en": "sarvakṣetreṣu",
+                "be": "সর্বক্ষেত্রেষু",
+                "ka": "ಸರ್ವಕ್ಷೇತ್ರೇಷು"
+            },
+            "meaning": {
+                "hi": "सभी क्षेत्रों में",
+                "en": "in all fields",
+                "be": "সব ক্ষেত্রে",
+                "ka": "ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         },
         {
             "sanskrit": "क्षेत्रक्षेत्रज्ञयोः",
-            "transliteration": "kṣetrakṣetrajñayoḥ",
-            "meaning": "of the field and"
+            "transliteration": {
+                "hi": "क्षेत्रक्षेत्रज्ञयोः",
+                "en": "kṣetrakṣetrajñayoḥ",
+                "be": "ক্ষেত্রক্ষেত্রজ্ঞযোঃ",
+                "ka": "ಕ್ಷೇತ್ರಕ್ಷೇತ್ರಜ್ಞಯೋಃ"
+            },
+            "meaning": {
+                "hi": "क्षेत्र का और",
+                "en": "of the field and",
+                "be": "ক্ষেত্রের এবং",
+                "ka": "ಕ್ಷೇತ್ರದ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": ",knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": ",ज्ञान",
+                "en": ",knowledge",
+                "be": ", জ্ঞান",
+                "ka": ",ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "मतम्",
-            "transliteration": "matam",
-            "meaning": "is considered to be"
+            "transliteration": {
+                "hi": "मतम्",
+                "en": "matam",
+                "be": "মতম্",
+                "ka": "ಮತಮ್"
+            },
+            "meaning": {
+                "hi": "माना जाता है",
+                "en": "is considered to be",
+                "be": "হিসাবে বিবেচিত হয়",
+                "ka": "ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My."
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा।",
+                "en": "My.",
+                "be": "আমার",
+                "ka": "ನನ್ನ."
+            }
         }
     ],
     "tej": {

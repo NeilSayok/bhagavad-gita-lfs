@@ -14,8 +14,18 @@
         "en": "samaṃ paśyanhi sarvatra samavasthitamīśvaram .\nna hinastyātmanātmānaṃ tato yāti parāṃ gatim ||13-29||",
         "ka": "ಸಮಂ ಪಶ್ಯನ್ಹಿ ಸರ್ವತ್ರ ಸಮವಸ್ಥಿತಮೀಶ್ವರಮ್ |\nನ ಹಿನಸ್ತ್ಯಾತ್ಮನಾತ್ಮಾನಂ ತತೋ ಯಾತಿ ಪರಾಂ ಗತಿಮ್ ||೧೩-೨೯||"
     },
-    "transliteration": "samaṃ paśyanhi sarvatra samavasthitamīśvaram .\nna hinastyātmanātmānaṃ tato yāti parāṃ gatim ||13-29||",
-    "life_application": "He sees truly who sees that all actions are performed by material nature alone, and that the Self is non-doer.",
+    "transliteration": {
+        "hi": "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् |\nन हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ||१३-२९||",
+        "en": "samaṃ paśyanhi sarvatra samavasthitamīśvaram .\nna hinastyātmanātmānaṃ tato yāti parāṃ gatim ||13-29||",
+        "be": "সমং পশ্যন্হি সর্বত্র সমবস্থিতমীশ্বরম্ |\nন হিনস্ত্যাত্মনাত্মানং ততো যাতি পরাং গতিম্ ||১৩-২৯||",
+        "ka": "ಸಮಂ ಪಶ್ಯನ್ಹಿ ಸರ್ವತ್ರ ಸಮವಸ್ಥಿತಮೀಶ್ವರಮ್ |\nನ ಹಿನಸ್ತ್ಯಾತ್ಮನಾತ್ಮಾನಂ ತತೋ ಯಾತಿ ಪರಾಂ ಗತಿಮ್ ||೧೩-೨೯||"
+    },
+    "life_application": {
+        "hi": "वह वास्तव में देखता है जो देखता है कि सभी कार्य केवल भौतिक प्रकृति द्वारा किए जाते हैं, और आत्मा अकर्ता है।",
+        "en": "He sees truly who sees that all actions are performed by material nature alone, and that the Self is non-doer.",
+        "be": "তিনি সত্যই দেখেন যিনি দেখেন যে সমস্ত ক্রিয়াগুলি একাই জড় প্রকৃতির দ্বারা সঞ্চালিত হয়, এবং স্বয়ং অকার্যকর।",
+        "ka": "ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳನ್ನು ಭೌತಿಕ ಪ್ರಕೃತಿಯಿಂದ ಮಾತ್ರ ಮಾಡಲಾಗುತ್ತದೆ ಮತ್ತು ಸ್ವಯಂ ಮಾಡದವನು ಎಂದು ಯಾರು ನೋಡುತ್ತಾರೆ ಎಂಬುದನ್ನು ಅವನು ನಿಜವಾಗಿಯೂ ನೋಡುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "समम्",
-            "transliteration": "samam",
-            "meaning": "eally"
+            "transliteration": {
+                "hi": "समम्",
+                "en": "samam",
+                "be": "সমম্",
+                "ka": "ಸಮಮ್"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "eally",
+                "be": "eally",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "पश्यन्",
-            "transliteration": "paśyan",
-            "meaning": "seeing"
+            "transliteration": {
+                "hi": "पश्यन्",
+                "en": "paśyan",
+                "be": "পশ্যন্",
+                "ka": "ಪಶ್ಯನ್"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "seeing",
+                "be": "দেখা",
+                "ka": "ನೋಡುತ್ತಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "समवस्थितम्",
-            "transliteration": "samavasthitam",
-            "meaning": "eally dwelling"
+            "transliteration": {
+                "hi": "समवस्थितम्",
+                "en": "samavasthitam",
+                "be": "সমবস্থিতম্",
+                "ka": "ಸಮವಸ್ಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "वास्तव में निवास",
+                "en": "eally dwelling",
+                "be": "eally বাসস্থান",
+                "ka": "ನಿಜವಾಗಿಯೂ ವಾಸಿಸುವ"
+            }
         },
         {
             "sanskrit": "ईश्वरम्",
-            "transliteration": "īśvaram",
-            "meaning": "the Lord"
+            "transliteration": {
+                "hi": "ईश्वरम्",
+                "en": "īśvaram",
+                "be": "ঈশ্বরম্",
+                "ka": "ಈಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "प्रभु",
+                "en": "the Lord",
+                "be": "প্রভু",
+                "ka": "ಲಾರ್ಡ್"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हिनस्ति",
-            "transliteration": "hinasti",
-            "meaning": "destroys"
+            "transliteration": {
+                "hi": "हिनस्ति",
+                "en": "hinasti",
+                "be": "হিনস্তি",
+                "ka": "ಹಿನಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नष्ट कर देता है",
+                "en": "destroys",
+                "be": "ধ্বংস করে",
+                "ka": "ನಾಶಪಡಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "आत्मना",
-            "transliteration": "ātmanā",
-            "meaning": "by the self"
+            "transliteration": {
+                "hi": "आत्मना",
+                "en": "ātmanā",
+                "be": "আত্মনা",
+                "ka": "ಆತ್ಮನಾ"
+            },
+            "meaning": {
+                "hi": "स्वयं के द्वारा",
+                "en": "by the self",
+                "be": "নিজের দ্বারা",
+                "ka": "ಸ್ವಯಂ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "the Self"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "the Self",
+                "be": "স্বয়ং",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "याति",
-            "transliteration": "yāti",
-            "meaning": "goes"
+            "transliteration": {
+                "hi": "याति",
+                "en": "yāti",
+                "be": "যাতি",
+                "ka": "ಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "जाता है",
+                "en": "goes",
+                "be": "যায়",
+                "ka": "ಹೋಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "the highest"
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "उच्चतम",
+                "en": "the highest",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯಧಿಕ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "the goal."
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "लक्ष्य.",
+                "en": "the goal.",
+                "be": "লক্ষ্য",
+                "ka": "ಗುರಿ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
         "ka": "ಸನ್ನಿಯಮ್ಯೇನ್ದ್ರಿಯಗ್ರಾಮಂ ಸರ್ವತ್ರ ಸಮಬುದ್ಧಯಃ |\nತೇ ಪ್ರಾಪ್ನುವನ್ತಿ ಮಾಮೇವ ಸರ್ವಭೂತಹಿತೇ ರತಾಃ ||೧೨-೪||"
     },
-    "transliteration": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
-    "life_application": "Restrain your senses, maintain equal vision everywhere, and rejoice in the welfare of all beings to reach God.",
+    "transliteration": {
+        "hi": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||",
+        "en": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
+        "be": "সন্নিযম্যেন্দ্রিযগ্রামং সর্বত্র সমবুদ্ধযঃ |\nতে প্রাপ্নুবন্তি মামেব সর্বভূতহিতে রতাঃ ||১২-৪||",
+        "ka": "ಸನ್ನಿಯಮ್ಯೇನ್ದ್ರಿಯಗ್ರಾಮಂ ಸರ್ವತ್ರ ಸಮಬುದ್ಧಯಃ |\nತೇ ಪ್ರಾಪ್ನುವನ್ತಿ ಮಾಮೇವ ಸರ್ವಭೂತಹಿತೇ ರತಾಃ ||೧೨-೪||"
+    },
+    "life_application": {
+        "hi": "अपनी इन्द्रियों पर संयम रखें, सर्वत्र सम दृष्टि रखें और ईश्वर तक पहुँचने के लिए सभी प्राणियों के कल्याण में आनन्द मनाएँ।",
+        "en": "Restrain your senses, maintain equal vision everywhere, and rejoice in the welfare of all beings to reach God.",
+        "be": "ইন্দ্রিয় সংযত কর, সর্বত্র সমান দৃষ্টি বজায় রাখ এবং ঈশ্বরের কাছে পৌঁছানোর জন্য সকল প্রাণীর কল্যাণে আনন্দ কর।",
+        "ka": "ನಿಮ್ಮ ಇಂದ್ರಿಯಗಳನ್ನು ನಿಗ್ರಹಿಸಿ, ಎಲ್ಲೆಡೆ ಸಮಾನ ದೃಷ್ಟಿಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ದೇವರನ್ನು ತಲುಪಲು ಎಲ್ಲಾ ಜೀವಿಗಳ ಕಲ್ಯಾಣದಲ್ಲಿ ಆನಂದಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Purpose"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "संनियम्य",
-            "transliteration": "saṃniyamya",
-            "meaning": "having restrained"
+            "transliteration": {
+                "hi": "संनियम्य",
+                "en": "saṃniyamya",
+                "be": "সংনিযম্য",
+                "ka": "ಸಂನಿಯಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "संयमित होना",
+                "en": "having restrained",
+                "be": "সংযত করা",
+                "ka": "ಸಂಯಮದಿಂದ"
+            }
         },
         {
             "sanskrit": "इन्द्रियग्रामम्",
-            "transliteration": "indriyagrāmam",
-            "meaning": "the aggregate of the"
+            "transliteration": {
+                "hi": "इन्द्रियग्रामम्",
+                "en": "indriyagrāmam",
+                "be": "ইন্দ্রিযগ্রামম্",
+                "ka": "ಇನ್ದ್ರಿಯಗ್ರಾಮಮ್"
+            },
+            "meaning": {
+                "hi": "का समुच्चय",
+                "en": "the aggregate of the",
+                "be": "এর সমষ্টি",
+                "ka": "ಒಟ್ಟು"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "समबुद्धयः",
-            "transliteration": "samabuddhayaḥ",
-            "meaning": "evenminded"
+            "transliteration": {
+                "hi": "समबुद्धयः",
+                "en": "samabuddhayaḥ",
+                "be": "সমবুদ্ধযঃ",
+                "ka": "ಸಮಬುದ್ಧಯಃ"
+            },
+            "meaning": {
+                "hi": "समचित्त",
+                "en": "evenminded",
+                "be": "সমমনা",
+                "ka": "ಸಮಚಿತ್ತನಾದ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "प्राप्नुवन्ति",
-            "transliteration": "prāpnuvanti",
-            "meaning": "obtian"
+            "transliteration": {
+                "hi": "प्राप्नुवन्ति",
+                "en": "prāpnuvanti",
+                "be": "প্রাপ্নুবন্তি",
+                "ka": "ಪ್ರಾಪ್ನುವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "ओबटियन",
+                "en": "obtian",
+                "be": "obtian",
+                "ka": "obtian"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "सर्वभूतहिते",
-            "transliteration": "sarvabhūtahite",
-            "meaning": "in the welfare of"
+            "transliteration": {
+                "hi": "सर्वभूतहिते",
+                "en": "sarvabhūtahite",
+                "be": "সর্বভূতহিতে",
+                "ka": "ಸರ್ವಭೂತಹಿತೇ"
+            },
+            "meaning": {
+                "hi": "के कल्याण में",
+                "en": "in the welfare of",
+                "be": "এর কল্যাণে",
+                "ka": "ಕಲ್ಯಾಣದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "रताः",
-            "transliteration": "ratāḥ",
-            "meaning": "rejoicers."
+            "transliteration": {
+                "hi": "रताः",
+                "en": "ratāḥ",
+                "be": "রতাঃ",
+                "ka": "ರತಾಃ"
+            },
+            "meaning": {
+                "hi": "आनन्दित करने वाले",
+                "en": "rejoicers.",
+                "be": "আনন্দকারী",
+                "ka": "ಸಂತೋಷಪಡುವವರು."
+            }
         }
     ],
     "tej": {

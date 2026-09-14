@@ -14,8 +14,18 @@
         "en": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
         "ka": "ಮಯ್ಯೇವ ಮನ ಆಧತ್ಸ್ವ ಮಯಿ ಬುದ್ಧಿಂ ನಿವೇಶಯ |\nನಿವಸಿಷ್ಯಸಿ ಮಯ್ಯೇವ ಅತ ಊರ್ಧ್ವಂ ನ ಸಂಶಯಃ ||೧೨-೮||"
     },
-    "transliteration": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
-    "life_application": "Fix your mind on God alone and let your intellect abide in the Divine; you will surely live in God hereafter.",
+    "transliteration": {
+        "hi": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||",
+        "en": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
+        "be": "ময্যেব মন আধত্স্ব মযি বুদ্ধিং নিবেশয |\nনিবসিষ্যসি ময্যেব অত ঊর্ধ্বং ন সংশযঃ ||১২-৮||",
+        "ka": "ಮಯ್ಯೇವ ಮನ ಆಧತ್ಸ್ವ ಮಯಿ ಬುದ್ಧಿಂ ನಿವೇಶಯ |\nನಿವಸಿಷ್ಯಸಿ ಮಯ್ಯೇವ ಅತ ಊರ್ಧ್ವಂ ನ ಸಂಶಯಃ ||೧೨-೮||"
+    },
+    "life_application": {
+        "hi": "अपने मन को केवल ईश्वर पर केन्द्रित करो और अपनी बुद्धि को ईश्वर में ही रहने दो; इसके बाद तुम निश्चय ही परमेश्वर में निवास करोगे।",
+        "en": "Fix your mind on God alone and let your intellect abide in the Divine; you will surely live in God hereafter.",
+        "be": "আপনার মন একমাত্র ঈশ্বরের উপর স্থির করুন এবং আপনার বুদ্ধিকে ঐশ্বরিকভাবে থাকতে দিন; আপনি অবশ্যই পরকালে ঈশ্বরের মধ্যে বসবাস করবেন।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ದೇವರ ಮೇಲೆ ಮಾತ್ರ ಇರಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಬುದ್ಧಿಯು ದೈವಿಕದಲ್ಲಿ ನೆಲೆಗೊಳ್ಳಲಿ; ನೀವು ಖಂಡಿತವಾಗಿಯೂ ಮುಂದೆ ದೇವರಲ್ಲಿ ವಾಸಿಸುವಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "the mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "the mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "आधत्स्व",
-            "transliteration": "ādhatsva",
-            "meaning": "fix"
+            "transliteration": {
+                "hi": "आधत्स्व",
+                "en": "ādhatsva",
+                "be": "আধত্স্ব",
+                "ka": "ಆಧತ್ಸ್ವ"
+            },
+            "meaning": {
+                "hi": "ठीक करो",
+                "en": "fix",
+                "be": "ঠিক করা",
+                "ka": "ಸರಿಪಡಿಸಿ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "बुद्धिम्",
-            "transliteration": "buddhim",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिम्",
+                "en": "buddhim",
+                "be": "বুদ্ধিম্",
+                "ka": "ಬುದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "निवेशय",
-            "transliteration": "niveśaya",
-            "meaning": "place"
+            "transliteration": {
+                "hi": "निवेशय",
+                "en": "niveśaya",
+                "be": "নিবেশয",
+                "ka": "ನಿವೇಶಯ"
+            },
+            "meaning": {
+                "hi": "जगह",
+                "en": "place",
+                "be": "স্থান",
+                "ka": "ಸ್ಥಳ"
+            }
         },
         {
             "sanskrit": "निवसिष्यसि",
-            "transliteration": "nivasiṣyasi",
-            "meaning": "thou shalt live"
+            "transliteration": {
+                "hi": "निवसिष्यसि",
+                "en": "nivasiṣyasi",
+                "be": "নিবসিষ্যসি",
+                "ka": "ನಿವಸಿಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "तुम जीवित रहोगे",
+                "en": "thou shalt live",
+                "be": "তুমি বাঁচবে",
+                "ka": "ನೀನು ಬದುಕುವೆ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "अतः ऊर्ध्वम्",
-            "transliteration": "ataḥ ūrdhvam",
-            "meaning": "hereafter"
+            "transliteration": {
+                "hi": "अतः ऊर्ध्वम्",
+                "en": "ataḥ ūrdhvam",
+                "be": "অতঃ ঊর্ধ্বম্",
+                "ka": "ಅತಃ ಊರ್ಧ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "इसके बाद",
+                "en": "hereafter",
+                "be": "অতঃপর",
+                "ka": "ಮುಂದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "संशयः",
-            "transliteration": "saṃśayaḥ",
-            "meaning": "doubt."
+            "transliteration": {
+                "hi": "संशयः",
+                "en": "saṃśayaḥ",
+                "be": "সংশযঃ",
+                "ka": "ಸಂಶಯಃ"
+            },
+            "meaning": {
+                "hi": "संदेह।",
+                "en": "doubt.",
+                "be": "সন্দেহ",
+                "ka": "ಅನುಮಾನ."
+            }
         }
     ],
     "tej": {

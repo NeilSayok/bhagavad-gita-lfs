@@ -14,8 +14,18 @@
         "en": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
         "ka": "ಯೇ ತು ಸರ್ವಾಣಿ ಕರ್ಮಾಣಿ ಮಯಿ ಸಂನ್ಯಸ್ಯ ಮತ್ಪರಃ |\nಅನನ್ಯೇನೈವ ಯೋಗೇನ ಮಾಂ ಧ್ಯಾಯನ್ತ ಉಪಾಸತೇ ||೧೨-೬||"
     },
-    "transliteration": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
-    "life_application": "Renounce all actions to God, meditate on the Divine with single-pointed devotion, making God your ultimate goal.",
+    "transliteration": {
+        "hi": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||",
+        "en": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
+        "be": "যে তু সর্বাণি কর্মাণি মযি সংন্যস্য মত্পরঃ |\nঅনন্যেনৈব যোগেন মাং ধ্যাযন্ত উপাসতে ||১২-৬||",
+        "ka": "ಯೇ ತು ಸರ್ವಾಣಿ ಕರ್ಮಾಣಿ ಮಯಿ ಸಂನ್ಯಸ್ಯ ಮತ್ಪರಃ |\nಅನನ್ಯೇನೈವ ಯೋಗೇನ ಮಾಂ ಧ್ಯಾಯನ್ತ ಉಪಾಸತೇ ||೧೨-೬||"
+    },
+    "life_application": {
+        "hi": "सभी कार्यों को भगवान पर छोड़ दो, एकनिष्ठ भक्ति के साथ भगवान का ध्यान करो, भगवान को अपना अंतिम लक्ष्य बनाओ।",
+        "en": "Renounce all actions to God, meditate on the Divine with single-pointed devotion, making God your ultimate goal.",
+        "be": "ঈশ্বরের কাছে সমস্ত কর্ম ত্যাগ করুন, একক-বিন্দু ভক্তির সাথে ঈশ্বরের ধ্যান করুন, ঈশ্বরকে আপনার চূড়ান্ত লক্ষ্য করুন।",
+        "ka": "ದೇವರಿಗೆ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳನ್ನು ತ್ಯಜಿಸಿ, ಏಕ-ಬಿಂದು ಭಕ್ತಿಯಿಂದ ಪರಮಾತ್ಮನನ್ನು ಧ್ಯಾನಿಸಿ, ದೇವರನ್ನು ನಿಮ್ಮ ಅಂತಿಮ ಗುರಿಯನ್ನಾಗಿ ಮಾಡಿ."
+    },
     "themes": [
         "Devotion",
         "Karma"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "actions"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "actions",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮಗಳು"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "संन्यस्य",
-            "transliteration": "saṃnyasya",
-            "meaning": "renouncing"
+            "transliteration": {
+                "hi": "संन्यस्य",
+                "en": "saṃnyasya",
+                "be": "সংন্যস্য",
+                "ka": "ಸಂನ್ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "त्याग रहा हूँ",
+                "en": "renouncing",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "मत्पराः",
-            "transliteration": "matparāḥ",
-            "meaning": "regarding Me as the"
+            "transliteration": {
+                "hi": "मत्पराः",
+                "en": "matparāḥ",
+                "be": "মত্পরাঃ",
+                "ka": "ಮತ್ಪರಾಃ"
+            },
+            "meaning": {
+                "hi": "मेरे संबंध में",
+                "en": "regarding Me as the",
+                "be": "আমাকে হিসাবে বিবেচনা",
+                "ka": "ನನ್ನ ಬಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "अनन्येन",
-            "transliteration": "ananyena",
-            "meaning": "singleminded"
+            "transliteration": {
+                "hi": "अनन्येन",
+                "en": "ananyena",
+                "be": "অনন্যেন",
+                "ka": "ಅನನ್ಯೇನ"
+            },
+            "meaning": {
+                "hi": "एकचित्त",
+                "en": "singleminded",
+                "be": "একাকী",
+                "ka": "ಏಕಮನಸ್ಕ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "योगेन",
-            "transliteration": "yogena",
-            "meaning": "with the Yoga"
+            "transliteration": {
+                "hi": "योगेन",
+                "en": "yogena",
+                "be": "যোগেন",
+                "ka": "ಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "योग के साथ",
+                "en": "with the Yoga",
+                "be": "যোগের সাথে",
+                "ka": "ಯೋಗದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "ध्यायन्तः",
-            "transliteration": "dhyāyantaḥ",
-            "meaning": "meditating"
+            "transliteration": {
+                "hi": "ध्यायन्तः",
+                "en": "dhyāyantaḥ",
+                "be": "ধ্যাযন্তঃ",
+                "ka": "ಧ್ಯಾಯನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "ध्यान कर रहे हैं",
+                "en": "meditating",
+                "be": "ধ্যান",
+                "ka": "ಧ್ಯಾನಿಸುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "उपासते",
-            "transliteration": "upāsate",
-            "meaning": "worship."
+            "transliteration": {
+                "hi": "उपासते",
+                "en": "upāsate",
+                "be": "উপাসতে",
+                "ka": "ಉಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "पूजा करना।",
+                "en": "worship.",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ."
+            }
         }
     ],
     "tej": {

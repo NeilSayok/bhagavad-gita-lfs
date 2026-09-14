@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nprakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca .\netadveditumicchāmi jñānaṃ jñeyaṃ ca keśava ||13-1||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪ್ರಕೃತಿಂ ಪುರುಷಂ ಚೈವ ಕ್ಷೇತ್ರಂ ಕ್ಷೇತ್ರಜ್ಞಮೇವ ಚ |\nಏತದ್ವೇದಿತುಮಿಚ್ಛಾಮಿ ಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಚ ಕೇಶವ ||೧೩-೧||"
     },
-    "transliteration": "arjuna uvāca .\nprakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca .\netadveditumicchāmi jñānaṃ jñeyaṃ ca keśava ||13-1||",
-    "life_application": "Understand the difference between the physical body as the field of experience and the conscious observer as knower of field.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nप्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च |\nएतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव ||१३-१||",
+        "en": "arjuna uvāca .\nprakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca .\netadveditumicchāmi jñānaṃ jñeyaṃ ca keśava ||13-1||",
+        "be": "অর্জুন উবাচ |\nপ্রকৃতিং পুরুষং চৈব ক্ষেত্রং ক্ষেত্রজ্ঞমেব চ |\nএতদ্বেদিতুমিচ্ছামি জ্ঞানং জ্ঞেযং চ কেশব ||১৩-১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪ್ರಕೃತಿಂ ಪುರುಷಂ ಚೈವ ಕ್ಷೇತ್ರಂ ಕ್ಷೇತ್ರಜ್ಞಮೇವ ಚ |\nಏತದ್ವೇದಿತುಮಿಚ್ಛಾಮಿ ಜ್ಞಾನಂ ಜ್ಞೇಯಂ ಚ ಕೇಶವ ||೧೩-೧||"
+    },
+    "life_application": {
+        "hi": "भौतिक शरीर को अनुभव का क्षेत्र और चेतन पर्यवेक्षक को क्षेत्र का ज्ञाता मानने के बीच के अंतर को समझें।",
+        "en": "Understand the difference between the physical body as the field of experience and the conscious observer as knower of field.",
+        "be": "অভিজ্ঞতার ক্ষেত্র হিসাবে ভৌত দেহ এবং ক্ষেত্রের জ্ঞানী হিসাবে সচেতন পর্যবেক্ষকের মধ্যে পার্থক্য বুঝুন।",
+        "ka": "ಭೌತಿಕ ದೇಹವು ಅನುಭವದ ಕ್ಷೇತ್ರವಾಗಿ ಮತ್ತು ಜಾಗೃತ ವೀಕ್ಷಕ ಕ್ಷೇತ್ರದ ಜ್ಞಾನಿಯಾಗಿ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "प्रकृतिम्",
-            "transliteration": "prakṛtim",
-            "meaning": "the Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिम्",
+                "en": "prakṛtim",
+                "be": "প্রকৃতিম্",
+                "ka": "ಪ್ರಕೃತಿಮ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "the Prakriti",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "पुरुषम्",
-            "transliteration": "puruṣam",
-            "meaning": "the Purusha"
+            "transliteration": {
+                "hi": "पुरुषम्",
+                "en": "puruṣam",
+                "be": "পুরুষম্",
+                "ka": "ಪುರುಷಮ್"
+            },
+            "meaning": {
+                "hi": "पुरुष",
+                "en": "the Purusha",
+                "be": "পুরুষ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "क्षेत्रम्",
-            "transliteration": "kṣetram",
-            "meaning": "the field"
+            "transliteration": {
+                "hi": "क्षेत्रम्",
+                "en": "kṣetram",
+                "be": "ক্ষেত্রম্",
+                "ka": "ಕ್ಷೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "फील्ड",
+                "en": "the field",
+                "be": "ক্ষেত্র",
+                "ka": "ಕ್ಷೇತ್ರ"
+            }
         },
         {
             "sanskrit": "क्षेत्रज्ञम्",
-            "transliteration": "kṣetrajñam",
-            "meaning": "the knower of the"
+            "transliteration": {
+                "hi": "क्षेत्रज्ञम्",
+                "en": "kṣetrajñam",
+                "be": "ক্ষেত্রজ্ঞম্",
+                "ka": "ಕ್ಷೇತ್ರಜ್ಞಮ್"
+            },
+            "meaning": {
+                "hi": "का ज्ञाता",
+                "en": "the knower of the",
+                "be": "এর জ্ঞানী",
+                "ka": "ನ ಬಲ್ಲವರು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "वेदितुम्",
-            "transliteration": "veditum",
-            "meaning": "to know"
+            "transliteration": {
+                "hi": "वेदितुम्",
+                "en": "veditum",
+                "be": "বেদিতুম্",
+                "ka": "ವೇದಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "जानना",
+                "en": "to know",
+                "be": "জানতে",
+                "ka": "ತಿಳಿಯಲು"
+            }
         },
         {
             "sanskrit": "इच्छामि",
-            "transliteration": "icchāmi",
-            "meaning": "wish"
+            "transliteration": {
+                "hi": "इच्छामि",
+                "en": "icchāmi",
+                "be": "ইচ্ছামি",
+                "ka": "ಇಚ್ಛಾಮಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "wish",
+                "be": "ইচ্ছা",
+                "ka": "ಹಾರೈಕೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "ज्ञेयम्",
-            "transliteration": "jñeyam",
-            "meaning": "what ought to be"
+            "transliteration": {
+                "hi": "ज्ञेयम्",
+                "en": "jñeyam",
+                "be": "জ্ঞেযম্",
+                "ka": "ಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "क्या होना चाहिए",
+                "en": "what ought to be",
+                "be": "কি হওয়া উচিত",
+                "ka": "ಏನಾಗಿರಬೇಕು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "केशव",
-            "transliteration": "keśava",
-            "meaning": "O Kesava."
+            "transliteration": {
+                "hi": "केशव",
+                "en": "keśava",
+                "be": "কেশব",
+                "ka": "ಕೇಶವ"
+            },
+            "meaning": {
+                "hi": "हे केशव!",
+                "en": "O Kesava.",
+                "be": "হে কেশব।",
+                "ka": "ಓ ಕೇಶವ."
+            }
         }
     ],
     "tej": {

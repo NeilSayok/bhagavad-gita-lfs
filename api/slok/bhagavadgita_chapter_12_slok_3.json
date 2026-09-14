@@ -14,8 +14,18 @@
         "en": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
         "ka": "ಯೇ ತ್ವಕ್ಷರಮನಿರ್ದೇಶ್ಯಮವ್ಯಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಸರ್ವತ್ರಗಮಚಿನ್ತ್ಯಞ್ಚ ಕೂಟಸ್ಥಮಚಲನ್ಧ್ರುವಮ್ ||೧೨-೩||"
     },
-    "transliteration": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
-    "life_application": "Understand that those who contemplate the imperishable, undefinable, unmanifest, all-pervading, unthinkable, unchanging, immovable, eternal...",
+    "transliteration": {
+        "hi": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||",
+        "en": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
+        "be": "যে ত্বক্ষরমনির্দেশ্যমব্যক্তং পর্যুপাসতে |\nসর্বত্রগমচিন্ত্যঞ্চ কূটস্থমচলন্ধ্রুবম্ ||১২-৩||",
+        "ka": "ಯೇ ತ್ವಕ್ಷರಮನಿರ್ದೇಶ್ಯಮವ್ಯಕ್ತಂ ಪರ್ಯುಪಾಸತೇ |\nಸರ್ವತ್ರಗಮಚಿನ್ತ್ಯಞ್ಚ ಕೂಟಸ್ಥಮಚಲನ್ಧ್ರುವಮ್ ||೧೨-೩||"
+    },
+    "life_application": {
+        "hi": "समझें कि जो लोग अविनाशी, अनिर्वचनीय, अव्यक्त, सर्वव्यापक, अकल्पनीय, अपरिवर्तनीय, अचल, शाश्वत... का चिंतन करते हैं।",
+        "en": "Understand that those who contemplate the imperishable, undefinable, unmanifest, all-pervading, unthinkable, unchanging, immovable, eternal...",
+        "be": "বোঝেন যে যারা অবিনশ্বর, অব্যক্ত, অব্যক্ত, সর্বব্যাপী, অচিন্তনীয়, অপরিবর্তনীয়, স্থাবর, চিরন্তন...",
+        "ka": "ಅವಿನಾಶಿ, ಅನಿರ್ವಚನೀಯ, ಅವ್ಯಕ್ತ, ಸರ್ವವ್ಯಾಪಿ, ಅಚಿಂತ್ಯ, ಬದಲಾಗದ, ಚಲನರಹಿತ, ಶಾಶ್ವತ... ಎಂದು ಆಲೋಚಿಸುವವರು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,28 +33,78 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "त्वक्षरमनिर्देश्यमव्यक्तं",
-            "transliteration": "tvakṣaramanirdeśyamavyaktaṃ",
-            "meaning": "tvakṣaramanirdeśyamavyaktaṃ"
+            "transliteration": {
+                "hi": "त्वक्षरमनिर्देश्यमव्यक्तं",
+                "en": "tvakṣaramanirdeśyamavyaktaṃ",
+                "be": "ত্বক্ষরমনির্দেশ্যমব্যক্তং",
+                "ka": "ತ್ವಕ್ಷರಮನಿರ್ದೇಶ್ಯಮವ್ಯಕ್ತಂ"
+            },
+            "meaning": {
+                "hi": "त्वक्षरमनिर्देश्यमव्यक्तम्",
+                "en": "tvakṣaramanirdeśyamavyaktaṃ",
+                "be": "tvakṣaramanirdeshyamavyaktaṃ",
+                "ka": "ತ್ವಕ್ಷರಾಮನಿರ್ದೇಶ್ಯಮವ್ಯಕ್ತಃ"
+            }
         },
         {
             "sanskrit": "पर्युपासते",
-            "transliteration": "paryupāsate",
-            "meaning": "paryupāsate"
+            "transliteration": {
+                "hi": "पर्युपासते",
+                "en": "paryupāsate",
+                "be": "পর্যুপাসতে",
+                "ka": "ಪರ್ಯುಪಾಸತೇ"
+            },
+            "meaning": {
+                "hi": "पर्युपासते",
+                "en": "paryupāsate",
+                "be": "paryupāsate",
+                "ka": "ಪರ್ಯುಪಾಸತೇ"
+            }
         },
         {
             "sanskrit": "सर्वत्रगमचिन्त्यञ्च",
-            "transliteration": "sarvatragamacintyañca",
-            "meaning": "sarvatragamacintyañca"
+            "transliteration": {
+                "hi": "सर्वत्रगमचिन्त्यञ्च",
+                "en": "sarvatragamacintyañca",
+                "be": "সর্বত্রগমচিন্ত্যঞ্চ",
+                "ka": "ಸರ್ವತ್ರಗಮಚಿನ್ತ್ಯಞ್ಚ"
+            },
+            "meaning": {
+                "hi": "सर्वत्रगमाचिन्त्यञ्च",
+                "en": "sarvatragamacintyañca",
+                "be": "sarvatragamacintyanca",
+                "ka": "ಸರ್ವತ್ರಾಗಮಚಿನ್ತ್ಯಂಚ"
+            }
         },
         {
             "sanskrit": "कूटस्थमचलन्ध्रुवम्",
-            "transliteration": "kūṭasthamacalandhruvam",
-            "meaning": "kūṭasthamacalandhruvam"
+            "transliteration": {
+                "hi": "कूटस्थमचलन्ध्रुवम्",
+                "en": "kūṭasthamacalandhruvam",
+                "be": "কূটস্থমচলন্ধ্রুবম্",
+                "ka": "ಕೂಟಸ್ಥಮಚಲನ್ಧ್ರುವಮ್"
+            },
+            "meaning": {
+                "hi": "कूटस्थमकालन्ध्रुवम्",
+                "en": "kūṭasthamacalandhruvam",
+                "be": "kūṭastamachalandhruvam",
+                "ka": "ಕೂಟಸ್ಥಮಾಚಲಂಧ್ರುವಮ್"
+            }
         }
     ],
     "tej": {

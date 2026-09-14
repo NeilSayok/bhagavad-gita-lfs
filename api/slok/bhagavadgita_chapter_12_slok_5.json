@@ -14,8 +14,18 @@
         "en": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
         "ka": "ಕ್ಲೇಶೋಽಧಿಕತರಸ್ತೇಷಾಮವ್ಯಕ್ತಾಸಕ್ತಚೇತಸಾಮ್ |\nಅವ್ಯಕ್ತಾ ಹಿ ಗತಿರ್ದುಃಖಂ ದೇಹವದ್ಭಿರವಾಪ್ಯತೇ ||೧೨-೫||"
     },
-    "transliteration": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
-    "life_application": "Recognize that path of the unmanifest is difficult for embodied beings, requiring intense self-discipline.",
+    "transliteration": {
+        "hi": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||",
+        "en": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
+        "be": "ক্লেশোঽধিকতরস্তেষামব্যক্তাসক্তচেতসাম্ |\nঅব্যক্তা হি গতির্দুঃখং দেহবদ্ভিরবাপ্যতে ||১২-৫||",
+        "ka": "ಕ್ಲೇಶೋಽಧಿಕತರಸ್ತೇಷಾಮವ್ಯಕ್ತಾಸಕ್ತಚೇತಸಾಮ್ |\nಅವ್ಯಕ್ತಾ ಹಿ ಗತಿರ್ದುಃಖಂ ದೇಹವದ್ಭಿರವಾಪ್ಯತೇ ||೧೨-೫||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि अव्यक्त का मार्ग देहधारी प्राणियों के लिए कठिन है, जिसके लिए गहन आत्म-अनुशासन की आवश्यकता होती है।",
+        "en": "Recognize that path of the unmanifest is difficult for embodied beings, requiring intense self-discipline.",
+        "be": "চিনুন যে অব্যক্তের পথটি মূর্ত প্রাণীদের পক্ষে কঠিন, তীব্র স্ব-শৃঙ্খলার প্রয়োজন।",
+        "ka": "ಅವ್ಯಕ್ತದ ಮಾರ್ಗವು ಸಾಕಾರ ಜೀವಿಗಳಿಗೆ ಕಷ್ಟಕರವಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ, ತೀವ್ರವಾದ ಸ್ವಯಂ-ಶಿಸ್ತಿನ ಅಗತ್ಯವಿರುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "क्लेशः",
-            "transliteration": "kleśaḥ",
-            "meaning": "the trouble"
+            "transliteration": {
+                "hi": "क्लेशः",
+                "en": "kleśaḥ",
+                "be": "ক্লেশঃ",
+                "ka": "ಕ್ಲೇಶಃ"
+            },
+            "meaning": {
+                "hi": "मुसीबत",
+                "en": "the trouble",
+                "be": "কষ্ট",
+                "ka": "ತೊಂದರೆ"
+            }
         },
         {
             "sanskrit": "अधिकतरः",
-            "transliteration": "adhikataraḥ",
-            "meaning": "greater"
+            "transliteration": {
+                "hi": "अधिकतरः",
+                "en": "adhikataraḥ",
+                "be": "অধিকতরঃ",
+                "ka": "ಅಧಿಕತರಃ"
+            },
+            "meaning": {
+                "hi": "अधिक",
+                "en": "greater",
+                "be": "বৃহত্তর",
+                "ka": "ಹೆಚ್ಚು"
+            }
         },
         {
             "sanskrit": "तेषाम्",
-            "transliteration": "teṣām",
-            "meaning": "of those"
+            "transliteration": {
+                "hi": "तेषाम्",
+                "en": "teṣām",
+                "be": "তেষাম্",
+                "ka": "ತೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनमें से",
+                "en": "of those",
+                "be": "যারা",
+                "ka": "ಅವುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अव्यक्तासक्तचेतसाम्",
-            "transliteration": "avyaktāsaktacetasām",
-            "meaning": "whose minds are set"
+            "transliteration": {
+                "hi": "अव्यक्तासक्तचेतसाम्",
+                "en": "avyaktāsaktacetasām",
+                "be": "অব্যক্তাসক্তচেতসাম্",
+                "ka": "ಅವ್ಯಕ್ತಾಸಕ್ತಚೇತಸಾಮ್"
+            },
+            "meaning": {
+                "hi": "जिनका मन स्थिर है",
+                "en": "whose minds are set",
+                "be": "যাদের মন সেট করা আছে",
+                "ka": "ಅವರ ಮನಸ್ಸು ಹೊಂದಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अव्यक्ता",
-            "transliteration": "avyaktā",
-            "meaning": "the unmanifested"
+            "transliteration": {
+                "hi": "अव्यक्ता",
+                "en": "avyaktā",
+                "be": "অব্যক্তা",
+                "ka": "ಅವ್ಯಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "अव्यक्त",
+                "en": "the unmanifested",
+                "be": "অপ্রকাশিত",
+                "ka": "ಅವ್ಯಕ್ತ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "for"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for",
+                "be": "জন্য",
+                "ka": "ಫಾರ್"
+            }
         },
         {
             "sanskrit": "गतिः",
-            "transliteration": "gatiḥ",
-            "meaning": "goal"
+            "transliteration": {
+                "hi": "गतिः",
+                "en": "gatiḥ",
+                "be": "গতিঃ",
+                "ka": "ಗತಿಃ"
+            },
+            "meaning": {
+                "hi": "लक्ष्य",
+                "en": "goal",
+                "be": "লক্ষ্য",
+                "ka": "ಗುರಿ"
+            }
         },
         {
             "sanskrit": "दुःखम्",
-            "transliteration": "duḥkham",
-            "meaning": "pain"
+            "transliteration": {
+                "hi": "दुःखम्",
+                "en": "duḥkham",
+                "be": "দুঃখম্",
+                "ka": "ದುಃಖಮ್"
+            },
+            "meaning": {
+                "hi": "दर्द",
+                "en": "pain",
+                "be": "ব্যথা",
+                "ka": "ನೋವು"
+            }
         },
         {
             "sanskrit": "देहवद्भिः",
-            "transliteration": "dehavadbhiḥ",
-            "meaning": "by the embodied"
+            "transliteration": {
+                "hi": "देहवद्भिः",
+                "en": "dehavadbhiḥ",
+                "be": "দেহবদ্ভিঃ",
+                "ka": "ದೇಹವದ್ಭಿಃ"
+            },
+            "meaning": {
+                "hi": "सन्निहित द्वारा",
+                "en": "by the embodied",
+                "be": "মূর্ত দ্বারা",
+                "ka": "ಮೂರ್ತರೂಪದಿಂದ"
+            }
         },
         {
             "sanskrit": "अवाप्यते",
-            "transliteration": "avāpyate",
-            "meaning": "is reached."
+            "transliteration": {
+                "hi": "अवाप्यते",
+                "en": "avāpyate",
+                "be": "অবাপ্যতে",
+                "ka": "ಅವಾಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "पहुंच गया है.",
+                "en": "is reached.",
+                "be": "পৌঁছানো হয়",
+                "ka": "ತಲುಪಿದೆ."
+            }
         }
     ],
     "tej": {

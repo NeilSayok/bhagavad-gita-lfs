@@ -14,8 +14,18 @@
         "en": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
         "ka": "ಅಥ ಚಿತ್ತಂ ಸಮಾಧಾತುಂ ನ ಶಕ್ನೋಷಿ ಮಯಿ ಸ್ಥಿರಮ್ |\nಅಭ್ಯಾಸಯೋಗೇನ ತತೋ ಮಾಮಿಚ್ಛಾಪ್ತುಂ ಧನಞ್ಜಯ ||೧೨-೯||"
     },
-    "transliteration": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
-    "life_application": "If you cannot fix your mind steadily, seek to reach God through the steady practice of regular meditation.",
+    "transliteration": {
+        "hi": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||",
+        "en": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
+        "be": "অথ চিত্তং সমাধাতুং ন শক্নোষি মযি স্থিরম্ |\nঅভ্যাসযোগেন ততো মামিচ্ছাপ্তুং ধনঞ্জয ||১২-৯||",
+        "ka": "ಅಥ ಚಿತ್ತಂ ಸಮಾಧಾತುಂ ನ ಶಕ್ನೋಷಿ ಮಯಿ ಸ್ಥಿರಮ್ |\nಅಭ್ಯಾಸಯೋಗೇನ ತತೋ ಮಾಮಿಚ್ಛಾಪ್ತುಂ ಧನಞ್ಜಯ ||೧೨-೯||"
+    },
+    "life_application": {
+        "hi": "यदि आप अपने मन को स्थिर रूप से स्थिर नहीं कर सकते हैं, तो नियमित ध्यान के स्थिर अभ्यास के माध्यम से ईश्वर तक पहुँचने का प्रयास करें।",
+        "en": "If you cannot fix your mind steadily, seek to reach God through the steady practice of regular meditation.",
+        "be": "আপনি যদি আপনার মনকে স্থিরভাবে ঠিক করতে না পারেন তবে নিয়মিত ধ্যানের স্থির অনুশীলনের মাধ্যমে ঈশ্বরের কাছে পৌঁছানোর চেষ্টা করুন।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸ್ಥಿರವಾಗಿ ಸರಿಪಡಿಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ನಿಯಮಿತ ಧ್ಯಾನದ ನಿರಂತರ ಅಭ್ಯಾಸದ ಮೂಲಕ ದೇವರನ್ನು ತಲುಪಲು ಪ್ರಯತ್ನಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "चित्तम्",
-            "transliteration": "cittam",
-            "meaning": "the mind"
+            "transliteration": {
+                "hi": "चित्तम्",
+                "en": "cittam",
+                "be": "চিত্তম্",
+                "ka": "ಚಿತ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "the mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "समाधातुम्",
-            "transliteration": "samādhātum",
-            "meaning": "to fix"
+            "transliteration": {
+                "hi": "समाधातुम्",
+                "en": "samādhātum",
+                "be": "সমাধাতুম্",
+                "ka": "ಸಮಾಧಾತುಮ್"
+            },
+            "meaning": {
+                "hi": "ठीक करना",
+                "en": "to fix",
+                "be": "ঠিক করতে",
+                "ka": "ಸರಿಪಡಿಸಲು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "शक्नोषि",
-            "transliteration": "śaknoṣi",
-            "meaning": "art able"
+            "transliteration": {
+                "hi": "शक्नोषि",
+                "en": "śaknoṣi",
+                "be": "শক্নোষি",
+                "ka": "ಶಕ್ನೋಷಿ"
+            },
+            "meaning": {
+                "hi": "कला सक्षम",
+                "en": "art able",
+                "be": "শিল্প সক্ষম",
+                "ka": "ಕಲೆ ಸಾಧ್ಯವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "स्थिरम्",
-            "transliteration": "sthiram",
-            "meaning": "steadily"
+            "transliteration": {
+                "hi": "स्थिरम्",
+                "en": "sthiram",
+                "be": "স্থিরম্",
+                "ka": "ಸ್ಥಿರಮ್"
+            },
+            "meaning": {
+                "hi": "लगातार",
+                "en": "steadily",
+                "be": "অবিচলিতভাবে",
+                "ka": "ಸ್ಥಿರವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अभ्यासयोगेन",
-            "transliteration": "abhyāsayogena",
-            "meaning": "by the Yoga of"
+            "transliteration": {
+                "hi": "अभ्यासयोगेन",
+                "en": "abhyāsayogena",
+                "be": "অভ্যাসযোগেন",
+                "ka": "ಅಭ್ಯಾಸಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "के योग से",
+                "en": "by the Yoga of",
+                "be": "যোগ দ্বারা",
+                "ka": "ಯೋಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "them"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "उन्हें",
+                "en": "them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "इच्छ",
-            "transliteration": "iccha",
-            "meaning": "wish"
+            "transliteration": {
+                "hi": "इच्छ",
+                "en": "iccha",
+                "be": "ইচ্ছ",
+                "ka": "ಇಚ್ಛ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "wish",
+                "be": "ইচ্ছা",
+                "ka": "ಹಾರೈಕೆ"
+            }
         },
         {
             "sanskrit": "आप्तुम्",
-            "transliteration": "āptum",
-            "meaning": "to reach"
+            "transliteration": {
+                "hi": "आप्तुम्",
+                "en": "āptum",
+                "be": "আপ্তুম্",
+                "ka": "ಆಪ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "पहुंचना",
+                "en": "to reach",
+                "be": "পৌঁছাতে",
+                "ka": "ತಲುಪಲು"
+            }
         },
         {
             "sanskrit": "धनञ्जय",
-            "transliteration": "dhanañjaya",
-            "meaning": "O Arjuna."
+            "transliteration": {
+                "hi": "धनञ्जय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয",
+                "ka": "ಧನಞ್ಜಯ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna.",
+                "be": "হে অর্জুন।",
+                "ka": "ಓ ಅರ್ಜುನ."
+            }
         }
     ],
     "tej": {

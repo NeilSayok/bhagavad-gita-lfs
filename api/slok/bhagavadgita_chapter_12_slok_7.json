@@ -14,8 +14,18 @@
         "en": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
         "ka": "ತೇಷಾಮಹಂ ಸಮುದ್ಧರ್ತಾ ಮೃತ್ಯುಸಂಸಾರಸಾಗರಾತ್ |\nಭವಾಮಿ ನಚಿರಾತ್ಪಾರ್ಥ ಮಯ್ಯಾವೇಶಿತಚೇತಸಾಮ್ ||೧೨-೭||"
     },
-    "transliteration": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
-    "life_application": "Trust that God swiftly rescues those whose minds are set on the Divine from the ocean of mortal death.",
+    "transliteration": {
+        "hi": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||",
+        "en": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
+        "be": "তেষামহং সমুদ্ধর্তা মৃত্যুসংসারসাগরাত্ |\nভবামি নচিরাত্পার্থ ময্যাবেশিতচেতসাম্ ||১২-৭||",
+        "ka": "ತೇಷಾಮಹಂ ಸಮುದ್ಧರ್ತಾ ಮೃತ್ಯುಸಂಸಾರಸಾಗರಾತ್ |\nಭವಾಮಿ ನಚಿರಾತ್ಪಾರ್ಥ ಮಯ್ಯಾವೇಶಿತಚೇತಸಾಮ್ ||೧೨-೭||"
+    },
+    "life_application": {
+        "hi": "भरोसा रखें कि ईश्वर उन लोगों को शीघ्रता से बचा लेता है जिनका मन ईश्वर में लगा हुआ है, नश्वर मृत्यु के सागर से।",
+        "en": "Trust that God swiftly rescues those whose minds are set on the Divine from the ocean of mortal death.",
+        "be": "বিশ্বাস করুন যে ঈশ্বর দ্রুত তাদের মরণশীল মৃত্যুর সাগর থেকে ঈশ্বরের উপর স্থির হয়ে উদ্ধার করেন।",
+        "ka": "ಪರಮಾತ್ಮನ ಮೇಲೆ ಮನಸ್ಸು ಮಾಡುವವರನ್ನು ಮರಣದ ಮರಣದ ಸಾಗರದಿಂದ ದೇವರು ತ್ವರಿತವಾಗಿ ರಕ್ಷಿಸುತ್ತಾನೆ ಎಂದು ನಂಬಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Death",
@@ -24,48 +34,138 @@
     "word_meanings": [
         {
             "sanskrit": "तेषाम्",
-            "transliteration": "teṣām",
-            "meaning": "for them"
+            "transliteration": {
+                "hi": "तेषाम्",
+                "en": "teṣām",
+                "be": "তেষাম্",
+                "ka": "ತೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनके लिए",
+                "en": "for them",
+                "be": "তাদের জন্য",
+                "ka": "ಅವರಿಗೆ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "समुद्धर्ता",
-            "transliteration": "samuddhartā",
-            "meaning": "the saviour"
+            "transliteration": {
+                "hi": "समुद्धर्ता",
+                "en": "samuddhartā",
+                "be": "সমুদ্ধর্তা",
+                "ka": "ಸಮುದ್ಧರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "बचाने वाला",
+                "en": "the saviour",
+                "be": "ত্রাণকর্তা",
+                "ka": "ರಕ್ಷಕ"
+            }
         },
         {
             "sanskrit": "मृत्युसंसारसागरात्",
-            "transliteration": "mṛtyusaṃsārasāgarāt",
-            "meaning": "out of the ocean"
+            "transliteration": {
+                "hi": "मृत्युसंसारसागरात्",
+                "en": "mṛtyusaṃsārasāgarāt",
+                "be": "মৃত্যুসংসারসাগরাত্",
+                "ka": "ಮೃತ್ಯುಸಂಸಾರಸಾಗರಾತ್"
+            },
+            "meaning": {
+                "hi": "सागर से बाहर",
+                "en": "out of the ocean",
+                "be": "সমুদ্রের বাইরে",
+                "ka": "ಸಾಗರದ ಹೊರಗೆ"
+            }
         },
         {
             "sanskrit": "भवामि",
-            "transliteration": "bhavāmi",
-            "meaning": "become"
+            "transliteration": {
+                "hi": "भवामि",
+                "en": "bhavāmi",
+                "be": "ভবামি",
+                "ka": "ಭವಾಮಿ"
+            },
+            "meaning": {
+                "hi": "बनो",
+                "en": "become",
+                "be": "হয়ে",
+                "ka": "ಆಗುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "नचिरात्",
-            "transliteration": "nacirāt",
-            "meaning": "ere long"
+            "transliteration": {
+                "hi": "नचिरात्",
+                "en": "nacirāt",
+                "be": "নচিরাত্",
+                "ka": "ನಚಿರಾತ್"
+            },
+            "meaning": {
+                "hi": "बहुत लंबे हैं",
+                "en": "ere long",
+                "be": "দীর্ঘ",
+                "ka": "ಉದ್ದವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "आवेशितचेतसाम्",
-            "transliteration": "āveśitacetasām",
-            "meaning": "of those whose minds"
+            "transliteration": {
+                "hi": "आवेशितचेतसाम्",
+                "en": "āveśitacetasām",
+                "be": "আবেশিতচেতসাম্",
+                "ka": "ಆವೇಶಿತಚೇತಸಾಮ್"
+            },
+            "meaning": {
+                "hi": "उन लोगों का जिनके मन",
+                "en": "of those whose minds",
+                "be": "যাদের মন",
+                "ka": "ಅವರ ಮನಸ್ಸುಗಳ"
+            }
         }
     ],
     "tej": {

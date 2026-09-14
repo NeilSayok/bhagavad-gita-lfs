@@ -14,8 +14,18 @@
         "en": "mayi cānanyayogena bhaktiravyabhicāriṇī .\nviviktadeśasevitvamaratirjanasaṃsadi ||13-11||",
         "ka": "ಮಯಿ ಚಾನನ್ಯಯೋಗೇನ ಭಕ್ತಿರವ್ಯಭಿಚಾರಿಣೀ |\nವಿವಿಕ್ತದೇಶಸೇವಿತ್ವಮರತಿರ್ಜನಸಂಸದಿ ||೧೩-೧೧||"
     },
-    "transliteration": "mayi cānanyayogena bhaktiravyabhicāriṇī .\nviviktadeśasevitvamaratirjanasaṃsadi ||13-11||",
-    "life_application": "Persist in knowledge of the Self and perception of the goal of truth; all this is declared true knowledge.",
+    "transliteration": {
+        "hi": "मयि चानन्ययोगेन भक्तिरव्यभिचारिणी |\nविविक्तदेशसेवित्वमरतिर्जनसंसदि ||१३-११||",
+        "en": "mayi cānanyayogena bhaktiravyabhicāriṇī .\nviviktadeśasevitvamaratirjanasaṃsadi ||13-11||",
+        "be": "মযি চানন্যযোগেন ভক্তিরব্যভিচারিণী |\nবিবিক্তদেশসেবিত্বমরতির্জনসংসদি ||১৩-১১||",
+        "ka": "ಮಯಿ ಚಾನನ್ಯಯೋಗೇನ ಭಕ್ತಿರವ್ಯಭಿಚಾರಿಣೀ |\nವಿವಿಕ್ತದೇಶಸೇವಿತ್ವಮರತಿರ್ಜನಸಂಸದಿ ||೧೩-೧೧||"
+    },
+    "life_application": {
+        "hi": "स्वयं के ज्ञान और सत्य के लक्ष्य की धारणा में बने रहें; यह सब सच्चा ज्ञान घोषित किया गया है।",
+        "en": "Persist in knowledge of the Self and perception of the goal of truth; all this is declared true knowledge.",
+        "be": "আত্মজ্ঞান এবং সত্যের লক্ষ্যের উপলব্ধিতে অবিচল থাকুন; এই সব সত্য জ্ঞান ঘোষণা করা হয়.",
+        "ka": "ಸ್ವಯಂ ಜ್ಞಾನ ಮತ್ತು ಸತ್ಯದ ಗುರಿಯ ಗ್ರಹಿಕೆಯಲ್ಲಿ ನಿರಂತರತೆ; ಇದೆಲ್ಲವೂ ನಿಜವಾದ ಜ್ಞಾನವೆಂದು ಘೋಷಿಸಲಾಗಿದೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अनन्ययोगेन",
-            "transliteration": "ananyayogena",
-            "meaning": "by the Yoga of"
+            "transliteration": {
+                "hi": "अनन्ययोगेन",
+                "en": "ananyayogena",
+                "be": "অনন্যযোগেন",
+                "ka": "ಅನನ್ಯಯೋಗೇನ"
+            },
+            "meaning": {
+                "hi": "के योग से",
+                "en": "by the Yoga of",
+                "be": "যোগ দ্বারা",
+                "ka": "ಯೋಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "भक्तिः",
-            "transliteration": "bhaktiḥ",
-            "meaning": "devotion"
+            "transliteration": {
+                "hi": "भक्तिः",
+                "en": "bhaktiḥ",
+                "be": "ভক্তিঃ",
+                "ka": "ಭಕ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "भक्ति",
+                "en": "devotion",
+                "be": "ভক্তি",
+                "ka": "ಭಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "अव्यभिचारिणी",
-            "transliteration": "avyabhicāriṇī",
-            "meaning": "unswerving"
+            "transliteration": {
+                "hi": "अव्यभिचारिणी",
+                "en": "avyabhicāriṇī",
+                "be": "অব্যভিচারিণী",
+                "ka": "ಅವ್ಯಭಿಚಾರಿಣೀ"
+            },
+            "meaning": {
+                "hi": "अटल",
+                "en": "unswerving",
+                "be": "অস্থির",
+                "ka": "ಅಚಲ"
+            }
         },
         {
             "sanskrit": "विविक्तदेशसेवित्वम्",
-            "transliteration": "viviktadeśasevitvam",
-            "meaning": "resort to solitary places"
+            "transliteration": {
+                "hi": "विविक्तदेशसेवित्वम्",
+                "en": "viviktadeśasevitvam",
+                "be": "বিবিক্তদেশসেবিত্বম্",
+                "ka": "ವಿವಿಕ್ತದೇಶಸೇವಿತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "एकान्त स्थानों का सहारा लेना",
+                "en": "resort to solitary places",
+                "be": "নির্জন স্থানে অবলম্বন",
+                "ka": "ಏಕಾಂತ ಸ್ಥಳಗಳಿಗೆ ಆಶ್ರಯಿಸಿ"
+            }
         },
         {
             "sanskrit": "अरतिः",
-            "transliteration": "aratiḥ",
-            "meaning": "distaste"
+            "transliteration": {
+                "hi": "अरतिः",
+                "en": "aratiḥ",
+                "be": "অরতিঃ",
+                "ka": "ಅರತಿಃ"
+            },
+            "meaning": {
+                "hi": "अरुचि",
+                "en": "distaste",
+                "be": "অরুচি",
+                "ka": "ಅಸಹ್ಯ"
+            }
         },
         {
             "sanskrit": "जनसंसदि",
-            "transliteration": "janasaṃsadi",
-            "meaning": "in the society of"
+            "transliteration": {
+                "hi": "जनसंसदि",
+                "en": "janasaṃsadi",
+                "be": "জনসংসদি",
+                "ka": "ಜನಸಂಸದಿ"
+            },
+            "meaning": {
+                "hi": "के समाज में",
+                "en": "in the society of",
+                "be": "সমাজে",
+                "ka": "ಸಮಾಜದಲ್ಲಿ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "asaktiranabhiṣvaṅgaḥ putradāragṛhādiṣu .\nnityaṃ ca samacittatvamiṣṭāniṣṭopapattiṣu ||13-10||",
         "ka": "ಅಸಕ್ತಿರನಭಿಷ್ವಙ್ಗಃ ಪುತ್ರದಾರಗೃಹಾದಿಷು |\nನಿತ್ಯಂ ಚ ಸಮಚಿತ್ತತ್ವಮಿಷ್ಟಾನಿಷ್ಟೋಪಪತ್ತಿಷು ||೧೩-೧೦||"
     },
-    "transliteration": "asaktiranabhiṣvaṅgaḥ putradāragṛhādiṣu .\nnityaṃ ca samacittatvamiṣṭāniṣṭopapattiṣu ||13-10||",
-    "life_application": "Offer unswerving devotion to God, resort to quiet places, and avoid unhealthy crowds and meaningless chatter.",
+    "transliteration": {
+        "hi": "असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु |\nनित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ||१३-१०||",
+        "en": "asaktiranabhiṣvaṅgaḥ putradāragṛhādiṣu .\nnityaṃ ca samacittatvamiṣṭāniṣṭopapattiṣu ||13-10||",
+        "be": "অসক্তিরনভিষ্বঙ্গঃ পুত্রদারগৃহাদিষু |\nনিত্যং চ সমচিত্তত্বমিষ্টানিষ্টোপপত্তিষু ||১৩-১০||",
+        "ka": "ಅಸಕ್ತಿರನಭಿಷ್ವಙ್ಗಃ ಪುತ್ರದಾರಗೃಹಾದಿಷು |\nನಿತ್ಯಂ ಚ ಸಮಚಿತ್ತತ್ವಮಿಷ್ಟಾನಿಷ್ಟೋಪಪತ್ತಿಷು ||೧೩-೧೦||"
+    },
+    "life_application": {
+        "hi": "ईश्वर के प्रति अटूट भक्ति अर्पित करें, शांत स्थानों का सहारा लें और अस्वास्थ्यकर भीड़ और निरर्थक बकबक से बचें।",
+        "en": "Offer unswerving devotion to God, resort to quiet places, and avoid unhealthy crowds and meaningless chatter.",
+        "be": "ঈশ্বরের প্রতি অটল ভক্তি অফার করুন, শান্ত জায়গায় অবলম্বন করুন এবং অস্বাস্থ্যকর ভিড় এবং অর্থহীন আড্ডা এড়িয়ে চলুন।",
+        "ka": "ದೇವರಿಗೆ ಅಚಲವಾದ ಭಕ್ತಿಯನ್ನು ಅರ್ಪಿಸಿ, ಶಾಂತ ಸ್ಥಳಗಳನ್ನು ಆಶ್ರಯಿಸಿ ಮತ್ತು ಅನಾರೋಗ್ಯಕರ ಜನಸಂದಣಿ ಮತ್ತು ಅರ್ಥಹೀನ ಹರಟೆಯನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "असक्तिः",
-            "transliteration": "asaktiḥ",
-            "meaning": "nonattachment"
+            "transliteration": {
+                "hi": "असक्तिः",
+                "en": "asaktiḥ",
+                "be": "অসক্তিঃ",
+                "ka": "ಅಸಕ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "अनासक्ति",
+                "en": "nonattachment",
+                "be": "অসংলগ্নতা",
+                "ka": "ಬಾಂಧವ್ಯವಿಲ್ಲದಿರುವುದು"
+            }
         },
         {
             "sanskrit": "अनभिष्वङ्गः",
-            "transliteration": "anabhiṣvaṅgaḥ",
-            "meaning": "nonidentification of the Self"
+            "transliteration": {
+                "hi": "अनभिष्वङ्गः",
+                "en": "anabhiṣvaṅgaḥ",
+                "be": "অনভিষ্বঙ্গঃ",
+                "ka": "ಅನಭಿಷ್ವಙ್ಗಃ"
+            },
+            "meaning": {
+                "hi": "स्वयं की पहचान न होना",
+                "en": "nonidentification of the Self",
+                "be": "স্ব-পরিচয়",
+                "ka": "ಸ್ವಯಂ ಗುರುತಿಸದಿರುವುದು"
+            }
         },
         {
             "sanskrit": "पुत्रदारगृहादिषु",
-            "transliteration": "putradāragṛhādiṣu",
-            "meaning": "in son"
+            "transliteration": {
+                "hi": "पुत्रदारगृहादिषु",
+                "en": "putradāragṛhādiṣu",
+                "be": "পুত্রদারগৃহাদিষু",
+                "ka": "ಪುತ್ರದಾರಗೃಹಾದಿಷು"
+            },
+            "meaning": {
+                "hi": "बेटे में",
+                "en": "in son",
+                "be": "ছেলের মধ্যে",
+                "ka": "ಮಗನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "नित्यम्",
-            "transliteration": "nityam",
-            "meaning": "constant"
+            "transliteration": {
+                "hi": "नित्यम्",
+                "en": "nityam",
+                "be": "নিত্যম্",
+                "ka": "ನಿತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "स्थिर",
+                "en": "constant",
+                "be": "ধ্রুবক",
+                "ka": "ಸ್ಥಿರ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "समचित्तत्वम्",
-            "transliteration": "samacittatvam",
-            "meaning": "evenmindedness"
+            "transliteration": {
+                "hi": "समचित्तत्वम्",
+                "en": "samacittatvam",
+                "be": "সমচিত্তত্বম্",
+                "ka": "ಸಮಚಿತ್ತತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "समभाव",
+                "en": "evenmindedness",
+                "be": "সমমনা",
+                "ka": "ಸಮಚಿತ್ತತೆ"
+            }
         },
         {
             "sanskrit": "इष्टानिष्टोपपत्तिषु",
-            "transliteration": "iṣṭāniṣṭopapattiṣu",
-            "meaning": "on the attainment of"
+            "transliteration": {
+                "hi": "इष्टानिष्टोपपत्तिषु",
+                "en": "iṣṭāniṣṭopapattiṣu",
+                "be": "ইষ্টানিষ্টোপপত্তিষু",
+                "ka": "ಇಷ್ಟಾನಿಷ್ಟೋಪಪತ್ತಿಷು"
+            },
+            "meaning": {
+                "hi": "की प्राप्ति पर",
+                "en": "on the attainment of",
+                "be": "এর অর্জনের উপর",
+                "ka": "ಸಾಧನೆಯ ಮೇಲೆ"
+            }
         }
     ],
     "tej": {

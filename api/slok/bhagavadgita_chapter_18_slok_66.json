@@ -14,8 +14,18 @@
         "en": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja .\nahaṃ tvāṃ sarvapāpebhyo mokṣyayiṣyāmi mā śucaḥ ||18-66||",
         "ka": "ಸರ್ವಧರ್ಮಾನ್ಪರಿತ್ಯಜ್ಯ ಮಾಮೇಕಂ ಶರಣಂ ವ್ರಜ |\nಅಹಂ ತ್ವಾ ಸರ್ವಪಾಪೇಭ್ಯೋ ಮೋಕ್ಷಯಿಷ್ಯಾಮಿ ಮಾ ಶುಚಃ ||೧೮-೬೬||"
     },
-    "transliteration": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja .\nahaṃ tvāṃ sarvapāpebhyo mokṣyayiṣyāmi mā śucaḥ ||18-66||",
-    "life_application": "Abandon all varieties of dharmas and take refuge in Me alone; I will liberate you from all sins, do not grieve.",
+    "transliteration": {
+        "hi": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज |\nअहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||१८-६६||",
+        "en": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja .\nahaṃ tvāṃ sarvapāpebhyo mokṣyayiṣyāmi mā śucaḥ ||18-66||",
+        "be": "সর্বধর্মান্পরিত্যজ্য মামেকং শরণং ব্রজ |\nঅহং ত্বা সর্বপাপেভ্যো মোক্ষযিষ্যামি মা শুচঃ ||১৮-৬৬||",
+        "ka": "ಸರ್ವಧರ್ಮಾನ್ಪರಿತ್ಯಜ್ಯ ಮಾಮೇಕಂ ಶರಣಂ ವ್ರಜ |\nಅಹಂ ತ್ವಾ ಸರ್ವಪಾಪೇಭ್ಯೋ ಮೋಕ್ಷಯಿಷ್ಯಾಮಿ ಮಾ ಶುಚಃ ||೧೮-೬೬||"
+    },
+    "life_application": {
+        "hi": "सभी प्रकार के धर्मों को त्याग दो और केवल मेरी शरण लो; मैं तुम्हें सभी पापों से मुक्त कर दूंगा, तुम शोक मत करो।",
+        "en": "Abandon all varieties of dharmas and take refuge in Me alone; I will liberate you from all sins, do not grieve.",
+        "be": "সকল প্রকার ধর্ম পরিত্যাগ করে একমাত্র আমারই আশ্রয় গ্রহণ কর; আমি তোমাকে সমস্ত পাপ থেকে মুক্তি দেব, দুঃখ করো না।",
+        "ka": "ಎಲ್ಲಾ ವಿಧದ ಧರ್ಮಗಳನ್ನು ತ್ಯಜಿಸಿ ಮತ್ತು ನನ್ನನ್ನು ಮಾತ್ರ ಆಶ್ರಯಿಸಿ; ನಾನು ನಿನ್ನನ್ನು ಎಲ್ಲಾ ಪಾಪಗಳಿಂದ ಬಿಡುಗಡೆ ಮಾಡುತ್ತೇನೆ, ದುಃಖಿಸಬೇಡ."
+    },
     "themes": [
         "Devotion",
         "Detachment",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वधर्मान्",
-            "transliteration": "sarvadharmān",
-            "meaning": "all duties"
+            "transliteration": {
+                "hi": "सर्वधर्मान्",
+                "en": "sarvadharmān",
+                "be": "সর্বধর্মান্",
+                "ka": "ಸರ್ವಧರ್ಮಾನ್"
+            },
+            "meaning": {
+                "hi": "सभी कर्तव्य",
+                "en": "all duties",
+                "be": "সমস্ত কর্তব্য",
+                "ka": "ಎಲ್ಲಾ ಕರ್ತವ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "परित्यज्य",
-            "transliteration": "parityajya",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "परित्यज्य",
+                "en": "parityajya",
+                "be": "পরিত্যজ্য",
+                "ka": "ಪರಿತ್ಯಜ್ಯ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "एकम्",
-            "transliteration": "ekam",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "एकम्",
+                "en": "ekam",
+                "be": "একম্",
+                "ka": "ಏಕಮ್"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "शरणम्",
-            "transliteration": "śaraṇam",
-            "meaning": "refuge"
+            "transliteration": {
+                "hi": "शरणम्",
+                "en": "śaraṇam",
+                "be": "শরণম্",
+                "ka": "ಶರಣಮ್"
+            },
+            "meaning": {
+                "hi": "शरण",
+                "en": "refuge",
+                "be": "আশ্রয়",
+                "ka": "ಆಶ್ರಯ"
+            }
         },
         {
             "sanskrit": "व्रज",
-            "transliteration": "vraja",
-            "meaning": "take"
+            "transliteration": {
+                "hi": "व्रज",
+                "en": "vraja",
+                "be": "ব্রজ",
+                "ka": "ವ್ರಜ"
+            },
+            "meaning": {
+                "hi": "ले लो",
+                "en": "take",
+                "be": "নিতে",
+                "ka": "ತೆಗೆದುಕೊಳ್ಳಿ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "त्वा",
-            "transliteration": "tvā",
-            "meaning": "thee"
+            "transliteration": {
+                "hi": "त्वा",
+                "en": "tvā",
+                "be": "ত্বা",
+                "ka": "ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "thee",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "सर्वपापेभ्यः",
-            "transliteration": "sarvapāpebhyaḥ",
-            "meaning": "from all sins"
+            "transliteration": {
+                "hi": "सर्वपापेभ्यः",
+                "en": "sarvapāpebhyaḥ",
+                "be": "সর্বপাপেভ্যঃ",
+                "ka": "ಸರ್ವಪಾಪೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "सभी पापों से",
+                "en": "from all sins",
+                "be": "সমস্ত পাপ থেকে",
+                "ka": "ಎಲ್ಲಾ ಪಾಪಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "मोक्षयिष्यामि",
-            "transliteration": "mokṣayiṣyāmi",
-            "meaning": "will liberate"
+            "transliteration": {
+                "hi": "मोक्षयिष्यामि",
+                "en": "mokṣayiṣyāmi",
+                "be": "মোক্ষযিষ্যামি",
+                "ka": "ಮೋಕ್ಷಯಿಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "मुक्त कर देंगे",
+                "en": "will liberate",
+                "be": "মুক্ত করবে",
+                "ka": "ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "dont"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "dont",
+                "be": "না",
+                "ka": "ಬೇಡ"
+            }
         },
         {
             "sanskrit": "शुचः",
-            "transliteration": "śucaḥ",
-            "meaning": "grieve."
+            "transliteration": {
+                "hi": "शुचः",
+                "en": "śucaḥ",
+                "be": "শুচঃ",
+                "ka": "ಶುಚಃ"
+            },
+            "meaning": {
+                "hi": "शोक मनाओ",
+                "en": "grieve.",
+                "be": "দুঃখ করা",
+                "ka": "ದುಃಖಿಸುತ್ತಾರೆ."
+            }
         }
     ],
     "tej": {

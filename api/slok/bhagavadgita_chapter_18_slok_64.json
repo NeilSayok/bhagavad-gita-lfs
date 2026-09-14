@@ -14,8 +14,18 @@
         "en": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ .\niṣṭo.asi me dṛḍhamiti tato vakṣyāmi te hitam ||18-64||",
         "ka": "ಸರ್ವಗುಹ್ಯತಮಂ ಭೂಯಃ ಶೃಣು ಮೇ ಪರಮಂ ವಚಃ |\nಇಷ್ಟೋಽಸಿ ಮೇ ದೃಢಮಿತಿ ತತೋ ವಕ್ಷ್ಯಾಮಿ ತೇ ಹಿತಮ್ ||೧೮-೬೪||"
     },
-    "transliteration": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ .\niṣṭo.asi me dṛḍhamiti tato vakṣyāmi te hitam ||18-64||",
-    "life_application": "Hear again My supreme word, most secret of all; because you are dearly beloved of Me, I will speak for your good.",
+    "transliteration": {
+        "hi": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः |\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ||१८-६४||",
+        "en": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ .\niṣṭo.asi me dṛḍhamiti tato vakṣyāmi te hitam ||18-64||",
+        "be": "সর্বগুহ্যতমং ভূযঃ শৃণু মে পরমং বচঃ |\nইষ্টোঽসি মে দৃঢমিতি ততো বক্ষ্যামি তে হিতম্ ||১৮-৬৪||",
+        "ka": "ಸರ್ವಗುಹ್ಯತಮಂ ಭೂಯಃ ಶೃಣು ಮೇ ಪರಮಂ ವಚಃ |\nಇಷ್ಟೋಽಸಿ ಮೇ ದೃಢಮಿತಿ ತತೋ ವಕ್ಷ್ಯಾಮಿ ತೇ ಹಿತಮ್ ||೧೮-೬೪||"
+    },
+    "life_application": {
+        "hi": "मेरा परम गोपनीय, परम गोपनीय वचन फिर से सुनो; क्योंकि तुम मुझे बहुत प्रिय हो, मैं तुम्हारे हित के लिये बोलूंगा।",
+        "en": "Hear again My supreme word, most secret of all; because you are dearly beloved of Me, I will speak for your good.",
+        "be": "আবার শুনুন আমার সর্বোচ্চ বাণী, সবচেয়ে গোপন; কারণ তুমি আমার প্রিয়তম, আমি তোমার ভালোর জন্যই কথা বলব৷",
+        "ka": "ನನ್ನ ಸರ್ವೋಚ್ಚ ಪದವನ್ನು ಮತ್ತೊಮ್ಮೆ ಕೇಳು, ಎಲ್ಲಕ್ಕಿಂತ ಹೆಚ್ಚು ರಹಸ್ಯ; ನೀನು ನನಗೆ ಅತ್ಯಂತ ಪ್ರಿಯನಾದ ಕಾರಣ ನಿನ್ನ ಒಳಿತಿಗಾಗಿ ನಾನು ಮಾತನಾಡುತ್ತೇನೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वगुह्यतमम्",
-            "transliteration": "sarvaguhyatamam",
-            "meaning": "the most secret of"
+            "transliteration": {
+                "hi": "सर्वगुह्यतमम्",
+                "en": "sarvaguhyatamam",
+                "be": "সর্বগুহ্যতমম্",
+                "ka": "ಸರ್ವಗುಹ್ಯತಮಮ್"
+            },
+            "meaning": {
+                "hi": "का सबसे रहस्य",
+                "en": "the most secret of",
+                "be": "সবচেয়ে গোপন",
+                "ka": "ಅತ್ಯಂತ ರಹಸ್ಯ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear"
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो",
+                "en": "hear",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "परमम्",
-            "transliteration": "paramam",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परमम्",
+                "en": "paramam",
+                "be": "পরমম্",
+                "ka": "ಪರಮಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "वचः",
-            "transliteration": "vacaḥ",
-            "meaning": "word"
+            "transliteration": {
+                "hi": "वचः",
+                "en": "vacaḥ",
+                "be": "বচঃ",
+                "ka": "ವಚಃ"
+            },
+            "meaning": {
+                "hi": "शब्द",
+                "en": "word",
+                "be": "শব্দ",
+                "ka": "ಪದ"
+            }
         },
         {
             "sanskrit": "इष्टः",
-            "transliteration": "iṣṭaḥ",
-            "meaning": "beloved"
+            "transliteration": {
+                "hi": "इष्टः",
+                "en": "iṣṭaḥ",
+                "be": "ইষ্টঃ",
+                "ka": "ಇಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय",
+                "en": "beloved",
+                "be": "প্রিয়",
+                "ka": "ಪ್ರೀತಿಯ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "दृढम्",
-            "transliteration": "dṛḍham",
-            "meaning": "dearly"
+            "transliteration": {
+                "hi": "दृढम्",
+                "en": "dṛḍham",
+                "be": "দৃঢম্",
+                "ka": "ದೃಢಮ್"
+            },
+            "meaning": {
+                "hi": "प्रिये",
+                "en": "dearly",
+                "be": "প্রিয়তমা",
+                "ka": "ಪ್ರೀತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "वक्ष्यामि",
-            "transliteration": "vakṣyāmi",
-            "meaning": "will speak"
+            "transliteration": {
+                "hi": "वक्ष्यामि",
+                "en": "vakṣyāmi",
+                "be": "বক্ষ্যামি",
+                "ka": "ವಕ್ಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "बोलेंगे",
+                "en": "will speak",
+                "be": "কথা বলবে",
+                "ka": "ಮಾತನಾಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "हितम्",
-            "transliteration": "hitam",
-            "meaning": "what is good."
+            "transliteration": {
+                "hi": "हितम्",
+                "en": "hitam",
+                "be": "হিতম্",
+                "ka": "ಹಿತಮ್"
+            },
+            "meaning": {
+                "hi": "क्या अच्छा है।",
+                "en": "what is good.",
+                "be": "কি ভাল.",
+                "ka": "ಯಾವುದು ಒಳ್ಳೆಯದು."
+            }
         }
     ],
     "tej": {

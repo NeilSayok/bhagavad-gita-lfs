@@ -14,8 +14,18 @@
         "en": "ya idaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati .\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ ||18-68||",
         "ka": "ಯ ಇದಂ ಪರಮಂ ಗುಹ್ಯಂ ಮದ್ಭಕ್ತೇಷ್ವಭಿಧಾಸ್ಯತಿ |\nಭಕ್ತಿಂ ಮಯಿ ಪರಾಂ ಕೃತ್ವಾ ಮಾಮೇವೈಷ್ಯತ್ಯಸಂಶಯಃ ||೧೮-೬೮||"
     },
-    "transliteration": "ya idaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati .\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ ||18-68||",
-    "life_application": "He who teaches this supreme secret to My devotees, offering supreme devotion to Me, shall doubtlessly come to Me.",
+    "transliteration": {
+        "hi": "य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति |\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||१८-६८||",
+        "en": "ya idaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati .\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ ||18-68||",
+        "be": "য ইদং পরমং গুহ্যং মদ্ভক্তেষ্বভিধাস্যতি |\nভক্তিং মযি পরাং কৃত্বা মামেবৈষ্যত্যসংশযঃ ||১৮-৬৮||",
+        "ka": "ಯ ಇದಂ ಪರಮಂ ಗುಹ್ಯಂ ಮದ್ಭಕ್ತೇಷ್ವಭಿಧಾಸ್ಯತಿ |\nಭಕ್ತಿಂ ಮಯಿ ಪರಾಂ ಕೃತ್ವಾ ಮಾಮೇವೈಷ್ಯತ್ಯಸಂಶಯಃ ||೧೮-೬೮||"
+    },
+    "life_application": {
+        "hi": "जो मेरे भक्तों को परम भक्ति प्रदान करके यह परम रहस्य सिखाता है, वह निःसंदेह मेरे पास आएगा।",
+        "en": "He who teaches this supreme secret to My devotees, offering supreme devotion to Me, shall doubtlessly come to Me.",
+        "be": "যিনি আমার ভক্তদের এই পরম রহস্যের শিক্ষা দেবেন, আমাকে পরম ভক্তি নিবেদন করবেন, তিনি নিঃসন্দেহে আমার কাছে আসবেন।",
+        "ka": "ಈ ಪರಮ ರಹಸ್ಯವನ್ನು ನನ್ನ ಭಕ್ತರಿಗೆ ಬೋಧಿಸುವವನು, ನನಗೆ ಪರಮ ಭಕ್ತಿಯನ್ನು ಅರ್ಪಿಸುವವನು ನಿಸ್ಸಂದೇಹವಾಗಿ ನನ್ನ ಬಳಿಗೆ ಬರುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Duty",
@@ -24,73 +34,213 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "परमम्",
-            "transliteration": "paramam",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परमम्",
+                "en": "paramam",
+                "be": "পরমম্",
+                "ka": "ಪರಮಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "गुह्यम्",
-            "transliteration": "guhyam",
-            "meaning": "secret"
+            "transliteration": {
+                "hi": "गुह्यम्",
+                "en": "guhyam",
+                "be": "গুহ্যম্",
+                "ka": "ಗುಹ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "रहस्य",
+                "en": "secret",
+                "be": "গোপন",
+                "ka": "ರಹಸ್ಯ"
+            }
         },
         {
             "sanskrit": "मद्भक्तेषु",
-            "transliteration": "madbhakteṣu",
-            "meaning": "in My devotees"
+            "transliteration": {
+                "hi": "मद्भक्तेषु",
+                "en": "madbhakteṣu",
+                "be": "মদ্ভক্তেষু",
+                "ka": "ಮದ್ಭಕ್ತೇಷು"
+            },
+            "meaning": {
+                "hi": "मेरे भक्तों में",
+                "en": "in My devotees",
+                "be": "আমার ভক্তদের মধ্যে",
+                "ka": "ನನ್ನ ಭಕ್ತರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अभिधास्यति",
-            "transliteration": "abhidhāsyati",
-            "meaning": "shall declare"
+            "transliteration": {
+                "hi": "अभिधास्यति",
+                "en": "abhidhāsyati",
+                "be": "অভিধাস্যতি",
+                "ka": "ಅಭಿಧಾಸ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "घोषित करेगा",
+                "en": "shall declare",
+                "be": "ঘোষণা করা হবে",
+                "ka": "ಘೋಷಿಸಬೇಕು"
+            }
         },
         {
             "sanskrit": "भक्तिम्",
-            "transliteration": "bhaktim",
-            "meaning": "devotion"
+            "transliteration": {
+                "hi": "भक्तिम्",
+                "en": "bhaktim",
+                "be": "ভক্তিম্",
+                "ka": "ಭಕ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "भक्ति",
+                "en": "devotion",
+                "be": "ভক্তি",
+                "ka": "ಭಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "कृत्वा",
-            "transliteration": "kṛtvā",
-            "meaning": "having done"
+            "transliteration": {
+                "hi": "कृत्वा",
+                "en": "kṛtvā",
+                "be": "কৃত্বা",
+                "ka": "ಕೃತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "किया जा रहा है",
+                "en": "having done",
+                "be": "করা হয়েছে",
+                "ka": "ಮಾಡಿದೆ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "एष्यति",
-            "transliteration": "eṣyati",
-            "meaning": "shall come"
+            "transliteration": {
+                "hi": "एष्यति",
+                "en": "eṣyati",
+                "be": "এষ্যতি",
+                "ka": "ಏಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "आऊंगा",
+                "en": "shall come",
+                "be": "আসবে",
+                "ka": "ಬರುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "असंशयः",
-            "transliteration": "asaṃśayaḥ",
-            "meaning": "doubtless."
+            "transliteration": {
+                "hi": "असंशयः",
+                "en": "asaṃśayaḥ",
+                "be": "অসংশযঃ",
+                "ka": "ಅಸಂಶಯಃ"
+            },
+            "meaning": {
+                "hi": "निसंदेह.",
+                "en": "doubtless.",
+                "be": "সন্দেহাতীত",
+                "ka": "ನಿಸ್ಸಂದೇಹವಾಗಿ."
+            }
         }
     ],
     "tej": {

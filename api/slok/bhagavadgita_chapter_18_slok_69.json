@@ -14,8 +14,18 @@
         "en": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ .\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi ||18-69||",
         "ka": "ನ ಚ ತಸ್ಮಾನ್ಮನುಷ್ಯೇಷು ಕಶ್ಚಿನ್ಮೇ ಪ್ರಿಯಕೃತ್ತಮಃ |\nಭವಿತಾ ನ ಚ ಮೇ ತಸ್ಮಾದನ್ಯಃ ಪ್ರಿಯತರೋ ಭುವಿ ||೧೮-೬೯||"
     },
-    "transliteration": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ .\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi ||18-69||",
-    "life_application": "Share timeless spiritual wisdom generously with others, performing the most cherished service to the Divine.",
+    "transliteration": {
+        "hi": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः |\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||",
+        "en": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ .\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi ||18-69||",
+        "be": "ন চ তস্মান্মনুষ্যেষু কশ্চিন্মে প্রিযকৃত্তমঃ |\nভবিতা ন চ মে তস্মাদন্যঃ প্রিযতরো ভুবি ||১৮-৬৯||",
+        "ka": "ನ ಚ ತಸ್ಮಾನ್ಮನುಷ್ಯೇಷು ಕಶ್ಚಿನ್ಮೇ ಪ್ರಿಯಕೃತ್ತಮಃ |\nಭವಿತಾ ನ ಚ ಮೇ ತಸ್ಮಾದನ್ಯಃ ಪ್ರಿಯತರೋ ಭುವಿ ||೧೮-೬೯||"
+    },
+    "life_application": {
+        "hi": "ईश्वर की सबसे प्रिय सेवा करते हुए दूसरों के साथ उदारतापूर्वक शाश्वत आध्यात्मिक ज्ञान साझा करें।",
+        "en": "Share timeless spiritual wisdom generously with others, performing the most cherished service to the Divine.",
+        "be": "নিরন্তর আধ্যাত্মিক জ্ঞান অন্যদের সাথে উদারভাবে ভাগ করুন, ঈশ্বরের কাছে সবচেয়ে লালিত সেবা সম্পাদন করুন।",
+        "ka": "ಕಾಲಾತೀತ ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಇತರರೊಂದಿಗೆ ಉದಾರವಾಗಿ ಹಂಚಿಕೊಳ್ಳಿ, ದೈವಿಕತೆಗೆ ಅತ್ಯಂತ ಪಾಲಿಸಬೇಕಾದ ಸೇವೆಯನ್ನು ಮಾಡಿ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "than he"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "उससे भी ज्यादा",
+                "en": "than he",
+                "be": "তার চেয়ে",
+                "ka": "ಅವನಿಗಿಂತ"
+            }
         },
         {
             "sanskrit": "मनुष्येषु",
-            "transliteration": "manuṣyeṣu",
-            "meaning": "among men"
+            "transliteration": {
+                "hi": "मनुष्येषु",
+                "en": "manuṣyeṣu",
+                "be": "মনুষ্যেষু",
+                "ka": "ಮನುಷ್ಯೇಷು"
+            },
+            "meaning": {
+                "hi": "पुरुषों के बीच",
+                "en": "among men",
+                "be": "পুরুষদের মধ্যে",
+                "ka": "ಪುರುಷರ ನಡುವೆ"
+            }
         },
         {
             "sanskrit": "कश्चित्",
-            "transliteration": "kaścit",
-            "meaning": "any"
+            "transliteration": {
+                "hi": "कश्चित्",
+                "en": "kaścit",
+                "be": "কশ্চিত্",
+                "ka": "ಕಶ್ಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कोई भी",
+                "en": "any",
+                "be": "যেকোনো",
+                "ka": "ಯಾವುದೇ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "प्रियकृत्तमः",
-            "transliteration": "priyakṛttamaḥ",
-            "meaning": "one who does dearer"
+            "transliteration": {
+                "hi": "प्रियकृत्तमः",
+                "en": "priyakṛttamaḥ",
+                "be": "প্রিযকৃত্তমঃ",
+                "ka": "ಪ್ರಿಯಕೃತ್ತಮಃ"
+            },
+            "meaning": {
+                "hi": "वह जो अधिक प्रिय हो",
+                "en": "one who does dearer",
+                "be": "একজন যে প্রিয়তর করে",
+                "ka": "ಆತ್ಮೀಯವಾಗಿ ಮಾಡುವವನು"
+            }
         },
         {
             "sanskrit": "भविता",
-            "transliteration": "bhavitā",
-            "meaning": "shall be"
+            "transliteration": {
+                "hi": "भविता",
+                "en": "bhavitā",
+                "be": "ভবিতা",
+                "ka": "ಭವಿತಾ"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "shall be",
+                "be": "হবে",
+                "ka": "ಇರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "than he"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "उससे भी ज्यादा",
+                "en": "than he",
+                "be": "তার চেয়ে",
+                "ka": "ಅವನಿಗಿಂತ"
+            }
         },
         {
             "sanskrit": "अन्यः",
-            "transliteration": "anyaḥ",
-            "meaning": "another"
+            "transliteration": {
+                "hi": "अन्यः",
+                "en": "anyaḥ",
+                "be": "অন্যঃ",
+                "ka": "ಅನ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "दूसरा",
+                "en": "another",
+                "be": "অন্য",
+                "ka": "ಇನ್ನೊಂದು"
+            }
         },
         {
             "sanskrit": "प्रियतरः",
-            "transliteration": "priyataraḥ",
-            "meaning": "dearer"
+            "transliteration": {
+                "hi": "प्रियतरः",
+                "en": "priyataraḥ",
+                "be": "প্রিযতরঃ",
+                "ka": "ಪ್ರಿಯತರಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय",
+                "en": "dearer",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ"
+            }
         },
         {
             "sanskrit": "भुवि",
-            "transliteration": "bhuvi",
-            "meaning": "on the earth."
+            "transliteration": {
+                "hi": "भुवि",
+                "en": "bhuvi",
+                "be": "ভুবি",
+                "ka": "ಭುವಿ"
+            },
+            "meaning": {
+                "hi": "पृथ्वी पर।",
+                "en": "on the earth.",
+                "be": "পৃথিবীতে",
+                "ka": "ಭೂಮಿಯ ಮೇಲೆ."
+            }
         }
     ],
     "tej": {

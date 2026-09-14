@@ -14,8 +14,18 @@
         "en": "iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā .\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru ||18-63||",
         "ka": "ಇತಿ ತೇ ಜ್ಞಾನಮಾಖ್ಯಾತಂ ಗುಹ್ಯಾದ್ಗುಹ್ಯತರಂ ಮಯಾ |\nವಿಮೃಶ್ಯೈತದಶೇಷೇಣ ಯಥೇಚ್ಛಸಿ ತಥಾ ಕುರು ||೧೮-೬೩||"
     },
-    "transliteration": "iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā .\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru ||18-63||",
-    "life_application": "Thus has wisdom more secret than secret been declared to you by Me; reflect on it fully and act as you choose.",
+    "transliteration": {
+        "hi": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया |\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||१८-६३||",
+        "en": "iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā .\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru ||18-63||",
+        "be": "ইতি তে জ্ঞানমাখ্যাতং গুহ্যাদ্গুহ্যতরং মযা |\nবিমৃশ্যৈতদশেষেণ যথেচ্ছসি তথা কুরু ||১৮-৬৩||",
+        "ka": "ಇತಿ ತೇ ಜ್ಞಾನಮಾಖ್ಯಾತಂ ಗುಹ್ಯಾದ್ಗುಹ್ಯತರಂ ಮಯಾ |\nವಿಮೃಶ್ಯೈತದಶೇಷೇಣ ಯಥೇಚ್ಛಸಿ ತಥಾ ಕುರು ||೧೮-೬೩||"
+    },
+    "life_application": {
+        "hi": "इस प्रकार मेरे द्वारा तुम्हें गुप्त से भी अधिक गुप्त ज्ञान बताया गया है; इस पर पूरी तरह से विचार करें और जैसा चाहें वैसा कार्य करें।",
+        "en": "Thus has wisdom more secret than secret been declared to you by Me; reflect on it fully and act as you choose.",
+        "be": "এইভাবে আমার দ্বারা তোমার কাছে গোপনের চেয়ে প্রজ্ঞা আরও গুপ্ত হয়েছে; এটি সম্পূর্ণরূপে প্রতিফলিত করুন এবং আপনার পছন্দ অনুযায়ী কাজ করুন।",
+        "ka": "ಹೀಗೆ ರಹಸ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ರಹಸ್ಯವಾದ ಬುದ್ಧಿವಂತಿಕೆಯು ನನ್ನಿಂದ ನಿಮಗೆ ಘೋಷಿಸಲ್ಪಟ್ಟಿದೆ; ಅದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಪ್ರತಿಬಿಂಬಿಸಿ ಮತ್ತು ನೀವು ಆಯ್ಕೆ ಮಾಡಿದಂತೆ ವರ್ತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Purpose"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हारे लिए",
+                "en": "to thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "ज्ञानम्",
-            "transliteration": "jñānam",
-            "meaning": "wisdom"
+            "transliteration": {
+                "hi": "ज्ञानम्",
+                "en": "jñānam",
+                "be": "জ্ঞানম্",
+                "ka": "ಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "wisdom",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ"
+            }
         },
         {
             "sanskrit": "आख्यातम्",
-            "transliteration": "ākhyātam",
-            "meaning": "has been declared"
+            "transliteration": {
+                "hi": "आख्यातम्",
+                "en": "ākhyātam",
+                "be": "আখ্যাতম্",
+                "ka": "ಆಖ್ಯಾತಮ್"
+            },
+            "meaning": {
+                "hi": "घोषित कर दिया गया है",
+                "en": "has been declared",
+                "be": "ঘোষণা করা হয়েছে",
+                "ka": "ಘೋಷಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "गुह्यात्",
-            "transliteration": "guhyāt",
-            "meaning": "than the secret"
+            "transliteration": {
+                "hi": "गुह्यात्",
+                "en": "guhyāt",
+                "be": "গুহ্যাত্",
+                "ka": "ಗುಹ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "रहस्य की तुलना में",
+                "en": "than the secret",
+                "be": "গোপনের চেয়ে",
+                "ka": "ರಹಸ್ಯಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "गुह्यतरम्",
-            "transliteration": "guhyataram",
-            "meaning": "more secret"
+            "transliteration": {
+                "hi": "गुह्यतरम्",
+                "en": "guhyataram",
+                "be": "গুহ্যতরম্",
+                "ka": "ಗುಹ್ಯತರಮ್"
+            },
+            "meaning": {
+                "hi": "अधिक रहस्य",
+                "en": "more secret",
+                "be": "আরো গোপন",
+                "ka": "ಹೆಚ್ಚು ರಹಸ್ಯ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by Me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by Me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "विमृश्य",
-            "transliteration": "vimṛśya",
-            "meaning": "reflecting over"
+            "transliteration": {
+                "hi": "विमृश्य",
+                "en": "vimṛśya",
+                "be": "বিমৃশ্য",
+                "ka": "ವಿಮೃಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "पर प्रतिबिंबित",
+                "en": "reflecting over",
+                "be": "উপর প্রতিফলিত",
+                "ka": "ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अशेषेण",
-            "transliteration": "aśeṣeṇa",
-            "meaning": "fully"
+            "transliteration": {
+                "hi": "अशेषेण",
+                "en": "aśeṣeṇa",
+                "be": "অশেষেণ",
+                "ka": "ಅಶೇಷೇಣ"
+            },
+            "meaning": {
+                "hi": "पूरी तरह से",
+                "en": "fully",
+                "be": "সম্পূর্ণরূপে",
+                "ka": "ಸಂಪೂರ್ಣವಾಗಿ"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "इच्छसि",
-            "transliteration": "icchasi",
-            "meaning": "wishest"
+            "transliteration": {
+                "hi": "इच्छसि",
+                "en": "icchasi",
+                "be": "ইচ্ছসি",
+                "ka": "ಇಚ್ಛಸಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "wishest",
+                "be": "ইচ্ছা",
+                "ka": "ಹಾರೈಕೆ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "कुरु",
-            "transliteration": "kuru",
-            "meaning": "act."
+            "transliteration": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            },
+            "meaning": {
+                "hi": "कार्यवाही करना।",
+                "en": "act.",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯ."
+            }
         }
     ],
     "tej": {

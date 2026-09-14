@@ -14,8 +14,18 @@
         "en": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ .\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ ||18-70||",
         "ka": "ಅಧ್ಯೇಷ್ಯತೇ ಚ ಯ ಇಮಂ ಧರ್ಮ್ಯಂ ಸಂವಾದಮಾವಯೋಃ |\nಜ್ಞಾನಯಜ್ಞೇನ ತೇನಾಹಮಿಷ್ಟಃ ಸ್ಯಾಮಿತಿ ಮೇ ಮತಿಃ ||೧೮-೭೦||"
     },
-    "transliteration": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ .\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ ||18-70||",
-    "life_application": "Study sacred spiritual teachings regularly today as a form of intellectual worship of the Divine.",
+    "transliteration": {
+        "hi": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः |\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||१८-७०||",
+        "en": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ .\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ ||18-70||",
+        "be": "অধ্যেষ্যতে চ য ইমং ধর্ম্যং সংবাদমাবযোঃ |\nজ্ঞানযজ্ঞেন তেনাহমিষ্টঃ স্যামিতি মে মতিঃ ||১৮-৭০||",
+        "ka": "ಅಧ್ಯೇಷ್ಯತೇ ಚ ಯ ಇಮಂ ಧರ್ಮ್ಯಂ ಸಂವಾದಮಾವಯೋಃ |\nಜ್ಞಾನಯಜ್ಞೇನ ತೇನಾಹಮಿಷ್ಟಃ ಸ್ಯಾಮಿತಿ ಮೇ ಮತಿಃ ||೧೮-೭೦||"
+    },
+    "life_application": {
+        "hi": "ईश्वर की बौद्धिक पूजा के रूप में आज नियमित रूप से पवित्र आध्यात्मिक शिक्षाओं का अध्ययन करें।",
+        "en": "Study sacred spiritual teachings regularly today as a form of intellectual worship of the Divine.",
+        "be": "ঈশ্বরের বুদ্ধিবৃত্তিক উপাসনা হিসাবে আজ নিয়মিত পবিত্র আধ্যাত্মিক শিক্ষাগুলি অধ্যয়ন করুন।",
+        "ka": "ದೈವಿಕ ಬೌದ್ಧಿಕ ಆರಾಧನೆಯ ಒಂದು ರೂಪವಾಗಿ ಇಂದು ಪವಿತ್ರ ಆಧ್ಯಾತ್ಮಿಕ ಬೋಧನೆಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಅಧ್ಯಯನ ಮಾಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "अध्येष्यते",
-            "transliteration": "adhyeṣyate",
-            "meaning": "shall study"
+            "transliteration": {
+                "hi": "अध्येष्यते",
+                "en": "adhyeṣyate",
+                "be": "অধ্যেষ্যতে",
+                "ka": "ಅಧ್ಯೇಷ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "अध्ययन करना होगा",
+                "en": "shall study",
+                "be": "অধ্যয়ন করা হবে",
+                "ka": "ಅಧ್ಯಯನ ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "धर्म्यम्",
-            "transliteration": "dharmyam",
-            "meaning": "sacred"
+            "transliteration": {
+                "hi": "धर्म्यम्",
+                "en": "dharmyam",
+                "be": "ধর্ম্যম্",
+                "ka": "ಧರ್ಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्र",
+                "en": "sacred",
+                "be": "পবিত্র",
+                "ka": "ಪವಿತ್ರ"
+            }
         },
         {
             "sanskrit": "संवादम्",
-            "transliteration": "saṃvādam",
-            "meaning": "dialogue"
+            "transliteration": {
+                "hi": "संवादम्",
+                "en": "saṃvādam",
+                "be": "সংবাদম্",
+                "ka": "ಸಂವಾದಮ್"
+            },
+            "meaning": {
+                "hi": "संवाद",
+                "en": "dialogue",
+                "be": "সংলাপ",
+                "ka": "ಸಂಭಾಷಣೆ"
+            }
         },
         {
             "sanskrit": "आवयोः",
-            "transliteration": "āvayoḥ",
-            "meaning": "of ours"
+            "transliteration": {
+                "hi": "आवयोः",
+                "en": "āvayoḥ",
+                "be": "আবযোঃ",
+                "ka": "ಆವಯೋಃ"
+            },
+            "meaning": {
+                "hi": "हमारा",
+                "en": "of ours",
+                "be": "আমাদের",
+                "ka": "ನಮ್ಮದು"
+            }
         },
         {
             "sanskrit": "ज्ञानयज्ञेन",
-            "transliteration": "jñānayajñena",
-            "meaning": "by the sacrifice of"
+            "transliteration": {
+                "hi": "ज्ञानयज्ञेन",
+                "en": "jñānayajñena",
+                "be": "জ্ঞানযজ্ঞেন",
+                "ka": "ಜ್ಞಾನಯಜ್ಞೇನ"
+            },
+            "meaning": {
+                "hi": "के बलिदान से",
+                "en": "by the sacrifice of",
+                "be": "এর বলিদান দ্বারা",
+                "ka": "ತ್ಯಾಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "तेन",
-            "transliteration": "tena",
-            "meaning": "by him"
+            "transliteration": {
+                "hi": "तेन",
+                "en": "tena",
+                "be": "তেন",
+                "ka": "ತೇನ"
+            },
+            "meaning": {
+                "hi": "उसके द्वारा",
+                "en": "by him",
+                "be": "তার দ্বারা",
+                "ka": "ಅವನಿಂದ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "इष्टः",
-            "transliteration": "iṣṭaḥ",
-            "meaning": "worshipped"
+            "transliteration": {
+                "hi": "इष्टः",
+                "en": "iṣṭaḥ",
+                "be": "ইষ্টঃ",
+                "ka": "ಇಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "पूजा की",
+                "en": "worshipped",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜೆ ಮಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "स्याम्",
-            "transliteration": "syām",
-            "meaning": "shall have been"
+            "transliteration": {
+                "hi": "स्याम्",
+                "en": "syām",
+                "be": "স্যাম্",
+                "ka": "ಸ್ಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "रहा होगा",
+                "en": "shall have been",
+                "be": "হবে",
+                "ka": "ಇದ್ದಿರಬೇಕು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "मतिः",
-            "transliteration": "matiḥ",
-            "meaning": "conviction."
+            "transliteration": {
+                "hi": "मतिः",
+                "en": "matiḥ",
+                "be": "মতিঃ",
+                "ka": "ಮತಿಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ विश्वास।",
+                "en": "conviction.",
+                "be": "প্রত্যয়",
+                "ka": "ಕನ್ವಿಕ್ಷನ್."
+            }
         }
     ],
     "tej": {

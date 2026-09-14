@@ -14,8 +14,18 @@
         "en": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi satyaṃ te pratijāne priyo.asi me ||18-65||",
         "ka": "ಮನ್ಮನಾ ಭವ ಮದ್ಭಕ್ತೋ ಮದ್ಯಾಜೀ ಮಾಂ ನಮಸ್ಕುರು |\nಮಾಮೇವೈಷ್ಯಸಿ ಸತ್ಯಂ ತೇ ಪ್ರತಿಜಾನೇ ಪ್ರಿಯೋಽಸಿ ಮೇ ||೧೮-೬೫||"
     },
-    "transliteration": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi satyaṃ te pratijāne priyo.asi me ||18-65||",
-    "life_application": "Fix your mind on God with complete devotion and worship today to attain ultimate spiritual liberation.",
+    "transliteration": {
+        "hi": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ||१८-६५||",
+        "en": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi satyaṃ te pratijāne priyo.asi me ||18-65||",
+        "be": "মন্মনা ভব মদ্ভক্তো মদ্যাজী মাং নমস্কুরু |\nমামেবৈষ্যসি সত্যং তে প্রতিজানে প্রিযোঽসি মে ||১৮-৬৫||",
+        "ka": "ಮನ್ಮನಾ ಭವ ಮದ್ಭಕ್ತೋ ಮದ್ಯಾಜೀ ಮಾಂ ನಮಸ್ಕುರು |\nಮಾಮೇವೈಷ್ಯಸಿ ಸತ್ಯಂ ತೇ ಪ್ರತಿಜಾನೇ ಪ್ರಿಯೋಽಸಿ ಮೇ ||೧೮-೬೫||"
+    },
+    "life_application": {
+        "hi": "परम आध्यात्मिक मुक्ति प्राप्त करने के लिए आज ही अपने मन को पूरी भक्ति के साथ भगवान पर केंद्रित करें और पूजा करें।",
+        "en": "Fix your mind on God with complete devotion and worship today to attain ultimate spiritual liberation.",
+        "be": "পরম আধ্যাত্মিক মুক্তি লাভের জন্য আজই সম্পূর্ণ ভক্তি ও উপাসনা সহ আপনার মন ঈশ্বরের প্রতি স্থির করুন।",
+        "ka": "ಅಂತಿಮ ಆಧ್ಯಾತ್ಮಿಕ ವಿಮೋಚನೆಯನ್ನು ಪಡೆಯಲು ಇಂದು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸಂಪೂರ್ಣ ಭಕ್ತಿಯಿಂದ ದೇವರ ಮೇಲೆ ಇರಿಸಿ ಮತ್ತು ಆರಾಧಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "मन्मनाः",
-            "transliteration": "manmanāḥ",
-            "meaning": "with mind fixed on"
+            "transliteration": {
+                "hi": "मन्मनाः",
+                "en": "manmanāḥ",
+                "be": "মন্মনাঃ",
+                "ka": "ಮನ್ಮನಾಃ"
+            },
+            "meaning": {
+                "hi": "मन स्थिर करके",
+                "en": "with mind fixed on",
+                "be": "মন স্থির রেখে",
+                "ka": "ಮನಸ್ಸಿನಲ್ಲಿ ಸ್ಥಿರವಾಗಿ"
+            }
         },
         {
             "sanskrit": "भव",
-            "transliteration": "bhava",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "भव",
+                "en": "bhava",
+                "be": "ভব",
+                "ka": "ಭವ"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "मद्भक्तः",
-            "transliteration": "madbhaktaḥ",
-            "meaning": "devoted to Me"
+            "transliteration": {
+                "hi": "मद्भक्तः",
+                "en": "madbhaktaḥ",
+                "be": "মদ্ভক্তঃ",
+                "ka": "ಮದ್ಭಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मेरे प्रति समर्पित",
+                "en": "devoted to Me",
+                "be": "আমার প্রতি নিবেদিত",
+                "ka": "ನನಗೆ ಅರ್ಪಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "मद्याजी",
-            "transliteration": "madyājī",
-            "meaning": "sacrifice to Me"
+            "transliteration": {
+                "hi": "मद्याजी",
+                "en": "madyājī",
+                "be": "মদ্যাজী",
+                "ka": "ಮದ್ಯಾಜೀ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए बलिदान",
+                "en": "sacrifice to Me",
+                "be": "আমার কাছে উৎসর্গ করা",
+                "ka": "ನನಗೆ ತ್ಯಾಗ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "नमस्कुरु",
-            "transliteration": "namaskuru",
-            "meaning": "bow down"
+            "transliteration": {
+                "hi": "नमस्कुरु",
+                "en": "namaskuru",
+                "be": "নমস্কুরু",
+                "ka": "ನಮಸ್ಕುರು"
+            },
+            "meaning": {
+                "hi": "झुक जाओ",
+                "en": "bow down",
+                "be": "নত",
+                "ka": "ನಮಸ್ಕರಿಸುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "to Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "to Me",
+                "be": "আমার কাছে",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "एष्यसि",
-            "transliteration": "eṣyasi",
-            "meaning": "shalt come"
+            "transliteration": {
+                "hi": "एष्यसि",
+                "en": "eṣyasi",
+                "be": "এষ্যসি",
+                "ka": "ಏಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "आना होगा",
+                "en": "shalt come",
+                "be": "আসবে",
+                "ka": "ಬರುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "सत्यम्",
-            "transliteration": "satyam",
-            "meaning": "truth"
+            "transliteration": {
+                "hi": "सत्यम्",
+                "en": "satyam",
+                "be": "সত্যম্",
+                "ka": "ಸತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "सत्य",
+                "en": "truth",
+                "be": "সত্য",
+                "ka": "ಸತ್ಯ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हारे लिए",
+                "en": "to thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "प्रतिजाने",
-            "transliteration": "pratijāne",
-            "meaning": "promise"
+            "transliteration": {
+                "hi": "प्रतिजाने",
+                "en": "pratijāne",
+                "be": "প্রতিজানে",
+                "ka": "ಪ್ರತಿಜಾನೇ"
+            },
+            "meaning": {
+                "hi": "वादा",
+                "en": "promise",
+                "be": "প্রতিশ্রুতি",
+                "ka": "ಭರವಸೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "dear"
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय",
+                "en": "dear",
+                "be": "প্রিয়",
+                "ka": "ಆತ್ಮೀಯ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me."
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा.",
+                "en": "of Me.",
+                "be": "আমার",
+                "ka": "ನನ್ನದು."
+            }
         }
     ],
     "tej": {

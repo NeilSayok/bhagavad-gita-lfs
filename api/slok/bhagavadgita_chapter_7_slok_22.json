@@ -14,8 +14,18 @@
         "en": "sa tayā śraddhayā yuktastasyārādhanamīhate .\nlabhate ca tataḥ kāmānmayaivavihitānhi tān ||7-22||",
         "ka": "ಸ ತಯಾ ಶ್ರದ್ಧಯಾ ಯುಕ್ತಸ್ತಸ್ಯಾರಾಧನಮೀಹತೇ |\nಲಭತೇ ಚ ತತಃ ಕಾಮಾನ್ಮಯೈವ ವಿಹಿತಾನ್ಹಿ ತಾನ್ ||೭-೨೨||"
     },
-    "transliteration": "sa tayā śraddhayā yuktastasyārādhanamīhate .\nlabhate ca tataḥ kāmānmayaivavihitānhi tān ||7-22||",
-    "life_application": "Understand that benefits obtained through lesser desires are ultimately granted by the one supreme divine source.",
+    "transliteration": {
+        "hi": "स तया श्रद्धया युक्तस्तस्याराधनमीहते |\nलभते च ततः कामान्मयैव विहितान्हि तान् ||७-२२||",
+        "en": "sa tayā śraddhayā yuktastasyārādhanamīhate .\nlabhate ca tataḥ kāmānmayaivavihitānhi tān ||7-22||",
+        "be": "স তযা শ্রদ্ধযা যুক্তস্তস্যারাধনমীহতে |\nলভতে চ ততঃ কামান্মযৈব বিহিতান্হি তান্ ||৭-২২||",
+        "ka": "ಸ ತಯಾ ಶ್ರದ್ಧಯಾ ಯುಕ್ತಸ್ತಸ್ಯಾರಾಧನಮೀಹತೇ |\nಲಭತೇ ಚ ತತಃ ಕಾಮಾನ್ಮಯೈವ ವಿಹಿತಾನ್ಹಿ ತಾನ್ ||೭-೨೨||"
+    },
+    "life_application": {
+        "hi": "समझें कि कम इच्छाओं के माध्यम से प्राप्त लाभ अंततः एक सर्वोच्च दिव्य स्रोत द्वारा प्रदान किए जाते हैं।",
+        "en": "Understand that benefits obtained through lesser desires are ultimately granted by the one supreme divine source.",
+        "be": "বুঝুন যে কম আকাঙ্ক্ষার মাধ্যমে প্রাপ্ত সুবিধাগুলি শেষ পর্যন্ত এক সর্বোচ্চ ঐশ্বরিক উত্স দ্বারা মঞ্জুর করা হয়।",
+        "ka": "ಕಡಿಮೆ ಆಸೆಗಳ ಮೂಲಕ ಪಡೆದ ಪ್ರಯೋಜನಗಳನ್ನು ಅಂತಿಮವಾಗಿ ಒಂದು ಪರಮ ದೈವಿಕ ಮೂಲದಿಂದ ನೀಡಲಾಗುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "तया",
-            "transliteration": "tayā",
-            "meaning": "tayā"
+            "transliteration": {
+                "hi": "तया",
+                "en": "tayā",
+                "be": "তযা",
+                "ka": "ತಯಾ"
+            },
+            "meaning": {
+                "hi": "ताया",
+                "en": "tayā",
+                "be": "tayā",
+                "ka": "ತಾಯಾ"
+            }
         },
         {
             "sanskrit": "श्रद्धया",
-            "transliteration": "śraddhayā",
-            "meaning": "śraddhayā"
+            "transliteration": {
+                "hi": "श्रद्धया",
+                "en": "śraddhayā",
+                "be": "শ্রদ্ধযা",
+                "ka": "ಶ್ರದ್ಧಯಾ"
+            },
+            "meaning": {
+                "hi": "श्रद्धा",
+                "en": "śraddhayā",
+                "be": "শ্রদ্ধায়া",
+                "ka": "ಶ್ರದ್ಧಾಯ"
+            }
         },
         {
             "sanskrit": "युक्तस्तस्याराधनमीहते",
-            "transliteration": "yuktastasyārādhanamīhate",
-            "meaning": "yuktastasyārādhanamīhate"
+            "transliteration": {
+                "hi": "युक्तस्तस्याराधनमीहते",
+                "en": "yuktastasyārādhanamīhate",
+                "be": "যুক্তস্তস্যারাধনমীহতে",
+                "ka": "ಯುಕ್ತಸ್ತಸ್ಯಾರಾಧನಮೀಹತೇ"
+            },
+            "meaning": {
+                "hi": "युक्तस्तस्याराधनमिहते",
+                "en": "yuktastasyārādhanamīhate",
+                "be": "যুক্তাস্তস্যারধনমিহতে",
+                "ka": "ಯುಕ್ತಸ್ತಸ್ಯಾರಾಧನಮಿಹತೇ"
+            }
         },
         {
             "sanskrit": "लभते",
-            "transliteration": "labhate",
-            "meaning": "labhate"
+            "transliteration": {
+                "hi": "लभते",
+                "en": "labhate",
+                "be": "লভতে",
+                "ka": "ಲಭತೇ"
+            },
+            "meaning": {
+                "hi": "labhate",
+                "en": "labhate",
+                "be": "ল্যাবতে",
+                "ka": "ಲಭತೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "कामान्मयैव",
-            "transliteration": "kāmānmayaiva",
-            "meaning": "kāmānmayaiva"
+            "transliteration": {
+                "hi": "कामान्मयैव",
+                "en": "kāmānmayaiva",
+                "be": "কামান্মযৈব",
+                "ka": "ಕಾಮಾನ್ಮಯೈವ"
+            },
+            "meaning": {
+                "hi": "कामांमयैव",
+                "en": "kāmānmayaiva",
+                "be": "কামানময়ীব",
+                "ka": "ಕಾಮನ್ಮಯೈವ"
+            }
         },
         {
             "sanskrit": "विहितान्हि",
-            "transliteration": "vihitānhi",
-            "meaning": "vihitānhi"
+            "transliteration": {
+                "hi": "विहितान्हि",
+                "en": "vihitānhi",
+                "be": "বিহিতান্হি",
+                "ka": "ವಿಹಿತಾನ್ಹಿ"
+            },
+            "meaning": {
+                "hi": "विहितानि",
+                "en": "vihitānhi",
+                "be": "vihitānhi",
+                "ka": "ವಿಹಿತಾನ್ಹಿ"
+            }
         },
         {
             "sanskrit": "तान्",
-            "transliteration": "tān",
-            "meaning": "tān"
+            "transliteration": {
+                "hi": "तान्",
+                "en": "tān",
+                "be": "তান্",
+                "ka": "ತಾನ್"
+            },
+            "meaning": {
+                "hi": "तन",
+                "en": "tān",
+                "be": "তান",
+                "ka": "ತಾನ್"
+            }
         }
     ],
     "tej": {

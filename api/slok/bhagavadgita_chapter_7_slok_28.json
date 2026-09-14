@@ -14,8 +14,18 @@
         "en": "yeṣāṃ tvantagataṃ pāpaṃ janānāṃ puṇyakarmaṇām .\nte dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ ||7-28||",
         "ka": "ಯೇಷಾಂ ತ್ವನ್ತಗತಂ ಪಾಪಂ ಜನಾನಾಂ ಪುಣ್ಯಕರ್ಮಣಾಮ್ |\nತೇ ದ್ವನ್ದ್ವಮೋಹನಿರ್ಮುಕ್ತಾ ಭಜನ್ತೇ ಮಾಂ ದೃಢವ್ರತಾಃ ||೭-೨೮||"
     },
-    "transliteration": "yeṣāṃ tvantagataṃ pāpaṃ janānāṃ puṇyakarmaṇām .\nte dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ ||7-28||",
-    "life_application": "Worship God with firm resolve when your pious deeds have cleansed away past sins and freed you from dualities.",
+    "transliteration": {
+        "hi": "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् |\nते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ||७-२८||",
+        "en": "yeṣāṃ tvantagataṃ pāpaṃ janānāṃ puṇyakarmaṇām .\nte dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ ||7-28||",
+        "be": "যেষাং ত্বন্তগতং পাপং জনানাং পুণ্যকর্মণাম্ |\nতে দ্বন্দ্বমোহনির্মুক্তা ভজন্তে মাং দৃঢব্রতাঃ ||৭-২৮||",
+        "ka": "ಯೇಷಾಂ ತ್ವನ್ತಗತಂ ಪಾಪಂ ಜನಾನಾಂ ಪುಣ್ಯಕರ್ಮಣಾಮ್ |\nತೇ ದ್ವನ್ದ್ವಮೋಹನಿರ್ಮುಕ್ತಾ ಭಜನ್ತೇ ಮಾಂ ದೃಢವ್ರತಾಃ ||೭-೨೮||"
+    },
+    "life_application": {
+        "hi": "जब आपके पवित्र कर्मों ने पिछले पापों को धो दिया हो और आपको द्वंद्वों से मुक्त कर दिया हो, तो दृढ़ संकल्प के साथ भगवान की पूजा करें।",
+        "en": "Worship God with firm resolve when your pious deeds have cleansed away past sins and freed you from dualities.",
+        "be": "দৃঢ় সংকল্পের সাথে ঈশ্বরের উপাসনা করুন যখন আপনার ধার্মিক কাজগুলি অতীতের পাপগুলিকে পরিষ্কার করে এবং দ্বৈততা থেকে মুক্তি দেয়।",
+        "ka": "ನಿಮ್ಮ ಪುಣ್ಯಕರ್ಮಗಳು ಹಿಂದಿನ ಪಾಪಗಳನ್ನು ತೊಡೆದುಹಾಕಿದಾಗ ಮತ್ತು ದ್ವಂದ್ವಗಳಿಂದ ನಿಮ್ಮನ್ನು ಮುಕ್ತಗೊಳಿಸಿದಾಗ ದೃಢ ಸಂಕಲ್ಪದಿಂದ ದೇವರನ್ನು ಆರಾಧಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Karma"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "येषां",
-            "transliteration": "yeṣāṃ",
-            "meaning": "yeṣāṃ"
+            "transliteration": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "যেষাং",
+                "ka": "ಯೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "yeṣāṃ",
+                "ka": "ಯೆಶಾಸ್"
+            }
         },
         {
             "sanskrit": "त्वन्तगतं",
-            "transliteration": "tvantagataṃ",
-            "meaning": "tvantagataṃ"
+            "transliteration": {
+                "hi": "त्वन्तगतं",
+                "en": "tvantagataṃ",
+                "be": "ত্বন্তগতং",
+                "ka": "ತ್ವನ್ತಗತಂ"
+            },
+            "meaning": {
+                "hi": "त्वन्तगतम्",
+                "en": "tvantagataṃ",
+                "be": "tvantagataṃ",
+                "ka": "ತ್ವಂತಗತಂ"
+            }
         },
         {
             "sanskrit": "पापं",
-            "transliteration": "pāpaṃ",
-            "meaning": "pāpaṃ"
+            "transliteration": {
+                "hi": "पापं",
+                "en": "pāpaṃ",
+                "be": "পাপং",
+                "ka": "ಪಾಪಂ"
+            },
+            "meaning": {
+                "hi": "पापा",
+                "en": "pāpaṃ",
+                "be": "pāpaṃ",
+                "ka": "ಪಾಪಾಂ"
+            }
         },
         {
             "sanskrit": "जनानां",
-            "transliteration": "janānāṃ",
-            "meaning": "janānāṃ"
+            "transliteration": {
+                "hi": "जनानां",
+                "en": "janānāṃ",
+                "be": "জনানাং",
+                "ka": "ಜನಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "जनानां",
+                "en": "janānāṃ",
+                "be": "জানানাং",
+                "ka": "ಜನನಂ"
+            }
         },
         {
             "sanskrit": "पुण्यकर्मणाम्",
-            "transliteration": "puṇyakarmaṇām",
-            "meaning": "puṇyakarmaṇām"
+            "transliteration": {
+                "hi": "पुण्यकर्मणाम्",
+                "en": "puṇyakarmaṇām",
+                "be": "পুণ্যকর্মণাম্",
+                "ka": "ಪುಣ್ಯಕರ್ಮಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "पुण्यकर्मणाम्",
+                "en": "puṇyakarmaṇām",
+                "be": "পুণ্যকর্ম্মনাম",
+                "ka": "ಪುಣ್ಯಕರ್ಮಣಮ್"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "द्वन्द्वमोहनिर्मुक्ता",
-            "transliteration": "dvandvamohanirmuktā",
-            "meaning": "dvandvamohanirmuktā"
+            "transliteration": {
+                "hi": "द्वन्द्वमोहनिर्मुक्ता",
+                "en": "dvandvamohanirmuktā",
+                "be": "দ্বন্দ্বমোহনির্মুক্তা",
+                "ka": "ದ್ವನ್ದ್ವಮೋಹನಿರ್ಮುಕ್ತಾ"
+            },
+            "meaning": {
+                "hi": "द्वंद्वमोहननिर्मुक्ता",
+                "en": "dvandvamohanirmuktā",
+                "be": "dvandvamohanirmuktā",
+                "ka": "ದ್ವನ್ದ್ವಮೋಹನನಿರ್ಮುಕ್ತಾ"
+            }
         },
         {
             "sanskrit": "भजन्ते",
-            "transliteration": "bhajante",
-            "meaning": "bhajante"
+            "transliteration": {
+                "hi": "भजन्ते",
+                "en": "bhajante",
+                "be": "ভজন্তে",
+                "ka": "ಭಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "भजन्ते",
+                "en": "bhajante",
+                "be": "ভজন্তে",
+                "ka": "ಭಜಂತೆ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "दृढव्रताः",
-            "transliteration": "dṛḍhavratāḥ",
-            "meaning": "dṛḍhavratāḥ"
+            "transliteration": {
+                "hi": "दृढव्रताः",
+                "en": "dṛḍhavratāḥ",
+                "be": "দৃঢব্রতাঃ",
+                "ka": "ದೃಢವ್ರತಾಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़व्रत:",
+                "en": "dṛḍhavratāḥ",
+                "be": "dṛḍhavratāḥ",
+                "ka": "ದೃಢವ್ರತಾಃ"
+            }
         }
     ],
     "tej": {

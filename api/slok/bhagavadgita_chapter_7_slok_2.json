@@ -14,8 +14,18 @@
         "en": "jñānaṃ te.ahaṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ .\nyajjñātvā neha bhūyo.anyajjñātavyamavaśiṣyate ||7-2||",
         "ka": "ಜ್ಞಾನಂ ತೇಽಹಂ ಸವಿಜ್ಞಾನಮಿದಂ ವಕ್ಷ್ಯಾಮ್ಯಶೇಷತಃ |\nಯಜ್ಜ್ಞಾತ್ವಾ ನೇಹ ಭೂಯೋಽನ್ಯಜ್ಜ್ಞಾತವ್ಯಮವಶಿಷ್ಯತೇ ||೭-೨||"
     },
-    "transliteration": "jñānaṃ te.ahaṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ .\nyajjñātvā neha bhūyo.anyajjñātavyamavaśiṣyate ||7-2||",
-    "life_application": "Seek both intellectual knowledge and direct spiritual experience, after which nothing more remains to be known.",
+    "transliteration": {
+        "hi": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः |\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||७-२||",
+        "en": "jñānaṃ te.ahaṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ .\nyajjñātvā neha bhūyo.anyajjñātavyamavaśiṣyate ||7-2||",
+        "be": "জ্ঞানং তেঽহং সবিজ্ঞানমিদং বক্ষ্যাম্যশেষতঃ |\nযজ্জ্ঞাত্বা নেহ ভূযোঽন্যজ্জ্ঞাতব্যমবশিষ্যতে ||৭-২||",
+        "ka": "ಜ್ಞಾನಂ ತೇಽಹಂ ಸವಿಜ್ಞಾನಮಿದಂ ವಕ್ಷ್ಯಾಮ್ಯಶೇಷತಃ |\nಯಜ್ಜ್ಞಾತ್ವಾ ನೇಹ ಭೂಯೋಽನ್ಯಜ್ಜ್ಞಾತವ್ಯಮವಶಿಷ್ಯತೇ ||೭-೨||"
+    },
+    "life_application": {
+        "hi": "बौद्धिक ज्ञान और प्रत्यक्ष आध्यात्मिक अनुभव दोनों की तलाश करें, जिसके बाद जानने के लिए और कुछ नहीं बचता।",
+        "en": "Seek both intellectual knowledge and direct spiritual experience, after which nothing more remains to be known.",
+        "be": "বুদ্ধিবৃত্তিক জ্ঞান এবং প্রত্যক্ষ আধ্যাত্মিক অভিজ্ঞতা উভয়ই সন্ধান করুন, এর পরে আর কিছুই জানার বাকি থাকে না।",
+        "ka": "ಬೌದ್ಧಿಕ ಜ್ಞಾನ ಮತ್ತು ನೇರ ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವ ಎರಡನ್ನೂ ಹುಡುಕುವುದು, ಅದರ ನಂತರ ಇನ್ನೇನು ತಿಳಿಯುವುದು ಉಳಿದಿಲ್ಲ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "ज्ञानं",
-            "transliteration": "jñānaṃ",
-            "meaning": "jñānaṃ"
+            "transliteration": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "জ্ঞানং",
+                "ka": "ಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानं",
+                "en": "jñānaṃ",
+                "be": "jñānaṃ",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "तेऽहं",
-            "transliteration": "te'haṃ",
-            "meaning": "te'haṃ"
+            "transliteration": {
+                "hi": "तेऽहं",
+                "en": "te'haṃ",
+                "be": "তেঽহং",
+                "ka": "ತೇಽಹಂ"
+            },
+            "meaning": {
+                "hi": "ते'हाँ",
+                "en": "te'haṃ",
+                "be": "te'haṃ",
+                "ka": "te'haṃ"
+            }
         },
         {
             "sanskrit": "सविज्ञानमिदं",
-            "transliteration": "savijñānamidaṃ",
-            "meaning": "savijñānamidaṃ"
+            "transliteration": {
+                "hi": "सविज्ञानमिदं",
+                "en": "savijñānamidaṃ",
+                "be": "সবিজ্ঞানমিদং",
+                "ka": "ಸವಿಜ್ಞಾನಮಿದಂ"
+            },
+            "meaning": {
+                "hi": "सविज्ञानमिदं",
+                "en": "savijñānamidaṃ",
+                "be": "savijñānamidaṃ",
+                "ka": "ಸವಿಜ್ಞಾನಮಿದಂ"
+            }
         },
         {
             "sanskrit": "वक्ष्याम्यशेषतः",
-            "transliteration": "vakṣyāmyaśeṣataḥ",
-            "meaning": "vakṣyāmyaśeṣataḥ"
+            "transliteration": {
+                "hi": "वक्ष्याम्यशेषतः",
+                "en": "vakṣyāmyaśeṣataḥ",
+                "be": "বক্ষ্যাম্যশেষতঃ",
+                "ka": "ವಕ್ಷ್ಯಾಮ್ಯಶೇಷತಃ"
+            },
+            "meaning": {
+                "hi": "वक्ष्याम्यशेषतः",
+                "en": "vakṣyāmyaśeṣataḥ",
+                "be": "বক্ষ্যম্যাশেশতঃ",
+                "ka": "ವಕ್ಷ್ಯಾಮ್ಯಶೇಷತಃ"
+            }
         },
         {
             "sanskrit": "यज्ज्ञात्वा",
-            "transliteration": "yajjñātvā",
-            "meaning": "yajjñātvā"
+            "transliteration": {
+                "hi": "यज्ज्ञात्वा",
+                "en": "yajjñātvā",
+                "be": "যজ্জ্ঞাত্বা",
+                "ka": "ಯಜ್ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "यज्ञत्व",
+                "en": "yajjñātvā",
+                "be": "yajjñātvā",
+                "ka": "ಯಜ್ಞತ್ವ"
+            }
         },
         {
             "sanskrit": "नेह",
-            "transliteration": "neha",
-            "meaning": "neha"
+            "transliteration": {
+                "hi": "नेह",
+                "en": "neha",
+                "be": "নেহ",
+                "ka": "ನೇಹ"
+            },
+            "meaning": {
+                "hi": "नेहा",
+                "en": "neha",
+                "be": "নেহা",
+                "ka": "ನೇಹಾ"
+            }
         },
         {
             "sanskrit": "भूयोऽन्यज्ज्ञातव्यमवशिष्यते",
-            "transliteration": "bhūyo'nyajjñātavyamavaśiṣyate",
-            "meaning": "bhūyo'nyajjñātavyamavaśiṣyate"
+            "transliteration": {
+                "hi": "भूयोऽन्यज्ज्ञातव्यमवशिष्यते",
+                "en": "bhūyo'nyajjñātavyamavaśiṣyate",
+                "be": "ভূযোঽন্যজ্জ্ঞাতব্যমবশিষ্যতে",
+                "ka": "ಭೂಯೋಽನ್ಯಜ್ಜ್ಞಾತವ್ಯಮವಶಿಷ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "भूयोऽन्यज्ज्ज्ञातव्यामवशिष्यते",
+                "en": "bhūyo'nyajjñātavyamavaśiṣyate",
+                "be": "ভূয়ো'ন্যজ্জনাতব্যমবশিষ্যতে",
+                "ka": "ಭೂಯೋ ⁇ ನ್ಯಜ್ಞಾತವ್ಯಮವಶಿಷ್ಯತೇ"
+            }
         }
     ],
     "tej": {

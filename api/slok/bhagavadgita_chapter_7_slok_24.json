@@ -14,8 +14,18 @@
         "en": "avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ .\nparaṃ bhāvamajānanto mamāvyayamanuttamam ||7-24||",
         "ka": "ಅವ್ಯಕ್ತಂ ವ್ಯಕ್ತಿಮಾಪನ್ನಂ ಮನ್ಯನ್ತೇ ಮಾಮಬುದ್ಧಯಃ |\nಪರಂ ಭಾವಮಜಾನನ್ತೋ ಮಮಾವ್ಯಯಮನುತ್ತಮಮ್ ||೭-೨೪||"
     },
-    "transliteration": "avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ .\nparaṃ bhāvamajānanto mamāvyayamanuttamam ||7-24||",
-    "life_application": "Do not mistake the unmanifest supreme divine reality for a mere temporary physical form.",
+    "transliteration": {
+        "hi": "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः |\nपरं भावमजानन्तो ममाव्ययमनुत्तमम् ||७-२४||",
+        "en": "avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ .\nparaṃ bhāvamajānanto mamāvyayamanuttamam ||7-24||",
+        "be": "অব্যক্তং ব্যক্তিমাপন্নং মন্যন্তে মামবুদ্ধযঃ |\nপরং ভাবমজানন্তো মমাব্যযমনুত্তমম্ ||৭-২৪||",
+        "ka": "ಅವ್ಯಕ್ತಂ ವ್ಯಕ್ತಿಮಾಪನ್ನಂ ಮನ್ಯನ್ತೇ ಮಾಮಬುದ್ಧಯಃ |\nಪರಂ ಭಾವಮಜಾನನ್ತೋ ಮಮಾವ್ಯಯಮನುತ್ತಮಮ್ ||೭-೨೪||"
+    },
+    "life_application": {
+        "hi": "अव्यक्त सर्वोच्च दिव्य वास्तविकता को मात्र एक अस्थायी भौतिक रूप समझने की गलती न करें।",
+        "en": "Do not mistake the unmanifest supreme divine reality for a mere temporary physical form.",
+        "be": "অব্যক্ত সর্বোচ্চ ঐশ্বরিক বাস্তবতাকে নিছক অস্থায়ী দৈহিক রূপ বলে ভুল করবেন না।",
+        "ka": "ಅವ್ಯಕ್ತವಾದ ಪರಮ ದೈವಿಕ ವಾಸ್ತವವನ್ನು ಕೇವಲ ತಾತ್ಕಾಲಿಕ ಭೌತಿಕ ರೂಪವೆಂದು ತಪ್ಪಾಗಿ ಗ್ರಹಿಸಬೇಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "अव्यक्तं",
-            "transliteration": "avyaktaṃ",
-            "meaning": "avyaktaṃ"
+            "transliteration": {
+                "hi": "अव्यक्तं",
+                "en": "avyaktaṃ",
+                "be": "অব্যক্তং",
+                "ka": "ಅವ್ಯಕ್ತಂ"
+            },
+            "meaning": {
+                "hi": "अव्यक्तम्",
+                "en": "avyaktaṃ",
+                "be": "অব্যক্ত",
+                "ka": "ಅವ್ಯಕ್ತಂ"
+            }
         },
         {
             "sanskrit": "व्यक्तिमापन्नं",
-            "transliteration": "vyaktimāpannaṃ",
-            "meaning": "vyaktimāpannaṃ"
+            "transliteration": {
+                "hi": "व्यक्तिमापन्नं",
+                "en": "vyaktimāpannaṃ",
+                "be": "ব্যক্তিমাপন্নং",
+                "ka": "ವ್ಯಕ್ತಿಮಾಪನ್ನಂ"
+            },
+            "meaning": {
+                "hi": "व्यक्तिमापन्नम्",
+                "en": "vyaktimāpannaṃ",
+                "be": "ব্যাক্তিমাপন্ন",
+                "ka": "ವ್ಯಕ್ತಿಮಾಪನ್ನಂ"
+            }
         },
         {
             "sanskrit": "मन्यन्ते",
-            "transliteration": "manyante",
-            "meaning": "manyante"
+            "transliteration": {
+                "hi": "मन्यन्ते",
+                "en": "manyante",
+                "be": "মন্যন্তে",
+                "ka": "ಮನ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "मन्यंते",
+                "en": "manyante",
+                "be": "মানন্তে",
+                "ka": "ಅನೇಕರಂತೆ"
+            }
         },
         {
             "sanskrit": "मामबुद्धयः",
-            "transliteration": "māmabuddhayaḥ",
-            "meaning": "māmabuddhayaḥ"
+            "transliteration": {
+                "hi": "मामबुद्धयः",
+                "en": "māmabuddhayaḥ",
+                "be": "মামবুদ্ধযঃ",
+                "ka": "ಮಾಮಬುದ್ಧಯಃ"
+            },
+            "meaning": {
+                "hi": "मामबुद्धयः",
+                "en": "māmabuddhayaḥ",
+                "be": "মামবুদ্ধায়ঃ",
+                "ka": "ಮಾಮಬುದ್ಧಯಃ"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "भावमजानन्तो",
-            "transliteration": "bhāvamajānanto",
-            "meaning": "bhāvamajānanto"
+            "transliteration": {
+                "hi": "भावमजानन्तो",
+                "en": "bhāvamajānanto",
+                "be": "ভাবমজানন্তো",
+                "ka": "ಭಾವಮಜಾನನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "भावमजानन्तो",
+                "en": "bhāvamajānanto",
+                "be": "bhāvamajānanto",
+                "ka": "ಭಾವಮಜಾನಂತೋ"
+            }
         },
         {
             "sanskrit": "ममाव्ययमनुत्तमम्",
-            "transliteration": "mamāvyayamanuttamam",
-            "meaning": "mamāvyayamanuttamam"
+            "transliteration": {
+                "hi": "ममाव्ययमनुत्तमम्",
+                "en": "mamāvyayamanuttamam",
+                "be": "মমাব্যযমনুত্তমম্",
+                "ka": "ಮಮಾವ್ಯಯಮನುತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "मामव्यायमनुत्तमम्",
+                "en": "mamāvyayamanuttamam",
+                "be": "mamāvyayamanuttamam",
+                "ka": "ಮಾಮವ್ಯಯಮನುತ್ತಮಮ್"
+            }
         }
     ],
     "tej": {

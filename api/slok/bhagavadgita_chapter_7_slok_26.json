@@ -14,8 +14,18 @@
         "en": "vedāhaṃ samatītāni vartamānāni cārjuna .\nbhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana ||7-26||",
         "ka": "ವೇದಾಹಂ ಸಮತೀತಾನಿ ವರ್ತಮಾನಾನಿ ಚಾರ್ಜುನ |\nಭವಿಷ್ಯಾಣಿ ಚ ಭೂತಾನಿ ಮಾಂ ತು ವೇದ ನ ಕಶ್ಚನ ||೭-೨೬||"
     },
-    "transliteration": "vedāhaṃ samatītāni vartamānāni cārjuna .\nbhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana ||7-26||",
-    "life_application": "Trust in the omniscient divine presence that knows all past, present, and future beings, even when we fail to know It.",
+    "transliteration": {
+        "hi": "वेदाहं समतीतानि वर्तमानानि चार्जुन |\nभविष्याणि च भूतानि मां तु वेद न कश्चन ||७-२६||",
+        "en": "vedāhaṃ samatītāni vartamānāni cārjuna .\nbhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana ||7-26||",
+        "be": "বেদাহং সমতীতানি বর্তমানানি চার্জুন |\nভবিষ্যাণি চ ভূতানি মাং তু বেদ ন কশ্চন ||৭-২৬||",
+        "ka": "ವೇದಾಹಂ ಸಮತೀತಾನಿ ವರ್ತಮಾನಾನಿ ಚಾರ್ಜುನ |\nಭವಿಷ್ಯಾಣಿ ಚ ಭೂತಾನಿ ಮಾಂ ತು ವೇದ ನ ಕಶ್ಚನ ||೭-೨೬||"
+    },
+    "life_application": {
+        "hi": "सर्वज्ञ दिव्य उपस्थिति पर भरोसा रखें जो सभी अतीत, वर्तमान और भविष्य के प्राणियों को जानती है, तब भी जब हम इसे जानने में असफल होते हैं।",
+        "en": "Trust in the omniscient divine presence that knows all past, present, and future beings, even when we fail to know It.",
+        "be": "সর্বজ্ঞ ঐশ্বরিক উপস্থিতিতে বিশ্বাস করুন যা অতীত, বর্তমান এবং ভবিষ্যতের সমস্ত প্রাণীকে জানে, এমনকি যখন আমরা এটি জানতে ব্যর্থ হই।",
+        "ka": "ಭೂತ, ವರ್ತಮಾನ ಮತ್ತು ಭವಿಷ್ಯದ ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ತಿಳಿದಿರುವ ಸರ್ವಜ್ಞ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವಿಶ್ವಾಸವಿಡಿ, ನಾವು ಅದನ್ನು ತಿಳಿದುಕೊಳ್ಳಲು ವಿಫಲರಾಗಿದ್ದರೂ ಸಹ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "वेदाहं",
-            "transliteration": "vedāhaṃ",
-            "meaning": "vedāhaṃ"
+            "transliteration": {
+                "hi": "वेदाहं",
+                "en": "vedāhaṃ",
+                "be": "বেদাহং",
+                "ka": "ವೇದಾಹಂ"
+            },
+            "meaning": {
+                "hi": "वेदाहं",
+                "en": "vedāhaṃ",
+                "be": "vedāhaṃ",
+                "ka": "ವೇದಾಹಂ"
+            }
         },
         {
             "sanskrit": "समतीतानि",
-            "transliteration": "samatītāni",
-            "meaning": "samatītāni"
+            "transliteration": {
+                "hi": "समतीतानि",
+                "en": "samatītāni",
+                "be": "সমতীতানি",
+                "ka": "ಸಮತೀತಾನಿ"
+            },
+            "meaning": {
+                "hi": "समतीतानि",
+                "en": "samatītāni",
+                "be": "সমতিতানি",
+                "ka": "ಸಮತಿತಾನಿ"
+            }
         },
         {
             "sanskrit": "वर्तमानानि",
-            "transliteration": "vartamānāni",
-            "meaning": "vartamānāni"
+            "transliteration": {
+                "hi": "वर्तमानानि",
+                "en": "vartamānāni",
+                "be": "বর্তমানানি",
+                "ka": "ವರ್ತಮಾನಾನಿ"
+            },
+            "meaning": {
+                "hi": "वर्तमानानि",
+                "en": "vartamānāni",
+                "be": "vartamānāni",
+                "ka": "ವರ್ತಮಾನನಿ"
+            }
         },
         {
             "sanskrit": "चार्जुन",
-            "transliteration": "cārjuna",
-            "meaning": "cārjuna"
+            "transliteration": {
+                "hi": "चार्जुन",
+                "en": "cārjuna",
+                "be": "চার্জুন",
+                "ka": "ಚಾರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "कार्जुन",
+                "en": "cārjuna",
+                "be": "কার্জুন",
+                "ka": "ಕಾರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "भविष्याणि",
-            "transliteration": "bhaviṣyāṇi",
-            "meaning": "bhaviṣyāṇi"
+            "transliteration": {
+                "hi": "भविष्याणि",
+                "en": "bhaviṣyāṇi",
+                "be": "ভবিষ্যাণি",
+                "ka": "ಭವಿಷ್ಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "भविष्यानि",
+                "en": "bhaviṣyāṇi",
+                "be": "ভবিষ্যণি",
+                "ka": "ಭವಿಷ್ಯನಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "bhūtāni"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "भूटानी",
+                "en": "bhūtāni",
+                "be": "ভুটানি",
+                "ka": "ಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "वेद",
-            "transliteration": "veda",
-            "meaning": "veda"
+            "transliteration": {
+                "hi": "वेद",
+                "en": "veda",
+                "be": "বেদ",
+                "ka": "ವೇದ"
+            },
+            "meaning": {
+                "hi": "वेद",
+                "en": "veda",
+                "be": "বেদ",
+                "ka": "ವೇದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कश्चन",
-            "transliteration": "kaścana",
-            "meaning": "kaścana"
+            "transliteration": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কশ্চন",
+                "ka": "ಕಶ್ಚನ"
+            },
+            "meaning": {
+                "hi": "कश्चन",
+                "en": "kaścana",
+                "be": "কাশ্কান",
+                "ka": "ಕಶ್ಚನ"
+            }
         }
     ],
     "tej": {

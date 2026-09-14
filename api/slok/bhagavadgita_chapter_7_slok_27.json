@@ -14,8 +14,18 @@
         "en": "icchādveṣasamutthena dvandvamohena bhārata .\nsarvabhūtāni sammohaṃ sarge yānti parantapa ||7-27||",
         "ka": "ಇಚ್ಛಾದ್ವೇಷಸಮುತ್ಥೇನ ದ್ವನ್ದ್ವಮೋಹೇನ ಭಾರತ |\nಸರ್ವಭೂತಾನಿ ಸಮ್ಮೋಹಂ ಸರ್ಗೇ ಯಾನ್ತಿ ಪರನ್ತಪ ||೭-೨೭||"
     },
-    "transliteration": "icchādveṣasamutthena dvandvamohena bhārata .\nsarvabhūtāni sammohaṃ sarge yānti parantapa ||7-27||",
-    "life_application": "Beware of the dualities of attraction and aversion born of delusion, which confuse all living beings from birth.",
+    "transliteration": {
+        "hi": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत |\nसर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ||७-२७||",
+        "en": "icchādveṣasamutthena dvandvamohena bhārata .\nsarvabhūtāni sammohaṃ sarge yānti parantapa ||7-27||",
+        "be": "ইচ্ছাদ্বেষসমুত্থেন দ্বন্দ্বমোহেন ভারত |\nসর্বভূতানি সম্মোহং সর্গে যান্তি পরন্তপ ||৭-২৭||",
+        "ka": "ಇಚ್ಛಾದ್ವೇಷಸಮುತ್ಥೇನ ದ್ವನ್ದ್ವಮೋಹೇನ ಭಾರತ |\nಸರ್ವಭೂತಾನಿ ಸಮ್ಮೋಹಂ ಸರ್ಗೇ ಯಾನ್ತಿ ಪರನ್ತಪ ||೭-೨೭||"
+    },
+    "life_application": {
+        "hi": "मोह से उत्पन्न आकर्षण और द्वेष के द्वंद्व से सावधान रहें, जो जन्म से ही सभी प्राणियों को भ्रमित करते हैं।",
+        "en": "Beware of the dualities of attraction and aversion born of delusion, which confuse all living beings from birth.",
+        "be": "ভ্রম থেকে জন্ম নেওয়া আকর্ষণ এবং ঘৃণার দ্বৈততা থেকে সাবধান থাকুন, যা জন্ম থেকেই সমস্ত জীবকে বিভ্রান্ত করে।",
+        "ka": "ಹುಟ್ಟಿನಿಂದಲೇ ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ಗೊಂದಲಕ್ಕೀಡುಮಾಡುವ ಭ್ರಮೆಯಿಂದ ಹುಟ್ಟಿದ ಆಕರ್ಷಣೆ ಮತ್ತು ವಿರಕ್ತಿಗಳ ದ್ವಂದ್ವಗಳ ಬಗ್ಗೆ ಎಚ್ಚರದಿಂದಿರಿ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "इच्छाद्वेषसमुत्थेन",
-            "transliteration": "icchādveṣasamutthena",
-            "meaning": "icchādveṣasamutthena"
+            "transliteration": {
+                "hi": "इच्छाद्वेषसमुत्थेन",
+                "en": "icchādveṣasamutthena",
+                "be": "ইচ্ছাদ্বেষসমুত্থেন",
+                "ka": "ಇಚ್ಛಾದ್ವೇಷಸಮುತ್ಥೇನ"
+            },
+            "meaning": {
+                "hi": "इच्छाद्वेषमुत्थेन",
+                "en": "icchādveṣasamutthena",
+                "be": "ইচ্ছাদ্বেষসমুত্তেনা",
+                "ka": "ಇಚ್ಛಾದ್ವೇಷಸಮುತ್ತೇನ"
+            }
         },
         {
             "sanskrit": "द्वन्द्वमोहेन",
-            "transliteration": "dvandvamohena",
-            "meaning": "dvandvamohena"
+            "transliteration": {
+                "hi": "द्वन्द्वमोहेन",
+                "en": "dvandvamohena",
+                "be": "দ্বন্দ্বমোহেন",
+                "ka": "ದ್ವನ್ದ್ವಮೋಹೇನ"
+            },
+            "meaning": {
+                "hi": "द्वन्द्वमोहने",
+                "en": "dvandvamohena",
+                "be": "দ্বান্দ্বমোহেন",
+                "ka": "ದ್ವನ್ದ್ವಮೋಹೇನ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानि",
-            "transliteration": "sarvabhūtāni",
-            "meaning": "sarvabhūtāni"
+            "transliteration": {
+                "hi": "सर्वभूतानि",
+                "en": "sarvabhūtāni",
+                "be": "সর্বভূতানি",
+                "ka": "ಸರ್ವಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतानि",
+                "en": "sarvabhūtāni",
+                "be": "সর্বভূতানি",
+                "ka": "ಸರ್ವಭೂತಾನಿ"
+            }
         },
         {
             "sanskrit": "सम्मोहं",
-            "transliteration": "sammohaṃ",
-            "meaning": "sammohaṃ"
+            "transliteration": {
+                "hi": "सम्मोहं",
+                "en": "sammohaṃ",
+                "be": "সম্মোহং",
+                "ka": "ಸಮ್ಮೋಹಂ"
+            },
+            "meaning": {
+                "hi": "सम्मोहं",
+                "en": "sammohaṃ",
+                "be": "সম্মোহন",
+                "ka": "ಸಮ್ಮೋಹಂ"
+            }
         },
         {
             "sanskrit": "सर्गे",
-            "transliteration": "sarge",
-            "meaning": "sarge"
+            "transliteration": {
+                "hi": "सर्गे",
+                "en": "sarge",
+                "be": "সর্গে",
+                "ka": "ಸರ್ಗೇ"
+            },
+            "meaning": {
+                "hi": "सर्ज",
+                "en": "sarge",
+                "be": "সার্জ",
+                "ka": "ಸಾರ್ಜ್"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "parantapa"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "परंतपा",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರಂತಪ"
+            }
         }
     ],
     "tej": {

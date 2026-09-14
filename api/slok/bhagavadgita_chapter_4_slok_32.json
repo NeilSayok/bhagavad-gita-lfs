@@ -14,8 +14,18 @@
         "en": "evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe .\nkarmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase ||4-32||",
         "ka": "ಏವಂ ಬಹುವಿಧಾ ಯಜ್ಞಾ ವಿತತಾ ಬ್ರಹ್ಮಣೋ ಮುಖೇ |\nಕರ್ಮಜಾನ್ವಿದ್ಧಿ ತಾನ್ಸರ್ವಾನೇವಂ ಜ್ಞಾತ್ವಾ ವಿಮೋಕ್ಷ್ಯಸೇ ||೪-೩೨||"
     },
-    "transliteration": "evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe .\nkarmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase ||4-32||",
-    "life_application": "Understand that all constructive human actions can serve as spiritual practices when performed with noble intent.",
+    "transliteration": {
+        "hi": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे |\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ||४-३२||",
+        "en": "evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe .\nkarmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase ||4-32||",
+        "be": "এবং বহুবিধা যজ্ঞা বিততা ব্রহ্মণো মুখে |\nকর্মজান্বিদ্ধি তান্সর্বানেবং জ্ঞাত্বা বিমোক্ষ্যসে ||৪-৩২||",
+        "ka": "ಏವಂ ಬಹುವಿಧಾ ಯಜ್ಞಾ ವಿತತಾ ಬ್ರಹ್ಮಣೋ ಮುಖೇ |\nಕರ್ಮಜಾನ್ವಿದ್ಧಿ ತಾನ್ಸರ್ವಾನೇವಂ ಜ್ಞಾತ್ವಾ ವಿಮೋಕ್ಷ್ಯಸೇ ||೪-೩೨||"
+    },
+    "life_application": {
+        "hi": "समझें कि सभी रचनात्मक मानवीय कार्य आध्यात्मिक अभ्यास के रूप में काम कर सकते हैं जब उन्हें नेक इरादे से किया जाए।",
+        "en": "Understand that all constructive human actions can serve as spiritual practices when performed with noble intent.",
+        "be": "বুঝুন যে সমস্ত গঠনমূলক মানব ক্রিয়া আধ্যাত্মিক অনুশীলন হিসাবে পরিবেশন করতে পারে যখন মহৎ উদ্দেশ্যের সাথে সঞ্চালিত হয়।",
+        "ka": "ಉದಾತ್ತ ಉದ್ದೇಶದಿಂದ ನಿರ್ವಹಿಸಿದಾಗ ಎಲ್ಲಾ ರಚನಾತ್ಮಕ ಮಾನವ ಕ್ರಿಯೆಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "एवं",
-            "transliteration": "evaṃ",
-            "meaning": "evaṃ"
+            "transliteration": {
+                "hi": "एवं",
+                "en": "evaṃ",
+                "be": "এবং",
+                "ka": "ಏವಂ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "evaṃ",
+                "be": "ইভান",
+                "ka": "evaṃ"
+            }
         },
         {
             "sanskrit": "बहुविधा",
-            "transliteration": "bahuvidhā",
-            "meaning": "bahuvidhā"
+            "transliteration": {
+                "hi": "बहुविधा",
+                "en": "bahuvidhā",
+                "be": "বহুবিধা",
+                "ka": "ಬಹುವಿಧಾ"
+            },
+            "meaning": {
+                "hi": "बहुविधा",
+                "en": "bahuvidhā",
+                "be": "বহুবিধ",
+                "ka": "ಬಹುವಿಧಾ"
+            }
         },
         {
             "sanskrit": "यज्ञा",
-            "transliteration": "yajñā",
-            "meaning": "yajñā"
+            "transliteration": {
+                "hi": "यज्ञा",
+                "en": "yajñā",
+                "be": "যজ্ঞা",
+                "ka": "ಯಜ್ಞಾ"
+            },
+            "meaning": {
+                "hi": "यज्ञ",
+                "en": "yajñā",
+                "be": "যজ্ঞ",
+                "ka": "ಯಜ್ಞ"
+            }
         },
         {
             "sanskrit": "वितता",
-            "transliteration": "vitatā",
-            "meaning": "vitatā"
+            "transliteration": {
+                "hi": "वितता",
+                "en": "vitatā",
+                "be": "বিততা",
+                "ka": "ವಿತತಾ"
+            },
+            "meaning": {
+                "hi": "विटता",
+                "en": "vitatā",
+                "be": "বিতাতা",
+                "ka": "ವಿಟಾಟಾ"
+            }
         },
         {
             "sanskrit": "ब्रह्मणो",
-            "transliteration": "brahmaṇo",
-            "meaning": "brahmaṇo"
+            "transliteration": {
+                "hi": "ब्रह्मणो",
+                "en": "brahmaṇo",
+                "be": "ব্রহ্মণো",
+                "ka": "ಬ್ರಹ್ಮಣೋ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मणो",
+                "en": "brahmaṇo",
+                "be": "ব্রাহ্মণো",
+                "ka": "ಬ್ರಹ್ಮಣೋ"
+            }
         },
         {
             "sanskrit": "मुखे",
-            "transliteration": "mukhe",
-            "meaning": "mukhe"
+            "transliteration": {
+                "hi": "मुखे",
+                "en": "mukhe",
+                "be": "মুখে",
+                "ka": "ಮುಖೇ"
+            },
+            "meaning": {
+                "hi": "मुखे",
+                "en": "mukhe",
+                "be": "মুখ",
+                "ka": "ಮುಖೆ"
+            }
         },
         {
             "sanskrit": "कर्मजान्विद्धि",
-            "transliteration": "karmajānviddhi",
-            "meaning": "karmajānviddhi"
+            "transliteration": {
+                "hi": "कर्मजान्विद्धि",
+                "en": "karmajānviddhi",
+                "be": "কর্মজান্বিদ্ধি",
+                "ka": "ಕರ್ಮಜಾನ್ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "कर्मजान्विद्धि",
+                "en": "karmajānviddhi",
+                "be": "কর্মজ্ঞানবিধি",
+                "ka": "ಕರ್ಮಜಾನವಿದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "तान्सर्वानेवं",
-            "transliteration": "tānsarvānevaṃ",
-            "meaning": "tānsarvānevaṃ"
+            "transliteration": {
+                "hi": "तान्सर्वानेवं",
+                "en": "tānsarvānevaṃ",
+                "be": "তান্সর্বানেবং",
+                "ka": "ತಾನ್ಸರ್ವಾನೇವಂ"
+            },
+            "meaning": {
+                "hi": "तन्सर्वनेवम्",
+                "en": "tānsarvānevaṃ",
+                "be": "tansarvānevaṃ",
+                "ka": "tansarvanevan"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "jñātvā"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "jñātvā",
+                "ka": "ಜ್ಞಾನತ್ವ"
+            }
         },
         {
             "sanskrit": "विमोक्ष्यसे",
-            "transliteration": "vimokṣyase",
-            "meaning": "vimokṣyase"
+            "transliteration": {
+                "hi": "विमोक्ष्यसे",
+                "en": "vimokṣyase",
+                "be": "বিমোক্ষ্যসে",
+                "ka": "ವಿಮೋಕ್ಷ್ಯಸೇ"
+            },
+            "meaning": {
+                "hi": "विमोक्ष्यसे",
+                "en": "vimokṣyase",
+                "be": "vimokṣyase",
+                "ka": "ವಿಮೋಕ್ಷಯಸೇ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "sa evāyaṃ mayā te.adya yogaḥ proktaḥ purātanaḥ .\nbhakto.asi me sakhā ceti rahasyaṃ hyetaduttamam ||4-3||",
         "ka": "ಸ ಏವಾಯಂ ಮಯಾ ತೇಽದ್ಯ ಯೋಗಃ ಪ್ರೋಕ್ತಃ ಪುರಾತನಃ |\nಭಕ್ತೋಽಸಿ ಮೇ ಸಖಾ ಚೇತಿ ರಹಸ್ಯಂ ಹ್ಯೇತದುತ್ತಮಮ್ ||೪-೩||"
     },
-    "transliteration": "sa evāyaṃ mayā te.adya yogaḥ proktaḥ purātanaḥ .\nbhakto.asi me sakhā ceti rahasyaṃ hyetaduttamam ||4-3||",
-    "life_application": "Approach spiritual learning with trust and genuine friendship, opening your heart to receive deeper life truths.",
+    "transliteration": {
+        "hi": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः |\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||",
+        "en": "sa evāyaṃ mayā te.adya yogaḥ proktaḥ purātanaḥ .\nbhakto.asi me sakhā ceti rahasyaṃ hyetaduttamam ||4-3||",
+        "be": "স এবাযং মযা তেঽদ্য যোগঃ প্রোক্তঃ পুরাতনঃ |\nভক্তোঽসি মে সখা চেতি রহস্যং হ্যেতদুত্তমম্ ||৪-৩||",
+        "ka": "ಸ ಏವಾಯಂ ಮಯಾ ತೇಽದ್ಯ ಯೋಗಃ ಪ್ರೋಕ್ತಃ ಪುರಾತನಃ |\nಭಕ್ತೋಽಸಿ ಮೇ ಸಖಾ ಚೇತಿ ರಹಸ್ಯಂ ಹ್ಯೇತದುತ್ತಮಮ್ ||೪-೩||"
+    },
+    "life_application": {
+        "hi": "आध्यात्मिक शिक्षा को विश्वास और सच्ची मित्रता के साथ अपनाएं, जीवन की गहरी सच्चाइयों को प्राप्त करने के लिए अपना हृदय खोलें।",
+        "en": "Approach spiritual learning with trust and genuine friendship, opening your heart to receive deeper life truths.",
+        "be": "আস্থা ও অকৃত্রিম বন্ধুত্বের সাথে আধ্যাত্মিক শিক্ষা গ্রহণ করুন, জীবনের গভীর সত্যগুলি পেতে আপনার হৃদয় খুলে দিন।",
+        "ka": "ನಂಬಿಕೆ ಮತ್ತು ನಿಜವಾದ ಸ್ನೇಹದೊಂದಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಕಲಿಕೆಯನ್ನು ಸಮೀಪಿಸಿ, ಆಳವಾದ ಜೀವನ ಸತ್ಯಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ನಿಮ್ಮ ಹೃದಯವನ್ನು ತೆರೆಯಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "एवायं",
-            "transliteration": "evāyaṃ",
-            "meaning": "evāyaṃ"
+            "transliteration": {
+                "hi": "एवायं",
+                "en": "evāyaṃ",
+                "be": "এবাযং",
+                "ka": "ಏವಾಯಂ"
+            },
+            "meaning": {
+                "hi": "इवायं",
+                "en": "evāyaṃ",
+                "be": "evayaṃ",
+                "ka": "evāyaṃ"
+            }
         },
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "mayā"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "mayā",
+                "be": "মায়া",
+                "ka": "ಮಾಯಾ"
+            }
         },
         {
             "sanskrit": "तेऽद्य",
-            "transliteration": "te'dya",
-            "meaning": "te'dya"
+            "transliteration": {
+                "hi": "तेऽद्य",
+                "en": "te'dya",
+                "be": "তেঽদ্য",
+                "ka": "ತೇಽದ್ಯ"
+            },
+            "meaning": {
+                "hi": "te'dya",
+                "en": "te'dya",
+                "be": "te'dya",
+                "ka": "ತೇ'ದ್ಯಾ"
+            }
         },
         {
             "sanskrit": "योगः",
-            "transliteration": "yogaḥ",
-            "meaning": "yogaḥ"
+            "transliteration": {
+                "hi": "योगः",
+                "en": "yogaḥ",
+                "be": "যোগঃ",
+                "ka": "ಯೋಗಃ"
+            },
+            "meaning": {
+                "hi": "योगः",
+                "en": "yogaḥ",
+                "be": "যোগঃ",
+                "ka": "ಯೋಗಃ"
+            }
         },
         {
             "sanskrit": "प्रोक्तः",
-            "transliteration": "proktaḥ",
-            "meaning": "proktaḥ"
+            "transliteration": {
+                "hi": "प्रोक्तः",
+                "en": "proktaḥ",
+                "be": "প্রোক্তঃ",
+                "ka": "ಪ್ರೋಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "प्रोक्तः",
+                "en": "proktaḥ",
+                "be": "proktaḥ",
+                "ka": "ಪ್ರೋಕ್ತಃ"
+            }
         },
         {
             "sanskrit": "पुरातनः",
-            "transliteration": "purātanaḥ",
-            "meaning": "purātanaḥ"
+            "transliteration": {
+                "hi": "पुरातनः",
+                "en": "purātanaḥ",
+                "be": "পুরাতনঃ",
+                "ka": "ಪುರಾತನಃ"
+            },
+            "meaning": {
+                "hi": "पुरातनः",
+                "en": "purātanaḥ",
+                "be": "পুরাতনঃ",
+                "ka": "ಪುರಾತನಃ"
+            }
         },
         {
             "sanskrit": "भक्तोऽसि",
-            "transliteration": "bhakto'si",
-            "meaning": "bhakto'si"
+            "transliteration": {
+                "hi": "भक्तोऽसि",
+                "en": "bhakto'si",
+                "be": "ভক্তোঽসি",
+                "ka": "ಭಕ್ತೋಽಸಿ"
+            },
+            "meaning": {
+                "hi": "भक्तोऽसि",
+                "en": "bhakto'si",
+                "be": "ভক্ত",
+                "ka": "ಭಕ್ತೋ'ಸಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "सखा",
-            "transliteration": "sakhā",
-            "meaning": "sakhā"
+            "transliteration": {
+                "hi": "सखा",
+                "en": "sakhā",
+                "be": "সখা",
+                "ka": "ಸಖಾ"
+            },
+            "meaning": {
+                "hi": "सखा",
+                "en": "sakhā",
+                "be": "সাখা",
+                "ka": "ಸಖಾ"
+            }
         },
         {
             "sanskrit": "चेति",
-            "transliteration": "ceti",
-            "meaning": "ceti"
+            "transliteration": {
+                "hi": "चेति",
+                "en": "ceti",
+                "be": "চেতি",
+                "ka": "ಚೇತಿ"
+            },
+            "meaning": {
+                "hi": "सेटी",
+                "en": "ceti",
+                "be": "ceti",
+                "ka": "ceti"
+            }
         },
         {
             "sanskrit": "रहस्यं",
-            "transliteration": "rahasyaṃ",
-            "meaning": "rahasyaṃ"
+            "transliteration": {
+                "hi": "रहस्यं",
+                "en": "rahasyaṃ",
+                "be": "রহস্যং",
+                "ka": "ರಹಸ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "रहस्यम्",
+                "en": "rahasyaṃ",
+                "be": "রহস্য",
+                "ka": "ರಹಸ್ಯಂ"
+            }
         },
         {
             "sanskrit": "ह्येतदुत्तमम्",
-            "transliteration": "hyetaduttamam",
-            "meaning": "hyetaduttamam"
+            "transliteration": {
+                "hi": "ह्येतदुत्तमम्",
+                "en": "hyetaduttamam",
+                "be": "হ্যেতদুত্তমম্",
+                "ka": "ಹ್ಯೇತದುತ್ತಮಮ್"
+            },
+            "meaning": {
+                "hi": "ह्येतदत्तमम्",
+                "en": "hyetaduttamam",
+                "be": "হাইতদুত্তম",
+                "ka": "ಹ್ಯೇತದುತ್ತಮಮ್"
+            }
         }
     ],
     "tej": {

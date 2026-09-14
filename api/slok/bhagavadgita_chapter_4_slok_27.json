@@ -14,8 +14,18 @@
         "en": "sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare .\nātmasaṃyamayogāgnau juhvati jñānadīpite ||4-27||",
         "ka": "ಸರ್ವಾಣೀನ್ದ್ರಿಯಕರ್ಮಾಣಿ ಪ್ರಾಣಕರ್ಮಾಣಿ ಚಾಪರೇ |\nಆತ್ಮಸಂಯಮಯೋಗಾಗ್ನೌ ಜುಹ್ವತಿ ಜ್ಞಾನದೀಪಿತೇ ||೪-೨೭||"
     },
-    "transliteration": "sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare .\nātmasaṃyamayogāgnau juhvati jñānadīpite ||4-27||",
-    "life_application": "Bring your physical breath and sensory habits under gentle conscious control through regular quiet meditation.",
+    "transliteration": {
+        "hi": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ||४-२७||",
+        "en": "sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare .\nātmasaṃyamayogāgnau juhvati jñānadīpite ||4-27||",
+        "be": "সর্বাণীন্দ্রিযকর্মাণি প্রাণকর্মাণি চাপরে |\nআত্মসংযমযোগাগ্নৌ জুহ্বতি জ্ঞানদীপিতে ||৪-২৭||",
+        "ka": "ಸರ್ವಾಣೀನ್ದ್ರಿಯಕರ್ಮಾಣಿ ಪ್ರಾಣಕರ್ಮಾಣಿ ಚಾಪರೇ |\nಆತ್ಮಸಂಯಮಯೋಗಾಗ್ನೌ ಜುಹ್ವತಿ ಜ್ಞಾನದೀಪಿತೇ ||೪-೨೭||"
+    },
+    "life_application": {
+        "hi": "नियमित शांत ध्यान के माध्यम से अपनी शारीरिक सांस और संवेदी आदतों को कोमल सचेतन नियंत्रण में लाएं।",
+        "en": "Bring your physical breath and sensory habits under gentle conscious control through regular quiet meditation.",
+        "be": "নিয়মিত শান্ত ধ্যানের মাধ্যমে আপনার শারীরিক শ্বাস এবং সংবেদনশীল অভ্যাসকে মৃদু সচেতন নিয়ন্ত্রণে আনুন।",
+        "ka": "ನಿಯಮಿತ ಸ್ತಬ್ಧ ಧ್ಯಾನದ ಮೂಲಕ ನಿಮ್ಮ ದೈಹಿಕ ಉಸಿರು ಮತ್ತು ಸಂವೇದನಾ ಅಭ್ಯಾಸಗಳನ್ನು ಶಾಂತ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ನಿಯಂತ್ರಣದಲ್ಲಿ ತನ್ನಿ."
+    },
     "themes": [
         "Mindfulness",
         "Self-Realization"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वाणीन्द्रियकर्माणि",
-            "transliteration": "sarvāṇīndriyakarmāṇi",
-            "meaning": "sarvāṇīndriyakarmāṇi"
+            "transliteration": {
+                "hi": "सर्वाणीन्द्रियकर्माणि",
+                "en": "sarvāṇīndriyakarmāṇi",
+                "be": "সর্বাণীন্দ্রিযকর্মাণি",
+                "ka": "ಸರ್ವಾಣೀನ್ದ್ರಿಯಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सर्वाणीन्द्रियकर्माणि",
+                "en": "sarvāṇīndriyakarmāṇi",
+                "be": "সর্বাণীন্দ্রিয়কর্মাণী",
+                "ka": "ಸರ್ವಾನೀನ್ದ್ರಿಯಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "प्राणकर्माणि",
-            "transliteration": "prāṇakarmāṇi",
-            "meaning": "prāṇakarmāṇi"
+            "transliteration": {
+                "hi": "प्राणकर्माणि",
+                "en": "prāṇakarmāṇi",
+                "be": "প্রাণকর্মাণি",
+                "ka": "ಪ್ರಾಣಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "प्राणकर्माणि",
+                "en": "prāṇakarmāṇi",
+                "be": "প্রাণকর্মাণী",
+                "ka": "ಪ್ರಾಣಕರ್ಮಾಣಿ"
+            }
         },
         {
             "sanskrit": "चापरे",
-            "transliteration": "cāpare",
-            "meaning": "cāpare"
+            "transliteration": {
+                "hi": "चापरे",
+                "en": "cāpare",
+                "be": "চাপরে",
+                "ka": "ಚಾಪರೇ"
+            },
+            "meaning": {
+                "hi": "कपरे",
+                "en": "cāpare",
+                "be": "capare",
+                "ka": "ಕಪಾರೆ"
+            }
         },
         {
             "sanskrit": "आत्मसंयमयोगाग्नौ",
-            "transliteration": "ātmasaṃyamayogāgnau",
-            "meaning": "ātmasaṃyamayogāgnau"
+            "transliteration": {
+                "hi": "आत्मसंयमयोगाग्नौ",
+                "en": "ātmasaṃyamayogāgnau",
+                "be": "আত্মসংযমযোগাগ্নৌ",
+                "ka": "ಆತ್ಮಸಂಯಮಯೋಗಾಗ್ನೌ"
+            },
+            "meaning": {
+                "hi": "आत्मसंयमयोगग्नौ",
+                "en": "ātmasaṃyamayogāgnau",
+                "be": "ātmasaṃyamayogāgnau",
+                "ka": "ಆತ್ಮಸಂಯಮಯೋಗಾಗ್ನೌ"
+            }
         },
         {
             "sanskrit": "जुह्वति",
-            "transliteration": "juhvati",
-            "meaning": "juhvati"
+            "transliteration": {
+                "hi": "जुह्वति",
+                "en": "juhvati",
+                "be": "জুহ্বতি",
+                "ka": "ಜುಹ್ವತಿ"
+            },
+            "meaning": {
+                "hi": "जुहवती",
+                "en": "juhvati",
+                "be": "জুহবতী",
+                "ka": "ಜುಹ್ವತಿ"
+            }
         },
         {
             "sanskrit": "ज्ञानदीपिते",
-            "transliteration": "jñānadīpite",
-            "meaning": "jñānadīpite"
+            "transliteration": {
+                "hi": "ज्ञानदीपिते",
+                "en": "jñānadīpite",
+                "be": "জ্ঞানদীপিতে",
+                "ka": "ಜ್ಞಾನದೀಪಿತೇ"
+            },
+            "meaning": {
+                "hi": "ज्ञानादिपिते",
+                "en": "jñānadīpite",
+                "be": "জ্ঞানদ্বীপে",
+                "ka": "ಜ್ಞಾನದಿಪಿತೆ"
+            }
         }
     ],
     "tej": {

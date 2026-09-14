@@ -14,8 +14,18 @@
         "en": "apāne juhvati prāṇaṃ prāṇe.apānaṃ tathāpare .\nprāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ ||4-29||",
         "ka": "ಅಪಾನೇ ಜುಹ್ವತಿ ಪ್ರಾಣಂ ಪ್ರಾಣೇಽಪಾನಂ ತಥಾಪರೇ |\nಪ್ರಾಣಾಪಾನಗತೀ ರುದ್ಧ್ವಾ ಪ್ರಾಣಾಯಾಮಪರಾಯಣಾಃ ||೪-೨೯||"
     },
-    "transliteration": "apāne juhvati prāṇaṃ prāṇe.apānaṃ tathāpare .\nprāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ ||4-29||",
-    "life_application": "Use conscious breathing exercises during moments of stress to restore physical calm and mental clarity.",
+    "transliteration": {
+        "hi": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे |\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः ||४-२९||",
+        "en": "apāne juhvati prāṇaṃ prāṇe.apānaṃ tathāpare .\nprāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ ||4-29||",
+        "be": "অপানে জুহ্বতি প্রাণং প্রাণেঽপানং তথাপরে |\nপ্রাণাপানগতী রুদ্ধ্বা প্রাণাযামপরাযণাঃ ||৪-২৯||",
+        "ka": "ಅಪಾನೇ ಜುಹ್ವತಿ ಪ್ರಾಣಂ ಪ್ರಾಣೇಽಪಾನಂ ತಥಾಪರೇ |\nಪ್ರಾಣಾಪಾನಗತೀ ರುದ್ಧ್ವಾ ಪ್ರಾಣಾಯಾಮಪರಾಯಣಾಃ ||೪-೨೯||"
+    },
+    "life_application": {
+        "hi": "शारीरिक शांति और मानसिक स्पष्टता बहाल करने के लिए तनाव के क्षणों के दौरान सचेत साँस लेने के व्यायाम का प्रयोग करें।",
+        "en": "Use conscious breathing exercises during moments of stress to restore physical calm and mental clarity.",
+        "be": "শারীরিক প্রশান্তি এবং মানসিক স্বচ্ছতা পুনরুদ্ধার করতে চাপের মুহুর্তগুলিতে সচেতন শ্বাস-প্রশ্বাসের ব্যায়াম ব্যবহার করুন।",
+        "ka": "ದೈಹಿಕ ಶಾಂತತೆ ಮತ್ತು ಮಾನಸಿಕ ಸ್ಪಷ್ಟತೆಯನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಒತ್ತಡದ ಕ್ಷಣಗಳಲ್ಲಿ ಜಾಗೃತ ಉಸಿರಾಟದ ವ್ಯಾಯಾಮಗಳನ್ನು ಬಳಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अपाने",
-            "transliteration": "apāne",
-            "meaning": "apāne"
+            "transliteration": {
+                "hi": "अपाने",
+                "en": "apāne",
+                "be": "অপানে",
+                "ka": "ಅಪಾನೇ"
+            },
+            "meaning": {
+                "hi": "अपान",
+                "en": "apāne",
+                "be": "আপান",
+                "ka": "ಅಪಾನೆ"
+            }
         },
         {
             "sanskrit": "जुह्वति",
-            "transliteration": "juhvati",
-            "meaning": "juhvati"
+            "transliteration": {
+                "hi": "जुह्वति",
+                "en": "juhvati",
+                "be": "জুহ্বতি",
+                "ka": "ಜುಹ್ವತಿ"
+            },
+            "meaning": {
+                "hi": "जुहवती",
+                "en": "juhvati",
+                "be": "জুহবতী",
+                "ka": "ಜುಹ್ವತಿ"
+            }
         },
         {
             "sanskrit": "प्राणं",
-            "transliteration": "prāṇaṃ",
-            "meaning": "prāṇaṃ"
+            "transliteration": {
+                "hi": "प्राणं",
+                "en": "prāṇaṃ",
+                "be": "প্রাণং",
+                "ka": "ಪ್ರಾಣಂ"
+            },
+            "meaning": {
+                "hi": "प्राणं",
+                "en": "prāṇaṃ",
+                "be": "প্রণাম",
+                "ka": "ಪ್ರಾಣಂ"
+            }
         },
         {
             "sanskrit": "प्राणेऽपानं",
-            "transliteration": "prāṇe'pānaṃ",
-            "meaning": "prāṇe'pānaṃ"
+            "transliteration": {
+                "hi": "प्राणेऽपानं",
+                "en": "prāṇe'pānaṃ",
+                "be": "প্রাণেঽপানং",
+                "ka": "ಪ್ರಾಣೇಽಪಾನಂ"
+            },
+            "meaning": {
+                "hi": "प्राणेऽपानं",
+                "en": "prāṇe'pānaṃ",
+                "be": "প্রাণে'পানাণ",
+                "ka": "ಪ್ರಾಣೆ'ಪಾನಂ"
+            }
         },
         {
             "sanskrit": "तथापरे",
-            "transliteration": "tathāpare",
-            "meaning": "tathāpare"
+            "transliteration": {
+                "hi": "तथापरे",
+                "en": "tathāpare",
+                "be": "তথাপরে",
+                "ka": "ತಥಾಪರೇ"
+            },
+            "meaning": {
+                "hi": "तथापरे",
+                "en": "tathāpare",
+                "be": "তাথাপরে",
+                "ka": "ತಥಾಪರೇ"
+            }
         },
         {
             "sanskrit": "प्राणापानगती",
-            "transliteration": "prāṇāpānagatī",
-            "meaning": "prāṇāpānagatī"
+            "transliteration": {
+                "hi": "प्राणापानगती",
+                "en": "prāṇāpānagatī",
+                "be": "প্রাণাপানগতী",
+                "ka": "ಪ್ರಾಣಾಪಾನಗತೀ"
+            },
+            "meaning": {
+                "hi": "प्राणापानगति",
+                "en": "prāṇāpānagatī",
+                "be": "প্রানাপানাগতি",
+                "ka": "ಪ್ರಾಣಾಪಾನಗತಿ"
+            }
         },
         {
             "sanskrit": "रुद्ध्वा",
-            "transliteration": "ruddhvā",
-            "meaning": "ruddhvā"
+            "transliteration": {
+                "hi": "रुद्ध्वा",
+                "en": "ruddhvā",
+                "be": "রুদ্ধ্বা",
+                "ka": "ರುದ್ಧ್ವಾ"
+            },
+            "meaning": {
+                "hi": "रुद्धवा",
+                "en": "ruddhvā",
+                "be": "রুদ্ধভা",
+                "ka": "ರುದ್ಧ"
+            }
         },
         {
             "sanskrit": "प्राणायामपरायणाः",
-            "transliteration": "prāṇāyāmaparāyaṇāḥ",
-            "meaning": "prāṇāyāmaparāyaṇāḥ"
+            "transliteration": {
+                "hi": "प्राणायामपरायणाः",
+                "en": "prāṇāyāmaparāyaṇāḥ",
+                "be": "প্রাণাযামপরাযণাঃ",
+                "ka": "ಪ್ರಾಣಾಯಾಮಪರಾಯಣಾಃ"
+            },
+            "meaning": {
+                "hi": "प्राणायामपरायणः",
+                "en": "prāṇāyāmaparāyaṇāḥ",
+                "be": "প্রাণায়ামপরায়ণঃ",
+                "ka": "ಪ್ರಾಣಾಯಾಮಪರಾಯಣಃ"
+            }
         }
     ],
     "tej": {

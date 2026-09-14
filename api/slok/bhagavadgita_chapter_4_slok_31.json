@@ -14,8 +14,18 @@
         "en": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam .\nnāyaṃ loko.astyayajñasya kuto.anyaḥ kurusattama ||4-31||",
         "ka": "ಯಜ್ಞಶಿಷ್ಟಾಮೃತಭುಜೋ ಯಾನ್ತಿ ಬ್ರಹ್ಮ ಸನಾತನಮ್ |\nನಾಯಂ ಲೋಕೋಽಸ್ತ್ಯಯಜ್ಞಸ್ಯ ಕುತೋಽನ್ಯಃ ಕುರುಸತ್ತಮ ||೪-೩೧||"
     },
-    "transliteration": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam .\nnāyaṃ loko.astyayajñasya kuto.anyaḥ kurusattama ||4-31||",
-    "life_application": "Live generously by offering your best before partaking, knowing that a life without sacrifice brings no true joy.",
+    "transliteration": {
+        "hi": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ||४-३१||",
+        "en": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam .\nnāyaṃ loko.astyayajñasya kuto.anyaḥ kurusattama ||4-31||",
+        "be": "যজ্ঞশিষ্টামৃতভুজো যান্তি ব্রহ্ম সনাতনম্ |\nনাযং লোকোঽস্ত্যযজ্ঞস্য কুতোঽন্যঃ কুরুসত্তম ||৪-৩১||",
+        "ka": "ಯಜ್ಞಶಿಷ್ಟಾಮೃತಭುಜೋ ಯಾನ್ತಿ ಬ್ರಹ್ಮ ಸನಾತನಮ್ |\nನಾಯಂ ಲೋಕೋಽಸ್ತ್ಯಯಜ್ಞಸ್ಯ ಕುತೋಽನ್ಯಃ ಕುರುಸತ್ತಮ ||೪-೩೧||"
+    },
+    "life_application": {
+        "hi": "भाग लेने से पहले अपना सर्वश्रेष्ठ देकर उदारतापूर्वक जिएं, यह जानते हुए कि त्याग के बिना जीवन कोई सच्चा आनंद नहीं लाता है।",
+        "en": "Live generously by offering your best before partaking, knowing that a life without sacrifice brings no true joy.",
+        "be": "অংশ নেওয়ার আগে আপনার সেরাটা দিয়ে উদারভাবে বেঁচে থাকুন, জেনে রাখুন যে ত্যাগ ছাড়া জীবন সত্যিকারের আনন্দ নিয়ে আসে না।",
+        "ka": "ತ್ಯಾಗವಿಲ್ಲದ ಜೀವನವು ನಿಜವಾದ ಸಂತೋಷವನ್ನು ತರುವುದಿಲ್ಲ ಎಂದು ತಿಳಿದು, ಪಾಲ್ಗೊಳ್ಳುವ ಮೊದಲು ನಿಮ್ಮ ಅತ್ಯುತ್ತಮವಾದದ್ದನ್ನು ನೀಡುವ ಮೂಲಕ ಉದಾರವಾಗಿ ಬದುಕು."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "यज्ञशिष्टामृतभुजो",
-            "transliteration": "yajñaśiṣṭāmṛtabhujo",
-            "meaning": "yajñaśiṣṭāmṛtabhujo"
+            "transliteration": {
+                "hi": "यज्ञशिष्टामृतभुजो",
+                "en": "yajñaśiṣṭāmṛtabhujo",
+                "be": "যজ্ঞশিষ্টামৃতভুজো",
+                "ka": "ಯಜ್ಞಶಿಷ್ಟಾಮೃತಭುಜೋ"
+            },
+            "meaning": {
+                "hi": "यज्ञशिष्टामृतभुजो",
+                "en": "yajñaśiṣṭāmṛtabhujo",
+                "be": "যজ্ঞশিষ্টামৃতভুজো",
+                "ka": "ಯಜ್ಞಶಿಷ್ಠಾಮೃತಭುಜೋ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "yānti"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "यांति",
+                "en": "yānti",
+                "be": "যন্তি",
+                "ka": "ಯಾಂತಿ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "सनातनम्",
-            "transliteration": "sanātanam",
-            "meaning": "sanātanam"
+            "transliteration": {
+                "hi": "सनातनम्",
+                "en": "sanātanam",
+                "be": "সনাতনম্",
+                "ka": "ಸನಾತನಮ್"
+            },
+            "meaning": {
+                "hi": "सनातनम्",
+                "en": "sanātanam",
+                "be": "সনাতনাম",
+                "ka": "ಸನಾತನಂ"
+            }
         },
         {
             "sanskrit": "नायं",
-            "transliteration": "nāyaṃ",
-            "meaning": "nāyaṃ"
+            "transliteration": {
+                "hi": "नायं",
+                "en": "nāyaṃ",
+                "be": "নাযং",
+                "ka": "ನಾಯಂ"
+            },
+            "meaning": {
+                "hi": "नयन",
+                "en": "nāyaṃ",
+                "be": "nāyaṃ",
+                "ka": "nayaṃ"
+            }
         },
         {
             "sanskrit": "लोकोऽस्त्ययज्ञस्य",
-            "transliteration": "loko'styayajñasya",
-            "meaning": "loko'styayajñasya"
+            "transliteration": {
+                "hi": "लोकोऽस्त्ययज्ञस्य",
+                "en": "loko'styayajñasya",
+                "be": "লোকোঽস্ত্যযজ্ঞস্য",
+                "ka": "ಲೋಕೋಽಸ್ತ್ಯಯಜ್ಞಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "लोकोऽस्त्ययज्ञस्य",
+                "en": "loko'styayajñasya",
+                "be": "লোকো'স্তয়জ্ঞস্যা",
+                "ka": "ಲೋಕೋ'ಸ್ತ್ಯಯಜ್ಞಾಸ್ಯ"
+            }
         },
         {
             "sanskrit": "कुतोऽन्यः",
-            "transliteration": "kuto'nyaḥ",
-            "meaning": "kuto'nyaḥ"
+            "transliteration": {
+                "hi": "कुतोऽन्यः",
+                "en": "kuto'nyaḥ",
+                "be": "কুতোঽন্যঃ",
+                "ka": "ಕುತೋಽನ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "कुतोऽन्याः",
+                "en": "kuto'nyaḥ",
+                "be": "kuto'nyaḥ",
+                "ka": "ಕುಟೋ'ನ್ಯಾಃ"
+            }
         },
         {
             "sanskrit": "कुरुसत्तम",
-            "transliteration": "kurusattama",
-            "meaning": "kurusattama"
+            "transliteration": {
+                "hi": "कुरुसत्तम",
+                "en": "kurusattama",
+                "be": "কুরুসত্তম",
+                "ka": "ಕುರುಸತ್ತಮ"
+            },
+            "meaning": {
+                "hi": "कुरुसत्तमा",
+                "en": "kurusattama",
+                "be": "কুরুসত্তমা",
+                "ka": "ಕುರುಸತ್ತಮ"
+            }
         }
     ],
     "tej": {

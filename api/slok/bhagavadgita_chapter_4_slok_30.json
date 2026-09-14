@@ -14,8 +14,18 @@
         "en": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati .\nsarve.apyete yajñavido yajñakṣapitakalmaṣāḥ ||4-30||",
         "ka": "ಅಪರೇ ನಿಯತಾಹಾರಾಃ ಪ್ರಾಣಾನ್ಪ್ರಾಣೇಷು ಜುಹ್ವತಿ |\nಸರ್ವೇಽಪ್ಯೇತೇ ಯಜ್ಞವಿದೋ ಯಜ್ಞಕ್ಷಪಿತಕಲ್ಮಷಾಃ ||೪-೩೦||"
     },
-    "transliteration": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati .\nsarve.apyete yajñavido yajñakṣapitakalmaṣāḥ ||4-30||",
-    "life_application": "Practice moderation in eating and consumption, purifying your body and mind through intentional habits.",
+    "transliteration": {
+        "hi": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति |\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ||४-३०||",
+        "en": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati .\nsarve.apyete yajñavido yajñakṣapitakalmaṣāḥ ||4-30||",
+        "be": "অপরে নিযতাহারাঃ প্রাণান্প্রাণেষু জুহ্বতি |\nসর্বেঽপ্যেতে যজ্ঞবিদো যজ্ঞক্ষপিতকল্মষাঃ ||৪-৩০||",
+        "ka": "ಅಪರೇ ನಿಯತಾಹಾರಾಃ ಪ್ರಾಣಾನ್ಪ್ರಾಣೇಷು ಜುಹ್ವತಿ |\nಸರ್ವೇಽಪ್ಯೇತೇ ಯಜ್ಞವಿದೋ ಯಜ್ಞಕ್ಷಪಿತಕಲ್ಮಷಾಃ ||೪-೩೦||"
+    },
+    "life_application": {
+        "hi": "खाने और उपभोग में संयम बरतें, जानबूझकर आदतों के माध्यम से अपने शरीर और दिमाग को शुद्ध करें।",
+        "en": "Practice moderation in eating and consumption, purifying your body and mind through intentional habits.",
+        "be": "খাওয়া এবং সেবনে সংযম অনুশীলন করুন, ইচ্ছাকৃত অভ্যাসের মাধ্যমে আপনার শরীর এবং মনকে শুদ্ধ করুন।",
+        "ka": "ಉದ್ದೇಶಪೂರ್ವಕ ಅಭ್ಯಾಸಗಳ ಮೂಲಕ ನಿಮ್ಮ ದೇಹ ಮತ್ತು ಮನಸ್ಸನ್ನು ಶುದ್ಧೀಕರಿಸುವ, ತಿನ್ನುವುದು ಮತ್ತು ಸೇವನೆಯಲ್ಲಿ ಮಿತವಾಗಿರುವುದನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Duty"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "अपरे",
-            "transliteration": "apare",
-            "meaning": "apare"
+            "transliteration": {
+                "hi": "अपरे",
+                "en": "apare",
+                "be": "অপরে",
+                "ka": "ಅಪರೇ"
+            },
+            "meaning": {
+                "hi": "अलग होना",
+                "en": "apare",
+                "be": "apare",
+                "ka": "ಅಪರೇ"
+            }
         },
         {
             "sanskrit": "नियताहाराः",
-            "transliteration": "niyatāhārāḥ",
-            "meaning": "niyatāhārāḥ"
+            "transliteration": {
+                "hi": "नियताहाराः",
+                "en": "niyatāhārāḥ",
+                "be": "নিযতাহারাঃ",
+                "ka": "ನಿಯತಾಹಾರಾಃ"
+            },
+            "meaning": {
+                "hi": "नियताहारः",
+                "en": "niyatāhārāḥ",
+                "be": "নিয়তাহারঃ",
+                "ka": "ನಿಯತಾಹಾರಃ"
+            }
         },
         {
             "sanskrit": "प्राणान्प्राणेषु",
-            "transliteration": "prāṇānprāṇeṣu",
-            "meaning": "prāṇānprāṇeṣu"
+            "transliteration": {
+                "hi": "प्राणान्प्राणेषु",
+                "en": "prāṇānprāṇeṣu",
+                "be": "প্রাণান্প্রাণেষু",
+                "ka": "ಪ್ರಾಣಾನ್ಪ್ರಾಣೇಷು"
+            },
+            "meaning": {
+                "hi": "प्राणानप्राणेषु",
+                "en": "prāṇānprāṇeṣu",
+                "be": "প্রাণপ্রাণেষু",
+                "ka": "ಪ್ರಾಣಪ್ರಾಣೇಷು"
+            }
         },
         {
             "sanskrit": "जुह्वति",
-            "transliteration": "juhvati",
-            "meaning": "juhvati"
+            "transliteration": {
+                "hi": "जुह्वति",
+                "en": "juhvati",
+                "be": "জুহ্বতি",
+                "ka": "ಜುಹ್ವತಿ"
+            },
+            "meaning": {
+                "hi": "जुहवती",
+                "en": "juhvati",
+                "be": "জুহবতী",
+                "ka": "ಜುಹ್ವತಿ"
+            }
         },
         {
             "sanskrit": "सर्वेऽप्येते",
-            "transliteration": "sarve'pyete",
-            "meaning": "sarve'pyete"
+            "transliteration": {
+                "hi": "सर्वेऽप्येते",
+                "en": "sarve'pyete",
+                "be": "সর্বেঽপ্যেতে",
+                "ka": "ಸರ್ವೇಽಪ್ಯೇತೇ"
+            },
+            "meaning": {
+                "hi": "सर्वे'पीते",
+                "en": "sarve'pyete",
+                "be": "sarve'pyete",
+                "ka": "ಸರ್ವೆ'ಪೈಟೆ"
+            }
         },
         {
             "sanskrit": "यज्ञविदो",
-            "transliteration": "yajñavido",
-            "meaning": "yajñavido"
+            "transliteration": {
+                "hi": "यज्ञविदो",
+                "en": "yajñavido",
+                "be": "যজ্ঞবিদো",
+                "ka": "ಯಜ್ಞವಿದೋ"
+            },
+            "meaning": {
+                "hi": "यज्ञविदो",
+                "en": "yajñavido",
+                "be": "যজ্ঞভিদো",
+                "ka": "ಯಜ್ಞವಿದೋ"
+            }
         },
         {
             "sanskrit": "यज्ञक्षपितकल्मषाः",
-            "transliteration": "yajñakṣapitakalmaṣāḥ",
-            "meaning": "yajñakṣapitakalmaṣāḥ"
+            "transliteration": {
+                "hi": "यज्ञक्षपितकल्मषाः",
+                "en": "yajñakṣapitakalmaṣāḥ",
+                "be": "যজ্ঞক্ষপিতকল্মষাঃ",
+                "ka": "ಯಜ್ಞಕ್ಷಪಿತಕಲ್ಮಷಾಃ"
+            },
+            "meaning": {
+                "hi": "यज्ञक्षपिताकल्मशाः",
+                "en": "yajñakṣapitakalmaṣāḥ",
+                "be": "যজ্ঞক্ষপিটকলমশাঃ",
+                "ka": "ಯಜ್ಞಾಕ್ಷಪಿತಕಲ್ಮಶಾಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati .\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ||18-54||",
         "ka": "ಬ್ರಹ್ಮಭೂತಃ ಪ್ರಸನ್ನಾತ್ಮಾ ನ ಶೋಚತಿ ನ ಕಾಙ್ಕ್ಷತಿ |\nಸಮಃ ಸರ್ವೇಷು ಭೂತೇಷು ಮದ್ಭಕ್ತಿಂ ಲಭತೇ ಪರಾಮ್ ||೧೮-೫೪||"
     },
-    "transliteration": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati .\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ||18-54||",
-    "life_application": "Becoming Brahman, serene in Self, he neither grieves nor desires; equal to all beings, he gains supreme devotion to God.",
+    "transliteration": {
+        "hi": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति |\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||१८-५४||",
+        "en": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati .\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ||18-54||",
+        "be": "ব্রহ্মভূতঃ প্রসন্নাত্মা ন শোচতি ন কাঙ্ক্ষতি |\nসমঃ সর্বেষু ভূতেষু মদ্ভক্তিং লভতে পরাম্ ||১৮-৫৪||",
+        "ka": "ಬ್ರಹ್ಮಭೂತಃ ಪ್ರಸನ್ನಾತ್ಮಾ ನ ಶೋಚತಿ ನ ಕಾಙ್ಕ್ಷತಿ |\nಸಮಃ ಸರ್ವೇಷು ಭೂತೇಷು ಮದ್ಭಕ್ತಿಂ ಲಭತೇ ಪರಾಮ್ ||೧೮-೫೪||"
+    },
+    "life_application": {
+        "hi": "ब्रह्म बनकर, स्वयं में शांत होकर, वह न तो शोक करता है और न ही इच्छा करता है; सभी प्राणियों के समान, वह ईश्वर के प्रति सर्वोच्च भक्ति प्राप्त करता है।",
+        "en": "Becoming Brahman, serene in Self, he neither grieves nor desires; equal to all beings, he gains supreme devotion to God.",
+        "be": "ব্রহ্ম হয়ে, নিজের মধ্যে নির্মল, সে দুঃখও করে না, কামনাও করে না; সকল প্রাণীর সমান, সে ঈশ্বরের প্রতি পরম ভক্তি লাভ করে।",
+        "ka": "ಬ್ರಹ್ಮನಾಗುತ್ತಾನೆ, ಆತ್ಮದಲ್ಲಿ ಪ್ರಶಾಂತನಾಗುತ್ತಾನೆ, ಅವನು ದುಃಖಿಸುವುದಿಲ್ಲ ಅಥವಾ ಬಯಸುವುದಿಲ್ಲ; ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೆ ಸಮಾನವಾಗಿ, ಅವನು ದೇವರಲ್ಲಿ ಪರಮ ಭಕ್ತಿಯನ್ನು ಪಡೆಯುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization",
@@ -24,63 +34,183 @@
     "word_meanings": [
         {
             "sanskrit": "ब्रह्मभूतः",
-            "transliteration": "brahmabhūtaḥ",
-            "meaning": "having become Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मभूतः",
+                "en": "brahmabhūtaḥ",
+                "be": "ব্রহ্মভূতঃ",
+                "ka": "ಬ್ರಹ್ಮಭೂತಃ"
+            },
+            "meaning": {
+                "hi": "ब्रह्म बन जाना",
+                "en": "having become Brahman",
+                "be": "ব্রাহ্মণ হয়ে গেছে",
+                "ka": "ಬ್ರಹ್ಮನಾಗುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "प्रसन्नात्मा",
-            "transliteration": "prasannātmā",
-            "meaning": "sereneminded"
+            "transliteration": {
+                "hi": "प्रसन्नात्मा",
+                "en": "prasannātmā",
+                "be": "প্রসন্নাত্মা",
+                "ka": "ಪ್ರಸನ್ನಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "शांतचित्त",
+                "en": "sereneminded",
+                "be": "sereneminded",
+                "ka": "ಪ್ರಶಾಂತ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "शोचति",
-            "transliteration": "śocati",
-            "meaning": "grieves"
+            "transliteration": {
+                "hi": "शोचति",
+                "en": "śocati",
+                "be": "শোচতি",
+                "ka": "ಶೋಚತಿ"
+            },
+            "meaning": {
+                "hi": "शोक करता है",
+                "en": "grieves",
+                "be": "দুঃখ পায়",
+                "ka": "ದುಃಖಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "काङ्क्षति",
-            "transliteration": "kāṅkṣati",
-            "meaning": "desires"
+            "transliteration": {
+                "hi": "काङ्क्षति",
+                "en": "kāṅkṣati",
+                "be": "কাঙ্ক্ষতি",
+                "ka": "ಕಾಙ್ಕ್ಷತಿ"
+            },
+            "meaning": {
+                "hi": "इच्छाएँ",
+                "en": "desires",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "समः",
-            "transliteration": "samaḥ",
-            "meaning": "the same"
+            "transliteration": {
+                "hi": "समः",
+                "en": "samaḥ",
+                "be": "সমঃ",
+                "ka": "ಸಮಃ"
+            },
+            "meaning": {
+                "hi": "वही",
+                "en": "the same",
+                "be": "একই",
+                "ka": "ಅದೇ"
+            }
         },
         {
             "sanskrit": "सर्वेषु",
-            "transliteration": "sarveṣu",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वेषु",
+                "en": "sarveṣu",
+                "be": "সর্বেষু",
+                "ka": "ಸರ್ವೇಷು"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "भूतेषु",
-            "transliteration": "bhūteṣu",
-            "meaning": "in beings"
+            "transliteration": {
+                "hi": "भूतेषु",
+                "en": "bhūteṣu",
+                "be": "ভূতেষু",
+                "ka": "ಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "प्राणियों में",
+                "en": "in beings",
+                "be": "প্রাণীদের মধ্যে",
+                "ka": "ಜೀವಿಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "मद्भक्तिम्",
-            "transliteration": "madbhaktim",
-            "meaning": "devotion unto Me"
+            "transliteration": {
+                "hi": "मद्भक्तिम्",
+                "en": "madbhaktim",
+                "be": "মদ্ভক্তিম্",
+                "ka": "ಮದ್ಭಕ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "मेरे प्रति भक्ति",
+                "en": "devotion unto Me",
+                "be": "আমার প্রতি ভক্তি",
+                "ka": "ನನ್ನ ಮೇಲಿನ ಭಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "लभते",
-            "transliteration": "labhate",
-            "meaning": "obtains"
+            "transliteration": {
+                "hi": "लभते",
+                "en": "labhate",
+                "be": "লভতে",
+                "ka": "ಲಭತೇ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है",
+                "en": "obtains",
+                "be": "পায়",
+                "ka": "ಪಡೆಯುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "supreme."
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च.",
+                "en": "supreme.",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ."
+            }
         }
     ],
     "tej": {

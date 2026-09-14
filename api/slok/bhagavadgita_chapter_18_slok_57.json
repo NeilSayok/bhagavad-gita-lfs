@@ -14,8 +14,18 @@
         "en": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ .\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava ||18-57||",
         "ka": "ಚೇತಸಾ ಸರ್ವಕರ್ಮಾಣಿ ಮಯಿ ಸಂನ್ಯಸ್ಯ ಮತ್ಪರಃ |\nಬುದ್ಧಿಯೋಗಮುಪಾಶ್ರಿತ್ಯ ಮಚ್ಚಿತ್ತಃ ಸತತಂ ಭವ ||೧೮-೫೭||"
     },
-    "transliteration": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ .\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava ||18-57||",
-    "life_application": "Mentally surrendering all actions to God, regarding God as supreme goal, resorting to yoga of intellect, fix mind on God constantly.",
+    "transliteration": {
+        "hi": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः |\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||१८-५७||",
+        "en": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ .\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava ||18-57||",
+        "be": "চেতসা সর্বকর্মাণি মযি সংন্যস্য মত্পরঃ |\nবুদ্ধিযোগমুপাশ্রিত্য মচ্চিত্তঃ সততং ভব ||১৮-৫৭||",
+        "ka": "ಚೇತಸಾ ಸರ್ವಕರ್ಮಾಣಿ ಮಯಿ ಸಂನ್ಯಸ್ಯ ಮತ್ಪರಃ |\nಬುದ್ಧಿಯೋಗಮುಪಾಶ್ರಿತ್ಯ ಮಚ್ಚಿತ್ತಃ ಸತತಂ ಭವ ||೧೮-೫೭||"
+    },
+    "life_application": {
+        "hi": "मानसिक रूप से सभी कार्यों को भगवान को समर्पित करते हुए, भगवान को सर्वोच्च लक्ष्य मानकर, बुद्धि के योग का सहारा लेते हुए, मन को लगातार भगवान में केंद्रित करें।",
+        "en": "Mentally surrendering all actions to God, regarding God as supreme goal, resorting to yoga of intellect, fix mind on God constantly.",
+        "be": "মানসিকভাবে সমস্ত কর্ম ঈশ্বরের কাছে সমর্পণ করে, ঈশ্বরকে সর্বোত্তম লক্ষ্য মনে করে, বুদ্ধির যোগে অবলম্বন করে, সর্বদা ভগবানে মনকে স্থির করে।",
+        "ka": "ಮಾನಸಿಕವಾಗಿ ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳನ್ನು ದೇವರಿಗೆ ಒಪ್ಪಿಸಿ, ದೇವರನ್ನು ಪರಮೋನ್ನತ ಗುರಿಯಾಗಿ ಪರಿಗಣಿಸಿ, ಬುದ್ಧಿಯ ಯೋಗವನ್ನು ಆಶ್ರಯಿಸಿ, ನಿರಂತರವಾಗಿ ದೇವರ ಮೇಲೆ ಮನಸ್ಸನ್ನು ಇರಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mind"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "चेतसा",
-            "transliteration": "cetasā",
-            "meaning": "mentally"
+            "transliteration": {
+                "hi": "चेतसा",
+                "en": "cetasā",
+                "be": "চেতসা",
+                "ka": "ಚೇತಸಾ"
+            },
+            "meaning": {
+                "hi": "मानसिक रूप से",
+                "en": "mentally",
+                "be": "মানসিকভাবে",
+                "ka": "ಮಾನಸಿಕವಾಗಿ"
+            }
         },
         {
             "sanskrit": "सर्वकर्माणि",
-            "transliteration": "sarvakarmāṇi",
-            "meaning": "all actions"
+            "transliteration": {
+                "hi": "सर्वकर्माणि",
+                "en": "sarvakarmāṇi",
+                "be": "সর্বকর্মাণি",
+                "ka": "ಸರ್ವಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सभी क्रियाएं",
+                "en": "all actions",
+                "be": "সমস্ত কর্ম",
+                "ka": "ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳು"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "in Me"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "मुझमें",
+                "en": "in Me",
+                "be": "আমার মধ্যে",
+                "ka": "ನನ್ನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "संन्यस्य",
-            "transliteration": "saṃnyasya",
-            "meaning": "resigning"
+            "transliteration": {
+                "hi": "संन्यस्य",
+                "en": "saṃnyasya",
+                "be": "সংন্যস্য",
+                "ka": "ಸಂನ್ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इस्तीफा दे रहा हूं",
+                "en": "resigning",
+                "be": "পদত্যাগ",
+                "ka": "ರಾಜೀನಾಮೆ ನೀಡುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "मत्परः",
-            "transliteration": "matparaḥ",
-            "meaning": "having Me as the"
+            "transliteration": {
+                "hi": "मत्परः",
+                "en": "matparaḥ",
+                "be": "মত্পরঃ",
+                "ka": "ಮತ್ಪರಃ"
+            },
+            "meaning": {
+                "hi": "मुझे के रूप में रखते हुए",
+                "en": "having Me as the",
+                "be": "হিসাবে আমাকে থাকার",
+                "ka": "ನನ್ನನ್ನು ಹೊಂದಿರುವ"
+            }
         },
         {
             "sanskrit": "बुद्धियोगम्",
-            "transliteration": "buddhiyogam",
-            "meaning": "the Yoga of discrimination"
+            "transliteration": {
+                "hi": "बुद्धियोगम्",
+                "en": "buddhiyogam",
+                "be": "বুদ্ধিযোগম্",
+                "ka": "ಬುದ್ಧಿಯೋಗಮ್"
+            },
+            "meaning": {
+                "hi": "भेदभाव का योग",
+                "en": "the Yoga of discrimination",
+                "be": "বৈষম্যের যোগ",
+                "ka": "ತಾರತಮ್ಯದ ಯೋಗ"
+            }
         },
         {
             "sanskrit": "उपाश्रित्य",
-            "transliteration": "upāśritya",
-            "meaning": "resorting to"
+            "transliteration": {
+                "hi": "उपाश्रित्य",
+                "en": "upāśritya",
+                "be": "উপাশ্রিত্য",
+                "ka": "ಉಪಾಶ್ರಿತ್ಯ"
+            },
+            "meaning": {
+                "hi": "का सहारा ले रहे हैं",
+                "en": "resorting to",
+                "be": "অবলম্বন",
+                "ka": "ಆಶ್ರಯಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "मच्चित्तः",
-            "transliteration": "maccittaḥ",
-            "meaning": "with the mind fixed"
+            "transliteration": {
+                "hi": "मच्चित्तः",
+                "en": "maccittaḥ",
+                "be": "মচ্চিত্তঃ",
+                "ka": "ಮಚ್ಚಿತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मन स्थिर करके",
+                "en": "with the mind fixed",
+                "be": "মন স্থির করে",
+                "ka": "ಮನಸ್ಸು ಸ್ಥಿರವಾಗಿ"
+            }
         },
         {
             "sanskrit": "सततम्",
-            "transliteration": "satatam",
-            "meaning": "always"
+            "transliteration": {
+                "hi": "सततम्",
+                "en": "satatam",
+                "be": "সততম্",
+                "ka": "ಸತತಮ್"
+            },
+            "meaning": {
+                "hi": "हमेशा",
+                "en": "always",
+                "be": "সবসময়",
+                "ka": "ಯಾವಾಗಲೂ"
+            }
         },
         {
             "sanskrit": "भव",
-            "transliteration": "bhava",
-            "meaning": "be."
+            "transliteration": {
+                "hi": "भव",
+                "en": "bhava",
+                "be": "ভব",
+                "ka": "ಭವ"
+            },
+            "meaning": {
+                "hi": "होना।",
+                "en": "be.",
+                "be": "হতে",
+                "ka": "ಎಂದು."
+            }
         }
     ],
     "tej": {

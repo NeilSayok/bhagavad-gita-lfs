@@ -14,8 +14,18 @@
         "en": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata .\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||18-62||",
         "ka": "ತಮೇವ ಶರಣಂ ಗಚ್ಛ ಸರ್ವಭಾವೇನ ಭಾರತ |\nತತ್ಪ್ರಸಾದಾತ್ಪರಾಂ ಶಾನ್ತಿಂ ಸ್ಥಾನಂ ಪ್ರಾಪ್ಸ್ಯಸಿ ಶಾಶ್ವತಮ್ ||೧೮-೬೨||"
     },
-    "transliteration": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata .\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||18-62||",
-    "life_application": "Take refuge in God alone with all your heart; by divine grace you will attain supreme peace and eternal abode.",
+    "transliteration": {
+        "hi": "तमेव शरणं गच्छ सर्वभावेन भारत |\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ||१८-६२||",
+        "en": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata .\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||18-62||",
+        "be": "তমেব শরণং গচ্ছ সর্বভাবেন ভারত |\nতত্প্রসাদাত্পরাং শান্তিং স্থানং প্রাপ্স্যসি শাশ্বতম্ ||১৮-৬২||",
+        "ka": "ತಮೇವ ಶರಣಂ ಗಚ್ಛ ಸರ್ವಭಾವೇನ ಭಾರತ |\nತತ್ಪ್ರಸಾದಾತ್ಪರಾಂ ಶಾನ್ತಿಂ ಸ್ಥಾನಂ ಪ್ರಾಪ್ಸ್ಯಸಿ ಶಾಶ್ವತಮ್ ||೧೮-೬೨||"
+    },
+    "life_application": {
+        "hi": "सम्पूर्ण मन से केवल परमेश्वर की शरण में रहो; दैवीय कृपा से तुम्हें परम शांति और शाश्वत निवास प्राप्त होगा।",
+        "en": "Take refuge in God alone with all your heart; by divine grace you will attain supreme peace and eternal abode.",
+        "be": "সমস্ত হৃদয় দিয়ে একমাত্র ঈশ্বরের আশ্রয় নিন; ঐশ্বরিক কৃপায় তুমি পরম শান্তি ও অনন্ত নিবাস লাভ করবে।",
+        "ka": "ನಿಮ್ಮ ಪೂರ್ಣ ಹೃದಯದಿಂದ ದೇವರನ್ನು ಮಾತ್ರ ಆಶ್ರಯಿಸಿ; ದೈವಿಕ ಅನುಗ್ರಹದಿಂದ ನೀವು ಸರ್ವೋಚ್ಚ ಶಾಂತಿ ಮತ್ತು ಶಾಶ್ವತ ನಿವಾಸವನ್ನು ಪಡೆಯುತ್ತೀರಿ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "to Him"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "उसे",
+                "en": "to Him",
+                "be": "তার কাছে",
+                "ka": "ಅವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "शरणम् गच्छ",
-            "transliteration": "śaraṇam gaccha",
-            "meaning": "take refuge"
+            "transliteration": {
+                "hi": "शरणम् गच्छ",
+                "en": "śaraṇam gaccha",
+                "be": "শরণম্ গচ্ছ",
+                "ka": "ಶರಣಮ್ ಗಚ್ಛ"
+            },
+            "meaning": {
+                "hi": "शरण लो",
+                "en": "take refuge",
+                "be": "আশ্রয় নিতে",
+                "ka": "ಆಶ್ರಯ ಪಡೆಯುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "सर्वभावेन",
-            "transliteration": "sarvabhāvena",
-            "meaning": "with all thy being"
+            "transliteration": {
+                "hi": "सर्वभावेन",
+                "en": "sarvabhāvena",
+                "be": "সর্বভাবেন",
+                "ka": "ಸರ್ವಭಾವೇನ"
+            },
+            "meaning": {
+                "hi": "अपने सम्पूर्ण अस्तित्व के साथ",
+                "en": "with all thy being",
+                "be": "তোমার সমস্ত সত্তা দিয়ে",
+                "ka": "ನಿಮ್ಮ ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata",
+                "be": "হে ভরত",
+                "ka": "ಓ ಭರತ"
+            }
         },
         {
             "sanskrit": "तत्प्रसादात्",
-            "transliteration": "tatprasādāt",
-            "meaning": "by His grace"
+            "transliteration": {
+                "hi": "तत्प्रसादात्",
+                "en": "tatprasādāt",
+                "be": "তত্প্রসাদাত্",
+                "ka": "ತತ್ಪ್ರಸಾದಾತ್"
+            },
+            "meaning": {
+                "hi": "उनकी कृपा से",
+                "en": "by His grace",
+                "be": "তাঁর অনুগ্রহে",
+                "ka": "ಅವನ ಕೃಪೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "शान्तिम्",
-            "transliteration": "śāntim",
-            "meaning": "peace"
+            "transliteration": {
+                "hi": "शान्तिम्",
+                "en": "śāntim",
+                "be": "শান্তিম্",
+                "ka": "ಶಾನ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "peace",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "स्थानम्",
-            "transliteration": "sthānam",
-            "meaning": "the abode"
+            "transliteration": {
+                "hi": "स्थानम्",
+                "en": "sthānam",
+                "be": "স্থানম্",
+                "ka": "ಸ್ಥಾನಮ್"
+            },
+            "meaning": {
+                "hi": "निवास",
+                "en": "the abode",
+                "be": "বাসস্থান",
+                "ka": "ವಾಸಸ್ಥಾನ"
+            }
         },
         {
             "sanskrit": "प्राप्स्यसि",
-            "transliteration": "prāpsyasi",
-            "meaning": "shalt obtain"
+            "transliteration": {
+                "hi": "प्राप्स्यसि",
+                "en": "prāpsyasi",
+                "be": "প্রাপ্স্যসি",
+                "ka": "ಪ್ರಾಪ್ಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करना होगा",
+                "en": "shalt obtain",
+                "be": "প্রাপ্ত করা উচিত",
+                "ka": "ಪಡೆಯಬೇಕು"
+            }
         },
         {
             "sanskrit": "शाश्वतम्",
-            "transliteration": "śāśvatam",
-            "meaning": "eternal."
+            "transliteration": {
+                "hi": "शाश्वतम्",
+                "en": "śāśvatam",
+                "be": "শাশ্বতম্",
+                "ka": "ಶಾಶ್ವತಮ್"
+            },
+            "meaning": {
+                "hi": "शाश्वत।",
+                "en": "eternal.",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ."
+            }
         }
     ],
     "tej": {

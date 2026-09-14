@@ -14,8 +14,18 @@
         "en": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi .\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi ||18-58||",
         "ka": "ಮಚ್ಚಿತ್ತಃ ಸರ್ವದುರ್ಗಾಣಿ ಮತ್ಪ್ರಸಾದಾತ್ತರಿಷ್ಯಸಿ |\nಅಥ ಚೇತ್ತ್ವಮಹಂಕಾರಾನ್ನ ಶ್ರೋಷ್ಯಸಿ ವಿನಙ್ಕ್ಷ್ಯಸಿ ||೧೮-೫೮||"
     },
-    "transliteration": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi .\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi ||18-58||",
-    "life_application": "Fix your mind on God to overcome all obstacles, avoiding self-importance that leads to ruin.",
+    "transliteration": {
+        "hi": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि |\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ||१८-५८||",
+        "en": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi .\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi ||18-58||",
+        "be": "মচ্চিত্তঃ সর্বদুর্গাণি মত্প্রসাদাত্তরিষ্যসি |\nঅথ চেত্ত্বমহংকারান্ন শ্রোষ্যসি বিনঙ্ক্ষ্যসি ||১৮-৫৮||",
+        "ka": "ಮಚ್ಚಿತ್ತಃ ಸರ್ವದುರ್ಗಾಣಿ ಮತ್ಪ್ರಸಾದಾತ್ತರಿಷ್ಯಸಿ |\nಅಥ ಚೇತ್ತ್ವಮಹಂಕಾರಾನ್ನ ಶ್ರೋಷ್ಯಸಿ ವಿನಙ್ಕ್ಷ್ಯಸಿ ||೧೮-೫೮||"
+    },
+    "life_application": {
+        "hi": "सभी बाधाओं को दूर करने के लिए अपना मन ईश्वर पर केन्द्रित करें, आत्म-महत्व से बचें जो विनाश की ओर ले जाता है।",
+        "en": "Fix your mind on God to overcome all obstacles, avoiding self-importance that leads to ruin.",
+        "be": "সর্বনাশের দিকে নিয়ে যায় এমন আত্ম-গুরুত্ব এড়িয়ে সমস্ত বাধা অতিক্রম করার জন্য ঈশ্বরের প্রতি আপনার মনকে স্থির করুন।",
+        "ka": "ವಿನಾಶಕ್ಕೆ ಕಾರಣವಾಗುವ ಸ್ವಯಂ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ತಪ್ಪಿಸಿ, ಎಲ್ಲಾ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸಲು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ದೇವರ ಮೇಲೆ ಇರಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mind",
@@ -24,58 +34,168 @@
     "word_meanings": [
         {
             "sanskrit": "मच्चित्तः",
-            "transliteration": "maccittaḥ",
-            "meaning": "fixing thy mind on"
+            "transliteration": {
+                "hi": "मच्चित्तः",
+                "en": "maccittaḥ",
+                "be": "মচ্চিত্তঃ",
+                "ka": "ಮಚ್ಚಿತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "अपने मन को स्थिर करना",
+                "en": "fixing thy mind on",
+                "be": "আপনার মন ঠিক করা",
+                "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸರಿಪಡಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "सर्वदुर्गाणि",
-            "transliteration": "sarvadurgāṇi",
-            "meaning": "all obstacles"
+            "transliteration": {
+                "hi": "सर्वदुर्गाणि",
+                "en": "sarvadurgāṇi",
+                "be": "সর্বদুর্গাণি",
+                "ka": "ಸರ್ವದುರ್ಗಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सभी बाधाएँ",
+                "en": "all obstacles",
+                "be": "সব বাধা",
+                "ka": "ಎಲ್ಲಾ ಅಡೆತಡೆಗಳು"
+            }
         },
         {
             "sanskrit": "मत्प्रसादात्",
-            "transliteration": "matprasādāt",
-            "meaning": "by My grace"
+            "transliteration": {
+                "hi": "मत्प्रसादात्",
+                "en": "matprasādāt",
+                "be": "মত্প্রসাদাত্",
+                "ka": "ಮತ್ಪ್ರಸಾದಾತ್"
+            },
+            "meaning": {
+                "hi": "मेरी कृपा से",
+                "en": "by My grace",
+                "be": "আমার অনুগ্রহে",
+                "ka": "ನನ್ನ ಕೃಪೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "तरिष्यसि",
-            "transliteration": "tariṣyasi",
-            "meaning": "shalt overcome"
+            "transliteration": {
+                "hi": "तरिष्यसि",
+                "en": "tariṣyasi",
+                "be": "তরিষ্যসি",
+                "ka": "ತರಿಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "काबू पाना होगा",
+                "en": "shalt overcome",
+                "be": "পরাস্ত করা উচিত",
+                "ka": "ಜಯಿಸಬೇಕು"
+            }
         },
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "now"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "अभी",
+                "en": "now",
+                "be": "এখন",
+                "ka": "ಈಗ"
+            }
         },
         {
             "sanskrit": "चेत्",
-            "transliteration": "cet",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "चेत्",
+                "en": "cet",
+                "be": "চেত্",
+                "ka": "ಚೇತ್"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अहङ्कारात्",
-            "transliteration": "ahaṅkārāt",
-            "meaning": "from egoism"
+            "transliteration": {
+                "hi": "अहङ्कारात्",
+                "en": "ahaṅkārāt",
+                "be": "অহঙ্কারাত্",
+                "ka": "ಅಹಙ್ಕಾರಾತ್"
+            },
+            "meaning": {
+                "hi": "अहंकार से",
+                "en": "from egoism",
+                "be": "অহংবোধ থেকে",
+                "ka": "ಅಹಂಕಾರದಿಂದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "श्रोष्यसि",
-            "transliteration": "śroṣyasi",
-            "meaning": "wilt hear"
+            "transliteration": {
+                "hi": "श्रोष्यसि",
+                "en": "śroṣyasi",
+                "be": "শ্রোষ্যসি",
+                "ka": "ಶ್ರೋಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "सुनूंगा",
+                "en": "wilt hear",
+                "be": "শুনতে হবে",
+                "ka": "ಕೇಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "विनङ्क्ष्यसि",
-            "transliteration": "vinaṅkṣyasi",
-            "meaning": "shalt perish."
+            "transliteration": {
+                "hi": "विनङ्क्ष्यसि",
+                "en": "vinaṅkṣyasi",
+                "be": "বিনঙ্ক্ষ্যসি",
+                "ka": "ವಿನಙ್ಕ್ಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "नष्ट हो जाओगे.",
+                "en": "shalt perish.",
+                "be": "ধ্বংস হবে",
+                "ka": "ನಾಶವಾಗುವುದು."
+            }
         }
     ],
     "tej": {

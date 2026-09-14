@@ -14,8 +14,18 @@
         "en": "yadahaṃkāramāśritya na yotsya iti manyase .\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati ||18-59||",
         "ka": "ಯದಹಂಕಾರಮಾಶ್ರಿತ್ಯ ನ ಯೋತ್ಸ್ಯ ಇತಿ ಮನ್ಯಸೇ |\nಮಿಥ್ಯೈಷ ವ್ಯವಸಾಯಸ್ತೇ ಪ್ರಕೃತಿಸ್ತ್ವಾಂ ನಿಯೋಕ್ಷ್ಯತಿ ||೧೮-೫೯||"
     },
-    "transliteration": "yadahaṃkāramāśritya na yotsya iti manyase .\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati ||18-59||",
-    "life_application": "If taking refuge in egoism you think 'I will not fight', vain is your resolve; your nature will compel you.",
+    "transliteration": {
+        "hi": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे |\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||१८-५९||",
+        "en": "yadahaṃkāramāśritya na yotsya iti manyase .\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati ||18-59||",
+        "be": "যদহংকারমাশ্রিত্য ন যোত্স্য ইতি মন্যসে |\nমিথ্যৈষ ব্যবসাযস্তে প্রকৃতিস্ত্বাং নিযোক্ষ্যতি ||১৮-৫৯||",
+        "ka": "ಯದಹಂಕಾರಮಾಶ್ರಿತ್ಯ ನ ಯೋತ್ಸ್ಯ ಇತಿ ಮನ್ಯಸೇ |\nಮಿಥ್ಯೈಷ ವ್ಯವಸಾಯಸ್ತೇ ಪ್ರಕೃತಿಸ್ತ್ವಾಂ ನಿಯೋಕ್ಷ್ಯತಿ ||೧೮-೫೯||"
+    },
+    "life_application": {
+        "hi": "यदि तुम अहंभाव का आश्रय लेकर यह सोचते हो कि 'मैं युद्ध नहीं करूंगा', तो तुम्हारा संकल्प व्यर्थ है; आपका स्वभाव आपको मजबूर कर देगा।",
+        "en": "If taking refuge in egoism you think 'I will not fight', vain is your resolve; your nature will compel you.",
+        "be": "অহংবোধের আশ্রয় নিলে তুমি মনে কর 'আমি যুদ্ধ করব না', তোমার সংকল্প বৃথা; আপনার প্রকৃতি আপনাকে বাধ্য করবে।",
+        "ka": "ಅಹಂಕಾರದಲ್ಲಿ ಆಶ್ರಯ ಪಡೆದರೆ 'ನಾನು ಹೋರಾಡುವುದಿಲ್ಲ' ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ನಿಮ್ಮ ಸಂಕಲ್ಪ ವ್ಯರ್ಥ; ನಿಮ್ಮ ಸ್ವಭಾವವು ನಿಮ್ಮನ್ನು ಒತ್ತಾಯಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Duty",
         "Mind"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "अहङ्कारम्",
-            "transliteration": "ahaṅkāram",
-            "meaning": "egoism"
+            "transliteration": {
+                "hi": "अहङ्कारम्",
+                "en": "ahaṅkāram",
+                "be": "অহঙ্কারম্",
+                "ka": "ಅಹಙ್ಕಾರಮ್"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "egoism",
+                "be": "অহংবোধ",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "आश्रित्य",
-            "transliteration": "āśritya",
-            "meaning": "having taken refuge in"
+            "transliteration": {
+                "hi": "आश्रित्य",
+                "en": "āśritya",
+                "be": "আশ্রিত্য",
+                "ka": "ಆಶ್ರಿತ್ಯ"
+            },
+            "meaning": {
+                "hi": "में शरण ली है",
+                "en": "having taken refuge in",
+                "be": "আশ্রয় নিয়েছে",
+                "ka": "ಆಶ್ರಯ ಪಡೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "योत्स्ये",
-            "transliteration": "yotsye",
-            "meaning": "will fight"
+            "transliteration": {
+                "hi": "योत्स्ये",
+                "en": "yotsye",
+                "be": "যোত্স্যে",
+                "ka": "ಯೋತ್ಸ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "लड़ेंगे",
+                "en": "will fight",
+                "be": "যুদ্ধ করবে",
+                "ka": "ಹೋರಾಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मन्यसे",
-            "transliteration": "manyase",
-            "meaning": "thinkest"
+            "transliteration": {
+                "hi": "मन्यसे",
+                "en": "manyase",
+                "be": "মন্যসে",
+                "ka": "ಮನ್ಯಸೇ"
+            },
+            "meaning": {
+                "hi": "सबसे विचारशील",
+                "en": "thinkest",
+                "be": "চিন্তাশীল",
+                "ka": "ಚಿಂತಕ"
+            }
         },
         {
             "sanskrit": "मिथ्या",
-            "transliteration": "mithyā",
-            "meaning": "vain"
+            "transliteration": {
+                "hi": "मिथ्या",
+                "en": "mithyā",
+                "be": "মিথ্যা",
+                "ka": "ಮಿಥ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "व्यर्थ",
+                "en": "vain",
+                "be": "বৃথা",
+                "ka": "ವ್ಯರ್ಥ"
+            }
         },
         {
             "sanskrit": "एषः",
-            "transliteration": "eṣaḥ",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एषः",
+                "en": "eṣaḥ",
+                "be": "এষঃ",
+                "ka": "ಏಷಃ"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "व्यवसायः",
-            "transliteration": "vyavasāyaḥ",
-            "meaning": "resolve"
+            "transliteration": {
+                "hi": "व्यवसायः",
+                "en": "vyavasāyaḥ",
+                "be": "ব্যবসাযঃ",
+                "ka": "ವ್ಯವಸಾಯಃ"
+            },
+            "meaning": {
+                "hi": "संकल्प",
+                "en": "resolve",
+                "be": "সমাধান",
+                "ka": "ಪರಿಹರಿಸು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "प्रकृतिः",
-            "transliteration": "prakṛtiḥ",
-            "meaning": "nature"
+            "transliteration": {
+                "hi": "प्रकृतिः",
+                "en": "prakṛtiḥ",
+                "be": "প্রকৃতিঃ",
+                "ka": "ಪ್ರಕೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "nature",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "thee",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "नियोक्ष्यति",
-            "transliteration": "niyokṣyati",
-            "meaning": "will compel."
+            "transliteration": {
+                "hi": "नियोक्ष्यति",
+                "en": "niyokṣyati",
+                "be": "নিযোক্ষ্যতি",
+                "ka": "ನಿಯೋಕ್ಷ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "मजबूर कर देंगे.",
+                "en": "will compel.",
+                "be": "বাধ্য করবে।",
+                "ka": "ಒತ್ತಾಯಿಸುತ್ತಾರೆ."
+            }
         }
     ],
     "tej": {

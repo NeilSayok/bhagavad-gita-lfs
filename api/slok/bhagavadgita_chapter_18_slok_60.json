@@ -14,8 +14,18 @@
         "en": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā .\nkartuṃ necchasi yanmohātkariṣyasyavaśopi tat ||18-60||",
         "ka": "ಸ್ವಭಾವಜೇನ ಕೌನ್ತೇಯ ನಿಬದ್ಧಃ ಸ್ವೇನ ಕರ್ಮಣಾ |\nಕರ್ತುಂ ನೇಚ್ಛಸಿ ಯನ್ಮೋಹಾತ್ಕರಿಷ್ಯಸ್ಯವಶೋಪಿ ತತ್ ||೧೮-೬೦||"
     },
-    "transliteration": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā .\nkartuṃ necchasi yanmohātkariṣyasyavaśopi tat ||18-60||",
-    "life_application": "Bound by your own action born of nature, what from delusion you wish not to do, you will do helplessly.",
+    "transliteration": {
+        "hi": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा |\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोपि तत् ||१८-६०||",
+        "en": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā .\nkartuṃ necchasi yanmohātkariṣyasyavaśopi tat ||18-60||",
+        "be": "স্বভাবজেন কৌন্তেয নিবদ্ধঃ স্বেন কর্মণা |\nকর্তুং নেচ্ছসি যন্মোহাত্করিষ্যস্যবশোপি তত্ ||১৮-৬০||",
+        "ka": "ಸ್ವಭಾವಜೇನ ಕೌನ್ತೇಯ ನಿಬದ್ಧಃ ಸ್ವೇನ ಕರ್ಮಣಾ |\nಕರ್ತುಂ ನೇಚ್ಛಸಿ ಯನ್ಮೋಹಾತ್ಕರಿಷ್ಯಸ್ಯವಶೋಪಿ ತತ್ ||೧೮-೬೦||"
+    },
+    "life_application": {
+        "hi": "प्रकृतिजनित अपने ही कर्म से बंधे हुए, मोहवश जो कुछ तुम न करना चाहोगे, वह असहाय होकर करोगे।",
+        "en": "Bound by your own action born of nature, what from delusion you wish not to do, you will do helplessly.",
+        "be": "প্রকৃতির জন্মে নিজের কর্মে আবদ্ধ, ভ্রম থেকে যা করতে চাও না, অসহায় হয়েই করবে।",
+        "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ ನಿಮ್ಮ ಸ್ವಂತ ಕ್ರಿಯೆಗೆ ಬದ್ಧರಾಗಿ, ಭ್ರಮೆಯಿಂದ ನೀವು ಏನು ಮಾಡಬಾರದು ಎಂದು ಬಯಸುತ್ತೀರಿ, ನೀವು ಅಸಹಾಯಕರಾಗಿ ಮಾಡುತ್ತೀರಿ."
+    },
     "themes": [
         "Karma",
         "Duty"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "स्वभावजेन",
-            "transliteration": "svabhāvajena",
-            "meaning": "born of own nature"
+            "transliteration": {
+                "hi": "स्वभावजेन",
+                "en": "svabhāvajena",
+                "be": "স্বভাবজেন",
+                "ka": "ಸ್ವಭಾವಜೇನ"
+            },
+            "meaning": {
+                "hi": "अपने स्वभाव से पैदा हुआ",
+                "en": "born of own nature",
+                "be": "নিজের স্বভাবের জন্ম",
+                "ka": "ಸ್ವಂತ ಸ್ವಭಾವದಿಂದ ಹುಟ್ಟಿದ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "निबद्धः",
-            "transliteration": "nibaddhaḥ",
-            "meaning": "bound"
+            "transliteration": {
+                "hi": "निबद्धः",
+                "en": "nibaddhaḥ",
+                "be": "নিবদ্ধঃ",
+                "ka": "ನಿಬದ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "बाध्य",
+                "en": "bound",
+                "be": "আবদ্ধ",
+                "ka": "ಬಂಧಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "स्वेन",
-            "transliteration": "svena",
-            "meaning": "own"
+            "transliteration": {
+                "hi": "स्वेन",
+                "en": "svena",
+                "be": "স্বেন",
+                "ka": "ಸ್ವೇನ"
+            },
+            "meaning": {
+                "hi": "अपना",
+                "en": "own",
+                "be": "নিজস্ব",
+                "ka": "ಸ್ವಂತ"
+            }
         },
         {
             "sanskrit": "कर्मणा",
-            "transliteration": "karmaṇā",
-            "meaning": "by action"
+            "transliteration": {
+                "hi": "कर्मणा",
+                "en": "karmaṇā",
+                "be": "কর্মণা",
+                "ka": "ಕರ್ಮಣಾ"
+            },
+            "meaning": {
+                "hi": "क्रिया द्वारा",
+                "en": "by action",
+                "be": "কর্ম দ্বারা",
+                "ka": "ಕ್ರಿಯೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "कर्तुम्",
-            "transliteration": "kartum",
-            "meaning": "to do"
+            "transliteration": {
+                "hi": "कर्तुम्",
+                "en": "kartum",
+                "be": "কর্তুম্",
+                "ka": "ಕರ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "करना",
+                "en": "to do",
+                "be": "করতে",
+                "ka": "ಮಾಡಲು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "इच्छसि",
-            "transliteration": "icchasi",
-            "meaning": "wishest"
+            "transliteration": {
+                "hi": "इच्छसि",
+                "en": "icchasi",
+                "be": "ইচ্ছসি",
+                "ka": "ಇಚ್ಛಸಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "wishest",
+                "be": "ইচ্ছা",
+                "ka": "ಹಾರೈಕೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "मोहात्",
-            "transliteration": "mohāt",
-            "meaning": "from delusion"
+            "transliteration": {
+                "hi": "मोहात्",
+                "en": "mohāt",
+                "be": "মোহাত্",
+                "ka": "ಮೋಹಾತ್"
+            },
+            "meaning": {
+                "hi": "भ्रम से",
+                "en": "from delusion",
+                "be": "বিভ্রম থেকে",
+                "ka": "ಭ್ರಮೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "करिष्यसि",
-            "transliteration": "kariṣyasi",
-            "meaning": "shalt do"
+            "transliteration": {
+                "hi": "करिष्यसि",
+                "en": "kariṣyasi",
+                "be": "করিষ্যসি",
+                "ka": "ಕರಿಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "करना चाहिए",
+                "en": "shalt do",
+                "be": "করতে হবে",
+                "ka": "ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "अवशः",
-            "transliteration": "avaśaḥ",
-            "meaning": "helpless"
+            "transliteration": {
+                "hi": "अवशः",
+                "en": "avaśaḥ",
+                "be": "অবশঃ",
+                "ka": "ಅವಶಃ"
+            },
+            "meaning": {
+                "hi": "असहाय",
+                "en": "helpless",
+                "be": "অসহায়",
+                "ka": "ಅಸಹಾಯಕ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that."
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह।",
+                "en": "that.",
+                "be": "যে",
+                "ka": "ಎಂದು."
+            }
         }
     ],
     "tej": {

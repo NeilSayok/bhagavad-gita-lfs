@@ -14,8 +14,18 @@
         "en": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ .\nmatprasādādavāpnoti śāśvataṃ padamavyayam ||18-56||",
         "ka": "ಸರ್ವಕರ್ಮಾಣ್ಯಪಿ ಸದಾ ಕುರ್ವಾಣೋ ಮದ್ವ್ಯಪಾಶ್ರಯಃ |\nಮತ್ಪ್ರಸಾದಾದವಾಪ್ನೋತಿ ಶಾಶ್ವತಂ ಪದಮವ್ಯಯಮ್ ||೧೮-೫೬||"
     },
-    "transliteration": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ .\nmatprasādādavāpnoti śāśvataṃ padamavyayam ||18-56||",
-    "life_application": "Doing all actions continuously taking refuge in God, by divine grace he attains the eternal imperishable abode.",
+    "transliteration": {
+        "hi": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः |\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ||१८-५६||",
+        "en": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ .\nmatprasādādavāpnoti śāśvataṃ padamavyayam ||18-56||",
+        "be": "সর্বকর্মাণ্যপি সদা কুর্বাণো মদ্ব্যপাশ্রযঃ |\nমত্প্রসাদাদবাপ্নোতি শাশ্বতং পদমব্যযম্ ||১৮-৫৬||",
+        "ka": "ಸರ್ವಕರ್ಮಾಣ್ಯಪಿ ಸದಾ ಕುರ್ವಾಣೋ ಮದ್ವ್ಯಪಾಶ್ರಯಃ |\nಮತ್ಪ್ರಸಾದಾದವಾಪ್ನೋತಿ ಶಾಶ್ವತಂ ಪದಮವ್ಯಯಮ್ ||೧೮-೫೬||"
+    },
+    "life_application": {
+        "hi": "वह ईश्वर का आश्रय लेकर निरंतर सभी कर्म करता हुआ ईश्वरीय कृपा से शाश्वत अविनाशी धाम को प्राप्त करता है।",
+        "en": "Doing all actions continuously taking refuge in God, by divine grace he attains the eternal imperishable abode.",
+        "be": "ভগবানের শরণাপন্ন হয়ে নিরন্তর সকল কর্ম করে, দিব্য কৃপায় সে অনন্ত অবিনশ্বর বাসস্থান লাভ করে।",
+        "ka": "ದೇವರನ್ನು ಆಶ್ರಯಿಸುತ್ತಾ ನಿರಂತರವಾಗಿ ಎಲ್ಲಾ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುತ್ತಾ, ಪರಮಾತ್ಮನ ಅನುಗ್ರಹದಿಂದ ಶಾಶ್ವತವಾದ ಅವಿನಾಶಿ ನಿವಾಸವನ್ನು ಪಡೆಯುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Karma",
@@ -24,53 +34,153 @@
     "word_meanings": [
         {
             "sanskrit": "सर्वकर्माणि",
-            "transliteration": "sarvakarmāṇi",
-            "meaning": "all actions"
+            "transliteration": {
+                "hi": "सर्वकर्माणि",
+                "en": "sarvakarmāṇi",
+                "be": "সর্বকর্মাণি",
+                "ka": "ಸರ್ವಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सभी क्रियाएं",
+                "en": "all actions",
+                "be": "সমস্ত কর্ম",
+                "ka": "ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सदा",
-            "transliteration": "sadā",
-            "meaning": "always"
+            "transliteration": {
+                "hi": "सदा",
+                "en": "sadā",
+                "be": "সদা",
+                "ka": "ಸದಾ"
+            },
+            "meaning": {
+                "hi": "हमेशा",
+                "en": "always",
+                "be": "সবসময়",
+                "ka": "ಯಾವಾಗಲೂ"
+            }
         },
         {
             "sanskrit": "कुर्वाणः",
-            "transliteration": "kurvāṇaḥ",
-            "meaning": "doing"
+            "transliteration": {
+                "hi": "कुर्वाणः",
+                "en": "kurvāṇaḥ",
+                "be": "কুর্বাণঃ",
+                "ka": "ಕುರ್ವಾಣಃ"
+            },
+            "meaning": {
+                "hi": "कर रहा हूँ",
+                "en": "doing",
+                "be": "করছেন",
+                "ka": "ಮಾಡುತ್ತಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "मद्व्यपाश्रयः",
-            "transliteration": "madvyapāśrayaḥ",
-            "meaning": "taking refuge in Me"
+            "transliteration": {
+                "hi": "मद्व्यपाश्रयः",
+                "en": "madvyapāśrayaḥ",
+                "be": "মদ্ব্যপাশ্রযঃ",
+                "ka": "ಮದ್ವ್ಯಪಾಶ್ರಯಃ"
+            },
+            "meaning": {
+                "hi": "मेरी शरण लेते हुए",
+                "en": "taking refuge in Me",
+                "be": "আমার আশ্রয় গ্রহণ",
+                "ka": "ನನ್ನಲ್ಲಿ ಆಶ್ರಯ ಪಡೆದೆ"
+            }
         },
         {
             "sanskrit": "मत्प्रसादात्",
-            "transliteration": "matprasādāt",
-            "meaning": "by My grace"
+            "transliteration": {
+                "hi": "मत्प्रसादात्",
+                "en": "matprasādāt",
+                "be": "মত্প্রসাদাত্",
+                "ka": "ಮತ್ಪ್ರಸಾದಾತ್"
+            },
+            "meaning": {
+                "hi": "मेरी कृपा से",
+                "en": "by My grace",
+                "be": "আমার অনুগ্রহে",
+                "ka": "ನನ್ನ ಕೃಪೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "अवाप्नोति",
-            "transliteration": "avāpnoti",
-            "meaning": "obtains"
+            "transliteration": {
+                "hi": "अवाप्नोति",
+                "en": "avāpnoti",
+                "be": "অবাপ্নোতি",
+                "ka": "ಅವಾಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है",
+                "en": "obtains",
+                "be": "পায়",
+                "ka": "ಪಡೆಯುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "शाश्वतम्",
-            "transliteration": "śāśvatam",
-            "meaning": "the eternal"
+            "transliteration": {
+                "hi": "शाश्वतम्",
+                "en": "śāśvatam",
+                "be": "শাশ্বতম্",
+                "ka": "ಶಾಶ್ವತಮ್"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "the eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "पदम्",
-            "transliteration": "padam",
-            "meaning": "state or abode"
+            "transliteration": {
+                "hi": "पदम्",
+                "en": "padam",
+                "be": "পদম্",
+                "ka": "ಪದಮ್"
+            },
+            "meaning": {
+                "hi": "राज्य या निवास",
+                "en": "state or abode",
+                "be": "রাষ্ট্র বা বাসস্থান",
+                "ka": "ರಾಜ್ಯ ಅಥವಾ ನಿವಾಸ"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "indestructible."
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी.",
+                "en": "indestructible.",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ."
+            }
         }
     ],
     "tej": {

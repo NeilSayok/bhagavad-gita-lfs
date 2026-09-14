@@ -14,8 +14,18 @@
         "en": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ .\ntato māṃ tattvato jñātvā viśate tadanantaram ||18-55||",
         "ka": "ಭಕ್ತ್ಯಾ ಮಾಮಭಿಜಾನಾತಿ ಯಾವಾನ್ಯಶ್ಚಾಸ್ಮಿ ತತ್ತ್ವತಃ |\nತತೋ ಮಾಂ ತತ್ತ್ವತೋ ಜ್ಞಾತ್ವಾ ವಿಶತೇ ತದನನ್ತರಮ್ ||೧೮-೫೫||"
     },
-    "transliteration": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ .\ntato māṃ tattvato jñātvā viśate tadanantaram ||18-55||",
-    "life_application": "By devotion he knows God in truth, what and who God is; knowing God in truth, he enters God immediately.",
+    "transliteration": {
+        "hi": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः |\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||१८-५५||",
+        "en": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ .\ntato māṃ tattvato jñātvā viśate tadanantaram ||18-55||",
+        "be": "ভক্ত্যা মামভিজানাতি যাবান্যশ্চাস্মি তত্ত্বতঃ |\nততো মাং তত্ত্বতো জ্ঞাত্বা বিশতে তদনন্তরম্ ||১৮-৫৫||",
+        "ka": "ಭಕ್ತ್ಯಾ ಮಾಮಭಿಜಾನಾತಿ ಯಾವಾನ್ಯಶ್ಚಾಸ್ಮಿ ತತ್ತ್ವತಃ |\nತತೋ ಮಾಂ ತತ್ತ್ವತೋ ಜ್ಞಾತ್ವಾ ವಿಶತೇ ತದನನ್ತರಮ್ ||೧೮-೫೫||"
+    },
+    "life_application": {
+        "hi": "भक्ति के द्वारा वह ईश्वर को यथार्थ रूप से जानता है कि ईश्वर क्या और कौन है; ईश्वर को यथार्थ रूप से जानकर वह तुरंत ईश्वर में प्रवेश कर जाता है।",
+        "en": "By devotion he knows God in truth, what and who God is; knowing God in truth, he enters God immediately.",
+        "be": "ভক্তি দ্বারা তিনি সত্যে ভগবানকে জানেন, ঈশ্বর কি এবং কে; ঈশ্বরকে সত্যে জেনে সে অবিলম্বে ঈশ্বরে প্রবেশ করে।",
+        "ka": "ಭಕ್ತಿಯಿಂದ ಅವನು ಸತ್ಯದಲ್ಲಿ ದೇವರನ್ನು ತಿಳಿದಿದ್ದಾನೆ, ದೇವರು ಏನು ಮತ್ತು ಯಾರು; ದೇವರನ್ನು ಸತ್ಯದಲ್ಲಿ ತಿಳಿದುಕೊಂಡರೆ, ಅವನು ತಕ್ಷಣವೇ ದೇವರನ್ನು ಪ್ರವೇಶಿಸುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "भक्त्या",
-            "transliteration": "bhaktyā",
-            "meaning": "by devotion"
+            "transliteration": {
+                "hi": "भक्त्या",
+                "en": "bhaktyā",
+                "be": "ভক্ত্যা",
+                "ka": "ಭಕ್ತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "भक्ति से",
+                "en": "by devotion",
+                "be": "ভক্তি দ্বারা",
+                "ka": "ಭಕ್ತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "अभिजानाति",
-            "transliteration": "abhijānāti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "अभिजानाति",
+                "en": "abhijānāti",
+                "be": "অভিজানাতি",
+                "ka": "ಅಭಿಜಾನಾತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "यावान्",
-            "transliteration": "yāvān",
-            "meaning": "what"
+            "transliteration": {
+                "hi": "यावान्",
+                "en": "yāvān",
+                "be": "যাবান্",
+                "ka": "ಯಾವಾನ್"
+            },
+            "meaning": {
+                "hi": "क्या",
+                "en": "what",
+                "be": "কি",
+                "ka": "ಏನು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अस्मि",
-            "transliteration": "asmi",
-            "meaning": "am"
+            "transliteration": {
+                "hi": "अस्मि",
+                "en": "asmi",
+                "be": "অস্মি",
+                "ka": "ಅಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "हूँ",
+                "en": "am",
+                "be": "am",
+                "ka": "ಬೆಳಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "तत्त्वतः",
-            "transliteration": "tattvataḥ",
-            "meaning": "in truth"
+            "transliteration": {
+                "hi": "तत्त्वतः",
+                "en": "tattvataḥ",
+                "be": "তত্ত্বতঃ",
+                "ka": "ತತ್ತ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "सच में",
+                "en": "in truth",
+                "be": "সত্যে",
+                "ka": "ಸತ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "तत्त्वतः",
-            "transliteration": "tattvataḥ",
-            "meaning": "in truth"
+            "transliteration": {
+                "hi": "तत्त्वतः",
+                "en": "tattvataḥ",
+                "be": "তত্ত্বতঃ",
+                "ka": "ತತ್ತ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "सच में",
+                "en": "in truth",
+                "be": "সত্যে",
+                "ka": "ಸತ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "having known"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात होना",
+                "en": "having known",
+                "be": "জানা থাকা",
+                "ka": "ತಿಳಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "विशते",
-            "transliteration": "viśate",
-            "meaning": "enters"
+            "transliteration": {
+                "hi": "विशते",
+                "en": "viśate",
+                "be": "বিশতে",
+                "ka": "ವಿಶತೇ"
+            },
+            "meaning": {
+                "hi": "प्रवेश करता है",
+                "en": "enters",
+                "be": "প্রবেশ করে",
+                "ka": "ಪ್ರವೇಶಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "अनन्तरम्",
-            "transliteration": "anantaram",
-            "meaning": "afterwards."
+            "transliteration": {
+                "hi": "अनन्तरम्",
+                "en": "anantaram",
+                "be": "অনন্তরম্",
+                "ka": "ಅನನ್ತರಮ್"
+            },
+            "meaning": {
+                "hi": "उसके बाद।",
+                "en": "afterwards.",
+                "be": "পরে",
+                "ka": "ನಂತರ."
+            }
         }
     ],
     "tej": {

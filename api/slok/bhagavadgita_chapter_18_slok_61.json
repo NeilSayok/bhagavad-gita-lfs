@@ -14,8 +14,18 @@
         "en": "īśvaraḥ sarvabhūtānāṃ hṛddeśe.arjuna tiṣṭhati .\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18-61||",
         "ka": "ಈಶ್ವರಃ ಸರ್ವಭೂತಾನಾಂ ಹೃದ್ದೇಶೇಽರ್ಜುನ ತಿಷ್ಠತಿ |\nಭ್ರಾಮಯನ್ಸರ್ವಭೂತಾನಿ ಯನ್ತ್ರಾರೂಢಾನಿ ಮಾಯಯಾ ||೧೮-೬೧||"
     },
-    "transliteration": "īśvaraḥ sarvabhūtānāṃ hṛddeśe.arjuna tiṣṭhati .\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18-61||",
-    "life_application": "Remember that the Lord resides within your heart, guiding all beings along their life path.",
+    "transliteration": {
+        "hi": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||१८-६१||",
+        "en": "īśvaraḥ sarvabhūtānāṃ hṛddeśe.arjuna tiṣṭhati .\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18-61||",
+        "be": "ঈশ্বরঃ সর্বভূতানাং হৃদ্দেশেঽর্জুন তিষ্ঠতি |\nভ্রামযন্সর্বভূতানি যন্ত্রারূঢানি মাযযা ||১৮-৬১||",
+        "ka": "ಈಶ್ವರಃ ಸರ್ವಭೂತಾನಾಂ ಹೃದ್ದೇಶೇಽರ್ಜುನ ತಿಷ್ಠತಿ |\nಭ್ರಾಮಯನ್ಸರ್ವಭೂತಾನಿ ಯನ್ತ್ರಾರೂಢಾನಿ ಮಾಯಯಾ ||೧೮-೬೧||"
+    },
+    "life_application": {
+        "hi": "याद रखें कि भगवान आपके हृदय में निवास करते हैं, सभी प्राणियों को उनके जीवन पथ पर मार्गदर्शन करते हैं।",
+        "en": "Remember that the Lord resides within your heart, guiding all beings along their life path.",
+        "be": "মনে রাখবেন যে প্রভু আপনার হৃদয়ে বাস করেন, সমস্ত প্রাণীকে তাদের জীবনের পথে পরিচালিত করেন।",
+        "ka": "ಭಗವಂತ ನಿಮ್ಮ ಹೃದಯದಲ್ಲಿ ನೆಲೆಸಿದ್ದಾನೆ, ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ಅವರ ಜೀವನ ಮಾರ್ಗದಲ್ಲಿ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತಾನೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ."
+    },
     "themes": [
         "Self-Realization",
         "Devotion"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "ईश्वरः",
-            "transliteration": "īśvaraḥ",
-            "meaning": "the Lord"
+            "transliteration": {
+                "hi": "ईश्वरः",
+                "en": "īśvaraḥ",
+                "be": "ঈশ্বরঃ",
+                "ka": "ಈಶ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "प्रभु",
+                "en": "the Lord",
+                "be": "প্রভু",
+                "ka": "ಲಾರ್ಡ್"
+            }
         },
         {
             "sanskrit": "सर्वभूतानाम्",
-            "transliteration": "sarvabhūtānām",
-            "meaning": "of all beings"
+            "transliteration": {
+                "hi": "सर्वभूतानाम्",
+                "en": "sarvabhūtānām",
+                "be": "সর্বভূতানাম্",
+                "ka": "ಸರ್ವಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सभी प्राणियों का",
+                "en": "of all beings",
+                "be": "সমস্ত প্রাণীর",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "हृद्देशे",
-            "transliteration": "hṛddeśe",
-            "meaning": "in the hearts"
+            "transliteration": {
+                "hi": "हृद्देशे",
+                "en": "hṛddeśe",
+                "be": "হৃদ্দেশে",
+                "ka": "ಹೃದ್ದೇಶೇ"
+            },
+            "meaning": {
+                "hi": "दिलों में",
+                "en": "in the hearts",
+                "be": "হৃদয়ে",
+                "ka": "ಹೃದಯಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "तिष्ठति",
-            "transliteration": "tiṣṭhati",
-            "meaning": "dwells"
+            "transliteration": {
+                "hi": "तिष्ठति",
+                "en": "tiṣṭhati",
+                "be": "তিষ্ঠতি",
+                "ka": "ತಿಷ್ಠತಿ"
+            },
+            "meaning": {
+                "hi": "रहता है",
+                "en": "dwells",
+                "be": "বাস করে",
+                "ka": "ನೆಲೆಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "भ्रामयन्",
-            "transliteration": "bhrāmayan",
-            "meaning": "causing to revolve"
+            "transliteration": {
+                "hi": "भ्रामयन्",
+                "en": "bhrāmayan",
+                "be": "ভ্রামযন্",
+                "ka": "ಭ್ರಾಮಯನ್"
+            },
+            "meaning": {
+                "hi": "घूमने के लिए प्रेरित करना",
+                "en": "causing to revolve",
+                "be": "ঘূর্ণন ঘটাচ্ছে",
+                "ka": "ತಿರುಗಲು ಕಾರಣವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानि",
-            "transliteration": "sarvabhūtāni",
-            "meaning": "all beings"
+            "transliteration": {
+                "hi": "सर्वभूतानि",
+                "en": "sarvabhūtāni",
+                "be": "সর্বভূতানি",
+                "ka": "ಸರ್ವಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "सभी प्राणी",
+                "en": "all beings",
+                "be": "সমস্ত প্রাণী",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "यन्त्रारूढानि",
-            "transliteration": "yantrārūḍhāni",
-            "meaning": "mounted on a machine"
+            "transliteration": {
+                "hi": "यन्त्रारूढानि",
+                "en": "yantrārūḍhāni",
+                "be": "যন্ত্রারূঢানি",
+                "ka": "ಯನ್ತ್ರಾರೂಢಾನಿ"
+            },
+            "meaning": {
+                "hi": "एक मशीन पर लगाया गया",
+                "en": "mounted on a machine",
+                "be": "একটি মেশিনে বসানো",
+                "ka": "ಯಂತ್ರದಲ್ಲಿ ಅಳವಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "मायया",
-            "transliteration": "māyayā",
-            "meaning": "by illusion."
+            "transliteration": {
+                "hi": "मायया",
+                "en": "māyayā",
+                "be": "মাযযা",
+                "ka": "ಮಾಯಯಾ"
+            },
+            "meaning": {
+                "hi": "भ्रम से.",
+                "en": "by illusion.",
+                "be": "ভ্রম দ্বারা",
+                "ka": "ಭ್ರಮೆಯಿಂದ."
+            }
         }
     ],
     "tej": {

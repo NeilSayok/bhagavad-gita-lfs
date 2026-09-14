@@ -14,8 +14,18 @@
         "en": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā .\nkaccidajñānasammohaḥ pranaṣṭaste dhanañjaya ||18-72||",
         "ka": "ಕಚ್ಚಿದೇತಚ್ಛ್ರುತಂ ಪಾರ್ಥ ತ್ವಯೈಕಾಗ್ರೇಣ ಚೇತಸಾ |\nಕಚ್ಚಿದಜ್ಞಾನಸಮ್ಮೋಹಃ ಪ್ರನಷ್ಟಸ್ತೇ ಧನಞ್ಜಯ ||೧೮-೭೨||"
     },
-    "transliteration": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā .\nkaccidajñānasammohaḥ pranaṣṭaste dhanañjaya ||18-72||",
-    "life_application": "Has this been heard by you with single-pointed mind, O Partha? Has your delusion born of ignorance been destroyed?",
+    "transliteration": {
+        "hi": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा |\nकच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ||१८-७२||",
+        "en": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā .\nkaccidajñānasammohaḥ pranaṣṭaste dhanañjaya ||18-72||",
+        "be": "কচ্চিদেতচ্ছ্রুতং পার্থ ত্বযৈকাগ্রেণ চেতসা |\nকচ্চিদজ্ঞানসম্মোহঃ প্রনষ্টস্তে ধনঞ্জয ||১৮-৭২||",
+        "ka": "ಕಚ್ಚಿದೇತಚ್ಛ್ರುತಂ ಪಾರ್ಥ ತ್ವಯೈಕಾಗ್ರೇಣ ಚೇತಸಾ |\nಕಚ್ಚಿದಜ್ಞಾನಸಮ್ಮೋಹಃ ಪ್ರನಷ್ಟಸ್ತೇ ಧನಞ್ಜಯ ||೧೮-೭೨||"
+    },
+    "life_application": {
+        "hi": "हे पार्थ, क्या तुमने इसे एकाग्रचित्त होकर सुना है? क्या तुम्हारा अज्ञानजनित मोह नष्ट हो गया है?",
+        "en": "Has this been heard by you with single-pointed mind, O Partha? Has your delusion born of ignorance been destroyed?",
+        "be": "হে পার্থ, তুমি কি একক মন দিয়ে শুনেছ? আপনার অজ্ঞতা থেকে জন্মানো ভ্রম কি ধ্বংস হয়েছে?",
+        "ka": "ಓ ಪಾರ್ಥನೇ, ಏಕಮುಖ ಮನಸ್ಸಿನಿಂದ ನೀನು ಇದನ್ನು ಕೇಳಿದೆಯೇ? ಅಜ್ಞಾನದಿಂದ ಹುಟ್ಟಿದ ನಿನ್ನ ಭ್ರಮೆ ನಾಶವಾಗಿದೆಯೇ?"
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "कच्चित्",
-            "transliteration": "kaccit",
-            "meaning": "whether"
+            "transliteration": {
+                "hi": "कच्चित्",
+                "en": "kaccit",
+                "be": "কচ্চিত্",
+                "ka": "ಕಚ್ಚಿತ್"
+            },
+            "meaning": {
+                "hi": "चाहे",
+                "en": "whether",
+                "be": "কিনা",
+                "ka": "ಎಂಬುದನ್ನು"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "श्रुतम्",
-            "transliteration": "śrutam",
-            "meaning": "heard"
+            "transliteration": {
+                "hi": "श्रुतम्",
+                "en": "śrutam",
+                "be": "শ্রুতম্",
+                "ka": "ಶ್ರುತಮ್"
+            },
+            "meaning": {
+                "hi": "सुना",
+                "en": "heard",
+                "be": "শুনেছি",
+                "ka": "ಕೇಳಿದ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "त्वया",
-            "transliteration": "tvayā",
-            "meaning": "by thee"
+            "transliteration": {
+                "hi": "त्वया",
+                "en": "tvayā",
+                "be": "ত্বযা",
+                "ka": "ತ್ವಯಾ"
+            },
+            "meaning": {
+                "hi": "आपके द्वारा",
+                "en": "by thee",
+                "be": "তোমার দ্বারা",
+                "ka": "ನಿನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "एकाग्रेण",
-            "transliteration": "ekāgreṇa",
-            "meaning": "onepointed"
+            "transliteration": {
+                "hi": "एकाग्रेण",
+                "en": "ekāgreṇa",
+                "be": "একাগ্রেণ",
+                "ka": "ಏಕಾಗ್ರೇಣ"
+            },
+            "meaning": {
+                "hi": "एक-नुकीला",
+                "en": "onepointed",
+                "be": "onepointed",
+                "ka": "ಒಂದು ಸೂಚಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "चेतसा",
-            "transliteration": "cetasā",
-            "meaning": "by mind"
+            "transliteration": {
+                "hi": "चेतसा",
+                "en": "cetasā",
+                "be": "চেতসা",
+                "ka": "ಚೇತಸಾ"
+            },
+            "meaning": {
+                "hi": "मन से",
+                "en": "by mind",
+                "be": "মনের দ্বারা",
+                "ka": "ಮನಸ್ಸಿನಿಂದ"
+            }
         },
         {
             "sanskrit": "कच्चित्",
-            "transliteration": "kaccit",
-            "meaning": "whether"
+            "transliteration": {
+                "hi": "कच्चित्",
+                "en": "kaccit",
+                "be": "কচ্চিত্",
+                "ka": "ಕಚ್ಚಿತ್"
+            },
+            "meaning": {
+                "hi": "चाहे",
+                "en": "whether",
+                "be": "কিনা",
+                "ka": "ಎಂಬುದನ್ನು"
+            }
         },
         {
             "sanskrit": "अज्ञानसंमोहः",
-            "transliteration": "ajñānasaṃmohaḥ",
-            "meaning": "the delusion of ignorance"
+            "transliteration": {
+                "hi": "अज्ञानसंमोहः",
+                "en": "ajñānasaṃmohaḥ",
+                "be": "অজ্ঞানসংমোহঃ",
+                "ka": "ಅಜ್ಞಾನಸಂಮೋಹಃ"
+            },
+            "meaning": {
+                "hi": "अज्ञानता का भ्रम",
+                "en": "the delusion of ignorance",
+                "be": "অজ্ঞতার বিভ্রম",
+                "ka": "ಅಜ್ಞಾನದ ಭ್ರಮೆ"
+            }
         },
         {
             "sanskrit": "प्रनष्टः",
-            "transliteration": "pranaṣṭaḥ",
-            "meaning": "has been destroyed"
+            "transliteration": {
+                "hi": "प्रनष्टः",
+                "en": "pranaṣṭaḥ",
+                "be": "প্রনষ্টঃ",
+                "ka": "ಪ್ರನಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "नष्ट कर दिया गया है",
+                "en": "has been destroyed",
+                "be": "ধ্বংস করা হয়েছে",
+                "ka": "ನಾಶಪಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "धनञ्जय",
-            "transliteration": "dhanañjaya",
-            "meaning": "O Dhananjaya."
+            "transliteration": {
+                "hi": "धनञ्जय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয",
+                "ka": "ಧನಞ್ಜಯ"
+            },
+            "meaning": {
+                "hi": "हे धनंजय!",
+                "en": "O Dhananjaya.",
+                "be": "হে ধনঞ্জয়।",
+                "ka": "ಓ ಧನಂಜಯ."
+            }
         }
     ],
     "tej": {

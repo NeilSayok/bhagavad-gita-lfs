@@ -14,8 +14,18 @@
         "en": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ .\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ ||18-77||",
         "ka": "ತಚ್ಚ ಸಂಸ್ಮೃತ್ಯ ಸಂಸ್ಮೃತ್ಯ ರೂಪಮತ್ಯದ್ಭುತಂ ಹರೇಃ |\nವಿಸ್ಮಯೋ ಮೇ ಮಹಾನ್ ರಾಜನ್ಹೃಷ್ಯಾಮಿ ಚ ಪುನಃ ಪುನಃ ||೧೮-೭೭||"
     },
-    "transliteration": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ .\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ ||18-77||",
-    "life_application": "And remembering again and again that most wondrous form of Hari, great is my amazement and I rejoice again and again.",
+    "transliteration": {
+        "hi": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः |\nविस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः ||१८-७७||",
+        "en": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ .\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ ||18-77||",
+        "be": "তচ্চ সংস্মৃত্য সংস্মৃত্য রূপমত্যদ্ভুতং হরেঃ |\nবিস্মযো মে মহান্ রাজন্হৃষ্যামি চ পুনঃ পুনঃ ||১৮-৭৭||",
+        "ka": "ತಚ್ಚ ಸಂಸ್ಮೃತ್ಯ ಸಂಸ್ಮೃತ್ಯ ರೂಪಮತ್ಯದ್ಭುತಂ ಹರೇಃ |\nವಿಸ್ಮಯೋ ಮೇ ಮಹಾನ್ ರಾಜನ್ಹೃಷ್ಯಾಮಿ ಚ ಪುನಃ ಪುನಃ ||೧೮-೭೭||"
+    },
+    "life_application": {
+        "hi": "और हरि के उस अद्भुत रूप को बार-बार स्मरण करके मेरा आश्चर्य बढ़ जाता है और मैं बार-बार आनन्दित होता हूँ।",
+        "en": "And remembering again and again that most wondrous form of Hari, great is my amazement and I rejoice again and again.",
+        "be": "এবং হরির সেই সবচেয়ে বিস্ময়কর রূপটি বারবার স্মরণ করা, আমার বিস্ময় এবং আমি বারবার আনন্দ করি।",
+        "ka": "ಮತ್ತು ಹರಿಯ ಅತ್ಯಂತ ಅದ್ಭುತವಾದ ರೂಪವನ್ನು ಮತ್ತೆ ಮತ್ತೆ ನೆನಪಿಸಿಕೊಳ್ಳುವುದು ನನಗೆ ಅದ್ಭುತವಾಗಿದೆ ಮತ್ತು ನಾನು ಮತ್ತೆ ಮತ್ತೆ ಸಂತೋಷಪಡುತ್ತೇನೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "संस्मृत्य",
-            "transliteration": "saṃsmṛtya",
-            "meaning": "having remembered"
+            "transliteration": {
+                "hi": "संस्मृत्य",
+                "en": "saṃsmṛtya",
+                "be": "সংস্মৃত্য",
+                "ka": "ಸಂಸ್ಮೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "याद आ गया",
+                "en": "having remembered",
+                "be": "মনে আছে",
+                "ka": "ನೆನಪಿಸಿಕೊಂಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "संस्मृत्य",
-            "transliteration": "saṃsmṛtya",
-            "meaning": "having remembered"
+            "transliteration": {
+                "hi": "संस्मृत्य",
+                "en": "saṃsmṛtya",
+                "be": "সংস্মৃত্য",
+                "ka": "ಸಂಸ್ಮೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "याद आ गया",
+                "en": "having remembered",
+                "be": "মনে আছে",
+                "ka": "ನೆನಪಿಸಿಕೊಂಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "the form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "प्रपत्र",
+                "en": "the form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "अत्यद्भुतम्",
-            "transliteration": "atyadbhutam",
-            "meaning": "the most wonderful"
+            "transliteration": {
+                "hi": "अत्यद्भुतम्",
+                "en": "atyadbhutam",
+                "be": "অত্যদ্ভুতম্",
+                "ka": "ಅತ್ಯದ್ಭುತಮ್"
+            },
+            "meaning": {
+                "hi": "सबसे अद्भुत",
+                "en": "the most wonderful",
+                "be": "সবচেয়ে বিস্ময়কর",
+                "ka": "ಅತ್ಯಂತ ಅದ್ಭುತ"
+            }
         },
         {
             "sanskrit": "हरेः",
-            "transliteration": "hareḥ",
-            "meaning": "of Hari"
+            "transliteration": {
+                "hi": "हरेः",
+                "en": "hareḥ",
+                "be": "হরেঃ",
+                "ka": "ಹರೇಃ"
+            },
+            "meaning": {
+                "hi": "हरि का",
+                "en": "of Hari",
+                "be": "হরির",
+                "ka": "ಹರಿ ನ"
+            }
         },
         {
             "sanskrit": "विस्मयः",
-            "transliteration": "vismayaḥ",
-            "meaning": "wonder"
+            "transliteration": {
+                "hi": "विस्मयः",
+                "en": "vismayaḥ",
+                "be": "বিস্মযঃ",
+                "ka": "ವಿಸ್ಮಯಃ"
+            },
+            "meaning": {
+                "hi": "आश्चर्य",
+                "en": "wonder",
+                "be": "আশ্চর্য",
+                "ka": "ಆಶ್ಚರ್ಯ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "महान्",
-            "transliteration": "mahān",
-            "meaning": "great"
+            "transliteration": {
+                "hi": "महान्",
+                "en": "mahān",
+                "be": "মহান্",
+                "ka": "ಮಹಾನ್"
+            },
+            "meaning": {
+                "hi": "बढ़िया",
+                "en": "great",
+                "be": "মহান",
+                "ka": "ಶ್ರೇಷ್ಠ"
+            }
         },
         {
             "sanskrit": "राजन्",
-            "transliteration": "rājan",
-            "meaning": "O King"
+            "transliteration": {
+                "hi": "राजन्",
+                "en": "rājan",
+                "be": "রাজন্",
+                "ka": "ರಾಜನ್"
+            },
+            "meaning": {
+                "hi": "हे राजा!",
+                "en": "O King",
+                "be": "হে রাজা",
+                "ka": "ಓ ರಾಜನೇ"
+            }
         },
         {
             "sanskrit": "हृष्यामि",
-            "transliteration": "hṛṣyāmi",
-            "meaning": "rejoice"
+            "transliteration": {
+                "hi": "हृष्यामि",
+                "en": "hṛṣyāmi",
+                "be": "হৃষ্যামি",
+                "ka": "ಹೃಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "आनन्द मनाओ",
+                "en": "rejoice",
+                "be": "আনন্দ করা",
+                "ka": "ಹಿಗ್ಗು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again."
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "दोबारा।",
+                "en": "again.",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam .\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ ||18-76||",
         "ka": "ರಾಜನ್ಸಂಸ್ಮೃತ್ಯ ಸಂಸ್ಮೃತ್ಯ ಸಂವಾದಮಿಮಮದ್ಭುತಮ್ |\nಕೇಶವಾರ್ಜುನಯೋಃ ಪುಣ್ಯಂ ಹೃಷ್ಯಾಮಿ ಚ ಮುಹುರ್ಮುಹುಃ ||೧೮-೭೬||"
     },
-    "transliteration": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam .\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ ||18-76||",
-    "life_application": "O King, remembering again and again this wonderful, holy dialogue between Keshava and Arjuna, I rejoice again and again.",
+    "transliteration": {
+        "hi": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ||१८-७६||",
+        "en": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam .\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ ||18-76||",
+        "be": "রাজন্সংস্মৃত্য সংস্মৃত্য সংবাদমিমমদ্ভুতম্ |\nকেশবার্জুনযোঃ পুণ্যং হৃষ্যামি চ মুহুর্মুহুঃ ||১৮-৭৬||",
+        "ka": "ರಾಜನ್ಸಂಸ್ಮೃತ್ಯ ಸಂಸ್ಮೃತ್ಯ ಸಂವಾದಮಿಮಮದ್ಭುತಮ್ |\nಕೇಶವಾರ್ಜುನಯೋಃ ಪುಣ್ಯಂ ಹೃಷ್ಯಾಮಿ ಚ ಮುಹುರ್ಮುಹುಃ ||೧೮-೭೬||"
+    },
+    "life_application": {
+        "hi": "हे राजन्, केशव और अर्जुन के इस अद्भुत, पवित्र संवाद को बार-बार याद करके मैं बार-बार प्रसन्न होता हूँ।",
+        "en": "O King, remembering again and again this wonderful, holy dialogue between Keshava and Arjuna, I rejoice again and again.",
+        "be": "হে মহারাজ, কেশব ও অর্জুনের মধ্যেকার এই অপূর্ব, পবিত্র কথোপকথন বারবার স্মরণ করে আমি বারবার আনন্দিত হই।",
+        "ka": "ಓ ರಾಜನೇ, ಕೇಶವ ಮತ್ತು ಅರ್ಜುನನ ಈ ಅದ್ಭುತ, ಪವಿತ್ರ ಸಂವಾದವನ್ನು ಮತ್ತೆ ಮತ್ತೆ ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾ, ನಾನು ಮತ್ತೆ ಮತ್ತೆ ಸಂತೋಷಪಡುತ್ತೇನೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "राजन्",
-            "transliteration": "rājan",
-            "meaning": "O King"
+            "transliteration": {
+                "hi": "राजन्",
+                "en": "rājan",
+                "be": "রাজন্",
+                "ka": "ರಾಜನ್"
+            },
+            "meaning": {
+                "hi": "हे राजा!",
+                "en": "O King",
+                "be": "হে রাজা",
+                "ka": "ಓ ರಾಜನೇ"
+            }
         },
         {
             "sanskrit": "संस्मृत्य",
-            "transliteration": "saṃsmṛtya",
-            "meaning": "having remembered"
+            "transliteration": {
+                "hi": "संस्मृत्य",
+                "en": "saṃsmṛtya",
+                "be": "সংস্মৃত্য",
+                "ka": "ಸಂಸ್ಮೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "याद आ गया",
+                "en": "having remembered",
+                "be": "মনে আছে",
+                "ka": "ನೆನಪಿಸಿಕೊಂಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "संस्मृत्य",
-            "transliteration": "saṃsmṛtya",
-            "meaning": "having remembered"
+            "transliteration": {
+                "hi": "संस्मृत्य",
+                "en": "saṃsmṛtya",
+                "be": "সংস্মৃত্য",
+                "ka": "ಸಂಸ್ಮೃತ್ಯ"
+            },
+            "meaning": {
+                "hi": "याद आ गया",
+                "en": "having remembered",
+                "be": "মনে আছে",
+                "ka": "ನೆನಪಿಸಿಕೊಂಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "संवादम्",
-            "transliteration": "saṃvādam",
-            "meaning": "the dialogue"
+            "transliteration": {
+                "hi": "संवादम्",
+                "en": "saṃvādam",
+                "be": "সংবাদম্",
+                "ka": "ಸಂವಾದಮ್"
+            },
+            "meaning": {
+                "hi": "संवाद",
+                "en": "the dialogue",
+                "be": "সংলাপ",
+                "ka": "ಸಂಭಾಷಣೆ"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अद्भुतम्",
-            "transliteration": "adbhutam",
-            "meaning": "wonderful"
+            "transliteration": {
+                "hi": "अद्भुतम्",
+                "en": "adbhutam",
+                "be": "অদ্ভুতম্",
+                "ka": "ಅದ್ಭುತಮ್"
+            },
+            "meaning": {
+                "hi": "अद्भुत",
+                "en": "wonderful",
+                "be": "বিস্ময়কর",
+                "ka": "ಅದ್ಭುತ"
+            }
         },
         {
             "sanskrit": "केशवार्जुनयोः",
-            "transliteration": "keśavārjunayoḥ",
-            "meaning": "between Kesava and Arjuna"
+            "transliteration": {
+                "hi": "केशवार्जुनयोः",
+                "en": "keśavārjunayoḥ",
+                "be": "কেশবার্জুনযোঃ",
+                "ka": "ಕೇಶವಾರ್ಜುನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "केशव और अर्जुन के बीच",
+                "en": "between Kesava and Arjuna",
+                "be": "কেশব এবং অর্জুনের মধ্যে",
+                "ka": "ಕೇಶವ ಮತ್ತು ಅರ್ಜುನನ ನಡುವೆ"
+            }
         },
         {
             "sanskrit": "पुण्यम्",
-            "transliteration": "puṇyam",
-            "meaning": "holy"
+            "transliteration": {
+                "hi": "पुण्यम्",
+                "en": "puṇyam",
+                "be": "পুণ্যম্",
+                "ka": "ಪುಣ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्र",
+                "en": "holy",
+                "be": "পবিত্র",
+                "ka": "ಪವಿತ್ರ"
+            }
         },
         {
             "sanskrit": "हृष्यामि",
-            "transliteration": "hṛṣyāmi",
-            "meaning": "rejoice"
+            "transliteration": {
+                "hi": "हृष्यामि",
+                "en": "hṛṣyāmi",
+                "be": "হৃষ্যামি",
+                "ka": "ಹೃಷ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "आनन्द मनाओ",
+                "en": "rejoice",
+                "be": "আনন্দ করা",
+                "ka": "ಹಿಗ್ಗು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मुहुः",
-            "transliteration": "muhuḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "मुहुः",
+                "en": "muhuḥ",
+                "be": "মুহুঃ",
+                "ka": "ಮುಹುಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "मुहुः",
-            "transliteration": "muhuḥ",
-            "meaning": "again."
+            "transliteration": {
+                "hi": "मुहुः",
+                "en": "muhuḥ",
+                "be": "মুহুঃ",
+                "ka": "ಮುಹುಃ"
+            },
+            "meaning": {
+                "hi": "दोबारा।",
+                "en": "again.",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "vyāsaprasādācchrutavānetadguhyamahaṃ param .\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam ||18-75||",
         "ka": "ವ್ಯಾಸಪ್ರಸಾದಾಚ್ಛ್ರುತವಾನೇತದ್ಗುಹ್ಯಮಹಂ ಪರಮ್ |\nಯೋಗಂ ಯೋಗೇಶ್ವರಾತ್ಕೃಷ್ಣಾತ್ಸಾಕ್ಷಾತ್ಕಥಯತಃ ಸ್ವಯಮ್ ||೧೮-೭೫||"
     },
-    "transliteration": "vyāsaprasādācchrutavānetadguhyamahaṃ param .\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam ||18-75||",
-    "life_application": "By grace of Vyasa I heard this supreme secret yoga directly from Krishna, Lord of Yoga Himself speaking.",
+    "transliteration": {
+        "hi": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||१८-७५||",
+        "en": "vyāsaprasādācchrutavānetadguhyamahaṃ param .\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam ||18-75||",
+        "be": "ব্যাসপ্রসাদাচ্ছ্রুতবানেতদ্গুহ্যমহং পরম্ |\nযোগং যোগেশ্বরাত্কৃষ্ণাত্সাক্ষাত্কথযতঃ স্বযম্ ||১৮-৭৫||",
+        "ka": "ವ್ಯಾಸಪ್ರಸಾದಾಚ್ಛ್ರುತವಾನೇತದ್ಗುಹ್ಯಮಹಂ ಪರಮ್ |\nಯೋಗಂ ಯೋಗೇಶ್ವರಾತ್ಕೃಷ್ಣಾತ್ಸಾಕ್ಷಾತ್ಕಥಯತಃ ಸ್ವಯಮ್ ||೧೮-೭೫||"
+    },
+    "life_application": {
+        "hi": "व्यास की कृपा से मैंने इस परम गुप्त योग को स्वयं योग के भगवान कृष्ण से सीधे बोलते हुए सुना।",
+        "en": "By grace of Vyasa I heard this supreme secret yoga directly from Krishna, Lord of Yoga Himself speaking.",
+        "be": "ব্যাসের কৃপায় আমি সরাসরি যোগের ভগবান শ্রীকৃষ্ণের কাছ থেকে এই পরম গোপন যোগের কথা শুনেছি।",
+        "ka": "ವ್ಯಾಸನ ಕೃಪೆಯಿಂದ ನಾನು ಈ ಪರಮ ರಹಸ್ಯ ಯೋಗವನ್ನು ಯೋಗದ ಭಗವಂತನಾದ ಕೃಷ್ಣನಿಂದ ನೇರವಾಗಿ ಕೇಳಿದೆ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "व्यासप्रसादात्",
-            "transliteration": "vyāsaprasādāt",
-            "meaning": "through the grace of"
+            "transliteration": {
+                "hi": "व्यासप्रसादात्",
+                "en": "vyāsaprasādāt",
+                "be": "ব্যাসপ্রসাদাত্",
+                "ka": "ವ್ಯಾಸಪ್ರಸಾದಾತ್"
+            },
+            "meaning": {
+                "hi": "की कृपा से",
+                "en": "through the grace of",
+                "be": "এর অনুগ্রহের মাধ্যমে",
+                "ka": "ಅನುಗ್ರಹದ ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "श्रुतवान्",
-            "transliteration": "śrutavān",
-            "meaning": "have heard"
+            "transliteration": {
+                "hi": "श्रुतवान्",
+                "en": "śrutavān",
+                "be": "শ্রুতবান্",
+                "ka": "ಶ್ರುತವಾನ್"
+            },
+            "meaning": {
+                "hi": "सुना है",
+                "en": "have heard",
+                "be": "শুনেছি",
+                "ka": "ಕೇಳಿದ್ದೇವೆ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "गुह्यम्",
-            "transliteration": "guhyam",
-            "meaning": "secret"
+            "transliteration": {
+                "hi": "गुह्यम्",
+                "en": "guhyam",
+                "be": "গুহ্যম্",
+                "ka": "ಗುಹ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "रहस्य",
+                "en": "secret",
+                "be": "গোপন",
+                "ka": "ರಹಸ್ಯ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "योगम्",
-            "transliteration": "yogam",
-            "meaning": "Yoga"
+            "transliteration": {
+                "hi": "योगम्",
+                "en": "yogam",
+                "be": "যোগম্",
+                "ka": "ಯೋಗಮ್"
+            },
+            "meaning": {
+                "hi": "योग",
+                "en": "Yoga",
+                "be": "যোগব্যায়াম",
+                "ka": "ಯೋಗ"
+            }
         },
         {
             "sanskrit": "योगेश्वरात्",
-            "transliteration": "yogeśvarāt",
-            "meaning": "from the Lord of"
+            "transliteration": {
+                "hi": "योगेश्वरात्",
+                "en": "yogeśvarāt",
+                "be": "যোগেশ্বরাত্",
+                "ka": "ಯೋಗೇಶ್ವರಾತ್"
+            },
+            "meaning": {
+                "hi": "के प्रभु से",
+                "en": "from the Lord of",
+                "be": "প্রভুর কাছ থেকে",
+                "ka": "ಭಗವಂತನಿಂದ"
+            }
         },
         {
             "sanskrit": "कृष्णात्",
-            "transliteration": "kṛṣṇāt",
-            "meaning": "from Krishna"
+            "transliteration": {
+                "hi": "कृष्णात्",
+                "en": "kṛṣṇāt",
+                "be": "কৃষ্ণাত্",
+                "ka": "ಕೃಷ್ಣಾತ್"
+            },
+            "meaning": {
+                "hi": "कृष्ण से",
+                "en": "from Krishna",
+                "be": "কৃষ্ণ থেকে",
+                "ka": "ಕೃಷ್ಣನಿಂದ"
+            }
         },
         {
             "sanskrit": "साक्षात्",
-            "transliteration": "sākṣāt",
-            "meaning": "directly"
+            "transliteration": {
+                "hi": "साक्षात्",
+                "en": "sākṣāt",
+                "be": "সাক্ষাত্",
+                "ka": "ಸಾಕ್ಷಾತ್"
+            },
+            "meaning": {
+                "hi": "सीधे",
+                "en": "directly",
+                "be": "সরাসরি",
+                "ka": "ನೇರವಾಗಿ"
+            }
         },
         {
             "sanskrit": "कथयतः",
-            "transliteration": "kathayataḥ",
-            "meaning": "declaring"
+            "transliteration": {
+                "hi": "कथयतः",
+                "en": "kathayataḥ",
+                "be": "কথযতঃ",
+                "ka": "ಕಥಯತಃ"
+            },
+            "meaning": {
+                "hi": "घोषणा",
+                "en": "declaring",
+                "be": "ঘোষণা",
+                "ka": "ಘೋಷಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "स्वयम्",
-            "transliteration": "svayam",
-            "meaning": "Himself."
+            "transliteration": {
+                "hi": "स्वयम्",
+                "en": "svayam",
+                "be": "স্বযম্",
+                "ka": "ಸ್ವಯಮ್"
+            },
+            "meaning": {
+                "hi": "वह स्वयं।",
+                "en": "Himself.",
+                "be": "নিজেই।",
+                "ka": "ಅವನೇ."
+            }
         }
     ],
     "tej": {

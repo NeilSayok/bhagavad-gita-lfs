@@ -14,8 +14,18 @@
         "en": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ .\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama ||18-78||",
         "ka": "ಯತ್ರ ಯೋಗೇಶ್ವರಃ ಕೃಷ್ಣೋ ಯತ್ರ ಪಾರ್ಥೋ ಧನುರ್ಧರಃ |\nತತ್ರ ಶ್ರೀರ್ವಿಜಯೋ ಭೂತಿರ್ಧ್ರುವಾ ನೀತಿರ್ಮತಿರ್ಮಮ ||೧೮-೭೮||"
     },
-    "transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ .\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama ||18-78||",
-    "life_application": "Wherever is Krishna, Lord of Yoga, wherever is Partha, archer—there are fortune, victory, prosperity, and firm morality.",
+    "transliteration": {
+        "hi": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः |\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ||१८-७८||",
+        "en": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ .\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama ||18-78||",
+        "be": "যত্র যোগেশ্বরঃ কৃষ্ণো যত্র পার্থো ধনুর্ধরঃ |\nতত্র শ্রীর্বিজযো ভূতির্ধ্রুবা নীতির্মতির্মম ||১৮-৭৮||",
+        "ka": "ಯತ್ರ ಯೋಗೇಶ್ವರಃ ಕೃಷ್ಣೋ ಯತ್ರ ಪಾರ್ಥೋ ಧನುರ್ಧರಃ |\nತತ್ರ ಶ್ರೀರ್ವಿಜಯೋ ಭೂತಿರ್ಧ್ರುವಾ ನೀತಿರ್ಮತಿರ್ಮಮ ||೧೮-೭೮||"
+    },
+    "life_application": {
+        "hi": "जहाँ भी योग के स्वामी कृष्ण हैं, जहाँ भी धनुर्धर पार्थ हैं - वहाँ भाग्य, विजय, समृद्धि और दृढ़ नैतिकता है।",
+        "en": "Wherever is Krishna, Lord of Yoga, wherever is Partha, archer—there are fortune, victory, prosperity, and firm morality.",
+        "be": "যেখানেই যোগের অধিপতি কৃষ্ণ, যেখানেই পার্থ, তীরন্দাজ- সেখানেই ভাগ্য, জয়, সমৃদ্ধি এবং দৃঢ় নৈতিকতা।",
+        "ka": "ಎಲ್ಲೆಲ್ಲಿ ಕೃಷ್ಣ, ಯೋಗಾಧಿಪತಿ, ಪಾರ್ಥ, ಬಿಲ್ಲುಗಾರ - ಅಲ್ಲಿ ಅದೃಷ್ಟ, ವಿಜಯ, ಸಮೃದ್ಧಿ ಮತ್ತು ದೃಢವಾದ ನೈತಿಕತೆ ಇದೆ."
+    },
     "themes": [
         "Devotion",
         "Dharma",
@@ -24,73 +34,213 @@
     "word_meanings": [
         {
             "sanskrit": "यत्र",
-            "transliteration": "yatra",
-            "meaning": "wherever"
+            "transliteration": {
+                "hi": "यत्र",
+                "en": "yatra",
+                "be": "যত্র",
+                "ka": "ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "जहाँ भी",
+                "en": "wherever",
+                "be": "যেখানেই",
+                "ka": "ಎಲ್ಲೆಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "योगेश्वरः",
-            "transliteration": "yogeśvaraḥ",
-            "meaning": "the Lord of Yoga"
+            "transliteration": {
+                "hi": "योगेश्वरः",
+                "en": "yogeśvaraḥ",
+                "be": "যোগেশ্বরঃ",
+                "ka": "ಯೋಗೇಶ್ವರಃ"
+            },
+            "meaning": {
+                "hi": "योग के भगवान",
+                "en": "the Lord of Yoga",
+                "be": "যোগের প্রভু",
+                "ka": "ಯೋಗದ ಪ್ರಭು"
+            }
         },
         {
             "sanskrit": "कृष्णः",
-            "transliteration": "kṛṣṇaḥ",
-            "meaning": "Krishna"
+            "transliteration": {
+                "hi": "कृष्णः",
+                "en": "kṛṣṇaḥ",
+                "be": "কৃষ্ণঃ",
+                "ka": "ಕೃಷ್ಣಃ"
+            },
+            "meaning": {
+                "hi": "कृष्ण",
+                "en": "Krishna",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            }
         },
         {
             "sanskrit": "यत्र",
-            "transliteration": "yatra",
-            "meaning": "wherever"
+            "transliteration": {
+                "hi": "यत्र",
+                "en": "yatra",
+                "be": "যত্র",
+                "ka": "ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "जहाँ भी",
+                "en": "wherever",
+                "be": "যেখানেই",
+                "ka": "ಎಲ್ಲೆಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "पार्थः",
-            "transliteration": "pārthaḥ",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "पार्थः",
+                "en": "pārthaḥ",
+                "be": "পার্থঃ",
+                "ka": "ಪಾರ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "धनुर्धरः",
-            "transliteration": "dhanurdharaḥ",
-            "meaning": "the archer"
+            "transliteration": {
+                "hi": "धनुर्धरः",
+                "en": "dhanurdharaḥ",
+                "be": "ধনুর্ধরঃ",
+                "ka": "ಧನುರ್ಧರಃ"
+            },
+            "meaning": {
+                "hi": "धनुर्धर",
+                "en": "the archer",
+                "be": "তীরন্দাজ",
+                "ka": "ಬಿಲ್ಲುಗಾರ"
+            }
         },
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "there"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "there",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "श्रीः",
-            "transliteration": "śrīḥ",
-            "meaning": "prosperity"
+            "transliteration": {
+                "hi": "श्रीः",
+                "en": "śrīḥ",
+                "be": "শ্রীঃ",
+                "ka": "ಶ್ರೀಃ"
+            },
+            "meaning": {
+                "hi": "समृद्धि",
+                "en": "prosperity",
+                "be": "সমৃদ্ধি",
+                "ka": "ಸಮೃದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "विजयः",
-            "transliteration": "vijayaḥ",
-            "meaning": "victory"
+            "transliteration": {
+                "hi": "विजयः",
+                "en": "vijayaḥ",
+                "be": "বিজযঃ",
+                "ka": "ವಿಜಯಃ"
+            },
+            "meaning": {
+                "hi": "जीत",
+                "en": "victory",
+                "be": "বিজয়",
+                "ka": "ಗೆಲುವು"
+            }
         },
         {
             "sanskrit": "भूतिः",
-            "transliteration": "bhūtiḥ",
-            "meaning": "happiness"
+            "transliteration": {
+                "hi": "भूतिः",
+                "en": "bhūtiḥ",
+                "be": "ভূতিঃ",
+                "ka": "ಭೂತಿಃ"
+            },
+            "meaning": {
+                "hi": "ख़ुशी",
+                "en": "happiness",
+                "be": "সুখ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "ध्रुवा",
-            "transliteration": "dhruvā",
-            "meaning": "firm"
+            "transliteration": {
+                "hi": "ध्रुवा",
+                "en": "dhruvā",
+                "be": "ধ্রুবা",
+                "ka": "ಧ್ರುವಾ"
+            },
+            "meaning": {
+                "hi": "फर्म",
+                "en": "firm",
+                "be": "দৃঢ়",
+                "ka": "ದೃಢವಾದ"
+            }
         },
         {
             "sanskrit": "नीतिः",
-            "transliteration": "nītiḥ",
-            "meaning": "policy"
+            "transliteration": {
+                "hi": "नीतिः",
+                "en": "nītiḥ",
+                "be": "নীতিঃ",
+                "ka": "ನೀತಿಃ"
+            },
+            "meaning": {
+                "hi": "नीति",
+                "en": "policy",
+                "be": "নীতি",
+                "ka": "ನೀತಿ"
+            }
         },
         {
             "sanskrit": "मतिः",
-            "transliteration": "matiḥ",
-            "meaning": "conviction"
+            "transliteration": {
+                "hi": "मतिः",
+                "en": "matiḥ",
+                "be": "মতিঃ",
+                "ka": "ಮತಿಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ विश्वास",
+                "en": "conviction",
+                "be": "প্রত্যয়",
+                "ka": "ಕನ್ವಿಕ್ಷನ್"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my."
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा।",
+                "en": "my.",
+                "be": "আমার",
+                "ka": "ನನ್ನ."
+            }
         }
     ],
     "tej": {

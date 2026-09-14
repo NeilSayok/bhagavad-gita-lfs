@@ -14,8 +14,18 @@
         "en": "kāryamityeva yatkarma niyataṃ kriyate.arjuna .\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||18-9||",
         "ka": "ಕಾರ್ಯಮಿತ್ಯೇವ ಯತ್ಕರ್ಮ ನಿಯತಂ ಕ್ರಿಯತೇಽರ್ಜುನ |\nಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾ ಫಲಂ ಚೈವ ಸ ತ್ಯಾಗಃ ಸಾತ್ತ್ವಿಕೋ ಮತಃ ||೧೮-೯||"
     },
-    "transliteration": "kāryamityeva yatkarma niyataṃ kriyate.arjuna .\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||18-9||",
-    "life_application": "When prescribed duty is performed because 'it ought to be done', abandoning attachment and fruit—that is Sattvic.",
+    "transliteration": {
+        "hi": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन |\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||१८-९||",
+        "en": "kāryamityeva yatkarma niyataṃ kriyate.arjuna .\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||18-9||",
+        "be": "কার্যমিত্যেব যত্কর্ম নিযতং ক্রিযতেঽর্জুন |\nসঙ্গং ত্যক্ত্বা ফলং চৈব স ত্যাগঃ সাত্ত্বিকো মতঃ ||১৮-৯||",
+        "ka": "ಕಾರ್ಯಮಿತ್ಯೇವ ಯತ್ಕರ್ಮ ನಿಯತಂ ಕ್ರಿಯತೇಽರ್ಜುನ |\nಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾ ಫಲಂ ಚೈವ ಸ ತ್ಯಾಗಃ ಸಾತ್ತ್ವಿಕೋ ಮತಃ ||೧೮-೯||"
+    },
+    "life_application": {
+        "hi": "जब नियत कर्तव्य का पालन इसलिए किया जाता है कि 'यह करना ही चाहिए', आसक्ति और फल का त्याग करके - वह सात्विक है।",
+        "en": "When prescribed duty is performed because 'it ought to be done', abandoning attachment and fruit—that is Sattvic.",
+        "be": "যখন নির্ধারিত কর্তব্য সম্পাদন করা হয় কারণ 'এটি করা উচিত', আসক্তি ও ফল ত্যাগ করে- সেটাই সাত্ত্বিক।",
+        "ka": "ನಿಗದಿತ ಕರ್ತವ್ಯವನ್ನು ನಿರ್ವಹಿಸಿದಾಗ 'ಅದನ್ನು ಮಾಡಬೇಕು' ಎಂಬ ಕಾರಣಕ್ಕಾಗಿ, ಬಾಂಧವ್ಯ ಮತ್ತು ಫಲವನ್ನು ತ್ಯಜಿಸಿ - ಅದು ಸಾತ್ವಿಕವಾಗಿದೆ."
+    },
     "themes": [
         "Duty",
         "Karma",
@@ -24,88 +34,258 @@
     "word_meanings": [
         {
             "sanskrit": "कार्यम्",
-            "transliteration": "kāryam",
-            "meaning": "ought to be done"
+            "transliteration": {
+                "hi": "कार्यम्",
+                "en": "kāryam",
+                "be": "কার্যম্",
+                "ka": "ಕಾರ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "किया जाना चाहिए",
+                "en": "ought to be done",
+                "be": "করা উচিত",
+                "ka": "ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "नियतम्",
-            "transliteration": "niyatam",
-            "meaning": "obligatory"
+            "transliteration": {
+                "hi": "नियतम्",
+                "en": "niyatam",
+                "be": "নিযতম্",
+                "ka": "ನಿಯತಮ್"
+            },
+            "meaning": {
+                "hi": "अनिवार्य",
+                "en": "obligatory",
+                "be": "বাধ্যতামূলক",
+                "ka": "ಕಡ್ಡಾಯ"
+            }
         },
         {
             "sanskrit": "क्रियते",
-            "transliteration": "kriyate",
-            "meaning": "is performed"
+            "transliteration": {
+                "hi": "क्रियते",
+                "en": "kriyate",
+                "be": "ক্রিযতে",
+                "ka": "ಕ್ರಿಯತೇ"
+            },
+            "meaning": {
+                "hi": "किया जाता है",
+                "en": "is performed",
+                "be": "সঞ্চালিত হয়",
+                "ka": "ನಿರ್ವಹಿಸಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "सङ्गम्",
-            "transliteration": "saṅgam",
-            "meaning": "attachment"
+            "transliteration": {
+                "hi": "सङ्गम्",
+                "en": "saṅgam",
+                "be": "সঙ্গম্",
+                "ka": "ಸಙ್ಗಮ್"
+            },
+            "meaning": {
+                "hi": "लगाव",
+                "en": "attachment",
+                "be": "সংযুক্তি",
+                "ka": "ಬಾಂಧವ್ಯ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "abandoning"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्यागना",
+                "en": "abandoning",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "त्यागः",
-            "transliteration": "tyāgaḥ",
-            "meaning": "abandonment"
+            "transliteration": {
+                "hi": "त्यागः",
+                "en": "tyāgaḥ",
+                "be": "ত্যাগঃ",
+                "ka": "ತ್ಯಾಗಃ"
+            },
+            "meaning": {
+                "hi": "परित्याग",
+                "en": "abandonment",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "सात्त्विकः",
-            "transliteration": "sāttvikaḥ",
-            "meaning": "Sattvic"
+            "transliteration": {
+                "hi": "सात्त्विकः",
+                "en": "sāttvikaḥ",
+                "be": "সাত্ত্বিকঃ",
+                "ka": "ಸಾತ್ತ್ವಿಕಃ"
+            },
+            "meaning": {
+                "hi": "सात्विक",
+                "en": "Sattvic",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "मतः",
-            "transliteration": "mataḥ",
-            "meaning": "is regarded."
+            "transliteration": {
+                "hi": "मतः",
+                "en": "mataḥ",
+                "be": "মতঃ",
+                "ka": "ಮತಃ"
+            },
+            "meaning": {
+                "hi": "माना जाता है.",
+                "en": "is regarded.",
+                "be": "গণ্য করা হয়",
+                "ka": "ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

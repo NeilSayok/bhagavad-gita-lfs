@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\nityahaṃ vāsudevasya pārthasya ca mahātmanaḥ .\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam ||18-74||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಇತ್ಯಹಂ ವಾಸುದೇವಸ್ಯ ಪಾರ್ಥಸ್ಯ ಚ ಮಹಾತ್ಮನಃ |\nಸಂವಾದಮಿಮಮಶ್ರೌಷಮದ್ಭುತಂ ರೋಮಹರ್ಷಣಮ್ ||೧೮-೭೪||"
     },
-    "transliteration": "sañjaya uvāca .\nityahaṃ vāsudevasya pārthasya ca mahātmanaḥ .\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam ||18-74||",
-    "life_application": "Sanjaya said: Thus I have heard this wonderful, thrilling dialogue between Vasudeva and high-souled Partha.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nइत्यहं वासुदेवस्य पार्थस्य च महात्मनः |\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ||१८-७४||",
+        "en": "sañjaya uvāca .\nityahaṃ vāsudevasya pārthasya ca mahātmanaḥ .\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam ||18-74||",
+        "be": "সঞ্জয উবাচ |\nইত্যহং বাসুদেবস্য পার্থস্য চ মহাত্মনঃ |\nসংবাদমিমমশ্রৌষমদ্ভুতং রোমহর্ষণম্ ||১৮-৭৪||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಇತ್ಯಹಂ ವಾಸುದೇವಸ್ಯ ಪಾರ್ಥಸ್ಯ ಚ ಮಹಾತ್ಮನಃ |\nಸಂವಾದಮಿಮಮಶ್ರೌಷಮದ್ಭುತಂ ರೋಮಹರ್ಷಣಮ್ ||೧೮-೭೪||"
+    },
+    "life_application": {
+        "hi": "संजय ने कहा: इस प्रकार मैंने वासुदेव और उच्चात्मा पार्थ के बीच यह अद्भुत, रोमांचकारी संवाद सुना है।",
+        "en": "Sanjaya said: Thus I have heard this wonderful, thrilling dialogue between Vasudeva and high-souled Partha.",
+        "be": "সঞ্জয় বললেন: এইভাবে আমি বাসুদেব এবং উচ্চ-প্রাণ পার্থের মধ্যে এই চমৎকার, রোমাঞ্চকর কথোপকথন শুনেছি।",
+        "ka": "ಸಂಜಯನು ಹೇಳಿದನು: ವಾಸುದೇವ ಮತ್ತು ಪರಮಾತ್ಮನ ಪಾರ್ಥನ ನಡುವಿನ ಈ ಅದ್ಭುತವಾದ, ರೋಮಾಂಚಕ ಸಂಭಾಷಣೆಯನ್ನು ನಾನು ಕೇಳಿದ್ದೇನೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "वासुदेवस्य",
-            "transliteration": "vāsudevasya",
-            "meaning": "of Krishna"
+            "transliteration": {
+                "hi": "वासुदेवस्य",
+                "en": "vāsudevasya",
+                "be": "বাসুদেবস্য",
+                "ka": "ವಾಸುದೇವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "कृष्ण का",
+                "en": "of Krishna",
+                "be": "কৃষ্ণের",
+                "ka": "ಕೃಷ್ಣನ"
+            }
         },
         {
             "sanskrit": "पार्थस्य",
-            "transliteration": "pārthasya",
-            "meaning": "of Arjuna"
+            "transliteration": {
+                "hi": "पार्थस्य",
+                "en": "pārthasya",
+                "be": "পার্থস্য",
+                "ka": "ಪಾರ್ಥಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अर्जुन का",
+                "en": "of Arjuna",
+                "be": "অর্জুনের",
+                "ka": "ಅರ್ಜುನನ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "महात्मनः",
-            "transliteration": "mahātmanaḥ",
-            "meaning": "highsouled"
+            "transliteration": {
+                "hi": "महात्मनः",
+                "en": "mahātmanaḥ",
+                "be": "মহাত্মনঃ",
+                "ka": "ಮಹಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "उच्चात्मा",
+                "en": "highsouled",
+                "be": "উচ্চ আত্মা",
+                "ka": "ಉತ್ಕೃಷ್ಟವಾದ"
+            }
         },
         {
             "sanskrit": "संवादम्",
-            "transliteration": "saṃvādam",
-            "meaning": "dialogue"
+            "transliteration": {
+                "hi": "संवादम्",
+                "en": "saṃvādam",
+                "be": "সংবাদম্",
+                "ka": "ಸಂವಾದಮ್"
+            },
+            "meaning": {
+                "hi": "संवाद",
+                "en": "dialogue",
+                "be": "সংলাপ",
+                "ka": "ಸಂಭಾಷಣೆ"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अश्रौषम्",
-            "transliteration": "aśrauṣam",
-            "meaning": "have heard"
+            "transliteration": {
+                "hi": "अश्रौषम्",
+                "en": "aśrauṣam",
+                "be": "অশ্রৌষম্",
+                "ka": "ಅಶ್ರೌಷಮ್"
+            },
+            "meaning": {
+                "hi": "सुना है",
+                "en": "have heard",
+                "be": "শুনেছি",
+                "ka": "ಕೇಳಿದ್ದೇವೆ"
+            }
         },
         {
             "sanskrit": "अद्भुतम्",
-            "transliteration": "adbhutam",
-            "meaning": "wonderful"
+            "transliteration": {
+                "hi": "अद्भुतम्",
+                "en": "adbhutam",
+                "be": "অদ্ভুতম্",
+                "ka": "ಅದ್ಭುತಮ್"
+            },
+            "meaning": {
+                "hi": "अद्भुत",
+                "en": "wonderful",
+                "be": "বিস্ময়কর",
+                "ka": "ಅದ್ಭುತ"
+            }
         },
         {
             "sanskrit": "रोमहर्षणम्",
-            "transliteration": "romaharṣaṇam",
-            "meaning": "which causes the hair"
+            "transliteration": {
+                "hi": "रोमहर्षणम्",
+                "en": "romaharṣaṇam",
+                "be": "রোমহর্ষণম্",
+                "ka": "ರೋಮಹರ್ಷಣಮ್"
+            },
+            "meaning": {
+                "hi": "जो बालों का कारण बनता है",
+                "en": "which causes the hair",
+                "be": "যার কারণে চুল পড়ে",
+                "ka": "ಇದು ಕೂದಲನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ"
+            }
         }
     ],
     "tej": {

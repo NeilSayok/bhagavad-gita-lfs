@@ -14,8 +14,18 @@
         "en": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||1-18||",
         "ka": "ದ್ರುಪದೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವಶಃ ಪೃಥಿವೀಪತೇ |\nಸೌಭದ್ರಶ್ಚ ಮಹಾಬಾಹುಃ ಶಙ್ಖಾನ್ದಧ್ಮುಃ ಪೃಥಕ್ಪೃಥಕ್ ||೧-೧೮||"
     },
-    "transliteration": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||1-18||",
-    "life_application": "Commit fully to your responsibilities alongside your family and peers, leaving no room for hesitation.",
+    "transliteration": {
+        "hi": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||",
+        "en": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||1-18||",
+        "be": "দ্রুপদো দ্রৌপদেযাশ্চ সর্বশঃ পৃথিবীপতে |\nসৌভদ্রশ্চ মহাবাহুঃ শঙ্খান্দধ্মুঃ পৃথক্পৃথক্ ||১-১৮||",
+        "ka": "ದ್ರುಪದೋ ದ್ರೌಪದೇಯಾಶ್ಚ ಸರ್ವಶಃ ಪೃಥಿವೀಪತೇ |\nಸೌಭದ್ರಶ್ಚ ಮಹಾಬಾಹುಃ ಶಙ್ಖಾನ್ದಧ್ಮುಃ ಪೃಥಕ್ಪೃಥಕ್ ||೧-೧೮||"
+    },
+    "life_application": {
+        "hi": "अपने परिवार और साथियों के साथ-साथ अपनी जिम्मेदारियों के प्रति पूरी तरह प्रतिबद्ध रहें, झिझक की कोई गुंजाइश न रखें।",
+        "en": "Commit fully to your responsibilities alongside your family and peers, leaving no room for hesitation.",
+        "be": "আপনার পরিবার এবং সমবয়সীদের পাশাপাশি আপনার দায়িত্বের প্রতি সম্পূর্ণরূপে প্রতিশ্রুতিবদ্ধ হন, দ্বিধা করার জন্য কোনও জায়গা না রেখে।",
+        "ka": "ನಿಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಗೆಳೆಯರೊಂದಿಗೆ ನಿಮ್ಮ ಜವಾಬ್ದಾರಿಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಬದ್ಧರಾಗಿರಿ, ಯಾವುದೇ ಹಿಂಜರಿಕೆಗೆ ಅವಕಾಶವಿಲ್ಲ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "द्रुपदः",
-            "transliteration": "drupadaḥ",
-            "meaning": "Drupada"
+            "transliteration": {
+                "hi": "द्रुपदः",
+                "en": "drupadaḥ",
+                "be": "দ্রুপদঃ",
+                "ka": "ದ್ರುಪದಃ"
+            },
+            "meaning": {
+                "hi": "द्रुपद",
+                "en": "Drupada",
+                "be": "দ্রুপদ",
+                "ka": "ದ್ರುಪದ"
+            }
         },
         {
             "sanskrit": "द्रौपदेयाः",
-            "transliteration": "draupadeyāḥ",
-            "meaning": "sons of Draupadi"
+            "transliteration": {
+                "hi": "द्रौपदेयाः",
+                "en": "draupadeyāḥ",
+                "be": "দ্রৌপদেযাঃ",
+                "ka": "ದ್ರೌಪದೇಯಾಃ"
+            },
+            "meaning": {
+                "hi": "द्रौपदी के पुत्र",
+                "en": "sons of Draupadi",
+                "be": "দ্রৌপদীর ছেলেরা",
+                "ka": "ದ್ರೌಪದಿಯ ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वशः",
-            "transliteration": "sarvaśaḥ",
-            "meaning": "from all sides"
+            "transliteration": {
+                "hi": "सर्वशः",
+                "en": "sarvaśaḥ",
+                "be": "সর্বশঃ",
+                "ka": "ಸರ್ವಶಃ"
+            },
+            "meaning": {
+                "hi": "हर तरफ से",
+                "en": "from all sides",
+                "be": "সব দিক থেকে",
+                "ka": "ಎಲ್ಲಾ ಕಡೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "पृथिवीपते",
-            "transliteration": "pṛthivīpate",
-            "meaning": "O Lord of earth"
+            "transliteration": {
+                "hi": "पृथिवीपते",
+                "en": "pṛthivīpate",
+                "be": "পৃথিবীপতে",
+                "ka": "ಪೃಥಿವೀಪತೇ"
+            },
+            "meaning": {
+                "hi": "हे धरती के भगवान!",
+                "en": "O Lord of earth",
+                "be": "হে পৃথিবীর প্রভু",
+                "ka": "ಓ ಭೂಮಿಯ ಒಡೆಯ"
+            }
         },
         {
             "sanskrit": "सौभद्रः",
-            "transliteration": "saubhadraḥ",
-            "meaning": "son of Subhadra"
+            "transliteration": {
+                "hi": "सौभद्रः",
+                "en": "saubhadraḥ",
+                "be": "সৌভদ্রঃ",
+                "ka": "ಸೌಭದ್ರಃ"
+            },
+            "meaning": {
+                "hi": "सुभद्रा के पुत्र",
+                "en": "son of Subhadra",
+                "be": "সুভদ্রার ছেলে",
+                "ka": "ಸುಭದ್ರೆಯ ಮಗ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "महाबाहुः",
-            "transliteration": "mahābāhuḥ",
-            "meaning": "mighty-armed"
+            "transliteration": {
+                "hi": "महाबाहुः",
+                "en": "mahābāhuḥ",
+                "be": "মহাবাহুঃ",
+                "ka": "ಮಹಾಬಾಹುಃ"
+            },
+            "meaning": {
+                "hi": "पराक्रमी-बाहु",
+                "en": "mighty-armed",
+                "be": "শক্তিশালী সশস্ত্র",
+                "ka": "ಬಲಿಷ್ಠ ಶಸ್ತ್ರಸಜ್ಜಿತ"
+            }
         },
         {
             "sanskrit": "शङ्खान्",
-            "transliteration": "śaṅkhān",
-            "meaning": "conches"
+            "transliteration": {
+                "hi": "शङ्खान्",
+                "en": "śaṅkhān",
+                "be": "শঙ্খান্",
+                "ka": "ಶಙ್ಖಾನ್"
+            },
+            "meaning": {
+                "hi": "शंख",
+                "en": "conches",
+                "be": "শঙ্খ",
+                "ka": "ಶಂಖಗಳು"
+            }
         },
         {
             "sanskrit": "दध्मुः",
-            "transliteration": "dadhmuḥ",
-            "meaning": "blew"
+            "transliteration": {
+                "hi": "दध्मुः",
+                "en": "dadhmuḥ",
+                "be": "দধ্মুঃ",
+                "ka": "ದಧ್ಮುಃ"
+            },
+            "meaning": {
+                "hi": "उड़ा दिया",
+                "en": "blew",
+                "be": "উড়িয়ে দেওয়া",
+                "ka": "ಬೀಸಿದರು"
+            }
         },
         {
             "sanskrit": "पृथक् पृथक्",
-            "transliteration": "pṛthak pṛthak",
-            "meaning": "severally"
+            "transliteration": {
+                "hi": "पृथक् पृथक्",
+                "en": "pṛthak pṛthak",
+                "be": "পৃথক্ পৃথক্",
+                "ka": "ಪೃಥಕ್ ಪೃಥಕ್"
+            },
+            "meaning": {
+                "hi": "अलग-अलग",
+                "en": "severally",
+                "be": "বিভিন্নভাবে",
+                "ka": "ಹಲವಾರು"
+            }
         }
     ],
     "tej": {

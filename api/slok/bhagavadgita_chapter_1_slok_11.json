@@ -14,8 +14,18 @@
         "en": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||",
         "ka": "ಅಯನೇಷು ಚ ಸರ್ವೇಷು ಯಥಾಭಾಗಮವಸ್ಥಿತಾಃ |\nಭೀಷ್ಮಮೇವಾಭಿರಕ್ಷನ್ತು ಭವನ್ತಃ ಸರ್ವ ಏವ ಹಿ ||೧-೧೧||"
     },
-    "transliteration": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||",
-    "life_application": "Support and protect key leaders or core priorities in your organization when pressure mounts during tough times.",
+    "transliteration": {
+        "hi": "अयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||",
+        "en": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||",
+        "be": "অযনেষু চ সর্বেষু যথাভাগমবস্থিতাঃ |\nভীষ্মমেবাভিরক্ষন্তু ভবন্তঃ সর্ব এব হি ||১-১১||",
+        "ka": "ಅಯನೇಷು ಚ ಸರ್ವೇಷು ಯಥಾಭಾಗಮವಸ್ಥಿತಾಃ |\nಭೀಷ್ಮಮೇವಾಭಿರಕ್ಷನ್ತು ಭವನ್ತಃ ಸರ್ವ ಏವ ಹಿ ||೧-೧೧||"
+    },
+    "life_application": {
+        "hi": "कठिन समय के दौरान दबाव बढ़ने पर अपने संगठन में प्रमुख नेताओं या मुख्य प्राथमिकताओं का समर्थन और सुरक्षा करें।",
+        "en": "Support and protect key leaders or core priorities in your organization when pressure mounts during tough times.",
+        "be": "কঠিন সময়ে যখন চাপ বেড়ে যায় তখন আপনার প্রতিষ্ঠানের প্রধান নেতাদের বা মূল অগ্রাধিকারগুলিকে সমর্থন ও রক্ষা করুন।",
+        "ka": "ಕಠಿಣ ಸಮಯದಲ್ಲಿ ಒತ್ತಡ ಹೆಚ್ಚಾದಾಗ ನಿಮ್ಮ ಸಂಸ್ಥೆಯಲ್ಲಿ ಪ್ರಮುಖ ನಾಯಕರು ಅಥವಾ ಪ್ರಮುಖ ಆದ್ಯತೆಗಳನ್ನು ಬೆಂಬಲಿಸಿ ಮತ್ತು ರಕ್ಷಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अयनेषु",
-            "transliteration": "ayaneṣu",
-            "meaning": "in strategic positions"
+            "transliteration": {
+                "hi": "अयनेषु",
+                "en": "ayaneṣu",
+                "be": "অযনেষু",
+                "ka": "ಅಯನೇಷು"
+            },
+            "meaning": {
+                "hi": "रणनीतिक पदों पर",
+                "en": "in strategic positions",
+                "be": "কৌশলগত অবস্থানে",
+                "ka": "ಕಾರ್ಯತಂತ್ರದ ಸ್ಥಾನಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वेषु",
-            "transliteration": "sarveṣu",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वेषु",
+                "en": "sarveṣu",
+                "be": "সর্বেষু",
+                "ka": "ಸರ್ವೇಷು"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "यथाभागम्",
-            "transliteration": "yathābhāgam",
-            "meaning": "in respective divisions"
+            "transliteration": {
+                "hi": "यथाभागम्",
+                "en": "yathābhāgam",
+                "be": "যথাভাগম্",
+                "ka": "ಯಥಾಭಾಗಮ್"
+            },
+            "meaning": {
+                "hi": "संबंधित प्रभागों में",
+                "en": "in respective divisions",
+                "be": "নিজ নিজ বিভাগে",
+                "ka": "ಆಯಾ ವಿಭಾಗಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अवस्थिताः",
-            "transliteration": "avasthitāḥ",
-            "meaning": "stationed"
+            "transliteration": {
+                "hi": "अवस्थिताः",
+                "en": "avasthitāḥ",
+                "be": "অবস্থিতাঃ",
+                "ka": "ಅವಸ್ಥಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "तैनात",
+                "en": "stationed",
+                "be": "নিযুক্ত",
+                "ka": "ನೆಲೆ ನಿಂತಿದೆ"
+            }
         },
         {
             "sanskrit": "भीष्मम्",
-            "transliteration": "bhīṣmam",
-            "meaning": "Bhishma"
+            "transliteration": {
+                "hi": "भीष्मम्",
+                "en": "bhīṣmam",
+                "be": "ভীষ্মম্",
+                "ka": "ಭೀಷ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "भीष्म",
+                "en": "Bhishma",
+                "be": "ভীষ্ম",
+                "ka": "ಭೀಷ್ಮ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "अभिरक्षन्तु",
-            "transliteration": "abhirakṣantu",
-            "meaning": "protect"
+            "transliteration": {
+                "hi": "अभिरक्षन्तु",
+                "en": "abhirakṣantu",
+                "be": "অভিরক্ষন্তু",
+                "ka": "ಅಭಿರಕ್ಷನ್ತು"
+            },
+            "meaning": {
+                "hi": "रक्षा करें",
+                "en": "protect",
+                "be": "রক্ষা",
+                "ka": "ರಕ್ಷಿಸು"
+            }
         },
         {
             "sanskrit": "भवन्तः",
-            "transliteration": "bhavantaḥ",
-            "meaning": "you all"
+            "transliteration": {
+                "hi": "भवन्तः",
+                "en": "bhavantaḥ",
+                "be": "ভবন্তঃ",
+                "ka": "ಭವನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "आप सब",
+                "en": "you all",
+                "be": "আপনি সব",
+                "ka": "ನೀವೆಲ್ಲರೂ"
+            }
         },
         {
             "sanskrit": "सर्वे",
-            "transliteration": "sarve",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वे",
+                "en": "sarve",
+                "be": "সর্বে",
+                "ka": "ಸರ್ವೇ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         }
     ],
     "tej": {

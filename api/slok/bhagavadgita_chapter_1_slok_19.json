@@ -14,8 +14,18 @@
         "en": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)||1-19||",
         "ka": "ಸ ಘೋಷೋ ಧಾರ್ತರಾಷ್ಟ್ರಾಣಾಂ ಹೃದಯಾನಿ ವ್ಯದಾರಯತ್ |\nನಭಶ್ಚ ಪೃಥಿವೀಂ ಚೈವ ತುಮುಲೋಽಭ್ಯನುನಾದಯನ್ (or ಲೋವ್ಯನು) ||೧-೧೯||"
     },
-    "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)||1-19||",
-    "life_application": "Remain steadfast and calm when surrounded by overwhelming noise or intimidating circumstances in your daily life.",
+    "transliteration": {
+        "hi": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् |\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||",
+        "en": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)||1-19||",
+        "be": "স ঘোষো ধার্তরাষ্ট্রাণাং হৃদযানি ব্যদারযত্ |\nনভশ্চ পৃথিবীং চৈব তুমুলোঽভ্যনুনাদযন্ (or লোব্যনু) ||১-১৯||",
+        "ka": "ಸ ಘೋಷೋ ಧಾರ್ತರಾಷ್ಟ್ರಾಣಾಂ ಹೃದಯಾನಿ ವ್ಯದಾರಯತ್ |\nನಭಶ್ಚ ಪೃಥಿವೀಂ ಚೈವ ತುಮುಲೋಽಭ್ಯನುನಾದಯನ್ (or ಲೋವ್ಯನು) ||೧-೧೯||"
+    },
+    "life_application": {
+        "hi": "अपने दैनिक जीवन में अत्यधिक शोर या डराने वाली परिस्थितियों से घिरे रहने पर स्थिर और शांत रहें।",
+        "en": "Remain steadfast and calm when surrounded by overwhelming noise or intimidating circumstances in your daily life.",
+        "be": "আপনার দৈনন্দিন জীবনে অপ্রতিরোধ্য গোলমাল বা ভীতিকর পরিস্থিতি দ্বারা বেষ্টিত হলে অবিচল এবং শান্ত থাকুন।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಅಗಾಧವಾದ ಶಬ್ದ ಅಥವಾ ಬೆದರಿಸುವ ಸಂದರ್ಭಗಳಿಂದ ಸುತ್ತುವರೆದಿರುವಾಗ ಸ್ಥಿರವಾಗಿ ಮತ್ತು ಶಾಂತವಾಗಿರಿ."
+    },
     "themes": [
         "Equanimity",
         "Fear"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "घोषः",
-            "transliteration": "ghoṣaḥ",
-            "meaning": "uproar"
+            "transliteration": {
+                "hi": "घोषः",
+                "en": "ghoṣaḥ",
+                "be": "ঘোষঃ",
+                "ka": "ಘೋಷಃ"
+            },
+            "meaning": {
+                "hi": "हंगामा",
+                "en": "uproar",
+                "be": "হৈচৈ",
+                "ka": "ಗಲಾಟೆ"
+            }
         },
         {
             "sanskrit": "धार्तराष्ट्राणाम्",
-            "transliteration": "dhārtarāṣṭrāṇām",
-            "meaning": "of Dhritarashtra's sons"
+            "transliteration": {
+                "hi": "धार्तराष्ट्राणाम्",
+                "en": "dhārtarāṣṭrāṇām",
+                "be": "ধার্তরাষ্ট্রাণাম্",
+                "ka": "ಧಾರ್ತರಾಷ್ಟ್ರಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र के पुत्रों में से",
+                "en": "of Dhritarashtra's sons",
+                "be": "ধৃতরাষ্ট্রের পুত্রদের",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ ಪುತ್ರರು"
+            }
         },
         {
             "sanskrit": "हृदयानि",
-            "transliteration": "hṛdayāni",
-            "meaning": "hearts"
+            "transliteration": {
+                "hi": "हृदयानि",
+                "en": "hṛdayāni",
+                "be": "হৃদযানি",
+                "ka": "ಹೃದಯಾನಿ"
+            },
+            "meaning": {
+                "hi": "दिल",
+                "en": "hearts",
+                "be": "হৃদয়",
+                "ka": "ಹೃದಯಗಳು"
+            }
         },
         {
             "sanskrit": "व्यदारयत्",
-            "transliteration": "vyadārayat",
-            "meaning": "rent asunder"
+            "transliteration": {
+                "hi": "व्यदारयत्",
+                "en": "vyadārayat",
+                "be": "ব্যদারযত্",
+                "ka": "ವ್ಯದಾರಯತ್"
+            },
+            "meaning": {
+                "hi": "किराया अलग करना",
+                "en": "rent asunder",
+                "be": "ভাড়া আলাদা",
+                "ka": "ಬಾಡಿಗೆಗೆ"
+            }
         },
         {
             "sanskrit": "नभः",
-            "transliteration": "nabhaḥ",
-            "meaning": "sky"
+            "transliteration": {
+                "hi": "नभः",
+                "en": "nabhaḥ",
+                "be": "নভঃ",
+                "ka": "ನಭಃ"
+            },
+            "meaning": {
+                "hi": "आकाश",
+                "en": "sky",
+                "be": "আকাশ",
+                "ka": "ಆಕಾಶ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पृथ्वीम्",
-            "transliteration": "pṛthvīm",
-            "meaning": "earth"
+            "transliteration": {
+                "hi": "पृथ्वीम्",
+                "en": "pṛthvīm",
+                "be": "পৃথ্বীম্",
+                "ka": "ಪೃಥ್ವೀಮ್"
+            },
+            "meaning": {
+                "hi": "पृथ्वी",
+                "en": "earth",
+                "be": "পৃথিবী",
+                "ka": "ಭೂಮಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "तुमुलः",
-            "transliteration": "tumulaḥ",
-            "meaning": "tumultuous"
+            "transliteration": {
+                "hi": "तुमुलः",
+                "en": "tumulaḥ",
+                "be": "তুমুলঃ",
+                "ka": "ತುಮುಲಃ"
+            },
+            "meaning": {
+                "hi": "उथल-पुथल भरा",
+                "en": "tumultuous",
+                "be": "টালমাটাল",
+                "ka": "ಪ್ರಕ್ಷುಬ್ಧ"
+            }
         },
         {
             "sanskrit": "व्यनुनादयन्",
-            "transliteration": "vyanunādayan",
-            "meaning": "resounding"
+            "transliteration": {
+                "hi": "व्यनुनादयन्",
+                "en": "vyanunādayan",
+                "be": "ব্যনুনাদযন্",
+                "ka": "ವ್ಯನುನಾದಯನ್"
+            },
+            "meaning": {
+                "hi": "गूंज रहा है",
+                "en": "resounding",
+                "be": "ধ্বনিত",
+                "ka": "ಪ್ರತಿಧ್ವನಿಸುತ್ತಿದೆ"
+            }
         }
     ],
     "tej": {

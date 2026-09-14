@@ -14,8 +14,18 @@
         "en": "tataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||1-14||",
         "ka": "ತತಃ ಶ್ವೇತೈರ್ಹಯೈರ್ಯುಕ್ತೇ ಮಹತಿ ಸ್ಯನ್ದನೇ ಸ್ಥಿತೌ |\nಮಾಧವಃ ಪಾಣ್ಡವಶ್ಚೈವ ದಿವ್ಯೌ ಶಙ್ಖೌ ಪ್ರದಧ್ಮತುಃ ||೧-೧೪||"
     },
-    "transliteration": "tataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||1-14||",
-    "life_application": "Enter difficult tasks with quiet dignity and inner strength, knowing your resolve is grounded in righteousness.",
+    "transliteration": {
+        "hi": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||",
+        "en": "tataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||1-14||",
+        "be": "ততঃ শ্বেতৈর্হযৈর্যুক্তে মহতি স্যন্দনে স্থিতৌ |\nমাধবঃ পাণ্ডবশ্চৈব দিব্যৌ শঙ্খৌ প্রদধ্মতুঃ ||১-১৪||",
+        "ka": "ತತಃ ಶ್ವೇತೈರ್ಹಯೈರ್ಯುಕ್ತೇ ಮಹತಿ ಸ್ಯನ್ದನೇ ಸ್ಥಿತೌ |\nಮಾಧವಃ ಪಾಣ್ಡವಶ್ಚೈವ ದಿವ್ಯೌ ಶಙ್ಖೌ ಪ್ರದಧ್ಮತುಃ ||೧-೧೪||"
+    },
+    "life_application": {
+        "hi": "शांत गरिमा और आंतरिक शक्ति के साथ कठिन कार्यों में प्रवेश करें, यह जानते हुए कि आपका संकल्प धार्मिकता पर आधारित है।",
+        "en": "Enter difficult tasks with quiet dignity and inner strength, knowing your resolve is grounded in righteousness.",
+        "be": "শান্ত মর্যাদা এবং অভ্যন্তরীণ শক্তির সাথে কঠিন কাজগুলি প্রবেশ করুন, আপনার সংকল্প ধার্মিকতার উপর ভিত্তি করে জেনে নিন।",
+        "ka": "ಕಠಿಣ ಕಾರ್ಯಗಳನ್ನು ಶಾಂತ ಘನತೆ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿಯೊಂದಿಗೆ ನಮೂದಿಸಿ, ನಿಮ್ಮ ಸಂಕಲ್ಪವು ಸದಾಚಾರದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Dharma",
         "Equanimity"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "श्वेतैः",
-            "transliteration": "śvetaiḥ",
-            "meaning": "with white"
+            "transliteration": {
+                "hi": "श्वेतैः",
+                "en": "śvetaiḥ",
+                "be": "শ্বেতৈঃ",
+                "ka": "ಶ್ವೇತೈಃ"
+            },
+            "meaning": {
+                "hi": "सफ़ेद के साथ",
+                "en": "with white",
+                "be": "সাদা সঙ্গে",
+                "ka": "ಬಿಳಿ ಜೊತೆ"
+            }
         },
         {
             "sanskrit": "हयैः",
-            "transliteration": "hayaiḥ",
-            "meaning": "horses"
+            "transliteration": {
+                "hi": "हयैः",
+                "en": "hayaiḥ",
+                "be": "হযৈঃ",
+                "ka": "ಹಯೈಃ"
+            },
+            "meaning": {
+                "hi": "घोड़े",
+                "en": "horses",
+                "be": "ঘোড়া",
+                "ka": "ಕುದುರೆಗಳು"
+            }
         },
         {
             "sanskrit": "युक्ते",
-            "transliteration": "yukte",
-            "meaning": "yoked"
+            "transliteration": {
+                "hi": "युक्ते",
+                "en": "yukte",
+                "be": "যুক্তে",
+                "ka": "ಯುಕ್ತೇ"
+            },
+            "meaning": {
+                "hi": "जुए में डाल दिया",
+                "en": "yoked",
+                "be": "জোয়াল",
+                "ka": "ನೊಗ ಹಾಕಿದರು"
+            }
         },
         {
             "sanskrit": "महति",
-            "transliteration": "mahati",
-            "meaning": "magnificent"
+            "transliteration": {
+                "hi": "महति",
+                "en": "mahati",
+                "be": "মহতি",
+                "ka": "ಮಹತಿ"
+            },
+            "meaning": {
+                "hi": "शानदार",
+                "en": "magnificent",
+                "be": "মহৎ",
+                "ka": "ಭವ್ಯವಾದ"
+            }
         },
         {
             "sanskrit": "स्यन्दने",
-            "transliteration": "syandane",
-            "meaning": "in chariot"
+            "transliteration": {
+                "hi": "स्यन्दने",
+                "en": "syandane",
+                "be": "স্যন্দনে",
+                "ka": "ಸ್ಯನ್ದನೇ"
+            },
+            "meaning": {
+                "hi": "रथ में",
+                "en": "in chariot",
+                "be": "রথে",
+                "ka": "ರಥದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "स्थितौ",
-            "transliteration": "sthitau",
-            "meaning": "seated"
+            "transliteration": {
+                "hi": "स्थितौ",
+                "en": "sthitau",
+                "be": "স্থিতৌ",
+                "ka": "ಸ್ಥಿತೌ"
+            },
+            "meaning": {
+                "hi": "बैठा हुआ",
+                "en": "seated",
+                "be": "উপবিষ্ট",
+                "ka": "ಕುಳಿತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "माधवः",
-            "transliteration": "mādhavaḥ",
-            "meaning": "Madhava (Krishna)"
+            "transliteration": {
+                "hi": "माधवः",
+                "en": "mādhavaḥ",
+                "be": "মাধবঃ",
+                "ka": "ಮಾಧವಃ"
+            },
+            "meaning": {
+                "hi": "माधव (कृष्ण)",
+                "en": "Madhava (Krishna)",
+                "be": "মাধব (কৃষ্ণ)",
+                "ka": "ಮಾಧವ (ಕೃಷ್ಣ)"
+            }
         },
         {
             "sanskrit": "पाण्डवः",
-            "transliteration": "pāṇḍavaḥ",
-            "meaning": "Pandava (Arjuna)"
+            "transliteration": {
+                "hi": "पाण्डवः",
+                "en": "pāṇḍavaḥ",
+                "be": "পাণ্ডবঃ",
+                "ka": "ಪಾಣ್ಡವಃ"
+            },
+            "meaning": {
+                "hi": "पांडव (अर्जुन)",
+                "en": "Pandava (Arjuna)",
+                "be": "পাণ্ডব (অর্জুন)",
+                "ka": "ಪಾಂಡವ (ಅರ್ಜುನ)"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "दिव्यौ",
-            "transliteration": "divyau",
-            "meaning": "divine"
+            "transliteration": {
+                "hi": "दिव्यौ",
+                "en": "divyau",
+                "be": "দিব্যৌ",
+                "ka": "ದಿವ್ಯೌ"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "शङ्खौ",
-            "transliteration": "śaṅkhau",
-            "meaning": "conches"
+            "transliteration": {
+                "hi": "शङ्खौ",
+                "en": "śaṅkhau",
+                "be": "শঙ্খৌ",
+                "ka": "ಶಙ್ಖೌ"
+            },
+            "meaning": {
+                "hi": "शंख",
+                "en": "conches",
+                "be": "শঙ্খ",
+                "ka": "ಶಂಖಗಳು"
+            }
         },
         {
             "sanskrit": "प्रदध्मतुः",
-            "transliteration": "pradadhmatuḥ",
-            "meaning": "blew"
+            "transliteration": {
+                "hi": "प्रदध्मतुः",
+                "en": "pradadhmatuḥ",
+                "be": "প্রদধ্মতুঃ",
+                "ka": "ಪ್ರದಧ್ಮತುಃ"
+            },
+            "meaning": {
+                "hi": "उड़ा दिया",
+                "en": "blew",
+                "be": "উড়িয়ে দেওয়া",
+                "ka": "ಬೀಸಿದರು"
+            }
         }
     ],
     "tej": {

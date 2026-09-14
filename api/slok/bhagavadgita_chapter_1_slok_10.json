@@ -14,8 +14,18 @@
         "en": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||",
         "ka": "ಅಪರ್ಯಾಪ್ತಂ ತದಸ್ಮಾಕಂ ಬಲಂ ಭೀಷ್ಮಾಭಿರಕ್ಷಿತಮ್ |\nಪರ್ಯಾಪ್ತಂ ತ್ವಿದಮೇತೇಷಾಂ ಬಲಂ ಭೀಮಾಭಿರಕ್ಷಿತಮ್ ||೧-೧೦||"
     },
-    "transliteration": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||",
-    "life_application": "Avoid overconfidence or self-doubt by evaluating your true readiness rather than making biased comparisons.",
+    "transliteration": {
+        "hi": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||",
+        "en": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||",
+        "be": "অপর্যাপ্তং তদস্মাকং বলং ভীষ্মাভিরক্ষিতম্ |\nপর্যাপ্তং ত্বিদমেতেষাং বলং ভীমাভিরক্ষিতম্ ||১-১০||",
+        "ka": "ಅಪರ್ಯಾಪ್ತಂ ತದಸ್ಮಾಕಂ ಬಲಂ ಭೀಷ್ಮಾಭಿರಕ್ಷಿತಮ್ |\nಪರ್ಯಾಪ್ತಂ ತ್ವಿದಮೇತೇಷಾಂ ಬಲಂ ಭೀಮಾಭಿರಕ್ಷಿತಮ್ ||೧-೧೦||"
+    },
+    "life_application": {
+        "hi": "पक्षपातपूर्ण तुलना करने के बजाय अपनी वास्तविक तत्परता का मूल्यांकन करके अति आत्मविश्वास या आत्म-संदेह से बचें।",
+        "en": "Avoid overconfidence or self-doubt by evaluating your true readiness rather than making biased comparisons.",
+        "be": "পক্ষপাতমূলক তুলনা করার পরিবর্তে আপনার সত্যিকারের প্রস্তুতির মূল্যায়ন করে অতিরিক্ত আত্মবিশ্বাস বা আত্ম-সন্দেহ এড়িয়ে চলুন।",
+        "ka": "ಪಕ್ಷಪಾತದ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡುವ ಬದಲು ನಿಮ್ಮ ನಿಜವಾದ ಸಿದ್ಧತೆಯನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುವ ಮೂಲಕ ಅತಿಯಾದ ಆತ್ಮವಿಶ್ವಾಸ ಅಥವಾ ಸ್ವಯಂ-ಅನುಮಾನವನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अपर्याप्तम्",
-            "transliteration": "aparyāptam",
-            "meaning": "insufficient"
+            "transliteration": {
+                "hi": "अपर्याप्तम्",
+                "en": "aparyāptam",
+                "be": "অপর্যাপ্তম্",
+                "ka": "ಅಪರ್ಯಾಪ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अपर्याप्त",
+                "en": "insufficient",
+                "be": "অপর্যাপ্ত",
+                "ka": "ಸಾಕಷ್ಟಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "अस्माकम्",
-            "transliteration": "asmākam",
-            "meaning": "our"
+            "transliteration": {
+                "hi": "अस्माकम्",
+                "en": "asmākam",
+                "be": "অস্মাকম্",
+                "ka": "ಅಸ್ಮಾಕಮ್"
+            },
+            "meaning": {
+                "hi": "हमारा",
+                "en": "our",
+                "be": "আমাদের",
+                "ka": "ನಮ್ಮ"
+            }
         },
         {
             "sanskrit": "बलम्",
-            "transliteration": "balam",
-            "meaning": "strength"
+            "transliteration": {
+                "hi": "बलम्",
+                "en": "balam",
+                "be": "বলম্",
+                "ka": "ಬಲಮ್"
+            },
+            "meaning": {
+                "hi": "ताकत",
+                "en": "strength",
+                "be": "শক্তি",
+                "ka": "ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "भीष्माभिरक्षितम्",
-            "transliteration": "bhīṣmābhirakṣitam",
-            "meaning": "protected by Bhishma"
+            "transliteration": {
+                "hi": "भीष्माभिरक्षितम्",
+                "en": "bhīṣmābhirakṣitam",
+                "be": "ভীষ্মাভিরক্ষিতম্",
+                "ka": "ಭೀಷ್ಮಾಭಿರಕ್ಷಿತಮ್"
+            },
+            "meaning": {
+                "hi": "भीष्म द्वारा संरक्षित",
+                "en": "protected by Bhishma",
+                "be": "ভীষ্ম দ্বারা সুরক্ষিত",
+                "ka": "ಭೀಷ್ಮನಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "पर्याप्तम्",
-            "transliteration": "paryāptam",
-            "meaning": "sufficient"
+            "transliteration": {
+                "hi": "पर्याप्तम्",
+                "en": "paryāptam",
+                "be": "পর্যাপ্তম্",
+                "ka": "ಪರ್ಯಾಪ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "पर्याप्त",
+                "en": "sufficient",
+                "be": "যথেষ্ট",
+                "ka": "ಸಾಕಷ್ಟು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "एतेषाम्",
-            "transliteration": "eteṣām",
-            "meaning": "their"
+            "transliteration": {
+                "hi": "एतेषाम्",
+                "en": "eteṣām",
+                "be": "এতেষাম্",
+                "ka": "ಏತೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनके",
+                "en": "their",
+                "be": "তাদের",
+                "ka": "ಅವರ"
+            }
         },
         {
             "sanskrit": "बलम्",
-            "transliteration": "balam",
-            "meaning": "strength"
+            "transliteration": {
+                "hi": "बलम्",
+                "en": "balam",
+                "be": "বলম্",
+                "ka": "ಬಲಮ್"
+            },
+            "meaning": {
+                "hi": "ताकत",
+                "en": "strength",
+                "be": "শক্তি",
+                "ka": "ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "भीमाभिरक्षितम्",
-            "transliteration": "bhīmābhirakṣitam",
-            "meaning": "protected by Bhima"
+            "transliteration": {
+                "hi": "भीमाभिरक्षितम्",
+                "en": "bhīmābhirakṣitam",
+                "be": "ভীমাভিরক্ষিতম্",
+                "ka": "ಭೀಮಾಭಿರಕ್ಷಿತಮ್"
+            },
+            "meaning": {
+                "hi": "भीम द्वारा संरक्षित",
+                "en": "protected by Bhima",
+                "be": "ভীম দ্বারা সুরক্ষিত",
+                "ka": "ಭೀಮನಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟಿದೆ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||1-15||",
         "ka": "ಪಾಞ್ಚಜನ್ಯಂ ಹೃಷೀಕೇಶೋ ದೇವದತ್ತಂ ಧನಞ್ಜಯಃ |\nಪೌಣ್ಡ್ರಂ ದಧ್ಮೌ ಮಹಾಶಙ್ಖಂ ಭೀಮಕರ್ಮಾ ವೃಕೋದರಃ ||೧-೧೫||"
     },
-    "transliteration": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||1-15||",
-    "life_application": "Express your unique capabilities boldly when called to duty, acting with courage alongside your teammates.",
+    "transliteration": {
+        "hi": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः |\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||",
+        "en": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||1-15||",
+        "be": "পাঞ্চজন্যং হৃষীকেশো দেবদত্তং ধনঞ্জযঃ |\nপৌণ্ড্রং দধ্মৌ মহাশঙ্খং ভীমকর্মা বৃকোদরঃ ||১-১৫||",
+        "ka": "ಪಾಞ್ಚಜನ್ಯಂ ಹೃಷೀಕೇಶೋ ದೇವದತ್ತಂ ಧನಞ್ಜಯಃ |\nಪೌಣ್ಡ್ರಂ ದಧ್ಮೌ ಮಹಾಶಙ್ಖಂ ಭೀಮಕರ್ಮಾ ವೃಕೋದರಃ ||೧-೧೫||"
+    },
+    "life_application": {
+        "hi": "ड्यूटी पर बुलाए जाने पर अपने साथियों के साथ साहस के साथ काम करते हुए अपनी अद्वितीय क्षमताओं को साहसपूर्वक व्यक्त करें।",
+        "en": "Express your unique capabilities boldly when called to duty, acting with courage alongside your teammates.",
+        "be": "আপনার সতীর্থদের সাথে সাহসের সাথে কাজ করে, কর্তব্যে ডাকার সময় সাহসের সাথে আপনার অনন্য ক্ষমতা প্রকাশ করুন।",
+        "ka": "ಕರ್ತವ್ಯಕ್ಕೆ ಕರೆದಾಗ ನಿಮ್ಮ ಅನನ್ಯ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಧೈರ್ಯದಿಂದ ವ್ಯಕ್ತಪಡಿಸಿ, ನಿಮ್ಮ ತಂಡದ ಸದಸ್ಯರೊಂದಿಗೆ ಧೈರ್ಯದಿಂದ ವರ್ತಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Purpose"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "पाञ्चजन्यम्",
-            "transliteration": "pāñcajanyam",
-            "meaning": "Panchajanya conch"
+            "transliteration": {
+                "hi": "पाञ्चजन्यम्",
+                "en": "pāñcajanyam",
+                "be": "পাঞ্চজন্যম্",
+                "ka": "ಪಾಞ್ಚಜನ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "पाञ्चजन्य शंख",
+                "en": "Panchajanya conch",
+                "be": "পাঞ্চজন্য শঙ্খ",
+                "ka": "ಪಾಂಚಜನ್ಯ ಶಂಖ"
+            }
         },
         {
             "sanskrit": "हृषीकेशः",
-            "transliteration": "hṛṣīkeśaḥ",
-            "meaning": "Hrishikesha (Krishna)"
+            "transliteration": {
+                "hi": "हृषीकेशः",
+                "en": "hṛṣīkeśaḥ",
+                "be": "হৃষীকেশঃ",
+                "ka": "ಹೃಷೀಕೇಶಃ"
+            },
+            "meaning": {
+                "hi": "हृषिकेश (कृष्ण)",
+                "en": "Hrishikesha (Krishna)",
+                "be": "হৃষীকেশ (কৃষ্ণ)",
+                "ka": "ಹೃಷಿಕೇಶ (ಕೃಷ್ಣ)"
+            }
         },
         {
             "sanskrit": "देवदत्तम्",
-            "transliteration": "devadattam",
-            "meaning": "Devadatta conch"
+            "transliteration": {
+                "hi": "देवदत्तम्",
+                "en": "devadattam",
+                "be": "দেবদত্তম্",
+                "ka": "ದೇವದತ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "देवदत्त शंख",
+                "en": "Devadatta conch",
+                "be": "দেবদত্ত শঙ্খ",
+                "ka": "ದೇವದತ್ತ ಶಂಖ"
+            }
         },
         {
             "sanskrit": "धनञ्जयः",
-            "transliteration": "dhanañjayaḥ",
-            "meaning": "Dhananjaya (Arjuna)"
+            "transliteration": {
+                "hi": "धनञ्जयः",
+                "en": "dhanañjayaḥ",
+                "be": "ধনঞ্জযঃ",
+                "ka": "ಧನಞ್ಜಯಃ"
+            },
+            "meaning": {
+                "hi": "धनंजय (अर्जुन)",
+                "en": "Dhananjaya (Arjuna)",
+                "be": "ধনঞ্জয় (অর্জুন)",
+                "ka": "ಧನಂಜಯ (ಅರ್ಜುನ)"
+            }
         },
         {
             "sanskrit": "पौण्ड्रम्",
-            "transliteration": "pauṇḍram",
-            "meaning": "Paundra conch"
+            "transliteration": {
+                "hi": "पौण्ड्रम्",
+                "en": "pauṇḍram",
+                "be": "পৌণ্ড্রম্",
+                "ka": "ಪೌಣ್ಡ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "पौण्ड्र शंख",
+                "en": "Paundra conch",
+                "be": "পাউন্ড্র শঙ্খ",
+                "ka": "ಪೌಂಡ್ರ ಶಂಖ"
+            }
         },
         {
             "sanskrit": "दध्मौ",
-            "transliteration": "dadhmau",
-            "meaning": "blew"
+            "transliteration": {
+                "hi": "दध्मौ",
+                "en": "dadhmau",
+                "be": "দধ্মৌ",
+                "ka": "ದಧ್ಮೌ"
+            },
+            "meaning": {
+                "hi": "उड़ा दिया",
+                "en": "blew",
+                "be": "উড়িয়ে দেওয়া",
+                "ka": "ಬೀಸಿದರು"
+            }
         },
         {
             "sanskrit": "महाशङ्खम्",
-            "transliteration": "mahāśaṅkham",
-            "meaning": "terrible conch"
+            "transliteration": {
+                "hi": "महाशङ्खम्",
+                "en": "mahāśaṅkham",
+                "be": "মহাশঙ্খম্",
+                "ka": "ಮಹಾಶಙ್ಖಮ್"
+            },
+            "meaning": {
+                "hi": "भयानक शंख",
+                "en": "terrible conch",
+                "be": "ভয়ানক শঙ্খ",
+                "ka": "ಭಯಾನಕ ಶಂಖ"
+            }
         },
         {
             "sanskrit": "भीमकर्मा",
-            "transliteration": "bhīmakarmā",
-            "meaning": "doer of terrible deeds"
+            "transliteration": {
+                "hi": "भीमकर्मा",
+                "en": "bhīmakarmā",
+                "be": "ভীমকর্মা",
+                "ka": "ಭೀಮಕರ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "भयंकर कर्म करने वाला",
+                "en": "doer of terrible deeds",
+                "be": "ভয়ঙ্কর কাজের কর্তা",
+                "ka": "ಭಯಾನಕ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವವನು"
+            }
         },
         {
             "sanskrit": "वृकोदरः",
-            "transliteration": "vṛkodaraḥ",
-            "meaning": "Vrikodara (Bhima)"
+            "transliteration": {
+                "hi": "वृकोदरः",
+                "en": "vṛkodaraḥ",
+                "be": "বৃকোদরঃ",
+                "ka": "ವೃಕೋದರಃ"
+            },
+            "meaning": {
+                "hi": "वृकोदर (भीम)",
+                "en": "Vrikodara (Bhima)",
+                "be": "বৃকোদারা (ভীম)",
+                "ka": "ವೃಕೋದರ (ಭೀಮ)"
+            }
         }
     ],
     "tej": {

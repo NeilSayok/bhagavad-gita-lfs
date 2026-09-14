@@ -14,8 +14,18 @@
         "en": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||1-17||",
         "ka": "ಕಾಶ್ಯಶ್ಚ ಪರಮೇಷ್ವಾಸಃ ಶಿಖಣ್ಡೀ ಚ ಮಹಾರಥಃ |\nಧೃಷ್ಟದ್ಯುಮ್ನೋ ವಿರಾಟಶ್ಚ ಸಾತ್ಯಕಿಶ್ಚಾಪರಾಜಿತಃ ||೧-೧೭||"
     },
-    "transliteration": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||1-17||",
-    "life_application": "Rally your strength and align your efforts with principled allies when standing up for justice.",
+    "transliteration": {
+        "hi": "काश्यश्च परमेष्वासः शिखण्डी च महारथः |\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||",
+        "en": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||1-17||",
+        "be": "কাশ্যশ্চ পরমেষ্বাসঃ শিখণ্ডী চ মহারথঃ |\nধৃষ্টদ্যুম্নো বিরাটশ্চ সাত্যকিশ্চাপরাজিতঃ ||১-১৭||",
+        "ka": "ಕಾಶ್ಯಶ್ಚ ಪರಮೇಷ್ವಾಸಃ ಶಿಖಣ್ಡೀ ಚ ಮಹಾರಥಃ |\nಧೃಷ್ಟದ್ಯುಮ್ನೋ ವಿರಾಟಶ್ಚ ಸಾತ್ಯಕಿಶ್ಚಾಪರಾಜಿತಃ ||೧-೧೭||"
+    },
+    "life_application": {
+        "hi": "न्याय के लिए खड़े होने पर अपनी ताकत जुटाएं और सैद्धांतिक सहयोगियों के साथ अपने प्रयासों को संरेखित करें।",
+        "en": "Rally your strength and align your efforts with principled allies when standing up for justice.",
+        "be": "ন্যায়বিচারের জন্য দাঁড়ানোর সময় আপনার শক্তি সংগ্রহ করুন এবং নীতিগত মিত্রদের সাথে আপনার প্রচেষ্টাকে সারিবদ্ধ করুন।",
+        "ka": "ನಿಮ್ಮ ಶಕ್ತಿಯನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ನಿಂತಾಗ ತತ್ವಬದ್ಧ ಮಿತ್ರರೊಂದಿಗೆ ನಿಮ್ಮ ಪ್ರಯತ್ನಗಳನ್ನು ಜೋಡಿಸಿ."
+    },
     "themes": [
         "Dharma",
         "Duty"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "काश्यः",
-            "transliteration": "kāśyaḥ",
-            "meaning": "king of Kashi"
+            "transliteration": {
+                "hi": "काश्यः",
+                "en": "kāśyaḥ",
+                "be": "কাশ্যঃ",
+                "ka": "ಕಾಶ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "काशी के राजा",
+                "en": "king of Kashi",
+                "be": "কাশীর রাজা",
+                "ka": "ಕಾಶಿಯ ರಾಜ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "परमेष्वासः",
-            "transliteration": "parameṣvāsaḥ",
-            "meaning": "great archer"
+            "transliteration": {
+                "hi": "परमेष्वासः",
+                "en": "parameṣvāsaḥ",
+                "be": "পরমেষ্বাসঃ",
+                "ka": "ಪರಮೇಷ್ವಾಸಃ"
+            },
+            "meaning": {
+                "hi": "महान धनुर्धर",
+                "en": "great archer",
+                "be": "মহান তীরন্দাজ",
+                "ka": "ಮಹಾನ್ ಬಿಲ್ಲುಗಾರ"
+            }
         },
         {
             "sanskrit": "शिखण्डी",
-            "transliteration": "śikhaṇḍī",
-            "meaning": "Shikhandi"
+            "transliteration": {
+                "hi": "शिखण्डी",
+                "en": "śikhaṇḍī",
+                "be": "শিখণ্ডী",
+                "ka": "ಶಿಖಣ್ಡೀ"
+            },
+            "meaning": {
+                "hi": "शिखंडी",
+                "en": "Shikhandi",
+                "be": "শিখণ্ডী",
+                "ka": "ಶಿಖಂಡಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "महारथः",
-            "transliteration": "mahārathaḥ",
-            "meaning": "great warrior"
+            "transliteration": {
+                "hi": "महारथः",
+                "en": "mahārathaḥ",
+                "be": "মহারথঃ",
+                "ka": "ಮಹಾರಥಃ"
+            },
+            "meaning": {
+                "hi": "महान योद्धा",
+                "en": "great warrior",
+                "be": "মহান যোদ্ধা",
+                "ka": "ಮಹಾನ್ ಯೋಧ"
+            }
         },
         {
             "sanskrit": "धृष्टद्युम्नः",
-            "transliteration": "dhṛṣṭadyumnaḥ",
-            "meaning": "Dhrishtadyumna"
+            "transliteration": {
+                "hi": "धृष्टद्युम्नः",
+                "en": "dhṛṣṭadyumnaḥ",
+                "be": "ধৃষ্টদ্যুম্নঃ",
+                "ka": "ಧೃಷ್ಟದ್ಯುಮ್ನಃ"
+            },
+            "meaning": {
+                "hi": "धृष्टद्युम्न",
+                "en": "Dhrishtadyumna",
+                "be": "ধৃষ্টদ্যুম্ন",
+                "ka": "ಧೃಷ್ಟದ್ಯುಮ್ನ"
+            }
         },
         {
             "sanskrit": "विराटः",
-            "transliteration": "virāṭaḥ",
-            "meaning": "Virata"
+            "transliteration": {
+                "hi": "विराटः",
+                "en": "virāṭaḥ",
+                "be": "বিরাটঃ",
+                "ka": "ವಿರಾಟಃ"
+            },
+            "meaning": {
+                "hi": "विराट",
+                "en": "Virata",
+                "be": "বিরাট",
+                "ka": "ವಿರಾಟ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सात्यकिः",
-            "transliteration": "sātyakiḥ",
-            "meaning": "Satyaki"
+            "transliteration": {
+                "hi": "सात्यकिः",
+                "en": "sātyakiḥ",
+                "be": "সাত্যকিঃ",
+                "ka": "ಸಾತ್ಯಕಿಃ"
+            },
+            "meaning": {
+                "hi": "सात्यकि",
+                "en": "Satyaki",
+                "be": "সাত্যকি",
+                "ka": "ಸಾತ್ಯಕಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपराजितः",
-            "transliteration": "aparājitaḥ",
-            "meaning": "unconquered"
+            "transliteration": {
+                "hi": "अपराजितः",
+                "en": "aparājitaḥ",
+                "be": "অপরাজিতঃ",
+                "ka": "ಅಪರಾಜಿತಃ"
+            },
+            "meaning": {
+                "hi": "अपराजित",
+                "en": "unconquered",
+                "be": "অজিত",
+                "ka": "ಜಯಿಸದ"
+            }
         }
     ],
     "tej": {

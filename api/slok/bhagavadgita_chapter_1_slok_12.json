@@ -14,8 +14,18 @@
         "en": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||1-12||",
         "ka": "ತಸ್ಯ ಸಞ್ಜನಯನ್ಹರ್ಷಂ ಕುರುವೃದ್ಧಃ ಪಿತಾಮಹಃ |\nಸಿಂಹನಾದಂ ವಿನದ್ಯೋಚ್ಚೈಃ ಶಙ್ಖಂ ದಧ್ಮೌ ಪ್ರತಾಪವಾನ್ ||೧-೧೨||"
     },
-    "transliteration": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||1-12||",
-    "life_application": "Offer encouragement and confidence to those under your care when they feel anxious or uncertain.",
+    "transliteration": {
+        "hi": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः |\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||",
+        "en": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||1-12||",
+        "be": "তস্য সঞ্জনযন্হর্ষং কুরুবৃদ্ধঃ পিতামহঃ |\nসিংহনাদং বিনদ্যোচ্চৈঃ শঙ্খং দধ্মৌ প্রতাপবান্ ||১-১২||",
+        "ka": "ತಸ್ಯ ಸಞ್ಜನಯನ್ಹರ್ಷಂ ಕುರುವೃದ್ಧಃ ಪಿತಾಮಹಃ |\nಸಿಂಹನಾದಂ ವಿನದ್ಯೋಚ್ಚೈಃ ಶಙ್ಖಂ ದಧ್ಮೌ ಪ್ರತಾಪವಾನ್ ||೧-೧೨||"
+    },
+    "life_application": {
+        "hi": "जब आपकी देखरेख में लोग चिंतित या अनिश्चित महसूस करें तो उन्हें प्रोत्साहन और आत्मविश्वास प्रदान करें।",
+        "en": "Offer encouragement and confidence to those under your care when they feel anxious or uncertain.",
+        "be": "আপনার তত্ত্বাবধানে যারা উদ্বিগ্ন বা অনিশ্চিত বোধ করেন তাদের উৎসাহ এবং আত্মবিশ্বাস অফার করুন।",
+        "ka": "ನಿಮ್ಮ ಆರೈಕೆಯಲ್ಲಿರುವವರು ಆತಂಕ ಅಥವಾ ಅನಿಶ್ಚಿತತೆಯನ್ನು ಅನುಭವಿಸಿದಾಗ ಅವರಿಗೆ ಪ್ರೋತ್ಸಾಹ ಮತ್ತು ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ."
+    },
     "themes": [
         "Leadership",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "his"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "सञ्जनयन्",
-            "transliteration": "sañjanayan",
-            "meaning": "arousing"
+            "transliteration": {
+                "hi": "सञ्जनयन्",
+                "en": "sañjanayan",
+                "be": "সঞ্জনযন্",
+                "ka": "ಸಞ್ಜನಯನ್"
+            },
+            "meaning": {
+                "hi": "उत्तेजित करनेवाला",
+                "en": "arousing",
+                "be": "উত্তেজক",
+                "ka": "ಪ್ರಚೋದಿಸುವ"
+            }
         },
         {
             "sanskrit": "हर्षम्",
-            "transliteration": "harṣam",
-            "meaning": "joy"
+            "transliteration": {
+                "hi": "हर्षम्",
+                "en": "harṣam",
+                "be": "হর্ষম্",
+                "ka": "ಹರ್ಷಮ್"
+            },
+            "meaning": {
+                "hi": "खुशी",
+                "en": "joy",
+                "be": "আনন্দ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "कुरुवृद्धः",
-            "transliteration": "kuruvṛddhaḥ",
-            "meaning": "the grand old Kuru (Bhishma)"
+            "transliteration": {
+                "hi": "कुरुवृद्धः",
+                "en": "kuruvṛddhaḥ",
+                "be": "কুরুবৃদ্ধঃ",
+                "ka": "ಕುರುವೃದ್ಧಃ"
+            },
+            "meaning": {
+                "hi": "भव्य प्राचीन कुरु (भीष्म)",
+                "en": "the grand old Kuru (Bhishma)",
+                "be": "বৃদ্ধা কুরু (ভীষ্ম)",
+                "ka": "ಹಿರಿಯ ಕುರು (ಭೀಷ್ಮ)"
+            }
         },
         {
             "sanskrit": "पितामहः",
-            "transliteration": "pitāmahaḥ",
-            "meaning": "grandfather"
+            "transliteration": {
+                "hi": "पितामहः",
+                "en": "pitāmahaḥ",
+                "be": "পিতামহঃ",
+                "ka": "ಪಿತಾಮಹಃ"
+            },
+            "meaning": {
+                "hi": "दादा",
+                "en": "grandfather",
+                "be": "দাদা",
+                "ka": "ಅಜ್ಜ"
+            }
         },
         {
             "sanskrit": "सिंहनादम्",
-            "transliteration": "siṁhanādam",
-            "meaning": "lion's roar"
+            "transliteration": {
+                "hi": "सिंहनादम्",
+                "en": "siṁhanādam",
+                "be": "সিংহনাদম্",
+                "ka": "ಸಿಂಹನಾದಮ್"
+            },
+            "meaning": {
+                "hi": "शेर की दहाड़",
+                "en": "lion's roar",
+                "be": "সিংহের গর্জন",
+                "ka": "ಸಿಂಹ ಘರ್ಜನೆ"
+            }
         },
         {
             "sanskrit": "विनद्य",
-            "transliteration": "vinadya",
-            "meaning": "sounding"
+            "transliteration": {
+                "hi": "विनद्य",
+                "en": "vinadya",
+                "be": "বিনদ্য",
+                "ka": "ವಿನದ್ಯ"
+            },
+            "meaning": {
+                "hi": "ध्वनि",
+                "en": "sounding",
+                "be": "শব্দ",
+                "ka": "ಸದ್ದು ಮಾಡುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "उच्चैः",
-            "transliteration": "uccaiḥ",
-            "meaning": "loudly"
+            "transliteration": {
+                "hi": "उच्चैः",
+                "en": "uccaiḥ",
+                "be": "উচ্চৈঃ",
+                "ka": "ಉಚ್ಚೈಃ"
+            },
+            "meaning": {
+                "hi": "जोर से",
+                "en": "loudly",
+                "be": "জোরে",
+                "ka": "ಜೋರಾಗಿ"
+            }
         },
         {
             "sanskrit": "शङ्खम्",
-            "transliteration": "śaṅkham",
-            "meaning": "conch"
+            "transliteration": {
+                "hi": "शङ्खम्",
+                "en": "śaṅkham",
+                "be": "শঙ্খম্",
+                "ka": "ಶಙ್ಖಮ್"
+            },
+            "meaning": {
+                "hi": "शंख",
+                "en": "conch",
+                "be": "শঙ্খ",
+                "ka": "ಶಂಖ"
+            }
         },
         {
             "sanskrit": "दध्मौ",
-            "transliteration": "dadhmau",
-            "meaning": "blew"
+            "transliteration": {
+                "hi": "दध्मौ",
+                "en": "dadhmau",
+                "be": "দধ্মৌ",
+                "ka": "ದಧ್ಮೌ"
+            },
+            "meaning": {
+                "hi": "उड़ा दिया",
+                "en": "blew",
+                "be": "উড়িয়ে দেওয়া",
+                "ka": "ಬೀಸಿದರು"
+            }
         },
         {
             "sanskrit": "प्रतापवान्",
-            "transliteration": "pratāpavān",
-            "meaning": "valiant"
+            "transliteration": {
+                "hi": "प्रतापवान्",
+                "en": "pratāpavān",
+                "be": "প্রতাপবান্",
+                "ka": "ಪ್ರತಾಪವಾನ್"
+            },
+            "meaning": {
+                "hi": "बहादुर",
+                "en": "valiant",
+                "be": "সাহসী",
+                "ka": "ಧೀರ"
+            }
         }
     ],
     "tej": {

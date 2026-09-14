@@ -14,8 +14,18 @@
         "en": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ||1-13||",
         "ka": "ತತಃ ಶಙ್ಖಾಶ್ಚ ಭೇರ್ಯಶ್ಚ ಪಣವಾನಕಗೋಮುಖಾಃ |\nಸಹಸೈವಾಭ್ಯಹನ್ಯನ್ತ ಸ ಶಬ್ದಸ್ತುಮುಲೋಽಭವತ್ ||೧-೧೩||"
     },
-    "transliteration": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ||1-13||",
-    "life_application": "Prepare your mind for action when signals call for your active participation and focused energy.",
+    "transliteration": {
+        "hi": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः |\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||",
+        "en": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ||1-13||",
+        "be": "ততঃ শঙ্খাশ্চ ভের্যশ্চ পণবানকগোমুখাঃ |\nসহসৈবাভ্যহন্যন্ত স শব্দস্তুমুলোঽভবত্ ||১-১৩||",
+        "ka": "ತತಃ ಶಙ್ಖಾಶ್ಚ ಭೇರ್ಯಶ್ಚ ಪಣವಾನಕಗೋಮುಖಾಃ |\nಸಹಸೈವಾಭ್ಯಹನ್ಯನ್ತ ಸ ಶಬ್ದಸ್ತುಮುಲೋಽಭವತ್ ||೧-೧೩||"
+    },
+    "life_application": {
+        "hi": "जब संकेत आपकी सक्रिय भागीदारी और केंद्रित ऊर्जा की मांग करें तो अपने दिमाग को कार्रवाई के लिए तैयार करें।",
+        "en": "Prepare your mind for action when signals call for your active participation and focused energy.",
+        "be": "যখন সংকেত আপনার সক্রিয় অংশগ্রহণ এবং ফোকাসড শক্তির জন্য আহ্বান করে তখন কর্মের জন্য আপনার মনকে প্রস্তুত করুন।",
+        "ka": "ಸಿಗ್ನಲ್‌ಗಳು ನಿಮ್ಮ ಸಕ್ರಿಯ ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು ಕೇಂದ್ರೀಕೃತ ಶಕ್ತಿಯನ್ನು ಕರೆದಾಗ ಕ್ರಿಯೆಗೆ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "शङ्खाः",
-            "transliteration": "śaṅkhāḥ",
-            "meaning": "conches"
+            "transliteration": {
+                "hi": "शङ्खाः",
+                "en": "śaṅkhāḥ",
+                "be": "শঙ্খাঃ",
+                "ka": "ಶಙ್ಖಾಃ"
+            },
+            "meaning": {
+                "hi": "शंख",
+                "en": "conches",
+                "be": "শঙ্খ",
+                "ka": "ಶಂಖಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भेर्यः",
-            "transliteration": "bheryaḥ",
-            "meaning": "kettledrums"
+            "transliteration": {
+                "hi": "भेर्यः",
+                "en": "bheryaḥ",
+                "be": "ভের্যঃ",
+                "ka": "ಭೇರ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "केटलड्रम",
+                "en": "kettledrums",
+                "be": "কেটলিড্রাম",
+                "ka": "ಕೆಟಲ್ಡ್ರಮ್ಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पणवानकगोमुखाः",
-            "transliteration": "paṇavānakagomukhāḥ",
-            "meaning": "cymbals, drums and trumpets"
+            "transliteration": {
+                "hi": "पणवानकगोमुखाः",
+                "en": "paṇavānakagomukhāḥ",
+                "be": "পণবানকগোমুখাঃ",
+                "ka": "ಪಣವಾನಕಗೋಮುಖಾಃ"
+            },
+            "meaning": {
+                "hi": "झांझ, ढोल और तुरही",
+                "en": "cymbals, drums and trumpets",
+                "be": "করতাল, ড্রামস এবং ট্রাম্পেট",
+                "ka": "ತಾಳಗಳು, ಡ್ರಮ್ಸ್ ಮತ್ತು ತುತ್ತೂರಿಗಳು"
+            }
         },
         {
             "sanskrit": "सहसा",
-            "transliteration": "sahasā",
-            "meaning": "all at once"
+            "transliteration": {
+                "hi": "सहसा",
+                "en": "sahasā",
+                "be": "সহসা",
+                "ka": "ಸಹಸಾ"
+            },
+            "meaning": {
+                "hi": "सब एक साथ",
+                "en": "all at once",
+                "be": "সব একবারে",
+                "ka": "ಒಂದೇ ಬಾರಿಗೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अभ्यहन्यन्त",
-            "transliteration": "abhyahanyanta",
-            "meaning": "blared forth"
+            "transliteration": {
+                "hi": "अभ्यहन्यन्त",
+                "en": "abhyahanyanta",
+                "be": "অভ্যহন্যন্ত",
+                "ka": "ಅಭ್ಯಹನ್ಯನ್ತ"
+            },
+            "meaning": {
+                "hi": "जोर से चिल्लाया",
+                "en": "blared forth",
+                "be": "blared out",
+                "ka": "ಅಬ್ಬರಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "शब्दः",
-            "transliteration": "śabdaḥ",
-            "meaning": "sound"
+            "transliteration": {
+                "hi": "शब्दः",
+                "en": "śabdaḥ",
+                "be": "শব্দঃ",
+                "ka": "ಶಬ್ದಃ"
+            },
+            "meaning": {
+                "hi": "ध्वनि",
+                "en": "sound",
+                "be": "শব্দ",
+                "ka": "ಧ್ವನಿ"
+            }
         },
         {
             "sanskrit": "तुमुलः",
-            "transliteration": "tumulaḥ",
-            "meaning": "tumultuous"
+            "transliteration": {
+                "hi": "तुमुलः",
+                "en": "tumulaḥ",
+                "be": "তুমুলঃ",
+                "ka": "ತುಮುಲಃ"
+            },
+            "meaning": {
+                "hi": "उथल-पुथल भरा",
+                "en": "tumultuous",
+                "be": "টালমাটাল",
+                "ka": "ಪ್ರಕ್ಷುಬ್ಧ"
+            }
         },
         {
             "sanskrit": "अभवत्",
-            "transliteration": "abhavat",
-            "meaning": "became"
+            "transliteration": {
+                "hi": "अभवत्",
+                "en": "abhavat",
+                "be": "অভবত্",
+                "ka": "ಅಭವತ್"
+            },
+            "meaning": {
+                "hi": "बन गया",
+                "en": "became",
+                "be": "হয়ে ওঠে",
+                "ka": "ಆಯಿತು"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||1-16||",
         "ka": "ಅನನ್ತವಿಜಯಂ ರಾಜಾ ಕುನ್ತೀಪುತ್ರೋ ಯುಧಿಷ್ಠಿರಃ |\nನಕುಲಃ ಸಹದೇವಶ್ಚ ಸುಘೋಷಮಣಿಪುಷ್ಪಕೌ ||೧-೧೬||"
     },
-    "transliteration": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||1-16||",
-    "life_application": "Stand united with your companions, letting each person's contribution resonate harmoniously toward a shared purpose.",
+    "transliteration": {
+        "hi": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः |\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||",
+        "en": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||1-16||",
+        "be": "অনন্তবিজযং রাজা কুন্তীপুত্রো যুধিষ্ঠিরঃ |\nনকুলঃ সহদেবশ্চ সুঘোষমণিপুষ্পকৌ ||১-১৬||",
+        "ka": "ಅನನ್ತವಿಜಯಂ ರಾಜಾ ಕುನ್ತೀಪುತ್ರೋ ಯುಧಿಷ್ಠಿರಃ |\nನಕುಲಃ ಸಹದೇವಶ್ಚ ಸುಘೋಷಮಣಿಪುಷ್ಪಕೌ ||೧-೧೬||"
+    },
+    "life_application": {
+        "hi": "अपने साथियों के साथ एकजुट रहें, प्रत्येक व्यक्ति के योगदान को एक साझा उद्देश्य के प्रति सामंजस्यपूर्ण रूप से प्रतिबिंबित होने दें।",
+        "en": "Stand united with your companions, letting each person's contribution resonate harmoniously toward a shared purpose.",
+        "be": "আপনার সঙ্গীদের সাথে ঐক্যবদ্ধ থাকুন, প্রতিটি ব্যক্তির অবদানকে একটি ভাগ করা উদ্দেশ্যের প্রতি সুরেলাভাবে অনুরণিত হতে দিন।",
+        "ka": "ನಿಮ್ಮ ಸಹಚರರೊಂದಿಗೆ ಒಂದಾಗಿ ನಿಂತುಕೊಳ್ಳಿ, ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯ ಕೊಡುಗೆಯು ಹಂಚಿಕೊಂಡ ಉದ್ದೇಶದ ಕಡೆಗೆ ಸಾಮರಸ್ಯದಿಂದ ಅನುರಣಿಸಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ."
+    },
     "themes": [
         "Duty",
         "Purpose"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अनन्तविजयम्",
-            "transliteration": "anantavijayam",
-            "meaning": "Anantavijaya conch"
+            "transliteration": {
+                "hi": "अनन्तविजयम्",
+                "en": "anantavijayam",
+                "be": "অনন্তবিজযম্",
+                "ka": "ಅನನ್ತವಿಜಯಮ್"
+            },
+            "meaning": {
+                "hi": "अनंतविजय शंख",
+                "en": "Anantavijaya conch",
+                "be": "অনন্তবিজয় শঙ্খ",
+                "ka": "ಅನಂತವಿಜಯ ಶಂಖ"
+            }
         },
         {
             "sanskrit": "राजा",
-            "transliteration": "rājā",
-            "meaning": "King"
+            "transliteration": {
+                "hi": "राजा",
+                "en": "rājā",
+                "be": "রাজা",
+                "ka": "ರಾಜಾ"
+            },
+            "meaning": {
+                "hi": "राजा",
+                "en": "King",
+                "be": "রাজা",
+                "ka": "ರಾಜ"
+            }
         },
         {
             "sanskrit": "कुन्तीपुत्रः",
-            "transliteration": "kuntīputraḥ",
-            "meaning": "son of Kunti"
+            "transliteration": {
+                "hi": "कुन्तीपुत्रः",
+                "en": "kuntīputraḥ",
+                "be": "কুন্তীপুত্রঃ",
+                "ka": "ಕುನ್ತೀಪುತ್ರಃ"
+            },
+            "meaning": {
+                "hi": "कुंती का पुत्र",
+                "en": "son of Kunti",
+                "be": "কুন্তীর পুত্র",
+                "ka": "ಕುಂತಿಯ ಮಗ"
+            }
         },
         {
             "sanskrit": "युधिष्ठिरः",
-            "transliteration": "yudhiṣṭhiraḥ",
-            "meaning": "Yudhishthira"
+            "transliteration": {
+                "hi": "युधिष्ठिरः",
+                "en": "yudhiṣṭhiraḥ",
+                "be": "যুধিষ্ঠিরঃ",
+                "ka": "ಯುಧಿಷ್ಠಿರಃ"
+            },
+            "meaning": {
+                "hi": "युधिष्ठिर",
+                "en": "Yudhishthira",
+                "be": "যুধিষ্ঠির",
+                "ka": "ಯುಧಿಷ್ಠಿರ"
+            }
         },
         {
             "sanskrit": "नकुलः",
-            "transliteration": "nakulaḥ",
-            "meaning": "Nakula"
+            "transliteration": {
+                "hi": "नकुलः",
+                "en": "nakulaḥ",
+                "be": "নকুলঃ",
+                "ka": "ನಕುಲಃ"
+            },
+            "meaning": {
+                "hi": "नकुल",
+                "en": "Nakula",
+                "be": "নকুল",
+                "ka": "ನಕುಲ"
+            }
         },
         {
             "sanskrit": "सहदेवः",
-            "transliteration": "sahadevaḥ",
-            "meaning": "Sahadeva"
+            "transliteration": {
+                "hi": "सहदेवः",
+                "en": "sahadevaḥ",
+                "be": "সহদেবঃ",
+                "ka": "ಸಹದೇವಃ"
+            },
+            "meaning": {
+                "hi": "सहदेव",
+                "en": "Sahadeva",
+                "be": "সহদেব",
+                "ka": "ಸಹದೇವ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सुघोषमणिपुष्पकौ",
-            "transliteration": "sughoṣamaṇipuṣpakau",
-            "meaning": "Sughosha and Manipushpaka conches"
+            "transliteration": {
+                "hi": "सुघोषमणिपुष्पकौ",
+                "en": "sughoṣamaṇipuṣpakau",
+                "be": "সুঘোষমণিপুষ্পকৌ",
+                "ka": "ಸುಘೋಷಮಣಿಪುಷ್ಪಕೌ"
+            },
+            "meaning": {
+                "hi": "सुघोष और मणिपुष्पक शंख",
+                "en": "Sughosha and Manipushpaka conches",
+                "be": "সুঘোষ ও মণিপুষ্পক শঙ্খ",
+                "ka": "ಸುಘೋಷ ಮತ್ತು ಮಣಿಪುಷ್ಪಕ ಶಂಖನಾದ"
+            }
         }
     ],
     "tej": {

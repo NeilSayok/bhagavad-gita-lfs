@@ -14,8 +14,18 @@
         "en": "sāṅkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ .\nekamapyāsthitaḥ samyagubhayorvindate phalam ||5-4||",
         "ka": "ಸಾಙ್ಖ್ಯಯೋಗೌ ಪೃಥಗ್ಬಾಲಾಃ ಪ್ರವದನ್ತಿ ನ ಪಣ್ಡಿತಾಃ |\nಏಕಮಪ್ಯಾಸ್ಥಿತಃ ಸಮ್ಯಗುಭಯೋರ್ವಿನ್ದತೇ ಫಲಮ್ ||೫-೪||"
     },
-    "transliteration": "sāṅkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ .\nekamapyāsthitaḥ samyagubhayorvindate phalam ||5-4||",
-    "life_application": "Recognize that honest spiritual study and selfless daily work ultimately lead to the same deep inner peace.",
+    "transliteration": {
+        "hi": "साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः |\nएकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ||५-४||",
+        "en": "sāṅkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ .\nekamapyāsthitaḥ samyagubhayorvindate phalam ||5-4||",
+        "be": "সাঙ্খ্যযোগৌ পৃথগ্বালাঃ প্রবদন্তি ন পণ্ডিতাঃ |\nএকমপ্যাস্থিতঃ সম্যগুভযোর্বিন্দতে ফলম্ ||৫-৪||",
+        "ka": "ಸಾಙ್ಖ್ಯಯೋಗೌ ಪೃಥಗ್ಬಾಲಾಃ ಪ್ರವದನ್ತಿ ನ ಪಣ್ಡಿತಾಃ |\nಏಕಮಪ್ಯಾಸ್ಥಿತಃ ಸಮ್ಯಗುಭಯೋರ್ವಿನ್ದತೇ ಫಲಮ್ ||೫-೪||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि ईमानदार आध्यात्मिक अध्ययन और निःस्वार्थ दैनिक कार्य अंततः उसी गहरी आंतरिक शांति की ओर ले जाते हैं।",
+        "en": "Recognize that honest spiritual study and selfless daily work ultimately lead to the same deep inner peace.",
+        "be": "স্বীকার করুন যে সৎ আধ্যাত্মিক অধ্যয়ন এবং নিঃস্বার্থ দৈনন্দিন কাজ শেষ পর্যন্ত একই গভীর অভ্যন্তরীণ শান্তির দিকে নিয়ে যায়।",
+        "ka": "ಪ್ರಾಮಾಣಿಕ ಆಧ್ಯಾತ್ಮಿಕ ಅಧ್ಯಯನ ಮತ್ತು ನಿಸ್ವಾರ್ಥ ದೈನಂದಿನ ಕೆಲಸವು ಅಂತಿಮವಾಗಿ ಅದೇ ಆಳವಾದ ಆಂತರಿಕ ಶಾಂತಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Karma"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "साङ्ख्ययोगौ",
-            "transliteration": "sāṅkhyayogau",
-            "meaning": "sāṅkhyayogau"
+            "transliteration": {
+                "hi": "साङ्ख्ययोगौ",
+                "en": "sāṅkhyayogau",
+                "be": "সাঙ্খ্যযোগৌ",
+                "ka": "ಸಾಙ್ಖ್ಯಯೋಗೌ"
+            },
+            "meaning": {
+                "hi": "सांख्ययोगौ",
+                "en": "sāṅkhyayogau",
+                "be": "সাংখ্যযোগ",
+                "ka": "ಸಾಂಖ್ಯಯೋಗೌ"
+            }
         },
         {
             "sanskrit": "पृथग्बालाः",
-            "transliteration": "pṛthagbālāḥ",
-            "meaning": "pṛthagbālāḥ"
+            "transliteration": {
+                "hi": "पृथग्बालाः",
+                "en": "pṛthagbālāḥ",
+                "be": "পৃথগ্বালাঃ",
+                "ka": "ಪೃಥಗ್ಬಾಲಾಃ"
+            },
+            "meaning": {
+                "hi": "पृथग्बलाः",
+                "en": "pṛthagbālāḥ",
+                "be": "প্রথগবালাঃ",
+                "ka": "ಪೃಥಗ್ಬಲಃ"
+            }
         },
         {
             "sanskrit": "प्रवदन्ति",
-            "transliteration": "pravadanti",
-            "meaning": "pravadanti"
+            "transliteration": {
+                "hi": "प्रवदन्ति",
+                "en": "pravadanti",
+                "be": "প্রবদন্তি",
+                "ka": "ಪ್ರವದನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "प्रवदन्ति",
+                "en": "pravadanti",
+                "be": "প্রবাদন্তি",
+                "ka": "ಪ್ರವಾದಂತಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पण्डिताः",
-            "transliteration": "paṇḍitāḥ",
-            "meaning": "paṇḍitāḥ"
+            "transliteration": {
+                "hi": "पण्डिताः",
+                "en": "paṇḍitāḥ",
+                "be": "পণ্ডিতাঃ",
+                "ka": "ಪಣ್ಡಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "पंडिताः",
+                "en": "paṇḍitāḥ",
+                "be": "পণ্ডিতঃ",
+                "ka": "ಪಂಡಿತಾಃ"
+            }
         },
         {
             "sanskrit": "एकमप्यास्थितः",
-            "transliteration": "ekamapyāsthitaḥ",
-            "meaning": "ekamapyāsthitaḥ"
+            "transliteration": {
+                "hi": "एकमप्यास्थितः",
+                "en": "ekamapyāsthitaḥ",
+                "be": "একমপ্যাস্থিতঃ",
+                "ka": "ಏಕಮಪ್ಯಾಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "एकमप्यस्थितः",
+                "en": "ekamapyāsthitaḥ",
+                "be": "একমাপ্যস্থিতঃ",
+                "ka": "ಏಕಮಪ್ಯಾಸ್ಥಿತಃ"
+            }
         },
         {
             "sanskrit": "सम्यगुभयोर्विन्दते",
-            "transliteration": "samyagubhayorvindate",
-            "meaning": "samyagubhayorvindate"
+            "transliteration": {
+                "hi": "सम्यगुभयोर्विन्दते",
+                "en": "samyagubhayorvindate",
+                "be": "সম্যগুভযোর্বিন্দতে",
+                "ka": "ಸಮ್ಯಗುಭಯೋರ್ವಿನ್ದತೇ"
+            },
+            "meaning": {
+                "hi": "सम्यगुभयोरविन्दते",
+                "en": "samyagubhayorvindate",
+                "be": "সাম্যগুভয়র্বিন্দতে",
+                "ka": "ಸಮ್ಯಗುಭಯೋರ್ವಿನ್ದತೇ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "phalam"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फलम",
+                "en": "phalam",
+                "be": "ফালাম",
+                "ka": "ಫಲಮ್"
+            }
         }
     ],
     "tej": {

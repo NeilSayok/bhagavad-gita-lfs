@@ -14,8 +14,18 @@
         "en": "yogayukto viśuddhātmā vijitātmā jitendriyaḥ .\nsarvabhūtātmabhūtātmā kurvannapi na lipyate ||5-7||",
         "ka": "ಯೋಗಯುಕ್ತೋ ವಿಶುದ್ಧಾತ್ಮಾ ವಿಜಿತಾತ್ಮಾ ಜಿತೇನ್ದ್ರಿಯಃ |\nಸರ್ವಭೂತಾತ್ಮಭೂತಾತ್ಮಾ ಕುರ್ವನ್ನಪಿ ನ ಲಿಪ್ಯತೇ ||೫-೭||"
     },
-    "transliteration": "yogayukto viśuddhātmā vijitātmā jitendriyaḥ .\nsarvabhūtātmabhūtātmā kurvannapi na lipyate ||5-7||",
-    "life_application": "Keep your mind pure and senses disciplined while serving others, seeing the same divine life in everyone.",
+    "transliteration": {
+        "hi": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः |\nसर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ||५-७||",
+        "en": "yogayukto viśuddhātmā vijitātmā jitendriyaḥ .\nsarvabhūtātmabhūtātmā kurvannapi na lipyate ||5-7||",
+        "be": "যোগযুক্তো বিশুদ্ধাত্মা বিজিতাত্মা জিতেন্দ্রিযঃ |\nসর্বভূতাত্মভূতাত্মা কুর্বন্নপি ন লিপ্যতে ||৫-৭||",
+        "ka": "ಯೋಗಯುಕ್ತೋ ವಿಶುದ್ಧಾತ್ಮಾ ವಿಜಿತಾತ್ಮಾ ಜಿತೇನ್ದ್ರಿಯಃ |\nಸರ್ವಭೂತಾತ್ಮಭೂತಾತ್ಮಾ ಕುರ್ವನ್ನಪಿ ನ ಲಿಪ್ಯತೇ ||೫-೭||"
+    },
+    "life_application": {
+        "hi": "दूसरों की सेवा करते समय अपने मन को शुद्ध और इंद्रियों को अनुशासित रखें, सभी में समान दिव्य जीवन देखें।",
+        "en": "Keep your mind pure and senses disciplined while serving others, seeing the same divine life in everyone.",
+        "be": "অন্যের সেবা করার সময় আপনার মনকে শুদ্ধ ও ইন্দ্রিয়কে সুশৃঙ্খল রাখুন, সবার মধ্যে একই ঐশ্বরিক জীবন দেখতে পান।",
+        "ka": "ಇತರರ ಸೇವೆ ಮಾಡುವಾಗ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಪರಿಶುದ್ಧವಾಗಿ ಮತ್ತು ಇಂದ್ರಿಯಗಳನ್ನು ಶಿಸ್ತಿನಿಂದ ಇಟ್ಟುಕೊಳ್ಳಿ, ಪ್ರತಿಯೊಬ್ಬರಲ್ಲೂ ಅದೇ ದಿವ್ಯ ಜೀವನವನ್ನು ಕಾಣಿರಿ."
+    },
     "themes": [
         "Self-Realization",
         "Mindfulness",
@@ -24,43 +34,123 @@
     "word_meanings": [
         {
             "sanskrit": "योगयुक्तो",
-            "transliteration": "yogayukto",
-            "meaning": "yogayukto"
+            "transliteration": {
+                "hi": "योगयुक्तो",
+                "en": "yogayukto",
+                "be": "যোগযুক্তো",
+                "ka": "ಯೋಗಯುಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "योगायुक्तो",
+                "en": "yogayukto",
+                "be": "যোগযুক্ত",
+                "ka": "ಯೋಗಯುಕ್ತ"
+            }
         },
         {
             "sanskrit": "विशुद्धात्मा",
-            "transliteration": "viśuddhātmā",
-            "meaning": "viśuddhātmā"
+            "transliteration": {
+                "hi": "विशुद्धात्मा",
+                "en": "viśuddhātmā",
+                "be": "বিশুদ্ধাত্মা",
+                "ka": "ವಿಶುದ್ಧಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "विशुद्धात्मा",
+                "en": "viśuddhātmā",
+                "be": "বিশুদ্ধাত্মা",
+                "ka": "ವಿಶುದ್ಧಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "विजितात्मा",
-            "transliteration": "vijitātmā",
-            "meaning": "vijitātmā"
+            "transliteration": {
+                "hi": "विजितात्मा",
+                "en": "vijitātmā",
+                "be": "বিজিতাত্মা",
+                "ka": "ವಿಜಿತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "विजितात्मा",
+                "en": "vijitātmā",
+                "be": "vijitātmā",
+                "ka": "ವಿಜಿತಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "जितेन्द्रियः",
-            "transliteration": "jitendriyaḥ",
-            "meaning": "jitendriyaḥ"
+            "transliteration": {
+                "hi": "जितेन्द्रियः",
+                "en": "jitendriyaḥ",
+                "be": "জিতেন্দ্রিযঃ",
+                "ka": "ಜಿತೇನ್ದ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "जीतेन्द्रियः",
+                "en": "jitendriyaḥ",
+                "be": "জিতেন্দ্রিয়ঃ",
+                "ka": "ಜಿತೇಂದ್ರಿಯಃ"
+            }
         },
         {
             "sanskrit": "सर्वभूतात्मभूतात्मा",
-            "transliteration": "sarvabhūtātmabhūtātmā",
-            "meaning": "sarvabhūtātmabhūtātmā"
+            "transliteration": {
+                "hi": "सर्वभूतात्मभूतात्मा",
+                "en": "sarvabhūtātmabhūtātmā",
+                "be": "সর্বভূতাত্মভূতাত্মা",
+                "ka": "ಸರ್ವಭೂತಾತ್ಮಭೂತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतात्मभूतात्मा",
+                "en": "sarvabhūtātmabhūtātmā",
+                "be": "সর্বভূতাত্মভূতাত্মা",
+                "ka": "ಸರ್ವಭೂತಾತ್ಮಭೂತಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "कुर्वन्नपि",
-            "transliteration": "kurvannapi",
-            "meaning": "kurvannapi"
+            "transliteration": {
+                "hi": "कुर्वन्नपि",
+                "en": "kurvannapi",
+                "be": "কুর্বন্নপি",
+                "ka": "ಕುರ್ವನ್ನಪಿ"
+            },
+            "meaning": {
+                "hi": "कुर्वन्नपि",
+                "en": "kurvannapi",
+                "be": "kurvannapi",
+                "ka": "ಕುರ್ವನ್ನಪಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "लिप्यते",
-            "transliteration": "lipyate",
-            "meaning": "lipyate"
+            "transliteration": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "লিপ্যতে",
+                "ka": "ಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "lipyate",
+                "ka": "ಲಿಪ್ಯೇಟ್"
+            }
         }
     ],
     "tej": {

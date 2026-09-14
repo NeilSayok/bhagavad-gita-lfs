@@ -14,8 +14,18 @@
         "en": "labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ .\nchinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ ||5-25||",
         "ka": "ಲಭನ್ತೇ ಬ್ರಹ್ಮನಿರ್ವಾಣಮೃಷಯಃ ಕ್ಷೀಣಕಲ್ಮಷಾಃ |\nಛಿನ್ನದ್ವೈಧಾ ಯತಾತ್ಮಾನಃ ಸರ್ವಭೂತಹಿತೇ ರತಾಃ ||೫-೨೫||"
     },
-    "transliteration": "labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ .\nchinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ ||5-25||",
-    "life_application": "Dedicate yourself to the well-being of all creatures while working to eliminate personal faults and doubts.",
+    "transliteration": {
+        "hi": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः |\nछिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ||५-२५||",
+        "en": "labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ .\nchinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ ||5-25||",
+        "be": "লভন্তে ব্রহ্মনির্বাণমৃষযঃ ক্ষীণকল্মষাঃ |\nছিন্নদ্বৈধা যতাত্মানঃ সর্বভূতহিতে রতাঃ ||৫-২৫||",
+        "ka": "ಲಭನ್ತೇ ಬ್ರಹ್ಮನಿರ್ವಾಣಮೃಷಯಃ ಕ್ಷೀಣಕಲ್ಮಷಾಃ |\nಛಿನ್ನದ್ವೈಧಾ ಯತಾತ್ಮಾನಃ ಸರ್ವಭೂತಹಿತೇ ರತಾಃ ||೫-೨೫||"
+    },
+    "life_application": {
+        "hi": "व्यक्तिगत दोषों और शंकाओं को दूर करने के लिए कार्य करते हुए स्वयं को सभी प्राणियों की भलाई के लिए समर्पित करें।",
+        "en": "Dedicate yourself to the well-being of all creatures while working to eliminate personal faults and doubts.",
+        "be": "ব্যক্তিগত দোষ এবং সন্দেহ দূর করার জন্য কাজ করার সময় সমস্ত প্রাণীর মঙ্গলের জন্য নিজেকে উত্সর্গ করুন।",
+        "ka": "ವೈಯಕ್ತಿಕ ದೋಷಗಳು ಮತ್ತು ಅನುಮಾನಗಳನ್ನು ತೊಡೆದುಹಾಕಲು ಕೆಲಸ ಮಾಡುವಾಗ ಎಲ್ಲಾ ಜೀವಿಗಳ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ನಿಮ್ಮನ್ನು ಅರ್ಪಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Purpose",
         "Duty"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "लभन्ते",
-            "transliteration": "labhante",
-            "meaning": "labhante"
+            "transliteration": {
+                "hi": "लभन्ते",
+                "en": "labhante",
+                "be": "লভন্তে",
+                "ka": "ಲಭನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "labhante",
+                "en": "labhante",
+                "be": "ল্যাভন্তে",
+                "ka": "ಲಭಂತೆ"
+            }
         },
         {
             "sanskrit": "ब्रह्मनिर्वाणमृषयः",
-            "transliteration": "brahmanirvāṇamṛṣayaḥ",
-            "meaning": "brahmanirvāṇamṛṣayaḥ"
+            "transliteration": {
+                "hi": "ब्रह्मनिर्वाणमृषयः",
+                "en": "brahmanirvāṇamṛṣayaḥ",
+                "be": "ব্রহ্মনির্বাণমৃষযঃ",
+                "ka": "ಬ್ರಹ್ಮನಿರ್ವಾಣಮೃಷಯಃ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मनिर्वाणमृषयः",
+                "en": "brahmanirvāṇamṛṣayaḥ",
+                "be": "ব্রাহ্মণনির্বাণমৃষয়ঃ",
+                "ka": "ಬ್ರಹ್ಮನಿರ್ವಾಣಮೃಷಯಃ"
+            }
         },
         {
             "sanskrit": "क्षीणकल्मषाः",
-            "transliteration": "kṣīṇakalmaṣāḥ",
-            "meaning": "kṣīṇakalmaṣāḥ"
+            "transliteration": {
+                "hi": "क्षीणकल्मषाः",
+                "en": "kṣīṇakalmaṣāḥ",
+                "be": "ক্ষীণকল্মষাঃ",
+                "ka": "ಕ್ಷೀಣಕಲ್ಮಷಾಃ"
+            },
+            "meaning": {
+                "hi": "क्षीणकल्मषाः",
+                "en": "kṣīṇakalmaṣāḥ",
+                "be": "ক্ষীণকলমশাঃ",
+                "ka": "ಕ್ಷೀಣಕಲ್ಮಶಾಃ"
+            }
         },
         {
             "sanskrit": "छिन्नद्वैधा",
-            "transliteration": "chinnadvaidhā",
-            "meaning": "chinnadvaidhā"
+            "transliteration": {
+                "hi": "छिन्नद्वैधा",
+                "en": "chinnadvaidhā",
+                "be": "ছিন্নদ্বৈধা",
+                "ka": "ಛಿನ್ನದ್ವೈಧಾ"
+            },
+            "meaning": {
+                "hi": "छिन्नद्वैधा",
+                "en": "chinnadvaidhā",
+                "be": "ছিন্নদ্বৈধ",
+                "ka": "ಚಿನ್ನದ್ವೈಧ"
+            }
         },
         {
             "sanskrit": "यतात्मानः",
-            "transliteration": "yatātmānaḥ",
-            "meaning": "yatātmānaḥ"
+            "transliteration": {
+                "hi": "यतात्मानः",
+                "en": "yatātmānaḥ",
+                "be": "যতাত্মানঃ",
+                "ka": "ಯತಾತ್ಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "यतात्मनः",
+                "en": "yatātmānaḥ",
+                "be": "ইয়াতাত্মানঃ",
+                "ka": "ಯತಾತ್ಮನಃ"
+            }
         },
         {
             "sanskrit": "सर्वभूतहिते",
-            "transliteration": "sarvabhūtahite",
-            "meaning": "sarvabhūtahite"
+            "transliteration": {
+                "hi": "सर्वभूतहिते",
+                "en": "sarvabhūtahite",
+                "be": "সর্বভূতহিতে",
+                "ka": "ಸರ್ವಭೂತಹಿತೇ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतहिते",
+                "en": "sarvabhūtahite",
+                "be": "সর্বভূতহিতে",
+                "ka": "ಸರ್ವಭೂತಹಿತೇ"
+            }
         },
         {
             "sanskrit": "रताः",
-            "transliteration": "ratāḥ",
-            "meaning": "ratāḥ"
+            "transliteration": {
+                "hi": "रताः",
+                "en": "ratāḥ",
+                "be": "রতাঃ",
+                "ka": "ರತಾಃ"
+            },
+            "meaning": {
+                "hi": "रताः",
+                "en": "ratāḥ",
+                "be": "ratāḥ",
+                "ka": "ರತಾಃ"
+            }
         }
     ],
     "tej": {

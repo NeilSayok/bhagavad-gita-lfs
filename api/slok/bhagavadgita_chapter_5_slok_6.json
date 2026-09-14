@@ -14,8 +14,18 @@
         "en": "saṃnyāsastu mahābāho duḥkhamāptumayogataḥ .\nyogayukto munirbrahma nacireṇādhigacchati ||5-6||",
         "ka": "ಸಂನ್ಯಾಸಸ್ತು ಮಹಾಬಾಹೋ ದುಃಖಮಾಪ್ತುಮಯೋಗತಃ |\nಯೋಗಯುಕ್ತೋ ಮುನಿರ್ಬ್ರಹ್ಮ ನಚಿರೇಣಾಧಿಗಚ್ಛತಿ ||೫-೬||"
     },
-    "transliteration": "saṃnyāsastu mahābāho duḥkhamāptumayogataḥ .\nyogayukto munirbrahma nacireṇādhigacchati ||5-6||",
-    "life_application": "Engage in unselfish action first to purify your mind before attempting quiet, solitary contemplative practices.",
+    "transliteration": {
+        "hi": "संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः |\nयोगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ||५-६||",
+        "en": "saṃnyāsastu mahābāho duḥkhamāptumayogataḥ .\nyogayukto munirbrahma nacireṇādhigacchati ||5-6||",
+        "be": "সংন্যাসস্তু মহাবাহো দুঃখমাপ্তুমযোগতঃ |\nযোগযুক্তো মুনির্ব্রহ্ম নচিরেণাধিগচ্ছতি ||৫-৬||",
+        "ka": "ಸಂನ್ಯಾಸಸ್ತು ಮಹಾಬಾಹೋ ದುಃಖಮಾಪ್ತುಮಯೋಗತಃ |\nಯೋಗಯುಕ್ತೋ ಮುನಿರ್ಬ್ರಹ್ಮ ನಚಿರೇಣಾಧಿಗಚ್ಛತಿ ||೫-೬||"
+    },
+    "life_application": {
+        "hi": "शांत, एकान्त चिंतनशील अभ्यास करने से पहले अपने मन को शुद्ध करने के लिए निःस्वार्थ कार्य में संलग्न हों।",
+        "en": "Engage in unselfish action first to purify your mind before attempting quiet, solitary contemplative practices.",
+        "be": "শান্ত, একাকী মননশীল অনুশীলনের চেষ্টা করার আগে আপনার মনকে শুদ্ধ করতে প্রথমে নিঃস্বার্থ কর্মে নিযুক্ত হন।",
+        "ka": "ಶಾಂತ, ಏಕಾಂತ ಚಿಂತನಶೀಲ ಅಭ್ಯಾಸಗಳನ್ನು ಪ್ರಯತ್ನಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಶುದ್ಧೀಕರಿಸಲು ನಿಸ್ವಾರ್ಥ ಕ್ರಿಯೆಯಲ್ಲಿ ತೊಡಗಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Karma",
         "Self-Realization"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "संन्यासस्तु",
-            "transliteration": "saṃnyāsastu",
-            "meaning": "saṃnyāsastu"
+            "transliteration": {
+                "hi": "संन्यासस्तु",
+                "en": "saṃnyāsastu",
+                "be": "সংন্যাসস্তু",
+                "ka": "ಸಂನ್ಯಾಸಸ್ತು"
+            },
+            "meaning": {
+                "hi": "संन्यासस्तु",
+                "en": "saṃnyāsastu",
+                "be": "সন্ন্যাসস্তু",
+                "ka": "ಸಂನ್ಯಾಸಸ್ತು"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "mahābāho"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            }
         },
         {
             "sanskrit": "दुःखमाप्तुमयोगतः",
-            "transliteration": "duḥkhamāptumayogataḥ",
-            "meaning": "duḥkhamāptumayogataḥ"
+            "transliteration": {
+                "hi": "दुःखमाप्तुमयोगतः",
+                "en": "duḥkhamāptumayogataḥ",
+                "be": "দুঃখমাপ্তুমযোগতঃ",
+                "ka": "ದುಃಖಮಾಪ್ತುಮಯೋಗತಃ"
+            },
+            "meaning": {
+                "hi": "दुःखमाप्तुमयोगतः",
+                "en": "duḥkhamāptumayogataḥ",
+                "be": "দুঃখামাপতুময়োগতাঃ",
+                "ka": "ದುಃಖಮಾಪ್ತುಮಯೋಗತಃ"
+            }
         },
         {
             "sanskrit": "योगयुक्तो",
-            "transliteration": "yogayukto",
-            "meaning": "yogayukto"
+            "transliteration": {
+                "hi": "योगयुक्तो",
+                "en": "yogayukto",
+                "be": "যোগযুক্তো",
+                "ka": "ಯೋಗಯುಕ್ತೋ"
+            },
+            "meaning": {
+                "hi": "योगायुक्तो",
+                "en": "yogayukto",
+                "be": "যোগযুক্ত",
+                "ka": "ಯೋಗಯುಕ್ತ"
+            }
         },
         {
             "sanskrit": "मुनिर्ब्रह्म",
-            "transliteration": "munirbrahma",
-            "meaning": "munirbrahma"
+            "transliteration": {
+                "hi": "मुनिर्ब्रह्म",
+                "en": "munirbrahma",
+                "be": "মুনির্ব্রহ্ম",
+                "ka": "ಮುನಿರ್ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "मुनिरब्रह्म",
+                "en": "munirbrahma",
+                "be": "মুনিরব্রহ্ম",
+                "ka": "ಮುನಿರ್ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "नचिरेणाधिगच्छति",
-            "transliteration": "nacireṇādhigacchati",
-            "meaning": "nacireṇādhigacchati"
+            "transliteration": {
+                "hi": "नचिरेणाधिगच्छति",
+                "en": "nacireṇādhigacchati",
+                "be": "নচিরেণাধিগচ্ছতি",
+                "ka": "ನಚಿರೇಣಾಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "नाचिरेणाधिगच्छति",
+                "en": "nacireṇādhigacchati",
+                "be": "নচিরেণাধিগচ্ছতি",
+                "ka": "ನಾಚಿರೇಣಾಧಿಗಚ್ಛತಿ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
         "ka": "ಏತೈರ್ವಿಮುಕ್ತಃ ಕೌನ್ತೇಯ ತಮೋದ್ವಾರೈಸ್ತ್ರಿಭಿರ್ನರಃ |\nಆಚರತ್ಯಾತ್ಮನಃ ಶ್ರೇಯಸ್ತತೋ ಯಾತಿ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೨||"
     },
-    "transliteration": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
-    "life_application": "A man freed from these three gates of darkness acts for his own good and reaches the supreme goal.",
+    "transliteration": {
+        "hi": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||",
+        "en": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
+        "be": "এতৈর্বিমুক্তঃ কৌন্তেয তমোদ্বারৈস্ত্রিভির্নরঃ |\nআচরত্যাত্মনঃ শ্রেযস্ততো যাতি পরাং গতিম্ ||১৬-২২||",
+        "ka": "ಏತೈರ್ವಿಮುಕ್ತಃ ಕೌನ್ತೇಯ ತಮೋದ್ವಾರೈಸ್ತ್ರಿಭಿರ್ನರಃ |\nಆಚರತ್ಯಾತ್ಮನಃ ಶ್ರೇಯಸ್ತತೋ ಯಾತಿ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೨||"
+    },
+    "life_application": {
+        "hi": "अंधकार के इन तीन द्वारों से मुक्त हुआ व्यक्ति अपने भले के लिए कार्य करता है और सर्वोच्च लक्ष्य तक पहुँच जाता है।",
+        "en": "A man freed from these three gates of darkness acts for his own good and reaches the supreme goal.",
+        "be": "অন্ধকারের এই তিনটি দরজা থেকে মুক্ত একজন মানুষ তার নিজের ভালোর জন্য কাজ করে এবং সর্বোচ্চ লক্ষ্যে পৌঁছায়।",
+        "ka": "ಕತ್ತಲೆಯ ಈ ಮೂರು ದ್ವಾರಗಳಿಂದ ಮುಕ್ತನಾದ ಮನುಷ್ಯನು ತನ್ನ ಒಳಿತಿಗಾಗಿ ವರ್ತಿಸುತ್ತಾನೆ ಮತ್ತು ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನು ತಲುಪುತ್ತಾನೆ."
+    },
     "themes": [
         "Purpose",
         "Self-Realization"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "एतैः",
-            "transliteration": "etaiḥ",
-            "meaning": "from these"
+            "transliteration": {
+                "hi": "एतैः",
+                "en": "etaiḥ",
+                "be": "এতৈঃ",
+                "ka": "ಏತೈಃ"
+            },
+            "meaning": {
+                "hi": "इनसे",
+                "en": "from these",
+                "be": "এগুলো থেকে",
+                "ka": "ಇವುಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "विमुक्तः",
-            "transliteration": "vimuktaḥ",
-            "meaning": "liberated"
+            "transliteration": {
+                "hi": "विमुक्तः",
+                "en": "vimuktaḥ",
+                "be": "বিমুক্তঃ",
+                "ka": "ವಿಮುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "आज़ाद",
+                "en": "liberated",
+                "be": "মুক্তিপ্রাপ্ত",
+                "ka": "ಬಿಡುಗಡೆಗೊಳಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O Kaunteya"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कौन्तेय!",
+                "en": "O Kaunteya",
+                "be": "হে কৌন্তেয়া",
+                "ka": "ಓ ಕೌಂತೇಯ"
+            }
         },
         {
             "sanskrit": "तमोद्वारैः",
-            "transliteration": "tamodvāraiḥ",
-            "meaning": "gates to darkness"
+            "transliteration": {
+                "hi": "तमोद्वारैः",
+                "en": "tamodvāraiḥ",
+                "be": "তমোদ্বারৈঃ",
+                "ka": "ತಮೋದ್ವಾರೈಃ"
+            },
+            "meaning": {
+                "hi": "अंधकार का द्वार",
+                "en": "gates to darkness",
+                "be": "অন্ধকারের দরজা",
+                "ka": "ಕತ್ತಲೆಗೆ ದ್ವಾರಗಳು"
+            }
         },
         {
             "sanskrit": "त्रिभिः",
-            "transliteration": "tribhiḥ",
-            "meaning": "three"
+            "transliteration": {
+                "hi": "त्रिभिः",
+                "en": "tribhiḥ",
+                "be": "ত্রিভিঃ",
+                "ka": "ತ್ರಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "तीन",
+                "en": "three",
+                "be": "তিন",
+                "ka": "ಮೂರು"
+            }
         },
         {
             "sanskrit": "नरः",
-            "transliteration": "naraḥ",
-            "meaning": "the man"
+            "transliteration": {
+                "hi": "नरः",
+                "en": "naraḥ",
+                "be": "নরঃ",
+                "ka": "ನರಃ"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "the man",
+                "be": "লোকটি",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "आचरति",
-            "transliteration": "ācarati",
-            "meaning": "practises"
+            "transliteration": {
+                "hi": "आचरति",
+                "en": "ācarati",
+                "be": "আচরতি",
+                "ka": "ಆಚರತಿ"
+            },
+            "meaning": {
+                "hi": "अभ्यास",
+                "en": "practises",
+                "be": "অনুশীলন",
+                "ka": "ಅಭ್ಯಾಸಗಳು"
+            }
         },
         {
             "sanskrit": "आत्मनः",
-            "transliteration": "ātmanaḥ",
-            "meaning": "for him"
+            "transliteration": {
+                "hi": "आत्मनः",
+                "en": "ātmanaḥ",
+                "be": "আত্মনঃ",
+                "ka": "ಆತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "उसके लिए",
+                "en": "for him",
+                "be": "তার জন্য",
+                "ka": "ಅವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "what is good"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "क्या अच्छा है",
+                "en": "what is good",
+                "be": "কি ভাল",
+                "ka": "ಯಾವುದು ಒಳ್ಳೆಯದು"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "and then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "और फिर",
+                "en": "and then",
+                "be": "এবং তারপর",
+                "ka": "ತದನಂತರ"
+            }
         },
         {
             "sanskrit": "याति",
-            "transliteration": "yāti",
-            "meaning": "goes to"
+            "transliteration": {
+                "hi": "याति",
+                "en": "yāti",
+                "be": "যাতি",
+                "ka": "ಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "को जाता है",
+                "en": "goes to",
+                "be": "যায়",
+                "ka": "ಗೆ ಹೋಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "the Supreme"
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "the Supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "Goal."
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "लक्ष्य।",
+                "en": "Goal.",
+                "be": "গোল।",
+                "ka": "ಗುರಿ."
+            }
         }
     ],
     "tej": {

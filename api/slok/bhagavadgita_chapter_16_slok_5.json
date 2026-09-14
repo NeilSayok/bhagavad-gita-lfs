@@ -14,8 +14,18 @@
         "en": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
         "ka": "ದೈವೀ ಸಮ್ಪದ್ವಿಮೋಕ್ಷಾಯ ನಿಬನ್ಧಾಯಾಸುರೀ ಮತಾ |\nಮಾ ಶುಚಃ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತೋಽಸಿ ಪಾಣ್ಡವ ||೧೬-೫||"
     },
-    "transliteration": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
-    "life_application": "Divine virtues lead to liberation while destructive traits cause bondage, so walk the path of virtue confidently.",
+    "transliteration": {
+        "hi": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
+        "en": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
+        "be": "দৈবী সম্পদ্বিমোক্ষায নিবন্ধাযাসুরী মতা |\nমা শুচঃ সম্পদং দৈবীমভিজাতোঽসি পাণ্ডব ||১৬-৫||",
+        "ka": "ದೈವೀ ಸಮ್ಪದ್ವಿಮೋಕ್ಷಾಯ ನಿಬನ್ಧಾಯಾಸುರೀ ಮತಾ |\nಮಾ ಶುಚಃ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತೋಽಸಿ ಪಾಣ್ಡವ ||೧೬-೫||"
+    },
+    "life_application": {
+        "hi": "दैवी गुण मुक्ति की ओर ले जाते हैं जबकि विनाशकारी गुण बंधन का कारण बनते हैं, इसलिए आत्मविश्वास के साथ सद्गुण के मार्ग पर चलें।",
+        "en": "Divine virtues lead to liberation while destructive traits cause bondage, so walk the path of virtue confidently.",
+        "be": "ঐশ্বরিক গুণগুলি মুক্তির দিকে পরিচালিত করে যখন ধ্বংসাত্মক বৈশিষ্ট্যগুলি বন্ধন সৃষ্টি করে, তাই আত্মবিশ্বাসের সাথে পুণ্যের পথে চলুন।",
+        "ka": "ದೈವಿಕ ಗುಣಗಳು ಮುಕ್ತಿಗೆ ಕಾರಣವಾಗುತ್ತವೆ ಆದರೆ ವಿನಾಶಕಾರಿ ಲಕ್ಷಣಗಳು ಬಂಧನವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ, ಆದ್ದರಿಂದ ಆತ್ಮವಿಶ್ವಾಸದಿಂದ ಪುಣ್ಯದ ಹಾದಿಯಲ್ಲಿ ನಡೆಯಿರಿ."
+    },
     "themes": [
         "Purpose",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "दैवी",
-            "transliteration": "daivī",
-            "meaning": "divine"
+            "transliteration": {
+                "hi": "दैवी",
+                "en": "daivī",
+                "be": "দৈবী",
+                "ka": "ದೈವೀ"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "सम्पत्",
-            "transliteration": "sampat",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "सम्पत्",
+                "en": "sampat",
+                "be": "সম্পত্",
+                "ka": "ಸಮ್ಪತ್"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "विमोक्षाय",
-            "transliteration": "vimokṣāya",
-            "meaning": "for liberation"
+            "transliteration": {
+                "hi": "विमोक्षाय",
+                "en": "vimokṣāya",
+                "be": "বিমোক্ষায",
+                "ka": "ವಿಮೋಕ್ಷಾಯ"
+            },
+            "meaning": {
+                "hi": "मुक्ति के लिए",
+                "en": "for liberation",
+                "be": "মুক্তির জন্য",
+                "ka": "ವಿಮೋಚನೆಗಾಗಿ"
+            }
         },
         {
             "sanskrit": "निबन्धाय",
-            "transliteration": "nibandhāya",
-            "meaning": "for bondage"
+            "transliteration": {
+                "hi": "निबन्धाय",
+                "en": "nibandhāya",
+                "be": "নিবন্ধায",
+                "ka": "ನಿಬನ್ಧಾಯ"
+            },
+            "meaning": {
+                "hi": "बंधन के लिए",
+                "en": "for bondage",
+                "be": "দাসত্বের জন্য",
+                "ka": "ಬಂಧನಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "आसुरी",
-            "transliteration": "āsurī",
-            "meaning": "the demoniacal"
+            "transliteration": {
+                "hi": "आसुरी",
+                "en": "āsurī",
+                "be": "আসুরী",
+                "ka": "ಆಸುರೀ"
+            },
+            "meaning": {
+                "hi": "राक्षसी",
+                "en": "the demoniacal",
+                "be": "demoniacal",
+                "ka": "ರಾಕ್ಷಸ"
+            }
         },
         {
             "sanskrit": "मता",
-            "transliteration": "matā",
-            "meaning": "is deemed"
+            "transliteration": {
+                "hi": "मता",
+                "en": "matā",
+                "be": "মতা",
+                "ka": "ಮತಾ"
+            },
+            "meaning": {
+                "hi": "समझा जाता है",
+                "en": "is deemed",
+                "be": "গণ্য করা হয়",
+                "ka": "ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "शुचः",
-            "transliteration": "śucaḥ",
-            "meaning": "grieve"
+            "transliteration": {
+                "hi": "शुचः",
+                "en": "śucaḥ",
+                "be": "শুচঃ",
+                "ka": "ಶುಚಃ"
+            },
+            "meaning": {
+                "hi": "शोक मनाओ",
+                "en": "grieve",
+                "be": "দুঃখ করা",
+                "ka": "ದುಃಖಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "सम्पदम्",
-            "transliteration": "sampadam",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "सम्पदम्",
+                "en": "sampadam",
+                "be": "সম্পদম্",
+                "ka": "ಸಮ್ಪದಮ್"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "दैवीम्",
-            "transliteration": "daivīm",
-            "meaning": "the divine"
+            "transliteration": {
+                "hi": "दैवीम्",
+                "en": "daivīm",
+                "be": "দৈবীম্",
+                "ka": "ದೈವೀಮ್"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "the divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "अभिजातः",
-            "transliteration": "abhijātaḥ",
-            "meaning": "one born for"
+            "transliteration": {
+                "hi": "अभिजातः",
+                "en": "abhijātaḥ",
+                "be": "অভিজাতঃ",
+                "ka": "ಅಭಿಜಾತಃ"
+            },
+            "meaning": {
+                "hi": "एक के लिए पैदा हुआ",
+                "en": "one born for",
+                "be": "এক জন্য জন্ম",
+                "ka": "ಒಂದು ಜನಿಸಿದ"
+            }
         },
         {
             "sanskrit": "असि",
-            "transliteration": "asi",
-            "meaning": "art"
+            "transliteration": {
+                "hi": "असि",
+                "en": "asi",
+                "be": "অসি",
+                "ka": "ಅಸಿ"
+            },
+            "meaning": {
+                "hi": "कला",
+                "en": "art",
+                "be": "শিল্প",
+                "ka": "ಕಲೆ"
+            }
         },
         {
             "sanskrit": "पाण्डव",
-            "transliteration": "pāṇḍava",
-            "meaning": "O Pandava."
+            "transliteration": {
+                "hi": "पाण्डव",
+                "en": "pāṇḍava",
+                "be": "পাণ্ডব",
+                "ka": "ಪಾಣ್ಡವ"
+            },
+            "meaning": {
+                "hi": "हे पांडव!",
+                "en": "O Pandava.",
+                "be": "হে পাণ্ডব।",
+                "ka": "ಓ ಪಾಂಡವ."
+            }
         }
     ],
     "tej": {

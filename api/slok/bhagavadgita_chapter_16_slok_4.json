@@ -14,8 +14,18 @@
         "en": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
         "ka": "ದಮ್ಭೋ ದರ್ಪೋಽಭಿಮಾನಶ್ಚ ಕ್ರೋಧಃ ಪಾರುಷ್ಯಮೇವ ಚ |\nಅಜ್ಞಾನಂ ಚಾಭಿಜಾತಸ್ಯ ಪಾರ್ಥ ಸಮ್ಪದಮಾಸುರೀಮ್ ||೧೬-೪||"
     },
-    "transliteration": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
-    "life_application": "Beware of ostentation, arrogance, self-conceit, anger, harshness, and ignorance, which mark demonic nature.",
+    "transliteration": {
+        "hi": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||",
+        "en": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
+        "be": "দম্ভো দর্পোঽভিমানশ্চ ক্রোধঃ পারুষ্যমেব চ |\nঅজ্ঞানং চাভিজাতস্য পার্থ সম্পদমাসুরীম্ ||১৬-৪||",
+        "ka": "ದಮ್ಭೋ ದರ್ಪೋಽಭಿಮಾನಶ್ಚ ಕ್ರೋಧಃ ಪಾರುಷ್ಯಮೇವ ಚ |\nಅಜ್ಞಾನಂ ಚಾಭಿಜಾತಸ್ಯ ಪಾರ್ಥ ಸಮ್ಪದಮಾಸುರೀಮ್ ||೧೬-೪||"
+    },
+    "life_application": {
+        "hi": "आडंबर, अहंकार, आत्म-दंभ, क्रोध, कठोरता और अज्ञानता से सावधान रहें, जो राक्षसी स्वभाव का प्रतीक हैं।",
+        "en": "Beware of ostentation, arrogance, self-conceit, anger, harshness, and ignorance, which mark demonic nature.",
+        "be": "দাম্ভিকতা, অহংকার, আত্ম-অহংকার, রাগ, কঠোরতা এবং অজ্ঞতা থেকে সাবধান থাকুন, যা শয়তানী প্রকৃতিকে চিহ্নিত করে।",
+        "ka": "ಆಡಂಬರ, ದುರಹಂಕಾರ, ಅಹಂಕಾರ, ಕೋಪ, ಕಠೋರತೆ ಮತ್ತು ಅಜ್ಞಾನದ ಬಗ್ಗೆ ಎಚ್ಚರದಿಂದಿರಿ, ಇದು ರಾಕ್ಷಸ ಸ್ವಭಾವವನ್ನು ಗುರುತಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Mind",
         "Attachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "दम्भः",
-            "transliteration": "dambhaḥ",
-            "meaning": "hypocrisy"
+            "transliteration": {
+                "hi": "दम्भः",
+                "en": "dambhaḥ",
+                "be": "দম্ভঃ",
+                "ka": "ದಮ್ಭಃ"
+            },
+            "meaning": {
+                "hi": "पाखंड",
+                "en": "hypocrisy",
+                "be": "কপটতা",
+                "ka": "ಬೂಟಾಟಿಕೆ"
+            }
         },
         {
             "sanskrit": "दर्पः",
-            "transliteration": "darpaḥ",
-            "meaning": "arrogance"
+            "transliteration": {
+                "hi": "दर्पः",
+                "en": "darpaḥ",
+                "be": "দর্পঃ",
+                "ka": "ದರ್ಪಃ"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "arrogance",
+                "be": "অহংকার",
+                "ka": "ದುರಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "अभिमानः",
-            "transliteration": "abhimānaḥ",
-            "meaning": "selfconceit"
+            "transliteration": {
+                "hi": "अभिमानः",
+                "en": "abhimānaḥ",
+                "be": "অভিমানঃ",
+                "ka": "ಅಭಿಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "आत्ममुग्धता",
+                "en": "selfconceit",
+                "be": "আত্মঅহংকার",
+                "ka": "ಸ್ವಯಂ ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "क्रोधः",
-            "transliteration": "krodhaḥ",
-            "meaning": "wrath"
+            "transliteration": {
+                "hi": "क्रोधः",
+                "en": "krodhaḥ",
+                "be": "ক্রোধঃ",
+                "ka": "ಕ್ರೋಧಃ"
+            },
+            "meaning": {
+                "hi": "क्रोध",
+                "en": "wrath",
+                "be": "রাগ",
+                "ka": "ಕ್ರೋಧ"
+            }
         },
         {
             "sanskrit": "पारुष्यम्",
-            "transliteration": "pāruṣyam",
-            "meaning": "harshness"
+            "transliteration": {
+                "hi": "पारुष्यम्",
+                "en": "pāruṣyam",
+                "be": "পারুষ্যম্",
+                "ka": "ಪಾರುಷ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "कठोरता",
+                "en": "harshness",
+                "be": "কঠোরতা",
+                "ka": "ಕಠೋರತೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अज्ञानम्",
-            "transliteration": "ajñānam",
-            "meaning": "ignorance"
+            "transliteration": {
+                "hi": "अज्ञानम्",
+                "en": "ajñānam",
+                "be": "অজ্ঞানম্",
+                "ka": "ಅಜ್ಞಾನಮ್"
+            },
+            "meaning": {
+                "hi": "अज्ञान",
+                "en": "ignorance",
+                "be": "অজ্ঞতা",
+                "ka": "ಅಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अभिजातस्य",
-            "transliteration": "abhijātasya",
-            "meaning": "to the one born"
+            "transliteration": {
+                "hi": "अभिजातस्य",
+                "en": "abhijātasya",
+                "be": "অভিজাতস্য",
+                "ka": "ಅಭಿಜಾತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "जन्म लेने वाले को",
+                "en": "to the one born",
+                "be": "যার জন্ম",
+                "ka": "ಹುಟ್ಟಿದವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "सम्पदम्",
-            "transliteration": "sampadam",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "सम्पदम्",
+                "en": "sampadam",
+                "be": "সম্পদম্",
+                "ka": "ಸಮ್ಪದಮ್"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "आसुरीम्",
-            "transliteration": "āsurīm",
-            "meaning": "demoniacal."
+            "transliteration": {
+                "hi": "आसुरीम्",
+                "en": "āsurīm",
+                "be": "আসুরীম্",
+                "ka": "ಆಸುರೀಮ್"
+            },
+            "meaning": {
+                "hi": "राक्षसी.",
+                "en": "demoniacal.",
+                "be": "demoniacal",
+                "ka": "ರಾಕ್ಷಸ."
+            }
         }
     ],
     "tej": {

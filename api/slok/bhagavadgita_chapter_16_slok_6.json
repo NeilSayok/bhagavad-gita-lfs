@@ -14,8 +14,18 @@
         "en": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
         "ka": "ದ್ವೌ ಭೂತಸರ್ಗೌ ಲೋಕೇಽಸ್ಮಿನ್ದೈವ ಆಸುರ ಏವ ಚ |\nದೈವೋ ವಿಸ್ತರಶಃ ಪ್ರೋಕ್ತ ಆಸುರಂ ಪಾರ್ಥ ಮೇ ಶೃಣು ||೧೬-೬||"
     },
-    "transliteration": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
-    "life_application": "Two types of beings exist in this world: divine and demonic; divine has been described, hear now of demonic.",
+    "transliteration": {
+        "hi": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||१६-६||",
+        "en": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
+        "be": "দ্বৌ ভূতসর্গৌ লোকেঽস্মিন্দৈব আসুর এব চ |\nদৈবো বিস্তরশঃ প্রোক্ত আসুরং পার্থ মে শৃণু ||১৬-৬||",
+        "ka": "ದ್ವೌ ಭೂತಸರ್ಗೌ ಲೋಕೇಽಸ್ಮಿನ್ದೈವ ಆಸುರ ಏವ ಚ |\nದೈವೋ ವಿಸ್ತರಶಃ ಪ್ರೋಕ್ತ ಆಸುರಂ ಪಾರ್ಥ ಮೇ ಶೃಣು ||೧೬-೬||"
+    },
+    "life_application": {
+        "hi": "इस संसार में दो प्रकार के प्राणी विद्यमान हैं: दैवीय और आसुरी; दैवी का वर्णन हो चुका है, अब आसुरी का सुनो।",
+        "en": "Two types of beings exist in this world: divine and demonic; divine has been described, hear now of demonic.",
+        "be": "এই পৃথিবীতে দুই ধরনের সত্তা বিদ্যমান: ঐশ্বরিক এবং দানবীয়; দৈব বর্ণনা করা হয়েছে, এখন দানবের কথা শুনুন।",
+        "ka": "ಈ ಜಗತ್ತಿನಲ್ಲಿ ಎರಡು ರೀತಿಯ ಜೀವಿಗಳು ಅಸ್ತಿತ್ವದಲ್ಲಿವೆ: ದೈವಿಕ ಮತ್ತು ರಾಕ್ಷಸ; ದೈವಿಕ ವಿವರಿಸಲಾಗಿದೆ, ರಾಕ್ಷಸ ಈಗ ಕೇಳಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "द्वौ",
-            "transliteration": "dvau",
-            "meaning": "two"
+            "transliteration": {
+                "hi": "द्वौ",
+                "en": "dvau",
+                "be": "দ্বৌ",
+                "ka": "ದ್ವೌ"
+            },
+            "meaning": {
+                "hi": "दो",
+                "en": "two",
+                "be": "দুই",
+                "ka": "ಎರಡು"
+            }
         },
         {
             "sanskrit": "भूतसर्गौ",
-            "transliteration": "bhūtasargau",
-            "meaning": "types of beings"
+            "transliteration": {
+                "hi": "भूतसर्गौ",
+                "en": "bhūtasargau",
+                "be": "ভূতসর্গৌ",
+                "ka": "ಭೂತಸರ್ಗೌ"
+            },
+            "meaning": {
+                "hi": "प्राणियों के प्रकार",
+                "en": "types of beings",
+                "be": "প্রাণীর প্রকার",
+                "ka": "ಜೀವಿಗಳ ವಿಧಗಳು"
+            }
         },
         {
             "sanskrit": "लोके",
-            "transliteration": "loke",
-            "meaning": "in world"
+            "transliteration": {
+                "hi": "लोके",
+                "en": "loke",
+                "be": "লোকে",
+                "ka": "ಲೋಕೇ"
+            },
+            "meaning": {
+                "hi": "दुनिया में",
+                "en": "in world",
+                "be": "বিশ্বের মধ্যে",
+                "ka": "ಜಗತ್ತಿನಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अस्मिन्",
-            "transliteration": "asmin",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अस्मिन्",
+                "en": "asmin",
+                "be": "অস্মিন্",
+                "ka": "ಅಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "दैवः",
-            "transliteration": "daivaḥ",
-            "meaning": "the divine"
+            "transliteration": {
+                "hi": "दैवः",
+                "en": "daivaḥ",
+                "be": "দৈবঃ",
+                "ka": "ದೈವಃ"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "the divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "आसुरः",
-            "transliteration": "āsuraḥ",
-            "meaning": "demonical"
+            "transliteration": {
+                "hi": "आसुरः",
+                "en": "āsuraḥ",
+                "be": "আসুরঃ",
+                "ka": "ಆಸುರಃ"
+            },
+            "meaning": {
+                "hi": "राक्षसी",
+                "en": "demonical",
+                "be": "পৈশাচিক",
+                "ka": "ರಾಕ್ಷಸ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "दैवः",
-            "transliteration": "daivaḥ",
-            "meaning": "the divine"
+            "transliteration": {
+                "hi": "दैवः",
+                "en": "daivaḥ",
+                "be": "দৈবঃ",
+                "ka": "ದೈವಃ"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "the divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "विस्तरशः",
-            "transliteration": "vistaraśaḥ",
-            "meaning": "at length"
+            "transliteration": {
+                "hi": "विस्तरशः",
+                "en": "vistaraśaḥ",
+                "be": "বিস্তরশঃ",
+                "ka": "ವಿಸ್ತರಶಃ"
+            },
+            "meaning": {
+                "hi": "लंबाई में",
+                "en": "at length",
+                "be": "দৈর্ঘ্যে",
+                "ka": "ಉದ್ದದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रोक्तः",
-            "transliteration": "proktaḥ",
-            "meaning": "has been described"
+            "transliteration": {
+                "hi": "प्रोक्तः",
+                "en": "proktaḥ",
+                "be": "প্রোক্তঃ",
+                "ka": "ಪ್ರೋಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "वर्णन किया गया है",
+                "en": "has been described",
+                "be": "বর্ণনা করা হয়েছে",
+                "ka": "ವಿವರಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "आसुरम्",
-            "transliteration": "āsuram",
-            "meaning": "demoniacal"
+            "transliteration": {
+                "hi": "आसुरम्",
+                "en": "āsuram",
+                "be": "আসুরম্",
+                "ka": "ಆಸುರಮ್"
+            },
+            "meaning": {
+                "hi": "भूत चढ़ा हुआ",
+                "en": "demoniacal",
+                "be": "demoniacal",
+                "ka": "ರಾಕ್ಷಸ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "from Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मुझसे",
+                "en": "from Me",
+                "be": "আমার কাছ থেকে",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear."
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो।",
+                "en": "hear.",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
         "ka": "ಆಸುರೀಂ ಯೋನಿಮಾಪನ್ನಾ ಮೂಢಾ ಜನ್ಮನಿ ಜನ್ಮನಿ |\nಮಾಮಪ್ರಾಪ್ಯೈವ ಕೌನ್ತೇಯ ತತೋ ಯಾನ್ತ್ಯಧಮಾಂ ಗತಿಮ್ ||೧೬-೨೦||"
     },
-    "transliteration": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
-    "life_application": "Entering demonic wombs, deluded birth after birth, failing to reach Me, they sink into lowest degradation.",
+    "transliteration": {
+        "hi": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||",
+        "en": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
+        "be": "আসুরীং যোনিমাপন্না মূঢা জন্মনি জন্মনি |\nমামপ্রাপ্যৈব কৌন্তেয ততো যান্ত্যধমাং গতিম্ ||১৬-২০||",
+        "ka": "ಆಸುರೀಂ ಯೋನಿಮಾಪನ್ನಾ ಮೂಢಾ ಜನ್ಮನಿ ಜನ್ಮನಿ |\nಮಾಮಪ್ರಾಪ್ಯೈವ ಕೌನ್ತೇಯ ತತೋ ಯಾನ್ತ್ಯಧಮಾಂ ಗತಿಮ್ ||೧೬-೨೦||"
+    },
+    "life_application": {
+        "hi": "आसुरी योनियों में प्रवेश करके, जन्म-जन्मान्तर में भ्रमित होकर, मुझ तक पहुँचने में असफल होकर, वे निम्नतम पतन में डूब जाते हैं।",
+        "en": "Entering demonic wombs, deluded birth after birth, failing to reach Me, they sink into lowest degradation.",
+        "be": "রাক্ষসী গর্ভে প্রবেশ করে, জন্মের পর জন্মের প্রলোভন, আমার কাছে পৌঁছাতে ব্যর্থ হয়ে তারা সর্বনিম্ন অধঃপতনে ডুবে যায়।",
+        "ka": "ದೆವ್ವದ ಗರ್ಭಗಳನ್ನು ಪ್ರವೇಶಿಸಿ, ಹುಟ್ಟಿದ ನಂತರ ಭ್ರಮೆಗೊಂಡ ಜನ್ಮ, ನನ್ನನ್ನು ತಲುಪಲು ವಿಫಲವಾದರೆ, ಅವರು ಅತ್ಯಂತ ಕೆಳಮಟ್ಟದ ಅವನತಿಗೆ ಮುಳುಗುತ್ತಾರೆ."
+    },
     "themes": [
         "Karma",
         "Death"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "असुरीम्",
-            "transliteration": "asurīm",
-            "meaning": "demoniacal"
+            "transliteration": {
+                "hi": "असुरीम्",
+                "en": "asurīm",
+                "be": "অসুরীম্",
+                "ka": "ಅಸುರೀಮ್"
+            },
+            "meaning": {
+                "hi": "भूत चढ़ा हुआ",
+                "en": "demoniacal",
+                "be": "demoniacal",
+                "ka": "ರಾಕ್ಷಸ"
+            }
         },
         {
             "sanskrit": "योनिम्",
-            "transliteration": "yonim",
-            "meaning": "womb"
+            "transliteration": {
+                "hi": "योनिम्",
+                "en": "yonim",
+                "be": "যোনিম্",
+                "ka": "ಯೋನಿಮ್"
+            },
+            "meaning": {
+                "hi": "गर्भ",
+                "en": "womb",
+                "be": "গর্ভ",
+                "ka": "ಗರ್ಭ"
+            }
         },
         {
             "sanskrit": "आपन्नाः",
-            "transliteration": "āpannāḥ",
-            "meaning": "entering into"
+            "transliteration": {
+                "hi": "आपन्नाः",
+                "en": "āpannāḥ",
+                "be": "আপন্নাঃ",
+                "ka": "ಆಪನ್ನಾಃ"
+            },
+            "meaning": {
+                "hi": "में प्रवेश करना",
+                "en": "entering into",
+                "be": "প্রবেশ করা",
+                "ka": "ಪ್ರವೇಶಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "मूढाः",
-            "transliteration": "mūḍhāḥ",
-            "meaning": "deluded"
+            "transliteration": {
+                "hi": "मूढाः",
+                "en": "mūḍhāḥ",
+                "be": "মূঢাঃ",
+                "ka": "ಮೂಢಾಃ"
+            },
+            "meaning": {
+                "hi": "बहकाया हुआ",
+                "en": "deluded",
+                "be": "বিভ্রান্ত",
+                "ka": "ಭ್ರಮಿಸಿದ"
+            }
         },
         {
             "sanskrit": "जन्मनि जन्मनि",
-            "transliteration": "janmani janmani",
-            "meaning": "in birth after birth"
+            "transliteration": {
+                "hi": "जन्मनि जन्मनि",
+                "en": "janmani janmani",
+                "be": "জন্মনি জন্মনি",
+                "ka": "ಜನ್ಮನಿ ಜನ್ಮನಿ"
+            },
+            "meaning": {
+                "hi": "जन्म-जन्मान्तर में",
+                "en": "in birth after birth",
+                "be": "জন্মের পর জন্মে",
+                "ka": "ಜನನದ ನಂತರ ಜನ್ಮದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "Me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "Me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "अप्राप्य",
-            "transliteration": "aprāpya",
-            "meaning": "not attaining"
+            "transliteration": {
+                "hi": "अप्राप्य",
+                "en": "aprāpya",
+                "be": "অপ্রাপ্য",
+                "ka": "ಅಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्त नहीं हो रहा है",
+                "en": "not attaining",
+                "be": "অর্জন না",
+                "ka": "ಸಾಧಿಸುತ್ತಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "still"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "अभी भी",
+                "en": "still",
+                "be": "এখনও",
+                "ka": "ಇನ್ನೂ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "than that"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "उस से जादा",
+                "en": "than that",
+                "be": "তার চেয়ে",
+                "ka": "ಅದಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "यान्ति",
-            "transliteration": "yānti",
-            "meaning": "fall into"
+            "transliteration": {
+                "hi": "यान्ति",
+                "en": "yānti",
+                "be": "যান্তি",
+                "ka": "ಯಾನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "में पड़ना",
+                "en": "fall into",
+                "be": "মধ্যে পড়া",
+                "ka": "ಬೀಳುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "अधमाम्",
-            "transliteration": "adhamām",
-            "meaning": "lower"
+            "transliteration": {
+                "hi": "अधमाम्",
+                "en": "adhamām",
+                "be": "অধমাম্",
+                "ka": "ಅಧಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "निचला",
+                "en": "lower",
+                "be": "নিম্ন",
+                "ka": "ಕಡಿಮೆ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "condition ."
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "स्थिति ।",
+                "en": "condition .",
+                "be": "অবস্থা",
+                "ka": "ಸ್ಥಿತಿ ."
+            }
         }
     ],
     "tej": {

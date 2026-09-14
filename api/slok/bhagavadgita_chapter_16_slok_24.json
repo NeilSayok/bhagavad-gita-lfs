@@ -14,8 +14,18 @@
         "en": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
         "ka": "ತಸ್ಮಾಚ್ಛಾಸ್ತ್ರಂ ಪ್ರಮಾಣಂ ತೇ ಕಾರ್ಯಾಕಾರ್ಯವ್ಯವಸ್ಥಿತೌ |\nಜ್ಞಾತ್ವಾ ಶಾಸ್ತ್ರವಿಧಾನೋಕ್ತಂ ಕರ್ಮ ಕರ್ತುಮಿಹಾರ್ಹಸಿ ||೧೬-೨೪||"
     },
-    "transliteration": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
-    "life_application": "Therefore let scripture be your authority in determining what ought to be done and avoided; perform duty knowing scriptural rules.",
+    "transliteration": {
+        "hi": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
+        "en": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
+        "be": "তস্মাচ্ছাস্ত্রং প্রমাণং তে কার্যাকার্যব্যবস্থিতৌ |\nজ্ঞাত্বা শাস্ত্রবিধানোক্তং কর্ম কর্তুমিহার্হসি ||১৬-২৪||",
+        "ka": "ತಸ್ಮಾಚ್ಛಾಸ್ತ್ರಂ ಪ್ರಮಾಣಂ ತೇ ಕಾರ್ಯಾಕಾರ್ಯವ್ಯವಸ್ಥಿತೌ |\nಜ್ಞಾತ್ವಾ ಶಾಸ್ತ್ರವಿಧಾನೋಕ್ತಂ ಕರ್ಮ ಕರ್ತುಮಿಹಾರ್ಹಸಿ ||೧೬-೨೪||"
+    },
+    "life_application": {
+        "hi": "इसलिए क्या करना चाहिए और क्या नहीं करना चाहिए, यह निर्धारित करने में धर्मग्रंथ को आपका अधिकार होना चाहिए; शास्त्रोक्त नियमों को जानकर कर्तव्य का पालन करें।",
+        "en": "Therefore let scripture be your authority in determining what ought to be done and avoided; perform duty knowing scriptural rules.",
+        "be": "তাই কি করা উচিত এবং এড়ানো উচিত তা নির্ধারণে শাস্ত্র আপনার কর্তৃত্ব হতে দিন; শাস্ত্রীয় নিয়ম জেনে দায়িত্ব পালন করা।",
+        "ka": "ಆದ್ದರಿಂದ ಏನು ಮಾಡಬೇಕು ಮತ್ತು ತಪ್ಪಿಸಬೇಕು ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ ಧರ್ಮಗ್ರಂಥವು ನಿಮ್ಮ ಅಧಿಕಾರವಾಗಿರಲಿ; ಧರ್ಮಶಾಸ್ತ್ರದ ನಿಯಮಗಳನ್ನು ತಿಳಿದುಕೊಂಡು ಕರ್ತವ್ಯ ನಿರ್ವಹಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Dharma"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "शास्त्रम्",
-            "transliteration": "śāstram",
-            "meaning": "scripture"
+            "transliteration": {
+                "hi": "शास्त्रम्",
+                "en": "śāstram",
+                "be": "শাস্ত্রম্",
+                "ka": "ಶಾಸ್ತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "धर्मग्रंथ",
+                "en": "scripture",
+                "be": "ধর্মগ্রন্থ",
+                "ka": "ಧರ್ಮಗ್ರಂಥ"
+            }
         },
         {
             "sanskrit": "प्रमाणम्",
-            "transliteration": "pramāṇam",
-            "meaning": "authority"
+            "transliteration": {
+                "hi": "प्रमाणम्",
+                "en": "pramāṇam",
+                "be": "প্রমাণম্",
+                "ka": "ಪ್ರಮಾಣಮ್"
+            },
+            "meaning": {
+                "hi": "अधिकार",
+                "en": "authority",
+                "be": "কর্তৃত্ব",
+                "ka": "ಅಧಿಕಾರ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "कार्याकार्यव्यवस्थितौ",
-            "transliteration": "kāryākāryavyavasthitau",
-            "meaning": "in determining what ought"
+            "transliteration": {
+                "hi": "कार्याकार्यव्यवस्थितौ",
+                "en": "kāryākāryavyavasthitau",
+                "be": "কার্যাকার্যব্যবস্থিতৌ",
+                "ka": "ಕಾರ್ಯಾಕಾರ್ಯವ್ಯವಸ್ಥಿತೌ"
+            },
+            "meaning": {
+                "hi": "यह निर्धारित करने में कि क्या होना चाहिए",
+                "en": "in determining what ought",
+                "be": "কি করা উচিত তা নির্ধারণে",
+                "ka": "ಏನಾಗಬೇಕು ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ज्ञात्वा",
-            "transliteration": "jñātvā",
-            "meaning": "having known"
+            "transliteration": {
+                "hi": "ज्ञात्वा",
+                "en": "jñātvā",
+                "be": "জ্ঞাত্বা",
+                "ka": "ಜ್ಞಾತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "ज्ञात होना",
+                "en": "having known",
+                "be": "জানা থাকা",
+                "ka": "ತಿಳಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "शास्त्रविधानोक्तम्",
-            "transliteration": "śāstravidhānoktam",
-            "meaning": "what is said in"
+            "transliteration": {
+                "hi": "शास्त्रविधानोक्तम्",
+                "en": "śāstravidhānoktam",
+                "be": "শাস্ত্রবিধানোক্তম্",
+                "ka": "ಶಾಸ್ತ್ರವಿಧಾನೋಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "में क्या कहा गया है",
+                "en": "what is said in",
+                "be": "কি বলা হয়",
+                "ka": "ಏನು ಹೇಳಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "कर्तुम्",
-            "transliteration": "kartum",
-            "meaning": "to do"
+            "transliteration": {
+                "hi": "कर्तुम्",
+                "en": "kartum",
+                "be": "কর্তুম্",
+                "ka": "ಕರ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "करना",
+                "en": "to do",
+                "be": "করতে",
+                "ka": "ಮಾಡಲು"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अर्हसि",
-            "transliteration": "arhasi",
-            "meaning": "shouldst."
+            "transliteration": {
+                "hi": "अर्हसि",
+                "en": "arhasi",
+                "be": "অর্হসি",
+                "ka": "ಅರ್ಹಸಿ"
+            },
+            "meaning": {
+                "hi": "चाहिए.",
+                "en": "shouldst.",
+                "be": "উচিত",
+                "ka": "ಮಾಡಬೇಕು."
+            }
         }
     ],
     "tej": {

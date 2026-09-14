@@ -14,8 +14,18 @@
         "en": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
         "ka": "ಯಃ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ವರ್ತತೇ ಕಾಮಕಾರತಃ |\nನ ಸ ಸಿದ್ಧಿಮವಾಪ್ನೋತಿ ನ ಸುಖಂ ನ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೩||"
     },
-    "transliteration": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
-    "life_application": "He who discards scriptural guidelines and acts under impulse of desire attains neither perfection, happiness, nor supreme goal.",
+    "transliteration": {
+        "hi": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||",
+        "en": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
+        "be": "যঃ শাস্ত্রবিধিমুত্সৃজ্য বর্ততে কামকারতঃ |\nন স সিদ্ধিমবাপ্নোতি ন সুখং ন পরাং গতিম্ ||১৬-২৩||",
+        "ka": "ಯಃ ಶಾಸ್ತ್ರವಿಧಿಮುತ್ಸೃಜ್ಯ ವರ್ತತೇ ಕಾಮಕಾರತಃ |\nನ ಸ ಸಿದ್ಧಿಮವಾಪ್ನೋತಿ ನ ಸುಖಂ ನ ಪರಾಂ ಗತಿಮ್ ||೧೬-೨೩||"
+    },
+    "life_application": {
+        "hi": "जो शास्त्रीय दिशानिर्देशों को त्याग देता है और इच्छा के आवेग के तहत कार्य करता है वह न तो पूर्णता, खुशी, न ही सर्वोच्च लक्ष्य प्राप्त करता है।",
+        "en": "He who discards scriptural guidelines and acts under impulse of desire attains neither perfection, happiness, nor supreme goal.",
+        "be": "যে ব্যক্তি শাস্ত্রীয় নির্দেশনা পরিত্যাগ করে এবং ইচ্ছার প্ররোচনায় কাজ করে সে পরিপূর্ণতা, সুখ বা সর্বোচ্চ লক্ষ্য অর্জন করতে পারে না।",
+        "ka": "ಯಾರು ಧರ್ಮಗ್ರಂಥದ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ತ್ಯಜಿಸುತ್ತಾರೆ ಮತ್ತು ಬಯಕೆಯ ಪ್ರಚೋದನೆಯ ಅಡಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಾರೆ ಅವರು ಪರಿಪೂರ್ಣತೆ, ಸಂತೋಷ ಅಥವಾ ಪರಮೋಚ್ಚ ಗುರಿಯನ್ನು ಸಾಧಿಸುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Duty",
         "Dharma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "शास्त्रविधिम्",
-            "transliteration": "śāstravidhim",
-            "meaning": "the ordinance of the"
+            "transliteration": {
+                "hi": "शास्त्रविधिम्",
+                "en": "śāstravidhim",
+                "be": "শাস্ত্রবিধিম্",
+                "ka": "ಶಾಸ್ತ್ರವಿಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "का अध्यादेश",
+                "en": "the ordinance of the",
+                "be": "অধ্যাদেশ",
+                "ka": "ನ ಸುಗ್ರೀವಾಜ್ಞೆ"
+            }
         },
         {
             "sanskrit": "उत्सृज्य",
-            "transliteration": "utsṛjya",
-            "meaning": "having cast aside"
+            "transliteration": {
+                "hi": "उत्सृज्य",
+                "en": "utsṛjya",
+                "be": "উত্সৃজ্য",
+                "ka": "ಉತ್ಸೃಜ್ಯ"
+            },
+            "meaning": {
+                "hi": "एक तरफ फेंक दिया गया",
+                "en": "having cast aside",
+                "be": "আলাদা করা",
+                "ka": "ಪಕ್ಕಕ್ಕೆ ಹಾಕಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "वर्तते",
-            "transliteration": "vartate",
-            "meaning": "acts"
+            "transliteration": {
+                "hi": "वर्तते",
+                "en": "vartate",
+                "be": "বর্ততে",
+                "ka": "ವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "कार्य करता है",
+                "en": "acts",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "कामकारतः",
-            "transliteration": "kāmakārataḥ",
-            "meaning": "under the impulse of"
+            "transliteration": {
+                "hi": "कामकारतः",
+                "en": "kāmakārataḥ",
+                "be": "কামকারতঃ",
+                "ka": "ಕಾಮಕಾರತಃ"
+            },
+            "meaning": {
+                "hi": "के आवेग के तहत",
+                "en": "under the impulse of",
+                "be": "অনুপ্রেরণা অধীনে",
+                "ka": "ಪ್ರಚೋದನೆಯ ಅಡಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "सिद्धिम्",
-            "transliteration": "siddhim",
-            "meaning": "perfection"
+            "transliteration": {
+                "hi": "सिद्धिम्",
+                "en": "siddhim",
+                "be": "সিদ্ধিম্",
+                "ka": "ಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता",
+                "en": "perfection",
+                "be": "পরিপূর্ণতা",
+                "ka": "ಪರಿಪೂರ್ಣತೆ"
+            }
         },
         {
             "sanskrit": "अवाप्नोति",
-            "transliteration": "avāpnoti",
-            "meaning": "attains"
+            "transliteration": {
+                "hi": "अवाप्नोति",
+                "en": "avāpnoti",
+                "be": "অবাপ্নোতি",
+                "ka": "ಅವಾಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है",
+                "en": "attains",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "happiness"
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "ख़ुशी",
+                "en": "happiness",
+                "be": "সুখ",
+                "ka": "ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पराम्",
-            "transliteration": "parām",
-            "meaning": "Supreme"
+            "transliteration": {
+                "hi": "पराम्",
+                "en": "parām",
+                "be": "পরাম্",
+                "ka": "ಪರಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "Supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "Goal."
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "लक्ष्य।",
+                "en": "Goal.",
+                "be": "গোল।",
+                "ka": "ಗುರಿ."
+            }
         }
     ],
     "tej": {

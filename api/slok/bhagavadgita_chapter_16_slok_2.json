@@ -14,8 +14,18 @@
         "en": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
         "ka": "ಅಹಿಂಸಾ ಸತ್ಯಮಕ್ರೋಧಸ್ತ್ಯಾಗಃ ಶಾನ್ತಿರಪೈಶುನಮ್ |\nದಯಾ ಭೂತೇಷ್ವಲೋಲುಪ್ತ್ವಂ ಮಾರ್ದವಂ ಹ್ರೀರಚಾಪಲಮ್ ||೧೬-೨||"
     },
-    "transliteration": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
-    "life_application": "Practice non-violence, truthfulness, freedom from anger, renunciation, tranquility, absence of fault-finding, compassion, gentleness, modesty.",
+    "transliteration": {
+        "hi": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||",
+        "en": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
+        "be": "অহিংসা সত্যমক্রোধস্ত্যাগঃ শান্তিরপৈশুনম্ |\nদযা ভূতেষ্বলোলুপ্ত্বং মার্দবং হ্রীরচাপলম্ ||১৬-২||",
+        "ka": "ಅಹಿಂಸಾ ಸತ್ಯಮಕ್ರೋಧಸ್ತ್ಯಾಗಃ ಶಾನ್ತಿರಪೈಶುನಮ್ |\nದಯಾ ಭೂತೇಷ್ವಲೋಲುಪ್ತ್ವಂ ಮಾರ್ದವಂ ಹ್ರೀರಚಾಪಲಮ್ ||೧೬-೨||"
+    },
+    "life_application": {
+        "hi": "अहिंसा, सत्य, क्रोध से मुक्ति, त्याग, शांति, दोष-निरीक्षण का अभाव, करुणा, नम्रता, शील का अभ्यास करें।",
+        "en": "Practice non-violence, truthfulness, freedom from anger, renunciation, tranquility, absence of fault-finding, compassion, gentleness, modesty.",
+        "be": "অহিংসা, সত্যবাদিতা, ক্রোধ থেকে মুক্তি, ত্যাগ, প্রশান্তি, দোষ অনুসন্ধানের অনুপস্থিতি, সহানুভূতি, ভদ্রতা, বিনয় অনুশীলন করুন।",
+        "ka": "ಅಹಿಂಸೆ, ಸತ್ಯನಿಷ್ಠೆ, ಕ್ರೋಧದಿಂದ ಮುಕ್ತಿ, ತ್ಯಾಗ, ನೆಮ್ಮದಿ, ದೋಷ ಕಂಡು ಹಿಡಿಯದಿರುವುದು, ಸಹಾನುಭೂತಿ, ಸೌಮ್ಯತೆ, ನಮ್ರತೆ ಇವುಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Equanimity"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अहिंसा",
-            "transliteration": "ahiṃsā",
-            "meaning": "harmlessness"
+            "transliteration": {
+                "hi": "अहिंसा",
+                "en": "ahiṃsā",
+                "be": "অহিংসা",
+                "ka": "ಅಹಿಂಸಾ"
+            },
+            "meaning": {
+                "hi": "हानिरहितता",
+                "en": "harmlessness",
+                "be": "ক্ষতিহীনতা",
+                "ka": "ನಿರುಪದ್ರವತೆ"
+            }
         },
         {
             "sanskrit": "सत्यम्",
-            "transliteration": "satyam",
-            "meaning": "truth"
+            "transliteration": {
+                "hi": "सत्यम्",
+                "en": "satyam",
+                "be": "সত্যম্",
+                "ka": "ಸತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "सत्य",
+                "en": "truth",
+                "be": "সত্য",
+                "ka": "ಸತ್ಯ"
+            }
         },
         {
             "sanskrit": "अक्रोधः",
-            "transliteration": "akrodhaḥ",
-            "meaning": "absence of anger"
+            "transliteration": {
+                "hi": "अक्रोधः",
+                "en": "akrodhaḥ",
+                "be": "অক্রোধঃ",
+                "ka": "ಅಕ್ರೋಧಃ"
+            },
+            "meaning": {
+                "hi": "क्रोध का अभाव",
+                "en": "absence of anger",
+                "be": "রাগের অনুপস্থিতি",
+                "ka": "ಕೋಪದ ಅನುಪಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "त्यागः",
-            "transliteration": "tyāgaḥ",
-            "meaning": "renunciation"
+            "transliteration": {
+                "hi": "त्यागः",
+                "en": "tyāgaḥ",
+                "be": "ত্যাগঃ",
+                "ka": "ತ್ಯಾಗಃ"
+            },
+            "meaning": {
+                "hi": "त्याग",
+                "en": "renunciation",
+                "be": "ত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "शान्तिः",
-            "transliteration": "śāntiḥ",
-            "meaning": "peacefulness"
+            "transliteration": {
+                "hi": "शान्तिः",
+                "en": "śāntiḥ",
+                "be": "শান্তিঃ",
+                "ka": "ಶಾನ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "peacefulness",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿಯುತತೆ"
+            }
         },
         {
             "sanskrit": "अपैशुनम्",
-            "transliteration": "apaiśunam",
-            "meaning": "absence of crookedness"
+            "transliteration": {
+                "hi": "अपैशुनम्",
+                "en": "apaiśunam",
+                "be": "অপৈশুনম্",
+                "ka": "ಅಪೈಶುನಮ್"
+            },
+            "meaning": {
+                "hi": "कुटिलता का अभाव",
+                "en": "absence of crookedness",
+                "be": "কুটিলতার অনুপস্থিতি",
+                "ka": "ವಕ್ರತೆಯ ಅನುಪಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "दया",
-            "transliteration": "dayā",
-            "meaning": "compassion"
+            "transliteration": {
+                "hi": "दया",
+                "en": "dayā",
+                "be": "দযা",
+                "ka": "ದಯಾ"
+            },
+            "meaning": {
+                "hi": "करुणा",
+                "en": "compassion",
+                "be": "সহানুভূতি",
+                "ka": "ಸಹಾನುಭೂತಿ"
+            }
         },
         {
             "sanskrit": "भूतेषु",
-            "transliteration": "bhūteṣu",
-            "meaning": "in beings"
+            "transliteration": {
+                "hi": "भूतेषु",
+                "en": "bhūteṣu",
+                "be": "ভূতেষু",
+                "ka": "ಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "प्राणियों में",
+                "en": "in beings",
+                "be": "প্রাণীদের মধ্যে",
+                "ka": "ಜೀವಿಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अलोलुप्त्वम्",
-            "transliteration": "aloluptvam",
-            "meaning": "noncovetousness"
+            "transliteration": {
+                "hi": "अलोलुप्त्वम्",
+                "en": "aloluptvam",
+                "be": "অলোলুপ্ত্বম্",
+                "ka": "ಅಲೋಲುಪ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "गैर लोभ",
+                "en": "noncovetousness",
+                "be": "অলোভ",
+                "ka": "ಅನಪೇಕ್ಷಿತತೆ"
+            }
         },
         {
             "sanskrit": "मार्दवम्",
-            "transliteration": "mārdavam",
-            "meaning": "gentleness"
+            "transliteration": {
+                "hi": "मार्दवम्",
+                "en": "mārdavam",
+                "be": "মার্দবম্",
+                "ka": "ಮಾರ್ದವಮ್"
+            },
+            "meaning": {
+                "hi": "नम्रता",
+                "en": "gentleness",
+                "be": "ভদ্রতা",
+                "ka": "ಸೌಮ್ಯತೆ"
+            }
         },
         {
             "sanskrit": "ह्रीः",
-            "transliteration": "hrīḥ",
-            "meaning": "modesty"
+            "transliteration": {
+                "hi": "ह्रीः",
+                "en": "hrīḥ",
+                "be": "হ্রীঃ",
+                "ka": "ಹ್ರೀಃ"
+            },
+            "meaning": {
+                "hi": "शील",
+                "en": "modesty",
+                "be": "বিনয়",
+                "ka": "ನಮ್ರತೆ"
+            }
         },
         {
             "sanskrit": "अचापलम्",
-            "transliteration": "acāpalam",
-            "meaning": "absence of fickleness."
+            "transliteration": {
+                "hi": "अचापलम्",
+                "en": "acāpalam",
+                "be": "অচাপলম্",
+                "ka": "ಅಚಾಪಲಮ್"
+            },
+            "meaning": {
+                "hi": "चंचलता का अभाव.",
+                "en": "absence of fickleness.",
+                "be": "চঞ্চলতার অনুপস্থিতি।",
+                "ka": "ಚಂಚಲತೆಯ ಅನುಪಸ್ಥಿತಿ."
+            }
         }
     ],
     "tej": {

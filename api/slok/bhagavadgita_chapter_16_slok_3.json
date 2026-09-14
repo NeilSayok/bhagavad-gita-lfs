@@ -14,8 +14,18 @@
         "en": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
         "ka": "ತೇಜಃ ಕ್ಷಮಾ ಧೃತಿಃ ಶೌಚಮದ್ರೋಹೋ ನಾತಿಮಾನಿತಾ |\nಭವನ್ತಿ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತಸ್ಯ ಭಾರತ ||೧೬-೩||"
     },
-    "transliteration": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
-    "life_application": "Embody vigor, forgiveness, fortitude, purity, absence of hatred, and freedom from excessive pride as divine traits.",
+    "transliteration": {
+        "hi": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||",
+        "en": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
+        "be": "তেজঃ ক্ষমা ধৃতিঃ শৌচমদ্রোহো নাতিমানিতা |\nভবন্তি সম্পদং দৈবীমভিজাতস্য ভারত ||১৬-৩||",
+        "ka": "ತೇಜಃ ಕ್ಷಮಾ ಧೃತಿಃ ಶೌಚಮದ್ರೋಹೋ ನಾತಿಮಾನಿತಾ |\nಭವನ್ತಿ ಸಮ್ಪದಂ ದೈವೀಮಭಿಜಾತಸ್ಯ ಭಾರತ ||೧೬-೩||"
+    },
+    "life_application": {
+        "hi": "शक्ति, क्षमा, धैर्य, पवित्रता, घृणा का अभाव और अत्यधिक अभिमान से मुक्ति को दैवीय गुणों के रूप में अपनाएं।",
+        "en": "Embody vigor, forgiveness, fortitude, purity, absence of hatred, and freedom from excessive pride as divine traits.",
+        "be": "শক্তি, ক্ষমা, দৃঢ়তা, বিশুদ্ধতা, ঘৃণার অনুপস্থিতি এবং অতিরিক্ত অহংকার থেকে মুক্তিকে ঐশ্বরিক বৈশিষ্ট্য হিসাবে মূর্ত করুন।",
+        "ka": "ಚೈತನ್ಯ, ಕ್ಷಮೆ, ಸ್ಥೈರ್ಯ, ಪರಿಶುದ್ಧತೆ, ದ್ವೇಷದ ಅನುಪಸ್ಥಿತಿ ಮತ್ತು ಅತಿಯಾದ ಹೆಮ್ಮೆಯಿಂದ ಮುಕ್ತಿ ದೈವಿಕ ಲಕ್ಷಣಗಳಾಗಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "तेजः",
-            "transliteration": "tejaḥ",
-            "meaning": "vigour"
+            "transliteration": {
+                "hi": "तेजः",
+                "en": "tejaḥ",
+                "be": "তেজঃ",
+                "ka": "ತೇಜಃ"
+            },
+            "meaning": {
+                "hi": "जोश",
+                "en": "vigour",
+                "be": "শক্তি",
+                "ka": "ಚೈತನ್ಯ"
+            }
         },
         {
             "sanskrit": "क्षमा",
-            "transliteration": "kṣamā",
-            "meaning": "forgiveness"
+            "transliteration": {
+                "hi": "क्षमा",
+                "en": "kṣamā",
+                "be": "ক্ষমা",
+                "ka": "ಕ್ಷಮಾ"
+            },
+            "meaning": {
+                "hi": "क्षमा",
+                "en": "forgiveness",
+                "be": "ক্ষমা",
+                "ka": "ಕ್ಷಮೆ"
+            }
         },
         {
             "sanskrit": "धृतिः",
-            "transliteration": "dhṛtiḥ",
-            "meaning": "fortitude"
+            "transliteration": {
+                "hi": "धृतिः",
+                "en": "dhṛtiḥ",
+                "be": "ধৃতিঃ",
+                "ka": "ಧೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "धैर्य",
+                "en": "fortitude",
+                "be": "দৃঢ়তা",
+                "ka": "ಸ್ಥೈರ್ಯ"
+            }
         },
         {
             "sanskrit": "शौचम्",
-            "transliteration": "śaucam",
-            "meaning": "purity"
+            "transliteration": {
+                "hi": "शौचम्",
+                "en": "śaucam",
+                "be": "শৌচম্",
+                "ka": "ಶೌಚಮ್"
+            },
+            "meaning": {
+                "hi": "पवित्रता",
+                "en": "purity",
+                "be": "বিশুদ্ধতা",
+                "ka": "ಶುದ್ಧತೆ"
+            }
         },
         {
             "sanskrit": "अद्रोहः",
-            "transliteration": "adrohaḥ",
-            "meaning": "absence of hatred"
+            "transliteration": {
+                "hi": "अद्रोहः",
+                "en": "adrohaḥ",
+                "be": "অদ্রোহঃ",
+                "ka": "ಅದ್ರೋಹಃ"
+            },
+            "meaning": {
+                "hi": "घृणा का अभाव",
+                "en": "absence of hatred",
+                "be": "ঘৃণা অনুপস্থিতি",
+                "ka": "ದ್ವೇಷದ ಅನುಪಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "नातिमानिता",
-            "transliteration": "nātimānitā",
-            "meaning": "absence of overpride"
+            "transliteration": {
+                "hi": "नातिमानिता",
+                "en": "nātimānitā",
+                "be": "নাতিমানিতা",
+                "ka": "ನಾತಿಮಾನಿತಾ"
+            },
+            "meaning": {
+                "hi": "अति अभिमान का अभाव",
+                "en": "absence of overpride",
+                "be": "অতিরিক্ত অহংকার অনুপস্থিতি",
+                "ka": "ಅತಿಯಾದ ಹೆಮ್ಮೆಯ ಅನುಪಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "भवन्ति",
-            "transliteration": "bhavanti",
-            "meaning": "belong"
+            "transliteration": {
+                "hi": "भवन्ति",
+                "en": "bhavanti",
+                "be": "ভবন্তি",
+                "ka": "ಭವನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "संबंधित",
+                "en": "belong",
+                "be": "অন্তর্গত",
+                "ka": "ಸೇರಿದೆ"
+            }
         },
         {
             "sanskrit": "सम्पदम्",
-            "transliteration": "sampadam",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "सम्पदम्",
+                "en": "sampadam",
+                "be": "সম্পদম্",
+                "ka": "ಸಮ್ಪದಮ್"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "दैवीम्",
-            "transliteration": "daivīm",
-            "meaning": "divine"
+            "transliteration": {
+                "hi": "दैवीम्",
+                "en": "daivīm",
+                "be": "দৈবীম্",
+                "ka": "ದೈವೀಮ್"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "अभिजातस्य",
-            "transliteration": "abhijātasya",
-            "meaning": "to the one born"
+            "transliteration": {
+                "hi": "अभिजातस्य",
+                "en": "abhijātasya",
+                "be": "অভিজাতস্য",
+                "ka": "ಅಭಿಜಾತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "जन्म लेने वाले को",
+                "en": "to the one born",
+                "be": "যার জন্ম",
+                "ka": "ಹುಟ್ಟಿದವನಿಗೆ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O descendant of Bharata"
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत के वंशज!",
+                "en": "O descendant of Bharata",
+                "be": "হে ভরতের বংশধর",
+                "ka": "ಓ ಭರತನ ಸಂತತಿ"
+            }
         }
     ],
     "tej": {

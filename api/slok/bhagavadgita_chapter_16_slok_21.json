@@ -14,8 +14,18 @@
         "en": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
         "ka": "ತ್ರಿವಿಧಂ ನರಕಸ್ಯೇದಂ ದ್ವಾರಂ ನಾಶನಮಾತ್ಮನಃ |\nಕಾಮಃ ಕ್ರೋಧಸ್ತಥಾ ಲೋಭಸ್ತಸ್ಮಾದೇತತ್ತ್ರಯಂ ತ್ಯಜೇತ್ ||೧೬-೨೧||"
     },
-    "transliteration": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
-    "life_application": "Triple is the gate of hell, destructive of the self: lust, anger, and greed; therefore one should abandon these three.",
+    "transliteration": {
+        "hi": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||",
+        "en": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
+        "be": "ত্রিবিধং নরকস্যেদং দ্বারং নাশনমাত্মনঃ |\nকামঃ ক্রোধস্তথা লোভস্তস্মাদেতত্ত্রযং ত্যজেত্ ||১৬-২১||",
+        "ka": "ತ್ರಿವಿಧಂ ನರಕಸ್ಯೇದಂ ದ್ವಾರಂ ನಾಶನಮಾತ್ಮನಃ |\nಕಾಮಃ ಕ್ರೋಧಸ್ತಥಾ ಲೋಭಸ್ತಸ್ಮಾದೇತತ್ತ್ರಯಂ ತ್ಯಜೇತ್ ||೧೬-೨೧||"
+    },
+    "life_application": {
+        "hi": "त्रिगुण नरक का द्वार है, जो स्वयं का विनाशकारी है: काम, क्रोध और लोभ; इसलिए इन तीनों को त्याग देना चाहिए।",
+        "en": "Triple is the gate of hell, destructive of the self: lust, anger, and greed; therefore one should abandon these three.",
+        "be": "ত্রিপল নরকের দ্বার, নফসের ধ্বংসকারী: কাম, ক্রোধ এবং লোভ; তাই এই তিনটি পরিত্যাগ করা উচিত।",
+        "ka": "ಟ್ರಿಪಲ್ ನರಕದ ದ್ವಾರವಾಗಿದೆ, ಸ್ವಯಂ ವಿನಾಶಕಾರಿ: ಕಾಮ, ಕೋಪ ಮತ್ತು ದುರಾಶೆ; ಆದ್ದರಿಂದ ಈ ಮೂರನ್ನೂ ತ್ಯಜಿಸಬೇಕು."
+    },
     "themes": [
         "Mind",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "त्रिविधम्",
-            "transliteration": "trividham",
-            "meaning": "triple"
+            "transliteration": {
+                "hi": "त्रिविधम्",
+                "en": "trividham",
+                "be": "ত্রিবিধম্",
+                "ka": "ತ್ರಿವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "तिगुना",
+                "en": "triple",
+                "be": "তিনগুণ",
+                "ka": "ಟ್ರಿಪಲ್"
+            }
         },
         {
             "sanskrit": "नरकस्य",
-            "transliteration": "narakasya",
-            "meaning": "of hell"
+            "transliteration": {
+                "hi": "नरकस्य",
+                "en": "narakasya",
+                "be": "নরকস্য",
+                "ka": "ನರಕಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "नरक का",
+                "en": "of hell",
+                "be": "জাহান্নামের",
+                "ka": "ನರಕದ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "द्वारम्",
-            "transliteration": "dvāram",
-            "meaning": "gate"
+            "transliteration": {
+                "hi": "द्वारम्",
+                "en": "dvāram",
+                "be": "দ্বারম্",
+                "ka": "ದ್ವಾರಮ್"
+            },
+            "meaning": {
+                "hi": "द्वार",
+                "en": "gate",
+                "be": "গেট",
+                "ka": "ಗೇಟ್"
+            }
         },
         {
             "sanskrit": "नाशनम्",
-            "transliteration": "nāśanam",
-            "meaning": "destructive"
+            "transliteration": {
+                "hi": "नाशनम्",
+                "en": "nāśanam",
+                "be": "নাশনম্",
+                "ka": "ನಾಶನಮ್"
+            },
+            "meaning": {
+                "hi": "विनाशकारी",
+                "en": "destructive",
+                "be": "ধ্বংসাত্মক",
+                "ka": "ವಿನಾಶಕಾರಿ"
+            }
         },
         {
             "sanskrit": "आत्मनः",
-            "transliteration": "ātmanaḥ",
-            "meaning": "of the self"
+            "transliteration": {
+                "hi": "आत्मनः",
+                "en": "ātmanaḥ",
+                "be": "আত্মনঃ",
+                "ka": "ಆತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "स्वयं का",
+                "en": "of the self",
+                "be": "স্ব-এর",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "कामः",
-            "transliteration": "kāmaḥ",
-            "meaning": "lust"
+            "transliteration": {
+                "hi": "कामः",
+                "en": "kāmaḥ",
+                "be": "কামঃ",
+                "ka": "ಕಾಮಃ"
+            },
+            "meaning": {
+                "hi": "वासना",
+                "en": "lust",
+                "be": "লালসা",
+                "ka": "ಕಾಮ"
+            }
         },
         {
             "sanskrit": "क्रोधः",
-            "transliteration": "krodhaḥ",
-            "meaning": "anger"
+            "transliteration": {
+                "hi": "क्रोधः",
+                "en": "krodhaḥ",
+                "be": "ক্রোধঃ",
+                "ka": "ಕ್ರೋಧಃ"
+            },
+            "meaning": {
+                "hi": "क्रोध",
+                "en": "anger",
+                "be": "রাগ",
+                "ka": "ಕೋಪ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "लोभः",
-            "transliteration": "lobhaḥ",
-            "meaning": "greed"
+            "transliteration": {
+                "hi": "लोभः",
+                "en": "lobhaḥ",
+                "be": "লোভঃ",
+                "ka": "ಲೋಭಃ"
+            },
+            "meaning": {
+                "hi": "लालच",
+                "en": "greed",
+                "be": "লোভ",
+                "ka": "ದುರಾಸೆ"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "त्रयम्",
-            "transliteration": "trayam",
-            "meaning": "three"
+            "transliteration": {
+                "hi": "त्रयम्",
+                "en": "trayam",
+                "be": "ত্রযম্",
+                "ka": "ತ್ರಯಮ್"
+            },
+            "meaning": {
+                "hi": "तीन",
+                "en": "three",
+                "be": "তিন",
+                "ka": "ಮೂರು"
+            }
         },
         {
             "sanskrit": "त्यजेत्",
-            "transliteration": "tyajet",
-            "meaning": "should abandon."
+            "transliteration": {
+                "hi": "त्यजेत्",
+                "en": "tyajet",
+                "be": "ত্যজেত্",
+                "ka": "ತ್ಯಜೇತ್"
+            },
+            "meaning": {
+                "hi": "त्याग देना चाहिए.",
+                "en": "should abandon.",
+                "be": "পরিত্যাগ করা উচিত।",
+                "ka": "ತ್ಯಜಿಸಬೇಕು."
+            }
         }
     ],
     "tej": {

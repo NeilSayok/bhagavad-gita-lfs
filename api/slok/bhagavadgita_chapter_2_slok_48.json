@@ -14,8 +14,18 @@
         "en": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya .\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2-48||",
         "ka": "ಯೋಗಸ್ಥಃ ಕುರು ಕರ್ಮಾಣಿ ಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾ ಧನಞ್ಜಯ |\nಸಿದ್ಧ್ಯಸಿದ್ಧ್ಯೋಃ ಸಮೋ ಭೂತ್ವಾ ಸಮತ್ವಂ ಯೋಗ ಉಚ್ಯತೇ ||೨-೪೮||"
     },
-    "transliteration": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya .\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2-48||",
-    "life_application": "Work with a steady mind today, treating both unexpected success and unexpected failure with equal grace.",
+    "transliteration": {
+        "hi": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||२-४८||",
+        "en": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya .\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2-48||",
+        "be": "যোগস্থঃ কুরু কর্মাণি সঙ্গং ত্যক্ত্বা ধনঞ্জয |\nসিদ্ধ্যসিদ্ধ্যোঃ সমো ভূত্বা সমত্বং যোগ উচ্যতে ||২-৪৮||",
+        "ka": "ಯೋಗಸ್ಥಃ ಕುರು ಕರ್ಮಾಣಿ ಸಙ್ಗಂ ತ್ಯಕ್ತ್ವಾ ಧನಞ್ಜಯ |\nಸಿದ್ಧ್ಯಸಿದ್ಧ್ಯೋಃ ಸಮೋ ಭೂತ್ವಾ ಸಮತ್ವಂ ಯೋಗ ಉಚ್ಯತೇ ||೨-೪೮||"
+    },
+    "life_application": {
+        "hi": "आज स्थिर मन से काम करें, अप्रत्याशित सफलता और अप्रत्याशित असफलता दोनों को समान भाव से लें।",
+        "en": "Work with a steady mind today, treating both unexpected success and unexpected failure with equal grace.",
+        "be": "অপ্রত্যাশিত সাফল্য এবং অপ্রত্যাশিত ব্যর্থতা উভয়কেই সমান করুণার সাথে চিকিত্সা করে আজ স্থির মন নিয়ে কাজ করুন।",
+        "ka": "ಇಂದು ಸ್ಥಿರ ಮನಸ್ಸಿನಿಂದ ಕೆಲಸ ಮಾಡಿ, ಅನಿರೀಕ್ಷಿತ ಯಶಸ್ಸು ಮತ್ತು ಅನಿರೀಕ್ಷಿತ ವೈಫಲ್ಯ ಎರಡನ್ನೂ ಸಮಾನ ಅನುಗ್ರಹದಿಂದ ಪರಿಗಣಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Karma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "योगस्थः",
-            "transliteration": "yogasthaḥ",
-            "meaning": "steadfast in Yoga"
+            "transliteration": {
+                "hi": "योगस्थः",
+                "en": "yogasthaḥ",
+                "be": "যোগস্থঃ",
+                "ka": "ಯೋಗಸ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "योग में दृढ़",
+                "en": "steadfast in Yoga",
+                "be": "যোগব্যায়ামে অবিচল",
+                "ka": "ಯೋಗದಲ್ಲಿ ಅಚಲ"
+            }
         },
         {
             "sanskrit": "कुरु",
-            "transliteration": "kuru",
-            "meaning": "perform"
+            "transliteration": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            },
+            "meaning": {
+                "hi": "अभिनय करना",
+                "en": "perform",
+                "be": "সঞ্চালন",
+                "ka": "ನಿರ್ವಹಿಸುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "actions"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "actions",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮಗಳು"
+            }
         },
         {
             "sanskrit": "सङ्गम्",
-            "transliteration": "saṅgam",
-            "meaning": "attachment"
+            "transliteration": {
+                "hi": "सङ्गम्",
+                "en": "saṅgam",
+                "be": "সঙ্গম্",
+                "ka": "ಸಙ್ಗಮ್"
+            },
+            "meaning": {
+                "hi": "लगाव",
+                "en": "attachment",
+                "be": "সংযুক্তি",
+                "ka": "ಬಾಂಧವ್ಯ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "धनञ्जय",
-            "transliteration": "dhanañjaya",
-            "meaning": "O Dhananjaya"
+            "transliteration": {
+                "hi": "धनञ्जय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয",
+                "ka": "ಧನಞ್ಜಯ"
+            },
+            "meaning": {
+                "hi": "हे धनंजय!",
+                "en": "O Dhananjaya",
+                "be": "হে ধনঞ্জয়",
+                "ka": "ಓ ಧನಂಜಯ"
+            }
         },
         {
             "sanskrit": "सिद्ध्यसिद्ध्योः",
-            "transliteration": "siddhyasiddhyoḥ",
-            "meaning": "in success and failure"
+            "transliteration": {
+                "hi": "सिद्ध्यसिद्ध्योः",
+                "en": "siddhyasiddhyoḥ",
+                "be": "সিদ্ধ্যসিদ্ধ্যোঃ",
+                "ka": "ಸಿದ್ಧ್ಯಸಿದ್ಧ್ಯೋಃ"
+            },
+            "meaning": {
+                "hi": "सफलता और असफलता में",
+                "en": "in success and failure",
+                "be": "সাফল্য এবং ব্যর্থতায়",
+                "ka": "ಯಶಸ್ಸು ಮತ್ತು ವೈಫಲ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "समः",
-            "transliteration": "samaḥ",
-            "meaning": "the smae"
+            "transliteration": {
+                "hi": "समः",
+                "en": "samaḥ",
+                "be": "সমঃ",
+                "ka": "ಸಮಃ"
+            },
+            "meaning": {
+                "hi": "smae",
+                "en": "the smae",
+                "be": "smae",
+                "ka": "ಸ್ಮೇ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "having become"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बन रहा है",
+                "en": "having become",
+                "be": "হয়ে গেছে",
+                "ka": "ಆಯಿತು"
+            }
         },
         {
             "sanskrit": "समत्वम्",
-            "transliteration": "samatvam",
-            "meaning": "evenness of mind"
+            "transliteration": {
+                "hi": "समत्वम्",
+                "en": "samatvam",
+                "be": "সমত্বম্",
+                "ka": "ಸಮತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "मन की समता",
+                "en": "evenness of mind",
+                "be": "মনের সমতা",
+                "ka": "ಮನಸ್ಸಿನ ಸಮಾನತೆ"
+            }
         },
         {
             "sanskrit": "योगः",
-            "transliteration": "yogaḥ",
-            "meaning": "Yoga"
+            "transliteration": {
+                "hi": "योगः",
+                "en": "yogaḥ",
+                "be": "যোগঃ",
+                "ka": "ಯೋಗಃ"
+            },
+            "meaning": {
+                "hi": "योग",
+                "en": "Yoga",
+                "be": "যোগব্যায়াম",
+                "ka": "ಯೋಗ"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

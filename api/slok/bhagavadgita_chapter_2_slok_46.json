@@ -14,8 +14,18 @@
         "en": "yāvānartha udapāne sarvataḥ samplutodake .\ntāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ ||2-46||",
         "ka": "ಯಾವಾನರ್ಥ ಉದಪಾನೇ ಸರ್ವತಃ ಸಮ್ಪ್ಲುತೋದಕೇ |\nತಾವಾನ್ಸರ್ವೇಷು ವೇದೇಷು ಬ್ರಾಹ್ಮಣಸ್ಯ ವಿಜಾನತಃ ||೨-೪೬||"
     },
-    "transliteration": "yāvānartha udapāne sarvataḥ samplutodake .\ntāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ ||2-46||",
-    "life_application": "Direct experience of truth fulfills all academic knowledge, so prioritize living your values over merely reading about them.",
+    "transliteration": {
+        "hi": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके |\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ||२-४६||",
+        "en": "yāvānartha udapāne sarvataḥ samplutodake .\ntāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ ||2-46||",
+        "be": "যাবানর্থ উদপানে সর্বতঃ সম্প্লুতোদকে |\nতাবান্সর্বেষু বেদেষু ব্রাহ্মণস্য বিজানতঃ ||২-৪৬||",
+        "ka": "ಯಾವಾನರ್ಥ ಉದಪಾನೇ ಸರ್ವತಃ ಸಮ್ಪ್ಲುತೋದಕೇ |\nತಾವಾನ್ಸರ್ವೇಷು ವೇದೇಷು ಬ್ರಾಹ್ಮಣಸ್ಯ ವಿಜಾನತಃ ||೨-೪೬||"
+    },
+    "life_application": {
+        "hi": "सत्य का प्रत्यक्ष अनुभव सभी शैक्षणिक ज्ञान को पूरा करता है, इसलिए केवल उनके बारे में पढ़ने के बजाय अपने मूल्यों को जीने को प्राथमिकता दें।",
+        "en": "Direct experience of truth fulfills all academic knowledge, so prioritize living your values over merely reading about them.",
+        "be": "সত্যের প্রত্যক্ষ অভিজ্ঞতা সমস্ত একাডেমিক জ্ঞানকে পরিপূর্ণ করে, তাই শুধুমাত্র সেগুলি সম্পর্কে পড়ার চেয়ে আপনার মূল্যবোধকে প্রাধান্য দিন।",
+        "ka": "ಸತ್ಯದ ನೇರ ಅನುಭವವು ಎಲ್ಲಾ ಶೈಕ್ಷಣಿಕ ಜ್ಞಾನವನ್ನು ಪೂರೈಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಅವುಗಳ ಬಗ್ಗೆ ಕೇವಲ ಓದುವುದಕ್ಕಿಂತ ನಿಮ್ಮ ಮೌಲ್ಯಗಳನ್ನು ಜೀವಿಸಲು ಆದ್ಯತೆ ನೀಡಿ."
+    },
     "themes": [
         "Self-Realization",
         "Knowledge"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "यावान्",
-            "transliteration": "yāvān",
-            "meaning": "as much"
+            "transliteration": {
+                "hi": "यावान्",
+                "en": "yāvān",
+                "be": "যাবান্",
+                "ka": "ಯಾವಾನ್"
+            },
+            "meaning": {
+                "hi": "उतना ही",
+                "en": "as much",
+                "be": "যতটা",
+                "ka": "ಅಷ್ಟು"
+            }
         },
         {
             "sanskrit": "अर्थः",
-            "transliteration": "arthaḥ",
-            "meaning": "use"
+            "transliteration": {
+                "hi": "अर्थः",
+                "en": "arthaḥ",
+                "be": "অর্থঃ",
+                "ka": "ಅರ್ಥಃ"
+            },
+            "meaning": {
+                "hi": "उपयोग करें",
+                "en": "use",
+                "be": "ব্যবহার",
+                "ka": "ಬಳಸಿ"
+            }
         },
         {
             "sanskrit": "उदपाने",
-            "transliteration": "udapāne",
-            "meaning": "in a reservoir"
+            "transliteration": {
+                "hi": "उदपाने",
+                "en": "udapāne",
+                "be": "উদপানে",
+                "ka": "ಉದಪಾನೇ"
+            },
+            "meaning": {
+                "hi": "एक जलाशय में",
+                "en": "in a reservoir",
+                "be": "একটি জলাশয়ে",
+                "ka": "ಒಂದು ಜಲಾಶಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "everywhere"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "everywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "संप्लुतोदके",
-            "transliteration": "saṃplutodake",
-            "meaning": "being flooded"
+            "transliteration": {
+                "hi": "संप्लुतोदके",
+                "en": "saṃplutodake",
+                "be": "সংপ্লুতোদকে",
+                "ka": "ಸಂಪ್ಲುತೋದಕೇ"
+            },
+            "meaning": {
+                "hi": "बाढ़ आ रही है",
+                "en": "being flooded",
+                "be": "প্লাবিত হচ্ছে",
+                "ka": "ಪ್ರವಾಹಕ್ಕೆ ಒಳಗಾಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "तावान्",
-            "transliteration": "tāvān",
-            "meaning": ",so much"
+            "transliteration": {
+                "hi": "तावान्",
+                "en": "tāvān",
+                "be": "তাবান্",
+                "ka": "ತಾವಾನ್"
+            },
+            "meaning": {
+                "hi": ",इतना",
+                "en": ",so much",
+                "be": ", অনেক",
+                "ka": ", ತುಂಬಾ"
+            }
         },
         {
             "sanskrit": "सर्वेषु",
-            "transliteration": "sarveṣu",
-            "meaning": "in all"
+            "transliteration": {
+                "hi": "सर्वेषु",
+                "en": "sarveṣu",
+                "be": "সর্বেষু",
+                "ka": "ಸರ್ವೇಷು"
+            },
+            "meaning": {
+                "hi": "सब में",
+                "en": "in all",
+                "be": "সব মিলিয়ে",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "वेदेषु",
-            "transliteration": "vedeṣu",
-            "meaning": "in the Vedas"
+            "transliteration": {
+                "hi": "वेदेषु",
+                "en": "vedeṣu",
+                "be": "বেদেষু",
+                "ka": "ವೇದೇಷು"
+            },
+            "meaning": {
+                "hi": "वेदों में",
+                "en": "in the Vedas",
+                "be": "বেদে",
+                "ka": "ವೇದಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "ब्राह्मणस्य",
-            "transliteration": "brāhmaṇasya",
-            "meaning": "of the Brahmana"
+            "transliteration": {
+                "hi": "ब्राह्मणस्य",
+                "en": "brāhmaṇasya",
+                "be": "ব্রাহ্মণস্য",
+                "ka": "ಬ್ರಾಹ್ಮಣಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण का",
+                "en": "of the Brahmana",
+                "be": "ব্রাহ্মণের",
+                "ka": "ಬ್ರಾಹ್ಮಣನ"
+            }
         },
         {
             "sanskrit": "विजानतः",
-            "transliteration": "vijānataḥ",
-            "meaning": "of the knowing."
+            "transliteration": {
+                "hi": "विजानतः",
+                "en": "vijānataḥ",
+                "be": "বিজানতঃ",
+                "ka": "ವಿಜಾನತಃ"
+            },
+            "meaning": {
+                "hi": "जानने का.",
+                "en": "of the knowing.",
+                "be": "জানার",
+                "ka": "ತಿಳಿವಳಿಕೆ."
+            }
         }
     ],
     "tej": {

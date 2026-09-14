@@ -14,8 +14,18 @@
         "en": "yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ .\nvedavādaratāḥ pārtha nānyadastīti vādinaḥ ||2-42||",
         "ka": "ಯಾಮಿಮಾಂ ಪುಷ್ಪಿತಾಂ ವಾಚಂ ಪ್ರವದನ್ತ್ಯವಿಪಶ್ಚಿತಃ |\nವೇದವಾದರತಾಃ ಪಾರ್ಥ ನಾನ್ಯದಸ್ತೀತಿ ವಾದಿನಃ ||೨-೪೨||"
     },
-    "transliteration": "yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ .\nvedavādaratāḥ pārtha nānyadastīti vādinaḥ ||2-42||",
-    "life_application": "Look beyond superficial promises of quick rewards or showy displays, seeking genuine substance in your pursuits.",
+    "transliteration": {
+        "hi": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः |\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः ||२-४२||",
+        "en": "yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ .\nvedavādaratāḥ pārtha nānyadastīti vādinaḥ ||2-42||",
+        "be": "যামিমাং পুষ্পিতাং বাচং প্রবদন্ত্যবিপশ্চিতঃ |\nবেদবাদরতাঃ পার্থ নান্যদস্তীতি বাদিনঃ ||২-৪২||",
+        "ka": "ಯಾಮಿಮಾಂ ಪುಷ್ಪಿತಾಂ ವಾಚಂ ಪ್ರವದನ್ತ್ಯವಿಪಶ್ಚಿತಃ |\nವೇದವಾದರತಾಃ ಪಾರ್ಥ ನಾನ್ಯದಸ್ತೀತಿ ವಾದಿನಃ ||೨-೪೨||"
+    },
+    "life_application": {
+        "hi": "त्वरित पुरस्कारों या दिखावटी प्रदर्शनों के सतही वादों से परे देखें, अपने कार्यों में वास्तविक सार की तलाश करें।",
+        "en": "Look beyond superficial promises of quick rewards or showy displays, seeking genuine substance in your pursuits.",
+        "be": "দ্রুত পুরষ্কার বা শোভাময় প্রদর্শনের উপরিভাগের প্রতিশ্রুতির বাইরে তাকান, আপনার সাধনায় প্রকৃত পদার্থের সন্ধান করুন।",
+        "ka": "ತ್ವರಿತ ಪ್ರತಿಫಲಗಳು ಅಥವಾ ಆಕರ್ಷಕ ಪ್ರದರ್ಶನಗಳ ಬಾಹ್ಯ ಭರವಸೆಗಳನ್ನು ಮೀರಿ ನೋಡಿ, ನಿಮ್ಮ ಅನ್ವೇಷಣೆಗಳಲ್ಲಿ ನಿಜವಾದ ವಸ್ತುವನ್ನು ಹುಡುಕುವುದು."
+    },
     "themes": [
         "Knowledge",
         "Mind"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "याम",
-            "transliteration": "yāma",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "याम",
+                "en": "yāma",
+                "be": "যাম",
+                "ka": "ಯಾಮ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "इमाम्",
-            "transliteration": "imām",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमाम्",
+                "en": "imām",
+                "be": "ইমাম্",
+                "ka": "ಇಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "पुष्पिताम्",
-            "transliteration": "puṣpitām",
-            "meaning": "flowery"
+            "transliteration": {
+                "hi": "पुष्पिताम्",
+                "en": "puṣpitām",
+                "be": "পুষ্পিতাম্",
+                "ka": "ಪುಷ್ಪಿತಾಮ್"
+            },
+            "meaning": {
+                "hi": "फूलदार",
+                "en": "flowery",
+                "be": "ফুলের",
+                "ka": "ಪುಷ್ಪಮಯ"
+            }
         },
         {
             "sanskrit": "वाचम्",
-            "transliteration": "vācam",
-            "meaning": "speech"
+            "transliteration": {
+                "hi": "वाचम्",
+                "en": "vācam",
+                "be": "বাচম্",
+                "ka": "ವಾಚಮ್"
+            },
+            "meaning": {
+                "hi": "भाषण",
+                "en": "speech",
+                "be": "বক্তৃতা",
+                "ka": "ಭಾಷಣ"
+            }
         },
         {
             "sanskrit": "प्रवदन्ति",
-            "transliteration": "pravadanti",
-            "meaning": "utter"
+            "transliteration": {
+                "hi": "प्रवदन्ति",
+                "en": "pravadanti",
+                "be": "প্রবদন্তি",
+                "ka": "ಪ್ರವದನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "एकदम",
+                "en": "utter",
+                "be": "সম্পূর্ণ",
+                "ka": "ಉಚ್ಚರಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "अविपश्चितः",
-            "transliteration": "avipaścitaḥ",
-            "meaning": "the unwise"
+            "transliteration": {
+                "hi": "अविपश्चितः",
+                "en": "avipaścitaḥ",
+                "be": "অবিপশ্চিতঃ",
+                "ka": "ಅವಿಪಶ್ಚಿತಃ"
+            },
+            "meaning": {
+                "hi": "नासमझ",
+                "en": "the unwise",
+                "be": "অজ্ঞান",
+                "ka": "ಅವಿವೇಕಿ"
+            }
         },
         {
             "sanskrit": "वेदवादरताः",
-            "transliteration": "vedavādaratāḥ",
-            "meaning": "takign pleasure in the"
+            "transliteration": {
+                "hi": "वेदवादरताः",
+                "en": "vedavādaratāḥ",
+                "be": "বেদবাদরতাঃ",
+                "ka": "ವೇದವಾದರತಾಃ"
+            },
+            "meaning": {
+                "hi": "में आनंद ले रहा हूँ",
+                "en": "takign pleasure in the",
+                "be": "মধ্যে আনন্দ takign",
+                "ka": "ನಲ್ಲಿ ಸಂತೋಷವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अन्यत्",
-            "transliteration": "anyat",
-            "meaning": "other"
+            "transliteration": {
+                "hi": "अन्यत्",
+                "en": "anyat",
+                "be": "অন্যত্",
+                "ka": "ಅನ್ಯತ್"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "other",
+                "be": "অন্যান্য",
+                "ka": "ಇತರೆ"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "वादिनः",
-            "transliteration": "vādinaḥ",
-            "meaning": "saying."
+            "transliteration": {
+                "hi": "वादिनः",
+                "en": "vādinaḥ",
+                "be": "বাদিনঃ",
+                "ka": "ವಾದಿನಃ"
+            },
+            "meaning": {
+                "hi": "कह रहा।",
+                "en": "saying.",
+                "be": "বলছে",
+                "ka": "ಹೇಳುತ್ತಿದ್ದಾರೆ."
+            }
         }
     ],
     "tej": {

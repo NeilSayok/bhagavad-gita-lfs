@@ -14,8 +14,18 @@
         "en": "karmaṇyevādhikāraste mā phaleṣu kadācana .\nmā karmaphalaheturbhūrmā te saṅgo.astvakarmaṇi ||2-47||",
         "ka": "ಕರ್ಮಣ್ಯೇವಾಧಿಕಾರಸ್ತೇ ಮಾ ಫಲೇಷು ಕದಾಚನ |\nಮಾ ಕರ್ಮಫಲಹೇತುರ್ಭೂರ್ಮಾ ತೇ ಸಙ್ಗೋಽಸ್ತ್ವಕರ್ಮಣಿ ||೨-೪೭||"
     },
-    "transliteration": "karmaṇyevādhikāraste mā phaleṣu kadācana .\nmā karmaphalaheturbhūrmā te saṅgo.astvakarmaṇi ||2-47||",
-    "life_application": "Focus entirely on performing your daily work with care, letting go of all anxiety over the final results.",
+    "transliteration": {
+        "hi": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||२-४७||",
+        "en": "karmaṇyevādhikāraste mā phaleṣu kadācana .\nmā karmaphalaheturbhūrmā te saṅgo.astvakarmaṇi ||2-47||",
+        "be": "কর্মণ্যেবাধিকারস্তে মা ফলেষু কদাচন |\nমা কর্মফলহেতুর্ভূর্মা তে সঙ্গোঽস্ত্বকর্মণি ||২-৪৭||",
+        "ka": "ಕರ್ಮಣ್ಯೇವಾಧಿಕಾರಸ್ತೇ ಮಾ ಫಲೇಷು ಕದಾಚನ |\nಮಾ ಕರ್ಮಫಲಹೇತುರ್ಭೂರ್ಮಾ ತೇ ಸಙ್ಗೋಽಸ್ತ್ವಕರ್ಮಣಿ ||೨-೪೭||"
+    },
+    "life_application": {
+        "hi": "अंतिम परिणामों की सारी चिंता छोड़ कर अपना दैनिक कार्य सावधानी से करने पर पूरा ध्यान केंद्रित करें।",
+        "en": "Focus entirely on performing your daily work with care, letting go of all anxiety over the final results.",
+        "be": "চূড়ান্ত ফলাফল নিয়ে সমস্ত উদ্বেগকে ছেড়ে, যত্ন সহকারে আপনার দৈনন্দিন কাজ সম্পাদনের উপর সম্পূর্ণ মনোযোগ দিন।",
+        "ka": "ನಿಮ್ಮ ದೈನಂದಿನ ಕೆಲಸವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿರ್ವಹಿಸುವುದರ ಮೇಲೆ ಸಂಪೂರ್ಣವಾಗಿ ಗಮನಹರಿಸಿ, ಅಂತಿಮ ಫಲಿತಾಂಶಗಳ ಮೇಲಿನ ಎಲ್ಲಾ ಆತಂಕವನ್ನು ಬಿಟ್ಟುಬಿಡಿ."
+    },
     "themes": [
         "Karma",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "कर्मणि",
-            "transliteration": "karmaṇi",
-            "meaning": "in work"
+            "transliteration": {
+                "hi": "कर्मणि",
+                "en": "karmaṇi",
+                "be": "কর্মণি",
+                "ka": "ಕರ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "काम में",
+                "en": "in work",
+                "be": "কাজে",
+                "ka": "ಕೆಲಸದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "अधिकारः",
-            "transliteration": "adhikāraḥ",
-            "meaning": "right"
+            "transliteration": {
+                "hi": "अधिकारः",
+                "en": "adhikāraḥ",
+                "be": "অধিকারঃ",
+                "ka": "ಅಧಿಕಾರಃ"
+            },
+            "meaning": {
+                "hi": "ठीक है",
+                "en": "right",
+                "be": "অধিকার",
+                "ka": "ಬಲ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "फलेषु",
-            "transliteration": "phaleṣu",
-            "meaning": "in the fruits"
+            "transliteration": {
+                "hi": "फलेषु",
+                "en": "phaleṣu",
+                "be": "ফলেষু",
+                "ka": "ಫಲೇಷು"
+            },
+            "meaning": {
+                "hi": "फलों में",
+                "en": "in the fruits",
+                "be": "ফলের মধ্যে",
+                "ka": "ಹಣ್ಣುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कदाचन",
-            "transliteration": "kadācana",
-            "meaning": "at any time"
+            "transliteration": {
+                "hi": "कदाचन",
+                "en": "kadācana",
+                "be": "কদাচন",
+                "ka": "ಕದಾಚನ"
+            },
+            "meaning": {
+                "hi": "किसी भी समय",
+                "en": "at any time",
+                "be": "যে কোন সময়ে",
+                "ka": "ಯಾವುದೇ ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्मफलहेतुः भूः",
-            "transliteration": "karmaphalahetuḥ bhūḥ",
-            "meaning": "let not the fruits"
+            "transliteration": {
+                "hi": "कर्मफलहेतुः भूः",
+                "en": "karmaphalahetuḥ bhūḥ",
+                "be": "কর্মফলহেতুঃ ভূঃ",
+                "ka": "ಕರ್ಮಫಲಹೇತುಃ ಭೂಃ"
+            },
+            "meaning": {
+                "hi": "फल मत दो",
+                "en": "let not the fruits",
+                "be": "ফল না দিন",
+                "ka": "ಹಣ್ಣುಗಳನ್ನು ಬಿಡಬೇಡಿ"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "सङ्गः",
-            "transliteration": "saṅgaḥ",
-            "meaning": "attachment"
+            "transliteration": {
+                "hi": "सङ्गः",
+                "en": "saṅgaḥ",
+                "be": "সঙ্গঃ",
+                "ka": "ಸಙ್ಗಃ"
+            },
+            "meaning": {
+                "hi": "लगाव",
+                "en": "attachment",
+                "be": "সংযুক্তি",
+                "ka": "ಬಾಂಧವ್ಯ"
+            }
         },
         {
             "sanskrit": "अस्तु",
-            "transliteration": "astu",
-            "meaning": "let be"
+            "transliteration": {
+                "hi": "अस्तु",
+                "en": "astu",
+                "be": "অস্তু",
+                "ka": "ಅಸ್ತು"
+            },
+            "meaning": {
+                "hi": "रहने दो",
+                "en": "let be",
+                "be": "হতে দিন",
+                "ka": "ಇರಲಿ"
+            }
         },
         {
             "sanskrit": "अकर्मणि",
-            "transliteration": "akarmaṇi",
-            "meaning": "in inaction."
+            "transliteration": {
+                "hi": "अकर्मणि",
+                "en": "akarmaṇi",
+                "be": "অকর্মণি",
+                "ka": "ಅಕರ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "निष्क्रियता में.",
+                "en": "in inaction.",
+                "be": "নিষ্ক্রিয় অবস্থায়",
+                "ka": "ನಿಷ್ಕ್ರಿಯತೆಯಲ್ಲಿ."
+            }
         }
     ],
     "tej": {

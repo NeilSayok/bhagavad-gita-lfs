@@ -14,8 +14,18 @@
         "en": "nehābhikramanāśo.asti pratyavāyo na vidyate .\nsvalpamapyasya dharmasya trāyate mahato bhayāt ||2-40||",
         "ka": "ನೇಹಾಭಿಕ್ರಮನಾಶೋಽಸ್ತಿ ಪ್ರತ್ಯವಾಯೋ ನ ವಿದ್ಯತೇ |\nಸ್ವಲ್ಪಮಪ್ಯಸ್ಯ ಧರ್ಮಸ್ಯ ತ್ರಾಯತೇ ಮಹತೋ ಭಯಾತ್ ||೨-೪೦||"
     },
-    "transliteration": "nehābhikramanāśo.asti pratyavāyo na vidyate .\nsvalpamapyasya dharmasya trāyate mahato bhayāt ||2-40||",
-    "life_application": "Take even tiny steps in your spiritual practice today, trusting that every positive effort permanently strengthens you.",
+    "transliteration": {
+        "hi": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||२-४०||",
+        "en": "nehābhikramanāśo.asti pratyavāyo na vidyate .\nsvalpamapyasya dharmasya trāyate mahato bhayāt ||2-40||",
+        "be": "নেহাভিক্রমনাশোঽস্তি প্রত্যবাযো ন বিদ্যতে |\nস্বল্পমপ্যস্য ধর্মস্য ত্রাযতে মহতো ভযাত্ ||২-৪০||",
+        "ka": "ನೇಹಾಭಿಕ್ರಮನಾಶೋಽಸ್ತಿ ಪ್ರತ್ಯವಾಯೋ ನ ವಿದ್ಯತೇ |\nಸ್ವಲ್ಪಮಪ್ಯಸ್ಯ ಧರ್ಮಸ್ಯ ತ್ರಾಯತೇ ಮಹತೋ ಭಯಾತ್ ||೨-೪೦||"
+    },
+    "life_application": {
+        "hi": "आज अपनी आध्यात्मिक साधना में छोटे-छोटे कदम भी उठाएं, यह विश्वास करते हुए कि हर सकारात्मक प्रयास आपको स्थायी रूप से मजबूत करेगा।",
+        "en": "Take even tiny steps in your spiritual practice today, trusting that every positive effort permanently strengthens you.",
+        "be": "আজ আপনার আধ্যাত্মিক অনুশীলনে এমনকি ছোট পদক্ষেপ নিন, বিশ্বাস করে যে প্রতিটি ইতিবাচক প্রচেষ্টা আপনাকে স্থায়ীভাবে শক্তিশালী করে।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದಲ್ಲಿ ಸಣ್ಣ ಹೆಜ್ಜೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ, ಪ್ರತಿಯೊಂದು ಸಕಾರಾತ್ಮಕ ಪ್ರಯತ್ನವು ನಿಮ್ಮನ್ನು ಶಾಶ್ವತವಾಗಿ ಬಲಪಡಿಸುತ್ತದೆ ಎಂದು ನಂಬಿರಿ."
+    },
     "themes": [
         "Karma",
         "Fear"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "in this"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "इसमें",
+                "en": "in this",
+                "be": "এই",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अभिक्रमनाशः",
-            "transliteration": "abhikramanāśaḥ",
-            "meaning": "loss of effort"
+            "transliteration": {
+                "hi": "अभिक्रमनाशः",
+                "en": "abhikramanāśaḥ",
+                "be": "অভিক্রমনাশঃ",
+                "ka": "ಅಭಿಕ್ರಮನಾಶಃ"
+            },
+            "meaning": {
+                "hi": "प्रयास की हानि",
+                "en": "loss of effort",
+                "be": "প্রচেষ্টার ক্ষতি",
+                "ka": "ಪ್ರಯತ್ನದ ನಷ್ಟ"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "प्रत्यवायः",
-            "transliteration": "pratyavāyaḥ",
-            "meaning": "production of contrary results"
+            "transliteration": {
+                "hi": "प्रत्यवायः",
+                "en": "pratyavāyaḥ",
+                "be": "প্রত্যবাযঃ",
+                "ka": "ಪ್ರತ್ಯವಾಯಃ"
+            },
+            "meaning": {
+                "hi": "विपरीत परिणाम उत्पन्न करना",
+                "en": "production of contrary results",
+                "be": "বিপরীত ফলাফল উত্পাদন",
+                "ka": "ವ್ಯತಿರಿಕ್ತ ಫಲಿತಾಂಶಗಳ ಉತ್ಪಾದನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "स्वल्पम्",
-            "transliteration": "svalpam",
-            "meaning": "very little"
+            "transliteration": {
+                "hi": "स्वल्पम्",
+                "en": "svalpam",
+                "be": "স্বল্পম্",
+                "ka": "ಸ್ವಲ್ಪಮ್"
+            },
+            "meaning": {
+                "hi": "बहुत कम",
+                "en": "very little",
+                "be": "খুব সামান্য",
+                "ka": "ಬಹಳ ಕಡಿಮೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "of this"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इस का",
+                "en": "of this",
+                "be": "এই",
+                "ka": "ಇದರ"
+            }
         },
         {
             "sanskrit": "धर्मस्य",
-            "transliteration": "dharmasya",
-            "meaning": "duty"
+            "transliteration": {
+                "hi": "धर्मस्य",
+                "en": "dharmasya",
+                "be": "ধর্মস্য",
+                "ka": "ಧರ್ಮಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "कर्तव्य",
+                "en": "duty",
+                "be": "কর্তব্য",
+                "ka": "ಕರ್ತವ್ಯ"
+            }
         },
         {
             "sanskrit": "त्रायते",
-            "transliteration": "trāyate",
-            "meaning": "protects"
+            "transliteration": {
+                "hi": "त्रायते",
+                "en": "trāyate",
+                "be": "ত্রাযতে",
+                "ka": "ತ್ರಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "रक्षा करता है",
+                "en": "protects",
+                "be": "রক্ষা করে",
+                "ka": "ರಕ್ಷಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "महतः",
-            "transliteration": "mahataḥ",
-            "meaning": "great"
+            "transliteration": {
+                "hi": "महतः",
+                "en": "mahataḥ",
+                "be": "মহতঃ",
+                "ka": "ಮಹತಃ"
+            },
+            "meaning": {
+                "hi": "बढ़िया",
+                "en": "great",
+                "be": "মহান",
+                "ka": "ಶ್ರೇಷ್ಠ"
+            }
         },
         {
             "sanskrit": "भयात्",
-            "transliteration": "bhayāt",
-            "meaning": "fear."
+            "transliteration": {
+                "hi": "भयात्",
+                "en": "bhayāt",
+                "be": "ভযাত্",
+                "ka": "ಭಯಾತ್"
+            },
+            "meaning": {
+                "hi": "डर।",
+                "en": "fear.",
+                "be": "ভয়",
+                "ka": "ಭಯ."
+            }
         }
     ],
     "tej": {

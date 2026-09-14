@@ -14,8 +14,18 @@
         "en": "dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya .\nbuddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ ||2-49||",
         "ka": "ದೂರೇಣ ಹ್ಯವರಂ ಕರ್ಮ ಬುದ್ಧಿಯೋಗಾದ್ಧನಞ್ಜಯ |\nಬುದ್ಧೌ ಶರಣಮನ್ವಿಚ್ಛ ಕೃಪಣಾಃ ಫಲಹೇತವಃ ||೨-೪೯||"
     },
-    "transliteration": "dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya .\nbuddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ ||2-49||",
-    "life_application": "Shift your motivation from seeking personal rewards to offering your best effort for the common good.",
+    "transliteration": {
+        "hi": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||२-४९||",
+        "en": "dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya .\nbuddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ ||2-49||",
+        "be": "দূরেণ হ্যবরং কর্ম বুদ্ধিযোগাদ্ধনঞ্জয |\nবুদ্ধৌ শরণমন্বিচ্ছ কৃপণাঃ ফলহেতবঃ ||২-৪৯||",
+        "ka": "ದೂರೇಣ ಹ್ಯವರಂ ಕರ್ಮ ಬುದ್ಧಿಯೋಗಾದ್ಧನಞ್ಜಯ |\nಬುದ್ಧೌ ಶರಣಮನ್ವಿಚ್ಛ ಕೃಪಣಾಃ ಫಲಹೇತವಃ ||೨-೪೯||"
+    },
+    "life_application": {
+        "hi": "अपनी प्रेरणा को व्यक्तिगत पुरस्कारों की तलाश से हटाकर आम भलाई के लिए अपना सर्वश्रेष्ठ प्रयास करने पर केंद्रित करें।",
+        "en": "Shift your motivation from seeking personal rewards to offering your best effort for the common good.",
+        "be": "ব্যক্তিগত পুরষ্কার চাওয়া থেকে আপনার অনুপ্রেরণাকে সাধারণ ভালোর জন্য আপনার সর্বোত্তম প্রচেষ্টার প্রস্তাবে স্থানান্তর করুন।",
+        "ka": "ನಿಮ್ಮ ಪ್ರೇರಣೆಯನ್ನು ವೈಯಕ್ತಿಕ ಪ್ರತಿಫಲಗಳನ್ನು ಹುಡುಕುವುದರಿಂದ ಸಾಮಾನ್ಯ ಒಳಿತಿಗಾಗಿ ನಿಮ್ಮ ಅತ್ಯುತ್ತಮ ಪ್ರಯತ್ನವನ್ನು ನೀಡುವಂತೆ ಬದಲಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Purpose"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "दूरेण",
-            "transliteration": "dūreṇa",
-            "meaning": "by far"
+            "transliteration": {
+                "hi": "दूरेण",
+                "en": "dūreṇa",
+                "be": "দূরেণ",
+                "ka": "ದೂರೇಣ"
+            },
+            "meaning": {
+                "hi": "अब तक",
+                "en": "by far",
+                "be": "দূর থেকে",
+                "ka": "ದೂರದಿಂದ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अवरम्",
-            "transliteration": "avaram",
-            "meaning": "inferior"
+            "transliteration": {
+                "hi": "अवरम्",
+                "en": "avaram",
+                "be": "অবরম্",
+                "ka": "ಅವರಮ್"
+            },
+            "meaning": {
+                "hi": "हीन",
+                "en": "inferior",
+                "be": "নিকৃষ্ট",
+                "ka": "ಕೀಳುಮಟ್ಟದ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action or work"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "क्रिया या कार्य",
+                "en": "action or work",
+                "be": "কর্ম বা কাজ",
+                "ka": "ಕ್ರಿಯೆ ಅಥವಾ ಕೆಲಸ"
+            }
         },
         {
             "sanskrit": "बुद्धियोगात्",
-            "transliteration": "buddhiyogāt",
-            "meaning": "than the Yoga of"
+            "transliteration": {
+                "hi": "बुद्धियोगात्",
+                "en": "buddhiyogāt",
+                "be": "বুদ্ধিযোগাত্",
+                "ka": "ಬುದ್ಧಿಯೋಗಾತ್"
+            },
+            "meaning": {
+                "hi": "के योग से",
+                "en": "than the Yoga of",
+                "be": "যোগের চেয়ে",
+                "ka": "ಯೋಗಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "धनञ्जय",
-            "transliteration": "dhanañjaya",
-            "meaning": "O Dhananjaya"
+            "transliteration": {
+                "hi": "धनञ्जय",
+                "en": "dhanañjaya",
+                "be": "ধনঞ্জয",
+                "ka": "ಧನಞ್ಜಯ"
+            },
+            "meaning": {
+                "hi": "हे धनंजय!",
+                "en": "O Dhananjaya",
+                "be": "হে ধনঞ্জয়",
+                "ka": "ಓ ಧನಂಜಯ"
+            }
         },
         {
             "sanskrit": "बुद्धौ",
-            "transliteration": "buddhau",
-            "meaning": "in wisdom"
+            "transliteration": {
+                "hi": "बुद्धौ",
+                "en": "buddhau",
+                "be": "বুদ্ধৌ",
+                "ka": "ಬುದ್ಧೌ"
+            },
+            "meaning": {
+                "hi": "बुद्धि में",
+                "en": "in wisdom",
+                "be": "জ্ঞানে",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "शरणम्",
-            "transliteration": "śaraṇam",
-            "meaning": "refuge"
+            "transliteration": {
+                "hi": "शरणम्",
+                "en": "śaraṇam",
+                "be": "শরণম্",
+                "ka": "ಶರಣಮ್"
+            },
+            "meaning": {
+                "hi": "शरण",
+                "en": "refuge",
+                "be": "আশ্রয়",
+                "ka": "ಆಶ್ರಯ"
+            }
         },
         {
             "sanskrit": "अन्विच्छ",
-            "transliteration": "anviccha",
-            "meaning": "seek"
+            "transliteration": {
+                "hi": "अन्विच्छ",
+                "en": "anviccha",
+                "be": "অন্বিচ্ছ",
+                "ka": "ಅನ್ವಿಚ್ಛ"
+            },
+            "meaning": {
+                "hi": "तलाश करो",
+                "en": "seek",
+                "be": "চাওয়া",
+                "ka": "ಹುಡುಕುವುದು"
+            }
         },
         {
             "sanskrit": "कृपणाः",
-            "transliteration": "kṛpaṇāḥ",
-            "meaning": "wretched"
+            "transliteration": {
+                "hi": "कृपणाः",
+                "en": "kṛpaṇāḥ",
+                "be": "কৃপণাঃ",
+                "ka": "ಕೃಪಣಾಃ"
+            },
+            "meaning": {
+                "hi": "मनहूस",
+                "en": "wretched",
+                "be": "খারাপ",
+                "ka": "ದರಿದ್ರ"
+            }
         },
         {
             "sanskrit": "फलहेतवः",
-            "transliteration": "phalahetavaḥ",
-            "meaning": "seekers after fruits."
+            "transliteration": {
+                "hi": "फलहेतवः",
+                "en": "phalahetavaḥ",
+                "be": "ফলহেতবঃ",
+                "ka": "ಫಲಹೇತವಃ"
+            },
+            "meaning": {
+                "hi": "फल की तलाश करने वाले.",
+                "en": "seekers after fruits.",
+                "be": "ফলের সন্ধানকারী",
+                "ka": "ಹಣ್ಣುಗಳನ್ನು ಹುಡುಕುವವರು."
+            }
         }
     ],
     "tej": {

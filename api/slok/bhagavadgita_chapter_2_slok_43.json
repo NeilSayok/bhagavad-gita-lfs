@@ -14,8 +14,18 @@
         "en": "kāmātmānaḥ svargaparā janmakarmaphalapradām .\nkriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati ||2-43||",
         "ka": "ಕಾಮಾತ್ಮಾನಃ ಸ್ವರ್ಗಪರಾ ಜನ್ಮಕರ್ಮಫಲಪ್ರದಾಮ್ |\nಕ್ರಿಯಾವಿಶೇಷಬಹುಲಾಂ ಭೋಗೈಶ್ವರ್ಯಗತಿಂ ಪ್ರತಿ ||೨-೪೩||"
     },
-    "transliteration": "kāmātmānaḥ svargaparā janmakarmaphalapradām .\nkriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati ||2-43||",
-    "life_application": "Examine whether your actions are motivated by endless desire for material comfort or by genuine selflessness.",
+    "transliteration": {
+        "hi": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् |\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||२-४३||",
+        "en": "kāmātmānaḥ svargaparā janmakarmaphalapradām .\nkriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati ||2-43||",
+        "be": "কামাত্মানঃ স্বর্গপরা জন্মকর্মফলপ্রদাম্ |\nক্রিযাবিশেষবহুলাং ভোগৈশ্বর্যগতিং প্রতি ||২-৪৩||",
+        "ka": "ಕಾಮಾತ್ಮಾನಃ ಸ್ವರ್ಗಪರಾ ಜನ್ಮಕರ್ಮಫಲಪ್ರದಾಮ್ |\nಕ್ರಿಯಾವಿಶೇಷಬಹುಲಾಂ ಭೋಗೈಶ್ವರ್ಯಗತಿಂ ಪ್ರತಿ ||೨-೪೩||"
+    },
+    "life_application": {
+        "hi": "जांच करें कि क्या आपके कार्य भौतिक आराम की अंतहीन इच्छा से प्रेरित हैं या वास्तविक निस्वार्थता से।",
+        "en": "Examine whether your actions are motivated by endless desire for material comfort or by genuine selflessness.",
+        "be": "আপনার ক্রিয়াগুলি বস্তুগত স্বাচ্ছন্দ্যের জন্য অফুরন্ত আকাঙ্ক্ষা বা প্রকৃত নিঃস্বার্থতার দ্বারা অনুপ্রাণিত কিনা তা পরীক্ষা করুন।",
+        "ka": "ನಿಮ್ಮ ಕ್ರಿಯೆಗಳು ಭೌತಿಕ ಸೌಕರ್ಯಕ್ಕಾಗಿ ಅಂತ್ಯವಿಲ್ಲದ ಬಯಕೆಯಿಂದ ಅಥವಾ ನಿಜವಾದ ನಿಸ್ವಾರ್ಥತೆಯಿಂದ ಪ್ರೇರೇಪಿಸಲ್ಪಟ್ಟಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ."
+    },
     "themes": [
         "Attachment",
         "Karma"
@@ -23,28 +33,78 @@
     "word_meanings": [
         {
             "sanskrit": "कामात्मानः",
-            "transliteration": "kāmātmānaḥ",
-            "meaning": "full of desires"
+            "transliteration": {
+                "hi": "कामात्मानः",
+                "en": "kāmātmānaḥ",
+                "be": "কামাত্মানঃ",
+                "ka": "ಕಾಮಾತ್ಮಾನಃ"
+            },
+            "meaning": {
+                "hi": "इच्छाओं से भरा हुआ",
+                "en": "full of desires",
+                "be": "ইচ্ছা পূর্ণ",
+                "ka": "ಆಸೆಗಳಿಂದ ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "स्वर्गपराः",
-            "transliteration": "svargaparāḥ",
-            "meaning": "with heaven as their"
+            "transliteration": {
+                "hi": "स्वर्गपराः",
+                "en": "svargaparāḥ",
+                "be": "স্বর্গপরাঃ",
+                "ka": "ಸ್ವರ್ಗಪರಾಃ"
+            },
+            "meaning": {
+                "hi": "उनके जैसे स्वर्ग के साथ",
+                "en": "with heaven as their",
+                "be": "তাদের হিসাবে স্বর্গ সঙ্গে",
+                "ka": "ತಮ್ಮ ಸ್ವರ್ಗದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "जन्मकर्मफलप्रदाम्",
-            "transliteration": "janmakarmaphalapradām",
-            "meaning": "leading to births as"
+            "transliteration": {
+                "hi": "जन्मकर्मफलप्रदाम्",
+                "en": "janmakarmaphalapradām",
+                "be": "জন্মকর্মফলপ্রদাম্",
+                "ka": "ಜನ್ಮಕರ್ಮಫಲಪ್ರದಾಮ್"
+            },
+            "meaning": {
+                "hi": "के रूप में जन्म की ओर ले जाता है",
+                "en": "leading to births as",
+                "be": "হিসাবে জন্ম নেতৃস্থানীয়",
+                "ka": "ಎಂದು ಜನ್ಮಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "क्रियाविशेषबहुलाम्",
-            "transliteration": "kriyāviśeṣabahulām",
-            "meaning": "exuberant with various specifi"
+            "transliteration": {
+                "hi": "क्रियाविशेषबहुलाम्",
+                "en": "kriyāviśeṣabahulām",
+                "be": "ক্রিযাবিশেষবহুলাম্",
+                "ka": "ಕ್ರಿಯಾವಿಶೇಷಬಹುಲಾಮ್"
+            },
+            "meaning": {
+                "hi": "विभिन्न विशिष्टताओं से भरपूर",
+                "en": "exuberant with various specifi",
+                "be": "বিভিন্ন নির্দিষ্ট সঙ্গে exuberant",
+                "ka": "ವಿವಿಧ ನಿರ್ದಿಷ್ಟತೆಗಳೊಂದಿಗೆ ಉತ್ಕೃಷ್ಟ"
+            }
         },
         {
             "sanskrit": "भोगैश्वर्यगतिम् प्रति",
-            "transliteration": "bhogaiśvaryagatim prati",
-            "meaning": "for the attainment of"
+            "transliteration": {
+                "hi": "भोगैश्वर्यगतिम् प्रति",
+                "en": "bhogaiśvaryagatim prati",
+                "be": "ভোগৈশ্বর্যগতিম্ প্রতি",
+                "ka": "ಭೋಗೈಶ್ವರ್ಯಗತಿಮ್ ಪ್ರತಿ"
+            },
+            "meaning": {
+                "hi": "की प्राप्ति के लिए",
+                "en": "for the attainment of",
+                "be": "অর্জনের জন্য",
+                "ka": "ಸಾಧನೆಗಾಗಿ"
+            }
         }
     ],
     "tej": {

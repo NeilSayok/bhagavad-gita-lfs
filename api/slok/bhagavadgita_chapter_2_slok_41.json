@@ -14,8 +14,18 @@
         "en": "vyavasāyātmikā buddhirekeha kurunandana .\nbahuśākhā hyanantāśca buddhayo.avyavasāyinām ||2-41||",
         "ka": "ವ್ಯವಸಾಯಾತ್ಮಿಕಾ ಬುದ್ಧಿರೇಕೇಹ ಕುರುನನ್ದನ |\nಬಹುಶಾಖಾ ಹ್ಯನನ್ತಾಶ್ಚ ಬುದ್ಧಯೋಽವ್ಯವಸಾಯಿನಾಮ್ ||೨-೪೧||"
     },
-    "transliteration": "vyavasāyātmikā buddhirekeha kurunandana .\nbahuśākhā hyanantāśca buddhayo.avyavasāyinām ||2-41||",
-    "life_application": "Single-point your focus on one meaningful priority today rather than scattering your energy across endless distractions.",
+    "transliteration": {
+        "hi": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन |\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||२-४१||",
+        "en": "vyavasāyātmikā buddhirekeha kurunandana .\nbahuśākhā hyanantāśca buddhayo.avyavasāyinām ||2-41||",
+        "be": "ব্যবসাযাত্মিকা বুদ্ধিরেকেহ কুরুনন্দন |\nবহুশাখা হ্যনন্তাশ্চ বুদ্ধযোঽব্যবসাযিনাম্ ||২-৪১||",
+        "ka": "ವ್ಯವಸಾಯಾತ್ಮಿಕಾ ಬುದ್ಧಿರೇಕೇಹ ಕುರುನನ್ದನ |\nಬಹುಶಾಖಾ ಹ್ಯನನ್ತಾಶ್ಚ ಬುದ್ಧಯೋಽವ್ಯವಸಾಯಿನಾಮ್ ||೨-೪೧||"
+    },
+    "life_application": {
+        "hi": "आज अपनी ऊर्जा को अंतहीन विकर्षणों में बिखेरने के बजाय एक सार्थक प्राथमिकता पर अपना ध्यान केंद्रित करें।",
+        "en": "Single-point your focus on one meaningful priority today rather than scattering your energy across endless distractions.",
+        "be": "অন্তহীন বিক্ষিপ্ততার মধ্যে আপনার শক্তি ছড়িয়ে দেওয়ার পরিবর্তে আজ একটি অর্থপূর্ণ অগ্রাধিকারের দিকে আপনার ফোকাসকে একক পয়েন্ট করুন।",
+        "ka": "ಅಂತ್ಯವಿಲ್ಲದ ಗೊಂದಲಗಳಲ್ಲಿ ನಿಮ್ಮ ಶಕ್ತಿಯನ್ನು ಚದುರಿಸುವ ಬದಲು ಇಂದು ಒಂದು ಅರ್ಥಪೂರ್ಣ ಆದ್ಯತೆಯ ಮೇಲೆ ನಿಮ್ಮ ಗಮನವನ್ನು ಏಕ-ಪಾಯಿಂಟ್ ಮಾಡಿ."
+    },
     "themes": [
         "Mind",
         "Purpose"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "व्यवसायात्मिका",
-            "transliteration": "vyavasāyātmikā",
-            "meaning": "onepointed"
+            "transliteration": {
+                "hi": "व्यवसायात्मिका",
+                "en": "vyavasāyātmikā",
+                "be": "ব্যবসাযাত্মিকা",
+                "ka": "ವ್ಯವಸಾಯಾತ್ಮಿಕಾ"
+            },
+            "meaning": {
+                "hi": "एक-नुकीला",
+                "en": "onepointed",
+                "be": "onepointed",
+                "ka": "ಒಂದು ಸೂಚಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "determination"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "दृढ़ संकल्प",
+                "en": "determination",
+                "be": "সংকল্প",
+                "ka": "ನಿರ್ಣಯ"
+            }
         },
         {
             "sanskrit": "एका",
-            "transliteration": "ekā",
-            "meaning": "single"
+            "transliteration": {
+                "hi": "एका",
+                "en": "ekā",
+                "be": "একা",
+                "ka": "ಏಕಾ"
+            },
+            "meaning": {
+                "hi": "एकल",
+                "en": "single",
+                "be": "একক",
+                "ka": "ಏಕ"
+            }
         },
         {
             "sanskrit": "इह",
-            "transliteration": "iha",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "इह",
+                "en": "iha",
+                "be": "ইহ",
+                "ka": "ಇಹ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कुरुनन्दन",
-            "transliteration": "kurunandana",
-            "meaning": "O joy of the"
+            "transliteration": {
+                "hi": "कुरुनन्दन",
+                "en": "kurunandana",
+                "be": "কুরুনন্দন",
+                "ka": "ಕುರುನನ್ದನ"
+            },
+            "meaning": {
+                "hi": "हे आनंद",
+                "en": "O joy of the",
+                "be": "হে আনন্দ",
+                "ka": "ಓ ಸಂತೋಷ"
+            }
         },
         {
             "sanskrit": "बहुशाखाः",
-            "transliteration": "bahuśākhāḥ",
-            "meaning": "manybranched"
+            "transliteration": {
+                "hi": "बहुशाखाः",
+                "en": "bahuśākhāḥ",
+                "be": "বহুশাখাঃ",
+                "ka": "ಬಹುಶಾಖಾಃ"
+            },
+            "meaning": {
+                "hi": "अनेक शाखाएँ",
+                "en": "manybranched",
+                "be": "অনেক শাখাযুক্ত",
+                "ka": "ಅನೇಕ ಕವಲೊಡೆದ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अनन्ताः",
-            "transliteration": "anantāḥ",
-            "meaning": "endless"
+            "transliteration": {
+                "hi": "अनन्ताः",
+                "en": "anantāḥ",
+                "be": "অনন্তাঃ",
+                "ka": "ಅನನ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "अंतहीन",
+                "en": "endless",
+                "be": "অন্তহীন",
+                "ka": "ಅಂತ್ಯವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "बुद्धयः",
-            "transliteration": "buddhayaḥ",
-            "meaning": "thoughts"
+            "transliteration": {
+                "hi": "बुद्धयः",
+                "en": "buddhayaḥ",
+                "be": "বুদ্ধযঃ",
+                "ka": "ಬುದ್ಧಯಃ"
+            },
+            "meaning": {
+                "hi": "विचार",
+                "en": "thoughts",
+                "be": "চিন্তা",
+                "ka": "ಆಲೋಚನೆಗಳು"
+            }
         },
         {
             "sanskrit": "अव्यवसायिनाम्",
-            "transliteration": "avyavasāyinām",
-            "meaning": "of the irresoulte."
+            "transliteration": {
+                "hi": "अव्यवसायिनाम्",
+                "en": "avyavasāyinām",
+                "be": "অব্যবসাযিনাম্",
+                "ka": "ಅವ್ಯವಸಾಯಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "अप्रतिहत का.",
+                "en": "of the irresoulte.",
+                "be": "অপ্রতিরোধ্য",
+                "ka": "ನಿಷ್ಪ್ರಯೋಜಕವಾದ."
+            }
         }
     ],
     "tej": {

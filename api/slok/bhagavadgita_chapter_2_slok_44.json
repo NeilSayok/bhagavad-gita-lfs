@@ -14,8 +14,18 @@
         "en": "bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām .\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate ||2-44||",
         "ka": "ಭೋಗೈಶ್ವರ್ಯಪ್ರಸಕ್ತಾನಾಂ ತಯಾಪಹೃತಚೇತಸಾಮ್ |\nವ್ಯವಸಾಯಾತ್ಮಿಕಾ ಬುದ್ಧಿಃ ಸಮಾಧೌ ನ ವಿಧೀಯತೇ ||೨-೪೪||"
     },
-    "transliteration": "bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām .\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate ||2-44||",
-    "life_application": "Guard your mind against deceptive promises that lure you away from deep self-discipline and quiet focus.",
+    "transliteration": {
+        "hi": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् |\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते ||२-४४||",
+        "en": "bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām .\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate ||2-44||",
+        "be": "ভোগৈশ্বর্যপ্রসক্তানাং তযাপহৃতচেতসাম্ |\nব্যবসাযাত্মিকা বুদ্ধিঃ সমাধৌ ন বিধীযতে ||২-৪৪||",
+        "ka": "ಭೋಗೈಶ್ವರ್ಯಪ್ರಸಕ್ತಾನಾಂ ತಯಾಪಹೃತಚೇತಸಾಮ್ |\nವ್ಯವಸಾಯಾತ್ಮಿಕಾ ಬುದ್ಧಿಃ ಸಮಾಧೌ ನ ವಿಧೀಯತೇ ||೨-೪೪||"
+    },
+    "life_application": {
+        "hi": "अपने दिमाग को ऐसे भ्रामक वादों से बचाएं जो आपको गहरे आत्म-अनुशासन और शांत फोकस से दूर ले जाते हैं।",
+        "en": "Guard your mind against deceptive promises that lure you away from deep self-discipline and quiet focus.",
+        "be": "আপনার মনকে প্রতারণামূলক প্রতিশ্রুতি থেকে রক্ষা করুন যা আপনাকে গভীর আত্ম-শৃঙ্খলা এবং শান্ত ফোকাস থেকে দূরে সরিয়ে দেয়।",
+        "ka": "ಆಳವಾದ ಸ್ವಯಂ-ಶಿಸ್ತು ಮತ್ತು ಶಾಂತ ಗಮನದಿಂದ ನಿಮ್ಮನ್ನು ದೂರವಿಡುವ ಮೋಸಗೊಳಿಸುವ ಭರವಸೆಗಳ ವಿರುದ್ಧ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Attachment",
         "Mind"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "भोगैश्वर्यप्रसक्तानाम्",
-            "transliteration": "bhogaiśvaryaprasaktānām",
-            "meaning": "of the people deeply"
+            "transliteration": {
+                "hi": "भोगैश्वर्यप्रसक्तानाम्",
+                "en": "bhogaiśvaryaprasaktānām",
+                "be": "ভোগৈশ্বর্যপ্রসক্তানাম্",
+                "ka": "ಭೋಗೈಶ್ವರ್ಯಪ್ರಸಕ್ತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "लोगों की गहराई से",
+                "en": "of the people deeply",
+                "be": "মানুষের গভীরভাবে",
+                "ka": "ಆಳವಾಗಿ ಜನರ"
+            }
         },
         {
             "sanskrit": "तया",
-            "transliteration": "tayā",
-            "meaning": "by that"
+            "transliteration": {
+                "hi": "तया",
+                "en": "tayā",
+                "be": "তযা",
+                "ka": "ತಯಾ"
+            },
+            "meaning": {
+                "hi": "उससे",
+                "en": "by that",
+                "be": "যে দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "अपहृतचेतसाम्",
-            "transliteration": "apahṛtacetasām",
-            "meaning": "whose minds are drawn"
+            "transliteration": {
+                "hi": "अपहृतचेतसाम्",
+                "en": "apahṛtacetasām",
+                "be": "অপহৃতচেতসাম্",
+                "ka": "ಅಪಹೃತಚೇತಸಾಮ್"
+            },
+            "meaning": {
+                "hi": "जिनका मन खींचा जाता है",
+                "en": "whose minds are drawn",
+                "be": "যাদের মন আঁকা হয়",
+                "ka": "ಅವರ ಮನಸ್ಸನ್ನು ಎಳೆಯಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "व्यवसायात्मिका",
-            "transliteration": "vyavasāyātmikā",
-            "meaning": "determinate"
+            "transliteration": {
+                "hi": "व्यवसायात्मिका",
+                "en": "vyavasāyātmikā",
+                "be": "ব্যবসাযাত্মিকা",
+                "ka": "ವ್ಯವಸಾಯಾತ್ಮಿಕಾ"
+            },
+            "meaning": {
+                "hi": "निश्चय",
+                "en": "determinate",
+                "be": "নির্ধারণ করা",
+                "ka": "ನಿರ್ಧರಿಸಿ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "reason"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "कारण",
+                "en": "reason",
+                "be": "কারণ",
+                "ka": "ಕಾರಣ"
+            }
         },
         {
             "sanskrit": "समाधौ",
-            "transliteration": "samādhau",
-            "meaning": "in Samadhi"
+            "transliteration": {
+                "hi": "समाधौ",
+                "en": "samādhau",
+                "be": "সমাধৌ",
+                "ka": "ಸಮಾಧೌ"
+            },
+            "meaning": {
+                "hi": "समाधि में",
+                "en": "in Samadhi",
+                "be": "সমাধিতে",
+                "ka": "ಸಮಾಧಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विधीयते",
-            "transliteration": "vidhīyate",
-            "meaning": "is fixed."
+            "transliteration": {
+                "hi": "विधीयते",
+                "en": "vidhīyate",
+                "be": "বিধীযতে",
+                "ka": "ವಿಧೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "तय है.",
+                "en": "is fixed.",
+                "be": "স্থির করা হয়।",
+                "ka": "ನಿಗದಿಪಡಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

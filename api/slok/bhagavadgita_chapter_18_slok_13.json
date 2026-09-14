@@ -14,8 +14,18 @@
         "en": "pañcaitāni mahābāho kāraṇāni nibodha me .\nsāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām ||18-13||",
         "ka": "ಪಞ್ಚೈತಾನಿ ಮಹಾಬಾಹೋ ಕಾರಣಾನಿ ನಿಬೋಧ ಮೇ |\nಸಾಙ್ಖ್ಯೇ ಕೃತಾನ್ತೇ ಪ್ರೋಕ್ತಾನಿ ಸಿದ್ಧಯೇ ಸರ್ವಕರ್ಮಣಾಮ್ ||೧೮-೧೩||"
     },
-    "transliteration": "pañcaitāni mahābāho kāraṇāni nibodha me .\nsāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām ||18-13||",
-    "life_application": "Learn five causes declared in Sankhya philosophy for accomplishment of all actions.",
+    "transliteration": {
+        "hi": "पञ्चैतानि महाबाहो कारणानि निबोध मे |\nसाङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||१८-१३||",
+        "en": "pañcaitāni mahābāho kāraṇāni nibodha me .\nsāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām ||18-13||",
+        "be": "পঞ্চৈতানি মহাবাহো কারণানি নিবোধ মে |\nসাঙ্খ্যে কৃতান্তে প্রোক্তানি সিদ্ধযে সর্বকর্মণাম্ ||১৮-১৩||",
+        "ka": "ಪಞ್ಚೈತಾನಿ ಮಹಾಬಾಹೋ ಕಾರಣಾನಿ ನಿಬೋಧ ಮೇ |\nಸಾಙ್ಖ್ಯೇ ಕೃತಾನ್ತೇ ಪ್ರೋಕ್ತಾನಿ ಸಿದ್ಧಯೇ ಸರ್ವಕರ್ಮಣಾಮ್ ||೧೮-೧೩||"
+    },
+    "life_application": {
+        "hi": "जानिए सांख्य दर्शन में सभी कार्यों की सिद्धि के लिए बताए गए पांच कारण।",
+        "en": "Learn five causes declared in Sankhya philosophy for accomplishment of all actions.",
+        "be": "সমস্ত কর্ম সিদ্ধির জন্য সাংখ্য দর্শনে ঘোষিত পাঁচটি কারণ জানুন।",
+        "ka": "ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳ ಸಾಧನೆಗಾಗಿ ಸಾಂಖ್ಯ ತತ್ತ್ವಶಾಸ್ತ್ರದಲ್ಲಿ ಘೋಷಿಸಲಾದ ಐದು ಕಾರಣಗಳನ್ನು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Karma"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "पञ्च",
-            "transliteration": "pañca",
-            "meaning": "five"
+            "transliteration": {
+                "hi": "पञ्च",
+                "en": "pañca",
+                "be": "পঞ্চ",
+                "ka": "ಪಞ್ಚ"
+            },
+            "meaning": {
+                "hi": "पांच",
+                "en": "five",
+                "be": "পাঁচ",
+                "ka": "ಐದು"
+            }
         },
         {
             "sanskrit": "एतानि",
-            "transliteration": "etāni",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतानि",
+                "en": "etāni",
+                "be": "এতানি",
+                "ka": "ಏತಾನಿ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "O mightyarmed"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "हे पराक्रमी!",
+                "en": "O mightyarmed",
+                "be": "হে পরাক্রমশালী",
+                "ka": "ಓ ಬಲಶಾಲಿ"
+            }
         },
         {
             "sanskrit": "कारणानि",
-            "transliteration": "kāraṇāni",
-            "meaning": "causes"
+            "transliteration": {
+                "hi": "कारणानि",
+                "en": "kāraṇāni",
+                "be": "কারণানি",
+                "ka": "ಕಾರಣಾನಿ"
+            },
+            "meaning": {
+                "hi": "कारण",
+                "en": "causes",
+                "be": "কারণ",
+                "ka": "ಕಾರಣವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "निबोध",
-            "transliteration": "nibodha",
-            "meaning": "learn"
+            "transliteration": {
+                "hi": "निबोध",
+                "en": "nibodha",
+                "be": "নিবোধ",
+                "ka": "ನಿಬೋಧ"
+            },
+            "meaning": {
+                "hi": "सीखो",
+                "en": "learn",
+                "be": "শিখতে",
+                "ka": "ಕಲಿಯಿರಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "from Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मुझसे",
+                "en": "from Me",
+                "be": "আমার কাছ থেকে",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "सांख्ये",
-            "transliteration": "sāṃkhye",
-            "meaning": "in the Sankhya"
+            "transliteration": {
+                "hi": "सांख्ये",
+                "en": "sāṃkhye",
+                "be": "সাংখ্যে",
+                "ka": "ಸಾಂಖ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "सांख्य में",
+                "en": "in the Sankhya",
+                "be": "সাংখ্যে",
+                "ka": "ಸಾಂಖ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कृतान्ते",
-            "transliteration": "kṛtānte",
-            "meaning": "which is the end"
+            "transliteration": {
+                "hi": "कृतान्ते",
+                "en": "kṛtānte",
+                "be": "কৃতান্তে",
+                "ka": "ಕೃತಾನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "जो अंत है",
+                "en": "which is the end",
+                "be": "যা শেষ",
+                "ka": "ಇದು ಅಂತ್ಯವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "प्रोक्तानि",
-            "transliteration": "proktāni",
-            "meaning": "as declared"
+            "transliteration": {
+                "hi": "प्रोक्तानि",
+                "en": "proktāni",
+                "be": "প্রোক্তানি",
+                "ka": "ಪ್ರೋಕ್ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "जैसा कि घोषित किया गया है",
+                "en": "as declared",
+                "be": "ঘোষিত হিসাবে",
+                "ka": "ಘೋಷಿಸಿದಂತೆ"
+            }
         },
         {
             "sanskrit": "सिद्धये",
-            "transliteration": "siddhaye",
-            "meaning": "for the accomplishment"
+            "transliteration": {
+                "hi": "सिद्धये",
+                "en": "siddhaye",
+                "be": "সিদ্ধযে",
+                "ka": "ಸಿದ್ಧಯೇ"
+            },
+            "meaning": {
+                "hi": "सिद्धि के लिए",
+                "en": "for the accomplishment",
+                "be": "সিদ্ধির জন্য",
+                "ka": "ಸಾಧನೆಗಾಗಿ"
+            }
         },
         {
             "sanskrit": "सर्वकर्मणाम्",
-            "transliteration": "sarvakarmaṇām",
-            "meaning": "of all actions."
+            "transliteration": {
+                "hi": "सर्वकर्मणाम्",
+                "en": "sarvakarmaṇām",
+                "be": "সর্বকর্মণাম্",
+                "ka": "ಸರ್ವಕರ್ಮಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "सभी क्रियाओं का.",
+                "en": "of all actions.",
+                "be": "সমস্ত কর্মের।",
+                "ka": "ಎಲ್ಲಾ ಕ್ರಿಯೆಗಳ."
+            }
         }
     ],
     "tej": {

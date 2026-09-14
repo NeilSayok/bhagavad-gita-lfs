@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nsaṃnyāsasya mahābāho tattvamicchāmi veditum .\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana ||18-1||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸಂನ್ಯಾಸಸ್ಯ ಮಹಾಬಾಹೋ ತತ್ತ್ವಮಿಚ್ಛಾಮಿ ವೇದಿತುಮ್ |\nತ್ಯಾಗಸ್ಯ ಚ ಹೃಷೀಕೇಶ ಪೃಥಕ್ಕೇಶಿನಿಷೂದನ ||೧೮-೧||"
     },
-    "transliteration": "arjuna uvāca .\nsaṃnyāsasya mahābāho tattvamicchāmi veditum .\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana ||18-1||",
-    "life_application": "Arjuna asks: I desire to know truth about renunciation (sannyasa) and relinquishment (tyaga) separately.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nसंन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन ||१८-१||",
+        "en": "arjuna uvāca .\nsaṃnyāsasya mahābāho tattvamicchāmi veditum .\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana ||18-1||",
+        "be": "অর্জুন উবাচ |\nসংন্যাসস্য মহাবাহো তত্ত্বমিচ্ছামি বেদিতুম্ |\nত্যাগস্য চ হৃষীকেশ পৃথক্কেশিনিষূদন ||১৮-১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸಂನ್ಯಾಸಸ್ಯ ಮಹಾಬಾಹೋ ತತ್ತ್ವಮಿಚ್ಛಾಮಿ ವೇದಿತುಮ್ |\nತ್ಯಾಗಸ್ಯ ಚ ಹೃಷೀಕೇಶ ಪೃಥಕ್ಕೇಶಿನಿಷೂದನ ||೧೮-೧||"
+    },
+    "life_application": {
+        "hi": "अर्जुन पूछता है: मैं त्याग (संन्यास) और त्याग (त्याग) के बारे में अलग-अलग सत्य जानना चाहता हूं।",
+        "en": "Arjuna asks: I desire to know truth about renunciation (sannyasa) and relinquishment (tyaga) separately.",
+        "be": "অর্জুন জিজ্ঞাসা করেন: আমি পৃথকভাবে ত্যাগ (সন্ন্যাস) এবং ত্যাগ (ত্যাগ) সম্পর্কে সত্য জানতে চাই।",
+        "ka": "ಅರ್ಜುನ ಕೇಳುತ್ತಾನೆ: ನಾನು ಪರಿತ್ಯಾಗ (ಸನ್ಯಾಸ) ಮತ್ತು ತ್ಯಾಗದ (ತ್ಯಾಗ) ಬಗ್ಗೆ ಪ್ರತ್ಯೇಕವಾಗಿ ಸತ್ಯವನ್ನು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುತ್ತೇನೆ."
+    },
     "themes": [
         "Knowledge",
         "Duty"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "संन्यासस्य",
-            "transliteration": "saṃnyāsasya",
-            "meaning": "of renunciation"
+            "transliteration": {
+                "hi": "संन्यासस्य",
+                "en": "saṃnyāsasya",
+                "be": "সংন্যাসস্য",
+                "ka": "ಸಂನ್ಯಾಸಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "त्याग का",
+                "en": "of renunciation",
+                "be": "ত্যাগের",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "महाबाहो",
-            "transliteration": "mahābāho",
-            "meaning": "O mightyarmed"
+            "transliteration": {
+                "hi": "महाबाहो",
+                "en": "mahābāho",
+                "be": "মহাবাহো",
+                "ka": "ಮಹಾಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "हे पराक्रमी!",
+                "en": "O mightyarmed",
+                "be": "হে পরাক্রমশালী",
+                "ka": "ಓ ಬಲಶಾಲಿ"
+            }
         },
         {
             "sanskrit": "तत्त्वम्",
-            "transliteration": "tattvam",
-            "meaning": "the essence of truth"
+            "transliteration": {
+                "hi": "तत्त्वम्",
+                "en": "tattvam",
+                "be": "তত্ত্বম্",
+                "ka": "ತತ್ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सत्य का सार",
+                "en": "the essence of truth",
+                "be": "সত্যের সারমর্ম",
+                "ka": "ಸತ್ಯದ ಸಾರ"
+            }
         },
         {
             "sanskrit": "इच्छामि",
-            "transliteration": "icchāmi",
-            "meaning": "wish"
+            "transliteration": {
+                "hi": "इच्छामि",
+                "en": "icchāmi",
+                "be": "ইচ্ছামি",
+                "ka": "ಇಚ್ಛಾಮಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "wish",
+                "be": "ইচ্ছা",
+                "ka": "ಹಾರೈಕೆ"
+            }
         },
         {
             "sanskrit": "वेदितुम्",
-            "transliteration": "veditum",
-            "meaning": "to know"
+            "transliteration": {
+                "hi": "वेदितुम्",
+                "en": "veditum",
+                "be": "বেদিতুম্",
+                "ka": "ವೇದಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "जानना",
+                "en": "to know",
+                "be": "জানতে",
+                "ka": "ತಿಳಿಯಲು"
+            }
         },
         {
             "sanskrit": "त्यागस्य",
-            "transliteration": "tyāgasya",
-            "meaning": "of Tyaga or abandonment"
+            "transliteration": {
+                "hi": "त्यागस्य",
+                "en": "tyāgasya",
+                "be": "ত্যাগস্য",
+                "ka": "ತ್ಯಾಗಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "त्याग या परित्याग का",
+                "en": "of Tyaga or abandonment",
+                "be": "ত্যাগ বা পরিত্যাগ",
+                "ka": "ತ್ಯಾಗ ಅಥವಾ ತ್ಯಜಿಸುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "हृषीकेशः",
-            "transliteration": "hṛṣīkeśaḥ",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "हृषीकेशः",
+                "en": "hṛṣīkeśaḥ",
+                "be": "হৃষীকেশঃ",
+                "ka": "ಹೃಷೀಕೇಶಃ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "पृथक्",
-            "transliteration": "pṛthak",
-            "meaning": "severally"
+            "transliteration": {
+                "hi": "पृथक्",
+                "en": "pṛthak",
+                "be": "পৃথক্",
+                "ka": "ಪೃಥಕ್"
+            },
+            "meaning": {
+                "hi": "अलग-अलग",
+                "en": "severally",
+                "be": "বিভিন্নভাবে",
+                "ka": "ಹಲವಾರು"
+            }
         },
         {
             "sanskrit": "केशिनिषूदन्",
-            "transliteration": "keśiniṣūdan",
-            "meaning": "slayer of Kesi."
+            "transliteration": {
+                "hi": "केशिनिषूदन्",
+                "en": "keśiniṣūdan",
+                "be": "কেশিনিষূদন্",
+                "ka": "ಕೇಶಿನಿಷೂದನ್"
+            },
+            "meaning": {
+                "hi": "केशी का वध करने वाला.",
+                "en": "slayer of Kesi.",
+                "be": "কেশির হত্যাকারী।",
+                "ka": "ಕೇಸಿಯ ಸಂಹಾರಕ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate .\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ ||18-10||",
         "ka": "ನ ದ್ವೇಷ್ಟ್ಯಕುಶಲಂ ಕರ್ಮ ಕುಶಲೇ ನಾನುಷಜ್ಜತೇ |\nತ್ಯಾಗೀ ಸತ್ತ್ವಸಮಾವಿಷ್ಟೋ ಮೇಧಾವೀ ಛಿನ್ನಸಂಶಯಃ ||೧೮-೧೦||"
     },
-    "transliteration": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate .\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ ||18-10||",
-    "life_application": "The relinquisher in goodness, intelligent, doubts dispelled, hates not disagreeable work nor clings to agreeable.",
+    "transliteration": {
+        "hi": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते |\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||१८-१०||",
+        "en": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate .\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ ||18-10||",
+        "be": "ন দ্বেষ্ট্যকুশলং কর্ম কুশলে নানুষজ্জতে |\nত্যাগী সত্ত্বসমাবিষ্টো মেধাবী ছিন্নসংশযঃ ||১৮-১০||",
+        "ka": "ನ ದ್ವೇಷ್ಟ್ಯಕುಶಲಂ ಕರ್ಮ ಕುಶಲೇ ನಾನುಷಜ್ಜತೇ |\nತ್ಯಾಗೀ ಸತ್ತ್ವಸಮಾವಿಷ್ಟೋ ಮೇಧಾವೀ ಛಿನ್ನಸಂಶಯಃ ||೧೮-೧೦||"
+    },
+    "life_application": {
+        "hi": "अच्छाई को त्यागने वाला, बुद्धिमान, संदेह दूर हो जाने वाला, अप्रिय कार्य से घृणा नहीं करता और न ही अनुकूल कार्य में लगा रहता है।",
+        "en": "The relinquisher in goodness, intelligent, doubts dispelled, hates not disagreeable work nor clings to agreeable.",
+        "be": "সদাচারে ত্যাগকারী, বুদ্ধিমান, সন্দেহ দূরীভূত, অপ্রীতিকর কাজকে ঘৃণা করে না এবং সম্মতিযুক্ত কাজকে আঁকড়ে ধরে না।",
+        "ka": "ಒಳ್ಳೆಯತನವನ್ನು ತ್ಯಜಿಸುವವರು, ಬುದ್ಧಿವಂತರು, ಅನುಮಾನಗಳು ನಿವಾರಣೆಯಾಗುತ್ತವೆ, ಒಪ್ಪದ ಕೆಲಸವನ್ನು ದ್ವೇಷಿಸುವುದಿಲ್ಲ ಅಥವಾ ಒಪ್ಪಿಗೆಗೆ ಅಂಟಿಕೊಳ್ಳುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Equanimity",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "द्वेष्टि",
-            "transliteration": "dveṣṭi",
-            "meaning": "hates"
+            "transliteration": {
+                "hi": "द्वेष्टि",
+                "en": "dveṣṭi",
+                "be": "দ্বেষ্টি",
+                "ka": "ದ್ವೇಷ್ಟಿ"
+            },
+            "meaning": {
+                "hi": "नफरत करता है",
+                "en": "hates",
+                "be": "ঘৃণা করে",
+                "ka": "ದ್ವೇಷಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "अकुशलम्",
-            "transliteration": "akuśalam",
-            "meaning": "disagreeable"
+            "transliteration": {
+                "hi": "अकुशलम्",
+                "en": "akuśalam",
+                "be": "অকুশলম্",
+                "ka": "ಅಕುಶಲಮ್"
+            },
+            "meaning": {
+                "hi": "अप्रिय",
+                "en": "disagreeable",
+                "be": "অসম্মত",
+                "ka": "ಒಪ್ಪುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "कुशले",
-            "transliteration": "kuśale",
-            "meaning": "to an agreeable one"
+            "transliteration": {
+                "hi": "कुशले",
+                "en": "kuśale",
+                "be": "কুশলে",
+                "ka": "ಕುಶಲೇ"
+            },
+            "meaning": {
+                "hi": "एक सहमत व्यक्ति के लिए",
+                "en": "to an agreeable one",
+                "be": "একটি সম্মত এক",
+                "ka": "ಒಪ್ಪಬಹುದಾದ ಒಂದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अनुषज्जते",
-            "transliteration": "anuṣajjate",
-            "meaning": "is attached"
+            "transliteration": {
+                "hi": "अनुषज्जते",
+                "en": "anuṣajjate",
+                "be": "অনুষজ্জতে",
+                "ka": "ಅನುಷಜ್ಜತೇ"
+            },
+            "meaning": {
+                "hi": "संलग्न है",
+                "en": "is attached",
+                "be": "সংযুক্ত করা হয়",
+                "ka": "ಲಗತ್ತಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "त्यागी",
-            "transliteration": "tyāgī",
-            "meaning": "the abandoner"
+            "transliteration": {
+                "hi": "त्यागी",
+                "en": "tyāgī",
+                "be": "ত্যাগী",
+                "ka": "ತ್ಯಾಗೀ"
+            },
+            "meaning": {
+                "hi": "त्यागने वाला",
+                "en": "the abandoner",
+                "be": "পরিত্যাগকারী",
+                "ka": "ತ್ಯಜಿಸುವವನು"
+            }
         },
         {
             "sanskrit": "सत्त्वसमाविष्टः",
-            "transliteration": "sattvasamāviṣṭaḥ",
-            "meaning": "pervaded by purity"
+            "transliteration": {
+                "hi": "सत्त्वसमाविष्टः",
+                "en": "sattvasamāviṣṭaḥ",
+                "be": "সত্ত্বসমাবিষ্টঃ",
+                "ka": "ಸತ್ತ್ವಸಮಾವಿಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "पवित्रता से व्याप्त",
+                "en": "pervaded by purity",
+                "be": "বিশুদ্ধতা দ্বারা পরিব্যাপ্ত",
+                "ka": "ಶುದ್ಧತೆಯಿಂದ ವ್ಯಾಪಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "मेधावी",
-            "transliteration": "medhāvī",
-            "meaning": "intelligent"
+            "transliteration": {
+                "hi": "मेधावी",
+                "en": "medhāvī",
+                "be": "মেধাবী",
+                "ka": "ಮೇಧಾವೀ"
+            },
+            "meaning": {
+                "hi": "बुद्धिमान",
+                "en": "intelligent",
+                "be": "বুদ্ধিমান",
+                "ka": "ಬುದ್ಧಿವಂತ"
+            }
         },
         {
             "sanskrit": "छिन्नसंशयः",
-            "transliteration": "chinnasaṃśayaḥ",
-            "meaning": "with his doubts cut"
+            "transliteration": {
+                "hi": "छिन्नसंशयः",
+                "en": "chinnasaṃśayaḥ",
+                "be": "ছিন্নসংশযঃ",
+                "ka": "ಛಿನ್ನಸಂಶಯಃ"
+            },
+            "meaning": {
+                "hi": "उसके संदेह कटने के साथ",
+                "en": "with his doubts cut",
+                "be": "তার সন্দেহ কেটে গেছে",
+                "ka": "ಅವನ ಅನುಮಾನಗಳನ್ನು ಕಡಿತಗೊಳಿಸುವುದರೊಂದಿಗೆ"
+            }
         }
     ],
     "tej": {

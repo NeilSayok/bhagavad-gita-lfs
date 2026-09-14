@@ -14,8 +14,18 @@
         "en": "śarīravāṅmanobhiryatkarma prārabhate naraḥ .\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ ||18-15||",
         "ka": "ಶರೀರವಾಙ್ಮನೋಭಿರ್ಯತ್ಕರ್ಮ ಪ್ರಾರಭತೇ ನರಃ |\nನ್ಯಾಯ್ಯಂ ವಾ ವಿಪರೀತಂ ವಾ ಪಞ್ಚೈತೇ ತಸ್ಯ ಹೇತವಃ ||೧೮-೧೫||"
     },
-    "transliteration": "śarīravāṅmanobhiryatkarma prārabhate naraḥ .\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ ||18-15||",
-    "life_application": "Whatever action a man undertakes by body, speech, or mind, whether right or wrong, these five are its causes.",
+    "transliteration": {
+        "hi": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः |\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ||१८-१५||",
+        "en": "śarīravāṅmanobhiryatkarma prārabhate naraḥ .\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ ||18-15||",
+        "be": "শরীরবাঙ্মনোভির্যত্কর্ম প্রারভতে নরঃ |\nন্যায্যং বা বিপরীতং বা পঞ্চৈতে তস্য হেতবঃ ||১৮-১৫||",
+        "ka": "ಶರೀರವಾಙ್ಮನೋಭಿರ್ಯತ್ಕರ್ಮ ಪ್ರಾರಭತೇ ನರಃ |\nನ್ಯಾಯ್ಯಂ ವಾ ವಿಪರೀತಂ ವಾ ಪಞ್ಚೈತೇ ತಸ್ಯ ಹೇತವಃ ||೧೮-೧೫||"
+    },
+    "life_application": {
+        "hi": "मनुष्य शरीर, वाणी या मन से जो भी कार्य करता है, चाहे सही हो या गलत, ये पांच उसके कारण होते हैं।",
+        "en": "Whatever action a man undertakes by body, speech, or mind, whether right or wrong, these five are its causes.",
+        "be": "একজন মানুষ শরীর, বাক বা মন দ্বারা যে কাজই করুক না কেন, সঠিক বা ভুল, এই পাঁচটিই তার কারণ।",
+        "ka": "ಮನುಷ್ಯನು ದೇಹ, ಮಾತು ಅಥವಾ ಮನಸ್ಸಿನಿಂದ ಯಾವುದೇ ಕ್ರಿಯೆಯನ್ನು ಮಾಡಿದರೂ ಸರಿ ಅಥವಾ ತಪ್ಪಾಗಿರಲಿ, ಈ ಐದು ಕಾರಣಗಳು."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "शरीरवाङ्मनोभिः",
-            "transliteration": "śarīravāṅmanobhiḥ",
-            "meaning": "by body"
+            "transliteration": {
+                "hi": "शरीरवाङ्मनोभिः",
+                "en": "śarīravāṅmanobhiḥ",
+                "be": "শরীরবাঙ্মনোভিঃ",
+                "ka": "ಶರೀರವಾಙ್ಮನೋಭಿಃ"
+            },
+            "meaning": {
+                "hi": "शरीर द्वारा",
+                "en": "by body",
+                "be": "শরীরের দ্বারা",
+                "ka": "ದೇಹದಿಂದ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "whatever"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो भी हो",
+                "en": "whatever",
+                "be": "যাই হোক",
+                "ka": "ಏನೇ ಇರಲಿ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "प्रारभते",
-            "transliteration": "prārabhate",
-            "meaning": "performs"
+            "transliteration": {
+                "hi": "प्रारभते",
+                "en": "prārabhate",
+                "be": "প্রারভতে",
+                "ka": "ಪ್ರಾರಭತೇ"
+            },
+            "meaning": {
+                "hi": "प्रदर्शन करता है",
+                "en": "performs",
+                "be": "সম্পাদন করে",
+                "ka": "ನಿರ್ವಹಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "नरः",
-            "transliteration": "naraḥ",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "नरः",
+                "en": "naraḥ",
+                "be": "নরঃ",
+                "ka": "ನರಃ"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "न्याय्यम्",
-            "transliteration": "nyāyyam",
-            "meaning": "right"
+            "transliteration": {
+                "hi": "न्याय्यम्",
+                "en": "nyāyyam",
+                "be": "ন্যায্যম্",
+                "ka": "ನ್ಯಾಯ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "ठीक है",
+                "en": "right",
+                "be": "অধিকার",
+                "ka": "ಬಲ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "विपरीतम्",
-            "transliteration": "viparītam",
-            "meaning": "the reverse"
+            "transliteration": {
+                "hi": "विपरीतम्",
+                "en": "viparītam",
+                "be": "বিপরীতম্",
+                "ka": "ವಿಪರೀತಮ್"
+            },
+            "meaning": {
+                "hi": "उलटा",
+                "en": "the reverse",
+                "be": "বিপরীত",
+                "ka": "ಹಿಮ್ಮುಖ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "पञ्च",
-            "transliteration": "pañca",
-            "meaning": "five"
+            "transliteration": {
+                "hi": "पञ्च",
+                "en": "pañca",
+                "be": "পঞ্চ",
+                "ka": "ಪಞ್ಚ"
+            },
+            "meaning": {
+                "hi": "पांच",
+                "en": "five",
+                "be": "পাঁচ",
+                "ka": "ಐದು"
+            }
         },
         {
             "sanskrit": "एते",
-            "transliteration": "ete",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एते",
+                "en": "ete",
+                "be": "এতে",
+                "ka": "ಏತೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "its"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इसका",
+                "en": "its",
+                "be": "এর",
+                "ka": "ಅದರ"
+            }
         },
         {
             "sanskrit": "हेतवः",
-            "transliteration": "hetavaḥ",
-            "meaning": "causes."
+            "transliteration": {
+                "hi": "हेतवः",
+                "en": "hetavaḥ",
+                "be": "হেতবঃ",
+                "ka": "ಹೇತವಃ"
+            },
+            "meaning": {
+                "hi": "कारण।",
+                "en": "causes.",
+                "be": "কারণ",
+                "ka": "ಕಾರಣವಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

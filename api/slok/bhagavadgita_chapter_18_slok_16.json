@@ -14,8 +14,18 @@
         "en": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ .\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ ||18-16||",
         "ka": "ತತ್ರೈವಂ ಸತಿ ಕರ್ತಾರಮಾತ್ಮಾನಂ ಕೇವಲಂ ತು ಯಃ |\nಪಶ್ಯತ್ಯಕೃತಬುದ್ಧಿತ್ವಾನ್ನ ಸ ಪಶ್ಯತಿ ದುರ್ಮತಿಃ ||೧೮-೧೬||"
     },
-    "transliteration": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ .\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ ||18-16||",
-    "life_application": "This being so, he who sees Self as sole doer due to uncultivated intellect does not see, deluded.",
+    "transliteration": {
+        "hi": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः |\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||१८-१६||",
+        "en": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ .\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ ||18-16||",
+        "be": "তত্রৈবং সতি কর্তারমাত্মানং কেবলং তু যঃ |\nপশ্যত্যকৃতবুদ্ধিত্বান্ন স পশ্যতি দুর্মতিঃ ||১৮-১৬||",
+        "ka": "ತತ್ರೈವಂ ಸತಿ ಕರ್ತಾರಮಾತ್ಮಾನಂ ಕೇವಲಂ ತು ಯಃ |\nಪಶ್ಯತ್ಯಕೃತಬುದ್ಧಿತ್ವಾನ್ನ ಸ ಪಶ್ಯತಿ ದುರ್ಮತಿಃ ||೧೮-೧೬||"
+    },
+    "life_application": {
+        "hi": "ऐसा होने पर, जो व्यक्ति असंस्कृत बुद्धि के कारण स्वयं को एकमात्र कर्ता के रूप में देखता है, वह भ्रमित नहीं होता है।",
+        "en": "This being so, he who sees Self as sole doer due to uncultivated intellect does not see, deluded.",
+        "be": "এইভাবে, অকৃপণ বুদ্ধির কারণে যিনি নিজেকে একমাত্র কর্তা হিসাবে দেখেন, তিনি দেখেন না, বিভ্রান্ত হন।",
+        "ka": "ಇದು ಹೀಗಿರುವಾಗ, ಸಂಸ್ಕಾರವಿಲ್ಲದ ಬುದ್ಧಿಯ ಕಾರಣದಿಂದ ತನ್ನನ್ನು ಏಕಮಾತ್ರ ಕರ್ತೃವೆಂದು ನೋಡುವವನು ನೋಡುವುದಿಲ್ಲ, ಭ್ರಮೆಗೊಳ್ಳುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "there"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "there",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "सति",
-            "transliteration": "sati",
-            "meaning": "being"
+            "transliteration": {
+                "hi": "सति",
+                "en": "sati",
+                "be": "সতি",
+                "ka": "ಸತಿ"
+            },
+            "meaning": {
+                "hi": "किया जा रहा है",
+                "en": "being",
+                "be": "হচ্ছে",
+                "ka": "ಇರುವುದು"
+            }
         },
         {
             "sanskrit": "कर्तारम्",
-            "transliteration": "kartāram",
-            "meaning": "as the agent"
+            "transliteration": {
+                "hi": "कर्तारम्",
+                "en": "kartāram",
+                "be": "কর্তারম্",
+                "ka": "ಕರ್ತಾರಮ್"
+            },
+            "meaning": {
+                "hi": "एजेंट के रूप में",
+                "en": "as the agent",
+                "be": "এজেন্ট হিসাবে",
+                "ka": "ಏಜೆಂಟ್ ಆಗಿ"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "the Self"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "the Self",
+                "be": "স্বয়ং",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "केवलम्",
-            "transliteration": "kevalam",
-            "meaning": "alone"
+            "transliteration": {
+                "hi": "केवलम्",
+                "en": "kevalam",
+                "be": "কেবলম্",
+                "ka": "ಕೇವಲಮ್"
+            },
+            "meaning": {
+                "hi": "अकेले",
+                "en": "alone",
+                "be": "একা",
+                "ka": "ಒಬ್ಬಂಟಿಯಾಗಿ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "sees"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "sees",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "अकृतबुद्धित्वात्",
-            "transliteration": "akṛtabuddhitvāt",
-            "meaning": "owing to untrained understanding"
+            "transliteration": {
+                "hi": "अकृतबुद्धित्वात्",
+                "en": "akṛtabuddhitvāt",
+                "be": "অকৃতবুদ্ধিত্বাত্",
+                "ka": "ಅಕೃತಬುದ್ಧಿತ್ವಾತ್"
+            },
+            "meaning": {
+                "hi": "अप्रशिक्षित समझ के कारण",
+                "en": "owing to untrained understanding",
+                "be": "অপ্রশিক্ষিত বোঝার কারণে",
+                "ka": "ತರಬೇತಿ ಪಡೆಯದ ತಿಳುವಳಿಕೆಯಿಂದಾಗಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "पश्यति",
-            "transliteration": "paśyati",
-            "meaning": "sees"
+            "transliteration": {
+                "hi": "पश्यति",
+                "en": "paśyati",
+                "be": "পশ্যতি",
+                "ka": "ಪಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "देखता है",
+                "en": "sees",
+                "be": "দেখে",
+                "ka": "ನೋಡುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "दुर्मतिः",
-            "transliteration": "durmatiḥ",
-            "meaning": "of perverted intelligence."
+            "transliteration": {
+                "hi": "दुर्मतिः",
+                "en": "durmatiḥ",
+                "be": "দুর্মতিঃ",
+                "ka": "ದುರ್ಮತಿಃ"
+            },
+            "meaning": {
+                "hi": "विकृत बुद्धि का.",
+                "en": "of perverted intelligence.",
+                "be": "বিকৃত বুদ্ধিমত্তার।",
+                "ka": "ವಿಕೃತ ಬುದ್ಧಿಮತ್ತೆಯ."
+            }
         }
     ],
     "tej": {

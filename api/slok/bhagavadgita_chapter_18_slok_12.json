@@ -14,8 +14,18 @@
         "en": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam .\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||18-12||",
         "ka": "ಅನಿಷ್ಟಮಿಷ್ಟಂ ಮಿಶ್ರಂ ಚ ತ್ರಿವಿಧಂ ಕರ್ಮಣಃ ಫಲಮ್ |\nಭವತ್ಯತ್ಯಾಗಿನಾಂ ಪ್ರೇತ್ಯ ನ ತು ಸಂನ್ಯಾಸಿನಾಂ ಕ್ವಚಿತ್ ||೧೮-೧೨||"
     },
-    "transliteration": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam .\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||18-12||",
-    "life_application": "Threefold fruit of action—disagreeable, agreeable, mixed—accrues after death to non-relinquishers, never to sannyasis.",
+    "transliteration": {
+        "hi": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् |\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ||१८-१२||",
+        "en": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam .\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||18-12||",
+        "be": "অনিষ্টমিষ্টং মিশ্রং চ ত্রিবিধং কর্মণঃ ফলম্ |\nভবত্যত্যাগিনাং প্রেত্য ন তু সংন্যাসিনাং ক্বচিত্ ||১৮-১২||",
+        "ka": "ಅನಿಷ್ಟಮಿಷ್ಟಂ ಮಿಶ್ರಂ ಚ ತ್ರಿವಿಧಂ ಕರ್ಮಣಃ ಫಲಮ್ |\nಭವತ್ಯತ್ಯಾಗಿನಾಂ ಪ್ರೇತ್ಯ ನ ತು ಸಂನ್ಯಾಸಿನಾಂ ಕ್ವಚಿತ್ ||೧೮-೧೨||"
+    },
+    "life_application": {
+        "hi": "कर्म का त्रिगुणात्मक फल - अप्रिय, अनुकूल, मिश्रित - मृत्यु के बाद त्याग न करने वालों को मिलता है, संन्यासियों को कभी नहीं।",
+        "en": "Threefold fruit of action—disagreeable, agreeable, mixed—accrues after death to non-relinquishers, never to sannyasis.",
+        "be": "কর্মের ত্রিগুণ ফল-অসম্মত, সম্মত, মিশ্র-মৃত্যুর পরে অত্যাগীদের কাছে, কখনও সন্ন্যাসীদের কাছে জমা হয়।",
+        "ka": "ತ್ರಿವಿಧ ಕ್ರಿಯೆಯ ಫಲ - ಒಪ್ಪಲಾಗದ, ಒಪ್ಪುವ, ಮಿಶ್ರ - ಮರಣದ ನಂತರ ತ್ಯಾಗ ಮಾಡದವರಿಗೆ, ಸನ್ಯಾಸಿಗಳಿಗೆ ಎಂದಿಗೂ."
+    },
     "themes": [
         "Karma",
         "Death"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अनिष्टम्",
-            "transliteration": "aniṣṭam",
-            "meaning": "unwished or disagreeable or"
+            "transliteration": {
+                "hi": "अनिष्टम्",
+                "en": "aniṣṭam",
+                "be": "অনিষ্টম্",
+                "ka": "ಅನಿಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "अवांछित या अप्रिय या",
+                "en": "unwished or disagreeable or",
+                "be": "unwished or disagreeable or",
+                "ka": "ಬಯಸದ ಅಥವಾ ಒಪ್ಪಲಾಗದ ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "इष्टम्",
-            "transliteration": "iṣṭam",
-            "meaning": "wished or agreeable or"
+            "transliteration": {
+                "hi": "इष्टम्",
+                "en": "iṣṭam",
+                "be": "ইষ্টম্",
+                "ka": "ಇಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "वांछित या सहमत या",
+                "en": "wished or agreeable or",
+                "be": "ইচ্ছাকৃত বা সম্মত বা",
+                "ka": "ಬಯಸಿದ ಅಥವಾ ಒಪ್ಪುವ ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "मिश्रम्",
-            "transliteration": "miśram",
-            "meaning": "mixed"
+            "transliteration": {
+                "hi": "मिश्रम्",
+                "en": "miśram",
+                "be": "মিশ্রম্",
+                "ka": "ಮಿಶ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "मिश्रित",
+                "en": "mixed",
+                "be": "মিশ্রিত",
+                "ka": "ಮಿಶ್ರಿತ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "त्रिविधम्",
-            "transliteration": "trividham",
-            "meaning": "threefold"
+            "transliteration": {
+                "hi": "त्रिविधम्",
+                "en": "trividham",
+                "be": "ত্রিবিধম্",
+                "ka": "ತ್ರಿವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "तीन गुना",
+                "en": "threefold",
+                "be": "তিনগুণ",
+                "ka": "ಮೂರು ಪಟ್ಟು"
+            }
         },
         {
             "sanskrit": "कर्मणः",
-            "transliteration": "karmaṇaḥ",
-            "meaning": "of action"
+            "transliteration": {
+                "hi": "कर्मणः",
+                "en": "karmaṇaḥ",
+                "be": "কর্মণঃ",
+                "ka": "ಕರ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई का",
+                "en": "of action",
+                "be": "কর্মের",
+                "ka": "ಕ್ರಿಯೆಯ"
+            }
         },
         {
             "sanskrit": "फलम्",
-            "transliteration": "phalam",
-            "meaning": "fruit"
+            "transliteration": {
+                "hi": "फलम्",
+                "en": "phalam",
+                "be": "ফলম্",
+                "ka": "ಫಲಮ್"
+            },
+            "meaning": {
+                "hi": "फल",
+                "en": "fruit",
+                "be": "ফল",
+                "ka": "ಹಣ್ಣು"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "accrues"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "अर्जित होता है",
+                "en": "accrues",
+                "be": "জমা হয়",
+                "ka": "ಸೇರಿಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अत्यागिनाम्",
-            "transliteration": "atyāginām",
-            "meaning": "to nonrenouncers"
+            "transliteration": {
+                "hi": "अत्यागिनाम्",
+                "en": "atyāginām",
+                "be": "অত্যাগিনাম্",
+                "ka": "ಅತ್ಯಾಗಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "गैर-त्यागकर्ताओं के लिए",
+                "en": "to nonrenouncers",
+                "be": "অত্যাগীদের কাছে",
+                "ka": "ನಿರಾಕರಿಸುವವರಿಗೆ"
+            }
         },
         {
             "sanskrit": "प्रेत्य",
-            "transliteration": "pretya",
-            "meaning": "after death"
+            "transliteration": {
+                "hi": "प्रेत्य",
+                "en": "pretya",
+                "be": "প্রেত্য",
+                "ka": "ಪ್ರೇತ್ಯ"
+            },
+            "meaning": {
+                "hi": "मृत्यु के बाद",
+                "en": "after death",
+                "be": "মৃত্যুর পরে",
+                "ka": "ಸಾವಿನ ನಂತರ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "संन्यासिनाम्",
-            "transliteration": "saṃnyāsinām",
-            "meaning": "to renouncers"
+            "transliteration": {
+                "hi": "संन्यासिनाम्",
+                "en": "saṃnyāsinām",
+                "be": "সংন্যাসিনাম্",
+                "ka": "ಸಂನ್ಯಾಸಿನಾಮ್"
+            },
+            "meaning": {
+                "hi": "त्यागियों को",
+                "en": "to renouncers",
+                "be": "ত্যাগকারীদের কাছে",
+                "ka": "ತ್ಯಜಿಸುವವರಿಗೆ"
+            }
         },
         {
             "sanskrit": "क्वचित्",
-            "transliteration": "kvacit",
-            "meaning": "ever."
+            "transliteration": {
+                "hi": "क्वचित्",
+                "en": "kvacit",
+                "be": "ক্বচিত্",
+                "ka": "ಕ್ವಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कभी।",
+                "en": "ever.",
+                "be": "কখনও",
+                "ka": "ಎಂದೆಂದಿಗೂ."
+            }
         }
     ],
     "tej": {

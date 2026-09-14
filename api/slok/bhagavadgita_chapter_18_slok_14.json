@@ -14,8 +14,18 @@
         "en": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham .\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam ||18-14||",
         "ka": "ಅಧಿಷ್ಠಾನಂ ತಥಾ ಕರ್ತಾ ಕರಣಂ ಚ ಪೃಥಗ್ವಿಧಮ್ |\nವಿವಿಧಾಶ್ಚ ಪೃಥಕ್ಚೇಷ್ಟಾ ದೈವಂ ಚೈವಾತ್ರ ಪಞ್ಚಮಮ್ ||೧೮-೧೪||"
     },
-    "transliteration": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham .\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam ||18-14||",
-    "life_application": "The seat (body), agent, various instruments, distinct functions of breath, and fifth, the divine factor.",
+    "transliteration": {
+        "hi": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् |\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ||१८-१४||",
+        "en": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham .\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam ||18-14||",
+        "be": "অধিষ্ঠানং তথা কর্তা করণং চ পৃথগ্বিধম্ |\nবিবিধাশ্চ পৃথক্চেষ্টা দৈবং চৈবাত্র পঞ্চমম্ ||১৮-১৪||",
+        "ka": "ಅಧಿಷ್ಠಾನಂ ತಥಾ ಕರ್ತಾ ಕರಣಂ ಚ ಪೃಥಗ್ವಿಧಮ್ |\nವಿವಿಧಾಶ್ಚ ಪೃಥಕ್ಚೇಷ್ಟಾ ದೈವಂ ಚೈವಾತ್ರ ಪಞ್ಚಮಮ್ ||೧೮-೧೪||"
+    },
+    "life_application": {
+        "hi": "आसन (शरीर), एजेंट, विभिन्न उपकरण, सांस के विशिष्ट कार्य और पांचवां, दैवीय कारक।",
+        "en": "The seat (body), agent, various instruments, distinct functions of breath, and fifth, the divine factor.",
+        "be": "আসন (শরীর), এজেন্ট, বিভিন্ন যন্ত্র, শ্বাসের স্বতন্ত্র কাজ এবং পঞ্চম, ঐশ্বরিক ফ্যাক্টর।",
+        "ka": "ಆಸನ (ದೇಹ), ಏಜೆಂಟ್, ವಿವಿಧ ಉಪಕರಣಗಳು, ಉಸಿರಾಟದ ವಿಭಿನ್ನ ಕಾರ್ಯಗಳು ಮತ್ತು ಐದನೆಯದು, ದೈವಿಕ ಅಂಶ."
+    },
     "themes": [
         "Knowledge",
         "Karma"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "अधिष्ठानम्",
-            "transliteration": "adhiṣṭhānam",
-            "meaning": "the seat or body"
+            "transliteration": {
+                "hi": "अधिष्ठानम्",
+                "en": "adhiṣṭhānam",
+                "be": "অধিষ্ঠানম্",
+                "ka": "ಅಧಿಷ್ಠಾನಮ್"
+            },
+            "meaning": {
+                "hi": "आसन या शरीर",
+                "en": "the seat or body",
+                "be": "আসন বা শরীর",
+                "ka": "ಆಸನ ಅಥವಾ ದೇಹ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "कर्ता",
-            "transliteration": "kartā",
-            "meaning": "the doer"
+            "transliteration": {
+                "hi": "कर्ता",
+                "en": "kartā",
+                "be": "কর্তা",
+                "ka": "ಕರ್ತಾ"
+            },
+            "meaning": {
+                "hi": "कर्ता",
+                "en": "the doer",
+                "be": "কর্তা",
+                "ka": "ಮಾಡುವವನು"
+            }
         },
         {
             "sanskrit": "करणम्",
-            "transliteration": "karaṇam",
-            "meaning": "the senses"
+            "transliteration": {
+                "hi": "करणम्",
+                "en": "karaṇam",
+                "be": "করণম্",
+                "ka": "ಕರಣಮ್"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "the senses",
+                "be": "ইন্দ্রিয়",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पृथग्विधम्",
-            "transliteration": "pṛthagvidham",
-            "meaning": "of different"
+            "transliteration": {
+                "hi": "पृथग्विधम्",
+                "en": "pṛthagvidham",
+                "be": "পৃথগ্বিধম্",
+                "ka": "ಪೃಥಗ್ವಿಧಮ್"
+            },
+            "meaning": {
+                "hi": "अलग-अलग का",
+                "en": "of different",
+                "be": "বিভিন্ন",
+                "ka": "ವಿವಿಧ"
+            }
         },
         {
             "sanskrit": "विविधाः",
-            "transliteration": "vividhāḥ",
-            "meaning": "various"
+            "transliteration": {
+                "hi": "विविधाः",
+                "en": "vividhāḥ",
+                "be": "বিবিধাঃ",
+                "ka": "ವಿವಿಧಾಃ"
+            },
+            "meaning": {
+                "hi": "विविध",
+                "en": "various",
+                "be": "বিভিন্ন",
+                "ka": "ವಿವಿಧ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पृथक्",
-            "transliteration": "pṛthak",
-            "meaning": "different"
+            "transliteration": {
+                "hi": "पृथक्",
+                "en": "pṛthak",
+                "be": "পৃথক্",
+                "ka": "ಪೃಥಕ್"
+            },
+            "meaning": {
+                "hi": "अलग",
+                "en": "different",
+                "be": "ভিন্ন",
+                "ka": "ವಿಭಿನ್ನ"
+            }
         },
         {
             "sanskrit": "चेष्टाः",
-            "transliteration": "ceṣṭāḥ",
-            "meaning": "functions"
+            "transliteration": {
+                "hi": "चेष्टाः",
+                "en": "ceṣṭāḥ",
+                "be": "চেষ্টাঃ",
+                "ka": "ಚೇಷ್ಟಾಃ"
+            },
+            "meaning": {
+                "hi": "कार्य",
+                "en": "functions",
+                "be": "ফাংশন",
+                "ka": "ಕಾರ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "दैवम्",
-            "transliteration": "daivam",
-            "meaning": "the presiding deity"
+            "transliteration": {
+                "hi": "दैवम्",
+                "en": "daivam",
+                "be": "দৈবম্",
+                "ka": "ದೈವಮ್"
+            },
+            "meaning": {
+                "hi": "पीठासीन देवता",
+                "en": "the presiding deity",
+                "be": "প্রধান দেবতা",
+                "ka": "ಪ್ರಧಾನ ದೇವತೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अत्र",
-            "transliteration": "atra",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "अत्र",
+                "en": "atra",
+                "be": "অত্র",
+                "ka": "ಅತ್ರ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "पञ्चमम्",
-            "transliteration": "pañcamam",
-            "meaning": "the fifth."
+            "transliteration": {
+                "hi": "पञ्चमम्",
+                "en": "pañcamam",
+                "be": "পঞ্চমম্",
+                "ka": "ಪಞ್ಚಮಮ್"
+            },
+            "meaning": {
+                "hi": "पांचवा।",
+                "en": "the fifth.",
+                "be": "পঞ্চম",
+                "ka": "ಐದನೆಯದು."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
         "ka": "ಕಟ್ವಮ್ಲಲವಣಾತ್ಯುಷ್ಣತೀಕ್ಷ್ಣರೂಕ್ಷವಿದಾಹಿನಃ |\nಆಹಾರಾ ರಾಜಸಸ್ಯೇಷ್ಟಾ ದುಃಖಶೋಕಾಮಯಪ್ರದಾಃ ||೧೭-೯||"
     },
-    "transliteration": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
-    "life_application": "Foods bitter, sour, salty, excessively hot, pungent, dry, burning—desired by Rajasic, causing pain, grief, sickness.",
+    "transliteration": {
+        "hi": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||",
+        "en": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
+        "be": "কট্বম্ললবণাত্যুষ্ণতীক্ষ্ণরূক্ষবিদাহিনঃ |\nআহারা রাজসস্যেষ্টা দুঃখশোকামযপ্রদাঃ ||১৭-৯||",
+        "ka": "ಕಟ್ವಮ್ಲಲವಣಾತ್ಯುಷ್ಣತೀಕ್ಷ್ಣರೂಕ್ಷವಿದಾಹಿನಃ |\nಆಹಾರಾ ರಾಜಸಸ್ಯೇಷ್ಟಾ ದುಃಖಶೋಕಾಮಯಪ್ರದಾಃ ||೧೭-೯||"
+    },
+    "life_application": {
+        "hi": "भोजन कड़वा, खट्टा, नमकीन, अत्यधिक गर्म, तीखा, सूखा, जलन पैदा करने वाला - राजसिक के लिए वांछित, दर्द, शोक, बीमारी का कारण बनता है।",
+        "en": "Foods bitter, sour, salty, excessively hot, pungent, dry, burning—desired by Rajasic, causing pain, grief, sickness.",
+        "be": "তেতো, টক, নোনতা, অত্যধিক গরম, তীক্ষ্ণ, শুষ্ক, জ্বালাময় - রাজসিকের ইচ্ছাকৃত খাদ্য, যা ব্যথা, শোক, অসুস্থতা সৃষ্টি করে।",
+        "ka": "ಕಹಿ, ಹುಳಿ, ಖಾರ, ಅತಿಯಾದ ಬಿಸಿ, ಕಟುವಾದ, ಒಣ, ಸುಡುವ ಆಹಾರಗಳು-ರಾಜಸಿಕ್‌ನಿಂದ ಬಯಸಿ, ನೋವು, ದುಃಖ, ಅನಾರೋಗ್ಯವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,28 +33,78 @@
     "word_meanings": [
         {
             "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः",
-            "transliteration": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ",
-            "meaning": "those that are bitter"
+            "transliteration": {
+                "hi": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः",
+                "en": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ",
+                "be": "কট্বম্ললবণাত্যুষ্ণতীক্ষ্ণরূক্ষবিদাহিনঃ",
+                "ka": "ಕಟ್ವಮ್ಲಲವಣಾತ್ಯುಷ್ಣತೀಕ್ಷ್ಣರೂಕ್ಷವಿದಾಹಿನಃ"
+            },
+            "meaning": {
+                "hi": "जो कड़वे होते हैं",
+                "en": "those that are bitter",
+                "be": "যারা তিক্ত",
+                "ka": "ಕಹಿಯಾದವುಗಳು"
+            }
         },
         {
             "sanskrit": "आहाराः",
-            "transliteration": "āhārāḥ",
-            "meaning": "foods"
+            "transliteration": {
+                "hi": "आहाराः",
+                "en": "āhārāḥ",
+                "be": "আহারাঃ",
+                "ka": "ಆಹಾರಾಃ"
+            },
+            "meaning": {
+                "hi": "खाद्य पदार्थ",
+                "en": "foods",
+                "be": "খাবার",
+                "ka": "ಆಹಾರಗಳು"
+            }
         },
         {
             "sanskrit": "राजसस्य",
-            "transliteration": "rājasasya",
-            "meaning": "of the Rajasic"
+            "transliteration": {
+                "hi": "राजसस्य",
+                "en": "rājasasya",
+                "be": "রাজসস্য",
+                "ka": "ರಾಜಸಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "राजसिक का",
+                "en": "of the Rajasic",
+                "be": "রাজসিকের",
+                "ka": "ರಾಜಸಿಕ್ ನ"
+            }
         },
         {
             "sanskrit": "इष्टाः",
-            "transliteration": "iṣṭāḥ",
-            "meaning": "are liked"
+            "transliteration": {
+                "hi": "इष्टाः",
+                "en": "iṣṭāḥ",
+                "be": "ইষ্টাঃ",
+                "ka": "ಇಷ್ಟಾಃ"
+            },
+            "meaning": {
+                "hi": "पसंद किये जाते हैं",
+                "en": "are liked",
+                "be": "পছন্দ করা হয়",
+                "ka": "ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "दुःखशोकामयप्रदाः",
-            "transliteration": "duḥkhaśokāmayapradāḥ",
-            "meaning": "are productive of pain"
+            "transliteration": {
+                "hi": "दुःखशोकामयप्रदाः",
+                "en": "duḥkhaśokāmayapradāḥ",
+                "be": "দুঃখশোকামযপ্রদাঃ",
+                "ka": "ದುಃಖಶೋಕಾಮಯಪ್ರದಾಃ"
+            },
+            "meaning": {
+                "hi": "दर्द पैदा करने वाले हैं",
+                "en": "are productive of pain",
+                "be": "ব্যথা উত্পাদনশীল হয়",
+                "ka": "ನೋವಿನ ಉತ್ಪಾದಕವಾಗಿವೆ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ .\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate ||18-11||",
         "ka": "ನ ಹಿ ದೇಹಭೃತಾ ಶಕ್ಯಂ ತ್ಯಕ್ತುಂ ಕರ್ಮಾಣ್ಯಶೇಷತಃ |\nಯಸ್ತು ಕರ್ಮಫಲತ್ಯಾಗೀ ಸ ತ್ಯಾಗೀತ್ಯಭಿಧೀಯತೇ ||೧೮-೧೧||"
     },
-    "transliteration": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ .\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate ||18-11||",
-    "life_application": "Embodied beings cannot abandon actions completely; he who relinquishes fruit of action is called a true relinquisher.",
+    "transliteration": {
+        "hi": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः |\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||",
+        "en": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ .\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate ||18-11||",
+        "be": "ন হি দেহভৃতা শক্যং ত্যক্তুং কর্মাণ্যশেষতঃ |\nযস্তু কর্মফলত্যাগী স ত্যাগীত্যভিধীযতে ||১৮-১১||",
+        "ka": "ನ ಹಿ ದೇಹಭೃತಾ ಶಕ್ಯಂ ತ್ಯಕ್ತುಂ ಕರ್ಮಾಣ್ಯಶೇಷತಃ |\nಯಸ್ತು ಕರ್ಮಫಲತ್ಯಾಗೀ ಸ ತ್ಯಾಗೀತ್ಯಭಿಧೀಯತೇ ||೧೮-೧೧||"
+    },
+    "life_application": {
+        "hi": "देहधारी प्राणी कर्मों का पूर्णतया परित्याग नहीं कर सकते; जो कर्म के फल का त्याग करता है, वह सच्चा त्यागी कहलाता है।",
+        "en": "Embodied beings cannot abandon actions completely; he who relinquishes fruit of action is called a true relinquisher.",
+        "be": "মূর্ত জীব কর্ম সম্পূর্ণরূপে পরিত্যাগ করতে পারে না; যে কর্মফল ত্যাগ করে তাকেই প্রকৃত ত্যাগী বলা হয়।",
+        "ka": "ಸಾಕಾರ ಜೀವಿಗಳು ಕ್ರಿಯೆಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತ್ಯಜಿಸಲಾರರು; ಕ್ರಿಯೆಯ ಫಲವನ್ನು ತ್ಯಜಿಸುವವನು ನಿಜವಾದ ತ್ಯಾಗಕಾರ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತಾನೆ."
+    },
     "themes": [
         "Karma",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "देहभृता",
-            "transliteration": "dehabhṛtā",
-            "meaning": "by an embodied being"
+            "transliteration": {
+                "hi": "देहभृता",
+                "en": "dehabhṛtā",
+                "be": "দেহভৃতা",
+                "ka": "ದೇಹಭೃತಾ"
+            },
+            "meaning": {
+                "hi": "किसी देहधारी प्राणी द्वारा",
+                "en": "by an embodied being",
+                "be": "একটি মূর্ত সত্তা দ্বারা",
+                "ka": "ಸಾಕಾರ ಜೀವಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "शक्यम्",
-            "transliteration": "śakyam",
-            "meaning": "possible"
+            "transliteration": {
+                "hi": "शक्यम्",
+                "en": "śakyam",
+                "be": "শক্যম্",
+                "ka": "ಶಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "संभव",
+                "en": "possible",
+                "be": "সম্ভব",
+                "ka": "ಸಾಧ್ಯ"
+            }
         },
         {
             "sanskrit": "त्यक्तुम्",
-            "transliteration": "tyaktum",
-            "meaning": "to abandon"
+            "transliteration": {
+                "hi": "त्यक्तुम्",
+                "en": "tyaktum",
+                "be": "ত্যক্তুম্",
+                "ka": "ತ್ಯಕ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "त्यागना",
+                "en": "to abandon",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಲು"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "actions"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "actions",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮಗಳು"
+            }
         },
         {
             "sanskrit": "अशेषतः",
-            "transliteration": "aśeṣataḥ",
-            "meaning": "entirely"
+            "transliteration": {
+                "hi": "अशेषतः",
+                "en": "aśeṣataḥ",
+                "be": "অশেষতঃ",
+                "ka": "ಅಶೇಷತಃ"
+            },
+            "meaning": {
+                "hi": "पूरी तरह से",
+                "en": "entirely",
+                "be": "সম্পূর্ণরূপে",
+                "ka": "ಸಂಪೂರ್ಣವಾಗಿ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "कर्मफलत्यागी",
-            "transliteration": "karmaphalatyāgī",
-            "meaning": "relinisher of the fruits"
+            "transliteration": {
+                "hi": "कर्मफलत्यागी",
+                "en": "karmaphalatyāgī",
+                "be": "কর্মফলত্যাগী",
+                "ka": "ಕರ್ಮಫಲತ್ಯಾಗೀ"
+            },
+            "meaning": {
+                "hi": "फलों को पुनः प्राप्त करने वाला",
+                "en": "relinisher of the fruits",
+                "be": "ফল পরিত্যাগকারী",
+                "ka": "ಹಣ್ಣುಗಳನ್ನು ಮರುಹೊಂದಿಸುವವನು"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "त्यागी",
-            "transliteration": "tyāgī",
-            "meaning": "relinisher"
+            "transliteration": {
+                "hi": "त्यागी",
+                "en": "tyāgī",
+                "be": "ত্যাগী",
+                "ka": "ತ್ಯಾಗೀ"
+            },
+            "meaning": {
+                "hi": "पुनः त्यागने वाला",
+                "en": "relinisher",
+                "be": "relinisher",
+                "ka": "ರಿಲಿನಿಶರ್"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अभिधीयते",
-            "transliteration": "abhidhīyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "अभिधीयते",
+                "en": "abhidhīyate",
+                "be": "অভিধীযতে",
+                "ka": "ಅಭಿಧೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

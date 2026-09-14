@@ -14,8 +14,18 @@
         "en": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate .\nhatvā.api sa imā.Nllokānna hanti na nibadhyate ||18-17||",
         "ka": "ಯಸ್ಯ ನಾಹಂಕೃತೋ ಭಾವೋ ಬುದ್ಧಿರ್ಯಸ್ಯ ನ ಲಿಪ್ಯತೇ |\nಹತ್ವಾಽಪಿ ಸ ಇಮಾಁಲ್ಲೋಕಾನ್ನ ಹನ್ತಿ ನ ನಿಬಧ್ಯತೇ ||೧೮-೧೭||"
     },
-    "transliteration": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate .\nhatvā.api sa imā.Nllokānna hanti na nibadhyate ||18-17||",
-    "life_application": "He who is free from egoistic notion, whose intellect is untainted—though he slay these worlds, he slays not, nor is bound.",
+    "transliteration": {
+        "hi": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते |\nहत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते ||१८-१७||",
+        "en": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate .\nhatvā.api sa imā.Nllokānna hanti na nibadhyate ||18-17||",
+        "be": "যস্য নাহংকৃতো ভাবো বুদ্ধির্যস্য ন লিপ্যতে |\nহত্বাঽপি স ইমাঁল্লোকান্ন হন্তি ন নিবধ্যতে ||১৮-১৭||",
+        "ka": "ಯಸ್ಯ ನಾಹಂಕೃತೋ ಭಾವೋ ಬುದ್ಧಿರ್ಯಸ್ಯ ನ ಲಿಪ್ಯತೇ |\nಹತ್ವಾಽಪಿ ಸ ಇಮಾಁಲ್ಲೋಕಾನ್ನ ಹನ್ತಿ ನ ನಿಬಧ್ಯತೇ ||೧೮-೧೭||"
+    },
+    "life_application": {
+        "hi": "जो अहंकार से मुक्त है, जिसकी बुद्धि निष्कलंक है - यद्यपि वह इन लोकों को मारता है, वह न तो मारता है और न ही बंधता है।",
+        "en": "He who is free from egoistic notion, whose intellect is untainted—though he slay these worlds, he slays not, nor is bound.",
+        "be": "যিনি অহংবোধ থেকে মুক্ত, যার বুদ্ধি নিষ্প্রভ—যদিও তিনি এই জগৎকে বধ করেন, তিনি বধ করেন না, আবদ্ধ হন না।",
+        "ka": "ಯಾವನು ಅಹಂಕಾರದಿಂದ ಮುಕ್ತನಾಗಿರುತ್ತಾನೋ, ಅವನ ಬುದ್ಧಿಯು ನಿಷ್ಕಳಂಕವಾಗಿದೆ - ಅವನು ಈ ಲೋಕಗಳನ್ನು ಸಂಹರಿಸುತ್ತಾನೆ, ಅವನು ಕೊಲ್ಲುವುದಿಲ್ಲ ಅಥವಾ ಬಂಧಿಸುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Detachment",
         "Knowledge",
@@ -24,88 +34,258 @@
     "word_meanings": [
         {
             "sanskrit": "यस्य",
-            "transliteration": "yasya",
-            "meaning": "whose"
+            "transliteration": {
+                "hi": "यस्य",
+                "en": "yasya",
+                "be": "যস্য",
+                "ka": "ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "किसका",
+                "en": "whose",
+                "be": "যার",
+                "ka": "ಯಾರ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अहंकृतः",
-            "transliteration": "ahaṃkṛtaḥ",
-            "meaning": "egoistic"
+            "transliteration": {
+                "hi": "अहंकृतः",
+                "en": "ahaṃkṛtaḥ",
+                "be": "অহংকৃতঃ",
+                "ka": "ಅಹಂಕೃತಃ"
+            },
+            "meaning": {
+                "hi": "अहंकारी",
+                "en": "egoistic",
+                "be": "অহংকারী",
+                "ka": "ಅಹಂಕಾರಿ"
+            }
         },
         {
             "sanskrit": "भावः",
-            "transliteration": "bhāvaḥ",
-            "meaning": "the notion"
+            "transliteration": {
+                "hi": "भावः",
+                "en": "bhāvaḥ",
+                "be": "ভাবঃ",
+                "ka": "ಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "धारणा",
+                "en": "the notion",
+                "be": "ধারণা",
+                "ka": "ಕಲ್ಪನೆ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intelligence"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intelligence",
+                "be": "বুদ্ধিমত্তা",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ"
+            }
         },
         {
             "sanskrit": "यस्य",
-            "transliteration": "yasya",
-            "meaning": "of whom"
+            "transliteration": {
+                "hi": "यस्य",
+                "en": "yasya",
+                "be": "যস্য",
+                "ka": "ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "किसका",
+                "en": "of whom",
+                "be": "যাদের",
+                "ka": "ಇವರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "लिप्यते",
-            "transliteration": "lipyate",
-            "meaning": "is tainted"
+            "transliteration": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "লিপ্যতে",
+                "ka": "ಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "दागदार है",
+                "en": "is tainted",
+                "be": "কলঙ্কিত",
+                "ka": "ಕಳಂಕಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "हत्वा",
-            "transliteration": "hatvā",
-            "meaning": "having slain"
+            "transliteration": {
+                "hi": "हत्वा",
+                "en": "hatvā",
+                "be": "হত্বা",
+                "ka": "ಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "मारा जा रहा है",
+                "en": "having slain",
+                "be": "নিহত হচ্ছে",
+                "ka": "ಕೊಂದಿದೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "इमान्",
-            "transliteration": "imān",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इमान्",
+                "en": "imān",
+                "be": "ইমান্",
+                "ka": "ಇಮಾನ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "लोकान्",
-            "transliteration": "lokān",
-            "meaning": "people"
+            "transliteration": {
+                "hi": "लोकान्",
+                "en": "lokān",
+                "be": "লোকান্",
+                "ka": "ಲೋಕಾನ್"
+            },
+            "meaning": {
+                "hi": "लोग",
+                "en": "people",
+                "be": "মানুষ",
+                "ka": "ಜನರು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हन्ति",
-            "transliteration": "hanti",
-            "meaning": "slays"
+            "transliteration": {
+                "hi": "हन्ति",
+                "en": "hanti",
+                "be": "হন্তি",
+                "ka": "ಹನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "मार डालता है",
+                "en": "slays",
+                "be": "slays",
+                "ka": "ಕೊಲ್ಲುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "निबध्यते",
-            "transliteration": "nibadhyate",
-            "meaning": "is bound."
+            "transliteration": {
+                "hi": "निबध्यते",
+                "en": "nibadhyate",
+                "be": "নিবধ্যতে",
+                "ka": "ನಿಬಧ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "बाध्य है.",
+                "en": "is bound.",
+                "be": "আবদ্ধ হয়",
+                "ka": "ಬದ್ಧವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

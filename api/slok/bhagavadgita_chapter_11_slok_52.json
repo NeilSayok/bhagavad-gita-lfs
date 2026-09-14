@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama .\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ ||11-52||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಸುದುರ್ದರ್ಶಮಿದಂ ರೂಪಂ ದೃಷ್ಟವಾನಸಿ ಯನ್ಮಮ |\nದೇವಾ ಅಪ್ಯಸ್ಯ ರೂಪಸ್ಯ ನಿತ್ಯಂ ದರ್ಶನಕಾಙ್ಕ್ಷಿಣಃ ||೧೧-೫೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama .\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ ||11-52||",
-    "life_application": "Realize how rare and precious it is to behold this gentle divine form which even celestial beings long to see.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nसुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम |\nदेवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिणः ||११-५२||",
+        "en": "śrībhagavānuvāca .\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama .\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ ||11-52||",
+        "be": "শ্রীভগবানুবাচ |\nসুদুর্দর্শমিদং রূপং দৃষ্টবানসি যন্মম |\nদেবা অপ্যস্য রূপস্য নিত্যং দর্শনকাঙ্ক্ষিণঃ ||১১-৫২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಸುದುರ್ದರ್ಶಮಿದಂ ರೂಪಂ ದೃಷ್ಟವಾನಸಿ ಯನ್ಮಮ |\nದೇವಾ ಅಪ್ಯಸ್ಯ ರೂಪಸ್ಯ ನಿತ್ಯಂ ದರ್ಶನಕಾಙ್ಕ್ಷಿಣಃ ||೧೧-೫೨||"
+    },
+    "life_application": {
+        "hi": "महसूस करें कि इस सौम्य दिव्य रूप को देखना कितना दुर्लभ और अनमोल है जिसे देखने के लिए दिव्य प्राणी भी लालायित रहते हैं।",
+        "en": "Realize how rare and precious it is to behold this gentle divine form which even celestial beings long to see.",
+        "be": "উপলব্ধি করুন যে এই মৃদু ঐশ্বরিক রূপটি দেখা কত বিরল এবং মূল্যবান, যা স্বর্গীয় প্রাণীরাও দেখতে চায়।",
+        "ka": "ಆಕಾಶ ಜೀವಿಗಳು ಸಹ ನೋಡಲು ಹಾತೊರೆಯುವ ಈ ಸೌಮ್ಯವಾದ ದೈವಿಕ ರೂಪವನ್ನು ನೋಡುವುದು ಎಷ್ಟು ಅಪರೂಪ ಮತ್ತು ಅಮೂಲ್ಯವಾದುದು ಎಂಬುದನ್ನು ಅರಿತುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सुदुर्दर्शम्",
-            "transliteration": "sudurdarśam",
-            "meaning": "very hard to see"
+            "transliteration": {
+                "hi": "सुदुर्दर्शम्",
+                "en": "sudurdarśam",
+                "be": "সুদুর্দর্শম্",
+                "ka": "ಸುದುರ್ದರ್ಶಮ್"
+            },
+            "meaning": {
+                "hi": "देखना बहुत कठिन है",
+                "en": "very hard to see",
+                "be": "দেখতে খুব কঠিন",
+                "ka": "ನೋಡಲು ತುಂಬಾ ಕಷ್ಟ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "दृष्टवानसि",
-            "transliteration": "dṛṣṭavānasi",
-            "meaning": "thou hast seen"
+            "transliteration": {
+                "hi": "दृष्टवानसि",
+                "en": "dṛṣṭavānasi",
+                "be": "দৃষ্টবানসি",
+                "ka": "ದೃಷ್ಟವಾನಸಿ"
+            },
+            "meaning": {
+                "hi": "तुमने देखा है",
+                "en": "thou hast seen",
+                "be": "আপনি দেখেছেন",
+                "ka": "ನೀನು ನೋಡಿದೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "देवाः",
-            "transliteration": "devāḥ",
-            "meaning": "gods"
+            "transliteration": {
+                "hi": "देवाः",
+                "en": "devāḥ",
+                "be": "দেবাঃ",
+                "ka": "ದೇವಾಃ"
+            },
+            "meaning": {
+                "hi": "देवताओं",
+                "en": "gods",
+                "be": "দেবতা",
+                "ka": "ದೇವರುಗಳು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "रूपस्य",
-            "transliteration": "rūpasya",
-            "meaning": "of form"
+            "transliteration": {
+                "hi": "रूपस्य",
+                "en": "rūpasya",
+                "be": "রূপস্য",
+                "ka": "ರೂಪಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "रूप का",
+                "en": "of form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪದ"
+            }
         },
         {
             "sanskrit": "नित्यम्",
-            "transliteration": "nityam",
-            "meaning": "ever"
+            "transliteration": {
+                "hi": "नित्यम्",
+                "en": "nityam",
+                "be": "নিত্যম্",
+                "ka": "ನಿತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "कभी",
+                "en": "ever",
+                "be": "কখনও",
+                "ka": "ಎಂದೆಂದಿಗೂ"
+            }
         },
         {
             "sanskrit": "दर्शनकाङ्क्षिणः",
-            "transliteration": "darśanakāṅkṣiṇaḥ",
-            "meaning": "desrious to behold."
+            "transliteration": {
+                "hi": "दर्शनकाङ्क्षिणः",
+                "en": "darśanakāṅkṣiṇaḥ",
+                "be": "দর্শনকাঙ্ক্ষিণঃ",
+                "ka": "ದರ್ಶನಕಾಙ್ಕ್ಷಿಣಃ"
+            },
+            "meaning": {
+                "hi": "देखने के लिए उत्सुक.",
+                "en": "desrious to behold.",
+                "be": "দেখতে আগ্রহী",
+                "ka": "ನೋಡಲು ಅಪೇಕ್ಷಣೀಯ."
+            }
         }
     ],
     "tej": {

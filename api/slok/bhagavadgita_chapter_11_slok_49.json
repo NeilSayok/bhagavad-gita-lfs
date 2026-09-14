@@ -14,8 +14,18 @@
         "en": "mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam .\nvyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapaśya ||11-49||",
         "ka": "ಮಾ ತೇ ವ್ಯಥಾ ಮಾ ಚ ವಿಮೂಢಭಾವೋ\nದೃಷ್ಟ್ವಾ ರೂಪಂ ಘೋರಮೀದೃಙ್ಮಮೇದಮ್ |\nವ್ಯಪೇತಭೀಃ ಪ್ರೀತಮನಾಃ ಪುನಸ್ತ್ವಂ\nತದೇವ ಮೇ ರೂಪಮಿದಂ ಪ್ರಪಶ್ಯ ||೧೧-೪೯||"
     },
-    "transliteration": "mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam .\nvyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapaśya ||11-49||",
-    "life_application": "Let your fear and bewilderment dissipate as you behold God returning to His gentle, reassuring form.",
+    "transliteration": {
+        "hi": "मा ते व्यथा मा च विमूढभावो\nदृष्ट्वा रूपं घोरमीदृङ्ममेदम् |\nव्यपेतभीः प्रीतमनाः पुनस्त्वं\nतदेव मे रूपमिदं प्रपश्य ||११-४९||",
+        "en": "mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam .\nvyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapaśya ||11-49||",
+        "be": "মা তে ব্যথা মা চ বিমূঢভাবো\nদৃষ্ট্বা রূপং ঘোরমীদৃঙ্মমেদম্ |\nব্যপেতভীঃ প্রীতমনাঃ পুনস্ত্বং\nতদেব মে রূপমিদং প্রপশ্য ||১১-৪৯||",
+        "ka": "ಮಾ ತೇ ವ್ಯಥಾ ಮಾ ಚ ವಿಮೂಢಭಾವೋ\nದೃಷ್ಟ್ವಾ ರೂಪಂ ಘೋರಮೀದೃಙ್ಮಮೇದಮ್ |\nವ್ಯಪೇತಭೀಃ ಪ್ರೀತಮನಾಃ ಪುನಸ್ತ್ವಂ\nತದೇವ ಮೇ ರೂಪಮಿದಂ ಪ್ರಪಶ್ಯ ||೧೧-೪೯||"
+    },
+    "life_application": {
+        "hi": "जब आप भगवान को अपने सौम्य, आश्वस्त करने वाले रूप में लौटते हुए देखें तो आपका भय और घबराहट दूर हो जाए।",
+        "en": "Let your fear and bewilderment dissipate as you behold God returning to His gentle, reassuring form.",
+        "be": "আপনার ভয় এবং বিভ্রান্তি দূর হতে দিন কারণ আপনি ঈশ্বরকে তাঁর মৃদু, আশ্বাসদায়ক আকারে ফিরে আসতে দেখছেন।",
+        "ka": "ದೇವರು ತನ್ನ ಸೌಮ್ಯವಾದ, ಧೈರ್ಯ ತುಂಬುವ ರೂಪಕ್ಕೆ ಹಿಂದಿರುಗುವುದನ್ನು ನೀವು ನೋಡುತ್ತಿದ್ದಂತೆ ನಿಮ್ಮ ಭಯ ಮತ್ತು ದಿಗ್ಭ್ರಮೆಯು ದೂರವಾಗಲಿ."
+    },
     "themes": [
         "Fear",
         "Devotion",
@@ -24,113 +34,333 @@
     "word_meanings": [
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "thee",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "व्यथा",
-            "transliteration": "vyathā",
-            "meaning": "fear"
+            "transliteration": {
+                "hi": "व्यथा",
+                "en": "vyathā",
+                "be": "ব্যথা",
+                "ka": "ವ್ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "डर",
+                "en": "fear",
+                "be": "ভয়",
+                "ka": "ಭಯ"
+            }
         },
         {
             "sanskrit": "मा",
-            "transliteration": "mā",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "मा",
+                "en": "mā",
+                "be": "মা",
+                "ka": "ಮಾ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "विमूढभावः",
-            "transliteration": "vimūḍhabhāvaḥ",
-            "meaning": "bewildered state"
+            "transliteration": {
+                "hi": "विमूढभावः",
+                "en": "vimūḍhabhāvaḥ",
+                "be": "বিমূঢভাবঃ",
+                "ka": "ವಿಮೂಢಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "हतप्रभ अवस्था",
+                "en": "bewildered state",
+                "be": "বিভ্রান্ত রাষ্ট্র",
+                "ka": "ದಿಗ್ಭ್ರಮೆಗೊಂಡ ಸ್ಥಿತಿ"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "घोरम्",
-            "transliteration": "ghoram",
-            "meaning": "terrible"
+            "transliteration": {
+                "hi": "घोरम्",
+                "en": "ghoram",
+                "be": "ঘোরম্",
+                "ka": "ಘೋರಮ್"
+            },
+            "meaning": {
+                "hi": "भयानक",
+                "en": "terrible",
+                "be": "ভয়ানক",
+                "ka": "ಭಯಾನಕ"
+            }
         },
         {
             "sanskrit": "ईदृक्",
-            "transliteration": "īdṛk",
-            "meaning": "such"
+            "transliteration": {
+                "hi": "ईदृक्",
+                "en": "īdṛk",
+                "be": "ঈদৃক্",
+                "ka": "ಈದೃಕ್"
+            },
+            "meaning": {
+                "hi": "ऐसे",
+                "en": "such",
+                "be": "যেমন",
+                "ka": "ಅಂತಹ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "व्यपेतभीः",
-            "transliteration": "vyapetabhīḥ",
-            "meaning": "with fear dispelled"
+            "transliteration": {
+                "hi": "व्यपेतभीः",
+                "en": "vyapetabhīḥ",
+                "be": "ব্যপেতভীঃ",
+                "ka": "ವ್ಯಪೇತಭೀಃ"
+            },
+            "meaning": {
+                "hi": "भय दूर हो गया",
+                "en": "with fear dispelled",
+                "be": "ভয় দূর করে দিয়ে",
+                "ka": "ಭಯದಿಂದ ದೂರವಾಯಿತು"
+            }
         },
         {
             "sanskrit": "प्रीतमनाः",
-            "transliteration": "prītamanāḥ",
-            "meaning": "with gladdened heart"
+            "transliteration": {
+                "hi": "प्रीतमनाः",
+                "en": "prītamanāḥ",
+                "be": "প্রীতমনাঃ",
+                "ka": "ಪ್ರೀತಮನಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रसन्न हृदय से",
+                "en": "with gladdened heart",
+                "be": "আনন্দিত হৃদয়ের সাথে",
+                "ka": "ಸಂತೋಷದ ಹೃದಯದಿಂದ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "प्रपश्य",
-            "transliteration": "prapaśya",
-            "meaning": "behold."
+            "transliteration": {
+                "hi": "प्रपश्य",
+                "en": "prapaśya",
+                "be": "প্রপশ্য",
+                "ka": "ಪ್ರಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखो.",
+                "en": "behold.",
+                "be": "দেখ",
+                "ka": "ಇಗೋ."
+            }
         }
     ],
     "tej": {

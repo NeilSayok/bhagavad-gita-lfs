@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\npaśya me pārtha rūpāṇi śataśo.atha sahasraśaḥ .\nnānāvidhāni divyāni nānāvarṇākṛtīni ca ||11-5||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪಶ್ಯ ಮೇ ಪಾರ್ಥ ರೂಪಾಣಿ ಶತಶೋಽಥ ಸಹಸ್ರಶಃ |\nನಾನಾವಿಧಾನಿ ದಿವ್ಯಾನಿ ನಾನಾವರ್ಣಾಕೃತೀನಿ ಚ ||೧೧-೫||"
     },
-    "transliteration": "śrībhagavānuvāca .\npaśya me pārtha rūpāṇi śataśo.atha sahasraśaḥ .\nnānāvidhāni divyāni nānāvarṇākṛtīni ca ||11-5||",
-    "life_application": "Behold the manifold divine forms of various colors, shapes, and wondrous aspects throughout the cosmic expanse.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nपश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः |\nनानाविधानि दिव्यानि नानावर्णाकृतीनि च ||११-५||",
+        "en": "śrībhagavānuvāca .\npaśya me pārtha rūpāṇi śataśo.atha sahasraśaḥ .\nnānāvidhāni divyāni nānāvarṇākṛtīni ca ||11-5||",
+        "be": "শ্রীভগবানুবাচ |\nপশ্য মে পার্থ রূপাণি শতশোঽথ সহস্রশঃ |\nনানাবিধানি দিব্যানি নানাবর্ণাকৃতীনি চ ||১১-৫||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಪಶ್ಯ ಮೇ ಪಾರ್ಥ ರೂಪಾಣಿ ಶತಶೋಽಥ ಸಹಸ್ರಶಃ |\nನಾನಾವಿಧಾನಿ ದಿವ್ಯಾನಿ ನಾನಾವರ್ಣಾಕೃತೀನಿ ಚ ||೧೧-೫||"
+    },
+    "life_application": {
+        "hi": "संपूर्ण ब्रह्मांड में विभिन्न रंगों, आकृतियों और अद्भुत पहलुओं के विविध दिव्य रूपों को देखें।",
+        "en": "Behold the manifold divine forms of various colors, shapes, and wondrous aspects throughout the cosmic expanse.",
+        "be": "মহাজাগতিক বিস্তৃতি জুড়ে বিভিন্ন রঙ, আকার এবং বিস্ময়কর দিকগুলির বহুবিধ ঐশ্বরিক রূপ দেখুন।",
+        "ka": "ಕಾಸ್ಮಿಕ್ ವಿಸ್ತಾರದ ಉದ್ದಕ್ಕೂ ವಿವಿಧ ಬಣ್ಣಗಳು, ಆಕಾರಗಳು ಮತ್ತು ಅದ್ಭುತ ಅಂಶಗಳ ಬಹುದ್ವಾರಿ ದೈವಿಕ ರೂಪಗಳನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "पश्य",
-            "transliteration": "paśya",
-            "meaning": "behold"
+            "transliteration": {
+                "hi": "पश्य",
+                "en": "paśya",
+                "be": "পশ্য",
+                "ka": "ಪಶ್ಯ"
+            },
+            "meaning": {
+                "hi": "देखो",
+                "en": "behold",
+                "be": "দেখ",
+                "ka": "ಇಗೋ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "My"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "My",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "रूपाणि",
-            "transliteration": "rūpāṇi",
-            "meaning": "forms"
+            "transliteration": {
+                "hi": "रूपाणि",
+                "en": "rūpāṇi",
+                "be": "রূপাণি",
+                "ka": "ರೂಪಾಣಿ"
+            },
+            "meaning": {
+                "hi": "प्रपत्र",
+                "en": "forms",
+                "be": "ফর্ম",
+                "ka": "ರೂಪಗಳು"
+            }
         },
         {
             "sanskrit": "शतशः",
-            "transliteration": "śataśaḥ",
-            "meaning": "by hundreds"
+            "transliteration": {
+                "hi": "शतशः",
+                "en": "śataśaḥ",
+                "be": "শতশঃ",
+                "ka": "ಶತಶಃ"
+            },
+            "meaning": {
+                "hi": "सैकड़ों द्वारा",
+                "en": "by hundreds",
+                "be": "শত শত দ্বারা",
+                "ka": "ನೂರಾರು ಮೂಲಕ"
+            }
         },
         {
             "sanskrit": "अथ",
-            "transliteration": "atha",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "अथ",
+                "en": "atha",
+                "be": "অথ",
+                "ka": "ಅಥ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सहस्रशः",
-            "transliteration": "sahasraśaḥ",
-            "meaning": "by thousands"
+            "transliteration": {
+                "hi": "सहस्रशः",
+                "en": "sahasraśaḥ",
+                "be": "সহস্রশঃ",
+                "ka": "ಸಹಸ್ರಶಃ"
+            },
+            "meaning": {
+                "hi": "हज़ारों द्वारा",
+                "en": "by thousands",
+                "be": "হাজার হাজার দ্বারা",
+                "ka": "ಸಾವಿರಾರು"
+            }
         },
         {
             "sanskrit": "नानाविधानि",
-            "transliteration": "nānāvidhāni",
-            "meaning": "of different sorts"
+            "transliteration": {
+                "hi": "नानाविधानि",
+                "en": "nānāvidhāni",
+                "be": "নানাবিধানি",
+                "ka": "ನಾನಾವಿಧಾನಿ"
+            },
+            "meaning": {
+                "hi": "विभिन्न प्रकार के",
+                "en": "of different sorts",
+                "be": "বিভিন্ন ধরণের",
+                "ka": "ವಿವಿಧ ರೀತಿಯ"
+            }
         },
         {
             "sanskrit": "दिव्यानि",
-            "transliteration": "divyāni",
-            "meaning": "divine"
+            "transliteration": {
+                "hi": "दिव्यानि",
+                "en": "divyāni",
+                "be": "দিব্যানি",
+                "ka": "ದಿವ್ಯಾನಿ"
+            },
+            "meaning": {
+                "hi": "दिव्य",
+                "en": "divine",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ"
+            }
         },
         {
             "sanskrit": "नानावर्णाकृतीनि",
-            "transliteration": "nānāvarṇākṛtīni",
-            "meaning": "of various colours and"
+            "transliteration": {
+                "hi": "नानावर्णाकृतीनि",
+                "en": "nānāvarṇākṛtīni",
+                "be": "নানাবর্ণাকৃতীনি",
+                "ka": "ನಾನಾವರ್ಣಾಕೃತೀನಿ"
+            },
+            "meaning": {
+                "hi": "विभिन्न रंगों के और",
+                "en": "of various colours and",
+                "be": "বিভিন্ন রঙের এবং",
+                "ka": "ವಿವಿಧ ಬಣ್ಣಗಳ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

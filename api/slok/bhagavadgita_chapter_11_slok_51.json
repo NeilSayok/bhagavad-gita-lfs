@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\ndṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nದೃಷ್ಟ್ವೇದಂ ಮಾನುಷಂ ರೂಪಂ ತವ ಸೌಮ್ಯಂ ಜನಾರ್ದನ |\nಇದಾನೀಮಸ್ಮಿ ಸಂವೃತ್ತಃ ಸಚೇತಾಃ ಪ್ರಕೃತಿಂ ಗತಃ ||೧೧-೫೧||"
     },
-    "transliteration": "arjuna uvāca .\ndṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||",
-    "life_application": "Feel your mind regain its composure and natural state upon beholding the serene, gentle human form of God.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nदृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |\nइदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||",
+        "en": "arjuna uvāca .\ndṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||",
+        "be": "অর্জুন উবাচ |\nদৃষ্ট্বেদং মানুষং রূপং তব সৌম্যং জনার্দন |\nইদানীমস্মি সংবৃত্তঃ সচেতাঃ প্রকৃতিং গতঃ ||১১-৫১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nದೃಷ್ಟ್ವೇದಂ ಮಾನುಷಂ ರೂಪಂ ತವ ಸೌಮ್ಯಂ ಜನಾರ್ದನ |\nಇದಾನೀಮಸ್ಮಿ ಸಂವೃತ್ತಃ ಸಚೇತಾಃ ಪ್ರಕೃತಿಂ ಗತಃ ||೧೧-೫೧||"
+    },
+    "life_application": {
+        "hi": "महसूस करें कि भगवान के शांत, सौम्य मानव रूप को देखकर आपका मन अपनी स्थिरता और प्राकृतिक स्थिति में वापस आ गया है।",
+        "en": "Feel your mind regain its composure and natural state upon beholding the serene, gentle human form of God.",
+        "be": "ঈশ্বরের নির্মল, মৃদু মানবিক রূপ দেখে আপনার মন তার শান্ত এবং স্বাভাবিক অবস্থা ফিরে পেতে অনুভব করুন।",
+        "ka": "ದೇವರ ಪ್ರಶಾಂತ, ಸೌಮ್ಯವಾದ ಮಾನವ ರೂಪವನ್ನು ನೋಡಿದ ಮೇಲೆ ನಿಮ್ಮ ಮನಸ್ಸು ತನ್ನ ಹಿಡಿತ ಮತ್ತು ಸಹಜ ಸ್ಥಿತಿಯನ್ನು ಮರಳಿ ಪಡೆಯುವುದನ್ನು ಅನುಭವಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Devotion"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "मानुषम्",
-            "transliteration": "mānuṣam",
-            "meaning": "human"
+            "transliteration": {
+                "hi": "मानुषम्",
+                "en": "mānuṣam",
+                "be": "মানুষম্",
+                "ka": "ಮಾನುಷಮ್"
+            },
+            "meaning": {
+                "hi": "मानव",
+                "en": "human",
+                "be": "মানব",
+                "ka": "ಮಾನವ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "सौम्यम्",
-            "transliteration": "saumyam",
-            "meaning": "gentle"
+            "transliteration": {
+                "hi": "सौम्यम्",
+                "en": "saumyam",
+                "be": "সৌম্যম্",
+                "ka": "ಸೌಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "सौम्य",
+                "en": "gentle",
+                "be": "মৃদু",
+                "ka": "ಸೌಮ್ಯ"
+            }
         },
         {
             "sanskrit": "जनार्दन",
-            "transliteration": "janārdana",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "जनार्दन",
+                "en": "janārdana",
+                "be": "জনার্দন",
+                "ka": "ಜನಾರ್ದನ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "इदानीम्",
-            "transliteration": "idānīm",
-            "meaning": "now"
+            "transliteration": {
+                "hi": "इदानीम्",
+                "en": "idānīm",
+                "be": "ইদানীম্",
+                "ka": "ಇದಾನೀಮ್"
+            },
+            "meaning": {
+                "hi": "अभी",
+                "en": "now",
+                "be": "এখন",
+                "ka": "ಈಗ"
+            }
         },
         {
             "sanskrit": "अस्मि",
-            "transliteration": "asmi",
-            "meaning": "am"
+            "transliteration": {
+                "hi": "अस्मि",
+                "en": "asmi",
+                "be": "অস্মি",
+                "ka": "ಅಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "हूँ",
+                "en": "am",
+                "be": "am",
+                "ka": "ಬೆಳಗ್ಗೆ"
+            }
         },
         {
             "sanskrit": "संवृत्तः",
-            "transliteration": "saṃvṛttaḥ",
-            "meaning": "composed"
+            "transliteration": {
+                "hi": "संवृत्तः",
+                "en": "saṃvṛttaḥ",
+                "be": "সংবৃত্তঃ",
+                "ka": "ಸಂವೃತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "रचित",
+                "en": "composed",
+                "be": "রচিত",
+                "ka": "ಸಂಯೋಜಿಸಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "सचेताः",
-            "transliteration": "sacetāḥ",
-            "meaning": "with mind"
+            "transliteration": {
+                "hi": "सचेताः",
+                "en": "sacetāḥ",
+                "be": "সচেতাঃ",
+                "ka": "ಸಚೇತಾಃ"
+            },
+            "meaning": {
+                "hi": "मन से",
+                "en": "with mind",
+                "be": "মন দিয়ে",
+                "ka": "ಮನಸ್ಸಿನೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "प्रकृतिम्",
-            "transliteration": "prakṛtim",
-            "meaning": "to nature"
+            "transliteration": {
+                "hi": "प्रकृतिम्",
+                "en": "prakṛtim",
+                "be": "প্রকৃতিম্",
+                "ka": "ಪ್ರಕೃತಿಮ್"
+            },
+            "meaning": {
+                "hi": "प्रकृति को",
+                "en": "to nature",
+                "be": "প্রকৃতির কাছে",
+                "ka": "ಪ್ರಕೃತಿಗೆ"
+            }
         },
         {
             "sanskrit": "गतः",
-            "transliteration": "gataḥ",
-            "meaning": "restored."
+            "transliteration": {
+                "hi": "गतः",
+                "en": "gataḥ",
+                "be": "গতঃ",
+                "ka": "ಗತಃ"
+            },
+            "meaning": {
+                "hi": "बहाल.",
+                "en": "restored.",
+                "be": "পুনরুদ্ধার",
+                "ka": "ಪುನಃಸ್ಥಾಪಿಸಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

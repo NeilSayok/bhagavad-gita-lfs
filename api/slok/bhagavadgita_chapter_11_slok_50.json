@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\nityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ .\nāśvāsayāmāsa ca bhītamenaṃ bhūtvā punaḥ saumyavapurmahātmā ||11-50||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಇತ್ಯರ್ಜುನಂ ವಾಸುದೇವಸ್ತಥೋಕ್ತ್ವಾ\nಸ್ವಕಂ ರೂಪಂ ದರ್ಶಯಾಮಾಸ ಭೂಯಃ |\nಆಶ್ವಾಸಯಾಮಾಸ ಚ ಭೀತಮೇನಂ\nಭೂತ್ವಾ ಪುನಃ ಸೌಮ್ಯವಪುರ್ಮಹಾತ್ಮಾ ||೧೧-೫೦||"
     },
-    "transliteration": "sañjaya uvāca .\nityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ .\nāśvāsayāmāsa ca bhītamenaṃ bhūtvā punaḥ saumyavapurmahātmā ||11-50||",
-    "life_application": "Behold the Lord resuming His gentle, beautiful human-like form, bringing comfort and peace to your anxious heart.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nइत्यर्जुनं वासुदेवस्तथोक्त्वा\nस्वकं रूपं दर्शयामास भूयः |\nआश्वासयामास च भीतमेनं\nभूत्वा पुनः सौम्यवपुर्महात्मा ||११-५०||",
+        "en": "sañjaya uvāca .\nityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ .\nāśvāsayāmāsa ca bhītamenaṃ bhūtvā punaḥ saumyavapurmahātmā ||11-50||",
+        "be": "সঞ্জয উবাচ |\nইত্যর্জুনং বাসুদেবস্তথোক্ত্বা\nস্বকং রূপং দর্শযামাস ভূযঃ |\nআশ্বাসযামাস চ ভীতমেনং\nভূত্বা পুনঃ সৌম্যবপুর্মহাত্মা ||১১-৫০||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಇತ್ಯರ್ಜುನಂ ವಾಸುದೇವಸ್ತಥೋಕ್ತ್ವಾ\nಸ್ವಕಂ ರೂಪಂ ದರ್ಶಯಾಮಾಸ ಭೂಯಃ |\nಆಶ್ವಾಸಯಾಮಾಸ ಚ ಭೀತಮೇನಂ\nಭೂತ್ವಾ ಪುನಃ ಸೌಮ್ಯವಪುರ್ಮಹಾತ್ಮಾ ||೧೧-೫೦||"
+    },
+    "life_application": {
+        "hi": "प्रभु को अपने सौम्य, सुंदर मानव-सदृश रूप को पुनः प्राप्त करते हुए देखें, जो आपके चिंतित हृदय को आराम और शांति प्रदान कर रहा है।",
+        "en": "Behold the Lord resuming His gentle, beautiful human-like form, bringing comfort and peace to your anxious heart.",
+        "be": "দেখুন প্রভু তাঁর মৃদু, সুন্দর মানব-সদৃশ রূপ আবার শুরু করছেন, আপনার উদ্বিগ্ন হৃদয়ে স্বস্তি ও শান্তি আনছেন।",
+        "ka": "ಭಗವಂತನು ತನ್ನ ಸೌಮ್ಯವಾದ, ಸುಂದರವಾದ ಮಾನವ ರೂಪವನ್ನು ಪುನರಾರಂಭಿಸುತ್ತಿರುವುದನ್ನು ನೋಡಿ, ನಿಮ್ಮ ಆತಂಕದ ಹೃದಯಕ್ಕೆ ಸಾಂತ್ವನ ಮತ್ತು ಶಾಂತಿಯನ್ನು ತರುತ್ತಾನೆ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अर्जुनम्",
-            "transliteration": "arjunam",
-            "meaning": "to Arjuna"
+            "transliteration": {
+                "hi": "अर्जुनम्",
+                "en": "arjunam",
+                "be": "অর্জুনম্",
+                "ka": "ಅರ್ಜುನಮ್"
+            },
+            "meaning": {
+                "hi": "अर्जुन को",
+                "en": "to Arjuna",
+                "be": "অর্জুনের কাছে",
+                "ka": "ಅರ್ಜುನನಿಗೆ"
+            }
         },
         {
             "sanskrit": "वासुदेवः",
-            "transliteration": "vāsudevaḥ",
-            "meaning": "Vaasudeva"
+            "transliteration": {
+                "hi": "वासुदेवः",
+                "en": "vāsudevaḥ",
+                "be": "বাসুদেবঃ",
+                "ka": "ವಾಸುದೇವಃ"
+            },
+            "meaning": {
+                "hi": "वासुदेव",
+                "en": "Vaasudeva",
+                "be": "বাসুদেব",
+                "ka": "ವಾಸುದೇವ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "उक्त्वा",
-            "transliteration": "uktvā",
-            "meaning": "having spoken"
+            "transliteration": {
+                "hi": "उक्त्वा",
+                "en": "uktvā",
+                "be": "উক্ত্বা",
+                "ka": "ಉಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बोला जा रहा है",
+                "en": "having spoken",
+                "be": "কথা বলা হচ্ছে",
+                "ka": "ಮಾತನಾಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "स्वकम्",
-            "transliteration": "svakam",
-            "meaning": "His own"
+            "transliteration": {
+                "hi": "स्वकम्",
+                "en": "svakam",
+                "be": "স্বকম্",
+                "ka": "ಸ್ವಕಮ್"
+            },
+            "meaning": {
+                "hi": "उसका अपना",
+                "en": "His own",
+                "be": "তার নিজের",
+                "ka": "ಅವನ ಸ್ವಂತ"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "दर्शयामास",
-            "transliteration": "darśayāmāsa",
-            "meaning": "showed"
+            "transliteration": {
+                "hi": "दर्शयामास",
+                "en": "darśayāmāsa",
+                "be": "দর্শযামাস",
+                "ka": "ದರ್ಶಯಾಮಾಸ"
+            },
+            "meaning": {
+                "hi": "दिखाया",
+                "en": "showed",
+                "be": "দেখিয়েছে",
+                "ka": "ತೋರಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "आश्वासयामास",
-            "transliteration": "āśvāsayāmāsa",
-            "meaning": "consoled"
+            "transliteration": {
+                "hi": "आश्वासयामास",
+                "en": "āśvāsayāmāsa",
+                "be": "আশ্বাসযামাস",
+                "ka": "ಆಶ್ವಾಸಯಾಮಾಸ"
+            },
+            "meaning": {
+                "hi": "सांत्वना दी",
+                "en": "consoled",
+                "be": "সান্ত্বনা",
+                "ka": "ಸಾಂತ್ವನ ಹೇಳಿದರು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "भीतम्",
-            "transliteration": "bhītam",
-            "meaning": "who was terrified"
+            "transliteration": {
+                "hi": "भीतम्",
+                "en": "bhītam",
+                "be": "ভীতম্",
+                "ka": "ಭೀತಮ್"
+            },
+            "meaning": {
+                "hi": "जो भयभीत था",
+                "en": "who was terrified",
+                "be": "যারা আতঙ্কিত ছিল",
+                "ka": "ಗಾಬರಿಯಾಗಿದ್ದ"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "him"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "उसे",
+                "en": "him",
+                "be": "তাকে",
+                "ka": "ಅವನನ್ನು"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "having become"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बन रहा है",
+                "en": "having become",
+                "be": "হয়ে গেছে",
+                "ka": "ಆಯಿತು"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": "again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": "पुनः",
+                "en": "again",
+                "be": "আবার",
+                "ka": "ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "सौम्यवपुः",
-            "transliteration": "saumyavapuḥ",
-            "meaning": "of gentle form"
+            "transliteration": {
+                "hi": "सौम्यवपुः",
+                "en": "saumyavapuḥ",
+                "be": "সৌম্যবপুঃ",
+                "ka": "ಸೌಮ್ಯವಪುಃ"
+            },
+            "meaning": {
+                "hi": "सौम्य रूप का",
+                "en": "of gentle form",
+                "be": "মৃদু ফর্ম",
+                "ka": "ಸೌಮ್ಯ ರೂಪದ"
+            }
         },
         {
             "sanskrit": "महात्मा",
-            "transliteration": "mahātmā",
-            "meaning": "the greatsouled One."
+            "transliteration": {
+                "hi": "महात्मा",
+                "en": "mahātmā",
+                "be": "মহাত্মা",
+                "ka": "ಮಹಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "महानात्मा।",
+                "en": "the greatsouled One.",
+                "be": "মহান আত্মা এক",
+                "ka": "ಮಹಾನ್ ಚೇತನ."
+            }
         }
     ],
     "tej": {

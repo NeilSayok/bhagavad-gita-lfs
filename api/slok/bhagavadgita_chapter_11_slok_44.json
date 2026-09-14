@@ -14,8 +14,18 @@
         "en": "tasmātpraṇamya praṇidhāya kāyaṃ prasādaye tvāmahamīśamīḍyam .\npiteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||11-44||",
         "ka": "ತಸ್ಮಾತ್ಪ್ರಣಮ್ಯ ಪ್ರಣಿಧಾಯ ಕಾಯಂ\nಪ್ರಸಾದಯೇ ತ್ವಾಮಹಮೀಶಮೀಡ್ಯಮ್ |\nಪಿತೇವ ಪುತ್ರಸ್ಯ ಸಖೇವ ಸಖ್ಯುಃ\nಪ್ರಿಯಃ ಪ್ರಿಯಾಯಾರ್ಹಸಿ ದೇವ ಸೋಢುಮ್ ||೧೧-೪೪||"
     },
-    "transliteration": "tasmātpraṇamya praṇidhāya kāyaṃ prasādaye tvāmahamīśamīḍyam .\npiteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||11-44||",
-    "life_application": "Prostrate yourself before the Lord, asking for grace like a father forgiving a son, a friend a friend, a lover a beloved.",
+    "transliteration": {
+        "hi": "तस्मात्प्रणम्य प्रणिधाय कायं\nप्रसादये त्वामहमीशमीड्यम् |\nपितेव पुत्रस्य सखेव सख्युः\nप्रियः प्रियायार्हसि देव सोढुम् ||११-४४||",
+        "en": "tasmātpraṇamya praṇidhāya kāyaṃ prasādaye tvāmahamīśamīḍyam .\npiteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||11-44||",
+        "be": "তস্মাত্প্রণম্য প্রণিধায কাযং\nপ্রসাদযে ত্বামহমীশমীড্যম্ |\nপিতেব পুত্রস্য সখেব সখ্যুঃ\nপ্রিযঃ প্রিযাযার্হসি দেব সোঢুম্ ||১১-৪৪||",
+        "ka": "ತಸ್ಮಾತ್ಪ್ರಣಮ್ಯ ಪ್ರಣಿಧಾಯ ಕಾಯಂ\nಪ್ರಸಾದಯೇ ತ್ವಾಮಹಮೀಶಮೀಡ್ಯಮ್ |\nಪಿತೇವ ಪುತ್ರಸ್ಯ ಸಖೇವ ಸಖ್ಯುಃ\nಪ್ರಿಯಃ ಪ್ರಿಯಾಯಾರ್ಹಸಿ ದೇವ ಸೋಢುಮ್ ||೧೧-೪೪||"
+    },
+    "life_application": {
+        "hi": "भगवान के सामने साष्टांग प्रणाम करें, उस तरह अनुग्रह मांगें जैसे एक पिता अपने बेटे को माफ कर देता है, एक दोस्त अपने दोस्त को माफ कर देता है, एक प्रेमी अपने प्रियतम को माफ कर देता है।",
+        "en": "Prostrate yourself before the Lord, asking for grace like a father forgiving a son, a friend a friend, a lover a beloved.",
+        "be": "প্রভুর সামনে নিজেকে প্রণাম করুন, পিতার মতো করুণা চেয়ে পুত্রকে ক্ষমা করুন, বন্ধু বন্ধু, প্রেমিক প্রেয়সী।",
+        "ka": "ತಂದೆಯು ಮಗನನ್ನು ಕ್ಷಮಿಸುವಂತೆ, ಸ್ನೇಹಿತನನ್ನು ಸ್ನೇಹಿತನನ್ನು, ಪ್ರೇಮಿಯು ಪ್ರಿಯನನ್ನು ಕ್ಷಮಿಸುವಂತೆ ಕೃಪೆಯನ್ನು ಕೇಳುತ್ತಾ ಭಗವಂತನ ಮುಂದೆ ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रणम्य",
-            "transliteration": "praṇamya",
-            "meaning": "saluting"
+            "transliteration": {
+                "hi": "प्रणम्य",
+                "en": "praṇamya",
+                "be": "প্রণম্য",
+                "ka": "ಪ್ರಣಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "सलाम",
+                "en": "saluting",
+                "be": "অভিবাদন",
+                "ka": "ನಮಸ್ಕರಿಸುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "प्रणिधाय",
-            "transliteration": "praṇidhāya",
-            "meaning": "having bent"
+            "transliteration": {
+                "hi": "प्रणिधाय",
+                "en": "praṇidhāya",
+                "be": "প্রণিধায",
+                "ka": "ಪ್ರಣಿಧಾಯ"
+            },
+            "meaning": {
+                "hi": "झुकना",
+                "en": "having bent",
+                "be": "নমন থাকার",
+                "ka": "ಬಾಗಿದ"
+            }
         },
         {
             "sanskrit": "कायम्",
-            "transliteration": "kāyam",
-            "meaning": "body"
+            "transliteration": {
+                "hi": "कायम्",
+                "en": "kāyam",
+                "be": "কাযম্",
+                "ka": "ಕಾಯಮ್"
+            },
+            "meaning": {
+                "hi": "शरीर",
+                "en": "body",
+                "be": "শরীর",
+                "ka": "ದೇಹ"
+            }
         },
         {
             "sanskrit": "प्रसादये",
-            "transliteration": "prasādaye",
-            "meaning": "crave forgiveness"
+            "transliteration": {
+                "hi": "प्रसादये",
+                "en": "prasādaye",
+                "be": "প্রসাদযে",
+                "ka": "ಪ್ರಸಾದಯೇ"
+            },
+            "meaning": {
+                "hi": "क्षमा चाहते हैं",
+                "en": "crave forgiveness",
+                "be": "ক্ষমা চাই",
+                "ka": "ಕ್ಷಮೆಗಾಗಿ ಹಾತೊರೆಯುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "ईशम्",
-            "transliteration": "īśam",
-            "meaning": "the Lord"
+            "transliteration": {
+                "hi": "ईशम्",
+                "en": "īśam",
+                "be": "ঈশম্",
+                "ka": "ಈಶಮ್"
+            },
+            "meaning": {
+                "hi": "प्रभु",
+                "en": "the Lord",
+                "be": "প্রভু",
+                "ka": "ಲಾರ್ಡ್"
+            }
         },
         {
             "sanskrit": "ईड्यम्",
-            "transliteration": "īḍyam",
-            "meaning": "adorable"
+            "transliteration": {
+                "hi": "ईड्यम्",
+                "en": "īḍyam",
+                "be": "ঈড্যম্",
+                "ka": "ಈಡ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "मनमोहक",
+                "en": "adorable",
+                "be": "আরাধ্য",
+                "ka": "ಆರಾಧ್ಯ"
+            }
         },
         {
             "sanskrit": "पिता",
-            "transliteration": "pitā",
-            "meaning": "father"
+            "transliteration": {
+                "hi": "पिता",
+                "en": "pitā",
+                "be": "পিতা",
+                "ka": "ಪಿತಾ"
+            },
+            "meaning": {
+                "hi": "पिता",
+                "en": "father",
+                "be": "পিতা",
+                "ka": "ತಂದೆ"
+            }
         },
         {
             "sanskrit": "प्रियः",
-            "transliteration": "priyaḥ",
-            "meaning": "beloved"
+            "transliteration": {
+                "hi": "प्रियः",
+                "en": "priyaḥ",
+                "be": "প্রিযঃ",
+                "ka": "ಪ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय",
+                "en": "beloved",
+                "be": "প্রিয়",
+                "ka": "ಪ್ರೀತಿಯ"
+            }
         },
         {
             "sanskrit": "प्रियायाः",
-            "transliteration": "priyāyāḥ",
-            "meaning": "to the beloved"
+            "transliteration": {
+                "hi": "प्रियायाः",
+                "en": "priyāyāḥ",
+                "be": "প্রিযাযাঃ",
+                "ka": "ಪ್ರಿಯಾಯಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रिय को",
+                "en": "to the beloved",
+                "be": "প্রিয়জনের কাছে",
+                "ka": "ಪ್ರೀತಿಪಾತ್ರರಿಗೆ"
+            }
         },
         {
             "sanskrit": "अर्हसि",
-            "transliteration": "arhasi",
-            "meaning": "shouldst"
+            "transliteration": {
+                "hi": "अर्हसि",
+                "en": "arhasi",
+                "be": "অর্হসি",
+                "ka": "ಅರ್ಹಸಿ"
+            },
+            "meaning": {
+                "hi": "चाहिए",
+                "en": "shouldst",
+                "be": "উচিত",
+                "ka": "ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "देव",
-            "transliteration": "deva",
-            "meaning": "O God"
+            "transliteration": {
+                "hi": "देव",
+                "en": "deva",
+                "be": "দেব",
+                "ka": "ದೇವ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O God",
+                "be": "হে ঈশ্বর",
+                "ka": "ಓ ದೇವರೇ"
+            }
         },
         {
             "sanskrit": "सोढुम्",
-            "transliteration": "soḍhum",
-            "meaning": "to bear."
+            "transliteration": {
+                "hi": "सोढुम्",
+                "en": "soḍhum",
+                "be": "সোঢুম্",
+                "ka": "ಸೋಢುಮ್"
+            },
+            "meaning": {
+                "hi": "सहना.",
+                "en": "to bear.",
+                "be": "সহ্য করা",
+                "ka": "ಹೊರಲು."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .\ntenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||",
         "ka": "ಕಿರೀಟಿನಂ ಗದಿನಂ ಚಕ್ರಹಸ್ತಂ\nಇಚ್ಛಾಮಿ ತ್ವಾಂ ದ್ರಷ್ಟುಮಹಂ ತಥೈವ |\nತೇನೈವ ರೂಪೇಣ ಚತುರ್ಭುಜೇನ\nಸಹಸ್ರಬಾಹೋ ಭವ ವಿಶ್ವಮೂರ್ತೇ ||೧೧-೪೬||"
     },
-    "transliteration": "kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .\ntenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||",
-    "life_application": "Desire to see the familiar, beautiful, four-armed gentle form wearing a crown and holding mace and discus.",
+    "transliteration": {
+        "hi": "किरीटिनं गदिनं चक्रहस्तं\nइच्छामि त्वां द्रष्टुमहं तथैव |\nतेनैव रूपेण चतुर्भुजेन\nसहस्रबाहो भव विश्वमूर्ते ||११-४६||",
+        "en": "kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .\ntenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||",
+        "be": "কিরীটিনং গদিনং চক্রহস্তং\nইচ্ছামি ত্বাং দ্রষ্টুমহং তথৈব |\nতেনৈব রূপেণ চতুর্ভুজেন\nসহস্রবাহো ভব বিশ্বমূর্তে ||১১-৪৬||",
+        "ka": "ಕಿರೀಟಿನಂ ಗದಿನಂ ಚಕ್ರಹಸ್ತಂ\nಇಚ್ಛಾಮಿ ತ್ವಾಂ ದ್ರಷ್ಟುಮಹಂ ತಥೈವ |\nತೇನೈವ ರೂಪೇಣ ಚತುರ್ಭುಜೇನ\nಸಹಸ್ರಬಾಹೋ ಭವ ವಿಶ್ವಮೂರ್ತೇ ||೧೧-೪೬||"
+    },
+    "life_application": {
+        "hi": "मुकुट पहने हुए, गदा और चक्र धारण किए हुए, परिचित, सुंदर, चार भुजाओं वाले सौम्य रूप को देखने की इच्छा।",
+        "en": "Desire to see the familiar, beautiful, four-armed gentle form wearing a crown and holding mace and discus.",
+        "be": "একটি মুকুট পরা এবং গদা এবং চাকতি ধারণ করা পরিচিত, সুন্দর, চার-বাহুযুক্ত কোমল রূপটি দেখার ইচ্ছা।",
+        "ka": "ಕಿರೀಟವನ್ನು ಧರಿಸಿರುವ ಮತ್ತು ಗದೆ ಮತ್ತು ಡಿಸ್ಕಸ್ ಅನ್ನು ಹಿಡಿದಿರುವ ಪರಿಚಿತ, ಸುಂದರ, ನಾಲ್ಕು ತೋಳುಗಳ ಸೌಮ್ಯ ರೂಪವನ್ನು ನೋಡುವ ಬಯಕೆ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "किरीटिनम्",
-            "transliteration": "kirīṭinam",
-            "meaning": "wearing crown"
+            "transliteration": {
+                "hi": "किरीटिनम्",
+                "en": "kirīṭinam",
+                "be": "কিরীটিনম্",
+                "ka": "ಕಿರೀಟಿನಮ್"
+            },
+            "meaning": {
+                "hi": "मुकुट पहने हुए",
+                "en": "wearing crown",
+                "be": "মুকুট পরা",
+                "ka": "ಕಿರೀಟವನ್ನು ಧರಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "गदिनम्",
-            "transliteration": "gadinam",
-            "meaning": "bearing a mace"
+            "transliteration": {
+                "hi": "गदिनम्",
+                "en": "gadinam",
+                "be": "গদিনম্",
+                "ka": "ಗದಿನಮ್"
+            },
+            "meaning": {
+                "hi": "गदा धारण करना",
+                "en": "bearing a mace",
+                "be": "একটি গদা বহন",
+                "ka": "ಗದೆಯನ್ನು ಹೊತ್ತ"
+            }
         },
         {
             "sanskrit": "चक्रहस्तम्",
-            "transliteration": "cakrahastam",
-            "meaning": "with a discus in"
+            "transliteration": {
+                "hi": "चक्रहस्तम्",
+                "en": "cakrahastam",
+                "be": "চক্রহস্তম্",
+                "ka": "ಚಕ್ರಹಸ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "डिस्कस के साथ",
+                "en": "with a discus in",
+                "be": "মধ্যে একটি ডিসকাস সঙ্গে",
+                "ka": "ಒಂದು ಡಿಸ್ಕಸ್ನೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "इच्छामि",
-            "transliteration": "icchāmi",
-            "meaning": "desire"
+            "transliteration": {
+                "hi": "इच्छामि",
+                "en": "icchāmi",
+                "be": "ইচ্ছামি",
+                "ka": "ಇಚ್ಛಾಮಿ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "desire",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "द्रष्टुम्",
-            "transliteration": "draṣṭum",
-            "meaning": "to see"
+            "transliteration": {
+                "hi": "द्रष्टुम्",
+                "en": "draṣṭum",
+                "be": "দ্রষ্টুম্",
+                "ka": "ದ್ರಷ್ಟುಮ್"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "to see",
+                "be": "দেখতে",
+                "ka": "ನೋಡಲು"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "तथैव",
-            "transliteration": "tathaiva",
-            "meaning": "as before"
+            "transliteration": {
+                "hi": "तथैव",
+                "en": "tathaiva",
+                "be": "তথৈব",
+                "ka": "ತಥೈವ"
+            },
+            "meaning": {
+                "hi": "पहले जैसा",
+                "en": "as before",
+                "be": "আগের মত",
+                "ka": "ಮೊದಲಿನಂತೆ"
+            }
         },
         {
             "sanskrit": "तेनैव",
-            "transliteration": "tenaiva",
-            "meaning": "that same"
+            "transliteration": {
+                "hi": "तेनैव",
+                "en": "tenaiva",
+                "be": "তেনৈব",
+                "ka": "ತೇನೈವ"
+            },
+            "meaning": {
+                "hi": "वही",
+                "en": "that same",
+                "be": "যে একই",
+                "ka": "ಅದೇ"
+            }
         },
         {
             "sanskrit": "रूपेण",
-            "transliteration": "rūpeṇa",
-            "meaning": "of form"
+            "transliteration": {
+                "hi": "रूपेण",
+                "en": "rūpeṇa",
+                "be": "রূপেণ",
+                "ka": "ರೂಪೇಣ"
+            },
+            "meaning": {
+                "hi": "रूप का",
+                "en": "of form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪದ"
+            }
         },
         {
             "sanskrit": "चतुर्भुजेन",
-            "transliteration": "caturbhujena",
-            "meaning": "fourarmed"
+            "transliteration": {
+                "hi": "चतुर्भुजेन",
+                "en": "caturbhujena",
+                "be": "চতুর্ভুজেন",
+                "ka": "ಚತುರ್ಭುಜೇನ"
+            },
+            "meaning": {
+                "hi": "चतुर्भुज",
+                "en": "fourarmed",
+                "be": "চার সশস্ত্র",
+                "ka": "ನಾಲ್ಕು ಶಸ್ತ್ರಸಜ್ಜಿತ"
+            }
         },
         {
             "sanskrit": "सहस्रबाहो",
-            "transliteration": "sahasrabāho",
-            "meaning": "O thousandarmed"
+            "transliteration": {
+                "hi": "सहस्रबाहो",
+                "en": "sahasrabāho",
+                "be": "সহস্রবাহো",
+                "ka": "ಸಹಸ್ರಬಾಹೋ"
+            },
+            "meaning": {
+                "hi": "हे सहस्रबाहु!",
+                "en": "O thousandarmed",
+                "be": "হে হাজার সশস্ত্র",
+                "ka": "ಓ ಸಾವಿರಾಯುಧ"
+            }
         },
         {
             "sanskrit": "भव",
-            "transliteration": "bhava",
-            "meaning": "be"
+            "transliteration": {
+                "hi": "भव",
+                "en": "bhava",
+                "be": "ভব",
+                "ka": "ಭವ"
+            },
+            "meaning": {
+                "hi": "हो",
+                "en": "be",
+                "be": "হতে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "विश्वमूर्ते",
-            "transliteration": "viśvamūrte",
-            "meaning": "O Universal Form."
+            "transliteration": {
+                "hi": "विश्वमूर्ते",
+                "en": "viśvamūrte",
+                "be": "বিশ্বমূর্তে",
+                "ka": "ವಿಶ್ವಮೂರ್ತೇ"
+            },
+            "meaning": {
+                "hi": "हे विश्वस्वरूप!",
+                "en": "O Universal Form.",
+                "be": "হে সর্বজনীন রূপ।",
+                "ka": "ಓ ಸಾರ್ವತ್ರಿಕ ರೂಪ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nmayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt .\ntejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam ||11-47||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಮಯಾ ಪ್ರಸನ್ನೇನ ತವಾರ್ಜುನೇದಂ\nರೂಪಂ ಪರಂ ದರ್ಶಿತಮಾತ್ಮಯೋಗಾತ್ |\nತೇಜೋಮಯಂ ವಿಶ್ವಮನನ್ತಮಾದ್ಯಂ\nಯನ್ಮೇ ತ್ವದನ್ಯೇನ ನ ದೃಷ್ಟಪೂರ್ವಮ್ ||೧೧-೪೭||"
     },
-    "transliteration": "śrībhagavānuvāca .\nmayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt .\ntejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam ||11-47||",
-    "life_application": "Appreciate divine grace that revealed this supreme, radiant, infinite, primeval cosmic form never seen before by others.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nमया प्रसन्नेन तवार्जुनेदं\nरूपं परं दर्शितमात्मयोगात् |\nतेजोमयं विश्वमनन्तमाद्यं\nयन्मे त्वदन्येन न दृष्टपूर्वम् ||११-४७||",
+        "en": "śrībhagavānuvāca .\nmayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt .\ntejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam ||11-47||",
+        "be": "শ্রীভগবানুবাচ |\nমযা প্রসন্নেন তবার্জুনেদং\nরূপং পরং দর্শিতমাত্মযোগাত্ |\nতেজোমযং বিশ্বমনন্তমাদ্যং\nযন্মে ত্বদন্যেন ন দৃষ্টপূর্বম্ ||১১-৪৭||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಮಯಾ ಪ್ರಸನ್ನೇನ ತವಾರ್ಜುನೇದಂ\nರೂಪಂ ಪರಂ ದರ್ಶಿತಮಾತ್ಮಯೋಗಾತ್ |\nತೇಜೋಮಯಂ ವಿಶ್ವಮನನ್ತಮಾದ್ಯಂ\nಯನ್ಮೇ ತ್ವದನ್ಯೇನ ನ ದೃಷ್ಟಪೂರ್ವಮ್ ||೧೧-೪೭||"
+    },
+    "life_application": {
+        "hi": "दैवीय कृपा की सराहना करें जिसने इस सर्वोच्च, उज्ज्वल, अनंत, आदिम ब्रह्मांडीय रूप को प्रकट किया जो पहले कभी दूसरों द्वारा नहीं देखा गया था।",
+        "en": "Appreciate divine grace that revealed this supreme, radiant, infinite, primeval cosmic form never seen before by others.",
+        "be": "ঐশ্বরিক অনুগ্রহের প্রশংসা করুন যা এই সর্বোচ্চ, দীপ্তিময়, অসীম, আদিম মহাজাগতিক রূপ প্রকাশ করেছে যা অন্যরা আগে কখনও দেখেনি।",
+        "ka": "ಈ ಪರಮ, ಉಜ್ವಲ, ಅನಂತ, ಆದಿಮಾನವ ಕಾಸ್ಮಿಕ್ ರೂಪವನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ ದೈವಿಕ ಕೃಪೆಯನ್ನು ಶ್ಲಾಘಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,98 +33,288 @@
     "word_meanings": [
         {
             "sanskrit": "मया",
-            "transliteration": "mayā",
-            "meaning": "by Me"
+            "transliteration": {
+                "hi": "मया",
+                "en": "mayā",
+                "be": "মযা",
+                "ka": "ಮಯಾ"
+            },
+            "meaning": {
+                "hi": "मेरे द्वारा",
+                "en": "by Me",
+                "be": "আমার দ্বারা",
+                "ka": "ನನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रसन्नेन",
-            "transliteration": "prasannena",
-            "meaning": "gracious"
+            "transliteration": {
+                "hi": "प्रसन्नेन",
+                "en": "prasannena",
+                "be": "প্রসন্নেন",
+                "ka": "ಪ್ರಸನ್ನೇನ"
+            },
+            "meaning": {
+                "hi": "दयालु",
+                "en": "gracious",
+                "be": "করুণাময়",
+                "ka": "ಕೃಪೆಯುಳ್ಳ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "to thee"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तुम्हारे लिए",
+                "en": "to thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "O Arjuna"
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna",
+                "be": "হে অর্জুন",
+                "ka": "ಓ ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "रूपम्",
-            "transliteration": "rūpam",
-            "meaning": "form"
+            "transliteration": {
+                "hi": "रूपम्",
+                "en": "rūpam",
+                "be": "রূপম্",
+                "ka": "ರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "रूप",
+                "en": "form",
+                "be": "ফর্ম",
+                "ka": "ರೂಪ"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "supreme"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯುನ್ನತ"
+            }
         },
         {
             "sanskrit": "दर्शितम्",
-            "transliteration": "darśitam",
-            "meaning": "has been shown"
+            "transliteration": {
+                "hi": "दर्शितम्",
+                "en": "darśitam",
+                "be": "দর্শিতম্",
+                "ka": "ದರ್ಶಿತಮ್"
+            },
+            "meaning": {
+                "hi": "दिखाया गया है",
+                "en": "has been shown",
+                "be": "দেখানো হয়েছে",
+                "ka": "ತೋರಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "आत्मयोगात्",
-            "transliteration": "ātmayogāt",
-            "meaning": "by My own Yogic"
+            "transliteration": {
+                "hi": "आत्मयोगात्",
+                "en": "ātmayogāt",
+                "be": "আত্মযোগাত্",
+                "ka": "ಆತ್ಮಯೋಗಾತ್"
+            },
+            "meaning": {
+                "hi": "मेरे अपने योग द्वारा",
+                "en": "by My own Yogic",
+                "be": "আমার নিজের যোগিক দ্বারা",
+                "ka": "ನನ್ನ ಸ್ವಂತ ಯೋಗದಿಂದ"
+            }
         },
         {
             "sanskrit": "तेजोमयम्",
-            "transliteration": "tejomayam",
-            "meaning": "full of splendour"
+            "transliteration": {
+                "hi": "तेजोमयम्",
+                "en": "tejomayam",
+                "be": "তেজোমযম্",
+                "ka": "ತೇಜೋಮಯಮ್"
+            },
+            "meaning": {
+                "hi": "वैभव से भरपूर",
+                "en": "full of splendour",
+                "be": "জাঁকজমকপূর্ণ",
+                "ka": "ವೈಭವದಿಂದ ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "विश्वम्",
-            "transliteration": "viśvam",
-            "meaning": "universal"
+            "transliteration": {
+                "hi": "विश्वम्",
+                "en": "viśvam",
+                "be": "বিশ্বম্",
+                "ka": "ವಿಶ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सार्वभौमिक",
+                "en": "universal",
+                "be": "সর্বজনীন",
+                "ka": "ಸಾರ್ವತ್ರಿಕ"
+            }
         },
         {
             "sanskrit": "अनन्तम्",
-            "transliteration": "anantam",
-            "meaning": "endless"
+            "transliteration": {
+                "hi": "अनन्तम्",
+                "en": "anantam",
+                "be": "অনন্তম্",
+                "ka": "ಅನನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अंतहीन",
+                "en": "endless",
+                "be": "অন্তহীন",
+                "ka": "ಅಂತ್ಯವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "आद्यम्",
-            "transliteration": "ādyam",
-            "meaning": "primeval"
+            "transliteration": {
+                "hi": "आद्यम्",
+                "en": "ādyam",
+                "be": "আদ্যম্",
+                "ka": "ಆದ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "आदिम",
+                "en": "primeval",
+                "be": "আদিম",
+                "ka": "ಪ್ರಾಚೀನ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "त्वत्",
-            "transliteration": "tvat",
-            "meaning": "from thee"
+            "transliteration": {
+                "hi": "त्वत्",
+                "en": "tvat",
+                "be": "ত্বত্",
+                "ka": "ತ್ವತ್"
+            },
+            "meaning": {
+                "hi": "तुमसे",
+                "en": "from thee",
+                "be": "তোমার কাছ থেকে",
+                "ka": "ನಿನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "अन्येन",
-            "transliteration": "anyena",
-            "meaning": "by another"
+            "transliteration": {
+                "hi": "अन्येन",
+                "en": "anyena",
+                "be": "অন্যেন",
+                "ka": "ಅನ್ಯೇನ"
+            },
+            "meaning": {
+                "hi": "दूसरे द्वारा",
+                "en": "by another",
+                "be": "অন্যের দ্বারা",
+                "ka": "ಇನ್ನೊಬ್ಬರಿಂದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "दृष्टपूर्वम्",
-            "transliteration": "dṛṣṭapūrvam",
-            "meaning": "seen before."
+            "transliteration": {
+                "hi": "दृष्टपूर्वम्",
+                "en": "dṛṣṭapūrvam",
+                "be": "দৃষ্টপূর্বম্",
+                "ka": "ದೃಷ್ಟಪೂರ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "पहले कभी नहीं देखा।",
+                "en": "seen before.",
+                "be": "আগে দেখা",
+                "ka": "ಮೊದಲು ನೋಡಿದೆ."
+            }
         }
     ],
     "tej": {

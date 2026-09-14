@@ -14,8 +14,18 @@
         "en": "vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ .\nnirmamo nirahaṅkāraḥ sa śāntimadhigacchati ||2-71||",
         "ka": "ವಿಹಾಯ ಕಾಮಾನ್ಯಃ ಸರ್ವಾನ್ಪುಮಾಂಶ್ಚರತಿ ನಿಃಸ್ಪೃಹಃ |\nನಿರ್ಮಮೋ ನಿರಹಙ್ಕಾರಃ ಸ ಶಾನ್ತಿಮಧಿಗಚ್ಛತಿ ||೨-೭೧||"
     },
-    "transliteration": "vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ .\nnirmamo nirahaṅkāraḥ sa śāntimadhigacchati ||2-71||",
-    "life_application": "Release possessiveness and ego-centered thinking today to experience deep, unshakeable peace of mind.",
+    "transliteration": {
+        "hi": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः |\nनिर्ममो निरहङ्कारः स शान्तिमधिगच्छति ||२-७१||",
+        "en": "vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ .\nnirmamo nirahaṅkāraḥ sa śāntimadhigacchati ||2-71||",
+        "be": "বিহায কামান্যঃ সর্বান্পুমাংশ্চরতি নিঃস্পৃহঃ |\nনির্মমো নিরহঙ্কারঃ স শান্তিমধিগচ্ছতি ||২-৭১||",
+        "ka": "ವಿಹಾಯ ಕಾಮಾನ್ಯಃ ಸರ್ವಾನ್ಪುಮಾಂಶ್ಚರತಿ ನಿಃಸ್ಪೃಹಃ |\nನಿರ್ಮಮೋ ನಿರಹಙ್ಕಾರಃ ಸ ಶಾನ್ತಿಮಧಿಗಚ್ಛತಿ ||೨-೭೧||"
+    },
+    "life_application": {
+        "hi": "मन की गहरी, अटल शांति का अनुभव करने के लिए आज ही स्वामित्व और अहंकार-केंद्रित सोच को छोड़ें।",
+        "en": "Release possessiveness and ego-centered thinking today to experience deep, unshakeable peace of mind.",
+        "be": "গভীর, অটুট মানসিক শান্তি অনুভব করতে আজই অধিকার এবং অহং-কেন্দ্রিক চিন্তাভাবনা ছেড়ে দিন।",
+        "ka": "ಆಳವಾದ, ಅಚಲವಾದ ಮನಸ್ಸಿನ ಶಾಂತಿಯನ್ನು ಅನುಭವಿಸಲು ಇಂದು ಸ್ವಾಮ್ಯಸೂಚಕತೆ ಮತ್ತು ಅಹಂ-ಕೇಂದ್ರಿತ ಚಿಂತನೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "विहाय",
-            "transliteration": "vihāya",
-            "meaning": "abandoning"
+            "transliteration": {
+                "hi": "विहाय",
+                "en": "vihāya",
+                "be": "বিহায",
+                "ka": "ವಿಹಾಯ"
+            },
+            "meaning": {
+                "hi": "त्यागना",
+                "en": "abandoning",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "कामान्",
-            "transliteration": "kāmān",
-            "meaning": "desires"
+            "transliteration": {
+                "hi": "कामान्",
+                "en": "kāmān",
+                "be": "কামান্",
+                "ka": "ಕಾಮಾನ್"
+            },
+            "meaning": {
+                "hi": "इच्छाएँ",
+                "en": "desires",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "सर्वान्",
-            "transliteration": "sarvān",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वान्",
+                "en": "sarvān",
+                "be": "সর্বান্",
+                "ka": "ಸರ್ವಾನ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "पुमान्",
-            "transliteration": "pumān",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "पुमान्",
+                "en": "pumān",
+                "be": "পুমান্",
+                "ka": "ಪುಮಾನ್"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "चरति",
-            "transliteration": "carati",
-            "meaning": "moves about"
+            "transliteration": {
+                "hi": "चरति",
+                "en": "carati",
+                "be": "চরতি",
+                "ka": "ಚರತಿ"
+            },
+            "meaning": {
+                "hi": "घूमता रहता है",
+                "en": "moves about",
+                "be": "সম্পর্কে নড়াচড়া করে",
+                "ka": "ಸುಮಾರು ಚಲಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "निःस्पृहः",
-            "transliteration": "niḥspṛhaḥ",
-            "meaning": "free from longing"
+            "transliteration": {
+                "hi": "निःस्पृहः",
+                "en": "niḥspṛhaḥ",
+                "be": "নিঃস্পৃহঃ",
+                "ka": "ನಿಃಸ್ಪೃಹಃ"
+            },
+            "meaning": {
+                "hi": "लालसा से मुक्त",
+                "en": "free from longing",
+                "be": "আকাঙ্ক্ষা থেকে মুক্ত",
+                "ka": "ಹಂಬಲದಿಂದ ಮುಕ್ತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "निर्ममः",
-            "transliteration": "nirmamaḥ",
-            "meaning": "devoid of mineness"
+            "transliteration": {
+                "hi": "निर्ममः",
+                "en": "nirmamaḥ",
+                "be": "নির্মমঃ",
+                "ka": "ನಿರ್ಮಮಃ"
+            },
+            "meaning": {
+                "hi": "मेरेपन से रहित",
+                "en": "devoid of mineness",
+                "be": "mineness বর্জিত",
+                "ka": "ಗಣಿತನ ರಹಿತ"
+            }
         },
         {
             "sanskrit": "निरहंकारः",
-            "transliteration": "nirahaṃkāraḥ",
-            "meaning": "without egoism"
+            "transliteration": {
+                "hi": "निरहंकारः",
+                "en": "nirahaṃkāraḥ",
+                "be": "নিরহংকারঃ",
+                "ka": "ನಿರಹಂಕಾರಃ"
+            },
+            "meaning": {
+                "hi": "अहंकार के बिना",
+                "en": "without egoism",
+                "be": "অহংবোধ ছাড়া",
+                "ka": "ಅಹಂಕಾರವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "शान्तिम्",
-            "transliteration": "śāntim",
-            "meaning": "to peace"
+            "transliteration": {
+                "hi": "शान्तिम्",
+                "en": "śāntim",
+                "be": "শান্তিম্",
+                "ka": "ಶಾನ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "शांति के लिए",
+                "en": "to peace",
+                "be": "শান্তিতে",
+                "ka": "ಶಾಂತಿಗೆ"
+            }
         },
         {
             "sanskrit": "अधिगच्छति",
-            "transliteration": "adhigacchati",
-            "meaning": "attains."
+            "transliteration": {
+                "hi": "अधिगच्छति",
+                "en": "adhigacchati",
+                "be": "অধিগচ্ছতি",
+                "ka": "ಅಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है.",
+                "en": "attains.",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

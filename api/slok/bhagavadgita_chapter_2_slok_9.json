@@ -14,8 +14,18 @@
         "en": "sañjaya uvāca .\nevamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ .\nna yotsya iti govindamuktvā tūṣṇīṃ babhūva ha ||2-9||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾ ಹೃಷೀಕೇಶಂ ಗುಡಾಕೇಶಃ ಪರನ್ತಪ |\nನ ಯೋತ್ಸ್ಯ ಇತಿ ಗೋವಿನ್ದಮುಕ್ತ್ವಾ ತೂಷ್ಣೀಂ ಬಭೂವ ಹ ||೨-೯||"
     },
-    "transliteration": "sañjaya uvāca .\nevamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ .\nna yotsya iti govindamuktvā tūṣṇīṃ babhūva ha ||2-9||",
-    "life_application": "Observe your own urge to withdraw into silence when a challenge feels too heavy to carry alone.",
+    "transliteration": {
+        "hi": "सञ्जय उवाच |\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप |\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||२-९||",
+        "en": "sañjaya uvāca .\nevamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ .\nna yotsya iti govindamuktvā tūṣṇīṃ babhūva ha ||2-9||",
+        "be": "সঞ্জয উবাচ |\nএবমুক্ত্বা হৃষীকেশং গুডাকেশঃ পরন্তপ |\nন যোত্স্য ইতি গোবিন্দমুক্ত্বা তূষ্ণীং বভূব হ ||২-৯||",
+        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾ ಹೃಷೀಕೇಶಂ ಗುಡಾಕೇಶಃ ಪರನ್ತಪ |\nನ ಯೋತ್ಸ್ಯ ಇತಿ ಗೋವಿನ್ದಮುಕ್ತ್ವಾ ತೂಷ್ಣೀಂ ಬಭೂವ ಹ ||೨-೯||"
+    },
+    "life_application": {
+        "hi": "जब कोई चुनौती अकेले उठाना बहुत भारी लगे तो मौन रहने की अपनी इच्छा पर गौर करें।",
+        "en": "Observe your own urge to withdraw into silence when a challenge feels too heavy to carry alone.",
+        "be": "একটি চ্যালেঞ্জ একা বহন করা খুব ভারী মনে হলে নীরবতা প্রত্যাহার করার জন্য আপনার নিজের তাগিদ পর্যবেক্ষণ করুন।",
+        "ka": "ಏಕಾಂಗಿಯಾಗಿ ಸಾಗಿಸಲು ಸವಾಲು ತುಂಬಾ ಭಾರವಾದಾಗ ಮೌನವಾಗಿ ಹಿಂತೆಗೆದುಕೊಳ್ಳುವ ನಿಮ್ಮ ಸ್ವಂತ ಪ್ರಚೋದನೆಯನ್ನು ಗಮನಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "उक्त्वा",
-            "transliteration": "uktvā",
-            "meaning": "having spoken"
+            "transliteration": {
+                "hi": "उक्त्वा",
+                "en": "uktvā",
+                "be": "উক্ত্বা",
+                "ka": "ಉಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बोला जा रहा है",
+                "en": "having spoken",
+                "be": "কথা বলা হচ্ছে",
+                "ka": "ಮಾತನಾಡಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "हृषीकेशम्",
-            "transliteration": "hṛṣīkeśam",
-            "meaning": "to Hrishikesha"
+            "transliteration": {
+                "hi": "हृषीकेशम्",
+                "en": "hṛṣīkeśam",
+                "be": "হৃষীকেশম্",
+                "ka": "ಹೃಷೀಕೇಶಮ್"
+            },
+            "meaning": {
+                "hi": "हृषिकेश को",
+                "en": "to Hrishikesha",
+                "be": "হৃষীকেশের কাছে",
+                "ka": "ಹೃಷಿಕೇಶನಿಗೆ"
+            }
         },
         {
             "sanskrit": "गुडाकेशः",
-            "transliteration": "guḍākeśaḥ",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "गुडाकेशः",
+                "en": "guḍākeśaḥ",
+                "be": "গুডাকেশঃ",
+                "ka": "ಗುಡಾಕೇಶಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "परन्तप",
-            "transliteration": "parantapa",
-            "meaning": "destroyer of foes"
+            "transliteration": {
+                "hi": "परन्तप",
+                "en": "parantapa",
+                "be": "পরন্তপ",
+                "ka": "ಪರನ್ತಪ"
+            },
+            "meaning": {
+                "hi": "शत्रुओं का नाश करने वाला",
+                "en": "destroyer of foes",
+                "be": "শত্রুদের ধ্বংসকারী",
+                "ka": "ಶತ್ರುಗಳ ನಾಶಕ"
+            }
         },
         {
             "sanskrit": "न योत्स्ये",
-            "transliteration": "na yotsye",
-            "meaning": "I will not fight"
+            "transliteration": {
+                "hi": "न योत्स्ये",
+                "en": "na yotsye",
+                "be": "ন যোত্স্যে",
+                "ka": "ನ ಯೋತ್ಸ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "मैं युद्ध नहीं करूंगा",
+                "en": "I will not fight",
+                "be": "আমি যুদ্ধ করব না",
+                "ka": "ನಾನು ಜಗಳವಾಡುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "गोविन्दम्",
-            "transliteration": "govindam",
-            "meaning": "to Govinda"
+            "transliteration": {
+                "hi": "गोविन्दम्",
+                "en": "govindam",
+                "be": "গোবিন্দম্",
+                "ka": "ಗೋವಿನ್ದಮ್"
+            },
+            "meaning": {
+                "hi": "गोविंदा को",
+                "en": "to Govinda",
+                "be": "গোবিন্দের কাছে",
+                "ka": "ಗೋವಿಂದನಿಗೆ"
+            }
         },
         {
             "sanskrit": "उक्त्वा",
-            "transliteration": "uktvā",
-            "meaning": "having said"
+            "transliteration": {
+                "hi": "उक्त्वा",
+                "en": "uktvā",
+                "be": "উক্ত্বা",
+                "ka": "ಉಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "कहा जा रहा है",
+                "en": "having said",
+                "be": "বলেছেন",
+                "ka": "ಹೇಳಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "तूष्णीम्",
-            "transliteration": "tūṣṇīm",
-            "meaning": "silent"
+            "transliteration": {
+                "hi": "तूष्णीम्",
+                "en": "tūṣṇīm",
+                "be": "তূষ্ণীম্",
+                "ka": "ತೂಷ್ಣೀಮ್"
+            },
+            "meaning": {
+                "hi": "चुप",
+                "en": "silent",
+                "be": "নীরব",
+                "ka": "ಮೌನ"
+            }
         },
         {
             "sanskrit": "बभूव ह",
-            "transliteration": "babhūva ha",
-            "meaning": "became."
+            "transliteration": {
+                "hi": "बभूव ह",
+                "en": "babhūva ha",
+                "be": "বভূব হ",
+                "ka": "ಬಭೂವ ಹ"
+            },
+            "meaning": {
+                "hi": "बन गया।",
+                "en": "became.",
+                "be": "হয়ে ওঠে",
+                "ka": "ಆಯಿತು."
+            }
         }
     ],
     "tej": {

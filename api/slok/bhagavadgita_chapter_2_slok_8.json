@@ -14,8 +14,18 @@
         "en": "na hi prapaśyāmi mamāpanudyād yacchokamucchoṣaṇamindriyāṇām .\navāpya bhūmāvasapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam ||2-8||",
         "ka": "ನ ಹಿ ಪ್ರಪಶ್ಯಾಮಿ ಮಮಾಪನುದ್ಯಾದ್\nಯಚ್ಛೋಕಮುಚ್ಛೋಷಣಮಿನ್ದ್ರಿಯಾಣಾಮ್ |\nಅವಾಪ್ಯ ಭೂಮಾವಸಪತ್ನಮೃದ್ಧಂ\nರಾಜ್ಯಂ ಸುರಾಣಾಮಪಿ ಚಾಧಿಪತ್ಯಮ್ ||೨-೮||"
     },
-    "transliteration": "na hi prapaśyāmi mamāpanudyād yacchokamucchoṣaṇamindriyāṇām .\navāpya bhūmāvasapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam ||2-8||",
-    "life_application": "Recognize that external status or material wealth cannot cure deep emotional grief or inner existential confusion.",
+    "transliteration": {
+        "hi": "न हि प्रपश्यामि ममापनुद्याद्\nयच्छोकमुच्छोषणमिन्द्रियाणाम् |\nअवाप्य भूमावसपत्नमृद्धं\nराज्यं सुराणामपि चाधिपत्यम् ||२-८||",
+        "en": "na hi prapaśyāmi mamāpanudyād yacchokamucchoṣaṇamindriyāṇām .\navāpya bhūmāvasapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam ||2-8||",
+        "be": "ন হি প্রপশ্যামি মমাপনুদ্যাদ্\nযচ্ছোকমুচ্ছোষণমিন্দ্রিযাণাম্ |\nঅবাপ্য ভূমাবসপত্নমৃদ্ধং\nরাজ্যং সুরাণামপি চাধিপত্যম্ ||২-৮||",
+        "ka": "ನ ಹಿ ಪ್ರಪಶ್ಯಾಮಿ ಮಮಾಪನುದ್ಯಾದ್\nಯಚ್ಛೋಕಮುಚ್ಛೋಷಣಮಿನ್ದ್ರಿಯಾಣಾಮ್ |\nಅವಾಪ್ಯ ಭೂಮಾವಸಪತ್ನಮೃದ್ಧಂ\nರಾಜ್ಯಂ ಸುರಾಣಾಮಪಿ ಚಾಧಿಪತ್ಯಮ್ ||೨-೮||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि बाहरी स्थिति या भौतिक संपत्ति गहरे भावनात्मक दुःख या आंतरिक अस्तित्व संबंधी भ्रम को ठीक नहीं कर सकती।",
+        "en": "Recognize that external status or material wealth cannot cure deep emotional grief or inner existential confusion.",
+        "be": "স্বীকার করুন যে বাহ্যিক অবস্থা বা বস্তুগত সম্পদ গভীর মানসিক দুঃখ বা অভ্যন্তরীণ অস্তিত্বের বিভ্রান্তি নিরাময় করতে পারে না।",
+        "ka": "ಬಾಹ್ಯ ಸ್ಥಿತಿ ಅಥವಾ ಭೌತಿಕ ಸಂಪತ್ತು ಆಳವಾದ ಭಾವನಾತ್ಮಕ ದುಃಖ ಅಥವಾ ಆಂತರಿಕ ಅಸ್ತಿತ್ವದ ಗೊಂದಲವನ್ನು ಗುಣಪಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Mind"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "न हि",
-            "transliteration": "na hi",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न हि",
+                "en": "na hi",
+                "be": "ন হি",
+                "ka": "ನ ಹಿ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "प्रपश्यामि",
-            "transliteration": "prapaśyāmi",
-            "meaning": "I see"
+            "transliteration": {
+                "hi": "प्रपश्यामि",
+                "en": "prapaśyāmi",
+                "be": "প্রপশ্যামি",
+                "ka": "ಪ್ರಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "मैं देखता हूँ",
+                "en": "I see",
+                "be": "আমি দেখছি",
+                "ka": "ನಾನು ನೋಡುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "अपनुद्यात्",
-            "transliteration": "apanudyāt",
-            "meaning": "would remove"
+            "transliteration": {
+                "hi": "अपनुद्यात्",
+                "en": "apanudyāt",
+                "be": "অপনুদ্যাত্",
+                "ka": "ಅಪನುದ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "हटा देंगे",
+                "en": "would remove",
+                "be": "অপসারণ করবে",
+                "ka": "ತೆಗೆಯುತ್ತಿದ್ದರು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "शोकम्",
-            "transliteration": "śokam",
-            "meaning": "grief"
+            "transliteration": {
+                "hi": "शोकम्",
+                "en": "śokam",
+                "be": "শোকম্",
+                "ka": "ಶೋಕಮ್"
+            },
+            "meaning": {
+                "hi": "दु:ख",
+                "en": "grief",
+                "be": "দুঃখ",
+                "ka": "ದುಃಖ"
+            }
         },
         {
             "sanskrit": "उच्छोषणम्",
-            "transliteration": "ucchoṣaṇam",
-            "meaning": "drying up"
+            "transliteration": {
+                "hi": "उच्छोषणम्",
+                "en": "ucchoṣaṇam",
+                "be": "উচ্ছোষণম্",
+                "ka": "ಉಚ್ಛೋಷಣಮ್"
+            },
+            "meaning": {
+                "hi": "सूख रहा है",
+                "en": "drying up",
+                "be": "শুকিয়ে যাওয়া",
+                "ka": "ಒಣಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणाम्",
-            "transliteration": "indriyāṇām",
-            "meaning": "of my senses"
+            "transliteration": {
+                "hi": "इन्द्रियाणाम्",
+                "en": "indriyāṇām",
+                "be": "ইন্দ্রিযাণাম্",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "मेरी इंद्रियों का",
+                "en": "of my senses",
+                "be": "আমার ইন্দ্রিয়",
+                "ka": "ನನ್ನ ಇಂದ್ರಿಯಗಳ"
+            }
         },
         {
             "sanskrit": "अवाप्य",
-            "transliteration": "avāpya",
-            "meaning": "having obtained"
+            "transliteration": {
+                "hi": "अवाप्य",
+                "en": "avāpya",
+                "be": "অবাপ্য",
+                "ka": "ಅವಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्त कर लिया है",
+                "en": "having obtained",
+                "be": "পেয়েছিলাম",
+                "ka": "ಪಡೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "भूमौ",
-            "transliteration": "bhūmau",
-            "meaning": "on the earth"
+            "transliteration": {
+                "hi": "भूमौ",
+                "en": "bhūmau",
+                "be": "ভূমৌ",
+                "ka": "ಭೂಮೌ"
+            },
+            "meaning": {
+                "hi": "पृथ्वी पर",
+                "en": "on the earth",
+                "be": "পৃথিবীতে",
+                "ka": "ಭೂಮಿಯ ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "असपत्नम्",
-            "transliteration": "asapatnam",
-            "meaning": "unrivalled"
+            "transliteration": {
+                "hi": "असपत्नम्",
+                "en": "asapatnam",
+                "be": "অসপত্নম্",
+                "ka": "ಅಸಪತ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "बेजोड़",
+                "en": "unrivalled",
+                "be": "অপ্রতিদ্বন্দ্বী",
+                "ka": "ಅಪ್ರತಿಮ"
+            }
         },
         {
             "sanskrit": "ऋद्धम्",
-            "transliteration": "ṛddham",
-            "meaning": "prosperous"
+            "transliteration": {
+                "hi": "ऋद्धम्",
+                "en": "ṛddham",
+                "be": "ঋদ্ধম্",
+                "ka": "ಋದ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "समृद्ध",
+                "en": "prosperous",
+                "be": "সমৃদ্ধ",
+                "ka": "ಸಮೃದ್ಧ"
+            }
         },
         {
             "sanskrit": "राज्यम्",
-            "transliteration": "rājyam",
-            "meaning": "dominion"
+            "transliteration": {
+                "hi": "राज्यम्",
+                "en": "rājyam",
+                "be": "রাজ্যম্",
+                "ka": "ರಾಜ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "प्रभुत्व",
+                "en": "dominion",
+                "be": "আধিপত্য",
+                "ka": "ಪ್ರಭುತ್ವ"
+            }
         },
         {
             "sanskrit": "सुराणाम्",
-            "transliteration": "surāṇām",
-            "meaning": "over the gods"
+            "transliteration": {
+                "hi": "सुराणाम्",
+                "en": "surāṇām",
+                "be": "সুরাণাম্",
+                "ka": "ಸುರಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "देवताओं के ऊपर",
+                "en": "over the gods",
+                "be": "দেবতাদের উপরে",
+                "ka": "ದೇವರುಗಳ ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "आधिपत्यम्",
-            "transliteration": "ādhipatyam",
-            "meaning": "lordship."
+            "transliteration": {
+                "hi": "आधिपत्यम्",
+                "en": "ādhipatyam",
+                "be": "আধিপত্যম্",
+                "ka": "ಆಧಿಪತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "आधिपत्य.",
+                "en": "lordship.",
+                "be": "প্রভুত্ব",
+                "ka": "ಪ್ರಭುತ್ವ."
+            }
         }
     ],
     "tej": {

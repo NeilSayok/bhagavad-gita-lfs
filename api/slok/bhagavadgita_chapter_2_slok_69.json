@@ -14,8 +14,18 @@
         "en": "yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī .\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||2-69||",
         "ka": "ಯಾ ನಿಶಾ ಸರ್ವಭೂತಾನಾಂ ತಸ್ಯಾಂ ಜಾಗರ್ತಿ ಸಂಯಮೀ |\nಯಸ್ಯಾಂ ಜಾಗ್ರತಿ ಭೂತಾನಿ ಸಾ ನಿಶಾ ಪಶ್ಯತೋ ಮುನೇಃ ||೨-೬೯||"
     },
-    "transliteration": "yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī .\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||2-69||",
-    "life_application": "Stay mindful of inner spiritual values even when surrounding culture remains focused purely on material pursuits.",
+    "transliteration": {
+        "hi": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी |\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ||२-६९||",
+        "en": "yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī .\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||2-69||",
+        "be": "যা নিশা সর্বভূতানাং তস্যাং জাগর্তি সংযমী |\nযস্যাং জাগ্রতি ভূতানি সা নিশা পশ্যতো মুনেঃ ||২-৬৯||",
+        "ka": "ಯಾ ನಿಶಾ ಸರ್ವಭೂತಾನಾಂ ತಸ್ಯಾಂ ಜಾಗರ್ತಿ ಸಂಯಮೀ |\nಯಸ್ಯಾಂ ಜಾಗ್ರತಿ ಭೂತಾನಿ ಸಾ ನಿಶಾ ಪಶ್ಯತೋ ಮುನೇಃ ||೨-೬೯||"
+    },
+    "life_application": {
+        "hi": "आंतरिक आध्यात्मिक मूल्यों के प्रति सचेत रहें, तब भी जब आसपास की संस्कृति पूरी तरह से भौतिक गतिविधियों पर केंद्रित हो।",
+        "en": "Stay mindful of inner spiritual values even when surrounding culture remains focused purely on material pursuits.",
+        "be": "অভ্যন্তরীণ আধ্যাত্মিক মূল্যবোধ সম্পর্কে সচেতন থাকুন এমনকি যখন আশেপাশের সংস্কৃতি কেবলমাত্র বস্তুগত সাধনার উপর নিবদ্ধ থাকে।",
+        "ka": "ಸುತ್ತಮುತ್ತಲಿನ ಸಂಸ್ಕೃತಿಯು ಭೌತಿಕ ಅನ್ವೇಷಣೆಗಳ ಮೇಲೆ ಸಂಪೂರ್ಣವಾಗಿ ಕೇಂದ್ರೀಕೃತವಾಗಿರುವಾಗಲೂ ಆಂತರಿಕ ಆಧ್ಯಾತ್ಮಿಕ ಮೌಲ್ಯಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ."
+    },
     "themes": [
         "Self-Realization",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "या",
-            "transliteration": "yā",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "या",
+                "en": "yā",
+                "be": "যা",
+                "ka": "ಯಾ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "निशा",
-            "transliteration": "niśā",
-            "meaning": "night"
+            "transliteration": {
+                "hi": "निशा",
+                "en": "niśā",
+                "be": "নিশা",
+                "ka": "ನಿಶಾ"
+            },
+            "meaning": {
+                "hi": "रात",
+                "en": "night",
+                "be": "রাত",
+                "ka": "ರಾತ್ರಿ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानाम्",
-            "transliteration": "sarvabhūtānām",
-            "meaning": "of all beings"
+            "transliteration": {
+                "hi": "सर्वभूतानाम्",
+                "en": "sarvabhūtānām",
+                "be": "সর্বভূতানাম্",
+                "ka": "ಸರ್ವಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सभी प्राणियों का",
+                "en": "of all beings",
+                "be": "সমস্ত প্রাণীর",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "तस्याम्",
-            "transliteration": "tasyām",
-            "meaning": "in that"
+            "transliteration": {
+                "hi": "तस्याम्",
+                "en": "tasyām",
+                "be": "তস্যাম্",
+                "ka": "ತಸ್ಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "उसमें",
+                "en": "in that",
+                "be": "যে",
+                "ka": "ಅದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "जागर्ति",
-            "transliteration": "jāgarti",
-            "meaning": "wakes"
+            "transliteration": {
+                "hi": "जागर्ति",
+                "en": "jāgarti",
+                "be": "জাগর্তি",
+                "ka": "ಜಾಗರ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जागता है",
+                "en": "wakes",
+                "be": "জেগে ওঠে",
+                "ka": "ಎಚ್ಚರಗೊಳ್ಳುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "संयमी",
-            "transliteration": "saṃyamī",
-            "meaning": "the selfcontrolled"
+            "transliteration": {
+                "hi": "संयमी",
+                "en": "saṃyamī",
+                "be": "সংযমী",
+                "ka": "ಸಂಯಮೀ"
+            },
+            "meaning": {
+                "hi": "आत्मनियंत्रित",
+                "en": "the selfcontrolled",
+                "be": "আত্মনিয়ন্ত্রিত",
+                "ka": "ಸ್ವಯಂ ನಿಯಂತ್ರಿತ"
+            }
         },
         {
             "sanskrit": "यस्याम्",
-            "transliteration": "yasyām",
-            "meaning": "in which"
+            "transliteration": {
+                "hi": "यस्याम्",
+                "en": "yasyām",
+                "be": "যস্যাম্",
+                "ka": "ಯಸ್ಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "जिसमें",
+                "en": "in which",
+                "be": "যার মধ্যে",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "जाग्रति",
-            "transliteration": "jāgrati",
-            "meaning": "wake"
+            "transliteration": {
+                "hi": "जाग्रति",
+                "en": "jāgrati",
+                "be": "জাগ্রতি",
+                "ka": "ಜಾಗ್ರತಿ"
+            },
+            "meaning": {
+                "hi": "जागो",
+                "en": "wake",
+                "be": "জেগে ওঠা",
+                "ka": "ಎಚ್ಚರಗೊಳ್ಳು"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "all beings"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "सभी प्राणी",
+                "en": "all beings",
+                "be": "সমস্ত প্রাণী",
+                "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "निशा",
-            "transliteration": "niśā",
-            "meaning": "night"
+            "transliteration": {
+                "hi": "निशा",
+                "en": "niśā",
+                "be": "নিশা",
+                "ka": "ನಿಶಾ"
+            },
+            "meaning": {
+                "hi": "रात",
+                "en": "night",
+                "be": "রাত",
+                "ka": "ರಾತ್ರಿ"
+            }
         },
         {
             "sanskrit": "पश्यतः",
-            "transliteration": "paśyataḥ",
-            "meaning": "seeing"
+            "transliteration": {
+                "hi": "पश्यतः",
+                "en": "paśyataḥ",
+                "be": "পশ্যতঃ",
+                "ka": "ಪಶ್ಯತಃ"
+            },
+            "meaning": {
+                "hi": "देखना",
+                "en": "seeing",
+                "be": "দেখা",
+                "ka": "ನೋಡುತ್ತಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "मुनेः",
-            "transliteration": "muneḥ",
-            "meaning": "of the Muni."
+            "transliteration": {
+                "hi": "मुनेः",
+                "en": "muneḥ",
+                "be": "মুনেঃ",
+                "ka": "ಮುನೇಃ"
+            },
+            "meaning": {
+                "hi": "मुनि का.",
+                "en": "of the Muni.",
+                "be": "মুনির।",
+                "ka": "ಮುನಿಯ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ .\nanena prasaviṣyadhvameṣa vo.astviṣṭakāmadhuk ||3-10||",
         "ka": "ಸಹಯಜ್ಞಾಃ ಪ್ರಜಾಃ ಸೃಷ್ಟ್ವಾ ಪುರೋವಾಚ ಪ್ರಜಾಪತಿಃ |\nಅನೇನ ಪ್ರಸವಿಷ್ಯಧ್ವಮೇಷ ವೋಽಸ್ತ್ವಿಷ್ಟಕಾಮಧುಕ್ ||೩-೧೦||"
     },
-    "transliteration": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ .\nanena prasaviṣyadhvameṣa vo.astviṣṭakāmadhuk ||3-10||",
-    "life_application": "Contribute your share to the world generously, trusting that mutual service and cooperation sustain all life.",
+    "transliteration": {
+        "hi": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः |\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||३-१०||",
+        "en": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ .\nanena prasaviṣyadhvameṣa vo.astviṣṭakāmadhuk ||3-10||",
+        "be": "সহযজ্ঞাঃ প্রজাঃ সৃষ্ট্বা পুরোবাচ প্রজাপতিঃ |\nঅনেন প্রসবিষ্যধ্বমেষ বোঽস্ত্বিষ্টকামধুক্ ||৩-১০||",
+        "ka": "ಸಹಯಜ್ಞಾಃ ಪ್ರಜಾಃ ಸೃಷ್ಟ್ವಾ ಪುರೋವಾಚ ಪ್ರಜಾಪತಿಃ |\nಅನೇನ ಪ್ರಸವಿಷ್ಯಧ್ವಮೇಷ ವೋಽಸ್ತ್ವಿಷ್ಟಕಾಮಧುಕ್ ||೩-೧೦||"
+    },
+    "life_application": {
+        "hi": "दुनिया के लिए उदारतापूर्वक अपना योगदान दें, यह विश्वास करते हुए कि पारस्परिक सेवा और सहयोग पूरे जीवन को कायम रखता है।",
+        "en": "Contribute your share to the world generously, trusting that mutual service and cooperation sustain all life.",
+        "be": "পারস্পরিক সেবা এবং সহযোগিতা সারাজীবন টিকিয়ে রেখে বিশ্বে আপনার অংশটি উদারভাবে অবদান রাখুন।",
+        "ka": "ಪರಸ್ಪರ ಸೇವೆ ಮತ್ತು ಸಹಕಾರವು ಎಲ್ಲಾ ಜೀವನವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತದೆ ಎಂದು ನಂಬಿ ನಿಮ್ಮ ಪಾಲನ್ನು ಜಗತ್ತಿಗೆ ಉದಾರವಾಗಿ ಕೊಡುಗೆ ನೀಡಿ."
+    },
     "themes": [
         "Duty",
         "Purpose"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "सहयज्ञाः",
-            "transliteration": "sahayajñāḥ",
-            "meaning": "sahayajñāḥ"
+            "transliteration": {
+                "hi": "सहयज्ञाः",
+                "en": "sahayajñāḥ",
+                "be": "সহযজ্ঞাঃ",
+                "ka": "ಸಹಯಜ್ಞಾಃ"
+            },
+            "meaning": {
+                "hi": "सहयज्ञः",
+                "en": "sahayajñāḥ",
+                "be": "সহায়জ্ঞাঃ",
+                "ka": "ಸಹಾಯಜ್ಞಃ"
+            }
         },
         {
             "sanskrit": "प्रजाः",
-            "transliteration": "prajāḥ",
-            "meaning": "prajāḥ"
+            "transliteration": {
+                "hi": "प्रजाः",
+                "en": "prajāḥ",
+                "be": "প্রজাঃ",
+                "ka": "ಪ್ರಜಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रजाः",
+                "en": "prajāḥ",
+                "be": "প্রজাঃ",
+                "ka": "ಪ್ರಜಾಃ"
+            }
         },
         {
             "sanskrit": "सृष्ट्वा",
-            "transliteration": "sṛṣṭvā",
-            "meaning": "sṛṣṭvā"
+            "transliteration": {
+                "hi": "सृष्ट्वा",
+                "en": "sṛṣṭvā",
+                "be": "সৃষ্ট্বা",
+                "ka": "ಸೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "सृष्ट्वा",
+                "en": "sṛṣṭvā",
+                "be": "sṛṣṭva",
+                "ka": "ಶ್ರೀಶ್ತ್ವ"
+            }
         },
         {
             "sanskrit": "पुरोवाच",
-            "transliteration": "purovāca",
-            "meaning": "purovāca"
+            "transliteration": {
+                "hi": "पुरोवाच",
+                "en": "purovāca",
+                "be": "পুরোবাচ",
+                "ka": "ಪುರೋವಾಚ"
+            },
+            "meaning": {
+                "hi": "पुरोवाका",
+                "en": "purovāca",
+                "be": "purovāca",
+                "ka": "purovāca"
+            }
         },
         {
             "sanskrit": "प्रजापतिः",
-            "transliteration": "prajāpatiḥ",
-            "meaning": "prajāpatiḥ"
+            "transliteration": {
+                "hi": "प्रजापतिः",
+                "en": "prajāpatiḥ",
+                "be": "প্রজাপতিঃ",
+                "ka": "ಪ್ರಜಾಪತಿಃ"
+            },
+            "meaning": {
+                "hi": "प्रजापतिः",
+                "en": "prajāpatiḥ",
+                "be": "প্রজাপতিঃ",
+                "ka": "ಪ್ರಜಾಪತಿಃ"
+            }
         },
         {
             "sanskrit": "अनेन",
-            "transliteration": "anena",
-            "meaning": "anena"
+            "transliteration": {
+                "hi": "अनेन",
+                "en": "anena",
+                "be": "অনেন",
+                "ka": "ಅನೇನ"
+            },
+            "meaning": {
+                "hi": "अनेना",
+                "en": "anena",
+                "be": "anena",
+                "ka": "ಅನೆನಾ"
+            }
         },
         {
             "sanskrit": "प्रसविष्यध्वमेष",
-            "transliteration": "prasaviṣyadhvameṣa",
-            "meaning": "prasaviṣyadhvameṣa"
+            "transliteration": {
+                "hi": "प्रसविष्यध्वमेष",
+                "en": "prasaviṣyadhvameṣa",
+                "be": "প্রসবিষ্যধ্বমেষ",
+                "ka": "ಪ್ರಸವಿಷ್ಯಧ್ವಮೇಷ"
+            },
+            "meaning": {
+                "hi": "प्रसविष्यध्वमेषा",
+                "en": "prasaviṣyadhvameṣa",
+                "be": "প্রসাবিষ্যধ্বমেষ",
+                "ka": "ಪ್ರಸವಿಷ್ಯಧ್ವಮೇಷ"
+            }
         },
         {
             "sanskrit": "वोऽस्त्विष्टकामधुक्",
-            "transliteration": "vo'stviṣṭakāmadhuk",
-            "meaning": "vo'stviṣṭakāmadhuk"
+            "transliteration": {
+                "hi": "वोऽस्त्विष्टकामधुक्",
+                "en": "vo'stviṣṭakāmadhuk",
+                "be": "বোঽস্ত্বিষ্টকামধুক্",
+                "ka": "ವೋಽಸ್ತ್ವಿಷ್ಟಕಾಮಧುಕ್"
+            },
+            "meaning": {
+                "hi": "वोऽस्तविष्टकमाधुक",
+                "en": "vo'stviṣṭakāmadhuk",
+                "be": "vo'stviṣṭakāmadhuk",
+                "ka": "vo'stviṣṭakamadhuk"
+            }
         }
     ],
     "tej": {

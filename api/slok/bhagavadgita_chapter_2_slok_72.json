@@ -14,8 +14,18 @@
         "en": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati .\nsthitvāsyāmantakāle.api brahmanirvāṇamṛcchati ||2-72||",
         "ka": "ಏಷಾ ಬ್ರಾಹ್ಮೀ ಸ್ಥಿತಿಃ ಪಾರ್ಥ ನೈನಾಂ ಪ್ರಾಪ್ಯ ವಿಮುಹ್ಯತಿ |\nಸ್ಥಿತ್ವಾಸ್ಯಾಮನ್ತಕಾಲೇಽಪಿ ಬ್ರಹ್ಮನಿರ್ವಾಣಮೃಚ್ಛತಿ ||೨-೭೨||"
     },
-    "transliteration": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati .\nsthitvāsyāmantakāle.api brahmanirvāṇamṛcchati ||2-72||",
-    "life_application": "Establish yourself in divine awareness now so that life's end finds you calm, clear, and spiritually free.",
+    "transliteration": {
+        "hi": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति |\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ||२-७२||",
+        "en": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati .\nsthitvāsyāmantakāle.api brahmanirvāṇamṛcchati ||2-72||",
+        "be": "এষা ব্রাহ্মী স্থিতিঃ পার্থ নৈনাং প্রাপ্য বিমুহ্যতি |\nস্থিত্বাস্যামন্তকালেঽপি ব্রহ্মনির্বাণমৃচ্ছতি ||২-৭২||",
+        "ka": "ಏಷಾ ಬ್ರಾಹ್ಮೀ ಸ್ಥಿತಿಃ ಪಾರ್ಥ ನೈನಾಂ ಪ್ರಾಪ್ಯ ವಿಮುಹ್ಯತಿ |\nಸ್ಥಿತ್ವಾಸ್ಯಾಮನ್ತಕಾಲೇಽಪಿ ಬ್ರಹ್ಮನಿರ್ವಾಣಮೃಚ್ಛತಿ ||೨-೭೨||"
+    },
+    "life_application": {
+        "hi": "अब अपने आप को दिव्य जागरूकता में स्थापित करें ताकि जीवन का अंत आपको शांत, स्पष्ट और आध्यात्मिक रूप से मुक्त मिले।",
+        "en": "Establish yourself in divine awareness now so that life's end finds you calm, clear, and spiritually free.",
+        "be": "নিজেকে এখন ঐশ্বরিক সচেতনতায় প্রতিষ্ঠিত করুন যাতে জীবনের শেষটি আপনাকে শান্ত, পরিষ্কার এবং আধ্যাত্মিকভাবে মুক্ত খুঁজে পায়।",
+        "ka": "ಈಗ ನಿಮ್ಮನ್ನು ದೈವಿಕ ಅರಿವಿನಲ್ಲಿ ಸ್ಥಾಪಿಸಿಕೊಳ್ಳಿ ಇದರಿಂದ ಜೀವನದ ಅಂತ್ಯವು ನಿಮ್ಮನ್ನು ಶಾಂತ, ಸ್ಪಷ್ಟ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ ಮುಕ್ತಗೊಳಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Death"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "एषा",
-            "transliteration": "eṣā",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एषा",
+                "en": "eṣā",
+                "be": "এষা",
+                "ka": "ಏಷಾ"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "ब्राह्मी",
-            "transliteration": "brāhmī",
-            "meaning": "of Brahmic"
+            "transliteration": {
+                "hi": "ब्राह्मी",
+                "en": "brāhmī",
+                "be": "ব্রাহ্মী",
+                "ka": "ಬ್ರಾಹ್ಮೀ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मिक का",
+                "en": "of Brahmic",
+                "be": "ব্রাহ্মিক",
+                "ka": "ಬ್ರಾಹ್ಮಿಕ್"
+            }
         },
         {
             "sanskrit": "स्थितिः",
-            "transliteration": "sthitiḥ",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "स्थितिः",
+                "en": "sthitiḥ",
+                "be": "স্থিতিঃ",
+                "ka": "ಸ್ಥಿತಿಃ"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एनाम्",
-            "transliteration": "enām",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनाम्",
+                "en": "enām",
+                "be": "এনাম্",
+                "ka": "ಏನಾಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "प्राप्य",
-            "transliteration": "prāpya",
-            "meaning": "having obtained"
+            "transliteration": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्त कर लिया है",
+                "en": "having obtained",
+                "be": "পেয়েছিলাম",
+                "ka": "ಪಡೆದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "विमुह्यति",
-            "transliteration": "vimuhyati",
-            "meaning": "is deluded"
+            "transliteration": {
+                "hi": "विमुह्यति",
+                "en": "vimuhyati",
+                "be": "বিমুহ্যতি",
+                "ka": "ವಿಮುಹ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "भ्रमित है",
+                "en": "is deluded",
+                "be": "বিভ্রান্ত হয়",
+                "ka": "ಭ್ರಮೆಯಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "स्थित्वा",
-            "transliteration": "sthitvā",
-            "meaning": "being established"
+            "transliteration": {
+                "hi": "स्थित्वा",
+                "en": "sthitvā",
+                "be": "স্থিত্বা",
+                "ka": "ಸ್ಥಿತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "स्थापित किया जा रहा है",
+                "en": "being established",
+                "be": "প্রতিষ্ঠিত হচ্ছে",
+                "ka": "ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "अस्याम्",
-            "transliteration": "asyām",
-            "meaning": "in this"
+            "transliteration": {
+                "hi": "अस्याम्",
+                "en": "asyām",
+                "be": "অস্যাম্",
+                "ka": "ಅಸ್ಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "इसमें",
+                "en": "in this",
+                "be": "এই",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अन्तकाले",
-            "transliteration": "antakāle",
-            "meaning": "at the end of"
+            "transliteration": {
+                "hi": "अन्तकाले",
+                "en": "antakāle",
+                "be": "অন্তকালে",
+                "ka": "ಅನ್ತಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "के अंत में",
+                "en": "at the end of",
+                "be": "শেষে",
+                "ka": "ಕೊನೆಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "ब्रह्मनिर्वाणम्",
-            "transliteration": "brahmanirvāṇam",
-            "meaning": "oneness with Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मनिर्वाणम्",
+                "en": "brahmanirvāṇam",
+                "be": "ব্রহ্মনির্বাণম্",
+                "ka": "ಬ್ರಹ್ಮನಿರ್ವಾಣಮ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्म के साथ एकता",
+                "en": "oneness with Brahman",
+                "be": "ব্রহ্মের সাথে একতা",
+                "ka": "ಬ್ರಹ್ಮನೊಂದಿಗೆ ಏಕತೆ"
+            }
         },
         {
             "sanskrit": "ऋच्छति",
-            "transliteration": "ṛcchati",
-            "meaning": "attains."
+            "transliteration": {
+                "hi": "ऋच्छति",
+                "en": "ṛcchati",
+                "be": "ঋচ্ছতি",
+                "ka": "ಋಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है.",
+                "en": "attains.",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

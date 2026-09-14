@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nsaṃnyāsaḥ karmayogaśca niḥśreyasakarāvubhau .\ntayostu karmasaṃnyāsātkarmayogo viśiṣyate ||5-2||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಸಂನ್ಯಾಸಃ ಕರ್ಮಯೋಗಶ್ಚ ನಿಃಶ್ರೇಯಸಕರಾವುಭೌ |\nತಯೋಸ್ತು ಕರ್ಮಸಂನ್ಯಾಸಾತ್ಕರ್ಮಯೋಗೋ ವಿಶಿಷ್ಯತೇ ||೫-೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nsaṃnyāsaḥ karmayogaśca niḥśreyasakarāvubhau .\ntayostu karmasaṃnyāsātkarmayogo viśiṣyate ||5-2||",
-    "life_application": "Choose active, unselfish service over passive withdrawal, knowing that dedicated work is easier and brings higher fulfillment.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nसंन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ |\nतयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ||५-२||",
+        "en": "śrībhagavānuvāca .\nsaṃnyāsaḥ karmayogaśca niḥśreyasakarāvubhau .\ntayostu karmasaṃnyāsātkarmayogo viśiṣyate ||5-2||",
+        "be": "শ্রীভগবানুবাচ |\nসংন্যাসঃ কর্মযোগশ্চ নিঃশ্রেযসকরাবুভৌ |\nতযোস্তু কর্মসংন্যাসাত্কর্মযোগো বিশিষ্যতে ||৫-২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಸಂನ್ಯಾಸಃ ಕರ್ಮಯೋಗಶ್ಚ ನಿಃಶ್ರೇಯಸಕರಾವುಭೌ |\nತಯೋಸ್ತು ಕರ್ಮಸಂನ್ಯಾಸಾತ್ಕರ್ಮಯೋಗೋ ವಿಶಿಷ್ಯತೇ ||೫-೨||"
+    },
+    "life_application": {
+        "hi": "निष्क्रिय निकासी के बजाय सक्रिय, निःस्वार्थ सेवा चुनें, यह जानते हुए कि समर्पित कार्य आसान है और उच्च संतुष्टि लाता है।",
+        "en": "Choose active, unselfish service over passive withdrawal, knowing that dedicated work is easier and brings higher fulfillment.",
+        "be": "নিষ্ক্রিয় প্রত্যাহারের চেয়ে সক্রিয়, নিঃস্বার্থ পরিষেবা বেছে নিন, জেনে রাখুন যে নিবেদিত কাজ সহজ এবং উচ্চতর পরিপূর্ণতা নিয়ে আসে।",
+        "ka": "ನಿಷ್ಕ್ರಿಯ ಹಿಂತೆಗೆದುಕೊಳ್ಳುವಿಕೆಗಿಂತ ಸಕ್ರಿಯ, ನಿಸ್ವಾರ್ಥ ಸೇವೆಯನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ, ಸಮರ್ಪಿತ ಕೆಲಸವು ಸುಲಭವಾಗಿದೆ ಮತ್ತು ಹೆಚ್ಚಿನ ನೆರವೇರಿಕೆಯನ್ನು ತರುತ್ತದೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Karma",
         "Duty"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "संन्यासः",
-            "transliteration": "saṃnyāsaḥ",
-            "meaning": "saṃnyāsaḥ"
+            "transliteration": {
+                "hi": "संन्यासः",
+                "en": "saṃnyāsaḥ",
+                "be": "সংন্যাসঃ",
+                "ka": "ಸಂನ್ಯಾಸಃ"
+            },
+            "meaning": {
+                "hi": "संन्यासः",
+                "en": "saṃnyāsaḥ",
+                "be": "সন্ন্যাসঃ",
+                "ka": "ಸಂನ್ಯಾಸಃ"
+            }
         },
         {
             "sanskrit": "कर्मयोगश्च",
-            "transliteration": "karmayogaśca",
-            "meaning": "karmayogaśca"
+            "transliteration": {
+                "hi": "कर्मयोगश्च",
+                "en": "karmayogaśca",
+                "be": "কর্মযোগশ্চ",
+                "ka": "ಕರ್ಮಯೋಗಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "कर्मयोगश्च",
+                "en": "karmayogaśca",
+                "be": "কর্মযোগ",
+                "ka": "ಕರ್ಮಯೋಗಶ್ಚ"
+            }
         },
         {
             "sanskrit": "निःश्रेयसकरावुभौ",
-            "transliteration": "niḥśreyasakarāvubhau",
-            "meaning": "niḥśreyasakarāvubhau"
+            "transliteration": {
+                "hi": "निःश्रेयसकरावुभौ",
+                "en": "niḥśreyasakarāvubhau",
+                "be": "নিঃশ্রেযসকরাবুভৌ",
+                "ka": "ನಿಃಶ್ರೇಯಸಕರಾವುಭೌ"
+            },
+            "meaning": {
+                "hi": "निश्श्रेयसकरावुभौ",
+                "en": "niḥśreyasakarāvubhau",
+                "be": "নিঃশ্রেয়াসকারাভুভু",
+                "ka": "ನಿಃಶ್ರೇಯಸಕರಾವುಭೌ"
+            }
         },
         {
             "sanskrit": "तयोस्तु",
-            "transliteration": "tayostu",
-            "meaning": "tayostu"
+            "transliteration": {
+                "hi": "तयोस्तु",
+                "en": "tayostu",
+                "be": "তযোস্তু",
+                "ka": "ತಯೋಸ್ತು"
+            },
+            "meaning": {
+                "hi": "tayostu",
+                "en": "tayostu",
+                "be": "তায়োস্তু",
+                "ka": "ತಯೋಸ್ತು"
+            }
         },
         {
             "sanskrit": "कर्मसंन्यासात्कर्मयोगो",
-            "transliteration": "karmasaṃnyāsātkarmayogo",
-            "meaning": "karmasaṃnyāsātkarmayogo"
+            "transliteration": {
+                "hi": "कर्मसंन्यासात्कर्मयोगो",
+                "en": "karmasaṃnyāsātkarmayogo",
+                "be": "কর্মসংন্যাসাত্কর্মযোগো",
+                "ka": "ಕರ್ಮಸಂನ್ಯಾಸಾತ್ಕರ್ಮಯೋಗೋ"
+            },
+            "meaning": {
+                "hi": "कर्मसंन्यासत्कर्मयोगो",
+                "en": "karmasaṃnyāsātkarmayogo",
+                "be": "কর্মসংন্যাসাতকর্মযোগ",
+                "ka": "ಕರ್ಮಸಂನ್ಯಾಸತ್ಕರ್ಮಯೋಗೋ"
+            }
         },
         {
             "sanskrit": "विशिष्यते",
-            "transliteration": "viśiṣyate",
-            "meaning": "viśiṣyate"
+            "transliteration": {
+                "hi": "विशिष्यते",
+                "en": "viśiṣyate",
+                "be": "বিশিষ্যতে",
+                "ka": "ವಿಶಿಷ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "विशिष्यते",
+                "en": "viśiṣyate",
+                "be": "vishiṣyate",
+                "ka": "ವಿಶಿಷ್ಯತೇ"
+            }
         }
     ],
     "tej": {

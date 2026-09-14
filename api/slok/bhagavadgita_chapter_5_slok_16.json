@@ -14,8 +14,18 @@
         "en": "jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ .\nteṣāmādityavajjñānaṃ prakāśayati tatparam ||5-16||",
         "ka": "ಜ್ಞಾನೇನ ತು ತದಜ್ಞಾನಂ ಯೇಷಾಂ ನಾಶಿತಮಾತ್ಮನಃ |\nತೇಷಾಮಾದಿತ್ಯವಜ್ಜ್ಞಾನಂ ಪ್ರಕಾಶಯತಿ ತತ್ಪರಮ್ ||೫-೧೬||"
     },
-    "transliteration": "jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ .\nteṣāmādityavajjñānaṃ prakāśayati tatparam ||5-16||",
-    "life_application": "Let the light of self-knowledge illuminate your mind today, dispelling doubts and fears like the morning sun.",
+    "transliteration": {
+        "hi": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः |\nतेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ||५-१६||",
+        "en": "jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ .\nteṣāmādityavajjñānaṃ prakāśayati tatparam ||5-16||",
+        "be": "জ্ঞানেন তু তদজ্ঞানং যেষাং নাশিতমাত্মনঃ |\nতেষামাদিত্যবজ্জ্ঞানং প্রকাশযতি তত্পরম্ ||৫-১৬||",
+        "ka": "ಜ್ಞಾನೇನ ತು ತದಜ್ಞಾನಂ ಯೇಷಾಂ ನಾಶಿತಮಾತ್ಮನಃ |\nತೇಷಾಮಾದಿತ್ಯವಜ್ಜ್ಞಾನಂ ಪ್ರಕಾಶಯತಿ ತತ್ಪರಮ್ ||೫-೧೬||"
+    },
+    "life_application": {
+        "hi": "आज सुबह के सूरज की तरह संदेह और भय को दूर करते हुए, आत्म-ज्ञान का प्रकाश अपने मन को रोशन करें।",
+        "en": "Let the light of self-knowledge illuminate your mind today, dispelling doubts and fears like the morning sun.",
+        "be": "আত্ম-জ্ঞানের আলো আজ আপনার মনকে আলোকিত করুক, সকালের সূর্যের মতো সন্দেহ ও ভয় দূর করে।",
+        "ka": "ಆತ್ಮಜ್ಞಾನದ ಬೆಳಕು ಇಂದು ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಬೆಳಗಿಸಲಿ, ಬೆಳಗಿನ ಸೂರ್ಯನಂತೆ ಅನುಮಾನಗಳು ಮತ್ತು ಭಯಗಳನ್ನು ಹೋಗಲಾಡಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "ज्ञानेन",
-            "transliteration": "jñānena",
-            "meaning": "by knowledge"
+            "transliteration": {
+                "hi": "ज्ञानेन",
+                "en": "jñānena",
+                "be": "জ্ঞানেন",
+                "ka": "ಜ್ಞಾನೇನ"
+            },
+            "meaning": {
+                "hi": "ज्ञान से",
+                "en": "by knowledge",
+                "be": "জ্ঞান দ্বারা",
+                "ka": "ಜ್ಞಾನದಿಂದ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "तदज्ञानं",
-            "transliteration": "tadajñānaṃ",
-            "meaning": "tadajñānaṃ"
+            "transliteration": {
+                "hi": "तदज्ञानं",
+                "en": "tadajñānaṃ",
+                "be": "তদজ্ঞানং",
+                "ka": "ತದಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "तदज्ञानं",
+                "en": "tadajñānaṃ",
+                "be": "tadjñānaṃ",
+                "ka": "ತದಾಜ್ಞಾನಂ"
+            }
         },
         {
             "sanskrit": "येषां",
-            "transliteration": "yeṣāṃ",
-            "meaning": "yeṣāṃ"
+            "transliteration": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "যেষাং",
+                "ka": "ಯೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "yeṣāṃ",
+                "ka": "ಯೆಶಾಸ್"
+            }
         },
         {
             "sanskrit": "नाशितमात्मनः",
-            "transliteration": "nāśitamātmanaḥ",
-            "meaning": "nāśitamātmanaḥ"
+            "transliteration": {
+                "hi": "नाशितमात्मनः",
+                "en": "nāśitamātmanaḥ",
+                "be": "নাশিতমাত্মনঃ",
+                "ka": "ನಾಶಿತಮಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "नाशितामात्मनः",
+                "en": "nāśitamātmanaḥ",
+                "be": "নাশিতামাত্মনাঃ",
+                "ka": "ನಾಷಿತಮಾತ್ಮನಃ"
+            }
         },
         {
             "sanskrit": "तेषामादित्यवज्ज्ञानं",
-            "transliteration": "teṣāmādityavajjñānaṃ",
-            "meaning": "teṣāmādityavajjñānaṃ"
+            "transliteration": {
+                "hi": "तेषामादित्यवज्ज्ञानं",
+                "en": "teṣāmādityavajjñānaṃ",
+                "be": "তেষামাদিত্যবজ্জ্ঞানং",
+                "ka": "ತೇಷಾಮಾದಿತ್ಯವಜ್ಜ್ಞಾನಂ"
+            },
+            "meaning": {
+                "hi": "तेषामादित्यवज्ज्ञानं",
+                "en": "teṣāmādityavajjñānaṃ",
+                "be": "তেষামাদিত্যবজ্জননাম",
+                "ka": "ತೇಷಾಮಾದಿತ್ಯವಜ್ಞಾನಂ"
+            }
         },
         {
             "sanskrit": "प्रकाशयति",
-            "transliteration": "prakāśayati",
-            "meaning": "prakāśayati"
+            "transliteration": {
+                "hi": "प्रकाशयति",
+                "en": "prakāśayati",
+                "be": "প্রকাশযতি",
+                "ka": "ಪ್ರಕಾಶಯತಿ"
+            },
+            "meaning": {
+                "hi": "प्रकाशयति",
+                "en": "prakāśayati",
+                "be": "প্রকাশয়তি",
+                "ka": "ಪ್ರಕಾಶಯತಿ"
+            }
         },
         {
             "sanskrit": "तत्परम्",
-            "transliteration": "tatparam",
-            "meaning": "tatparam"
+            "transliteration": {
+                "hi": "तत्परम्",
+                "en": "tatparam",
+                "be": "তত্পরম্",
+                "ka": "ತತ್ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "tatparam",
+                "en": "tatparam",
+                "be": "তত্পরম",
+                "ka": "ತತ್ಪರಮ್"
+            }
         }
     ],
     "tej": {

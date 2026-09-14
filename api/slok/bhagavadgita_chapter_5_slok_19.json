@@ -14,8 +14,18 @@
         "en": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ .\nnirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ ||5-19||",
         "ka": "ಇಹೈವ ತೈರ್ಜಿತಃ ಸರ್ಗೋ ಯೇಷಾಂ ಸಾಮ್ಯೇ ಸ್ಥಿತಂ ಮನಃ |\nನಿರ್ದೋಷಂ ಹಿ ಸಮಂ ಬ್ರಹ್ಮ ತಸ್ಮಾದ್ ಬ್ರಹ್ಮಣಿ ತೇ ಸ್ಥಿತಾಃ ||೫-೧೯||"
     },
-    "transliteration": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ .\nnirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ ||5-19||",
-    "life_application": "Conquer daily stress by cultivating an even mind, remaining grounded in the calm equality of divine awareness.",
+    "transliteration": {
+        "hi": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः |\nनिर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिताः ||५-१९||",
+        "en": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ .\nnirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ ||5-19||",
+        "be": "ইহৈব তৈর্জিতঃ সর্গো যেষাং সাম্যে স্থিতং মনঃ |\nনির্দোষং হি সমং ব্রহ্ম তস্মাদ্ ব্রহ্মণি তে স্থিতাঃ ||৫-১৯||",
+        "ka": "ಇಹೈವ ತೈರ್ಜಿತಃ ಸರ್ಗೋ ಯೇಷಾಂ ಸಾಮ್ಯೇ ಸ್ಥಿತಂ ಮನಃ |\nನಿರ್ದೋಷಂ ಹಿ ಸಮಂ ಬ್ರಹ್ಮ ತಸ್ಮಾದ್ ಬ್ರಹ್ಮಣಿ ತೇ ಸ್ಥಿತಾಃ ||೫-೧೯||"
+    },
+    "life_application": {
+        "hi": "दिव्य जागरूकता की शांत समानता में स्थिर रहकर, एक समान मन विकसित करके दैनिक तनाव पर विजय प्राप्त करें।",
+        "en": "Conquer daily stress by cultivating an even mind, remaining grounded in the calm equality of divine awareness.",
+        "be": "ঐশ্বরিক সচেতনতার শান্ত সমতায় ভিত্তি করে একটি সমান মন গড়ে তোলার মাধ্যমে প্রতিদিনের চাপকে জয় করুন।",
+        "ka": "ಸಮಾನ ಮನಸ್ಸನ್ನು ಬೆಳೆಸುವ ಮೂಲಕ ದೈನಂದಿನ ಒತ್ತಡವನ್ನು ಜಯಿಸಿ, ದೈವಿಕ ಅರಿವಿನ ಶಾಂತ ಸಮಾನತೆಯ ನೆಲೆಯಲ್ಲಿ ಉಳಿಯಿರಿ."
+    },
     "themes": [
         "Equanimity",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "इहैव",
-            "transliteration": "ihaiva",
-            "meaning": "ihaiva"
+            "transliteration": {
+                "hi": "इहैव",
+                "en": "ihaiva",
+                "be": "ইহৈব",
+                "ka": "ಇಹೈವ"
+            },
+            "meaning": {
+                "hi": "इहैवा",
+                "en": "ihaiva",
+                "be": "আইহাইভা",
+                "ka": "ಇಹೈವ"
+            }
         },
         {
             "sanskrit": "तैर्जितः",
-            "transliteration": "tairjitaḥ",
-            "meaning": "tairjitaḥ"
+            "transliteration": {
+                "hi": "तैर्जितः",
+                "en": "tairjitaḥ",
+                "be": "তৈর্জিতঃ",
+                "ka": "ತೈರ್ಜಿತಃ"
+            },
+            "meaning": {
+                "hi": "तैरजीतः",
+                "en": "tairjitaḥ",
+                "be": "তীরজিতাঃ",
+                "ka": "ತೈರ್ಜಿತಃ"
+            }
         },
         {
             "sanskrit": "सर्गो",
-            "transliteration": "sargo",
-            "meaning": "sargo"
+            "transliteration": {
+                "hi": "सर्गो",
+                "en": "sargo",
+                "be": "সর্গো",
+                "ka": "ಸರ್ಗೋ"
+            },
+            "meaning": {
+                "hi": "सर्गो",
+                "en": "sargo",
+                "be": "সারগো",
+                "ka": "ಸರ್ಗೋ"
+            }
         },
         {
             "sanskrit": "येषां",
-            "transliteration": "yeṣāṃ",
-            "meaning": "yeṣāṃ"
+            "transliteration": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "যেষাং",
+                "ka": "ಯೇಷಾಂ"
+            },
+            "meaning": {
+                "hi": "येषां",
+                "en": "yeṣāṃ",
+                "be": "yeṣāṃ",
+                "ka": "ಯೆಶಾಸ್"
+            }
         },
         {
             "sanskrit": "साम्ये",
-            "transliteration": "sāmye",
-            "meaning": "sāmye"
+            "transliteration": {
+                "hi": "साम्ये",
+                "en": "sāmye",
+                "be": "সাম্যে",
+                "ka": "ಸಾಮ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "साम्ये",
+                "en": "sāmye",
+                "be": "সাম্য",
+                "ka": "ಸಾಮಿ"
+            }
         },
         {
             "sanskrit": "स्थितं",
-            "transliteration": "sthitaṃ",
-            "meaning": "sthitaṃ"
+            "transliteration": {
+                "hi": "स्थितं",
+                "en": "sthitaṃ",
+                "be": "স্থিতং",
+                "ka": "ಸ್ಥಿತಂ"
+            },
+            "meaning": {
+                "hi": "स्थितम्",
+                "en": "sthitaṃ",
+                "be": "স্থিত",
+                "ka": "ಸ್ಥಿತಂ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "निर्दोषं",
-            "transliteration": "nirdoṣaṃ",
-            "meaning": "nirdoṣaṃ"
+            "transliteration": {
+                "hi": "निर्दोषं",
+                "en": "nirdoṣaṃ",
+                "be": "নির্দোষং",
+                "ka": "ನಿರ್ದೋಷಂ"
+            },
+            "meaning": {
+                "hi": "निर्दोषं",
+                "en": "nirdoṣaṃ",
+                "be": "nirdoṣaṃ",
+                "ka": "ನಿರ್ದೋಷಂ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "समं",
-            "transliteration": "samaṃ",
-            "meaning": "samaṃ"
+            "transliteration": {
+                "hi": "समं",
+                "en": "samaṃ",
+                "be": "সমং",
+                "ka": "ಸಮಂ"
+            },
+            "meaning": {
+                "hi": "समं",
+                "en": "samaṃ",
+                "be": "সমাং",
+                "ka": "ಸಮಂ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "तस्माद्",
-            "transliteration": "tasmād",
-            "meaning": "tasmād"
+            "transliteration": {
+                "hi": "तस्माद्",
+                "en": "tasmād",
+                "be": "তস্মাদ্",
+                "ka": "ತಸ್ಮಾದ್"
+            },
+            "meaning": {
+                "hi": "तस्माद",
+                "en": "tasmād",
+                "be": "তসমাদ",
+                "ka": "ತಸ್ಮಾದ್"
+            }
         },
         {
             "sanskrit": "ब्रह्मणि",
-            "transliteration": "brahmaṇi",
-            "meaning": "brahmaṇi"
+            "transliteration": {
+                "hi": "ब्रह्मणि",
+                "en": "brahmaṇi",
+                "be": "ব্রহ্মণি",
+                "ka": "ಬ್ರಹ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मणी",
+                "en": "brahmaṇi",
+                "be": "ব্রাহ্মণী",
+                "ka": "ಬ್ರಾಹ್ಮಣಿ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "स्थिताः",
-            "transliteration": "sthitāḥ",
-            "meaning": "sthitāḥ"
+            "transliteration": {
+                "hi": "स्थिताः",
+                "en": "sthitāḥ",
+                "be": "স্থিতাঃ",
+                "ka": "ಸ್ಥಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "स्थितः",
+                "en": "sthitāḥ",
+                "be": "স্থিতাঃ",
+                "ka": "ಸ್ಥಿತಃ"
+            }
         }
     ],
     "tej": {

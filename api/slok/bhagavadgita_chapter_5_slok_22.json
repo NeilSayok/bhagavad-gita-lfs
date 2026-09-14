@@ -14,8 +14,18 @@
         "en": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te .\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ ||5-22||",
         "ka": "ಯೇ ಹಿ ಸಂಸ್ಪರ್ಶಜಾ ಭೋಗಾ ದುಃಖಯೋನಯ ಏವ ತೇ |\nಆದ್ಯನ್ತವನ್ತಃ ಕೌನ್ತೇಯ ನ ತೇಷು ರಮತೇ ಬುಧಃ ||೫-೨೨||"
     },
-    "transliteration": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te .\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ ||5-22||",
-    "life_application": "Recognize that pleasures dependent on physical objects are temporary, avoiding excessive attachment to fleeting comforts.",
+    "transliteration": {
+        "hi": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते |\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ||५-२२||",
+        "en": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te .\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ ||5-22||",
+        "be": "যে হি সংস্পর্শজা ভোগা দুঃখযোনয এব তে |\nআদ্যন্তবন্তঃ কৌন্তেয ন তেষু রমতে বুধঃ ||৫-২২||",
+        "ka": "ಯೇ ಹಿ ಸಂಸ್ಪರ್ಶಜಾ ಭೋಗಾ ದುಃಖಯೋನಯ ಏವ ತೇ |\nಆದ್ಯನ್ತವನ್ತಃ ಕೌನ್ತೇಯ ನ ತೇಷು ರಮತೇ ಬುಧಃ ||೫-೨೨||"
+    },
+    "life_application": {
+        "hi": "यह पहचानें कि भौतिक वस्तुओं पर निर्भर सुख अस्थायी हैं, क्षणभंगुर सुख-सुविधाओं के प्रति अत्यधिक लगाव से बचें।",
+        "en": "Recognize that pleasures dependent on physical objects are temporary, avoiding excessive attachment to fleeting comforts.",
+        "be": "স্বীকার করুন যে শারীরিক বস্তুর উপর নির্ভরশীল আনন্দগুলি অস্থায়ী, ক্ষণস্থায়ী আরামের প্রতি অত্যধিক সংযুক্তি এড়িয়ে চলুন।",
+        "ka": "ಭೌತಿಕ ವಸ್ತುಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾದ ಸಂತೋಷಗಳು ತಾತ್ಕಾಲಿಕವೆಂದು ಗುರುತಿಸಿ, ಕ್ಷಣಿಕ ಸೌಕರ್ಯಗಳಿಗೆ ಅತಿಯಾದ ಬಾಂಧವ್ಯವನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Detachment",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "संस्पर्शजा",
-            "transliteration": "saṃsparśajā",
-            "meaning": "saṃsparśajā"
+            "transliteration": {
+                "hi": "संस्पर्शजा",
+                "en": "saṃsparśajā",
+                "be": "সংস্পর্শজা",
+                "ka": "ಸಂಸ್ಪರ್ಶಜಾ"
+            },
+            "meaning": {
+                "hi": "संस्पर्शजा",
+                "en": "saṃsparśajā",
+                "be": "সস্পর্শজা",
+                "ka": "ಸಂಸ್ಪರ್ಶಜಾ"
+            }
         },
         {
             "sanskrit": "भोगा",
-            "transliteration": "bhogā",
-            "meaning": "bhogā"
+            "transliteration": {
+                "hi": "भोगा",
+                "en": "bhogā",
+                "be": "ভোগা",
+                "ka": "ಭೋಗಾ"
+            },
+            "meaning": {
+                "hi": "भोगा",
+                "en": "bhogā",
+                "be": "ভোগা",
+                "ka": "ಭೋಗ"
+            }
         },
         {
             "sanskrit": "दुःखयोनय",
-            "transliteration": "duḥkhayonaya",
-            "meaning": "duḥkhayonaya"
+            "transliteration": {
+                "hi": "दुःखयोनय",
+                "en": "duḥkhayonaya",
+                "be": "দুঃখযোনয",
+                "ka": "ದುಃಖಯೋನಯ"
+            },
+            "meaning": {
+                "hi": "दुःखयोनय",
+                "en": "duḥkhayonaya",
+                "be": "দুঃখয়োনায়",
+                "ka": "ದುಃಖಯೋನಾಯ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "आद्यन्तवन्तः",
-            "transliteration": "ādyantavantaḥ",
-            "meaning": "ādyantavantaḥ"
+            "transliteration": {
+                "hi": "आद्यन्तवन्तः",
+                "en": "ādyantavantaḥ",
+                "be": "আদ্যন্তবন্তঃ",
+                "ka": "ಆದ್ಯನ್ತವನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "आद्यन्तवंतः",
+                "en": "ādyantavantaḥ",
+                "be": "আদ্যন্তবন্তঃ",
+                "ka": "ಆದ್ಯಂತವನ್ತಃ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "तेषु",
-            "transliteration": "teṣu",
-            "meaning": "teṣu"
+            "transliteration": {
+                "hi": "तेषु",
+                "en": "teṣu",
+                "be": "তেষু",
+                "ka": "ತೇಷು"
+            },
+            "meaning": {
+                "hi": "तेशु",
+                "en": "teṣu",
+                "be": "টেসু",
+                "ka": "ತೇಶು"
+            }
         },
         {
             "sanskrit": "रमते",
-            "transliteration": "ramate",
-            "meaning": "ramate"
+            "transliteration": {
+                "hi": "रमते",
+                "en": "ramate",
+                "be": "রমতে",
+                "ka": "ರಮತೇ"
+            },
+            "meaning": {
+                "hi": "ramate",
+                "en": "ramate",
+                "be": "ramate",
+                "ka": "ರಮೇಟ್"
+            }
         },
         {
             "sanskrit": "बुधः",
-            "transliteration": "budhaḥ",
-            "meaning": "budhaḥ"
+            "transliteration": {
+                "hi": "बुधः",
+                "en": "budhaḥ",
+                "be": "বুধঃ",
+                "ka": "ಬುಧಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धः",
+                "en": "budhaḥ",
+                "be": "বুধঃ",
+                "ka": "ಬುಧಃ"
+            }
         }
     ],
     "tej": {

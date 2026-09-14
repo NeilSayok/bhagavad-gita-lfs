@@ -14,8 +14,18 @@
         "en": "vidyāvinayasampanne brāhmaṇe gavi hastini .\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||5-18||",
         "ka": "ವಿದ್ಯಾವಿನಯಸಮ್ಪನ್ನೇ ಬ್ರಾಹ್ಮಣೇ ಗವಿ ಹಸ್ತಿನಿ |\nಶುನಿ ಚೈವ ಶ್ವಪಾಕೇ ಚ ಪಣ್ಡಿತಾಃ ಸಮದರ್ಶಿನಃ ||೫-೧೮||"
     },
-    "transliteration": "vidyāvinayasampanne brāhmaṇe gavi hastini .\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||5-18||",
-    "life_application": "Treat all living beings with equal respect and compassion today, looking past external appearances to the shared spirit within.",
+    "transliteration": {
+        "hi": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि |\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ||५-१८||",
+        "en": "vidyāvinayasampanne brāhmaṇe gavi hastini .\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||5-18||",
+        "be": "বিদ্যাবিনযসম্পন্নে ব্রাহ্মণে গবি হস্তিনি |\nশুনি চৈব শ্বপাকে চ পণ্ডিতাঃ সমদর্শিনঃ ||৫-১৮||",
+        "ka": "ವಿದ್ಯಾವಿನಯಸಮ್ಪನ್ನೇ ಬ್ರಾಹ್ಮಣೇ ಗವಿ ಹಸ್ತಿನಿ |\nಶುನಿ ಚೈವ ಶ್ವಪಾಕೇ ಚ ಪಣ್ಡಿತಾಃ ಸಮದರ್ಶಿನಃ ||೫-೧೮||"
+    },
+    "life_application": {
+        "hi": "आज सभी जीवित प्राणियों के साथ समान सम्मान और करुणा का व्यवहार करें, बाहरी दिखावे से परे भीतर की साझा भावना को देखें।",
+        "en": "Treat all living beings with equal respect and compassion today, looking past external appearances to the shared spirit within.",
+        "be": "আজ সকল জীবের সাথে সমান সম্মান এবং সমবেদনার সাথে আচরণ করুন, অতীতের বাহ্যিক চেহারাগুলিকে ভিতরের ভাগ করা আত্মার দিকে তাকান।",
+        "ka": "ಇಂದು ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ಸಮಾನ ಗೌರವ ಮತ್ತು ಸಹಾನುಭೂತಿಯಿಂದ ನೋಡಿಕೊಳ್ಳಿ, ಹಿಂದಿನ ಬಾಹ್ಯ ನೋಟವನ್ನು ಒಳಗೆ ಹಂಚಿಕೊಂಡ ಚೈತನ್ಯಕ್ಕೆ ನೋಡಿ."
+    },
     "themes": [
         "Equanimity",
         "Self-Realization"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "विद्याविनयसम्पन्ने",
-            "transliteration": "vidyāvinayasampanne",
-            "meaning": "vidyāvinayasampanne"
+            "transliteration": {
+                "hi": "विद्याविनयसम्पन्ने",
+                "en": "vidyāvinayasampanne",
+                "be": "বিদ্যাবিনযসম্পন্নে",
+                "ka": "ವಿದ್ಯಾವಿನಯಸಮ್ಪನ್ನೇ"
+            },
+            "meaning": {
+                "hi": "विद्याविनयसम्पन्ने",
+                "en": "vidyāvinayasampanne",
+                "be": "বিদ্যাবিনয়সম্পানে",
+                "ka": "ವಿದ್ಯಾವಿನಯಸಂಪನ್ನೆ"
+            }
         },
         {
             "sanskrit": "ब्राह्मणे",
-            "transliteration": "brāhmaṇe",
-            "meaning": "brāhmaṇe"
+            "transliteration": {
+                "hi": "ब्राह्मणे",
+                "en": "brāhmaṇe",
+                "be": "ব্রাহ্মণে",
+                "ka": "ಬ್ರಾಹ್ಮಣೇ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण",
+                "en": "brāhmaṇe",
+                "be": "ব্রাহ্মণে",
+                "ka": "ಬ್ರಾಹ್ಮಣೆ"
+            }
         },
         {
             "sanskrit": "गवि",
-            "transliteration": "gavi",
-            "meaning": "gavi"
+            "transliteration": {
+                "hi": "गवि",
+                "en": "gavi",
+                "be": "গবি",
+                "ka": "ಗವಿ"
+            },
+            "meaning": {
+                "hi": "gavi",
+                "en": "gavi",
+                "be": "গাভি",
+                "ka": "ಗವಿ"
+            }
         },
         {
             "sanskrit": "हस्तिनि",
-            "transliteration": "hastini",
-            "meaning": "hastini"
+            "transliteration": {
+                "hi": "हस्तिनि",
+                "en": "hastini",
+                "be": "হস্তিনি",
+                "ka": "ಹಸ್ತಿನಿ"
+            },
+            "meaning": {
+                "hi": "हस्तिनी",
+                "en": "hastini",
+                "be": "hastini",
+                "ka": "ಹಸ್ತಿನಿ"
+            }
         },
         {
             "sanskrit": "शुनि",
-            "transliteration": "śuni",
-            "meaning": "śuni"
+            "transliteration": {
+                "hi": "शुनि",
+                "en": "śuni",
+                "be": "শুনি",
+                "ka": "ಶುನಿ"
+            },
+            "meaning": {
+                "hi": "शुनि",
+                "en": "śuni",
+                "be": "সুনি",
+                "ka": "ಶುನಿ"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "श्वपाके",
-            "transliteration": "śvapāke",
-            "meaning": "śvapāke"
+            "transliteration": {
+                "hi": "श्वपाके",
+                "en": "śvapāke",
+                "be": "শ্বপাকে",
+                "ka": "ಶ್ವಪಾಕೇ"
+            },
+            "meaning": {
+                "hi": "श्वपाके",
+                "en": "śvapāke",
+                "be": "স্বপাকে",
+                "ka": "ಸ್ವಪಾಕೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पण्डिताः",
-            "transliteration": "paṇḍitāḥ",
-            "meaning": "paṇḍitāḥ"
+            "transliteration": {
+                "hi": "पण्डिताः",
+                "en": "paṇḍitāḥ",
+                "be": "পণ্ডিতাঃ",
+                "ka": "ಪಣ್ಡಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "पंडिताः",
+                "en": "paṇḍitāḥ",
+                "be": "পণ্ডিতঃ",
+                "ka": "ಪಂಡಿತಾಃ"
+            }
         },
         {
             "sanskrit": "समदर्शिनः",
-            "transliteration": "samadarśinaḥ",
-            "meaning": "samadarśinaḥ"
+            "transliteration": {
+                "hi": "समदर्शिनः",
+                "en": "samadarśinaḥ",
+                "be": "সমদর্শিনঃ",
+                "ka": "ಸಮದರ್ಶಿನಃ"
+            },
+            "meaning": {
+                "hi": "समदर्शिनः",
+                "en": "samadarśinaḥ",
+                "be": "সমাদর্শিনঃ",
+                "ka": "ಸಮದರ್ಶಿನಃ"
+            }
         }
     ],
     "tej": {

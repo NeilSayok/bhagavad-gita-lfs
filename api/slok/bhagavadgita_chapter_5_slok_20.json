@@ -14,8 +14,18 @@
         "en": "na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam .\nsthirabuddhirasammūḍho brahmavid brahmaṇi sthitaḥ ||5-20||",
         "ka": "ನ ಪ್ರಹೃಷ್ಯೇತ್ಪ್ರಿಯಂ ಪ್ರಾಪ್ಯ ನೋದ್ವಿಜೇತ್ಪ್ರಾಪ್ಯ ಚಾಪ್ರಿಯಮ್ |\nಸ್ಥಿರಬುದ್ಧಿರಸಮ್ಮೂಢೋ ಬ್ರಹ್ಮವಿದ್ ಬ್ರಹ್ಮಣಿ ಸ್ಥಿತಃ ||೫-೨೦||"
     },
-    "transliteration": "na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam .\nsthirabuddhirasammūḍho brahmavid brahmaṇi sthitaḥ ||5-20||",
-    "life_application": "Maintain your mental balance today whether you receive good news or bad news, refusing to be swept away by emotions.",
+    "transliteration": {
+        "hi": "न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् |\nस्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः ||५-२०||",
+        "en": "na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam .\nsthirabuddhirasammūḍho brahmavid brahmaṇi sthitaḥ ||5-20||",
+        "be": "ন প্রহৃষ্যেত্প্রিযং প্রাপ্য নোদ্বিজেত্প্রাপ্য চাপ্রিযম্ |\nস্থিরবুদ্ধিরসম্মূঢো ব্রহ্মবিদ্ ব্রহ্মণি স্থিতঃ ||৫-২০||",
+        "ka": "ನ ಪ್ರಹೃಷ್ಯೇತ್ಪ್ರಿಯಂ ಪ್ರಾಪ್ಯ ನೋದ್ವಿಜೇತ್ಪ್ರಾಪ್ಯ ಚಾಪ್ರಿಯಮ್ |\nಸ್ಥಿರಬುದ್ಧಿರಸಮ್ಮೂಢೋ ಬ್ರಹ್ಮವಿದ್ ಬ್ರಹ್ಮಣಿ ಸ್ಥಿತಃ ||೫-೨೦||"
+    },
+    "life_application": {
+        "hi": "आज चाहे आपको अच्छी खबर मिले या बुरी, भावनाओं में बहने से बचें, अपना मानसिक संतुलन बनाए रखें।",
+        "en": "Maintain your mental balance today whether you receive good news or bad news, refusing to be swept away by emotions.",
+        "be": "আজ আপনার মানসিক ভারসাম্য বজায় রাখুন আপনি ভাল খবর পান বা খারাপ খবর পান, আবেগে ভেসে যেতে অস্বীকার করুন।",
+        "ka": "ಇಂದು ನೀವು ಒಳ್ಳೆಯ ಸುದ್ದಿ ಅಥವಾ ಕೆಟ್ಟ ಸುದ್ದಿಗಳನ್ನು ಸ್ವೀಕರಿಸಿದರೂ, ಭಾವನೆಗಳಿಂದ ದೂರವಿರಲು ನಿರಾಕರಿಸಿ ನಿಮ್ಮ ಮಾನಸಿಕ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Equanimity",
         "Mind"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "प्रहृष्येत्प्रियं",
-            "transliteration": "prahṛṣyetpriyaṃ",
-            "meaning": "prahṛṣyetpriyaṃ"
+            "transliteration": {
+                "hi": "प्रहृष्येत्प्रियं",
+                "en": "prahṛṣyetpriyaṃ",
+                "be": "প্রহৃষ্যেত্প্রিযং",
+                "ka": "ಪ್ರಹೃಷ್ಯೇತ್ಪ್ರಿಯಂ"
+            },
+            "meaning": {
+                "hi": "प्रहृष्येत्प्रियम्",
+                "en": "prahṛṣyetpriyaṃ",
+                "be": "prahṛṣyetpriyaṃ",
+                "ka": "ಪ್ರಹೃಶ್ಯೇತ್ಪ್ರಿಯಃ"
+            }
         },
         {
             "sanskrit": "प्राप्य",
-            "transliteration": "prāpya",
-            "meaning": "prāpya"
+            "transliteration": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "प्राप्य",
+                "en": "prāpya",
+                "be": "প্রাপ্য",
+                "ka": "ಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "नोद्विजेत्प्राप्य",
-            "transliteration": "nodvijetprāpya",
-            "meaning": "nodvijetprāpya"
+            "transliteration": {
+                "hi": "नोद्विजेत्प्राप्य",
+                "en": "nodvijetprāpya",
+                "be": "নোদ্বিজেত্প্রাপ্য",
+                "ka": "ನೋದ್ವಿಜೇತ್ಪ್ರಾಪ್ಯ"
+            },
+            "meaning": {
+                "hi": "nodvijetप्राप्य",
+                "en": "nodvijetprāpya",
+                "be": "nodvijetprapya",
+                "ka": "ನೋಡ್ವಿಜೇತ್ಪ್ರಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "चाप्रियम्",
-            "transliteration": "cāpriyam",
-            "meaning": "cāpriyam"
+            "transliteration": {
+                "hi": "चाप्रियम्",
+                "en": "cāpriyam",
+                "be": "চাপ্রিযম্",
+                "ka": "ಚಾಪ್ರಿಯಮ್"
+            },
+            "meaning": {
+                "hi": "कैप्रियम",
+                "en": "cāpriyam",
+                "be": "ক্যাপ্রিয়াম",
+                "ka": "ಕ್ಯಾಪ್ರಿಯಮ್"
+            }
         },
         {
             "sanskrit": "स्थिरबुद्धिरसम्मूढो",
-            "transliteration": "sthirabuddhirasammūḍho",
-            "meaning": "sthirabuddhirasammūḍho"
+            "transliteration": {
+                "hi": "स्थिरबुद्धिरसम्मूढो",
+                "en": "sthirabuddhirasammūḍho",
+                "be": "স্থিরবুদ্ধিরসম্মূঢো",
+                "ka": "ಸ್ಥಿರಬುದ್ಧಿರಸಮ್ಮೂಢೋ"
+            },
+            "meaning": {
+                "hi": "स्थिरबुद्धिरसम्मुधो",
+                "en": "sthirabuddhirasammūḍho",
+                "be": "স্থিরবুদ্ধিরসাম্মুধো",
+                "ka": "ಸ್ಥಿರಬುದ್ಧಿರಸಮ್ಮೂಢೋ"
+            }
         },
         {
             "sanskrit": "ब्रह्मविद्",
-            "transliteration": "brahmavid",
-            "meaning": "brahmavid"
+            "transliteration": {
+                "hi": "ब्रह्मविद्",
+                "en": "brahmavid",
+                "be": "ব্রহ্মবিদ্",
+                "ka": "ಬ್ರಹ್ಮವಿದ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्मविद",
+                "en": "brahmavid",
+                "be": "ব্রহ্মবিদ",
+                "ka": "ಬ್ರಹ್ಮವಿದ್"
+            }
         },
         {
             "sanskrit": "ब्रह्मणि",
-            "transliteration": "brahmaṇi",
-            "meaning": "brahmaṇi"
+            "transliteration": {
+                "hi": "ब्रह्मणि",
+                "en": "brahmaṇi",
+                "be": "ব্রহ্মণি",
+                "ka": "ಬ್ರಹ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मणी",
+                "en": "brahmaṇi",
+                "be": "ব্রাহ্মণী",
+                "ka": "ಬ್ರಾಹ್ಮಣಿ"
+            }
         },
         {
             "sanskrit": "स्थितः",
-            "transliteration": "sthitaḥ",
-            "meaning": "sthitaḥ"
+            "transliteration": {
+                "hi": "स्थितः",
+                "en": "sthitaḥ",
+                "be": "স্থিতঃ",
+                "ka": "ಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "स्थितः",
+                "en": "sthitaḥ",
+                "be": "স্থিতঃ",
+                "ka": "ಸ್ಥಿತಃ"
+            }
         }
     ],
     "tej": {

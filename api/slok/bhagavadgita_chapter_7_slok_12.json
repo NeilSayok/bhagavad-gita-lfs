@@ -14,8 +14,18 @@
         "en": "ye caiva sāttvikā bhāvā rājasāstāmasāśca ye .\nmatta eveti tānviddhi na tvahaṃ teṣu te mayi ||7-12||",
         "ka": "ಯೇ ಚೈವ ಸಾತ್ತ್ವಿಕಾ ಭಾವಾ ರಾಜಸಾಸ್ತಾಮಸಾಶ್ಚ ಯೇ |\nಮತ್ತ ಏವೇತಿ ತಾನ್ವಿದ್ಧಿ ನ ತ್ವಹಂ ತೇಷು ತೇ ಮಯಿ ||೭-೧೨||"
     },
-    "transliteration": "ye caiva sāttvikā bhāvā rājasāstāmasāśca ye .\nmatta eveti tānviddhi na tvahaṃ teṣu te mayi ||7-12||",
-    "life_application": "Understand that all states of goodness, passion, and ignorance originate from God, but God transcends them all.",
+    "transliteration": {
+        "hi": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये |\nमत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ||७-१२||",
+        "en": "ye caiva sāttvikā bhāvā rājasāstāmasāśca ye .\nmatta eveti tānviddhi na tvahaṃ teṣu te mayi ||7-12||",
+        "be": "যে চৈব সাত্ত্বিকা ভাবা রাজসাস্তামসাশ্চ যে |\nমত্ত এবেতি তান্বিদ্ধি ন ত্বহং তেষু তে মযি ||৭-১২||",
+        "ka": "ಯೇ ಚೈವ ಸಾತ್ತ್ವಿಕಾ ಭಾವಾ ರಾಜಸಾಸ್ತಾಮಸಾಶ್ಚ ಯೇ |\nಮತ್ತ ಏವೇತಿ ತಾನ್ವಿದ್ಧಿ ನ ತ್ವಹಂ ತೇಷು ತೇ ಮಯಿ ||೭-೧೨||"
+    },
+    "life_application": {
+        "hi": "समझें कि अच्छाई, जुनून और अज्ञान की सभी अवस्थाएँ ईश्वर से उत्पन्न होती हैं, लेकिन ईश्वर उन सभी से परे है।",
+        "en": "Understand that all states of goodness, passion, and ignorance originate from God, but God transcends them all.",
+        "be": "বুঝুন যে সমস্ত ভাল অবস্থা, আবেগ, এবং অজ্ঞতা ঈশ্বর থেকে উদ্ভূত, কিন্তু ঈশ্বর তাদের সব অতিক্রম.",
+        "ka": "ಒಳ್ಳೆಯತನ, ಉತ್ಸಾಹ ಮತ್ತು ಅಜ್ಞಾನದ ಎಲ್ಲಾ ಸ್ಥಿತಿಗಳು ದೇವರಿಂದ ಹುಟ್ಟಿಕೊಂಡಿವೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಆದರೆ ದೇವರು ಅವೆಲ್ಲವನ್ನೂ ಮೀರುತ್ತಾನೆ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "चैव",
-            "transliteration": "caiva",
-            "meaning": "caiva"
+            "transliteration": {
+                "hi": "चैव",
+                "en": "caiva",
+                "be": "চৈব",
+                "ka": "ಚೈವ"
+            },
+            "meaning": {
+                "hi": "काइवा",
+                "en": "caiva",
+                "be": "caiva",
+                "ka": "ಕೈವಾ"
+            }
         },
         {
             "sanskrit": "सात्त्विका",
-            "transliteration": "sāttvikā",
-            "meaning": "sāttvikā"
+            "transliteration": {
+                "hi": "सात्त्विका",
+                "en": "sāttvikā",
+                "be": "সাত্ত্বিকা",
+                "ka": "ಸಾತ್ತ್ವಿಕಾ"
+            },
+            "meaning": {
+                "hi": "सात्विका",
+                "en": "sāttvikā",
+                "be": "সাত্ত্বিক",
+                "ka": "ಸಾತ್ವಿಕ"
+            }
         },
         {
             "sanskrit": "भावा",
-            "transliteration": "bhāvā",
-            "meaning": "bhāvā"
+            "transliteration": {
+                "hi": "भावा",
+                "en": "bhāvā",
+                "be": "ভাবা",
+                "ka": "ಭಾವಾ"
+            },
+            "meaning": {
+                "hi": "भाव",
+                "en": "bhāvā",
+                "be": "ভব",
+                "ka": "ಭಾವ"
+            }
         },
         {
             "sanskrit": "राजसास्तामसाश्च",
-            "transliteration": "rājasāstāmasāśca",
-            "meaning": "rājasāstāmasāśca"
+            "transliteration": {
+                "hi": "राजसास्तामसाश्च",
+                "en": "rājasāstāmasāśca",
+                "be": "রাজসাস্তামসাশ্চ",
+                "ka": "ರಾಜಸಾಸ್ತಾಮಸಾಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "राजसस्तामासश्च",
+                "en": "rājasāstāmasāśca",
+                "be": "রাজসাস্তামাসাস্ক",
+                "ka": "ರಾಜಸಾಸ್ತಮಸಾಶ್ಚ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "मत्त",
-            "transliteration": "matta",
-            "meaning": "matta"
+            "transliteration": {
+                "hi": "मत्त",
+                "en": "matta",
+                "be": "মত্ত",
+                "ka": "ಮತ್ತ"
+            },
+            "meaning": {
+                "hi": "मट्टा",
+                "en": "matta",
+                "be": "matta",
+                "ka": "ಮಟ್ಟಾ"
+            }
         },
         {
             "sanskrit": "एवेति",
-            "transliteration": "eveti",
-            "meaning": "eveti"
+            "transliteration": {
+                "hi": "एवेति",
+                "en": "eveti",
+                "be": "এবেতি",
+                "ka": "ಏವೇತಿ"
+            },
+            "meaning": {
+                "hi": "इवेटी",
+                "en": "eveti",
+                "be": "ইভটি",
+                "ka": "ಈವೆಟಿ"
+            }
         },
         {
             "sanskrit": "तान्विद्धि",
-            "transliteration": "tānviddhi",
-            "meaning": "tānviddhi"
+            "transliteration": {
+                "hi": "तान्विद्धि",
+                "en": "tānviddhi",
+                "be": "তান্বিদ্ধি",
+                "ka": "ತಾನ್ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "तन्विद्धि",
+                "en": "tānviddhi",
+                "be": "tānviddhi",
+                "ka": "ತಾನ್ವಿದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्वहं",
-            "transliteration": "tvahaṃ",
-            "meaning": "tvahaṃ"
+            "transliteration": {
+                "hi": "त्वहं",
+                "en": "tvahaṃ",
+                "be": "ত্বহং",
+                "ka": "ತ್ವಹಂ"
+            },
+            "meaning": {
+                "hi": "त्वहं",
+                "en": "tvahaṃ",
+                "be": "tvahaṃ",
+                "ka": "ತ್ವಹಾಂ"
+            }
         },
         {
             "sanskrit": "तेषु",
-            "transliteration": "teṣu",
-            "meaning": "teṣu"
+            "transliteration": {
+                "hi": "तेषु",
+                "en": "teṣu",
+                "be": "তেষু",
+                "ka": "ತೇಷು"
+            },
+            "meaning": {
+                "hi": "तेशु",
+                "en": "teṣu",
+                "be": "টেসু",
+                "ka": "ತೇಶು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "मयि",
-            "transliteration": "mayi",
-            "meaning": "mayi"
+            "transliteration": {
+                "hi": "मयि",
+                "en": "mayi",
+                "be": "মযি",
+                "ka": "ಮಯಿ"
+            },
+            "meaning": {
+                "hi": "माई",
+                "en": "mayi",
+                "be": "mayi",
+                "ka": "ಮಯಿ"
+            }
         }
     ],
     "tej": {

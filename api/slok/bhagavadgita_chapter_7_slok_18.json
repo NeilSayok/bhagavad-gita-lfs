@@ -14,8 +14,18 @@
         "en": "udārāḥ sarva evaite jñānī tvātmaiva me matam .\nāsthitaḥ sa hi yuktātmā māmevānuttamāṃ gatim ||7-18||",
         "ka": "ಉದಾರಾಃ ಸರ್ವ ಏವೈತೇ ಜ್ಞಾನೀ ತ್ವಾತ್ಮೈವ ಮೇ ಮತಮ್ |\nಆಸ್ಥಿತಃ ಸ ಹಿ ಯುಕ್ತಾತ್ಮಾ ಮಾಮೇವಾನುತ್ತಮಾಂ ಗತಿಮ್ ||೭-೧೮||"
     },
-    "transliteration": "udārāḥ sarva evaite jñānī tvātmaiva me matam .\nāsthitaḥ sa hi yuktātmā māmevānuttamāṃ gatim ||7-18||",
-    "life_application": "Respect all sincere seekers, while striving to become established in steady devotion to the supreme goal.",
+    "transliteration": {
+        "hi": "उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |\nआस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ||७-१८||",
+        "en": "udārāḥ sarva evaite jñānī tvātmaiva me matam .\nāsthitaḥ sa hi yuktātmā māmevānuttamāṃ gatim ||7-18||",
+        "be": "উদারাঃ সর্ব এবৈতে জ্ঞানী ত্বাত্মৈব মে মতম্ |\nআস্থিতঃ স হি যুক্তাত্মা মামেবানুত্তমাং গতিম্ ||৭-১৮||",
+        "ka": "ಉದಾರಾಃ ಸರ್ವ ಏವೈತೇ ಜ್ಞಾನೀ ತ್ವಾತ್ಮೈವ ಮೇ ಮತಮ್ |\nಆಸ್ಥಿತಃ ಸ ಹಿ ಯುಕ್ತಾತ್ಮಾ ಮಾಮೇವಾನುತ್ತಮಾಂ ಗತಿಮ್ ||೭-೧೮||"
+    },
+    "life_application": {
+        "hi": "सर्वोच्च लक्ष्य के प्रति स्थिर भक्ति में स्थापित होने का प्रयास करते हुए सभी ईमानदार साधकों का सम्मान करें।",
+        "en": "Respect all sincere seekers, while striving to become established in steady devotion to the supreme goal.",
+        "be": "সর্বোত্তম লক্ষ্যে স্থির ভক্তিতে প্রতিষ্ঠিত হওয়ার চেষ্টা করার সময় সমস্ত আন্তরিক অন্বেষণকে সম্মান করুন।",
+        "ka": "ಎಲ್ಲಾ ಪ್ರಾಮಾಣಿಕ ಅನ್ವೇಷಕರನ್ನು ಗೌರವಿಸಿ, ಆದರೆ ಪರಮೋಚ್ಚ ಗುರಿಯತ್ತ ಸ್ಥಿರವಾದ ಭಕ್ತಿಯಲ್ಲಿ ಸ್ಥಾಪಿತವಾಗಲು ಶ್ರಮಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Purpose"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "उदाराः",
-            "transliteration": "udārāḥ",
-            "meaning": "udārāḥ"
+            "transliteration": {
+                "hi": "उदाराः",
+                "en": "udārāḥ",
+                "be": "উদারাঃ",
+                "ka": "ಉದಾರಾಃ"
+            },
+            "meaning": {
+                "hi": "उदारः",
+                "en": "udārāḥ",
+                "be": "উদরঃ",
+                "ka": "ಉದಾರಃ"
+            }
         },
         {
             "sanskrit": "सर्व",
-            "transliteration": "sarva",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्व",
+                "en": "sarva",
+                "be": "সর্ব",
+                "ka": "ಸರ್ವ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "एवैते",
-            "transliteration": "evaite",
-            "meaning": "evaite"
+            "transliteration": {
+                "hi": "एवैते",
+                "en": "evaite",
+                "be": "এবৈতে",
+                "ka": "ಏವೈತೇ"
+            },
+            "meaning": {
+                "hi": "पलायन",
+                "en": "evaite",
+                "be": "তাড়ানো",
+                "ka": "ತಪ್ಪಿಸಿಕೊಳ್ಳು"
+            }
         },
         {
             "sanskrit": "ज्ञानी",
-            "transliteration": "jñānī",
-            "meaning": "jñānī"
+            "transliteration": {
+                "hi": "ज्ञानी",
+                "en": "jñānī",
+                "be": "জ্ঞানী",
+                "ka": "ಜ್ಞಾನೀ"
+            },
+            "meaning": {
+                "hi": "ज्ञानी",
+                "en": "jñānī",
+                "be": "জ্ঞানী",
+                "ka": "ಜ್ಞಾನಿ"
+            }
         },
         {
             "sanskrit": "त्वात्मैव",
-            "transliteration": "tvātmaiva",
-            "meaning": "tvātmaiva"
+            "transliteration": {
+                "hi": "त्वात्मैव",
+                "en": "tvātmaiva",
+                "be": "ত্বাত্মৈব",
+                "ka": "ತ್ವಾತ್ಮೈವ"
+            },
+            "meaning": {
+                "hi": "त्वात्मैव",
+                "en": "tvātmaiva",
+                "be": "tvātmaiva",
+                "ka": "ತ್ವಾತ್ಮೈವ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "मतम्",
-            "transliteration": "matam",
-            "meaning": "matam"
+            "transliteration": {
+                "hi": "मतम्",
+                "en": "matam",
+                "be": "মতম্",
+                "ka": "ಮತಮ್"
+            },
+            "meaning": {
+                "hi": "मातम",
+                "en": "matam",
+                "be": "মাতাম",
+                "ka": "ಮತಮ್"
+            }
         },
         {
             "sanskrit": "आस्थितः",
-            "transliteration": "āsthitaḥ",
-            "meaning": "āsthitaḥ"
+            "transliteration": {
+                "hi": "आस्थितः",
+                "en": "āsthitaḥ",
+                "be": "আস্থিতঃ",
+                "ka": "ಆಸ್ಥಿತಃ"
+            },
+            "meaning": {
+                "hi": "आस्थितः",
+                "en": "āsthitaḥ",
+                "be": "অস্থিতাঃ",
+                "ka": "ಆಸ್ಥಿತಃ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "certainly"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "certainly",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "युक्तात्मा",
-            "transliteration": "yuktātmā",
-            "meaning": "yuktātmā"
+            "transliteration": {
+                "hi": "युक्तात्मा",
+                "en": "yuktātmā",
+                "be": "যুক্তাত্মা",
+                "ka": "ಯುಕ್ತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "युक्तात्मा",
+                "en": "yuktātmā",
+                "be": "যুক্তাত্মা",
+                "ka": "ಯುಕ್ತಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "मामेवानुत्तमां",
-            "transliteration": "māmevānuttamāṃ",
-            "meaning": "māmevānuttamāṃ"
+            "transliteration": {
+                "hi": "मामेवानुत्तमां",
+                "en": "māmevānuttamāṃ",
+                "be": "মামেবানুত্তমাং",
+                "ka": "ಮಾಮೇವಾನುತ್ತಮಾಂ"
+            },
+            "meaning": {
+                "hi": "मामेवानुत्तमम्",
+                "en": "māmevānuttamāṃ",
+                "be": "মামেভানুত্তমাম",
+                "ka": "ಮಾಮೇವನುತ್ತಮಂ"
+            }
         },
         {
             "sanskrit": "गतिम्",
-            "transliteration": "gatim",
-            "meaning": "gatim"
+            "transliteration": {
+                "hi": "गतिम्",
+                "en": "gatim",
+                "be": "গতিম্",
+                "ka": "ಗತಿಮ್"
+            },
+            "meaning": {
+                "hi": "गैतिम",
+                "en": "gatim",
+                "be": "gatim",
+                "ka": "ಗತಿಮ್"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "balaṃ balavatāṃ cāhaṃ kāmarāgavivarjitam .\ndharmāviruddho bhūteṣu kāmo.asmi bharatarṣabha ||7-11||",
         "ka": "ಬಲಂ ಬಲವತಾಂ ಚಾಹಂ ಕಾಮರಾಗವಿವರ್ಜಿತಮ್ |\nಧರ್ಮಾವಿರುದ್ಧೋ ಭೂತೇಷು ಕಾಮೋಽಸ್ಮಿ ಭರತರ್ಷಭ ||೭-೧೧||"
     },
-    "transliteration": "balaṃ balavatāṃ cāhaṃ kāmarāgavivarjitam .\ndharmāviruddho bhūteṣu kāmo.asmi bharatarṣabha ||7-11||",
-    "life_application": "Express strength that is free from lust and passion, and desire that accords with righteousness and duty.",
+    "transliteration": {
+        "hi": "बलं बलवतां चाहं कामरागविवर्जितम् |\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ||७-११||",
+        "en": "balaṃ balavatāṃ cāhaṃ kāmarāgavivarjitam .\ndharmāviruddho bhūteṣu kāmo.asmi bharatarṣabha ||7-11||",
+        "be": "বলং বলবতাং চাহং কামরাগবিবর্জিতম্ |\nধর্মাবিরুদ্ধো ভূতেষু কামোঽস্মি ভরতর্ষভ ||৭-১১||",
+        "ka": "ಬಲಂ ಬಲವತಾಂ ಚಾಹಂ ಕಾಮರಾಗವಿವರ್ಜಿತಮ್ |\nಧರ್ಮಾವಿರುದ್ಧೋ ಭೂತೇಷು ಕಾಮೋಽಸ್ಮಿ ಭರತರ್ಷಭ ||೭-೧೧||"
+    },
+    "life_application": {
+        "hi": "ऐसी शक्ति व्यक्त करें जो वासना और जुनून से मुक्त हो, और ऐसी इच्छा व्यक्त करें जो धार्मिकता और कर्तव्य के अनुरूप हो।",
+        "en": "Express strength that is free from lust and passion, and desire that accords with righteousness and duty.",
+        "be": "লালসা এবং আবেগ থেকে মুক্ত শক্তি এবং ধার্মিকতা এবং কর্তব্যের সাথে সামঞ্জস্যপূর্ণ ইচ্ছা প্রকাশ করুন।",
+        "ka": "ಕಾಮ ಮತ್ತು ಉತ್ಸಾಹದಿಂದ ಮುಕ್ತವಾದ ಶಕ್ತಿಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿ, ಮತ್ತು ಸದಾಚಾರ ಮತ್ತು ಕರ್ತವ್ಯಕ್ಕೆ ಅನುಗುಣವಾಗಿರುವ ಬಯಕೆ."
+    },
     "themes": [
         "Dharma",
         "Duty"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "बलं",
-            "transliteration": "balaṃ",
-            "meaning": "balaṃ"
+            "transliteration": {
+                "hi": "बलं",
+                "en": "balaṃ",
+                "be": "বলং",
+                "ka": "ಬಲಂ"
+            },
+            "meaning": {
+                "hi": "बालं",
+                "en": "balaṃ",
+                "be": "baṃ",
+                "ka": "ಬಾಲಂ"
+            }
         },
         {
             "sanskrit": "बलवतां",
-            "transliteration": "balavatāṃ",
-            "meaning": "balavatāṃ"
+            "transliteration": {
+                "hi": "बलवतां",
+                "en": "balavatāṃ",
+                "be": "বলবতাং",
+                "ka": "ಬಲವತಾಂ"
+            },
+            "meaning": {
+                "hi": "बलवतं",
+                "en": "balavatāṃ",
+                "be": "balavataṃ",
+                "ka": "ಬಲವತ್ತಾಂ"
+            }
         },
         {
             "sanskrit": "चाहं",
-            "transliteration": "cāhaṃ",
-            "meaning": "cāhaṃ"
+            "transliteration": {
+                "hi": "चाहं",
+                "en": "cāhaṃ",
+                "be": "চাহং",
+                "ka": "ಚಾಹಂ"
+            },
+            "meaning": {
+                "hi": "चाहं",
+                "en": "cāhaṃ",
+                "be": "chahaṃ",
+                "ka": "cahaṃ"
+            }
         },
         {
             "sanskrit": "कामरागविवर्जितम्",
-            "transliteration": "kāmarāgavivarjitam",
-            "meaning": "kāmarāgavivarjitam"
+            "transliteration": {
+                "hi": "कामरागविवर्जितम्",
+                "en": "kāmarāgavivarjitam",
+                "be": "কামরাগবিবর্জিতম্",
+                "ka": "ಕಾಮರಾಗವಿವರ್ಜಿತಮ್"
+            },
+            "meaning": {
+                "hi": "कामरागविवर्जितम्",
+                "en": "kāmarāgavivarjitam",
+                "be": "কামরাগবিবর্জিতম্",
+                "ka": "ಕಾಮರಾಗವಿವರ್ಜಿತಮ್"
+            }
         },
         {
             "sanskrit": "धर्माविरुद्धो",
-            "transliteration": "dharmāviruddho",
-            "meaning": "dharmāviruddho"
+            "transliteration": {
+                "hi": "धर्माविरुद्धो",
+                "en": "dharmāviruddho",
+                "be": "ধর্মাবিরুদ্ধো",
+                "ka": "ಧರ್ಮಾವಿರುದ್ಧೋ"
+            },
+            "meaning": {
+                "hi": "धर्मविरुद्धो",
+                "en": "dharmāviruddho",
+                "be": "ধর্মাভিরুদ্ধো",
+                "ka": "ಧರ್ಮವಿರುದ್ಧೋ"
+            }
         },
         {
             "sanskrit": "भूतेषु",
-            "transliteration": "bhūteṣu",
-            "meaning": "bhūteṣu"
+            "transliteration": {
+                "hi": "भूतेषु",
+                "en": "bhūteṣu",
+                "be": "ভূতেষু",
+                "ka": "ಭೂತೇಷು"
+            },
+            "meaning": {
+                "hi": "भूतेषु",
+                "en": "bhūteṣu",
+                "be": "bhūteṣu",
+                "ka": "ಭೂತೇಷು"
+            }
         },
         {
             "sanskrit": "कामोऽस्मि",
-            "transliteration": "kāmo'smi",
-            "meaning": "kāmo'smi"
+            "transliteration": {
+                "hi": "कामोऽस्मि",
+                "en": "kāmo'smi",
+                "be": "কামোঽস্মি",
+                "ka": "ಕಾಮೋಽಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "कामोऽस्मि",
+                "en": "kāmo'smi",
+                "be": "kāmo'smi",
+                "ka": "ಕಾಮೋಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "भरतर्षभ",
-            "transliteration": "bharatarṣabha",
-            "meaning": "bharatarṣabha"
+            "transliteration": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভরতর্ষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            },
+            "meaning": {
+                "hi": "भरतर्षभ",
+                "en": "bharatarṣabha",
+                "be": "ভারতরষভ",
+                "ka": "ಭರತರ್ಷಭ"
+            }
         }
     ],
     "tej": {

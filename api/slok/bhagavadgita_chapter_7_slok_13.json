@@ -14,8 +14,18 @@
         "en": "tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat .\nmohitaṃ nābhijānāti māmebhyaḥ paramavyayam ||7-13||",
         "ka": "ತ್ರಿಭಿರ್ಗುಣಮಯೈರ್ಭಾವೈರೇಭಿಃ ಸರ್ವಮಿದಂ ಜಗತ್ |\nಮೋಹಿತಂ ನಾಭಿಜಾನಾತಿ ಮಾಮೇಭ್ಯಃ ಪರಮವ್ಯಯಮ್ ||೭-೧೩||"
     },
-    "transliteration": "tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat .\nmohitaṃ nābhijānāti māmebhyaḥ paramavyayam ||7-13||",
-    "life_application": "Look beyond the delusion caused by the three modes of nature, recognizing the unchangeable supreme spirit beyond them.",
+    "transliteration": {
+        "hi": "त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् |\nमोहितं नाभिजानाति मामेभ्यः परमव्ययम् ||७-१३||",
+        "en": "tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat .\nmohitaṃ nābhijānāti māmebhyaḥ paramavyayam ||7-13||",
+        "be": "ত্রিভির্গুণমযৈর্ভাবৈরেভিঃ সর্বমিদং জগত্ |\nমোহিতং নাভিজানাতি মামেভ্যঃ পরমব্যযম্ ||৭-১৩||",
+        "ka": "ತ್ರಿಭಿರ್ಗುಣಮಯೈರ್ಭಾವೈರೇಭಿಃ ಸರ್ವಮಿದಂ ಜಗತ್ |\nಮೋಹಿತಂ ನಾಭಿಜಾನಾತಿ ಮಾಮೇಭ್ಯಃ ಪರಮವ್ಯಯಮ್ ||೭-೧೩||"
+    },
+    "life_application": {
+        "hi": "प्रकृति के तीन गुणों के कारण उत्पन्न भ्रम से परे देखें, उनसे परे अपरिवर्तनीय सर्वोच्च आत्मा को पहचानें।",
+        "en": "Look beyond the delusion caused by the three modes of nature, recognizing the unchangeable supreme spirit beyond them.",
+        "be": "প্রকৃতির তিনটি মোড দ্বারা সৃষ্ট বিভ্রমের বাইরে দেখুন, তাদের বাইরে অপরিবর্তনীয় পরম আত্মাকে স্বীকৃতি দিন।",
+        "ka": "ಪ್ರಕೃತಿಯ ಮೂರು ವಿಧಾನಗಳಿಂದ ಉಂಟಾದ ಭ್ರಮೆಯನ್ನು ಮೀರಿ ನೋಡಿ, ಅವುಗಳನ್ನು ಮೀರಿದ ಬದಲಾಗದ ಪರಮ ಚೇತನವನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Detachment"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "त्रिभिर्गुणमयैर्भावैरेभिः",
-            "transliteration": "tribhirguṇamayairbhāvairebhiḥ",
-            "meaning": "tribhirguṇamayairbhāvairebhiḥ"
+            "transliteration": {
+                "hi": "त्रिभिर्गुणमयैर्भावैरेभिः",
+                "en": "tribhirguṇamayairbhāvairebhiḥ",
+                "be": "ত্রিভির্গুণমযৈর্ভাবৈরেভিঃ",
+                "ka": "ತ್ರಿಭಿರ್ಗುಣಮಯೈರ್ಭಾವೈರೇಭಿಃ"
+            },
+            "meaning": {
+                "hi": "त्रिभिर्गुणमयैर्भैरभिः",
+                "en": "tribhirguṇamayairbhāvairebhiḥ",
+                "be": "ত্রিভিরগুণময়ৈর্ভৈরেভিঃ",
+                "ka": "ತ್ರಿಭಿರ್ಗುಣಮಯೈರ್ಭವೈರೇಭಿಃ"
+            }
         },
         {
             "sanskrit": "सर्वमिदं",
-            "transliteration": "sarvamidaṃ",
-            "meaning": "sarvamidaṃ"
+            "transliteration": {
+                "hi": "सर्वमिदं",
+                "en": "sarvamidaṃ",
+                "be": "সর্বমিদং",
+                "ka": "ಸರ್ವಮಿದಂ"
+            },
+            "meaning": {
+                "hi": "सर्वमिदं",
+                "en": "sarvamidaṃ",
+                "be": "সর্বমিদং",
+                "ka": "ಸರ್ವಮಿದಂ"
+            }
         },
         {
             "sanskrit": "जगत्",
-            "transliteration": "jagat",
-            "meaning": "jagat"
+            "transliteration": {
+                "hi": "जगत्",
+                "en": "jagat",
+                "be": "জগত্",
+                "ka": "ಜಗತ್"
+            },
+            "meaning": {
+                "hi": "जगत",
+                "en": "jagat",
+                "be": "জগৎ",
+                "ka": "ಜಗತ್"
+            }
         },
         {
             "sanskrit": "मोहितं",
-            "transliteration": "mohitaṃ",
-            "meaning": "mohitaṃ"
+            "transliteration": {
+                "hi": "मोहितं",
+                "en": "mohitaṃ",
+                "be": "মোহিতং",
+                "ka": "ಮೋಹಿತಂ"
+            },
+            "meaning": {
+                "hi": "मोहितम्",
+                "en": "mohitaṃ",
+                "be": "mohitāṃ",
+                "ka": "ಮೋಹಿತಾಂ"
+            }
         },
         {
             "sanskrit": "नाभिजानाति",
-            "transliteration": "nābhijānāti",
-            "meaning": "nābhijānāti"
+            "transliteration": {
+                "hi": "नाभिजानाति",
+                "en": "nābhijānāti",
+                "be": "নাভিজানাতি",
+                "ka": "ನಾಭಿಜಾನಾತಿ"
+            },
+            "meaning": {
+                "hi": "नाभिजानाति",
+                "en": "nābhijānāti",
+                "be": "নাভিজানাতি",
+                "ka": "ನಾಭಿಜಾನತಿ"
+            }
         },
         {
             "sanskrit": "मामेभ्यः",
-            "transliteration": "māmebhyaḥ",
-            "meaning": "māmebhyaḥ"
+            "transliteration": {
+                "hi": "मामेभ्यः",
+                "en": "māmebhyaḥ",
+                "be": "মামেভ্যঃ",
+                "ka": "ಮಾಮೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "मामेभ्यः",
+                "en": "māmebhyaḥ",
+                "be": "মামেভ্যাঃ",
+                "ka": "ಮಾಮೇಭ್ಯಃ"
+            }
         },
         {
             "sanskrit": "परमव्ययम्",
-            "transliteration": "paramavyayam",
-            "meaning": "paramavyayam"
+            "transliteration": {
+                "hi": "परमव्ययम्",
+                "en": "paramavyayam",
+                "be": "পরমব্যযম্",
+                "ka": "ಪರಮವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "परमव्ययम्",
+                "en": "paramavyayam",
+                "be": "পরমব্যয়ম",
+                "ka": "ಪರಮವ್ಯಯಮ್"
+            }
         }
     ],
     "tej": {

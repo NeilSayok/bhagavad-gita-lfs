@@ -14,8 +14,18 @@
         "en": "bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam .\nbuddhirbuddhimatāmasmi tejastejasvināmaham ||7-10||",
         "ka": "ಬೀಜಂ ಮಾಂ ಸರ್ವಭೂತಾನಾಂ ವಿದ್ಧಿ ಪಾರ್ಥ ಸನಾತನಮ್ |\nಬುದ್ಧಿರ್ಬುದ್ಧಿಮತಾಮಸ್ಮಿ ತೇಜಸ್ತೇಜಸ್ವಿನಾಮಹಮ್ ||೭-೧೦||"
     },
-    "transliteration": "bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam .\nbuddhirbuddhimatāmasmi tejastejasvināmaham ||7-10||",
-    "life_application": "Know the divine as the eternal seed of all beings, the intelligence of the intelligent, and radiance of the splendid.",
+    "transliteration": {
+        "hi": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् |\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ||७-१०||",
+        "en": "bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam .\nbuddhirbuddhimatāmasmi tejastejasvināmaham ||7-10||",
+        "be": "বীজং মাং সর্বভূতানাং বিদ্ধি পার্থ সনাতনম্ |\nবুদ্ধির্বুদ্ধিমতামস্মি তেজস্তেজস্বিনামহম্ ||৭-১০||",
+        "ka": "ಬೀಜಂ ಮಾಂ ಸರ್ವಭೂತಾನಾಂ ವಿದ್ಧಿ ಪಾರ್ಥ ಸನಾತನಮ್ |\nಬುದ್ಧಿರ್ಬುದ್ಧಿಮತಾಮಸ್ಮಿ ತೇಜಸ್ತೇಜಸ್ವಿನಾಮಹಮ್ ||೭-೧೦||"
+    },
+    "life_application": {
+        "hi": "परमात्मा को सभी प्राणियों का शाश्वत बीज, बुद्धिमानों की बुद्धि और तेजस्वी लोगों की चमक के रूप में जानो।",
+        "en": "Know the divine as the eternal seed of all beings, the intelligence of the intelligent, and radiance of the splendid.",
+        "be": "পরমাত্মাকে সকল প্রাণীর শাশ্বত বীজ, বুদ্ধিমানদের বুদ্ধি এবং অপূর্বের দীপ্তিরূপে জানুন।",
+        "ka": "ಪರಮಾತ್ಮನನ್ನು ಎಲ್ಲಾ ಜೀವಿಗಳ ಶಾಶ್ವತ ಬೀಜ, ಬುದ್ಧಿವಂತರ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಭವ್ಯವಾದ ಪ್ರಕಾಶವನ್ನು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "बीजं",
-            "transliteration": "bījaṃ",
-            "meaning": "bījaṃ"
+            "transliteration": {
+                "hi": "बीजं",
+                "en": "bījaṃ",
+                "be": "বীজং",
+                "ka": "ಬೀಜಂ"
+            },
+            "meaning": {
+                "hi": "बीजां",
+                "en": "bījaṃ",
+                "be": "বিজং",
+                "ka": "ಬೀಜ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "सर्वभूतानां",
-            "transliteration": "sarvabhūtānāṃ",
-            "meaning": "sarvabhūtānāṃ"
+            "transliteration": {
+                "hi": "सर्वभूतानां",
+                "en": "sarvabhūtānāṃ",
+                "be": "সর্বভূতানাং",
+                "ka": "ಸರ್ವಭೂತಾನಾಂ"
+            },
+            "meaning": {
+                "hi": "सर्वभूतानां",
+                "en": "sarvabhūtānāṃ",
+                "be": "sarvabhūtānāṃ",
+                "ka": "ಸರ್ವಭೂತಾನಂ"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "viddhi"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O son of Pritha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पृथा के पुत्र!",
+                "en": "O son of Pritha",
+                "be": "হে পৃথার পুত্র",
+                "ka": "ಓ ಪೃಥ ಪುತ್ರನೇ"
+            }
         },
         {
             "sanskrit": "सनातनम्",
-            "transliteration": "sanātanam",
-            "meaning": "sanātanam"
+            "transliteration": {
+                "hi": "सनातनम्",
+                "en": "sanātanam",
+                "be": "সনাতনম্",
+                "ka": "ಸನಾತನಮ್"
+            },
+            "meaning": {
+                "hi": "सनातनम्",
+                "en": "sanātanam",
+                "be": "সনাতনাম",
+                "ka": "ಸನಾತನಂ"
+            }
         },
         {
             "sanskrit": "बुद्धिर्बुद्धिमतामस्मि",
-            "transliteration": "buddhirbuddhimatāmasmi",
-            "meaning": "buddhirbuddhimatāmasmi"
+            "transliteration": {
+                "hi": "बुद्धिर्बुद्धिमतामस्मि",
+                "en": "buddhirbuddhimatāmasmi",
+                "be": "বুদ্ধির্বুদ্ধিমতামস্মি",
+                "ka": "ಬುದ್ಧಿರ್ಬುದ್ಧಿಮತಾಮಸ್ಮಿ"
+            },
+            "meaning": {
+                "hi": "बुद्धिर्बुद्धिमातास्मि",
+                "en": "buddhirbuddhimatāmasmi",
+                "be": "বুদ্ধিরবুদ্ধিমতামাস্মি",
+                "ka": "ಬುದ್ಧಿರ್ಬುದ್ಧಿಮಾತಾಮಸ್ಮಿ"
+            }
         },
         {
             "sanskrit": "तेजस्तेजस्विनामहम्",
-            "transliteration": "tejastejasvināmaham",
-            "meaning": "tejastejasvināmaham"
+            "transliteration": {
+                "hi": "तेजस्तेजस्विनामहम्",
+                "en": "tejastejasvināmaham",
+                "be": "তেজস্তেজস্বিনামহম্",
+                "ka": "ತೇಜಸ್ತೇಜಸ್ವಿನಾಮಹಮ್"
+            },
+            "meaning": {
+                "hi": "तेजस्तेजस्विनामहम्",
+                "en": "tejastejasvināmaham",
+                "be": "তেজাস্তেজস্বিনামহম",
+                "ka": "ತೇಜಸ್ತೇಜಸ್ವಿನಮಹಂ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "daivī hyeṣā guṇamayī mama māyā duratyayā .\nmāmeva ye prapadyante māyāmetāṃ taranti te ||7-14||",
         "ka": "ದೈವೀ ಹ್ಯೇಷಾ ಗುಣಮಯೀ ಮಮ ಮಾಯಾ ದುರತ್ಯಯಾ |\nಮಾಮೇವ ಯೇ ಪ್ರಪದ್ಯನ್ತೇ ಮಾಯಾಮೇತಾಂ ತರನ್ತಿ ತೇ ||೭-೧೪||"
     },
-    "transliteration": "daivī hyeṣā guṇamayī mama māyā duratyayā .\nmāmeva ye prapadyante māyāmetāṃ taranti te ||7-14||",
-    "life_application": "Surrender to divine grace to cross over the formidable illusion of material nature that is otherwise hard to overcome.",
+    "transliteration": {
+        "hi": "दैवी ह्येषा गुणमयी मम माया दुरत्यया |\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ||७-१४||",
+        "en": "daivī hyeṣā guṇamayī mama māyā duratyayā .\nmāmeva ye prapadyante māyāmetāṃ taranti te ||7-14||",
+        "be": "দৈবী হ্যেষা গুণমযী মম মাযা দুরত্যযা |\nমামেব যে প্রপদ্যন্তে মাযামেতাং তরন্তি তে ||৭-১৪||",
+        "ka": "ದೈವೀ ಹ್ಯೇಷಾ ಗುಣಮಯೀ ಮಮ ಮಾಯಾ ದುರತ್ಯಯಾ |\nಮಾಮೇವ ಯೇ ಪ್ರಪದ್ಯನ್ತೇ ಮಾಯಾಮೇತಾಂ ತರನ್ತಿ ತೇ ||೭-೧೪||"
+    },
+    "life_application": {
+        "hi": "भौतिक प्रकृति के दुर्जेय भ्रम से पार पाने के लिए दैवीय कृपा के प्रति समर्पण करें, जिस पर काबू पाना अन्यथा कठिन है।",
+        "en": "Surrender to divine grace to cross over the formidable illusion of material nature that is otherwise hard to overcome.",
+        "be": "বৈষয়িক প্রকৃতির ভয়ঙ্কর মায়া অতিক্রম করার জন্য ঐশ্বরিক করুণার কাছে আত্মসমর্পণ করুন যা অন্যথায় অতিক্রম করা কঠিন।",
+        "ka": "ಇಲ್ಲದಿದ್ದರೆ ಜಯಿಸಲು ಕಷ್ಟಕರವಾದ ಭೌತಿಕ ಪ್ರಕೃತಿಯ ಅಸಾಧಾರಣ ಭ್ರಮೆಯನ್ನು ದಾಟಲು ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕೆ ಶರಣಾಗಿರಿ."
+    },
     "themes": [
         "Devotion",
         "Detachment"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "दैवी",
-            "transliteration": "daivī",
-            "meaning": "daivī"
+            "transliteration": {
+                "hi": "दैवी",
+                "en": "daivī",
+                "be": "দৈবী",
+                "ka": "ದೈವೀ"
+            },
+            "meaning": {
+                "hi": "दैवी",
+                "en": "daivī",
+                "be": "daivī",
+                "ka": "ದೈವಿ"
+            }
         },
         {
             "sanskrit": "ह्येषा",
-            "transliteration": "hyeṣā",
-            "meaning": "hyeṣā"
+            "transliteration": {
+                "hi": "ह्येषा",
+                "en": "hyeṣā",
+                "be": "হ্যেষা",
+                "ka": "ಹ್ಯೇಷಾ"
+            },
+            "meaning": {
+                "hi": "हयेशा",
+                "en": "hyeṣā",
+                "be": "hyeṣā",
+                "ka": "ಹೈಷಾ"
+            }
         },
         {
             "sanskrit": "गुणमयी",
-            "transliteration": "guṇamayī",
-            "meaning": "guṇamayī"
+            "transliteration": {
+                "hi": "गुणमयी",
+                "en": "guṇamayī",
+                "be": "গুণমযী",
+                "ka": "ಗುಣಮಯೀ"
+            },
+            "meaning": {
+                "hi": "गुणमयी",
+                "en": "guṇamayī",
+                "be": "গুণময়ী",
+                "ka": "ಗುಣಮಯಿ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "माया",
-            "transliteration": "māyā",
-            "meaning": "māyā"
+            "transliteration": {
+                "hi": "माया",
+                "en": "māyā",
+                "be": "মাযা",
+                "ka": "ಮಾಯಾ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "māyā",
+                "be": "মায়া",
+                "ka": "ಮಾಯಾ"
+            }
         },
         {
             "sanskrit": "दुरत्यया",
-            "transliteration": "duratyayā",
-            "meaning": "duratyayā"
+            "transliteration": {
+                "hi": "दुरत्यया",
+                "en": "duratyayā",
+                "be": "দুরত্যযা",
+                "ka": "ದುರತ್ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "दुरत्यया",
+                "en": "duratyayā",
+                "be": "duratyayā",
+                "ka": "ದುರತ್ಯಯಾ"
+            }
         },
         {
             "sanskrit": "मामेव",
-            "transliteration": "māmeva",
-            "meaning": "māmeva"
+            "transliteration": {
+                "hi": "मामेव",
+                "en": "māmeva",
+                "be": "মামেব",
+                "ka": "ಮಾಮೇವ"
+            },
+            "meaning": {
+                "hi": "मामेवा",
+                "en": "māmeva",
+                "be": "মামেভা",
+                "ka": "ಮಾಮೇವ"
+            }
         },
         {
             "sanskrit": "ये",
-            "transliteration": "ye",
-            "meaning": "ye"
+            "transliteration": {
+                "hi": "ये",
+                "en": "ye",
+                "be": "যে",
+                "ka": "ಯೇ"
+            },
+            "meaning": {
+                "hi": "तु",
+                "en": "ye",
+                "be": "তুমি",
+                "ka": "ನೀವು"
+            }
         },
         {
             "sanskrit": "प्रपद्यन्ते",
-            "transliteration": "prapadyante",
-            "meaning": "prapadyante"
+            "transliteration": {
+                "hi": "प्रपद्यन्ते",
+                "en": "prapadyante",
+                "be": "প্রপদ্যন্তে",
+                "ka": "ಪ್ರಪದ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "प्रपद्यन्ते",
+                "en": "prapadyante",
+                "be": "প্রপাদ্যন্তে",
+                "ka": "ಪ್ರಪದ್ಯನ್ತೇ"
+            }
         },
         {
             "sanskrit": "मायामेतां",
-            "transliteration": "māyāmetāṃ",
-            "meaning": "māyāmetāṃ"
+            "transliteration": {
+                "hi": "मायामेतां",
+                "en": "māyāmetāṃ",
+                "be": "মাযামেতাং",
+                "ka": "ಮಾಯಾಮೇತಾಂ"
+            },
+            "meaning": {
+                "hi": "मायामेताम्",
+                "en": "māyāmetāṃ",
+                "be": "māyāmetāṃ",
+                "ka": "ಮಾಯಾಮೇತಂ"
+            }
         },
         {
             "sanskrit": "तरन्ति",
-            "transliteration": "taranti",
-            "meaning": "taranti"
+            "transliteration": {
+                "hi": "तरन्ति",
+                "en": "taranti",
+                "be": "তরন্তি",
+                "ka": "ತರನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "taranti",
+                "en": "taranti",
+                "be": "taranti",
+                "ka": "ತರಂತಿ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         }
     ],
     "tej": {

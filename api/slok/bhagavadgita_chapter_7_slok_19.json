@@ -14,8 +14,18 @@
         "en": "bahūnāṃ janmanāmante jñānavānmāṃ prapadyate .\nvāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ ||7-19||",
         "ka": "ಬಹೂನಾಂ ಜನ್ಮನಾಮನ್ತೇ ಜ್ಞಾನವಾನ್ಮಾಂ ಪ್ರಪದ್ಯತೇ |\nವಾಸುದೇವಃ ಸರ್ವಮಿತಿ ಸ ಮಹಾತ್ಮಾ ಸುದುರ್ಲಭಃ ||೭-೧೯||"
     },
-    "transliteration": "bahūnāṃ janmanāmante jñānavānmāṃ prapadyate .\nvāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ ||7-19||",
-    "life_application": "After many lives of learning, surrender to the truth that the divine presence is everything, a rare and great soul.",
+    "transliteration": {
+        "hi": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते |\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||",
+        "en": "bahūnāṃ janmanāmante jñānavānmāṃ prapadyate .\nvāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ ||7-19||",
+        "be": "বহূনাং জন্মনামন্তে জ্ঞানবান্মাং প্রপদ্যতে |\nবাসুদেবঃ সর্বমিতি স মহাত্মা সুদুর্লভঃ ||৭-১৯||",
+        "ka": "ಬಹೂನಾಂ ಜನ್ಮನಾಮನ್ತೇ ಜ್ಞಾನವಾನ್ಮಾಂ ಪ್ರಪದ್ಯತೇ |\nವಾಸುದೇವಃ ಸರ್ವಮಿತಿ ಸ ಮಹಾತ್ಮಾ ಸುದುರ್ಲಭಃ ||೭-೧೯||"
+    },
+    "life_application": {
+        "hi": "कई जन्मों तक सीखने के बाद, इस सत्य के प्रति समर्पण करें कि दिव्य उपस्थिति ही सब कुछ है, एक दुर्लभ और महान आत्मा।",
+        "en": "After many lives of learning, surrender to the truth that the divine presence is everything, a rare and great soul.",
+        "be": "বহু শিক্ষাজীবনের পরে, সত্যের কাছে আত্মসমর্পণ করুন যে ঐশ্বরিক উপস্থিতিই সবকিছু, একটি বিরল এবং মহান আত্মা।",
+        "ka": "ಕಲಿಕೆಯ ಅನೇಕ ಜೀವನಗಳ ನಂತರ, ದೈವಿಕ ಉಪಸ್ಥಿತಿಯು ಸರ್ವಸ್ವ, ಅಪರೂಪದ ಮತ್ತು ಶ್ರೇಷ್ಠ ಆತ್ಮ ಎಂಬ ಸತ್ಯಕ್ಕೆ ಶರಣಾಗತಿ."
+    },
     "themes": [
         "Devotion",
         "Self-Realization"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "बहूनां",
-            "transliteration": "bahūnāṃ",
-            "meaning": "bahūnāṃ"
+            "transliteration": {
+                "hi": "बहूनां",
+                "en": "bahūnāṃ",
+                "be": "বহূনাং",
+                "ka": "ಬಹೂನಾಂ"
+            },
+            "meaning": {
+                "hi": "बहुनां",
+                "en": "bahūnāṃ",
+                "be": "বহুনাং",
+                "ka": "ಬಹುನಾಂ"
+            }
         },
         {
             "sanskrit": "जन्मनामन्ते",
-            "transliteration": "janmanāmante",
-            "meaning": "janmanāmante"
+            "transliteration": {
+                "hi": "जन्मनामन्ते",
+                "en": "janmanāmante",
+                "be": "জন্মনামন্তে",
+                "ka": "ಜನ್ಮನಾಮನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "जन्मनामन्ते",
+                "en": "janmanāmante",
+                "be": "janmanāmante",
+                "ka": "janmanāmante"
+            }
         },
         {
             "sanskrit": "ज्ञानवान्मां",
-            "transliteration": "jñānavānmāṃ",
-            "meaning": "jñānavānmāṃ"
+            "transliteration": {
+                "hi": "ज्ञानवान्मां",
+                "en": "jñānavānmāṃ",
+                "be": "জ্ঞানবান্মাং",
+                "ka": "ಜ್ಞಾನವಾನ್ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "ज्ञानवानमन्",
+                "en": "jñānavānmāṃ",
+                "be": "জ্ঞানভানমান",
+                "ka": "ಜ್ಞಾನವನ್ಮಾಂ"
+            }
         },
         {
             "sanskrit": "प्रपद्यते",
-            "transliteration": "prapadyate",
-            "meaning": "prapadyate"
+            "transliteration": {
+                "hi": "प्रपद्यते",
+                "en": "prapadyate",
+                "be": "প্রপদ্যতে",
+                "ka": "ಪ್ರಪದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "प्रपद्यते",
+                "en": "prapadyate",
+                "be": "প্রপাদ্যতে",
+                "ka": "ಪ್ರಪದ್ಯತೇ"
+            }
         },
         {
             "sanskrit": "वासुदेवः",
-            "transliteration": "vāsudevaḥ",
-            "meaning": "vāsudevaḥ"
+            "transliteration": {
+                "hi": "वासुदेवः",
+                "en": "vāsudevaḥ",
+                "be": "বাসুদেবঃ",
+                "ka": "ವಾಸುದೇವಃ"
+            },
+            "meaning": {
+                "hi": "वासुदेवः",
+                "en": "vāsudevaḥ",
+                "be": "বাসুদেবঃ",
+                "ka": "ವಾಸುದೇವಃ"
+            }
         },
         {
             "sanskrit": "सर्वमिति",
-            "transliteration": "sarvamiti",
-            "meaning": "sarvamiti"
+            "transliteration": {
+                "hi": "सर्वमिति",
+                "en": "sarvamiti",
+                "be": "সর্বমিতি",
+                "ka": "ಸರ್ವಮಿತಿ"
+            },
+            "meaning": {
+                "hi": "सर्वमिति",
+                "en": "sarvamiti",
+                "be": "সর্বমিতি",
+                "ka": "ಸರ್ವಮಿತಿ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "महात्मा",
-            "transliteration": "mahātmā",
-            "meaning": "mahātmā"
+            "transliteration": {
+                "hi": "महात्मा",
+                "en": "mahātmā",
+                "be": "মহাত্মা",
+                "ka": "ಮಹಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "महात्मा",
+                "en": "mahātmā",
+                "be": "মহাত্মা",
+                "ka": "ಮಹಾತ್ಮ"
+            }
         },
         {
             "sanskrit": "सुदुर्लभः",
-            "transliteration": "sudurlabhaḥ",
-            "meaning": "sudurlabhaḥ"
+            "transliteration": {
+                "hi": "सुदुर्लभः",
+                "en": "sudurlabhaḥ",
+                "be": "সুদুর্লভঃ",
+                "ka": "ಸುದುರ್ಲಭಃ"
+            },
+            "meaning": {
+                "hi": "सुदुर्लभाः",
+                "en": "sudurlabhaḥ",
+                "be": "সুদুরলভঃ",
+                "ka": "ಸುದುರ್ಲಭಃ"
+            }
         }
     ],
     "tej": {

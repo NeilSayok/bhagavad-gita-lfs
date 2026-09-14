@@ -14,8 +14,18 @@
         "en": "na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ .\nmāyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ ||7-15||",
         "ka": "ನ ಮಾಂ ದುಷ್ಕೃತಿನೋ ಮೂಢಾಃ ಪ್ರಪದ್ಯನ್ತೇ ನರಾಧಮಾಃ |\nಮಾಯಯಾಪಹೃತಜ್ಞಾನಾ ಆಸುರಂ ಭಾವಮಾಶ್ರಿತಾಃ ||೭-೧೫||"
     },
-    "transliteration": "na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ .\nmāyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ ||7-15||",
-    "life_application": "Avoid the trap of evil conduct and ignorance that robs people of wisdom and leads them into destructive mindsets.",
+    "transliteration": {
+        "hi": "न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः |\nमाययापहृतज्ञाना आसुरं भावमाश्रिताः ||७-१५||",
+        "en": "na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ .\nmāyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ ||7-15||",
+        "be": "ন মাং দুষ্কৃতিনো মূঢাঃ প্রপদ্যন্তে নরাধমাঃ |\nমাযযাপহৃতজ্ঞানা আসুরং ভাবমাশ্রিতাঃ ||৭-১৫||",
+        "ka": "ನ ಮಾಂ ದುಷ್ಕೃತಿನೋ ಮೂಢಾಃ ಪ್ರಪದ್ಯನ್ತೇ ನರಾಧಮಾಃ |\nಮಾಯಯಾಪಹೃತಜ್ಞಾನಾ ಆಸುರಂ ಭಾವಮಾಶ್ರಿತಾಃ ||೭-೧೫||"
+    },
+    "life_application": {
+        "hi": "बुरे आचरण और अज्ञानता के जाल से बचें जो लोगों का ज्ञान छीन लेता है और उन्हें विनाशकारी मानसिकता की ओर ले जाता है।",
+        "en": "Avoid the trap of evil conduct and ignorance that robs people of wisdom and leads them into destructive mindsets.",
+        "be": "মন্দ আচরণ এবং অজ্ঞতার ফাঁদ এড়িয়ে চলুন যা মানুষের জ্ঞান কেড়ে নেয় এবং তাদের ধ্বংসাত্মক মানসিকতার দিকে নিয়ে যায়।",
+        "ka": "ಜನರನ್ನು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಕಸಿದುಕೊಂಡು ವಿನಾಶಕಾರಿ ಮನಸ್ಥಿತಿಗೆ ಕರೆದೊಯ್ಯುವ ಕೆಟ್ಟ ನಡವಳಿಕೆ ಮತ್ತು ಅಜ್ಞಾನದ ಬಲೆಯಿಂದ ದೂರವಿರಿ."
+    },
     "themes": [
         "Dharma",
         "Knowledge"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "दुष्कृतिनो",
-            "transliteration": "duṣkṛtino",
-            "meaning": "duṣkṛtino"
+            "transliteration": {
+                "hi": "दुष्कृतिनो",
+                "en": "duṣkṛtino",
+                "be": "দুষ্কৃতিনো",
+                "ka": "ದುಷ್ಕೃತಿನೋ"
+            },
+            "meaning": {
+                "hi": "दुष्कृतिनो",
+                "en": "duṣkṛtino",
+                "be": "দুষ্কৃতিনো",
+                "ka": "ದುಷ್ಕೃತಿನೋ"
+            }
         },
         {
             "sanskrit": "मूढाः",
-            "transliteration": "mūḍhāḥ",
-            "meaning": "mūḍhāḥ"
+            "transliteration": {
+                "hi": "मूढाः",
+                "en": "mūḍhāḥ",
+                "be": "মূঢাঃ",
+                "ka": "ಮೂಢಾಃ"
+            },
+            "meaning": {
+                "hi": "मूढाः",
+                "en": "mūḍhāḥ",
+                "be": "মুহাঃ",
+                "ka": "muḍhāḥ"
+            }
         },
         {
             "sanskrit": "प्रपद्यन्ते",
-            "transliteration": "prapadyante",
-            "meaning": "prapadyante"
+            "transliteration": {
+                "hi": "प्रपद्यन्ते",
+                "en": "prapadyante",
+                "be": "প্রপদ্যন্তে",
+                "ka": "ಪ್ರಪದ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "प्रपद्यन्ते",
+                "en": "prapadyante",
+                "be": "প্রপাদ্যন্তে",
+                "ka": "ಪ್ರಪದ್ಯನ್ತೇ"
+            }
         },
         {
             "sanskrit": "नराधमाः",
-            "transliteration": "narādhamāḥ",
-            "meaning": "narādhamāḥ"
+            "transliteration": {
+                "hi": "नराधमाः",
+                "en": "narādhamāḥ",
+                "be": "নরাধমাঃ",
+                "ka": "ನರಾಧಮಾಃ"
+            },
+            "meaning": {
+                "hi": "नराधमः",
+                "en": "narādhamāḥ",
+                "be": "নারধামঃ",
+                "ka": "ನಾರದಮಃ"
+            }
         },
         {
             "sanskrit": "माययापहृतज्ञाना",
-            "transliteration": "māyayāpahṛtajñānā",
-            "meaning": "māyayāpahṛtajñānā"
+            "transliteration": {
+                "hi": "माययापहृतज्ञाना",
+                "en": "māyayāpahṛtajñānā",
+                "be": "মাযযাপহৃতজ্ঞানা",
+                "ka": "ಮಾಯಯಾಪಹೃತಜ್ಞಾನಾ"
+            },
+            "meaning": {
+                "hi": "मय्यापहृतज्ञान",
+                "en": "māyayāpahṛtajñānā",
+                "be": "মায়াপাহ্রতজ্ঞানা",
+                "ka": "ಮಾಯಯಾಪಹೃತಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "आसुरं",
-            "transliteration": "āsuraṃ",
-            "meaning": "āsuraṃ"
+            "transliteration": {
+                "hi": "आसुरं",
+                "en": "āsuraṃ",
+                "be": "আসুরং",
+                "ka": "ಆಸುರಂ"
+            },
+            "meaning": {
+                "hi": "असुरं",
+                "en": "āsuraṃ",
+                "be": "অসুর",
+                "ka": "ಆಸುರ"
+            }
         },
         {
             "sanskrit": "भावमाश्रिताः",
-            "transliteration": "bhāvamāśritāḥ",
-            "meaning": "bhāvamāśritāḥ"
+            "transliteration": {
+                "hi": "भावमाश्रिताः",
+                "en": "bhāvamāśritāḥ",
+                "be": "ভাবমাশ্রিতাঃ",
+                "ka": "ಭಾವಮಾಶ್ರಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "भावमाश्रितः",
+                "en": "bhāvamāśritāḥ",
+                "be": "ভবমাশ্রিতঃ",
+                "ka": "ಭಾವಮಾಶ್ರಿತಾಃ"
+            }
         }
     ],
     "tej": {

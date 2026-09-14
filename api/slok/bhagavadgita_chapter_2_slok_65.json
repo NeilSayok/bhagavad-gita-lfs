@@ -14,8 +14,18 @@
         "en": "prasāde sarvaduḥkhānāṃ hānirasyopajāyate .\nprasannacetaso hyāśu buddhiḥ paryavatiṣṭhate ||2-65||",
         "ka": "ಪ್ರಸಾದೇ ಸರ್ವದುಃಖಾನಾಂ ಹಾನಿರಸ್ಯೋಪಜಾಯತೇ |\nಪ್ರಸನ್ನಚೇತಸೋ ಹ್ಯಾಶು ಬುದ್ಧಿಃ ಪರ್ಯವತಿಷ್ಠತೇ ||೨-೬೫||"
     },
-    "transliteration": "prasāde sarvaduḥkhānāṃ hānirasyopajāyate .\nprasannacetaso hyāśu buddhiḥ paryavatiṣṭhate ||2-65||",
-    "life_application": "Prioritize inner peace above winning arguments, knowing that a serene mind naturally dissolves personal grievances.",
+    "transliteration": {
+        "hi": "प्रसादे सर्वदुःखानां हानिरस्योपजायते |\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ||२-६५||",
+        "en": "prasāde sarvaduḥkhānāṃ hānirasyopajāyate .\nprasannacetaso hyāśu buddhiḥ paryavatiṣṭhate ||2-65||",
+        "be": "প্রসাদে সর্বদুঃখানাং হানিরস্যোপজাযতে |\nপ্রসন্নচেতসো হ্যাশু বুদ্ধিঃ পর্যবতিষ্ঠতে ||২-৬৫||",
+        "ka": "ಪ್ರಸಾದೇ ಸರ್ವದುಃಖಾನಾಂ ಹಾನಿರಸ್ಯೋಪಜಾಯತೇ |\nಪ್ರಸನ್ನಚೇತಸೋ ಹ್ಯಾಶು ಬುದ್ಧಿಃ ಪರ್ಯವತಿಷ್ಠತೇ ||೨-೬೫||"
+    },
+    "life_application": {
+        "hi": "बहस जीतने से ऊपर आंतरिक शांति को प्राथमिकता दें, यह जानते हुए कि एक शांत दिमाग स्वाभाविक रूप से व्यक्तिगत शिकायतों को दूर कर देता है।",
+        "en": "Prioritize inner peace above winning arguments, knowing that a serene mind naturally dissolves personal grievances.",
+        "be": "বিজয়ী তর্কের ঊর্ধ্বে অভ্যন্তরীণ শান্তিকে অগ্রাধিকার দিন, জেনে রাখুন যে একটি নির্মল মন স্বাভাবিকভাবেই ব্যক্তিগত অভিযোগ দ্রবীভূত করে।",
+        "ka": "ವಾದಗಳನ್ನು ಗೆಲ್ಲುವುದಕ್ಕಿಂತ ಆಂತರಿಕ ಶಾಂತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ, ಪ್ರಶಾಂತವಾದ ಮನಸ್ಸು ಸ್ವಾಭಾವಿಕವಾಗಿ ವೈಯಕ್ತಿಕ ಅಸಮಾಧಾನಗಳನ್ನು ಕರಗಿಸುತ್ತದೆ."
+    },
     "themes": [
         "Equanimity",
         "Mind"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "प्रसादे",
-            "transliteration": "prasāde",
-            "meaning": "in peace"
+            "transliteration": {
+                "hi": "प्रसादे",
+                "en": "prasāde",
+                "be": "প্রসাদে",
+                "ka": "ಪ್ರಸಾದೇ"
+            },
+            "meaning": {
+                "hi": "शांति से",
+                "en": "in peace",
+                "be": "শান্তিতে",
+                "ka": "ಶಾಂತಿಯಿಂದ"
+            }
         },
         {
             "sanskrit": "सर्वदुःखानाम्",
-            "transliteration": "sarvaduḥkhānām",
-            "meaning": "all pains"
+            "transliteration": {
+                "hi": "सर्वदुःखानाम्",
+                "en": "sarvaduḥkhānām",
+                "be": "সর্বদুঃখানাম্",
+                "ka": "ಸರ್ವದುಃಖಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "सारे दर्द",
+                "en": "all pains",
+                "be": "সমস্ত ব্যথা",
+                "ka": "ಎಲ್ಲಾ ನೋವುಗಳು"
+            }
         },
         {
             "sanskrit": "हानिः",
-            "transliteration": "hāniḥ",
-            "meaning": "destruction"
+            "transliteration": {
+                "hi": "हानिः",
+                "en": "hāniḥ",
+                "be": "হানিঃ",
+                "ka": "ಹಾನಿಃ"
+            },
+            "meaning": {
+                "hi": "विनाश",
+                "en": "destruction",
+                "be": "ধ্বংস",
+                "ka": "ವಿನಾಶ"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "of him"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "of him",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "उपजायते",
-            "transliteration": "upajāyate",
-            "meaning": "arises"
+            "transliteration": {
+                "hi": "उपजायते",
+                "en": "upajāyate",
+                "be": "উপজাযতে",
+                "ka": "ಉಪಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "उठता है",
+                "en": "arises",
+                "be": "উদিত হয়",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "प्रसन्नचेतसः",
-            "transliteration": "prasannacetasaḥ",
-            "meaning": "of the tranilminded"
+            "transliteration": {
+                "hi": "प्रसन्नचेतसः",
+                "en": "prasannacetasaḥ",
+                "be": "প্রসন্নচেতসঃ",
+                "ka": "ಪ್ರಸನ್ನಚೇತಸಃ"
+            },
+            "meaning": {
+                "hi": "ट्रांसिलमाइंडेड का",
+                "en": "of the tranilminded",
+                "be": "of the tranilminded",
+                "ka": "ಟ್ರನಿಲ್ಮೈಂಡೆಡ್ ನ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "because"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "क्योंकि",
+                "en": "because",
+                "be": "কারণ",
+                "ka": "ಏಕೆಂದರೆ"
+            }
         },
         {
             "sanskrit": "आशु",
-            "transliteration": "āśu",
-            "meaning": "soon"
+            "transliteration": {
+                "hi": "आशु",
+                "en": "āśu",
+                "be": "আশু",
+                "ka": "ಆಶು"
+            },
+            "meaning": {
+                "hi": "जल्द ही",
+                "en": "soon",
+                "be": "শীঘ্রই",
+                "ka": "ಶೀಘ್ರದಲ್ಲೇ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "intellect"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "intellect",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "पर्यवतिष्ठते",
-            "transliteration": "paryavatiṣṭhate",
-            "meaning": "becomes steady."
+            "transliteration": {
+                "hi": "पर्यवतिष्ठते",
+                "en": "paryavatiṣṭhate",
+                "be": "পর্যবতিষ্ঠতে",
+                "ka": "ಪರ್ಯವತಿಷ್ಠತೇ"
+            },
+            "meaning": {
+                "hi": "स्थिर हो जाता है.",
+                "en": "becomes steady.",
+                "be": "স্থির হয়ে যায়।",
+                "ka": "ಸ್ಥಿರವಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yatato hyapi kaunteya puruṣasya vipaścitaḥ .\nindriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||2-60||",
         "ka": "ಯತತೋ ಹ್ಯಪಿ ಕೌನ್ತೇಯ ಪುರುಷಸ್ಯ ವಿಪಶ್ಚಿತಃ |\nಇನ್ದ್ರಿಯಾಣಿ ಪ್ರಮಾಥೀನಿ ಹರನ್ತಿ ಪ್ರಸಭಂ ಮನಃ ||೨-೬೦||"
     },
-    "transliteration": "yatato hyapi kaunteya puruṣasya vipaścitaḥ .\nindriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||2-60||",
-    "life_application": "Stay vigilant against sudden temptations, recognizing that even disciplined minds require ongoing mindfulness and care.",
+    "transliteration": {
+        "hi": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः |\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ||२-६०||",
+        "en": "yatato hyapi kaunteya puruṣasya vipaścitaḥ .\nindriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||2-60||",
+        "be": "যততো হ্যপি কৌন্তেয পুরুষস্য বিপশ্চিতঃ |\nইন্দ্রিযাণি প্রমাথীনি হরন্তি প্রসভং মনঃ ||২-৬০||",
+        "ka": "ಯತತೋ ಹ್ಯಪಿ ಕೌನ್ತೇಯ ಪುರುಷಸ್ಯ ವಿಪಶ್ಚಿತಃ |\nಇನ್ದ್ರಿಯಾಣಿ ಪ್ರಮಾಥೀನಿ ಹರನ್ತಿ ಪ್ರಸಭಂ ಮನಃ ||೨-೬೦||"
+    },
+    "life_application": {
+        "hi": "अचानक आने वाले प्रलोभनों के प्रति सतर्क रहें, यह पहचानते हुए कि अनुशासित दिमागों को भी निरंतर सावधानी और देखभाल की आवश्यकता होती है।",
+        "en": "Stay vigilant against sudden temptations, recognizing that even disciplined minds require ongoing mindfulness and care.",
+        "be": "আকস্মিক প্রলোভনের বিরুদ্ধে সতর্ক থাকুন, স্বীকার করুন যে এমনকি সুশৃঙ্খল মনের জন্যও চলমান মননশীলতা এবং যত্ন প্রয়োজন।",
+        "ka": "ಹಠಾತ್ ಪ್ರಲೋಭನೆಗಳ ವಿರುದ್ಧ ಜಾಗರೂಕರಾಗಿರಿ, ಶಿಸ್ತುಬದ್ಧ ಮನಸ್ಸುಗಳಿಗೆ ಸಹ ನಿರಂತರವಾದ ಸಾವಧಾನತೆ ಮತ್ತು ಕಾಳಜಿಯ ಅಗತ್ಯವಿರುತ್ತದೆ ಎಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यततः",
-            "transliteration": "yatataḥ",
-            "meaning": "of the striving"
+            "transliteration": {
+                "hi": "यततः",
+                "en": "yatataḥ",
+                "be": "যততঃ",
+                "ka": "ಯತತಃ"
+            },
+            "meaning": {
+                "hi": "प्रयास का",
+                "en": "of the striving",
+                "be": "প্রচেষ্টার",
+                "ka": "ಶ್ರಮಿಸುತ್ತಿರುವವರ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O Kaunteya"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कौन्तेय!",
+                "en": "O Kaunteya",
+                "be": "হে কৌন্তেয়া",
+                "ka": "ಓ ಕೌಂತೇಯ"
+            }
         },
         {
             "sanskrit": "पुरुषस्य",
-            "transliteration": "puruṣasya",
-            "meaning": "of man"
+            "transliteration": {
+                "hi": "पुरुषस्य",
+                "en": "puruṣasya",
+                "be": "পুরুষস্য",
+                "ka": "ಪುರುಷಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "आदमी का",
+                "en": "of man",
+                "be": "মানুষের",
+                "ka": "ಮನುಷ್ಯನ"
+            }
         },
         {
             "sanskrit": "विपश्चितः",
-            "transliteration": "vipaścitaḥ",
-            "meaning": "wise"
+            "transliteration": {
+                "hi": "विपश्चितः",
+                "en": "vipaścitaḥ",
+                "be": "বিপশ্চিতঃ",
+                "ka": "ವಿಪಶ್ಚಿತಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धिमान",
+                "en": "wise",
+                "be": "জ্ঞানী",
+                "ka": "ಬುದ್ಧಿವಂತ"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणि",
-            "transliteration": "indriyāṇi",
-            "meaning": "the senses"
+            "transliteration": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "ইন্দ্রিযাণি",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "the senses",
+                "be": "ইন্দ্রিয়",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "प्रमाथीनि",
-            "transliteration": "pramāthīni",
-            "meaning": "turbulent"
+            "transliteration": {
+                "hi": "प्रमाथीनि",
+                "en": "pramāthīni",
+                "be": "প্রমাথীনি",
+                "ka": "ಪ್ರಮಾಥೀನಿ"
+            },
+            "meaning": {
+                "hi": "अशांत",
+                "en": "turbulent",
+                "be": "অশান্ত",
+                "ka": "ಪ್ರಕ್ಷುಬ್ಧ"
+            }
         },
         {
             "sanskrit": "हरन्ति",
-            "transliteration": "haranti",
-            "meaning": "carry away"
+            "transliteration": {
+                "hi": "हरन्ति",
+                "en": "haranti",
+                "be": "হরন্তি",
+                "ka": "ಹರನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "ले जाना",
+                "en": "carry away",
+                "be": "বহন করা",
+                "ka": "ಒಯ್ಯುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "प्रसभम्",
-            "transliteration": "prasabham",
-            "meaning": "violently"
+            "transliteration": {
+                "hi": "प्रसभम्",
+                "en": "prasabham",
+                "be": "প্রসভম্",
+                "ka": "ಪ್ರಸಭಮ್"
+            },
+            "meaning": {
+                "hi": "हिंसक ढंग से",
+                "en": "violently",
+                "be": "হিংস্রভাবে",
+                "ka": "ಹಿಂಸಾತ್ಮಕವಾಗಿ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "the mind."
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन।",
+                "en": "the mind.",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು."
+            }
         }
     ],
     "tej": {

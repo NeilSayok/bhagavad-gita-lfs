@@ -14,8 +14,18 @@
         "en": "nāsti buddhirayuktasya na cāyuktasya bhāvanā .\nna cābhāvayataḥ śāntiraśāntasya kutaḥ sukham ||2-66||",
         "ka": "ನಾಸ್ತಿ ಬುದ್ಧಿರಯುಕ್ತಸ್ಯ ನ ಚಾಯುಕ್ತಸ್ಯ ಭಾವನಾ |\nನ ಚಾಭಾವಯತಃ ಶಾನ್ತಿರಶಾನ್ತಸ್ಯ ಕುತಃ ಸುಖಮ್ ||೨-೬೬||"
     },
-    "transliteration": "nāsti buddhirayuktasya na cāyuktasya bhāvanā .\nna cābhāvayataḥ śāntiraśāntasya kutaḥ sukham ||2-66||",
-    "life_application": "Set aside quiet time for daily reflection, understanding that lasting happiness requires a peaceful, disciplined mind.",
+    "transliteration": {
+        "hi": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||२-६६||",
+        "en": "nāsti buddhirayuktasya na cāyuktasya bhāvanā .\nna cābhāvayataḥ śāntiraśāntasya kutaḥ sukham ||2-66||",
+        "be": "নাস্তি বুদ্ধিরযুক্তস্য ন চাযুক্তস্য ভাবনা |\nন চাভাবযতঃ শান্তিরশান্তস্য কুতঃ সুখম্ ||২-৬৬||",
+        "ka": "ನಾಸ್ತಿ ಬುದ್ಧಿರಯುಕ್ತಸ್ಯ ನ ಚಾಯುಕ್ತಸ್ಯ ಭಾವನಾ |\nನ ಚಾಭಾವಯತಃ ಶಾನ್ತಿರಶಾನ್ತಸ್ಯ ಕುತಃ ಸುಖಮ್ ||೨-೬೬||"
+    },
+    "life_application": {
+        "hi": "दैनिक चिंतन के लिए शांत समय निकालें, यह समझें कि स्थायी खुशी के लिए शांतिपूर्ण, अनुशासित दिमाग की आवश्यकता होती है।",
+        "en": "Set aside quiet time for daily reflection, understanding that lasting happiness requires a peaceful, disciplined mind.",
+        "be": "প্রতিদিনের প্রতিফলনের জন্য শান্ত সময় আলাদা করুন, বুঝতে হবে যে স্থায়ী সুখের জন্য একটি শান্তিপূর্ণ, শৃঙ্খলাবদ্ধ মন প্রয়োজন।",
+        "ka": "ದಿನನಿತ್ಯದ ಪ್ರತಿಬಿಂಬಕ್ಕಾಗಿ ಶಾಂತ ಸಮಯವನ್ನು ಮೀಸಲಿಡಿ, ಶಾಶ್ವತ ಸಂತೋಷಕ್ಕೆ ಶಾಂತಿಯುತ, ಶಿಸ್ತಿನ ಮನಸ್ಸಿನ ಅಗತ್ಯವಿದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अस्ति",
-            "transliteration": "asti",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "अस्ति",
+                "en": "asti",
+                "be": "অস্তি",
+                "ka": "ಅಸ್ತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "knowledge"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "ज्ञान",
+                "en": "knowledge",
+                "be": "জ্ঞান",
+                "ka": "ಜ್ಞಾನ"
+            }
         },
         {
             "sanskrit": "अयुक्तस्य",
-            "transliteration": "ayuktasya",
-            "meaning": "of the unsteady"
+            "transliteration": {
+                "hi": "अयुक्तस्य",
+                "en": "ayuktasya",
+                "be": "অযুক্তস্য",
+                "ka": "ಅಯುಕ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अस्थिर का",
+                "en": "of the unsteady",
+                "be": "অস্থির",
+                "ka": "ಅಸ್ಥಿರವಾದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अयुक्तस्य",
-            "transliteration": "ayuktasya",
-            "meaning": "of the unsteady"
+            "transliteration": {
+                "hi": "अयुक्तस्य",
+                "en": "ayuktasya",
+                "be": "অযুক্তস্য",
+                "ka": "ಅಯುಕ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अस्थिर का",
+                "en": "of the unsteady",
+                "be": "অস্থির",
+                "ka": "ಅಸ್ಥಿರವಾದ"
+            }
         },
         {
             "sanskrit": "भावना",
-            "transliteration": "bhāvanā",
-            "meaning": "meditation"
+            "transliteration": {
+                "hi": "भावना",
+                "en": "bhāvanā",
+                "be": "ভাবনা",
+                "ka": "ಭಾವನಾ"
+            },
+            "meaning": {
+                "hi": "ध्यान",
+                "en": "meditation",
+                "be": "ধ্যান",
+                "ka": "ಧ್ಯಾನ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अभावयतः",
-            "transliteration": "abhāvayataḥ",
-            "meaning": "of the unmeditated"
+            "transliteration": {
+                "hi": "अभावयतः",
+                "en": "abhāvayataḥ",
+                "be": "অভাবযতঃ",
+                "ka": "ಅಭಾವಯತಃ"
+            },
+            "meaning": {
+                "hi": "अचिंतित का",
+                "en": "of the unmeditated",
+                "be": "অমনোযোগী",
+                "ka": "ಧ್ಯಾನಿಸದವರ"
+            }
         },
         {
             "sanskrit": "शान्तिः",
-            "transliteration": "śāntiḥ",
-            "meaning": "peace"
+            "transliteration": {
+                "hi": "शान्तिः",
+                "en": "śāntiḥ",
+                "be": "শান্তিঃ",
+                "ka": "ಶಾನ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "शांति",
+                "en": "peace",
+                "be": "শান্তি",
+                "ka": "ಶಾಂತಿ"
+            }
         },
         {
             "sanskrit": "अशान्तस्य",
-            "transliteration": "aśāntasya",
-            "meaning": "of the peaceless"
+            "transliteration": {
+                "hi": "अशान्तस्य",
+                "en": "aśāntasya",
+                "be": "অশান্তস্য",
+                "ka": "ಅಶಾನ್ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अशान्ति का",
+                "en": "of the peaceless",
+                "be": "শান্তিহীনদের",
+                "ka": "ಶಾಂತಿಯಿಲ್ಲದವರ"
+            }
         },
         {
             "sanskrit": "कुतः",
-            "transliteration": "kutaḥ",
-            "meaning": "whence"
+            "transliteration": {
+                "hi": "कुतः",
+                "en": "kutaḥ",
+                "be": "কুতঃ",
+                "ka": "ಕುತಃ"
+            },
+            "meaning": {
+                "hi": "कहाँ से",
+                "en": "whence",
+                "be": "কোথা থেকে",
+                "ka": "ಎಲ್ಲಿಂದ"
+            }
         },
         {
             "sanskrit": "सुखम्",
-            "transliteration": "sukham",
-            "meaning": "happiness."
+            "transliteration": {
+                "hi": "सुखम्",
+                "en": "sukham",
+                "be": "সুখম্",
+                "ka": "ಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "ख़ुशी।",
+                "en": "happiness.",
+                "be": "সুখ",
+                "ka": "ಸಂತೋಷ."
+            }
         }
     ],
     "tej": {

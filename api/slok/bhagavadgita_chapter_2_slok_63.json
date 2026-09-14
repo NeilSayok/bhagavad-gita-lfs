@@ -14,8 +14,18 @@
         "en": "krodhādbhavati sammohaḥ sammohātsmṛtivibhramaḥ .\nsmṛtibhraṃśād buddhināśo buddhināśātpraṇaśyati ||2-63||",
         "ka": "ಕ್ರೋಧಾದ್ಭವತಿ ಸಮ್ಮೋಹಃ ಸಮ್ಮೋಹಾತ್ಸ್ಮೃತಿವಿಭ್ರಮಃ |\nಸ್ಮೃತಿಭ್ರಂಶಾದ್ ಬುದ್ಧಿನಾಶೋ ಬುದ್ಧಿನಾಶಾತ್ಪ್ರಣಶ್ಯತಿ ||೨-೬೩||"
     },
-    "transliteration": "krodhādbhavati sammohaḥ sammohātsmṛtivibhramaḥ .\nsmṛtibhraṃśād buddhināśo buddhināśātpraṇaśyati ||2-63||",
-    "life_application": "Pause immediately when anger arises to protect your judgment from the snowballing breakdown of clear thinking.",
+    "transliteration": {
+        "hi": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः |\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ||२-६३||",
+        "en": "krodhādbhavati sammohaḥ sammohātsmṛtivibhramaḥ .\nsmṛtibhraṃśād buddhināśo buddhināśātpraṇaśyati ||2-63||",
+        "be": "ক্রোধাদ্ভবতি সম্মোহঃ সম্মোহাত্স্মৃতিবিভ্রমঃ |\nস্মৃতিভ্রংশাদ্ বুদ্ধিনাশো বুদ্ধিনাশাত্প্রণশ্যতি ||২-৬৩||",
+        "ka": "ಕ್ರೋಧಾದ್ಭವತಿ ಸಮ್ಮೋಹಃ ಸಮ್ಮೋಹಾತ್ಸ್ಮೃತಿವಿಭ್ರಮಃ |\nಸ್ಮೃತಿಭ್ರಂಶಾದ್ ಬುದ್ಧಿನಾಶೋ ಬುದ್ಧಿನಾಶಾತ್ಪ್ರಣಶ್ಯತಿ ||೨-೬೩||"
+    },
+    "life_application": {
+        "hi": "अपने निर्णय को स्पष्ट सोच के टूटने से बचाने के लिए क्रोध आने पर तुरंत रुकें।",
+        "en": "Pause immediately when anger arises to protect your judgment from the snowballing breakdown of clear thinking.",
+        "be": "স্পষ্ট চিন্তাভাবনার স্নোবলিং ভাঙ্গন থেকে আপনার বিচারকে রক্ষা করতে রাগ উঠলে অবিলম্বে বিরতি দিন।",
+        "ka": "ಸ್ಪಷ್ಟ ಚಿಂತನೆಯ ಸ್ನೋಬಾಲ್ ಸ್ಥಗಿತದಿಂದ ನಿಮ್ಮ ತೀರ್ಪನ್ನು ರಕ್ಷಿಸಲು ಕೋಪವು ಉದ್ಭವಿಸಿದಾಗ ತಕ್ಷಣವೇ ವಿರಾಮಗೊಳಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Equanimity"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "क्रोधात्",
-            "transliteration": "krodhāt",
-            "meaning": "from anger"
+            "transliteration": {
+                "hi": "क्रोधात्",
+                "en": "krodhāt",
+                "be": "ক্রোধাত্",
+                "ka": "ಕ್ರೋಧಾತ್"
+            },
+            "meaning": {
+                "hi": "क्रोध से",
+                "en": "from anger",
+                "be": "রাগ থেকে",
+                "ka": "ಕೋಪದಿಂದ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "comes"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "आता है",
+                "en": "comes",
+                "be": "আসে",
+                "ka": "ಬರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "संमोहः",
-            "transliteration": "saṃmohaḥ",
-            "meaning": "delusion"
+            "transliteration": {
+                "hi": "संमोहः",
+                "en": "saṃmohaḥ",
+                "be": "সংমোহঃ",
+                "ka": "ಸಂಮೋಹಃ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "delusion",
+                "be": "বিভ্রম",
+                "ka": "ಭ್ರಮೆ"
+            }
         },
         {
             "sanskrit": "संमोहात्",
-            "transliteration": "saṃmohāt",
-            "meaning": "from delusion"
+            "transliteration": {
+                "hi": "संमोहात्",
+                "en": "saṃmohāt",
+                "be": "সংমোহাত্",
+                "ka": "ಸಂಮೋಹಾತ್"
+            },
+            "meaning": {
+                "hi": "भ्रम से",
+                "en": "from delusion",
+                "be": "বিভ্রম থেকে",
+                "ka": "ಭ್ರಮೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "स्मृतिविभ्रमः",
-            "transliteration": "smṛtivibhramaḥ",
-            "meaning": "loss of memory"
+            "transliteration": {
+                "hi": "स्मृतिविभ्रमः",
+                "en": "smṛtivibhramaḥ",
+                "be": "স্মৃতিবিভ্রমঃ",
+                "ka": "ಸ್ಮೃತಿವಿಭ್ರಮಃ"
+            },
+            "meaning": {
+                "hi": "स्मृति हानि",
+                "en": "loss of memory",
+                "be": "স্মৃতিশক্তি হ্রাস",
+                "ka": "ಮೆಮೊರಿ ನಷ್ಟ"
+            }
         },
         {
             "sanskrit": "स्मृतिभ्रंशात्",
-            "transliteration": "smṛtibhraṃśāt",
-            "meaning": "from loss of memory"
+            "transliteration": {
+                "hi": "स्मृतिभ्रंशात्",
+                "en": "smṛtibhraṃśāt",
+                "be": "স্মৃতিভ্রংশাত্",
+                "ka": "ಸ್ಮೃತಿಭ್ರಂಶಾತ್"
+            },
+            "meaning": {
+                "hi": "स्मृति हानि से",
+                "en": "from loss of memory",
+                "be": "স্মৃতিশক্তি হারানো থেকে",
+                "ka": "ಮೆಮೊರಿ ನಷ್ಟದಿಂದ"
+            }
         },
         {
             "sanskrit": "बुद्धिनाशः",
-            "transliteration": "buddhināśaḥ",
-            "meaning": "the destruction of discriminatio"
+            "transliteration": {
+                "hi": "बुद्धिनाशः",
+                "en": "buddhināśaḥ",
+                "be": "বুদ্ধিনাশঃ",
+                "ka": "ಬುದ್ಧಿನಾಶಃ"
+            },
+            "meaning": {
+                "hi": "भेदभाव का नाश",
+                "en": "the destruction of discriminatio",
+                "be": "বৈষম্যের ধ্বংস",
+                "ka": "ತಾರತಮ್ಯದ ನಾಶ"
+            }
         },
         {
             "sanskrit": "बुद्धिनाशात्",
-            "transliteration": "buddhināśāt",
-            "meaning": "from the,destruction of discrimination"
+            "transliteration": {
+                "hi": "बुद्धिनाशात्",
+                "en": "buddhināśāt",
+                "be": "বুদ্ধিনাশাত্",
+                "ka": "ಬುದ್ಧಿನಾಶಾತ್"
+            },
+            "meaning": {
+                "hi": "भेदभाव के नाश से",
+                "en": "from the,destruction of discrimination",
+                "be": "থেকে, বৈষম্য ধ্বংস",
+                "ka": "ತಾರತಮ್ಯದ ನಾಶದಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रणश्यति",
-            "transliteration": "praṇaśyati",
-            "meaning": "perishes."
+            "transliteration": {
+                "hi": "प्रणश्यति",
+                "en": "praṇaśyati",
+                "be": "প্রণশ্যতি",
+                "ka": "ಪ್ರಣಶ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "नष्ट हो जाता है.",
+                "en": "perishes.",
+                "be": "ধ্বংস হয়",
+                "ka": "ನಾಶವಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

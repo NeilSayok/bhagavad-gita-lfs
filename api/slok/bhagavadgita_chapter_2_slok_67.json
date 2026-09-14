@@ -14,8 +14,18 @@
         "en": "indriyāṇāṃ hi caratāṃ yanmano.anuvidhīyate .\ntadasya harati prajñāṃ vāyurnāvamivāmbhasi ||2-67||",
         "ka": "ಇನ್ದ್ರಿಯಾಣಾಂ ಹಿ ಚರತಾಂ ಯನ್ಮನೋಽನುವಿಧೀಯತೇ |\nತದಸ್ಯ ಹರತಿ ಪ್ರಜ್ಞಾಂ ವಾಯುರ್ನಾವಮಿವಾಮ್ಭಸಿ ||೨-೬೭||"
     },
-    "transliteration": "indriyāṇāṃ hi caratāṃ yanmano.anuvidhīyate .\ntadasya harati prajñāṃ vāyurnāvamivāmbhasi ||2-67||",
-    "life_application": "Guard against letting a single unchecked desire hijack your clear thinking and ruin your day's priorities.",
+    "transliteration": {
+        "hi": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते |\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ||२-६७||",
+        "en": "indriyāṇāṃ hi caratāṃ yanmano.anuvidhīyate .\ntadasya harati prajñāṃ vāyurnāvamivāmbhasi ||2-67||",
+        "be": "ইন্দ্রিযাণাং হি চরতাং যন্মনোঽনুবিধীযতে |\nতদস্য হরতি প্রজ্ঞাং বাযুর্নাবমিবাম্ভসি ||২-৬৭||",
+        "ka": "ಇನ್ದ್ರಿಯಾಣಾಂ ಹಿ ಚರತಾಂ ಯನ್ಮನೋಽನುವಿಧೀಯತೇ |\nತದಸ್ಯ ಹರತಿ ಪ್ರಜ್ಞಾಂ ವಾಯುರ್ನಾವಮಿವಾಮ್ಭಸಿ ||೨-೬೭||"
+    },
+    "life_application": {
+        "hi": "एक अनियंत्रित इच्छा को अपनी स्पष्ट सोच पर हावी न होने दें और अपने दिन की प्राथमिकताओं को बर्बाद न करें, इससे सावधान रहें।",
+        "en": "Guard against letting a single unchecked desire hijack your clear thinking and ruin your day's priorities.",
+        "be": "একটি একক অনিয়ন্ত্রিত ইচ্ছাকে আপনার পরিষ্কার চিন্তাভাবনাকে হাইজ্যাক করার এবং আপনার দিনের অগ্রাধিকারগুলিকে নষ্ট করতে দেওয়া থেকে রক্ষা করুন।",
+        "ka": "ಒಂದೇ ಒಂದು ಅನಿಯಂತ್ರಿತ ಬಯಕೆಯು ನಿಮ್ಮ ಸ್ಪಷ್ಟ ಆಲೋಚನೆಯನ್ನು ಹೈಜಾಕ್ ಮಾಡಲು ಮತ್ತು ನಿಮ್ಮ ದಿನದ ಆದ್ಯತೆಗಳನ್ನು ಹಾಳುಮಾಡಲು ಅವಕಾಶ ನೀಡದಂತೆ ಎಚ್ಚರವಹಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "इन्द्रियाणाम्",
-            "transliteration": "indriyāṇām",
-            "meaning": "senses"
+            "transliteration": {
+                "hi": "इन्द्रियाणाम्",
+                "en": "indriyāṇām",
+                "be": "ইন্দ্রিযাণাম্",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "senses",
+                "be": "ইন্দ্রিয়",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "for"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for",
+                "be": "জন্য",
+                "ka": "ಫಾರ್"
+            }
         },
         {
             "sanskrit": "चरताम्",
-            "transliteration": "caratām",
-            "meaning": "wandering"
+            "transliteration": {
+                "hi": "चरताम्",
+                "en": "caratām",
+                "be": "চরতাম্",
+                "ka": "ಚರತಾಮ್"
+            },
+            "meaning": {
+                "hi": "भटकना",
+                "en": "wandering",
+                "be": "বিচরণ",
+                "ka": "ಅಲೆದಾಡುವುದು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "अनुविधीयते",
-            "transliteration": "anuvidhīyate",
-            "meaning": "follows"
+            "transliteration": {
+                "hi": "अनुविधीयते",
+                "en": "anuvidhīyate",
+                "be": "অনুবিধীযতে",
+                "ka": "ಅನುವಿಧೀಯತೇ"
+            },
+            "meaning": {
+                "hi": "अनुसरण करता है",
+                "en": "follows",
+                "be": "অনুসরণ করে",
+                "ka": "ಅನುಸರಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "his"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "हरति",
-            "transliteration": "harati",
-            "meaning": "carries away"
+            "transliteration": {
+                "hi": "हरति",
+                "en": "harati",
+                "be": "হরতি",
+                "ka": "ಹರತಿ"
+            },
+            "meaning": {
+                "hi": "ले जाता है",
+                "en": "carries away",
+                "be": "বহন করে নিয়ে যায়",
+                "ka": "ಒಯ್ಯುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "प्रज्ञाम्",
-            "transliteration": "prajñām",
-            "meaning": "discrimination"
+            "transliteration": {
+                "hi": "प्रज्ञाम्",
+                "en": "prajñām",
+                "be": "প্রজ্ঞাম্",
+                "ka": "ಪ್ರಜ್ಞಾಮ್"
+            },
+            "meaning": {
+                "hi": "भेदभाव",
+                "en": "discrimination",
+                "be": "বৈষম্য",
+                "ka": "ತಾರತಮ್ಯ"
+            }
         },
         {
             "sanskrit": "वायुः",
-            "transliteration": "vāyuḥ",
-            "meaning": "the wind"
+            "transliteration": {
+                "hi": "वायुः",
+                "en": "vāyuḥ",
+                "be": "বাযুঃ",
+                "ka": "ವಾಯುಃ"
+            },
+            "meaning": {
+                "hi": "हवा",
+                "en": "the wind",
+                "be": "বাতাস",
+                "ka": "ಗಾಳಿ"
+            }
         },
         {
             "sanskrit": "नावम्",
-            "transliteration": "nāvam",
-            "meaning": "boat"
+            "transliteration": {
+                "hi": "नावम्",
+                "en": "nāvam",
+                "be": "নাবম্",
+                "ka": "ನಾವಮ್"
+            },
+            "meaning": {
+                "hi": "नाव",
+                "en": "boat",
+                "be": "নৌকা",
+                "ka": "ದೋಣಿ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "अम्भसि",
-            "transliteration": "ambhasi",
-            "meaning": "in the water."
+            "transliteration": {
+                "hi": "अम्भसि",
+                "en": "ambhasi",
+                "be": "অম্ভসি",
+                "ka": "ಅಮ್ಭಸಿ"
+            },
+            "meaning": {
+                "hi": "पानी में.",
+                "en": "in the water.",
+                "be": "জলে",
+                "ka": "ನೀರಿನಲ್ಲಿ."
+            }
         }
     ],
     "tej": {

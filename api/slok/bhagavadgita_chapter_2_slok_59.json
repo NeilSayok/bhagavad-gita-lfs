@@ -14,8 +14,18 @@
         "en": "viṣayā vinivartante nirāhārasya dehinaḥ .\nrasavarjaṃ raso.apyasya paraṃ dṛṣṭvā nivartate ||2-59||",
         "ka": "ವಿಷಯಾ ವಿನಿವರ್ತನ್ತೇ ನಿರಾಹಾರಸ್ಯ ದೇಹಿನಃ |\nರಸವರ್ಜಂ ರಸೋಽಪ್ಯಸ್ಯ ಪರಂ ದೃಷ್ಟ್ವಾ ನಿವರ್ತತೇ ||೨-೫೯||"
     },
-    "transliteration": "viṣayā vinivartante nirāhārasya dehinaḥ .\nrasavarjaṃ raso.apyasya paraṃ dṛṣṭvā nivartate ||2-59||",
-    "life_application": "Cultivate higher spiritual fulfillment so that unhealthy habits and cravings naturally drop away without forced struggle.",
+    "transliteration": {
+        "hi": "विषया विनिवर्तन्ते निराहारस्य देहिनः |\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||२-५९||",
+        "en": "viṣayā vinivartante nirāhārasya dehinaḥ .\nrasavarjaṃ raso.apyasya paraṃ dṛṣṭvā nivartate ||2-59||",
+        "be": "বিষযা বিনিবর্তন্তে নিরাহারস্য দেহিনঃ |\nরসবর্জং রসোঽপ্যস্য পরং দৃষ্ট্বা নিবর্ততে ||২-৫৯||",
+        "ka": "ವಿಷಯಾ ವಿನಿವರ್ತನ್ತೇ ನಿರಾಹಾರಸ್ಯ ದೇಹಿನಃ |\nರಸವರ್ಜಂ ರಸೋಽಪ್ಯಸ್ಯ ಪರಂ ದೃಷ್ಟ್ವಾ ನಿವರ್ತತೇ ||೨-೫೯||"
+    },
+    "life_application": {
+        "hi": "उच्च आध्यात्मिक संतुष्टि को विकसित करें ताकि अस्वास्थ्यकर आदतें और लालसाएं बिना किसी मजबूर संघर्ष के स्वाभाविक रूप से दूर हो जाएं।",
+        "en": "Cultivate higher spiritual fulfillment so that unhealthy habits and cravings naturally drop away without forced struggle.",
+        "be": "উচ্চতর আধ্যাত্মিক পরিপূর্ণতা গড়ে তুলুন যাতে অস্বাস্থ্যকর অভ্যাস এবং লালসা স্বাভাবিকভাবেই জোরপূর্বক সংগ্রাম ছাড়াই চলে যায়।",
+        "ka": "ಹೆಚ್ಚಿನ ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ ಇದರಿಂದ ಅನಾರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳು ಮತ್ತು ಕಡುಬಯಕೆಗಳು ಬಲವಂತದ ಹೋರಾಟವಿಲ್ಲದೆ ಸ್ವಾಭಾವಿಕವಾಗಿ ಬಿಡುತ್ತವೆ."
+    },
     "themes": [
         "Detachment",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "विषयाः",
-            "transliteration": "viṣayāḥ",
-            "meaning": "the objects of senses"
+            "transliteration": {
+                "hi": "विषयाः",
+                "en": "viṣayāḥ",
+                "be": "বিষযাঃ",
+                "ka": "ವಿಷಯಾಃ"
+            },
+            "meaning": {
+                "hi": "इंद्रियों की वस्तुएं",
+                "en": "the objects of senses",
+                "be": "ইন্দ্রিয় বস্তু",
+                "ka": "ಇಂದ್ರಿಯಗಳ ವಸ್ತುಗಳು"
+            }
         },
         {
             "sanskrit": "विनिवर्तन्ते",
-            "transliteration": "vinivartante",
-            "meaning": "turn away"
+            "transliteration": {
+                "hi": "विनिवर्तन्ते",
+                "en": "vinivartante",
+                "be": "বিনিবর্তন্তে",
+                "ka": "ವಿನಿವರ್ತನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "दूर हो जाओ",
+                "en": "turn away",
+                "be": "দূরে সরে যান",
+                "ka": "ದೂರ ತಿರುಗಿ"
+            }
         },
         {
             "sanskrit": "निराहारस्य",
-            "transliteration": "nirāhārasya",
-            "meaning": "abstinent"
+            "transliteration": {
+                "hi": "निराहारस्य",
+                "en": "nirāhārasya",
+                "be": "নিরাহারস্য",
+                "ka": "ನಿರಾಹಾರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "परहेज़गार",
+                "en": "abstinent",
+                "be": "বিরত",
+                "ka": "ಇಂದ್ರಿಯನಿಗ್ರಹ"
+            }
         },
         {
             "sanskrit": "देहिनः",
-            "transliteration": "dehinaḥ",
-            "meaning": "of the man"
+            "transliteration": {
+                "hi": "देहिनः",
+                "en": "dehinaḥ",
+                "be": "দেহিনঃ",
+                "ka": "ದೇಹಿನಃ"
+            },
+            "meaning": {
+                "hi": "आदमी का",
+                "en": "of the man",
+                "be": "লোকটির",
+                "ka": "ಮನುಷ್ಯನ"
+            }
         },
         {
             "sanskrit": "रसवर्जम्",
-            "transliteration": "rasavarjam",
-            "meaning": "leaving the longing"
+            "transliteration": {
+                "hi": "रसवर्जम्",
+                "en": "rasavarjam",
+                "be": "রসবর্জম্",
+                "ka": "ರಸವರ್ಜಮ್"
+            },
+            "meaning": {
+                "hi": "लालसा छोड़ कर",
+                "en": "leaving the longing",
+                "be": "আকাঙ্ক্ষা ছেড়ে",
+                "ka": "ಹಂಬಲವನ್ನು ಬಿಟ್ಟು"
+            }
         },
         {
             "sanskrit": "रसः",
-            "transliteration": "rasaḥ",
-            "meaning": "loving"
+            "transliteration": {
+                "hi": "रसः",
+                "en": "rasaḥ",
+                "be": "রসঃ",
+                "ka": "ರಸಃ"
+            },
+            "meaning": {
+                "hi": "प्यार",
+                "en": "loving",
+                "be": "প্রেমময়",
+                "ka": "ಪ್ರೀತಿಸುವ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अस्य",
-            "transliteration": "asya",
-            "meaning": "of his"
+            "transliteration": {
+                "hi": "अस्य",
+                "en": "asya",
+                "be": "অস্য",
+                "ka": "ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "of his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "परम्",
-            "transliteration": "param",
-            "meaning": "the Supreme"
+            "transliteration": {
+                "hi": "परम्",
+                "en": "param",
+                "be": "পরম্",
+                "ka": "ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "the Supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸುಪ್ರೀಂ"
+            }
         },
         {
             "sanskrit": "दृष्ट्वा",
-            "transliteration": "dṛṣṭvā",
-            "meaning": "having seen"
+            "transliteration": {
+                "hi": "दृष्ट्वा",
+                "en": "dṛṣṭvā",
+                "be": "দৃষ্ট্বা",
+                "ka": "ದೃಷ್ಟ್ವಾ"
+            },
+            "meaning": {
+                "hi": "देखा है",
+                "en": "having seen",
+                "be": "দেখেছি",
+                "ka": "ನೋಡಿದ"
+            }
         },
         {
             "sanskrit": "निवर्तते",
-            "transliteration": "nivartate",
-            "meaning": "turns away."
+            "transliteration": {
+                "hi": "निवर्तते",
+                "en": "nivartate",
+                "be": "নিবর্ততে",
+                "ka": "ನಿವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "दूर जाना।",
+                "en": "turns away.",
+                "be": "মুখ ফিরিয়ে নেয়",
+                "ka": "ದೂರ ತಿರುಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

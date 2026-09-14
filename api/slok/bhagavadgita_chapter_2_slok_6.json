@@ -14,8 +14,18 @@
         "en": "na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ .\nyāneva hatvā na jijīviṣāmaḥ te.avasthitāḥ pramukhe dhārtarāṣṭrāḥ ||2-6||",
         "ka": "ನ ಚೈತದ್ವಿದ್ಮಃ ಕತರನ್ನೋ ಗರೀಯೋ\nಯದ್ವಾ ಜಯೇಮ ಯದಿ ವಾ ನೋ ಜಯೇಯುಃ |\nಯಾನೇವ ಹತ್ವಾ ನ ಜಿಜೀವಿಷಾಮಸ್-\nತೇಽವಸ್ಥಿತಾಃ ಪ್ರಮುಖೇ ಧಾರ್ತರಾಷ್ಟ್ರಾಃ ||೨-೬||"
     },
-    "transliteration": "na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ .\nyāneva hatvā na jijīviṣāmaḥ te.avasthitāḥ pramukhe dhārtarāṣṭrāḥ ||2-6||",
-    "life_application": "When moral confusion leaves you undecided between two difficult choices, seek clarity beyond your immediate personal preferences.",
+    "transliteration": {
+        "hi": "न चैतद्विद्मः कतरन्नो गरीयो\nयद्वा जयेम यदि वा नो जयेयुः |\nयानेव हत्वा न जिजीविषामस्-\nतेऽवस्थिताः प्रमुखे धार्तराष्ट्राः ||२-६||",
+        "en": "na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ .\nyāneva hatvā na jijīviṣāmaḥ te.avasthitāḥ pramukhe dhārtarāṣṭrāḥ ||2-6||",
+        "be": "ন চৈতদ্বিদ্মঃ কতরন্নো গরীযো\nযদ্বা জযেম যদি বা নো জযেযুঃ |\nযানেব হত্বা ন জিজীবিষামস্-\nতেঽবস্থিতাঃ প্রমুখে ধার্তরাষ্ট্রাঃ ||২-৬||",
+        "ka": "ನ ಚೈತದ್ವಿದ್ಮಃ ಕತರನ್ನೋ ಗರೀಯೋ\nಯದ್ವಾ ಜಯೇಮ ಯದಿ ವಾ ನೋ ಜಯೇಯುಃ |\nಯಾನೇವ ಹತ್ವಾ ನ ಜಿಜೀವಿಷಾಮಸ್-\nತೇಽವಸ್ಥಿತಾಃ ಪ್ರಮುಖೇ ಧಾರ್ತರಾಷ್ಟ್ರಾಃ ||೨-೬||"
+    },
+    "life_application": {
+        "hi": "जब नैतिक भ्रम आपको दो कठिन विकल्पों के बीच अनिर्णय की स्थिति में छोड़ देता है, तो अपनी तत्काल व्यक्तिगत प्राथमिकताओं से परे स्पष्टता की तलाश करें।",
+        "en": "When moral confusion leaves you undecided between two difficult choices, seek clarity beyond your immediate personal preferences.",
+        "be": "যখন নৈতিক বিভ্রান্তি আপনাকে দুটি কঠিন পছন্দের মধ্যে অনিশ্চিত রাখে, তখন আপনার তাত্ক্ষণিক ব্যক্তিগত পছন্দগুলির বাইরে স্পষ্টতা সন্ধান করুন।",
+        "ka": "ನೈತಿಕ ಗೊಂದಲವು ಎರಡು ಕಷ್ಟಕರ ಆಯ್ಕೆಗಳ ನಡುವೆ ನಿಮ್ಮನ್ನು ನಿರ್ಧರಿಸದೆ ಬಿಟ್ಟಾಗ, ನಿಮ್ಮ ತಕ್ಷಣದ ವೈಯಕ್ತಿಕ ಆದ್ಯತೆಗಳನ್ನು ಮೀರಿ ಸ್ಪಷ್ಟತೆಯನ್ನು ಪಡೆಯಿರಿ."
+    },
     "themes": [
         "Mindfulness",
         "Duty"
@@ -23,118 +33,348 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एतत्",
-            "transliteration": "etat",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एतत्",
+                "en": "etat",
+                "be": "এতত্",
+                "ka": "ಏತತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "विद्मः",
-            "transliteration": "vidmaḥ",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्मः",
+                "en": "vidmaḥ",
+                "be": "বিদ্মঃ",
+                "ka": "ವಿದ್ಮಃ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "कतरत्",
-            "transliteration": "katarat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "कतरत्",
+                "en": "katarat",
+                "be": "কতরত্",
+                "ka": "ಕತರತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "नः",
-            "transliteration": "naḥ",
-            "meaning": "for us"
+            "transliteration": {
+                "hi": "नः",
+                "en": "naḥ",
+                "be": "নঃ",
+                "ka": "ನಃ"
+            },
+            "meaning": {
+                "hi": "हमारे लिए",
+                "en": "for us",
+                "be": "আমাদের জন্য",
+                "ka": "ನಮಗಾಗಿ"
+            }
         },
         {
             "sanskrit": "गरीयः",
-            "transliteration": "garīyaḥ",
-            "meaning": "better"
+            "transliteration": {
+                "hi": "गरीयः",
+                "en": "garīyaḥ",
+                "be": "গরীযঃ",
+                "ka": "ಗರೀಯಃ"
+            },
+            "meaning": {
+                "hi": "बेहतर",
+                "en": "better",
+                "be": "ভাল",
+                "ka": "ಉತ್ತಮ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "जयेम",
-            "transliteration": "jayema",
-            "meaning": "we should coner"
+            "transliteration": {
+                "hi": "जयेम",
+                "en": "jayema",
+                "be": "জযেম",
+                "ka": "ಜಯೇಮ"
+            },
+            "meaning": {
+                "hi": "हमें कन्नर होना चाहिए",
+                "en": "we should coner",
+                "be": "আমরা coner করা উচিত",
+                "ka": "ನಾವು ಕೋನರ್ ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "नः",
-            "transliteration": "naḥ",
-            "meaning": "us"
+            "transliteration": {
+                "hi": "नः",
+                "en": "naḥ",
+                "be": "নঃ",
+                "ka": "ನಃ"
+            },
+            "meaning": {
+                "hi": "हमें",
+                "en": "us",
+                "be": "আমাদের",
+                "ka": "ನಮಗೆ"
+            }
         },
         {
             "sanskrit": "जयेयुः",
-            "transliteration": "jayeyuḥ",
-            "meaning": "they should coner"
+            "transliteration": {
+                "hi": "जयेयुः",
+                "en": "jayeyuḥ",
+                "be": "জযেযুঃ",
+                "ka": "ಜಯೇಯುಃ"
+            },
+            "meaning": {
+                "hi": "उन्हें कन्नर होना चाहिए",
+                "en": "they should coner",
+                "be": "তারা coner করা উচিত",
+                "ka": "ಅವರು ಕೋನರ್ ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "यान्",
-            "transliteration": "yān",
-            "meaning": "whom"
+            "transliteration": {
+                "hi": "यान्",
+                "en": "yān",
+                "be": "যান্",
+                "ka": "ಯಾನ್"
+            },
+            "meaning": {
+                "hi": "किसको",
+                "en": "whom",
+                "be": "কাকে",
+                "ka": "ಯಾರನ್ನು"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "हत्वा",
-            "transliteration": "hatvā",
-            "meaning": "having slain"
+            "transliteration": {
+                "hi": "हत्वा",
+                "en": "hatvā",
+                "be": "হত্বা",
+                "ka": "ಹತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "मारा जा रहा है",
+                "en": "having slain",
+                "be": "নিহত হচ্ছে",
+                "ka": "ಕೊಂದಿದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "जिजीविषामः",
-            "transliteration": "jijīviṣāmaḥ",
-            "meaning": "we wish to live"
+            "transliteration": {
+                "hi": "जिजीविषामः",
+                "en": "jijīviṣāmaḥ",
+                "be": "জিজীবিষামঃ",
+                "ka": "ಜಿಜೀವಿಷಾಮಃ"
+            },
+            "meaning": {
+                "hi": "हम जीना चाहते हैं",
+                "en": "we wish to live",
+                "be": "আমরা বাঁচতে চাই",
+                "ka": "ನಾವು ಬದುಕಲು ಬಯಸುತ್ತೇವೆ"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "those"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वो",
+                "en": "those",
+                "be": "যারা",
+                "ka": "ಆ"
+            }
         },
         {
             "sanskrit": "अवस्थिताः",
-            "transliteration": "avasthitāḥ",
-            "meaning": "standing"
+            "transliteration": {
+                "hi": "अवस्थिताः",
+                "en": "avasthitāḥ",
+                "be": "অবস্থিতাঃ",
+                "ka": "ಅವಸ್ಥಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "खड़ा है",
+                "en": "standing",
+                "be": "দাঁড়ানো",
+                "ka": "ನಿಂತಿರುವ"
+            }
         },
         {
             "sanskrit": "प्रमुखे",
-            "transliteration": "pramukhe",
-            "meaning": "in face"
+            "transliteration": {
+                "hi": "प्रमुखे",
+                "en": "pramukhe",
+                "be": "প্রমুখে",
+                "ka": "ಪ್ರಮುಖೇ"
+            },
+            "meaning": {
+                "hi": "चेहरे पर",
+                "en": "in face",
+                "be": "মুখে",
+                "ka": "ಮುಖದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "धार्तराष्ट्राः",
-            "transliteration": "dhārtarāṣṭrāḥ",
-            "meaning": "sons of Dhritarashtra."
+            "transliteration": {
+                "hi": "धार्तराष्ट्राः",
+                "en": "dhārtarāṣṭrāḥ",
+                "be": "ধার্তরাষ্ট্রাঃ",
+                "ka": "ಧಾರ್ತರಾಷ್ಟ್ರಾಃ"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र के पुत्र.",
+                "en": "sons of Dhritarashtra.",
+                "be": "ধৃতরাষ্ট্রের পুত্র।",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ ಮಕ್ಕಳು."
+            }
         }
     ],
     "tej": {

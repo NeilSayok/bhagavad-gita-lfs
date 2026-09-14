@@ -14,8 +14,18 @@
         "en": "rāgadveṣavimuktaistu viṣayānindriyaiścaran .\norviyuktaistu ātmavaśyairvidheyātmā prasādamadhigacchati ||2-64||",
         "ka": "ರಾಗದ್ವೇಷವಿಮುಕ್ತೈಸ್ತು ವಿಷಯಾನಿನ್ದ್ರಿಯೈಶ್ಚರನ್ | (or ವಿಯುಕ್ತೈಸ್ತು)\nಆತ್ಮವಶ್ಯೈರ್ವಿಧೇಯಾತ್ಮಾ ಪ್ರಸಾದಮಧಿಗಚ್ಛತಿ ||೨-೬೪||"
     },
-    "transliteration": "rāgadveṣavimuktaistu viṣayānindriyaiścaran .\norviyuktaistu ātmavaśyairvidheyātmā prasādamadhigacchati ||2-64||",
-    "life_application": "Engage with the world around you with quiet self-control, moving through daily tasks without clutching or resisting.",
+    "transliteration": {
+        "hi": "रागद्वेषविमुक्तैस्तु विषयानिन्द्रियैश्चरन् | (or वियुक्तैस्तु)\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ||२-६४||",
+        "en": "rāgadveṣavimuktaistu viṣayānindriyaiścaran .\norviyuktaistu ātmavaśyairvidheyātmā prasādamadhigacchati ||2-64||",
+        "be": "রাগদ্বেষবিমুক্তৈস্তু বিষযানিন্দ্রিযৈশ্চরন্ | (or বিযুক্তৈস্তু)\nআত্মবশ্যৈর্বিধেযাত্মা প্রসাদমধিগচ্ছতি ||২-৬৪||",
+        "ka": "ರಾಗದ್ವೇಷವಿಮುಕ್ತೈಸ್ತು ವಿಷಯಾನಿನ್ದ್ರಿಯೈಶ್ಚರನ್ | (or ವಿಯುಕ್ತೈಸ್ತು)\nಆತ್ಮವಶ್ಯೈರ್ವಿಧೇಯಾತ್ಮಾ ಪ್ರಸಾದಮಧಿಗಚ್ಛತಿ ||೨-೬೪||"
+    },
+    "life_application": {
+        "hi": "शांत आत्म-नियंत्रण के साथ अपने आस-पास की दुनिया के साथ जुड़ें, बिना किसी रुकावट या विरोध के दैनिक कार्यों को पूरा करें।",
+        "en": "Engage with the world around you with quiet self-control, moving through daily tasks without clutching or resisting.",
+        "be": "শান্ত আত্মনিয়ন্ত্রণের সাথে আপনার চারপাশের বিশ্বের সাথে জড়িত থাকুন, আঁকড়ে ধরা বা প্রতিরোধ না করে দৈনন্দিন কাজের মধ্য দিয়ে এগিয়ে যান।",
+        "ka": "ನಿಮ್ಮ ಸುತ್ತಲಿನ ಪ್ರಪಂಚದೊಂದಿಗೆ ಶಾಂತ ಸ್ವನಿಯಂತ್ರಣದೊಂದಿಗೆ ತೊಡಗಿಸಿಕೊಳ್ಳಿ, ದೈನಂದಿನ ಕಾರ್ಯಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳದೆ ಅಥವಾ ವಿರೋಧಿಸದೆ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "रागद्वेषवियुक्तैः",
-            "transliteration": "rāgadveṣaviyuktaiḥ",
-            "meaning": "free from attraction and"
+            "transliteration": {
+                "hi": "रागद्वेषवियुक्तैः",
+                "en": "rāgadveṣaviyuktaiḥ",
+                "be": "রাগদ্বেষবিযুক্তৈঃ",
+                "ka": "ರಾಗದ್ವೇಷವಿಯುಕ್ತೈಃ"
+            },
+            "meaning": {
+                "hi": "आकर्षण से मुक्त और",
+                "en": "free from attraction and",
+                "be": "আকর্ষণ থেকে মুক্ত এবং",
+                "ka": "ಆಕರ್ಷಣೆಯಿಂದ ಮುಕ್ತ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "but"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "लेकिन",
+                "en": "but",
+                "be": "কিন্তু",
+                "ka": "ಆದರೆ"
+            }
         },
         {
             "sanskrit": "विषयान्",
-            "transliteration": "viṣayān",
-            "meaning": "objects"
+            "transliteration": {
+                "hi": "विषयान्",
+                "en": "viṣayān",
+                "be": "বিষযান্",
+                "ka": "ವಿಷಯಾನ್"
+            },
+            "meaning": {
+                "hi": "वस्तुएं",
+                "en": "objects",
+                "be": "বস্তু",
+                "ka": "ವಸ್ತುಗಳು"
+            }
         },
         {
             "sanskrit": "इन्द्रियैः",
-            "transliteration": "indriyaiḥ",
-            "meaning": "with senses"
+            "transliteration": {
+                "hi": "इन्द्रियैः",
+                "en": "indriyaiḥ",
+                "be": "ইন্দ্রিযৈঃ",
+                "ka": "ಇನ್ದ್ರಿಯೈಃ"
+            },
+            "meaning": {
+                "hi": "इंद्रियों के साथ",
+                "en": "with senses",
+                "be": "ইন্দ্রিয় দিয়ে",
+                "ka": "ಇಂದ್ರಿಯಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "चरन्",
-            "transliteration": "caran",
-            "meaning": "moving"
+            "transliteration": {
+                "hi": "चरन्",
+                "en": "caran",
+                "be": "চরন্",
+                "ka": "ಚರನ್"
+            },
+            "meaning": {
+                "hi": "चल रहा है",
+                "en": "moving",
+                "be": "চলন্ত",
+                "ka": "ಚಲಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "आत्मवश्यैः",
-            "transliteration": "ātmavaśyaiḥ",
-            "meaning": "selfrestrained"
+            "transliteration": {
+                "hi": "आत्मवश्यैः",
+                "en": "ātmavaśyaiḥ",
+                "be": "আত্মবশ্যৈঃ",
+                "ka": "ಆತ್ಮವಶ್ಯೈಃ"
+            },
+            "meaning": {
+                "hi": "आत्मसंयमी",
+                "en": "selfrestrained",
+                "be": "আত্মনিয়ন্ত্রিত",
+                "ka": "ಸ್ವಯಂ ನಿರ್ಬಂಧಿತ"
+            }
         },
         {
             "sanskrit": "विधेयात्मा",
-            "transliteration": "vidheyātmā",
-            "meaning": "the selfcontrolled"
+            "transliteration": {
+                "hi": "विधेयात्मा",
+                "en": "vidheyātmā",
+                "be": "বিধেযাত্মা",
+                "ka": "ವಿಧೇಯಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "आत्मनियंत्रित",
+                "en": "the selfcontrolled",
+                "be": "আত্মনিয়ন্ত্রিত",
+                "ka": "ಸ್ವಯಂ ನಿಯಂತ್ರಿತ"
+            }
         },
         {
             "sanskrit": "प्रसादम्",
-            "transliteration": "prasādam",
-            "meaning": "to peace"
+            "transliteration": {
+                "hi": "प्रसादम्",
+                "en": "prasādam",
+                "be": "প্রসাদম্",
+                "ka": "ಪ್ರಸಾದಮ್"
+            },
+            "meaning": {
+                "hi": "शांति के लिए",
+                "en": "to peace",
+                "be": "শান্তিতে",
+                "ka": "ಶಾಂತಿಗೆ"
+            }
         },
         {
             "sanskrit": "अधिगच्छति",
-            "transliteration": "adhigacchati",
-            "meaning": "attains."
+            "transliteration": {
+                "hi": "अधिगच्छति",
+                "en": "adhigacchati",
+                "be": "অধিগচ্ছতি",
+                "ka": "ಅಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है.",
+                "en": "attains.",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

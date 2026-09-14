@@ -14,8 +14,18 @@
         "en": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate .\nsaṅgātsañjāyate kāmaḥ kāmātkrodho.abhijāyate ||2-62||",
         "ka": "ಧ್ಯಾಯತೋ ವಿಷಯಾನ್ಪುಂಸಃ ಸಙ್ಗಸ್ತೇಷೂಪಜಾಯತೇ |\nಸಙ್ಗಾತ್ಸಞ್ಜಾಯತೇ ಕಾಮಃ ಕಾಮಾತ್ಕ್ರೋಧೋಽಭಿಜಾಯತೇ ||೨-೬೨||"
     },
-    "transliteration": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate .\nsaṅgātsañjāyate kāmaḥ kāmātkrodho.abhijāyate ||2-62||",
-    "life_application": "Catch your thoughts early when fixating on desires, preventing the chain reaction that leads to frustration and anger.",
+    "transliteration": {
+        "hi": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते |\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ||२-६२||",
+        "en": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate .\nsaṅgātsañjāyate kāmaḥ kāmātkrodho.abhijāyate ||2-62||",
+        "be": "ধ্যাযতো বিষযান্পুংসঃ সঙ্গস্তেষূপজাযতে |\nসঙ্গাত্সঞ্জাযতে কামঃ কামাত্ক্রোধোঽভিজাযতে ||২-৬২||",
+        "ka": "ಧ್ಯಾಯತೋ ವಿಷಯಾನ್ಪುಂಸಃ ಸಙ್ಗಸ್ತೇಷೂಪಜಾಯತೇ |\nಸಙ್ಗಾತ್ಸಞ್ಜಾಯತೇ ಕಾಮಃ ಕಾಮಾತ್ಕ್ರೋಧೋಽಭಿಜಾಯತೇ ||೨-೬೨||"
+    },
+    "life_application": {
+        "hi": "इच्छाओं पर ध्यान केंद्रित करते समय अपने विचारों को जल्दी से पकड़ें, श्रृंखलाबद्ध प्रतिक्रिया को रोकें जो निराशा और क्रोध की ओर ले जाती है।",
+        "en": "Catch your thoughts early when fixating on desires, preventing the chain reaction that leads to frustration and anger.",
+        "be": "আকাঙ্ক্ষার উপর স্থির করার সময় আপনার চিন্তাগুলিকে তাড়াতাড়ি ধরুন, হতাশা এবং ক্রোধের দিকে পরিচালিত চেইন প্রতিক্রিয়া প্রতিরোধ করুন।",
+        "ka": "ಹತಾಶೆ ಮತ್ತು ಕೋಪಕ್ಕೆ ಕಾರಣವಾಗುವ ಸರಪಳಿ ಕ್ರಿಯೆಯನ್ನು ತಡೆಯುವ ಮೂಲಕ ಆಸೆಗಳನ್ನು ಸರಿಪಡಿಸುವಾಗ ನಿಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ಮೊದಲೇ ಹಿಡಿಯಿರಿ."
+    },
     "themes": [
         "Attachment",
         "Mind"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "ध्यायतः",
-            "transliteration": "dhyāyataḥ",
-            "meaning": "thinking"
+            "transliteration": {
+                "hi": "ध्यायतः",
+                "en": "dhyāyataḥ",
+                "be": "ধ্যাযতঃ",
+                "ka": "ಧ್ಯಾಯತಃ"
+            },
+            "meaning": {
+                "hi": "सोच रहा हूँ",
+                "en": "thinking",
+                "be": "চিন্তা",
+                "ka": "ಯೋಚಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "विषयान्",
-            "transliteration": "viṣayān",
-            "meaning": "objects of the senses"
+            "transliteration": {
+                "hi": "विषयान्",
+                "en": "viṣayān",
+                "be": "বিষযান্",
+                "ka": "ವಿಷಯಾನ್"
+            },
+            "meaning": {
+                "hi": "इंद्रियों की वस्तुएं",
+                "en": "objects of the senses",
+                "be": "ইন্দ্রিয়ের বস্তু",
+                "ka": "ಇಂದ್ರಿಯಗಳ ವಸ್ತುಗಳು"
+            }
         },
         {
             "sanskrit": "पुंसः",
-            "transliteration": "puṃsaḥ",
-            "meaning": "of a man"
+            "transliteration": {
+                "hi": "पुंसः",
+                "en": "puṃsaḥ",
+                "be": "পুংসঃ",
+                "ka": "ಪುಂಸಃ"
+            },
+            "meaning": {
+                "hi": "एक आदमी का",
+                "en": "of a man",
+                "be": "একজন মানুষের",
+                "ka": "ಒಬ್ಬ ಮನುಷ್ಯನ"
+            }
         },
         {
             "sanskrit": "सङ्गः",
-            "transliteration": "saṅgaḥ",
-            "meaning": "attachment"
+            "transliteration": {
+                "hi": "सङ्गः",
+                "en": "saṅgaḥ",
+                "be": "সঙ্গঃ",
+                "ka": "ಸಙ್ಗಃ"
+            },
+            "meaning": {
+                "hi": "लगाव",
+                "en": "attachment",
+                "be": "সংযুক্তি",
+                "ka": "ಬಾಂಧವ್ಯ"
+            }
         },
         {
             "sanskrit": "तेषु",
-            "transliteration": "teṣu",
-            "meaning": "in them"
+            "transliteration": {
+                "hi": "तेषु",
+                "en": "teṣu",
+                "be": "তেষু",
+                "ka": "ತೇಷು"
+            },
+            "meaning": {
+                "hi": "उनमें",
+                "en": "in them",
+                "be": "তাদের মধ্যে",
+                "ka": "ಅವುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "उपजायते",
-            "transliteration": "upajāyate",
-            "meaning": "arises"
+            "transliteration": {
+                "hi": "उपजायते",
+                "en": "upajāyate",
+                "be": "উপজাযতে",
+                "ka": "ಉಪಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "उठता है",
+                "en": "arises",
+                "be": "উদিত হয়",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "सङ्गात्",
-            "transliteration": "saṅgāt",
-            "meaning": "from attachment"
+            "transliteration": {
+                "hi": "सङ्गात्",
+                "en": "saṅgāt",
+                "be": "সঙ্গাত্",
+                "ka": "ಸಙ್ಗಾತ್"
+            },
+            "meaning": {
+                "hi": "लगाव से",
+                "en": "from attachment",
+                "be": "সংযুক্তি থেকে",
+                "ka": "ಬಾಂಧವ್ಯದಿಂದ"
+            }
         },
         {
             "sanskrit": "संजायते",
-            "transliteration": "saṃjāyate",
-            "meaning": "is born"
+            "transliteration": {
+                "hi": "संजायते",
+                "en": "saṃjāyate",
+                "be": "সংজাযতে",
+                "ka": "ಸಂಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा होता है",
+                "en": "is born",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "कामः",
-            "transliteration": "kāmaḥ",
-            "meaning": "desire"
+            "transliteration": {
+                "hi": "कामः",
+                "en": "kāmaḥ",
+                "be": "কামঃ",
+                "ka": "ಕಾಮಃ"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "desire",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆ"
+            }
         },
         {
             "sanskrit": "कामात्",
-            "transliteration": "kāmāt",
-            "meaning": "from desire"
+            "transliteration": {
+                "hi": "कामात्",
+                "en": "kāmāt",
+                "be": "কামাত্",
+                "ka": "ಕಾಮಾತ್"
+            },
+            "meaning": {
+                "hi": "चाहत से",
+                "en": "from desire",
+                "be": "ইচ্ছা থেকে",
+                "ka": "ಬಯಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "क्रोधः",
-            "transliteration": "krodhaḥ",
-            "meaning": "anger"
+            "transliteration": {
+                "hi": "क्रोधः",
+                "en": "krodhaḥ",
+                "be": "ক্রোধঃ",
+                "ka": "ಕ್ರೋಧಃ"
+            },
+            "meaning": {
+                "hi": "क्रोध",
+                "en": "anger",
+                "be": "রাগ",
+                "ka": "ಕೋಪ"
+            }
         },
         {
             "sanskrit": "अभिजायते",
-            "transliteration": "abhijāyate",
-            "meaning": "arises."
+            "transliteration": {
+                "hi": "अभिजायते",
+                "en": "abhijāyate",
+                "be": "অভিজাযতে",
+                "ka": "ಅಭಿಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "उठता है.",
+                "en": "arises.",
+                "be": "উদিত হয়",
+                "ka": "ಉದ್ಭವಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

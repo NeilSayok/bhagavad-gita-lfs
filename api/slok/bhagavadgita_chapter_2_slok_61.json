@@ -14,8 +14,18 @@
         "en": "tāni sarvāṇi saṃyamya yukta āsīta matparaḥ .\nvaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||2-61||",
         "ka": "ತಾನಿ ಸರ್ವಾಣಿ ಸಂಯಮ್ಯ ಯುಕ್ತ ಆಸೀತ ಮತ್ಪರಃ |\nವಶೇ ಹಿ ಯಸ್ಯೇನ್ದ್ರಿಯಾಣಿ ತಸ್ಯ ಪ್ರಜ್ಞಾ ಪ್ರತಿಷ್ಠಿತಾ ||೨-೬೧||"
     },
-    "transliteration": "tāni sarvāṇi saṃyamya yukta āsīta matparaḥ .\nvaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||2-61||",
-    "life_application": "Connect with a higher divine presence to steady your senses when willpower alone feels insufficient.",
+    "transliteration": {
+        "hi": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः |\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||२-६१||",
+        "en": "tāni sarvāṇi saṃyamya yukta āsīta matparaḥ .\nvaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||2-61||",
+        "be": "তানি সর্বাণি সংযম্য যুক্ত আসীত মত্পরঃ |\nবশে হি যস্যেন্দ্রিযাণি তস্য প্রজ্ঞা প্রতিষ্ঠিতা ||২-৬১||",
+        "ka": "ತಾನಿ ಸರ್ವಾಣಿ ಸಂಯಮ್ಯ ಯುಕ್ತ ಆಸೀತ ಮತ್ಪರಃ |\nವಶೇ ಹಿ ಯಸ್ಯೇನ್ದ್ರಿಯಾಣಿ ತಸ್ಯ ಪ್ರಜ್ಞಾ ಪ್ರತಿಷ್ಠಿತಾ ||೨-೬೧||"
+    },
+    "life_application": {
+        "hi": "जब इच्छाशक्ति ही अपर्याप्त महसूस हो तो अपनी इंद्रियों को स्थिर करने के लिए उच्चतर दिव्य उपस्थिति से जुड़ें।",
+        "en": "Connect with a higher divine presence to steady your senses when willpower alone feels insufficient.",
+        "be": "আপনার ইন্দ্রিয়কে স্থির রাখতে উচ্চতর ঐশ্বরিক উপস্থিতির সাথে সংযোগ করুন যখন একা ইচ্ছাশক্তি অপর্যাপ্ত বোধ করে।",
+        "ka": "ಇಚ್ಛಾಶಕ್ತಿ ಮಾತ್ರ ಸಾಕಾಗುವುದಿಲ್ಲ ಎಂದು ಭಾವಿಸಿದಾಗ ನಿಮ್ಮ ಇಂದ್ರಿಯಗಳನ್ನು ಸ್ಥಿರಗೊಳಿಸಲು ಉನ್ನತ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "तानि",
-            "transliteration": "tāni",
-            "meaning": "them"
+            "transliteration": {
+                "hi": "तानि",
+                "en": "tāni",
+                "be": "তানি",
+                "ka": "ತಾನಿ"
+            },
+            "meaning": {
+                "hi": "उन्हें",
+                "en": "them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "सर्वाणि",
-            "transliteration": "sarvāṇi",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वाणि",
+                "en": "sarvāṇi",
+                "be": "সর্বাণি",
+                "ka": "ಸರ್ವಾಣಿ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "संयम्य",
-            "transliteration": "saṃyamya",
-            "meaning": "having restrained"
+            "transliteration": {
+                "hi": "संयम्य",
+                "en": "saṃyamya",
+                "be": "সংযম্য",
+                "ka": "ಸಂಯಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "संयमित होना",
+                "en": "having restrained",
+                "be": "সংযত করা",
+                "ka": "ಸಂಯಮದಿಂದ"
+            }
         },
         {
             "sanskrit": "युक्तः",
-            "transliteration": "yuktaḥ",
-            "meaning": "joined"
+            "transliteration": {
+                "hi": "युक्तः",
+                "en": "yuktaḥ",
+                "be": "যুক্তঃ",
+                "ka": "ಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "सम्मिलित हुए",
+                "en": "joined",
+                "be": "যোগদান করেছে",
+                "ka": "ಸೇರಿದರು"
+            }
         },
         {
             "sanskrit": "आसीत",
-            "transliteration": "āsīta",
-            "meaning": "should sit"
+            "transliteration": {
+                "hi": "आसीत",
+                "en": "āsīta",
+                "be": "আসীত",
+                "ka": "ಆಸೀತ"
+            },
+            "meaning": {
+                "hi": "बैठना चाहिए",
+                "en": "should sit",
+                "be": "বসতে হবে",
+                "ka": "ಕುಳಿತುಕೊಳ್ಳಬೇಕು"
+            }
         },
         {
             "sanskrit": "मत्परः",
-            "transliteration": "matparaḥ",
-            "meaning": "intent on Me"
+            "transliteration": {
+                "hi": "मत्परः",
+                "en": "matparaḥ",
+                "be": "মত্পরঃ",
+                "ka": "ಮತ್ಪರಃ"
+            },
+            "meaning": {
+                "hi": "मुझ पर इरादा",
+                "en": "intent on Me",
+                "be": "আমার উপর অভিপ্রায়",
+                "ka": "ನನ್ನ ಮೇಲೆ ಉದ್ದೇಶ"
+            }
         },
         {
             "sanskrit": "वशे",
-            "transliteration": "vaśe",
-            "meaning": "under control"
+            "transliteration": {
+                "hi": "वशे",
+                "en": "vaśe",
+                "be": "বশে",
+                "ka": "ವಶೇ"
+            },
+            "meaning": {
+                "hi": "नियंत्रण में",
+                "en": "under control",
+                "be": "নিয়ন্ত্রণে",
+                "ka": "ನಿಯಂತ್ರಣದಲ್ಲಿದೆ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "यस्य",
-            "transliteration": "yasya",
-            "meaning": "whose"
+            "transliteration": {
+                "hi": "यस्य",
+                "en": "yasya",
+                "be": "যস্য",
+                "ka": "ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "किसका",
+                "en": "whose",
+                "be": "যার",
+                "ka": "ಯಾರ"
+            }
         },
         {
             "sanskrit": "इन्द्रियाणि",
-            "transliteration": "indriyāṇi",
-            "meaning": "senses"
+            "transliteration": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "ইন্দ্রিযাণি",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "इंद्रियाँ",
+                "en": "senses",
+                "be": "ইন্দ্রিয়",
+                "ka": "ಇಂದ್ರಿಯಗಳು"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "his"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसका",
+                "en": "his",
+                "be": "তার",
+                "ka": "ಅವನ"
+            }
         },
         {
             "sanskrit": "प्रज्ञा",
-            "transliteration": "prajñā",
-            "meaning": "wisdom"
+            "transliteration": {
+                "hi": "प्रज्ञा",
+                "en": "prajñā",
+                "be": "প্রজ্ঞা",
+                "ka": "ಪ್ರಜ್ಞಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "wisdom",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ"
+            }
         },
         {
             "sanskrit": "प्रतिष्ठिता",
-            "transliteration": "pratiṣṭhitā",
-            "meaning": "is settled."
+            "transliteration": {
+                "hi": "प्रतिष्ठिता",
+                "en": "pratiṣṭhitā",
+                "be": "প্রতিষ্ঠিতা",
+                "ka": "ಪ್ರತಿಷ್ಠಿತಾ"
+            },
+            "meaning": {
+                "hi": "बसे है।",
+                "en": "is settled.",
+                "be": "নিষ্পত্তি হয়",
+                "ka": "ಇತ್ಯರ್ಥವಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||1-42||",
         "ka": "ಸಙ್ಕರೋ ನರಕಾಯೈವ ಕುಲಘ್ನಾನಾಂ ಕುಲಸ್ಯ ಚ |\nಪತನ್ತಿ ಪಿತರೋ ಹ್ಯೇಷಾಂ ಲುಪ್ತಪಿಣ್ಡೋದಕಕ್ರಿಯಾಃ ||೧-೪೨||"
     },
-    "transliteration": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||1-42||",
-    "life_application": "Remember that your current choices ripple outward, affecting both your ancestors' legacy and your descendants' future.",
+    "transliteration": {
+        "hi": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च |\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||१-४२||",
+        "en": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||1-42||",
+        "be": "সঙ্করো নরকাযৈব কুলঘ্নানাং কুলস্য চ |\nপতন্তি পিতরো হ্যেষাং লুপ্তপিণ্ডোদকক্রিযাঃ ||১-৪২||",
+        "ka": "ಸಙ್ಕರೋ ನರಕಾಯೈವ ಕುಲಘ್ನಾನಾಂ ಕುಲಸ್ಯ ಚ |\nಪತನ್ತಿ ಪಿತರೋ ಹ್ಯೇಷಾಂ ಲುಪ್ತಪಿಣ್ಡೋದಕಕ್ರಿಯಾಃ ||೧-೪೨||"
+    },
+    "life_application": {
+        "hi": "याद रखें कि आपकी वर्तमान पसंद बाहर की ओर तरंगित होती है, जो आपके पूर्वजों की विरासत और आपके वंशजों के भविष्य दोनों को प्रभावित करती है।",
+        "en": "Remember that your current choices ripple outward, affecting both your ancestors' legacy and your descendants' future.",
+        "be": "মনে রাখবেন যে আপনার বর্তমান পছন্দগুলি বাইরের দিকে ঢেউ খেলে, আপনার পূর্বপুরুষদের উত্তরাধিকার এবং আপনার বংশধরদের ভবিষ্যত উভয়কেই প্রভাবিত করে।",
+        "ka": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಆಯ್ಕೆಗಳು ನಿಮ್ಮ ಪೂರ್ವಜರ ಪರಂಪರೆ ಮತ್ತು ನಿಮ್ಮ ವಂಶಸ್ಥರ ಭವಿಷ್ಯದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ."
+    },
     "themes": [
         "Karma",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "सङ्करः",
-            "transliteration": "saṅkaraḥ",
-            "meaning": "confusion"
+            "transliteration": {
+                "hi": "सङ्करः",
+                "en": "saṅkaraḥ",
+                "be": "সঙ্করঃ",
+                "ka": "ಸಙ್ಕರಃ"
+            },
+            "meaning": {
+                "hi": "उलझन",
+                "en": "confusion",
+                "be": "বিভ্রান্তি",
+                "ka": "ಗೊಂದಲ"
+            }
         },
         {
             "sanskrit": "नरकाय",
-            "transliteration": "narakāya",
-            "meaning": "to hell"
+            "transliteration": {
+                "hi": "नरकाय",
+                "en": "narakāya",
+                "be": "নরকায",
+                "ka": "ನರಕಾಯ"
+            },
+            "meaning": {
+                "hi": "नरक में",
+                "en": "to hell",
+                "be": "জাহান্নামে",
+                "ka": "ನರಕಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "कुलघ्नानाम्",
-            "transliteration": "kulaghnānām",
-            "meaning": "for family destroyers"
+            "transliteration": {
+                "hi": "कुलघ्नानाम्",
+                "en": "kulaghnānām",
+                "be": "কুলঘ্নানাম্",
+                "ka": "ಕುಲಘ್ನಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "परिवार विध्वंसकों के लिए",
+                "en": "for family destroyers",
+                "be": "পরিবার ধ্বংসকারীদের জন্য",
+                "ka": "ಕುಟುಂಬ ವಿಧ್ವಂಸಕರಿಗೆ"
+            }
         },
         {
             "sanskrit": "कुलस्य",
-            "transliteration": "kulasya",
-            "meaning": "for family"
+            "transliteration": {
+                "hi": "कुलस्य",
+                "en": "kulasya",
+                "be": "কুলস্য",
+                "ka": "ಕುಲಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "परिवार के लिए",
+                "en": "for family",
+                "be": "পরিবারের জন্য",
+                "ka": "ಕುಟುಂಬಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पतन्ति",
-            "transliteration": "patanti",
-            "meaning": "fall"
+            "transliteration": {
+                "hi": "पतन्ति",
+                "en": "patanti",
+                "be": "পতন্তি",
+                "ka": "ಪತನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "गिरना",
+                "en": "fall",
+                "be": "পতন",
+                "ka": "ಬೀಳುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "पितरः",
-            "transliteration": "pitaraḥ",
-            "meaning": "ancestors"
+            "transliteration": {
+                "hi": "पितरः",
+                "en": "pitaraḥ",
+                "be": "পিতরঃ",
+                "ka": "ಪಿತರಃ"
+            },
+            "meaning": {
+                "hi": "पूर्वज",
+                "en": "ancestors",
+                "be": "পূর্বপুরুষ",
+                "ka": "ಪೂರ್ವಜರು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "एषाम्",
-            "transliteration": "eṣām",
-            "meaning": "their"
+            "transliteration": {
+                "hi": "एषाम्",
+                "en": "eṣām",
+                "be": "এষাম্",
+                "ka": "ಏಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "उनके",
+                "en": "their",
+                "be": "তাদের",
+                "ka": "ಅವರ"
+            }
         },
         {
             "sanskrit": "लुप्तपिण्डोदकक्रियाः",
-            "transliteration": "luptapiṇḍodakakriyāḥ",
-            "meaning": "deprived of offerings"
+            "transliteration": {
+                "hi": "लुप्तपिण्डोदकक्रियाः",
+                "en": "luptapiṇḍodakakriyāḥ",
+                "be": "লুপ্তপিণ্ডোদকক্রিযাঃ",
+                "ka": "ಲುಪ್ತಪಿಣ್ಡೋದಕಕ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "प्रसाद से वंचित",
+                "en": "deprived of offerings",
+                "be": "নৈবেদ্য থেকে বঞ্চিত",
+                "ka": "ಕೊಡುಗೆಗಳಿಂದ ವಂಚಿತರಾಗಿದ್ದಾರೆ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||1-39||",
         "ka": "ಕಥಂ ನ ಜ್ಞೇಯಮಸ್ಮಾಭಿಃ ಪಾಪಾದಸ್ಮಾನ್ನಿವರ್ತಿತುಮ್ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಪ್ರಪಶ್ಯದ್ಭಿರ್ಜನಾರ್ದನ ||೧-೩೯||"
     },
-    "transliteration": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||1-39||",
-    "life_application": "Choose to step back from destructive cycles when you recognize the harm they will cause to everyone involved.",
+    "transliteration": {
+        "hi": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||१-३९||",
+        "en": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||1-39||",
+        "be": "কথং ন জ্ঞেযমস্মাভিঃ পাপাদস্মান্নিবর্তিতুম্ |\nকুলক্ষযকৃতং দোষং প্রপশ্যদ্ভির্জনার্দন ||১-৩৯||",
+        "ka": "ಕಥಂ ನ ಜ್ಞೇಯಮಸ್ಮಾಭಿಃ ಪಾಪಾದಸ್ಮಾನ್ನಿವರ್ತಿತುಮ್ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಪ್ರಪಶ್ಯದ್ಭಿರ್ಜನಾರ್ದನ ||೧-೩೯||"
+    },
+    "life_application": {
+        "hi": "विनाशकारी चक्रों से पीछे हटने का चयन तब करें जब आप यह पहचान लें कि इनसे इसमें शामिल सभी लोगों को कितना नुकसान होगा।",
+        "en": "Choose to step back from destructive cycles when you recognize the harm they will cause to everyone involved.",
+        "be": "ধ্বংসাত্মক চক্র থেকে পিছিয়ে যাওয়া বেছে নিন যখন আপনি চিনবেন যে তারা জড়িত প্রত্যেকের ক্ষতি করবে।",
+        "ka": "ವಿನಾಶಕಾರಿ ಚಕ್ರಗಳಿಂದ ಹಿಂದೆ ಸರಿಯಲು ಆಯ್ಕೆಮಾಡಿ, ಅವರು ಒಳಗೊಂಡಿರುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಹಾನಿಯನ್ನುಂಟುಮಾಡುತ್ತಾರೆ."
+    },
     "themes": [
         "Dharma",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कथम्",
-            "transliteration": "katham",
-            "meaning": "why"
+            "transliteration": {
+                "hi": "कथम्",
+                "en": "katham",
+                "be": "কথম্",
+                "ka": "ಕಥಮ್"
+            },
+            "meaning": {
+                "hi": "क्यों",
+                "en": "why",
+                "be": "কেন",
+                "ka": "ಏಕೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "ज्ञेयम्",
-            "transliteration": "jñeyam",
-            "meaning": "should be known"
+            "transliteration": {
+                "hi": "ज्ञेयम्",
+                "en": "jñeyam",
+                "be": "জ্ঞেযম্",
+                "ka": "ಜ್ಞೇಯಮ್"
+            },
+            "meaning": {
+                "hi": "पता होना चाहिए",
+                "en": "should be known",
+                "be": "জানা উচিত",
+                "ka": "ತಿಳಿಯಬೇಕು"
+            }
         },
         {
             "sanskrit": "अस्माभिः",
-            "transliteration": "asmābhiḥ",
-            "meaning": "by us"
+            "transliteration": {
+                "hi": "अस्माभिः",
+                "en": "asmābhiḥ",
+                "be": "অস্মাভিঃ",
+                "ka": "ಅಸ್ಮಾಭಿಃ"
+            },
+            "meaning": {
+                "hi": "हमारे द्वारा",
+                "en": "by us",
+                "be": "আমাদের দ্বারা",
+                "ka": "ನಮ್ಮಿಂದ"
+            }
         },
         {
             "sanskrit": "पापात्",
-            "transliteration": "pāpāt",
-            "meaning": "from sin"
+            "transliteration": {
+                "hi": "पापात्",
+                "en": "pāpāt",
+                "be": "পাপাত্",
+                "ka": "ಪಾಪಾತ್"
+            },
+            "meaning": {
+                "hi": "पाप से",
+                "en": "from sin",
+                "be": "পাপ থেকে",
+                "ka": "ಪಾಪದಿಂದ"
+            }
         },
         {
             "sanskrit": "अस्मात्",
-            "transliteration": "asmāt",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अस्मात्",
+                "en": "asmāt",
+                "be": "অস্মাত্",
+                "ka": "ಅಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "निवर्तितुम्",
-            "transliteration": "nivartitum",
-            "meaning": "to turn away"
+            "transliteration": {
+                "hi": "निवर्तितुम्",
+                "en": "nivartitum",
+                "be": "নিবর্তিতুম্",
+                "ka": "ನಿವರ್ತಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "मुँह फेर लेना",
+                "en": "to turn away",
+                "be": "দূরে সরে যেতে",
+                "ka": "ದೂರ ತಿರುಗಲು"
+            }
         },
         {
             "sanskrit": "कुलक्षयकृतम्",
-            "transliteration": "kulakṣayakṛtam",
-            "meaning": "caused by family ruin"
+            "transliteration": {
+                "hi": "कुलक्षयकृतम्",
+                "en": "kulakṣayakṛtam",
+                "be": "কুলক্ষযকৃতম্",
+                "ka": "ಕುಲಕ್ಷಯಕೃತಮ್"
+            },
+            "meaning": {
+                "hi": "पारिवारिक विनाश के कारण",
+                "en": "caused by family ruin",
+                "be": "পারিবারিক ধ্বংসের কারণে",
+                "ka": "ಕುಟುಂಬದ ವಿನಾಶದಿಂದ ಉಂಟಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "दोषम्",
-            "transliteration": "doṣam",
-            "meaning": "evil"
+            "transliteration": {
+                "hi": "दोषम्",
+                "en": "doṣam",
+                "be": "দোষম্",
+                "ka": "ದೋಷಮ್"
+            },
+            "meaning": {
+                "hi": "दुष्ट",
+                "en": "evil",
+                "be": "মন্দ",
+                "ka": "ದುಷ್ಟ"
+            }
         },
         {
             "sanskrit": "प्रपश्यद्भिः",
-            "transliteration": "prapaśyadbhiḥ",
-            "meaning": "who clearly see"
+            "transliteration": {
+                "hi": "प्रपश्यद्भिः",
+                "en": "prapaśyadbhiḥ",
+                "be": "প্রপশ্যদ্ভিঃ",
+                "ka": "ಪ್ರಪಶ್ಯದ್ಭಿಃ"
+            },
+            "meaning": {
+                "hi": "जो स्पष्ट रूप से देखते हैं",
+                "en": "who clearly see",
+                "be": "যারা স্পষ্ট দেখতে পান",
+                "ka": "ಯಾರು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "जनार्दन",
-            "transliteration": "janārdana",
-            "meaning": "O Janardana"
+            "transliteration": {
+                "hi": "जनार्दन",
+                "en": "janārdana",
+                "be": "জনার্দন",
+                "ka": "ಜನಾರ್ದನ"
+            },
+            "meaning": {
+                "hi": "हे जनार्दन!",
+                "en": "O Janardana",
+                "be": "হে জনার্দন",
+                "ka": "ಓ ಜನಾರ್ದನ"
+            }
         }
     ],
     "tej": {

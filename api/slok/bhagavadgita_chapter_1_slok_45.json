@@ -14,8 +14,18 @@
         "en": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||",
         "ka": "ಅಹೋ ಬತ ಮಹತ್ಪಾಪಂ ಕರ್ತುಂ ವ್ಯವಸಿತಾ ವಯಮ್ |\nಯದ್ರಾಜ್ಯಸುಖಲೋಭೇನ ಹನ್ತುಂ ಸ್ವಜನಮುದ್ಯತಾಃ ||೧-೪೫||"
     },
-    "transliteration": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||",
-    "life_application": "Examine your intentions honestly today, ensuring that ambition for wealth or status does not override your conscience.",
+    "transliteration": {
+        "hi": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् |\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||",
+        "en": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||",
+        "be": "অহো বত মহত্পাপং কর্তুং ব্যবসিতা বযম্ |\nযদ্রাজ্যসুখলোভেন হন্তুং স্বজনমুদ্যতাঃ ||১-৪৫||",
+        "ka": "ಅಹೋ ಬತ ಮಹತ್ಪಾಪಂ ಕರ್ತುಂ ವ್ಯವಸಿತಾ ವಯಮ್ |\nಯದ್ರಾಜ್ಯಸುಖಲೋಭೇನ ಹನ್ತುಂ ಸ್ವಜನಮುದ್ಯತಾಃ ||೧-೪೫||"
+    },
+    "life_application": {
+        "hi": "आज अपने इरादों की ईमानदारी से जांच करें, यह सुनिश्चित करते हुए कि धन या पद की महत्वाकांक्षा आपके विवेक पर हावी न हो जाए।",
+        "en": "Examine your intentions honestly today, ensuring that ambition for wealth or status does not override your conscience.",
+        "be": "আজ সৎভাবে আপনার উদ্দেশ্য পরীক্ষা করুন, নিশ্চিত করুন যে সম্পদ বা মর্যাদার জন্য উচ্চাকাঙ্ক্ষা আপনার বিবেককে অগ্রাহ্য করে না।",
+        "ka": "ಇಂದು ನಿಮ್ಮ ಉದ್ದೇಶಗಳನ್ನು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಪರೀಕ್ಷಿಸಿ, ಸಂಪತ್ತು ಅಥವಾ ಸ್ಥಾನಮಾನದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯು ನಿಮ್ಮ ಆತ್ಮಸಾಕ್ಷಿಯನ್ನು ಅತಿಕ್ರಮಿಸುವುದಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Attachment",
         "Dharma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अहो",
-            "transliteration": "aho",
-            "meaning": "alas"
+            "transliteration": {
+                "hi": "अहो",
+                "en": "aho",
+                "be": "অহো",
+                "ka": "ಅಹೋ"
+            },
+            "meaning": {
+                "hi": "अफ़सोस",
+                "en": "alas",
+                "be": "হায়",
+                "ka": "ಅಯ್ಯೋ"
+            }
         },
         {
             "sanskrit": "बत",
-            "transliteration": "bata",
-            "meaning": "oh"
+            "transliteration": {
+                "hi": "बत",
+                "en": "bata",
+                "be": "বত",
+                "ka": "ಬತ"
+            },
+            "meaning": {
+                "hi": "ओह",
+                "en": "oh",
+                "be": "ওহ",
+                "ka": "ಓಹ್"
+            }
         },
         {
             "sanskrit": "महत्",
-            "transliteration": "mahat",
-            "meaning": "great"
+            "transliteration": {
+                "hi": "महत्",
+                "en": "mahat",
+                "be": "মহত্",
+                "ka": "ಮಹತ್"
+            },
+            "meaning": {
+                "hi": "बढ़िया",
+                "en": "great",
+                "be": "মহান",
+                "ka": "ಶ್ರೇಷ್ಠ"
+            }
         },
         {
             "sanskrit": "पापम्",
-            "transliteration": "pāpam",
-            "meaning": "sin"
+            "transliteration": {
+                "hi": "पापम्",
+                "en": "pāpam",
+                "be": "পাপম্",
+                "ka": "ಪಾಪಮ್"
+            },
+            "meaning": {
+                "hi": "पाप",
+                "en": "sin",
+                "be": "পাপ",
+                "ka": "ಪಾಪ"
+            }
         },
         {
             "sanskrit": "कर्तुम्",
-            "transliteration": "kartum",
-            "meaning": "to commit"
+            "transliteration": {
+                "hi": "कर्तुम्",
+                "en": "kartum",
+                "be": "কর্তুম্",
+                "ka": "ಕರ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "प्रतिबद्ध होना",
+                "en": "to commit",
+                "be": "প্রতিশ্রুতিবদ্ধ করা",
+                "ka": "ಒಪ್ಪಿಸಲು"
+            }
         },
         {
             "sanskrit": "व्यवसिताः",
-            "transliteration": "vyavasitāḥ",
-            "meaning": "resolved"
+            "transliteration": {
+                "hi": "व्यवसिताः",
+                "en": "vyavasitāḥ",
+                "be": "ব্যবসিতাঃ",
+                "ka": "ವ್ಯವಸಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "समाधान हो गया",
+                "en": "resolved",
+                "be": "সমাধান করা",
+                "ka": "ಪರಿಹರಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "वयम्",
-            "transliteration": "vayam",
-            "meaning": "we"
+            "transliteration": {
+                "hi": "वयम्",
+                "en": "vayam",
+                "be": "বযম্",
+                "ka": "ವಯಮ್"
+            },
+            "meaning": {
+                "hi": "हम",
+                "en": "we",
+                "be": "আমরা",
+                "ka": "ನಾವು"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "राज्यसुखलोभेन",
-            "transliteration": "rājyasukhalobhena",
-            "meaning": "from greed for kingdom's pleasure"
+            "transliteration": {
+                "hi": "राज्यसुखलोभेन",
+                "en": "rājyasukhalobhena",
+                "be": "রাজ্যসুখলোভেন",
+                "ka": "ರಾಜ್ಯಸುಖಲೋಭೇನ"
+            },
+            "meaning": {
+                "hi": "राज्य-सुख के लोभ से",
+                "en": "from greed for kingdom's pleasure",
+                "be": "রাজ্যের আনন্দের লোভ থেকে",
+                "ka": "ಸಾಮ್ರಾಜ್ಯದ ಆನಂದದ ದುರಾಸೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "हन्तुम्",
-            "transliteration": "hantum",
-            "meaning": "to kill"
+            "transliteration": {
+                "hi": "हन्तुम्",
+                "en": "hantum",
+                "be": "হন্তুম্",
+                "ka": "ಹನ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "मारना",
+                "en": "to kill",
+                "be": "হত্যা করতে",
+                "ka": "ಕೊಲ್ಲಲು"
+            }
         },
         {
             "sanskrit": "स्वजनम्",
-            "transliteration": "svajanam",
-            "meaning": "own kinsmen"
+            "transliteration": {
+                "hi": "स्वजनम्",
+                "en": "svajanam",
+                "be": "স্বজনম্",
+                "ka": "ಸ್ವಜನಮ್"
+            },
+            "meaning": {
+                "hi": "अपने ही रिश्तेदार",
+                "en": "own kinsmen",
+                "be": "নিজের আত্মীয়স্বজন",
+                "ka": "ಸ್ವಂತ ಬಂಧುಗಳು"
+            }
         },
         {
             "sanskrit": "उद्यताः",
-            "transliteration": "udyatāḥ",
-            "meaning": "prepared"
+            "transliteration": {
+                "hi": "उद्यताः",
+                "en": "udyatāḥ",
+                "be": "উদ্যতাঃ",
+                "ka": "ಉದ್ಯತಾಃ"
+            },
+            "meaning": {
+                "hi": "तैयार",
+                "en": "prepared",
+                "be": "প্রস্তুত",
+                "ka": "ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ"
+            }
         }
     ],
     "tej": {

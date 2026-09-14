@@ -14,8 +14,18 @@
         "en": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||1-4||",
         "ka": "ಅತ್ರ ಶೂರಾ ಮಹೇಷ್ವಾಸಾ ಭೀಮಾರ್ಜುನಸಮಾ ಯುಧಿ |\nಯುಯುಧಾನೋ ವಿರಾಟಶ್ಚ ದ್ರುಪದಶ್ಚ ಮಹಾರಥಃ ||೧-೪||"
     },
-    "transliteration": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||1-4||",
-    "life_application": "Recognize the strengths and skills of others around you without feeling diminished by their accomplishments.",
+    "transliteration": {
+        "hi": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि |\nयुयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||",
+        "en": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||1-4||",
+        "be": "অত্র শূরা মহেষ্বাসা ভীমার্জুনসমা যুধি |\nযুযুধানো বিরাটশ্চ দ্রুপদশ্চ মহারথঃ ||১-৪||",
+        "ka": "ಅತ್ರ ಶೂರಾ ಮಹೇಷ್ವಾಸಾ ಭೀಮಾರ್ಜುನಸಮಾ ಯುಧಿ |\nಯುಯುಧಾನೋ ವಿರಾಟಶ್ಚ ದ್ರುಪದಶ್ಚ ಮಹಾರಥಃ ||೧-೪||"
+    },
+    "life_application": {
+        "hi": "अपने आस-पास दूसरों की उपलब्धियों से कम महसूस किए बिना उनकी ताकत और कौशल को पहचानें।",
+        "en": "Recognize the strengths and skills of others around you without feeling diminished by their accomplishments.",
+        "be": "আপনার চারপাশের অন্যদের শক্তি এবং দক্ষতা তাদের কৃতিত্ব দ্বারা হ্রাস অনুভব না করে স্বীকৃতি দিন।",
+        "ka": "ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಇತರರ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಕೌಶಲ್ಯಗಳನ್ನು ಗುರುತಿಸಿ, ಅವರ ಸಾಧನೆಗಳಿಂದ ಕ್ಷೀಣಿಸಬೇಡಿ."
+    },
     "themes": [
         "Equanimity",
         "Leadership"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अत्र",
-            "transliteration": "atra",
-            "meaning": "here"
+            "transliteration": {
+                "hi": "अत्र",
+                "en": "atra",
+                "be": "অত্র",
+                "ka": "ಅತ್ರ"
+            },
+            "meaning": {
+                "hi": "यहाँ",
+                "en": "here",
+                "be": "এখানে",
+                "ka": "ಇಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "शूराः",
-            "transliteration": "śūrāḥ",
-            "meaning": "heroes"
+            "transliteration": {
+                "hi": "शूराः",
+                "en": "śūrāḥ",
+                "be": "শূরাঃ",
+                "ka": "ಶೂರಾಃ"
+            },
+            "meaning": {
+                "hi": "नायकों",
+                "en": "heroes",
+                "be": "নায়কদের",
+                "ka": "ವೀರರು"
+            }
         },
         {
             "sanskrit": "महेशासाः",
-            "transliteration": "maheṣāsāḥ",
-            "meaning": "mighty archers"
+            "transliteration": {
+                "hi": "महेशासाः",
+                "en": "maheṣāsāḥ",
+                "be": "মহেশাসাঃ",
+                "ka": "ಮಹೇಶಾಸಾಃ"
+            },
+            "meaning": {
+                "hi": "शक्तिशाली धनुर्धर",
+                "en": "mighty archers",
+                "be": "শক্তিশালী তীরন্দাজ",
+                "ka": "ಪ್ರಬಲ ಬಿಲ್ಲುಗಾರರು"
+            }
         },
         {
             "sanskrit": "भीमार्जुनसमाः",
-            "transliteration": "bhīmārjunasamāḥ",
-            "meaning": "equal to Bhima and Arjuna"
+            "transliteration": {
+                "hi": "भीमार्जुनसमाः",
+                "en": "bhīmārjunasamāḥ",
+                "be": "ভীমার্জুনসমাঃ",
+                "ka": "ಭೀಮಾರ್ಜುನಸಮಾಃ"
+            },
+            "meaning": {
+                "hi": "भीम और अर्जुन के बराबर",
+                "en": "equal to Bhima and Arjuna",
+                "be": "ভীম ও অর্জুনের সমান",
+                "ka": "ಭೀಮ ಮತ್ತು ಅರ್ಜುನನಿಗೆ ಸಮಾನ"
+            }
         },
         {
             "sanskrit": "युधि",
-            "transliteration": "yudhi",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "युधि",
+                "en": "yudhi",
+                "be": "যুধি",
+                "ka": "ಯುಧಿ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "युयुधानः",
-            "transliteration": "yuyudhānaḥ",
-            "meaning": "Yuyudhana (Satyaki)"
+            "transliteration": {
+                "hi": "युयुधानः",
+                "en": "yuyudhānaḥ",
+                "be": "যুযুধানঃ",
+                "ka": "ಯುಯುಧಾನಃ"
+            },
+            "meaning": {
+                "hi": "युयुधान (सात्यकि)",
+                "en": "Yuyudhana (Satyaki)",
+                "be": "যুযুধন (সাত্যকি)",
+                "ka": "ಯುಯುಧನ (ಸತ್ಯಕಿ)"
+            }
         },
         {
             "sanskrit": "विराटः",
-            "transliteration": "virāṭaḥ",
-            "meaning": "Virata"
+            "transliteration": {
+                "hi": "विराटः",
+                "en": "virāṭaḥ",
+                "be": "বিরাটঃ",
+                "ka": "ವಿರಾಟಃ"
+            },
+            "meaning": {
+                "hi": "विराट",
+                "en": "Virata",
+                "be": "বিরাট",
+                "ka": "ವಿರಾಟ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "द्रुपदः",
-            "transliteration": "drupadaḥ",
-            "meaning": "Drupada"
+            "transliteration": {
+                "hi": "द्रुपदः",
+                "en": "drupadaḥ",
+                "be": "দ্রুপদঃ",
+                "ka": "ದ್ರುಪದಃ"
+            },
+            "meaning": {
+                "hi": "द्रुपद",
+                "en": "Drupada",
+                "be": "দ্রুপদ",
+                "ka": "ದ್ರುಪದ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "महारथः",
-            "transliteration": "mahārathaḥ",
-            "meaning": "great chariot warrior"
+            "transliteration": {
+                "hi": "महारथः",
+                "en": "mahārathaḥ",
+                "be": "মহারথঃ",
+                "ka": "ಮಹಾರಥಃ"
+            },
+            "meaning": {
+                "hi": "महान रथ योद्धा",
+                "en": "great chariot warrior",
+                "be": "মহান রথ যোদ্ধা",
+                "ka": "ಮಹಾನ್ ರಥ ಯೋಧ"
+            }
         }
     ],
     "tej": {

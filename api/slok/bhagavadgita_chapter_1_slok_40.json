@@ -14,8 +14,18 @@
         "en": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||",
         "ka": "ಕುಲಕ್ಷಯೇ ಪ್ರಣಶ್ಯನ್ತಿ ಕುಲಧರ್ಮಾಃ ಸನಾತನಾಃ |\nಧರ್ಮೇ ನಷ್ಟೇ ಕುಲಂ ಕೃತ್ಸ್ನಮಧರ್ಮೋಽಭಿಭವತ್ಯುತ ||೧-೪೦||"
     },
-    "transliteration": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||",
-    "life_application": "Protect the positive traditions and ethical foundations of your community, ensuring they are passed on intact.",
+    "transliteration": {
+        "hi": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||",
+        "en": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||",
+        "be": "কুলক্ষযে প্রণশ্যন্তি কুলধর্মাঃ সনাতনাঃ |\nধর্মে নষ্টে কুলং কৃত্স্নমধর্মোঽভিভবত্যুত ||১-৪০||",
+        "ka": "ಕುಲಕ್ಷಯೇ ಪ್ರಣಶ್ಯನ್ತಿ ಕುಲಧರ್ಮಾಃ ಸನಾತನಾಃ |\nಧರ್ಮೇ ನಷ್ಟೇ ಕುಲಂ ಕೃತ್ಸ್ನಮಧರ್ಮೋಽಭಿಭವತ್ಯುತ ||೧-೪೦||"
+    },
+    "life_application": {
+        "hi": "अपने समुदाय की सकारात्मक परंपराओं और नैतिक नींवों की रक्षा करें, यह सुनिश्चित करते हुए कि वे बरकरार रहें।",
+        "en": "Protect the positive traditions and ethical foundations of your community, ensuring they are passed on intact.",
+        "be": "আপনার সম্প্রদায়ের ইতিবাচক ঐতিহ্য এবং নৈতিক ভিত্তি রক্ষা করুন, নিশ্চিত করুন যে সেগুলি অক্ষত রয়েছে।",
+        "ka": "ನಿಮ್ಮ ಸಮುದಾಯದ ಸಕಾರಾತ್ಮಕ ಸಂಪ್ರದಾಯಗಳು ಮತ್ತು ನೈತಿಕ ಅಡಿಪಾಯಗಳನ್ನು ರಕ್ಷಿಸಿ, ಅವುಗಳು ಅಖಂಡವಾಗಿ ಹಾದುಹೋಗುತ್ತವೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Dharma",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कुलक्षये",
-            "transliteration": "kulakṣaye",
-            "meaning": "in destruction of family"
+            "transliteration": {
+                "hi": "कुलक्षये",
+                "en": "kulakṣaye",
+                "be": "কুলক্ষযে",
+                "ka": "ಕುಲಕ್ಷಯೇ"
+            },
+            "meaning": {
+                "hi": "परिवार के विनाश में",
+                "en": "in destruction of family",
+                "be": "পরিবার ধ্বংসের মধ্যে",
+                "ka": "ಕುಟುಂಬದ ನಾಶದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "प्रणश्यन्ति",
-            "transliteration": "praṇaśyanti",
-            "meaning": "perish"
+            "transliteration": {
+                "hi": "प्रणश्यन्ति",
+                "en": "praṇaśyanti",
+                "be": "প্রণশ্যন্তি",
+                "ka": "ಪ್ರಣಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "नष्ट हो जाओ",
+                "en": "perish",
+                "be": "ধ্বংস",
+                "ka": "ನಾಶವಾಗುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "कुलधर्माः",
-            "transliteration": "kuladharmāḥ",
-            "meaning": "family traditions"
+            "transliteration": {
+                "hi": "कुलधर्माः",
+                "en": "kuladharmāḥ",
+                "be": "কুলধর্মাঃ",
+                "ka": "ಕುಲಧರ್ಮಾಃ"
+            },
+            "meaning": {
+                "hi": "पारिवारिक परंपराएँ",
+                "en": "family traditions",
+                "be": "পারিবারিক ঐতিহ্য",
+                "ka": "ಕುಟುಂಬ ಸಂಪ್ರದಾಯಗಳು"
+            }
         },
         {
             "sanskrit": "सनाटनाः",
-            "transliteration": "sanātanāḥ",
-            "meaning": "eternal"
+            "transliteration": {
+                "hi": "सनाटनाः",
+                "en": "sanātanāḥ",
+                "be": "সনাটনাঃ",
+                "ka": "ಸನಾಟನಾಃ"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "धर्मे",
-            "transliteration": "dharme",
-            "meaning": "tradition"
+            "transliteration": {
+                "hi": "धर्मे",
+                "en": "dharme",
+                "be": "ধর্মে",
+                "ka": "ಧರ್ಮೇ"
+            },
+            "meaning": {
+                "hi": "परंपरा",
+                "en": "tradition",
+                "be": "ঐতিহ্য",
+                "ka": "ಸಂಪ್ರದಾಯ"
+            }
         },
         {
             "sanskrit": "नष्टे",
-            "transliteration": "naṣṭe",
-            "meaning": "destroyed"
+            "transliteration": {
+                "hi": "नष्टे",
+                "en": "naṣṭe",
+                "be": "নষ্টে",
+                "ka": "ನಷ್ಟೇ"
+            },
+            "meaning": {
+                "hi": "नष्ट कर दिया",
+                "en": "destroyed",
+                "be": "ধ্বংস",
+                "ka": "ನಾಶವಾಯಿತು"
+            }
         },
         {
             "sanskrit": "कुलम्",
-            "transliteration": "kulam",
-            "meaning": "family"
+            "transliteration": {
+                "hi": "कुलम्",
+                "en": "kulam",
+                "be": "কুলম্",
+                "ka": "ಕುಲಮ್"
+            },
+            "meaning": {
+                "hi": "परिवार",
+                "en": "family",
+                "be": "পরিবার",
+                "ka": "ಕುಟುಂಬ"
+            }
         },
         {
             "sanskrit": "कृत्स्नम्",
-            "transliteration": "kṛtsnam",
-            "meaning": "entire"
+            "transliteration": {
+                "hi": "कृत्स्नम्",
+                "en": "kṛtsnam",
+                "be": "কৃত্স্নম্",
+                "ka": "ಕೃತ್ಸ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "सम्पूर्ण",
+                "en": "entire",
+                "be": "সম্পূর্ণ",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "अधर्मः",
-            "transliteration": "adharmaḥ",
-            "meaning": "lawlessness"
+            "transliteration": {
+                "hi": "अधर्मः",
+                "en": "adharmaḥ",
+                "be": "অধর্মঃ",
+                "ka": "ಅಧರ್ಮಃ"
+            },
+            "meaning": {
+                "hi": "अराजकता",
+                "en": "lawlessness",
+                "be": "অনাচার",
+                "ka": "ಕಾನೂನುಬಾಹಿರತೆ"
+            }
         },
         {
             "sanskrit": "अभिभवति",
-            "transliteration": "abhibhavati",
-            "meaning": "overcomes"
+            "transliteration": {
+                "hi": "अभिभवति",
+                "en": "abhibhavati",
+                "be": "অভিভবতি",
+                "ka": "ಅಭಿಭವತಿ"
+            },
+            "meaning": {
+                "hi": "काबू",
+                "en": "overcomes",
+                "be": "অতিক্রম করে",
+                "ka": "ಜಯಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "उत",
-            "transliteration": "uta",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "उत",
+                "en": "uta",
+                "be": "উত",
+                "ka": "ಉತ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         }
     ],
     "tej": {

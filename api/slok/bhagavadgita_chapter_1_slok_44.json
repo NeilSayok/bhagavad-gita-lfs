@@ -14,8 +14,18 @@
         "en": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ||1-44||",
         "ka": "ಉತ್ಸನ್ನಕುಲಧರ್ಮಾಣಾಂ ಮನುಷ್ಯಾಣಾಂ ಜನಾರ್ದನ |\nನರಕೇ ನಿಯತಂ ವಾಸೋ ಭವತೀತ್ಯನುಶುಶ್ರುಮ (or ನರಕೇಽನಿಯತಂ) ||೧-೪೪||"
     },
-    "transliteration": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ||1-44||",
-    "life_application": "Respect wisdom passed down through generations, letting established moral guidelines steer you away from reckless actions.",
+    "transliteration": {
+        "hi": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |\nनरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||",
+        "en": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ||1-44||",
+        "be": "উত্সন্নকুলধর্মাণাং মনুষ্যাণাং জনার্দন |\nনরকে নিযতং বাসো ভবতীত্যনুশুশ্রুম (or নরকেঽনিযতং) ||১-৪৪||",
+        "ka": "ಉತ್ಸನ್ನಕುಲಧರ್ಮಾಣಾಂ ಮನುಷ್ಯಾಣಾಂ ಜನಾರ್ದನ |\nನರಕೇ ನಿಯತಂ ವಾಸೋ ಭವತೀತ್ಯನುಶುಶ್ರುಮ (or ನರಕೇಽನಿಯತಂ) ||೧-೪೪||"
+    },
+    "life_application": {
+        "hi": "पीढ़ियों से चले आ रहे ज्ञान का सम्मान करें, स्थापित नैतिक दिशानिर्देशों को आपको लापरवाह कार्यों से दूर रखें।",
+        "en": "Respect wisdom passed down through generations, letting established moral guidelines steer you away from reckless actions.",
+        "be": "প্রজন্মের মধ্য দিয়ে চলে আসা জ্ঞানকে সম্মান করুন, প্রতিষ্ঠিত নৈতিক নির্দেশিকা আপনাকে বেপরোয়া কাজ থেকে দূরে সরিয়ে দেয়।",
+        "ka": "ತಲೆಮಾರುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಗೌರವಿಸಿ, ಸ್ಥಾಪಿತ ನೈತಿಕ ಮಾರ್ಗಸೂಚಿಗಳು ನಿಮ್ಮನ್ನು ಅಜಾಗರೂಕ ಕ್ರಿಯೆಗಳಿಂದ ದೂರವಿರಿಸಲು ಅವಕಾಶ ಮಾಡಿಕೊಡುತ್ತವೆ."
+    },
     "themes": [
         "Dharma",
         "Knowledge"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "उत्सन्नकुलधर्माणाम्",
-            "transliteration": "utsannakuladharmāṇām",
-            "meaning": "whose family customs are destroyed"
+            "transliteration": {
+                "hi": "उत्सन्नकुलधर्माणाम्",
+                "en": "utsannakuladharmāṇām",
+                "be": "উত্সন্নকুলধর্মাণাম্",
+                "ka": "ಉತ್ಸನ್ನಕುಲಧರ್ಮಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "जिनके पारिवारिक रीति-रिवाज नष्ट हो गए हैं",
+                "en": "whose family customs are destroyed",
+                "be": "যাদের পারিবারিক রীতিনীতি ধ্বংস হয়ে গেছে",
+                "ka": "ಅವರ ಕುಟುಂಬದ ಪದ್ಧತಿಗಳು ನಾಶವಾಗುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "मनुष्याणाम्",
-            "transliteration": "manuṣyāṇām",
-            "meaning": "of men"
+            "transliteration": {
+                "hi": "मनुष्याणाम्",
+                "en": "manuṣyāṇām",
+                "be": "মনুষ্যাণাম্",
+                "ka": "ಮನುಷ್ಯಾಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "पुरुषों का",
+                "en": "of men",
+                "be": "পুরুষদের",
+                "ka": "ಪುರುಷರ"
+            }
         },
         {
             "sanskrit": "जनार्दन",
-            "transliteration": "janārdana",
-            "meaning": "O Janardana"
+            "transliteration": {
+                "hi": "जनार्दन",
+                "en": "janārdana",
+                "be": "জনার্দন",
+                "ka": "ಜನಾರ್ದನ"
+            },
+            "meaning": {
+                "hi": "हे जनार्दन!",
+                "en": "O Janardana",
+                "be": "হে জনার্দন",
+                "ka": "ಓ ಜನಾರ್ದನ"
+            }
         },
         {
             "sanskrit": "नरके",
-            "transliteration": "narake",
-            "meaning": "in hell"
+            "transliteration": {
+                "hi": "नरके",
+                "en": "narake",
+                "be": "নরকে",
+                "ka": "ನರಕೇ"
+            },
+            "meaning": {
+                "hi": "नरक में",
+                "en": "in hell",
+                "be": "জাহান্নামে",
+                "ka": "ನರಕದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "नियतम्",
-            "transliteration": "niyatam",
-            "meaning": "definitely"
+            "transliteration": {
+                "hi": "नियतम्",
+                "en": "niyatam",
+                "be": "নিযতম্",
+                "ka": "ನಿಯತಮ್"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "definitely",
+                "be": "নিশ্চিতভাবে",
+                "ka": "ಖಂಡಿತವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "वासः",
-            "transliteration": "vāsaḥ",
-            "meaning": "dwelling"
+            "transliteration": {
+                "hi": "वासः",
+                "en": "vāsaḥ",
+                "be": "বাসঃ",
+                "ka": "ವಾಸಃ"
+            },
+            "meaning": {
+                "hi": "आवास",
+                "en": "dwelling",
+                "be": "বাসস্থান",
+                "ka": "ವಾಸ"
+            }
         },
         {
             "sanskrit": "भवति",
-            "transliteration": "bhavati",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "भवति",
+                "en": "bhavati",
+                "be": "ভবতি",
+                "ka": "ಭವತಿ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "अनुशुश्रुम",
-            "transliteration": "anuśuśruma",
-            "meaning": "we have heard"
+            "transliteration": {
+                "hi": "अनुशुश्रुम",
+                "en": "anuśuśruma",
+                "be": "অনুশুশ্রুম",
+                "ka": "ಅನುಶುಶ್ರುಮ"
+            },
+            "meaning": {
+                "hi": "हमने सुना है",
+                "en": "we have heard",
+                "be": "আমরা শুনেছি",
+                "ka": "ನಾವು ಕೇಳಿದ್ದೇವೆ"
+            }
         }
     ],
     "tej": {

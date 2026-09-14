@@ -14,8 +14,18 @@
         "en": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||1-41||",
         "ka": "ಅಧರ್ಮಾಭಿಭವಾತ್ಕೃಷ್ಣ ಪ್ರದುಷ್ಯನ್ತಿ ಕುಲಸ್ತ್ರಿಯಃ |\nಸ್ತ್ರೀಷು ದುಷ್ಟಾಸು ವಾರ್ಷ್ಣೇಯ ಜಾಯತೇ ವರ್ಣಸಙ್ಕರಃ ||೧-೪೧||"
     },
-    "transliteration": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||1-41||",
-    "life_application": "Uphold integrity and respect within your household to maintain harmony and moral clarity for future generations.",
+    "transliteration": {
+        "hi": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः |\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||",
+        "en": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||1-41||",
+        "be": "অধর্মাভিভবাত্কৃষ্ণ প্রদুষ্যন্তি কুলস্ত্রিযঃ |\nস্ত্রীষু দুষ্টাসু বার্ষ্ণেয জাযতে বর্ণসঙ্করঃ ||১-৪১||",
+        "ka": "ಅಧರ್ಮಾಭಿಭವಾತ್ಕೃಷ್ಣ ಪ್ರದುಷ್ಯನ್ತಿ ಕುಲಸ್ತ್ರಿಯಃ |\nಸ್ತ್ರೀಷು ದುಷ್ಟಾಸು ವಾರ್ಷ್ಣೇಯ ಜಾಯತೇ ವರ್ಣಸಙ್ಕರಃ ||೧-೪೧||"
+    },
+    "life_application": {
+        "hi": "भावी पीढ़ियों के लिए सद्भाव और नैतिक स्पष्टता बनाए रखने के लिए अपने घर में अखंडता और सम्मान बनाए रखें।",
+        "en": "Uphold integrity and respect within your household to maintain harmony and moral clarity for future generations.",
+        "be": "ভবিষ্যত প্রজন্মের জন্য সম্প্রীতি এবং নৈতিক স্বচ্ছতা বজায় রাখতে আপনার পরিবারের মধ্যে সততা এবং সম্মান বজায় রাখুন।",
+        "ka": "ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗೆ ಸಾಮರಸ್ಯ ಮತ್ತು ನೈತಿಕ ಸ್ಪಷ್ಟತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ನಿಮ್ಮ ಮನೆಯೊಳಗೆ ಸಮಗ್ರತೆ ಮತ್ತು ಗೌರವವನ್ನು ಎತ್ತಿಹಿಡಿಯಿರಿ."
+    },
     "themes": [
         "Dharma",
         "Duty"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अधर्म | अभिभवात्",
-            "transliteration": "adharma abhibhavāt",
-            "meaning": "from prevalence of unrighteousness"
+            "transliteration": {
+                "hi": "अधर्म | अभिभवात्",
+                "en": "adharma abhibhavāt",
+                "be": "অধর্ম | অভিভবাত্",
+                "ka": "ಅಧರ್ಮ | ಅಭಿಭವಾತ್"
+            },
+            "meaning": {
+                "hi": "अधर्म के प्रसार से",
+                "en": "from prevalence of unrighteousness",
+                "be": "অধর্মের ব্যাপকতা থেকে",
+                "ka": "ಅಧರ್ಮದ ಹರಡುವಿಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "कृष्ण",
-            "transliteration": "kṛṣṇa",
-            "meaning": "O Krishna"
+            "transliteration": {
+                "hi": "कृष्ण",
+                "en": "kṛṣṇa",
+                "be": "কৃষ্ণ",
+                "ka": "ಕೃಷ್ಣ"
+            },
+            "meaning": {
+                "hi": "हे कृष्ण!",
+                "en": "O Krishna",
+                "be": "হে কৃষ্ণ",
+                "ka": "ಓ ಕೃಷ್ಣಾ"
+            }
         },
         {
             "sanskrit": "प्रदुष्यन्ति",
-            "transliteration": "praduṣyanti",
-            "meaning": "become corrupted"
+            "transliteration": {
+                "hi": "प्रदुष्यन्ति",
+                "en": "praduṣyanti",
+                "be": "প্রদুষ্যন্তি",
+                "ka": "ಪ್ರದುಷ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "भ्रष्ट हो जाओ",
+                "en": "become corrupted",
+                "be": "দূষিত হয়ে",
+                "ka": "ಭ್ರಷ್ಟರಾಗುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "कुलस्त्रियः",
-            "transliteration": "kulastriyaḥ",
-            "meaning": "women of family"
+            "transliteration": {
+                "hi": "कुलस्त्रियः",
+                "en": "kulastriyaḥ",
+                "be": "কুলস্ত্রিযঃ",
+                "ka": "ಕುಲಸ್ತ್ರಿಯಃ"
+            },
+            "meaning": {
+                "hi": "परिवार की महिलाएं",
+                "en": "women of family",
+                "be": "পরিবারের নারী",
+                "ka": "ಕುಟುಂಬದ ಮಹಿಳೆಯರು"
+            }
         },
         {
             "sanskrit": "स्त्रीषु",
-            "transliteration": "strīṣu",
-            "meaning": "in women"
+            "transliteration": {
+                "hi": "स्त्रीषु",
+                "en": "strīṣu",
+                "be": "স্ত্রীষু",
+                "ka": "ಸ್ತ್ರೀಷು"
+            },
+            "meaning": {
+                "hi": "महिलाओं में",
+                "en": "in women",
+                "be": "মহিলাদের মধ্যে",
+                "ka": "ಮಹಿಳೆಯರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "दुष्टासु",
-            "transliteration": "duṣṭāsu",
-            "meaning": "corrupted"
+            "transliteration": {
+                "hi": "दुष्टासु",
+                "en": "duṣṭāsu",
+                "be": "দুষ্টাসু",
+                "ka": "ದುಷ್ಟಾಸು"
+            },
+            "meaning": {
+                "hi": "भ्रष्ट",
+                "en": "corrupted",
+                "be": "দূষিত",
+                "ka": "ಭ್ರಷ್ಟಗೊಂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "वार्ष्णेय",
-            "transliteration": "vārṣṇeya",
-            "meaning": "O descendant of Vrishni"
+            "transliteration": {
+                "hi": "वार्ष्णेय",
+                "en": "vārṣṇeya",
+                "be": "বার্ষ্ণেয",
+                "ka": "ವಾರ್ಷ್ಣೇಯ"
+            },
+            "meaning": {
+                "hi": "हे वृष्णि के वंशज!",
+                "en": "O descendant of Vrishni",
+                "be": "হে বৃষ্ণির বংশধর",
+                "ka": "ಓ ವೃಷ್ಣಿ ಸಂತತಿ"
+            }
         },
         {
             "sanskrit": "जायते",
-            "transliteration": "jāyate",
-            "meaning": "arises"
+            "transliteration": {
+                "hi": "जायते",
+                "en": "jāyate",
+                "be": "জাযতে",
+                "ka": "ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "उठता है",
+                "en": "arises",
+                "be": "উদিত হয়",
+                "ka": "ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "वर्णसङ्करः",
-            "transliteration": "varṇasaṅkaraḥ",
-            "meaning": "confusion of lineages"
+            "transliteration": {
+                "hi": "वर्णसङ्करः",
+                "en": "varṇasaṅkaraḥ",
+                "be": "বর্ণসঙ্করঃ",
+                "ka": "ವರ್ಣಸಙ್ಕರಃ"
+            },
+            "meaning": {
+                "hi": "वंशावली का भ्रम",
+                "en": "confusion of lineages",
+                "be": "বংশের বিভ্রান্তি",
+                "ka": "ವಂಶಾವಳಿಗಳ ಗೊಂದಲ"
+            }
         }
     ],
     "tej": {

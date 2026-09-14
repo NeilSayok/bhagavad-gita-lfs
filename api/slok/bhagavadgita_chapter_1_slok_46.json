@@ -14,8 +14,18 @@
         "en": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||1-46||",
         "ka": "ಯದಿ ಮಾಮಪ್ರತೀಕಾರಮಶಸ್ತ್ರಂ ಶಸ್ತ್ರಪಾಣಯಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಾ ರಣೇ ಹನ್ಯುಸ್ತನ್ಮೇ ಕ್ಷೇಮತರಂ ಭವೇತ್ ||೧-೪೬||"
     },
-    "transliteration": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||1-46||",
-    "life_application": "Choose selflessness over retaliation when faced with hostility, prioritizing inner peace over winning at all costs.",
+    "transliteration": {
+        "hi": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||१-४६||",
+        "en": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||1-46||",
+        "be": "যদি মামপ্রতীকারমশস্ত্রং শস্ত্রপাণযঃ |\nধার্তরাষ্ট্রা রণে হন্যুস্তন্মে ক্ষেমতরং ভবেত্ ||১-৪৬||",
+        "ka": "ಯದಿ ಮಾಮಪ್ರತೀಕಾರಮಶಸ್ತ್ರಂ ಶಸ್ತ್ರಪಾಣಯಃ |\nಧಾರ್ತರಾಷ್ಟ್ರಾ ರಣೇ ಹನ್ಯುಸ್ತನ್ಮೇ ಕ್ಷೇಮತರಂ ಭವೇತ್ ||೧-೪೬||"
+    },
+    "life_application": {
+        "hi": "शत्रुता का सामना होने पर प्रतिशोध के स्थान पर निस्वार्थता को चुनें, हर कीमत पर जीतने के स्थान पर आंतरिक शांति को प्राथमिकता दें।",
+        "en": "Choose selflessness over retaliation when faced with hostility, prioritizing inner peace over winning at all costs.",
+        "be": "শত্রুতার মুখোমুখি হলে প্রতিশোধের চেয়ে নিঃস্বার্থতা বেছে নিন, যেকোনো মূল্যে জয়ের চেয়ে অভ্যন্তরীণ শান্তিকে অগ্রাধিকার দিন।",
+        "ka": "ಹಗೆತನವನ್ನು ಎದುರಿಸುವಾಗ ಪ್ರತೀಕಾರದ ಮೇಲೆ ನಿಸ್ವಾರ್ಥತೆಯನ್ನು ಆರಿಸಿಕೊಳ್ಳಿ, ಎಲ್ಲಾ ವೆಚ್ಚದಲ್ಲಿ ಗೆಲ್ಲುವುದಕ್ಕಿಂತ ಆಂತರಿಕ ಶಾಂತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "माम्",
-            "transliteration": "mām",
-            "meaning": "me"
+            "transliteration": {
+                "hi": "माम्",
+                "en": "mām",
+                "be": "মাম্",
+                "ka": "ಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "me",
+                "be": "আমি",
+                "ka": "ನಾನು"
+            }
         },
         {
             "sanskrit": "अप्रतीकारम्",
-            "transliteration": "apratīkāram",
-            "meaning": "unresisting"
+            "transliteration": {
+                "hi": "अप्रतीकारम्",
+                "en": "apratīkāram",
+                "be": "অপ্রতীকারম্",
+                "ka": "ಅಪ್ರತೀಕಾರಮ್"
+            },
+            "meaning": {
+                "hi": "अप्रतिरोध्य",
+                "en": "unresisting",
+                "be": "অপ্রতিরোধ্য",
+                "ka": "ವಿರೋಧಿಸದ"
+            }
         },
         {
             "sanskrit": "अशस्त्रम्",
-            "transliteration": "aśastram",
-            "meaning": "unarmed"
+            "transliteration": {
+                "hi": "अशस्त्रम्",
+                "en": "aśastram",
+                "be": "অশস্ত্রম্",
+                "ka": "ಅಶಸ್ತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "निहत्था",
+                "en": "unarmed",
+                "be": "নিরস্ত্র",
+                "ka": "ನಿರಾಯುಧ"
+            }
         },
         {
             "sanskrit": "शस्त्रपाणयः",
-            "transliteration": "śastrapāṇayaḥ",
-            "meaning": "weapons in hand"
+            "transliteration": {
+                "hi": "शस्त्रपाणयः",
+                "en": "śastrapāṇayaḥ",
+                "be": "শস্ত্রপাণযঃ",
+                "ka": "ಶಸ್ತ್ರಪಾಣಯಃ"
+            },
+            "meaning": {
+                "hi": "हाथ में हथियार",
+                "en": "weapons in hand",
+                "be": "হাতে অস্ত্র",
+                "ka": "ಕೈಯಲ್ಲಿ ಆಯುಧಗಳು"
+            }
         },
         {
             "sanskrit": "धार्तराष्ट्राः",
-            "transliteration": "dhārtarāṣṭrāḥ",
-            "meaning": "sons of Dhritarashtra"
+            "transliteration": {
+                "hi": "धार्तराष्ट्राः",
+                "en": "dhārtarāṣṭrāḥ",
+                "be": "ধার্তরাষ্ট্রাঃ",
+                "ka": "ಧಾರ್ತರಾಷ್ಟ್ರಾಃ"
+            },
+            "meaning": {
+                "hi": "धृतराष्ट्र के पुत्र",
+                "en": "sons of Dhritarashtra",
+                "be": "ধৃতরাষ্ট্রের পুত্র",
+                "ka": "ಧೃತರಾಷ್ಟ್ರನ ಮಕ್ಕಳು"
+            }
         },
         {
             "sanskrit": "रणे",
-            "transliteration": "raṇe",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "रणे",
+                "en": "raṇe",
+                "be": "রণে",
+                "ka": "ರಣೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "हन्युः",
-            "transliteration": "hanyuḥ",
-            "meaning": "should slay"
+            "transliteration": {
+                "hi": "हन्युः",
+                "en": "hanyuḥ",
+                "be": "হন্যুঃ",
+                "ka": "ಹನ್ಯುಃ"
+            },
+            "meaning": {
+                "hi": "वध करना चाहिए",
+                "en": "should slay",
+                "be": "হত্যা করা উচিত",
+                "ka": "ಸಂಹರಿಸಬೇಕು"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "for me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरे लिए",
+                "en": "for me",
+                "be": "আমার জন্য",
+                "ka": "ನನಗೆ"
+            }
         },
         {
             "sanskrit": "क्षेमतरम्",
-            "transliteration": "kṣemataram",
-            "meaning": "better"
+            "transliteration": {
+                "hi": "क्षेमतरम्",
+                "en": "kṣemataram",
+                "be": "ক্ষেমতরম্",
+                "ka": "ಕ್ಷೇಮತರಮ್"
+            },
+            "meaning": {
+                "hi": "बेहतर",
+                "en": "better",
+                "be": "ভাল",
+                "ka": "ಉತ್ತಮ"
+            }
         },
         {
             "sanskrit": "भवेत्",
-            "transliteration": "bhavet",
-            "meaning": "would be"
+            "transliteration": {
+                "hi": "भवेत्",
+                "en": "bhavet",
+                "be": "ভবেত্",
+                "ka": "ಭವೇತ್"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "would be",
+                "be": "হবে",
+                "ka": "ಆಗಿರುತ್ತದೆ"
+            }
         }
     ],
     "tej": {

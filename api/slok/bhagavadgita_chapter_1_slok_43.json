@@ -14,8 +14,18 @@
         "en": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||",
         "ka": "ದೋಷೈರೇತೈಃ ಕುಲಘ್ನಾನಾಂ ವರ್ಣಸಙ್ಕರಕಾರಕೈಃ |\nಉತ್ಸಾದ್ಯನ್ತೇ ಜಾತಿಧರ್ಮಾಃ ಕುಲಧರ್ಮಾಶ್ಚ ಶಾಶ್ವತಾಃ ||೧-೪೩||"
     },
-    "transliteration": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||",
-    "life_application": "Guard against actions that weaken social trust or break down essential communal bonds in your daily life.",
+    "transliteration": {
+        "hi": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||",
+        "en": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||",
+        "be": "দোষৈরেতৈঃ কুলঘ্নানাং বর্ণসঙ্করকারকৈঃ |\nউত্সাদ্যন্তে জাতিধর্মাঃ কুলধর্মাশ্চ শাশ্বতাঃ ||১-৪৩||",
+        "ka": "ದೋಷೈರೇತೈಃ ಕುಲಘ್ನಾನಾಂ ವರ್ಣಸಙ್ಕರಕಾರಕೈಃ |\nಉತ್ಸಾದ್ಯನ್ತೇ ಜಾತಿಧರ್ಮಾಃ ಕುಲಧರ್ಮಾಶ್ಚ ಶಾಶ್ವತಾಃ ||೧-೪೩||"
+    },
+    "life_application": {
+        "hi": "उन कार्यों से सावधान रहें जो सामाजिक विश्वास को कमजोर करते हैं या आपके दैनिक जीवन में आवश्यक सांप्रदायिक बंधनों को तोड़ते हैं।",
+        "en": "Guard against actions that weaken social trust or break down essential communal bonds in your daily life.",
+        "be": "সামাজিক বিশ্বাসকে দুর্বল করে বা আপনার দৈনন্দিন জীবনে অপরিহার্য সাম্প্রদায়িক বন্ধন ভেঙ্গে দেয় এমন কর্মের বিরুদ্ধে সতর্ক থাকুন।",
+        "ka": "ಸಾಮಾಜಿಕ ನಂಬಿಕೆಯನ್ನು ದುರ್ಬಲಗೊಳಿಸುವ ಅಥವಾ ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಅಗತ್ಯ ಕೋಮು ಬಂಧಗಳನ್ನು ಮುರಿಯುವ ಕ್ರಿಯೆಗಳ ವಿರುದ್ಧ ಕಾವಲು ಕಾಯಿರಿ."
+    },
     "themes": [
         "Dharma",
         "Duty"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "दोशैः",
-            "transliteration": "doṣaiḥ",
-            "meaning": "by faults"
+            "transliteration": {
+                "hi": "दोशैः",
+                "en": "doṣaiḥ",
+                "be": "দোশৈঃ",
+                "ka": "ದೋಶೈಃ"
+            },
+            "meaning": {
+                "hi": "दोषों से",
+                "en": "by faults",
+                "be": "দোষ দ্বারা",
+                "ka": "ದೋಷಗಳಿಂದ"
+            }
         },
         {
             "sanskrit": "एतैः",
-            "transliteration": "etaiḥ",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एतैः",
+                "en": "etaiḥ",
+                "be": "এতৈঃ",
+                "ka": "ಏತೈಃ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "कुलघ्नानाम्",
-            "transliteration": "kulaghnānām",
-            "meaning": "of family destroyers"
+            "transliteration": {
+                "hi": "कुलघ्नानाम्",
+                "en": "kulaghnānām",
+                "be": "কুলঘ্নানাম্",
+                "ka": "ಕುಲಘ್ನಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "परिवार विध्वंसकों का",
+                "en": "of family destroyers",
+                "be": "পরিবার ধ্বংসকারীদের",
+                "ka": "ಕುಟುಂಬ ವಿಧ್ವಂಸಕರು"
+            }
         },
         {
             "sanskrit": "वर्णसङ्करकारकैः",
-            "transliteration": "varṇasaṅkarakārakaiḥ",
-            "meaning": "causing lineage confusion"
+            "transliteration": {
+                "hi": "वर्णसङ्करकारकैः",
+                "en": "varṇasaṅkarakārakaiḥ",
+                "be": "বর্ণসঙ্করকারকৈঃ",
+                "ka": "ವರ್ಣಸಙ್ಕರಕಾರಕೈಃ"
+            },
+            "meaning": {
+                "hi": "वंशावली भ्रम पैदा कर रहा है",
+                "en": "causing lineage confusion",
+                "be": "বংশ বিভ্রান্তি সৃষ্টি করে",
+                "ka": "ವಂಶಾವಳಿಯ ಗೊಂದಲವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "उत्साद्यन्ते",
-            "transliteration": "utsādyante",
-            "meaning": "are destroyed"
+            "transliteration": {
+                "hi": "उत्साद्यन्ते",
+                "en": "utsādyante",
+                "be": "উত্সাদ্যন্তে",
+                "ka": "ಉತ್ಸಾದ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "नष्ट हो जाते हैं",
+                "en": "are destroyed",
+                "be": "ধ্বংস হয়",
+                "ka": "ನಾಶವಾಗುತ್ತವೆ"
+            }
         },
         {
             "sanskrit": "जातिधर्माः",
-            "transliteration": "jātidharmāḥ",
-            "meaning": "community traditions"
+            "transliteration": {
+                "hi": "जातिधर्माः",
+                "en": "jātidharmāḥ",
+                "be": "জাতিধর্মাঃ",
+                "ka": "ಜಾತಿಧರ್ಮಾಃ"
+            },
+            "meaning": {
+                "hi": "सामुदायिक परंपराएँ",
+                "en": "community traditions",
+                "be": "সম্প্রদায়ের ঐতিহ্য",
+                "ka": "ಸಮುದಾಯ ಸಂಪ್ರದಾಯಗಳು"
+            }
         },
         {
             "sanskrit": "कुलधर्माः",
-            "transliteration": "kuladharmāḥ",
-            "meaning": "family customs"
+            "transliteration": {
+                "hi": "कुलधर्माः",
+                "en": "kuladharmāḥ",
+                "be": "কুলধর্মাঃ",
+                "ka": "ಕುಲಧರ್ಮಾಃ"
+            },
+            "meaning": {
+                "hi": "पारिवारिक रीति-रिवाज",
+                "en": "family customs",
+                "be": "পারিবারিক রীতিনীতি",
+                "ka": "ಕುಟುಂಬ ಪದ್ಧತಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शाश्वताः",
-            "transliteration": "śāśvatāḥ",
-            "meaning": "eternal"
+            "transliteration": {
+                "hi": "शाश्वताः",
+                "en": "śāśvatāḥ",
+                "be": "শাশ্বতাঃ",
+                "ka": "ಶಾಶ್ವತಾಃ"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         }
     ],
     "tej": {

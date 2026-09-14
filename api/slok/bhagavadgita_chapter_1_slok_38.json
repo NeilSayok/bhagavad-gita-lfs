@@ -14,8 +14,18 @@
         "en": "yadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||1-38||",
         "ka": "ಯದ್ಯಪ್ಯೇತೇ ನ ಪಶ್ಯನ್ತಿ ಲೋಭೋಪಹತಚೇತಸಃ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಮಿತ್ರದ್ರೋಹೇ ಚ ಪಾತಕಮ್ ||೧-೩೮||"
     },
-    "transliteration": "yadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||1-38||",
-    "life_application": "Do not lower your moral standards simply because others around you act out of greed or blind ambition.",
+    "transliteration": {
+        "hi": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः |\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||",
+        "en": "yadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||1-38||",
+        "be": "যদ্যপ্যেতে ন পশ্যন্তি লোভোপহতচেতসঃ |\nকুলক্ষযকৃতং দোষং মিত্রদ্রোহে চ পাতকম্ ||১-৩৮||",
+        "ka": "ಯದ್ಯಪ್ಯೇತೇ ನ ಪಶ್ಯನ್ತಿ ಲೋಭೋಪಹತಚೇತಸಃ |\nಕುಲಕ್ಷಯಕೃತಂ ದೋಷಂ ಮಿತ್ರದ್ರೋಹೇ ಚ ಪಾತಕಮ್ ||೧-೩೮||"
+    },
+    "life_application": {
+        "hi": "अपने नैतिक मानकों को केवल इसलिए कम न करें क्योंकि आपके आस-पास के अन्य लोग लालच या अंधी महत्वाकांक्षा के कारण कार्य करते हैं।",
+        "en": "Do not lower your moral standards simply because others around you act out of greed or blind ambition.",
+        "be": "আপনার আশেপাশের অন্যরা লোভ বা অন্ধ উচ্চাকাঙ্ক্ষা থেকে কাজ করে বলে আপনার নৈতিক মানগুলিকে নিচু করবেন না।",
+        "ka": "ನಿಮ್ಮ ಸುತ್ತಲಿರುವ ಇತರರು ದುರಾಶೆಯಿಂದ ಅಥವಾ ಕುರುಡು ಮಹತ್ವಾಕಾಂಕ್ಷೆಯಿಂದ ವರ್ತಿಸುತ್ತಾರೆ ಎಂಬ ಕಾರಣಕ್ಕಾಗಿ ನಿಮ್ಮ ನೈತಿಕ ಮಾನದಂಡಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಡಿ."
+    },
     "themes": [
         "Dharma",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "even if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "भले ही",
+                "en": "even if",
+                "be": "এমনকি যদি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "though"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "हालाँकि",
+                "en": "though",
+                "be": "যদিও",
+                "ka": "ಆದರೂ"
+            }
         },
         {
             "sanskrit": "एते",
-            "transliteration": "ete",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एते",
+                "en": "ete",
+                "be": "এতে",
+                "ka": "ಏತೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पश्यन्ति",
-            "transliteration": "paśyanti",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यन्ति",
+                "en": "paśyanti",
+                "be": "পশ্যন্তি",
+                "ka": "ಪಶ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "लोभोपहतचेतसः",
-            "transliteration": "lobhopahatacetasaḥ",
-            "meaning": "minds blinded by greed"
+            "transliteration": {
+                "hi": "लोभोपहतचेतसः",
+                "en": "lobhopahatacetasaḥ",
+                "be": "লোভোপহতচেতসঃ",
+                "ka": "ಲೋಭೋಪಹತಚೇತಸಃ"
+            },
+            "meaning": {
+                "hi": "लालच से अंधा हो गया दिमाग",
+                "en": "minds blinded by greed",
+                "be": "লোভে অন্ধ মন",
+                "ka": "ದುರಾಸೆಯಿಂದ ಕುರುಡಾಗಿರುವ ಮನಸ್ಸುಗಳು"
+            }
         },
         {
             "sanskrit": "कुलक्षयकृतम्",
-            "transliteration": "kulakṣayakṛtam",
-            "meaning": "caused by family destruction"
+            "transliteration": {
+                "hi": "कुलक्षयकृतम्",
+                "en": "kulakṣayakṛtam",
+                "be": "কুলক্ষযকৃতম্",
+                "ka": "ಕುಲಕ್ಷಯಕೃತಮ್"
+            },
+            "meaning": {
+                "hi": "पारिवारिक विनाश के कारण",
+                "en": "caused by family destruction",
+                "be": "পারিবারিক ধ্বংসের কারণে",
+                "ka": "ಕುಟುಂಬದ ವಿನಾಶದಿಂದ ಉಂಟಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "दोषम्",
-            "transliteration": "doṣam",
-            "meaning": "fault"
+            "transliteration": {
+                "hi": "दोषम्",
+                "en": "doṣam",
+                "be": "দোষম্",
+                "ka": "ದೋಷಮ್"
+            },
+            "meaning": {
+                "hi": "दोष",
+                "en": "fault",
+                "be": "দোষ",
+                "ka": "ತಪ್ಪು"
+            }
         },
         {
             "sanskrit": "मित्रद्रोहे",
-            "transliteration": "mitradrohe",
-            "meaning": "in hostility to friends"
+            "transliteration": {
+                "hi": "मित्रद्रोहे",
+                "en": "mitradrohe",
+                "be": "মিত্রদ্রোহে",
+                "ka": "ಮಿತ್ರದ್ರೋಹೇ"
+            },
+            "meaning": {
+                "hi": "दोस्तों से दुश्मनी में",
+                "en": "in hostility to friends",
+                "be": "বন্ধুদের প্রতি শত্রুতার মধ্যে",
+                "ka": "ಸ್ನೇಹಿತರಿಗೆ ಹಗೆತನದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "पातकम्",
-            "transliteration": "pātakam",
-            "meaning": "sin"
+            "transliteration": {
+                "hi": "पातकम्",
+                "en": "pātakam",
+                "be": "পাতকম্",
+                "ka": "ಪಾತಕಮ್"
+            },
+            "meaning": {
+                "hi": "पाप",
+                "en": "sin",
+                "be": "পাপ",
+                "ka": "ಪಾಪ"
+            }
         }
     ],
     "tej": {

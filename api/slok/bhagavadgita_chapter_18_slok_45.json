@@ -14,8 +14,18 @@
         "en": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ .\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ||18-45||",
         "ka": "ಸ್ವೇ ಸ್ವೇ ಕರ್ಮಣ್ಯಭಿರತಃ ಸಂಸಿದ್ಧಿಂ ಲಭತೇ ನರಃ |\nಸ್ವಕರ್ಮನಿರತಃ ಸಿದ್ಧಿಂ ಯಥಾ ವಿನ್ದತಿ ತಚ್ಛೃಣು ||೧೮-೪೫||"
     },
-    "transliteration": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ .\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ||18-45||",
-    "life_application": "Each person devoted to his own natural duty attains perfection; hear how one attains perfection by duty.",
+    "transliteration": {
+        "hi": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः |\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||१८-४५||",
+        "en": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ .\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ||18-45||",
+        "be": "স্বে স্বে কর্মণ্যভিরতঃ সংসিদ্ধিং লভতে নরঃ |\nস্বকর্মনিরতঃ সিদ্ধিং যথা বিন্দতি তচ্ছৃণু ||১৮-৪৫||",
+        "ka": "ಸ್ವೇ ಸ್ವೇ ಕರ್ಮಣ್ಯಭಿರತಃ ಸಂಸಿದ್ಧಿಂ ಲಭತೇ ನರಃ |\nಸ್ವಕರ್ಮನಿರತಃ ಸಿದ್ಧಿಂ ಯಥಾ ವಿನ್ದತಿ ತಚ್ಛೃಣು ||೧೮-೪೫||"
+    },
+    "life_application": {
+        "hi": "अपने स्वाभाविक कर्तव्य के प्रति समर्पित प्रत्येक व्यक्ति पूर्णता प्राप्त करता है; सुनो कि कर्तव्य से किस प्रकार सिद्धि प्राप्त होती है।",
+        "en": "Each person devoted to his own natural duty attains perfection; hear how one attains perfection by duty.",
+        "be": "নিজের স্বাভাবিক কর্তব্যে নিবেদিত প্রত্যেক ব্যক্তি পরিপূর্ণতা লাভ করে; শুনুন কিভাবে একজন কর্তব্য দ্বারা পরিপূর্ণতা অর্জন করে।",
+        "ka": "ತನ್ನ ಸ್ವಾಭಾವಿಕ ಕರ್ತವ್ಯಕ್ಕೆ ಮೀಸಲಾದ ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯು ಪರಿಪೂರ್ಣತೆಯನ್ನು ಪಡೆಯುತ್ತಾನೆ; ಕರ್ತವ್ಯದಿಂದ ಹೇಗೆ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಪಡೆಯುತ್ತಾನೆ ಎಂದು ಕೇಳಿ."
+    },
     "themes": [
         "Duty",
         "Purpose"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "ब्रह्मणि",
-            "transliteration": "brahmaṇi",
-            "meaning": "in Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मणि",
+                "en": "brahmaṇi",
+                "be": "ব্রহ্মণি",
+                "ka": "ಬ್ರಹ್ಮಣಿ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण में",
+                "en": "in Brahman",
+                "be": "ব্রাহ্মণে",
+                "ka": "ಬ್ರಾಹ್ಮಣದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "आधाय",
-            "transliteration": "ādhāya",
-            "meaning": "having placed"
+            "transliteration": {
+                "hi": "आधाय",
+                "en": "ādhāya",
+                "be": "আধায",
+                "ka": "ಆಧಾಯ"
+            },
+            "meaning": {
+                "hi": "रखा जा रहा है",
+                "en": "having placed",
+                "be": "স্থাপন করা হয়েছে",
+                "ka": "ಇರಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "कर्माणि",
-            "transliteration": "karmāṇi",
-            "meaning": "actions"
+            "transliteration": {
+                "hi": "कर्माणि",
+                "en": "karmāṇi",
+                "be": "কর্মাণি",
+                "ka": "ಕರ್ಮಾಣಿ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "actions",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮಗಳು"
+            }
         },
         {
             "sanskrit": "सङ्गम्",
-            "transliteration": "saṅgam",
-            "meaning": "attachment"
+            "transliteration": {
+                "hi": "सङ्गम्",
+                "en": "saṅgam",
+                "be": "সঙ্গম্",
+                "ka": "ಸಙ್ಗಮ್"
+            },
+            "meaning": {
+                "hi": "लगाव",
+                "en": "attachment",
+                "be": "সংযুক্তি",
+                "ka": "ಬಾಂಧವ್ಯ"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "करोति",
-            "transliteration": "karoti",
-            "meaning": "acts"
+            "transliteration": {
+                "hi": "करोति",
+                "en": "karoti",
+                "be": "করোতি",
+                "ka": "ಕರೋತಿ"
+            },
+            "meaning": {
+                "hi": "कार्य करता है",
+                "en": "acts",
+                "be": "কাজ",
+                "ka": "ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "लिप्यते",
-            "transliteration": "lipyate",
-            "meaning": "is tainted"
+            "transliteration": {
+                "hi": "लिप्यते",
+                "en": "lipyate",
+                "be": "লিপ্যতে",
+                "ka": "ಲಿಪ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "दागदार है",
+                "en": "is tainted",
+                "be": "কলঙ্কিত",
+                "ka": "ಕಳಂಕಿತವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "पापेन",
-            "transliteration": "pāpena",
-            "meaning": "by sin"
+            "transliteration": {
+                "hi": "पापेन",
+                "en": "pāpena",
+                "be": "পাপেন",
+                "ka": "ಪಾಪೇನ"
+            },
+            "meaning": {
+                "hi": "पाप से",
+                "en": "by sin",
+                "be": "পাপ দ্বারা",
+                "ka": "ಪಾಪದಿಂದ"
+            }
         },
         {
             "sanskrit": "पद्मपत्रम्",
-            "transliteration": "padmapatram",
-            "meaning": "lotusleaf"
+            "transliteration": {
+                "hi": "पद्मपत्रम्",
+                "en": "padmapatram",
+                "be": "পদ্মপত্রম্",
+                "ka": "ಪದ್ಮಪತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "कमल का पत्ता",
+                "en": "lotusleaf",
+                "be": "পদ্ম পাতা",
+                "ka": "ಕಮಲದ ಎಲೆ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "अम्भसा",
-            "transliteration": "ambhasā",
-            "meaning": "by water."
+            "transliteration": {
+                "hi": "अम्भसा",
+                "en": "ambhasā",
+                "be": "অম্ভসা",
+                "ka": "ಅಮ್ಭಸಾ"
+            },
+            "meaning": {
+                "hi": "पानी से.",
+                "en": "by water.",
+                "be": "জল দ্বারা",
+                "ka": "ನೀರಿನಿಂದ."
+            }
         }
     ],
     "tej": {

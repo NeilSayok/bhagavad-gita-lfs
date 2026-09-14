@@ -14,8 +14,18 @@
         "en": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham .\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate ||18-53||",
         "ka": "ಅಹಂಕಾರಂ ಬಲಂ ದರ್ಪಂ ಕಾಮಂ ಕ್ರೋಧಂ ಪರಿಗ್ರಹಮ್ |\nವಿಮುಚ್ಯ ನಿರ್ಮಮಃ ಶಾನ್ತೋ ಬ್ರಹ್ಮಭೂಯಾಯ ಕಲ್ಪತೇ ||೧೮-೫೩||"
     },
-    "transliteration": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham .\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate ||18-53||",
-    "life_application": "Free from egoism, power, pride, lust, anger, possessiveness, tranquil in mind—he is fit for becoming one with Brahman.",
+    "transliteration": {
+        "hi": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् |\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||",
+        "en": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham .\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate ||18-53||",
+        "be": "অহংকারং বলং দর্পং কামং ক্রোধং পরিগ্রহম্ |\nবিমুচ্য নির্মমঃ শান্তো ব্রহ্মভূযায কল্পতে ||১৮-৫৩||",
+        "ka": "ಅಹಂಕಾರಂ ಬಲಂ ದರ್ಪಂ ಕಾಮಂ ಕ್ರೋಧಂ ಪರಿಗ್ರಹಮ್ |\nವಿಮುಚ್ಯ ನಿರ್ಮಮಃ ಶಾನ್ತೋ ಬ್ರಹ್ಮಭೂಯಾಯ ಕಲ್ಪತೇ ||೧೮-೫೩||"
+    },
+    "life_application": {
+        "hi": "अहंकार, शक्ति, अभिमान, वासना, क्रोध, स्वामित्व से मुक्त, मन में शांत - वह ब्रह्म के साथ एक होने के लिए उपयुक्त है।",
+        "en": "Free from egoism, power, pride, lust, anger, possessiveness, tranquil in mind—he is fit for becoming one with Brahman.",
+        "be": "অহংবোধ, শক্তি, অহংকার, কাম, ক্রোধ, অধিকারী, মনে প্রশান্ত-তিনি ব্রহ্মের সাথে এক হওয়ার উপযুক্ত।",
+        "ka": "ಅಹಂಕಾರ, ಶಕ್ತಿ, ಅಹಂಕಾರ, ಕಾಮ, ಕ್ರೋಧ, ಸ್ವಾಮ್ಯಸೂಚಕತೆ, ಮನಸ್ಸಿನಲ್ಲಿ ಶಾಂತತೆ-ಅವನು ಬ್ರಹ್ಮನೊಂದಿಗೆ ಒಂದಾಗಲು ಯೋಗ್ಯನಾಗಿರುತ್ತಾನೆ."
+    },
     "themes": [
         "Detachment",
         "Equanimity"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अहङ्कारम्",
-            "transliteration": "ahaṅkāram",
-            "meaning": "egoism"
+            "transliteration": {
+                "hi": "अहङ्कारम्",
+                "en": "ahaṅkāram",
+                "be": "অহঙ্কারম্",
+                "ka": "ಅಹಙ್ಕಾರಮ್"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "egoism",
+                "be": "অহংবোধ",
+                "ka": "ಅಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "बलम्",
-            "transliteration": "balam",
-            "meaning": "strength"
+            "transliteration": {
+                "hi": "बलम्",
+                "en": "balam",
+                "be": "বলম্",
+                "ka": "ಬಲಮ್"
+            },
+            "meaning": {
+                "hi": "ताकत",
+                "en": "strength",
+                "be": "শক্তি",
+                "ka": "ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "दर्पम्",
-            "transliteration": "darpam",
-            "meaning": "arrogance"
+            "transliteration": {
+                "hi": "दर्पम्",
+                "en": "darpam",
+                "be": "দর্পম্",
+                "ka": "ದರ್ಪಮ್"
+            },
+            "meaning": {
+                "hi": "अहंकार",
+                "en": "arrogance",
+                "be": "অহংকার",
+                "ka": "ದುರಹಂಕಾರ"
+            }
         },
         {
             "sanskrit": "कामम्",
-            "transliteration": "kāmam",
-            "meaning": "desire"
+            "transliteration": {
+                "hi": "कामम्",
+                "en": "kāmam",
+                "be": "কামম্",
+                "ka": "ಕಾಮಮ್"
+            },
+            "meaning": {
+                "hi": "इच्छा",
+                "en": "desire",
+                "be": "ইচ্ছা",
+                "ka": "ಆಸೆ"
+            }
         },
         {
             "sanskrit": "क्रोधम्",
-            "transliteration": "krodham",
-            "meaning": "anger"
+            "transliteration": {
+                "hi": "क्रोधम्",
+                "en": "krodham",
+                "be": "ক্রোধম্",
+                "ka": "ಕ್ರೋಧಮ್"
+            },
+            "meaning": {
+                "hi": "क्रोध",
+                "en": "anger",
+                "be": "রাগ",
+                "ka": "ಕೋಪ"
+            }
         },
         {
             "sanskrit": "परिग्रहम्",
-            "transliteration": "parigraham",
-            "meaning": "covetousness"
+            "transliteration": {
+                "hi": "परिग्रहम्",
+                "en": "parigraham",
+                "be": "পরিগ্রহম্",
+                "ka": "ಪರಿಗ್ರಹಮ್"
+            },
+            "meaning": {
+                "hi": "लोभ",
+                "en": "covetousness",
+                "be": "লোভ",
+                "ka": "ದುರಾಸೆ"
+            }
         },
         {
             "sanskrit": "विमुच्य",
-            "transliteration": "vimucya",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "विमुच्य",
+                "en": "vimucya",
+                "be": "বিমুচ্য",
+                "ka": "ವಿಮುಚ್ಯ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "निर्ममः",
-            "transliteration": "nirmamaḥ",
-            "meaning": "without mineness"
+            "transliteration": {
+                "hi": "निर्ममः",
+                "en": "nirmamaḥ",
+                "be": "নির্মমঃ",
+                "ka": "ನಿರ್ಮಮಃ"
+            },
+            "meaning": {
+                "hi": "मेरेपन के बिना",
+                "en": "without mineness",
+                "be": "খনিতা ছাড়া",
+                "ka": "ಗಣಿತನವಿಲ್ಲದೆ"
+            }
         },
         {
             "sanskrit": "शान्तः",
-            "transliteration": "śāntaḥ",
-            "meaning": "peaceful"
+            "transliteration": {
+                "hi": "शान्तः",
+                "en": "śāntaḥ",
+                "be": "শান্তঃ",
+                "ka": "ಶಾನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "शांतिपूर्ण",
+                "en": "peaceful",
+                "be": "শান্তিপূর্ণ",
+                "ka": "ಶಾಂತಿಯುತ"
+            }
         },
         {
             "sanskrit": "ब्रह्मभूयाय",
-            "transliteration": "brahmabhūyāya",
-            "meaning": "for becoming Brahman"
+            "transliteration": {
+                "hi": "ब्रह्मभूयाय",
+                "en": "brahmabhūyāya",
+                "be": "ব্রহ্মভূযায",
+                "ka": "ಬ್ರಹ್ಮಭೂಯಾಯ"
+            },
+            "meaning": {
+                "hi": "ब्रह्म बनने के लिए",
+                "en": "for becoming Brahman",
+                "be": "ব্রাহ্মণ হওয়ার জন্য",
+                "ka": "ಬ್ರಹ್ಮನಾಗುವುದಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "कल्पते",
-            "transliteration": "kalpate",
-            "meaning": "is fit."
+            "transliteration": {
+                "hi": "कल्पते",
+                "en": "kalpate",
+                "be": "কল্পতে",
+                "ka": "ಕಲ್ಪತೇ"
+            },
+            "meaning": {
+                "hi": "फिट है।",
+                "en": "is fit.",
+                "be": "উপযুক্ত",
+                "ka": "ಫಿಟ್ ಆಗಿದೆ."
+            }
         }
     ],
     "tej": {

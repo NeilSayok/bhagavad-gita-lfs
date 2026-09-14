@@ -14,8 +14,18 @@
         "en": "sahajaṃ karma kaunteya sadoṣamapi na tyajet .\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ ||18-48||",
         "ka": "ಸಹಜಂ ಕರ್ಮ ಕೌನ್ತೇಯ ಸದೋಷಮಪಿ ನ ತ್ಯಜೇತ್ |\nಸರ್ವಾರಮ್ಭಾ ಹಿ ದೋಷೇಣ ಧೂಮೇನಾಗ್ನಿರಿವಾವೃತಾಃ ||೧೮-೪೮||"
     },
-    "transliteration": "sahajaṃ karma kaunteya sadoṣamapi na tyajet .\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ ||18-48||",
-    "life_application": "One should not abandon work born of nature though flawed, for all undertakings are enveloped by flaws as fire by smoke.",
+    "transliteration": {
+        "hi": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||१८-४८||",
+        "en": "sahajaṃ karma kaunteya sadoṣamapi na tyajet .\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ ||18-48||",
+        "be": "সহজং কর্ম কৌন্তেয সদোষমপি ন ত্যজেত্ |\nসর্বারম্ভা হি দোষেণ ধূমেনাগ্নিরিবাবৃতাঃ ||১৮-৪৮||",
+        "ka": "ಸಹಜಂ ಕರ್ಮ ಕೌನ್ತೇಯ ಸದೋಷಮಪಿ ನ ತ್ಯಜೇತ್ |\nಸರ್ವಾರಮ್ಭಾ ಹಿ ದೋಷೇಣ ಧೂಮೇನಾಗ್ನಿರಿವಾವೃತಾಃ ||೧೮-೪೮||"
+    },
+    "life_application": {
+        "hi": "किसी को प्रकृति से उत्पन्न कार्य को नहीं छोड़ना चाहिए, भले ही वह त्रुटिपूर्ण हो, क्योंकि सभी उपक्रम दोषों से घिरे होते हैं, जैसे आग धुएं से घिरी होती है।",
+        "en": "One should not abandon work born of nature though flawed, for all undertakings are enveloped by flaws as fire by smoke.",
+        "be": "ত্রুটিপূর্ণ হলেও প্রকৃতি থেকে জন্মানো কাজ ত্যাগ করা উচিত নয়, কারণ সমস্ত উদ্যোগই ধোঁয়ায় আগুনের মতো ত্রুটি দ্বারা আবৃত।",
+        "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ ಕೆಲಸವನ್ನು ದೋಷಪೂರಿತವಾಗಿದ್ದರೂ ತ್ಯಜಿಸಬಾರದು, ಏಕೆಂದರೆ ಎಲ್ಲಾ ಕಾರ್ಯಗಳು ನ್ಯೂನತೆಗಳಿಂದ ಹೊಗೆಯಿಂದ ಬೆಂಕಿಯಂತೆ ಸುತ್ತುತ್ತವೆ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "सहजम्",
-            "transliteration": "sahajam",
-            "meaning": "which is born"
+            "transliteration": {
+                "hi": "सहजम्",
+                "en": "sahajam",
+                "be": "সহজম্",
+                "ka": "ಸಹಜಮ್"
+            },
+            "meaning": {
+                "hi": "जो पैदा हुआ है",
+                "en": "which is born",
+                "be": "যার জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದ್ದು"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O Kaunteya"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कौन्तेय!",
+                "en": "O Kaunteya",
+                "be": "হে কৌন্তেয়া",
+                "ka": "ಓ ಕೌಂತೇಯ"
+            }
         },
         {
             "sanskrit": "सदोषम्",
-            "transliteration": "sadoṣam",
-            "meaning": "with fault"
+            "transliteration": {
+                "hi": "सदोषम्",
+                "en": "sadoṣam",
+                "be": "সদোষম্",
+                "ka": "ಸದೋಷಮ್"
+            },
+            "meaning": {
+                "hi": "गलती के साथ",
+                "en": "with fault",
+                "be": "দোষ দিয়ে",
+                "ka": "ದೋಷದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "त्यजेत्",
-            "transliteration": "tyajet",
-            "meaning": "should abandon"
+            "transliteration": {
+                "hi": "त्यजेत्",
+                "en": "tyajet",
+                "be": "ত্যজেত্",
+                "ka": "ತ್ಯಜೇತ್"
+            },
+            "meaning": {
+                "hi": "त्याग देना चाहिए",
+                "en": "should abandon",
+                "be": "পরিত্যাগ করা উচিত",
+                "ka": "ತ್ಯಜಿಸಬೇಕು"
+            }
         },
         {
             "sanskrit": "सर्वारम्भाः",
-            "transliteration": "sarvārambhāḥ",
-            "meaning": "all undertakings"
+            "transliteration": {
+                "hi": "सर्वारम्भाः",
+                "en": "sarvārambhāḥ",
+                "be": "সর্বারম্ভাঃ",
+                "ka": "ಸರ್ವಾರಮ್ಭಾಃ"
+            },
+            "meaning": {
+                "hi": "सभी उपक्रम",
+                "en": "all undertakings",
+                "be": "সমস্ত উদ্যোগ",
+                "ka": "ಎಲ್ಲಾ ಕಾರ್ಯಗಳು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "for"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for",
+                "be": "জন্য",
+                "ka": "ಫಾರ್"
+            }
         },
         {
             "sanskrit": "दोषेण",
-            "transliteration": "doṣeṇa",
-            "meaning": "by evil"
+            "transliteration": {
+                "hi": "दोषेण",
+                "en": "doṣeṇa",
+                "be": "দোষেণ",
+                "ka": "ದೋಷೇಣ"
+            },
+            "meaning": {
+                "hi": "बुराई से",
+                "en": "by evil",
+                "be": "মন্দ দ্বারা",
+                "ka": "ದುಷ್ಟರಿಂದ"
+            }
         },
         {
             "sanskrit": "धूमेन",
-            "transliteration": "dhūmena",
-            "meaning": "by smoke"
+            "transliteration": {
+                "hi": "धूमेन",
+                "en": "dhūmena",
+                "be": "ধূমেন",
+                "ka": "ಧೂಮೇನ"
+            },
+            "meaning": {
+                "hi": "धुएँ से",
+                "en": "by smoke",
+                "be": "ধোঁয়া দ্বারা",
+                "ka": "ಹೊಗೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "अग्निः",
-            "transliteration": "agniḥ",
-            "meaning": "fire"
+            "transliteration": {
+                "hi": "अग्निः",
+                "en": "agniḥ",
+                "be": "অগ্নিঃ",
+                "ka": "ಅಗ್ನಿಃ"
+            },
+            "meaning": {
+                "hi": "आग",
+                "en": "fire",
+                "be": "আগুন",
+                "ka": "ಬೆಂಕಿ"
+            }
         },
         {
             "sanskrit": "इव",
-            "transliteration": "iva",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "इव",
+                "en": "iva",
+                "be": "ইব",
+                "ka": "ಇವ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "आवृताः",
-            "transliteration": "āvṛtāḥ",
-            "meaning": "are enveloped."
+            "transliteration": {
+                "hi": "आवृताः",
+                "en": "āvṛtāḥ",
+                "be": "আবৃতাঃ",
+                "ka": "ಆವೃತಾಃ"
+            },
+            "meaning": {
+                "hi": "आच्छादित हैं.",
+                "en": "are enveloped.",
+                "be": "আবৃত হয়",
+                "ka": "ಸುತ್ತುವರಿದಿವೆ."
+            }
         }
     ],
     "tej": {

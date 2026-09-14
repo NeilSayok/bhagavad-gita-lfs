@@ -14,8 +14,18 @@
         "en": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca .\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca ||18-51||",
         "ka": "ಬುದ್ಧ್ಯಾ ವಿಶುದ್ಧಯಾ ಯುಕ್ತೋ ಧೃತ್ಯಾತ್ಮಾನಂ ನಿಯಮ್ಯ ಚ |\nಶಬ್ದಾದೀನ್ವಿಷಯಾಂಸ್ತ್ಯಕ್ತ್ವಾ ರಾಗದ್ವೇಷೌ ವ್ಯುದಸ್ಯ ಚ ||೧೮-೫೧||"
     },
-    "transliteration": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca .\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca ||18-51||",
-    "life_application": "Endowed with pure intellect, controlling self with fortitude, abandoning sound/sense objects, casting aside attraction and hatred...",
+    "transliteration": {
+        "hi": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च |\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||१८-५१||",
+        "en": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca .\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca ||18-51||",
+        "be": "বুদ্ধ্যা বিশুদ্ধযা যুক্তো ধৃত্যাত্মানং নিযম্য চ |\nশব্দাদীন্বিষযাংস্ত্যক্ত্বা রাগদ্বেষৌ ব্যুদস্য চ ||১৮-৫১||",
+        "ka": "ಬುದ್ಧ್ಯಾ ವಿಶುದ್ಧಯಾ ಯುಕ್ತೋ ಧೃತ್ಯಾತ್ಮಾನಂ ನಿಯಮ್ಯ ಚ |\nಶಬ್ದಾದೀನ್ವಿಷಯಾಂಸ್ತ್ಯಕ್ತ್ವಾ ರಾಗದ್ವೇಷೌ ವ್ಯುದಸ್ಯ ಚ ||೧೮-೫೧||"
+    },
+    "life_application": {
+        "hi": "शुद्ध बुद्धि से संपन्न, धैर्य से स्वयं पर नियंत्रण रखने वाला, ध्वनि/इंद्रिय विषयों का त्याग करने वाला, आकर्षण और घृणा को त्यागने वाला...",
+        "en": "Endowed with pure intellect, controlling self with fortitude, abandoning sound/sense objects, casting aside attraction and hatred...",
+        "be": "বিশুদ্ধ বুদ্ধিতে সমৃদ্ধ, দৃঢ়তার সাথে নিজেকে নিয়ন্ত্রণ করা, শব্দ/ইন্দ্রিয় বস্তু ত্যাগ করা, আকর্ষণ এবং ঘৃণাকে দূরে সরিয়ে দেওয়া...",
+        "ka": "ಶುದ್ಧ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಹೊಂದಿದ್ದು, ಸ್ಥೈರ್ಯದಿಂದ ತನ್ನನ್ನು ತಾನು ನಿಯಂತ್ರಿಸಿಕೊಳ್ಳುವುದು, ಶಬ್ದ/ಇಂದ್ರಿಯ ವಸ್ತುಗಳನ್ನು ತ್ಯಜಿಸುವುದು, ಆಕರ್ಷಣೆ ಮತ್ತು ದ್ವೇಷವನ್ನು ಬದಿಗಿರಿಸುವುದು..."
+    },
     "themes": [
         "Mindfulness",
         "Detachment",
@@ -24,68 +34,198 @@
     "word_meanings": [
         {
             "sanskrit": "बुद्ध्या",
-            "transliteration": "buddhyā",
-            "meaning": "with an intellect"
+            "transliteration": {
+                "hi": "बुद्ध्या",
+                "en": "buddhyā",
+                "be": "বুদ্ধ্যা",
+                "ka": "ಬುದ್ಧ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "एक बुद्धि के साथ",
+                "en": "with an intellect",
+                "be": "একটি বুদ্ধি দিয়ে",
+                "ka": "ಒಂದು ಬುದ್ಧಿಶಕ್ತಿಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "विशुद्धया",
-            "transliteration": "viśuddhayā",
-            "meaning": "pure"
+            "transliteration": {
+                "hi": "विशुद्धया",
+                "en": "viśuddhayā",
+                "be": "বিশুদ্ধযা",
+                "ka": "ವಿಶುದ್ಧಯಾ"
+            },
+            "meaning": {
+                "hi": "शुद्ध",
+                "en": "pure",
+                "be": "বিশুদ্ধ",
+                "ka": "ಶುದ್ಧ"
+            }
         },
         {
             "sanskrit": "युक्तः",
-            "transliteration": "yuktaḥ",
-            "meaning": "endowed"
+            "transliteration": {
+                "hi": "युक्तः",
+                "en": "yuktaḥ",
+                "be": "যুক্তঃ",
+                "ka": "ಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "संपन्न",
+                "en": "endowed",
+                "be": "সমৃদ্ধ",
+                "ka": "ದತ್ತಿ"
+            }
         },
         {
             "sanskrit": "धृत्या",
-            "transliteration": "dhṛtyā",
-            "meaning": "by firmness"
+            "transliteration": {
+                "hi": "धृत्या",
+                "en": "dhṛtyā",
+                "be": "ধৃত্যা",
+                "ka": "ಧೃತ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "दृढ़ता से",
+                "en": "by firmness",
+                "be": "দৃঢ়তা দ্বারা",
+                "ka": "ದೃಢತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "आत्मानम्",
-            "transliteration": "ātmānam",
-            "meaning": "the self"
+            "transliteration": {
+                "hi": "आत्मानम्",
+                "en": "ātmānam",
+                "be": "আত্মানম্",
+                "ka": "ಆತ್ಮಾನಮ್"
+            },
+            "meaning": {
+                "hi": "स्वयं",
+                "en": "the self",
+                "be": "স্ব",
+                "ka": "ಸ್ವಯಂ"
+            }
         },
         {
             "sanskrit": "नियम्य",
-            "transliteration": "niyamya",
-            "meaning": "controlling"
+            "transliteration": {
+                "hi": "नियम्य",
+                "en": "niyamya",
+                "be": "নিযম্য",
+                "ka": "ನಿಯಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "नियंत्रण",
+                "en": "controlling",
+                "be": "নিয়ন্ত্রণ",
+                "ka": "ನಿಯಂತ್ರಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "शब्दादीन्",
-            "transliteration": "śabdādīn",
-            "meaning": "sound and other"
+            "transliteration": {
+                "hi": "शब्दादीन्",
+                "en": "śabdādīn",
+                "be": "শব্দাদীন্",
+                "ka": "ಶಬ್ದಾದೀನ್"
+            },
+            "meaning": {
+                "hi": "ध्वनि और अन्य",
+                "en": "sound and other",
+                "be": "শব্দ এবং অন্যান্য",
+                "ka": "ಧ್ವನಿ ಮತ್ತು ಇತರ"
+            }
         },
         {
             "sanskrit": "विषयान्",
-            "transliteration": "viṣayān",
-            "meaning": "senseobjects"
+            "transliteration": {
+                "hi": "विषयान्",
+                "en": "viṣayān",
+                "be": "বিষযান্",
+                "ka": "ವಿಷಯಾನ್"
+            },
+            "meaning": {
+                "hi": "सेंसऑब्जेक्ट्स",
+                "en": "senseobjects",
+                "be": "ইন্দ্রিয় বস্তু",
+                "ka": "ಇಂದ್ರಿಯ ವಸ್ತುಗಳು"
+            }
         },
         {
             "sanskrit": "त्यक्त्वा",
-            "transliteration": "tyaktvā",
-            "meaning": "relinishing"
+            "transliteration": {
+                "hi": "त्यक्त्वा",
+                "en": "tyaktvā",
+                "be": "ত্যক্ত্বা",
+                "ka": "ತ್ಯಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "पुनः त्यागना",
+                "en": "relinishing",
+                "be": "relinishing",
+                "ka": "ಮರುಕಳಿಸುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "रागद्वेषौ",
-            "transliteration": "rāgadveṣau",
-            "meaning": "attraction and hatred"
+            "transliteration": {
+                "hi": "रागद्वेषौ",
+                "en": "rāgadveṣau",
+                "be": "রাগদ্বেষৌ",
+                "ka": "ರಾಗದ್ವೇಷೌ"
+            },
+            "meaning": {
+                "hi": "आकर्षण और घृणा",
+                "en": "attraction and hatred",
+                "be": "আকর্ষণ এবং ঘৃণা",
+                "ka": "ಆಕರ್ಷಣೆ ಮತ್ತು ದ್ವೇಷ"
+            }
         },
         {
             "sanskrit": "व्युदस्य",
-            "transliteration": "vyudasya",
-            "meaning": "abandoning"
+            "transliteration": {
+                "hi": "व्युदस्य",
+                "en": "vyudasya",
+                "be": "ব্যুদস্য",
+                "ka": "ವ್ಯುದಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "त्यागना",
+                "en": "abandoning",
+                "be": "পরিত্যাগ",
+                "ka": "ತ್ಯಜಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and."
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और।",
+                "en": "and.",
+                "be": "এবং",
+                "ka": "ಮತ್ತು."
+            }
         }
     ],
     "tej": {

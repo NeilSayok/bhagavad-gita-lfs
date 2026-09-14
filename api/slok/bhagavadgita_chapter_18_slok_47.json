@@ -14,8 +14,18 @@
         "en": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt .\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam ||18-47||",
         "ka": "ಶ್ರೇಯಾನ್ಸ್ವಧರ್ಮೋ ವಿಗುಣಃ ಪರಧರ್ಮಾತ್ಸ್ವನುಷ್ಠಿತಾತ್ |\nಸ್ವಭಾವನಿಯತಂ ಕರ್ಮ ಕುರ್ವನ್ನಾಪ್ನೋತಿ ಕಿಲ್ಬಿಷಮ್ ||೧೮-೪೭||"
     },
-    "transliteration": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt .\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam ||18-47||",
-    "life_application": "Better is one's own duty though flawed than another's duty well performed; doing work prescribed by nature, one incurs no sin.",
+    "transliteration": {
+        "hi": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् |\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ||१८-४७||",
+        "en": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt .\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam ||18-47||",
+        "be": "শ্রেযান্স্বধর্মো বিগুণঃ পরধর্মাত্স্বনুষ্ঠিতাত্ |\nস্বভাবনিযতং কর্ম কুর্বন্নাপ্নোতি কিল্বিষম্ ||১৮-৪৭||",
+        "ka": "ಶ್ರೇಯಾನ್ಸ್ವಧರ್ಮೋ ವಿಗುಣಃ ಪರಧರ್ಮಾತ್ಸ್ವನುಷ್ಠಿತಾತ್ |\nಸ್ವಭಾವನಿಯತಂ ಕರ್ಮ ಕುರ್ವನ್ನಾಪ್ನೋತಿ ಕಿಲ್ಬಿಷಮ್ ||೧೮-೪೭||"
+    },
+    "life_application": {
+        "hi": "किसी का अपना कर्तव्य भले ही त्रुटिपूर्ण हो, वह दूसरे के अच्छे ढंग से निभाए गए कर्तव्य से बेहतर है; प्रकृति द्वारा निर्धारित कर्म करने से मनुष्य को कोई पाप नहीं लगता।",
+        "en": "Better is one's own duty though flawed than another's duty well performed; doing work prescribed by nature, one incurs no sin.",
+        "be": "অন্যের দায়িত্ব ভালোভাবে পালনের চেয়ে ত্রুটিপূর্ণ হলেও নিজের কর্তব্য ভালো; প্রকৃতি দ্বারা নির্ধারিত কাজ করা, একজনের কোন পাপ হয় না।",
+        "ka": "ಇನ್ನೊಬ್ಬರ ಕರ್ತವ್ಯವನ್ನು ಉತ್ತಮವಾಗಿ ನಿರ್ವಹಿಸುವುದಕ್ಕಿಂತ ದೋಷಪೂರಿತವಾಗಿದ್ದರೂ ಸ್ವಂತ ಕರ್ತವ್ಯವು ಉತ್ತಮವಾಗಿದೆ; ಪ್ರಕೃತಿಯು ಸೂಚಿಸಿದ ಕೆಲಸವನ್ನು ಮಾಡುವುದರಿಂದ ಒಬ್ಬನು ಪಾಪವನ್ನು ಹೊಂದುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Duty",
         "Purpose"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "श्रेयान्",
-            "transliteration": "śreyān",
-            "meaning": "better"
+            "transliteration": {
+                "hi": "श्रेयान्",
+                "en": "śreyān",
+                "be": "শ্রেযান্",
+                "ka": "ಶ್ರೇಯಾನ್"
+            },
+            "meaning": {
+                "hi": "बेहतर",
+                "en": "better",
+                "be": "ভাল",
+                "ka": "ಉತ್ತಮ"
+            }
         },
         {
             "sanskrit": "स्वधर्मः",
-            "transliteration": "svadharmaḥ",
-            "meaning": "ones own duty"
+            "transliteration": {
+                "hi": "स्वधर्मः",
+                "en": "svadharmaḥ",
+                "be": "স্বধর্মঃ",
+                "ka": "ಸ್ವಧರ್ಮಃ"
+            },
+            "meaning": {
+                "hi": "अपना कर्तव्य",
+                "en": "ones own duty",
+                "be": "নিজের কর্তব্য",
+                "ka": "ಸ್ವಂತ ಕರ್ತವ್ಯ"
+            }
         },
         {
             "sanskrit": "विगुणः",
-            "transliteration": "viguṇaḥ",
-            "meaning": "destitute of merits"
+            "transliteration": {
+                "hi": "विगुणः",
+                "en": "viguṇaḥ",
+                "be": "বিগুণঃ",
+                "ka": "ವಿಗುಣಃ"
+            },
+            "meaning": {
+                "hi": "गुणों से रहित",
+                "en": "destitute of merits",
+                "be": "যোগ্যতার নিঃস্ব",
+                "ka": "ಅರ್ಹತೆಯ ಕೊರತೆ"
+            }
         },
         {
             "sanskrit": "परधर्मात्",
-            "transliteration": "paradharmāt",
-            "meaning": "that the duty of"
+            "transliteration": {
+                "hi": "परधर्मात्",
+                "en": "paradharmāt",
+                "be": "পরধর্মাত্",
+                "ka": "ಪರಧರ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "का कर्तव्य है",
+                "en": "that the duty of",
+                "be": "যে দায়িত্ব",
+                "ka": "ಕರ್ತವ್ಯ ಎಂದು"
+            }
         },
         {
             "sanskrit": "स्वनुष्ठितात्",
-            "transliteration": "svanuṣṭhitāt",
-            "meaning": "well performed"
+            "transliteration": {
+                "hi": "स्वनुष्ठितात्",
+                "en": "svanuṣṭhitāt",
+                "be": "স্বনুষ্ঠিতাত্",
+                "ka": "ಸ್ವನುಷ್ಠಿತಾತ್"
+            },
+            "meaning": {
+                "hi": "अच्छा प्रदर्शन किया",
+                "en": "well performed",
+                "be": "ভাল সঞ্চালিত",
+                "ka": "ಉತ್ತಮವಾಗಿ ನಿರ್ವಹಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "स्वभावनियतम्",
-            "transliteration": "svabhāvaniyatam",
-            "meaning": "ordained by his own"
+            "transliteration": {
+                "hi": "स्वभावनियतम्",
+                "en": "svabhāvaniyatam",
+                "be": "স্বভাবনিযতম্",
+                "ka": "ಸ್ವಭಾವನಿಯತಮ್"
+            },
+            "meaning": {
+                "hi": "अपने द्वारा नियुक्त",
+                "en": "ordained by his own",
+                "be": "তার নিজের দ্বারা নির্ধারিত",
+                "ka": "ತನ್ನದೇ ಆದ ದೀಕ್ಷೆ ಪಡೆದ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "कुर्वन्",
-            "transliteration": "kurvan",
-            "meaning": "doing"
+            "transliteration": {
+                "hi": "कुर्वन्",
+                "en": "kurvan",
+                "be": "কুর্বন্",
+                "ka": "ಕುರ್ವನ್"
+            },
+            "meaning": {
+                "hi": "कर रहा हूँ",
+                "en": "doing",
+                "be": "করছেন",
+                "ka": "ಮಾಡುತ್ತಿದ್ದೇನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "आप्नोति",
-            "transliteration": "āpnoti",
-            "meaning": "incurs"
+            "transliteration": {
+                "hi": "आप्नोति",
+                "en": "āpnoti",
+                "be": "আপ্নোতি",
+                "ka": "ಆಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "लगता है",
+                "en": "incurs",
+                "be": "বহন করে",
+                "ka": "ಒಳಪಡುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "किल्बिषम्",
-            "transliteration": "kilbiṣam",
-            "meaning": "sin."
+            "transliteration": {
+                "hi": "किल्बिषम्",
+                "en": "kilbiṣam",
+                "be": "কিল্বিষম্",
+                "ka": "ಕಿಲ್ಬಿಷಮ್"
+            },
+            "meaning": {
+                "hi": "पाप.",
+                "en": "sin.",
+                "be": "পাপ",
+                "ka": "ಪಾಪ."
+            }
         }
     ],
     "tej": {

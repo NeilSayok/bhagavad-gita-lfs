@@ -14,8 +14,18 @@
         "en": "viviktasevī laghvāśī yatavākkāyamānasaḥ .\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ ||18-52||",
         "ka": "ವಿವಿಕ್ತಸೇವೀ ಲಘ್ವಾಶೀ ಯತವಾಕ್ಕಾಯಮಾನಸಃ |\nಧ್ಯಾನಯೋಗಪರೋ ನಿತ್ಯಂ ವೈರಾಗ್ಯಂ ಸಮುಪಾಶ್ರಿತಃ ||೧೮-೫೨||"
     },
-    "transliteration": "viviktasevī laghvāśī yatavākkāyamānasaḥ .\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ ||18-52||",
-    "life_application": "Dwelling in solitude, eating sparingly, speech/body/mind controlled, ever intent on yoga of meditation, taking refuge in dispassion...",
+    "transliteration": {
+        "hi": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः |\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||१८-५२||",
+        "en": "viviktasevī laghvāśī yatavākkāyamānasaḥ .\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ ||18-52||",
+        "be": "বিবিক্তসেবী লঘ্বাশী যতবাক্কাযমানসঃ |\nধ্যানযোগপরো নিত্যং বৈরাগ্যং সমুপাশ্রিতঃ ||১৮-৫২||",
+        "ka": "ವಿವಿಕ್ತಸೇವೀ ಲಘ್ವಾಶೀ ಯತವಾಕ್ಕಾಯಮಾನಸಃ |\nಧ್ಯಾನಯೋಗಪರೋ ನಿತ್ಯಂ ವೈರಾಗ್ಯಂ ಸಮುಪಾಶ್ರಿತಃ ||೧೮-೫೨||"
+    },
+    "life_application": {
+        "hi": "एकान्त में निवास करना, संयमपूर्वक भोजन करना, वाणी/शरीर/मन पर नियंत्रण रखना, सदैव ध्यान योग में तत्पर रहना, वैराग्य का आश्रय लेना...",
+        "en": "Dwelling in solitude, eating sparingly, speech/body/mind controlled, ever intent on yoga of meditation, taking refuge in dispassion...",
+        "be": "নির্জনে বাস করা, অল্প খাওয়া, বাক/শরীর/মন নিয়ন্ত্রিত, ধ্যানের যোগে সদা অভিপ্রায়, বৈরাগ্যের আশ্রয় নেওয়া...",
+        "ka": "ಏಕಾಂತದಲ್ಲಿ ವಾಸಿಸುವುದು, ಮಿತವಾಗಿ ತಿನ್ನುವುದು, ಮಾತು/ದೇಹ/ಮನಸ್ಸು ನಿಯಂತ್ರಿಸುವುದು, ಸದಾ ಧ್ಯಾನದ ಯೋಗದ ಉದ್ದೇಶ, ನಿರಾಸಕ್ತಿಯಲ್ಲಿ ಆಶ್ರಯ ಪಡೆಯುವುದು..."
+    },
     "themes": [
         "Mindfulness",
         "Detachment"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "विविक्तसेवी",
-            "transliteration": "viviktasevī",
-            "meaning": "dwelling in solitude"
+            "transliteration": {
+                "hi": "विविक्तसेवी",
+                "en": "viviktasevī",
+                "be": "বিবিক্তসেবী",
+                "ka": "ವಿವಿಕ್ತಸೇವೀ"
+            },
+            "meaning": {
+                "hi": "एकांत में निवास करना",
+                "en": "dwelling in solitude",
+                "be": "নির্জনে বসবাস",
+                "ka": "ಏಕಾಂತದಲ್ಲಿ ವಾಸ"
+            }
         },
         {
             "sanskrit": "लघ्वाशी",
-            "transliteration": "laghvāśī",
-            "meaning": "eating but little"
+            "transliteration": {
+                "hi": "लघ्वाशी",
+                "en": "laghvāśī",
+                "be": "লঘ্বাশী",
+                "ka": "ಲಘ್ವಾಶೀ"
+            },
+            "meaning": {
+                "hi": "खा रहे हैं लेकिन थोड़ा",
+                "en": "eating but little",
+                "be": "খাওয়া কিন্তু অল্প",
+                "ka": "ತಿನ್ನುವುದು ಆದರೆ ಸ್ವಲ್ಪ"
+            }
         },
         {
             "sanskrit": "यतवाक्कायमानसः",
-            "transliteration": "yatavākkāyamānasaḥ",
-            "meaning": "speech"
+            "transliteration": {
+                "hi": "यतवाक्कायमानसः",
+                "en": "yatavākkāyamānasaḥ",
+                "be": "যতবাক্কাযমানসঃ",
+                "ka": "ಯತವಾಕ್ಕಾಯಮಾನಸಃ"
+            },
+            "meaning": {
+                "hi": "भाषण",
+                "en": "speech",
+                "be": "বক্তৃতা",
+                "ka": "ಭಾಷಣ"
+            }
         },
         {
             "sanskrit": "ध्यानयोगपरः",
-            "transliteration": "dhyānayogaparaḥ",
-            "meaning": "engaged in meditation and"
+            "transliteration": {
+                "hi": "ध्यानयोगपरः",
+                "en": "dhyānayogaparaḥ",
+                "be": "ধ্যানযোগপরঃ",
+                "ka": "ಧ್ಯಾನಯೋಗಪರಃ"
+            },
+            "meaning": {
+                "hi": "ध्यान में लगे हुए और",
+                "en": "engaged in meditation and",
+                "be": "ধ্যানে নিযুক্ত এবং",
+                "ka": "ಧ್ಯಾನದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "नित्यम्",
-            "transliteration": "nityam",
-            "meaning": "always"
+            "transliteration": {
+                "hi": "नित्यम्",
+                "en": "nityam",
+                "be": "নিত্যম্",
+                "ka": "ನಿತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "हमेशा",
+                "en": "always",
+                "be": "সবসময়",
+                "ka": "ಯಾವಾಗಲೂ"
+            }
         },
         {
             "sanskrit": "वैराग्यम्",
-            "transliteration": "vairāgyam",
-            "meaning": "dispassion"
+            "transliteration": {
+                "hi": "वैराग्यम्",
+                "en": "vairāgyam",
+                "be": "বৈরাগ্যম্",
+                "ka": "ವೈರಾಗ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "वैराग्य",
+                "en": "dispassion",
+                "be": "বৈরাগ্য",
+                "ka": "ನಿರಾಸಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "समुपाश्रितः",
-            "transliteration": "samupāśritaḥ",
-            "meaning": "resorting to."
+            "transliteration": {
+                "hi": "समुपाश्रितः",
+                "en": "samupāśritaḥ",
+                "be": "সমুপাশ্রিতঃ",
+                "ka": "ಸಮುಪಾಶ್ರಿತಃ"
+            },
+            "meaning": {
+                "hi": "का सहारा ले रहे हैं.",
+                "en": "resorting to.",
+                "be": "অবলম্বন",
+                "ka": "ಆಶ್ರಯಿಸುತ್ತಿದೆ."
+            }
         }
     ],
     "tej": {

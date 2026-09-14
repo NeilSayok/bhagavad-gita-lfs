@@ -14,8 +14,18 @@
         "en": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ .\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||18-49||",
         "ka": "ಅಸಕ್ತಬುದ್ಧಿಃ ಸರ್ವತ್ರ ಜಿತಾತ್ಮಾ ವಿಗತಸ್ಪೃಹಃ |\nನೈಷ್ಕರ್ಮ್ಯಸಿದ್ಧಿಂ ಪರಮಾಂ ಸಂನ್ಯಾಸೇನಾಧಿಗಚ್ಛತಿ ||೧೮-೪೯||"
     },
-    "transliteration": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ .\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||18-49||",
-    "life_application": "Intellect unattached everywhere, self-controlled, desires gone, one reaches supreme state of freedom from action through renunciation.",
+    "transliteration": {
+        "hi": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः |\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||१८-४९||",
+        "en": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ .\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||18-49||",
+        "be": "অসক্তবুদ্ধিঃ সর্বত্র জিতাত্মা বিগতস্পৃহঃ |\nনৈষ্কর্ম্যসিদ্ধিং পরমাং সংন্যাসেনাধিগচ্ছতি ||১৮-৪৯||",
+        "ka": "ಅಸಕ್ತಬುದ್ಧಿಃ ಸರ್ವತ್ರ ಜಿತಾತ್ಮಾ ವಿಗತಸ್ಪೃಹಃ |\nನೈಷ್ಕರ್ಮ್ಯಸಿದ್ಧಿಂ ಪರಮಾಂ ಸಂನ್ಯಾಸೇನಾಧಿಗಚ್ಛತಿ ||೧೮-೪೯||"
+    },
+    "life_application": {
+        "hi": "बुद्धि सर्वत्र अनासक्त, आत्म-नियंत्रित, इच्छाएँ समाप्त हो जाने पर व्यक्ति त्याग द्वारा कर्म से मुक्ति की सर्वोच्च अवस्था तक पहुँच जाता है।",
+        "en": "Intellect unattached everywhere, self-controlled, desires gone, one reaches supreme state of freedom from action through renunciation.",
+        "be": "বুদ্ধি সর্বত্র অসংলগ্ন, আত্মনিয়ন্ত্রিত, আকাঙ্ক্ষা চলে গেছে, ব্যক্তি ত্যাগের মাধ্যমে কর্ম থেকে মুক্তির সর্বোচ্চ অবস্থায় পৌঁছায়।",
+        "ka": "ಬುದ್ಧಿಯು ಎಲ್ಲೆಲ್ಲೂ ಅಂಟಿಕೊಂಡಿಲ್ಲ, ಸ್ವಯಂ ನಿಯಂತ್ರಣ, ಆಸೆಗಳು ಕಳೆದುಹೋಗಿವೆ, ತ್ಯಜಿಸುವಿಕೆಯ ಮೂಲಕ ಕ್ರಿಯೆಯಿಂದ ಮುಕ್ತಿಯ ಪರಮೋಚ್ಚ ಸ್ಥಿತಿಯನ್ನು ತಲುಪುತ್ತಾನೆ."
+    },
     "themes": [
         "Detachment",
         "Self-Realization"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "असक्तबुद्धिः",
-            "transliteration": "asaktabuddhiḥ",
-            "meaning": "whose intellect is unattached"
+            "transliteration": {
+                "hi": "असक्तबुद्धिः",
+                "en": "asaktabuddhiḥ",
+                "be": "অসক্তবুদ্ধিঃ",
+                "ka": "ಅಸಕ್ತಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "जिसकी बुद्धि अनासक्त है",
+                "en": "whose intellect is unattached",
+                "be": "যার বুদ্ধি অসংলগ্ন",
+                "ka": "ಅವರ ಬುದ್ಧಿಯು ಅಂಟಿಕೊಂಡಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "सर्वत्र",
-            "transliteration": "sarvatra",
-            "meaning": "eveywhere"
+            "transliteration": {
+                "hi": "सर्वत्र",
+                "en": "sarvatra",
+                "be": "সর্বত্র",
+                "ka": "ಸರ್ವತ್ರ"
+            },
+            "meaning": {
+                "hi": "हर जगह",
+                "en": "eveywhere",
+                "be": "সর্বত্র",
+                "ka": "ಎಲ್ಲೆಡೆ"
+            }
         },
         {
             "sanskrit": "जितात्मा",
-            "transliteration": "jitātmā",
-            "meaning": "who has subdued his"
+            "transliteration": {
+                "hi": "जितात्मा",
+                "en": "jitātmā",
+                "be": "জিতাত্মা",
+                "ka": "ಜಿತಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "जिसने अपने वश में कर लिया है",
+                "en": "who has subdued his",
+                "be": "যিনি তার বশ করেছেন",
+                "ka": "ತನ್ನ ವಶಪಡಿಸಿಕೊಂಡ"
+            }
         },
         {
             "sanskrit": "विगतस्पृहः",
-            "transliteration": "vigataspṛhaḥ",
-            "meaning": "whose desire has fled"
+            "transliteration": {
+                "hi": "विगतस्पृहः",
+                "en": "vigataspṛhaḥ",
+                "be": "বিগতস্পৃহঃ",
+                "ka": "ವಿಗತಸ್ಪೃಹಃ"
+            },
+            "meaning": {
+                "hi": "जिसकी चाहत भाग गई है",
+                "en": "whose desire has fled",
+                "be": "যার ইচ্ছা পালিয়ে গেছে",
+                "ka": "ಇವರ ಆಸೆ ಪಲಾಯನವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "नैष्कर्म्यसिद्धिम्",
-            "transliteration": "naiṣkarmyasiddhim",
-            "meaning": "the perfection consisting in"
+            "transliteration": {
+                "hi": "नैष्कर्म्यसिद्धिम्",
+                "en": "naiṣkarmyasiddhim",
+                "be": "নৈষ্কর্ম্যসিদ্ধিম্",
+                "ka": "ನೈಷ್ಕರ್ಮ್ಯಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता जिसमें शामिल है",
+                "en": "the perfection consisting in",
+                "be": "মধ্যে গঠিত পরিপূর্ণতা",
+                "ka": "ಒಳಗೊಂಡಿರುವ ಪರಿಪೂರ್ಣತೆ"
+            }
         },
         {
             "sanskrit": "परमाम्",
-            "transliteration": "paramām",
-            "meaning": "the supreme"
+            "transliteration": {
+                "hi": "परमाम्",
+                "en": "paramām",
+                "be": "পরমাম্",
+                "ka": "ಪರಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "सर्वोच्च",
+                "en": "the supreme",
+                "be": "সর্বোচ্চ",
+                "ka": "ಸರ್ವೋಚ್ಚ"
+            }
         },
         {
             "sanskrit": "संन्यासेन",
-            "transliteration": "saṃnyāsena",
-            "meaning": "by renunciaion"
+            "transliteration": {
+                "hi": "संन्यासेन",
+                "en": "saṃnyāsena",
+                "be": "সংন্যাসেন",
+                "ka": "ಸಂನ್ಯಾಸೇನ"
+            },
+            "meaning": {
+                "hi": "त्याग द्वारा",
+                "en": "by renunciaion",
+                "be": "ত্যাগের দ্বারা",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "अधिगच्छति",
-            "transliteration": "adhigacchati",
-            "meaning": "attains."
+            "transliteration": {
+                "hi": "अधिगच्छति",
+                "en": "adhigacchati",
+                "be": "অধিগচ্ছতি",
+                "ka": "ಅಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है.",
+                "en": "attains.",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

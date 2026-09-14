@@ -14,8 +14,18 @@
         "en": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam .\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ||18-46||",
         "ka": "ಯತಃ ಪ್ರವೃತ್ತಿರ್ಭೂತಾನಾಂ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ |\nಸ್ವಕರ್ಮಣಾ ತಮಭ್ಯರ್ಚ್ಯ ಸಿದ್ಧಿಂ ವಿನ್ದತಿ ಮಾನವಃ ||೧೮-೪೬||"
     },
-    "transliteration": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam .\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ||18-46||",
-    "life_application": "Worshipping Him from whom all beings emerge and by whom all is pervaded through own duty, man wins perfection.",
+    "transliteration": {
+        "hi": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||१८-४६||",
+        "en": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam .\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ||18-46||",
+        "be": "যতঃ প্রবৃত্তির্ভূতানাং যেন সর্বমিদং ততম্ |\nস্বকর্মণা তমভ্যর্চ্য সিদ্ধিং বিন্দতি মানবঃ ||১৮-৪৬||",
+        "ka": "ಯತಃ ಪ್ರವೃತ್ತಿರ್ಭೂತಾನಾಂ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ |\nಸ್ವಕರ್ಮಣಾ ತಮಭ್ಯರ್ಚ್ಯ ಸಿದ್ಧಿಂ ವಿನ್ದತಿ ಮಾನವಃ ||೧೮-೪೬||"
+    },
+    "life_application": {
+        "hi": "जिससे सभी प्राणी उत्पन्न होते हैं और जिससे सब कुछ व्याप्त है, उसकी पूजा करने से मनुष्य पूर्णता प्राप्त करता है।",
+        "en": "Worshipping Him from whom all beings emerge and by whom all is pervaded through own duty, man wins perfection.",
+        "be": "যাঁর থেকে সমস্ত প্রাণীর উদ্ভব হয় এবং যাঁর দ্বারা সমস্ত নিজের কর্তব্যের দ্বারা পরিব্যাপ্ত হয়, তাঁর উপাসনা করলে মানুষ পূর্ণতা লাভ করে।",
+        "ka": "ಯಾರಿಂದ ಎಲ್ಲ ಜೀವಿಗಳು ಹೊರಹೊಮ್ಮುತ್ತವೆಯೋ ಮತ್ತು ಯಾರಿಂದ ತನ್ನ ಕರ್ತವ್ಯದ ಮೂಲಕ ಎಲ್ಲವು ವ್ಯಾಪಿಸಿದೆಯೋ ಅವನನ್ನು ಪೂಜಿಸುವುದರಿಂದ ಮನುಷ್ಯನು ಪರಿಪೂರ್ಣತೆಯನ್ನು ಗೆಲ್ಲುತ್ತಾನೆ."
+    },
     "themes": [
         "Duty",
         "Devotion",
@@ -24,68 +34,198 @@
     "word_meanings": [
         {
             "sanskrit": "यतः",
-            "transliteration": "yataḥ",
-            "meaning": "from whom"
+            "transliteration": {
+                "hi": "यतः",
+                "en": "yataḥ",
+                "be": "যতঃ",
+                "ka": "ಯತಃ"
+            },
+            "meaning": {
+                "hi": "किससे",
+                "en": "from whom",
+                "be": "কার কাছ থেকে",
+                "ka": "ಯಾರಿಂದ"
+            }
         },
         {
             "sanskrit": "प्रवृत्तिः",
-            "transliteration": "pravṛttiḥ",
-            "meaning": "the evolution"
+            "transliteration": {
+                "hi": "प्रवृत्तिः",
+                "en": "pravṛttiḥ",
+                "be": "প্রবৃত্তিঃ",
+                "ka": "ಪ್ರವೃತ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "विकास",
+                "en": "the evolution",
+                "be": "বিবর্তন",
+                "ka": "ವಿಕಾಸ"
+            }
         },
         {
             "sanskrit": "भूतानाम्",
-            "transliteration": "bhūtānām",
-            "meaning": "of beings"
+            "transliteration": {
+                "hi": "भूतानाम्",
+                "en": "bhūtānām",
+                "be": "ভূতানাম্",
+                "ka": "ಭೂತಾನಾಮ್"
+            },
+            "meaning": {
+                "hi": "प्राणियों का",
+                "en": "of beings",
+                "be": "প্রাণীদের",
+                "ka": "ಜೀವಿಗಳ"
+            }
         },
         {
             "sanskrit": "येन",
-            "transliteration": "yena",
-            "meaning": "by whom"
+            "transliteration": {
+                "hi": "येन",
+                "en": "yena",
+                "be": "যেন",
+                "ka": "ಯೇನ"
+            },
+            "meaning": {
+                "hi": "किसके द्वारा",
+                "en": "by whom",
+                "be": "কার দ্বারা",
+                "ka": "ಯಾರಿಂದ"
+            }
         },
         {
             "sanskrit": "सर्वम्",
-            "transliteration": "sarvam",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वम्",
+                "en": "sarvam",
+                "be": "সর্বম্",
+                "ka": "ಸರ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "ततम्",
-            "transliteration": "tatam",
-            "meaning": "is pervaded"
+            "transliteration": {
+                "hi": "ततम्",
+                "en": "tatam",
+                "be": "ততম্",
+                "ka": "ತತಮ್"
+            },
+            "meaning": {
+                "hi": "व्याप्त है",
+                "en": "is pervaded",
+                "be": "পরিব্যাপ্ত হয়",
+                "ka": "ವ್ಯಾಪಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "स्वकर्मणा",
-            "transliteration": "svakarmaṇā",
-            "meaning": "with his own duty"
+            "transliteration": {
+                "hi": "स्वकर्मणा",
+                "en": "svakarmaṇā",
+                "be": "স্বকর্মণা",
+                "ka": "ಸ್ವಕರ್ಮಣಾ"
+            },
+            "meaning": {
+                "hi": "अपने कर्तव्य के साथ",
+                "en": "with his own duty",
+                "be": "তার নিজের দায়িত্ব নিয়ে",
+                "ka": "ತನ್ನ ಸ್ವಂತ ಕರ್ತವ್ಯದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "तम्",
-            "transliteration": "tam",
-            "meaning": "Him"
+            "transliteration": {
+                "hi": "तम्",
+                "en": "tam",
+                "be": "তম্",
+                "ka": "ತಮ್"
+            },
+            "meaning": {
+                "hi": "उसे",
+                "en": "Him",
+                "be": "তাকে",
+                "ka": "ಅವನನ್ನು"
+            }
         },
         {
             "sanskrit": "अभ्यर्च्य",
-            "transliteration": "abhyarcya",
-            "meaning": "worshipping"
+            "transliteration": {
+                "hi": "अभ्यर्च्य",
+                "en": "abhyarcya",
+                "be": "অভ্যর্চ্য",
+                "ka": "ಅಭ್ಯರ್ಚ್ಯ"
+            },
+            "meaning": {
+                "hi": "पूजा करना",
+                "en": "worshipping",
+                "be": "উপাসনা",
+                "ka": "ಪೂಜಿಸುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "सिद्धिम्",
-            "transliteration": "siddhim",
-            "meaning": "perfection"
+            "transliteration": {
+                "hi": "सिद्धिम्",
+                "en": "siddhim",
+                "be": "সিদ্ধিম্",
+                "ka": "ಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता",
+                "en": "perfection",
+                "be": "পরিপূর্ণতা",
+                "ka": "ಪರಿಪೂರ್ಣತೆ"
+            }
         },
         {
             "sanskrit": "विन्दति",
-            "transliteration": "vindati",
-            "meaning": "attains"
+            "transliteration": {
+                "hi": "विन्दति",
+                "en": "vindati",
+                "be": "বিন্দতি",
+                "ka": "ವಿನ್ದತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है",
+                "en": "attains",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "मानवः",
-            "transliteration": "mānavaḥ",
-            "meaning": "man."
+            "transliteration": {
+                "hi": "मानवः",
+                "en": "mānavaḥ",
+                "be": "মানবঃ",
+                "ka": "ಮಾನವಃ"
+            },
+            "meaning": {
+                "hi": "आदमी।",
+                "en": "man.",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ."
+            }
         }
     ],
     "tej": {

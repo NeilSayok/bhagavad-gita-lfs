@@ -14,8 +14,18 @@
         "en": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me .\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā ||18-50||",
         "ka": "ಸಿದ್ಧಿಂ ಪ್ರಾಪ್ತೋ ಯಥಾ ಬ್ರಹ್ಮ ತಥಾಪ್ನೋತಿ ನಿಬೋಧ ಮೇ |\nಸಮಾಸೇನೈವ ಕೌನ್ತೇಯ ನಿಷ್ಠಾ ಜ್ಞಾನಸ್ಯ ಯಾ ಪರಾ ||೧೮-೫೦||"
     },
-    "transliteration": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me .\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā ||18-50||",
-    "life_application": "Learn briefly how one having attained perfection reaches Brahman, supreme state of knowledge.",
+    "transliteration": {
+        "hi": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे |\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ||१८-५०||",
+        "en": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me .\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā ||18-50||",
+        "be": "সিদ্ধিং প্রাপ্তো যথা ব্রহ্ম তথাপ্নোতি নিবোধ মে |\nসমাসেনৈব কৌন্তেয নিষ্ঠা জ্ঞানস্য যা পরা ||১৮-৫০||",
+        "ka": "ಸಿದ್ಧಿಂ ಪ್ರಾಪ್ತೋ ಯಥಾ ಬ್ರಹ್ಮ ತಥಾಪ್ನೋತಿ ನಿಬೋಧ ಮೇ |\nಸಮಾಸೇನೈವ ಕೌನ್ತೇಯ ನಿಷ್ಠಾ ಜ್ಞಾನಸ್ಯ ಯಾ ಪರಾ ||೧೮-೫೦||"
+    },
+    "life_application": {
+        "hi": "संक्षेप में जानें कि पूर्णता प्राप्त करने वाला व्यक्ति ज्ञान की सर्वोच्च अवस्था ब्रह्म तक कैसे पहुंचता है।",
+        "en": "Learn briefly how one having attained perfection reaches Brahman, supreme state of knowledge.",
+        "be": "সংক্ষিপ্তভাবে জানুন কিভাবে একজন পরিপূর্ণতা অর্জন করে ব্রহ্ম, জ্ঞানের সর্বোচ্চ অবস্থাতে পৌঁছান।",
+        "ka": "ಪರಿಪೂರ್ಣತೆಯನ್ನು ಪಡೆದವನು ಜ್ಞಾನದ ಪರಮೋಚ್ಚ ಸ್ಥಿತಿಯಾದ ಬ್ರಹ್ಮವನ್ನು ಹೇಗೆ ತಲುಪುತ್ತಾನೆ ಎಂಬುದನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "सिद्धिम्",
-            "transliteration": "siddhim",
-            "meaning": "perfection"
+            "transliteration": {
+                "hi": "सिद्धिम्",
+                "en": "siddhim",
+                "be": "সিদ্ধিম্",
+                "ka": "ಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता",
+                "en": "perfection",
+                "be": "পরিপূর্ণতা",
+                "ka": "ಪರಿಪೂರ್ಣತೆ"
+            }
         },
         {
             "sanskrit": "प्राप्तः",
-            "transliteration": "prāptaḥ",
-            "meaning": "attained"
+            "transliteration": {
+                "hi": "प्राप्तः",
+                "en": "prāptaḥ",
+                "be": "প্রাপ্তঃ",
+                "ka": "ಪ್ರಾಪ್ತಃ"
+            },
+            "meaning": {
+                "hi": "हासिल किया",
+                "en": "attained",
+                "be": "অর্জিত",
+                "ka": "ಸಾಧಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "Brahman"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्राह्मण",
+                "en": "Brahman",
+                "be": "ব্রাহ্মণ",
+                "ka": "ಬ್ರಹ್ಮನ್"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "so",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "आप्नोति",
-            "transliteration": "āpnoti",
-            "meaning": "obtains"
+            "transliteration": {
+                "hi": "आप्नोति",
+                "en": "āpnoti",
+                "be": "আপ্নোতি",
+                "ka": "ಆಪ್ನೋತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है",
+                "en": "obtains",
+                "be": "পায়",
+                "ka": "ಪಡೆಯುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "निबोध",
-            "transliteration": "nibodha",
-            "meaning": "learn"
+            "transliteration": {
+                "hi": "निबोध",
+                "en": "nibodha",
+                "be": "নিবোধ",
+                "ka": "ನಿಬೋಧ"
+            },
+            "meaning": {
+                "hi": "सीखो",
+                "en": "learn",
+                "be": "শিখতে",
+                "ka": "ಕಲಿಯಿರಿ"
+            }
         },
         {
             "sanskrit": "मे",
-            "transliteration": "me",
-            "meaning": "of Me"
+            "transliteration": {
+                "hi": "मे",
+                "en": "me",
+                "be": "মে",
+                "ka": "ಮೇ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "of Me",
+                "be": "আমার",
+                "ka": "ನನ್ನದು"
+            }
         },
         {
             "sanskrit": "समासेन",
-            "transliteration": "samāsena",
-            "meaning": "in brief"
+            "transliteration": {
+                "hi": "समासेन",
+                "en": "samāsena",
+                "be": "সমাসেন",
+                "ka": "ಸಮಾಸೇನ"
+            },
+            "meaning": {
+                "hi": "संक्षेप में",
+                "en": "in brief",
+                "be": "সংক্ষেপে",
+                "ka": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "निष्ठा",
-            "transliteration": "niṣṭhā",
-            "meaning": "state"
+            "transliteration": {
+                "hi": "निष्ठा",
+                "en": "niṣṭhā",
+                "be": "নিষ্ঠা",
+                "ka": "ನಿಷ್ಠಾ"
+            },
+            "meaning": {
+                "hi": "राज्य",
+                "en": "state",
+                "be": "রাষ্ট্র",
+                "ka": "ರಾಜ್ಯ"
+            }
         },
         {
             "sanskrit": "ज्ञानस्य",
-            "transliteration": "jñānasya",
-            "meaning": "of knowledge"
+            "transliteration": {
+                "hi": "ज्ञानस्य",
+                "en": "jñānasya",
+                "be": "জ্ঞানস্য",
+                "ka": "ಜ್ಞಾನಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "ज्ञान का",
+                "en": "of knowledge",
+                "be": "জ্ঞানের",
+                "ka": "ಜ್ಞಾನದ"
+            }
         },
         {
             "sanskrit": "या",
-            "transliteration": "yā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "या",
+                "en": "yā",
+                "be": "যা",
+                "ka": "ಯಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "परा",
-            "transliteration": "parā",
-            "meaning": "highest."
+            "transliteration": {
+                "hi": "परा",
+                "en": "parā",
+                "be": "পরা",
+                "ka": "ಪರಾ"
+            },
+            "meaning": {
+                "hi": "उच्चतम.",
+                "en": "highest.",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯಧಿಕ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā .\napaśyaddevadevasya śarīre pāṇḍavastadā ||11-13||",
         "ka": "ತತ್ರೈಕಸ್ಥಂ ಜಗತ್ಕೃತ್ಸ್ನಂ ಪ್ರವಿಭಕ್ತಮನೇಕಧಾ |\nಅಪಶ್ಯದ್ದೇವದೇವಸ್ಯ ಶರೀರೇ ಪಾಣ್ಡವಸ್ತದಾ ||೧೧-೧೩||"
     },
-    "transliteration": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā .\napaśyaddevadevasya śarīre pāṇḍavastadā ||11-13||",
-    "life_application": "Perceive the entire universe divided into its many aspects, resting unified within the body of God.",
+    "transliteration": {
+        "hi": "तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा |\nअपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा ||११-१३||",
+        "en": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā .\napaśyaddevadevasya śarīre pāṇḍavastadā ||11-13||",
+        "be": "তত্রৈকস্থং জগত্কৃত্স্নং প্রবিভক্তমনেকধা |\nঅপশ্যদ্দেবদেবস্য শরীরে পাণ্ডবস্তদা ||১১-১৩||",
+        "ka": "ತತ್ರೈಕಸ್ಥಂ ಜಗತ್ಕೃತ್ಸ್ನಂ ಪ್ರವಿಭಕ್ತಮನೇಕಧಾ |\nಅಪಶ್ಯದ್ದೇವದೇವಸ್ಯ ಶರೀರೇ ಪಾಣ್ಡವಸ್ತದಾ ||೧೧-೧೩||"
+    },
+    "life_application": {
+        "hi": "संपूर्ण ब्रह्मांड को उसके कई पहलुओं में विभाजित, ईश्वर के शरीर के भीतर एकीकृत होकर विश्राम करते हुए महसूस करें।",
+        "en": "Perceive the entire universe divided into its many aspects, resting unified within the body of God.",
+        "be": "ঈশ্বরের দেহের মধ্যে একত্রিত হয়ে সমস্ত মহাবিশ্বকে তার বহু দিকগুলিতে বিভক্ত উপলব্ধি করুন।",
+        "ka": "ಇಡೀ ವಿಶ್ವವನ್ನು ಅದರ ಅನೇಕ ಅಂಶಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ ಎಂದು ಗ್ರಹಿಸಿ, ದೇವರ ದೇಹದಲ್ಲಿ ಏಕೀಕೃತವಾಗಿದೆ."
+    },
     "themes": [
         "Self-Realization",
         "Knowledge"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "there"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "there",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "एकस्थम्",
-            "transliteration": "ekastham",
-            "meaning": "resting in one"
+            "transliteration": {
+                "hi": "एकस्थम्",
+                "en": "ekastham",
+                "be": "একস্থম্",
+                "ka": "ಏಕಸ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "एक में आराम कर रहे हैं",
+                "en": "resting in one",
+                "be": "একটিতে বিশ্রাম",
+                "ka": "ಒಂದರಲ್ಲಿ ವಿಶ್ರಾಂತಿ"
+            }
         },
         {
             "sanskrit": "जगत्",
-            "transliteration": "jagat",
-            "meaning": "the universe"
+            "transliteration": {
+                "hi": "जगत्",
+                "en": "jagat",
+                "be": "জগত্",
+                "ka": "ಜಗತ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्माण्ड",
+                "en": "the universe",
+                "be": "মহাবিশ্ব",
+                "ka": "ಬ್ರಹ್ಮಾಂಡ"
+            }
         },
         {
             "sanskrit": "कृत्स्नम्",
-            "transliteration": "kṛtsnam",
-            "meaning": "the whole"
+            "transliteration": {
+                "hi": "कृत्स्नम्",
+                "en": "kṛtsnam",
+                "be": "কৃত্স্নম্",
+                "ka": "ಕೃತ್ಸ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "संपूर्ण",
+                "en": "the whole",
+                "be": "সমগ্র",
+                "ka": "ಸಂಪೂರ್ಣ"
+            }
         },
         {
             "sanskrit": "प्रविभक्तम्",
-            "transliteration": "pravibhaktam",
-            "meaning": "divided"
+            "transliteration": {
+                "hi": "प्रविभक्तम्",
+                "en": "pravibhaktam",
+                "be": "প্রবিভক্তম্",
+                "ka": "ಪ್ರವಿಭಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "विभाजित",
+                "en": "divided",
+                "be": "বিভক্ত",
+                "ka": "ವಿಂಗಡಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अनेकधा",
-            "transliteration": "anekadhā",
-            "meaning": "in many groups"
+            "transliteration": {
+                "hi": "अनेकधा",
+                "en": "anekadhā",
+                "be": "অনেকধা",
+                "ka": "ಅನೇಕಧಾ"
+            },
+            "meaning": {
+                "hi": "कई समूहों में",
+                "en": "in many groups",
+                "be": "অনেক দলে",
+                "ka": "ಅನೇಕ ಗುಂಪುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपश्यत्",
-            "transliteration": "apaśyat",
-            "meaning": "saw"
+            "transliteration": {
+                "hi": "अपश्यत्",
+                "en": "apaśyat",
+                "be": "অপশ্যত্",
+                "ka": "ಅಪಶ್ಯತ್"
+            },
+            "meaning": {
+                "hi": "देखा",
+                "en": "saw",
+                "be": "দেখেছি",
+                "ka": "ಕಂಡಿತು"
+            }
         },
         {
             "sanskrit": "देवदेवस्य",
-            "transliteration": "devadevasya",
-            "meaning": "of the God of"
+            "transliteration": {
+                "hi": "देवदेवस्य",
+                "en": "devadevasya",
+                "be": "দেবদেবস্য",
+                "ka": "ದೇವದೇವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "के भगवान का",
+                "en": "of the God of",
+                "be": "ঈশ্বরের",
+                "ka": "ನ ದೇವರ"
+            }
         },
         {
             "sanskrit": "शरीरे",
-            "transliteration": "śarīre",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "शरीरे",
+                "en": "śarīre",
+                "be": "শরীরে",
+                "ka": "ಶರೀರೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "पाण्डवः",
-            "transliteration": "pāṇḍavaḥ",
-            "meaning": "son of Pandu"
+            "transliteration": {
+                "hi": "पाण्डवः",
+                "en": "pāṇḍavaḥ",
+                "be": "পাণ্ডবঃ",
+                "ka": "ಪಾಣ್ಡವಃ"
+            },
+            "meaning": {
+                "hi": "पांडु के पुत्र",
+                "en": "son of Pandu",
+                "be": "পান্ডুর পুত্র",
+                "ka": "ಪಾಂಡುವಿನ ಮಗ"
+            }
         },
         {
             "sanskrit": "तदा",
-            "transliteration": "tadā",
-            "meaning": "then."
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "तब।",
+                "en": "then.",
+                "be": "তারপর",
+                "ka": "ನಂತರ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||",
         "ka": "ಮಚ್ಚಿತ್ತಾ ಮದ್ಗತಪ್ರಾಣಾ ಬೋಧಯನ್ತಃ ಪರಸ್ಪರಮ್ |\nಕಥಯನ್ತಶ್ಚ ಮಾಂ ನಿತ್ಯಂ ತುಷ್ಯನ್ತಿ ಚ ರಮನ್ತಿ ಚ ||೧೦-೯||"
     },
-    "transliteration": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||",
-    "life_application": "With thoughts fixed on God and lives surrendered, wise seekers enlighten one another and converse with delight.",
+    "transliteration": {
+        "hi": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् |\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||",
+        "en": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||",
+        "be": "মচ্চিত্তা মদ্গতপ্রাণা বোধযন্তঃ পরস্পরম্ |\nকথযন্তশ্চ মাং নিত্যং তুষ্যন্তি চ রমন্তি চ ||১০-৯||",
+        "ka": "ಮಚ್ಚಿತ್ತಾ ಮದ್ಗತಪ್ರಾಣಾ ಬೋಧಯನ್ತಃ ಪರಸ್ಪರಮ್ |\nಕಥಯನ್ತಶ್ಚ ಮಾಂ ನಿತ್ಯಂ ತುಷ್ಯನ್ತಿ ಚ ರಮನ್ತಿ ಚ ||೧೦-೯||"
+    },
+    "life_application": {
+        "hi": "ईश्वर पर केंद्रित विचारों और समर्पित जीवन के साथ, बुद्धिमान साधक एक-दूसरे को प्रबुद्ध करते हैं और प्रसन्नता के साथ बातचीत करते हैं।",
+        "en": "With thoughts fixed on God and lives surrendered, wise seekers enlighten one another and converse with delight.",
+        "be": "ঈশ্বরের প্রতি স্থির চিন্তা এবং আত্মসমর্পণ করে জীবন, জ্ঞানী অন্বেষীরা একে অপরকে আলোকিত করে এবং আনন্দের সাথে কথা বলে।",
+        "ka": "ದೇವರು ಮತ್ತು ಶರಣಾದ ಜೀವನಗಳ ಮೇಲೆ ಸ್ಥಿರವಾದ ಆಲೋಚನೆಗಳೊಂದಿಗೆ, ಬುದ್ಧಿವಂತ ಅನ್ವೇಷಕರು ಒಬ್ಬರನ್ನೊಬ್ಬರು ಬೆಳಗಿಸುತ್ತಾರೆ ಮತ್ತು ಸಂತೋಷದಿಂದ ಸಂಭಾಷಿಸುತ್ತಾರೆ."
+    },
     "themes": [
         "Devotion",
         "Mindfulness"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "मच्चित्ता",
-            "transliteration": "maccittā",
-            "meaning": "maccittā"
+            "transliteration": {
+                "hi": "मच्चित्ता",
+                "en": "maccittā",
+                "be": "মচ্চিত্তা",
+                "ka": "ಮಚ್ಚಿತ್ತಾ"
+            },
+            "meaning": {
+                "hi": "Maccittā",
+                "en": "maccittā",
+                "be": "maccittā",
+                "ka": "ಮಚ್ಚಿಟ್ಟಾ"
+            }
         },
         {
             "sanskrit": "मद्गतप्राणा",
-            "transliteration": "madgataprāṇā",
-            "meaning": "madgataprāṇā"
+            "transliteration": {
+                "hi": "मद्गतप्राणा",
+                "en": "madgataprāṇā",
+                "be": "মদ্গতপ্রাণা",
+                "ka": "ಮದ್ಗತಪ್ರಾಣಾ"
+            },
+            "meaning": {
+                "hi": "मद्गतप्राणा",
+                "en": "madgataprāṇā",
+                "be": "মদগতাপ্রণা",
+                "ka": "ಮದ್ಗತಪ್ರಾಣ"
+            }
         },
         {
             "sanskrit": "बोधयन्तः",
-            "transliteration": "bodhayantaḥ",
-            "meaning": "bodhayantaḥ"
+            "transliteration": {
+                "hi": "बोधयन्तः",
+                "en": "bodhayantaḥ",
+                "be": "বোধযন্তঃ",
+                "ka": "ಬೋಧಯನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "बोधयन्तः",
+                "en": "bodhayantaḥ",
+                "be": "বোধয়ন্তঃ",
+                "ka": "ಬೋಧಯನ್ತಃ"
+            }
         },
         {
             "sanskrit": "परस्परम्",
-            "transliteration": "parasparam",
-            "meaning": "parasparam"
+            "transliteration": {
+                "hi": "परस्परम्",
+                "en": "parasparam",
+                "be": "পরস্পরম্",
+                "ka": "ಪರಸ್ಪರಮ್"
+            },
+            "meaning": {
+                "hi": "परसपरम",
+                "en": "parasparam",
+                "be": "পরস্পরম",
+                "ka": "ಪರಸ್ಪರ"
+            }
         },
         {
             "sanskrit": "कथयन्तश्च",
-            "transliteration": "kathayantaśca",
-            "meaning": "kathayantaśca"
+            "transliteration": {
+                "hi": "कथयन्तश्च",
+                "en": "kathayantaśca",
+                "be": "কথযন্তশ্চ",
+                "ka": "ಕಥಯನ್ತಶ್ಚ"
+            },
+            "meaning": {
+                "hi": "कथयन्तश्च",
+                "en": "kathayantaśca",
+                "be": "কথায়ন্তাশক",
+                "ka": "ಕಥಾಯಂತಶ್ಚ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "नित्यं",
-            "transliteration": "nityaṃ",
-            "meaning": "nityaṃ"
+            "transliteration": {
+                "hi": "नित्यं",
+                "en": "nityaṃ",
+                "be": "নিত্যং",
+                "ka": "ನಿತ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "नित्यं",
+                "en": "nityaṃ",
+                "be": "নিত্য",
+                "ka": "ನಿತ್ಯಂ"
+            }
         },
         {
             "sanskrit": "तुष्यन्ति",
-            "transliteration": "tuṣyanti",
-            "meaning": "tuṣyanti"
+            "transliteration": {
+                "hi": "तुष्यन्ति",
+                "en": "tuṣyanti",
+                "be": "তুষ্যন্তি",
+                "ka": "ತುಷ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "तुष्यन्ति",
+                "en": "tuṣyanti",
+                "be": "তুষ্যন্তি",
+                "ka": "ತುಷ್ಯಂತಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "रमन्ति",
-            "transliteration": "ramanti",
-            "meaning": "ramanti"
+            "transliteration": {
+                "hi": "रमन्ति",
+                "en": "ramanti",
+                "be": "রমন্তি",
+                "ka": "ರಮನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "रमांती",
+                "en": "ramanti",
+                "be": "রমন্তী",
+                "ka": "ರಮಂತಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         }
     ],
     "tej": {

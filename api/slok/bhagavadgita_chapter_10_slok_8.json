@@ -14,8 +14,18 @@
         "en": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||",
         "ka": "ಅಹಂ ಸರ್ವಸ್ಯ ಪ್ರಭವೋ ಮತ್ತಃ ಸರ್ವಂ ಪ್ರವರ್ತತೇ |\nಇತಿ ಮತ್ವಾ ಭಜನ್ತೇ ಮಾಂ ಬುಧಾ ಭಾವಸಮನ್ವಿತಾಃ ||೧೦-೮||"
     },
-    "transliteration": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||",
-    "life_application": "Realize God as the source of all from which everything emanates, worshipping with loving intellectual devotion.",
+    "transliteration": {
+        "hi": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते |\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||",
+        "en": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||",
+        "be": "অহং সর্বস্য প্রভবো মত্তঃ সর্বং প্রবর্ততে |\nইতি মত্বা ভজন্তে মাং বুধা ভাবসমন্বিতাঃ ||১০-৮||",
+        "ka": "ಅಹಂ ಸರ್ವಸ್ಯ ಪ್ರಭವೋ ಮತ್ತಃ ಸರ್ವಂ ಪ್ರವರ್ತತೇ |\nಇತಿ ಮತ್ವಾ ಭಜನ್ತೇ ಮಾಂ ಬುಧಾ ಭಾವಸಮನ್ವಿತಾಃ ||೧೦-೮||"
+    },
+    "life_application": {
+        "hi": "ईश्वर को सभी के स्रोत के रूप में महसूस करें जिससे सब कुछ उत्पन्न होता है, प्रेमपूर्ण बौद्धिक भक्ति के साथ पूजा करें।",
+        "en": "Realize God as the source of all from which everything emanates, worshipping with loving intellectual devotion.",
+        "be": "ঈশ্বরকে সকলের উৎস হিসাবে উপলব্ধি করুন যা থেকে সবকিছু উৎপন্ন হয়, প্রেমময় বুদ্ধিবৃত্তিক ভক্তির সাথে উপাসনা করুন।",
+        "ka": "ಪ್ರೀತಿಯಿಂದ ಬೌದ್ಧಿಕ ಶ್ರದ್ಧೆಯಿಂದ ಪೂಜಿಸುತ್ತಾ, ಎಲ್ಲವೂ ಹೊರಹೊಮ್ಮುವ ಎಲ್ಲದರ ಮೂಲ ಭಗವಂತನನ್ನು ಅರಿತುಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अहं",
-            "transliteration": "ahaṃ",
-            "meaning": "ahaṃ"
+            "transliteration": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "অহং",
+                "ka": "ಅಹಂ"
+            },
+            "meaning": {
+                "hi": "अहं",
+                "en": "ahaṃ",
+                "be": "ahaṃ",
+                "ka": "ahaṃ"
+            }
         },
         {
             "sanskrit": "सर्वस्य",
-            "transliteration": "sarvasya",
-            "meaning": "sarvasya"
+            "transliteration": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सर्वस्य",
+                "en": "sarvasya",
+                "be": "সর্বস্য",
+                "ka": "ಸರ್ವಸ್ಯ"
+            }
         },
         {
             "sanskrit": "प्रभवो",
-            "transliteration": "prabhavo",
-            "meaning": "prabhavo"
+            "transliteration": {
+                "hi": "प्रभवो",
+                "en": "prabhavo",
+                "be": "প্রভবো",
+                "ka": "ಪ್ರಭವೋ"
+            },
+            "meaning": {
+                "hi": "प्रभावो",
+                "en": "prabhavo",
+                "be": "prabhavo",
+                "ka": "ಪ್ರಭಾವೋ"
+            }
         },
         {
             "sanskrit": "मत्तः",
-            "transliteration": "mattaḥ",
-            "meaning": "mattaḥ"
+            "transliteration": {
+                "hi": "मत्तः",
+                "en": "mattaḥ",
+                "be": "মত্তঃ",
+                "ka": "ಮತ್ತಃ"
+            },
+            "meaning": {
+                "hi": "मत्तः",
+                "en": "mattaḥ",
+                "be": "mattaḥ",
+                "ka": "ಮಟ್ಟಾಃ"
+            }
         },
         {
             "sanskrit": "सर्वं",
-            "transliteration": "sarvaṃ",
-            "meaning": "sarvaṃ"
+            "transliteration": {
+                "hi": "सर्वं",
+                "en": "sarvaṃ",
+                "be": "সর্বং",
+                "ka": "ಸರ್ವಂ"
+            },
+            "meaning": {
+                "hi": "सर्वं",
+                "en": "sarvaṃ",
+                "be": "sarvaṃ",
+                "ka": "sarvaṃ"
+            }
         },
         {
             "sanskrit": "प्रवर्तते",
-            "transliteration": "pravartate",
-            "meaning": "pravartate"
+            "transliteration": {
+                "hi": "प्रवर्तते",
+                "en": "pravartate",
+                "be": "প্রবর্ততে",
+                "ka": "ಪ್ರವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "प्रवर्तित करें",
+                "en": "pravartate",
+                "be": "প্রবর্ততে",
+                "ka": "ಪ್ರವರ್ಟೇಟ್"
+            }
         },
         {
             "sanskrit": "इति",
-            "transliteration": "iti",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "इति",
+                "en": "iti",
+                "be": "ইতি",
+                "ka": "ಇತಿ"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "मत्वा",
-            "transliteration": "matvā",
-            "meaning": "matvā"
+            "transliteration": {
+                "hi": "मत्वा",
+                "en": "matvā",
+                "be": "মত্বা",
+                "ka": "ಮತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "मतवा",
+                "en": "matvā",
+                "be": "মাতভা",
+                "ka": "ಮತ್ವಾ"
+            }
         },
         {
             "sanskrit": "भजन्ते",
-            "transliteration": "bhajante",
-            "meaning": "bhajante"
+            "transliteration": {
+                "hi": "भजन्ते",
+                "en": "bhajante",
+                "be": "ভজন্তে",
+                "ka": "ಭಜನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "भजन्ते",
+                "en": "bhajante",
+                "be": "ভজন্তে",
+                "ka": "ಭಜಂತೆ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "बुधा",
-            "transliteration": "budhā",
-            "meaning": "budhā"
+            "transliteration": {
+                "hi": "बुधा",
+                "en": "budhā",
+                "be": "বুধা",
+                "ka": "ಬುಧಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धा",
+                "en": "budhā",
+                "be": "বুধা",
+                "ka": "ಬುಧ"
+            }
         },
         {
             "sanskrit": "भावसमन्विताः",
-            "transliteration": "bhāvasamanvitāḥ",
-            "meaning": "bhāvasamanvitāḥ"
+            "transliteration": {
+                "hi": "भावसमन्विताः",
+                "en": "bhāvasamanvitāḥ",
+                "be": "ভাবসমন্বিতাঃ",
+                "ka": "ಭಾವಸಮನ್ವಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "भावसमन्वितः",
+                "en": "bhāvasamanvitāḥ",
+                "be": "bhāvasamanvitāḥ",
+                "ka": "ಭಾವಸಮನ್ವಿತಾಃ"
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .\nnāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||",
         "ka": "ಅನೇಕಬಾಹೂದರವಕ್ತ್ರನೇತ್ರಂ\nಪಶ್ಯಾಮಿ ತ್ವಾಂ ಸರ್ವತೋಽನನ್ತರೂಪಮ್ |\nನಾನ್ತಂ ನ ಮಧ್ಯಂ ನ ಪುನಸ್ತವಾದಿಂ\nಪಶ್ಯಾಮಿ ವಿಶ್ವೇಶ್ವರ ವಿಶ್ವರೂಪ ||೧೧-೧೬||"
     },
-    "transliteration": "anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .\nnāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||",
-    "life_application": "See infinite arms, stomachs, mouths, and eyes on all sides, with neither beginning, middle, nor end.",
+    "transliteration": {
+        "hi": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वां सर्वतोऽनन्तरूपम् |\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप ||११-१६||",
+        "en": "anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .\nnāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||",
+        "be": "অনেকবাহূদরবক্ত্রনেত্রং\nপশ্যামি ত্বাং সর্বতোঽনন্তরূপম্ |\nনান্তং ন মধ্যং ন পুনস্তবাদিং\nপশ্যামি বিশ্বেশ্বর বিশ্বরূপ ||১১-১৬||",
+        "ka": "ಅನೇಕಬಾಹೂದರವಕ್ತ್ರನೇತ್ರಂ\nಪಶ್ಯಾಮಿ ತ್ವಾಂ ಸರ್ವತೋಽನನ್ತರೂಪಮ್ |\nನಾನ್ತಂ ನ ಮಧ್ಯಂ ನ ಪುನಸ್ತವಾದಿಂ\nಪಶ್ಯಾಮಿ ವಿಶ್ವೇಶ್ವರ ವಿಶ್ವರೂಪ ||೧೧-೧೬||"
+    },
+    "life_application": {
+        "hi": "सभी तरफ अनंत भुजाएं, पेट, मुंह और आंखें देखें, न आदि, न मध्य, न अंत।",
+        "en": "See infinite arms, stomachs, mouths, and eyes on all sides, with neither beginning, middle, nor end.",
+        "be": "সমস্ত দিকে অসীম বাহু, পেট, মুখ এবং চোখ দেখুন, শুরু, মধ্য বা শেষ নেই।",
+        "ka": "ಪ್ರಾರಂಭ, ಮಧ್ಯ ಅಥವಾ ಅಂತ್ಯವಿಲ್ಲದೆ, ಎಲ್ಲಾ ಕಡೆಗಳಲ್ಲಿ ಅನಂತ ತೋಳುಗಳು, ಹೊಟ್ಟೆಗಳು, ಬಾಯಿಗಳು ಮತ್ತು ಕಣ್ಣುಗಳನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,83 +33,243 @@
     "word_meanings": [
         {
             "sanskrit": "अनेकबाहूदरवक्त्रनेत्रम्",
-            "transliteration": "anekabāhūdaravaktranetram",
-            "meaning": "with manifold arms"
+            "transliteration": {
+                "hi": "अनेकबाहूदरवक्त्रनेत्रम्",
+                "en": "anekabāhūdaravaktranetram",
+                "be": "অনেকবাহূদরবক্ত্রনেত্রম্",
+                "ka": "ಅನೇಕಬಾಹೂದರವಕ್ತ್ರನೇತ್ರಮ್"
+            },
+            "meaning": {
+                "hi": "अनेक भुजाओं के साथ",
+                "en": "with manifold arms",
+                "be": "বহুগুণ অস্ত্র সহ",
+                "ka": "ಬಹುದ್ವಾರಿ ತೋಳುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "Thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "Thee",
+                "be": "তোমাকে",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "सर्वतः",
-            "transliteration": "sarvataḥ",
-            "meaning": "on every side"
+            "transliteration": {
+                "hi": "सर्वतः",
+                "en": "sarvataḥ",
+                "be": "সর্বতঃ",
+                "ka": "ಸರ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "हर तरफ",
+                "en": "on every side",
+                "be": "প্রতিটি দিকে",
+                "ka": "ಪ್ರತಿ ಬದಿಯಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अनन्तरूपम्",
-            "transliteration": "anantarūpam",
-            "meaning": "of boundless form"
+            "transliteration": {
+                "hi": "अनन्तरूपम्",
+                "en": "anantarūpam",
+                "be": "অনন্তরূপম্",
+                "ka": "ಅನನ್ತರೂಪಮ್"
+            },
+            "meaning": {
+                "hi": "असीम रूप का",
+                "en": "of boundless form",
+                "be": "সীমাহীন রূপের",
+                "ka": "ಮಿತಿಯಿಲ್ಲದ ರೂಪ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अनत्म्",
-            "transliteration": "anatm",
-            "meaning": "end"
+            "transliteration": {
+                "hi": "अनत्म्",
+                "en": "anatm",
+                "be": "অনত্ম্",
+                "ka": "ಅನತ್ಮ್"
+            },
+            "meaning": {
+                "hi": "अंत",
+                "en": "end",
+                "be": "শেষ",
+                "ka": "ಅಂತ್ಯ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मध्यम्",
-            "transliteration": "madhyam",
-            "meaning": "middle"
+            "transliteration": {
+                "hi": "मध्यम्",
+                "en": "madhyam",
+                "be": "মধ্যম্",
+                "ka": "ಮಧ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "मध्य",
+                "en": "middle",
+                "be": "মধ্যম",
+                "ka": "ಮಧ್ಯಮ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "पुनः",
-            "transliteration": "punaḥ",
-            "meaning": ",again"
+            "transliteration": {
+                "hi": "पुनः",
+                "en": "punaḥ",
+                "be": "পুনঃ",
+                "ka": "ಪುನಃ"
+            },
+            "meaning": {
+                "hi": ",फिर से",
+                "en": ",again",
+                "be": ", আবার",
+                "ka": ",ಮತ್ತೆ"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "आदिम्",
-            "transliteration": "ādim",
-            "meaning": "origin"
+            "transliteration": {
+                "hi": "आदिम्",
+                "en": "ādim",
+                "be": "আদিম্",
+                "ka": "ಆದಿಮ್"
+            },
+            "meaning": {
+                "hi": "उत्पत्ति",
+                "en": "origin",
+                "be": "মূল",
+                "ka": "ಮೂಲ"
+            }
         },
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "विश्वेश्वर",
-            "transliteration": "viśveśvara",
-            "meaning": "O Lord of the"
+            "transliteration": {
+                "hi": "विश्वेश्वर",
+                "en": "viśveśvara",
+                "be": "বিশ্বেশ্বর",
+                "ka": "ವಿಶ್ವೇಶ್ವರ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O Lord of the",
+                "be": "হে প্রভু",
+                "ka": "ಓ ಲಾರ್ಡ್ ಆಫ್ ದಿ"
+            }
         },
         {
             "sanskrit": "विश्वरूप",
-            "transliteration": "viśvarūpa",
-            "meaning": "O Cosmic Form."
+            "transliteration": {
+                "hi": "विश्वरूप",
+                "en": "viśvarūpa",
+                "be": "বিশ্বরূপ",
+                "ka": "ವಿಶ್ವರೂಪ"
+            },
+            "meaning": {
+                "hi": "हे लौकिक स्वरूप!",
+                "en": "O Cosmic Form.",
+                "be": "হে মহাজাগতিক রূপ।",
+                "ka": "ಓ ಕಾಸ್ಮಿಕ್ ರೂಪ."
+            }
         }
     ],
     "tej": {

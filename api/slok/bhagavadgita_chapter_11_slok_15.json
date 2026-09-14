@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\npaśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān .\nbrahmāṇamīśaṃ kamalāsanasthaṃ ṛṣīṃśca sarvānuragāṃśca divyān ||11-15||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪಶ್ಯಾಮಿ ದೇವಾಂಸ್ತವ ದೇವ ದೇಹೇ\nಸರ್ವಾಂಸ್ತಥಾ ಭೂತವಿಶೇಷಸಙ್ಘಾನ್ |\nಬ್ರಹ್ಮಾಣಮೀಶಂ ಕಮಲಾಸನಸ್ಥ-\nಮೃಷೀಂಶ್ಚ ಸರ್ವಾನುರಗಾಂಶ್ಚ ದಿವ್ಯಾನ್ ||೧೧-೧೫||"
     },
-    "transliteration": "arjuna uvāca .\npaśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān .\nbrahmāṇamīśaṃ kamalāsanasthaṃ ṛṣīṃśca sarvānuragāṃśca divyān ||11-15||",
-    "life_application": "Behold all celestial beings, sages, divine serpents, and creator spirits residing within the divine cosmic form.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nपश्यामि देवांस्तव देव देहे\nसर्वांस्तथा भूतविशेषसङ्घान् |\nब्रह्माणमीशं कमलासनस्थ-\nमृषींश्च सर्वानुरगांश्च दिव्यान् ||११-१५||",
+        "en": "arjuna uvāca .\npaśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān .\nbrahmāṇamīśaṃ kamalāsanasthaṃ ṛṣīṃśca sarvānuragāṃśca divyān ||11-15||",
+        "be": "অর্জুন উবাচ |\nপশ্যামি দেবাংস্তব দেব দেহে\nসর্বাংস্তথা ভূতবিশেষসঙ্ঘান্ |\nব্রহ্মাণমীশং কমলাসনস্থ-\nমৃষীংশ্চ সর্বানুরগাংশ্চ দিব্যান্ ||১১-১৫||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಪಶ್ಯಾಮಿ ದೇವಾಂಸ್ತವ ದೇವ ದೇಹೇ\nಸರ್ವಾಂಸ್ತಥಾ ಭೂತವಿಶೇಷಸಙ್ಘಾನ್ |\nಬ್ರಹ್ಮಾಣಮೀಶಂ ಕಮಲಾಸನಸ್ಥ-\nಮೃಷೀಂಶ್ಚ ಸರ್ವಾನುರಗಾಂಶ್ಚ ದಿವ್ಯಾನ್ ||೧೧-೧೫||"
+    },
+    "life_application": {
+        "hi": "सभी दिव्य प्राणियों, ऋषियों, दिव्य नागों और निर्माता आत्माओं को दिव्य ब्रह्मांडीय रूप में निवास करते हुए देखें।",
+        "en": "Behold all celestial beings, sages, divine serpents, and creator spirits residing within the divine cosmic form.",
+        "be": "সমস্ত স্বর্গীয় প্রাণী, ঋষি, ঐশ্বরিক সর্প, এবং সৃষ্টিকর্তা আত্মারা ঐশ্বরিক মহাজাগতিক রূপের মধ্যে অবস্থান করছে।",
+        "ka": "ಎಲ್ಲಾ ಆಕಾಶ ಜೀವಿಗಳು, ಋಷಿಗಳು, ದೈವಿಕ ಸರ್ಪಗಳು ಮತ್ತು ದೈವಿಕ ಕಾಸ್ಮಿಕ್ ರೂಪದಲ್ಲಿ ವಾಸಿಸುವ ಸೃಷ್ಟಿಕರ್ತ ಆತ್ಮಗಳನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,88 +33,258 @@
     "word_meanings": [
         {
             "sanskrit": "पश्यामि",
-            "transliteration": "paśyāmi",
-            "meaning": "see"
+            "transliteration": {
+                "hi": "पश्यामि",
+                "en": "paśyāmi",
+                "be": "পশ্যামি",
+                "ka": "ಪಶ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "देखिये",
+                "en": "see",
+                "be": "দেখুন",
+                "ka": "ನೋಡಿ"
+            }
         },
         {
             "sanskrit": "देवान्",
-            "transliteration": "devān",
-            "meaning": "the gods"
+            "transliteration": {
+                "hi": "देवान्",
+                "en": "devān",
+                "be": "দেবান্",
+                "ka": "ದೇವಾನ್"
+            },
+            "meaning": {
+                "hi": "देवताओं",
+                "en": "the gods",
+                "be": "দেবতা",
+                "ka": "ದೇವರುಗಳು"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "Thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "Thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "देव",
-            "transliteration": "deva",
-            "meaning": "O God"
+            "transliteration": {
+                "hi": "देव",
+                "en": "deva",
+                "be": "দেব",
+                "ka": "ದೇವ"
+            },
+            "meaning": {
+                "hi": "हे भगवान!",
+                "en": "O God",
+                "be": "হে ঈশ্বর",
+                "ka": "ಓ ದೇವರೇ"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in the body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in the body",
+                "be": "শরীরের মধ্যে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सर्वान्",
-            "transliteration": "sarvān",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वान्",
+                "en": "sarvān",
+                "be": "সর্বান্",
+                "ka": "ಸರ್ವಾನ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "भूतविशेषसङ्घान्",
-            "transliteration": "bhūtaviśeṣasaṅghān",
-            "meaning": "hosts of various classes"
+            "transliteration": {
+                "hi": "भूतविशेषसङ्घान्",
+                "en": "bhūtaviśeṣasaṅghān",
+                "be": "ভূতবিশেষসঙ্ঘান্",
+                "ka": "ಭೂತವಿಶೇಷಸಙ್ಘಾನ್"
+            },
+            "meaning": {
+                "hi": "विभिन्न वर्गों के मेजबान",
+                "en": "hosts of various classes",
+                "be": "বিভিন্ন শ্রেণীর হোস্ট",
+                "ka": "ವಿವಿಧ ವರ್ಗಗಳ ಆತಿಥೇಯರು"
+            }
         },
         {
             "sanskrit": "ब्रह्माणम्",
-            "transliteration": "brahmāṇam",
-            "meaning": "Brahma"
+            "transliteration": {
+                "hi": "ब्रह्माणम्",
+                "en": "brahmāṇam",
+                "be": "ব্রহ্মাণম্",
+                "ka": "ಬ್ರಹ್ಮಾಣಮ್"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "Brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "ईशम्",
-            "transliteration": "īśam",
-            "meaning": "the Lord"
+            "transliteration": {
+                "hi": "ईशम्",
+                "en": "īśam",
+                "be": "ঈশম্",
+                "ka": "ಈಶಮ್"
+            },
+            "meaning": {
+                "hi": "प्रभु",
+                "en": "the Lord",
+                "be": "প্রভু",
+                "ka": "ಲಾರ್ಡ್"
+            }
         },
         {
             "sanskrit": "कमलासनस्थम्",
-            "transliteration": "kamalāsanastham",
-            "meaning": "seated on the lotus"
+            "transliteration": {
+                "hi": "कमलासनस्थम्",
+                "en": "kamalāsanastham",
+                "be": "কমলাসনস্থম্",
+                "ka": "ಕಮಲಾಸನಸ್ಥಮ್"
+            },
+            "meaning": {
+                "hi": "कमल पर विराजमान",
+                "en": "seated on the lotus",
+                "be": "পদ্মের উপর উপবিষ্ট",
+                "ka": "ಕಮಲದ ಮೇಲೆ ಕುಳಿತ"
+            }
         },
         {
             "sanskrit": "ऋषीन्",
-            "transliteration": "ṛṣīn",
-            "meaning": "sages"
+            "transliteration": {
+                "hi": "ऋषीन्",
+                "en": "ṛṣīn",
+                "be": "ঋষীন্",
+                "ka": "ಋಷೀನ್"
+            },
+            "meaning": {
+                "hi": "ऋषियों",
+                "en": "sages",
+                "be": "ঋষিগণ",
+                "ka": "ಋಷಿಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "सर्वान्",
-            "transliteration": "sarvān",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वान्",
+                "en": "sarvān",
+                "be": "সর্বান্",
+                "ka": "ಸರ್ವಾನ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "उरगान्",
-            "transliteration": "uragān",
-            "meaning": "serpents"
+            "transliteration": {
+                "hi": "उरगान्",
+                "en": "uragān",
+                "be": "উরগান্",
+                "ka": "ಉರಗಾನ್"
+            },
+            "meaning": {
+                "hi": "साँप",
+                "en": "serpents",
+                "be": "সাপ",
+                "ka": "ಸರ್ಪಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "दिव्यान्",
-            "transliteration": "divyān",
-            "meaning": "divine."
+            "transliteration": {
+                "hi": "दिव्यान्",
+                "en": "divyān",
+                "be": "দিব্যান্",
+                "ka": "ದಿವ್ಯಾನ್"
+            },
+            "meaning": {
+                "hi": "दिव्य।",
+                "en": "divine.",
+                "be": "ঐশ্বরিক",
+                "ka": "ದೈವಿಕ."
+            }
         }
     ],
     "tej": {

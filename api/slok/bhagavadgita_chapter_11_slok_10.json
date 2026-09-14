@@ -14,8 +14,18 @@
         "en": "anekavaktranayanamanekādbhutadarśanam .\nanekadivyābharaṇaṃ divyānekodyatāyudham ||11-10||",
         "ka": "ಅನೇಕವಕ್ತ್ರನಯನಮನೇಕಾದ್ಭುತದರ್ಶನಮ್ |\nಅನೇಕದಿವ್ಯಾಭರಣಂ ದಿವ್ಯಾನೇಕೋದ್ಯತಾಯುಧಮ್ ||೧೧-೧೦||"
     },
-    "transliteration": "anekavaktranayanamanekādbhutadarśanam .\nanekadivyābharaṇaṃ divyānekodyatāyudham ||11-10||",
-    "life_application": "Behold the infinite faces, eyes, wondrous sights, divine ornaments, and uplifted weapons of the cosmic form.",
+    "transliteration": {
+        "hi": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् |\nअनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ||११-१०||",
+        "en": "anekavaktranayanamanekādbhutadarśanam .\nanekadivyābharaṇaṃ divyānekodyatāyudham ||11-10||",
+        "be": "অনেকবক্ত্রনযনমনেকাদ্ভুতদর্শনম্ |\nঅনেকদিব্যাভরণং দিব্যানেকোদ্যতাযুধম্ ||১১-১০||",
+        "ka": "ಅನೇಕವಕ್ತ್ರನಯನಮನೇಕಾದ್ಭುತದರ್ಶನಮ್ |\nಅನೇಕದಿವ್ಯಾಭರಣಂ ದಿವ್ಯಾನೇಕೋದ್ಯತಾಯುಧಮ್ ||೧೧-೧೦||"
+    },
+    "life_application": {
+        "hi": "ब्रह्मांड रूप के अनंत चेहरों, आंखों, अद्भुत दृश्यों, दिव्य आभूषणों और उन्नत हथियारों को देखो।",
+        "en": "Behold the infinite faces, eyes, wondrous sights, divine ornaments, and uplifted weapons of the cosmic form.",
+        "be": "মহাজাগতিক রূপের অসীম মুখ, চোখ, বিস্ময়কর দৃশ্য, ঐশ্বরিক অলঙ্কার এবং উন্নত অস্ত্রগুলি দেখুন।",
+        "ka": "ಅನಂತ ಮುಖಗಳು, ಕಣ್ಣುಗಳು, ಅದ್ಭುತ ದೃಶ್ಯಗಳು, ದೈವಿಕ ಆಭರಣಗಳು ಮತ್ತು ವಿಶ್ವರೂಪದ ಉನ್ನತಿ ಆಯುಧಗಳನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,23 +33,63 @@
     "word_meanings": [
         {
             "sanskrit": "अनेकवक्त्रनयनम्",
-            "transliteration": "anekavaktranayanam",
-            "meaning": "with numerous mouthsand eyes"
+            "transliteration": {
+                "hi": "अनेकवक्त्रनयनम्",
+                "en": "anekavaktranayanam",
+                "be": "অনেকবক্ত্রনযনম্",
+                "ka": "ಅನೇಕವಕ್ತ್ರನಯನಮ್"
+            },
+            "meaning": {
+                "hi": "असंख्य मुँह और आँखों वाला",
+                "en": "with numerous mouthsand eyes",
+                "be": "অসংখ্য মুখ ও চোখ দিয়ে",
+                "ka": "ಹಲವಾರು ಬಾಯಿ ಮತ್ತು ಕಣ್ಣುಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अनेकाद्भुतदर्शनम्",
-            "transliteration": "anekādbhutadarśanam",
-            "meaning": "with numerous wonderful sights"
+            "transliteration": {
+                "hi": "अनेकाद्भुतदर्शनम्",
+                "en": "anekādbhutadarśanam",
+                "be": "অনেকাদ্ভুতদর্শনম্",
+                "ka": "ಅನೇಕಾದ್ಭುತದರ್ಶನಮ್"
+            },
+            "meaning": {
+                "hi": "असंख्य अद्भुत दृश्यों के साथ",
+                "en": "with numerous wonderful sights",
+                "be": "অসংখ্য বিস্ময়কর দর্শনীয় স্থান সহ",
+                "ka": "ಹಲವಾರು ಅದ್ಭುತ ದೃಶ್ಯಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अनेकदिव्याभरणम्",
-            "transliteration": "anekadivyābharaṇam",
-            "meaning": "with numerous divine ornaments"
+            "transliteration": {
+                "hi": "अनेकदिव्याभरणम्",
+                "en": "anekadivyābharaṇam",
+                "be": "অনেকদিব্যাভরণম্",
+                "ka": "ಅನೇಕದಿವ್ಯಾಭರಣಮ್"
+            },
+            "meaning": {
+                "hi": "असंख्य दिव्य आभूषणों से युक्त",
+                "en": "with numerous divine ornaments",
+                "be": "অসংখ্য ঐশ্বরিক অলঙ্কার সহ",
+                "ka": "ಹಲವಾರು ದೈವಿಕ ಆಭರಣಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "दिव्यानेकोद्यतायुधम्",
-            "transliteration": "divyānekodyatāyudham",
-            "meaning": "with numerous divine weapons"
+            "transliteration": {
+                "hi": "दिव्यानेकोद्यतायुधम्",
+                "en": "divyānekodyatāyudham",
+                "be": "দিব্যানেকোদ্যতাযুধম্",
+                "ka": "ದಿವ್ಯಾನೇಕೋದ್ಯತಾಯುಧಮ್"
+            },
+            "meaning": {
+                "hi": "असंख्य दिव्य अस्त्र-शस्त्रों से युक्त",
+                "en": "with numerous divine weapons",
+                "be": "অসংখ্য ঐশ্বরিক অস্ত্র সহ",
+                "ka": "ಹಲವಾರು ದೈವಿಕ ಆಯುಧಗಳೊಂದಿಗೆ"
+            }
         }
     ],
     "tej": {

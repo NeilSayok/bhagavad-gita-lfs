@@ -14,8 +14,18 @@
         "en": "divi sūryasahasrasya bhavedyugapadutthitā .\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11-12||",
         "ka": "ದಿವಿ ಸೂರ್ಯಸಹಸ್ರಸ್ಯ ಭವೇದ್ಯುಗಪದುತ್ಥಿತಾ |\nಯದಿ ಭಾಃ ಸದೃಶೀ ಸಾ ಸ್ಯಾದ್ಭಾಸಸ್ತಸ್ಯ ಮಹಾತ್ಮನಃ ||೧೧-೧೨||"
     },
-    "transliteration": "divi sūryasahasrasya bhavedyugapadutthitā .\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11-12||",
-    "life_application": "Imagine the brilliance of a thousand suns rising simultaneously in the sky, matching the radiance of the Supreme.",
+    "transliteration": {
+        "hi": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता |\nयदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||",
+        "en": "divi sūryasahasrasya bhavedyugapadutthitā .\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11-12||",
+        "be": "দিবি সূর্যসহস্রস্য ভবেদ্যুগপদুত্থিতা |\nযদি ভাঃ সদৃশী সা স্যাদ্ভাসস্তস্য মহাত্মনঃ ||১১-১২||",
+        "ka": "ದಿವಿ ಸೂರ್ಯಸಹಸ್ರಸ್ಯ ಭವೇದ್ಯುಗಪದುತ್ಥಿತಾ |\nಯದಿ ಭಾಃ ಸದೃಶೀ ಸಾ ಸ್ಯಾದ್ಭಾಸಸ್ತಸ್ಯ ಮಹಾತ್ಮನಃ ||೧೧-೧೨||"
+    },
+    "life_application": {
+        "hi": "कल्पना कीजिए कि आकाश में एक साथ हजारों सूर्य उग रहे हैं, जो परम की चमक से मेल खाते हैं।",
+        "en": "Imagine the brilliance of a thousand suns rising simultaneously in the sky, matching the radiance of the Supreme.",
+        "be": "কল্পনা করুন হাজার সূর্যের তেজ একযোগে আকাশে উদিত হচ্ছে, পরমেশ্বরের তেজের সাথে মিলে যাচ্ছে।",
+        "ka": "ಪರಮಾತ್ಮನ ತೇಜಸ್ಸಿಗೆ ಸರಿಸಾಟಿಯಾಗಿ ಆಕಾಶದಲ್ಲಿ ಏಕಕಾಲದಲ್ಲಿ ಉದಯಿಸುವ ಸಾವಿರ ಸೂರ್ಯರ ತೇಜಸ್ಸನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "दिवि",
-            "transliteration": "divi",
-            "meaning": "in the sky"
+            "transliteration": {
+                "hi": "दिवि",
+                "en": "divi",
+                "be": "দিবি",
+                "ka": "ದಿವಿ"
+            },
+            "meaning": {
+                "hi": "आकाश में",
+                "en": "in the sky",
+                "be": "আকাশে",
+                "ka": "ಆಕಾಶದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "सूर्यसहस्रस्य",
-            "transliteration": "sūryasahasrasya",
-            "meaning": "of a thousand suns"
+            "transliteration": {
+                "hi": "सूर्यसहस्रस्य",
+                "en": "sūryasahasrasya",
+                "be": "সূর্যসহস্রস্য",
+                "ka": "ಸೂರ್ಯಸಹಸ್ರಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "एक हजार सूर्यों में से",
+                "en": "of a thousand suns",
+                "be": "হাজার সূর্যের",
+                "ka": "ಸಾವಿರ ಸೂರ್ಯರ"
+            }
         },
         {
             "sanskrit": "भवेत्",
-            "transliteration": "bhavet",
-            "meaning": "were"
+            "transliteration": {
+                "hi": "भवेत्",
+                "en": "bhavet",
+                "be": "ভবেত্",
+                "ka": "ಭವೇತ್"
+            },
+            "meaning": {
+                "hi": "थे",
+                "en": "were",
+                "be": "ছিল",
+                "ka": "ಇದ್ದರು"
+            }
         },
         {
             "sanskrit": "युगपत्",
-            "transliteration": "yugapat",
-            "meaning": "at once"
+            "transliteration": {
+                "hi": "युगपत्",
+                "en": "yugapat",
+                "be": "যুগপত্",
+                "ka": "ಯುಗಪತ್"
+            },
+            "meaning": {
+                "hi": "एक बार में",
+                "en": "at once",
+                "be": "একবারে",
+                "ka": "ಒಮ್ಮೆಲೇ"
+            }
         },
         {
             "sanskrit": "उत्थिता",
-            "transliteration": "utthitā",
-            "meaning": "arisen"
+            "transliteration": {
+                "hi": "उत्थिता",
+                "en": "utthitā",
+                "be": "উত্থিতা",
+                "ka": "ಉತ್ಥಿತಾ"
+            },
+            "meaning": {
+                "hi": "उत्पन्न हुआ",
+                "en": "arisen",
+                "be": "উদ্ভূত",
+                "ka": "ಹುಟ್ಟಿಕೊಂಡಿತು"
+            }
         },
         {
             "sanskrit": "यदि",
-            "transliteration": "yadi",
-            "meaning": "if"
+            "transliteration": {
+                "hi": "यदि",
+                "en": "yadi",
+                "be": "যদি",
+                "ka": "ಯದಿ"
+            },
+            "meaning": {
+                "hi": "यदि",
+                "en": "if",
+                "be": "যদি",
+                "ka": "ಒಂದು ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "भाः",
-            "transliteration": "bhāḥ",
-            "meaning": "splendour"
+            "transliteration": {
+                "hi": "भाः",
+                "en": "bhāḥ",
+                "be": "ভাঃ",
+                "ka": "ಭಾಃ"
+            },
+            "meaning": {
+                "hi": "वैभव",
+                "en": "splendour",
+                "be": "splendor",
+                "ka": "ವೈಭವ"
+            }
         },
         {
             "sanskrit": "सदृशी",
-            "transliteration": "sadṛśī",
-            "meaning": "like"
+            "transliteration": {
+                "hi": "सदृशी",
+                "en": "sadṛśī",
+                "be": "সদৃশী",
+                "ka": "ಸದೃಶೀ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "like",
+                "be": "পছন্দ",
+                "ka": "ಹಾಗೆ"
+            }
         },
         {
             "sanskrit": "सा",
-            "transliteration": "sā",
-            "meaning": "that"
+            "transliteration": {
+                "hi": "सा",
+                "en": "sā",
+                "be": "সা",
+                "ka": "ಸಾ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "स्यात्",
-            "transliteration": "syāt",
-            "meaning": "would be"
+            "transliteration": {
+                "hi": "स्यात्",
+                "en": "syāt",
+                "be": "স্যাত্",
+                "ka": "ಸ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "would be",
+                "be": "হবে",
+                "ka": "ಆಗಿರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "भासः",
-            "transliteration": "bhāsaḥ",
-            "meaning": "splendour"
+            "transliteration": {
+                "hi": "भासः",
+                "en": "bhāsaḥ",
+                "be": "ভাসঃ",
+                "ka": "ಭಾಸಃ"
+            },
+            "meaning": {
+                "hi": "वैभव",
+                "en": "splendour",
+                "be": "splendor",
+                "ka": "ವೈಭವ"
+            }
         },
         {
             "sanskrit": "तस्य",
-            "transliteration": "tasya",
-            "meaning": "of that"
+            "transliteration": {
+                "hi": "तस्य",
+                "en": "tasya",
+                "be": "তস্য",
+                "ka": "ತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "उसमें से",
+                "en": "of that",
+                "be": "যে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "महात्मनः",
-            "transliteration": "mahātmanaḥ",
-            "meaning": "of the mighty Being"
+            "transliteration": {
+                "hi": "महात्मनः",
+                "en": "mahātmanaḥ",
+                "be": "মহাত্মনঃ",
+                "ka": "ಮಹಾತ್ಮನಃ"
+            },
+            "meaning": {
+                "hi": "शक्तिशाली होने का",
+                "en": "of the mighty Being",
+                "be": "পরাক্রমশালী সত্তার",
+                "ka": "ಪ್ರಬಲ ಜೀವಿ"
+            }
         }
     ],
     "tej": {

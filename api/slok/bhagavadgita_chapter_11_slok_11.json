@@ -14,8 +14,18 @@
         "en": "divyamālyāmbaradharaṃ divyagandhānulepanam .\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham ||11-11||",
         "ka": "ದಿವ್ಯಮಾಲ್ಯಾಮ್ಬರಧರಂ ದಿವ್ಯಗನ್ಧಾನುಲೇಪನಮ್ |\nಸರ್ವಾಶ್ಚರ್ಯಮಯಂ ದೇವಮನನ್ತಂ ವಿಶ್ವತೋಮುಖಮ್ ||೧೧-೧೧||"
     },
-    "transliteration": "divyamālyāmbaradharaṃ divyagandhānulepanam .\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham ||11-11||",
-    "life_application": "Sense the divine presence wearing heavenly garlands, garments, and ointments, all-wonderful, resplendent, and boundless.",
+    "transliteration": {
+        "hi": "दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् |\nसर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् ||११-११||",
+        "en": "divyamālyāmbaradharaṃ divyagandhānulepanam .\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham ||11-11||",
+        "be": "দিব্যমাল্যাম্বরধরং দিব্যগন্ধানুলেপনম্ |\nসর্বাশ্চর্যমযং দেবমনন্তং বিশ্বতোমুখম্ ||১১-১১||",
+        "ka": "ದಿವ್ಯಮಾಲ್ಯಾಮ್ಬರಧರಂ ದಿವ್ಯಗನ್ಧಾನುಲೇಪನಮ್ |\nಸರ್ವಾಶ್ಚರ್ಯಮಯಂ ದೇವಮನನ್ತಂ ವಿಶ್ವತೋಮುಖಮ್ ||೧೧-೧೧||"
+    },
+    "life_application": {
+        "hi": "स्वर्गीय मालाओं, वस्त्रों और लेपों को पहनकर दिव्य उपस्थिति को महसूस करें, सर्व-अद्भुत, देदीप्यमान और असीम।",
+        "en": "Sense the divine presence wearing heavenly garlands, garments, and ointments, all-wonderful, resplendent, and boundless.",
+        "be": "স্বর্গীয় মালা, পোশাক এবং মলম পরিধান করে ঐশ্বরিক উপস্থিতি অনুভব করুন, সর্ব-বিস্ময়কর, উজ্জ্বল এবং সীমাহীন।",
+        "ka": "ಸ್ವರ್ಗೀಯ ಹೂಮಾಲೆಗಳು, ವಸ್ತ್ರಗಳು ಮತ್ತು ಮುಲಾಮುಗಳನ್ನು ಧರಿಸಿರುವ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಗ್ರಹಿಸಿ, ಎಲ್ಲಾ ಅದ್ಭುತ, ಪ್ರಕಾಶಮಾನ ಮತ್ತು ಮಿತಿಯಿಲ್ಲ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,33 +33,93 @@
     "word_meanings": [
         {
             "sanskrit": "दिव्यमाल्याम्बरधरम्",
-            "transliteration": "divyamālyāmbaradharam",
-            "meaning": "wearing divine garlands and"
+            "transliteration": {
+                "hi": "दिव्यमाल्याम्बरधरम्",
+                "en": "divyamālyāmbaradharam",
+                "be": "দিব্যমাল্যাম্বরধরম্",
+                "ka": "ದಿವ್ಯಮಾಲ್ಯಾಮ್ಬರಧರಮ್"
+            },
+            "meaning": {
+                "hi": "दिव्य मालाएं धारण करना तथा",
+                "en": "wearing divine garlands and",
+                "be": "ঐশ্বরিক মালা পরা এবং",
+                "ka": "ದೈವಿಕ ಮಾಲೆಗಳನ್ನು ಧರಿಸಿ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "दिव्यगन्धानुलेपनम्",
-            "transliteration": "divyagandhānulepanam",
-            "meaning": "anointed with divine unguents"
+            "transliteration": {
+                "hi": "दिव्यगन्धानुलेपनम्",
+                "en": "divyagandhānulepanam",
+                "be": "দিব্যগন্ধানুলেপনম্",
+                "ka": "ದಿವ್ಯಗನ್ಧಾನುಲೇಪನಮ್"
+            },
+            "meaning": {
+                "hi": "दिव्य द्रव्यों से अभिषिक्त",
+                "en": "anointed with divine unguents",
+                "be": "ঐশ্বরিক unguents সঙ্গে অভিষিক্ত",
+                "ka": "ದೈವಿಕ ದ್ರವ್ಯಗಳಿಂದ ಅಭಿಷೇಕಿಸಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "सर्वाश्चर्यमयम्",
-            "transliteration": "sarvāścaryamayam",
-            "meaning": "the allwonderful"
+            "transliteration": {
+                "hi": "सर्वाश्चर्यमयम्",
+                "en": "sarvāścaryamayam",
+                "be": "সর্বাশ্চর্যমযম্",
+                "ka": "ಸರ್ವಾಶ್ಚರ್ಯಮಯಮ್"
+            },
+            "meaning": {
+                "hi": "सर्व अद्भुत",
+                "en": "the allwonderful",
+                "be": "সব বিস্ময়কর",
+                "ka": "ಎಲ್ಲಾ ಅದ್ಭುತ"
+            }
         },
         {
             "sanskrit": "देवम्",
-            "transliteration": "devam",
-            "meaning": "resplendent"
+            "transliteration": {
+                "hi": "देवम्",
+                "en": "devam",
+                "be": "দেবম্",
+                "ka": "ದೇವಮ್"
+            },
+            "meaning": {
+                "hi": "देदीप्यमान",
+                "en": "resplendent",
+                "be": "উজ্জ্বল",
+                "ka": "ಕಾಂತಿಯುತ"
+            }
         },
         {
             "sanskrit": "अनन्तम्",
-            "transliteration": "anantam",
-            "meaning": "endless"
+            "transliteration": {
+                "hi": "अनन्तम्",
+                "en": "anantam",
+                "be": "অনন্তম্",
+                "ka": "ಅನನ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "अंतहीन",
+                "en": "endless",
+                "be": "অন্তহীন",
+                "ka": "ಅಂತ್ಯವಿಲ್ಲದ"
+            }
         },
         {
             "sanskrit": "विश्वतोमुखम्",
-            "transliteration": "viśvatomukham",
-            "meaning": "with faces on all"
+            "transliteration": {
+                "hi": "विश्वतोमुखम्",
+                "en": "viśvatomukham",
+                "be": "বিশ্বতোমুখম্",
+                "ka": "ವಿಶ್ವತೋಮುಖಮ್"
+            },
+            "meaning": {
+                "hi": "सभी पर चेहरे के साथ",
+                "en": "with faces on all",
+                "be": "সবার মুখের সাথে",
+                "ka": "ಎಲ್ಲರ ಮುಖಗಳೊಂದಿಗೆ"
+            }
         }
     ],
     "tej": {

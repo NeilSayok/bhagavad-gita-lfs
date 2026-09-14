@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nmadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam .\nyattvayoktaṃ vacastena moho.ayaṃ vigato mama ||11-1||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಮದನುಗ್ರಹಾಯ ಪರಮಂ ಗುಹ್ಯಮಧ್ಯಾತ್ಮಸಂಜ್ಞಿತಮ್ |\nಯತ್ತ್ವಯೋಕ್ತಂ ವಚಸ್ತೇನ ಮೋಹೋಽಯಂ ವಿಗತೋ ಮಮ ||೧೧-೧||"
     },
-    "transliteration": "arjuna uvāca .\nmadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam .\nyattvayoktaṃ vacastena moho.ayaṃ vigato mama ||11-1||",
-    "life_application": "Express gratitude for receiving deep spiritual insights that dissolve your personal confusion and clear away mental doubts.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nमदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् |\nयत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ||११-१||",
+        "en": "arjuna uvāca .\nmadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam .\nyattvayoktaṃ vacastena moho.ayaṃ vigato mama ||11-1||",
+        "be": "অর্জুন উবাচ |\nমদনুগ্রহায পরমং গুহ্যমধ্যাত্মসংজ্ঞিতম্ |\nযত্ত্বযোক্তং বচস্তেন মোহোঽযং বিগতো মম ||১১-১||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಮದನುಗ್ರಹಾಯ ಪರಮಂ ಗುಹ್ಯಮಧ್ಯಾತ್ಮಸಂಜ್ಞಿತಮ್ |\nಯತ್ತ್ವಯೋಕ್ತಂ ವಚಸ್ತೇನ ಮೋಹೋಽಯಂ ವಿಗತೋ ಮಮ ||೧೧-೧||"
+    },
+    "life_application": {
+        "hi": "गहरी आध्यात्मिक अंतर्दृष्टि प्राप्त करने के लिए आभार व्यक्त करें जो आपके व्यक्तिगत भ्रम को दूर करती है और मानसिक शंकाओं को दूर करती है।",
+        "en": "Express gratitude for receiving deep spiritual insights that dissolve your personal confusion and clear away mental doubts.",
+        "be": "গভীর আধ্যাত্মিক অন্তর্দৃষ্টি পাওয়ার জন্য কৃতজ্ঞতা প্রকাশ করুন যা আপনার ব্যক্তিগত বিভ্রান্তি দূর করে এবং মানসিক সন্দেহ দূর করে।",
+        "ka": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಗೊಂದಲವನ್ನು ಕರಗಿಸುವ ಮತ್ತು ಮಾನಸಿಕ ಅನುಮಾನಗಳನ್ನು ನಿವಾರಿಸುವ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟಗಳನ್ನು ಸ್ವೀಕರಿಸಿದ್ದಕ್ಕಾಗಿ ಕೃತಜ್ಞತೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Devotion"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "मदनुग्रहाय",
-            "transliteration": "madanugrahāya",
-            "meaning": "for the sake of"
+            "transliteration": {
+                "hi": "मदनुग्रहाय",
+                "en": "madanugrahāya",
+                "be": "মদনুগ্রহায",
+                "ka": "ಮದನುಗ್ರಹಾಯ"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for the sake of",
+                "be": "জন্য",
+                "ka": "ಸಲುವಾಗಿ"
+            }
         },
         {
             "sanskrit": "परमम्",
-            "transliteration": "paramam",
-            "meaning": "the highest"
+            "transliteration": {
+                "hi": "परमम्",
+                "en": "paramam",
+                "be": "পরমম্",
+                "ka": "ಪರಮಮ್"
+            },
+            "meaning": {
+                "hi": "उच्चतम",
+                "en": "the highest",
+                "be": "সর্বোচ্চ",
+                "ka": "ಅತ್ಯಧಿಕ"
+            }
         },
         {
             "sanskrit": "गुह्यम्",
-            "transliteration": "guhyam",
-            "meaning": "the secret"
+            "transliteration": {
+                "hi": "गुह्यम्",
+                "en": "guhyam",
+                "be": "গুহ্যম্",
+                "ka": "ಗುಹ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "रहस्य",
+                "en": "the secret",
+                "be": "গোপন",
+                "ka": "ರಹಸ್ಯ"
+            }
         },
         {
             "sanskrit": "अध्यात्मसंज्ञितम्",
-            "transliteration": "adhyātmasaṃjñitam",
-            "meaning": "called Adhyatma"
+            "transliteration": {
+                "hi": "अध्यात्मसंज्ञितम्",
+                "en": "adhyātmasaṃjñitam",
+                "be": "অধ্যাত্মসংজ্ঞিতম্",
+                "ka": "ಅಧ್ಯಾತ್ಮಸಂಜ್ಞಿತಮ್"
+            },
+            "meaning": {
+                "hi": "अध्यात्म कहा जाता है",
+                "en": "called Adhyatma",
+                "be": "বলা হয় অধ্যাত্ম",
+                "ka": "ಅಧ್ಯಾತ್ಮ ಎಂದು ಕರೆಯುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "यत्",
-            "transliteration": "yat",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यत्",
+                "en": "yat",
+                "be": "যত্",
+                "ka": "ಯತ್"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "त्वया",
-            "transliteration": "tvayā",
-            "meaning": "by Thee"
+            "transliteration": {
+                "hi": "त्वया",
+                "en": "tvayā",
+                "be": "ত্বযা",
+                "ka": "ತ್ವಯಾ"
+            },
+            "meaning": {
+                "hi": "आपके द्वारा",
+                "en": "by Thee",
+                "be": "তোমার দ্বারা",
+                "ka": "ನಿನ್ನಿಂದ"
+            }
         },
         {
             "sanskrit": "उक्तम्",
-            "transliteration": "uktam",
-            "meaning": "spoken"
+            "transliteration": {
+                "hi": "उक्तम्",
+                "en": "uktam",
+                "be": "উক্তম্",
+                "ka": "ಉಕ್ತಮ್"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoken",
+                "be": "কথ্য",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
         },
         {
             "sanskrit": "वचः",
-            "transliteration": "vacaḥ",
-            "meaning": "word"
+            "transliteration": {
+                "hi": "वचः",
+                "en": "vacaḥ",
+                "be": "বচঃ",
+                "ka": "ವಚಃ"
+            },
+            "meaning": {
+                "hi": "शब्द",
+                "en": "word",
+                "be": "শব্দ",
+                "ka": "ಪದ"
+            }
         },
         {
             "sanskrit": "तेन",
-            "transliteration": "tena",
-            "meaning": "by that"
+            "transliteration": {
+                "hi": "तेन",
+                "en": "tena",
+                "be": "তেন",
+                "ka": "ತೇನ"
+            },
+            "meaning": {
+                "hi": "उससे",
+                "en": "by that",
+                "be": "যে দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "मोहः",
-            "transliteration": "mohaḥ",
-            "meaning": "delusion"
+            "transliteration": {
+                "hi": "मोहः",
+                "en": "mohaḥ",
+                "be": "মোহঃ",
+                "ka": "ಮೋಹಃ"
+            },
+            "meaning": {
+                "hi": "माया",
+                "en": "delusion",
+                "be": "বিভ্রম",
+                "ka": "ಭ್ರಮೆ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "विगतः",
-            "transliteration": "vigataḥ",
-            "meaning": "gone"
+            "transliteration": {
+                "hi": "विगतः",
+                "en": "vigataḥ",
+                "be": "বিগতঃ",
+                "ka": "ವಿಗತಃ"
+            },
+            "meaning": {
+                "hi": "चला गया",
+                "en": "gone",
+                "be": "চলে গেছে",
+                "ka": "ಹೋಗಿದೆ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my."
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा।",
+                "en": "my.",
+                "be": "আমার",
+                "ka": "ನನ್ನ."
+            }
         }
     ],
     "tej": {

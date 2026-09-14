@@ -14,8 +14,18 @@
         "en": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||",
         "ka": "ತತಃ ಸ ವಿಸ್ಮಯಾವಿಷ್ಟೋ ಹೃಷ್ಟರೋಮಾ ಧನಞ್ಜಯಃ |\nಪ್ರಣಮ್ಯ ಶಿರಸಾ ದೇವಂ ಕೃತಾಞ್ಜಲಿರಭಾಷತ ||೧೧-೧೪||"
     },
-    "transliteration": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||",
-    "life_application": "Bowing your head with reverence when struck with awe, offer your heartfelt prayers to the divine presence.",
+    "transliteration": {
+        "hi": "ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः |\nप्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||",
+        "en": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||",
+        "be": "ততঃ স বিস্মযাবিষ্টো হৃষ্টরোমা ধনঞ্জযঃ |\nপ্রণম্য শিরসা দেবং কৃতাঞ্জলিরভাষত ||১১-১৪||",
+        "ka": "ತತಃ ಸ ವಿಸ್ಮಯಾವಿಷ್ಟೋ ಹೃಷ್ಟರೋಮಾ ಧನಞ್ಜಯಃ |\nಪ್ರಣಮ್ಯ ಶಿರಸಾ ದೇವಂ ಕೃತಾಞ್ಜಲಿರಭಾಷತ ||೧೧-೧೪||"
+    },
+    "life_application": {
+        "hi": "विस्मय से अभिभूत होने पर श्रद्धा से सिर झुकाकर ईश्वरीय उपस्थिति के प्रति हार्दिक प्रार्थना करें।",
+        "en": "Bowing your head with reverence when struck with awe, offer your heartfelt prayers to the divine presence.",
+        "be": "শ্রদ্ধার সাথে আপনার মাথা নত করে যখন বিস্মিত হয়, তখন ঐশ্বরিক উপস্থিতিতে আপনার আন্তরিক প্রার্থনা করুন।",
+        "ka": "ವಿಸ್ಮಯದಿಂದ ಹೊಡೆದಾಗ ನಿಮ್ಮ ತಲೆಯನ್ನು ಗೌರವದಿಂದ ಬಾಗಿಸಿ, ನಿಮ್ಮ ಹೃತ್ಪೂರ್ವಕ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ದೈವಿಕ ಉಪಸ್ಥಿತಿಗೆ ಸಲ್ಲಿಸಿ."
+    },
     "themes": [
         "Devotion",
         "Equanimity"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "विस्मयाविष्टः",
-            "transliteration": "vismayāviṣṭaḥ",
-            "meaning": "filled with wonder"
+            "transliteration": {
+                "hi": "विस्मयाविष्टः",
+                "en": "vismayāviṣṭaḥ",
+                "be": "বিস্মযাবিষ্টঃ",
+                "ka": "ವಿಸ್ಮಯಾವಿಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "आश्चर्य से भर गया",
+                "en": "filled with wonder",
+                "be": "বিস্ময়ে ভরা",
+                "ka": "ಆಶ್ಚರ್ಯದಿಂದ ತುಂಬಿದೆ"
+            }
         },
         {
             "sanskrit": "हृष्टरोमा",
-            "transliteration": "hṛṣṭaromā",
-            "meaning": "with hair standing on"
+            "transliteration": {
+                "hi": "हृष्टरोमा",
+                "en": "hṛṣṭaromā",
+                "be": "হৃষ্টরোমা",
+                "ka": "ಹೃಷ್ಟರೋಮಾ"
+            },
+            "meaning": {
+                "hi": "बाल खड़े होने के साथ",
+                "en": "with hair standing on",
+                "be": "দাঁড়িয়ে থাকা চুল নিয়ে",
+                "ka": "ಕೂದಲಿನೊಂದಿಗೆ ನಿಂತಿದೆ"
+            }
         },
         {
             "sanskrit": "धनञ्जयः",
-            "transliteration": "dhanañjayaḥ",
-            "meaning": "Arjuna"
+            "transliteration": {
+                "hi": "धनञ्जयः",
+                "en": "dhanañjayaḥ",
+                "be": "ধনঞ্জযঃ",
+                "ka": "ಧನಞ್ಜಯಃ"
+            },
+            "meaning": {
+                "hi": "अर्जुन",
+                "en": "Arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            }
         },
         {
             "sanskrit": "प्रणम्य",
-            "transliteration": "praṇamya",
-            "meaning": "having prostrated"
+            "transliteration": {
+                "hi": "प्रणम्य",
+                "en": "praṇamya",
+                "be": "প্রণম্য",
+                "ka": "ಪ್ರಣಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "साष्टांग प्रणाम करना",
+                "en": "having prostrated",
+                "be": "সেজদা করা",
+                "ka": "ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಿದ"
+            }
         },
         {
             "sanskrit": "शिरसा",
-            "transliteration": "śirasā",
-            "meaning": "with head"
+            "transliteration": {
+                "hi": "शिरसा",
+                "en": "śirasā",
+                "be": "শিরসা",
+                "ka": "ಶಿರಸಾ"
+            },
+            "meaning": {
+                "hi": "सिर के साथ",
+                "en": "with head",
+                "be": "মাথা দিয়ে",
+                "ka": "ತಲೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "देवम्",
-            "transliteration": "devam",
-            "meaning": "the God"
+            "transliteration": {
+                "hi": "देवम्",
+                "en": "devam",
+                "be": "দেবম্",
+                "ka": "ದೇವಮ್"
+            },
+            "meaning": {
+                "hi": "भगवान",
+                "en": "the God",
+                "be": "ঈশ্বর",
+                "ka": "ದೇವರು"
+            }
         },
         {
             "sanskrit": "कृताञ्जलिः",
-            "transliteration": "kṛtāñjaliḥ",
-            "meaning": "with joined palms"
+            "transliteration": {
+                "hi": "कृताञ्जलिः",
+                "en": "kṛtāñjaliḥ",
+                "be": "কৃতাঞ্জলিঃ",
+                "ka": "ಕೃತಾಞ್ಜಲಿಃ"
+            },
+            "meaning": {
+                "hi": "जुड़ी हुई हथेलियों के साथ",
+                "en": "with joined palms",
+                "be": "যোগ করা হাতের তালু দিয়ে",
+                "ka": "ಸೇರಿಕೊಂಡ ಅಂಗೈಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अभाषत",
-            "transliteration": "abhāṣata",
-            "meaning": "spoke."
+            "transliteration": {
+                "hi": "अभाषत",
+                "en": "abhāṣata",
+                "be": "অভাষত",
+                "ka": "ಅಭಾಷತ"
+            },
+            "meaning": {
+                "hi": "बोला.",
+                "en": "spoke.",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು."
+            }
         }
     ],
     "tej": {

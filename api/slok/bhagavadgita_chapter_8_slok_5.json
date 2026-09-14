@@ -14,8 +14,18 @@
         "en": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||",
         "ka": "ಅನ್ತಕಾಲೇ ಚ ಮಾಮೇವ ಸ್ಮರನ್ಮುಕ್ತ್ವಾ ಕಲೇವರಮ್ |\nಯಃ ಪ್ರಯಾತಿ ಸ ಮದ್ಭಾವಂ ಯಾತಿ ನಾಸ್ತ್ಯತ್ರ ಸಂಶಯಃ ||೮-೫||"
     },
-    "transliteration": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||",
-    "life_application": "Remember God at the time of leaving your body to attain the divine state without any doubt.",
+    "transliteration": {
+        "hi": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||",
+        "en": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||",
+        "be": "অন্তকালে চ মামেব স্মরন্মুক্ত্বা কলেবরম্ |\nযঃ প্রযাতি স মদ্ভাবং যাতি নাস্ত্যত্র সংশযঃ ||৮-৫||",
+        "ka": "ಅನ್ತಕಾಲೇ ಚ ಮಾಮೇವ ಸ್ಮರನ್ಮುಕ್ತ್ವಾ ಕಲೇವರಮ್ |\nಯಃ ಪ್ರಯಾತಿ ಸ ಮದ್ಭಾವಂ ಯಾತಿ ನಾಸ್ತ್ಯತ್ರ ಸಂಶಯಃ ||೮-೫||"
+    },
+    "life_application": {
+        "hi": "बिना किसी संदेह के दिव्य अवस्था प्राप्त करने के लिए अपने शरीर को छोड़ते समय भगवान को याद करें।",
+        "en": "Remember God at the time of leaving your body to attain the divine state without any doubt.",
+        "be": "নিঃসন্দেহে ঐশ্বরিক অবস্থা লাভের জন্য শরীর ত্যাগ করার সময় ঈশ্বরকে স্মরণ করুন।",
+        "ka": "ಯಾವುದೇ ಸಂದೇಹವಿಲ್ಲದೆ ದೈವಿಕ ಸ್ಥಿತಿಯನ್ನು ಪಡೆಯಲು ನಿಮ್ಮ ದೇಹವನ್ನು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ದೇವರನ್ನು ಸ್ಮರಿಸಿ."
+    },
     "themes": [
         "Death",
         "Devotion"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अन्तकाले",
-            "transliteration": "antakāle",
-            "meaning": "antakāle"
+            "transliteration": {
+                "hi": "अन्तकाले",
+                "en": "antakāle",
+                "be": "অন্তকালে",
+                "ka": "ಅನ್ತಕಾಲೇ"
+            },
+            "meaning": {
+                "hi": "अंताकाले",
+                "en": "antakāle",
+                "be": "antakāle",
+                "ka": "ಅಂತಕಳೆ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मामेव",
-            "transliteration": "māmeva",
-            "meaning": "māmeva"
+            "transliteration": {
+                "hi": "मामेव",
+                "en": "māmeva",
+                "be": "মামেব",
+                "ka": "ಮಾಮೇವ"
+            },
+            "meaning": {
+                "hi": "मामेवा",
+                "en": "māmeva",
+                "be": "মামেভা",
+                "ka": "ಮಾಮೇವ"
+            }
         },
         {
             "sanskrit": "स्मरन्मुक्त्वा",
-            "transliteration": "smaranmuktvā",
-            "meaning": "smaranmuktvā"
+            "transliteration": {
+                "hi": "स्मरन्मुक्त्वा",
+                "en": "smaranmuktvā",
+                "be": "স্মরন্মুক্ত্বা",
+                "ka": "ಸ್ಮರನ್ಮುಕ್ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "स्मरणमुक्त्वा",
+                "en": "smaranmuktvā",
+                "be": "smaranmuktvā",
+                "ka": "ಸ್ಮರಣ್ಮುಕ್ತ್ವಾ"
+            }
         },
         {
             "sanskrit": "कलेवरम्",
-            "transliteration": "kalevaram",
-            "meaning": "kalevaram"
+            "transliteration": {
+                "hi": "कलेवरम्",
+                "en": "kalevaram",
+                "be": "কলেবরম্",
+                "ka": "ಕಲೇವರಮ್"
+            },
+            "meaning": {
+                "hi": "कलेवरम",
+                "en": "kalevaram",
+                "be": "কালেভরম",
+                "ka": "ಕಳೆವರಂ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "yaḥ"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "हां",
+                "en": "yaḥ",
+                "be": "ইয়াহ",
+                "ka": "ಹೌದು"
+            }
         },
         {
             "sanskrit": "प्रयाति",
-            "transliteration": "prayāti",
-            "meaning": "prayāti"
+            "transliteration": {
+                "hi": "प्रयाति",
+                "en": "prayāti",
+                "be": "প্রযাতি",
+                "ka": "ಪ್ರಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "प्रयाति",
+                "en": "prayāti",
+                "be": "প্রার্থনা",
+                "ka": "ಪ್ರಯಾತಿ"
+            }
         },
         {
             "sanskrit": "स",
-            "transliteration": "sa",
-            "meaning": "sa"
+            "transliteration": {
+                "hi": "स",
+                "en": "sa",
+                "be": "স",
+                "ka": "ಸ"
+            },
+            "meaning": {
+                "hi": "सा",
+                "en": "sa",
+                "be": "সা",
+                "ka": "ಸಾ"
+            }
         },
         {
             "sanskrit": "मद्भावं",
-            "transliteration": "madbhāvaṃ",
-            "meaning": "madbhāvaṃ"
+            "transliteration": {
+                "hi": "मद्भावं",
+                "en": "madbhāvaṃ",
+                "be": "মদ্ভাবং",
+                "ka": "ಮದ್ಭಾವಂ"
+            },
+            "meaning": {
+                "hi": "मदभवं",
+                "en": "madbhāvaṃ",
+                "be": "madbhāvaṃ",
+                "ka": "ಮದ್ಭಾವ"
+            }
         },
         {
             "sanskrit": "याति",
-            "transliteration": "yāti",
-            "meaning": "yāti"
+            "transliteration": {
+                "hi": "याति",
+                "en": "yāti",
+                "be": "যাতি",
+                "ka": "ಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "यति",
+                "en": "yāti",
+                "be": "yāti",
+                "ka": "ಯಾತಿ"
+            }
         },
         {
             "sanskrit": "नास्त्यत्र",
-            "transliteration": "nāstyatra",
-            "meaning": "nāstyatra"
+            "transliteration": {
+                "hi": "नास्त्यत्र",
+                "en": "nāstyatra",
+                "be": "নাস্ত্যত্র",
+                "ka": "ನಾಸ್ತ್ಯತ್ರ"
+            },
+            "meaning": {
+                "hi": "नास्त्यत्र",
+                "en": "nāstyatra",
+                "be": "nāstyatra",
+                "ka": "ನಾಸ್ತ್ಯಯಾತ್ರೆ"
+            }
         },
         {
             "sanskrit": "संशयः",
-            "transliteration": "saṃśayaḥ",
-            "meaning": "saṃśayaḥ"
+            "transliteration": {
+                "hi": "संशयः",
+                "en": "saṃśayaḥ",
+                "be": "সংশযঃ",
+                "ka": "ಸಂಶಯಃ"
+            },
+            "meaning": {
+                "hi": "संशयः",
+                "en": "saṃśayaḥ",
+                "be": "সংশয়ঃ",
+                "ka": "ಸಂಶಯಃ"
+            }
         }
     ],
     "tej": {

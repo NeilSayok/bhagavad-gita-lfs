@@ -14,8 +14,18 @@
         "en": "avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam .\nparaṃ bhāvamajānanto mama bhūtamaheśvaram ||9-11||",
         "ka": "ಅವಜಾನನ್ತಿ ಮಾಂ ಮೂಢಾ ಮಾನುಷೀಂ ತನುಮಾಶ್ರಿತಮ್ |\nಪರಂ ಭಾವಮಜಾನನ್ತೋ ಮಮ ಭೂತಮಹೇಶ್ವರಮ್ ||೯-೧೧||"
     },
-    "transliteration": "avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam .\nparaṃ bhāvamajānanto mama bhūtamaheśvaram ||9-11||",
-    "life_application": "Do not disregard the divine presence when masked in human form, failing to know God's supreme nature.",
+    "transliteration": {
+        "hi": "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |\nपरं भावमजानन्तो मम भूतमहेश्वरम् ||९-११||",
+        "en": "avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam .\nparaṃ bhāvamajānanto mama bhūtamaheśvaram ||9-11||",
+        "be": "অবজানন্তি মাং মূঢা মানুষীং তনুমাশ্রিতম্ |\nপরং ভাবমজানন্তো মম ভূতমহেশ্বরম্ ||৯-১১||",
+        "ka": "ಅವಜಾನನ್ತಿ ಮಾಂ ಮೂಢಾ ಮಾನುಷೀಂ ತನುಮಾಶ್ರಿತಮ್ |\nಪರಂ ಭಾವಮಜಾನನ್ತೋ ಮಮ ಭೂತಮಹೇಶ್ವರಮ್ ||೯-೧೧||"
+    },
+    "life_application": {
+        "hi": "मानव रूप में प्रच्छन्न होकर ईश्वर की सर्वोच्च प्रकृति को जानने में असफल होने पर ईश्वरीय उपस्थिति की उपेक्षा न करें।",
+        "en": "Do not disregard the divine presence when masked in human form, failing to know God's supreme nature.",
+        "be": "মানুষের রূপে মুখোশ পরে ঈশ্বরের উপস্থিতি উপেক্ষা করবেন না, ঈশ্বরের সর্বোচ্চ প্রকৃতি জানতে ব্যর্থ.",
+        "ka": "ದೇವರ ಪರಮೋನ್ನತ ಸ್ವರೂಪವನ್ನು ತಿಳಿದುಕೊಳ್ಳಲು ವಿಫಲವಾದ ಮಾನವ ರೂಪದಲ್ಲಿ ಮುಖವಾಡವನ್ನು ಧರಿಸಿದಾಗ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ."
+    },
     "themes": [
         "Devotion",
         "Knowledge"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "अवजानन्ति",
-            "transliteration": "avajānanti",
-            "meaning": "avajānanti"
+            "transliteration": {
+                "hi": "अवजानन्ति",
+                "en": "avajānanti",
+                "be": "অবজানন্তি",
+                "ka": "ಅವಜಾನನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "अवजानन्ति",
+                "en": "avajānanti",
+                "be": "avajānanti",
+                "ka": "ಅವಜಾನಂತಿ"
+            }
         },
         {
             "sanskrit": "मां",
-            "transliteration": "māṃ",
-            "meaning": "māṃ"
+            "transliteration": {
+                "hi": "मां",
+                "en": "māṃ",
+                "be": "মাং",
+                "ka": "ಮಾಂ"
+            },
+            "meaning": {
+                "hi": "माँ",
+                "en": "māṃ",
+                "be": "māṃ",
+                "ka": "māṃ"
+            }
         },
         {
             "sanskrit": "मूढा",
-            "transliteration": "mūḍhā",
-            "meaning": "mūḍhā"
+            "transliteration": {
+                "hi": "मूढा",
+                "en": "mūḍhā",
+                "be": "মূঢা",
+                "ka": "ಮೂಢಾ"
+            },
+            "meaning": {
+                "hi": "मूढा",
+                "en": "mūḍhā",
+                "be": "মুহা",
+                "ka": "ಮೂಢ"
+            }
         },
         {
             "sanskrit": "मानुषीं",
-            "transliteration": "mānuṣīṃ",
-            "meaning": "mānuṣīṃ"
+            "transliteration": {
+                "hi": "मानुषीं",
+                "en": "mānuṣīṃ",
+                "be": "মানুষীং",
+                "ka": "ಮಾನುಷೀಂ"
+            },
+            "meaning": {
+                "hi": "मानुषीम्",
+                "en": "mānuṣīṃ",
+                "be": "মনুষীষ",
+                "ka": "ಮಾನುಷಿ"
+            }
         },
         {
             "sanskrit": "तनुमाश्रितम्",
-            "transliteration": "tanumāśritam",
-            "meaning": "tanumāśritam"
+            "transliteration": {
+                "hi": "तनुमाश्रितम्",
+                "en": "tanumāśritam",
+                "be": "তনুমাশ্রিতম্",
+                "ka": "ತನುಮಾಶ್ರಿತಮ್"
+            },
+            "meaning": {
+                "hi": "तनुमाश्रितम्",
+                "en": "tanumāśritam",
+                "be": "তনুমাশ্রিতম",
+                "ka": "ತನುಮಾಶ್ರಿತಮ್"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "भावमजानन्तो",
-            "transliteration": "bhāvamajānanto",
-            "meaning": "bhāvamajānanto"
+            "transliteration": {
+                "hi": "भावमजानन्तो",
+                "en": "bhāvamajānanto",
+                "be": "ভাবমজানন্তো",
+                "ka": "ಭಾವಮಜಾನನ್ತೋ"
+            },
+            "meaning": {
+                "hi": "भावमजानन्तो",
+                "en": "bhāvamajānanto",
+                "be": "bhāvamajānanto",
+                "ka": "ಭಾವಮಜಾನಂತೋ"
+            }
         },
         {
             "sanskrit": "मम",
-            "transliteration": "mama",
-            "meaning": "my"
+            "transliteration": {
+                "hi": "मम",
+                "en": "mama",
+                "be": "মম",
+                "ka": "ಮಮ"
+            },
+            "meaning": {
+                "hi": "मेरा",
+                "en": "my",
+                "be": "আমার",
+                "ka": "ನನ್ನ"
+            }
         },
         {
             "sanskrit": "भूतमहेश्वरम्",
-            "transliteration": "bhūtamaheśvaram",
-            "meaning": "bhūtamaheśvaram"
+            "transliteration": {
+                "hi": "भूतमहेश्वरम्",
+                "en": "bhūtamaheśvaram",
+                "be": "ভূতমহেশ্বরম্",
+                "ka": "ಭೂತಮಹೇಶ್ವರಮ್"
+            },
+            "meaning": {
+                "hi": "भूतमहेश्वरम्",
+                "en": "bhūtamaheśvaram",
+                "be": "ভূতমহেশ্বরম",
+                "ka": "ಭೂತಮಹೇಶ್ವರಂ"
+            }
         }
     ],
     "tej": {

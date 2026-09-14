@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಕ್ಷರಂ ಬ್ರಹ್ಮ ಪರಮಂ ಸ್ವಭಾವೋಽಧ್ಯಾತ್ಮಮುಚ್ಯತೇ |\nಭೂತಭಾವೋದ್ಭವಕರೋ ವಿಸರ್ಗಃ ಕರ್ಮಸಂಜ್ಞಿತಃ ||೮-೩||"
     },
-    "transliteration": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||",
-    "life_application": "Know Brahman as the supreme imperishable entity, the Self as innate nature, and action as the creative force of life.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ||८-३||",
+        "en": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||",
+        "be": "শ্রীভগবানুবাচ |\nঅক্ষরং ব্রহ্ম পরমং স্বভাবোঽধ্যাত্মমুচ্যতে |\nভূতভাবোদ্ভবকরো বিসর্গঃ কর্মসংজ্ঞিতঃ ||৮-৩||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಅಕ್ಷರಂ ಬ್ರಹ್ಮ ಪರಮಂ ಸ್ವಭಾವೋಽಧ್ಯಾತ್ಮಮುಚ್ಯತೇ |\nಭೂತಭಾವೋದ್ಭವಕರೋ ವಿಸರ್ಗಃ ಕರ್ಮಸಂಜ್ಞಿತಃ ||೮-೩||"
+    },
+    "life_application": {
+        "hi": "ब्रह्म को सर्वोच्च अविनाशी इकाई के रूप में, आत्मा को सहज प्रकृति के रूप में और क्रिया को जीवन की रचनात्मक शक्ति के रूप में जानें।",
+        "en": "Know Brahman as the supreme imperishable entity, the Self as innate nature, and action as the creative force of life.",
+        "be": "ব্রহ্মকে পরম অবিনশ্বর সত্তা, আত্মকে সহজাত প্রকৃতি এবং কর্মকে জীবনের সৃজনশীল শক্তি হিসাবে জানুন।",
+        "ka": "ಬ್ರಹ್ಮವನ್ನು ಸರ್ವೋನ್ನತ ಅವಿನಾಶಿ ಘಟಕವೆಂದು ತಿಳಿಯಿರಿ, ಆತ್ಮವನ್ನು ಸಹಜ ಸ್ವಭಾವವೆಂದು ಮತ್ತು ಕ್ರಿಯೆಯನ್ನು ಜೀವನದ ಸೃಜನಶೀಲ ಶಕ್ತಿ ಎಂದು ತಿಳಿಯಿರಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "श्रीभगवानुवाच",
-            "transliteration": "śrībhagavānuvāca",
-            "meaning": "the Supreme Lord said"
+            "transliteration": {
+                "hi": "श्रीभगवानुवाच",
+                "en": "śrībhagavānuvāca",
+                "be": "শ্রীভগবানুবাচ",
+                "ka": "ಶ್ರೀಭಗವಾನುವಾಚ"
+            },
+            "meaning": {
+                "hi": "परमेश्वर ने कहा",
+                "en": "the Supreme Lord said",
+                "be": "পরমেশ্বর বলেছেন",
+                "ka": "ಪರಮಾತ್ಮನು ಹೇಳಿದನು"
+            }
         },
         {
             "sanskrit": "अक्षरं",
-            "transliteration": "akṣaraṃ",
-            "meaning": "akṣaraṃ"
+            "transliteration": {
+                "hi": "अक्षरं",
+                "en": "akṣaraṃ",
+                "be": "অক্ষরং",
+                "ka": "ಅಕ್ಷರಂ"
+            },
+            "meaning": {
+                "hi": "अक्षरम्",
+                "en": "akṣaraṃ",
+                "be": "akṣaraṃ",
+                "ka": "ಅಕ್ಷರಂ"
+            }
         },
         {
             "sanskrit": "ब्रह्म",
-            "transliteration": "brahma",
-            "meaning": "brahma"
+            "transliteration": {
+                "hi": "ब्रह्म",
+                "en": "brahma",
+                "be": "ব্রহ্ম",
+                "ka": "ಬ್ರಹ್ಮ"
+            },
+            "meaning": {
+                "hi": "ब्रह्मा",
+                "en": "brahma",
+                "be": "ব্রহ্মা",
+                "ka": "ಬ್ರಹ್ಮ"
+            }
         },
         {
             "sanskrit": "परमं",
-            "transliteration": "paramaṃ",
-            "meaning": "paramaṃ"
+            "transliteration": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "स्वभावोऽध्यात्ममुच्यते",
-            "transliteration": "svabhāvo'dhyātmamucyate",
-            "meaning": "svabhāvo'dhyātmamucyate"
+            "transliteration": {
+                "hi": "स्वभावोऽध्यात्ममुच्यते",
+                "en": "svabhāvo'dhyātmamucyate",
+                "be": "স্বভাবোঽধ্যাত্মমুচ্যতে",
+                "ka": "ಸ್ವಭಾವೋಽಧ್ಯಾತ್ಮಮುಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "स्वभावोऽध्यात्ममुच्यते",
+                "en": "svabhāvo'dhyātmamucyate",
+                "be": "svabhavo'dhyātmamucyate",
+                "ka": "ಸ್ವಭಾವೋ'ಧ್ಯಾತ್ಮಮುಚ್ಯತೇ"
+            }
         },
         {
             "sanskrit": "भूतभावोद्भवकरो",
-            "transliteration": "bhūtabhāvodbhavakaro",
-            "meaning": "bhūtabhāvodbhavakaro"
+            "transliteration": {
+                "hi": "भूतभावोद्भवकरो",
+                "en": "bhūtabhāvodbhavakaro",
+                "be": "ভূতভাবোদ্ভবকরো",
+                "ka": "ಭೂತಭಾವೋದ್ಭವಕರೋ"
+            },
+            "meaning": {
+                "hi": "भूतभावोद्भवकरो",
+                "en": "bhūtabhāvodbhavakaro",
+                "be": "bhūtabhavodbhavakaro",
+                "ka": "ಭೂತಭಾವೋದ್ಭವಕಾರೋ"
+            }
         },
         {
             "sanskrit": "विसर्गः",
-            "transliteration": "visargaḥ",
-            "meaning": "visargaḥ"
+            "transliteration": {
+                "hi": "विसर्गः",
+                "en": "visargaḥ",
+                "be": "বিসর্গঃ",
+                "ka": "ವಿಸರ್ಗಃ"
+            },
+            "meaning": {
+                "hi": "विसर्गः",
+                "en": "visargaḥ",
+                "be": "বিসর্গঃ",
+                "ka": "ವಿಸರ್ಗಃ"
+            }
         },
         {
             "sanskrit": "कर्मसंज्ञितः",
-            "transliteration": "karmasaṃjñitaḥ",
-            "meaning": "karmasaṃjñitaḥ"
+            "transliteration": {
+                "hi": "कर्मसंज्ञितः",
+                "en": "karmasaṃjñitaḥ",
+                "be": "কর্মসংজ্ঞিতঃ",
+                "ka": "ಕರ್ಮಸಂಜ್ಞಿತಃ"
+            },
+            "meaning": {
+                "hi": "कर्मसंज्ञित:",
+                "en": "karmasaṃjñitaḥ",
+                "be": "কর্মসংশ্লিষ্টঃ",
+                "ka": "ಕರ್ಮಸಂಜ್ಞಿತಃ"
+            }
         }
     ],
     "tej": {

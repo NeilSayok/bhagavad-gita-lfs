@@ -14,8 +14,18 @@
         "en": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||",
         "ka": "ಅಭ್ಯಾಸಯೋಗಯುಕ್ತೇನ ಚೇತಸಾ ನಾನ್ಯಗಾಮಿನಾ |\nಪರಮಂ ಪುರುಷಂ ದಿವ್ಯಂ ಯಾತಿ ಪಾರ್ಥಾನುಚಿನ್ತಯನ್ ||೮-೮||"
     },
-    "transliteration": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||",
-    "life_application": "Train your mind through daily practice not to wander, meditating constantly on the supreme divine person.",
+    "transliteration": {
+        "hi": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना |\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ||८-८||",
+        "en": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||",
+        "be": "অভ্যাসযোগযুক্তেন চেতসা নান্যগামিনা |\nপরমং পুরুষং দিব্যং যাতি পার্থানুচিন্তযন্ ||৮-৮||",
+        "ka": "ಅಭ್ಯಾಸಯೋಗಯುಕ್ತೇನ ಚೇತಸಾ ನಾನ್ಯಗಾಮಿನಾ |\nಪರಮಂ ಪುರುಷಂ ದಿವ್ಯಂ ಯಾತಿ ಪಾರ್ಥಾನುಚಿನ್ತಯನ್ ||೮-೮||"
+    },
+    "life_application": {
+        "hi": "दैनिक अभ्यास के माध्यम से अपने मन को प्रशिक्षित करें कि वह भटके नहीं, निरंतर सर्वोच्च दिव्य व्यक्ति का ध्यान करें।",
+        "en": "Train your mind through daily practice not to wander, meditating constantly on the supreme divine person.",
+        "be": "প্রতিদিনের অভ্যাসের মাধ্যমে আপনার মনকে প্রশিক্ষিত করুন যাতে বিচরণ না করা, সর্বদা পরম ঐশ্বরিক ব্যক্তির ধ্যান করা।",
+        "ka": "ಅಲೆದಾಡದಂತೆ ದೈನಂದಿನ ಅಭ್ಯಾಸದ ಮೂಲಕ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ತರಬೇತಿ ಮಾಡಿ, ಪರಮ ದೈವಿಕ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ನಿರಂತರವಾಗಿ ಧ್ಯಾನ ಮಾಡಿ."
+    },
     "themes": [
         "Mindfulness",
         "Devotion"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अभ्यासयोगयुक्तेन",
-            "transliteration": "abhyāsayogayuktena",
-            "meaning": "abhyāsayogayuktena"
+            "transliteration": {
+                "hi": "अभ्यासयोगयुक्तेन",
+                "en": "abhyāsayogayuktena",
+                "be": "অভ্যাসযোগযুক্তেন",
+                "ka": "ಅಭ್ಯಾಸಯೋಗಯುಕ್ತೇನ"
+            },
+            "meaning": {
+                "hi": "अभ्यासयोगयुक्तेन",
+                "en": "abhyāsayogayuktena",
+                "be": "abhāsayogayuktena",
+                "ka": "ಅಭ್ಯಾಸಯೋಗಯುಕ್ತೇನ"
+            }
         },
         {
             "sanskrit": "चेतसा",
-            "transliteration": "cetasā",
-            "meaning": "cetasā"
+            "transliteration": {
+                "hi": "चेतसा",
+                "en": "cetasā",
+                "be": "চেতসা",
+                "ka": "ಚೇತಸಾ"
+            },
+            "meaning": {
+                "hi": "सीतासा",
+                "en": "cetasā",
+                "be": "cetasā",
+                "ka": "cetasā"
+            }
         },
         {
             "sanskrit": "नान्यगामिना",
-            "transliteration": "nānyagāminā",
-            "meaning": "nānyagāminā"
+            "transliteration": {
+                "hi": "नान्यगामिना",
+                "en": "nānyagāminā",
+                "be": "নান্যগামিনা",
+                "ka": "ನಾನ್ಯಗಾಮಿನಾ"
+            },
+            "meaning": {
+                "hi": "नान्यगामिना",
+                "en": "nānyagāminā",
+                "be": "nānyagāminā",
+                "ka": "ನಾನ್ಯಗಾಮಿನ"
+            }
         },
         {
             "sanskrit": "परमं",
-            "transliteration": "paramaṃ",
-            "meaning": "paramaṃ"
+            "transliteration": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮಂ"
+            },
+            "meaning": {
+                "hi": "परमं",
+                "en": "paramaṃ",
+                "be": "পরমং",
+                "ka": "ಪರಮ"
+            }
         },
         {
             "sanskrit": "पुरुषं",
-            "transliteration": "puruṣaṃ",
-            "meaning": "puruṣaṃ"
+            "transliteration": {
+                "hi": "पुरुषं",
+                "en": "puruṣaṃ",
+                "be": "পুরুষং",
+                "ka": "ಪುರುಷಂ"
+            },
+            "meaning": {
+                "hi": "पुरुषम्",
+                "en": "puruṣaṃ",
+                "be": "purusaṃ",
+                "ka": "ಪುರುಷ"
+            }
         },
         {
             "sanskrit": "दिव्यं",
-            "transliteration": "divyaṃ",
-            "meaning": "divyaṃ"
+            "transliteration": {
+                "hi": "दिव्यं",
+                "en": "divyaṃ",
+                "be": "দিব্যং",
+                "ka": "ದಿವ್ಯಂ"
+            },
+            "meaning": {
+                "hi": "दिव्यम्",
+                "en": "divyaṃ",
+                "be": "divyaṃ",
+                "ka": "divyaṃ"
+            }
         },
         {
             "sanskrit": "याति",
-            "transliteration": "yāti",
-            "meaning": "yāti"
+            "transliteration": {
+                "hi": "याति",
+                "en": "yāti",
+                "be": "যাতি",
+                "ka": "ಯಾತಿ"
+            },
+            "meaning": {
+                "hi": "यति",
+                "en": "yāti",
+                "be": "yāti",
+                "ka": "ಯಾತಿ"
+            }
         },
         {
             "sanskrit": "पार्थानुचिन्तयन्",
-            "transliteration": "pārthānucintayan",
-            "meaning": "pārthānucintayan"
+            "transliteration": {
+                "hi": "पार्थानुचिन्तयन्",
+                "en": "pārthānucintayan",
+                "be": "পার্থানুচিন্তযন্",
+                "ka": "ಪಾರ್ಥಾನುಚಿನ್ತಯನ್"
+            },
+            "meaning": {
+                "hi": "पार्थानुचिन्तायन",
+                "en": "pārthānucintayan",
+                "be": "পার্থানুচিন্তায়ণ",
+                "ka": "ಪಾರ್ಥನುಚಿಂತಾಯನ"
+            }
         }
     ],
     "tej": {

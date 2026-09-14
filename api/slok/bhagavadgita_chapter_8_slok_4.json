@@ -14,8 +14,18 @@
         "en": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||",
         "ka": "ಅಧಿಭೂತಂ ಕ್ಷರೋ ಭಾವಃ ಪುರುಷಶ್ಚಾಧಿದೈವತಮ್ |\nಅಧಿಯಜ್ಞೋಽಹಮೇವಾತ್ರ ದೇಹೇ ದೇಹಭೃತಾಂ ವರ ||೮-೪||"
     },
-    "transliteration": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||",
-    "life_application": "Recognize physical nature as perishable, the divine person as cosmic spirit, and God as the inner sacrifice in the body.",
+    "transliteration": {
+        "hi": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् |\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||",
+        "en": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||",
+        "be": "অধিভূতং ক্ষরো ভাবঃ পুরুষশ্চাধিদৈবতম্ |\nঅধিযজ্ঞোঽহমেবাত্র দেহে দেহভৃতাং বর ||৮-৪||",
+        "ka": "ಅಧಿಭೂತಂ ಕ್ಷರೋ ಭಾವಃ ಪುರುಷಶ್ಚಾಧಿದೈವತಮ್ |\nಅಧಿಯಜ್ಞೋಽಹಮೇವಾತ್ರ ದೇಹೇ ದೇಹಭೃತಾಂ ವರ ||೮-೪||"
+    },
+    "life_application": {
+        "hi": "भौतिक प्रकृति को नाशवान के रूप में, दिव्य व्यक्ति को ब्रह्मांडीय आत्मा के रूप में, और ईश्वर को शरीर में आंतरिक बलिदान के रूप में पहचानें।",
+        "en": "Recognize physical nature as perishable, the divine person as cosmic spirit, and God as the inner sacrifice in the body.",
+        "be": "দৈহিক প্রকৃতিকে পচনশীল, ঐশ্বরিক ব্যক্তিকে মহাজাগতিক আত্মা হিসাবে এবং ঈশ্বরকে দেহের অভ্যন্তরীণ বলি হিসাবে স্বীকৃতি দিন।",
+        "ka": "ಭೌತಿಕ ಪ್ರಕೃತಿಯನ್ನು ನಾಶವಾಗುವಂತೆ, ದೈವಿಕ ವ್ಯಕ್ತಿಯನ್ನು ಕಾಸ್ಮಿಕ್ ಚೈತನ್ಯವೆಂದು ಮತ್ತು ದೇವರನ್ನು ದೇಹದಲ್ಲಿನ ಆಂತರಿಕ ತ್ಯಾಗವೆಂದು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "अधिभूतं",
-            "transliteration": "adhibhūtaṃ",
-            "meaning": "adhibhūtaṃ"
+            "transliteration": {
+                "hi": "अधिभूतं",
+                "en": "adhibhūtaṃ",
+                "be": "অধিভূতং",
+                "ka": "ಅಧಿಭೂತಂ"
+            },
+            "meaning": {
+                "hi": "अधिभूतम्",
+                "en": "adhibhūtaṃ",
+                "be": "অধিভূতং",
+                "ka": "ಅಧಿಭೂತಂ"
+            }
         },
         {
             "sanskrit": "क्षरो",
-            "transliteration": "kṣaro",
-            "meaning": "kṣaro"
+            "transliteration": {
+                "hi": "क्षरो",
+                "en": "kṣaro",
+                "be": "ক্ষরো",
+                "ka": "ಕ್ಷರೋ"
+            },
+            "meaning": {
+                "hi": "क्षारो",
+                "en": "kṣaro",
+                "be": "kṣaro",
+                "ka": "ಕ್ಷರೋ"
+            }
         },
         {
             "sanskrit": "भावः",
-            "transliteration": "bhāvaḥ",
-            "meaning": "bhāvaḥ"
+            "transliteration": {
+                "hi": "भावः",
+                "en": "bhāvaḥ",
+                "be": "ভাবঃ",
+                "ka": "ಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "भावः",
+                "en": "bhāvaḥ",
+                "be": "ভবঃ",
+                "ka": "ಭಾವಃ"
+            }
         },
         {
             "sanskrit": "पुरुषश्चाधिदैवतम्",
-            "transliteration": "puruṣaścādhidaivatam",
-            "meaning": "puruṣaścādhidaivatam"
+            "transliteration": {
+                "hi": "पुरुषश्चाधिदैवतम्",
+                "en": "puruṣaścādhidaivatam",
+                "be": "পুরুষশ্চাধিদৈবতম্",
+                "ka": "ಪುರುಷಶ್ಚಾಧಿದೈವತಮ್"
+            },
+            "meaning": {
+                "hi": "पुरुषश्चधिदैवतम्",
+                "en": "puruṣaścādhidaivatam",
+                "be": "puruṣaschādhidaivtam",
+                "ka": "ಪುರುಷಶ್ಚಾಧಿದೈವತಮ್"
+            }
         },
         {
             "sanskrit": "अधियज्ञोऽहमेवात्र",
-            "transliteration": "adhiyajño'hamevātra",
-            "meaning": "adhiyajño'hamevātra"
+            "transliteration": {
+                "hi": "अधियज्ञोऽहमेवात्र",
+                "en": "adhiyajño'hamevātra",
+                "be": "অধিযজ্ঞোঽহমেবাত্র",
+                "ka": "ಅಧಿಯಜ್ಞೋಽಹಮೇವಾತ್ರ"
+            },
+            "meaning": {
+                "hi": "अधियाज्ञोऽहमेवात्र",
+                "en": "adhiyajño'hamevātra",
+                "be": "অধ্যাযজ্ঞোহমেবত্র",
+                "ka": "adhiyajno'hamevatra"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "dehe"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "dehe",
+                "ka": "ದೇಹೆ"
+            }
         },
         {
             "sanskrit": "देहभृतां",
-            "transliteration": "dehabhṛtāṃ",
-            "meaning": "dehabhṛtāṃ"
+            "transliteration": {
+                "hi": "देहभृतां",
+                "en": "dehabhṛtāṃ",
+                "be": "দেহভৃতাং",
+                "ka": "ದೇಹಭೃತಾಂ"
+            },
+            "meaning": {
+                "hi": "देहभृताम्",
+                "en": "dehabhṛtāṃ",
+                "be": "dehabhṛtāṃ",
+                "ka": "ದೇಹಭೃತಂ"
+            }
         },
         {
             "sanskrit": "वर",
-            "transliteration": "vara",
-            "meaning": "vara"
+            "transliteration": {
+                "hi": "वर",
+                "en": "vara",
+                "be": "বর",
+                "ka": "ವರ"
+            },
+            "meaning": {
+                "hi": "वारा",
+                "en": "vara",
+                "be": "vara",
+                "ka": "ವರ"
+            }
         }
     ],
     "tej": {

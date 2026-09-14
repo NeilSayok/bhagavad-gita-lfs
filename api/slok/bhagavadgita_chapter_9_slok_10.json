@@ -14,8 +14,18 @@
         "en": "mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram .\nhetunānena kaunteya jagadviparivartate ||9-10||",
         "ka": "ಮಯಾಧ್ಯಕ್ಷೇಣ ಪ್ರಕೃತಿಃ ಸೂಯತೇ ಸಚರಾಚರಮ್ |\nಹೇತುನಾನೇನ ಕೌನ್ತೇಯ ಜಗದ್ವಿಪರಿವರ್ತತೇ ||೯-೧೦||"
     },
-    "transliteration": "mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram .\nhetunānena kaunteya jagadviparivartate ||9-10||",
-    "life_application": "See nature working under divine supervision to produce moving and unmoving things, keeping the world revolving.",
+    "transliteration": {
+        "hi": "मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् |\nहेतुनानेन कौन्तेय जगद्विपरिवर्तते ||९-१०||",
+        "en": "mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram .\nhetunānena kaunteya jagadviparivartate ||9-10||",
+        "be": "মযাধ্যক্ষেণ প্রকৃতিঃ সূযতে সচরাচরম্ |\nহেতুনানেন কৌন্তেয জগদ্বিপরিবর্ততে ||৯-১০||",
+        "ka": "ಮಯಾಧ್ಯಕ್ಷೇಣ ಪ್ರಕೃತಿಃ ಸೂಯತೇ ಸಚರಾಚರಮ್ |\nಹೇತುನಾನೇನ ಕೌನ್ತೇಯ ಜಗದ್ವಿಪರಿವರ್ತತೇ ||೯-೧೦||"
+    },
+    "life_application": {
+        "hi": "प्रकृति को दैवीय देखरेख में काम करते हुए देखें, ताकि वह दुनिया को घुमाते हुए गतिशील और स्थिर चीजों का उत्पादन कर सके।",
+        "en": "See nature working under divine supervision to produce moving and unmoving things, keeping the world revolving.",
+        "be": "দেখুন প্রকৃতিকে ঐশ্বরিক তত্ত্বাবধানে কাজ করে চলমান ও অচল জিনিস তৈরি করতে, পৃথিবীকে ঘূর্ণায়মান রেখে।",
+        "ka": "ಚಲಿಸುವ ಮತ್ತು ಚಲಿಸದ ವಸ್ತುಗಳನ್ನು ಉತ್ಪಾದಿಸಲು, ಜಗತ್ತನ್ನು ಸುತ್ತುವಂತೆ ಮಾಡಲು ದೈವಿಕ ಮೇಲ್ವಿಚಾರಣೆಯಲ್ಲಿ ಪ್ರಕೃತಿ ಕೆಲಸ ಮಾಡುವುದನ್ನು ನೋಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Mindfulness"
@@ -23,38 +33,108 @@
     "word_meanings": [
         {
             "sanskrit": "मयाध्यक्षेण",
-            "transliteration": "mayādhyakṣeṇa",
-            "meaning": "mayādhyakṣeṇa"
+            "transliteration": {
+                "hi": "मयाध्यक्षेण",
+                "en": "mayādhyakṣeṇa",
+                "be": "মযাধ্যক্ষেণ",
+                "ka": "ಮಯಾಧ್ಯಕ್ಷೇಣ"
+            },
+            "meaning": {
+                "hi": "मयाध्यक्षेण",
+                "en": "mayādhyakṣeṇa",
+                "be": "মায়াধ্যক্ষেণ",
+                "ka": "ಮಾಯಾಧ್ಯಕ್ಷೆಣ"
+            }
         },
         {
             "sanskrit": "प्रकृतिः",
-            "transliteration": "prakṛtiḥ",
-            "meaning": "nature"
+            "transliteration": {
+                "hi": "प्रकृतिः",
+                "en": "prakṛtiḥ",
+                "be": "প্রকৃতিঃ",
+                "ka": "ಪ್ರಕೃತಿಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति",
+                "en": "nature",
+                "be": "প্রকৃতি",
+                "ka": "ಪ್ರಕೃತಿ"
+            }
         },
         {
             "sanskrit": "सूयते",
-            "transliteration": "sūyate",
-            "meaning": "sūyate"
+            "transliteration": {
+                "hi": "सूयते",
+                "en": "sūyate",
+                "be": "সূযতে",
+                "ka": "ಸೂಯತೇ"
+            },
+            "meaning": {
+                "hi": "सुयते",
+                "en": "sūyate",
+                "be": "সুয়তে",
+                "ka": "ಸೂಯತೇ"
+            }
         },
         {
             "sanskrit": "सचराचरम्",
-            "transliteration": "sacarācaram",
-            "meaning": "sacarācaram"
+            "transliteration": {
+                "hi": "सचराचरम्",
+                "en": "sacarācaram",
+                "be": "সচরাচরম্",
+                "ka": "ಸಚರಾಚರಮ್"
+            },
+            "meaning": {
+                "hi": "सैकराचारम",
+                "en": "sacarācaram",
+                "be": "sacharācaram",
+                "ka": "ಸಚರಾಚರಮ್"
+            }
         },
         {
             "sanskrit": "हेतुनानेन",
-            "transliteration": "hetunānena",
-            "meaning": "hetunānena"
+            "transliteration": {
+                "hi": "हेतुनानेन",
+                "en": "hetunānena",
+                "be": "হেতুনানেন",
+                "ka": "ಹೇತುನಾನೇನ"
+            },
+            "meaning": {
+                "hi": "हेतुनानेना",
+                "en": "hetunānena",
+                "be": "হেতুনানেনা",
+                "ka": "ಹೇತುನಾನೇನಾ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "जगद्विपरिवर्तते",
-            "transliteration": "jagadviparivartate",
-            "meaning": "jagadviparivartate"
+            "transliteration": {
+                "hi": "जगद्विपरिवर्तते",
+                "en": "jagadviparivartate",
+                "be": "জগদ্বিপরিবর্ততে",
+                "ka": "ಜಗದ್ವಿಪರಿವರ್ತತೇ"
+            },
+            "meaning": {
+                "hi": "जगद्विपरिवर्तते",
+                "en": "jagadviparivartate",
+                "be": "জগদ্বিপরিবর্ততে",
+                "ka": "ಜಗದ್ವಿಪರಿವರ್ತತೇ"
+            }
         }
     ],
     "tej": {

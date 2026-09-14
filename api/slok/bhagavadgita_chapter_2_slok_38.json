@@ -14,8 +14,18 @@
         "en": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau .\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi ||2-38||",
         "ka": "ಸುಖದುಃಖೇ ಸಮೇ ಕೃತ್ವಾ ಲಾಭಾಲಾಭೌ ಜಯಾಜಯೌ |\nತತೋ ಯುದ್ಧಾಯ ಯುಜ್ಯಸ್ವ ನೈವಂ ಪಾಪಮವಾಪ್ಸ್ಯಸಿ ||೨-೩೮||"
     },
-    "transliteration": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau .\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi ||2-38||",
-    "life_application": "Execute your work with mental detachment from success or failure, focusing entirely on doing the task well.",
+    "transliteration": {
+        "hi": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ |\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||२-३८||",
+        "en": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau .\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi ||2-38||",
+        "be": "সুখদুঃখে সমে কৃত্বা লাভালাভৌ জযাজযৌ |\nততো যুদ্ধায যুজ্যস্ব নৈবং পাপমবাপ্স্যসি ||২-৩৮||",
+        "ka": "ಸುಖದುಃಖೇ ಸಮೇ ಕೃತ್ವಾ ಲಾಭಾಲಾಭೌ ಜಯಾಜಯೌ |\nತತೋ ಯುದ್ಧಾಯ ಯುಜ್ಯಸ್ವ ನೈವಂ ಪಾಪಮವಾಪ್ಸ್ಯಸಿ ||೨-೩೮||"
+    },
+    "life_application": {
+        "hi": "सफलता या विफलता से मानसिक रूप से अलग होकर अपना कार्य निष्पादित करें और अपना पूरा ध्यान कार्य को अच्छी तरह से करने पर केंद्रित करें।",
+        "en": "Execute your work with mental detachment from success or failure, focusing entirely on doing the task well.",
+        "be": "সাফল্য বা ব্যর্থতা থেকে মানসিক বিচ্ছিন্নতার সাথে আপনার কাজটি সম্পাদন করুন, সম্পূর্ণভাবে কাজটি ভালভাবে করার দিকে মনোনিবেশ করুন।",
+        "ka": "ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಯಶಸ್ಸು ಅಥವಾ ವೈಫಲ್ಯದಿಂದ ಮಾನಸಿಕ ಬೇರ್ಪಡುವಿಕೆಯೊಂದಿಗೆ ಕಾರ್ಯಗತಗೊಳಿಸಿ, ಕೆಲಸವನ್ನು ಉತ್ತಮವಾಗಿ ಮಾಡುವುದರ ಮೇಲೆ ಸಂಪೂರ್ಣವಾಗಿ ಕೇಂದ್ರೀಕರಿಸಿ."
+    },
     "themes": [
         "Equanimity",
         "Karma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "सुखदुःखे",
-            "transliteration": "sukhaduḥkhe",
-            "meaning": "pleasure and pain"
+            "transliteration": {
+                "hi": "सुखदुःखे",
+                "en": "sukhaduḥkhe",
+                "be": "সুখদুঃখে",
+                "ka": "ಸುಖದುಃಖೇ"
+            },
+            "meaning": {
+                "hi": "खुशी और दर्द",
+                "en": "pleasure and pain",
+                "be": "আনন্দ এবং বেদনা",
+                "ka": "ಸಂತೋಷ ಮತ್ತು ನೋವು"
+            }
         },
         {
             "sanskrit": "समे",
-            "transliteration": "same",
-            "meaning": "same"
+            "transliteration": {
+                "hi": "समे",
+                "en": "same",
+                "be": "সমে",
+                "ka": "ಸಮೇ"
+            },
+            "meaning": {
+                "hi": "वही",
+                "en": "same",
+                "be": "একই",
+                "ka": "ಅದೇ"
+            }
         },
         {
             "sanskrit": "कृत्वा",
-            "transliteration": "kṛtvā",
-            "meaning": "having made"
+            "transliteration": {
+                "hi": "कृत्वा",
+                "en": "kṛtvā",
+                "be": "কৃত্বা",
+                "ka": "ಕೃತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "बना लिया है",
+                "en": "having made",
+                "be": "তৈরী করা",
+                "ka": "ಮಾಡಿದ"
+            }
         },
         {
             "sanskrit": "लाभालाभौ",
-            "transliteration": "lābhālābhau",
-            "meaning": "gain and loss"
+            "transliteration": {
+                "hi": "लाभालाभौ",
+                "en": "lābhālābhau",
+                "be": "লাভালাভৌ",
+                "ka": "ಲಾಭಾಲಾಭೌ"
+            },
+            "meaning": {
+                "hi": "लाभ और हानि",
+                "en": "gain and loss",
+                "be": "লাভ এবং ক্ষতি",
+                "ka": "ಲಾಭ ಮತ್ತು ನಷ್ಟ"
+            }
         },
         {
             "sanskrit": "जयाजयौ",
-            "transliteration": "jayājayau",
-            "meaning": "victory and defeat"
+            "transliteration": {
+                "hi": "जयाजयौ",
+                "en": "jayājayau",
+                "be": "জযাজযৌ",
+                "ka": "ಜಯಾಜಯೌ"
+            },
+            "meaning": {
+                "hi": "जीत और हार",
+                "en": "victory and defeat",
+                "be": "জয় এবং পরাজয়",
+                "ka": "ಗೆಲುವು ಮತ್ತು ಸೋಲು"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
         },
         {
             "sanskrit": "युद्धाय",
-            "transliteration": "yuddhāya",
-            "meaning": "for battle"
+            "transliteration": {
+                "hi": "युद्धाय",
+                "en": "yuddhāya",
+                "be": "যুদ্ধায",
+                "ka": "ಯುದ್ಧಾಯ"
+            },
+            "meaning": {
+                "hi": "लड़ाई के लिए",
+                "en": "for battle",
+                "be": "যুদ্ধের জন্য",
+                "ka": "ಯುದ್ಧಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "युज्यस्व",
-            "transliteration": "yujyasva",
-            "meaning": "engage thou"
+            "transliteration": {
+                "hi": "युज्यस्व",
+                "en": "yujyasva",
+                "be": "যুজ্যস্ব",
+                "ka": "ಯುಜ್ಯಸ್ವ"
+            },
+            "meaning": {
+                "hi": "तुम संलग्न हो",
+                "en": "engage thou",
+                "be": "আপনি জড়িত",
+                "ka": "ನೀವು ತೊಡಗಿಸಿಕೊಳ್ಳಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एवम्",
-            "transliteration": "evam",
-            "meaning": "thus"
+            "transliteration": {
+                "hi": "एवम्",
+                "en": "evam",
+                "be": "এবম্",
+                "ka": "ಏವಮ್"
+            },
+            "meaning": {
+                "hi": "इस प्रकार",
+                "en": "thus",
+                "be": "এইভাবে",
+                "ka": "ಹೀಗೆ"
+            }
         },
         {
             "sanskrit": "पापम्",
-            "transliteration": "pāpam",
-            "meaning": "sin"
+            "transliteration": {
+                "hi": "पापम्",
+                "en": "pāpam",
+                "be": "পাপম্",
+                "ka": "ಪಾಪಮ್"
+            },
+            "meaning": {
+                "hi": "पाप",
+                "en": "sin",
+                "be": "পাপ",
+                "ka": "ಪಾಪ"
+            }
         },
         {
             "sanskrit": "अवाप्स्यसि",
-            "transliteration": "avāpsyasi",
-            "meaning": "shalt incur."
+            "transliteration": {
+                "hi": "अवाप्स्यसि",
+                "en": "avāpsyasi",
+                "be": "অবাপ্স্যসি",
+                "ka": "ಅವಾಪ್ಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "उठाना पड़ेगा.",
+                "en": "shalt incur.",
+                "be": "বহন করা হবে",
+                "ka": "ಅನುಭವಿಸಬೇಕಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

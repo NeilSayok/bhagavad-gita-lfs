@@ -14,8 +14,18 @@
         "en": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te.avyayām .\nsambhāvitasya cākīrtirmaraṇādatiricyate ||2-34||",
         "ka": "ಅಕೀರ್ತಿಂ ಚಾಪಿ ಭೂತಾನಿ ಕಥಯಿಷ್ಯನ್ತಿ ತೇಽವ್ಯಯಾಮ್ |\nಸಮ್ಭಾವಿತಸ್ಯ ಚಾಕೀರ್ತಿರ್ಮರಣಾದತಿರಿಚ್ಯತೇ ||೨-೩೪||"
     },
-    "transliteration": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te.avyayām .\nsambhāvitasya cākīrtirmaraṇādatiricyate ||2-34||",
-    "life_application": "Uphold your personal integrity diligently, knowing that losing your honor damages your life more than physical hardship.",
+    "transliteration": {
+        "hi": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् |\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||२-३४||",
+        "en": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te.avyayām .\nsambhāvitasya cākīrtirmaraṇādatiricyate ||2-34||",
+        "be": "অকীর্তিং চাপি ভূতানি কথযিষ্যন্তি তেঽব্যযাম্ |\nসম্ভাবিতস্য চাকীর্তির্মরণাদতিরিচ্যতে ||২-৩৪||",
+        "ka": "ಅಕೀರ್ತಿಂ ಚಾಪಿ ಭೂತಾನಿ ಕಥಯಿಷ್ಯನ್ತಿ ತೇಽವ್ಯಯಾಮ್ |\nಸಮ್ಭಾವಿತಸ್ಯ ಚಾಕೀರ್ತಿರ್ಮರಣಾದತಿರಿಚ್ಯತೇ ||೨-೩೪||"
+    },
+    "life_application": {
+        "hi": "अपनी व्यक्तिगत सत्यनिष्ठा को लगन से बनाए रखें, यह जानते हुए कि अपना सम्मान खोने से आपके जीवन को शारीरिक कठिनाई से अधिक नुकसान होता है।",
+        "en": "Uphold your personal integrity diligently, knowing that losing your honor damages your life more than physical hardship.",
+        "be": "আপনার ব্যক্তিগত সততাকে অধ্যবসায় বজায় রাখুন, জেনে রাখুন যে আপনার সম্মান হারানো শারীরিক কষ্টের চেয়ে আপনার জীবনের বেশি ক্ষতি করে।",
+        "ka": "ನಿಮ್ಮ ಗೌರವವನ್ನು ಕಳೆದುಕೊಳ್ಳುವುದು ದೈಹಿಕ ಕಷ್ಟಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿ ನಿಮ್ಮ ಜೀವನವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ ಎಂದು ತಿಳಿದುಕೊಂಡು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಮಗ್ರತೆಯನ್ನು ಶ್ರದ್ಧೆಯಿಂದ ಎತ್ತಿಹಿಡಿಯಿರಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "अकीर्तिम्",
-            "transliteration": "akīrtim",
-            "meaning": "dishonour"
+            "transliteration": {
+                "hi": "अकीर्तिम्",
+                "en": "akīrtim",
+                "be": "অকীর্তিম্",
+                "ka": "ಅಕೀರ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "अपमान",
+                "en": "dishonour",
+                "be": "অসম্মান",
+                "ka": "ಅವಮಾನ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "भूतानि",
-            "transliteration": "bhūtāni",
-            "meaning": "beings"
+            "transliteration": {
+                "hi": "भूतानि",
+                "en": "bhūtāni",
+                "be": "ভূতানি",
+                "ka": "ಭೂತಾನಿ"
+            },
+            "meaning": {
+                "hi": "प्राणी",
+                "en": "beings",
+                "be": "প্রাণী",
+                "ka": "ಜೀವಿಗಳು"
+            }
         },
         {
             "sanskrit": "कथयिष्यन्ति",
-            "transliteration": "kathayiṣyanti",
-            "meaning": "will tell"
+            "transliteration": {
+                "hi": "कथयिष्यन्ति",
+                "en": "kathayiṣyanti",
+                "be": "কথযিষ্যন্তি",
+                "ka": "ಕಥಯಿಷ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "बताऊंगा",
+                "en": "will tell",
+                "be": "জানাবে",
+                "ka": "ತಿಳಿಸುವರು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "अव्ययाम्",
-            "transliteration": "avyayām",
-            "meaning": "everlasting"
+            "transliteration": {
+                "hi": "अव्ययाम्",
+                "en": "avyayām",
+                "be": "অব্যযাম্",
+                "ka": "ಅವ್ಯಯಾಮ್"
+            },
+            "meaning": {
+                "hi": "चिरस्थायी",
+                "en": "everlasting",
+                "be": "চিরস্থায়ী",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "संभावितस्य",
-            "transliteration": "saṃbhāvitasya",
-            "meaning": "of the honoured"
+            "transliteration": {
+                "hi": "संभावितस्य",
+                "en": "saṃbhāvitasya",
+                "be": "সংভাবিতস্য",
+                "ka": "ಸಂಭಾವಿತಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "सम्मानित का",
+                "en": "of the honoured",
+                "be": "সম্মানিত",
+                "ka": "ಸನ್ಮಾನಿತರ ನ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अकीर्तिः",
-            "transliteration": "akīrtiḥ",
-            "meaning": "dishonour"
+            "transliteration": {
+                "hi": "अकीर्तिः",
+                "en": "akīrtiḥ",
+                "be": "অকীর্তিঃ",
+                "ka": "ಅಕೀರ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "अपमान",
+                "en": "dishonour",
+                "be": "অসম্মান",
+                "ka": "ಅವಮಾನ"
+            }
         },
         {
             "sanskrit": "मरणात्",
-            "transliteration": "maraṇāt",
-            "meaning": "than death"
+            "transliteration": {
+                "hi": "मरणात्",
+                "en": "maraṇāt",
+                "be": "মরণাত্",
+                "ka": "ಮರಣಾತ್"
+            },
+            "meaning": {
+                "hi": "मौत से भी ज्यादा",
+                "en": "than death",
+                "be": "মৃত্যুর চেয়ে",
+                "ka": "ಸಾವಿಗಿಂತ"
+            }
         },
         {
             "sanskrit": "अतिरिच्यते",
-            "transliteration": "atiricyate",
-            "meaning": "exceeds."
+            "transliteration": {
+                "hi": "अतिरिच्यते",
+                "en": "atiricyate",
+                "be": "অতিরিচ্যতে",
+                "ka": "ಅತಿರಿಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "से अधिक है.",
+                "en": "exceeds.",
+                "be": "অতিক্রম করে",
+                "ka": "ಮೀರುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

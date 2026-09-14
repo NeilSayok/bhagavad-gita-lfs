@@ -14,8 +14,18 @@
         "en": "bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ .\nyeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||2-35||",
         "ka": "ಭಯಾದ್ರಣಾದುಪರತಂ ಮಂಸ್ಯನ್ತೇ ತ್ವಾಂ ಮಹಾರಥಾಃ |\nಯೇಷಾಂ ಚ ತ್ವಂ ಬಹುಮತೋ ಭೂತ್ವಾ ಯಾಸ್ಯಸಿ ಲಾಘವಮ್ ||೨-೩೫||"
     },
-    "transliteration": "bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ .\nyeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||2-35||",
-    "life_application": "Do not let cowardice masquerade as virtue when fear tempts you to retreat from necessary commitments.",
+    "transliteration": {
+        "hi": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः |\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||२-३५||",
+        "en": "bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ .\nyeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||2-35||",
+        "be": "ভযাদ্রণাদুপরতং মংস্যন্তে ত্বাং মহারথাঃ |\nযেষাং চ ত্বং বহুমতো ভূত্বা যাস্যসি লাঘবম্ ||২-৩৫||",
+        "ka": "ಭಯಾದ್ರಣಾದುಪರತಂ ಮಂಸ್ಯನ್ತೇ ತ್ವಾಂ ಮಹಾರಥಾಃ |\nಯೇಷಾಂ ಚ ತ್ವಂ ಬಹುಮತೋ ಭೂತ್ವಾ ಯಾಸ್ಯಸಿ ಲಾಘವಮ್ ||೨-೩೫||"
+    },
+    "life_application": {
+        "hi": "जब डर आपको आवश्यक प्रतिबद्धताओं से पीछे हटने के लिए प्रेरित करता है तो कायरता को सद्गुण के रूप में सामने न आने दें।",
+        "en": "Do not let cowardice masquerade as virtue when fear tempts you to retreat from necessary commitments.",
+        "be": "ভয় যখন আপনাকে প্রয়োজনীয় প্রতিশ্রুতি থেকে পিছু হটতে প্ররোচিত করে তখন কাপুরুষতাকে পুণ্য হিসাবে মাস্করেড করতে দেবেন না।",
+        "ka": "ಅಗತ್ಯ ಬದ್ಧತೆಗಳಿಂದ ಹಿಮ್ಮೆಟ್ಟುವಂತೆ ಭಯವು ನಿಮ್ಮನ್ನು ಪ್ರಚೋದಿಸಿದಾಗ ಹೇಡಿತನವನ್ನು ಸದ್ಗುಣವಾಗಿ ಮರೆಮಾಡಲು ಬಿಡಬೇಡಿ."
+    },
     "themes": [
         "Fear",
         "Duty"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "भयात्",
-            "transliteration": "bhayāt",
-            "meaning": "from fear"
+            "transliteration": {
+                "hi": "भयात्",
+                "en": "bhayāt",
+                "be": "ভযাত্",
+                "ka": "ಭಯಾತ್"
+            },
+            "meaning": {
+                "hi": "डर से",
+                "en": "from fear",
+                "be": "ভয় থেকে",
+                "ka": "ಭಯದಿಂದ"
+            }
         },
         {
             "sanskrit": "रणात्",
-            "transliteration": "raṇāt",
-            "meaning": "from the battle"
+            "transliteration": {
+                "hi": "रणात्",
+                "en": "raṇāt",
+                "be": "রণাত্",
+                "ka": "ರಣಾತ್"
+            },
+            "meaning": {
+                "hi": "लड़ाई से",
+                "en": "from the battle",
+                "be": "যুদ্ধ থেকে",
+                "ka": "ಯುದ್ಧದಿಂದ"
+            }
         },
         {
             "sanskrit": "उपरतम्",
-            "transliteration": "uparatam",
-            "meaning": "withdrawn"
+            "transliteration": {
+                "hi": "उपरतम्",
+                "en": "uparatam",
+                "be": "উপরতম্",
+                "ka": "ಉಪರತಮ್"
+            },
+            "meaning": {
+                "hi": "वापस ले लिया गया",
+                "en": "withdrawn",
+                "be": "প্রত্যাহার",
+                "ka": "ಹಿಂಪಡೆಯಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "मंस्यन्ते",
-            "transliteration": "maṃsyante",
-            "meaning": "will think"
+            "transliteration": {
+                "hi": "मंस्यन्ते",
+                "en": "maṃsyante",
+                "be": "মংস্যন্তে",
+                "ka": "ಮಂಸ್ಯನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "सोचेंगे",
+                "en": "will think",
+                "be": "চিন্তা করবে",
+                "ka": "ಯೋಚಿಸುವರು"
+            }
         },
         {
             "sanskrit": "त्वाम्",
-            "transliteration": "tvām",
-            "meaning": "thee"
+            "transliteration": {
+                "hi": "त्वाम्",
+                "en": "tvām",
+                "be": "ত্বাম্",
+                "ka": "ತ್ವಾಮ್"
+            },
+            "meaning": {
+                "hi": "तुम",
+                "en": "thee",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "महारथाः",
-            "transliteration": "mahārathāḥ",
-            "meaning": "the great carwarriors"
+            "transliteration": {
+                "hi": "महारथाः",
+                "en": "mahārathāḥ",
+                "be": "মহারথাঃ",
+                "ka": "ಮಹಾರಥಾಃ"
+            },
+            "meaning": {
+                "hi": "महान कारयोद्धा",
+                "en": "the great carwarriors",
+                "be": "মহান carwarriors",
+                "ka": "ಮಹಾನ್ ಕಾರವಾರಿಗಳು"
+            }
         },
         {
             "sanskrit": "येषाम्",
-            "transliteration": "yeṣām",
-            "meaning": "of whom"
+            "transliteration": {
+                "hi": "येषाम्",
+                "en": "yeṣām",
+                "be": "যেষাম্",
+                "ka": "ಯೇಷಾಮ್"
+            },
+            "meaning": {
+                "hi": "किसका",
+                "en": "of whom",
+                "be": "যাদের",
+                "ka": "ಇವರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "बहुमतः",
-            "transliteration": "bahumataḥ",
-            "meaning": "much thought of"
+            "transliteration": {
+                "hi": "बहुमतः",
+                "en": "bahumataḥ",
+                "be": "বহুমতঃ",
+                "ka": "ಬಹುಮತಃ"
+            },
+            "meaning": {
+                "hi": "बहुत सोचा",
+                "en": "much thought of",
+                "be": "অনেক চিন্তা",
+                "ka": "ಬಹಳಷ್ಟು ಯೋಚಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "having been"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "रहा है",
+                "en": "having been",
+                "be": "হয়েছে",
+                "ka": "ಆಗಿದ್ದು"
+            }
         },
         {
             "sanskrit": "यास्यसि",
-            "transliteration": "yāsyasi",
-            "meaning": "will receive"
+            "transliteration": {
+                "hi": "यास्यसि",
+                "en": "yāsyasi",
+                "be": "যাস্যসি",
+                "ka": "ಯಾಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त होगा",
+                "en": "will receive",
+                "be": "গ্রহণ করবে",
+                "ka": "ಸ್ವೀಕರಿಸುತ್ತಾರೆ"
+            }
         },
         {
             "sanskrit": "लाघवम्",
-            "transliteration": "lāghavam",
-            "meaning": "lightness."
+            "transliteration": {
+                "hi": "लाघवम्",
+                "en": "lāghavam",
+                "be": "লাঘবম্",
+                "ka": "ಲಾಘವಮ್"
+            },
+            "meaning": {
+                "hi": "हल्कापन.",
+                "en": "lightness.",
+                "be": "হালকাতা",
+                "ka": "ಲಘುತೆ."
+            }
         }
     ],
     "tej": {

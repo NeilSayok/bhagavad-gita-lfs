@@ -14,8 +14,18 @@
         "en": "avācyavādāṃśca bahūnvadiṣyanti tavāhitāḥ .\nnindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim ||2-36||",
         "ka": "ಅವಾಚ್ಯವಾದಾಂಶ್ಚ ಬಹೂನ್ವದಿಷ್ಯನ್ತಿ ತವಾಹಿತಾಃ |\nನಿನ್ದನ್ತಸ್ತವ ಸಾಮರ್ಥ್ಯಂ ತತೋ ದುಃಖತರಂ ನು ಕಿಮ್ ||೨-೩೬||"
     },
-    "transliteration": "avācyavādāṃśca bahūnvadiṣyanti tavāhitāḥ .\nnindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim ||2-36||",
-    "life_application": "Consider how backing down from your obligations damages your self-respect and invites justified criticism.",
+    "transliteration": {
+        "hi": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः |\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ||२-३६||",
+        "en": "avācyavādāṃśca bahūnvadiṣyanti tavāhitāḥ .\nnindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim ||2-36||",
+        "be": "অবাচ্যবাদাংশ্চ বহূন্বদিষ্যন্তি তবাহিতাঃ |\nনিন্দন্তস্তব সামর্থ্যং ততো দুঃখতরং নু কিম্ ||২-৩৬||",
+        "ka": "ಅವಾಚ್ಯವಾದಾಂಶ್ಚ ಬಹೂನ್ವದಿಷ್ಯನ್ತಿ ತವಾಹಿತಾಃ |\nನಿನ್ದನ್ತಸ್ತವ ಸಾಮರ್ಥ್ಯಂ ತತೋ ದುಃಖತರಂ ನು ಕಿಮ್ ||೨-೩೬||"
+    },
+    "life_application": {
+        "hi": "विचार करें कि कैसे अपने दायित्वों से पीछे हटने से आपके आत्म-सम्मान को नुकसान पहुंचता है और उचित आलोचना को आमंत्रित किया जाता है।",
+        "en": "Consider how backing down from your obligations damages your self-respect and invites justified criticism.",
+        "be": "আপনার বাধ্যবাধকতা থেকে পিছিয়ে থাকা কীভাবে আপনার আত্মসম্মানকে ক্ষতিগ্রস্ত করে এবং ন্যায্য সমালোচনাকে আমন্ত্রণ জানায় তা বিবেচনা করুন।",
+        "ka": "ನಿಮ್ಮ ಜವಾಬ್ದಾರಿಗಳಿಂದ ಹಿಂದೆ ಸರಿಯುವುದು ನಿಮ್ಮ ಸ್ವಾಭಿಮಾನವನ್ನು ಹೇಗೆ ಹಾನಿಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಸಮರ್ಥನೀಯ ಟೀಕೆಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಪರಿಗಣಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Leadership"
@@ -23,68 +33,198 @@
     "word_meanings": [
         {
             "sanskrit": "अवाच्यवादान्",
-            "transliteration": "avācyavādān",
-            "meaning": "words that are improper"
+            "transliteration": {
+                "hi": "अवाच्यवादान्",
+                "en": "avācyavādān",
+                "be": "অবাচ্যবাদান্",
+                "ka": "ಅವಾಚ್ಯವಾದಾನ್"
+            },
+            "meaning": {
+                "hi": "ऐसे शब्द जो अनुचित हैं",
+                "en": "words that are improper",
+                "be": "শব্দ যা অনুচিত",
+                "ka": "ಅನುಚಿತ ಪದಗಳು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "बहून्",
-            "transliteration": "bahūn",
-            "meaning": "many"
+            "transliteration": {
+                "hi": "बहून्",
+                "en": "bahūn",
+                "be": "বহূন্",
+                "ka": "ಬಹೂನ್"
+            },
+            "meaning": {
+                "hi": "अनेक",
+                "en": "many",
+                "be": "অনেক",
+                "ka": "ಅನೇಕ"
+            }
         },
         {
             "sanskrit": "वदिष्यन्ति",
-            "transliteration": "vadiṣyanti",
-            "meaning": "will say"
+            "transliteration": {
+                "hi": "वदिष्यन्ति",
+                "en": "vadiṣyanti",
+                "be": "বদিষ্যন্তি",
+                "ka": "ವದಿಷ್ಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "कहूँगा",
+                "en": "will say",
+                "be": "বলবে",
+                "ka": "ಹೇಳುವರು"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "अहिताः",
-            "transliteration": "ahitāḥ",
-            "meaning": "enemies"
+            "transliteration": {
+                "hi": "अहिताः",
+                "en": "ahitāḥ",
+                "be": "অহিতাঃ",
+                "ka": "ಅಹಿತಾಃ"
+            },
+            "meaning": {
+                "hi": "शत्रु",
+                "en": "enemies",
+                "be": "শত্রুদের",
+                "ka": "ಶತ್ರುಗಳು"
+            }
         },
         {
             "sanskrit": "निन्दन्तः",
-            "transliteration": "nindantaḥ",
-            "meaning": "cavilling"
+            "transliteration": {
+                "hi": "निन्दन्तः",
+                "en": "nindantaḥ",
+                "be": "নিন্দন্তঃ",
+                "ka": "ನಿನ್ದನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "बकवास करना",
+                "en": "cavilling",
+                "be": "cavilling",
+                "ka": "ಕೆವಿಲಿಂಗ್"
+            }
         },
         {
             "sanskrit": "तव",
-            "transliteration": "tava",
-            "meaning": "thy"
+            "transliteration": {
+                "hi": "तव",
+                "en": "tava",
+                "be": "তব",
+                "ka": "ತವ"
+            },
+            "meaning": {
+                "hi": "तेरा",
+                "en": "thy",
+                "be": "তোমার",
+                "ka": "ನಿನ್ನ"
+            }
         },
         {
             "sanskrit": "सामर्थ्यम्",
-            "transliteration": "sāmarthyam",
-            "meaning": "power"
+            "transliteration": {
+                "hi": "सामर्थ्यम्",
+                "en": "sāmarthyam",
+                "be": "সামর্থ্যম্",
+                "ka": "ಸಾಮರ್ಥ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "शक्ति",
+                "en": "power",
+                "be": "ক্ষমতা",
+                "ka": "ಶಕ್ತಿ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": "than this"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": "इससे भी ज्यादा",
+                "en": "than this",
+                "be": "এই তুলনায়",
+                "ka": "ಇದಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "दुःखतरम्",
-            "transliteration": "duḥkhataram",
-            "meaning": "more painful"
+            "transliteration": {
+                "hi": "दुःखतरम्",
+                "en": "duḥkhataram",
+                "be": "দুঃখতরম্",
+                "ka": "ದುಃಖತರಮ್"
+            },
+            "meaning": {
+                "hi": "अधिक दर्दनाक",
+                "en": "more painful",
+                "be": "আরো বেদনাদায়ক",
+                "ka": "ಹೆಚ್ಚು ನೋವಿನಿಂದ ಕೂಡಿದೆ"
+            }
         },
         {
             "sanskrit": "नु",
-            "transliteration": "nu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "नु",
+                "en": "nu",
+                "be": "নু",
+                "ka": "ನು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "किम्",
-            "transliteration": "kim",
-            "meaning": "what."
+            "transliteration": {
+                "hi": "किम्",
+                "en": "kim",
+                "be": "কিম্",
+                "ka": "ಕಿಮ್"
+            },
+            "meaning": {
+                "hi": "क्या।",
+                "en": "what.",
+                "be": "কি",
+                "ka": "ಏನು."
+            }
         }
     ],
     "tej": {

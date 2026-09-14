@@ -14,8 +14,18 @@
         "en": "yadṛcchayā copapannaṃ svargadvāramapāvṛtam .\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam ||2-32||",
         "ka": "ಯದೃಚ್ಛಯಾ ಚೋಪಪನ್ನಂ ಸ್ವರ್ಗದ್ವಾರಮಪಾವೃತಮ್ |\nಸುಖಿನಃ ಕ್ಷತ್ರಿಯಾಃ ಪಾರ್ಥ ಲಭನ್ತೇ ಯುದ್ಧಮೀದೃಶಮ್ ||೨-೩೨||"
     },
-    "transliteration": "yadṛcchayā copapannaṃ svargadvāramapāvṛtam .\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam ||2-32||",
-    "life_application": "Welcome unexpected ethical challenges as valuable opportunities to test and strengthen your character.",
+    "transliteration": {
+        "hi": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् |\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||२-३२||",
+        "en": "yadṛcchayā copapannaṃ svargadvāramapāvṛtam .\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam ||2-32||",
+        "be": "যদৃচ্ছযা চোপপন্নং স্বর্গদ্বারমপাবৃতম্ |\nসুখিনঃ ক্ষত্রিযাঃ পার্থ লভন্তে যুদ্ধমীদৃশম্ ||২-৩২||",
+        "ka": "ಯದೃಚ್ಛಯಾ ಚೋಪಪನ್ನಂ ಸ್ವರ್ಗದ್ವಾರಮಪಾವೃತಮ್ |\nಸುಖಿನಃ ಕ್ಷತ್ರಿಯಾಃ ಪಾರ್ಥ ಲಭನ್ತೇ ಯುದ್ಧಮೀದೃಶಮ್ ||೨-೩೨||"
+    },
+    "life_application": {
+        "hi": "अपने चरित्र को परखने और मजबूत करने के मूल्यवान अवसरों के रूप में अप्रत्याशित नैतिक चुनौतियों का स्वागत करें।",
+        "en": "Welcome unexpected ethical challenges as valuable opportunities to test and strengthen your character.",
+        "be": "আপনার চরিত্র পরীক্ষা এবং শক্তিশালী করার মূল্যবান সুযোগ হিসাবে অপ্রত্যাশিত নৈতিক চ্যালেঞ্জগুলিকে স্বাগত জানাই।",
+        "ka": "ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಪರೀಕ್ಷಿಸಲು ಮತ್ತು ಬಲಪಡಿಸಲು ಅಮೂಲ್ಯವಾದ ಅವಕಾಶಗಳಾಗಿ ಅನಿರೀಕ್ಷಿತ ನೈತಿಕ ಸವಾಲುಗಳನ್ನು ಸ್ವಾಗತಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Purpose"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यदृच्छया",
-            "transliteration": "yadṛcchayā",
-            "meaning": "of itself"
+            "transliteration": {
+                "hi": "यदृच्छया",
+                "en": "yadṛcchayā",
+                "be": "যদৃচ্ছযা",
+                "ka": "ಯದೃಚ್ಛಯಾ"
+            },
+            "meaning": {
+                "hi": "खुद का",
+                "en": "of itself",
+                "be": "নিজেই",
+                "ka": "ಸ್ವತಃ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "उपपन्नम्",
-            "transliteration": "upapannam",
-            "meaning": "come"
+            "transliteration": {
+                "hi": "उपपन्नम्",
+                "en": "upapannam",
+                "be": "উপপন্নম্",
+                "ka": "ಉಪಪನ್ನಮ್"
+            },
+            "meaning": {
+                "hi": "आओ",
+                "en": "come",
+                "be": "আসা",
+                "ka": "ಬನ್ನಿ"
+            }
         },
         {
             "sanskrit": "स्वर्गद्वारम्",
-            "transliteration": "svargadvāram",
-            "meaning": "the gate of heaven"
+            "transliteration": {
+                "hi": "स्वर्गद्वारम्",
+                "en": "svargadvāram",
+                "be": "স্বর্গদ্বারম্",
+                "ka": "ಸ್ವರ್ಗದ್ವಾರಮ್"
+            },
+            "meaning": {
+                "hi": "स्वर्ग का द्वार",
+                "en": "the gate of heaven",
+                "be": "স্বর্গের দরজা",
+                "ka": "ಸ್ವರ್ಗದ ದ್ವಾರ"
+            }
         },
         {
             "sanskrit": "अपावृतम्",
-            "transliteration": "apāvṛtam",
-            "meaning": "opened"
+            "transliteration": {
+                "hi": "अपावृतम्",
+                "en": "apāvṛtam",
+                "be": "অপাবৃতম্",
+                "ka": "ಅಪಾವೃತಮ್"
+            },
+            "meaning": {
+                "hi": "खोला गया",
+                "en": "opened",
+                "be": "খোলা",
+                "ka": "ತೆರೆಯಿತು"
+            }
         },
         {
             "sanskrit": "सुखिनः",
-            "transliteration": "sukhinaḥ",
-            "meaning": "happy"
+            "transliteration": {
+                "hi": "सुखिनः",
+                "en": "sukhinaḥ",
+                "be": "সুখিনঃ",
+                "ka": "ಸುಖಿನಃ"
+            },
+            "meaning": {
+                "hi": "खुश",
+                "en": "happy",
+                "be": "খুশি",
+                "ka": "ಸಂತೋಷವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "क्षत्रियाः",
-            "transliteration": "kṣatriyāḥ",
-            "meaning": "Kshatriyas"
+            "transliteration": {
+                "hi": "क्षत्रियाः",
+                "en": "kṣatriyāḥ",
+                "be": "ক্ষত্রিযাঃ",
+                "ka": "ಕ್ಷತ್ರಿಯಾಃ"
+            },
+            "meaning": {
+                "hi": "क्षत्रिय",
+                "en": "Kshatriyas",
+                "be": "ক্ষত্রিয়",
+                "ka": "ಕ್ಷತ್ರಿಯರು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "लभन्ते",
-            "transliteration": "labhante",
-            "meaning": "obtain"
+            "transliteration": {
+                "hi": "लभन्ते",
+                "en": "labhante",
+                "be": "লভন্তে",
+                "ka": "ಲಭನ್ತೇ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करें",
+                "en": "obtain",
+                "be": "প্রাপ্ত",
+                "ka": "ಪಡೆಯಲು"
+            }
         },
         {
             "sanskrit": "युद्धम्",
-            "transliteration": "yuddham",
-            "meaning": "battle"
+            "transliteration": {
+                "hi": "युद्धम्",
+                "en": "yuddham",
+                "be": "যুদ্ধম্",
+                "ka": "ಯುದ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "लड़ाई",
+                "en": "battle",
+                "be": "যুদ্ধ",
+                "ka": "ಯುದ್ಧ"
+            }
         },
         {
             "sanskrit": "ईदृशम्",
-            "transliteration": "īdṛśam",
-            "meaning": "such."
+            "transliteration": {
+                "hi": "ईदृशम्",
+                "en": "īdṛśam",
+                "be": "ঈদৃশম্",
+                "ka": "ಈದೃಶಮ್"
+            },
+            "meaning": {
+                "hi": "ऐसा।",
+                "en": "such.",
+                "be": "যেমন",
+                "ka": "ಅಂತಹ."
+            }
         }
     ],
     "tej": {

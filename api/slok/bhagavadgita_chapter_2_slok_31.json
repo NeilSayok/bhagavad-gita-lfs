@@ -14,8 +14,18 @@
         "en": "svadharmamapi cāvekṣya na vikampitumarhasi .\ndharmyāddhi yuddhācchreyo.anyatkṣatriyasya na vidyate ||2-31||",
         "ka": "ಸ್ವಧರ್ಮಮಪಿ ಚಾವೇಕ್ಷ್ಯ ನ ವಿಕಮ್ಪಿತುಮರ್ಹಸಿ |\nಧರ್ಮ್ಯಾದ್ಧಿ ಯುದ್ಧಾಚ್ಛ್ರೇಯೋಽನ್ಯತ್ಕ್ಷತ್ರಿಯಸ್ಯ ನ ವಿದ್ಯತೇ ||೨-೩೧||"
     },
-    "transliteration": "svadharmamapi cāvekṣya na vikampitumarhasi .\ndharmyāddhi yuddhācchreyo.anyatkṣatriyasya na vidyate ||2-31||",
-    "life_application": "Step forward to perform your personal duties without hesitation when circumstances call for moral courage.",
+    "transliteration": {
+        "hi": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||२-३१||",
+        "en": "svadharmamapi cāvekṣya na vikampitumarhasi .\ndharmyāddhi yuddhācchreyo.anyatkṣatriyasya na vidyate ||2-31||",
+        "be": "স্বধর্মমপি চাবেক্ষ্য ন বিকম্পিতুমর্হসি |\nধর্ম্যাদ্ধি যুদ্ধাচ্ছ্রেযোঽন্যত্ক্ষত্রিযস্য ন বিদ্যতে ||২-৩১||",
+        "ka": "ಸ್ವಧರ್ಮಮಪಿ ಚಾವೇಕ್ಷ್ಯ ನ ವಿಕಮ್ಪಿತುಮರ್ಹಸಿ |\nಧರ್ಮ್ಯಾದ್ಧಿ ಯುದ್ಧಾಚ್ಛ್ರೇಯೋಽನ್ಯತ್ಕ್ಷತ್ರಿಯಸ್ಯ ನ ವಿದ್ಯತೇ ||೨-೩೧||"
+    },
+    "life_application": {
+        "hi": "जब परिस्थितियाँ नैतिक साहस की मांग करती हैं तो बिना किसी हिचकिचाहट के अपने व्यक्तिगत कर्तव्यों को निभाने के लिए आगे बढ़ें।",
+        "en": "Step forward to perform your personal duties without hesitation when circumstances call for moral courage.",
+        "be": "পরিস্থিতি যখন নৈতিক সাহসের প্রয়োজন হয় তখন বিনা দ্বিধায় আপনার ব্যক্তিগত দায়িত্ব পালনের জন্য এগিয়ে যান।",
+        "ka": "ಸಂದರ್ಭಗಳು ನೈತಿಕ ಧೈರ್ಯವನ್ನು ಬಯಸಿದಾಗ ಹಿಂಜರಿಕೆಯಿಲ್ಲದೆ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಮುಂದಾಗಿ."
+    },
     "themes": [
         "Duty",
         "Dharma"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "स्वधर्मम्",
-            "transliteration": "svadharmam",
-            "meaning": "own duty"
+            "transliteration": {
+                "hi": "स्वधर्मम्",
+                "en": "svadharmam",
+                "be": "স্বধর্মম্",
+                "ka": "ಸ್ವಧರ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "अपना कर्तव्य",
+                "en": "own duty",
+                "be": "নিজস্ব দায়িত্ব",
+                "ka": "ಸ್ವಂತ ಕರ್ತವ್ಯ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "अवेक्ष्य",
-            "transliteration": "avekṣya",
-            "meaning": "looking at"
+            "transliteration": {
+                "hi": "अवेक्ष्य",
+                "en": "avekṣya",
+                "be": "অবেক্ষ্য",
+                "ka": "ಅವೇಕ್ಷ್ಯ"
+            },
+            "meaning": {
+                "hi": "देख रहा हूँ",
+                "en": "looking at",
+                "be": "দিকে তাকিয়ে",
+                "ka": "ನೋಡುತ್ತಿರುವುದು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विकम्पितुम्",
-            "transliteration": "vikampitum",
-            "meaning": "to waver"
+            "transliteration": {
+                "hi": "विकम्पितुम्",
+                "en": "vikampitum",
+                "be": "বিকম্পিতুম্",
+                "ka": "ವಿಕಮ್ಪಿತುಮ್"
+            },
+            "meaning": {
+                "hi": "डगमगा जाना",
+                "en": "to waver",
+                "be": "টলমল করা",
+                "ka": "ಅಲೆಯಲು"
+            }
         },
         {
             "sanskrit": "अर्हसि",
-            "transliteration": "arhasi",
-            "meaning": "oughtest"
+            "transliteration": {
+                "hi": "अर्हसि",
+                "en": "arhasi",
+                "be": "অর্হসি",
+                "ka": "ಅರ್ಹಸಿ"
+            },
+            "meaning": {
+                "hi": "चाहिए",
+                "en": "oughtest",
+                "be": "oughtest",
+                "ka": "ಮಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "धर्म्यात्",
-            "transliteration": "dharmyāt",
-            "meaning": "than righteous"
+            "transliteration": {
+                "hi": "धर्म्यात्",
+                "en": "dharmyāt",
+                "be": "ধর্ম্যাত্",
+                "ka": "ಧರ್ಮ್ಯಾತ್"
+            },
+            "meaning": {
+                "hi": "धर्मी की तुलना में",
+                "en": "than righteous",
+                "be": "ধার্মিক চেয়ে",
+                "ka": "ನೀತಿವಂತರಿಗಿಂತ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "युद्धात्",
-            "transliteration": "yuddhāt",
-            "meaning": "than war"
+            "transliteration": {
+                "hi": "युद्धात्",
+                "en": "yuddhāt",
+                "be": "যুদ্ধাত্",
+                "ka": "ಯುದ್ಧಾತ್"
+            },
+            "meaning": {
+                "hi": "युद्ध की तुलना में",
+                "en": "than war",
+                "be": "যুদ্ধের চেয়ে",
+                "ka": "ಯುದ್ಧಕ್ಕಿಂತ"
+            }
         },
         {
             "sanskrit": "श्रेयः",
-            "transliteration": "śreyaḥ",
-            "meaning": "higher"
+            "transliteration": {
+                "hi": "श्रेयः",
+                "en": "śreyaḥ",
+                "be": "শ্রেযঃ",
+                "ka": "ಶ್ರೇಯಃ"
+            },
+            "meaning": {
+                "hi": "उच्चतर",
+                "en": "higher",
+                "be": "উচ্চতর",
+                "ka": "ಹೆಚ್ಚಿನ"
+            }
         },
         {
             "sanskrit": "अन्यत्",
-            "transliteration": "anyat",
-            "meaning": "other"
+            "transliteration": {
+                "hi": "अन्यत्",
+                "en": "anyat",
+                "be": "অন্যত্",
+                "ka": "ಅನ್ಯತ್"
+            },
+            "meaning": {
+                "hi": "अन्य",
+                "en": "other",
+                "be": "অন্যান্য",
+                "ka": "ಇತರೆ"
+            }
         },
         {
             "sanskrit": "क्षत्रियस्य",
-            "transliteration": "kṣatriyasya",
-            "meaning": "of a Kshatriya"
+            "transliteration": {
+                "hi": "क्षत्रियस्य",
+                "en": "kṣatriyasya",
+                "be": "ক্ষত্রিযস্য",
+                "ka": "ಕ್ಷತ್ರಿಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "एक क्षत्रिय का",
+                "en": "of a Kshatriya",
+                "be": "একজন ক্ষত্রিয় এর",
+                "ka": "ಒಬ್ಬ ಕ್ಷತ್ರಿಯ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "is."
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "है।",
+                "en": "is.",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ."
+            }
         }
     ],
     "tej": {

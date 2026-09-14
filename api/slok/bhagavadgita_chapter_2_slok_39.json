@@ -14,8 +14,18 @@
         "en": "eṣā te.abhihitā sāṅkhye buddhiryoge tvimāṃ śṛṇu .\nbuddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi ||2-39||",
         "ka": "ಏಷಾ ತೇಽಭಿಹಿತಾ ಸಾಙ್ಖ್ಯೇ ಬುದ್ಧಿರ್ಯೋಗೇ ತ್ವಿಮಾಂ ಶೃಣು |\nಬುದ್ಧ್ಯಾ ಯುಕ್ತೋ ಯಯಾ ಪಾರ್ಥ ಕರ್ಮಬನ್ಧಂ ಪ್ರಹಾಸ್ಯಸಿ ||೨-೩೯||"
     },
-    "transliteration": "eṣā te.abhihitā sāṅkhye buddhiryoge tvimāṃ śṛṇu .\nbuddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi ||2-39||",
-    "life_application": "Translate your intellectual understanding into practical daily action to free your mind from anxiety and regret.",
+    "transliteration": {
+        "hi": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु |\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ||२-३९||",
+        "en": "eṣā te.abhihitā sāṅkhye buddhiryoge tvimāṃ śṛṇu .\nbuddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi ||2-39||",
+        "be": "এষা তেঽভিহিতা সাঙ্খ্যে বুদ্ধির্যোগে ত্বিমাং শৃণু |\nবুদ্ধ্যা যুক্তো যযা পার্থ কর্মবন্ধং প্রহাস্যসি ||২-৩৯||",
+        "ka": "ಏಷಾ ತೇಽಭಿಹಿತಾ ಸಾಙ್ಖ್ಯೇ ಬುದ್ಧಿರ್ಯೋಗೇ ತ್ವಿಮಾಂ ಶೃಣು |\nಬುದ್ಧ್ಯಾ ಯುಕ್ತೋ ಯಯಾ ಪಾರ್ಥ ಕರ್ಮಬನ್ಧಂ ಪ್ರಹಾಸ್ಯಸಿ ||೨-೩೯||"
+    },
+    "life_application": {
+        "hi": "अपने मन को चिंता और पछतावे से मुक्त करने के लिए अपनी बौद्धिक समझ को व्यावहारिक दैनिक कार्यों में बदलें।",
+        "en": "Translate your intellectual understanding into practical daily action to free your mind from anxiety and regret.",
+        "be": "আপনার মনকে উদ্বেগ এবং অনুশোচনা থেকে মুক্ত করতে আপনার বৌদ্ধিক বোঝাপড়াকে ব্যবহারিক দৈনন্দিন কর্মে অনুবাদ করুন।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಆತಂಕ ಮತ್ತು ವಿಷಾದದಿಂದ ಮುಕ್ತಗೊಳಿಸಲು ನಿಮ್ಮ ಬೌದ್ಧಿಕ ತಿಳುವಳಿಕೆಯನ್ನು ಪ್ರಾಯೋಗಿಕ ದೈನಂದಿನ ಕ್ರಿಯೆಗೆ ಅನುವಾದಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Knowledge"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "एषा",
-            "transliteration": "eṣā",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एषा",
+                "en": "eṣā",
+                "be": "এষা",
+                "ka": "ಏಷಾ"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "to thee"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "तुम्हारे लिए",
+                "en": "to thee",
+                "be": "তোমার কাছে",
+                "ka": "ನಿನಗೆ"
+            }
         },
         {
             "sanskrit": "अभिहिता",
-            "transliteration": "abhihitā",
-            "meaning": "declared"
+            "transliteration": {
+                "hi": "अभिहिता",
+                "en": "abhihitā",
+                "be": "অভিহিতা",
+                "ka": "ಅಭಿಹಿತಾ"
+            },
+            "meaning": {
+                "hi": "घोषित",
+                "en": "declared",
+                "be": "ঘোষিত",
+                "ka": "ಘೋಷಿಸಿದರು"
+            }
         },
         {
             "sanskrit": "सांख्ये",
-            "transliteration": "sāṃkhye",
-            "meaning": "in Sankhya"
+            "transliteration": {
+                "hi": "सांख्ये",
+                "en": "sāṃkhye",
+                "be": "সাংখ্যে",
+                "ka": "ಸಾಂಖ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "सांख्य में",
+                "en": "in Sankhya",
+                "be": "সাংখ্যে",
+                "ka": "ಸಾಂಖ್ಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "बुद्धिः",
-            "transliteration": "buddhiḥ",
-            "meaning": "wisdom"
+            "transliteration": {
+                "hi": "बुद्धिः",
+                "en": "buddhiḥ",
+                "be": "বুদ্ধিঃ",
+                "ka": "ಬುದ್ಧಿಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धि",
+                "en": "wisdom",
+                "be": "বুদ্ধি",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆ"
+            }
         },
         {
             "sanskrit": "योगे",
-            "transliteration": "yoge",
-            "meaning": "in the Yoga"
+            "transliteration": {
+                "hi": "योगे",
+                "en": "yoge",
+                "be": "যোগে",
+                "ka": "ಯೋಗೇ"
+            },
+            "meaning": {
+                "hi": "योग में",
+                "en": "in the Yoga",
+                "be": "যোগব্যায়ামে",
+                "ka": "ಯೋಗದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "इमाम्",
-            "transliteration": "imām",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमाम्",
+                "en": "imām",
+                "be": "ইমাম্",
+                "ka": "ಇಮಾಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "श्रृणु",
-            "transliteration": "śrṛṇu",
-            "meaning": "hear"
+            "transliteration": {
+                "hi": "श्रृणु",
+                "en": "śrṛṇu",
+                "be": "শ্রৃণু",
+                "ka": "ಶ್ರೃಣು"
+            },
+            "meaning": {
+                "hi": "सुनो",
+                "en": "hear",
+                "be": "শুনতে",
+                "ka": "ಕೇಳು"
+            }
         },
         {
             "sanskrit": "बुद्ध्या",
-            "transliteration": "buddhyā",
-            "meaning": "with wisdom"
+            "transliteration": {
+                "hi": "बुद्ध्या",
+                "en": "buddhyā",
+                "be": "বুদ্ধ্যা",
+                "ka": "ಬುದ್ಧ್ಯಾ"
+            },
+            "meaning": {
+                "hi": "बुद्धि के साथ",
+                "en": "with wisdom",
+                "be": "প্রজ্ঞার সাথে",
+                "ka": "ಬುದ್ಧಿವಂತಿಕೆಯೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "युक्तः",
-            "transliteration": "yuktaḥ",
-            "meaning": "endowed with"
+            "transliteration": {
+                "hi": "युक्तः",
+                "en": "yuktaḥ",
+                "be": "যুক্তঃ",
+                "ka": "ಯುಕ್ತಃ"
+            },
+            "meaning": {
+                "hi": "से संपन्न",
+                "en": "endowed with",
+                "be": "দ্বারা সমৃদ্ধ",
+                "ka": "ದತ್ತಿಯಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "यया",
-            "transliteration": "yayā",
-            "meaning": "which"
+            "transliteration": {
+                "hi": "यया",
+                "en": "yayā",
+                "be": "যযা",
+                "ka": "ಯಯಾ"
+            },
+            "meaning": {
+                "hi": "जो",
+                "en": "which",
+                "be": "যা",
+                "ka": "ಯಾವುದು"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "कर्मबन्धम्",
-            "transliteration": "karmabandham",
-            "meaning": "bondage of Karma"
+            "transliteration": {
+                "hi": "कर्मबन्धम्",
+                "en": "karmabandham",
+                "be": "কর্মবন্ধম্",
+                "ka": "ಕರ್ಮಬನ್ಧಮ್"
+            },
+            "meaning": {
+                "hi": "कर्म का बंधन",
+                "en": "bondage of Karma",
+                "be": "কর্মের বন্ধন",
+                "ka": "ಕರ್ಮದ ಬಂಧನ"
+            }
         },
         {
             "sanskrit": "प्रहास्यसि",
-            "transliteration": "prahāsyasi",
-            "meaning": "shalt cast off."
+            "transliteration": {
+                "hi": "प्रहास्यसि",
+                "en": "prahāsyasi",
+                "be": "প্রহাস্যসি",
+                "ka": "ಪ್ರಹಾಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "निकाल देना चाहिए.",
+                "en": "shalt cast off.",
+                "be": "বন্ধ নিক্ষেপ.",
+                "ka": "ಬಿಸಾಡಬೇಕು."
+            }
         }
     ],
     "tej": {

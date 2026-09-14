@@ -14,8 +14,18 @@
         "en": "arjuna uvāca .\nkathaṃ bhīṣmamahaṃ saṅkhye droṇaṃ ca madhusūdana .\niṣubhiḥ pratiyotsyāmi pūjārhāvarisūdana ||2-4||",
         "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕಥಂ ಭೀಷ್ಮಮಹಂ ಸಙ್ಖ್ಯೇ ದ್ರೋಣಂ ಚ ಮಧುಸೂದನ |\nಇಷುಭಿಃ ಪ್ರತಿಯೋತ್ಸ್ಯಾಮಿ ಪೂಜಾರ್ಹಾವರಿಸೂದನ ||೨-೪||"
     },
-    "transliteration": "arjuna uvāca .\nkathaṃ bhīṣmamahaṃ saṅkhye droṇaṃ ca madhusūdana .\niṣubhiḥ pratiyotsyāmi pūjārhāvarisūdana ||2-4||",
-    "life_application": "Acknowledge how personal respect and emotional ties can make doing the right thing feel deeply painful.",
+    "transliteration": {
+        "hi": "अर्जुन उवाच |\nकथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन |\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ||२-४||",
+        "en": "arjuna uvāca .\nkathaṃ bhīṣmamahaṃ saṅkhye droṇaṃ ca madhusūdana .\niṣubhiḥ pratiyotsyāmi pūjārhāvarisūdana ||2-4||",
+        "be": "অর্জুন উবাচ |\nকথং ভীষ্মমহং সঙ্খ্যে দ্রোণং চ মধুসূদন |\nইষুভিঃ প্রতিযোত্স্যামি পূজার্হাবরিসূদন ||২-৪||",
+        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಕಥಂ ಭೀಷ್ಮಮಹಂ ಸಙ್ಖ್ಯೇ ದ್ರೋಣಂ ಚ ಮಧುಸೂದನ |\nಇಷುಭಿಃ ಪ್ರತಿಯೋತ್ಸ್ಯಾಮಿ ಪೂಜಾರ್ಹಾವರಿಸೂದನ ||೨-೪||"
+    },
+    "life_application": {
+        "hi": "स्वीकार करें कि कैसे व्यक्तिगत सम्मान और भावनात्मक संबंध सही काम करने को बेहद दर्दनाक बना सकते हैं।",
+        "en": "Acknowledge how personal respect and emotional ties can make doing the right thing feel deeply painful.",
+        "be": "কীভাবে ব্যক্তিগত সম্মান এবং মানসিক বন্ধন সঠিক কাজটি গভীরভাবে বেদনাদায়ক অনুভব করতে পারে তা স্বীকার করুন।",
+        "ka": "ವೈಯಕ್ತಿಕ ಗೌರವ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಸಂಬಂಧಗಳು ಸರಿಯಾದ ಕೆಲಸವನ್ನು ಮಾಡುವುದನ್ನು ಹೇಗೆ ಆಳವಾಗಿ ನೋಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Attachment",
         "Duty"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कथम्",
-            "transliteration": "katham",
-            "meaning": "how"
+            "transliteration": {
+                "hi": "कथम्",
+                "en": "katham",
+                "be": "কথম্",
+                "ka": "ಕಥಮ್"
+            },
+            "meaning": {
+                "hi": "कैसे",
+                "en": "how",
+                "be": "কিভাবে",
+                "ka": "ಹೇಗೆ"
+            }
         },
         {
             "sanskrit": "भीष्मम्",
-            "transliteration": "bhīṣmam",
-            "meaning": "Bhishma"
+            "transliteration": {
+                "hi": "भीष्मम्",
+                "en": "bhīṣmam",
+                "be": "ভীষ্মম্",
+                "ka": "ಭೀಷ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "भीष्म",
+                "en": "Bhishma",
+                "be": "ভীষ্ম",
+                "ka": "ಭೀಷ್ಮ"
+            }
         },
         {
             "sanskrit": "अहम्",
-            "transliteration": "aham",
-            "meaning": "I"
+            "transliteration": {
+                "hi": "अहम्",
+                "en": "aham",
+                "be": "অহম্",
+                "ka": "ಅಹಮ್"
+            },
+            "meaning": {
+                "hi": "मैं",
+                "en": "I",
+                "be": "আমি",
+                "ka": "I"
+            }
         },
         {
             "sanskrit": "संख्ये",
-            "transliteration": "saṃkhye",
-            "meaning": "in battle"
+            "transliteration": {
+                "hi": "संख्ये",
+                "en": "saṃkhye",
+                "be": "সংখ্যে",
+                "ka": "ಸಂಖ್ಯೇ"
+            },
+            "meaning": {
+                "hi": "युद्ध में",
+                "en": "in battle",
+                "be": "যুদ্ধে",
+                "ka": "ಯುದ್ಧದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "द्रोणम्",
-            "transliteration": "droṇam",
-            "meaning": "Drona"
+            "transliteration": {
+                "hi": "द्रोणम्",
+                "en": "droṇam",
+                "be": "দ্রোণম্",
+                "ka": "ದ್ರೋಣಮ್"
+            },
+            "meaning": {
+                "hi": "द्रोण",
+                "en": "Drona",
+                "be": "দ্রোণ",
+                "ka": "ದ್ರೋಣ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "मधुसूदन",
-            "transliteration": "madhusūdana",
-            "meaning": "O Madhusudana"
+            "transliteration": {
+                "hi": "मधुसूदन",
+                "en": "madhusūdana",
+                "be": "মধুসূদন",
+                "ka": "ಮಧುಸೂದನ"
+            },
+            "meaning": {
+                "hi": "हे मधुसूदन!",
+                "en": "O Madhusudana",
+                "be": "হে মধুসূদনা",
+                "ka": "ಓ ಮಧುಸೂದನ"
+            }
         },
         {
             "sanskrit": "इषुभिः",
-            "transliteration": "iṣubhiḥ",
-            "meaning": "with arrows"
+            "transliteration": {
+                "hi": "इषुभिः",
+                "en": "iṣubhiḥ",
+                "be": "ইষুভিঃ",
+                "ka": "ಇಷುಭಿಃ"
+            },
+            "meaning": {
+                "hi": "तीरों के साथ",
+                "en": "with arrows",
+                "be": "তীর দিয়ে",
+                "ka": "ಬಾಣಗಳೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "प्रतियोत्स्यामि",
-            "transliteration": "pratiyotsyāmi",
-            "meaning": "shall fight"
+            "transliteration": {
+                "hi": "प्रतियोत्स्यामि",
+                "en": "pratiyotsyāmi",
+                "be": "প্রতিযোত্স্যামি",
+                "ka": "ಪ್ರತಿಯೋತ್ಸ್ಯಾಮಿ"
+            },
+            "meaning": {
+                "hi": "लड़ेंगे",
+                "en": "shall fight",
+                "be": "যুদ্ধ করবে",
+                "ka": "ಹೋರಾಡಬೇಕು"
+            }
         },
         {
             "sanskrit": "पूजार्हौ",
-            "transliteration": "pūjārhau",
-            "meaning": "worthy to be worshipped"
+            "transliteration": {
+                "hi": "पूजार्हौ",
+                "en": "pūjārhau",
+                "be": "পূজার্হৌ",
+                "ka": "ಪೂಜಾರ್ಹೌ"
+            },
+            "meaning": {
+                "hi": "पूजा करने योग्य",
+                "en": "worthy to be worshipped",
+                "be": "উপাসনা করার যোগ্য",
+                "ka": "ಪೂಜಿಸಲು ಯೋಗ್ಯವಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "अरिसूदन",
-            "transliteration": "arisūdana",
-            "meaning": "O destroyer of enemies."
+            "transliteration": {
+                "hi": "अरिसूदन",
+                "en": "arisūdana",
+                "be": "অরিসূদন",
+                "ka": "ಅರಿಸೂದನ"
+            },
+            "meaning": {
+                "hi": "हे शत्रुओं का नाश करने वाले!",
+                "en": "O destroyer of enemies.",
+                "be": "হে শত্রুদের বিনাশকারী।",
+                "ka": "ಓ ಶತ್ರುಗಳ ನಾಶಕ."
+            }
         }
     ],
     "tej": {

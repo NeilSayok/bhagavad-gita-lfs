@@ -14,8 +14,18 @@
         "en": "atha cettvamimaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi .\ntataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi ||2-33||",
         "ka": "ಅಥ ಚೇತ್ತ್ವಮಿಮಂ ಧರ್ಮ್ಯಂ ಸಂಗ್ರಾಮಂ ನ ಕರಿಷ್ಯಸಿ |\nತತಃ ಸ್ವಧರ್ಮಂ ಕೀರ್ತಿಂ ಚ ಹಿತ್ವಾ ಪಾಪಮವಾಪ್ಸ್ಯಸಿ ||೨-೩೩||"
     },
-    "transliteration": "atha cettvamimaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi .\ntataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi ||2-33||",
-    "life_application": "Recognize that shirked responsibilities carry heavier consequences than the discomfort of carrying them out.",
+    "transliteration": {
+        "hi": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि |\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ||२-३३||",
+        "en": "atha cettvamimaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi .\ntataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi ||2-33||",
+        "be": "অথ চেত্ত্বমিমং ধর্ম্যং সংগ্রামং ন করিষ্যসি |\nততঃ স্বধর্মং কীর্তিং চ হিত্বা পাপমবাপ্স্যসি ||২-৩৩||",
+        "ka": "ಅಥ ಚೇತ್ತ್ವಮಿಮಂ ಧರ್ಮ್ಯಂ ಸಂಗ್ರಾಮಂ ನ ಕರಿಷ್ಯಸಿ |\nತತಃ ಸ್ವಧರ್ಮಂ ಕೀರ್ತಿಂ ಚ ಹಿತ್ವಾ ಪಾಪಮವಾಪ್ಸ್ಯಸಿ ||೨-೩೩||"
+    },
+    "life_application": {
+        "hi": "यह पहचानें कि जिम्मेदारियों से भागने का परिणाम उन्हें निभाने में होने वाली परेशानी से कहीं अधिक गंभीर होता है।",
+        "en": "Recognize that shirked responsibilities carry heavier consequences than the discomfort of carrying them out.",
+        "be": "স্বীকার করুন যে শির্ক করা দায়িত্বগুলি তাদের বহন করার অস্বস্তির চেয়ে ভারী পরিণতি বহন করে।",
+        "ka": "ನುಣುಚಿಕೊಂಡ ಜವಾಬ್ದಾರಿಗಳು ಅವುಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಅಸ್ವಸ್ಥತೆಗಿಂತ ಭಾರವಾದ ಪರಿಣಾಮಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अथ चेत्",
-            "transliteration": "atha cet",
-            "meaning": "but if"
+            "transliteration": {
+                "hi": "अथ चेत्",
+                "en": "atha cet",
+                "be": "অথ চেত্",
+                "ka": "ಅಥ ಚೇತ್"
+            },
+            "meaning": {
+                "hi": "लेकिन अगर",
+                "en": "but if",
+                "be": "কিন্তু যদি",
+                "ka": "ಆದರೆ ವೇಳೆ"
+            }
         },
         {
             "sanskrit": "त्वम्",
-            "transliteration": "tvam",
-            "meaning": "thou"
+            "transliteration": {
+                "hi": "त्वम्",
+                "en": "tvam",
+                "be": "ত্বম্",
+                "ka": "ತ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "तू",
+                "en": "thou",
+                "be": "তুমি",
+                "ka": "ನೀನು"
+            }
         },
         {
             "sanskrit": "इमम्",
-            "transliteration": "imam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इमम्",
+                "en": "imam",
+                "be": "ইমম্",
+                "ka": "ಇಮಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "धर्म्यम्",
-            "transliteration": "dharmyam",
-            "meaning": "righteous"
+            "transliteration": {
+                "hi": "धर्म्यम्",
+                "en": "dharmyam",
+                "be": "ধর্ম্যম্",
+                "ka": "ಧರ್ಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "धर्मी",
+                "en": "righteous",
+                "be": "ধার্মিক",
+                "ka": "ನೀತಿವಂತ"
+            }
         },
         {
             "sanskrit": "संग्रामम्",
-            "transliteration": "saṃgrāmam",
-            "meaning": "warfare"
+            "transliteration": {
+                "hi": "संग्रामम्",
+                "en": "saṃgrāmam",
+                "be": "সংগ্রামম্",
+                "ka": "ಸಂಗ್ರಾಮಮ್"
+            },
+            "meaning": {
+                "hi": "युद्ध",
+                "en": "warfare",
+                "be": "যুদ্ধ",
+                "ka": "ಯುದ್ಧ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "करिष्यसि",
-            "transliteration": "kariṣyasi",
-            "meaning": "will do"
+            "transliteration": {
+                "hi": "करिष्यसि",
+                "en": "kariṣyasi",
+                "be": "করিষ্যসি",
+                "ka": "ಕರಿಷ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "करूँगा",
+                "en": "will do",
+                "be": "করবে",
+                "ka": "ಮಾಡುತ್ತೇನೆ"
+            }
         },
         {
             "sanskrit": "ततः",
-            "transliteration": "tataḥ",
-            "meaning": ",then"
+            "transliteration": {
+                "hi": "ततः",
+                "en": "tataḥ",
+                "be": "ততঃ",
+                "ka": "ತತಃ"
+            },
+            "meaning": {
+                "hi": ",फिर",
+                "en": ",then",
+                "be": "তারপর",
+                "ka": ", ನಂತರ"
+            }
         },
         {
             "sanskrit": "स्वधर्मम्",
-            "transliteration": "svadharmam",
-            "meaning": "own duty"
+            "transliteration": {
+                "hi": "स्वधर्मम्",
+                "en": "svadharmam",
+                "be": "স্বধর্মম্",
+                "ka": "ಸ್ವಧರ್ಮಮ್"
+            },
+            "meaning": {
+                "hi": "अपना कर्तव्य",
+                "en": "own duty",
+                "be": "নিজস্ব দায়িত্ব",
+                "ka": "ಸ್ವಂತ ಕರ್ತವ್ಯ"
+            }
         },
         {
             "sanskrit": "कीर्तिम्",
-            "transliteration": "kīrtim",
-            "meaning": "fame"
+            "transliteration": {
+                "hi": "कीर्तिम्",
+                "en": "kīrtim",
+                "be": "কীর্তিম্",
+                "ka": "ಕೀರ್ತಿಮ್"
+            },
+            "meaning": {
+                "hi": "प्रसिद्धि",
+                "en": "fame",
+                "be": "খ্যাতি",
+                "ka": "ಖ್ಯಾತಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "हित्वा",
-            "transliteration": "hitvā",
-            "meaning": "having abandoned"
+            "transliteration": {
+                "hi": "हित्वा",
+                "en": "hitvā",
+                "be": "হিত্বা",
+                "ka": "ಹಿತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "त्याग दिया है",
+                "en": "having abandoned",
+                "be": "পরিত্যাগ করা",
+                "ka": "ತ್ಯಜಿಸಿದ ನಂತರ"
+            }
         },
         {
             "sanskrit": "पापम्",
-            "transliteration": "pāpam",
-            "meaning": "sin"
+            "transliteration": {
+                "hi": "पापम्",
+                "en": "pāpam",
+                "be": "পাপম্",
+                "ka": "ಪಾಪಮ್"
+            },
+            "meaning": {
+                "hi": "पाप",
+                "en": "sin",
+                "be": "পাপ",
+                "ka": "ಪಾಪ"
+            }
         },
         {
             "sanskrit": "अवाप्स्यसि",
-            "transliteration": "avāpsyasi",
-            "meaning": "shall incur."
+            "transliteration": {
+                "hi": "अवाप्स्यसि",
+                "en": "avāpsyasi",
+                "be": "অবাপ্স্যসি",
+                "ka": "ಅವಾಪ್ಸ್ಯಸಿ"
+            },
+            "meaning": {
+                "hi": "खर्च करना होगा.",
+                "en": "shall incur.",
+                "be": "বহন করা হবে",
+                "ka": "ಅನುಭವಿಸಬೇಕಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ .\nmanasastu parā buddhiryo buddheḥ paratastu saḥ ||3-42||",
         "ka": "ಇನ್ದ್ರಿಯಾಣಿ ಪರಾಣ್ಯಾಹುರಿನ್ದ್ರಿಯೇಭ್ಯಃ ಪರಂ ಮನಃ |\nಮನಸಸ್ತು ಪರಾ ಬುದ್ಧಿರ್ಯೋ ಬುದ್ಧೇಃ ಪರತಸ್ತು ಸಃ ||೩-೪೨||"
     },
-    "transliteration": "indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ .\nmanasastu parā buddhiryo buddheḥ paratastu saḥ ||3-42||",
-    "life_application": "Govern your impulses by bringing your mind under the guidance of higher intellect and silent inner awareness.",
+    "transliteration": {
+        "hi": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः |\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ||३-४२||",
+        "en": "indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ .\nmanasastu parā buddhiryo buddheḥ paratastu saḥ ||3-42||",
+        "be": "ইন্দ্রিযাণি পরাণ্যাহুরিন্দ্রিযেভ্যঃ পরং মনঃ |\nমনসস্তু পরা বুদ্ধির্যো বুদ্ধেঃ পরতস্তু সঃ ||৩-৪২||",
+        "ka": "ಇನ್ದ್ರಿಯಾಣಿ ಪರಾಣ್ಯಾಹುರಿನ್ದ್ರಿಯೇಭ್ಯಃ ಪರಂ ಮನಃ |\nಮನಸಸ್ತು ಪರಾ ಬುದ್ಧಿರ್ಯೋ ಬುದ್ಧೇಃ ಪರತಸ್ತು ಸಃ ||೩-೪೨||"
+    },
+    "life_application": {
+        "hi": "अपने मन को उच्च बुद्धि और मौन आंतरिक जागरूकता के मार्गदर्शन में लाकर अपने आवेगों को नियंत्रित करें।",
+        "en": "Govern your impulses by bringing your mind under the guidance of higher intellect and silent inner awareness.",
+        "be": "আপনার মনকে উচ্চতর বুদ্ধি এবং নীরব অভ্যন্তরীণ সচেতনতার নির্দেশনায় নিয়ে এসে আপনার আবেগকে নিয়ন্ত্রণ করুন।",
+        "ka": "ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಉನ್ನತ ಬುದ್ಧಿಶಕ್ತಿ ಮತ್ತು ಮೌನವಾದ ಆಂತರಿಕ ಅರಿವಿನ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ತರುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರಚೋದನೆಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ."
+    },
     "themes": [
         "Mind",
         "Self-Realization"
@@ -23,53 +33,153 @@
     "word_meanings": [
         {
             "sanskrit": "इन्द्रियाणि",
-            "transliteration": "indriyāṇi",
-            "meaning": "indriyāṇi"
+            "transliteration": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "ইন্দ্রিযাণি",
+                "ka": "ಇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "इन्द्रियाणि",
+                "en": "indriyāṇi",
+                "be": "indriyāṇi",
+                "ka": "indriyani"
+            }
         },
         {
             "sanskrit": "पराण्याहुरिन्द्रियेभ्यः",
-            "transliteration": "parāṇyāhurindriyebhyaḥ",
-            "meaning": "parāṇyāhurindriyebhyaḥ"
+            "transliteration": {
+                "hi": "पराण्याहुरिन्द्रियेभ्यः",
+                "en": "parāṇyāhurindriyebhyaḥ",
+                "be": "পরাণ্যাহুরিন্দ্রিযেভ্যঃ",
+                "ka": "ಪರಾಣ್ಯಾಹುರಿನ್ದ್ರಿಯೇಭ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "परान्याहुरिन्द्रियेभ्यः",
+                "en": "parāṇyāhurindriyebhyaḥ",
+                "be": "পরাণ্যাহুরিন্দ্রিয়েভ্যাঃ",
+                "ka": "ಪರಾಣ್ಯಹುರಿನ್ದ್ರಿಯೇಭ್ಯಃ"
+            }
         },
         {
             "sanskrit": "परं",
-            "transliteration": "paraṃ",
-            "meaning": "paraṃ"
+            "transliteration": {
+                "hi": "परं",
+                "en": "paraṃ",
+                "be": "পরং",
+                "ka": "ಪರಂ"
+            },
+            "meaning": {
+                "hi": "परम",
+                "en": "paraṃ",
+                "be": "paraṃ",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "मनः",
-            "transliteration": "manaḥ",
-            "meaning": "mind"
+            "transliteration": {
+                "hi": "मनः",
+                "en": "manaḥ",
+                "be": "মনঃ",
+                "ka": "ಮನಃ"
+            },
+            "meaning": {
+                "hi": "मन",
+                "en": "mind",
+                "be": "মন",
+                "ka": "ಮನಸ್ಸು"
+            }
         },
         {
             "sanskrit": "मनसस्तु",
-            "transliteration": "manasastu",
-            "meaning": "manasastu"
+            "transliteration": {
+                "hi": "मनसस्तु",
+                "en": "manasastu",
+                "be": "মনসস্তু",
+                "ka": "ಮನಸಸ್ತು"
+            },
+            "meaning": {
+                "hi": "मनसस्तु",
+                "en": "manasastu",
+                "be": "মানসস্তু",
+                "ka": "ಮನಸಾಸ್ತು"
+            }
         },
         {
             "sanskrit": "परा",
-            "transliteration": "parā",
-            "meaning": "parā"
+            "transliteration": {
+                "hi": "परा",
+                "en": "parā",
+                "be": "পরা",
+                "ka": "ಪರಾ"
+            },
+            "meaning": {
+                "hi": "पैरा",
+                "en": "parā",
+                "be": "প্যারা",
+                "ka": "ಪ್ಯಾರಾ"
+            }
         },
         {
             "sanskrit": "बुद्धिर्यो",
-            "transliteration": "buddhiryo",
-            "meaning": "buddhiryo"
+            "transliteration": {
+                "hi": "बुद्धिर्यो",
+                "en": "buddhiryo",
+                "be": "বুদ্ধির্যো",
+                "ka": "ಬುದ್ಧಿರ್ಯೋ"
+            },
+            "meaning": {
+                "hi": "बुद्धिरियो",
+                "en": "buddhiryo",
+                "be": "বুদ্ধরিও",
+                "ka": "ಬುದ್ಧಿರ್ಯೋ"
+            }
         },
         {
             "sanskrit": "बुद्धेः",
-            "transliteration": "buddheḥ",
-            "meaning": "buddheḥ"
+            "transliteration": {
+                "hi": "बुद्धेः",
+                "en": "buddheḥ",
+                "be": "বুদ্ধেঃ",
+                "ka": "ಬುದ್ಧೇಃ"
+            },
+            "meaning": {
+                "hi": "बुद्धेः",
+                "en": "buddheḥ",
+                "be": "বুদ্ধেঃ",
+                "ka": "ಬುದ್ಧೆಃ"
+            }
         },
         {
             "sanskrit": "परतस्तु",
-            "transliteration": "paratastu",
-            "meaning": "paratastu"
+            "transliteration": {
+                "hi": "परतस्तु",
+                "en": "paratastu",
+                "be": "পরতস্তু",
+                "ka": "ಪರತಸ್ತು"
+            },
+            "meaning": {
+                "hi": "परतस्तु",
+                "en": "paratastu",
+                "be": "পরাস্তু",
+                "ka": "ಪರತಸ್ತು"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         }
     ],
     "tej": {

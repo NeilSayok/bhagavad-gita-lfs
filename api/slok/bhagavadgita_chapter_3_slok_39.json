@@ -14,8 +14,18 @@
         "en": "āvṛtaṃ jñānametena jñānino nityavairiṇā .\nkāmarūpeṇa kaunteya duṣpūreṇānalena ca ||3-39||",
         "ka": "ಆವೃತಂ ಜ್ಞಾನಮೇತೇನ ಜ್ಞಾನಿನೋ ನಿತ್ಯವೈರಿಣಾ |\nಕಾಮರೂಪೇಣ ಕೌನ್ತೇಯ ದುಷ್ಪೂರೇಣಾನಲೇನ ಚ ||೩-೩೯||"
     },
-    "transliteration": "āvṛtaṃ jñānametena jñānino nityavairiṇā .\nkāmarūpeṇa kaunteya duṣpūreṇānalena ca ||3-39||",
-    "life_application": "Stop feeding obsessive cravings today, understanding that indulging them fuels an insatiable fire rather than bringing satisfaction.",
+    "transliteration": {
+        "hi": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ||३-३९||",
+        "en": "āvṛtaṃ jñānametena jñānino nityavairiṇā .\nkāmarūpeṇa kaunteya duṣpūreṇānalena ca ||3-39||",
+        "be": "আবৃতং জ্ঞানমেতেন জ্ঞানিনো নিত্যবৈরিণা |\nকামরূপেণ কৌন্তেয দুষ্পূরেণানলেন চ ||৩-৩৯||",
+        "ka": "ಆವೃತಂ ಜ್ಞಾನಮೇತೇನ ಜ್ಞಾನಿನೋ ನಿತ್ಯವೈರಿಣಾ |\nಕಾಮರೂಪೇಣ ಕೌನ್ತೇಯ ದುಷ್ಪೂರೇಣಾನಲೇನ ಚ ||೩-೩೯||"
+    },
+    "life_application": {
+        "hi": "आज ही जुनूनी लालसा को बढ़ावा देना बंद करें, यह समझें कि उन्हें शामिल करने से संतुष्टि मिलने के बजाय अतृप्त आग भड़कती है।",
+        "en": "Stop feeding obsessive cravings today, understanding that indulging them fuels an insatiable fire rather than bringing satisfaction.",
+        "be": "আজই আবেশী লালসা খাওয়ানো বন্ধ করুন, বুঝতে হবে যে তাদের প্রশ্রয় দেওয়া সন্তুষ্টি আনার পরিবর্তে একটি অতৃপ্ত আগুন জ্বালায়।",
+        "ka": "ಇಂದು ಒಬ್ಸೆಸಿವ್ ಕಡುಬಯಕೆಗಳಿಗೆ ಆಹಾರವನ್ನು ನೀಡುವುದನ್ನು ನಿಲ್ಲಿಸಿ, ಅವುಗಳನ್ನು ತೊಡಗಿಸಿಕೊಳ್ಳುವುದು ತೃಪ್ತಿಯನ್ನು ತರುವ ಬದಲು ಅತೃಪ್ತ ಬೆಂಕಿಯನ್ನು ಇಂಧನಗೊಳಿಸುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Attachment",
         "Mind"
@@ -23,43 +33,123 @@
     "word_meanings": [
         {
             "sanskrit": "आवृतं",
-            "transliteration": "āvṛtaṃ",
-            "meaning": "āvṛtaṃ"
+            "transliteration": {
+                "hi": "आवृतं",
+                "en": "āvṛtaṃ",
+                "be": "আবৃতং",
+                "ka": "ಆವೃತಂ"
+            },
+            "meaning": {
+                "hi": "अवृत्तम्",
+                "en": "āvṛtaṃ",
+                "be": "avṛtaṃ",
+                "ka": "ಆವೃತಾಂ"
+            }
         },
         {
             "sanskrit": "ज्ञानमेतेन",
-            "transliteration": "jñānametena",
-            "meaning": "jñānametena"
+            "transliteration": {
+                "hi": "ज्ञानमेतेन",
+                "en": "jñānametena",
+                "be": "জ্ঞানমেতেন",
+                "ka": "ಜ್ಞಾನಮೇತೇನ"
+            },
+            "meaning": {
+                "hi": "ज्ञानमेतेन",
+                "en": "jñānametena",
+                "be": "জ্ঞানমেটেনা",
+                "ka": "ಜ್ಞಾನಮೇತೇನ"
+            }
         },
         {
             "sanskrit": "ज्ञानिनो",
-            "transliteration": "jñānino",
-            "meaning": "jñānino"
+            "transliteration": {
+                "hi": "ज्ञानिनो",
+                "en": "jñānino",
+                "be": "জ্ঞানিনো",
+                "ka": "ಜ್ಞಾನಿನೋ"
+            },
+            "meaning": {
+                "hi": "ज्ञानिनो",
+                "en": "jñānino",
+                "be": "jñānino",
+                "ka": "ಜ್ಞಾನಿನೋ"
+            }
         },
         {
             "sanskrit": "नित्यवैरिणा",
-            "transliteration": "nityavairiṇā",
-            "meaning": "nityavairiṇā"
+            "transliteration": {
+                "hi": "नित्यवैरिणा",
+                "en": "nityavairiṇā",
+                "be": "নিত্যবৈরিণা",
+                "ka": "ನಿತ್ಯವೈರಿಣಾ"
+            },
+            "meaning": {
+                "hi": "नित्यवैरिणा",
+                "en": "nityavairiṇā",
+                "be": "নিত্যবৈরিণা",
+                "ka": "ನಿತ್ಯವೈರಿಣಾ"
+            }
         },
         {
             "sanskrit": "कामरूपेण",
-            "transliteration": "kāmarūpeṇa",
-            "meaning": "kāmarūpeṇa"
+            "transliteration": {
+                "hi": "कामरूपेण",
+                "en": "kāmarūpeṇa",
+                "be": "কামরূপেণ",
+                "ka": "ಕಾಮರೂಪೇಣ"
+            },
+            "meaning": {
+                "hi": "कामरूपेण",
+                "en": "kāmarūpeṇa",
+                "be": "kamarūpeṇa",
+                "ka": "ಕಾಮರೂಪೇಣ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O son of Kunti"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कुन्तीपुत्र!",
+                "en": "O son of Kunti",
+                "be": "হে কুন্তীর পুত্র",
+                "ka": "ಓ ಕುಂತಿಯ ಮಗನೇ"
+            }
         },
         {
             "sanskrit": "दुष्पूरेणानलेन",
-            "transliteration": "duṣpūreṇānalena",
-            "meaning": "duṣpūreṇānalena"
+            "transliteration": {
+                "hi": "दुष्पूरेणानलेन",
+                "en": "duṣpūreṇānalena",
+                "be": "দুষ্পূরেণানলেন",
+                "ka": "ದುಷ್ಪೂರೇಣಾನಲೇನ"
+            },
+            "meaning": {
+                "hi": "दुष्पुरेणनलेना",
+                "en": "duṣpūreṇānalena",
+                "be": "দুষপুরেনালেন",
+                "ka": "ದುಷ್ಪುರೇಣಾನಲೇನ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         }
     ],
     "tej": {

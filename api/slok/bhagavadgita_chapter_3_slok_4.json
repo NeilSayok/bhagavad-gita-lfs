@@ -14,8 +14,18 @@
         "en": "na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo.aśnute .\nna ca saṃnyasanādeva siddhiṃ samadhigacchati ||3-4||",
         "ka": "ನ ಕರ್ಮಣಾಮನಾರಮ್ಭಾನ್ನೈಷ್ಕರ್ಮ್ಯಂ ಪುರುಷೋಽಶ್ನುತೇ |\nನ ಚ ಸಂನ್ಯಸನಾದೇವ ಸಿದ್ಧಿಂ ಸಮಧಿಗಚ್ಛತಿ ||೩-೪||"
     },
-    "transliteration": "na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo.aśnute .\nna ca saṃnyasanādeva siddhiṃ samadhigacchati ||3-4||",
-    "life_application": "Recognize that avoiding your work does not bring inner peace, and face your daily tasks with active dedication.",
+    "transliteration": {
+        "hi": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते |\nन च संन्यसनादेव सिद्धिं समधिगच्छति ||३-४||",
+        "en": "na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo.aśnute .\nna ca saṃnyasanādeva siddhiṃ samadhigacchati ||3-4||",
+        "be": "ন কর্মণামনারম্ভান্নৈষ্কর্ম্যং পুরুষোঽশ্নুতে |\nন চ সংন্যসনাদেব সিদ্ধিং সমধিগচ্ছতি ||৩-৪||",
+        "ka": "ನ ಕರ್ಮಣಾಮನಾರಮ್ಭಾನ್ನೈಷ್ಕರ್ಮ್ಯಂ ಪುರುಷೋಽಶ್ನುತೇ |\nನ ಚ ಸಂನ್ಯಸನಾದೇವ ಸಿದ್ಧಿಂ ಸಮಧಿಗಚ್ಛತಿ ||೩-೪||"
+    },
+    "life_application": {
+        "hi": "पहचानें कि अपने काम को टालने से आंतरिक शांति नहीं मिलती है, और सक्रिय समर्पण के साथ अपने दैनिक कार्यों का सामना करें।",
+        "en": "Recognize that avoiding your work does not bring inner peace, and face your daily tasks with active dedication.",
+        "be": "স্বীকার করুন যে আপনার কাজ এড়িয়ে চলা অভ্যন্তরীণ শান্তি আনে না, এবং সক্রিয় উত্সর্গের সাথে আপনার দৈনন্দিন কাজগুলির মুখোমুখি হন।",
+        "ka": "ನಿಮ್ಮ ಕೆಲಸವನ್ನು ತಪ್ಪಿಸುವುದು ಆಂತರಿಕ ಶಾಂತಿಯನ್ನು ತರುವುದಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ ಮತ್ತು ನಿಮ್ಮ ದೈನಂದಿನ ಕಾರ್ಯಗಳನ್ನು ಸಕ್ರಿಯ ಸಮರ್ಪಣೆಯೊಂದಿಗೆ ಎದುರಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Duty"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कर्मणाम्",
-            "transliteration": "karmaṇām",
-            "meaning": "of actions"
+            "transliteration": {
+                "hi": "कर्मणाम्",
+                "en": "karmaṇām",
+                "be": "কর্মণাম্",
+                "ka": "ಕರ್ಮಣಾಮ್"
+            },
+            "meaning": {
+                "hi": "क्रियाओं का",
+                "en": "of actions",
+                "be": "কর্মের",
+                "ka": "ಕ್ರಿಯೆಗಳ"
+            }
         },
         {
             "sanskrit": "अनारम्भात्",
-            "transliteration": "anārambhāt",
-            "meaning": "from nonperformance"
+            "transliteration": {
+                "hi": "अनारम्भात्",
+                "en": "anārambhāt",
+                "be": "অনারম্ভাত্",
+                "ka": "ಅನಾರಮ್ಭಾತ್"
+            },
+            "meaning": {
+                "hi": "गैर-प्रदर्शन से",
+                "en": "from nonperformance",
+                "be": "কর্মহীনতা থেকে",
+                "ka": "ಕಾರ್ಯಕ್ಷಮತೆಯ ಕೊರತೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "नैष्कर्म्यम्",
-            "transliteration": "naiṣkarmyam",
-            "meaning": "actionlessness"
+            "transliteration": {
+                "hi": "नैष्कर्म्यम्",
+                "en": "naiṣkarmyam",
+                "be": "নৈষ্কর্ম্যম্",
+                "ka": "ನೈಷ್ಕರ್ಮ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "क्रियाहीनता",
+                "en": "actionlessness",
+                "be": "কর্মহীনতা",
+                "ka": "ಕ್ರಿಯೆಯಿಲ್ಲದಿರುವಿಕೆ"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "अश्नुते",
-            "transliteration": "aśnute",
-            "meaning": "reaches"
+            "transliteration": {
+                "hi": "अश्नुते",
+                "en": "aśnute",
+                "be": "অশ্নুতে",
+                "ka": "ಅಶ್ನುತೇ"
+            },
+            "meaning": {
+                "hi": "पहुँचता है",
+                "en": "reaches",
+                "be": "পৌঁছায়",
+                "ka": "ತಲುಪುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "संन्यसनात्",
-            "transliteration": "saṃnyasanāt",
-            "meaning": "from renunciation"
+            "transliteration": {
+                "hi": "संन्यसनात्",
+                "en": "saṃnyasanāt",
+                "be": "সংন্যসনাত্",
+                "ka": "ಸಂನ್ಯಸನಾತ್"
+            },
+            "meaning": {
+                "hi": "त्याग से",
+                "en": "from renunciation",
+                "be": "ত্যাগ থেকে",
+                "ka": "ತ್ಯಜಿಸುವಿಕೆಯಿಂದ"
+            }
         },
         {
             "sanskrit": "एव",
-            "transliteration": "eva",
-            "meaning": "only"
+            "transliteration": {
+                "hi": "एव",
+                "en": "eva",
+                "be": "এব",
+                "ka": "ಏವ"
+            },
+            "meaning": {
+                "hi": "केवल",
+                "en": "only",
+                "be": "শুধুমাত্র",
+                "ka": "ಮಾತ್ರ"
+            }
         },
         {
             "sanskrit": "सिद्धिम्",
-            "transliteration": "siddhim",
-            "meaning": "perfection"
+            "transliteration": {
+                "hi": "सिद्धिम्",
+                "en": "siddhim",
+                "be": "সিদ্ধিম্",
+                "ka": "ಸಿದ್ಧಿಮ್"
+            },
+            "meaning": {
+                "hi": "पूर्णता",
+                "en": "perfection",
+                "be": "পরিপূর্ণতা",
+                "ka": "ಪರಿಪೂರ್ಣತೆ"
+            }
         },
         {
             "sanskrit": "समधिगच्छति",
-            "transliteration": "samadhigacchati",
-            "meaning": "attains."
+            "transliteration": {
+                "hi": "समधिगच्छति",
+                "en": "samadhigacchati",
+                "be": "সমধিগচ্ছতি",
+                "ka": "ಸಮಧಿಗಚ್ಛತಿ"
+            },
+            "meaning": {
+                "hi": "प्राप्त करता है.",
+                "en": "attains.",
+                "be": "অর্জন করে",
+                "ka": "ಸಾಧಿಸುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

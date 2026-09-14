@@ -14,8 +14,18 @@
         "en": "na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt .\nkāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ ||3-5||",
         "ka": "ನ ಹಿ ಕಶ್ಚಿತ್ಕ್ಷಣಮಪಿ ಜಾತು ತಿಷ್ಠತ್ಯಕರ್ಮಕೃತ್ |\nಕಾರ್ಯತೇ ಹ್ಯವಶಃ ಕರ್ಮ ಸರ್ವಃ ಪ್ರಕೃತಿಜೈರ್ಗುಣೈಃ ||೩-೫||"
     },
-    "transliteration": "na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt .\nkāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ ||3-5||",
-    "life_application": "Acknowledge that action is constant in human life, and direct your inevitable activity toward wholesome and constructive goals.",
+    "transliteration": {
+        "hi": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||३-५||",
+        "en": "na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt .\nkāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ ||3-5||",
+        "be": "ন হি কশ্চিত্ক্ষণমপি জাতু তিষ্ঠত্যকর্মকৃত্ |\nকার্যতে হ্যবশঃ কর্ম সর্বঃ প্রকৃতিজৈর্গুণৈঃ ||৩-৫||",
+        "ka": "ನ ಹಿ ಕಶ್ಚಿತ್ಕ್ಷಣಮಪಿ ಜಾತು ತಿಷ್ಠತ್ಯಕರ್ಮಕೃತ್ |\nಕಾರ್ಯತೇ ಹ್ಯವಶಃ ಕರ್ಮ ಸರ್ವಃ ಪ್ರಕೃತಿಜೈರ್ಗುಣೈಃ ||೩-೫||"
+    },
+    "life_application": {
+        "hi": "स्वीकार करें कि मानव जीवन में कार्रवाई निरंतर है, और अपनी अपरिहार्य गतिविधि को संपूर्ण और रचनात्मक लक्ष्यों की ओर निर्देशित करें।",
+        "en": "Acknowledge that action is constant in human life, and direct your inevitable activity toward wholesome and constructive goals.",
+        "be": "স্বীকার করুন যে কর্ম মানব জীবনে ধ্রুবক, এবং আপনার অনিবার্য কার্যকলাপকে স্বাস্থ্যকর এবং গঠনমূলক লক্ষ্যের দিকে পরিচালিত করুন।",
+        "ka": "ಮಾನವ ಜೀವನದಲ್ಲಿ ಕ್ರಿಯೆಯು ಸ್ಥಿರವಾಗಿದೆ ಎಂದು ಒಪ್ಪಿಕೊಳ್ಳಿ ಮತ್ತು ಆರೋಗ್ಯಕರ ಮತ್ತು ರಚನಾತ್ಮಕ ಗುರಿಗಳ ಕಡೆಗೆ ನಿಮ್ಮ ಅನಿವಾರ್ಯ ಚಟುವಟಿಕೆಯನ್ನು ನಿರ್ದೇಶಿಸಿ."
+    },
     "themes": [
         "Karma",
         "Mindfulness"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "नहि",
-            "transliteration": "nahi",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "नहि",
+                "en": "nahi",
+                "be": "নহি",
+                "ka": "ನಹಿ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कश्चित्",
-            "transliteration": "kaścit",
-            "meaning": "anyone"
+            "transliteration": {
+                "hi": "कश्चित्",
+                "en": "kaścit",
+                "be": "কশ্চিত্",
+                "ka": "ಕಶ್ಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कोई भी",
+                "en": "anyone",
+                "be": "যে কেউ",
+                "ka": "ಯಾರಾದರೂ"
+            }
         },
         {
             "sanskrit": "क्षणम्",
-            "transliteration": "kṣaṇam",
-            "meaning": "a moment"
+            "transliteration": {
+                "hi": "क्षणम्",
+                "en": "kṣaṇam",
+                "be": "ক্ষণম্",
+                "ka": "ಕ್ಷಣಮ್"
+            },
+            "meaning": {
+                "hi": "एक क्षण",
+                "en": "a moment",
+                "be": "একটি মুহূর্ত",
+                "ka": "ಒಂದು ಕ್ಷಣ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "even"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "यहां तक कि",
+                "en": "even",
+                "be": "এমনকি",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "जातु",
-            "transliteration": "jātu",
-            "meaning": "verily"
+            "transliteration": {
+                "hi": "जातु",
+                "en": "jātu",
+                "be": "জাতু",
+                "ka": "ಜಾತು"
+            },
+            "meaning": {
+                "hi": "सचमुच",
+                "en": "verily",
+                "be": "সত্যই",
+                "ka": "ನಿಜವಾಗಿಯೂ"
+            }
         },
         {
             "sanskrit": "तिष्ठति",
-            "transliteration": "tiṣṭhati",
-            "meaning": "remains"
+            "transliteration": {
+                "hi": "तिष्ठति",
+                "en": "tiṣṭhati",
+                "be": "তিষ্ঠতি",
+                "ka": "ತಿಷ್ಠತಿ"
+            },
+            "meaning": {
+                "hi": "रहता है",
+                "en": "remains",
+                "be": "অবশেষ",
+                "ka": "ಉಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "अकर्मकृत्",
-            "transliteration": "akarmakṛt",
-            "meaning": "without performing action"
+            "transliteration": {
+                "hi": "अकर्मकृत्",
+                "en": "akarmakṛt",
+                "be": "অকর্মকৃত্",
+                "ka": "ಅಕರ್ಮಕೃತ್"
+            },
+            "meaning": {
+                "hi": "बिना कार्रवाई किये",
+                "en": "without performing action",
+                "be": "কর্ম সম্পাদন ছাড়া",
+                "ka": "ಕ್ರಿಯೆಯನ್ನು ನಿರ್ವಹಿಸದೆ"
+            }
         },
         {
             "sanskrit": "कार्यते",
-            "transliteration": "kāryate",
-            "meaning": "is made to do"
+            "transliteration": {
+                "hi": "कार्यते",
+                "en": "kāryate",
+                "be": "কার্যতে",
+                "ka": "ಕಾರ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "करने के लिए बनाया गया है",
+                "en": "is made to do",
+                "be": "করতে তৈরি করা হয়",
+                "ka": "ಮಾಡಲು ಮಾಡಲಾಗಿದೆ"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "for"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "के लिए",
+                "en": "for",
+                "be": "জন্য",
+                "ka": "ಫಾರ್"
+            }
         },
         {
             "sanskrit": "अवशः",
-            "transliteration": "avaśaḥ",
-            "meaning": "helpless"
+            "transliteration": {
+                "hi": "अवशः",
+                "en": "avaśaḥ",
+                "be": "অবশঃ",
+                "ka": "ಅವಶಃ"
+            },
+            "meaning": {
+                "hi": "असहाय",
+                "en": "helpless",
+                "be": "অসহায়",
+                "ka": "ಅಸಹಾಯಕ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "सर्वः",
-            "transliteration": "sarvaḥ",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वः",
+                "en": "sarvaḥ",
+                "be": "সর্বঃ",
+                "ka": "ಸರ್ವಃ"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "प्रकृतिजैः",
-            "transliteration": "prakṛtijaiḥ",
-            "meaning": "born of Prakriti"
+            "transliteration": {
+                "hi": "प्रकृतिजैः",
+                "en": "prakṛtijaiḥ",
+                "be": "প্রকৃতিজৈঃ",
+                "ka": "ಪ್ರಕೃತಿಜೈಃ"
+            },
+            "meaning": {
+                "hi": "प्रकृति से उत्पन्न",
+                "en": "born of Prakriti",
+                "be": "প্রকৃতির জন্ম",
+                "ka": "ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ"
+            }
         },
         {
             "sanskrit": "गुणैः",
-            "transliteration": "guṇaiḥ",
-            "meaning": "by the alities."
+            "transliteration": {
+                "hi": "गुणैः",
+                "en": "guṇaiḥ",
+                "be": "গুণৈঃ",
+                "ka": "ಗುಣೈಃ"
+            },
+            "meaning": {
+                "hi": "तत्वों द्वारा.",
+                "en": "by the alities.",
+                "be": "alities দ্বারা",
+                "ka": "ಅಲಿಟಿಗಳಿಂದ."
+            }
         }
     ],
     "tej": {

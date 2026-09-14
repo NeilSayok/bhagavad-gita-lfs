@@ -14,8 +14,18 @@
         "en": "karmendriyāṇi saṃyamya ya āste manasā smaran .\nindriyārthānvimūḍhātmā mithyācāraḥ sa ucyate ||3-6||",
         "ka": "ಕರ್ಮೇನ್ದ್ರಿಯಾಣಿ ಸಂಯಮ್ಯ ಯ ಆಸ್ತೇ ಮನಸಾ ಸ್ಮರನ್ |\nಇನ್ದ್ರಿಯಾರ್ಥಾನ್ವಿಮೂಢಾತ್ಮಾ ಮಿಥ್ಯಾಚಾರಃ ಸ ಉಚ್ಯತೇ ||೩-೬||"
     },
-    "transliteration": "karmendriyāṇi saṃyamya ya āste manasā smaran .\nindriyārthānvimūḍhātmā mithyācāraḥ sa ucyate ||3-6||",
-    "life_application": "Align your inner thoughts with your outer behavior, avoiding false pretenses of self-discipline while craving forbidden pleasures.",
+    "transliteration": {
+        "hi": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् |\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ||३-६||",
+        "en": "karmendriyāṇi saṃyamya ya āste manasā smaran .\nindriyārthānvimūḍhātmā mithyācāraḥ sa ucyate ||3-6||",
+        "be": "কর্মেন্দ্রিযাণি সংযম্য য আস্তে মনসা স্মরন্ |\nইন্দ্রিযার্থান্বিমূঢাত্মা মিথ্যাচারঃ স উচ্যতে ||৩-৬||",
+        "ka": "ಕರ್ಮೇನ್ದ್ರಿಯಾಣಿ ಸಂಯಮ್ಯ ಯ ಆಸ್ತೇ ಮನಸಾ ಸ್ಮರನ್ |\nಇನ್ದ್ರಿಯಾರ್ಥಾನ್ವಿಮೂಢಾತ್ಮಾ ಮಿಥ್ಯಾಚಾರಃ ಸ ಉಚ್ಯತೇ ||೩-೬||"
+    },
+    "life_application": {
+        "hi": "अपने आंतरिक विचारों को अपने बाहरी व्यवहार के साथ संरेखित करें, निषिद्ध सुखों की लालसा करते हुए आत्म-अनुशासन के झूठे दिखावे से बचें।",
+        "en": "Align your inner thoughts with your outer behavior, avoiding false pretenses of self-discipline while craving forbidden pleasures.",
+        "be": "আপনার অভ্যন্তরীণ চিন্তাগুলিকে আপনার বাইরের আচরণের সাথে সারিবদ্ধ করুন, নিষিদ্ধ আনন্দের আকাঙ্ক্ষার সময় স্ব-শৃঙ্খলার মিথ্যা ভান এড়িয়ে চলুন।",
+        "ka": "ನಿಮ್ಮ ಆಂತರಿಕ ಆಲೋಚನೆಗಳನ್ನು ನಿಮ್ಮ ಬಾಹ್ಯ ನಡವಳಿಕೆಯೊಂದಿಗೆ ಜೋಡಿಸಿ, ನಿಷೇಧಿತ ಸಂತೋಷಗಳನ್ನು ಹಂಬಲಿಸುವಾಗ ಸ್ವಯಂ-ಶಿಸ್ತಿನ ಸುಳ್ಳು ನೆಪಗಳನ್ನು ತಪ್ಪಿಸಿ."
+    },
     "themes": [
         "Mindfulness",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "कर्मेन्द्रियाणि",
-            "transliteration": "karmendriyāṇi",
-            "meaning": "organs of action"
+            "transliteration": {
+                "hi": "कर्मेन्द्रियाणि",
+                "en": "karmendriyāṇi",
+                "be": "কর্মেন্দ্রিযাণি",
+                "ka": "ಕರ್ಮೇನ್ದ್ರಿಯಾಣಿ"
+            },
+            "meaning": {
+                "hi": "क्रिया के अंग",
+                "en": "organs of action",
+                "be": "কর্মের অঙ্গ",
+                "ka": "ಕ್ರಿಯೆಯ ಅಂಗಗಳು"
+            }
         },
         {
             "sanskrit": "संयम्य",
-            "transliteration": "saṃyamya",
-            "meaning": "restraining"
+            "transliteration": {
+                "hi": "संयम्य",
+                "en": "saṃyamya",
+                "be": "সংযম্য",
+                "ka": "ಸಂಯಮ್ಯ"
+            },
+            "meaning": {
+                "hi": "रोकना",
+                "en": "restraining",
+                "be": "নিরোধক",
+                "ka": "ತಡೆಯುವುದು"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "आस्ते",
-            "transliteration": "āste",
-            "meaning": "sits"
+            "transliteration": {
+                "hi": "आस्ते",
+                "en": "āste",
+                "be": "আস্তে",
+                "ka": "ಆಸ್ತೇ"
+            },
+            "meaning": {
+                "hi": "बैठता है",
+                "en": "sits",
+                "be": "বসে",
+                "ka": "ಕುಳಿತುಕೊಳ್ಳುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "मनसा",
-            "transliteration": "manasā",
-            "meaning": "by the mind"
+            "transliteration": {
+                "hi": "मनसा",
+                "en": "manasā",
+                "be": "মনসা",
+                "ka": "ಮನಸಾ"
+            },
+            "meaning": {
+                "hi": "मन से",
+                "en": "by the mind",
+                "be": "মনের দ্বারা",
+                "ka": "ಮನಸ್ಸಿನಿಂದ"
+            }
         },
         {
             "sanskrit": "स्मरन्",
-            "transliteration": "smaran",
-            "meaning": "remembering"
+            "transliteration": {
+                "hi": "स्मरन्",
+                "en": "smaran",
+                "be": "স্মরন্",
+                "ka": "ಸ್ಮರನ್"
+            },
+            "meaning": {
+                "hi": "याद कर रहा हूँ",
+                "en": "remembering",
+                "be": "মনে রাখা",
+                "ka": "ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ"
+            }
         },
         {
             "sanskrit": "इन्द्रियार्थान्",
-            "transliteration": "indriyārthān",
-            "meaning": "senseobjects"
+            "transliteration": {
+                "hi": "इन्द्रियार्थान्",
+                "en": "indriyārthān",
+                "be": "ইন্দ্রিযার্থান্",
+                "ka": "ಇನ್ದ್ರಿಯಾರ್ಥಾನ್"
+            },
+            "meaning": {
+                "hi": "सेंसऑब्जेक्ट्स",
+                "en": "senseobjects",
+                "be": "ইন্দ্রিয় বস্তু",
+                "ka": "ಇಂದ್ರಿಯ ವಸ್ತುಗಳು"
+            }
         },
         {
             "sanskrit": "विमूढात्मा",
-            "transliteration": "vimūḍhātmā",
-            "meaning": "of deluded understanding"
+            "transliteration": {
+                "hi": "विमूढात्मा",
+                "en": "vimūḍhātmā",
+                "be": "বিমূঢাত্মা",
+                "ka": "ವಿಮೂಢಾತ್ಮಾ"
+            },
+            "meaning": {
+                "hi": "भ्रामक समझ का",
+                "en": "of deluded understanding",
+                "be": "deluded বোঝার",
+                "ka": "ಭ್ರಮೆಯ ತಿಳುವಳಿಕೆ"
+            }
         },
         {
             "sanskrit": "मिथ्याचारः",
-            "transliteration": "mithyācāraḥ",
-            "meaning": "hypocrite"
+            "transliteration": {
+                "hi": "मिथ्याचारः",
+                "en": "mithyācāraḥ",
+                "be": "মিথ্যাচারঃ",
+                "ka": "ಮಿಥ್ಯಾಚಾರಃ"
+            },
+            "meaning": {
+                "hi": "पाखंडी",
+                "en": "hypocrite",
+                "be": "ভণ্ড",
+                "ka": "ಕಪಟಿ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "उच्यते",
-            "transliteration": "ucyate",
-            "meaning": "is called."
+            "transliteration": {
+                "hi": "उच्यते",
+                "en": "ucyate",
+                "be": "উচ্যতে",
+                "ka": "ಉಚ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है.",
+                "en": "is called.",
+                "be": "বলা হয়",
+                "ka": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

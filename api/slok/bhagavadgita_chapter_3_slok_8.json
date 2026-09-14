@@ -14,8 +14,18 @@
         "en": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ .\nśarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ ||3-8||",
         "ka": "ನಿಯತಂ ಕುರು ಕರ್ಮ ತ್ವಂ ಕರ್ಮ ಜ್ಯಾಯೋ ಹ್ಯಕರ್ಮಣಃ |\nಶರೀರಯಾತ್ರಾಪಿ ಚ ತೇ ನ ಪ್ರಸಿದ್ಧ್ಯೇದಕರ್ಮಣಃ ||೩-೮||"
     },
-    "transliteration": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ .\nśarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ ||3-8||",
-    "life_application": "Fulfill your essential daily duties conscientiously, knowing that basic living and health require steady, active effort.",
+    "transliteration": {
+        "hi": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः |\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ||३-८||",
+        "en": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ .\nśarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ ||3-8||",
+        "be": "নিযতং কুরু কর্ম ত্বং কর্ম জ্যাযো হ্যকর্মণঃ |\nশরীরযাত্রাপি চ তে ন প্রসিদ্ধ্যেদকর্মণঃ ||৩-৮||",
+        "ka": "ನಿಯತಂ ಕುರು ಕರ್ಮ ತ್ವಂ ಕರ್ಮ ಜ್ಯಾಯೋ ಹ್ಯಕರ್ಮಣಃ |\nಶರೀರಯಾತ್ರಾಪಿ ಚ ತೇ ನ ಪ್ರಸಿದ್ಧ್ಯೇದಕರ್ಮಣಃ ||೩-೮||"
+    },
+    "life_application": {
+        "hi": "अपने आवश्यक दैनिक कर्तव्यों को कर्तव्यनिष्ठा से पूरा करें, यह जानते हुए कि बुनियादी जीवन और स्वास्थ्य के लिए स्थिर, सक्रिय प्रयास की आवश्यकता होती है।",
+        "en": "Fulfill your essential daily duties conscientiously, knowing that basic living and health require steady, active effort.",
+        "be": "মৌলিক জীবনযাপন এবং স্বাস্থ্যের জন্য স্থির, সক্রিয় প্রচেষ্টার প্রয়োজন জেনে, আপনার প্রয়োজনীয় দৈনন্দিন দায়িত্বগুলি আন্তরিকতার সাথে পূরণ করুন।",
+        "ka": "ಮೂಲಭೂತ ಜೀವನ ಮತ್ತು ಆರೋಗ್ಯಕ್ಕೆ ಸ್ಥಿರವಾದ, ಸಕ್ರಿಯ ಪ್ರಯತ್ನದ ಅಗತ್ಯವಿದೆ ಎಂದು ತಿಳಿದುಕೊಂಡು ನಿಮ್ಮ ಅಗತ್ಯ ದೈನಂದಿನ ಕರ್ತವ್ಯಗಳನ್ನು ಆತ್ಮಸಾಕ್ಷಿಯಾಗಿ ಪೂರೈಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Karma"
@@ -23,63 +33,183 @@
     "word_meanings": [
         {
             "sanskrit": "नियतं",
-            "transliteration": "niyataṃ",
-            "meaning": "niyataṃ"
+            "transliteration": {
+                "hi": "नियतं",
+                "en": "niyataṃ",
+                "be": "নিযতং",
+                "ka": "ನಿಯತಂ"
+            },
+            "meaning": {
+                "hi": "नियतं",
+                "en": "niyataṃ",
+                "be": "niyatṃ",
+                "ka": "ನಿಯತಂ"
+            }
         },
         {
             "sanskrit": "कुरु",
-            "transliteration": "kuru",
-            "meaning": "kuru"
+            "transliteration": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            },
+            "meaning": {
+                "hi": "कुरु",
+                "en": "kuru",
+                "be": "কুরু",
+                "ka": "ಕುರು"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "त्वं",
-            "transliteration": "tvaṃ",
-            "meaning": "tvaṃ"
+            "transliteration": {
+                "hi": "त्वं",
+                "en": "tvaṃ",
+                "be": "ত্বং",
+                "ka": "ತ್ವಂ"
+            },
+            "meaning": {
+                "hi": "त्वा",
+                "en": "tvaṃ",
+                "be": "tvaṃ",
+                "ka": "tvaṃ"
+            }
         },
         {
             "sanskrit": "कर्म",
-            "transliteration": "karma",
-            "meaning": "action"
+            "transliteration": {
+                "hi": "कर्म",
+                "en": "karma",
+                "be": "কর্ম",
+                "ka": "ಕರ್ಮ"
+            },
+            "meaning": {
+                "hi": "कार्रवाई",
+                "en": "action",
+                "be": "কর্ম",
+                "ka": "ಕ್ರಮ"
+            }
         },
         {
             "sanskrit": "ज्यायो",
-            "transliteration": "jyāyo",
-            "meaning": "jyāyo"
+            "transliteration": {
+                "hi": "ज्यायो",
+                "en": "jyāyo",
+                "be": "জ্যাযো",
+                "ka": "ಜ್ಯಾಯೋ"
+            },
+            "meaning": {
+                "hi": "ज्यायो",
+                "en": "jyāyo",
+                "be": "jyāyo",
+                "ka": "jyāyo"
+            }
         },
         {
             "sanskrit": "ह्यकर्मणः",
-            "transliteration": "hyakarmaṇaḥ",
-            "meaning": "hyakarmaṇaḥ"
+            "transliteration": {
+                "hi": "ह्यकर्मणः",
+                "en": "hyakarmaṇaḥ",
+                "be": "হ্যকর্মণঃ",
+                "ka": "ಹ್ಯಕರ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "ह्यकर्मणः",
+                "en": "hyakarmaṇaḥ",
+                "be": "hyakarmaṇaḥ",
+                "ka": "ಹ್ಯಕರ್ಮಣಃ"
+            }
         },
         {
             "sanskrit": "शरीरयात्रापि",
-            "transliteration": "śarīrayātrāpi",
-            "meaning": "śarīrayātrāpi"
+            "transliteration": {
+                "hi": "शरीरयात्रापि",
+                "en": "śarīrayātrāpi",
+                "be": "শরীরযাত্রাপি",
+                "ka": "ಶರೀರಯಾತ್ರಾಪಿ"
+            },
+            "meaning": {
+                "hi": "शरीरयात्रापि",
+                "en": "śarīrayātrāpi",
+                "be": "শরীরায়ত্রাপি",
+                "ka": "ಶರೀರಯಾತ್ರಾಪಿ"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "ते",
-            "transliteration": "te",
-            "meaning": "they"
+            "transliteration": {
+                "hi": "ते",
+                "en": "te",
+                "be": "তে",
+                "ka": "ತೇ"
+            },
+            "meaning": {
+                "hi": "वे",
+                "en": "they",
+                "be": "তারা",
+                "ka": "ಅವರು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "प्रसिद्ध्येदकर्मणः",
-            "transliteration": "prasiddhyedakarmaṇaḥ",
-            "meaning": "prasiddhyedakarmaṇaḥ"
+            "transliteration": {
+                "hi": "प्रसिद्ध्येदकर्मणः",
+                "en": "prasiddhyedakarmaṇaḥ",
+                "be": "প্রসিদ্ধ্যেদকর্মণঃ",
+                "ka": "ಪ್ರಸಿದ್ಧ್ಯೇದಕರ್ಮಣಃ"
+            },
+            "meaning": {
+                "hi": "प्रसिद्ध्येदकर्मणः",
+                "en": "prasiddhyedakarmaṇaḥ",
+                "be": "প্রসিদ্ধেদকর্মণঃ",
+                "ka": "ಪ್ರಸಿದ್ಧ್ಯೇದಕರ್ಮಣಃ"
+            }
         }
     ],
     "tej": {

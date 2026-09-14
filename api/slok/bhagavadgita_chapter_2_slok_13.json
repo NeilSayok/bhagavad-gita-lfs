@@ -14,8 +14,18 @@
         "en": "dehino.asminyathā dehe kaumāraṃ yauvanaṃ jarā .\ntathā dehāntaraprāptirdhīrastatra na muhyati ||2-13||",
         "ka": "ದೇಹಿನೋಽಸ್ಮಿನ್ಯಥಾ ದೇಹೇ ಕೌಮಾರಂ ಯೌವನಂ ಜರಾ |\nತಥಾ ದೇಹಾನ್ತರಪ್ರಾಪ್ತಿರ್ಧೀರಸ್ತತ್ರ ನ ಮುಹ್ಯತಿ ||೨-೧೩||"
     },
-    "transliteration": "dehino.asminyathā dehe kaumāraṃ yauvanaṃ jarā .\ntathā dehāntaraprāptirdhīrastatra na muhyati ||2-13||",
-    "life_application": "Accept physical aging and life transitions as natural changes, keeping your focus on the unchanging observer within.",
+    "transliteration": {
+        "hi": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा |\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ||२-१३||",
+        "en": "dehino.asminyathā dehe kaumāraṃ yauvanaṃ jarā .\ntathā dehāntaraprāptirdhīrastatra na muhyati ||2-13||",
+        "be": "দেহিনোঽস্মিন্যথা দেহে কৌমারং যৌবনং জরা |\nতথা দেহান্তরপ্রাপ্তির্ধীরস্তত্র ন মুহ্যতি ||২-১৩||",
+        "ka": "ದೇಹಿನೋಽಸ್ಮಿನ್ಯಥಾ ದೇಹೇ ಕೌಮಾರಂ ಯೌವನಂ ಜರಾ |\nತಥಾ ದೇಹಾನ್ತರಪ್ರಾಪ್ತಿರ್ಧೀರಸ್ತತ್ರ ನ ಮುಹ್ಯತಿ ||೨-೧೩||"
+    },
+    "life_application": {
+        "hi": "शारीरिक उम्र बढ़ने और जीवन में बदलाव को प्राकृतिक परिवर्तन के रूप में स्वीकार करें, अपना ध्यान भीतर के अपरिवर्तनीय पर्यवेक्षक पर रखें।",
+        "en": "Accept physical aging and life transitions as natural changes, keeping your focus on the unchanging observer within.",
+        "be": "শারীরিক বার্ধক্য এবং জীবন পরিবর্তনকে প্রাকৃতিক পরিবর্তন হিসাবে গ্রহণ করুন, আপনার মনোযোগ অপরিবর্তিত পর্যবেক্ষকের মধ্যে রেখে।",
+        "ka": "ದೈಹಿಕ ವಯಸ್ಸಾದಿಕೆ ಮತ್ತು ಜೀವನ ಪರಿವರ್ತನೆಗಳನ್ನು ನೈಸರ್ಗಿಕ ಬದಲಾವಣೆಗಳಾಗಿ ಸ್ವೀಕರಿಸಿ, ನಿಮ್ಮ ಗಮನವನ್ನು ಬದಲಾಗದ ವೀಕ್ಷಕನ ಮೇಲೆ ಇರಿಸಿ."
+    },
     "themes": [
         "Self-Realization",
         "Mindfulness",
@@ -24,68 +34,198 @@
     "word_meanings": [
         {
             "sanskrit": "देहिनः",
-            "transliteration": "dehinaḥ",
-            "meaning": "of the embodied"
+            "transliteration": {
+                "hi": "देहिनः",
+                "en": "dehinaḥ",
+                "be": "দেহিনঃ",
+                "ka": "ದೇಹಿನಃ"
+            },
+            "meaning": {
+                "hi": "सन्निहित का",
+                "en": "of the embodied",
+                "be": "মূর্ত করা",
+                "ka": "ಸಾಕಾರಗೊಂಡವರ"
+            }
         },
         {
             "sanskrit": "अस्मिन्",
-            "transliteration": "asmin",
-            "meaning": "in this"
+            "transliteration": {
+                "hi": "अस्मिन्",
+                "en": "asmin",
+                "be": "অস্মিন্",
+                "ka": "ಅಸ್ಮಿನ್"
+            },
+            "meaning": {
+                "hi": "इसमें",
+                "en": "in this",
+                "be": "এই",
+                "ka": "ಇದರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "यथा",
-            "transliteration": "yathā",
-            "meaning": "as"
+            "transliteration": {
+                "hi": "यथा",
+                "en": "yathā",
+                "be": "যথা",
+                "ka": "ಯಥಾ"
+            },
+            "meaning": {
+                "hi": "जैसे",
+                "en": "as",
+                "be": "হিসাবে",
+                "ka": "ಎಂದು"
+            }
         },
         {
             "sanskrit": "देहे",
-            "transliteration": "dehe",
-            "meaning": "in body"
+            "transliteration": {
+                "hi": "देहे",
+                "en": "dehe",
+                "be": "দেহে",
+                "ka": "ದೇಹೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में",
+                "en": "in body",
+                "be": "শরীরে",
+                "ka": "ದೇಹದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "कौमारम्",
-            "transliteration": "kaumāram",
-            "meaning": "childhood"
+            "transliteration": {
+                "hi": "कौमारम्",
+                "en": "kaumāram",
+                "be": "কৌমারম্",
+                "ka": "ಕೌಮಾರಮ್"
+            },
+            "meaning": {
+                "hi": "बचपन",
+                "en": "childhood",
+                "be": "শৈশব",
+                "ka": "ಬಾಲ್ಯ"
+            }
         },
         {
             "sanskrit": "यौवनम्",
-            "transliteration": "yauvanam",
-            "meaning": "youth"
+            "transliteration": {
+                "hi": "यौवनम्",
+                "en": "yauvanam",
+                "be": "যৌবনম্",
+                "ka": "ಯೌವನಮ್"
+            },
+            "meaning": {
+                "hi": "युवा",
+                "en": "youth",
+                "be": "যুবক",
+                "ka": "ಯುವಕರು"
+            }
         },
         {
             "sanskrit": "जरा",
-            "transliteration": "jarā",
-            "meaning": "old age"
+            "transliteration": {
+                "hi": "जरा",
+                "en": "jarā",
+                "be": "জরা",
+                "ka": "ಜರಾ"
+            },
+            "meaning": {
+                "hi": "बुढ़ापा",
+                "en": "old age",
+                "be": "বৃদ্ধ বয়স",
+                "ka": "ವೃದ್ಧಾಪ್ಯ"
+            }
         },
         {
             "sanskrit": "तथा",
-            "transliteration": "tathā",
-            "meaning": "so also"
+            "transliteration": {
+                "hi": "तथा",
+                "en": "tathā",
+                "be": "তথা",
+                "ka": "ತಥಾ"
+            },
+            "meaning": {
+                "hi": "तो भी",
+                "en": "so also",
+                "be": "তাই এছাড়াও",
+                "ka": "ಹಾಗೆಯೇ"
+            }
         },
         {
             "sanskrit": "देहान्तरप्राप्तिः",
-            "transliteration": "dehāntaraprāptiḥ",
-            "meaning": "the attaining of another"
+            "transliteration": {
+                "hi": "देहान्तरप्राप्तिः",
+                "en": "dehāntaraprāptiḥ",
+                "be": "দেহান্তরপ্রাপ্তিঃ",
+                "ka": "ದೇಹಾನ್ತರಪ್ರಾಪ್ತಿಃ"
+            },
+            "meaning": {
+                "hi": "दूसरे की प्राप्ति",
+                "en": "the attaining of another",
+                "be": "অন্যের অর্জন",
+                "ka": "ಇನ್ನೊಂದನ್ನು ಸಾಧಿಸುವುದು"
+            }
         },
         {
             "sanskrit": "धीरः",
-            "transliteration": "dhīraḥ",
-            "meaning": "the firm"
+            "transliteration": {
+                "hi": "धीरः",
+                "en": "dhīraḥ",
+                "be": "ধীরঃ",
+                "ka": "ಧೀರಃ"
+            },
+            "meaning": {
+                "hi": "फर्म",
+                "en": "the firm",
+                "be": "দৃঢ়",
+                "ka": "ಸಂಸ್ಥೆ"
+            }
         },
         {
             "sanskrit": "तत्र",
-            "transliteration": "tatra",
-            "meaning": "thereat"
+            "transliteration": {
+                "hi": "तत्र",
+                "en": "tatra",
+                "be": "তত্র",
+                "ka": "ತತ್ರ"
+            },
+            "meaning": {
+                "hi": "वहाँ",
+                "en": "thereat",
+                "be": "সেখানে",
+                "ka": "ಅಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "मुह्यति",
-            "transliteration": "muhyati",
-            "meaning": "grieves."
+            "transliteration": {
+                "hi": "मुह्यति",
+                "en": "muhyati",
+                "be": "মুহ্যতি",
+                "ka": "ಮುಹ್ಯತಿ"
+            },
+            "meaning": {
+                "hi": "शोक करता है.",
+                "en": "grieves.",
+                "be": "দুঃখ পায়",
+                "ka": "ದುಃಖಿಸುತ್ತಾನೆ."
+            }
         }
     ],
     "tej": {

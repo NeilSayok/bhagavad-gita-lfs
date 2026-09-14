@@ -14,8 +14,18 @@
         "en": "avināśi tu tadviddhi yena sarvamidaṃ tatam .\nvināśamavyayasyāsya na kaścitkartumarhati ||2-17||",
         "ka": "ಅವಿನಾಶಿ ತು ತದ್ವಿದ್ಧಿ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ |\nವಿನಾಶಮವ್ಯಯಸ್ಯಾಸ್ಯ ನ ಕಶ್ಚಿತ್ಕರ್ತುಮರ್ಹತಿ ||೨-೧೭||"
     },
-    "transliteration": "avināśi tu tadviddhi yena sarvamidaṃ tatam .\nvināśamavyayasyāsya na kaścitkartumarhati ||2-17||",
-    "life_application": "Rest in the awareness that your true spiritual nature cannot be harmed or destroyed by worldly troubles.",
+    "transliteration": {
+        "hi": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् |\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||२-१७||",
+        "en": "avināśi tu tadviddhi yena sarvamidaṃ tatam .\nvināśamavyayasyāsya na kaścitkartumarhati ||2-17||",
+        "be": "অবিনাশি তু তদ্বিদ্ধি যেন সর্বমিদং ততম্ |\nবিনাশমব্যযস্যাস্য ন কশ্চিত্কর্তুমর্হতি ||২-১৭||",
+        "ka": "ಅವಿನಾಶಿ ತು ತದ್ವಿದ್ಧಿ ಯೇನ ಸರ್ವಮಿದಂ ತತಮ್ |\nವಿನಾಶಮವ್ಯಯಸ್ಯಾಸ್ಯ ನ ಕಶ್ಚಿತ್ಕರ್ತುಮರ್ಹತಿ ||೨-೧೭||"
+    },
+    "life_application": {
+        "hi": "इस जागरूकता में रहें कि आपकी सच्ची आध्यात्मिक प्रकृति को सांसारिक परेशानियों से नुकसान या नष्ट नहीं किया जा सकता है।",
+        "en": "Rest in the awareness that your true spiritual nature cannot be harmed or destroyed by worldly troubles.",
+        "be": "এই সচেতনতায় বিশ্রাম নিন যে আপনার প্রকৃত আধ্যাত্মিক প্রকৃতি জাগতিক সমস্যা দ্বারা ক্ষতিগ্রস্ত বা ধ্বংস হতে পারে না।",
+        "ka": "ನಿಮ್ಮ ನಿಜವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಭಾವವು ಲೌಕಿಕ ತೊಂದರೆಗಳಿಂದ ಹಾನಿಗೊಳಗಾಗುವುದಿಲ್ಲ ಅಥವಾ ನಾಶವಾಗುವುದಿಲ್ಲ ಎಂಬ ಅರಿವಿನಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯಿರಿ."
+    },
     "themes": [
         "Self-Realization",
         "Fear"
@@ -23,73 +33,213 @@
     "word_meanings": [
         {
             "sanskrit": "अविनाशि",
-            "transliteration": "avināśi",
-            "meaning": "indestructible"
+            "transliteration": {
+                "hi": "अविनाशि",
+                "en": "avināśi",
+                "be": "অবিনাশি",
+                "ka": "ಅವಿನಾಶಿ"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "तत्",
-            "transliteration": "tat",
-            "meaning": "That"
+            "transliteration": {
+                "hi": "तत्",
+                "en": "tat",
+                "be": "তত্",
+                "ka": "ತತ್"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "That",
+                "be": "যে",
+                "ka": "ಅದು"
+            }
         },
         {
             "sanskrit": "विद्धि",
-            "transliteration": "viddhi",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विद्धि",
+                "en": "viddhi",
+                "be": "বিদ্ধি",
+                "ka": "ವಿದ್ಧಿ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "येन",
-            "transliteration": "yena",
-            "meaning": "by which"
+            "transliteration": {
+                "hi": "येन",
+                "en": "yena",
+                "be": "যেন",
+                "ka": "ಯೇನ"
+            },
+            "meaning": {
+                "hi": "जिससे",
+                "en": "by which",
+                "be": "যার দ্বারা",
+                "ka": "ಅದಕ್ಕೆ"
+            }
         },
         {
             "sanskrit": "सर्वम्",
-            "transliteration": "sarvam",
-            "meaning": "all"
+            "transliteration": {
+                "hi": "सर्वम्",
+                "en": "sarvam",
+                "be": "সর্বম্",
+                "ka": "ಸರ್ವಮ್"
+            },
+            "meaning": {
+                "hi": "सब",
+                "en": "all",
+                "be": "সব",
+                "ka": "ಎಲ್ಲಾ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "ततम्",
-            "transliteration": "tatam",
-            "meaning": "is pervaded"
+            "transliteration": {
+                "hi": "ततम्",
+                "en": "tatam",
+                "be": "ততম্",
+                "ka": "ತತಮ್"
+            },
+            "meaning": {
+                "hi": "व्याप्त है",
+                "en": "is pervaded",
+                "be": "পরিব্যাপ্ত হয়",
+                "ka": "ವ್ಯಾಪಿಸಿದೆ"
+            }
         },
         {
             "sanskrit": "विनाशम्",
-            "transliteration": "vināśam",
-            "meaning": "destruction"
+            "transliteration": {
+                "hi": "विनाशम्",
+                "en": "vināśam",
+                "be": "বিনাশম্",
+                "ka": "ವಿನಾಶಮ್"
+            },
+            "meaning": {
+                "hi": "विनाश",
+                "en": "destruction",
+                "be": "ধ্বংস",
+                "ka": "ವಿನಾಶ"
+            }
         },
         {
             "sanskrit": "अव्ययस्य अस्य",
-            "transliteration": "avyayasya asya",
-            "meaning": "of this Imperishable"
+            "transliteration": {
+                "hi": "अव्ययस्य अस्य",
+                "en": "avyayasya asya",
+                "be": "অব্যযস্য অস্য",
+                "ka": "ಅವ್ಯಯಸ್ಯ ಅಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "इस अविनाशी का",
+                "en": "of this Imperishable",
+                "be": "এই অবিনশ্বর এর",
+                "ka": "ಈ ನಾಶವಾಗದ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "कश्चित्",
-            "transliteration": "kaścit",
-            "meaning": "anyone"
+            "transliteration": {
+                "hi": "कश्चित्",
+                "en": "kaścit",
+                "be": "কশ্চিত্",
+                "ka": "ಕಶ್ಚಿತ್"
+            },
+            "meaning": {
+                "hi": "कोई भी",
+                "en": "anyone",
+                "be": "যে কেউ",
+                "ka": "ಯಾರಾದರೂ"
+            }
         },
         {
             "sanskrit": "कर्तुम्",
-            "transliteration": "kartum",
-            "meaning": "to do"
+            "transliteration": {
+                "hi": "कर्तुम्",
+                "en": "kartum",
+                "be": "কর্তুম্",
+                "ka": "ಕರ್ತುಮ್"
+            },
+            "meaning": {
+                "hi": "करना",
+                "en": "to do",
+                "be": "করতে",
+                "ka": "ಮಾಡಲು"
+            }
         },
         {
             "sanskrit": "अर्हति",
-            "transliteration": "arhati",
-            "meaning": "is able."
+            "transliteration": {
+                "hi": "अर्हति",
+                "en": "arhati",
+                "be": "অর্হতি",
+                "ka": "ಅರ್ಹತಿ"
+            },
+            "meaning": {
+                "hi": "समर्थ है।",
+                "en": "is able.",
+                "be": "সক্ষম",
+                "ka": "ಸಾಧ್ಯವಾಗುತ್ತದೆ."
+            }
         }
     ],
     "tej": {

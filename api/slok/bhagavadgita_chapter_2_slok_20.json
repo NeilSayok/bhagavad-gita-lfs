@@ -14,8 +14,18 @@
         "en": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ .\najo nityaḥ śāśvato.ayaṃ purāṇo na hanyate hanyamāne śarīre ||2-20||",
         "ka": "ನ ಜಾಯತೇ ಮ್ರಿಯತೇ ವಾ ಕದಾಚಿನ್\nನಾಯಂ ಭೂತ್ವಾ ಭವಿತಾ ವಾ ನ ಭೂಯಃ |\nಅಜೋ ನಿತ್ಯಃ ಶಾಶ್ವತೋಽಯಂ ಪುರಾಣೋ\nನ ಹನ್ಯತೇ ಹನ್ಯಮಾನೇ ಶರೀರೇ ||೨-೨೦||"
     },
-    "transliteration": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ .\najo nityaḥ śāśvato.ayaṃ purāṇo na hanyate hanyamāne śarīre ||2-20||",
-    "life_application": "Reflect on your birthless and deathless inner presence whenever news of loss or mortality causes fear.",
+    "transliteration": {
+        "hi": "न जायते म्रियते वा कदाचिन्\nनायं भूत्वा भविता वा न भूयः |\nअजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे ||२-२०||",
+        "en": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ .\najo nityaḥ śāśvato.ayaṃ purāṇo na hanyate hanyamāne śarīre ||2-20||",
+        "be": "ন জাযতে ম্রিযতে বা কদাচিন্\nনাযং ভূত্বা ভবিতা বা ন ভূযঃ |\nঅজো নিত্যঃ শাশ্বতোঽযং পুরাণো\nন হন্যতে হন্যমানে শরীরে ||২-২০||",
+        "ka": "ನ ಜಾಯತೇ ಮ್ರಿಯತೇ ವಾ ಕದಾಚಿನ್\nನಾಯಂ ಭೂತ್ವಾ ಭವಿತಾ ವಾ ನ ಭೂಯಃ |\nಅಜೋ ನಿತ್ಯಃ ಶಾಶ್ವತೋಽಯಂ ಪುರಾಣೋ\nನ ಹನ್ಯತೇ ಹನ್ಯಮಾನೇ ಶರೀರೇ ||೨-೨೦||"
+    },
+    "life_application": {
+        "hi": "जब भी हानि या मृत्यु की खबर से भय उत्पन्न हो तो अपनी जन्महीन और मृत्युहीन आंतरिक उपस्थिति पर विचार करें।",
+        "en": "Reflect on your birthless and deathless inner presence whenever news of loss or mortality causes fear.",
+        "be": "আপনার জন্মহীন এবং মৃত্যুহীন অভ্যন্তরীণ উপস্থিতি প্রতিফলিত করুন যখনই ক্ষতি বা মৃত্যুর খবর ভয়ের কারণ হয়।",
+        "ka": "ನಷ್ಟ ಅಥವಾ ಮರಣದ ಸುದ್ದಿಯು ಭಯವನ್ನು ಉಂಟುಮಾಡಿದಾಗಲೆಲ್ಲಾ ನಿಮ್ಮ ಜನ್ಮರಹಿತ ಮತ್ತು ಮರಣವಿಲ್ಲದ ಆಂತರಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸಿ."
+    },
     "themes": [
         "Death",
         "Self-Realization",
@@ -24,108 +34,318 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "जायते",
-            "transliteration": "jāyate",
-            "meaning": "is born"
+            "transliteration": {
+                "hi": "जायते",
+                "en": "jāyate",
+                "be": "জাযতে",
+                "ka": "ಜಾಯತೇ"
+            },
+            "meaning": {
+                "hi": "पैदा होता है",
+                "en": "is born",
+                "be": "জন্ম হয়",
+                "ka": "ಹುಟ್ಟಿದೆ"
+            }
         },
         {
             "sanskrit": "म्रियते",
-            "transliteration": "mriyate",
-            "meaning": "dies"
+            "transliteration": {
+                "hi": "म्रियते",
+                "en": "mriyate",
+                "be": "ম্রিযতে",
+                "ka": "ಮ್ರಿಯತೇ"
+            },
+            "meaning": {
+                "hi": "मर जाता है",
+                "en": "dies",
+                "be": "মারা যায়",
+                "ka": "ಸಾಯುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "कदाचित्",
-            "transliteration": "kadācit",
-            "meaning": "at any time"
+            "transliteration": {
+                "hi": "कदाचित्",
+                "en": "kadācit",
+                "be": "কদাচিত্",
+                "ka": "ಕದಾಚಿತ್"
+            },
+            "meaning": {
+                "hi": "किसी भी समय",
+                "en": "at any time",
+                "be": "যে কোন সময়ে",
+                "ka": "ಯಾವುದೇ ಸಮಯದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "भूत्वा",
-            "transliteration": "bhūtvā",
-            "meaning": "having been"
+            "transliteration": {
+                "hi": "भूत्वा",
+                "en": "bhūtvā",
+                "be": "ভূত্বা",
+                "ka": "ಭೂತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "रहा है",
+                "en": "having been",
+                "be": "হয়েছে",
+                "ka": "ಆಗಿದ್ದು"
+            }
         },
         {
             "sanskrit": "भविता",
-            "transliteration": "bhavitā",
-            "meaning": "will be"
+            "transliteration": {
+                "hi": "भविता",
+                "en": "bhavitā",
+                "be": "ভবিতা",
+                "ka": "ಭವಿತಾ"
+            },
+            "meaning": {
+                "hi": "होगा",
+                "en": "will be",
+                "be": "হবে",
+                "ka": "ಇರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "वा",
-            "transliteration": "vā",
-            "meaning": "or"
+            "transliteration": {
+                "hi": "वा",
+                "en": "vā",
+                "be": "বা",
+                "ka": "ವಾ"
+            },
+            "meaning": {
+                "hi": "या",
+                "en": "or",
+                "be": "বা",
+                "ka": "ಅಥವಾ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "भूयः",
-            "transliteration": "bhūyaḥ",
-            "meaning": "more"
+            "transliteration": {
+                "hi": "भूयः",
+                "en": "bhūyaḥ",
+                "be": "ভূযঃ",
+                "ka": "ಭೂಯಃ"
+            },
+            "meaning": {
+                "hi": "अधिक",
+                "en": "more",
+                "be": "আরো",
+                "ka": "ಹೆಚ್ಚು"
+            }
         },
         {
             "sanskrit": "अजः",
-            "transliteration": "ajaḥ",
-            "meaning": "unborn"
+            "transliteration": {
+                "hi": "अजः",
+                "en": "ajaḥ",
+                "be": "অজঃ",
+                "ka": "ಅಜಃ"
+            },
+            "meaning": {
+                "hi": "अजन्मा",
+                "en": "unborn",
+                "be": "অজাত",
+                "ka": "ಹುಟ್ಟಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "नित्यः",
-            "transliteration": "nityaḥ",
-            "meaning": "eternal"
+            "transliteration": {
+                "hi": "नित्यः",
+                "en": "nityaḥ",
+                "be": "নিত্যঃ",
+                "ka": "ನಿತ್ಯಃ"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "शाश्वतः",
-            "transliteration": "śāśvataḥ",
-            "meaning": "changeless"
+            "transliteration": {
+                "hi": "शाश्वतः",
+                "en": "śāśvataḥ",
+                "be": "শাশ্বতঃ",
+                "ka": "ಶಾಶ್ವತಃ"
+            },
+            "meaning": {
+                "hi": "परिवर्तनहीन",
+                "en": "changeless",
+                "be": "পরিবর্তনহীন",
+                "ka": "ಬದಲಾಗದ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "पुराणः",
-            "transliteration": "purāṇaḥ",
-            "meaning": "ancient"
+            "transliteration": {
+                "hi": "पुराणः",
+                "en": "purāṇaḥ",
+                "be": "পুরাণঃ",
+                "ka": "ಪುರಾಣಃ"
+            },
+            "meaning": {
+                "hi": "प्राचीन",
+                "en": "ancient",
+                "be": "প্রাচীন",
+                "ka": "ಪ್ರಾಚೀನ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हन्यते",
-            "transliteration": "hanyate",
-            "meaning": "is killed"
+            "transliteration": {
+                "hi": "हन्यते",
+                "en": "hanyate",
+                "be": "হন্যতে",
+                "ka": "ಹನ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "मारा जाता है",
+                "en": "is killed",
+                "be": "নিহত হয়",
+                "ka": "ಕೊಲ್ಲಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "हन्यमाने",
-            "transliteration": "hanyamāne",
-            "meaning": "being killed"
+            "transliteration": {
+                "hi": "हन्यमाने",
+                "en": "hanyamāne",
+                "be": "হন্যমানে",
+                "ka": "ಹನ್ಯಮಾನೇ"
+            },
+            "meaning": {
+                "hi": "मारा जा रहा है",
+                "en": "being killed",
+                "be": "নিহত হচ্ছে",
+                "ka": "ಕೊಲ್ಲಲಾಗುತ್ತಿದೆ"
+            }
         },
         {
             "sanskrit": "शरीरे",
-            "transliteration": "śarīre",
-            "meaning": "in body."
+            "transliteration": {
+                "hi": "शरीरे",
+                "en": "śarīre",
+                "be": "শরীরে",
+                "ka": "ಶರೀರೇ"
+            },
+            "meaning": {
+                "hi": "शरीर में.",
+                "en": "in body.",
+                "be": "শরীরে",
+                "ka": "ದೇಹದಲ್ಲಿ."
+            }
         }
     ],
     "tej": {

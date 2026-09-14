@@ -14,8 +14,18 @@
         "en": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ .\nanāśino.aprameyasya tasmādyudhyasva bhārata ||2-18||",
         "ka": "ಅನ್ತವನ್ತ ಇಮೇ ದೇಹಾ ನಿತ್ಯಸ್ಯೋಕ್ತಾಃ ಶರೀರಿಣಃ |\nಅನಾಶಿನೋಽಪ್ರಮೇಯಸ್ಯ ತಸ್ಮಾದ್ಯುಧ್ಯಸ್ವ ಭಾರತ ||೨-೧೮||"
     },
-    "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ .\nanāśino.aprameyasya tasmādyudhyasva bhārata ||2-18||",
-    "life_application": "Fulfill your daily responsibilities bravely, knowing that physical limitations do not diminish your eternal worth.",
+    "transliteration": {
+        "hi": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः |\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||२-१८||",
+        "en": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ .\nanāśino.aprameyasya tasmādyudhyasva bhārata ||2-18||",
+        "be": "অন্তবন্ত ইমে দেহা নিত্যস্যোক্তাঃ শরীরিণঃ |\nঅনাশিনোঽপ্রমেযস্য তস্মাদ্যুধ্যস্ব ভারত ||২-১৮||",
+        "ka": "ಅನ್ತವನ್ತ ಇಮೇ ದೇಹಾ ನಿತ್ಯಸ್ಯೋಕ್ತಾಃ ಶರೀರಿಣಃ |\nಅನಾಶಿನೋಽಪ್ರಮೇಯಸ್ಯ ತಸ್ಮಾದ್ಯುಧ್ಯಸ್ವ ಭಾರತ ||೨-೧೮||"
+    },
+    "life_application": {
+        "hi": "अपनी दैनिक जिम्मेदारियों को बहादुरी से पूरा करें, यह जानते हुए कि भौतिक सीमाएँ आपके शाश्वत मूल्य को कम नहीं करती हैं।",
+        "en": "Fulfill your daily responsibilities bravely, knowing that physical limitations do not diminish your eternal worth.",
+        "be": "শারীরিক সীমাবদ্ধতাগুলি আপনার চিরন্তন মূল্যকে হ্রাস করে না তা জেনে আপনার দৈনন্দিন দায়িত্বগুলি সাহসের সাথে পূরণ করুন।",
+        "ka": "ದೈಹಿಕ ಮಿತಿಗಳು ನಿಮ್ಮ ಶಾಶ್ವತ ಮೌಲ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದಿಲ್ಲ ಎಂದು ತಿಳಿದುಕೊಂಡು ನಿಮ್ಮ ದೈನಂದಿನ ಜವಾಬ್ದಾರಿಗಳನ್ನು ಧೈರ್ಯದಿಂದ ಪೂರೈಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Duty",
         "Self-Realization"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "अन्तवन्तः",
-            "transliteration": "antavantaḥ",
-            "meaning": "having an end"
+            "transliteration": {
+                "hi": "अन्तवन्तः",
+                "en": "antavantaḥ",
+                "be": "অন্তবন্তঃ",
+                "ka": "ಅನ್ತವನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "अंत होना",
+                "en": "having an end",
+                "be": "একটি শেষ হচ্ছে",
+                "ka": "ಅಂತ್ಯವನ್ನು ಹೊಂದಿದೆ"
+            }
         },
         {
             "sanskrit": "इमे",
-            "transliteration": "ime",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "इमे",
+                "en": "ime",
+                "be": "ইমে",
+                "ka": "ಇಮೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "देहाः",
-            "transliteration": "dehāḥ",
-            "meaning": "bodies"
+            "transliteration": {
+                "hi": "देहाः",
+                "en": "dehāḥ",
+                "be": "দেহাঃ",
+                "ka": "ದೇಹಾಃ"
+            },
+            "meaning": {
+                "hi": "शव",
+                "en": "bodies",
+                "be": "মৃতদেহ",
+                "ka": "ದೇಹಗಳು"
+            }
         },
         {
             "sanskrit": "नित्यस्य",
-            "transliteration": "nityasya",
-            "meaning": "of the everlasting"
+            "transliteration": {
+                "hi": "नित्यस्य",
+                "en": "nityasya",
+                "be": "নিত্যস্য",
+                "ka": "ನಿತ್ಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "चिरस्थायी का",
+                "en": "of the everlasting",
+                "be": "চিরস্থায়ী",
+                "ka": "ಶಾಶ್ವತವಾದ"
+            }
         },
         {
             "sanskrit": "उक्ताः",
-            "transliteration": "uktāḥ",
-            "meaning": "are said"
+            "transliteration": {
+                "hi": "उक्ताः",
+                "en": "uktāḥ",
+                "be": "উক্তাঃ",
+                "ka": "ಉಕ್ತಾಃ"
+            },
+            "meaning": {
+                "hi": "कहा जाता है",
+                "en": "are said",
+                "be": "বলা হয়",
+                "ka": "ಹೇಳಲಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "शरीरिणः",
-            "transliteration": "śarīriṇaḥ",
-            "meaning": "of the embodied"
+            "transliteration": {
+                "hi": "शरीरिणः",
+                "en": "śarīriṇaḥ",
+                "be": "শরীরিণঃ",
+                "ka": "ಶರೀರಿಣಃ"
+            },
+            "meaning": {
+                "hi": "सन्निहित का",
+                "en": "of the embodied",
+                "be": "মূর্ত করা",
+                "ka": "ಸಾಕಾರಗೊಂಡವರ"
+            }
         },
         {
             "sanskrit": "अनाशिनः",
-            "transliteration": "anāśinaḥ",
-            "meaning": "of the indestructible"
+            "transliteration": {
+                "hi": "अनाशिनः",
+                "en": "anāśinaḥ",
+                "be": "অনাশিনঃ",
+                "ka": "ಅನಾಶಿನಃ"
+            },
+            "meaning": {
+                "hi": "अविनाशी का",
+                "en": "of the indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿಯಾದ"
+            }
         },
         {
             "sanskrit": "अप्रमेयस्य",
-            "transliteration": "aprameyasya",
-            "meaning": "of the immesaurable"
+            "transliteration": {
+                "hi": "अप्रमेयस्य",
+                "en": "aprameyasya",
+                "be": "অপ্রমেযস্য",
+                "ka": "ಅಪ್ರಮೇಯಸ್ಯ"
+            },
+            "meaning": {
+                "hi": "अथाह का",
+                "en": "of the immesaurable",
+                "be": "অপরিমেয় এর",
+                "ka": "ಅಳೆಯಲಾಗದ"
+            }
         },
         {
             "sanskrit": "तस्मात्",
-            "transliteration": "tasmāt",
-            "meaning": "therefore"
+            "transliteration": {
+                "hi": "तस्मात्",
+                "en": "tasmāt",
+                "be": "তস্মাত্",
+                "ka": "ತಸ್ಮಾತ್"
+            },
+            "meaning": {
+                "hi": "इसलिए",
+                "en": "therefore",
+                "be": "তাই",
+                "ka": "ಆದ್ದರಿಂದ"
+            }
         },
         {
             "sanskrit": "युध्यस्व",
-            "transliteration": "yudhyasva",
-            "meaning": "fight"
+            "transliteration": {
+                "hi": "युध्यस्व",
+                "en": "yudhyasva",
+                "be": "যুধ্যস্ব",
+                "ka": "ಯುಧ್ಯಸ್ವ"
+            },
+            "meaning": {
+                "hi": "लड़ो",
+                "en": "fight",
+                "be": "যুদ্ধ",
+                "ka": "ಹೋರಾಟ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata."
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata.",
+                "be": "হে ভরত।",
+                "ka": "ಓ ಭರತ."
+            }
         }
     ],
     "tej": {

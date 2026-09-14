@@ -14,8 +14,18 @@
         "en": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ .\nubhayorapi dṛṣṭo.antastvanayostattvadarśibhiḥ ||2-16||",
         "ka": "ನಾಸತೋ ವಿದ್ಯತೇ ಭಾವೋ ನಾಭಾವೋ ವಿದ್ಯತೇ ಸತಃ |\nಉಭಯೋರಪಿ ದೃಷ್ಟೋಽನ್ತಸ್ತ್ವನಯೋಸ್ತತ್ತ್ವದರ್ಶಿಭಿಃ ||೨-೧೬||"
     },
-    "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ .\nubhayorapi dṛṣṭo.antastvanayostattvadarśibhiḥ ||2-16||",
-    "life_application": "Distinguish between temporary circumstances that constantly shift and the enduring core of truth within your experience.",
+    "transliteration": {
+        "hi": "नासतो विद्यते भावो नाभावो विद्यते सतः |\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ||२-१६||",
+        "en": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ .\nubhayorapi dṛṣṭo.antastvanayostattvadarśibhiḥ ||2-16||",
+        "be": "নাসতো বিদ্যতে ভাবো নাভাবো বিদ্যতে সতঃ |\nউভযোরপি দৃষ্টোঽন্তস্ত্বনযোস্তত্ত্বদর্শিভিঃ ||২-১৬||",
+        "ka": "ನಾಸತೋ ವಿದ್ಯತೇ ಭಾವೋ ನಾಭಾವೋ ವಿದ್ಯತೇ ಸತಃ |\nಉಭಯೋರಪಿ ದೃಷ್ಟೋಽನ್ತಸ್ತ್ವನಯೋಸ್ತತ್ತ್ವದರ್ಶಿಭಿಃ ||೨-೧೬||"
+    },
+    "life_application": {
+        "hi": "लगातार बदलती रहने वाली अस्थायी परिस्थितियों और अपने अनुभव के भीतर सत्य के स्थायी मूल के बीच अंतर करें।",
+        "en": "Distinguish between temporary circumstances that constantly shift and the enduring core of truth within your experience.",
+        "be": "ক্রমাগত পরিবর্তনশীল অস্থায়ী পরিস্থিতি এবং আপনার অভিজ্ঞতার মধ্যে সত্যের স্থায়ী মূলের মধ্যে পার্থক্য করুন।",
+        "ka": "ನಿರಂತರವಾಗಿ ಬದಲಾಗುವ ತಾತ್ಕಾಲಿಕ ಸಂದರ್ಭಗಳು ಮತ್ತು ನಿಮ್ಮ ಅನುಭವದಲ್ಲಿ ಸತ್ಯದ ನಿರಂತರ ತಿರುಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "असतः",
-            "transliteration": "asataḥ",
-            "meaning": "of the unreal"
+            "transliteration": {
+                "hi": "असतः",
+                "en": "asataḥ",
+                "be": "অসতঃ",
+                "ka": "ಅಸತಃ"
+            },
+            "meaning": {
+                "hi": "असत्य का",
+                "en": "of the unreal",
+                "be": "অবাস্তব",
+                "ka": "ಅವಾಸ್ತವದ"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "भावः",
-            "transliteration": "bhāvaḥ",
-            "meaning": "being"
+            "transliteration": {
+                "hi": "भावः",
+                "en": "bhāvaḥ",
+                "be": "ভাবঃ",
+                "ka": "ಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "किया जा रहा है",
+                "en": "being",
+                "be": "হচ্ছে",
+                "ka": "ಇರುವುದು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अभावः",
-            "transliteration": "abhāvaḥ",
-            "meaning": "nonbeing"
+            "transliteration": {
+                "hi": "अभावः",
+                "en": "abhāvaḥ",
+                "be": "অভাবঃ",
+                "ka": "ಅಭಾವಃ"
+            },
+            "meaning": {
+                "hi": "न होना",
+                "en": "nonbeing",
+                "be": "noning",
+                "ka": "ಇಲ್ಲದಿರುವುದು"
+            }
         },
         {
             "sanskrit": "विद्यते",
-            "transliteration": "vidyate",
-            "meaning": "is"
+            "transliteration": {
+                "hi": "विद्यते",
+                "en": "vidyate",
+                "be": "বিদ্যতে",
+                "ka": "ವಿದ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "है",
+                "en": "is",
+                "be": "হয়",
+                "ka": "ಆಗಿದೆ"
+            }
         },
         {
             "sanskrit": "सतः",
-            "transliteration": "sataḥ",
-            "meaning": "of the real"
+            "transliteration": {
+                "hi": "सतः",
+                "en": "sataḥ",
+                "be": "সতঃ",
+                "ka": "ಸತಃ"
+            },
+            "meaning": {
+                "hi": "असली का",
+                "en": "of the real",
+                "be": "বাস্তবের",
+                "ka": "ನಿಜವಾದ ನ"
+            }
         },
         {
             "sanskrit": "उभयोः",
-            "transliteration": "ubhayoḥ",
-            "meaning": "of the two"
+            "transliteration": {
+                "hi": "उभयोः",
+                "en": "ubhayoḥ",
+                "be": "উভযোঃ",
+                "ka": "ಉಭಯೋಃ"
+            },
+            "meaning": {
+                "hi": "दोनों में से",
+                "en": "of the two",
+                "be": "দুজনের",
+                "ka": "ಎರಡರಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "अपि",
-            "transliteration": "api",
-            "meaning": "also"
+            "transliteration": {
+                "hi": "अपि",
+                "en": "api",
+                "be": "অপি",
+                "ka": "ಅಪಿ"
+            },
+            "meaning": {
+                "hi": "भी",
+                "en": "also",
+                "be": "এছাড়াও",
+                "ka": "ಸಹ"
+            }
         },
         {
             "sanskrit": "दृष्टः",
-            "transliteration": "dṛṣṭaḥ",
-            "meaning": "seen"
+            "transliteration": {
+                "hi": "दृष्टः",
+                "en": "dṛṣṭaḥ",
+                "be": "দৃষ্টঃ",
+                "ka": "ದೃಷ್ಟಃ"
+            },
+            "meaning": {
+                "hi": "देखा",
+                "en": "seen",
+                "be": "দেখা",
+                "ka": "ನೋಡಿದೆ"
+            }
         },
         {
             "sanskrit": "अन्तः",
-            "transliteration": "antaḥ",
-            "meaning": "the final truth"
+            "transliteration": {
+                "hi": "अन्तः",
+                "en": "antaḥ",
+                "be": "অন্তঃ",
+                "ka": "ಅನ್ತಃ"
+            },
+            "meaning": {
+                "hi": "अंतिम सत्य",
+                "en": "the final truth",
+                "be": "চূড়ান্ত সত্য",
+                "ka": "ಅಂತಿಮ ಸತ್ಯ"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "अनयोः",
-            "transliteration": "anayoḥ",
-            "meaning": "of these"
+            "transliteration": {
+                "hi": "अनयोः",
+                "en": "anayoḥ",
+                "be": "অনযোঃ",
+                "ka": "ಅನಯೋಃ"
+            },
+            "meaning": {
+                "hi": "इनमें से",
+                "en": "of these",
+                "be": "এই",
+                "ka": "ಇವುಗಳಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "तत्त्वदर्शिभिः",
-            "transliteration": "tattvadarśibhiḥ",
-            "meaning": "by the knowers of"
+            "transliteration": {
+                "hi": "तत्त्वदर्शिभिः",
+                "en": "tattvadarśibhiḥ",
+                "be": "তত্ত্বদর্শিভিঃ",
+                "ka": "ತತ್ತ್ವದರ್ಶಿಭಿಃ"
+            },
+            "meaning": {
+                "hi": "के जानने वालों द्वारा",
+                "en": "by the knowers of",
+                "be": "এর পরিচিতদের দ্বারা",
+                "ka": "ಬಲ್ಲವರಿಂದ"
+            }
         }
     ],
     "tej": {

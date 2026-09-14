@@ -14,8 +14,18 @@
         "en": "śrībhagavānuvāca .\nkutastvā kaśmalamidaṃ viṣame samupasthitam .\nanāryajuṣṭamasvargyamakīrtikaramarjuna ||2-2||",
         "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕುತಸ್ತ್ವಾ ಕಶ್ಮಲಮಿದಂ ವಿಷಮೇ ಸಮುಪಸ್ಥಿತಮ್ |\nಅನಾರ್ಯಜುಷ್ಟಮಸ್ವರ್ಗ್ಯಮಕೀರ್ತಿಕರಮರ್ಜುನ ||೨-೨||"
     },
-    "transliteration": "śrībhagavānuvāca .\nkutastvā kaśmalamidaṃ viṣame samupasthitam .\nanāryajuṣṭamasvargyamakīrtikaramarjuna ||2-2||",
-    "life_application": "Challenge self-pity when it arises during a crisis, asking yourself whether your hesitation springs from wisdom or fear.",
+    "transliteration": {
+        "hi": "श्रीभगवानुवाच |\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् |\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||२-२||",
+        "en": "śrībhagavānuvāca .\nkutastvā kaśmalamidaṃ viṣame samupasthitam .\nanāryajuṣṭamasvargyamakīrtikaramarjuna ||2-2||",
+        "be": "শ্রীভগবানুবাচ |\nকুতস্ত্বা কশ্মলমিদং বিষমে সমুপস্থিতম্ |\nঅনার্যজুষ্টমস্বর্গ্যমকীর্তিকরমর্জুন ||২-২||",
+        "ka": "ಶ್ರೀಭಗವಾನುವಾಚ |\nಕುತಸ್ತ್ವಾ ಕಶ್ಮಲಮಿದಂ ವಿಷಮೇ ಸಮುಪಸ್ಥಿತಮ್ |\nಅನಾರ್ಯಜುಷ್ಟಮಸ್ವರ್ಗ್ಯಮಕೀರ್ತಿಕರಮರ್ಜುನ ||೨-೨||"
+    },
+    "life_application": {
+        "hi": "किसी संकट के दौरान आत्म-दया उत्पन्न होने पर उसे चुनौती दें, अपने आप से पूछें कि क्या आपकी झिझक ज्ञान या भय से उत्पन्न होती है।",
+        "en": "Challenge self-pity when it arises during a crisis, asking yourself whether your hesitation springs from wisdom or fear.",
+        "be": "সঙ্কটের সময় আত্ম-মমতাকে চ্যালেঞ্জ করুন, নিজেকে জিজ্ঞাসা করুন যে আপনার দ্বিধা জ্ঞান বা ভয় থেকে উদ্ভূত হয়।",
+        "ka": "ಬಿಕ್ಕಟ್ಟಿನ ಸಂದರ್ಭದಲ್ಲಿ ಸ್ವಯಂ ಕರುಣೆ ಉದ್ಭವಿಸಿದಾಗ ಅದನ್ನು ಸವಾಲು ಮಾಡಿ, ನಿಮ್ಮ ಹಿಂಜರಿಕೆಯು ಬುದ್ಧಿವಂತಿಕೆ ಅಥವಾ ಭಯದಿಂದ ಹುಟ್ಟುತ್ತದೆಯೇ ಎಂದು ನಿಮ್ಮನ್ನು ಕೇಳಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Mind",
         "Fear",
@@ -24,53 +34,153 @@
     "word_meanings": [
         {
             "sanskrit": "कुतः",
-            "transliteration": "kutaḥ",
-            "meaning": "whence"
+            "transliteration": {
+                "hi": "कुतः",
+                "en": "kutaḥ",
+                "be": "কুতঃ",
+                "ka": "ಕುತಃ"
+            },
+            "meaning": {
+                "hi": "कहाँ से",
+                "en": "whence",
+                "be": "কোথা থেকে",
+                "ka": "ಎಲ್ಲಿಂದ"
+            }
         },
         {
             "sanskrit": "त्वा",
-            "transliteration": "tvā",
-            "meaning": "upon thee"
+            "transliteration": {
+                "hi": "त्वा",
+                "en": "tvā",
+                "be": "ত্বা",
+                "ka": "ತ್ವಾ"
+            },
+            "meaning": {
+                "hi": "तुम पर",
+                "en": "upon thee",
+                "be": "তোমার উপর",
+                "ka": "ನಿನ್ನ ಮೇಲೆ"
+            }
         },
         {
             "sanskrit": "कश्मलम्",
-            "transliteration": "kaśmalam",
-            "meaning": "dejection"
+            "transliteration": {
+                "hi": "कश्मलम्",
+                "en": "kaśmalam",
+                "be": "কশ্মলম্",
+                "ka": "ಕಶ್ಮಲಮ್"
+            },
+            "meaning": {
+                "hi": "निराशा",
+                "en": "dejection",
+                "be": "হতাশা",
+                "ka": "ನಿರಾಶೆ"
+            }
         },
         {
             "sanskrit": "इदम्",
-            "transliteration": "idam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "विषमे",
-            "transliteration": "viṣame",
-            "meaning": "in perilous strait"
+            "transliteration": {
+                "hi": "विषमे",
+                "en": "viṣame",
+                "be": "বিষমে",
+                "ka": "ವಿಷಮೇ"
+            },
+            "meaning": {
+                "hi": "खतरनाक जलडमरूमध्य में",
+                "en": "in perilous strait",
+                "be": "বিপদজনক প্রণালীতে",
+                "ka": "ಅಪಾಯಕಾರಿ ಸಂಕಟದಲ್ಲಿ"
+            }
         },
         {
             "sanskrit": "समुपस्थितम्",
-            "transliteration": "samupasthitam",
-            "meaning": "comes"
+            "transliteration": {
+                "hi": "समुपस्थितम्",
+                "en": "samupasthitam",
+                "be": "সমুপস্থিতম্",
+                "ka": "ಸಮುಪಸ್ಥಿತಮ್"
+            },
+            "meaning": {
+                "hi": "आता है",
+                "en": "comes",
+                "be": "আসে",
+                "ka": "ಬರುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "अनार्यजुष्टम्",
-            "transliteration": "anāryajuṣṭam",
-            "meaning": "unworthy"
+            "transliteration": {
+                "hi": "अनार्यजुष्टम्",
+                "en": "anāryajuṣṭam",
+                "be": "অনার্যজুষ্টম্",
+                "ka": "ಅನಾರ್ಯಜುಷ್ಟಮ್"
+            },
+            "meaning": {
+                "hi": "अयोग्य",
+                "en": "unworthy",
+                "be": "অযোগ্য",
+                "ka": "ಅಯೋಗ್ಯ"
+            }
         },
         {
             "sanskrit": "अस्वर्ग्यम्",
-            "transliteration": "asvargyam",
-            "meaning": "heavenexcluding"
+            "transliteration": {
+                "hi": "अस्वर्ग्यम्",
+                "en": "asvargyam",
+                "be": "অস্বর্গ্যম্",
+                "ka": "ಅಸ್ವರ್ಗ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "स्वर्ग को छोड़कर",
+                "en": "heavenexcluding",
+                "be": "স্বর্গ ব্যতীত",
+                "ka": "ಸ್ವರ್ಗವನ್ನು ಹೊರತುಪಡಿಸಿ"
+            }
         },
         {
             "sanskrit": "अकीर्तिकरम्",
-            "transliteration": "akīrtikaram",
-            "meaning": "disgraceful"
+            "transliteration": {
+                "hi": "अकीर्तिकरम्",
+                "en": "akīrtikaram",
+                "be": "অকীর্তিকরম্",
+                "ka": "ಅಕೀರ್ತಿಕರಮ್"
+            },
+            "meaning": {
+                "hi": "अपमानजनक",
+                "en": "disgraceful",
+                "be": "অসম্মানজনক",
+                "ka": "ಅವಮಾನಕರ"
+            }
         },
         {
             "sanskrit": "अर्जुन",
-            "transliteration": "arjuna",
-            "meaning": "O Arjuna."
+            "transliteration": {
+                "hi": "अर्जुन",
+                "en": "arjuna",
+                "be": "অর্জুন",
+                "ka": "ಅರ್ಜುನ"
+            },
+            "meaning": {
+                "hi": "हे अर्जुन!",
+                "en": "O Arjuna.",
+                "be": "হে অর্জুন।",
+                "ka": "ಓ ಅರ್ಜುನ."
+            }
         }
     ],
     "tej": {

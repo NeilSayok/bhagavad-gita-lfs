@@ -14,8 +14,18 @@
         "en": "vedāvināśinaṃ nityaṃ ya enamajamavyayam .\nkathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||2-21||",
         "ka": "ವೇದಾವಿನಾಶಿನಂ ನಿತ್ಯಂ ಯ ಏನಮಜಮವ್ಯಯಮ್ |\nಕಥಂ ಸ ಪುರುಷಃ ಪಾರ್ಥ ಕಂ ಘಾತಯತಿ ಹನ್ತಿ ಕಮ್ ||೨-೨೧||"
     },
-    "transliteration": "vedāvināśinaṃ nityaṃ ya enamajamavyayam .\nkathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||2-21||",
-    "life_application": "Anchor your understanding in eternal truths so that temporary fears no longer drive your actions.",
+    "transliteration": {
+        "hi": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् |\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम् ||२-२१||",
+        "en": "vedāvināśinaṃ nityaṃ ya enamajamavyayam .\nkathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||2-21||",
+        "be": "বেদাবিনাশিনং নিত্যং য এনমজমব্যযম্ |\nকথং স পুরুষঃ পার্থ কং ঘাতযতি হন্তি কম্ ||২-২১||",
+        "ka": "ವೇದಾವಿನಾಶಿನಂ ನಿತ್ಯಂ ಯ ಏನಮಜಮವ್ಯಯಮ್ |\nಕಥಂ ಸ ಪುರುಷಃ ಪಾರ್ಥ ಕಂ ಘಾತಯತಿ ಹನ್ತಿ ಕಮ್ ||೨-೨೧||"
+    },
+    "life_application": {
+        "hi": "अपनी समझ को शाश्वत सत्य में स्थापित करें ताकि अस्थायी भय आपके कार्यों को प्रेरित न करें।",
+        "en": "Anchor your understanding in eternal truths so that temporary fears no longer drive your actions.",
+        "be": "আপনার বোধগম্যতাকে চিরন্তন সত্যে নোঙর করুন যাতে অস্থায়ী ভয় আর আপনার কর্মকে চালিত না করে।",
+        "ka": "ನಿಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ಶಾಶ್ವತ ಸತ್ಯಗಳಲ್ಲಿ ಜೋಡಿಸಿ ಇದರಿಂದ ತಾತ್ಕಾಲಿಕ ಭಯಗಳು ಇನ್ನು ಮುಂದೆ ನಿಮ್ಮ ಕ್ರಿಯೆಗಳನ್ನು ನಡೆಸುವುದಿಲ್ಲ."
+    },
     "themes": [
         "Knowledge",
         "Self-Realization"
@@ -23,78 +33,228 @@
     "word_meanings": [
         {
             "sanskrit": "वेद",
-            "transliteration": "veda",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेद",
+                "en": "veda",
+                "be": "বেদ",
+                "ka": "ವೇದ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "अविनाशिनम्",
-            "transliteration": "avināśinam",
-            "meaning": "indestructible"
+            "transliteration": {
+                "hi": "अविनाशिनम्",
+                "en": "avināśinam",
+                "be": "অবিনাশিনম্",
+                "ka": "ಅವಿನಾಶಿನಮ್"
+            },
+            "meaning": {
+                "hi": "अविनाशी",
+                "en": "indestructible",
+                "be": "অবিনশ্বর",
+                "ka": "ಅವಿನಾಶಿ"
+            }
         },
         {
             "sanskrit": "नित्यम्",
-            "transliteration": "nityam",
-            "meaning": "eternal"
+            "transliteration": {
+                "hi": "नित्यम्",
+                "en": "nityam",
+                "be": "নিত্যম্",
+                "ka": "ನಿತ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "शाश्वत",
+                "en": "eternal",
+                "be": "চিরন্তন",
+                "ka": "ಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "कौन",
+                "en": "who",
+                "be": "যারা",
+                "ka": "WHO"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "अजम्",
-            "transliteration": "ajam",
-            "meaning": "unborn"
+            "transliteration": {
+                "hi": "अजम्",
+                "en": "ajam",
+                "be": "অজম্",
+                "ka": "ಅಜಮ್"
+            },
+            "meaning": {
+                "hi": "अजन्मा",
+                "en": "unborn",
+                "be": "অজাত",
+                "ka": "ಹುಟ್ಟಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अव्ययम्",
-            "transliteration": "avyayam",
-            "meaning": "inexhaustible"
+            "transliteration": {
+                "hi": "अव्ययम्",
+                "en": "avyayam",
+                "be": "অব্যযম্",
+                "ka": "ಅವ್ಯಯಮ್"
+            },
+            "meaning": {
+                "hi": "अक्षय",
+                "en": "inexhaustible",
+                "be": "অক্ষয়",
+                "ka": "ಅಕ್ಷಯ"
+            }
         },
         {
             "sanskrit": "कथम्",
-            "transliteration": "katham",
-            "meaning": "how"
+            "transliteration": {
+                "hi": "कथम्",
+                "en": "katham",
+                "be": "কথম্",
+                "ka": "ಕಥಮ್"
+            },
+            "meaning": {
+                "hi": "कैसे",
+                "en": "how",
+                "be": "কিভাবে",
+                "ka": "ಹೇಗೆ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "पुरुषः",
-            "transliteration": "puruṣaḥ",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "पुरुषः",
+                "en": "puruṣaḥ",
+                "be": "পুরুষঃ",
+                "ka": "ಪುರುಷಃ"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "पार्थ",
-            "transliteration": "pārtha",
-            "meaning": "O Partha"
+            "transliteration": {
+                "hi": "पार्थ",
+                "en": "pārtha",
+                "be": "পার্থ",
+                "ka": "ಪಾರ್ಥ"
+            },
+            "meaning": {
+                "hi": "हे पार्थ!",
+                "en": "O Partha",
+                "be": "হে পার্থ",
+                "ka": "ಓ ಪಾರ್ಥ"
+            }
         },
         {
             "sanskrit": "कम्",
-            "transliteration": "kam",
-            "meaning": "whom"
+            "transliteration": {
+                "hi": "कम्",
+                "en": "kam",
+                "be": "কম্",
+                "ka": "ಕಮ್"
+            },
+            "meaning": {
+                "hi": "किसको",
+                "en": "whom",
+                "be": "কাকে",
+                "ka": "ಯಾರನ್ನು"
+            }
         },
         {
             "sanskrit": "घातयति",
-            "transliteration": "ghātayati",
-            "meaning": "causes to be slain"
+            "transliteration": {
+                "hi": "घातयति",
+                "en": "ghātayati",
+                "be": "ঘাতযতি",
+                "ka": "ಘಾತಯತಿ"
+            },
+            "meaning": {
+                "hi": "मारे जाने का कारण बनता है",
+                "en": "causes to be slain",
+                "be": "নিহত হওয়ার কারণ",
+                "ka": "ಕೊಲ್ಲಲು ಕಾರಣವಾಗುತ್ತದೆ"
+            }
         },
         {
             "sanskrit": "हन्ति",
-            "transliteration": "hanti",
-            "meaning": "kills"
+            "transliteration": {
+                "hi": "हन्ति",
+                "en": "hanti",
+                "be": "হন্তি",
+                "ka": "ಹನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "मारता है",
+                "en": "kills",
+                "be": "হত্যা করে",
+                "ka": "ಕೊಲ್ಲುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "कम्",
-            "transliteration": "kam",
-            "meaning": "whom."
+            "transliteration": {
+                "hi": "कम्",
+                "en": "kam",
+                "be": "কম্",
+                "ka": "ಕಮ್"
+            },
+            "meaning": {
+                "hi": "किसको।",
+                "en": "whom.",
+                "be": "কাকে",
+                "ka": "ಯಾರನ್ನು."
+            }
         }
     ],
     "tej": {

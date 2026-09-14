@@ -14,8 +14,18 @@
         "en": "ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam ubhau tau na vijānīto nāyaṃ hanti na hanyate ||2-19||",
         "ka": "ಯ ಏನಂ ವೇತ್ತಿ ಹನ್ತಾರಂ ಯಶ್ಚೈನಂ ಮನ್ಯತೇ ಹತಮ್ |\nಉಭೌ ತೌ ನ ವಿಜಾನೀತೋ ನಾಯಂ ಹನ್ತಿ ನ ಹನ್ಯತೇ ||೨-೧೯||"
     },
-    "transliteration": "ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam ubhau tau na vijānīto nāyaṃ hanti na hanyate ||2-19||",
-    "life_application": "Release excessive guilt or anxiety over physical outcomes by understanding the eternal nature of consciousness.",
+    "transliteration": {
+        "hi": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते ||२-१९||",
+        "en": "ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam ubhau tau na vijānīto nāyaṃ hanti na hanyate ||2-19||",
+        "be": "য এনং বেত্তি হন্তারং যশ্চৈনং মন্যতে হতম্ |\nউভৌ তৌ ন বিজানীতো নাযং হন্তি ন হন্যতে ||২-১৯||",
+        "ka": "ಯ ಏನಂ ವೇತ್ತಿ ಹನ್ತಾರಂ ಯಶ್ಚೈನಂ ಮನ್ಯತೇ ಹತಮ್ |\nಉಭೌ ತೌ ನ ವಿಜಾನೀತೋ ನಾಯಂ ಹನ್ತಿ ನ ಹನ್ಯತೇ ||೨-೧೯||"
+    },
+    "life_application": {
+        "hi": "चेतना की शाश्वत प्रकृति को समझकर शारीरिक परिणामों पर अत्यधिक अपराधबोध या चिंता को दूर करें।",
+        "en": "Release excessive guilt or anxiety over physical outcomes by understanding the eternal nature of consciousness.",
+        "be": "চেতনার শাশ্বত প্রকৃতি বোঝার মাধ্যমে শারীরিক ফলাফল নিয়ে অতিরিক্ত অপরাধবোধ বা উদ্বেগ মুক্ত করুন।",
+        "ka": "ಪ್ರಜ್ಞೆಯ ಶಾಶ್ವತ ಸ್ವರೂಪವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ ದೈಹಿಕ ಫಲಿತಾಂಶಗಳ ಮೇಲಿನ ಅತಿಯಾದ ಅಪರಾಧ ಅಥವಾ ಆತಂಕವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ."
+    },
     "themes": [
         "Knowledge",
         "Death"
@@ -23,93 +33,273 @@
     "word_meanings": [
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "he who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "वह जो",
+                "en": "he who",
+                "be": "তিনি যিনি",
+                "ka": "ಅವನು ಯಾರು"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "वेत्ति",
-            "transliteration": "vetti",
-            "meaning": "knows"
+            "transliteration": {
+                "hi": "वेत्ति",
+                "en": "vetti",
+                "be": "বেত্তি",
+                "ka": "ವೇತ್ತಿ"
+            },
+            "meaning": {
+                "hi": "जानता है",
+                "en": "knows",
+                "be": "জানে",
+                "ka": "ತಿಳಿದಿದೆ"
+            }
         },
         {
             "sanskrit": "हन्तारम्",
-            "transliteration": "hantāram",
-            "meaning": "slayer"
+            "transliteration": {
+                "hi": "हन्तारम्",
+                "en": "hantāram",
+                "be": "হন্তারম্",
+                "ka": "ಹನ್ತಾರಮ್"
+            },
+            "meaning": {
+                "hi": "हत्यारा",
+                "en": "slayer",
+                "be": "হত্যাকারী",
+                "ka": "ಸಂಹಾರಕ"
+            }
         },
         {
             "sanskrit": "यः",
-            "transliteration": "yaḥ",
-            "meaning": "he who"
+            "transliteration": {
+                "hi": "यः",
+                "en": "yaḥ",
+                "be": "যঃ",
+                "ka": "ಯಃ"
+            },
+            "meaning": {
+                "hi": "वह जो",
+                "en": "he who",
+                "be": "তিনি যিনি",
+                "ka": "ಅವನು ಯಾರು"
+            }
         },
         {
             "sanskrit": "च",
-            "transliteration": "ca",
-            "meaning": "and"
+            "transliteration": {
+                "hi": "च",
+                "en": "ca",
+                "be": "চ",
+                "ka": "ಚ"
+            },
+            "meaning": {
+                "hi": "और",
+                "en": "and",
+                "be": "এবং",
+                "ka": "ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "एनम्",
-            "transliteration": "enam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "एनम्",
+                "en": "enam",
+                "be": "এনম্",
+                "ka": "ಏನಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "मन्यते",
-            "transliteration": "manyate",
-            "meaning": "thinks"
+            "transliteration": {
+                "hi": "मन्यते",
+                "en": "manyate",
+                "be": "মন্যতে",
+                "ka": "ಮನ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "सोचता है",
+                "en": "thinks",
+                "be": "মনে করে",
+                "ka": "ಯೋಚಿಸುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "हतम्",
-            "transliteration": "hatam",
-            "meaning": "slain"
+            "transliteration": {
+                "hi": "हतम्",
+                "en": "hatam",
+                "be": "হতম্",
+                "ka": "ಹತಮ್"
+            },
+            "meaning": {
+                "hi": "मारे गये",
+                "en": "slain",
+                "be": "নিহত",
+                "ka": "ಕೊಲ್ಲಲಾಯಿತು"
+            }
         },
         {
             "sanskrit": "उभौ",
-            "transliteration": "ubhau",
-            "meaning": "both"
+            "transliteration": {
+                "hi": "उभौ",
+                "en": "ubhau",
+                "be": "উভৌ",
+                "ka": "ಉಭೌ"
+            },
+            "meaning": {
+                "hi": "दोनों",
+                "en": "both",
+                "be": "উভয়",
+                "ka": "ಎರಡೂ"
+            }
         },
         {
             "sanskrit": "तौ",
-            "transliteration": "tau",
-            "meaning": "those"
+            "transliteration": {
+                "hi": "तौ",
+                "en": "tau",
+                "be": "তৌ",
+                "ka": "ತೌ"
+            },
+            "meaning": {
+                "hi": "वो",
+                "en": "those",
+                "be": "যারা",
+                "ka": "ಆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "विजानीतः",
-            "transliteration": "vijānītaḥ",
-            "meaning": "know"
+            "transliteration": {
+                "hi": "विजानीतः",
+                "en": "vijānītaḥ",
+                "be": "বিজানীতঃ",
+                "ka": "ವಿಜಾನೀತಃ"
+            },
+            "meaning": {
+                "hi": "पता है",
+                "en": "know",
+                "be": "জানি",
+                "ka": "ಗೊತ್ತು"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "अयम्",
-            "transliteration": "ayam",
-            "meaning": "this"
+            "transliteration": {
+                "hi": "अयम्",
+                "en": "ayam",
+                "be": "অযম্",
+                "ka": "ಅಯಮ್"
+            },
+            "meaning": {
+                "hi": "यह",
+                "en": "this",
+                "be": "এই",
+                "ka": "ಇದು"
+            }
         },
         {
             "sanskrit": "हन्ति",
-            "transliteration": "hanti",
-            "meaning": "slays"
+            "transliteration": {
+                "hi": "हन्ति",
+                "en": "hanti",
+                "be": "হন্তি",
+                "ka": "ಹನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "मार डालता है",
+                "en": "slays",
+                "be": "slays",
+                "ka": "ಕೊಲ್ಲುತ್ತಾನೆ"
+            }
         },
         {
             "sanskrit": "न",
-            "transliteration": "na",
-            "meaning": "not"
+            "transliteration": {
+                "hi": "न",
+                "en": "na",
+                "be": "ন",
+                "ka": "ನ"
+            },
+            "meaning": {
+                "hi": "नहीं",
+                "en": "not",
+                "be": "না",
+                "ka": "ಅಲ್ಲ"
+            }
         },
         {
             "sanskrit": "हन्यते",
-            "transliteration": "hanyate",
-            "meaning": "is slain."
+            "transliteration": {
+                "hi": "हन्यते",
+                "en": "hanyate",
+                "be": "হন্যতে",
+                "ka": "ಹನ್ಯತೇ"
+            },
+            "meaning": {
+                "hi": "मारा गया है.",
+                "en": "is slain.",
+                "be": "নিহত হয়",
+                "ka": "ಕೊಲ್ಲಲಾಗಿದೆ."
+            }
         }
     ],
     "tej": {

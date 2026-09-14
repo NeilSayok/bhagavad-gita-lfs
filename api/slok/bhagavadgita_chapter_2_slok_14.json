@@ -14,8 +14,18 @@
         "en": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ .\nāgamāpāyino.anityāstāṃstitikṣasva bhārata ||2-14||",
         "ka": "ಮಾತ್ರಾಸ್ಪರ್ಶಾಸ್ತು ಕೌನ್ತೇಯ ಶೀತೋಷ್ಣಸುಖದುಃಖದಾಃ |\nಆಗಮಾಪಾಯಿನೋಽನಿತ್ಯಾಸ್ತಾಂಸ್ತಿತಿಕ್ಷಸ್ವ ಭಾರತ ||೨-೧೪||"
     },
-    "transliteration": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ .\nāgamāpāyino.anityāstāṃstitikṣasva bhārata ||2-14||",
-    "life_application": "Endure temporary discomforts like heat, cold, praise, or criticism today without letting them disrupt your inner balance.",
+    "transliteration": {
+        "hi": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः |\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||२-१४||",
+        "en": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ .\nāgamāpāyino.anityāstāṃstitikṣasva bhārata ||2-14||",
+        "be": "মাত্রাস্পর্শাস্তু কৌন্তেয শীতোষ্ণসুখদুঃখদাঃ |\nআগমাপাযিনোঽনিত্যাস্তাংস্তিতিক্ষস্ব ভারত ||২-১৪||",
+        "ka": "ಮಾತ್ರಾಸ್ಪರ್ಶಾಸ್ತು ಕೌನ್ತೇಯ ಶೀತೋಷ್ಣಸುಖದುಃಖದಾಃ |\nಆಗಮಾಪಾಯಿನೋಽನಿತ್ಯಾಸ್ತಾಂಸ್ತಿತಿಕ್ಷಸ್ವ ಭಾರತ ||೨-೧೪||"
+    },
+    "life_application": {
+        "hi": "आज गर्मी, सर्दी, प्रशंसा या आलोचना जैसी अस्थायी असुविधाओं को अपने आंतरिक संतुलन को बाधित किए बिना सहन करें।",
+        "en": "Endure temporary discomforts like heat, cold, praise, or criticism today without letting them disrupt your inner balance.",
+        "be": "তাপ, ঠাণ্ডা, প্রশংসা বা সমালোচনার মতো সাময়িক অস্বস্তিগুলিকে আপনার অভ্যন্তরীণ ভারসাম্যকে ব্যাহত না করে আজই সহ্য করুন।",
+        "ka": "ಶಾಖ, ಶೀತ, ಹೊಗಳಿಕೆ ಅಥವಾ ಟೀಕೆಗಳಂತಹ ತಾತ್ಕಾಲಿಕ ಅಸ್ವಸ್ಥತೆಗಳನ್ನು ಇಂದು ನಿಮ್ಮ ಆಂತರಿಕ ಸಮತೋಲನವನ್ನು ಅಡ್ಡಿಪಡಿಸಲು ಬಿಡದೆ ಸಹಿಸಿಕೊಳ್ಳಿ."
+    },
     "themes": [
         "Equanimity",
         "Mindfulness"
@@ -23,48 +33,138 @@
     "word_meanings": [
         {
             "sanskrit": "मात्रास्पर्शाः",
-            "transliteration": "mātrāsparśāḥ",
-            "meaning": "contacts of senses with"
+            "transliteration": {
+                "hi": "मात्रास्पर्शाः",
+                "en": "mātrāsparśāḥ",
+                "be": "মাত্রাস্পর্শাঃ",
+                "ka": "ಮಾತ್ರಾಸ್ಪರ್ಶಾಃ"
+            },
+            "meaning": {
+                "hi": "इंद्रियों के संपर्क के साथ",
+                "en": "contacts of senses with",
+                "be": "সঙ্গে ইন্দ্রিয় যোগাযোগ",
+                "ka": "ಇಂದ್ರಿಯಗಳ ಸಂಪರ್ಕಗಳು"
+            }
         },
         {
             "sanskrit": "तु",
-            "transliteration": "tu",
-            "meaning": "indeed"
+            "transliteration": {
+                "hi": "तु",
+                "en": "tu",
+                "be": "তু",
+                "ka": "ತು"
+            },
+            "meaning": {
+                "hi": "वास्तव में",
+                "en": "indeed",
+                "be": "প্রকৃতপক্ষে",
+                "ka": "ವಾಸ್ತವವಾಗಿ"
+            }
         },
         {
             "sanskrit": "कौन्तेय",
-            "transliteration": "kaunteya",
-            "meaning": "O Kaunteya"
+            "transliteration": {
+                "hi": "कौन्तेय",
+                "en": "kaunteya",
+                "be": "কৌন্তেয",
+                "ka": "ಕೌನ್ತೇಯ"
+            },
+            "meaning": {
+                "hi": "हे कौन्तेय!",
+                "en": "O Kaunteya",
+                "be": "হে কৌন্তেয়া",
+                "ka": "ಓ ಕೌಂತೇಯ"
+            }
         },
         {
             "sanskrit": "शीतोष्णसुखदुःखदाः",
-            "transliteration": "śītoṣṇasukhaduḥkhadāḥ",
-            "meaning": "producers of cold and"
+            "transliteration": {
+                "hi": "शीतोष्णसुखदुःखदाः",
+                "en": "śītoṣṇasukhaduḥkhadāḥ",
+                "be": "শীতোষ্ণসুখদুঃখদাঃ",
+                "ka": "ಶೀತೋಷ್ಣಸುಖದುಃಖದಾಃ"
+            },
+            "meaning": {
+                "hi": "ठंड के उत्पादक और",
+                "en": "producers of cold and",
+                "be": "ঠান্ডা উৎপাদনকারী এবং",
+                "ka": "ಶೀತದ ನಿರ್ಮಾಪಕರು ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "आगमापायिनः",
-            "transliteration": "āgamāpāyinaḥ",
-            "meaning": "with beginning and end"
+            "transliteration": {
+                "hi": "आगमापायिनः",
+                "en": "āgamāpāyinaḥ",
+                "be": "আগমাপাযিনঃ",
+                "ka": "ಆಗಮಾಪಾಯಿನಃ"
+            },
+            "meaning": {
+                "hi": "शुरुआत और अंत के साथ",
+                "en": "with beginning and end",
+                "be": "শুরু এবং শেষ সহ",
+                "ka": "ಆರಂಭ ಮತ್ತು ಅಂತ್ಯದೊಂದಿಗೆ"
+            }
         },
         {
             "sanskrit": "अनित्याः",
-            "transliteration": "anityāḥ",
-            "meaning": "impermanent"
+            "transliteration": {
+                "hi": "अनित्याः",
+                "en": "anityāḥ",
+                "be": "অনিত্যাঃ",
+                "ka": "ಅನಿತ್ಯಾಃ"
+            },
+            "meaning": {
+                "hi": "अनित्य",
+                "en": "impermanent",
+                "be": "অস্থায়ী",
+                "ka": "ಅಶಾಶ್ವತ"
+            }
         },
         {
             "sanskrit": "तान्",
-            "transliteration": "tān",
-            "meaning": "them"
+            "transliteration": {
+                "hi": "तान्",
+                "en": "tān",
+                "be": "তান্",
+                "ka": "ತಾನ್"
+            },
+            "meaning": {
+                "hi": "उन्हें",
+                "en": "them",
+                "be": "তাদের",
+                "ka": "ಅವುಗಳನ್ನು"
+            }
         },
         {
             "sanskrit": "तितिक्षस्व",
-            "transliteration": "titikṣasva",
-            "meaning": "bear"
+            "transliteration": {
+                "hi": "तितिक्षस्व",
+                "en": "titikṣasva",
+                "be": "তিতিক্ষস্ব",
+                "ka": "ತಿತಿಕ್ಷಸ್ವ"
+            },
+            "meaning": {
+                "hi": "भालू",
+                "en": "bear",
+                "be": "ভালুক",
+                "ka": "ಕರಡಿ"
+            }
         },
         {
             "sanskrit": "भारत",
-            "transliteration": "bhārata",
-            "meaning": "O Bharata."
+            "transliteration": {
+                "hi": "भारत",
+                "en": "bhārata",
+                "be": "ভারত",
+                "ka": "ಭಾರತ"
+            },
+            "meaning": {
+                "hi": "हे भरत!",
+                "en": "O Bharata.",
+                "be": "হে ভরত।",
+                "ka": "ಓ ಭರತ."
+            }
         }
     ],
     "tej": {

@@ -14,8 +14,18 @@
         "en": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha .\nsamaduḥkhasukhaṃ dhīraṃ so.amṛtatvāya kalpate ||2-15||",
         "ka": "ಯಂ ಹಿ ನ ವ್ಯಥಯನ್ತ್ಯೇತೇ ಪುರುಷಂ ಪುರುಷರ್ಷಭ |\nಸಮದುಃಖಸುಖಂ ಧೀರಂ ಸೋಽಮೃತತ್ವಾಯ ಕಲ್ಪತೇ ||೨-೧೫||"
     },
-    "transliteration": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha .\nsamaduḥkhasukhaṃ dhīraṃ so.amṛtatvāya kalpate ||2-15||",
-    "life_application": "Practice maintaining equal composure during both unexpected setbacks and small victories throughout your day.",
+    "transliteration": {
+        "hi": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ||२-१५||",
+        "en": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha .\nsamaduḥkhasukhaṃ dhīraṃ so.amṛtatvāya kalpate ||2-15||",
+        "be": "যং হি ন ব্যথযন্ত্যেতে পুরুষং পুরুষর্ষভ |\nসমদুঃখসুখং ধীরং সোঽমৃতত্বায কল্পতে ||২-১৫||",
+        "ka": "ಯಂ ಹಿ ನ ವ್ಯಥಯನ್ತ್ಯೇತೇ ಪುರುಷಂ ಪುರುಷರ್ಷಭ |\nಸಮದುಃಖಸುಖಂ ಧೀರಂ ಸೋಽಮೃತತ್ವಾಯ ಕಲ್ಪತೇ ||೨-೧೫||"
+    },
+    "life_application": {
+        "hi": "अपने पूरे दिन में अप्रत्याशित असफलताओं और छोटी जीत दोनों के दौरान समान संयम बनाए रखने का अभ्यास करें।",
+        "en": "Practice maintaining equal composure during both unexpected setbacks and small victories throughout your day.",
+        "be": "আপনার দিন জুড়ে অপ্রত্যাশিত বিপত্তি এবং ছোট জয় উভয়ের সময়ই সমান মানসিকতা বজায় রাখার অনুশীলন করুন।",
+        "ka": "ನಿಮ್ಮ ದಿನವಿಡೀ ಅನಿರೀಕ್ಷಿತ ಹಿನ್ನಡೆಗಳು ಮತ್ತು ಸಣ್ಣ ವಿಜಯಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಸಮಾನವಾದ ಹಿಡಿತವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಅಭ್ಯಾಸ ಮಾಡಿ."
+    },
     "themes": [
         "Equanimity",
         "Mind"
@@ -23,58 +33,168 @@
     "word_meanings": [
         {
             "sanskrit": "यम्",
-            "transliteration": "yam",
-            "meaning": "whom"
+            "transliteration": {
+                "hi": "यम्",
+                "en": "yam",
+                "be": "যম্",
+                "ka": "ಯಮ್"
+            },
+            "meaning": {
+                "hi": "किसको",
+                "en": "whom",
+                "be": "কাকে",
+                "ka": "ಯಾರನ್ನು"
+            }
         },
         {
             "sanskrit": "हि",
-            "transliteration": "hi",
-            "meaning": "surely"
+            "transliteration": {
+                "hi": "हि",
+                "en": "hi",
+                "be": "হি",
+                "ka": "ಹಿ"
+            },
+            "meaning": {
+                "hi": "निश्चित रूप से",
+                "en": "surely",
+                "be": "অবশ্যই",
+                "ka": "ಖಂಡಿತವಾಗಿ"
+            }
         },
         {
             "sanskrit": "न व्यथयन्ति",
-            "transliteration": "na vyathayanti",
-            "meaning": "afflict not"
+            "transliteration": {
+                "hi": "न व्यथयन्ति",
+                "en": "na vyathayanti",
+                "be": "ন ব্যথযন্তি",
+                "ka": "ನ ವ್ಯಥಯನ್ತಿ"
+            },
+            "meaning": {
+                "hi": "कष्ट नहीं",
+                "en": "afflict not",
+                "be": "কষ্ট না",
+                "ka": "ಬಾಧಿಸುವುದಿಲ್ಲ"
+            }
         },
         {
             "sanskrit": "एते",
-            "transliteration": "ete",
-            "meaning": "these"
+            "transliteration": {
+                "hi": "एते",
+                "en": "ete",
+                "be": "এতে",
+                "ka": "ಏತೇ"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
         },
         {
             "sanskrit": "पुरुषम्",
-            "transliteration": "puruṣam",
-            "meaning": "man"
+            "transliteration": {
+                "hi": "पुरुषम्",
+                "en": "puruṣam",
+                "be": "পুরুষম্",
+                "ka": "ಪುರುಷಮ್"
+            },
+            "meaning": {
+                "hi": "आदमी",
+                "en": "man",
+                "be": "মানুষ",
+                "ka": "ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "पुरुषर्षभ",
-            "transliteration": "puruṣarṣabha",
-            "meaning": "chief among men"
+            "transliteration": {
+                "hi": "पुरुषर्षभ",
+                "en": "puruṣarṣabha",
+                "be": "পুরুষর্ষভ",
+                "ka": "ಪುರುಷರ್ಷಭ"
+            },
+            "meaning": {
+                "hi": "पुरुषों में प्रमुख",
+                "en": "chief among men",
+                "be": "পুরুষদের মধ্যে প্রধান",
+                "ka": "ಪುರುಷರಲ್ಲಿ ಮುಖ್ಯ"
+            }
         },
         {
             "sanskrit": "समदुःखसुखम्",
-            "transliteration": "samaduḥkhasukham",
-            "meaning": "same in pleasure and"
+            "transliteration": {
+                "hi": "समदुःखसुखम्",
+                "en": "samaduḥkhasukham",
+                "be": "সমদুঃখসুখম্",
+                "ka": "ಸಮದುಃಖಸುಖಮ್"
+            },
+            "meaning": {
+                "hi": "आनंद में भी वही और",
+                "en": "same in pleasure and",
+                "be": "একই আনন্দ এবং",
+                "ka": "ಅದೇ ಸಂತೋಷ ಮತ್ತು"
+            }
         },
         {
             "sanskrit": "धीरम्",
-            "transliteration": "dhīram",
-            "meaning": "firm man"
+            "transliteration": {
+                "hi": "धीरम्",
+                "en": "dhīram",
+                "be": "ধীরম্",
+                "ka": "ಧೀರಮ್"
+            },
+            "meaning": {
+                "hi": "दृढ़ आदमी",
+                "en": "firm man",
+                "be": "দৃঢ় মানুষ",
+                "ka": "ದೃಢ ಮನುಷ್ಯ"
+            }
         },
         {
             "sanskrit": "सः",
-            "transliteration": "saḥ",
-            "meaning": "he"
+            "transliteration": {
+                "hi": "सः",
+                "en": "saḥ",
+                "be": "সঃ",
+                "ka": "ಸಃ"
+            },
+            "meaning": {
+                "hi": "वह",
+                "en": "he",
+                "be": "তিনি",
+                "ka": "ಅವನು"
+            }
         },
         {
             "sanskrit": "अमृतत्वाय",
-            "transliteration": "amṛtatvāya",
-            "meaning": "for immortality"
+            "transliteration": {
+                "hi": "अमृतत्वाय",
+                "en": "amṛtatvāya",
+                "be": "অমৃতত্বায",
+                "ka": "ಅಮೃತತ್ವಾಯ"
+            },
+            "meaning": {
+                "hi": "अमरता के लिए",
+                "en": "for immortality",
+                "be": "অমরত্বের জন্য",
+                "ka": "ಅಮರತ್ವಕ್ಕಾಗಿ"
+            }
         },
         {
             "sanskrit": "कल्पते",
-            "transliteration": "kalpate",
-            "meaning": "is fit."
+            "transliteration": {
+                "hi": "कल्पते",
+                "en": "kalpate",
+                "be": "কল্পতে",
+                "ka": "ಕಲ್ಪತೇ"
+            },
+            "meaning": {
+                "hi": "फिट है।",
+                "en": "is fit.",
+                "be": "উপযুক্ত",
+                "ka": "ಫಿಟ್ ಆಗಿದೆ."
+            }
         }
     ],
     "tej": {

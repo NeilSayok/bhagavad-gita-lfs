@@ -7,11 +7,6 @@ by epoch day mod commentary count, same as the app's currentEpochDay() logic.
 Rule (per user): every text field (slok, life_application, commentary) must
 have all 4 translations present (hi/en/be/ka) for the verse and whichever
 commentator's block gets rotated in.
-
-life_application has no per-language rows in db/gita.db (source JSON only
-ever populated "en") -- api/reading/all.json is hand-translated with all 4
-languages and is the source of truth for that field now, read directly
-instead of the DB.
 """
 import json
 import os
@@ -20,20 +15,26 @@ from datetime import date, timezone, datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DB_PATH = os.path.join(ROOT, "db", "gita.db")
-READING_PATH = os.path.join(ROOT, "api", "reading", "all.json")
 OUT_PATH = os.path.join(ROOT, "api", "home", "verseofday.json")
 LANGS = ("hi", "en", "be", "ka")
 
 VERSE_OF_DAY_ID = "BG2.47"
 
 VERSE_QUERY = """
-SELECT v.verse_id, v.chapter_number, v.verse_number, v.transliteration,
+SELECT v.verse_id, v.chapter_number, v.verse_number,
        v.img_landscape, v.img_portrait, v.img_square
 FROM verse v
 WHERE v.verse_id = ?
 """
 
-VERSE_TEXT_QUERY = "SELECT lang_code, speaker, slok FROM verse_text WHERE verse_id = ?"
+VERSE_TEXT_QUERY = """
+SELECT lang_code, speaker, slok, transliteration FROM verse_text WHERE verse_id = ?
+"""
+
+LIFE_APPLICATION_QUERY = """
+SELECT lang_code, life_application FROM verse_translation
+WHERE verse_id = ? AND life_application IS NOT NULL
+"""
 
 COMMENTARY_QUERY = """
 SELECT cm.commentator_key, cm.author, cm.display_order, c.lang_code, c.text
@@ -48,13 +49,9 @@ def epoch_day():
     return (datetime.now(timezone.utc).date() - date(1970, 1, 1)).days
 
 
-def load_life_application(verse_id):
-    with open(READING_PATH, encoding="utf-8") as f:
-        entries = json.load(f)
-    for o in entries:
-        if "verse" in o and o["verse"]["verse_id"] == verse_id:
-            return o["verse_translation"]["life_application"]
-    return None
+def load_life_application(db, verse_id):
+    rows = db.execute(LIFE_APPLICATION_QUERY, (verse_id,)).fetchall()
+    return {r["lang_code"]: r["life_application"] for r in rows}
 
 
 def qualifying_commentaries(db, verse_id):
@@ -81,11 +78,14 @@ def main():
     verse_text_rows = db.execute(VERSE_TEXT_QUERY, (VERSE_OF_DAY_ID,)).fetchall()
     speaker = {r["lang_code"]: r["speaker"] for r in verse_text_rows if r["speaker"]}
     slok = {r["lang_code"]: r["slok"] for r in verse_text_rows if r["slok"]}
+    transliteration = {r["lang_code"]: r["transliteration"] for r in verse_text_rows
+                       if r["transliteration"]}
     assert all(lang in speaker for lang in LANGS), "missing speaker translation"
     assert all(lang in slok for lang in LANGS), "missing slok translation"
+    assert all(lang in transliteration for lang in LANGS), "missing transliteration"
 
-    life_application = load_life_application(VERSE_OF_DAY_ID)
-    assert life_application and set(life_application) == set(LANGS), "missing life_application translation"
+    life_application = load_life_application(db, VERSE_OF_DAY_ID)
+    assert all(lang in life_application for lang in LANGS), "missing life_application translation"
 
     candidates = qualifying_commentaries(db, VERSE_OF_DAY_ID)
     db.close()
@@ -98,7 +98,7 @@ def main():
             "verse_id": v["verse_id"],
             "chapter_number": v["chapter_number"],
             "verse_number": v["verse_number"],
-            "transliteration": v["transliteration"],
+            "transliteration": {lang: transliteration[lang] for lang in LANGS},
             "img_landscape": v["img_landscape"],
             "img_portrait": v["img_portrait"],
             "img_square": v["img_square"],
@@ -108,7 +108,7 @@ def main():
             "slok": {lang: slok[lang] for lang in LANGS},
         },
         "verse_translation": {
-            "life_application": life_application,
+            "life_application": {lang: life_application[lang] for lang in LANGS},
         },
         "commentary": {
             "text": commentary_text,
@@ -121,6 +121,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
+        f.write("\n")
     with open(OUT_PATH, encoding="utf-8") as f:
         json.load(f)  # round-trip validity check
 

@@ -1,185 +1,188 @@
 # JSON → DB mapping
 
-Source: `chapter/*.json` (18 files), `slok/*.json` (719 files).
-Built by: `db/build_db.py` → `db/schema.sql` → `db/gita.db`.
-Rule: language is a row, never a column — empty/whitespace string in JSON = no row inserted (a language "not translated yet" just has no row, not a NULL).
+Source: `api/chapter/*.json` (18 files), `api/slok/*.json` (701 files), `api/slok-colophon/*.json` (18 files, excluded unless `--with-colophon`).
+Built by: `db/build_db.py` → `db/schema.sql` → `db/gita.db` (schema v2, `PRAGMA user_version = 2`).
+
+**Rule: language is a row, never a column.** Every field the source carries per-language is stored as one row per `lang_code` in a `*_translation` / `*_text` table — never as parallel `name_hi` / `name_en` columns. Adding a language = pure INSERTs, no migration. An empty/whitespace string is skipped: a missing row means "not translated yet", not NULL.
+
+## Source is fully multilingual
+
+All 719 slok files and all 18 chapter files carry these as `{hi, en, be, ka}` objects (verified, 100% coverage):
+
+| File | Multilingual fields | Still single-value |
+|---|---|---|
+| `api/chapter/*.json` | `name`, `translation`, `transliteration`, `meaning`, `summary` | `chapter_number`, `verses_count`, `image.*` |
+| `api/slok/*.json` | `speaker`, `slok`, `transliteration`, `life_application`, `word_meanings[].transliteration`, `word_meanings[].meaning`, `<commentator>.commentary` | `_id`, `chapter`, `verse`, `themes[]` (English), `word_meanings[].sanskrit`, `<commentator>.author`, `image.*` |
+
+`<commentator>.commentary` additionally carries `sa` where a Sanskrit source text exists (9,112 rows); the other four are the translation targets.
+
+Theme names are **English-only in the slok files** — their translations are curated separately in **`db/theme_translations.json`** (keyed by slug), which the builder joins in.
 
 ## language
 
-Not derived from JSON — hardcoded list in `build_db.py`: `sa, hi, en, be, ka` (`is_script_only=1` for `sa` only).
+Not derived from JSON — hardcoded in `build_db.py`: `sa, hi, en, be, ka` (`is_script_only=1` for `sa` only).
 
-## chapter/*.json → `chapter` (1 row per file) + `chapter_translation` (1 row per lang present)
+## `api/chapter/*.json` → `chapter` + `chapter_translation`
+
+`chapter` holds only what is genuinely language-independent; every text field moved to `chapter_translation` in v2.
 
 | JSON field | Column | Table |
 |---|---|---|
 | `chapter_number` | `chapter_number` (PK) | `chapter` |
 | `verses_count` | `verses_count` | `chapter` |
-| `name` | `name_sanskrit` | `chapter` |
-| `translation` | `translation` | `chapter` |
-| `transliteration` | `transliteration` | `chapter` |
 | — (generated) | `img_landscape/portrait/square` = `chapters/{size}/chapter_<n>/<variant>/img.png` | `chapter` |
-| `meaning.<lang>` | `meaning` | `chapter_translation` (PK `chapter_number, lang_code`), skipped if blank |
-| `summary.<lang>` | `summary` | `chapter_translation`, skipped if blank |
+| `name.<lang>` | `name` | `chapter_translation` |
+| `translation.<lang>` | `translation` | `chapter_translation` |
+| `transliteration.<lang>` | `transliteration` | `chapter_translation` |
+| `meaning.<lang>` | `meaning` | `chapter_translation` |
+| `summary.<lang>` | `summary` | `chapter_translation` |
 
-A `chapter_translation` row is inserted per lang key present in either `meaning` or `summary`, only if at least one of the two is non-blank for that lang.
+`chapter_translation` PK is `(chapter_number, lang_code)` — one row per language present in *any* of the five fields. Current: 18 rows × 4 languages.
 
-## slok/*.json → `verse` (1 row per file) + related tables
+## `api/slok/*.json` → `verse` + related tables
 
 | JSON field | Column | Table |
 |---|---|---|
 | `_id` | `verse_id` (PK, e.g. `BG1.1`) | `verse` |
 | `chapter` | `chapter_number` (FK → `chapter`) | `verse` |
 | `verse` | `verse_number` | `verse` |
-| `transliteration` (top-level, legacy) | `transliteration` | `verse` |
 | — (generated) | `img_landscape/portrait/square` = `sloks/{size}/chapter_<c>/slok_<v>/<variant>/img.png` | `verse` |
 
-### `speaker.<lang>` + `slok.<lang>` → `verse_text` (PK `verse_id, lang_code`)
+### `speaker` + `slok` + `transliteration` → `verse_text` (PK `verse_id, lang_code`)
 
-One row per lang key present in either `speaker` or `slok`, skipped if both blank for that lang.
+The same Sanskrit verse rendered per script — **not** a meaning translation. One row per language present in any of the three fields. Current: 701 × 4.
 
 | JSON field | Column |
 |---|---|
 | `speaker.<lang>` | `speaker` |
 | `slok.<lang>` | `slok` |
+| `transliteration.<lang>` | `transliteration` (v2: moved off `verse`) |
 
 ### `life_application` → `verse_translation` (PK `verse_id, lang_code`)
 
-Single row, hardcoded `lang_code = "en"` (source JSON only ever populates this field in English). Skipped entirely if blank.
+Meaning-level prose, one row per language. Current: 701 × 4 (was English-only before the source was translated).
 
 | JSON field | Column |
 |---|---|
-| `life_application` | `life_application` |
+| `life_application.<lang>` | `life_application` |
 
 ### `themes[]` → `theme` / `theme_translation` / `verse_theme`
 
-- `theme`/`theme_translation` are built once globally (first occurrence across all 719 files wins the `theme_id`; `slug` = slugified English name; `theme_translation.lang_code` is always `"en"` — themes have no other-language variant in source JSON).
+- `theme` is built once globally: first occurrence across all slok files wins the `theme_id`; `slug` = slugified English name.
+- `theme_translation` gets one row per language from **`db/theme_translations.json`** (`{slug: {hi, en, be, ka}}`), falling back to the raw English name if a slug is absent. Current: 15 × 4.
 - `verse_theme` gets one row per array element, `position` = array index (preserves JSON order).
 
 | JSON field | Column | Table |
 |---|---|---|
 | `themes[i]` (name, dedup'd) | `theme_id` (assigned), `slug` | `theme` |
-| `themes[i]` (name) | `name` (lang `en`) | `theme_translation` |
+| `db/theme_translations.json[slug].<lang>` | `name` | `theme_translation` |
 | index `i` | `position`; `theme_id` | `verse_theme` |
 
 ### `word_meanings[]` → `word_meaning` / `word_meaning_translation`
 
-One row per array element, `position` = array index. PK is `(verse_id, position)`.
+One `word_meaning` row per array element, `position` = array index. `sanskrit` is the only field that isn't translated, so it's the only one left on the parent row in v2.
 
 | JSON field | Column | Table |
 |---|---|---|
-| `word_meanings[i].sanskrit` | `sanskrit` | `word_meaning` |
-| `word_meanings[i].transliteration` | `transliteration` | `word_meaning` |
-| `word_meanings[i].meaning` | `meaning` (lang hardcoded `"en"`) | `word_meaning_translation`, skipped if blank |
+| `word_meanings[i].sanskrit` | `sanskrit` | `word_meaning` (PK `verse_id, position`) |
+| `word_meanings[i].transliteration.<lang>` | `transliteration` (v2: moved off `word_meaning`) | `word_meaning_translation` (PK `verse_id, position, lang_code`) |
+| `word_meanings[i].meaning.<lang>` | `meaning` | `word_meaning_translation` |
+
+Current: 7,964 `word_meaning` rows, 7,964 × 4 translations.
 
 ### `<commentator_key>.author` → `commentator` (global, not per-verse)
 
-For each of the 22 commentator keys (`tej, siva, purohit, chinmay, san, adi, gambir, madhav, anand, rams, raman, abhinav, sankar, jaya, vallabh, ms, srid, dhan, venkat, puru, neel, prabhu`), the **most frequent** non-blank `author` value across all 719 files is picked as the canonical `author` (fixes ~45 blocks with a missing/inconsistent author field). `display_order` = index in the fixed key list above.
+For each of the 22 commentator keys (`tej, siva, purohit, chinmay, san, adi, gambir, madhav, anand, rams, raman, abhinav, sankar, jaya, vallabh, ms, srid, dhan, venkat, puru, neel, prabhu`), the **most frequent** non-blank `author` value across all slok files is the canonical `author` (fixes blocks with a missing/inconsistent author field). `display_order` = index in the fixed key list above.
 
 ### `<commentator_key>.commentary.<lang>` → `commentary` (PK `verse_id, commentator_key, lang_code`)
 
-One row per (commentator key × lang) pair present in that block's `commentary` object, skipped if blank.
+One row per (commentator × language) pair present, skipped if blank. Current: 15,422 × 4 + 9,112 `sa`.
 
 | JSON field | Column |
 |---|---|
 | `<key>.commentary.<lang>` | `text` |
 
-## Fields NOT stored in the DB
-
-- `speaker` transliteration duplication vs `slok` — both stored, no dedup.
-- `sa` (Sanskrit) commentary text, when present, is stored like any other `lang_code` row in `commentary` — not treated specially beyond `language.is_script_only`.
-- Source pre-restructure field names (`ht/hc/et/ec/sc`) are historical only — current JSON files already use the normalized `hi/en/be/ka/sa` keys; the DB builder never sees the old names.
-
 ## Integrity checks run by `build_db.py`'s `verify()`
 
 - exactly 18 `chapter` rows, `n_sloks` `verse` rows, 22 `commentator` rows
-- verse numbers contiguous `1..count` within every chapter
+- verse numbers contiguous `1..count` within every chapter (colophons excluded by default)
 - zero foreign-key violations (`PRAGMA foreign_key_check`)
-- at least 1 `commentary` row, spanning all 5 `lang_code` values
+- `commentary` spans all 5 `lang_code` values
+- **every translated table carries all of `hi/en/be/ka`** — `chapter_translation`, `verse_text`, `verse_translation`, `theme_translation`, `word_meaning_translation`. This is what catches a regression back to English-only.
+
+`verify()` also prints a per-table `lang_code` row-count breakdown on every build.
 
 ---
 
 # DB → static API JSON mapping
 
-The app is moving off `gita.db` entirely — every screen reads a **precomputed static JSON file** under `api/`, generated from `db/gita.db` by the scripts below. Nothing is computed on-device or on the fly. `api/meta/update.json` (built by `scripts/build_update_meta.py`) records a last-modified epoch per file under `api/`, so a client can cheaply detect which of these changed.
+Every screen reads a **precomputed static JSON file** under `api/`, generated from `db/gita.db`. Nothing is computed on-device. `api/meta/update.json` records a last-modified epoch per file under `api/`, so a client can cheaply detect which changed.
 
-Devanagari note: `verse_text` has no `lang_code='sa'` rows in the DB (source JSON never populates a `sa` key for `speaker`/`slok`) — every API below sources Devanagari from **`lang_code='hi'`** instead, matching what the app's own pre-migration DAOs already did.
+**Every text field below is a `{hi, en, be, ka}` object**, ordered `hi, en, be, ka`, sourced from the per-language rows above. The three `build_*_api.py` scripts reproduce the committed output byte-identically, so regenerating is non-destructive.
 
-Default commentary note: "the" commentary for a verse (where a single value is needed, not the full per-commentator list) is always the row with the **lowest `commentator.display_order`** that has non-null `lang_code='en'` text — i.e. `tej` first, falling through the fixed `commentator` order.
+Default commentary note: where a single commentary is needed (home/wisdom), the pick is constrained to commentators whose block has **all four languages present**, in `commentator.display_order`.
 
 ## `api/reading/all.json` — reading screen
 
-Script: `scripts/build_reading_api.py`. One array, one object per verse (701 total) plus a colophon block after each chapter (18 total, sourced from `api/slok-colophon/*.json`), all in one file.
+Script: `scripts/build_reading_api.py`. One array: 701 verse objects, plus a colophon block after each chapter's last verse (18 total, read straight from `api/slok-colophon/*.json` since colophons are excluded from the DB) = 719 entries.
 
-| Field (nested) | Source | Notes |
-|---|---|---|
-| `chapter.translation` | `chapter.translation` | joined on `verse.chapter_number` |
-| `verse.verse_id` | `verse.verse_id` | |
-| `verse.chapter_number` | `verse.chapter_number` | |
-| `verse.verse_number` | `verse.verse_number` | |
-| `verse.transliteration` | `verse.transliteration` | |
-| `verse.img_landscape` | `verse.img_landscape` | |
-| `verse.img_square` | `verse.img_square` | |
-| `verse_text.speaker` | `verse_text.speaker` | `lang_code='hi'` |
-| `verse_text.slok` | `verse_text.slok` | `lang_code='hi'` |
-| `verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'` |
+| Field (nested) | Source |
+|---|---|
+| `chapter.translation` | `chapter_translation.translation` |
+| `verse.verse_id` / `chapter_number` / `verse_number` | `verse.*` |
+| `verse.transliteration` | `verse_text.transliteration` |
+| `verse.img_landscape` / `img_square` | `verse.*` |
+| `verse_text.speaker` / `slok` | `verse_text.*` |
+| `verse_translation.life_application` | `verse_translation.life_application` |
 
-## `api/chapter-slok/<chapter_number>/list.json` — chapter/reading-by-chapter screen
+Colophon entries carry `chapter.translation` plus `colophon.{verse_id, transliteration, speaker, slok}`.
 
-Script: `scripts/build_chapter_api.py`. One file per chapter (18 total), each `{ chapter: {translation}, sloks: [...] }` with one entry per verse in that chapter.
+## `api/chapter-slok/<chapter_number>/list.json` — chapter screen
 
-| Field (nested) | Source | Notes |
-|---|---|---|
-| `chapter.translation` | `chapter.translation` | one per file |
-| `sloks[i].verse.verse_id` | `verse.verse_id` | |
-| `sloks[i].verse.img_landscape` | `verse.img_landscape` | |
-| `sloks[i].verse.img_square` | `verse.img_square` | |
-| `sloks[i].verse.transliteration` | `verse.transliteration` | |
-| `sloks[i].verse_text.speaker` | `verse_text.speaker` | `lang_code='hi'` |
-| `sloks[i].verse_text.slok` | `verse_text.slok` | `lang_code='hi'` |
-| `sloks[i].verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'` |
+Script: `scripts/build_chapter_api.py`. One file per chapter (18), each `{ chapter: {translation}, sloks: [...] }`. Same field sources as reading, minus `chapter_number`/`verse_number`.
 
 ## `api/wisdom/daily.json` — wisdom screen
 
-Script: `scripts/randomizers/wisdom_daily.py` (re-run daily by the GitHub Action). 10 randomly sampled verses, resampled every run — **not stable across days**, treat as ephemeral.
+Script: `scripts/randomizers/wisdom_daily.py` (re-run daily). 10 randomly sampled verses, resampled every run — **not stable across days**.
 
-| Field (nested) | Source | Notes |
-|---|---|---|
-| `verse.verse_id` | `verse.verse_id` | |
-| `verse.chapter_number` | `verse.chapter_number` | |
-| `verse.verse_number` | `verse.verse_number` | |
-| `verse.img_portrait` | `verse.img_portrait` | |
-| `verse_text.slok` | `verse_text.slok` | object keyed by **every** available `lang_code` (`hi/en/be/ka`), not one language |
-| `verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'` |
-| `commentary.text` | `commentary.text` | default commentary (see note above), `lang_code='en'` |
+Selection rules: commentary English text must be **100–260 characters** (~3–4 lines on a card); the verse must **never** be `VERSE_OF_DAY_ID`; `slok`, `life_application` and `commentary` must all have all four languages, else the verse is skipped.
+
+| Field (nested) | Source |
+|---|---|
+| `verse.verse_id` / `chapter_number` / `verse_number` / `img_portrait` | `verse.*` |
+| `verse_text.slok` | `verse_text.slok` |
+| `verse_translation.life_application` | `verse_translation.life_application` |
+| `commentary.text` | `commentary.text` (first fully-translated commentator in `display_order` meeting the length window) |
+| `commentator.author` | `commentator.author` |
 
 ## `api/home/verseofday.json` — home screen, verse of the day
 
-Script: `scripts/randomizers/verse_of_day.py` (re-run daily by the GitHub Action). The **verse itself is a fixed constant**, `VERSE_OF_DAY_ID = "BG2.47"` — mirrors the app's own hardcoded `HomeViewModel.kt` constant, not date-derived. Only the commentator shown rotates: `epoch_day % len(commentary_rows_for_verse)`, ordered by `commentator.display_order`.
+Script: `scripts/randomizers/verse_of_day.py` (re-run daily). The **verse is a fixed constant**, `VERSE_OF_DAY_ID = "BG2.47"` (mirrors `HomeViewModel.kt`), not date-derived. Only the commentator rotates: `epoch_day % len(fully_translated_commentaries)`, ordered by `commentator.display_order`.
 
-| Field (nested) | Source | Notes |
-|---|---|---|
-| `verse.verse_id` / `chapter_number` / `verse_number` / `transliteration` | `verse.*` | |
-| `verse.img_landscape` / `img_portrait` / `img_square` | `verse.*` | |
-| `verse_text.speaker` / `slok` | `verse_text.*` | `lang_code='hi'` |
-| `verse_translation.life_application` | `verse_translation.life_application` | `lang_code='en'`; also the fallback for `commentary.text` if the verse has zero commentary rows |
-| `commentary.text` | `commentary.text` | rotates daily by epoch day, see above; `lang_code='en'` |
-| `commentator.author` | `commentator.author` | author of whichever commentary rotated in |
+| Field (nested) | Source |
+|---|---|
+| `verse.verse_id` / `chapter_number` / `verse_number` / `img_*` | `verse.*` |
+| `verse.transliteration` | `verse_text.transliteration` |
+| `verse_text.speaker` / `slok` | `verse_text.*` |
+| `verse_translation.life_application` | `verse_translation.life_application` |
+| `commentary.text` | `commentary.text`, rotated daily |
+| `commentator.author` | `commentator.author` |
 
 ## `api/topics/list.json` — topics screen
 
-Script: `scripts/build_topics_api.py`. One array, one object per theme (15 total). Themes carry no image of their own — each is pinned to a chapter's `img_square` via a hardcoded name→chapter map copied from the app's `HomeScreen.kt` (`topicChapterMap`), falling back to chapter 1 for any theme not in the map (currently none — all 15 are mapped).
+Script: `scripts/build_topics_api.py`. One array, one object per theme (15). Themes have no image of their own — each is pinned to a chapter's `img_square` via a hardcoded English-name→chapter map copied from the app's `HomeScreen.kt` (`topicChapterMap`), fallback chapter 1.
 
-| Field | Source | Notes |
-|---|---|---|
-| `name` | `theme_translation.name` | `lang_code='en'` |
-| `image_square` | `chapter.img_square` | keyed by `topicChapterMap[name]`, not the theme's own row (themes have no image) |
-| `verse_count` | `COUNT(*) FROM verse_theme WHERE theme_id=?` | |
-| `sloks` | `verse_theme.verse_id` | array, `WHERE theme_id=? ORDER BY position` |
+| Field | Source |
+|---|---|
+| `name` | `theme_translation.name` (all 4 languages) |
+| `image_square` | `chapter.img_square`, keyed by `topicChapterMap[name.en]` |
+| `verse_count` | `COUNT(*) FROM verse_theme WHERE theme_id=?` |
+| `sloks` | `verse_theme.verse_id`, `WHERE theme_id=? ORDER BY position` |
 
 ## `api/meta/update.json` — per-file update epochs
 
-Script: `scripts/build_update_meta.py`, run last in the daily workflow (after every randomizer). Not sourced from the DB — it's a filesystem scan of `api/`, `{relative_path: mtime_epoch_seconds}` for every file under `api/` except itself.
+Script: `scripts/build_update_meta.py`, run last in both workflows. Not sourced from the DB — a filesystem scan of `api/`: `{relative_path: mtime_epoch_seconds}` for every file under `api/` except itself.
 
-## `api/chapter/*.json` and `api/slok/*.json` — raw source mirror, not generated
+## `api/chapter/*.json`, `api/slok/*.json`, `api/slok-colophon/*.json` — source, not generated
 
-Not built by any script, not sourced from the DB — a byte-for-byte copy of the repo's own `chapter/*.json` (18 files) and `slok/*.json` (719 files), committed directly under `api/`. No field mapping: same schema as documented at the top of this file for the two source directories. Included here only because `api/meta/update.json` tracks their mtimes like every other file under `api/`.
+Not built by any script. These **are** the source of truth the DB is built from (see the first half of this document), committed under `api/` so clients can fetch raw per-verse data directly. `api/meta/update.json` tracks their mtimes like every other file under `api/`.

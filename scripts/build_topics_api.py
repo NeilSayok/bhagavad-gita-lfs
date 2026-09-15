@@ -21,10 +21,12 @@ TOPIC_CHAPTER_MAP = {
 }
 FALLBACK_CHAPTER = 1
 
+LANGS = ("hi", "en", "be", "ka")
+
 THEME_QUERY = """
-SELECT t.theme_id, tt.name
+SELECT t.theme_id, tt.lang_code, tt.name
 FROM theme t
-JOIN theme_translation tt ON tt.theme_id = t.theme_id AND tt.lang_code = 'en'
+JOIN theme_translation tt ON tt.theme_id = t.theme_id
 ORDER BY t.theme_id
 """
 VERSE_COUNT_QUERY = "SELECT count(*) FROM verse_theme WHERE theme_id = ?"
@@ -35,15 +37,18 @@ CHAPTER_IMG_QUERY = "SELECT img_square FROM chapter WHERE chapter_number = ?"
 def main():
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
-    themes = db.execute(THEME_QUERY).fetchall()
+
+    names = {}
+    for r in db.execute(THEME_QUERY).fetchall():
+        names.setdefault(r["theme_id"], {})[r["lang_code"]] = r["name"]
 
     out = []
-    for t in themes:
-        name = t["name"]
-        chapter_number = TOPIC_CHAPTER_MAP.get(name, FALLBACK_CHAPTER)
+    for theme_id, translations in names.items():
+        name = {lang: translations[lang] for lang in LANGS if lang in translations}
+        chapter_number = TOPIC_CHAPTER_MAP.get(name["en"], FALLBACK_CHAPTER)
         img_square = db.execute(CHAPTER_IMG_QUERY, (chapter_number,)).fetchone()[0]
-        verse_count = db.execute(VERSE_COUNT_QUERY, (t["theme_id"],)).fetchone()[0]
-        sloks = [r["verse_id"] for r in db.execute(VERSE_IDS_QUERY, (t["theme_id"],)).fetchall()]
+        verse_count = db.execute(VERSE_COUNT_QUERY, (theme_id,)).fetchone()[0]
+        sloks = [r["verse_id"] for r in db.execute(VERSE_IDS_QUERY, (theme_id,)).fetchall()]
         out.append({
             "name": name,
             "image_square": img_square,
@@ -59,6 +64,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
+        f.write("\n")
     with open(OUT_PATH, encoding="utf-8") as f:
         json.load(f)  # round-trip validity check
 

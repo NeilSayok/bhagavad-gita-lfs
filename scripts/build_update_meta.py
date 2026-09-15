@@ -23,6 +23,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(files, f, ensure_ascii=False, indent=2, sort_keys=True)
+        f.write("\n")
     with open(OUT_PATH, encoding="utf-8") as f:
         json.load(f)  # round-trip validity check
 

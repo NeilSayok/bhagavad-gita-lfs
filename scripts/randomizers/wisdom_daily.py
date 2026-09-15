@@ -6,10 +6,6 @@ Rules (per user):
   - never the same verse as api/home/verseofday.json (VERSE_OF_DAY_ID).
   - every text field (slok, life_application, commentary) must have all 4
     translations present (hi/en/be/ka) for whatever verse+commentator gets picked.
-
-life_application has no per-language rows in db/gita.db (source JSON only ever
-populated "en") -- api/reading/all.json is hand-translated with all 4 languages
-and is the source of truth for that field now, read directly instead of the DB.
 """
 import json
 import os
@@ -18,7 +14,6 @@ import sqlite3
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DB_PATH = os.path.join(ROOT, "db", "gita.db")
-READING_PATH = os.path.join(ROOT, "api", "reading", "all.json")
 OUT_PATH = os.path.join(ROOT, "api", "wisdom", "daily.json")
 COUNT = 10
 LANGS = ("hi", "en", "be", "ka")
@@ -46,13 +41,17 @@ ORDER BY cm.display_order
 """
 
 
-def load_life_applications():
-    with open(READING_PATH, encoding="utf-8") as f:
-        entries = json.load(f)
-    return {
-        o["verse"]["verse_id"]: o["verse_translation"]["life_application"]
-        for o in entries if "verse" in o
-    }
+LIFE_APPLICATION_QUERY = """
+SELECT verse_id, lang_code, life_application FROM verse_translation
+WHERE life_application IS NOT NULL
+"""
+
+
+def load_life_applications(db):
+    out = {}
+    for r in db.execute(LIFE_APPLICATION_QUERY).fetchall():
+        out.setdefault(r["verse_id"], {})[r["lang_code"]] = r["life_application"]
+    return out
 
 
 def pick_commentary(db, verse_id):
@@ -77,7 +76,7 @@ def pick_commentary(db, verse_id):
 def main():
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
-    life_applications = load_life_applications()
+    life_applications = load_life_applications(db)
 
     candidates = [r[0] for r in db.execute(VERSE_IDS_QUERY, (VERSE_OF_DAY_ID,)).fetchall()]
     random.shuffle(candidates)
@@ -88,7 +87,7 @@ def main():
             break
 
         life_application = life_applications.get(verse_id)
-        if not life_application or set(life_application) != set(LANGS):
+        if not life_application or not all(lang in life_application for lang in LANGS):
             continue
 
         slok = {r["lang_code"]: r["slok"] for r in db.execute(SLOK_QUERY, (verse_id,)).fetchall()}
@@ -112,7 +111,7 @@ def main():
                 "slok": {lang: slok[lang] for lang in LANGS},
             },
             "verse_translation": {
-                "life_application": life_application,
+                "life_application": {lang: life_application[lang] for lang in LANGS},
             },
             "commentary": {
                 "text": commentary_text,
@@ -129,6 +128,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
+        f.write("\n")
     with open(OUT_PATH, encoding="utf-8") as f:
         json.load(f)  # round-trip validity check
 

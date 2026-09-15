@@ -1,9 +1,19 @@
 #!/usr/bin/env python3
-"""Build db/gita.db from the chapter/ and slok/ JSON files, per db/schema.sql.
+"""Build db/gita.db from api/chapter/, api/slok/ and api/slok-colophon/, per db/schema.sql.
 
-Usage: python3 db/build_db.py [--out db/gita.db]
+Usage: python3 db/build_db.py [--out db/gita.db] [--with-colophon]
+
+Schema v2: the source JSON is fully multilingual -- chapter name/translation/
+transliteration, verse speaker/slok/transliteration/life_application and
+word-meaning transliteration/meaning are all {hi,en,be,ka} objects. Each lands
+as one row per language in the matching *_translation / *_text table.
+
 Empty / whitespace-only translation strings are skipped: a missing row means
 "not translated yet", so a later language drops in as pure INSERTs.
+
+Colophon verses (the closing "OM tatsat..." line, one per chapter) live in
+api/slok-colophon/ and are excluded by default -- pass --with-colophon to
+include them as regular verses.
 """
 import argparse
 import glob
@@ -30,6 +40,10 @@ COMMENTATOR_ORDER = [
     "srid", "dhan", "venkat", "puru", "neel", "prabhu",
 ]
 
+# Theme names are English-only in the slok files; their translations are
+# curated separately (db/theme_translations.json, keyed by slug).
+THEME_TRANSLATIONS_PATH = os.path.join(ROOT, "db", "theme_translations.json")
+
 
 def slugify(name):
     return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
@@ -39,11 +53,29 @@ def txt(v):
     return v.strip() if isinstance(v, str) and v.strip() else None
 
 
+def langs(field):
+    """Non-blank {lang: text} from a multilingual source field.
+
+    Tolerates a plain string (legacy, pre-multilingual files) by treating it
+    as English-only, so a partially migrated tree still builds.
+    """
+    if isinstance(field, str):
+        return {"en": field.strip()} if field.strip() else {}
+    if isinstance(field, dict):
+        return {lang: txt(v) for lang, v in field.items() if txt(v)}
+    return {}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=os.path.join(ROOT, "db", "gita.db"))
+    ap.add_argument("--with-colophon", action="store_true",
+                    help="include api/slok-colophon/*.json as regular verses")
     args = ap.parse_args()
 
+    out_dir = os.path.dirname(os.path.abspath(args.out))
+    if out_dir:
+        os.makedirs(out_dir, exist_ok=True)
     if os.path.exists(args.out):
         os.remove(args.out)
     db = sqlite3.connect(args.out)
@@ -58,19 +90,25 @@ def main():
         n = c["chapter_number"]
         img = "chapters/{size}/chapter_%d/%s/img.png" % (n, "%s")
         db.execute(
-            "INSERT INTO chapter VALUES (?,?,?,?,?,?,?,?)",
-            (n, c["verses_count"], c["name"], c["translation"], c["transliteration"],
-             img % "landscape", img % "portrait", img % "square"),
+            "INSERT INTO chapter VALUES (?,?,?,?,?)",
+            (n, c["verses_count"], img % "landscape", img % "portrait", img % "square"),
         )
-        for lang in set(c["meaning"]) | set(c["summary"]):
-            meaning, summary = txt(c["meaning"].get(lang)), txt(c["summary"].get(lang))
-            if meaning or summary:
-                db.execute("INSERT INTO chapter_translation VALUES (?,?,?,?)",
-                           (n, lang, meaning, summary))
+        fields = {f: langs(c.get(f)) for f in
+                  ("name", "translation", "transliteration", "meaning", "summary")}
+        for lang in set().union(*fields.values()):
+            db.execute(
+                "INSERT INTO chapter_translation VALUES (?,?,?,?,?,?,?)",
+                (n, lang, fields["name"].get(lang), fields["translation"].get(lang),
+                 fields["transliteration"].get(lang), fields["meaning"].get(lang),
+                 fields["summary"].get(lang)),
+            )
 
     # ---- commentators (author normalized: most common spelling wins) ----
-    authors = {}
     slok_files = sorted(glob.glob(os.path.join(ROOT, "api", "slok", "*.json")))
+    if args.with_colophon:
+        slok_files += sorted(glob.glob(os.path.join(ROOT, "api", "slok-colophon", "*.json")))
+
+    authors = {}
     for path in slok_files:
         d = json.load(open(path))
         for key in COMMENTATOR_ORDER:
@@ -83,14 +121,18 @@ def main():
         db.execute("INSERT INTO commentator VALUES (?,?,?)", (key, best, i))
 
     # ---- themes ---------------------------------------------------------
+    theme_names = json.load(open(THEME_TRANSLATIONS_PATH, encoding="utf-8"))
     theme_ids = {}
     for path in slok_files:
         for name in json.load(open(path))["themes"]:
             if name not in theme_ids:
                 theme_ids[name] = len(theme_ids) + 1
     for name, tid in theme_ids.items():
-        db.execute("INSERT INTO theme VALUES (?,?)", (tid, slugify(name)))
-        db.execute("INSERT INTO theme_translation VALUES (?,?,?)", (tid, "en", name))
+        slug = slugify(name)
+        db.execute("INSERT INTO theme VALUES (?,?)", (tid, slug))
+        translations = theme_names.get(slug) or {"en": name}
+        for lang, value in langs(translations).items():
+            db.execute("INSERT INTO theme_translation VALUES (?,?,?)", (tid, lang, value))
 
     # ---- verses ---------------------------------------------------------
     for path in slok_files:
@@ -98,36 +140,35 @@ def main():
         vid, ch, vn = d["_id"], d["chapter"], d["verse"]
         img = "sloks/{size}/chapter_%d/slok_%d/%s/img.png" % (ch, vn, "%s")
         db.execute(
-            "INSERT INTO verse VALUES (?,?,?,?,?,?,?)",
-            (vid, ch, vn, d["transliteration"],
-             img % "landscape", img % "portrait", img % "square"),
+            "INSERT INTO verse VALUES (?,?,?,?,?,?)",
+            (vid, ch, vn, img % "landscape", img % "portrait", img % "square"),
         )
-        for lang in set(d["speaker"]) | set(d["slok"]):
-            speaker, slok = txt(d["speaker"].get(lang)), txt(d["slok"].get(lang))
-            if speaker or slok:
-                db.execute("INSERT INTO verse_text VALUES (?,?,?,?)", (vid, lang, speaker, slok))
 
-        if txt(d.get("life_application")):
-            db.execute("INSERT INTO verse_translation VALUES (?,?,?)",
-                       (vid, "en", d["life_application"].strip()))
+        speaker, slok = langs(d.get("speaker")), langs(d.get("slok"))
+        translit = langs(d.get("transliteration"))
+        for lang in set(speaker) | set(slok) | set(translit):
+            db.execute("INSERT INTO verse_text VALUES (?,?,?,?,?)",
+                       (vid, lang, speaker.get(lang), slok.get(lang), translit.get(lang)))
+
+        for lang, value in langs(d.get("life_application")).items():
+            db.execute("INSERT INTO verse_translation VALUES (?,?,?)", (vid, lang, value))
 
         for pos, name in enumerate(d["themes"]):
             db.execute("INSERT INTO verse_theme VALUES (?,?,?)", (vid, theme_ids[name], pos))
 
         for pos, w in enumerate(d["word_meanings"]):
-            db.execute("INSERT INTO word_meaning VALUES (?,?,?,?)",
-                       (vid, pos, w["sanskrit"], w["transliteration"]))
-            if txt(w["meaning"]):
-                db.execute("INSERT INTO word_meaning_translation VALUES (?,?,?,?)",
-                           (vid, pos, "en", w["meaning"].strip()))
+            db.execute("INSERT INTO word_meaning VALUES (?,?,?)", (vid, pos, w["sanskrit"]))
+            wt, wm = langs(w.get("transliteration")), langs(w.get("meaning"))
+            for lang in set(wt) | set(wm):
+                db.execute("INSERT INTO word_meaning_translation VALUES (?,?,?,?,?)",
+                           (vid, pos, lang, wt.get(lang), wm.get(lang)))
 
         for key in COMMENTATOR_ORDER:
-            for lang, text in (d.get(key) or {}).get("commentary", {}).items():
-                if txt(text):
-                    db.execute("INSERT INTO commentary VALUES (?,?,?,?)",
-                               (vid, key, lang, text.strip()))
+            block = (d.get(key) or {}).get("commentary", {})
+            for lang, text in langs(block).items():
+                db.execute("INSERT INTO commentary VALUES (?,?,?,?)", (vid, key, lang, text))
 
-    db.execute("PRAGMA user_version = 1")  # bump to match Room's schema version
+    db.execute("PRAGMA user_version = 2")  # bump to match Room's schema version
     db.commit()
     verify(db, len(slok_files))
     db.close()
@@ -140,8 +181,7 @@ def verify(db, n_sloks):
     assert q("SELECT count(*) FROM verse") == n_sloks
     assert q("SELECT count(*) FROM commentator") == 22
     # verse numbers are contiguous 1..N in every chapter (no gaps, no dupes).
-    # N is verses_count + 1 for all 18 chapters — the JSON's verses_count uses a
-    # different counting convention, so it is stored as-is and not asserted on.
+    # Colophon verses (verses_count + 1) are excluded unless --with-colophon.
     bad = db.execute(
         "SELECT chapter_number, count(*), min(verse_number), max(verse_number) FROM verse "
         "GROUP BY chapter_number HAVING min(verse_number) != 1 OR max(verse_number) != count(*)"
@@ -151,9 +191,22 @@ def verify(db, n_sloks):
     assert not db.execute("PRAGMA foreign_key_check").fetchall()
     assert q("SELECT count(*) FROM commentary") > 0
     assert q("SELECT count(DISTINCT lang_code) FROM commentary") == 5
+
+    # every translated table carries all 4 target languages, not just English
+    for table in ("chapter_translation", "verse_text", "verse_translation",
+                  "theme_translation", "word_meaning_translation"):
+        got = {r[0] for r in db.execute("SELECT DISTINCT lang_code FROM %s" % table)}
+        assert {"hi", "en", "be", "ka"} <= got, "%s missing languages: %s" % (table, got)
+
     print("ok: %d verses, %d commentary rows, %d word meanings, %d themes" % (
         q("SELECT count(*) FROM verse"), q("SELECT count(*) FROM commentary"),
         q("SELECT count(*) FROM word_meaning"), q("SELECT count(*) FROM theme")))
+    for table in ("chapter_translation", "verse_text", "verse_translation",
+                  "theme_translation", "word_meaning_translation", "commentary"):
+        rows = db.execute(
+            "SELECT lang_code, count(*) FROM %s GROUP BY lang_code ORDER BY lang_code" % table
+        ).fetchall()
+        print("    %-26s %s" % (table, ", ".join("%s=%d" % r for r in rows)))
 
 
 if __name__ == "__main__":

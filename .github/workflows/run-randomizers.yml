@@ -22,11 +22,11 @@ jobs:
       - name: Build gita.db from source JSON
         run: python3 db/build_db.py
 
-      - name: Build static apis
-        run: |
-          python3 scripts/build_reading_api.py
-          python3 scripts/build_chapter_api.py
-          python3 scripts/build_topics_api.py
+      # api/reading, api/chapter-slok and api/topics are hand-translated
+      # (multilingual name/translation/transliteration/life_application
+      # fields) and are no longer regenerated here -- scripts/build_reading_api.py,
+      # build_chapter_api.py and build_topics_api.py still only produce the
+      # old flat-string shape and would overwrite those translations.
 
       - name: Run every randomizer script
         run: |

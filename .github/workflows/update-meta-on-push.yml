@@ -1,23 +1,24 @@
-name: Regenerate static apis on push
+name: Update meta on push
+
+# api/reading, api/chapter-slok and api/topics are now hand-translated
+# (multilingual fields) rather than generated from db/gita.db --
+# scripts/build_reading_api.py, build_chapter_api.py and build_topics_api.py
+# still only produce the old flat-string shape and would overwrite those
+# translations, so this workflow no longer regenerates them. It only keeps
+# api/meta/update.json's per-file epochs in sync with whatever is committed.
 
 on:
   push:
     branches: [main]
     paths:
-      - "api/chapter/**"
-      - "api/slok/**"
-      - "api/slok-colophon/**"
-      - "db/schema.sql"
-      - "db/build_db.py"
-      - "scripts/build_reading_api.py"
-      - "scripts/build_chapter_api.py"
-      - "scripts/build_topics_api.py"
+      - "api/**"
+      - "!api/meta/update.json"
 
 permissions:
   contents: write
 
 jobs:
-  regenerate:
+  update-meta:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -26,26 +27,17 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Build gita.db from source JSON
-        run: python3 db/build_db.py
-
-      - name: Build static apis
-        run: |
-          python3 scripts/build_reading_api.py
-          python3 scripts/build_chapter_api.py
-          python3 scripts/build_topics_api.py
-
       - name: Build update-epoch metadata
         run: python3 scripts/build_update_meta.py
 
-      - name: Commit regenerated static apis
+      - name: Commit updated meta
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add api/reading api/chapter-slok api/topics api/meta
+          git add api/meta/update.json
           if git diff --cached --quiet; then
             echo "no changes"
           else
-            git commit -m "chore: regenerate static apis from source"
+            git commit -m "chore: refresh api/meta/update.json"
             git push
           fi

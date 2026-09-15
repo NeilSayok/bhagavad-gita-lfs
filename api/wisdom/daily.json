@@ -1,134 +1,142 @@
 [
   {
     "verse": {
-      "verse_id": "BG3.27",
-      "chapter_number": 3,
+      "verse_id": "BG2.44",
+      "chapter_number": 2,
+      "verse_number": 44,
+      "img_portrait": "sloks/{size}/chapter_2/slok_44/portrait/img.png"
+    },
+    "verse_text": {
+      "slok": {
+        "hi": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् |\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते ||२-४४||",
+        "en": "bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām .\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate ||2-44||",
+        "be": "ভোগৈশ্বর্যপ্রসক্তানাং তযাপহৃতচেতসাম্ |\nব্যবসাযাত্মিকা বুদ্ধিঃ সমাধৌ ন বিধীযতে ||২-৪৪||",
+        "ka": "ಭೋಗೈಶ್ವರ್ಯಪ್ರಸಕ್ತಾನಾಂ ತಯಾಪಹೃತಚೇತಸಾಮ್ |\nವ್ಯವಸಾಯಾತ್ಮಿಕಾ ಬುದ್ಧಿಃ ಸಮಾಧೌ ನ ವಿಧೀಯತೇ ||೨-೪೪||"
+      }
+    },
+    "verse_translation": {
+      "life_application": {
+        "hi": "अपने दिमाग को ऐसे भ्रामक वादों से बचाएं जो आपको गहरे आत्म-अनुशासन और शांत फोकस से दूर ले जाते हैं।",
+        "en": "Guard your mind against deceptive promises that lure you away from deep self-discipline and quiet focus.",
+        "be": "আপনার মনকে প্রতারণামূলক প্রতিশ্রুতি থেকে রক্ষা করুন যা আপনাকে গভীর আত্ম-শৃঙ্খলা এবং শান্ত ফোকাস থেকে দূরে সরিয়ে দেয়।",
+        "ka": "ಆಳವಾದ ಸ್ವಯಂ-ಶಿಸ್ತು ಮತ್ತು ಶಾಂತ ಗಮನದಿಂದ ನಿಮ್ಮನ್ನು ದೂರವಿಡುವ ಮೋಸಗೊಳಿಸುವ ಭರವಸೆಗಳ ವಿರುದ್ಧ ನಿಮ್ಮ ಮನಸ್ಸನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ."
+      }
+    },
+    "commentary": {
+      "text": {
+        "hi": "।।2.44।।उससे जिनका चित्त हर लिया गया है ऐसे भोग और एश्र्वर्य‌ मॆ आसक्ति रखने वाले पुरुषों के अन्तकरण मे निश्चयात्मक् बुद्धि नही हॊती अर्थात वे ध्यान का अभ्यास करने योग्य‌ नही होते।",
+        "en": "2.44 The intellect of those whose minds have been carried away by that (flowery speech), and who are attached to enjoyment and lordship, does not attain resolute conviction; that is, they are not fit to practice meditation.",
+        "be": "যাদের চিত্ত সেই বাণী দ্বারা হরণ করা হয়েছে, এমন ভোগ ও ঐশ্বর্যে আসক্ত পুরুষদের অন্তঃকরণে নিশ্চয়াত্মিকা বুদ্ধি হয় না, অর্থাৎ তারা ধ্যান অভ্যাস করার যোগ্য হয় না।",
+        "ka": "ಆ (ಪುಷ್ಪಿತ ವಾಣಿಯಿಂದ) ಚಿತ್ತ ಅಪಹೃತವಾಗಿರುವ, ಭೋಗ ಮತ್ತು ಐಶ್ವರ್ಯದಲ್ಲಿ ಆಸಕ್ತಿಯುಳ್ಳ ಪುರುಷರ ಅಂತಃಕರಣದಲ್ಲಿ ನಿಶ್ಚಯಾತ್ಮಕ ಬುದ್ಧಿ ಇರುವುದಿಲ್ಲ, ಅಂದರೆ ಅವರು ಧ್ಯಾನಾಭ್ಯಾಸಕ್ಕೆ ಯೋಗ್ಯರಾಗಿರುವುದಿಲ್ಲ."
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
+    }
+  },
+  {
+    "verse": {
+      "verse_id": "BG17.12",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "img_portrait": "sloks/{size}/chapter_17/slok_12/portrait/img.png"
+    },
+    "verse_text": {
+      "slok": {
+        "hi": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||",
+        "en": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
+        "be": "অভিসন্ধায তু ফলং দম্ভার্থমপি চৈব যত্ |\nইজ্যতে ভরতশ্রেষ্ঠ তং যজ্ঞং বিদ্ধি রাজসম্ ||১৭-১২||",
+        "ka": "ಅಭಿಸನ್ಧಾಯ ತು ಫಲಂ ದಮ್ಭಾರ್ಥಮಪಿ ಚೈವ ಯತ್ |\nಇಜ್ಯತೇ ಭರತಶ್ರೇಷ್ಠ ತಂ ಯಜ್ಞಂ ವಿದ್ಧಿ ರಾಜಸಮ್ ||೧೭-೧೨||"
+      }
+    },
+    "verse_translation": {
+      "life_application": {
+        "hi": "जो यज्ञ फल की इच्छा से या दिखावे के लिए किया जाता है, उसे राजसिक यज्ञ समझो।",
+        "en": "Sacrifice offered seeking fruit or out of ostentation—know that to be Rajasic sacrifice.",
+        "be": "যজ্ঞ ফল চাওয়ার জন্য বা দৃষ্টান্তের জন্য দেওয়া হয়-জানুন রাজসিক বলি।",
+        "ka": "ಫಲವನ್ನು ಬಯಸಿ ಅಥವಾ ಆಡಂಬರದಿಂದ ಅರ್ಪಿಸಿದ ತ್ಯಾಗ-ಅದು ರಾಜಸಿಕ ತ್ಯಾಗ ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    },
+    "commentary": {
+      "text": {
+        "hi": "।।17.12।। हे भरतश्रेष्ठ अर्जुन ! जो यज्ञ दम्भ के लिए तथा फल की आकांक्षा रख कर किया जाता है, उस यज्ञ को तुम राजस समझो।।",
+        "en": "17.12 But the sacrifice which is offered, O best of the Bharatas, seeking fruit (reward) and also for the sake of ostentation, know that sacrifice to be Rajasic.",
+        "be": "।।১৭.১২।। কিন্তু হে ভরতশ্রেষ্ঠ! যে যজ্ঞ ফলের আকাঙ্ক্ষা রেখে এবং লোক দেখানোর উদ্দেশ্যে (দম্ভের জন্য) সম্পন্ন করা হয়, তাকে রাজসিক যজ্ঞ বলে জানবে।",
+        "ka": "।।೧೭.೧೨।। ಆದರೆ ಹೇ ಭರತಶ್ರೇಷ್ಠನೇ! ಫಲದ ಆಕಾಂಕ್ಷೆಯನ್ನಿಟ್ಟುಕೊಂಡು ಮತ್ತು ಡಂಭಾಚಾರಕ್ಕಾಗಿ (ಲೋಕಕ್ಕೆ ತೋರಿಸಲು) ಮಾಡಲ್ಪಡುವ ಯಜ್ಞವನ್ನು ರಾಜಸ ಯಜ್ಞವೆಂದು ತಿಳಿ."
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
+    }
+  },
+  {
+    "verse": {
+      "verse_id": "BG9.27",
+      "chapter_number": 9,
       "verse_number": 27,
-      "img_portrait": "sloks/{size}/chapter_3/slok_27/portrait/img.png"
+      "img_portrait": "sloks/{size}/chapter_9/slok_27/portrait/img.png"
     },
     "verse_text": {
       "slok": {
-        "be": "প্রকৃতেঃ ক্রিযমাণানি গুণৈঃ কর্মাণি সর্বশঃ |\nঅহঙ্কারবিমূঢাত্মা কর্তাহমিতি মন্যতে ||৩-২৭||",
-        "en": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ .\nahaṅkāravimūḍhātmā kartāhamiti manyate ||3-27||",
-        "hi": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः |\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||३-२७||",
-        "ka": "ಪ್ರಕೃತೇಃ ಕ್ರಿಯಮಾಣಾನಿ ಗುಣೈಃ ಕರ್ಮಾಣಿ ಸರ್ವಶಃ |\nಅಹಙ್ಕಾರವಿಮೂಢಾತ್ಮಾ ಕರ್ತಾಹಮಿತಿ ಮನ್ಯತೇ ||೩-೨೭||"
+        "hi": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् |\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ||९-२७||",
+        "en": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat .\nyattapasyasi kaunteya tatkuruṣva madarpaṇam ||9-27||",
+        "be": "যত্করোষি যদশ্নাসি যজ্জুহোষি দদাসি যত্ |\nযত্তপস্যসি কৌন্তেয তত্কুরুষ্ব মদর্পণম্ ||৯-২৭||",
+        "ka": "ಯತ್ಕರೋಷಿ ಯದಶ್ನಾಸಿ ಯಜ್ಜುಹೋಷಿ ದದಾಸಿ ಯತ್ |\nಯತ್ತಪಸ್ಯಸಿ ಕೌನ್ತೇಯ ತತ್ಕುರುಷ್ವ ಮದರ್ಪಣಮ್ ||೯-೨೭||"
       }
     },
     "verse_translation": {
-      "life_application": "Release personal pride over your achievements today, recognizing that nature and circumstances enable all your actions."
+      "life_application": {
+        "hi": "आप जो कुछ भी करते हैं, खाते हैं, यज्ञ करते हैं, त्याग करते हैं, या तपस्या करते हैं - उसे भगवान को अर्पण करने के रूप में करें।",
+        "en": "Whatever you do, eat, offer in sacrifice, give away, or practice as austerity—do it as an offering to God.",
+        "be": "আপনি যা কিছু করেন, খান, বলিদান করেন, দান করেন বা তপস্যা হিসাবে অনুশীলন করেন - ঈশ্বরের উদ্দেশ্যে নৈবেদ্য হিসাবে করুন।",
+        "ka": "ನೀವು ಏನು ಮಾಡಿದರೂ, ತಿನ್ನುತ್ತಾರೆ, ಯಜ್ಞದಲ್ಲಿ ಅರ್ಪಿಸುತ್ತಾರೆ, ಕೊಡುತ್ತಾರೆ ಅಥವಾ ತಪಸ್ಸಿನಂತೆ ಆಚರಿಸುತ್ತಾರೆ - ಅದನ್ನು ದೇವರಿಗೆ ನೈವೇದ್ಯವಾಗಿ ಮಾಡಿ."
+      }
     },
     "commentary": {
-      "text": "3.27 All actions are performed, in all cases, by the qualities of Nature. He whose mind is deluded by egoism thinks: \"I am the doer.\""
+      "text": {
+        "hi": "।।9.27।। हे कौन्तेय ! तुम जो कुछ करते हो, जो खाते हो, जो हवन करते हो, जो दान देते हो और जो तप करते हो, वह सब मुझे (परमेश्वर को) अर्पित कर दो।",
+        "en": "9.27 Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, whatever austerity you practice, O son of Kunti, do that as an offering unto Me.",
+        "be": "৯.২৭ হে কৌন্তেয়! তুমি যে কিছু করো, যে খাও, যে হবন করো, যে দান দাও এবং যে তপ করো, তা সব আমাকে (পরমেশ্বরকে) অর্পিত করে দাও।",
+        "ka": "೧೦.೨೭ ಹೇ ಕೌಂತೇಯ! ನೀನು ಏನೇನು ಮಾಡುತ್ತೀಯೋ, ಏನನ್ನು ಉಣ್ಣುತ್ತೀಯೋ, ಯಾವುದನ್ನು ಹೋಮ ಮಾಡುತ್ತೀಯೋ, ಏನನ್ನು ದಾನ ನೀಡುತ್ತೀಯೋ ಹಾಗೂ ಯಾವ ತಪಸ್ಸನ್ನು ಮಾಡುತ್ತೀಯೋ, ಅದನ್ನೆಲ್ಲವನ್ನೂ ನನಗೆ (ಪರಮೇಶ್ವರನಿಗೆ) ಅರ್ಪಿಸು"
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
     }
   },
   {
     "verse": {
-      "verse_id": "BG5.1",
-      "chapter_number": 5,
-      "verse_number": 1,
-      "img_portrait": "sloks/{size}/chapter_5/slok_1/portrait/img.png"
+      "verse_id": "BG17.15",
+      "chapter_number": 17,
+      "verse_number": 15,
+      "img_portrait": "sloks/{size}/chapter_17/slok_15/portrait/img.png"
     },
     "verse_text": {
       "slok": {
-        "be": "অর্জুন উবাচ |\nসংন্যাসং কর্মণাং কৃষ্ণ পুনর্যোগং চ শংসসি |\nযচ্ছ্রেয এতযোরেকং তন্মে ব্রূহি সুনিশ্চিতম্ ||৫-১||",
-        "en": "arjuna uvāca .\nsaṃnyāsaṃ karmaṇāṃ kṛṣṇa punaryogaṃ ca śaṃsasi .\nyacchreya etayorekaṃ tanme brūhi suniścitam ||5-1||",
-        "hi": "अर्जुन उवाच |\nसंन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि |\nयच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ||५-१||",
-        "ka": "ಅರ್ಜುನ ಉವಾಚ |\nಸಂನ್ಯಾಸಂ ಕರ್ಮಣಾಂ ಕೃಷ್ಣ ಪುನರ್ಯೋಗಂ ಚ ಶಂಸಸಿ |\nಯಚ್ಛ್ರೇಯ ಏತಯೋರೇಕಂ ತನ್ಮೇ ಬ್ರೂಹಿ ಸುನಿಶ್ಚಿತಮ್ ||೫-೧||"
+        "hi": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
+        "en": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
+        "be": "অনুদ্বেগকরং বাক্যং সত্যং প্রিযহিতং চ যত্ |\nস্বাধ্যাযাভ্যসনং চৈব বাঙ্মযং তপ উচ্যতে ||১৭-১৫||",
+        "ka": "ಅನುದ್ವೇಗಕರಂ ವಾಕ್ಯಂ ಸತ್ಯಂ ಪ್ರಿಯಹಿತಂ ಚ ಯತ್ |\nಸ್ವಾಧ್ಯಾಯಾಭ್ಯಸನಂ ಚೈವ ವಾಙ್ಮಯಂ ತಪ ಉಚ್ಯತೇ ||೧೭-೧೫||"
       }
     },
     "verse_translation": {
-      "life_application": "Ask for clear, decisive guidance when choosing between stepping back from responsibilities and taking active, dedicated action."
-    },
-    "commentary": {
-      "text": "5.1 Arjuna said: Renunciation of actions, O Krishna, You praise, and again Yoga. Tell me conclusively that which is the better of the two."
-    }
-  },
-  {
-    "verse": {
-      "verse_id": "BG11.9",
-      "chapter_number": 11,
-      "verse_number": 9,
-      "img_portrait": "sloks/{size}/chapter_11/slok_9/portrait/img.png"
-    },
-    "verse_text": {
-      "slok": {
-        "be": "সঞ্জয উবাচ |\nএবমুক্ত্বা ততো রাজন্মহাযোগেশ্বরো হরিঃ |\nদর্শযামাস পার্থায পরমং রূপমৈশ্বরম্ ||১১-৯||",
-        "en": "sañjaya uvāca .\nevamuktvā tato rājanmahāyogeśvaro hariḥ .\ndarśayāmāsa pārthāya paramaṃ rūpamaiśvaram ||11-9||",
-        "hi": "सञ्जय उवाच |\nएवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः |\nदर्शयामास पार्थाय परमं रूपमैश्वरम् ||११-९||",
-        "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nಏವಮುಕ್ತ್ವಾ ತತೋ ರಾಜನ್ಮಹಾಯೋಗೇಶ್ವರೋ ಹರಿಃ |\nದರ್ಶಯಾಮಾಸ ಪಾರ್ಥಾಯ ಪರಮಂ ರೂಪಮೈಶ್ವರಮ್ ||೧೧-೯||"
+      "life_application": {
+        "hi": "उत्तेजना उत्पन्न न करने वाले, सत्य, सुखदायक, हितकारी तथा नियमित शास्त्र अध्ययन वाले शब्द - वाचिक तप कहलाते हैं।",
+        "en": "Words causing no excitement, truthful, pleasant, beneficial, and regular scriptural study—called vocal austerity.",
+        "be": "কোন উত্তেজনা সৃষ্টিকারী শব্দ, সত্যবাদী, আনন্দদায়ক, উপকারী, এবং নিয়মিত শাস্ত্রীয় অধ্যয়ন - যাকে কণ্ঠ্য তপস্যা বলা হয়।",
+        "ka": "ಯಾವುದೇ ಉತ್ಸಾಹವನ್ನು ಉಂಟುಮಾಡದ ಪದಗಳು, ಸತ್ಯವಾದ, ಆಹ್ಲಾದಕರ, ಪ್ರಯೋಜನಕಾರಿ ಮತ್ತು ನಿಯಮಿತವಾದ ಶಾಸ್ತ್ರಗ್ರಂಥದ ಅಧ್ಯಯನವನ್ನು ಗಾಯನ ಕಠಿಣತೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
       }
     },
-    "verse_translation": {
-      "life_application": "Contemplate the supreme Lord revealing His majestic, awe-inspiring universal form to the earnest spiritual seeker."
-    },
     "commentary": {
-      "text": "11.9 Sanjaya said — O King! Having spoken thus, the great Lord of Yoga, Hari, then revealed His supreme, lordly form to Arjuna."
-    }
-  },
-  {
-    "verse": {
-      "verse_id": "BG4.31",
-      "chapter_number": 4,
-      "verse_number": 31,
-      "img_portrait": "sloks/{size}/chapter_4/slok_31/portrait/img.png"
-    },
-    "verse_text": {
-      "slok": {
-        "be": "যজ্ঞশিষ্টামৃতভুজো যান্তি ব্রহ্ম সনাতনম্ |\nনাযং লোকোঽস্ত্যযজ্ঞস্য কুতোঽন্যঃ কুরুসত্তম ||৪-৩১||",
-        "en": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam .\nnāyaṃ loko.astyayajñasya kuto.anyaḥ kurusattama ||4-31||",
-        "hi": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ||४-३१||",
-        "ka": "ಯಜ್ಞಶಿಷ್ಟಾಮೃತಭುಜೋ ಯಾನ್ತಿ ಬ್ರಹ್ಮ ಸನಾತನಮ್ |\nನಾಯಂ ಲೋಕೋಽಸ್ತ್ಯಯಜ್ಞಸ್ಯ ಕುತೋಽನ್ಯಃ ಕುರುಸತ್ತಮ ||೪-೩೧||"
+      "text": {
+        "hi": "।।17.15।। जो वाक्य (भाषण) उद्वेग उत्पन्न करने वाला नहीं है, जो प्रिय, हितकारक और सत्य है तथा वेदों का स्वाध्याय अभ्यास वाङ्मय (वाणी का) तप कहलाता है।।",
+        "en": "17.15 Speech which causes no excitement, truthful, pleasant and beneficial, and the practice of the study of the scriptures, are called austerity of speech.",
+        "be": "।।১৭.১৫।। যে বাক্য উদ্বেগ সৃষ্টি করে না, যা সত্য, প্রিয় ও হিতকর এবং শাস্ত্রের নিয়মিত অধ্যয়ন ও চর্চাকেই বাচনিক তপস্যা বলা হয়।",
+        "ka": "।।೧೭.೧೫।। ಯಾವುದೇ ರೀತಿಯ ಉದ್ವೇಗವನ್ನು ಉಂಟುಮಾಡದ, ಸತ್ಯವಾದ, ಪ್ರಿಯವಾದ ಮತ್ತು ಹಿತಕರವಾದ ಮಾತು ಹಾಗೂ ವೇದಶಾಸ್ತ್ರಗಳ ಅಧ್ಯಯನ ಮತ್ತು ಅಭ್ಯಾಸವನ್ನು ವಾಚಿಕ ತಪಸ್ಸು ಎಂದು ಕರೆಯುತ್ತಾರೆ."
       }
     },
-    "verse_translation": {
-      "life_application": "Live generously by offering your best before partaking, knowing that a life without sacrifice brings no true joy."
-    },
-    "commentary": {
-      "text": "4.31 The eaters of the nectar of the remnant of sacrifice go to the eternal Brahman. Not for the non-sacrificer is this world; how then the other, O best of the Kurus?"
-    }
-  },
-  {
-    "verse": {
-      "verse_id": "BG16.24",
-      "chapter_number": 16,
-      "verse_number": 24,
-      "img_portrait": "sloks/{size}/chapter_16/slok_24/portrait/img.png"
-    },
-    "verse_text": {
-      "slok": {
-        "be": "তস্মাচ্ছাস্ত্রং প্রমাণং তে কার্যাকার্যব্যবস্থিতৌ |\nজ্ঞাত্বা শাস্ত্রবিধানোক্তং কর্ম কর্তুমিহার্হসি ||১৬-২৪||",
-        "en": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
-        "hi": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
-        "ka": "ತಸ್ಮಾಚ್ಛಾಸ್ತ್ರಂ ಪ್ರಮಾಣಂ ತೇ ಕಾರ್ಯಾಕಾರ್ಯವ್ಯವಸ್ಥಿತೌ |\nಜ್ಞಾತ್ವಾ ಶಾಸ್ತ್ರವಿಧಾನೋಕ್ತಂ ಕರ್ಮ ಕರ್ತುಮಿಹಾರ್ಹಸಿ ||೧೬-೨೪||"
-      }
-    },
-    "verse_translation": {
-      "life_application": "Therefore let scripture be your authority in determining what ought to be done and avoided; perform duty knowing scriptural rules."
-    },
-    "commentary": {
-      "text": "16.24 Therefore, let the scripture be thy authority in determining what ought to be done and what ought not to be done. Having known what is said in the ordinance of the scriptures, thou shouldst act here in this world."
-    }
-  },
-  {
-    "verse": {
-      "verse_id": "BG3.22",
-      "chapter_number": 3,
-      "verse_number": 22,
-      "img_portrait": "sloks/{size}/chapter_3/slok_22/portrait/img.png"
-    },
-    "verse_text": {
-      "slok": {
-        "be": "ন মে পার্থাস্তি কর্তব্যং ত্রিষু লোকেষু কিঞ্চন |\nনানবাপ্তমবাপ্তব্যং বর্ত এব চ কর্মণি ||৩-২২||",
-        "en": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana .\nnānavāptamavāptavyaṃ varta eva ca karmaṇi ||3-22||",
-        "hi": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||३-२२||",
-        "ka": "ನ ಮೇ ಪಾರ್ಥಾಸ್ತಿ ಕರ್ತವ್ಯಂ ತ್ರಿಷು ಲೋಕೇಷು ಕಿಞ್ಚನ |\nನಾನವಾಪ್ತಮವಾಪ್ತವ್ಯಂ ವರ್ತ ಏವ ಚ ಕರ್ಮಣಿ ||೩-೨೨||"
-      }
-    },
-    "verse_translation": {
-      "life_application": "Engage in helpful work enthusiastically even when you have no personal need or obligation forcing you to do so."
-    },
-    "commentary": {
-      "text": "3.22 There is nothing in the three worlds, O Partha, that has to be done by Me, nor is there anything unattained that should be attained by Me; yet I engage in action."
+    "commentator": {
+      "author": "Swami Tejomayananda"
     }
   },
   {
@@ -140,83 +148,205 @@
     },
     "verse_text": {
       "slok": {
-        "be": "সঞ্জয উবাচ |\nতং তথা কৃপযাবিষ্টমশ্রুপূর্ণাকুলেক্ষণম্ |\nবিষীদন্তমিদং বাক্যমুবাচ মধুসূদনঃ ||২-১||",
-        "en": "sañjaya uvāca .\ntaṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam .\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ ||2-1||",
         "hi": "सञ्जय उवाच |\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् |\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ||२-१||",
+        "en": "sañjaya uvāca .\ntaṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam .\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ ||2-1||",
+        "be": "সঞ্জয উবাচ |\nতং তথা কৃপযাবিষ্টমশ্রুপূর্ণাকুলেক্ষণম্ |\nবিষীদন্তমিদং বাক্যমুবাচ মধুসূদনঃ ||২-১||",
         "ka": "ಸಞ್ಜಯ ಉವಾಚ |\nತಂ ತಥಾ ಕೃಪಯಾವಿಷ್ಟಮಶ್ರುಪೂರ್ಣಾಕುಲೇಕ್ಷಣಮ್ |\nವಿಷೀದನ್ತಮಿದಂ ವಾಕ್ಯಮುವಾಚ ಮಧುಸೂದನಃ ||೨-೧||"
       }
     },
     "verse_translation": {
-      "life_application": "When compassion threatens to slide into paralyzing despair, regain your composure and look toward your true duty."
-    },
-    "commentary": {
-      "text": "2.1 Sanjaya said: Thus overcome with compassion and despondency, his eyes filled with tears and agitated, to that anguished Arjuna, Madhusudana spoke these words."
-    }
-  },
-  {
-    "verse": {
-      "verse_id": "BG13.26",
-      "chapter_number": 13,
-      "verse_number": 26,
-      "img_portrait": "sloks/{size}/chapter_13/slok_26/portrait/img.png"
-    },
-    "verse_text": {
-      "slok": {
-        "be": "অন্যে ত্বেবমজানন্তঃ শ্রুত্বান্যেভ্য উপাসতে |\nতেঽপি চাতিতরন্ত্যেব মৃত্যুং শ্রুতিপরাযণাঃ ||১৩-২৬||",
-        "en": "anye tvevamajānantaḥ śrutvānyebhya upāsate .\nte.api cātitarantyeva mṛtyuṃ śrutiparāyaṇāḥ ||13-26||",
-        "hi": "अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते |\nतेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ||१३-२६||",
-        "ka": "ಅನ್ಯೇ ತ್ವೇವಮಜಾನನ್ತಃ ಶ್ರುತ್ವಾನ್ಯೇಭ್ಯ ಉಪಾಸತೇ |\nತೇಽಪಿ ಚಾತಿತರನ್ತ್ಯೇವ ಮೃತ್ಯುಂ ಶ್ರುತಿಪರಾಯಣಾಃ ||೧೩-೨೬||"
+      "life_application": {
+        "hi": "जब करुणा आपको पंगु बना देने वाली निराशा की ओर ले जाने की धमकी देती है, तो अपना संयम पुनः प्राप्त करें और अपने सच्चे कर्तव्य की ओर देखें।",
+        "en": "When compassion threatens to slide into paralyzing despair, regain your composure and look toward your true duty.",
+        "be": "যখন সমবেদনা পক্ষাঘাতগ্রস্ত হতাশার দিকে ধাবিত হওয়ার হুমকি দেয়, তখন আপনার সংযম ফিরে পান এবং আপনার সত্যিকারের কর্তব্যের দিকে তাকান।",
+        "ka": "ಸಹಾನುಭೂತಿಯು ಪಾರ್ಶ್ವವಾಯು ಹತಾಶೆಗೆ ಜಾರುವಂತೆ ಬೆದರಿಕೆ ಹಾಕಿದಾಗ, ನಿಮ್ಮ ಹಿಡಿತವನ್ನು ಮರಳಿ ಪಡೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ನಿಜವಾದ ಕರ್ತವ್ಯದ ಕಡೆಗೆ ನೋಡಿ."
       }
     },
-    "verse_translation": {
-      "life_application": "Know that whatever creature is born, unmoving or moving, arises from the union of field and knower of field."
-    },
     "commentary": {
-      "text": "13.26 But others, not knowing thus themselves, worship by hearing from others (teachers); they too, who are devoted to hearing (i.e. for whom hearing is the supreme means), undoubtedly cross beyond death."
-    }
-  },
-  {
-    "verse": {
-      "verse_id": "BG2.18",
-      "chapter_number": 2,
-      "verse_number": 18,
-      "img_portrait": "sloks/{size}/chapter_2/slok_18/portrait/img.png"
-    },
-    "verse_text": {
-      "slok": {
-        "be": "অন্তবন্ত ইমে দেহা নিত্যস্যোক্তাঃ শরীরিণঃ |\nঅনাশিনোঽপ্রমেযস্য তস্মাদ্যুধ্যস্ব ভারত ||২-১৮||",
-        "en": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ .\nanāśino.aprameyasya tasmādyudhyasva bhārata ||2-18||",
-        "hi": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः |\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||२-१८||",
-        "ka": "ಅನ್ತವನ್ತ ಇಮೇ ದೇಹಾ ನಿತ್ಯಸ್ಯೋಕ್ತಾಃ ಶರೀರಿಣಃ |\nಅನಾಶಿನೋಽಪ್ರಮೇಯಸ್ಯ ತಸ್ಮಾದ್ಯುಧ್ಯಸ್ವ ಭಾರತ ||೨-೧೮||"
+      "text": {
+        "hi": "।।2.1।। संजय ने कहा -- इस प्रकार करुणा और विषाद से अभिभूत,  अश्रुपूरित नेत्रों वाले आकुल अर्जुन से मधुसूदन ने यह वाक्य कहा।।",
+        "en": "2.1 Sanjaya said: Thus overcome with compassion and despondency, his eyes filled with tears and agitated, to that anguished Arjuna, Madhusudana spoke these words.",
+        "be": "২.১ সঞ্জয় বললেন: এভাবে করুণা ও বিষাদে অভিভূত, অশ্রুপূর্ণ ব্যাকুল নেত্রের অর্জুনকে মধুসূদন এই কথা বললেন।",
+        "ka": "೨.೧ ಸಂಜಯನು ಹೇಳಿದನು: ಹೀಗೆ ಕರುಣೆ ಮತ್ತು ವಿಷಾದದಿಂದ ಆವರಿಸಲ್ಪಟ್ಟ, ಕಣ್ಣೀರು ತುಂಬಿದ ವ್ಯಾಕುಲ ಕಣ್ಣುಗಳ ಅರ್ಜುನನಿಗೆ ಮಧುಸೂದನನು ಈ ಮಾತುಗಳನ್ನು ಹೇಳಿದನು."
       }
     },
-    "verse_translation": {
-      "life_application": "Fulfill your daily responsibilities bravely, knowing that physical limitations do not diminish your eternal worth."
-    },
-    "commentary": {
-      "text": "2.18 These bodies of the eternal, indestructible, immeasurable embodied Self are all said to have an end. Therefore, O Bharata, fight!"
+    "commentator": {
+      "author": "Swami Tejomayananda"
     }
   },
   {
     "verse": {
-      "verse_id": "BG9.33",
+      "verse_id": "BG9.18",
       "chapter_number": 9,
-      "verse_number": 33,
-      "img_portrait": "sloks/{size}/chapter_9/slok_33/portrait/img.png"
+      "verse_number": 18,
+      "img_portrait": "sloks/{size}/chapter_9/slok_18/portrait/img.png"
     },
     "verse_text": {
       "slok": {
-        "be": "কিং পুনর্ব্রাহ্মণাঃ পুণ্যা ভক্তা রাজর্ষযস্তথা |\nঅনিত্যমসুখং লোকমিমং প্রাপ্য ভজস্ব মাম্ ||৯-৩৩||",
-        "en": "kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .\nanityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||",
-        "hi": "किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा |\nअनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||",
-        "ka": "ಕಿಂ ಪುನರ್ಬ್ರಾಹ್ಮಣಾಃ ಪುಣ್ಯಾ ಭಕ್ತಾ ರಾಜರ್ಷಯಸ್ತಥಾ |\nಅನಿತ್ಯಮಸುಖಂ ಲೋಕಮಿಮಂ ಪ್ರಾಪ್ಯ ಭಜಸ್ವ ಮಾಮ್ ||೯-೩೩||"
+        "hi": "गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् |\nप्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ||९-१८||",
+        "en": "gatirbhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt .\nprabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam ||9-18||",
+        "be": "গতির্ভর্তা প্রভুঃ সাক্ষী নিবাসঃ শরণং সুহৃত্ |\nপ্রভবঃ প্রলযঃ স্থানং নিধানং বীজমব্যযম্ ||৯-১৮||",
+        "ka": "ಗತಿರ್ಭರ್ತಾ ಪ್ರಭುಃ ಸಾಕ್ಷೀ ನಿವಾಸಃ ಶರಣಂ ಸುಹೃತ್ |\nಪ್ರಭವಃ ಪ್ರಲಯಃ ಸ್ಥಾನಂ ನಿಧಾನಂ ಬೀಜಮವ್ಯಯಮ್ ||೯-೧೮||"
       }
     },
     "verse_translation": {
-      "life_application": "How much more then should noble seekers turn to God; having entered this transient unhappy world, worship the Divine."
+      "life_application": {
+        "hi": "ईश्वर को लक्ष्य, समर्थक, स्वामी, साक्षी, निवास, आश्रय, मित्र, उत्पत्ति, प्रलय, आधार और बीज के रूप में जानो।",
+        "en": "Know God as the goal, supporter, Lord, witness, abode, refuge, friend, origin, dissolution, foundation, and seed.",
+        "be": "ঈশ্বরকে লক্ষ্য, সমর্থক, প্রভু, সাক্ষী, আবাস, আশ্রয়, বন্ধু, উৎপত্তি, বিলীন, ভিত্তি এবং বীজ হিসাবে জানুন।",
+        "ka": "ದೇವರನ್ನು ಗುರಿ, ಬೆಂಬಲಿಗ, ಲಾರ್ಡ್, ಸಾಕ್ಷಿ, ವಾಸಸ್ಥಾನ, ಆಶ್ರಯ, ಸ್ನೇಹಿತ, ಮೂಲ, ವಿಸರ್ಜನೆ, ಅಡಿಪಾಯ ಮತ್ತು ಬೀಜ ಎಂದು ತಿಳಿಯಿರಿ."
+      }
     },
     "commentary": {
-      "text": "9.33 How much more then holy Brahmanas and devoted royal sages! Having obtained this impermanent and unhappy world, do you worship Me."
+      "text": {
+        "hi": "।।9.18।। परम गति (प्राप्य), भर्ता (पालक), प्रभु (स्वामी), साक्षी (द्रष्टा), निवास (आश्रय), शरण (रक्षक), सुहृत् (बिना स्वार्थ हितैषी), प्रभव (उत्पत्ति), प्रलय (प्रलय), स्थान (स्थिति), निधान (लय-स्थान) और अविनाशी बीज भी मैं ही हूँ।",
+        "en": "9.18 I am the Goal, the Supporter, the Lord, the Witness, the Abode, the Refuge, the Friend, the Origin, the Dissolution, the Substratum, the Storehouse, and the Seed Imperishable.",
+        "be": "৯.১৮ পরম গতি (প্রাপ্য), ভর্তা (পালক), প্রভু (স্বামী), সাক্ষী (দ্রষ্টা), নিবাস (আশ্রয়), শরণ (রক্ষক), সুহৃত্ (বিনা স্বার্থে হিতৈষী), প্রভব (উৎপত্তি), প্রলয় (প্রলয়), স্থান (স্থিতি), নিধান (লয়-স্থান) এবং অবিনাশী বীজও আমিই।",
+        "ka": "೧೦.೧೮ ಪರಮ ಗತಿ (ಪ್ರಾಪ್ಯ), ಭರ್ತೃ (ಪಾಲಕ), ಪ್ರಭು (ಸ್ವಾಮಿ), ಸಾಕ್ಷಿ (ದ್ರಷ್ಟಾರ), ನಿವಾಸ (ಆಶ್ರಯ), ಶರಣ (ರಕ್ಷಕ), ಸುಹೃತ್ (ನಿಃಸ್ವಾರ್ಥ ಹಿತೈಷಿ), ಪ್ರಭವ (ಉತ್ಪತ್ತಿ), ಪ್ರಳಯ (ಪ್ರಳಯ), ಸ್ಥಾನ (ಸ್ಥಿತಿ), ನಿಧಾನ (ಲಯಸ್ಥಾನ) ಹಾಗೂ ಅವಿನಾಶಿ ಬೀಜವೂ ನಾನೇ."
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
+    }
+  },
+  {
+    "verse": {
+      "verse_id": "BG2.14",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "img_portrait": "sloks/{size}/chapter_2/slok_14/portrait/img.png"
+    },
+    "verse_text": {
+      "slok": {
+        "hi": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः |\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||२-१४||",
+        "en": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ .\nāgamāpāyino.anityāstāṃstitikṣasva bhārata ||2-14||",
+        "be": "মাত্রাস্পর্শাস্তু কৌন্তেয শীতোষ্ণসুখদুঃখদাঃ |\nআগমাপাযিনোঽনিত্যাস্তাংস্তিতিক্ষস্ব ভারত ||২-১৪||",
+        "ka": "ಮಾತ್ರಾಸ್ಪರ್ಶಾಸ್ತು ಕೌನ್ತೇಯ ಶೀತೋಷ್ಣಸುಖದುಃಖದಾಃ |\nಆಗಮಾಪಾಯಿನೋಽನಿತ್ಯಾಸ್ತಾಂಸ್ತಿತಿಕ್ಷಸ್ವ ಭಾರತ ||೨-೧೪||"
+      }
+    },
+    "verse_translation": {
+      "life_application": {
+        "hi": "आज गर्मी, सर्दी, प्रशंसा या आलोचना जैसी अस्थायी असुविधाओं को अपने आंतरिक संतुलन को बाधित किए बिना सहन करें।",
+        "en": "Endure temporary discomforts like heat, cold, praise, or criticism today without letting them disrupt your inner balance.",
+        "be": "তাপ, ঠাণ্ডা, প্রশংসা বা সমালোচনার মতো সাময়িক অস্বস্তিগুলিকে আপনার অভ্যন্তরীণ ভারসাম্যকে ব্যাহত না করে আজই সহ্য করুন।",
+        "ka": "ಶಾಖ, ಶೀತ, ಹೊಗಳಿಕೆ ಅಥವಾ ಟೀಕೆಗಳಂತಹ ತಾತ್ಕಾಲಿಕ ಅಸ್ವಸ್ಥತೆಗಳನ್ನು ಇಂದು ನಿಮ್ಮ ಆಂತರಿಕ ಸಮತೋಲನವನ್ನು ಅಡ್ಡಿಪಡಿಸಲು ಬಿಡದೆ ಸಹಿಸಿಕೊಳ್ಳಿ."
+      }
+    },
+    "commentary": {
+      "text": {
+        "hi": "।।2.14।। हे कुन्तीपुत्र! शीत, उष्ण, तथा सुख-दुःख देने वाले इन्द्रिय तथा विषयों के संयोग का प्रारम्भ तथा अन्त होता है; वे अनित्य हैं, अतः, हे भारत! उनको तुम सहन करो।",
+        "en": "2.14 O son of Kunti, the union of the senses and their objects, which gives cold, heat, pleasure and pain, has a beginning and an end; they are impermanent, therefore, O Bharata, endure them.",
+        "be": "２.１４ হে কুন্তীপুত্র! শীত, উষ্ণ, ও সুখ-দুঃখ প্রদানকারী ইন্দ্রিয় ও বিষয়ের সংযোগের প্রারম্ভ ও অন্ত হয়; সেগুলি অনিত্য, অতএব, হে ভারত! সেগুলি তুমি সহ্য করো।",
+        "ka": "２.१४ ಕುಂತೀಪುತ್ರನೇ! ಚಳಿ, ಬಿಸಿ, ಮತ್ತು ಸುಖ-ದುಃಖ ನೀಡುವ ಇಂದ್ರಿಯ ಮತ್ತು ವಿಷಯಗಳ ಸಂಯೋಗಕ್ಕೆ ಪ್ರಾರಂಭ ಮತ್ತು ಅಂತ್ಯವಿದೆ; ಅವು ಅನಿತ್ಯ, ಆದ್ದರಿಂದ, ಭಾರತನೇ! ಅವನ್ನು ನೀನು ಸಹಿಸು."
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
+    }
+  },
+  {
+    "verse": {
+      "verse_id": "BG13.21",
+      "chapter_number": 13,
+      "verse_number": 21,
+      "img_portrait": "sloks/{size}/chapter_13/slok_21/portrait/img.png"
+    },
+    "verse_text": {
+      "slok": {
+        "hi": "कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते |\nपुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ||१३-२१||",
+        "en": "kāryakāraṇakartṛtve hetuḥ prakṛtirucyate .\npuruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate ||13-21||",
+        "be": "কার্যকারণকর্তৃত্বে হেতুঃ প্রকৃতিরুচ্যতে |\nপুরুষঃ সুখদুঃখানাং ভোক্তৃত্বে হেতুরুচ্যতে ||১৩-২১||",
+        "ka": "ಕಾರ್ಯಕಾರಣಕರ್ತೃತ್ವೇ ಹೇತುಃ ಪ್ರಕೃತಿರುಚ್ಯತೇ |\nಪುರುಷಃ ಸುಖದುಃಖಾನಾಂ ಭೋಕ್ತೃತ್ವೇ ಹೇತುರುಚ್ಯತೇ ||೧೩-೨೧||"
+      }
+    },
+    "verse_translation": {
+      "life_application": {
+        "hi": "पहचानें कि प्रकृति में बैठी आत्मा प्रकृति से उत्पन्न गुणों का अनुभव कैसे करती है, जिससे अच्छे या बुरे गर्भ में जन्म होता है।",
+        "en": "Recognize how the spirit seated in nature experiences qualities born of nature, causing birth in good or evil wombs.",
+        "be": "প্রকৃতিতে উপবিষ্ট আত্মা কীভাবে প্রকৃতির জন্মগত গুণাবলী অনুভব করে, ভাল বা মন্দ গর্ভে জন্ম দেয় তা স্বীকার করুন।",
+        "ka": "ಪ್ರಕೃತಿಯಲ್ಲಿ ಕುಳಿತಿರುವ ಚೈತನ್ಯವು ಪ್ರಕೃತಿಯಿಂದ ಹುಟ್ಟಿದ ಗುಣಗಳನ್ನು ಹೇಗೆ ಅನುಭವಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಿ, ಒಳ್ಳೆಯ ಅಥವಾ ಕೆಟ್ಟ ಗರ್ಭದಲ್ಲಿ ಜನ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+      }
+    },
+    "commentary": {
+      "text": {
+        "hi": "।।13.21।। कार्य और कारण के उत्पन्न करने में हेतु प्रकृति कही जाती है और पुरुष सुख-दु:ख के भोक्तृत्व में हेतु कहा जाता है।।",
+        "en": "13.21 Nature is said to be the cause in the generation of the effect (body) and the cause (instruments), and the Purusha is said to be the cause in the experience of pleasure and pain.",
+        "be": "।।১৩.২১।। কার্য ও কারণের উৎপত্তির ক্ষেত্রে প্রকৃতিকে হেতু (कारण) বলা হয় এবং পুরুষকে সুখ-দুঃখের ভোক্তৃত্বের ক্ষেত্রে হেতু বলা হয়।।",
+        "ka": "।।೧೩.೨೧।। ಕಾರ್ಯ ಮತ್ತು ಕಾರಣಗಳ ಉತ್ಪತ್ತಿಯಲ್ಲಿ ಪ್ರಕೃತಿಯನ್ನು ಹೇತು (ಕಾರಣ) ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ ಮತ್ತು ಪುರುಷನನ್ನು ಸುಖ-ದುಃಖಗಳ ಭೋಕ್ತೃತ್ವದಲ್ಲಿ ಹೇತು ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ.।"
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
+    }
+  },
+  {
+    "verse": {
+      "verse_id": "BG1.11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "img_portrait": "sloks/{size}/chapter_1/slok_11/portrait/img.png"
+    },
+    "verse_text": {
+      "slok": {
+        "hi": "अयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||",
+        "en": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||1-11||",
+        "be": "অযনেষু চ সর্বেষু যথাভাগমবস্থিতাঃ |\nভীষ্মমেবাভিরক্ষন্তু ভবন্তঃ সর্ব এব হি ||১-১১||",
+        "ka": "ಅಯನೇಷು ಚ ಸರ್ವೇಷು ಯಥಾಭಾಗಮವಸ್ಥಿತಾಃ |\nಭೀಷ್ಮಮೇವಾಭಿರಕ್ಷನ್ತು ಭವನ್ತಃ ಸರ್ವ ಏವ ಹಿ ||೧-೧೧||"
+      }
+    },
+    "verse_translation": {
+      "life_application": {
+        "hi": "कठिन समय के दौरान दबाव बढ़ने पर अपने संगठन में प्रमुख नेताओं या मुख्य प्राथमिकताओं का समर्थन और सुरक्षा करें।",
+        "en": "Support and protect key leaders or core priorities in your organization when pressure mounts during tough times.",
+        "be": "কঠিন সময়ে যখন চাপ বেড়ে যায় তখন আপনার প্রতিষ্ঠানের প্রধান নেতাদের বা মূল অগ্রাধিকারগুলিকে সমর্থন ও রক্ষা করুন।",
+        "ka": "ಕಠಿಣ ಸಮಯದಲ್ಲಿ ಒತ್ತಡ ಹೆಚ್ಚಾದಾಗ ನಿಮ್ಮ ಸಂಸ್ಥೆಯಲ್ಲಿ ಪ್ರಮುಖ ನಾಯಕರು ಅಥವಾ ಪ್ರಮುಖ ಆದ್ಯತೆಗಳನ್ನು ಬೆಂಬಲಿಸಿ ಮತ್ತು ರಕ್ಷಿಸಿ."
+      }
+    },
+    "commentary": {
+      "text": {
+        "hi": "।।1.11।।विभिन्न मोर्चों पर अपने-अपने स्थान पर स्थित रहते हुए आप सब लोग भीष्म पितामह की ही सब ओर से रक्षा करें।",
+        "en": "1.11 All of you, stationed at your respective positions on the different fronts, should protect Grandsire Bhishma from every side.",
+        "be": "১.১১ বিভিন্ন মোর্চায় নিজ নিজ স্থানে অবস্থান করে আপনারা সকলে পিতামহ ভীষ্মকে সর্বদিক থেকে রক্ষা করুন।",
+        "ka": "೧.೧೧ ವಿವಿಧ ರಣರಂಗಗಳಲ್ಲಿ ತಮ್ಮ ತಮ್ಮ ಸ್ಥಳದಲ್ಲಿ ನಿಂತು ನೀವೆಲ್ಲರೂ ಪಿತಾಮಹ ಭೀಷ್ಮರನ್ನು ಎಲ್ಲ ಕಡೆಗಳಿಂದ ರಕ್ಷಿಸಿರಿ."
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
+    }
+  },
+  {
+    "verse": {
+      "verse_id": "BG6.31",
+      "chapter_number": 6,
+      "verse_number": 31,
+      "img_portrait": "sloks/{size}/chapter_6/slok_31/portrait/img.png"
+    },
+    "verse_text": {
+      "slok": {
+        "hi": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः |\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||",
+        "en": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ .\nsarvathā vartamāno.api sa yogī mayi vartate ||6-31||",
+        "be": "সর্বভূতস্থিতং যো মাং ভজত্যেকত্বমাস্থিতঃ |\nসর্বথা বর্তমানোঽপি স যোগী মযি বর্ততে ||৬-৩১||",
+        "ka": "ಸರ್ವಭೂತಸ್ಥಿತಂ ಯೋ ಮಾಂ ಭಜತ್ಯೇಕತ್ವಮಾಸ್ಥಿತಃ |\nಸರ್ವಥಾ ವರ್ತಮಾನೋಽಪಿ ಸ ಯೋಗೀ ಮಯಿ ವರ್ತತೇ ||೬-೩೧||"
+      }
+    },
+    "verse_translation": {
+      "life_application": {
+        "hi": "सभी प्राणियों में निवास करने वाली दिव्य उपस्थिति की पूजा करें, आध्यात्मिक एकता में रहें, चाहे आपकी दैनिक परिस्थितियाँ कुछ भी हों।",
+        "en": "Worship the divine presence dwelling in all beings, living in spiritual unity no matter your daily circumstances.",
+        "be": "সমস্ত প্রাণীর মধ্যে থাকা ঐশ্বরিক উপস্থিতির উপাসনা করুন, আপনার দৈনন্দিন পরিস্থিতি যাই হোক না কেন আধ্যাত্মিক ঐক্যে বাস করুন।",
+        "ka": "ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ವಾಸಿಸುವ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಪೂಜಿಸಿ, ನಿಮ್ಮ ದೈನಂದಿನ ಪರಿಸ್ಥಿತಿಗಳ ಹೊರತಾಗಿಯೂ ಆಧ್ಯಾತ್ಮಿಕ ಏಕತೆಯಲ್ಲಿ ಜೀವಿಸಿ."
+      }
+    },
+    "commentary": {
+      "text": {
+        "hi": "।।6.31।। जो पुरुष एकीभाव में स्थित होकर सब भूतों में स्थित मुझ वासुदेव का भजन करता है, वह योगी सब प्रकार से वर्तमान रहता हुआ भी मुझमें ही वर्तमान है।",
+        "en": "6.31 He who, established in unity, worships Me dwelling in all beings, that Yogi lives in Me, whatever be his mode of living.",
+        "be": "৬.৩১ যে পুরুষ একীভাবে স্থিত হয়ে সব ভূতে স্থিত আমাকে বাসুদেবের ভজন করে, সে যোগী সব প্রকারে বর্তমান থাকতে থাকতেই আমাতেই বর্তমান।",
+        "ka": "೬.೩೧ ಯಾವ ಪುರುಷನು ಏಕಿಭಾವದಲ್ಲಿ ಸ್ಥಿತನಾಗಿ ಸಮಸ್ತ ಭೂತಗಳಲ್ಲಿ ನೆಲೆಸಿರುವ ವಾಸುದೇವನಾದ ನನ್ನನ್ನು ಭಜಿಸುತ್ತಾನೋ, ಆ ಯೋಗಿಯು ಸರ್ವಪ್ರಕಾರಗಳಲ್ಲಿ ವರ್ತಿಸುತ್ತಿದ್ದರೂ ನನ್ನಲ್ಲೇ ವರ್ತಿಸುತ್ತಾನೆ"
+      }
+    },
+    "commentator": {
+      "author": "Swami Tejomayananda"
     }
   }
 ]

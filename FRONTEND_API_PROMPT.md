@@ -75,14 +75,15 @@ topics/list.json          [ {name:L, image_square, verse_count:Int, sloks:[verse
 
 ## Rule 1 — do NOT compute the daily rotation
 
-`home/verseofday.json` already contains the resolved commentary for today.
-Render `commentary.text` and `commentator.author` directly.
+`home/verseofday.json` already contains the resolved verse *and* commentary for today —
+both rotate server-side, keyed on epoch day. Render what the file gives you directly.
 
-**Delete** `HomeViewModel.kt`'s `currentEpochDay() % commentary.size` logic. If the
-app recomputes the index it will be wrong two ways: it rolls over at 00:00 UTC while
-the file is regenerated at 00:00 IST (5h30m disagreement), and it would index into
-the app's own commentary list whereas the published index was computed over only the
-commentators having all four languages — a different list, so a different answer.
+**Delete** `HomeViewModel.kt`'s hardcoded `VERSE_OF_DAY_ID` and its
+`currentEpochDay() % commentary.size` logic. If the app recomputes any of this it will
+be wrong several ways: it rolls over at 00:00 UTC while the file is regenerated at
+00:00 IST (5h30m disagreement); it would index into the app's own lists whereas the
+published indices were computed over only the verses/commentators having all four
+languages; and the verse is no longer a constant, so a pinned id would be stale.
 
 No timezone handling is needed anywhere for content selection. Do not add an IST check.
 

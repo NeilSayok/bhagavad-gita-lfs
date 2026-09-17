@@ -145,7 +145,7 @@ Script: `scripts/build_chapter_api.py`. One file per chapter (18), each `{ chapt
 
 Script: `scripts/randomizers/wisdom_daily.py` (re-run daily). 10 randomly sampled verses, resampled every run — **not stable across days**.
 
-Selection rules: commentary English text must be **100–260 characters** (~3–4 lines on a card); the verse must **never** be `VERSE_OF_DAY_ID`; `slok`, `life_application` and `commentary` must all have all four languages, else the verse is skipped.
+Selection rules: the commentary must be **90–200 characters in every one of the four languages** (~3–4 lines on a card — checking only English lets a much longer hi/be/ka rendering through); the verse must **never** be the one in `api/home/verseofday.json`, which is read at runtime; `slok`, `life_application` and `commentary` must all have all four languages, else the verse is skipped.
 
 | Field (nested) | Source |
 |---|---|
@@ -157,7 +157,9 @@ Selection rules: commentary English text must be **100–260 characters** (~3–
 
 ## `api/home/verseofday.json` — home screen, verse of the day
 
-Script: `scripts/randomizers/verse_of_day.py` (re-run daily). The **verse is a fixed constant**, `VERSE_OF_DAY_ID = "BG2.47"` (mirrors `HomeViewModel.kt`), not date-derived. Only the commentator rotates: `epoch_day % len(fully_translated_commentaries)`, ordered by `commentator.display_order`.
+Script: `scripts/randomizers/verse_of_day.py` (re-run daily). **Both the verse and the commentator rotate by epoch day.** The verse is drawn from the 701 verses having all four languages on `speaker`/`slok`/`transliteration`/`life_application`, shuffled once with a fixed seed (`SHUFFLE_SEED`) then indexed `epoch_day % 701` — deterministic, so re-running the pipeline twice in a day yields an identical file, and the cycle runs 701 days before repeating. The commentator rotates separately: `epoch_day % len(fully_translated_commentaries)`, ordered by `commentator.display_order`.
+
+Ordering note: `wisdom_daily.py` reads this file to avoid reusing today's verse, so `verse_of_day.py` must run first. The workflow's `for f in scripts/randomizers/*.py` loop is alphabetical, which already puts it ahead.
 
 | Field (nested) | Source |
 |---|---|

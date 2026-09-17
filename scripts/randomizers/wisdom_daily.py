@@ -9,10 +9,13 @@ Rules (per user):
     runtime (verse_of_day.py runs first; the workflow's glob loop is alphabetical).
   - every text field (slok, life_application, commentary) must have all 4
     translations present (hi/en/be/ka) for whatever verse+commentator gets picked.
+  - skip stub commentaries (cross-references / "did not comment on this sloka"):
+    real source text, but nothing to show on a card.
 """
 import json
 import os
 import random
+import re
 import sqlite3
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -23,6 +26,16 @@ COUNT = 10
 LANGS = ("hi", "en", "be", "ka")
 
 MIN_CHARS, MAX_CHARS = 90, 200  # ~3-4 lines on a mobile card, per language
+
+# Cross-reference / "no commentary here" placeholders -- real source text, but
+# nothing to show on a card. Kept in sync with verse_of_day.py.
+STUB = re.compile(
+    r"see (the )?(detailed )?commentary under"
+    r"|see detailed commentary"
+    r"|did not comment"
+    r"|no commentary (is |was )?(available|given|provided)",
+    re.I,
+)
 
 VERSE_IDS_QUERY = "SELECT verse_id FROM verse WHERE verse_id != ?"
 
@@ -74,6 +87,8 @@ def pick_commentary(db, verse_id):
         if not all(lang in text for lang in LANGS):
             continue
         if not all(MIN_CHARS <= len(text[lang]) <= MAX_CHARS for lang in LANGS):
+            continue
+        if STUB.search(text["en"]):
             continue
         return block["author"], {lang: text[lang] for lang in LANGS}
     return None
@@ -136,6 +151,8 @@ def main():
         for lang, text in i["commentary"]["text"].items():
             assert MIN_CHARS <= len(text) <= MAX_CHARS, \
                 f"{i['verse']['verse_id']} {lang} commentary is {len(text)} chars"
+        assert not STUB.search(i["commentary"]["text"]["en"]), \
+            f"{i['verse']['verse_id']} picked a stub commentary"
 
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:

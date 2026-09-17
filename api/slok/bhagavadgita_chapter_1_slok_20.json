@@ -11,12 +11,12 @@
     "slok": {
         "hi": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते",
         "be": "অথ ব্যবস্থিতান্দৃষ্ট্বা ধার্তরাষ্ট্রান্ কপিধ্বজঃ |\nপ্রবৃত্তে শস্ত্রসম্পাতে ধনুরুদ্যম্য পাণ্ডবঃ |\nহৃষীকেশং তদা বাক্যমিদমাহ মহীপতে",
-        "en": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ",
+        "en": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ .\nhṛṣīkeśaṃ tadā vākyamidamāha mahīpate",
         "ka": "ಅಥ ವ್ಯವಸ್ಥಿತಾನ್ದೃಷ್ಟ್ವಾ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ ಕಪಿಧ್ವಜಃ |\nಪ್ರವೃತ್ತೇ ಶಸ್ತ್ರಸಮ್ಪಾತೇ ಧನುರುದ್ಯಮ್ಯ ಪಾಣ್ಡವಃ |\nಹೃಷೀಕೇಶಂ ತದಾ ವಾಕ್ಯಮಿದಮಾಹ ಮಹೀಪತೇ"
     },
     "transliteration": {
         "hi": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते",
-        "en": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ",
+        "en": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ .\nhṛṣīkeśaṃ tadā vākyamidamāha mahīpate",
         "be": "অথ ব্যবস্থিতান্দৃষ্ট্বা ধার্তরাষ্ট্রান্ কপিধ্বজঃ |\nপ্রবৃত্তে শস্ত্রসম্পাতে ধনুরুদ্যম্য পাণ্ডবঃ |\nহৃষীকেশং তদা বাক্যমিদমাহ মহীপতে",
         "ka": "ಅಥ ವ್ಯವಸ್ಥಿತಾನ್ದೃಷ್ಟ್ವಾ ಧಾರ್ತರಾಷ್ಟ್ರಾನ್ ಕಪಿಧ್ವಜಃ |\nಪ್ರವೃತ್ತೇ ಶಸ್ತ್ರಸಮ್ಪಾತೇ ಧನುರುದ್ಯಮ್ಯ ಪಾಣ್ಡವಃ |\nಹೃಷೀಕೇಶಂ ತದಾ ವಾಕ್ಯಮಿದಮಾಹ ಮಹೀಪತೇ"
     },
@@ -179,6 +179,96 @@
                 "en": "Pandava",
                 "be": "পাণ্ডব",
                 "ka": "ಪಾಂಡವ"
+            }
+        },
+        {
+            "sanskrit": "हृषीकेशम्",
+            "transliteration": {
+                "hi": "हृषीकेशम्",
+                "en": "hṛṣīkeśam",
+                "be": "হৃষীকেশম্",
+                "ka": "ಹೃಷೀಕೇಶಮ್"
+            },
+            "meaning": {
+                "hi": "कृष्ण को",
+                "en": "to Krishna",
+                "be": "কৃষ্ণের কাছে",
+                "ka": "ಕೃಷ್ಣನಿಗೆ"
+            }
+        },
+        {
+            "sanskrit": "तदा",
+            "transliteration": {
+                "hi": "तदा",
+                "en": "tadā",
+                "be": "তদা",
+                "ka": "ತದಾ"
+            },
+            "meaning": {
+                "hi": "फिर",
+                "en": "then",
+                "be": "তারপর",
+                "ka": "ನಂತರ"
+            }
+        },
+        {
+            "sanskrit": "वाक्यम्",
+            "transliteration": {
+                "hi": "वाक्यम्",
+                "en": "vākyam",
+                "be": "বাক্যম্",
+                "ka": "ವಾಕ್ಯಮ್"
+            },
+            "meaning": {
+                "hi": "शब्द",
+                "en": "words",
+                "be": "শব্দ",
+                "ka": "ಪದಗಳು"
+            }
+        },
+        {
+            "sanskrit": "इदम्",
+            "transliteration": {
+                "hi": "इदम्",
+                "en": "idam",
+                "be": "ইদম্",
+                "ka": "ಇದಮ್"
+            },
+            "meaning": {
+                "hi": "ये",
+                "en": "these",
+                "be": "এই",
+                "ka": "ಇವುಗಳು"
+            }
+        },
+        {
+            "sanskrit": "आह",
+            "transliteration": {
+                "hi": "आह",
+                "en": "āha",
+                "be": "আহ",
+                "ka": "ಆಹ"
+            },
+            "meaning": {
+                "hi": "बोला",
+                "en": "spoke",
+                "be": "বক্তৃতা",
+                "ka": "ಮಾತನಾಡಿದರು"
+            }
+        },
+        {
+            "sanskrit": "महीपते",
+            "transliteration": {
+                "hi": "महीपते",
+                "en": "mahīpate",
+                "be": "মহীপতে",
+                "ka": "ಮಹೀಪತೇ"
+            },
+            "meaning": {
+                "hi": "हे राजा!",
+                "en": "O king",
+                "be": "হে রাজা",
+                "ka": "ಓ ರಾಜನೇ"
             }
         }
     ],

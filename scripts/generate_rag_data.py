@@ -2,7 +2,7 @@ import os
 import json
 import argparse
 
-def process_file(filepath, out_base_dir):
+def process_file(filepath, out_base_dir, commentators_map):
     with open(filepath, 'r', encoding='utf-8') as f:
         try:
             data = json.load(f)
@@ -40,7 +40,6 @@ def process_file(filepath, out_base_dir):
         if slok:
             content.append(f"Slok:\n{slok}")
             
-
         # Word Meanings
         word_meanings = data.get('word_meanings', [])
         if word_meanings:
@@ -62,10 +61,14 @@ def process_file(filepath, out_base_dir):
         commentaries = []
         for key, value in data.items():
             if isinstance(value, dict) and 'author' in value and 'commentary' in value:
-                author = value['author']
+                author_name = value['author']
+                # Fetch localized name if available
+                if commentators_map and key in commentators_map and lang in commentators_map[key]:
+                    author_name = commentators_map[key][lang]
+                
                 comm = value['commentary'].get(lang)
                 if comm:
-                    commentaries.append(f"Commentary by {author}:\n{comm}")
+                    commentaries.append(f"Commentary by {author_name}:\n{comm}")
         
         if commentaries:
             content.append("\n\n".join(commentaries))
@@ -88,21 +91,37 @@ def main():
     parser.add_argument('--test', action='store_true', help='Run only for chapter 1 slok 1')
     parser.add_argument('--input_dir', type=str, default='api/slok', help='Input directory containing JSON files')
     parser.add_argument('--output_dir', type=str, default='rag/slok', help='Output base directory for text files')
+    parser.add_argument('--commentators_file', type=str, default='api/commentators/commentator-list.json', help='Path to commentator-list.json')
     
     args = parser.parse_args()
     
     input_dir = os.path.abspath(args.input_dir)
     output_dir = os.path.abspath(args.output_dir)
+    commentators_file = os.path.abspath(args.commentators_file)
     
     if not os.path.exists(input_dir):
         print(f"Error: Input directory {input_dir} does not exist.")
         return
 
+    # Load commentators map
+    commentators_map = {}
+    if os.path.exists(commentators_file):
+        with open(commentators_file, 'r', encoding='utf-8') as f:
+            try:
+                comm_list = json.load(f)
+                for item in comm_list:
+                    if 'key' in item and 'name' in item:
+                        commentators_map[item['key']] = item['name']
+            except json.JSONDecodeError:
+                print(f"Error reading JSON from {commentators_file}")
+    else:
+        print(f"Warning: Commentator file not found at {commentators_file}")
+
     if args.test:
         test_file = os.path.join(input_dir, 'bhagavadgita_chapter_1_slok_1.json')
         if os.path.exists(test_file):
             print(f"Running in test mode for: {test_file}")
-            process_file(test_file, output_dir)
+            process_file(test_file, output_dir, commentators_map)
             print(f"Test mode completed. Check output in {output_dir}")
         else:
             print(f"Error: Test file {test_file} not found.")
@@ -111,7 +130,7 @@ def main():
         for filename in os.listdir(input_dir):
             if filename.endswith('.json'):
                 filepath = os.path.join(input_dir, filename)
-                process_file(filepath, output_dir)
+                process_file(filepath, output_dir, commentators_map)
                 count += 1
         print(f"Completed processing {count} files. Check output in {output_dir}")
 

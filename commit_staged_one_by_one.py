@@ -13,7 +13,7 @@ def staged_files():
     return [f for f in out.splitlines() if f]
 
 
-BATCH_SIZE = 10
+BATCH_SIZE = 50
 
 
 def main():

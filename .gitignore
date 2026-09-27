@@ -7,3 +7,4 @@ embedding-pipeline/.venv
 __pycache__/
 rag/.embedding_cache.sqlite*
 rag/.venv
+.node_modules/
